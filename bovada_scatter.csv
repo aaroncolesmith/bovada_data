@@ -18,13 +18,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-15 09:02:53.937465,US Open - 2/3 Balls - 1st Round 3 Balls - A. Beckler / C. Naegel / L. Gannon - 1st Round 3 Balls,Chris Naegel,0.024399999999999977,0.5122,0.4878
 2022-06-15 13:03:01.812565,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Max Fried,0.0242,0.0909,0.0667
 2022-06-15 09:02:54.414733,Tournament Match-Ups - Parlays - Tournament Match-Up - J. Spieth v P. Cantlay - Tournament Match-Up,Patrick Cantlay,0.02169999999999994,0.5455,0.5238
+2022-06-15 09:02:54.449480,Tournament Match-Ups - Parlays - Tournament Match-Up - S. Burns v W. Zalatoris - Tournament Match-Up,Will Zalatoris,0.02169999999999994,0.5455,0.5238
 2022-06-15 09:02:54.493087,Tournament Match-Ups - Parlays - Tournament Match-Up - A. Scott v S. Munoz - Tournament Match-Up,Sebastian Munoz,0.02169999999999994,0.5455,0.5238
 2022-06-15 09:02:54.342096,Tournament Match-Ups - Parlays - Tournament Match-Up - C. Smith v X. Schauffele - Tournament Match-Up,Xander Schauffele,0.02169999999999994,0.5455,0.5238
-2022-06-15 09:02:54.449480,Tournament Match-Ups - Parlays - Tournament Match-Up - S. Burns v W. Zalatoris - Tournament Match-Up,Will Zalatoris,0.02169999999999994,0.5455,0.5238
 2022-06-15 08:03:03.409696,Boxing Lines - Abraham Nova vs Robeisy Ramirez - To Win the Bout,Abraham Nova,0.021100000000000008,0.2564,0.2353
 2022-06-15 11:02:42.430349,MLB Futures - MLB 2022 National League Central - NLC Winner,St. Louis Cardinals,0.020699999999999996,0.4651,0.4444
-2022-06-15 09:02:54.146333,US Open - 2/3 Balls - 1st Round 3 Balls - L. Oosthuizen / P. Mickelson / S. Lowry - 1st Round 3 Balls,Louis Oosthuizen,0.02030000000000004,0.3774,0.3571
 2022-06-15 10:02:52.540027,US Open - 2/3 Balls - 1st Round 3 Balls - R. Mansell / R. Sloan / T. Sugiyama - 1st Round 3 Balls,Roger Sloan,0.02030000000000004,0.3774,0.3571
+2022-06-15 09:02:54.146333,US Open - 2/3 Balls - 1st Round 3 Balls - L. Oosthuizen / P. Mickelson / S. Lowry - 1st Round 3 Balls,Louis Oosthuizen,0.02030000000000004,0.3774,0.3571
 2022-06-15 10:02:52.550972,US Open - 2/3 Balls - 1st Round 3 Balls - A. Beckler / C. Naegel / L. Gannon - 1st Round 3 Balls,Andrew Beckler,0.019000000000000017,0.2857,0.2667
 2022-06-15 04:03:01.467733,Boxing Lines - Hone Huni vs Thomas Wilkins - To Win the Bout,Hone Huni,0.018900000000000028,0.9804,0.9615
 2022-06-15 09:02:54.281681,US Open - 2/3 Balls - 1st Round 3 Balls - C. Reiter / I. Salinda / S. Jacklin - 1st Round 3 Balls,Isaiah Salinda,0.018900000000000028,0.4444,0.4255
@@ -32,6 +32,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-15 04:03:00.895713,NFL Specials - Will Deshaun Watson Play any Regular Seasson Games for the Cleveland Browns in the 2022-2023 Seaosn? - Proposition,Yes,0.018399999999999972,0.7059,0.6875
 2022-06-15 08:03:03.356746,Boxing Lines - Luke Boyd vs Shamal Ram Anuj - To Win the Bout,Luke Boyd,0.018100000000000005,0.9412,0.9231
 2022-06-15 09:02:55.190189,MLS - MLS Cup 2022 - Winner,Seattle Sounders,0.018099999999999998,0.0769,0.0588
+2022-06-15 15:02:44.384815,Liga ACB - Liga ACB 2021/2022 - Outright,Real Madrid BC,0.017299999999999982,0.5917,0.5744
 2022-06-15 06:02:55.396154,Boxing Lines - Hone Huni vs Thomas Wilkins - To Win the Bout,Thomas Wilkins,0.016600000000000004,0.0833,0.0667
 2022-06-15 06:02:55.465715,Boxing Lines - Abraham Nova vs Robeisy Ramirez - To Win the Bout,Robeisy Ramirez,0.015100000000000002,0.8333,0.8182
 2022-06-15 07:03:04.416220,Boxing Lines - Toese Vousiutu vs Marvin Feterika - To Win the Bout,Marvin Feterika,0.014299999999999993,0.1143,0.1
@@ -40,21 +41,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-15 11:02:41.997807,Boxing Lines - Justis Huni vs Joseph Goodall - To Win the Bout,Joseph Goodall,0.011899999999999994,0.25,0.2381
 2022-06-15 06:02:56.333040,MLB Futures - MLB 2022 Player Awards - National League MVP ,Paul Goldschmidt,0.011700000000000016,0.2222,0.2105
 2022-06-15 06:02:55.449580,Boxing Lines - Nathan Gorman vs Tomas Salek - To Win the Bout,Nathan Gorman,0.011199999999999988,0.9524,0.9412
+2022-06-15 05:03:03.706128,Boxing Lines - Artur Beterbiev vs Joe Smith Jr - To Win the Bout,Artur Beterbiev,0.011099999999999999,0.9,0.8889
 2022-06-15 09:02:55.200833,MLS - MLS Cup 2022 - Top Goalscorer,Jeremy Ebobisse,0.011099999999999999,0.1111,0.1
 2022-06-15 07:03:04.424805,Boxing Lines - Jack Gipp vs Francis Waitai - To Win the Bout,Jack Gipp,0.011099999999999999,0.9,0.8889
-2022-06-15 05:03:03.706128,Boxing Lines - Artur Beterbiev vs Joe Smith Jr - To Win the Bout,Artur Beterbiev,0.011099999999999999,0.9,0.8889
-2022-06-15 06:02:55.384158,Boxing Lines - Andrei Mikhailovich vs Ernest Amuzu - To Win the Bout,Ernest Amuzu,-0.0102,0.0667,0.0769
-2022-06-15 04:03:01.467733,Boxing Lines - Hone Huni vs Thomas Wilkins - To Win the Bout,Thomas Wilkins,-0.0102,0.0667,0.0769
-2022-06-15 13:03:01.812565,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Carlos Rodon,-0.0102,0.0667,0.0769
 2022-06-15 05:03:03.567147,Boxing Lines - Austin Aokuso vs Louis Marsters - To Win the Bout,Louis Marsters,-0.0102,0.0667,0.0769
+2022-06-15 06:02:55.384158,Boxing Lines - Andrei Mikhailovich vs Ernest Amuzu - To Win the Bout,Ernest Amuzu,-0.0102,0.0667,0.0769
+2022-06-15 13:03:01.812565,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Carlos Rodon,-0.0102,0.0667,0.0769
 2022-06-15 13:03:01.812565,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Pablo Lopez,-0.0102,0.0667,0.0769
+2022-06-15 04:03:01.467733,Boxing Lines - Hone Huni vs Thomas Wilkins - To Win the Bout,Thomas Wilkins,-0.0102,0.0667,0.0769
 2022-06-15 13:03:03.222108,Tournament Match-Ups - Tournament Match-Up - A. Wise v C. Young - Tournament Match-Up,Cameron Young,-0.010699999999999932,0.5348,0.5455
 2022-06-15 09:02:53.937465,US Open - 2/3 Balls - 1st Round 3 Balls - A. Beckler / C. Naegel / L. Gannon - 1st Round 3 Balls,Luke Gannon,-0.010699999999999987,0.3226,0.3333
 2022-06-15 11:02:42.392966,MLB Futures - MLB 2022 American League Central - ALC Winner,Cleveland Guardians,-0.010899999999999993,0.1429,0.1538
 2022-06-15 13:03:03.230754,Tournament Match-Ups - Tournament Match-Up - B. Horschel v C. Young - Tournament Match-Up,Cameron Young,-0.01100000000000001,0.5238,0.5348
 2022-06-15 10:02:52.540027,US Open - 2/3 Balls - 1st Round 3 Balls - R. Mansell / R. Sloan / T. Sugiyama - 1st Round 3 Balls,Tomoyaso Sugiyama,-0.011099999999999999,0.2667,0.2778
-2022-06-15 09:02:55.190189,MLS - MLS Cup 2022 - Winner,New York Red Bulls,-0.011199999999999995,0.0476,0.0588
 2022-06-15 09:02:55.190189,MLS - MLS Cup 2022 - Winner,LA Galaxy,-0.011199999999999995,0.0476,0.0588
+2022-06-15 09:02:55.190189,MLS - MLS Cup 2022 - Winner,New York Red Bulls,-0.011199999999999995,0.0476,0.0588
 2022-06-15 09:02:55.190189,MLS - MLS Cup 2022 - Winner,FC Dallas,-0.011199999999999995,0.0476,0.0588
 2022-06-15 09:02:55.190189,MLS - MLS Cup 2022 - Winner,CF Montréal,-0.011199999999999995,0.0476,0.0588
 2022-06-15 09:02:55.190189,MLS - MLS Cup 2022 - Winner,Austin FC,-0.011199999999999995,0.0476,0.0588
@@ -80,14 +81,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-15 09:02:54.269432,US Open - 2/3 Balls - 1st Round 3 Balls - B. Calkins / J. Mueller / R. Gerard - 1st Round 3 Balls,Brady Calkins,-0.021999999999999964,0.2857,0.3077
 2022-06-15 09:02:54.313010,Tournament Match-Ups - Parlays - Tournament Match-Up - B. Koepka v D. Johnson - Tournament Match-Up,Brooks Koepka,-0.022699999999999998,0.4651,0.4878
 2022-06-15 08:03:06.580560,FIFA World Cup Futures - Group A - Outright,Ecuador,-0.023799999999999988,0.1429,0.1667
-2022-06-15 09:02:54.414733,Tournament Match-Ups - Parlays - Tournament Match-Up - J. Spieth v P. Cantlay - Tournament Match-Up,Jordan Spieth,-0.023800000000000043,0.5,0.5238
 2022-06-15 09:02:54.342096,Tournament Match-Ups - Parlays - Tournament Match-Up - C. Smith v X. Schauffele - Tournament Match-Up,Cameron Smith,-0.023800000000000043,0.5,0.5238
 2022-06-15 09:02:54.449480,Tournament Match-Ups - Parlays - Tournament Match-Up - S. Burns v W. Zalatoris - Tournament Match-Up,Sam Burns,-0.023800000000000043,0.5,0.5238
 2022-06-15 09:02:54.493087,Tournament Match-Ups - Parlays - Tournament Match-Up - A. Scott v S. Munoz - Tournament Match-Up,Adam Scott,-0.023800000000000043,0.5,0.5238
+2022-06-15 09:02:54.414733,Tournament Match-Ups - Parlays - Tournament Match-Up - J. Spieth v P. Cantlay - Tournament Match-Up,Jordan Spieth,-0.023800000000000043,0.5,0.5238
 2022-06-15 09:02:54.024844,US Open - 2/3 Balls - 1st Round 3 Balls - C. Tringale / S. Horsfield / S. Norris - 1st Round 3 Balls,Shaun Norris,-0.02560000000000001,0.3077,0.3333
-2022-06-15 11:02:42.455093,MLB Futures - MLB 2022 National League West - NLW Winner,San Francisco Giants,-0.027999999999999997,0.1053,0.1333
 2022-06-15 08:03:03.356746,Boxing Lines - Luke Boyd vs Shamal Ram Anuj - To Win the Bout,Shamal Ram Anuj,-0.027999999999999997,0.1053,0.1333
+2022-06-15 11:02:42.455093,MLB Futures - MLB 2022 National League West - NLW Winner,San Francisco Giants,-0.027999999999999997,0.1053,0.1333
 2022-06-15 06:02:55.407651,Boxing Lines - Luke Boyd vs Shamal Ram Anuj - To Win the Bout,Luke Boyd,-0.029299999999999993,0.9231,0.9524
+2022-06-15 15:02:44.384815,Liga ACB - Liga ACB 2021/2022 - Outright,Barcelona,-0.033299999999999996,0.4545,0.4878
 2022-06-15 09:02:54.366718,Tournament Match-Ups - Parlays - Tournament Match-Up - H. Matsuyama v M. Homa - Tournament Match-Up,Max Homa,-0.03600000000000003,0.4878,0.5238
 2022-06-15 10:02:52.584224,US Open - 2/3 Balls - 1st Round 3 Balls - J. Morgan / S. Crocker / T. Montgomery - 1st Round 3 Balls,Jediah Morgan,-0.03749999999999998,0.2222,0.2597
 2022-06-15 08:03:06.580560,FIFA World Cup Futures - Group A - Outright,Senegal,-0.04040000000000002,0.1818,0.2222
