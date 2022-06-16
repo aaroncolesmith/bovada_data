@@ -1,10 +1,12 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-15 23:02:50.619167,NBA Specials - NBA 2022 Number 2 Overall Pick - Proposition,Jabari Smith,0.10050000000000003,0.4082,0.3077
+2022-06-16 07:02:56.470710,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Los Angeles Dodgers,0.0849,0.2667,0.1818
 2022-06-15 22:02:37.408874,Professional Baseball - NPB 2022 - Outright,Tokyo Yakult Swallows,0.0635,0.2857,0.2222
 2022-06-15 23:02:50.587779,NBA Specials - What Will Draymond Green Have more of in the 2022 NBA Finals? - Proposition,Points,0.06299999999999994,0.7059,0.6429
 2022-06-15 19:03:10.397912,"Stranger Things Specials - Characters to Appear in Stranger Things Season 4 - Characters to Appear in Stranger Things Season 4, Volume 2",Barb Hollaand,0.05550000000000002,0.2222,0.1667
 2022-06-16 01:02:48.900985,Tournament Match-Ups - Parlays - Tournament Match-Up - C. Smith v X. Schauffele - Tournament Match-Up,Xander Schauffele,0.05449999999999999,0.6,0.5455
 2022-06-15 19:03:11.237176,MLB Specials - Next Manager to Permanently Leave Post - Proposition,Tony LaRussa,0.044399999999999995,0.4444,0.4
+2022-06-16 07:02:56.487664,MLB Futures - MLB 2022 National League - NL Winner,Los Angeles Dodgers,0.041800000000000004,0.3448,0.303
 2022-06-16 06:02:52.733117,James Bond Specials - Who will be cast as the next James Bond after Daniel Craig? - Outright,Idris Elba,0.04099999999999998,0.3077,0.2667
 2022-06-16 01:02:48.966844,Tournament Match-Ups - Parlays - Tournament Match-Up - J. Spieth v P. Cantlay - Tournament Match-Up,Patrick Cantlay,0.037800000000000056,0.5833,0.5455
 2022-06-16 02:02:42.805696,2022 Gubernatorial Elections - Michigan - Michigan winner,Democrats,0.03710000000000002,0.6923,0.6552
@@ -27,6 +29,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-16 02:02:43.669112,NFL Futures - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Arizona Cardinals,0.019099999999999992,0.0667,0.0476
 2022-06-16 01:02:46.785851,NFL Futures - 2022/2023 Division Winner - AFC North - AFC North Winner,Cincinnati Bengals,0.018799999999999983,0.3636,0.3448
 2022-06-15 19:03:11.078879,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,St. Louis Cardinals,0.015300000000000001,0.0476,0.0323
+2022-06-16 07:02:56.470710,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,New York Yankees,0.015100000000000002,0.1818,0.1667
 2022-06-15 20:02:36.764318,Boxing Lines - Dereck Chisora vs Kubrat Pulev - To Win the Bout,Kubrat Pulev,0.014900000000000024,0.6923,0.6774
 2022-06-15 19:03:11.078879,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,San Diego Padres,0.013999999999999999,0.0909,0.0769
 2022-06-16 01:02:46.792436,NFL Futures - 2022/2023 Division Winner - AFC South - AFC South Winner,Indianapolis Colts,0.011600000000000055,0.5238,0.5122
@@ -37,10 +40,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-15 23:02:50.619167,NBA Specials - NBA 2022 Number 2 Overall Pick - Proposition,Paolo Banchero,0.010499999999999982,0.2105,0.2
 2022-06-16 02:02:42.799032,2022 Gubernatorial Elections - Maryland - Maryland winner,Republicans,-0.010499999999999982,0.2,0.2105
 2022-06-15 19:03:11.237176,MLB Specials - Next Manager to Permanently Leave Post - Proposition,Dave Martinez,-0.010899999999999993,0.1429,0.1538
-2022-06-16 03:02:47.032502,Boxing Lines - Chloe Watson vs Fara El Bousairi - To Win the Bout,Fara El Bousairi,-0.011099999999999999,0.2667,0.2778
 2022-06-16 03:02:47.046261,Boxing Lines - Nathan Gorman vs Tomas Salek - To Win the Bout,Tomas Salek,-0.011099999999999999,0.1,0.1111
+2022-06-16 03:02:47.032502,Boxing Lines - Chloe Watson vs Fara El Bousairi - To Win the Bout,Fara El Bousairi,-0.011099999999999999,0.2667,0.2778
 2022-06-15 20:02:36.256130,Tournament Match-Ups - Tournament Match-Up - B. Horschel v C. Young - Tournament Match-Up,Billy Horschel,-0.011600000000000055,0.5122,0.5238
+2022-06-16 07:02:56.487664,MLB Futures - MLB 2022 National League - NL Winner,New York Mets,-0.011700000000000016,0.2105,0.2222
 2022-06-16 02:02:43.687892,CFL Season Props - 2022 - Regular Season Wins - Toronto Argonauts - Proposition,Under 9.5,-0.012199999999999989,0.5,0.5122
+2022-06-16 07:02:56.470710,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,St. Louis Cardinals,-0.0131,0.0345,0.0476
+2022-06-16 07:02:56.487664,MLB Futures - MLB 2022 National League - NL Winner,St. Louis Cardinals,-0.013999999999999999,0.0769,0.0909
 2022-06-15 20:02:36.764318,Boxing Lines - Dereck Chisora vs Kubrat Pulev - To Win the Bout,Dereck Chisora,-0.01419999999999999,0.3704,0.3846
 2022-06-16 06:02:52.733117,James Bond Specials - Who will be cast as the next James Bond after Daniel Craig? - Outright,Rege-Jean Page,-0.015100000000000002,0.1667,0.1818
 2022-06-16 06:02:52.733117,James Bond Specials - Who will be cast as the next James Bond after Daniel Craig? - Outright,James Norton,-0.015300000000000001,0.0435,0.0588
@@ -50,13 +56,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-16 05:02:39.886183,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Spencer Torkelson,-0.018200000000000004,0.0294,0.0476
 2022-06-15 19:03:10.359111,Stranger Things Specials - Characters to Die in Season 4 of Stranger Things? - Proposition,Jonathan,-0.01820000000000002,0.1818,0.2
 2022-06-16 01:02:46.777647,NFL Futures - 2022/2023 Division Winner - AFC East - AFC East Winner,New England Patriots,-0.01820000000000002,0.1818,0.2
+2022-06-16 07:02:56.470710,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Minnesota Twins,-0.019800000000000005,0.0278,0.0476
 2022-06-16 03:02:47.070951,Boxing Lines - Abraham Nova vs Robeisy Ramirez - To Win the Bout,Abraham Nova,-0.021100000000000008,0.2353,0.2564
 2022-06-15 20:02:36.203066,Tournament Match-Ups - Tournament Match-Up - S. Lowry v T. Finau - Tournament Match-Up ,Tony Finau,-0.02169999999999994,0.5238,0.5455
 2022-06-16 05:02:39.886183,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Adley Rutschman,-0.0225,0.04,0.0625
 2022-06-16 01:02:48.868702,Tournament Match-Ups - Parlays - Tournament Match-Up - B. Horschel v D. Berger - Tournament Match-Up,Billy Horschel,-0.023799999999999988,0.4762,0.5
 2022-06-16 01:02:48.146027,Round Match-Ups - Parlays - 1st Round Match-Up - S.W. Kim v S. Straka - 1st Round Match-Up,Sepp Straka,-0.023799999999999988,0.4762,0.5
 2022-06-16 01:02:48.707464,Tournament Match-Ups - Tournament Match-Up - P. Rodgers v S. Straka - Tournament Match-Up,Sepp Straka,-0.023800000000000043,0.5,0.5238
+2022-06-16 07:02:56.470710,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Tampa Bay Rays,-0.024,0.0385,0.0625
+2022-06-16 07:02:56.487664,MLB Futures - MLB 2022 National League - NL Winner,San Francisco Giants,-0.0242,0.0667,0.0909
+2022-06-16 07:02:56.470710,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,San Diego Padres,-0.0242,0.0667,0.0909
+2022-06-16 07:02:56.487664,MLB Futures - MLB 2022 National League - NL Winner,Atlanta Braves,-0.025300000000000003,0.1176,0.1429
 2022-06-16 01:02:48.966844,Tournament Match-Ups - Parlays - Tournament Match-Up - J. Spieth v P. Cantlay - Tournament Match-Up,Jordan Spieth,-0.03489999999999999,0.4651,0.5
+2022-06-16 07:02:56.519207,MLB Futures - MLB 2022 National League Central - NLC Winner,St. Louis Cardinals,-0.03489999999999999,0.4651,0.5
 2022-06-16 02:02:42.805696,2022 Gubernatorial Elections - Michigan - Michigan winner,Republicans,-0.03640000000000004,0.3636,0.4
 2022-06-15 19:03:10.789986,NBA Specials - What Will Draymond Green Have more of in the 2022 NBA Finals? - Proposition,Personal Fouls,-0.0378,0.4167,0.4545
 2022-06-16 05:02:39.886183,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Joe Ryan,-0.038299999999999994,0.0526,0.0909
