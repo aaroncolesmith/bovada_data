@@ -1,10 +1,11 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-18 01:03:11.323909,Meijer LPGA Classic - Meijer Classic - Outright,Jennifer Kupcho,0.18510000000000001,0.2,0.0149
 2022-06-18 01:03:11.323909,Meijer LPGA Classic - Meijer Classic - Outright,Nelly Korda,0.1466,0.2299,0.0833
+2022-06-18 11:02:39.771711,Stranger Things Specials - Characters to Die in Season 4 of Stranger Things? - Proposition,Dustin,0.11900000000000002,0.2857,0.1667
 2022-06-18 07:03:18.120754,US Open - 2/3 Balls - 3rd Round 2 Balls - R. Bland v T. Sinnott - 3rd Round 2 Balls,Todd Sinnott,0.067,0.4444,0.3774
 2022-06-18 01:03:11.323909,Meijer LPGA Classic - Meijer Classic - Outright,Carlota Ciganda,0.06459999999999999,0.0769,0.0123
-2022-06-18 01:03:11.323909,Meijer LPGA Classic - Meijer Classic - Outright,Brooke Henderson,0.0588,0.1176,0.0588
 2022-06-18 01:03:11.323909,Meijer LPGA Classic - Meijer Classic - Outright,Lexi Thompson,0.0588,0.1176,0.0588
+2022-06-18 01:03:11.323909,Meijer LPGA Classic - Meijer Classic - Outright,Brooke Henderson,0.0588,0.1176,0.0588
 2022-06-18 07:03:18.093972,US Open - 2/3 Balls - 3rd Round 2 Balls - C. Gotterup v C. Naegel - 3rd Round 2 Balls,Chris Naegel,0.05070000000000002,0.4762,0.4255
 2022-06-18 07:03:18.114063,US Open - 2/3 Balls - 3rd Round 2 Balls - J. Spieth v W. Besseling - 3rd Round 2 Balls,Jordan Spieth,0.04760000000000009,0.7143,0.6667
 2022-06-18 01:03:11.323909,Meijer LPGA Classic - Meijer Classic - Outright,Madelene Sagstrom,0.04229999999999999,0.0667,0.0244
@@ -14,29 +15,33 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-18 07:03:18.134827,US Open - 2/3 Balls - 3rd Round 2 Balls - G. Woodland v A. Greaser - 3rd Round 2 Balls,Austin Greaser,0.030299999999999994,0.3636,0.3333
 2022-06-18 07:03:17.826295,MLB Futures - MLB 2022 National League - NL Winner,Los Angeles Dodgers,0.030299999999999994,0.3333,0.303
 2022-06-18 01:03:11.323909,Meijer LPGA Classic - Meijer Classic - Outright,Anna Nordqvist,0.0282,0.0526,0.0244
-2022-06-18 07:03:18.060609,US Open - 2/3 Balls - 3rd Round 2 Balls - J. Bramlett v S. Hagestad - 3rd Round 2 Balls,Stewart Hagestad,0.025499999999999967,0.4255,0.4
 2022-06-18 07:03:18.067445,US Open - 2/3 Balls - 3rd Round 2 Balls - P. Cantlay v S. Munoz - 3rd Round 2 Balls,Sebastian Munoz,0.025499999999999967,0.4255,0.4
+2022-06-18 07:03:18.060609,US Open - 2/3 Balls - 3rd Round 2 Balls - J. Bramlett v S. Hagestad - 3rd Round 2 Balls,Stewart Hagestad,0.025499999999999967,0.4255,0.4
 2022-06-18 07:03:18.370472,Round Match-Ups - Parlays - 3rd Round Match-Up - C. Morikawa vs M. Fitzpatrick - 3rd Round Match-Up,Matthew Fitzpatrick,0.023800000000000043,0.5238,0.5
 2022-06-18 01:03:11.323909,Meijer LPGA Classic - Meijer Classic - Outright,Caroline Masson,0.0228,0.0294,0.0066
 2022-06-18 07:03:18.182495,US Open - 2/3 Balls - 3rd Round 2 Balls - A. Putnam v B. Matthews - 3rd Round 2 Balls,Brandon Matthews,0.022699999999999998,0.4878,0.4651
 2022-06-18 07:03:18.227318,US Open - 2/3 Balls - 3rd Round 2 Balls - A. Hadwin v M.J. Daffue - 3rd Round 2 Balls,Adam Hadwin,0.022600000000000064,0.6226,0.6
 2022-06-18 07:03:18.141553,US Open - 2/3 Balls - 3rd Round 2 Balls - C. Tringale v M. Hughes - 3rd Round 2 Balls,Mackenzie Hughes,0.02169999999999994,0.5455,0.5238
 2022-06-18 06:02:36.272787,US Open - 2/3 Balls - 3rd Round 2 Balls - D. Johnson v J. Rose - 3rd Round 2 Balls,Justin Rose,0.020699999999999996,0.4651,0.4444
-2022-06-18 07:03:18.080654,US Open - 2/3 Balls - 3rd Round 2 Balls - K.H. Lee v S. Stevens - 3rd Round 2 Balls,Sam Stevens,0.020699999999999996,0.4651,0.4444
 2022-06-18 07:03:18.107185,US Open - 2/3 Balls - 3rd Round 2 Balls - M. Homa v A. Scott - 3rd Round 2 Balls,Adam Scott,0.020699999999999996,0.4651,0.4444
-2022-06-18 06:02:36.212174,US Open - 2/3 Balls - 3rd Round 2 Balls - G. Migliozzi v G. Murray - 3rd Round 2 Balls,Grayson Murray,0.01970000000000005,0.5652,0.5455
+2022-06-18 07:03:18.080654,US Open - 2/3 Balls - 3rd Round 2 Balls - K.H. Lee v S. Stevens - 3rd Round 2 Balls,Sam Stevens,0.020699999999999996,0.4651,0.4444
 2022-06-18 08:02:56.487807,Round Match-Ups - Parlays - 3rd Round Match-Up - S. Scheffler vs X. Schauffele - 3rd Round Match-Up,Scottie Scheffler,0.01970000000000005,0.5652,0.5455
+2022-06-18 06:02:36.212174,US Open - 2/3 Balls - 3rd Round 2 Balls - G. Migliozzi v G. Murray - 3rd Round 2 Balls,Grayson Murray,0.01970000000000005,0.5652,0.5455
 2022-06-18 06:02:36.198878,US Open - 2/3 Balls - 3rd Round 2 Balls - T. Hatton v M.W. Lee - 3rd Round 2 Balls,Min Woo Lee,0.018900000000000028,0.4444,0.4255
 2022-06-18 07:03:18.240702,US Open - 2/3 Balls - 3rd Round 2 Balls - B. Harman v P. Rodgers - 3rd Round 2 Balls,Brian Harman,0.018100000000000005,0.5833,0.5652
 2022-06-18 09:03:39.786868,England Premier League - English Premier League 2022/23 - Winner,Tottenham Hotspur,0.018099999999999998,0.0769,0.0588
+2022-06-18 11:02:40.291873,Boxing Lines - Wendy Toussaint vs Asinia Byfield - To Win the Bout,Asinia Byfield,0.0179,0.1429,0.125
+2022-06-18 11:02:40.918862,US Open - Round Scores - 3rd Round Score - Rory McIlroy - 3rd Round Score,Over 68.5,0.01759999999999995,0.6667,0.6491
 2022-06-18 05:02:56.672832,Boxing Lines - Jack Bateson vs Diego Alberto Ruiz - To Win the Bout,Jack Bateson,0.016700000000000048,0.75,0.7333
 2022-06-18 06:02:36.340495,US Open - 2/3 Balls - 3rd Round 2 Balls - A. Hadwin v M.J. Daffue - 3rd Round 2 Balls,Adam Hadwin,0.016699999999999937,0.6,0.5833
+2022-06-18 11:02:40.246539,Boxing Lines - Jack Bateson vs Diego Alberto Ruiz - To Win the Bout,Jack Bateson,0.014700000000000046,0.7647,0.75
 2022-06-18 07:03:17.826295,MLB Futures - MLB 2022 National League - NL Winner,St. Louis Cardinals,0.013999999999999999,0.0909,0.0769
 2022-06-18 07:03:18.274242,US Open - 2/3 Balls - 3rd Round 2 Balls - C. Morikawa v J. Dahmen - 3rd Round 2 Balls,Collin Morikawa,0.013799999999999923,0.6364,0.6226
 2022-06-18 06:02:36.259286,US Open - 2/3 Balls - 3rd Round 2 Balls - J. Niemann v M. Leishman - 3rd Round 2 Balls,Joaquin Niemann,0.013799999999999923,0.6364,0.6226
 2022-06-18 09:03:36.179743,NFL Futures - 2022/2023 Division Winner - AFC North - AFC North Winner,Cincinnati Bengals,0.013300000000000034,0.3704,0.3571
 2022-06-18 09:03:36.965215,Boxing Lines - Abraham Nova vs Robeisy Ramirez - To Win the Bout,Abraham Nova,0.0131,0.2353,0.2222
 2022-06-18 08:02:55.082750,Boxing Lines - Abraham Nova vs Robeisy Ramirez - To Win the Bout,Robeisy Ramirez,0.012899999999999912,0.8462,0.8333
+2022-06-18 11:02:40.933704,US Open - Round Scores - 3rd Round Score - Jon Rahm - 3rd Round Score,Over 68.5,0.012700000000000045,0.6491,0.6364
 2022-06-18 07:03:17.826295,MLB Futures - MLB 2022 National League - NL Winner,Philadelphia Phillies,0.011199999999999995,0.0588,0.0476
 2022-06-18 06:02:36.333963,US Open - 2/3 Balls - 3rd Round 2 Balls - C. Tarren v T. Vick - 3rd Round 2 Balls,Callum Tarren,0.010699999999999932,0.5455,0.5348
 2022-06-18 09:03:40.187017,England Premier League - English Premier League 2022/23 - Top London Team,Tottenham Hotspur,0.010599999999999998,0.4651,0.4545
@@ -44,8 +49,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-18 01:03:11.323909,Meijer LPGA Classic - Meijer Classic - Outright,Gerina Mendoza,0.0103,0.0123,0.002
 2022-06-18 07:03:18.220712,US Open - 2/3 Balls - 3rd Round 2 Balls - C. Tarren v T. Vick - 3rd Round 2 Balls,Callum Tarren,0.010099999999999998,0.5556,0.5455
 2022-06-18 01:03:11.323909,Meijer LPGA Classic - Meijer Classic - Outright,Pajaree Anannarukarn,-0.011,0.0013,0.0123
-2022-06-18 09:03:40.187017,England Premier League - English Premier League 2022/23 - Top London Team,Chelsea,-0.011099999999999999,0.4651,0.4762
 2022-06-18 07:03:18.240702,US Open - 2/3 Balls - 3rd Round 2 Balls - B. Harman v P. Rodgers - 3rd Round 2 Balls,Patrick Rodgers,-0.011099999999999999,0.4651,0.4762
+2022-06-18 09:03:40.187017,England Premier League - English Premier League 2022/23 - Top London Team,Chelsea,-0.011099999999999999,0.4651,0.4762
 2022-06-18 07:03:17.811150,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,San Francisco,-0.011199999999999995,0.0323,0.0435
 2022-06-18 07:03:17.826295,MLB Futures - MLB 2022 National League - NL Winner,New York Mets,-0.011700000000000016,0.2105,0.2222
 2022-06-18 01:03:11.323909,Meijer LPGA Classic - Meijer Classic - Outright,Eun Hee Ji,-0.0118,0.0005,0.0123
@@ -58,12 +63,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-18 07:03:17.811150,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Toronto Blue Jays,-0.01440000000000001,0.0909,0.1053
 2022-06-18 09:03:36.179743,NFL Futures - 2022/2023 Division Winner - AFC North - AFC North Winner,Cleveland Browns,-0.01469999999999999,0.2353,0.25
 2022-06-18 07:03:17.818800,MLB Futures - MLB 2022 Amercian League - AL Winner,Toronto Blue Jays,-0.015100000000000002,0.1667,0.1818
+2022-06-18 11:02:40.291873,Boxing Lines - Wendy Toussaint vs Asinia Byfield - To Win the Bout,Wendy Toussaint,-0.01660000000000006,0.9167,0.9333
 2022-06-18 06:02:36.272787,US Open - 2/3 Balls - 3rd Round 2 Balls - D. Johnson v J. Rose - 3rd Round 2 Balls,Dustin Johnson,-0.016699999999999937,0.5833,0.6
 2022-06-18 07:03:18.107185,US Open - 2/3 Balls - 3rd Round 2 Balls - M. Homa v A. Scott - 3rd Round 2 Balls,Max Homa,-0.016699999999999937,0.5833,0.6
 2022-06-18 07:03:18.080654,US Open - 2/3 Balls - 3rd Round 2 Balls - K.H. Lee v S. Stevens - 3rd Round 2 Balls,Kyoung-Hoon Lee,-0.016699999999999937,0.5833,0.6
+2022-06-18 11:02:40.918862,US Open - Round Scores - 3rd Round Score - Rory McIlroy - 3rd Round Score,Under 68.5,-0.016699999999999993,0.4,0.4167
 2022-06-18 01:03:11.323909,Meijer LPGA Classic - Meijer Classic - Outright,Hannah Green,-0.017099999999999997,0.0123,0.0294
-2022-06-18 06:02:36.259286,US Open - 2/3 Balls - 3rd Round 2 Balls - J. Niemann v M. Leishman - 3rd Round 2 Balls,Marc Leishman,-0.017299999999999982,0.4082,0.4255
 2022-06-18 07:03:18.274242,US Open - 2/3 Balls - 3rd Round 2 Balls - C. Morikawa v J. Dahmen - 3rd Round 2 Balls,Joel Dahmen,-0.017299999999999982,0.4082,0.4255
+2022-06-18 06:02:36.259286,US Open - 2/3 Balls - 3rd Round 2 Balls - J. Niemann v M. Leishman - 3rd Round 2 Balls,Marc Leishman,-0.017299999999999982,0.4082,0.4255
 2022-06-18 01:03:11.323909,Meijer LPGA Classic - Meijer Classic - Outright,In Gee Chun,-0.0177,0.004,0.0217
 2022-06-18 01:03:11.323909,Meijer LPGA Classic - Meijer Classic - Outright,Jodi Ewart Shadoff,-0.0186,0.001,0.0196
 2022-06-18 07:03:18.227318,US Open - 2/3 Balls - 3rd Round 2 Balls - A. Hadwin v M.J. Daffue - 3rd Round 2 Balls,MJ Daffue,-0.018900000000000028,0.4255,0.4444
@@ -73,6 +80,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-18 07:03:18.370472,Round Match-Ups - Parlays - 3rd Round Match-Up - C. Morikawa vs M. Fitzpatrick - 3rd Round Match-Up,Collin Morikawa,-0.02169999999999994,0.5238,0.5455
 2022-06-18 01:03:11.323909,Meijer LPGA Classic - Meijer Classic - Outright,Celine Boutier,-0.022200000000000004,0.0123,0.0345
 2022-06-18 06:02:36.198878,US Open - 2/3 Balls - 3rd Round 2 Balls - T. Hatton v M.W. Lee - 3rd Round 2 Balls,Tyrrell Hatton,-0.022600000000000064,0.6,0.6226
+2022-06-18 11:02:39.771711,Stranger Things Specials - Characters to Die in Season 4 of Stranger Things? - Proposition,Hopper,-0.023799999999999988,0.1429,0.1667
 2022-06-18 06:02:36.212174,US Open - 2/3 Balls - 3rd Round 2 Balls - G. Migliozzi v G. Murray - 3rd Round 2 Balls,Guido Migliozzi,-0.023799999999999988,0.4762,0.5
 2022-06-18 08:02:56.487807,Round Match-Ups - Parlays - 3rd Round Match-Up - S. Scheffler vs X. Schauffele - 3rd Round Match-Up,Xander Schauffele,-0.023799999999999988,0.4762,0.5
 2022-06-18 07:03:18.141553,US Open - 2/3 Balls - 3rd Round 2 Balls - C. Tringale v M. Hughes - 3rd Round 2 Balls,Cameron Tringale,-0.023800000000000043,0.5,0.5238
@@ -80,6 +88,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-18 07:03:18.060609,US Open - 2/3 Balls - 3rd Round 2 Balls - J. Bramlett v S. Hagestad - 3rd Round 2 Balls,Joseph Bramlett,-0.026499999999999968,0.6226,0.6491
 2022-06-18 07:03:18.067445,US Open - 2/3 Balls - 3rd Round 2 Balls - P. Cantlay v S. Munoz - 3rd Round 2 Balls,Patrick Cantlay,-0.026499999999999968,0.6226,0.6491
 2022-06-18 07:03:18.182495,US Open - 2/3 Balls - 3rd Round 2 Balls - A. Putnam v B. Matthews - 3rd Round 2 Balls,Andrew Putnam,-0.027700000000000058,0.5556,0.5833
+2022-06-18 11:02:39.771711,Stranger Things Specials - Characters to Die in Season 4 of Stranger Things? - Proposition,Joyce,-0.028399999999999995,0.0625,0.0909
 2022-06-18 01:03:11.323909,Meijer LPGA Classic - Meijer Classic - Outright,Hyo Joo Kim,-0.028399999999999998,0.001,0.0294
 2022-06-18 07:03:18.074119,US Open - 2/3 Balls - 3rd Round 2 Balls - D. McCarthy v S. Bennett - 3rd Round 2 Balls,Denny McCarthy,-0.030299999999999994,0.6364,0.6667
 2022-06-18 07:03:18.127479,US Open - 2/3 Balls - 3rd Round 2 Balls - B. DeChambeau v H. English - 3rd Round 2 Balls,Harris English,-0.035999999999999976,0.4762,0.5122
@@ -91,3 +100,4 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-18 01:03:11.323909,Meijer LPGA Classic - Meijer Classic - Outright,Lydia Ko,-0.052399999999999995,0.0385,0.0909
 2022-06-18 07:03:18.093972,US Open - 2/3 Balls - 3rd Round 2 Balls - C. Gotterup v C. Naegel - 3rd Round 2 Balls,Chris Gotterup,-0.05740000000000001,0.5652,0.6226
 2022-06-18 07:03:18.120754,US Open - 2/3 Balls - 3rd Round 2 Balls - R. Bland v T. Sinnott - 3rd Round 2 Balls,Richard Bland,-0.06669999999999998,0.6,0.6667
+2022-06-18 11:02:39.771711,Stranger Things Specials - Characters to Die in Season 4 of Stranger Things? - Proposition,Eleven,-0.23330000000000004,0.1667,0.4
