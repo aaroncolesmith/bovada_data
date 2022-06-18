@@ -12,10 +12,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-18 14:03:00.611690,US Open - 2/3 Balls - 3rd Round 2 Balls - K.H. Lee v S. Stevens - 3rd Round 2 Balls,Kyoung-Hoon Lee,0.024499999999999966,0.6078,0.5833
 2022-06-18 20:02:19.491479,Boxing Lines - Abraham Nova vs Robeisy Ramirez - To Win the Bout,Abraham Nova,0.024399999999999977,0.2597,0.2353
 2022-06-18 13:03:13.437797,Round Match-Ups - Parlays - 3rd Round Match-Up - M.J. Daffue vs H. Buckley - 3rd Round Match-Up,Matthys Daffue,0.02079999999999993,0.5556,0.5348
-2022-06-18 08:02:56.487807,Round Match-Ups - Parlays - 3rd Round Match-Up - S. Scheffler vs X. Schauffele - 3rd Round Match-Up,Scottie Scheffler,0.01970000000000005,0.5652,0.5455
 2022-06-18 13:03:12.849939,US Open - 2/3 Balls - 3rd Round 2 Balls - C. Tringale v M. Hughes - 3rd Round 2 Balls,Mackenzie Hughes,0.01970000000000005,0.5652,0.5455
-2022-06-18 14:03:00.857255,US Open - 2/3 Balls - 3rd Round 2 Balls - C. Morikawa v J. Dahmen - 3rd Round 2 Balls,Collin Morikawa,0.01880000000000004,0.6552,0.6364
 2022-06-18 13:03:12.666411,US Open - 2/3 Balls - 3rd Round 2 Balls - D. McCarthy v S. Bennett - 3rd Round 2 Balls,Denny McCarthy,0.01880000000000004,0.6552,0.6364
+2022-06-18 14:03:00.857255,US Open - 2/3 Balls - 3rd Round 2 Balls - C. Morikawa v J. Dahmen - 3rd Round 2 Balls,Collin Morikawa,0.01880000000000004,0.6552,0.6364
 2022-06-18 13:03:16.401976,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Internacional,0.018200000000000004,0.0476,0.0294
 2022-06-18 13:03:13.646107,US Open - Round Scores - 3rd Round Score - Xander Schauffele - 3rd Round Score,Over 70.5,0.018100000000000005,0.5833,0.5652
 2022-06-18 09:03:39.786868,England Premier League - English Premier League 2022/23 - Winner,Tottenham Hotspur,0.018099999999999998,0.0769,0.0588
@@ -28,7 +27,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-18 11:02:40.246539,Boxing Lines - Jack Bateson vs Diego Alberto Ruiz - To Win the Bout,Jack Bateson,0.014700000000000046,0.7647,0.75
 2022-06-18 09:03:36.179743,NFL Futures - 2022/2023 Division Winner - AFC North - AFC North Winner,Cincinnati Bengals,0.013300000000000034,0.3704,0.3571
 2022-06-18 09:03:36.965215,Boxing Lines - Abraham Nova vs Robeisy Ramirez - To Win the Bout,Abraham Nova,0.0131,0.2353,0.2222
-2022-06-18 08:02:55.082750,Boxing Lines - Abraham Nova vs Robeisy Ramirez - To Win the Bout,Robeisy Ramirez,0.012899999999999912,0.8462,0.8333
 2022-06-18 11:02:40.933704,US Open - Round Scores - 3rd Round Score - Jon Rahm - 3rd Round Score,Over 68.5,0.012700000000000045,0.6491,0.6364
 2022-06-18 15:02:52.065981,US Open - 2/3 Balls - 3rd Round 2 Balls - M. Homa v A. Scott - 3rd Round 2 Balls,Adam Scott,0.011099999999999999,0.4762,0.4651
 2022-06-18 13:03:16.969503,FIFA World Cup Futures - FIFA World Cup 2022 - Outright,Argentina,0.011099999999999999,0.1111,0.1
@@ -44,6 +42,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-18 14:03:00.183194,NBA Specials - Where will DeAndre Ayton play next season? - DeAndre Ayton Next Franchise?,Portland Trail Blazers,-0.013999999999999999,0.0769,0.0909
 2022-06-18 13:03:12.313382,NBA Futures - 2022-2023 NBA Championship Winner - 2022-2023 NBA Championship Winner,Dallas Mavericks,-0.014399999999999996,0.0625,0.0769
 2022-06-18 09:03:36.179743,NFL Futures - 2022/2023 Division Winner - AFC North - AFC North Winner,Cleveland Browns,-0.01469999999999999,0.2353,0.25
+2022-06-18 21:02:12.655999,Boxing Lines - Artur Beterbiev vs Joe Smith Jr - To Win the Bout,Joe Smith Jr,-0.016600000000000004,0.1739,0.1905
 2022-06-18 11:02:40.291873,Boxing Lines - Wendy Toussaint vs Asinia Byfield - To Win the Bout,Wendy Toussaint,-0.01660000000000006,0.9167,0.9333
 2022-06-18 11:02:40.918862,US Open - Round Scores - 3rd Round Score - Rory McIlroy - 3rd Round Score,Under 68.5,-0.016699999999999993,0.4,0.4167
 2022-06-18 15:02:52.065981,US Open - 2/3 Balls - 3rd Round 2 Balls - M. Homa v A. Scott - 3rd Round 2 Balls,Max Homa,-0.018100000000000005,0.5652,0.5833
@@ -51,11 +50,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-18 14:03:00.611690,US Open - 2/3 Balls - 3rd Round 2 Balls - K.H. Lee v S. Stevens - 3rd Round 2 Balls,Sam Stevens,-0.020699999999999996,0.4444,0.4651
 2022-06-18 13:03:11.738696,Boxing Lines - Wendy Toussaint vs Asinia Byfield - To Win the Bout,Asinia Byfield,-0.021699999999999997,0.1212,0.1429
 2022-06-18 14:03:00.183194,NBA Specials - Where will DeAndre Ayton play next season? - DeAndre Ayton Next Franchise?,Detroit Pistons,-0.021999999999999964,0.2857,0.3077
-2022-06-18 14:03:00.857255,US Open - 2/3 Balls - 3rd Round 2 Balls - C. Morikawa v J. Dahmen - 3rd Round 2 Balls,Joel Dahmen,-0.02360000000000001,0.3846,0.4082
 2022-06-18 13:03:12.666411,US Open - 2/3 Balls - 3rd Round 2 Balls - D. McCarthy v S. Bennett - 3rd Round 2 Balls,Sam Bennett,-0.02360000000000001,0.3846,0.4082
-2022-06-18 13:03:12.849939,US Open - 2/3 Balls - 3rd Round 2 Balls - C. Tringale v M. Hughes - 3rd Round 2 Balls,Cameron Tringale,-0.023799999999999988,0.4762,0.5
-2022-06-18 08:02:56.487807,Round Match-Ups - Parlays - 3rd Round Match-Up - S. Scheffler vs X. Schauffele - 3rd Round Match-Up,Xander Schauffele,-0.023799999999999988,0.4762,0.5
+2022-06-18 14:03:00.857255,US Open - 2/3 Balls - 3rd Round 2 Balls - C. Morikawa v J. Dahmen - 3rd Round 2 Balls,Joel Dahmen,-0.02360000000000001,0.3846,0.4082
 2022-06-18 13:03:13.646107,US Open - Round Scores - 3rd Round Score - Xander Schauffele - 3rd Round Score,Under 70.5,-0.023799999999999988,0.4762,0.5
+2022-06-18 13:03:12.849939,US Open - 2/3 Balls - 3rd Round 2 Balls - C. Tringale v M. Hughes - 3rd Round 2 Balls,Cameron Tringale,-0.023799999999999988,0.4762,0.5
 2022-06-18 11:02:39.771711,Stranger Things Specials - Characters to Die in Season 4 of Stranger Things? - Proposition,Hopper,-0.023799999999999988,0.1429,0.1667
 2022-06-18 13:03:13.437797,Round Match-Ups - Parlays - 3rd Round Match-Up - M.J. Daffue vs H. Buckley - 3rd Round Match-Up,Hayden Buckley,-0.024399999999999977,0.4878,0.5122
 2022-06-18 15:02:52.078140,US Open - 2/3 Balls - 3rd Round 2 Balls - J. Spieth v W. Besseling - 3rd Round 2 Balls,Wil Besseling,-0.02560000000000001,0.3077,0.3333
