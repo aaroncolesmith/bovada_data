@@ -10,9 +10,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-19 13:02:19.164979,College Baseball - 2022 College World Series - Odds to Win - College World Series Winner,Oklahoma,0.0489,0.1739,0.125
 2022-06-19 12:02:14.850577,US Open - 2/3 Balls - Final Round 2 Balls - B. DeChambeau v G. Murray - Final Round 2 Balls,Grayson Murray,0.044399999999999995,0.4444,0.4
 2022-06-19 13:02:18.027532,NBA Specials - NBA 2022 Number 1 Overall Pick - Proposition,Jabari Smith,0.04409999999999992,0.6667,0.6226
-2022-06-19 08:02:16.795864,MLB Futures - MLB 2022 American League Central - ALC Winner,Cleveland Guardians,0.04350000000000001,0.2174,0.1739
 2022-06-19 13:02:20.209658,US Open - 2/3 Balls - Final Round 2 Balls - K.H. Lee v G. Migliozzi - Final Round 2 Balls,Guido Migliozzi,0.04260000000000003,0.4348,0.3922
-2022-06-19 08:02:16.843131,MLB Futures - MLB 2022 National League West - NLW Winner,Los Angeles Dodgers,0.04179999999999995,0.697,0.6552
 2022-06-19 12:02:18.443061,Germany Bundesliga - Germany Bundeslidga 2022/23 - Winner,Bayern Munich,0.04169999999999996,0.875,0.8333
 2022-06-19 12:02:14.752269,US Open - 2/3 Balls - Final Round 2 Balls - S. Soderberg v B. Matthews - Final Round 2 Balls,Sebastian Soderberg,0.03480000000000005,0.5348,0.5
 2022-06-19 17:02:19.332511,Round Match-Ups - Final Round Match-Up - W. Zalatoris v K. Bradley - Final Round Match-Up,Will Zalatoris,0.030399999999999983,0.5652,0.5348
@@ -30,54 +28,47 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-19 13:02:20.729804,Round Match-Ups - Final Round Match-Up - J. Rahm v M. Fitzpatrick - Final Round Match-Up,Jon Rahm,0.018100000000000005,0.5833,0.5652
 2022-06-19 15:02:18.060282,US Open - 2/3 Balls - Final Round 2 Balls - J. Rahm v K. Bradley - Final Round 2 Balls,Keegan Bradley,0.016699999999999993,0.4167,0.4
 2022-06-19 18:02:51.448488,CFL - Odds to win 109th (2022) Grey Cup - Grey Cup Winner,Calgary Stampeders,0.015100000000000002,0.1818,0.1667
-2022-06-19 14:02:14.976472,Round Match-Ups - Final Round Match-Up - J. Spieth v C. Morikawa - Final Round Match-Up,Collin Morikawa,0.012199999999999989,0.5122,0.5
 2022-06-19 10:02:17.307999,US Open - 2/3 Balls - Final Round 2 Balls - C. Gotterup v S. Bennett - Final Round 2 Balls,Sam Bennett,0.012199999999999989,0.5,0.4878
-2022-06-19 13:02:20.760660,Round Match-Ups - Parlays - Final Round Match-Up - T. Hatton v P. Reed - Final Round Match-Up,Patrick Reed,0.011600000000000055,0.5238,0.5122
+2022-06-19 14:02:14.976472,Round Match-Ups - Final Round Match-Up - J. Spieth v C. Morikawa - Final Round Match-Up,Collin Morikawa,0.012199999999999989,0.5122,0.5
 2022-06-19 17:02:19.602973,US Open - 2/3 Balls - Final Round 2 Balls - M. Fitzpatrick v W. Zalatoris - Final Round 2 Balls,Will Zalatoris,0.011600000000000055,0.5238,0.5122
-2022-06-19 10:02:17.948088,Round Match-Ups - Parlays - Final Round Match-Up - G. Woodland vs A. Hadwin - Final Round Match-Up,Adam Hadwin,0.011600000000000055,0.5238,0.5122
 2022-06-19 14:02:15.008417,Round Match-Ups - Final Round Match-Up - S. Munoz v G. Woodland - Final Round Match-Up,Gary Woodland,0.011600000000000055,0.5238,0.5122
-2022-06-19 08:02:16.784198,MLB Futures - MLB 2022 National League - NL Winner,Los Angeles Dodgers,0.01150000000000001,0.3448,0.3333
+2022-06-19 13:02:20.760660,Round Match-Ups - Parlays - Final Round Match-Up - T. Hatton v P. Reed - Final Round Match-Up,Patrick Reed,0.011600000000000055,0.5238,0.5122
+2022-06-19 10:02:17.948088,Round Match-Ups - Parlays - Final Round Match-Up - G. Woodland vs A. Hadwin - Final Round Match-Up,Adam Hadwin,0.011600000000000055,0.5238,0.5122
+2022-06-19 10:02:17.962629,Round Match-Ups - Parlays - Final Round Match-Up - J. Rahm vs S. Scheffler - Final Round Match-Up,Scottie Scheffler,0.01100000000000001,0.5348,0.5238
 2022-06-19 10:02:17.852273,Round Match-Ups - Parlays - Final Round Match-Up - J. Thomas vs R. McIlroy - Final Round Match-Up,Rory McIlroy,0.01100000000000001,0.5348,0.5238
 2022-06-19 10:02:17.613782,US Open - 2/3 Balls - Final Round 2 Balls - D. Johnson v H. Matsuyama - Final Round 2 Balls,Hideki Matsuyama,0.01100000000000001,0.5348,0.5238
-2022-06-19 10:02:17.962629,Round Match-Ups - Parlays - Final Round Match-Up - J. Rahm vs S. Scheffler - Final Round Match-Up,Scottie Scheffler,0.01100000000000001,0.5348,0.5238
 2022-06-19 16:02:13.681665,Round Match-Ups - Parlays - Final Round Match-Up - J. Thomas vs R. McIlroy - Final Round Match-Up,Rory McIlroy,0.010699999999999932,0.5455,0.5348
 2022-06-19 16:02:13.753320,Round Match-Ups - Parlays - Final Round Match-Up - M. NeSmith vs N. Hardy - Final Round Match-Up,Matthew NeSmith,0.010699999999999932,0.5455,0.5348
 2022-06-19 10:02:17.307999,US Open - 2/3 Balls - Final Round 2 Balls - C. Gotterup v S. Bennett - Final Round 2 Balls,Chris Gotterup,-0.010099999999999998,0.5455,0.5556
-2022-06-19 08:02:16.795864,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,-0.010599999999999998,0.4545,0.4651
 2022-06-19 14:02:14.976472,Round Match-Ups - Final Round Match-Up - J. Spieth v C. Morikawa - Final Round Match-Up,Jordan Spieth,-0.010699999999999932,0.5348,0.5455
 2022-06-19 13:02:20.760660,Round Match-Ups - Parlays - Final Round Match-Up - T. Hatton v P. Reed - Final Round Match-Up,Tyrell Hatton,-0.01100000000000001,0.5238,0.5348
 2022-06-19 10:02:17.948088,Round Match-Ups - Parlays - Final Round Match-Up - G. Woodland vs A. Hadwin - Final Round Match-Up,Gary Woodland,-0.01100000000000001,0.5238,0.5348
-2022-06-19 17:02:19.602973,US Open - 2/3 Balls - Final Round 2 Balls - M. Fitzpatrick v W. Zalatoris - Final Round 2 Balls,Matthew Fitzpatrick,-0.01100000000000001,0.5238,0.5348
 2022-06-19 14:02:15.008417,Round Match-Ups - Final Round Match-Up - S. Munoz v G. Woodland - Final Round Match-Up,Sebastian Munoz,-0.01100000000000001,0.5238,0.5348
-2022-06-19 12:02:18.443061,Germany Bundesliga - Germany Bundeslidga 2022/23 - Winner,Borussia Dortmund,-0.011099999999999999,0.1,0.1111
-2022-06-19 13:02:20.969074,Meijer LPGA Classic - Meijer Classic - Outright,Brooke Henderson,-0.011099999999999999,0.1,0.1111
+2022-06-19 17:02:19.602973,US Open - 2/3 Balls - Final Round 2 Balls - M. Fitzpatrick v W. Zalatoris - Final Round 2 Balls,Matthew Fitzpatrick,-0.01100000000000001,0.5238,0.5348
 2022-06-19 13:02:20.729804,Round Match-Ups - Final Round Match-Up - J. Rahm v M. Fitzpatrick - Final Round Match-Up,Matthew Fitzpatrick,-0.011099999999999999,0.4651,0.4762
+2022-06-19 13:02:20.969074,Meijer LPGA Classic - Meijer Classic - Outright,Brooke Henderson,-0.011099999999999999,0.1,0.1111
+2022-06-19 12:02:18.443061,Germany Bundesliga - Germany Bundeslidga 2022/23 - Winner,Borussia Dortmund,-0.011099999999999999,0.1,0.1111
 2022-06-19 11:02:25.496385,US Open - 2/3 Balls - Final Round 2 Balls - J. Niemann v M. Homa - Final Round 2 Balls,Max Homa,-0.0116,0.4762,0.4878
+2022-06-19 10:02:17.613782,US Open - 2/3 Balls - Final Round 2 Balls - D. Johnson v H. Matsuyama - Final Round 2 Balls,Dustin Johnson,-0.011600000000000055,0.5122,0.5238
 2022-06-19 10:02:17.852273,Round Match-Ups - Parlays - Final Round Match-Up - J. Thomas vs R. McIlroy - Final Round Match-Up,Justin Thomas,-0.011600000000000055,0.5122,0.5238
 2022-06-19 10:02:17.962629,Round Match-Ups - Parlays - Final Round Match-Up - J. Rahm vs S. Scheffler - Final Round Match-Up,Jon Rahm,-0.011600000000000055,0.5122,0.5238
-2022-06-19 10:02:17.613782,US Open - 2/3 Balls - Final Round 2 Balls - D. Johnson v H. Matsuyama - Final Round 2 Balls,Dustin Johnson,-0.011600000000000055,0.5122,0.5238
-2022-06-19 16:02:13.681665,Round Match-Ups - Parlays - Final Round Match-Up - J. Thomas vs R. McIlroy - Final Round Match-Up,Justin Thomas,-0.012199999999999989,0.5,0.5122
 2022-06-19 16:02:13.753320,Round Match-Ups - Parlays - Final Round Match-Up - M. NeSmith vs N. Hardy - Final Round Match-Up,Nick Hardy,-0.012199999999999989,0.5,0.5122
+2022-06-19 16:02:13.681665,Round Match-Ups - Parlays - Final Round Match-Up - J. Thomas vs R. McIlroy - Final Round Match-Up,Justin Thomas,-0.012199999999999989,0.5,0.5122
 2022-06-19 15:02:18.060282,US Open - 2/3 Balls - Final Round 2 Balls - J. Rahm v K. Bradley - Final Round 2 Balls,Jon Rahm,-0.013299999999999979,0.6296,0.6429
 2022-06-19 18:02:51.448488,CFL - Odds to win 109th (2022) Grey Cup - Grey Cup Winner,Hamilton Tiger-Cats,-0.013899999999999996,0.1111,0.125
 2022-06-19 18:02:51.448488,CFL - Odds to win 109th (2022) Grey Cup - Grey Cup Winner,Edmonton Elks,-0.014099999999999998,0.0244,0.0385
 2022-06-19 13:02:20.303208,US Open - 2/3 Balls - Final Round 2 Balls - A. Scott v R. Bland - Final Round 2 Balls,Adam Scott,-0.014800000000000035,0.6078,0.6226
-2022-06-19 08:02:16.843131,MLB Futures - MLB 2022 National League West - NLW Winner,San Francisco Giants,-0.015899999999999997,0.0952,0.1111
 2022-06-19 17:02:19.544443,US Open - 2/3 Balls - Final Round 2 Balls - S. Scheffler v A. Hadwin - Final Round 2 Balls,Adam Hadwin,-0.017600000000000005,0.3333,0.3509
-2022-06-19 17:02:19.645982,Round Match-Ups - Parlays - Final Round Match-Up - K. Bradley vs A. Wise - Final Round Match-Up,Aaron Wise,-0.021699999999999997,0.4545,0.4762
 2022-06-19 17:02:19.465680,US Open - 2/3 Balls - Final Round 2 Balls - J. Dahmen v N. Hardy - Final Round 2 Balls,Nick Hardy,-0.021699999999999997,0.4545,0.4762
+2022-06-19 17:02:19.645982,Round Match-Ups - Parlays - Final Round Match-Up - K. Bradley vs A. Wise - Final Round Match-Up,Aaron Wise,-0.021699999999999997,0.4545,0.4762
 2022-06-19 14:02:14.891817,US Open - 2/3 Balls - Final Round 2 Balls - M. Fitzpatrick v W. Zalatoris - Final Round 2 Balls,Will Zalatoris,-0.022600000000000064,0.5122,0.5348
 2022-06-19 16:02:13.734740,Round Match-Ups - Parlays - Final Round Match-Up - K. Bradley vs A. Wise - Final Round Match-Up,Aaron Wise,-0.023799999999999988,0.4762,0.5
 2022-06-19 12:02:14.875023,US Open - 2/3 Balls - Final Round 2 Balls - M.J. Daffue v C. Tarren - Final Round 2 Balls,Callum Tarren,-0.023800000000000043,0.5,0.5238
 2022-06-19 13:02:20.423655,US Open - 2/3 Balls - Final Round 2 Balls - A. Wise v H. Buckley - Final Round 2 Balls,Aaron Wise,-0.025600000000000067,0.6667,0.6923
-2022-06-19 08:02:16.795864,MLB Futures - MLB 2022 American League Central - ALC Winner,Chicago White Sox,-0.029000000000000026,0.4255,0.4545
 2022-06-19 12:02:14.752269,US Open - 2/3 Balls - Final Round 2 Balls - S. Soderberg v B. Matthews - Final Round 2 Balls,Brandon Matthews,-0.033299999999999996,0.5122,0.5455
 2022-06-19 17:02:19.332511,Round Match-Ups - Final Round Match-Up - W. Zalatoris v K. Bradley - Final Round Match-Up,Keegan Bradley,-0.035999999999999976,0.4762,0.5122
 2022-06-19 14:02:14.578894,Potential Fights - Oleksandr Usyk vs Anthony Joshua - To Win the Bout,Anthony Joshua,-0.03640000000000004,0.3636,0.4
-2022-06-19 08:02:16.816468,MLB Futures - MLB 2022 American League West - ALW Winner,Los Angeles Angels,-0.04329999999999999,0.0476,0.0909
 2022-06-19 13:02:20.209658,US Open - 2/3 Balls - Final Round 2 Balls - K.H. Lee v G. Migliozzi - Final Round 2 Balls,Kyoung-Hoon Lee,-0.0474,0.6078,0.6552
-2022-06-19 08:02:16.843131,MLB Futures - MLB 2022 National League West - NLW Winner,San Diego Padres,-0.047599999999999976,0.2857,0.3333
-2022-06-19 08:02:16.805777,MLB Futures - MLB 2022 American League East - ALE Winner,Toronto Blue Jays,-0.04909999999999999,0.1176,0.1667
 2022-06-19 12:02:14.850577,US Open - 2/3 Balls - Final Round 2 Balls - B. DeChambeau v G. Murray - Final Round 2 Balls,Bryson DeChambeau,-0.04910000000000003,0.6,0.6491
 2022-06-19 13:02:19.164979,College Baseball - 2022 College World Series - Odds to Win - College World Series Winner,Auburn,-0.058300000000000005,0.0667,0.125
 2022-06-19 13:02:19.164979,College Baseball - 2022 College World Series - Odds to Win - College World Series Winner,Texas A&M,-0.06620000000000001,0.0588,0.125
