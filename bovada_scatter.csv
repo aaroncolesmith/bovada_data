@@ -1,7 +1,9 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-20 03:02:50.612519,NFL Specials - Where will Odell Beckahm Jr Play Game 1 of the 2022/2023 NFL Season? - Proposition,Cincinnati Bengals,0.12639999999999998,0.2597,0.1333
-2022-06-19 21:02:40.972590,Game of Thrones Specials - Will Any Of The Following Characters Die In Season 1? - Proposition,Alicent Hightower,0.11900000000000002,0.2857,0.1667
 2022-06-19 21:02:40.972590,Game of Thrones Specials - Will Any Of The Following Characters Die In Season 1? - Proposition,Lord Corlys Velaryon,0.11900000000000002,0.2857,0.1667
+2022-06-19 21:02:40.972590,Game of Thrones Specials - Will Any Of The Following Characters Die In Season 1? - Proposition,Alicent Hightower,0.11900000000000002,0.2857,0.1667
+2022-06-20 08:03:10.860176,Eliteserien - Norway Eliteserien 2022 - Outright,Lillestrøm SK,0.10239999999999999,0.3333,0.2309
+2022-06-20 08:03:10.860176,Eliteserien - Norway Eliteserien 2022 - Outright,Molde FK,0.07619999999999999,0.4762,0.4
 2022-06-20 01:02:57.234803,MLB Futures - MLB 2022 National League Central - NLC Winner,Milwaukee Brewers,0.06669999999999998,0.6667,0.6
 2022-06-20 04:03:09.559190,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Chicago Bears,Over 6,0.05300000000000005,0.5652,0.5122
 2022-06-20 01:02:57.209421,MLB Futures - MLB 2022 American League East - ALE Winner,New York Yankees,0.052000000000000046,0.9091,0.8571
@@ -17,35 +19,48 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-20 06:03:04.397228,Box Office Specials - Opening Weekend Domestic Box Office Gross - Thor: Love and Thunder - Proposition,"Under $179,000,000",0.01880000000000004,0.5744,0.5556
 2022-06-20 06:03:04.200308,Futures - The Open Championship 2022 - Outright,Justin Thomas,0.018099999999999998,0.0769,0.0588
 2022-06-19 21:02:40.732610,MLB Specials - Next Manager to Permanently Leave Post - Proposition,Dave Martinez,0.0179,0.1429,0.125
+2022-06-20 08:03:10.804808,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Deportivo Toluca,0.015300000000000001,0.0476,0.0323
 2022-06-20 01:02:57.155983,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,New York Yankees,0.015100000000000002,0.1818,0.1667
-2022-06-20 01:02:57.183977,MLB Futures - MLB 2022 National League - NL Winner,San Francisco Giants,0.014399999999999996,0.0769,0.0625
 2022-06-20 01:02:57.155983,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Atlanta Braves,0.014399999999999996,0.0769,0.0625
+2022-06-20 01:02:57.183977,MLB Futures - MLB 2022 National League - NL Winner,San Francisco Giants,0.014399999999999996,0.0769,0.0625
 2022-06-20 06:03:04.200308,Futures - The Open Championship 2022 - Outright,Rory McIlroy,0.013999999999999999,0.0909,0.0769
 2022-06-20 01:02:57.183977,MLB Futures - MLB 2022 National League - NL Winner,Milwaukee Brewers,0.013899999999999996,0.125,0.1111
 2022-06-20 01:02:57.249503,MLB Futures - MLB 2022 National League West - NLW Winner,San Diego Padres,0.012799999999999978,0.2985,0.2857
+2022-06-20 08:03:10.715027,MLS - MLS Cup 2022 - Top Goalscorer,Brandon Vazquez,0.011199999999999995,0.0588,0.0476
+2022-06-20 08:03:10.700529,MLS - MLS Cup 2022 - Winner,New York Red Bulls,0.011199999999999995,0.0588,0.0476
 2022-06-20 01:02:57.170224,MLB Futures - MLB 2022 Amercian League - AL Winner,New York Yankees,0.010699999999999987,0.3333,0.3226
 2022-06-20 04:03:10.246754,NBA Specials - 2022 NBA Draft - Top 10 Pick - Proposition,AJ Griffin,0.010699999999999987,0.3333,0.3226
+2022-06-20 08:03:10.804808,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Club León,-0.0102,0.0667,0.0769
 2022-06-20 01:02:58.540357,NFL Futures - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Kansas City Chiefs,-0.010899999999999993,0.1429,0.1538
+2022-06-20 08:03:10.715027,MLS - MLS Cup 2022 - Top Goalscorer,Valentin Castellanos,-0.011199999999999995,0.0476,0.0588
 2022-06-20 06:03:04.200308,Futures - The Open Championship 2022 - Outright,Dustin Johnson,-0.011199999999999995,0.0476,0.0588
 2022-06-20 01:02:58.526399,NFL Futures - 2022/2023 Division Winner - NFC West - NFC West Winner,Arizona Cardinals,-0.0131,0.2222,0.2353
 2022-06-20 03:02:50.612519,NFL Specials - Where will Odell Beckahm Jr Play Game 1 of the 2022/2023 NFL Season? - Proposition,Atlanta Falcons,-0.013999999999999999,0.0769,0.0909
-2022-06-20 03:02:50.612519,NFL Specials - Where will Odell Beckahm Jr Play Game 1 of the 2022/2023 NFL Season? - Proposition,Jacksonville Jaguars,-0.013999999999999999,0.0769,0.0909
 2022-06-20 05:02:52.315602,Futures - The Open Championship 2022 - Outright,Jon Rahm,-0.013999999999999999,0.0769,0.0909
+2022-06-20 03:02:50.612519,NFL Specials - Where will Odell Beckahm Jr Play Game 1 of the 2022/2023 NFL Season? - Proposition,Jacksonville Jaguars,-0.013999999999999999,0.0769,0.0909
 2022-06-20 06:03:04.200308,Futures - The Open Championship 2022 - Outright,Jordan Spieth,-0.014099999999999994,0.0526,0.0667
 2022-06-20 03:02:50.612519,NFL Specials - Where will Odell Beckahm Jr Play Game 1 of the 2022/2023 NFL Season? - Proposition,Chicago Bears,-0.016600000000000004,0.0667,0.0833
 2022-06-20 01:02:57.196457,MLB Futures - MLB 2022 American League Central - ALC Winner,Cleveland Guardians,-0.0174,0.2,0.2174
+2022-06-20 08:03:10.700529,MLS - MLS Cup 2022 - Winner,New York City FC,-0.0179,0.125,0.1429
+2022-06-20 08:03:10.804808,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,CF Monterrey,-0.0179,0.125,0.1429
 2022-06-20 01:02:57.209421,MLB Futures - MLB 2022 American League East - ALE Winner,Tampa Bay Rays,-0.018099999999999998,0.0345,0.0526
+2022-06-20 08:03:10.715027,MLS - MLS Cup 2022 - Top Goalscorer,Jesus Jimenez,-0.018099999999999998,0.0588,0.0769
+2022-06-20 08:03:10.804808,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Club América,-0.01820000000000002,0.1818,0.2
 2022-06-20 06:03:04.200308,Futures - The Open Championship 2022 - Outright,Brooks Koepka,-0.0203,0.0385,0.0588
 2022-06-20 06:03:04.382625,Box Office Specials - Opening Weekend Domestic Box Office Gross - Avatar: The Way of Water - Proposition,"Over $175,000,000",-0.02169999999999994,0.5238,0.5455
 2022-06-20 01:02:57.155983,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Los Angeles Dodgers,-0.022199999999999998,0.2,0.2222
 2022-06-20 06:03:04.397228,Box Office Specials - Opening Weekend Domestic Box Office Gross - Thor: Love and Thunder - Proposition,"Over $179,000,000",-0.022600000000000064,0.5122,0.5348
+2022-06-20 08:03:10.860176,Eliteserien - Norway Eliteserien 2022 - Outright,Rosenborg BK,-0.023200000000000002,0.0244,0.0476
 2022-06-20 01:02:58.464425,NFL Futures - 2022/2023 Division Winner - AFC South - AFC South Winner,Tennessee Titans,-0.02360000000000001,0.3846,0.4082
 2022-06-20 01:02:57.183977,MLB Futures - MLB 2022 National League - NL Winner,St. Louis Cardinals,-0.0242,0.0667,0.0909
 2022-06-20 01:02:57.242361,MLB Futures - MLB 2022 National League East - NLE Winner,Atlanta Braves,-0.02560000000000001,0.3077,0.3333
+2022-06-20 08:03:10.860176,Eliteserien - Norway Eliteserien 2022 - Outright,Strømsgodset IF,-0.028000000000000004,0.0196,0.0476
 2022-06-20 01:02:57.196457,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,-0.029000000000000026,0.4255,0.4545
 2022-06-20 03:02:50.612519,NFL Specials - Where will Odell Beckahm Jr Play Game 1 of the 2022/2023 NFL Season? - Proposition,Dallas Cowboys,-0.0305,0.16,0.1905
+2022-06-20 08:03:10.860176,Eliteserien - Norway Eliteserien 2022 - Outright,Bodø/Glimt,-0.03570000000000001,0.25,0.2857
 2022-06-20 01:02:57.183977,MLB Futures - MLB 2022 National League - NL Winner,Los Angeles Dodgers,-0.03710000000000002,0.3077,0.3448
 2022-06-20 03:02:50.612519,NFL Specials - Where will Odell Beckahm Jr Play Game 1 of the 2022/2023 NFL Season? - Proposition,Green Bay Packers,-0.04040000000000002,0.1818,0.2222
+2022-06-20 08:03:10.860176,Eliteserien - Norway Eliteserien 2022 - Outright,Viking FK,-0.0417,0.0833,0.125
 2022-06-20 01:02:57.249503,MLB Futures - MLB 2022 National League West - NLW Winner,Los Angeles Dodgers,-0.04179999999999995,0.6552,0.697
 2022-06-20 04:03:09.559190,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Chicago Bears,Under 6,-0.05559999999999998,0.5,0.5556
 2022-06-20 01:02:57.234803,MLB Futures - MLB 2022 National League Central - NLC Winner,St. Louis Cardinals,-0.056900000000000006,0.4082,0.4651
