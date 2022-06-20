@@ -3,7 +3,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-20 10:03:08.213258,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Internacional,0.21539999999999998,0.6,0.3846
 2022-06-20 10:03:08.192224,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Fortaleza,0.19999999999999996,0.6,0.4
 2022-06-20 10:03:08.203528,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Internacional,0.1842,0.3509,0.1667
-2022-06-20 03:02:50.612519,NFL Specials - Where will Odell Beckahm Jr Play Game 1 of the 2022/2023 NFL Season? - Proposition,Cincinnati Bengals,0.12639999999999998,0.2597,0.1333
 2022-06-20 10:03:08.192224,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,América Mineiro,0.125,0.25,0.125
 2022-06-20 10:03:08.192224,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Cuiabá,0.10710000000000003,0.5833,0.4762
 2022-06-20 08:03:10.860176,Eliteserien - Norway Eliteserien 2022 - Outright,Lillestrøm SK,0.10239999999999999,0.3333,0.2309
@@ -32,14 +31,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-20 06:03:04.382625,Box Office Specials - Opening Weekend Domestic Box Office Gross - Avatar: The Way of Water - Proposition,"Under $175,000,000",0.01970000000000005,0.5652,0.5455
 2022-06-20 10:03:08.213258,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Palmeiras,0.019100000000000006,0.9524,0.9333
 2022-06-20 06:03:04.397228,Box Office Specials - Opening Weekend Domestic Box Office Gross - Thor: Love and Thunder - Proposition,"Under $179,000,000",0.01880000000000004,0.5744,0.5556
+2022-06-20 15:03:06.864626,MLB Futures - MLB 2022 National League East - NLE Winner,Philadelphia Phillies,0.01830000000000001,0.0952,0.0769
 2022-06-20 14:02:59.678739,NBA Specials - 2022 NBA Draft - Top 10 Pick - Top 10,Ousmane Dieng,0.01820000000000002,0.2,0.1818
 2022-06-20 06:03:04.200308,Futures - The Open Championship 2022 - Outright,Justin Thomas,0.018099999999999998,0.0769,0.0588
+2022-06-20 15:03:06.879060,MLB Futures - MLB 2022 National League West - NLW Winner,San Francisco Giants,0.0179,0.1429,0.125
+2022-06-20 15:03:06.864626,MLB Futures - MLB 2022 National League East - NLE Winner,New York Mets,0.017799999999999927,0.7101,0.6923
 2022-06-20 14:02:59.601743,NBA Specials - 2022 NBA Draft Number 1 Overall Pick - #1 Pick,Paolo Banchero,0.01759999999999999,0.1176,0.1
 2022-06-20 08:03:10.804808,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Deportivo Toluca,0.015300000000000001,0.0476,0.0323
 2022-06-20 10:03:08.180031,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Atlético Goianiense,0.014599999999999998,0.0196,0.005
 2022-06-20 14:02:59.644549,NBA Specials - 2022 NBA Draft Number 4 Overall Pick - #4 Pick,Chet Holmgren,0.014099999999999998,0.0385,0.0244
 2022-06-20 14:03:00.601432,MLB Futures - MLB 2022 American League East - ALE Winner,New York Yankees,0.014000000000000012,0.9231,0.9091
 2022-06-20 06:03:04.200308,Futures - The Open Championship 2022 - Outright,Rory McIlroy,0.013999999999999999,0.0909,0.0769
+2022-06-20 15:03:06.816661,MLB Futures - MLB 2022 National League - NL Winner,New York Mets,0.013899999999999996,0.2222,0.2083
+2022-06-20 15:03:06.879060,MLB Futures - MLB 2022 National League West - NLW Winner,Los Angeles Dodgers,0.011499999999999955,0.6667,0.6552
 2022-06-20 08:03:10.715027,MLS - MLS Cup 2022 - Top Goalscorer,Brandon Vazquez,0.011199999999999995,0.0588,0.0476
 2022-06-20 08:03:10.700529,MLS - MLS Cup 2022 - Winner,New York Red Bulls,0.011199999999999995,0.0588,0.0476
 2022-06-20 04:03:10.246754,NBA Specials - 2022 NBA Draft - Top 10 Pick - Proposition,AJ Griffin,0.010699999999999987,0.3333,0.3226
@@ -49,26 +53,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-20 08:03:10.715027,MLS - MLS Cup 2022 - Top Goalscorer,Valentin Castellanos,-0.011199999999999995,0.0476,0.0588
 2022-06-20 14:03:00.601432,MLB Futures - MLB 2022 American League East - ALE Winner,Toronto Blue Jays,-0.012299999999999991,0.1053,0.1176
 2022-06-20 05:02:52.315602,Futures - The Open Championship 2022 - Outright,Jon Rahm,-0.013999999999999999,0.0769,0.0909
-2022-06-20 03:02:50.612519,NFL Specials - Where will Odell Beckahm Jr Play Game 1 of the 2022/2023 NFL Season? - Proposition,Atlanta Falcons,-0.013999999999999999,0.0769,0.0909
-2022-06-20 03:02:50.612519,NFL Specials - Where will Odell Beckahm Jr Play Game 1 of the 2022/2023 NFL Season? - Proposition,Jacksonville Jaguars,-0.013999999999999999,0.0769,0.0909
 2022-06-20 06:03:04.200308,Futures - The Open Championship 2022 - Outright,Jordan Spieth,-0.014099999999999994,0.0526,0.0667
-2022-06-20 03:02:50.612519,NFL Specials - Where will Odell Beckahm Jr Play Game 1 of the 2022/2023 NFL Season? - Proposition,Chicago Bears,-0.016600000000000004,0.0667,0.0833
 2022-06-20 10:03:08.203528,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Fortaleza,-0.017800000000000003,0.0066,0.0244
-2022-06-20 10:03:08.180031,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Flamengo,-0.0179,0.125,0.1429
-2022-06-20 08:03:10.700529,MLS - MLS Cup 2022 - Winner,New York City FC,-0.0179,0.125,0.1429
 2022-06-20 08:03:10.804808,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,CF Monterrey,-0.0179,0.125,0.1429
+2022-06-20 08:03:10.700529,MLS - MLS Cup 2022 - Winner,New York City FC,-0.0179,0.125,0.1429
+2022-06-20 10:03:08.180031,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Flamengo,-0.0179,0.125,0.1429
 2022-06-20 08:03:10.715027,MLS - MLS Cup 2022 - Top Goalscorer,Jesus Jimenez,-0.018099999999999998,0.0588,0.0769
 2022-06-20 10:03:08.203528,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Botafogo,-0.018099999999999998,0.0588,0.0769
 2022-06-20 08:03:10.804808,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Club América,-0.01820000000000002,0.1818,0.2
 2022-06-20 06:03:04.200308,Futures - The Open Championship 2022 - Outright,Brooks Koepka,-0.0203,0.0385,0.0588
 2022-06-20 06:03:04.382625,Box Office Specials - Opening Weekend Domestic Box Office Gross - Avatar: The Way of Water - Proposition,"Over $175,000,000",-0.02169999999999994,0.5238,0.5455
+2022-06-20 15:03:06.864626,MLB Futures - MLB 2022 National League East - NLE Winner,Atlanta Braves,-0.021999999999999964,0.2857,0.3077
 2022-06-20 14:02:59.615897,NBA Specials - 2022 NBA Draft Number 2 Overall Pick - #2 Pick,Paolo Banchero,-0.022199999999999998,0.2,0.2222
 2022-06-20 06:03:04.397228,Box Office Specials - Opening Weekend Domestic Box Office Gross - Thor: Love and Thunder - Proposition,"Over $179,000,000",-0.022600000000000064,0.5122,0.5348
 2022-06-20 08:03:10.860176,Eliteserien - Norway Eliteserien 2022 - Outright,Rosenborg BK,-0.023200000000000002,0.0244,0.0476
 2022-06-20 08:03:10.860176,Eliteserien - Norway Eliteserien 2022 - Outright,Strømsgodset IF,-0.028000000000000004,0.0196,0.0476
 2022-06-20 10:03:08.203528,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Coritiba,-0.0286,0.0099,0.0385
 2022-06-20 10:03:08.192224,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,RB Bragantino,-0.029299999999999993,0.0476,0.0769
-2022-06-20 03:02:50.612519,NFL Specials - Where will Odell Beckahm Jr Play Game 1 of the 2022/2023 NFL Season? - Proposition,Dallas Cowboys,-0.0305,0.16,0.1905
 2022-06-20 10:03:08.203528,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Corinthians,-0.031799999999999995,0.4444,0.4762
 2022-06-20 10:03:08.192224,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Internacional,-0.03270000000000001,0.0149,0.0476
 2022-06-20 10:03:08.213258,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Fortaleza,-0.0344,0.0244,0.0588
@@ -76,14 +77,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-20 08:03:10.860176,Eliteserien - Norway Eliteserien 2022 - Outright,Bodø/Glimt,-0.03570000000000001,0.25,0.2857
 2022-06-20 10:03:08.203528,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,América Mineiro,-0.0373,0.0294,0.0667
 2022-06-20 10:03:08.192224,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Athletico Paranaense,-0.0384,0.0385,0.0769
-2022-06-20 03:02:50.612519,NFL Specials - Where will Odell Beckahm Jr Play Game 1 of the 2022/2023 NFL Season? - Proposition,Green Bay Packers,-0.04040000000000002,0.1818,0.2222
 2022-06-20 08:03:10.860176,Eliteserien - Norway Eliteserien 2022 - Outright,Viking FK,-0.0417,0.0833,0.125
 2022-06-20 10:03:08.180031,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Palmeiras,-0.044399999999999995,0.4,0.4444
 2022-06-20 14:02:59.615897,NBA Specials - 2022 NBA Draft Number 2 Overall Pick - #2 Pick,Jabari Smith,-0.053100000000000036,0.3636,0.4167
 2022-06-20 10:03:08.192224,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Santos,-0.05379999999999999,0.1,0.1538
 2022-06-20 04:03:09.559190,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Chicago Bears,Under 6,-0.05559999999999998,0.5,0.5556
-2022-06-20 10:03:08.203528,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Fluminense,-0.05710000000000001,0.1429,0.2
 2022-06-20 10:03:08.213258,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Botafogo,-0.05710000000000001,0.1429,0.2
+2022-06-20 10:03:08.203528,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Fluminense,-0.05710000000000001,0.1429,0.2
 2022-06-20 10:03:08.203528,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,São Paulo,-0.06519999999999998,0.2857,0.3509
 2022-06-20 10:03:08.213258,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Corinthians,-0.06659999999999999,0.6667,0.7333
 2022-06-20 10:03:08.213258,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Coritiba,-0.07060000000000001,0.0294,0.1
