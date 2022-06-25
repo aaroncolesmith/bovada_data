@@ -13,6 +13,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-25 05:02:54.534793,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - B. Steele v K. Mitchell - 3rd Round 2 Balls,Brendan Steele,0.030399999999999983,0.5652,0.5348
 2022-06-25 05:02:54.604393,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - X. Schauffele v P. Cantlay - 3rd Round 2 Balls,Patrick Cantlay,0.030399999999999983,0.5652,0.5348
 2022-06-24 23:02:56.061409,BMW International Open - BMW International Open - Outright,Ryan Fox,0.028299999999999992,0.3509,0.3226
+2022-06-25 09:02:46.067765,Boxing Lines - Jesse Rodriguez vs Wisaksil Wangek - To Win the Bout,Jesse Rodriguez,0.027200000000000002,0.8403,0.8131
 2022-06-25 07:02:57.151138,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - T. Finau v N. Lashley - 3rd Round 2 Balls,Nate Lashley,0.026600000000000013,0.4348,0.4082
 2022-06-25 02:02:47.830159,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - R. McIlroy v C. Howell - 3rd Round 2 Balls,Charles Howell III,0.026500000000000024,0.3774,0.3509
 2022-06-25 07:02:57.232833,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - S. Scheffler v A. Svensson - 3rd Round 2 Balls,Adam Svensson,0.02560000000000001,0.3333,0.3077
@@ -25,12 +26,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-25 07:02:57.205823,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - H. Varner v T. Fleetwood - 3rd Round 2 Balls,Harold Varner III,0.02169999999999994,0.5455,0.5238
 2022-06-25 05:02:54.565716,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - R. McIlroy v C. Howell - 3rd Round 2 Balls,Rory McIlroy,0.02080000000000004,0.6875,0.6667
 2022-06-25 03:03:11.863525,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - M. NeSmith v M. Laird - 3rd Round 2 Balls,Matthew NeSmith,0.01970000000000005,0.5652,0.5455
-2022-06-25 04:02:39.599565,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - J. Huh v L. Hodges - 3rd Round 2 Balls,John Huh,0.01970000000000005,0.5652,0.5455
 2022-06-25 06:02:57.639802,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - A. Putnam v M. Schwab - 3rd Round 2 Balls,Andrew Putnam,0.01970000000000005,0.5652,0.5455
+2022-06-25 04:02:39.599565,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - J. Huh v L. Hodges - 3rd Round 2 Balls,John Huh,0.01970000000000005,0.5652,0.5455
 2022-06-25 06:02:57.719394,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - J. Dahmen v P. Kizzire - 3rd Round 2 Balls,Patton Kizzire,0.018900000000000028,0.4444,0.4255
+2022-06-25 07:02:57.250194,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - B. Steele v K. Mitchell - 3rd Round 2 Balls,Brendan Steele,0.018100000000000005,0.5833,0.5652
 2022-06-25 02:02:47.755902,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - A. Rai v H. Lebioda - 3rd Round 2 Balls,Aaron Rai,0.018100000000000005,0.5833,0.5652
 2022-06-25 05:02:54.550459,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - J. Huh v L. Hodges - 3rd Round 2 Balls,John Huh,0.018100000000000005,0.5833,0.5652
-2022-06-25 07:02:57.250194,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - B. Steele v K. Mitchell - 3rd Round 2 Balls,Brendan Steele,0.018100000000000005,0.5833,0.5652
 2022-06-24 21:03:07.752558,BMW International Open - BMW International Open - Outright,Maximilian Kieffer,0.017099999999999997,0.0294,0.0123
 2022-06-25 06:02:58.276169,KPMG Women's PGA Championship - 2/3 Balls - 3rd Round 3 Balls - M. Lee / B. Henderson / H. Green - 3rd Round 3 Balls,Minjee Lee,0.016699999999999993,0.4167,0.4
 2022-06-25 07:02:57.076400,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - K. Bradley v S. Stallings - 3rd Round 2 Balls,Scott Stallings,0.016699999999999993,0.4167,0.4
@@ -44,15 +45,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-25 03:03:11.765187,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - M. Hubbard v C. Hadley - 3rd Round 2 Balls,Mark Hubbard,0.013799999999999923,0.6364,0.6226
 2022-06-25 02:02:47.786342,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - S. Scheffler v A. Svensson - 3rd Round 2 Balls,Adam Svensson,0.013600000000000001,0.3077,0.2941
 2022-06-24 21:03:07.752558,BMW International Open - BMW International Open - Outright,Sami Valimaki,0.012899999999999998,0.0179,0.005
-2022-06-25 05:02:54.494232,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - H. Varner v T. Fleetwood - 3rd Round 2 Balls,Harold Varner III,0.011600000000000055,0.5238,0.5122
 2022-06-25 02:02:47.858954,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - H. English v N. Hardy - 3rd Round 2 Balls,Nick Hardy,0.011600000000000055,0.5238,0.5122
 2022-06-25 06:02:58.036614,Round Match-Ups - Parlays - 3rd Round Match-Up - S. Theegala vs C. Howell - 3rd Round Match-Up,Charles Howell III,0.011600000000000055,0.5238,0.5122
+2022-06-25 05:02:54.494232,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - H. Varner v T. Fleetwood - 3rd Round 2 Balls,Harold Varner III,0.011600000000000055,0.5238,0.5122
 2022-06-25 07:02:57.258545,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - W. Simpson v A. Long - 3rd Round 2 Balls,Adam Long,0.011099999999999999,0.4762,0.4651
 2022-06-25 07:02:57.315942,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - H. English v N. Hardy - 3rd Round 2 Balls,Nick Hardy,0.01100000000000001,0.5348,0.5238
 2022-06-24 23:02:56.654259,Boxing Lines - Jonathan Gonzalez vs Mark Barriga - To Win the Bout,Mark Barriga,0.010800000000000032,0.274,0.2632
-2022-06-25 02:02:47.822859,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - M. NeSmith v M. Laird - 3rd Round 2 Balls,Matthew NeSmith,0.010699999999999932,0.5455,0.5348
 2022-06-25 02:02:47.793303,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - H. Buckley v R. Armour - 3rd Round 2 Balls,Ryan Armour,0.010699999999999932,0.5455,0.5348
 2022-06-25 05:02:54.383457,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - A. Putnam v M. Schwab - 3rd Round 2 Balls,Andrew Putnam,0.010699999999999932,0.5455,0.5348
+2022-06-25 02:02:47.822859,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - M. NeSmith v M. Laird - 3rd Round 2 Balls,Matthew NeSmith,0.010699999999999932,0.5455,0.5348
 2022-06-25 06:02:57.628197,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - L. Donald v M. Wolff - 3rd Round 2 Balls,Luke Donald,0.010699999999999932,0.5455,0.5348
 2022-06-24 21:03:07.687419,BKFC 26: Brito vs Palomino 2 - Ulysses Diaz vs Francesco Ricchi - To Win the Bout,Ulysses Diaz,0.010599999999999998,0.4651,0.4545
 2022-06-24 22:02:39.325635,BKFC 26: Brito vs Palomino 2 - Jimmie Rivera vs Howard Davis - To Win the Bout,Howard Davis,0.010099999999999998,0.5556,0.5455
@@ -62,20 +63,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-24 21:03:07.752558,BMW International Open - BMW International Open - Outright,Jamie Donaldson,-0.0106,0.0017,0.0123
 2022-06-25 06:02:58.276169,KPMG Women's PGA Championship - 2/3 Balls - 3rd Round 3 Balls - M. Lee / B. Henderson / H. Green - 3rd Round 3 Balls,Hannah Green,-0.010699999999999987,0.3226,0.3333
 2022-06-25 06:02:58.036614,Round Match-Ups - Parlays - 3rd Round Match-Up - S. Theegala vs C. Howell - 3rd Round Match-Up,Sahith Theegala,-0.01100000000000001,0.5238,0.5348
-2022-06-25 02:02:47.858954,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - H. English v N. Hardy - 3rd Round 2 Balls,Harris English,-0.01100000000000001,0.5238,0.5348
 2022-06-25 05:02:54.494232,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - H. Varner v T. Fleetwood - 3rd Round 2 Balls,Tommy Fleetwood,-0.01100000000000001,0.5238,0.5348
+2022-06-25 02:02:47.858954,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - H. English v N. Hardy - 3rd Round 2 Balls,Harris English,-0.01100000000000001,0.5238,0.5348
 2022-06-25 07:02:57.250194,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - B. Steele v K. Mitchell - 3rd Round 2 Balls,Keith Mitchell,-0.011099999999999999,0.4651,0.4762
-2022-06-25 05:02:54.550459,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - J. Huh v L. Hodges - 3rd Round 2 Balls,Lee Hodges,-0.011099999999999999,0.4651,0.4762
 2022-06-25 02:02:47.755902,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - A. Rai v H. Lebioda - 3rd Round 2 Balls,Hank Lebioda,-0.011099999999999999,0.4651,0.4762
+2022-06-25 05:02:54.550459,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - J. Huh v L. Hodges - 3rd Round 2 Balls,Lee Hodges,-0.011099999999999999,0.4651,0.4762
 2022-06-25 05:02:54.840973,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Outright,Paula Reto,-0.011600000000000001,0.0007,0.0123
-2022-06-25 07:02:57.315942,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - H. English v N. Hardy - 3rd Round 2 Balls,Harris English,-0.011600000000000055,0.5122,0.5238
 2022-06-24 22:02:39.325635,BKFC 26: Brito vs Palomino 2 - Jimmie Rivera vs Howard Davis - To Win the Bout,Jimmie Rivera,-0.011600000000000055,0.5122,0.5238
+2022-06-25 07:02:57.315942,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - H. English v N. Hardy - 3rd Round 2 Balls,Harris English,-0.011600000000000055,0.5122,0.5238
 2022-06-25 05:02:54.840973,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Outright,A Lim Kim,-0.011699999999999999,0.0079,0.0196
+2022-06-25 02:02:47.793303,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - H. Buckley v R. Armour - 3rd Round 2 Balls,Hayden Buckley,-0.012199999999999989,0.5,0.5122
 2022-06-25 06:02:57.628197,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - L. Donald v M. Wolff - 3rd Round 2 Balls,Matthew Wolff,-0.012199999999999989,0.5,0.5122
+2022-06-25 02:02:47.822859,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - M. NeSmith v M. Laird - 3rd Round 2 Balls,Martin Laird,-0.012199999999999989,0.5,0.5122
 2022-06-24 23:02:57.176460,BKFC 26: Brito vs Palomino 2 - Jimmie Rivera vs Howard Davis - To Win the Bout,Jimmie Rivera,-0.012199999999999989,0.5,0.5122
 2022-06-25 05:02:54.383457,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - A. Putnam v M. Schwab - 3rd Round 2 Balls,Matthias Schwab,-0.012199999999999989,0.5,0.5122
-2022-06-25 02:02:47.822859,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - M. NeSmith v M. Laird - 3rd Round 2 Balls,Martin Laird,-0.012199999999999989,0.5,0.5122
-2022-06-25 02:02:47.793303,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - H. Buckley v R. Armour - 3rd Round 2 Balls,Hayden Buckley,-0.012199999999999989,0.5,0.5122
 2022-06-25 05:02:54.840973,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Outright,Leona Maguire,-0.0124,0.0025,0.0149
 2022-06-25 05:02:54.840973,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Outright,Hyo Joo Kim,-0.013,0.0066,0.0196
 2022-06-25 05:02:54.565716,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - R. McIlroy v C. Howell - 3rd Round 2 Balls,Charles Howell III,-0.013800000000000034,0.3636,0.3774
@@ -84,6 +85,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-25 07:02:57.291301,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - S. Power v S. Theegala - 3rd Round 2 Balls,Seamus Power,-0.014800000000000035,0.6078,0.6226
 2022-06-24 23:02:57.223693,BKFC 26: Brito vs Palomino 2 - cary caprio vs Tyler Randall - To Win the Bout,cary caprio,-0.014900000000000024,0.3077,0.3226
 2022-06-25 05:02:54.840973,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Outright,Chella Choi,-0.0156,0.004,0.0196
+2022-06-25 09:02:46.000197,Boxing Lines - River Wilson Bent vs Tyler Denny - To Win the Bout,River Wilson Bent,-0.01639999999999997,0.5392,0.5556
 2022-06-24 21:03:07.752558,BMW International Open - BMW International Open - Outright,George Coetzee,-0.0171,0.0025,0.0196
 2022-06-25 03:03:11.765187,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - M. Hubbard v C. Hadley - 3rd Round 2 Balls,Chesson Hadley,-0.017299999999999982,0.4082,0.4255
 2022-06-24 21:03:07.752558,BMW International Open - BMW International Open - Outright,Kazuki Higa,-0.017599999999999998,0.002,0.0196
@@ -102,8 +104,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-25 06:02:58.013689,Round Match-Ups - Parlays - 3rd Round Match-Up - A. Long vs M. NeSmith - 3rd Round Match-Up,Adam Long,-0.022600000000000064,0.5122,0.5348
 2022-06-24 21:03:07.752558,BMW International Open - BMW International Open - Outright,Kristoffer Broberg,-0.0234,0.001,0.0244
 2022-06-25 04:02:39.599565,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - J. Huh v L. Hodges - 3rd Round 2 Balls,Lee Hodges,-0.023799999999999988,0.4762,0.5
-2022-06-25 06:02:57.639802,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - A. Putnam v M. Schwab - 3rd Round 2 Balls,Matthias Schwab,-0.023799999999999988,0.4762,0.5
 2022-06-25 03:03:11.863525,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - M. NeSmith v M. Laird - 3rd Round 2 Balls,Martin Laird,-0.023799999999999988,0.4762,0.5
+2022-06-25 06:02:57.639802,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - A. Putnam v M. Schwab - 3rd Round 2 Balls,Matthias Schwab,-0.023799999999999988,0.4762,0.5
 2022-06-25 07:02:57.205823,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - H. Varner v T. Fleetwood - 3rd Round 2 Balls,Tommy Fleetwood,-0.023800000000000043,0.5,0.5238
 2022-06-25 00:02:01.320859,Boxing Lines - Jonathan Gonzalez vs Mark Barriga - To Win the Bout,Mark Barriga,-0.02400000000000002,0.25,0.274
 2022-06-24 21:03:07.752558,BMW International Open - BMW International Open - Outright,Mike Lorenzo-Vera,-0.024399999999999998,0.005,0.0294
@@ -121,8 +123,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-25 05:02:54.558051,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - M. NeSmith v M. Laird - 3rd Round 2 Balls,Martin Laird,-0.031799999999999995,0.4444,0.4762
 2022-06-25 02:02:47.815466,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - J. Huh v L. Hodges - 3rd Round 2 Balls,Lee Hodges,-0.03480000000000005,0.5,0.5348
 2022-06-24 21:03:07.752558,BMW International Open - BMW International Open - Outright,Nicolai Von Dellingshausen,-0.0352,0.0033,0.0385
-2022-06-25 05:02:54.604393,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - X. Schauffele v P. Cantlay - 3rd Round 2 Balls,Xander Schauffele,-0.035999999999999976,0.4762,0.5122
 2022-06-25 05:02:54.534793,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - B. Steele v K. Mitchell - 3rd Round 2 Balls,Keith Mitchell,-0.035999999999999976,0.4762,0.5122
+2022-06-25 05:02:54.604393,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - X. Schauffele v P. Cantlay - 3rd Round 2 Balls,Xander Schauffele,-0.035999999999999976,0.4762,0.5122
 2022-06-25 07:02:57.068069,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - K. Streelman v M. Wallace - 3rd Round 2 Balls,Kevin Streelman,-0.03639999999999999,0.6,0.6364
 2022-06-24 21:03:07.752558,BMW International Open - BMW International Open - Outright,Rasmus Hojgaard,-0.04329999999999999,0.0476,0.0909
 2022-06-25 05:02:54.840973,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Outright,Jin Young Ko,-0.043899999999999995,0.0149,0.0588
