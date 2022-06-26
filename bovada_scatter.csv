@@ -11,8 +11,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-25 16:03:13.211769,BMW International Open - BMW International Open - Outright,Darius Van Driel,0.029500000000000002,0.0345,0.005
 2022-06-25 12:03:30.810938,MLB Futures - MLB 2022 American League West - ALW Winner,Texas Rangers,0.024399999999999998,0.0385,0.0141
 2022-06-25 13:03:30.512302,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - H. Varner v T. Fleetwood - 3rd Round 2 Balls,Tommy Fleetwood,0.023800000000000043,0.5238,0.5
+2022-06-26 00:02:42.301653,BMW International Open - 2/3 Balls - Final Round 2 Balls - K. Samooja v P. Larrazabal - Final Round 2 Balls,Kalle Samooja,0.023799999999999988,0.5,0.4762
 2022-06-25 18:02:43.509072,College Baseball - 2022 College World Series - Odds to Win - College World Series Winner,Oklahoma,0.023799999999999988,0.5,0.4762
+2022-06-26 00:02:44.265255,College Season Props - 2022 - Regular Season Wins - Kansas State - Proposition,Over 6.5,0.022600000000000064,0.6226,0.6
 2022-06-25 15:03:46.173952,Round Match-Ups - Parlays - 3rd Round Match-Up - S. Theegala vs C. Howell - 3rd Round Match-Up,Sahith Theegala,0.02169999999999994,0.5455,0.5238
+2022-06-26 00:02:42.288585,BMW International Open - 2/3 Balls - Final Round 2 Balls - M. Lorenzo-Vera v W. Nienaber - Final Round 2 Balls,Wilco Nienaber,0.02079999999999993,0.5556,0.5348
 2022-06-25 12:03:30.797228,MLB Futures - MLB 2022 American League East - ALE Winner,Boston Red Sox,0.019800000000000005,0.0476,0.0278
 2022-06-25 15:03:45.997977,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - S. Power v S. Theegala - 3rd Round 2 Balls,Sahith Theegala,0.019699999999999995,0.4545,0.4348
 2022-06-25 12:03:30.824653,MLB Futures - MLB 2022 National League Central - NLC Winner,Milwaukee Brewers,0.01880000000000004,0.6552,0.6364
@@ -22,19 +25,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-25 12:03:30.797228,MLB Futures - MLB 2022 American League East - ALE Winner,Tampa Bay Rays,0.014099999999999998,0.0385,0.0244
 2022-06-25 17:02:47.971868,BMW International Open - BMW International Open - Outright,Ryan Fox,0.013999999999999999,0.0909,0.0769
 2022-06-25 16:03:12.630983,Boxing Lines - Oleksandr Usyk vs Anthony Joshua - To Win the Bout,Anthony Joshua,0.013800000000000034,0.3774,0.3636
-2022-06-25 13:03:30.592474,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - C. Davis v K. Kisner - 3rd Round 2 Balls,Kevin Kisner,0.01100000000000001,0.5348,0.5238
 2022-06-25 13:03:30.647815,Round Match-Ups - Parlays - 3rd Round Match-Up - H. Buckley vs W. Clark - 3rd Round Match-Up,Hayden Buckley,0.01100000000000001,0.5348,0.5238
+2022-06-25 13:03:30.592474,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - C. Davis v K. Kisner - 3rd Round 2 Balls,Kevin Kisner,0.01100000000000001,0.5348,0.5238
 2022-06-25 12:03:29.619164,Boxing Lines - Jessica McCaskill vs Alma Ibarra - To Win the Bout,Jessica McCaskill,0.01090000000000002,0.8571,0.8462
 2022-06-25 12:03:29.697966,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Tommy Fury,0.010699999999999932,0.5455,0.5348
 2022-06-25 16:03:13.211769,BMW International Open - BMW International Open - Outright,Kazuki Higa,0.0103,0.0123,0.002
 2022-06-25 20:02:48.313680,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Tommy Fury,0.010099999999999998,0.5556,0.5455
 2022-06-25 17:02:49.321136,MLS - MLS Cup 2022 - Winner,Seattle Sounders,-0.0102,0.0667,0.0769
 2022-06-25 12:03:29.697966,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Jake Paul,-0.01100000000000001,0.5238,0.5348
-2022-06-25 15:03:47.390150,NBA - 2022-2023 NBA Championship Winner - 2022-2023 NBA Championship Winner,Brooklyn Nets,-0.011099999999999999,0.1,0.1111
 2022-06-25 13:03:30.552008,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - W. Simpson v A. Long - 3rd Round 2 Balls,Adam Long,-0.011099999999999999,0.4651,0.4762
+2022-06-25 15:03:47.390150,NBA - 2022-2023 NBA Championship Winner - 2022-2023 NBA Championship Winner,Brooklyn Nets,-0.011099999999999999,0.1,0.1111
+2022-06-25 20:02:48.313680,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Jake Paul,-0.011600000000000055,0.5122,0.5238
 2022-06-25 13:03:30.647815,Round Match-Ups - Parlays - 3rd Round Match-Up - H. Buckley vs W. Clark - 3rd Round Match-Up,Wyndham Clark,-0.011600000000000055,0.5122,0.5238
 2022-06-25 13:03:30.592474,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - C. Davis v K. Kisner - 3rd Round 2 Balls,Cameron Davis,-0.011600000000000055,0.5122,0.5238
-2022-06-25 20:02:48.313680,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Jake Paul,-0.011600000000000055,0.5122,0.5238
 2022-06-25 17:02:47.971868,BMW International Open - BMW International Open - Outright,Jordan Smith,-0.012899999999999995,0.1538,0.1667
 2022-06-25 17:02:49.321136,MLS - MLS Cup 2022 - Winner,New York City FC,-0.013899999999999996,0.1111,0.125
 2022-06-25 15:03:47.390150,NBA - 2022-2023 NBA Championship Winner - 2022-2023 NBA Championship Winner,Golden State Warriors,-0.015100000000000002,0.1667,0.1818
@@ -42,10 +45,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-25 13:03:29.755815,Boxing Lines - Jessica McCaskill vs Alma Ibarra - To Win the Bout,Alma Ibarra,-0.01629999999999998,0.1942,0.2105
 2022-06-25 16:03:13.211769,BMW International Open - BMW International Open - Outright,Daniel Van Tonder,-0.0179,0.0017,0.0196
 2022-06-25 18:02:43.509072,College Baseball - 2022 College World Series - Odds to Win - College World Series Winner,Ole Mississippi,-0.01970000000000005,0.5455,0.5652
+2022-06-26 00:02:44.265255,College Season Props - 2022 - Regular Season Wins - Kansas State - Proposition,Under 6.5,-0.020699999999999996,0.4444,0.4651
 2022-06-25 13:03:30.512302,Travelers Championship - 2/3 Balls - 3rd Round 2 Balls - H. Varner v T. Fleetwood - 3rd Round 2 Balls,Harold Varner III,-0.02169999999999994,0.5238,0.5455
+2022-06-26 00:02:42.288585,BMW International Open - 2/3 Balls - Final Round 2 Balls - M. Lorenzo-Vera v W. Nienaber - Final Round 2 Balls,Mike Lorenzo-Vera,-0.022600000000000064,0.5122,0.5348
 2022-06-25 16:03:13.211769,BMW International Open - BMW International Open - Outright,Antoine Rozner,-0.0234,0.001,0.0244
-2022-06-25 17:02:47.971868,BMW International Open - BMW International Open - Outright,Haotong Li,-0.023800000000000043,0.5,0.5238
 2022-06-25 15:03:46.173952,Round Match-Ups - Parlays - 3rd Round Match-Up - S. Theegala vs C. Howell - 3rd Round Match-Up,Charles Howell III,-0.023800000000000043,0.5,0.5238
+2022-06-25 17:02:47.971868,BMW International Open - BMW International Open - Outright,Haotong Li,-0.023800000000000043,0.5,0.5238
+2022-06-26 00:02:42.301653,BMW International Open - 2/3 Balls - Final Round 2 Balls - K. Samooja v P. Larrazabal - Final Round 2 Balls,Pablo Larrazabal,-0.026499999999999968,0.5652,0.5917
 2022-06-25 16:03:12.630983,Boxing Lines - Oleksandr Usyk vs Anthony Joshua - To Win the Bout,Oleksandr Usyk,-0.026800000000000046,0.6875,0.7143
 2022-06-25 16:03:13.211769,BMW International Open - BMW International Open - Outright,Maximilian Kieffer,-0.0281,0.0013,0.0294
 2022-06-25 17:02:47.261551,Superhero Movie Specials - Will Any Of These Characters Appear In Marvel's 'Black Panther: Wakanda Forever' - Proposition,Gargantos,-0.03420000000000001,0.0769,0.1111
