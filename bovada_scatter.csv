@@ -14,26 +14,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-27 10:03:11.619047,Eliteserien - Norway Eliteserien 2022 - Outright,Strømsgodset IF,0.028000000000000004,0.0476,0.0196
 2022-06-27 10:03:10.484163,MLS - MLS Cup 2022 - Winner,Nashville SC,0.024299999999999995,0.0588,0.0345
 2022-06-27 10:03:10.495948,MLS - MLS Cup 2022 - Top Goalscorer,Hany Mukhtar,0.0242,0.0909,0.0667
+2022-06-27 17:03:15.388831,Boxing Lines - Oleksandr Usyk vs Anthony Joshua - To Win the Bout,Oleksandr Usyk,0.02080000000000004,0.6875,0.6667
 2022-06-27 08:02:48.191266,MLB Futures - MLB 2022 Player Awards - American League MVP,Rafael Devers,0.0208,0.0833,0.0625
 2022-06-27 08:02:48.181489,MLB Futures - MLB 2022 Player Awards - American League Cy Young Award,Dylan Cease,0.019099999999999992,0.0667,0.0476
 2022-06-27 06:03:04.182006,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,0.018100000000000005,0.4348,0.4167
 2022-06-27 08:02:48.199371,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Carlos Rodon,0.014399999999999996,0.0769,0.0625
 2022-06-27 08:02:48.181489,MLB Futures - MLB 2022 Player Awards - American League Cy Young Award,Shohei Ohtani,0.014100000000000001,0.0526,0.0385
+2022-06-27 17:03:20.129017,John Deere Classic - John Deere Classic  - Outright,Webb Simpson,0.013999999999999999,0.0909,0.0769
 2022-06-27 06:03:04.182006,MLB Futures - MLB 2022 American League Central - ALC Winner,Cleveland Guardians,0.013600000000000001,0.3077,0.2941
-2022-06-27 06:03:04.167063,MLB Futures - MLB 2022 Amercian League - AL Winner,Toronto Blue Jays,0.012899999999999995,0.1667,0.1538
 2022-06-27 08:02:46.039985,Euro Basket - Euro Basket 2022 - Outright,Slovenia,0.012899999999999995,0.1667,0.1538
+2022-06-27 06:03:04.167063,MLB Futures - MLB 2022 Amercian League - AL Winner,Toronto Blue Jays,0.012899999999999995,0.1667,0.1538
 2022-06-27 13:03:00.269114,NBA - 2022-2023 NBA Western Conference - Western Conference Winner,Portland Trail Blazers,0.011399999999999997,0.0278,0.0164
+2022-06-27 17:03:20.129017,John Deere Classic - John Deere Classic  - Outright,Adam Hadwin,0.011199999999999995,0.0588,0.0476
 2022-06-27 06:03:04.189060,MLB Futures - MLB 2022 American League East - ALE Winner,Boston Red Sox,0.010600000000000002,0.0323,0.0217
 2022-06-27 10:03:10.484163,MLS - MLS Cup 2022 - Winner,Los Angeles FC,0.010399999999999993,0.2326,0.2222
 2022-06-27 08:02:45.755091,Boxing Lines - Ryan Garcia vs Javier Fortuna - To Win the Bout,Javier Fortuna,0.010200000000000015,0.1481,0.1379
 2022-06-27 06:03:04.167063,MLB Futures - MLB 2022 Amercian League - AL Winner,Boston Red Sox,-0.0102,0.0667,0.0769
 2022-06-27 10:03:10.484163,MLS - MLS Cup 2022 - Winner,Seattle Sounders,-0.0102,0.0667,0.0769
-2022-06-27 13:03:00.269114,NBA - 2022-2023 NBA Western Conference - Western Conference Winner,Minnesota Timberwolves,-0.010700000000000001,0.0278,0.0385
 2022-06-27 08:02:48.191266,MLB Futures - MLB 2022 Player Awards - American League MVP,Vladimir Guerrero Jr,-0.010700000000000001,0.0278,0.0385
+2022-06-27 13:03:00.269114,NBA - 2022-2023 NBA Western Conference - Western Conference Winner,Minnesota Timberwolves,-0.010700000000000001,0.0278,0.0385
 2022-06-27 08:02:48.191266,MLB Futures - MLB 2022 Player Awards - American League MVP,Aaron Judge,-0.01100000000000001,0.5238,0.5348
 2022-06-27 10:03:10.495948,MLS - MLS Cup 2022 - Top Goalscorer,Jeremy Ebobisse,-0.011099999999999999,0.1,0.1111
-2022-06-27 10:03:10.484163,MLS - MLS Cup 2022 - Winner,New York City FC,-0.011099999999999999,0.1,0.1111
 2022-06-27 13:03:00.269114,NBA - 2022-2023 NBA Western Conference - Western Conference Winner,Memphis Grizzlies,-0.011099999999999999,0.1,0.1111
+2022-06-27 10:03:10.484163,MLS - MLS Cup 2022 - Winner,New York City FC,-0.011099999999999999,0.1,0.1111
 2022-06-27 10:03:10.495948,MLS - MLS Cup 2022 - Top Goalscorer,Jesus Jimenez,-0.011199999999999995,0.0476,0.0588
 2022-06-27 10:03:10.484163,MLS - MLS Cup 2022 - Winner,New York Red Bulls,-0.011199999999999995,0.0476,0.0588
 2022-06-27 08:02:48.191266,MLB Futures - MLB 2022 Player Awards - American League MVP,Luis Robert,-0.013,0.0066,0.0196
@@ -48,9 +51,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-27 08:02:48.199371,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Corbin Burnes,-0.015100000000000002,0.1667,0.1818
 2022-06-27 05:03:53.679743,CFL - Odds to win 109th (2022) Grey Cup - Grey Cup Winner,Calgary Stampeders,-0.015100000000000002,0.1667,0.1818
 2022-06-27 08:02:48.181489,MLB Futures - MLB 2022 Player Awards - American League Cy Young Award,Lucas Giolito,-0.0162,0.0116,0.0278
+2022-06-27 06:03:04.222423,MLB Futures - MLB 2022 National League West - NLW Winner,San Francisco Giants,-0.01759999999999999,0.1,0.1176
 2022-06-27 13:03:00.269114,NBA - 2022-2023 NBA Western Conference - Western Conference Winner,Dallas Mavericks,-0.01759999999999999,0.1,0.1176
 2022-06-27 13:03:00.269114,NBA - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,-0.01759999999999999,0.1,0.1176
-2022-06-27 06:03:04.222423,MLB Futures - MLB 2022 National League West - NLW Winner,San Francisco Giants,-0.01759999999999999,0.1,0.1176
 2022-06-27 10:03:10.495948,MLS - MLS Cup 2022 - Top Goalscorer,Carlos Vela,-0.018099999999999998,0.0588,0.0769
 2022-06-27 10:03:11.721271,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Malmö FF,-0.019000000000000017,0.2667,0.2857
 2022-06-27 08:02:48.181489,MLB Futures - MLB 2022 Player Awards - American League Cy Young Award,Gerrit Cole,-0.019699999999999995,0.1053,0.125
