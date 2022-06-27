@@ -21,8 +21,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-27 06:03:04.182006,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,0.018100000000000005,0.4348,0.4167
 2022-06-27 01:02:34.647551,College Season Props - 2022 - Regular Season Wins - USC - Proposition,Over 9.5,0.017299999999999982,0.5917,0.5744
 2022-06-27 01:02:34.479694,College Season Props - 2022 - Regular Season Wins - Arizona - Proposition,Over 2.5,0.01539999999999997,0.6154,0.6
-2022-06-27 03:02:50.822414,MLB Futures - MLB 2022 Amercian League - AL Winner,Boston Red Sox,0.014399999999999996,0.0769,0.0625
 2022-06-27 08:02:48.199371,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Carlos Rodon,0.014399999999999996,0.0769,0.0625
+2022-06-27 03:02:50.822414,MLB Futures - MLB 2022 Amercian League - AL Winner,Boston Red Sox,0.014399999999999996,0.0769,0.0625
 2022-06-27 08:02:48.181489,MLB Futures - MLB 2022 Player Awards - American League Cy Young Award,Shohei Ohtani,0.014100000000000001,0.0526,0.0385
 2022-06-27 06:03:04.182006,MLB Futures - MLB 2022 American League Central - ALC Winner,Cleveland Guardians,0.013600000000000001,0.3077,0.2941
 2022-06-27 08:02:46.039985,Euro Basket - Euro Basket 2022 - Outright,Slovenia,0.012899999999999995,0.1667,0.1538
@@ -32,22 +32,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-27 01:02:34.686736,College Season Props - 2022 - Regular Season Wins - Coastal Carolina - Proposition,Under 8,0.010599999999999998,0.4651,0.4545
 2022-06-27 10:03:10.484163,MLS - MLS Cup 2022 - Winner,Los Angeles FC,0.010399999999999993,0.2326,0.2222
 2022-06-27 08:02:45.755091,Boxing Lines - Ryan Garcia vs Javier Fortuna - To Win the Bout,Javier Fortuna,0.010200000000000015,0.1481,0.1379
-2022-06-26 23:02:40.536922,Boxing Lines - Ryan Garcia vs Javier Fortuna - To Win the Bout,Javier Fortuna,0.010200000000000015,0.1481,0.1379
-2022-06-27 01:02:34.487722,College Season Props - 2022 - Regular Season Wins - Arkansas - Proposition,Under 7.5,0.010099999999999998,0.4545,0.4444
 2022-06-27 01:02:34.979144,NFL Futures - 2022/2023 Division Winner - AFC South - AFC South Winner,Indianapolis Colts,0.010099999999999998,0.5556,0.5455
-2022-06-27 01:02:34.993687,NFL Futures - 2022/2023 Division Winner - NFC East - NFC East Winner,Dallas Cowboys,-0.010099999999999998,0.4444,0.4545
+2022-06-27 01:02:34.487722,College Season Props - 2022 - Regular Season Wins - Arkansas - Proposition,Under 7.5,0.010099999999999998,0.4545,0.4444
 2022-06-27 01:02:33.929414,College Season Props - 2022 - Regular Season Wins - Nebraska - Proposition,Over 7.5,-0.010099999999999998,0.5455,0.5556
 2022-06-27 01:02:34.230591,College Season Props - 2022 - Regular Season Wins - Eastern Michigan - Proposition,Over 6.5,-0.010099999999999998,0.4444,0.4545
-2022-06-27 06:03:04.167063,MLB Futures - MLB 2022 Amercian League - AL Winner,Boston Red Sox,-0.0102,0.0667,0.0769
+2022-06-27 01:02:34.993687,NFL Futures - 2022/2023 Division Winner - NFC East - NFC East Winner,Dallas Cowboys,-0.010099999999999998,0.4444,0.4545
 2022-06-27 10:03:10.484163,MLS - MLS Cup 2022 - Winner,Seattle Sounders,-0.0102,0.0667,0.0769
+2022-06-27 06:03:04.167063,MLB Futures - MLB 2022 Amercian League - AL Winner,Boston Red Sox,-0.0102,0.0667,0.0769
 2022-06-27 01:02:32.600693,Boxing Lines - Ryan Garcia vs Javier Fortuna - To Win the Bout,Javier Fortuna,-0.010200000000000015,0.1379,0.1481
 2022-06-27 01:02:34.479694,College Season Props - 2022 - Regular Season Wins - Arizona - Proposition,Under 2.5,-0.010599999999999998,0.4545,0.4651
 2022-06-27 08:02:48.191266,MLB Futures - MLB 2022 Player Awards - American League MVP,Vladimir Guerrero Jr,-0.010700000000000001,0.0278,0.0385
 2022-06-27 08:02:48.191266,MLB Futures - MLB 2022 Player Awards - American League MVP,Aaron Judge,-0.01100000000000001,0.5238,0.5348
 2022-06-27 10:03:10.484163,MLS - MLS Cup 2022 - Winner,New York City FC,-0.011099999999999999,0.1,0.1111
 2022-06-27 10:03:10.495948,MLS - MLS Cup 2022 - Top Goalscorer,Jeremy Ebobisse,-0.011099999999999999,0.1,0.1111
-2022-06-27 10:03:10.484163,MLS - MLS Cup 2022 - Winner,New York Red Bulls,-0.011199999999999995,0.0476,0.0588
 2022-06-27 10:03:10.495948,MLS - MLS Cup 2022 - Top Goalscorer,Jesus Jimenez,-0.011199999999999995,0.0476,0.0588
+2022-06-27 10:03:10.484163,MLS - MLS Cup 2022 - Winner,New York Red Bulls,-0.011199999999999995,0.0476,0.0588
 2022-06-27 01:02:34.647551,College Season Props - 2022 - Regular Season Wins - USC - Proposition,Under 9.5,-0.0116,0.4762,0.4878
 2022-06-27 03:02:50.822414,MLB Futures - MLB 2022 Amercian League - AL Winner,Toronto Blue Jays,-0.012899999999999995,0.1538,0.1667
 2022-06-27 08:02:48.191266,MLB Futures - MLB 2022 Player Awards - American League MVP,Luis Robert,-0.013,0.0066,0.0196
