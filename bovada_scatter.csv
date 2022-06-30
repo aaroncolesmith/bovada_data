@@ -1,15 +1,12 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-30 02:03:03.765286,"Stranger Things Specials - Will Eleven and Hopper Reunite In Season 4, Volume 2 - Proposition",Yes,0.6815,0.8482,0.1667
 2022-06-30 07:02:49.120386,MLB Futures - MLB 2022 National League East - NLE Winner,Atlanta Braves,0.0847,0.3704,0.2857
-2022-06-29 21:02:48.459951,Video Game Specials - Which city will Grand Theft Auto 6 be based on? - Outright,Miami,0.06520000000000004,0.5652,0.5
 2022-06-30 03:02:44.565918,Political Specials - Which Party will control the Senate after the 2022 Midterm Election? - Winning Party,Democratic,0.06490000000000001,0.3774,0.3125
 2022-06-30 03:02:44.618583,2022 Gubernatorial Elections - Kansas - Kansas winner,Democrats,0.057499999999999996,0.2985,0.241
-2022-06-29 20:02:46.772834,"Stranger Things Specials - Will Eleven and Hopper Reunite In Season 4, Volume 2 - Proposition",Yes,0.05559999999999998,0.1667,0.1111
 2022-06-30 05:02:54.953934,MLB Futures - MLB 2022 Player Awards - American League MVP,Shohei Ohtani,0.044499999999999984,0.2667,0.2222
 2022-06-30 03:02:44.636230,2022 Gubernatorial Elections - Nevada - Nevada winner,Democrats,0.04139999999999999,0.4762,0.4348
 2022-06-30 03:02:44.599404,2022 Gubernatorial Elections - Arizona - Arizona winner,Republicans,0.03980000000000006,0.6552,0.6154
 2022-06-30 02:03:03.636602,2022 Nathan’s Famous International Hot Dog Eating Contest - Nathan's Hot Dog Contest 2022  - Head-To-Head - Nick Wehry vs Miki Sudo,Nick Wehry,0.03959999999999997,0.5744,0.5348
-2022-06-29 21:02:48.138601,2022 Nathan’s Famous International Hot Dog Eating Contest - Nathan's Hot Dog Contest 2022  - Total Dogs Eaten by Miki Sudo,Under 50.5,0.0393,0.6226,0.5833
 2022-06-30 06:02:50.473191,Business Specials - Tesla (TSLA) Price At Market Close on January 3 2023 - Proposition,Under 658.00 USD,0.0363,0.7333,0.697
 2022-06-30 03:02:46.182962,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,Ohio State,0.0353,0.2353,0.2
 2022-06-30 06:02:52.398601,John Deere Classic - 2/3 Balls - 1st Round 3 Balls - C. Bezuidenhout / H. Lebioda / S. Piercy - 1st Round 3 Balls,Scott Piercy,0.032299999999999995,0.3448,0.3125
@@ -21,7 +18,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-29 23:02:52.368407,Tournament Match-Ups - Parlays - Tournament Match Up - R. Hojgaard v T. Merritt - Tournament Match Up,Troy Merritt,0.026499999999999968,0.5917,0.5652
 2022-06-30 02:03:05.119049,NBA Specials - Where will Bradley Beal play Game 1 next Season 2022/23 - Bradley Beal Game 1 in 2022/23,Miami Heat,0.024999999999999994,0.125,0.1
 2022-06-29 22:02:39.397247,NBA - 2022-2023 NBA Eastern Conference  - Eastern Conference Winner,Atlanta Hawks,0.024,0.0625,0.0385
-2022-06-29 20:02:46.798050,Stranger Things Specials - What Episode of Season 4 Volume 2 Will Will's Painting Be Opened? - Proposition,Chapter Nine: The Piggyback,0.023800000000000043,0.5238,0.5
 2022-06-30 06:02:52.656054,Round Match-Ups - Parlays - 1st Round Match-Up - H. Lebioda v S. Piercy - 1st Round Match-Up,Scott Piercy,0.023800000000000043,0.5238,0.5
 2022-06-29 23:02:51.278186,John Deere Classic - 2/3 Balls - 1st Round 3 Balls - C. Champ / C. Davis / M. Hoffmann - 1st Round 3 Balls,Cameron Davis,0.022699999999999998,0.4878,0.4651
 2022-06-30 05:02:59.077414,John Deere Classic - 2/3 Balls - 1st Round 3 Balls - C. Ramey / J.T. Poston / R. Brehm - 1st Round 3 Balls,J.T. Poston,0.022699999999999998,0.4878,0.4651
@@ -29,9 +25,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-30 04:03:09.759796,Irish Open - 2/3 Balls - 1st Round 3 Balls - G. Green / J. Brun / L. Nemecz - 1st Round 3 Balls,Julien Brun,0.02260000000000001,0.4,0.3774
 2022-06-29 23:02:52.231573,Irish Open - 2/3 Balls - 1st Round 3 Balls - D. Gavins / M. Kinhult / M. Pavon - 1st Round 3 Balls,Matthieu Pavon,0.02260000000000001,0.4,0.3774
 2022-06-30 03:02:47.543613,John Deere Classic - 2/3 Balls - 1st Round 3 Balls - K. Streelman / M. Hensby / N. Watney - 1st Round 3 Balls,Kevin Streelman,0.02169999999999994,0.5455,0.5238
-2022-06-30 02:03:08.561722,Round Match-Ups - Parlays - 1st Round Match-Up - H. Buckley v B. Garnett - 1st Round Match-Up,Hayden Buckley,0.02169999999999994,0.5455,0.5238
-2022-06-29 23:02:51.654016,Round Match-Ups - Parlays - 1st Round Match-Up - H. Lebioda v S. Piercy - 1st Round Match-Up,Hank Lebioda,0.02169999999999994,0.5455,0.5238
 2022-06-29 23:02:51.676863,Round Match-Ups - Parlays - 1st Round Match-Up - A. Novak v A. Smotherman - 1st Round Match-Up,Austin Smotherman,0.02169999999999994,0.5455,0.5238
+2022-06-29 23:02:51.654016,Round Match-Ups - Parlays - 1st Round Match-Up - H. Lebioda v S. Piercy - 1st Round Match-Up,Hank Lebioda,0.02169999999999994,0.5455,0.5238
+2022-06-30 02:03:08.561722,Round Match-Ups - Parlays - 1st Round Match-Up - H. Buckley v B. Garnett - 1st Round Match-Up,Hayden Buckley,0.02169999999999994,0.5455,0.5238
 2022-06-30 02:03:07.849703,NFL Futures - 2022/2023 Division Winner - AFC North - AFC North Winner,Baltimore Ravens,0.02100000000000002,0.3846,0.3636
 2022-06-29 23:02:52.172110,Irish Open - 2/3 Balls - 1st Round 3 Balls - A. Wu / R. Langasque / T. Lawrence - 1st Round 3 Balls,Ashun Wu,0.020799999999999985,0.3333,0.3125
 2022-06-30 04:03:09.051986,Tournament Match-Ups - Parlays - Tournament Match-Ups - A. Ancer v T. Gooch - Tournament Match Up,Talor Gooch,0.02079999999999993,0.5556,0.5348
@@ -40,50 +36,44 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-30 03:02:44.674373,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Gavin Newsom,0.019099999999999992,0.0667,0.0476
 2022-06-30 07:02:49.022083,MLB Futures - MLB 2022 Amercian League - AL Winner,New York Yankees,0.018799999999999983,0.3636,0.3448
 2022-06-30 08:02:39.612427,Boxing Lines - Mairis Briedis vs Opetaia Jai Tapu - To Win the Bout,Opetaia Jai Tapu,0.018299999999999983,0.3846,0.3663
-2022-06-30 03:02:47.651564,Round Match-Ups - Parlays - 1st Round Match-Up - C. Davis v C. Champ - 1st Round Match-Up ,Cameron Davis,0.018100000000000005,0.5833,0.5652
 2022-06-29 23:02:52.191652,Irish Open - 2/3 Balls - 1st Round 3 Balls - J. Kruyswijk / M. Kieffer / S.G. Rodriguez - 1st Round 3 Balls,Maximilian Kieffer,0.018100000000000005,0.4348,0.4167
 2022-06-30 06:02:52.345464,John Deere Classic - 2/3 Balls - 1st Round 3 Balls - B. Wu / D. Lipsky / H. Higgs - 1st Round 3 Balls,David Lipsky,0.018100000000000005,0.4348,0.4167
-2022-06-30 06:02:52.374580,John Deere Classic - 2/3 Balls - 1st Round 3 Balls - B. Snedeker / C. Howell III / S. Theegala - 1st Round 3 Balls,Charles Howell III,0.016699999999999993,0.4167,0.4
+2022-06-30 03:02:47.651564,Round Match-Ups - Parlays - 1st Round Match-Up - C. Davis v C. Champ - 1st Round Match-Up ,Cameron Davis,0.018100000000000005,0.5833,0.5652
 2022-06-29 23:02:52.349433,Irish Open - 2/3 Balls - 1st Round 3 Balls - G. Green / J. Brun / L. Nemecz - 1st Round 3 Balls,Lukas Nemecz,0.016699999999999993,0.4167,0.4
+2022-06-30 06:02:52.374580,John Deere Classic - 2/3 Balls - 1st Round 3 Balls - B. Snedeker / C. Howell III / S. Theegala - 1st Round 3 Balls,Charles Howell III,0.016699999999999993,0.4167,0.4
 2022-06-29 23:02:52.422181,Tournament Match-Ups - Parlays - Tournament Match Up - K. Kitayama v N. Hojgaard - Tournament Match Up,Kurt Kitayama,0.016699999999999937,0.6,0.5833
 2022-06-30 07:02:49.037881,MLB Futures - MLB 2022 National League - NL Winner,St. Louis Cardinals,0.016600000000000004,0.0833,0.0667
 2022-06-30 03:02:46.182962,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,USC,0.015300000000000001,0.0476,0.0323
 2022-06-30 03:02:44.727762,Brazilian Politics - 2022 Brazilian Presidential Election - Winner,Lula da Silva,0.015100000000000002,0.8333,0.8182
 2022-06-29 23:02:52.253216,Irish Open - 2/3 Balls - 1st Round 3 Balls - K. Broberg / M. Korhonen / R. Ramsay - 1st Round 3 Balls,Mikko Korhonen,0.01419999999999999,0.3846,0.3704
-2022-06-29 20:02:47.073187,Copa Libertadores - Copa Libertadores 2022 - Winner,Estudiantes La Plata,0.014100000000000001,0.0526,0.0385
 2022-06-30 03:02:44.674373,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Alexandria Ocasio-Cortez,0.014099999999999998,0.0435,0.0294
-2022-06-30 01:02:33.102584,John Deere Classic - John Deere Classic - Outright,Webb Simpson,0.013999999999999999,0.0909,0.0769
 2022-06-30 02:03:08.940917,Portland - Portland - Outright,Talor Gooch,0.013999999999999999,0.0909,0.0769
-2022-06-29 21:02:47.317816,NBA Specials - Where will DeAndre Ayton play next season? - DeAndre Ayton to play Game 1 2022/23 Season,San Antonio Spurs,0.013899999999999996,0.125,0.1111
-2022-06-29 23:02:52.191652,Irish Open - 2/3 Balls - 1st Round 3 Balls - J. Kruyswijk / M. Kieffer / S.G. Rodriguez - 1st Round 3 Balls,Jacques Kruyswijk,0.013800000000000034,0.3774,0.3636
+2022-06-30 01:02:33.102584,John Deere Classic - John Deere Classic - Outright,Webb Simpson,0.013999999999999999,0.0909,0.0769
 2022-06-29 23:02:52.242211,Irish Open - 2/3 Balls - 1st Round 3 Balls - A. Rozner / M. Kawamura / M. Jordan - 1st Round 3 Balls,Masahiro Kawamura,0.013800000000000034,0.3774,0.3636
+2022-06-29 23:02:52.191652,Irish Open - 2/3 Balls - 1st Round 3 Balls - J. Kruyswijk / M. Kieffer / S.G. Rodriguez - 1st Round 3 Balls,Jacques Kruyswijk,0.013800000000000034,0.3774,0.3636
 2022-06-29 23:02:52.305169,Irish Open - 2/3 Balls - 1st Round 3 Balls - A. Bjork / E. Molinari / N. Hojgaard - 1st Round 3 Balls,Alexander Bjork,0.013800000000000034,0.3774,0.3636
 2022-06-29 23:02:52.325239,Irish Open - 2/3 Balls - 1st Round 3 Balls - J. Veerman / J. Catlin / S. Valimaki - 1st Round 3 Balls,John Catlin,0.013800000000000034,0.3774,0.3636
 2022-06-30 03:02:44.574147,Political Specials - Which Party will win the House in the 2022 Midterm Election? - Winning Party,Democratic,0.012899999999999995,0.1667,0.1538
 2022-06-30 05:02:54.150917,2022 Nathan’s Famous International Hot Dog Eating Contest - Nathan's Hot Dog Contest 2022  - 2022 Mens Winner,Joey Chestnut,0.012300000000000089,0.9804,0.9681
 2022-06-30 02:03:07.849703,NFL Futures - 2022/2023 Division Winner - AFC North - AFC North Winner,Cincinnati Bengals,0.012299999999999978,0.3571,0.3448
 2022-06-30 02:03:07.339782,College Season Props - 2022 - Regular Season Wins - Coastal Carolina - Proposition,Under 8,0.012199999999999989,0.5,0.4878
-2022-06-29 22:02:39.388352,NBA - 2022-2023 NBA Championship Winner - 2022-2023 NBA Championship Winner,Dallas Mavericks,0.011199999999999995,0.0588,0.0476
 2022-06-30 01:02:35.062032,Professional Baseball - NPB 2022 - Outright,Hiroshima Toyo Carp,0.011199999999999995,0.0588,0.0476
+2022-06-29 22:02:39.388352,NBA - 2022-2023 NBA Championship Winner - 2022-2023 NBA Championship Winner,Dallas Mavericks,0.011199999999999995,0.0588,0.0476
+2022-06-29 23:02:50.461160,NBA - 2022-2023 NBA Western Conference - Western Conference Winner,Memphis Grizzlies,0.011099999999999999,0.1111,0.1
 2022-06-30 02:03:07.891279,NFL Futures - 2022/2023 Division Winner - NFC East - NFC East Winner,New York Giants,0.011099999999999999,0.1111,0.1
 2022-06-30 01:02:35.129349,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Offensive Rookie of the Year,Drake London,0.011099999999999999,0.1111,0.1
-2022-06-29 23:02:50.461160,NBA - 2022-2023 NBA Western Conference - Western Conference Winner,Memphis Grizzlies,0.011099999999999999,0.1111,0.1
-2022-06-29 21:02:47.702537,Boxing Lines - Mark Magsayo vs Rey Vargas - To Win the Bout,Mark Magsayo,0.01100000000000001,0.5348,0.5238
 2022-06-30 01:02:35.241201,NFL Season Props - NFL 2022/23 Regular Season Win Totals - Kansas City Chiefs,Under 10.5,0.01100000000000001,0.5348,0.5238
 2022-06-30 02:03:04.982626,NBA - 2022-2023 NBA Championship Winner - 2022-2023 NBA Championship Winner,Los Angeles Clippers,0.010899999999999993,0.1538,0.1429
 2022-06-29 23:02:52.201669,Irish Open - 2/3 Balls - 1st Round 3 Balls - S. Power / S. Lowry / T. Hatton - 1st Round 3 Balls,Tyrrell Hatton,0.010699999999999987,0.3333,0.3226
-2022-06-29 21:02:48.127668,2022 Nathan’s Famous International Hot Dog Eating Contest - Nathan's Hot Dog Contest 2022  - Total Dogs Eaten by Joey Chestnut,Over 74.5,0.010699999999999932,0.5455,0.5348
 2022-06-30 02:03:08.873497,Tournament Match-Ups - Parlays - Tournament Match Up - C. Reavie v K. Streelman - Tournament Match Up,Kevin Streelman,0.010699999999999932,0.5455,0.5348
-2022-06-29 23:02:52.156006,Irish Open - Irish Open - Outright,Romain Langasque,0.010100000000000001,0.0345,0.0244
 2022-06-30 04:03:08.009685,John Deere Classic - John Deere Classic - Outright,J.T. Poston,0.010100000000000001,0.0345,0.0244
-2022-06-29 21:02:47.824166,Crypto Specials - Highest Price of Bitcoin Between July 1 2022 and January 1 2023 - Proposition,"Under $40,000 USD",0.010099999999999998,0.6875,0.6774
-2022-06-30 08:02:39.612427,Boxing Lines - Mairis Briedis vs Opetaia Jai Tapu - To Win the Bout,Mairis Briedis,-0.010099999999999998,0.6774,0.6875
+2022-06-29 23:02:52.156006,Irish Open - Irish Open - Outright,Romain Langasque,0.010100000000000001,0.0345,0.0244
 2022-06-30 00:02:54.295859,KBO League - KBO League 2022 - Outright,SSG Landers,-0.010099999999999998,0.4444,0.4545
-2022-06-29 21:02:48.127668,2022 Nathan’s Famous International Hot Dog Eating Contest - Nathan's Hot Dog Contest 2022  - Total Dogs Eaten by Joey Chestnut,Under 74.5,-0.010099999999999998,0.5455,0.5556
-2022-06-30 01:02:35.129349,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Offensive Rookie of the Year,Desmond Ridder,-0.0102,0.0667,0.0769
-2022-06-30 01:02:35.129349,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Offensive Rookie of the Year,Jameson Williams,-0.0102,0.0667,0.0769
+2022-06-30 08:02:39.612427,Boxing Lines - Mairis Briedis vs Opetaia Jai Tapu - To Win the Bout,Mairis Briedis,-0.010099999999999998,0.6774,0.6875
 2022-06-30 05:02:54.150917,2022 Nathan’s Famous International Hot Dog Eating Contest - Nathan's Hot Dog Contest 2022  - 2022 Mens Winner,Nick Wehry,-0.0102,0.0667,0.0769
-2022-06-29 21:02:47.702537,Boxing Lines - Mark Magsayo vs Rey Vargas - To Win the Bout,Rey Vargas,-0.010699999999999932,0.5348,0.5455
+2022-06-30 01:02:35.129349,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Offensive Rookie of the Year,Jameson Williams,-0.0102,0.0667,0.0769
+2022-06-30 01:02:35.129349,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Offensive Rookie of the Year,Desmond Ridder,-0.0102,0.0667,0.0769
+2022-06-30 09:02:49.712077,John Deere Classic - John Deere Classic - Outright,Webb Simpson,-0.0102,0.0667,0.0769
 2022-06-30 01:02:35.241201,NFL Season Props - NFL 2022/23 Regular Season Win Totals - Kansas City Chiefs,Over 10.5,-0.010699999999999932,0.5348,0.5455
 2022-06-29 23:02:52.242211,Irish Open - 2/3 Balls - 1st Round 3 Balls - A. Rozner / M. Kawamura / M. Jordan - 1st Round 3 Balls,Matthew Jordan,-0.010699999999999987,0.3226,0.3333
 2022-06-30 06:02:51.744663,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Houston Astros,-0.010899999999999993,0.1429,0.1538
@@ -101,8 +91,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-30 01:02:35.129349,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Offensive Rookie of the Year,Jahan Dotson,-0.014100000000000001,0.0385,0.0526
 2022-06-30 07:02:49.120386,MLB Futures - MLB 2022 National League East - NLE Winner,Philadelphia Phillies,-0.014399999999999996,0.0625,0.0769
 2022-06-30 07:02:49.022083,MLB Futures - MLB 2022 Amercian League - AL Winner,Chicago White Sox,-0.014399999999999996,0.0625,0.0769
-2022-06-29 21:02:47.824166,Crypto Specials - Highest Price of Bitcoin Between July 1 2022 and January 1 2023 - Proposition,"Over $40,000 USD",-0.01479999999999998,0.3774,0.3922
-2022-06-29 20:02:46.798050,Stranger Things Specials - What Episode of Season 4 Volume 2 Will Will's Painting Be Opened? - Proposition,Chapter Eight: Papa,-0.015400000000000025,0.3846,0.4
 2022-06-30 04:03:09.759796,Irish Open - 2/3 Balls - 1st Round 3 Balls - G. Green / J. Brun / L. Nemecz - 1st Round 3 Balls,Lukas Nemecz,-0.016699999999999993,0.4,0.4167
 2022-06-30 00:02:54.295859,KBO League - KBO League 2022 - Outright,Kia Tigers,-0.0179,0.125,0.1429
 2022-06-30 06:02:52.374580,John Deere Classic - 2/3 Balls - 1st Round 3 Balls - B. Snedeker / C. Howell III / S. Theegala - 1st Round 3 Balls,Sahith Theegala,-0.018100000000000005,0.4167,0.4348
@@ -115,33 +103,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-30 07:02:49.087078,MLB Futures - MLB 2022 American League West - ALW Winner,Texas Rangers,-0.020700000000000003,0.0116,0.0323
 2022-06-30 02:03:09.207965,Tournament Match-Ups - Parlays - Tournament Match-Ups - A. Ancer v T. Gooch - Tournament Match Up,Abraham Ancer,-0.02079999999999993,0.5348,0.5556
 2022-06-30 05:02:59.077414,John Deere Classic - 2/3 Balls - 1st Round 3 Balls - C. Ramey / J.T. Poston / R. Brehm - 1st Round 3 Balls,Chad Ramey,-0.02100000000000002,0.3636,0.3846
-2022-06-30 02:03:03.692792,2022 Nathan’s Famous International Hot Dog Eating Contest - Nathan's Hot Dog Contest 2022  - Total Dogs Eaten by Michelle Lesco,Over 31.5,-0.02169999999999994,0.5238,0.5455
 2022-06-30 06:02:52.656054,Round Match-Ups - Parlays - 1st Round Match-Up - H. Lebioda v S. Piercy - 1st Round Match-Up,Hank Lebioda,-0.02169999999999994,0.5238,0.5455
+2022-06-30 02:03:03.692792,2022 Nathan’s Famous International Hot Dog Eating Contest - Nathan's Hot Dog Contest 2022  - Total Dogs Eaten by Michelle Lesco,Over 31.5,-0.02169999999999994,0.5238,0.5455
 2022-06-30 03:02:46.182962,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,Georgia,-0.022199999999999998,0.2,0.2222
 2022-06-30 04:03:09.051986,Tournament Match-Ups - Parlays - Tournament Match-Ups - A. Ancer v T. Gooch - Tournament Match Up,Abraham Ancer,-0.022600000000000064,0.5122,0.5348
 2022-06-29 23:02:51.609067,Round Match-Ups - Parlays - 1st Round Match-Up - W. Simpson v J. Day - 1st Round Match-Up,Jason Day,-0.022699999999999998,0.4651,0.4878
 2022-06-30 07:02:49.104596,MLB Futures - MLB 2022 National League Central - NLC Winner,Milwaukee Brewers,-0.023799999999999932,0.6429,0.6667
-2022-06-29 23:02:52.368407,Tournament Match-Ups - Parlays - Tournament Match Up - R. Hojgaard v T. Merritt - Tournament Match Up,Rasmus Hojgaard,-0.023799999999999988,0.4762,0.5
 2022-06-29 23:02:51.721527,Tournament Match-Ups - Parlays - Tournament Match Up - A. Long v L. Glover - Tournament Match Up,Lucas Glover,-0.023799999999999988,0.4762,0.5
+2022-06-29 23:02:52.368407,Tournament Match-Ups - Parlays - Tournament Match Up - R. Hojgaard v T. Merritt - Tournament Match Up,Rasmus Hojgaard,-0.023799999999999988,0.4762,0.5
 2022-06-29 23:02:52.381334,Tournament Match-Ups - Parlays - Tournament Match Up - R. Fox v T. Hatton - Tournament Match Up,Ryan Fox,-0.023799999999999988,0.4762,0.5
-2022-06-30 02:03:08.561722,Round Match-Ups - Parlays - 1st Round Match-Up - H. Buckley v B. Garnett - 1st Round Match-Up,Brice Garnett,-0.023800000000000043,0.5,0.5238
 2022-06-29 23:02:51.676863,Round Match-Ups - Parlays - 1st Round Match-Up - A. Novak v A. Smotherman - 1st Round Match-Up,Andrew Novak,-0.023800000000000043,0.5,0.5238
 2022-06-29 23:02:51.654016,Round Match-Ups - Parlays - 1st Round Match-Up - H. Lebioda v S. Piercy - 1st Round Match-Up,Scott Piercy,-0.023800000000000043,0.5,0.5238
+2022-06-30 02:03:08.561722,Round Match-Ups - Parlays - 1st Round Match-Up - H. Buckley v B. Garnett - 1st Round Match-Up,Brice Garnett,-0.023800000000000043,0.5,0.5238
 2022-06-30 07:02:49.138381,MLB Futures - MLB 2022 National League West - NLW Winner,San Diego Padres,-0.02739999999999998,0.2667,0.2941
 2022-06-30 02:03:03.324320,Crypto Specials - Highest Price of Litecoin Between July 1 2022 and January 1 2023 - Proposition,Over $200 USD,-0.02779999999999999,0.2222,0.25
 2022-06-30 01:02:35.140413,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Regular Season MVP,Deshaun Watson,-0.028000000000000004,0.0196,0.0476
 2022-06-30 03:02:44.636230,2022 Gubernatorial Elections - Nevada - Nevada winner,Republicans,-0.03090000000000004,0.5917,0.6226
-2022-06-29 21:02:48.459951,Video Game Specials - Which city will Grand Theft Auto 6 be based on? - Outright,Los Angeles,-0.033399999999999985,0.1333,0.1667
 2022-06-30 03:02:47.710386,Round Match-Ups - Parlays - 1st Round Match-Up - S. Ryder v J. Hahn - 1st Round Match-Up,James Hahn,-0.035999999999999976,0.4762,0.5122
 2022-06-30 03:02:44.599404,2022 Gubernatorial Elections - Arizona - Arizona winner,Democrats,-0.03620000000000001,0.4082,0.4444
 2022-06-30 02:03:07.849703,NFL Futures - 2022/2023 Division Winner - AFC North - AFC North Winner,Cleveland Browns,-0.0363,0.2667,0.303
 2022-06-30 06:02:50.473191,Business Specials - Tesla (TSLA) Price At Market Close on January 3 2023 - Proposition,Over 658.00 USD,-0.03710000000000002,0.3333,0.3704
 2022-06-30 02:03:03.636602,2022 Nathan’s Famous International Hot Dog Eating Contest - Nathan's Hot Dog Contest 2022  - Head-To-Head - Nick Wehry vs Miki Sudo,Miki Sudo,-0.043399999999999994,0.5122,0.5556
-2022-06-29 21:02:48.459951,Video Game Specials - Which city will Grand Theft Auto 6 be based on? - Outright,New York,-0.044499999999999984,0.2222,0.2667
 2022-06-30 05:02:54.953934,MLB Futures - MLB 2022 Player Awards - American League MVP,Mike Trout,-0.04909999999999999,0.1176,0.1667
 2022-06-30 03:02:44.618583,2022 Gubernatorial Elections - Kansas - Kansas winner,Republicans,-0.05349999999999999,0.7647,0.8182
-2022-06-29 21:02:48.138601,2022 Nathan’s Famous International Hot Dog Eating Contest - Nathan's Hot Dog Contest 2022  - Total Dogs Eaten by Miki Sudo,Over 50.5,-0.05559999999999998,0.4444,0.5
-2022-06-29 20:02:46.772834,"Stranger Things Specials - Will Eleven and Hopper Reunite In Season 4, Volume 2 - Proposition",No,-0.0615,0.9,0.9615
 2022-06-30 03:02:44.565918,Political Specials - Which Party will control the Senate after the 2022 Midterm Election? - Winning Party,Republican,-0.0625,0.6875,0.75
 2022-06-30 07:02:49.120386,MLB Futures - MLB 2022 National League East - NLE Winner,New York Mets,-0.09350000000000003,0.6364,0.7299
 2022-06-30 02:03:03.765286,"Stranger Things Specials - Will Eleven and Hopper Reunite In Season 4, Volume 2 - Proposition",No,-0.6674,0.2326,0.9
