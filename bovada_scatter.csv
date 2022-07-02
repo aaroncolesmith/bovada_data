@@ -1,18 +1,26 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-02 07:02:38.804919,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Tony Gonsolin,0.0524,0.1,0.0476
+2022-07-02 13:02:58.894439,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - C. Howell v D. Lipsky - 3rd Round 2 Balls,Charles Howell III,0.052200000000000024,0.6078,0.5556
 2022-07-02 07:02:38.811631,MLB Futures - MLB 2022 Player Awards - National League MVP ,Paul Goldschmidt,0.047099999999999975,0.5122,0.4651
+2022-07-02 13:02:58.785672,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - J. Lower v M. Trainer - 3rd Round 2 Balls,Martin Trainer,0.039600000000000024,0.4651,0.4255
 2022-07-02 09:02:51.127489,Allsvenskan - Swedish Allsvenskan 2022 - Outright,BK Hacken,0.03409999999999999,0.2667,0.2326
 2022-07-02 05:03:07.117040,Boxing Lines - Faris Chevalier vs Conor Wallace - To Win the Bout,Conor Wallace,0.033300000000000024,0.2,0.1667
+2022-07-02 13:02:59.023447,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - D. McCarthy v J.T. Poston - 3rd Round 2 Balls,J.T. Poston,0.033299999999999996,0.5455,0.5122
 2022-07-02 08:02:56.839064,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - V. Taylor v K. Kraft - 3rd Round 2 Balls,Vaughn Taylor,0.030399999999999983,0.5652,0.5348
 2022-07-02 09:02:51.039161,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,FC Puebla,0.02840000000000001,0.1053,0.0769
 2022-07-02 12:02:51.672000,NBA - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Boston Celtics,0.02679999999999999,0.3125,0.2857
+2022-07-02 13:02:58.940743,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - C. Bezuidenhout v H. Lebioda - 3rd Round 2 Balls,Christiaan Bezuidenhout,0.024499999999999966,0.6078,0.5833
 2022-07-02 07:02:36.823727,College Season Props - 2022 - Regular Season Wins - Northwestern - Proposition,Under 4,0.024399999999999977,0.5122,0.4878
-2022-07-02 01:03:04.416774,Boxing Lines - Issac Hardman vs Beau Hartas - To Win the Bout,Issac Hardman,0.02429999999999999,0.9474,0.9231
+2022-07-02 13:02:58.871121,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - D. Frittelli v R. Moore - 3rd Round 2 Balls,Dylan Frittelli,0.023799999999999988,0.5,0.4762
 2022-07-02 07:02:37.212942,College Season Props - 2022 - Regular Season Wins - Boston College - Proposition,Over 6.5,0.023799999999999988,0.5,0.4762
 2022-07-02 12:02:51.683007,NBA - 2022-2023 NBA Western Conference - Western Conference Winner,Minnesota Timberwolves,0.023200000000000002,0.0476,0.0244
-2022-07-02 07:02:38.974535,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - P. Rodgers v J. Byrd - 3rd Round 2 Balls,Patrick Rodgers,0.022600000000000064,0.6226,0.6
 2022-07-02 08:02:56.880657,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - C.T. Pan v C. Tarren - 3rd Round 2 Balls,C T Pan,0.022600000000000064,0.6226,0.6
+2022-07-02 07:02:38.974535,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - P. Rodgers v J. Byrd - 3rd Round 2 Balls,Patrick Rodgers,0.022600000000000064,0.6226,0.6
+2022-07-02 13:02:58.797570,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - B. Wu v T. Gainey - 3rd Round 2 Balls,Brandon Wu,0.022600000000000064,0.6226,0.6
 2022-07-02 07:02:38.865768,MLB Futures - MLB 2022 National League Central - NLC Winner,Milwaukee Brewers,0.022199999999999998,0.6774,0.6552
+2022-07-02 13:02:59.074713,Round Match-Ups - Parlays - 3rd Round Match-Up - D. Lipsky vs M. Hubbard - 3rd Round Match-Up,Mark Hubbard,0.02169999999999994,0.5455,0.5238
+2022-07-02 13:02:59.063743,Round Match-Ups - Parlays - 3rd Round Match-Up - C. Howell vs J.T. Poston - 3rd Round Match-Up,Charles Howell III,0.02169999999999994,0.5455,0.5238
+2022-07-02 13:02:59.039272,Round Match-Ups - Parlays - 3rd Round Match-Up - A. Long vs C. Davis - 3rd Round Match-Up,Adam Long,0.02079999999999993,0.5556,0.5348
 2022-07-02 07:02:38.797707,MLB Futures - MLB 2022 Player Awards - American League MVP,Aaron Judge,0.02079999999999993,0.5556,0.5348
 2022-07-02 09:02:47.968895,Round Match-Ups - Parlays - 3rd Round Match-Up - M. Schwab vs T. Moore - 3rd Round Match-Up,Matthias Schwab,0.02079999999999993,0.5556,0.5348
 2022-07-02 09:02:51.127489,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Djurgårdens,0.02049999999999999,0.1538,0.1333
@@ -21,51 +29,67 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-02 09:02:51.160192,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Banfield,0.019099999999999992,0.0667,0.0476
 2022-07-02 07:02:38.790681,MLB Futures - MLB 2022 Player Awards - American League Cy Young Award,Shane McClanahan,0.019000000000000017,0.2857,0.2667
 2022-07-02 08:02:56.757222,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - B. Todd v H. Buckley - 3rd Round 2 Balls,Brendon Todd,0.01880000000000004,0.5744,0.5556
+2022-07-02 13:02:59.113551,Round Match-Ups - Parlays - 3rd Round Match-Up - D. McCarthy vs S. Stallings - 3rd Round Match-Up,Denny McCarthy,0.01880000000000004,0.5744,0.5556
 2022-07-02 09:02:46.379544,Boxing Lines - Mairis Briedis vs Opetaia Jai Tapu - To Win the Bout,Mairis Briedis,0.01870000000000005,0.6774,0.6587
 2022-07-02 09:02:51.127489,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Hammarby IF,0.0179,0.1429,0.125
 2022-07-02 07:02:38.880943,MLB Futures - MLB 2022 National League West - NLW Winner,San Diego Padres,0.016699999999999993,0.2667,0.25
+2022-07-02 13:02:58.818491,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - A. Putnam v S.Y. Noh - 3rd Round 2 Balls,Seung-Yul Noh,0.016699999999999993,0.4167,0.4
+2022-07-02 13:02:59.504572,NBA - 2022-2023 NBA Western Conference - Western Conference Winner,Phoenix Suns,0.01469999999999999,0.25,0.2353
 2022-07-02 06:03:04.705123,Boxing Lines - Issac Hardman vs Beau Hartas - To Win the Bout,Beau Hartas,0.014299999999999993,0.1143,0.1
 2022-07-02 12:02:51.694991,NBA - 2022-2023 NBA Championship Winner - 2022-2023 NBA Championship Winner,Denver Nuggets,0.014099999999999994,0.0667,0.0526
-2022-07-02 01:03:04.956613,Irish Open - Irish Open - Outright,Fabrizio Zanotti,0.013899999999999996,0.125,0.1111
+2022-07-02 13:02:59.000029,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - E. Grillo v C. Naegel - 3rd Round 2 Balls,Emiliano Grillo,0.013799999999999923,0.6364,0.6226
 2022-07-02 07:02:38.811631,MLB Futures - MLB 2022 Player Awards - National League MVP ,Manny Machado,0.012899999999999995,0.1667,0.1538
 2022-07-02 05:03:07.043625,Boxing Lines - Austin Aokuso vs Laurence Titter - To Win the Bout,Laurence Titter,0.012299999999999991,0.1176,0.1053
 2022-07-02 07:02:37.538872,College Season Props - 2022 - Regular Season Wins - USC - Proposition,Under 9.5,0.0116,0.4878,0.4762
 2022-07-02 05:03:07.055633,Boxing Lines - Dana Coolwell vs Lorenz Ladrada - To Win the Bout,Dana Coolwell,0.011099999999999999,0.9,0.8889
 2022-07-02 08:02:55.616255,Boxing Lines - Issac Hardman vs Beau Hartas - To Win the Bout,Beau Hartas,0.010700000000000001,0.125,0.1143
-2022-07-02 09:02:51.160192,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Newell's Old Boys,0.0102,0.0769,0.0667
 2022-07-02 12:02:51.694991,NBA - 2022-2023 NBA Championship Winner - 2022-2023 NBA Championship Winner,Los Angeles Lakers,0.0102,0.0769,0.0667
+2022-07-02 09:02:51.160192,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Newell's Old Boys,0.0102,0.0769,0.0667
 2022-07-02 07:02:38.804919,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Max Fried,0.0102,0.0769,0.0667
 2022-07-02 07:02:38.790681,MLB Futures - MLB 2022 Player Awards - American League Cy Young Award,Justin Verlander,-0.010299999999999976,0.2564,0.2667
 2022-07-02 05:03:06.980230,2022 Nathan’s Famous International Hot Dog Eating Contest - Nathan's Hot Dog Contest 2022  - 2022 Mens Winner,Gideon Oji,-0.010600000000000002,0.0294,0.04
 2022-07-02 05:03:07.105474,Boxing Lines - Issac Hardman vs Beau Hartas - To Win the Bout,Beau Hartas,-0.011099999999999999,0.1,0.1111
-2022-07-02 10:04:25.576289,Euroleague - Euroleague 2022/23 - Outright,Anadolu Efes,-0.0131,0.2222,0.2353
 2022-07-02 12:02:51.683007,NBA - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Clippers,-0.0131,0.2222,0.2353
+2022-07-02 13:02:59.504572,NBA - 2022-2023 NBA Western Conference - Western Conference Winner,Golden State Warriors,-0.0131,0.2222,0.2353
+2022-07-02 10:04:25.576289,Euroleague - Euroleague 2022/23 - Outright,Anadolu Efes,-0.0131,0.2222,0.2353
 2022-07-02 05:03:06.980230,2022 Nathan’s Famous International Hot Dog Eating Contest - Nathan's Hot Dog Contest 2022  - 2022 Mens Winner,Geoffrey Esper,-0.013999999999999999,0.0769,0.0909
 2022-07-02 05:03:06.980230,2022 Nathan’s Famous International Hot Dog Eating Contest - Nathan's Hot Dog Contest 2022  - 2022 Mens Winner,Nick Wehry,-0.014099999999999994,0.0526,0.0667
 2022-07-02 07:02:38.797707,MLB Futures - MLB 2022 Player Awards - American League MVP,Rafael Devers,-0.014399999999999996,0.0625,0.0769
 2022-07-02 05:03:07.117040,Boxing Lines - Faris Chevalier vs Conor Wallace - To Win the Bout,Faris Chevalier,-0.015699999999999936,0.8667,0.8824
-2022-07-02 12:02:51.683007,NBA - 2022-2023 NBA Western Conference - Western Conference Winner,Memphis Grizzlies,-0.016700000000000007,0.0833,0.1
 2022-07-02 12:02:51.683007,NBA - 2022-2023 NBA Western Conference - Western Conference Winner,Dallas Mavericks,-0.016700000000000007,0.0833,0.1
+2022-07-02 12:02:51.683007,NBA - 2022-2023 NBA Western Conference - Western Conference Winner,Memphis Grizzlies,-0.016700000000000007,0.0833,0.1
+2022-07-02 13:02:59.000029,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - E. Grillo v C. Naegel - 3rd Round 2 Balls,Chris Naegel,-0.017299999999999982,0.4082,0.4255
 2022-07-02 07:02:37.538872,College Season Props - 2022 - Regular Season Wins - USC - Proposition,Over 9.5,-0.017299999999999982,0.5744,0.5917
 2022-07-02 07:02:36.823727,College Season Props - 2022 - Regular Season Wins - Northwestern - Proposition,Over 4,-0.01880000000000004,0.5556,0.5744
 2022-07-02 07:02:38.974535,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - P. Rodgers v J. Byrd - 3rd Round 2 Balls,Jonathan Byrd,-0.018900000000000028,0.4255,0.4444
-2022-07-02 07:02:37.371934,College Season Props - 2022 - Regular Season Wins - Arkansas - Proposition,Over 7.5,-0.018900000000000028,0.4255,0.4444
 2022-07-02 08:02:56.880657,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - C.T. Pan v C. Tarren - 3rd Round 2 Balls,Callum Tarren,-0.018900000000000028,0.4255,0.4444
+2022-07-02 13:02:58.797570,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - B. Wu v T. Gainey - 3rd Round 2 Balls,Tommy Gainey,-0.018900000000000028,0.4255,0.4444
+2022-07-02 07:02:37.371934,College Season Props - 2022 - Regular Season Wins - Arkansas - Proposition,Over 7.5,-0.018900000000000028,0.4255,0.4444
 2022-07-02 12:02:51.672000,NBA - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Milwaukee Bucks,-0.019000000000000017,0.2667,0.2857
 2022-07-02 08:02:55.616255,Boxing Lines - Issac Hardman vs Beau Hartas - To Win the Bout,Issac Hardman,-0.019100000000000006,0.9333,0.9524
+2022-07-02 13:02:58.818491,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - A. Putnam v S.Y. Noh - 3rd Round 2 Balls,Andrew Putnam,-0.019499999999999962,0.6296,0.6491
+2022-07-02 13:02:58.871121,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - D. Frittelli v R. Moore - 3rd Round 2 Balls,Ryan Moore,-0.01970000000000005,0.5455,0.5652
+2022-07-02 13:02:58.940743,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - C. Bezuidenhout v H. Lebioda - 3rd Round 2 Balls,Hank Lebioda,-0.020699999999999996,0.4444,0.4651
 2022-07-02 08:02:56.757222,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - B. Todd v H. Buckley - 3rd Round 2 Balls,Hayden Buckley,-0.022699999999999998,0.4651,0.4878
-2022-07-02 12:02:51.672000,NBA - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Philadelphia 76ers,-0.023799999999999988,0.1429,0.1667
+2022-07-02 13:02:59.113551,Round Match-Ups - Parlays - 3rd Round Match-Up - D. McCarthy vs S. Stallings - 3rd Round Match-Up,Scott Stallings,-0.022699999999999998,0.4651,0.4878
 2022-07-02 06:03:05.896474,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - D. Frittelli v R. Moore - 3rd Round 2 Balls,Dylan Frittelli,-0.023799999999999988,0.4762,0.5
+2022-07-02 12:02:51.672000,NBA - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Philadelphia 76ers,-0.023799999999999988,0.1429,0.1667
+2022-07-02 13:02:59.063743,Round Match-Ups - Parlays - 3rd Round Match-Up - C. Howell vs J.T. Poston - 3rd Round Match-Up,J.T. Poston,-0.023800000000000043,0.5,0.5238
+2022-07-02 13:02:59.074713,Round Match-Ups - Parlays - 3rd Round Match-Up - D. Lipsky vs M. Hubbard - 3rd Round Match-Up,David Lipsky,-0.023800000000000043,0.5,0.5238
+2022-07-02 13:02:59.039272,Round Match-Ups - Parlays - 3rd Round Match-Up - A. Long vs C. Davis - 3rd Round Match-Up,Cameron Davis,-0.024399999999999977,0.4878,0.5122
 2022-07-02 09:02:47.968895,Round Match-Ups - Parlays - 3rd Round Match-Up - M. Schwab vs T. Moore - 3rd Round Match-Up,Taylor Moore,-0.024399999999999977,0.4878,0.5122
 2022-07-02 12:02:50.522045,Boxing Lines - Jason Cunningham vs Zolani Tete - To Win the Bout,Jason Cunningham,-0.024399999999999977,0.4878,0.5122
 2022-07-02 07:02:37.212942,College Season Props - 2022 - Regular Season Wins - Boston College - Proposition,Under 6.5,-0.026499999999999968,0.5652,0.5917
 2022-07-02 07:02:38.804919,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Joe Musgrove,-0.027999999999999997,0.1053,0.1333
 2022-07-02 05:03:06.980230,2022 Nathan’s Famous International Hot Dog Eating Contest - Nathan's Hot Dog Contest 2022  - 2022 Mens Winner,Joey Chestnut,-0.028000000000000025,0.9524,0.9804
 2022-07-02 09:02:51.160192,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Boca Juniors,-0.033300000000000024,0.1667,0.2
+2022-07-02 13:02:59.023447,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - D. McCarthy v J.T. Poston - 3rd Round 2 Balls,Denny McCarthy,-0.03480000000000005,0.5,0.5348
 2022-07-02 08:02:56.839064,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - V. Taylor v K. Kraft - 3rd Round 2 Balls,Kelly Kraft,-0.035999999999999976,0.4762,0.5122
 2022-07-02 07:02:38.872953,MLB Futures - MLB 2022 National League East - NLE Winner,New York Mets,-0.03709999999999991,0.6296,0.6667
+2022-07-02 13:02:58.785672,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - J. Lower v M. Trainer - 3rd Round 2 Balls,Justin Lower,-0.0393,0.5833,0.6226
 2022-07-02 12:02:51.672000,NBA - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Miami Heat,-0.04040000000000002,0.1818,0.2222
-2022-07-02 07:02:38.844973,MLB Futures - MLB 2022 American League Central - ALC Winner,Cleveland Guardians,-0.0504,0.2353,0.2857
+2022-07-02 13:02:58.894439,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - C. Howell v D. Lipsky - 3rd Round 2 Balls,David Lipsky,-0.043399999999999994,0.4444,0.4878
 2022-07-02 07:02:38.880943,MLB Futures - MLB 2022 National League West - NLW Winner,Los Angeles Dodgers,-0.0504,0.7143,0.7647
+2022-07-02 07:02:38.844973,MLB Futures - MLB 2022 American League Central - ALC Winner,Cleveland Guardians,-0.0504,0.2353,0.2857
 2022-07-02 07:02:38.865768,MLB Futures - MLB 2022 National League Central - NLC Winner,St. Louis Cardinals,-0.053100000000000036,0.3636,0.4167
 2022-07-02 09:02:51.127489,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Malmö FF,-0.1,0.1667,0.2667
