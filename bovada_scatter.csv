@@ -4,6 +4,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-01 23:03:03.326948,Irish Open - Irish Open - Outright,Jorge Campillo,0.0815,0.125,0.0435
 2022-07-01 22:02:42.664748,NBA Specials - Where will Kevin Durant play next season? - Proposition,Phoenix Suns,0.059099999999999986,0.3448,0.2857
 2022-07-01 20:03:28.674049,2022 Nathan’s Famous International Hot Dog Eating Contest - Nathan's Hot Dog Contest 2022  - Total Dogs Eaten by Michelle Lesco,Under 31.5,0.05740000000000001,0.6226,0.5652
+2022-07-02 07:02:38.804919,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Tony Gonsolin,0.0524,0.1,0.0476
+2022-07-02 07:02:38.811631,MLB Futures - MLB 2022 Player Awards - National League MVP ,Paul Goldschmidt,0.047099999999999975,0.5122,0.4651
 2022-07-01 23:03:03.326948,Irish Open - Irish Open - Outright,Fabrizio Zanotti,0.04440000000000001,0.1111,0.0667
 2022-07-01 20:03:29.132187,CFL - Odds to win 109th (2022) Grey Cup - Grey Cup Winner,British Columbia Lions,0.04040000000000002,0.2222,0.1818
 2022-07-01 23:03:03.326948,Irish Open - Irish Open - Outright,Sebastian Soderberg,0.0345,0.0385,0.004
@@ -12,38 +14,61 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-01 20:03:28.634130,2022 Nathan’s Famous International Hot Dog Eating Contest - Nathan's Hot Dog Contest 2022  - Head-To-Head - Nick Wehry vs Miki Sudo,Nick Wehry,0.026800000000000046,0.7143,0.6875
 2022-07-01 20:03:28.679680,2022 Nathan’s Famous International Hot Dog Eating Contest - Nathan's Hot Dog Contest 2022  - Total Dogs Eaten by Nick Wehry ,Under 49.5,0.025599999999999956,0.6,0.5744
 2022-07-01 23:03:03.326948,Irish Open - Irish Open - Outright,Thomas Pieters,0.024399999999999998,0.0294,0.005
+2022-07-02 07:02:36.823727,College Season Props - 2022 - Regular Season Wins - Northwestern - Proposition,Under 4,0.024399999999999977,0.5122,0.4878
 2022-07-02 01:03:04.416774,Boxing Lines - Issac Hardman vs Beau Hartas - To Win the Bout,Issac Hardman,0.02429999999999999,0.9474,0.9231
+2022-07-02 07:02:37.212942,College Season Props - 2022 - Regular Season Wins - Boston College - Proposition,Over 6.5,0.023799999999999988,0.5,0.4762
+2022-07-02 07:02:38.974535,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - P. Rodgers v J. Byrd - 3rd Round 2 Balls,Patrick Rodgers,0.022600000000000064,0.6226,0.6
+2022-07-02 07:02:38.865768,MLB Futures - MLB 2022 National League Central - NLC Winner,Milwaukee Brewers,0.022199999999999998,0.6774,0.6552
+2022-07-02 07:02:38.797707,MLB Futures - MLB 2022 Player Awards - American League MVP,Aaron Judge,0.02079999999999993,0.5556,0.5348
 2022-07-01 23:03:03.326948,Irish Open - Irish Open - Outright,Jack Senior,0.0204,0.0244,0.004
+2022-07-02 07:02:37.371934,College Season Props - 2022 - Regular Season Wins - Arkansas - Proposition,Under 7.5,0.020299999999999985,0.6429,0.6226
 2022-07-02 06:03:05.896474,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - D. Frittelli v R. Moore - 3rd Round 2 Balls,Ryan Moore,0.01970000000000005,0.5652,0.5455
 2022-07-01 23:03:03.326948,Irish Open - Irish Open - Outright,David Law,0.019499999999999997,0.0294,0.0099
 2022-07-01 23:03:03.326948,Irish Open - Irish Open - Outright,Mikko Korhonen,0.019099999999999995,0.0435,0.0244
+2022-07-02 07:02:38.790681,MLB Futures - MLB 2022 Player Awards - American League Cy Young Award,Shane McClanahan,0.019000000000000017,0.2857,0.2667
+2022-07-02 07:02:38.880943,MLB Futures - MLB 2022 National League West - NLW Winner,San Diego Padres,0.016699999999999993,0.2667,0.25
 2022-07-01 23:03:03.326948,Irish Open - Irish Open - Outright,Nino Bertasio,0.0156,0.0196,0.004
 2022-07-02 06:03:04.705123,Boxing Lines - Issac Hardman vs Beau Hartas - To Win the Bout,Beau Hartas,0.014299999999999993,0.1143,0.1
 2022-07-02 01:03:04.956613,Irish Open - Irish Open - Outright,Fabrizio Zanotti,0.013899999999999996,0.125,0.1111
+2022-07-02 07:02:38.811631,MLB Futures - MLB 2022 Player Awards - National League MVP ,Manny Machado,0.012899999999999995,0.1667,0.1538
 2022-07-02 05:03:07.043625,Boxing Lines - Austin Aokuso vs Laurence Titter - To Win the Bout,Laurence Titter,0.012299999999999991,0.1176,0.1053
+2022-07-02 07:02:37.538872,College Season Props - 2022 - Regular Season Wins - USC - Proposition,Under 9.5,0.0116,0.4878,0.4762
 2022-07-01 23:03:03.326948,Irish Open - Irish Open - Outright,James Morrison,0.0116,0.0149,0.0033
 2022-07-01 21:02:48.141522,Boxing Lines - Rene Mark Cuarto vs Daniel Valladares - To Win the Bout,Daniel Valladares,0.011499999999999955,0.6667,0.6552
 2022-07-02 05:03:07.055633,Boxing Lines - Dana Coolwell vs Lorenz Ladrada - To Win the Bout,Dana Coolwell,0.011099999999999999,0.9,0.8889
+2022-07-02 07:02:38.804919,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Max Fried,0.0102,0.0769,0.0667
+2022-07-02 07:02:38.790681,MLB Futures - MLB 2022 Player Awards - American League Cy Young Award,Justin Verlander,-0.010299999999999976,0.2564,0.2667
 2022-07-01 23:03:03.326948,Irish Open - Irish Open - Outright,Sami Valimaki,-0.0103,0.002,0.0123
 2022-07-02 05:03:06.980230,2022 Nathan’s Famous International Hot Dog Eating Contest - Nathan's Hot Dog Contest 2022  - 2022 Mens Winner,Gideon Oji,-0.010600000000000002,0.0294,0.04
 2022-07-02 05:03:07.105474,Boxing Lines - Issac Hardman vs Beau Hartas - To Win the Bout,Beau Hartas,-0.011099999999999999,0.1,0.1111
 2022-07-01 23:03:03.326948,Irish Open - Irish Open - Outright,Alexander Bjork,-0.012100000000000001,0.0123,0.0244
 2022-07-02 05:03:06.980230,2022 Nathan’s Famous International Hot Dog Eating Contest - Nathan's Hot Dog Contest 2022  - 2022 Mens Winner,Geoffrey Esper,-0.013999999999999999,0.0769,0.0909
 2022-07-02 05:03:06.980230,2022 Nathan’s Famous International Hot Dog Eating Contest - Nathan's Hot Dog Contest 2022  - 2022 Mens Winner,Nick Wehry,-0.014099999999999994,0.0526,0.0667
+2022-07-02 07:02:38.797707,MLB Futures - MLB 2022 Player Awards - American League MVP,Rafael Devers,-0.014399999999999996,0.0625,0.0769
 2022-07-01 23:03:03.326948,Irish Open - Irish Open - Outright,John Catlin,-0.0145,0.0099,0.0244
 2022-07-02 05:03:07.117040,Boxing Lines - Faris Chevalier vs Conor Wallace - To Win the Bout,Faris Chevalier,-0.015699999999999936,0.8667,0.8824
 2022-07-01 23:03:03.326948,Irish Open - Irish Open - Outright,Dale Whitnell,-0.0163,0.0033,0.0196
+2022-07-02 07:02:37.538872,College Season Props - 2022 - Regular Season Wins - USC - Proposition,Over 9.5,-0.017299999999999982,0.5744,0.5917
 2022-07-01 23:03:03.326948,Irish Open - Irish Open - Outright,Maximilian Kieffer,-0.017599999999999998,0.002,0.0196
 2022-07-01 19:02:47.314463,Boxing Lines - Mairis Briedis vs Opetaia Jai Tapu - To Win the Bout,Mairis Briedis,-0.01870000000000005,0.6587,0.6774
+2022-07-02 07:02:36.823727,College Season Props - 2022 - Regular Season Wins - Northwestern - Proposition,Over 4,-0.01880000000000004,0.5556,0.5744
+2022-07-02 07:02:37.371934,College Season Props - 2022 - Regular Season Wins - Arkansas - Proposition,Over 7.5,-0.018900000000000028,0.4255,0.4444
+2022-07-02 07:02:38.974535,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - P. Rodgers v J. Byrd - 3rd Round 2 Balls,Jonathan Byrd,-0.018900000000000028,0.4255,0.4444
 2022-07-01 20:03:28.634130,2022 Nathan’s Famous International Hot Dog Eating Contest - Nathan's Hot Dog Contest 2022  - Head-To-Head - Nick Wehry vs Miki Sudo,Miki Sudo,-0.021799999999999986,0.3704,0.3922
 2022-07-01 23:03:03.326948,Irish Open - Irish Open - Outright,Marcel Schneider,-0.0236,0.0149,0.0385
 2022-07-02 06:03:05.896474,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - D. Frittelli v R. Moore - 3rd Round 2 Balls,Dylan Frittelli,-0.023799999999999988,0.4762,0.5
 2022-07-01 23:03:03.326948,Irish Open - Irish Open - Outright,Robert MacIntyre,-0.024399999999999998,0.005,0.0294
+2022-07-02 07:02:37.212942,College Season Props - 2022 - Regular Season Wins - Boston College - Proposition,Under 6.5,-0.026499999999999968,0.5652,0.5917
+2022-07-02 07:02:38.804919,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Joe Musgrove,-0.027999999999999997,0.1053,0.1333
 2022-07-02 05:03:06.980230,2022 Nathan’s Famous International Hot Dog Eating Contest - Nathan's Hot Dog Contest 2022  - 2022 Mens Winner,Joey Chestnut,-0.028000000000000025,0.9524,0.9804
 2022-07-01 20:03:28.679680,2022 Nathan’s Famous International Hot Dog Eating Contest - Nathan's Hot Dog Contest 2022  - Total Dogs Eaten by Nick Wehry ,Over 49.5,-0.035999999999999976,0.4762,0.5122
+2022-07-02 07:02:38.872953,MLB Futures - MLB 2022 National League East - NLE Winner,New York Mets,-0.03709999999999991,0.6296,0.6667
 2022-07-01 23:03:03.326948,Irish Open - Irish Open - Outright,Antoine Rozner,-0.0402,0.0033,0.0435
 2022-07-01 20:03:29.132187,CFL - Odds to win 109th (2022) Grey Cup - Grey Cup Winner,Ottawa Redblacks,-0.04329999999999999,0.0476,0.0909
 2022-07-01 23:03:03.326948,Irish Open - Irish Open - Outright,Pablo Larrazabal,-0.043899999999999995,0.0149,0.0588
+2022-07-02 07:02:38.880943,MLB Futures - MLB 2022 National League West - NLW Winner,Los Angeles Dodgers,-0.0504,0.7143,0.7647
+2022-07-02 07:02:38.844973,MLB Futures - MLB 2022 American League Central - ALC Winner,Cleveland Guardians,-0.0504,0.2353,0.2857
+2022-07-02 07:02:38.865768,MLB Futures - MLB 2022 National League Central - NLC Winner,St. Louis Cardinals,-0.053100000000000036,0.3636,0.4167
 2022-07-01 23:03:03.326948,Irish Open - Irish Open - Outright,Jordan Smith,-0.0637,0.0196,0.0833
 2022-07-01 20:03:28.674049,2022 Nathan’s Famous International Hot Dog Eating Contest - Nathan's Hot Dog Contest 2022  - Total Dogs Eaten by Michelle Lesco,Over 31.5,-0.07940000000000003,0.4444,0.5238
 2022-07-01 23:03:03.326948,Irish Open - Irish Open - Outright,Ryan Fox,-0.1151,0.0667,0.1818
