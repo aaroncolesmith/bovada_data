@@ -4,7 +4,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-02 13:02:58.785672,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - J. Lower v M. Trainer - 3rd Round 2 Balls,Martin Trainer,0.039600000000000024,0.4651,0.4255
 2022-07-02 09:02:51.127489,Allsvenskan - Swedish Allsvenskan 2022 - Outright,BK Hacken,0.03409999999999999,0.2667,0.2326
 2022-07-02 13:02:59.023447,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - D. McCarthy v J.T. Poston - 3rd Round 2 Balls,J.T. Poston,0.033299999999999996,0.5455,0.5122
-2022-07-02 08:02:56.839064,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - V. Taylor v K. Kraft - 3rd Round 2 Balls,Vaughn Taylor,0.030399999999999983,0.5652,0.5348
 2022-07-02 09:02:51.039161,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,FC Puebla,0.02840000000000001,0.1053,0.0769
 2022-07-02 17:02:54.670989,2022 Nathan’s Famous International Hot Dog Eating Contest - Mens Leader after 1 Minute - Proposition,Joey Chestnut,0.027800000000000047,0.75,0.7222
 2022-07-02 12:02:51.672000,NBA - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Boston Celtics,0.02679999999999999,0.3125,0.2857
@@ -13,7 +12,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-02 13:02:58.871121,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - D. Frittelli v R. Moore - 3rd Round 2 Balls,Dylan Frittelli,0.023799999999999988,0.5,0.4762
 2022-07-02 12:02:51.683007,NBA - 2022-2023 NBA Western Conference - Western Conference Winner,Minnesota Timberwolves,0.023200000000000002,0.0476,0.0244
 2022-07-02 13:02:58.797570,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - B. Wu v T. Gainey - 3rd Round 2 Balls,Brandon Wu,0.022600000000000064,0.6226,0.6
-2022-07-02 08:02:56.880657,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - C.T. Pan v C. Tarren - 3rd Round 2 Balls,C T Pan,0.022600000000000064,0.6226,0.6
 2022-07-02 13:02:59.074713,Round Match-Ups - Parlays - 3rd Round Match-Up - D. Lipsky vs M. Hubbard - 3rd Round Match-Up,Mark Hubbard,0.02169999999999994,0.5455,0.5238
 2022-07-02 13:02:59.063743,Round Match-Ups - Parlays - 3rd Round Match-Up - C. Howell vs J.T. Poston - 3rd Round Match-Up,Charles Howell III,0.02169999999999994,0.5455,0.5238
 2022-07-02 14:02:42.704245,Boxing Lines - Jason Cunningham vs Zolani Tete - To Win the Bout,Zolani Tete,0.02080000000000004,0.5744,0.5536
@@ -21,9 +19,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-02 13:02:59.039272,Round Match-Ups - Parlays - 3rd Round Match-Up - A. Long vs C. Davis - 3rd Round Match-Up,Adam Long,0.02079999999999993,0.5556,0.5348
 2022-07-02 09:02:51.127489,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Djurgårdens,0.02049999999999999,0.1538,0.1333
 2022-07-02 09:02:51.160192,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Banfield,0.019099999999999992,0.0667,0.0476
-2022-07-02 08:02:56.757222,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - B. Todd v H. Buckley - 3rd Round 2 Balls,Brendon Todd,0.01880000000000004,0.5744,0.5556
-2022-07-02 17:02:54.811880,2022 Nathan’s Famous International Hot Dog Eating Contest - Total Dogs Eaten by Nick Wehry - Proposition,Under 49.5,0.01880000000000004,0.5744,0.5556
 2022-07-02 13:02:59.113551,Round Match-Ups - Parlays - 3rd Round Match-Up - D. McCarthy vs S. Stallings - 3rd Round Match-Up,Denny McCarthy,0.01880000000000004,0.5744,0.5556
+2022-07-02 17:02:54.811880,2022 Nathan’s Famous International Hot Dog Eating Contest - Total Dogs Eaten by Nick Wehry - Proposition,Under 49.5,0.01880000000000004,0.5744,0.5556
 2022-07-02 09:02:46.379544,Boxing Lines - Mairis Briedis vs Opetaia Jai Tapu - To Win the Bout,Mairis Briedis,0.01870000000000005,0.6774,0.6587
 2022-07-02 09:02:51.127489,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Hammarby IF,0.0179,0.1429,0.125
 2022-07-02 16:02:46.977937,Round Match-Ups - Parlays - 3rd Round Match-Up - D. McCarthy vs S. Stallings - 3rd Round Match-Up,Denny McCarthy,0.017299999999999982,0.5917,0.5744
@@ -34,32 +31,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-02 17:02:55.122336,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,0.013300000000000034,0.3704,0.3571
 2022-07-02 16:02:46.977937,Round Match-Ups - Parlays - 3rd Round Match-Up - D. McCarthy vs S. Stallings - 3rd Round Match-Up,Scott Stallings,0.011099999999999999,0.4762,0.4651
 2022-07-02 19:02:53.382443,NBA - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,0.011099999999999999,0.1111,0.1
-2022-07-02 08:02:55.616255,Boxing Lines - Issac Hardman vs Beau Hartas - To Win the Bout,Beau Hartas,0.010700000000000001,0.125,0.1143
-2022-07-02 09:02:51.160192,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Newell's Old Boys,0.0102,0.0769,0.0667
-2022-07-02 19:02:53.398643,NBA - 2022-2023 NBA Championship Winner - 2022-2023 NBA Championship Winner,Denver Nuggets,0.0102,0.0769,0.0667
 2022-07-02 12:02:51.694991,NBA - 2022-2023 NBA Championship Winner - 2022-2023 NBA Championship Winner,Los Angeles Lakers,0.0102,0.0769,0.0667
+2022-07-02 19:02:53.398643,NBA - 2022-2023 NBA Championship Winner - 2022-2023 NBA Championship Winner,Denver Nuggets,0.0102,0.0769,0.0667
+2022-07-02 09:02:51.160192,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Newell's Old Boys,0.0102,0.0769,0.0667
 2022-07-02 14:02:45.362140,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Club León,-0.0102,0.0667,0.0769
 2022-07-02 16:02:46.428970,Boxing Lines - Henry Turner vs Jakub Laskowski - To Win the Bout,Jakub Laskowski,-0.0102,0.0667,0.0769
 2022-07-02 14:02:39.958106,NBA Specials - Where will Kevin Durant play next season? - Proposition,Brooklyn Nets,-0.012899999999999995,0.1538,0.1667
-2022-07-02 12:02:51.683007,NBA - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Clippers,-0.0131,0.2222,0.2353
-2022-07-02 13:02:59.504572,NBA - 2022-2023 NBA Western Conference - Western Conference Winner,Golden State Warriors,-0.0131,0.2222,0.2353
-2022-07-02 17:02:55.122336,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Field,-0.0131,0.697,0.7101
 2022-07-02 10:04:25.576289,Euroleague - Euroleague 2022/23 - Outright,Anadolu Efes,-0.0131,0.2222,0.2353
-2022-07-02 12:02:51.683007,NBA - 2022-2023 NBA Western Conference - Western Conference Winner,Memphis Grizzlies,-0.016700000000000007,0.0833,0.1
+2022-07-02 17:02:55.122336,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Field,-0.0131,0.697,0.7101
+2022-07-02 13:02:59.504572,NBA - 2022-2023 NBA Western Conference - Western Conference Winner,Golden State Warriors,-0.0131,0.2222,0.2353
+2022-07-02 12:02:51.683007,NBA - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Clippers,-0.0131,0.2222,0.2353
 2022-07-02 12:02:51.683007,NBA - 2022-2023 NBA Western Conference - Western Conference Winner,Dallas Mavericks,-0.016700000000000007,0.0833,0.1
+2022-07-02 12:02:51.683007,NBA - 2022-2023 NBA Western Conference - Western Conference Winner,Memphis Grizzlies,-0.016700000000000007,0.0833,0.1
 2022-07-02 13:02:59.000029,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - E. Grillo v C. Naegel - 3rd Round 2 Balls,Chris Naegel,-0.017299999999999982,0.4082,0.4255
 2022-07-02 14:02:45.362140,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,CF Monterrey,-0.0179,0.125,0.1429
 2022-07-02 14:02:39.958106,NBA Specials - Where will Kevin Durant play next season? - Proposition,Memphis Grizzlies,-0.018099999999999998,0.0588,0.0769
 2022-07-02 13:02:58.797570,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - B. Wu v T. Gainey - 3rd Round 2 Balls,Tommy Gainey,-0.018900000000000028,0.4255,0.4444
-2022-07-02 08:02:56.880657,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - C.T. Pan v C. Tarren - 3rd Round 2 Balls,Callum Tarren,-0.018900000000000028,0.4255,0.4444
 2022-07-02 12:02:51.672000,NBA - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Milwaukee Bucks,-0.019000000000000017,0.2667,0.2857
-2022-07-02 08:02:55.616255,Boxing Lines - Issac Hardman vs Beau Hartas - To Win the Bout,Issac Hardman,-0.019100000000000006,0.9333,0.9524
 2022-07-02 13:02:58.818491,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - A. Putnam v S.Y. Noh - 3rd Round 2 Balls,Andrew Putnam,-0.019499999999999962,0.6296,0.6491
 2022-07-02 13:02:58.871121,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - D. Frittelli v R. Moore - 3rd Round 2 Balls,Ryan Moore,-0.01970000000000005,0.5455,0.5652
 2022-07-02 17:02:55.154740,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,-0.020699999999999996,0.4444,0.4651
 2022-07-02 13:02:58.940743,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - C. Bezuidenhout v H. Lebioda - 3rd Round 2 Balls,Hank Lebioda,-0.020699999999999996,0.4444,0.4651
 2022-07-02 17:02:54.811880,2022 Nathan’s Famous International Hot Dog Eating Contest - Total Dogs Eaten by Nick Wehry - Proposition,Over 49.5,-0.022600000000000064,0.5122,0.5348
-2022-07-02 08:02:56.757222,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - B. Todd v H. Buckley - 3rd Round 2 Balls,Hayden Buckley,-0.022699999999999998,0.4651,0.4878
 2022-07-02 13:02:59.113551,Round Match-Ups - Parlays - 3rd Round Match-Up - D. McCarthy vs S. Stallings - 3rd Round Match-Up,Scott Stallings,-0.022699999999999998,0.4651,0.4878
 2022-07-02 17:02:55.136140,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Pete Buttigieg,-0.02310000000000001,0.0769,0.1
 2022-07-02 12:02:51.672000,NBA - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Philadelphia 76ers,-0.023799999999999988,0.1429,0.1667
@@ -73,7 +66,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-02 14:02:39.958106,NBA Specials - Where will Kevin Durant play next season? - Proposition,Philadelphia 76ers,-0.031799999999999995,0.1111,0.1429
 2022-07-02 09:02:51.160192,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Boca Juniors,-0.033300000000000024,0.1667,0.2
 2022-07-02 13:02:59.023447,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - D. McCarthy v J.T. Poston - 3rd Round 2 Balls,Denny McCarthy,-0.03480000000000005,0.5,0.5348
-2022-07-02 08:02:56.839064,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - V. Taylor v K. Kraft - 3rd Round 2 Balls,Kelly Kraft,-0.035999999999999976,0.4762,0.5122
 2022-07-02 13:02:58.785672,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - J. Lower v M. Trainer - 3rd Round 2 Balls,Justin Lower,-0.0393,0.5833,0.6226
 2022-07-02 12:02:51.672000,NBA - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Miami Heat,-0.04040000000000002,0.1818,0.2222
 2022-07-02 13:02:58.894439,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - C. Howell v D. Lipsky - 3rd Round 2 Balls,David Lipsky,-0.043399999999999994,0.4444,0.4878
