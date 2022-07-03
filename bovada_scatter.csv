@@ -10,15 +10,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-03 00:03:43.584490,Copa Sudamericana - Copa Sudamericana 2022 - Winner,São Paulo,0.02779999999999999,0.25,0.2222
 2022-07-03 01:02:53.358750,2022 Nathan’s Famous International Hot Dog Eating Contest - Head-To-Head - Geoffrey Esper vs Nick Wehry - Proposition,Geoffrey Esper -2.5,0.026499999999999968,0.5917,0.5652
 2022-07-02 22:03:15.743584,Irish Open - Irish Open - Outright,Antoine Rozner,0.026099999999999998,0.0294,0.0033
-2022-07-02 16:02:46.954957,John Deere Classic - 2/3 Balls - 3rd Round 2 Balls - D. McCarthy v J.T. Poston - 3rd Round 2 Balls,Denny McCarthy,0.023800000000000043,0.5238,0.5
 2022-07-03 03:03:21.105119,Irish Open - Irish Open - Outright,Jack Senior,0.022199999999999998,0.1333,0.1111
+2022-07-03 04:03:41.607450,John Deere Classic - 2/3 Balls - Final Round 2 Balls - M. Thompson v S. Kodaira - Final Round 2 Balls ,Michael Thompson,0.02169999999999994,0.5455,0.5238
 2022-07-03 01:02:53.746363,2022 Nathan’s Famous International Hot Dog Eating Contest - Total Dogs Eaten by Joey Chestnut - Proposition,Over 75,0.02169999999999994,0.5455,0.5238
 2022-07-02 17:02:54.811880,2022 Nathan’s Famous International Hot Dog Eating Contest - Total Dogs Eaten by Nick Wehry - Proposition,Under 49.5,0.01880000000000004,0.5744,0.5556
 2022-07-03 01:02:53.760927,2022 Nathan’s Famous International Hot Dog Eating Contest - Total Dogs Eaten by Joey Chestnut - Proposition,Over 75.5,0.018100000000000005,0.4348,0.4167
 2022-07-02 22:03:15.743584,Irish Open - Irish Open - Outright,Jorge Campillo,0.0179,0.1429,0.125
 2022-07-03 00:03:43.584490,Copa Sudamericana - Copa Sudamericana 2022 - Winner,Santos,0.0179,0.1429,0.125
 2022-07-03 01:02:53.637497,2022 Nathan’s Famous International Hot Dog Eating Contest - Mens Leader after 1 Minute - Proposition,Joey Chestnut,0.01739999999999997,0.7674,0.75
-2022-07-02 16:02:46.977937,Round Match-Ups - Parlays - 3rd Round Match-Up - D. McCarthy vs S. Stallings - 3rd Round Match-Up,Denny McCarthy,0.017299999999999982,0.5917,0.5744
 2022-07-02 22:03:15.743584,Irish Open - Irish Open - Outright,Dale Whitnell,0.0163,0.0196,0.0033
 2022-07-03 01:02:53.820310,2022 Nathan’s Famous International Hot Dog Eating Contest - Total Dogs Eaten by Michelle Lesco - Proposition,Under 30.5,0.01539999999999997,0.6154,0.6
 2022-07-03 00:03:37.871611,Irish Open - Irish Open - Outright,Adrian Meronk,0.014900000000000024,0.3226,0.3077
@@ -27,11 +26,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-03 01:02:53.775499,2022 Nathan’s Famous International Hot Dog Eating Contest - Total Dogs Eaten by Joey Chestnut - Proposition,Over 76.5,0.013600000000000001,0.3077,0.2941
 2022-07-02 17:02:55.122336,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,0.013300000000000034,0.3704,0.3571
 2022-07-03 01:02:53.790074,2022 Nathan’s Famous International Hot Dog Eating Contest - Total Dogs Eaten by Joey Chestnut - Proposition,Over 77.5,0.012899999999999995,0.1667,0.1538
-2022-07-02 16:02:46.977937,Round Match-Ups - Parlays - 3rd Round Match-Up - D. McCarthy vs S. Stallings - 3rd Round Match-Up,Scott Stallings,0.011099999999999999,0.4762,0.4651
 2022-07-02 19:02:53.382443,NBA - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,0.011099999999999999,0.1111,0.1
 2022-07-02 22:03:15.743584,Irish Open - Irish Open - Outright,Matthew Southgate,0.0109,0.0149,0.004
 2022-07-02 19:02:53.398643,NBA - 2022-2023 NBA Championship Winner - 2022-2023 NBA Championship Winner,Denver Nuggets,0.0102,0.0769,0.0667
-2022-07-02 16:02:46.428970,Boxing Lines - Henry Turner vs Jakub Laskowski - To Win the Bout,Jakub Laskowski,-0.0102,0.0667,0.0769
 2022-07-03 01:02:53.803566,2022 Nathan’s Famous International Hot Dog Eating Contest - Total Dogs Eaten by Joey Chestnut - Proposition,Under 78.5,-0.011199999999999988,0.9412,0.9524
 2022-07-03 01:02:53.732233,2022 Nathan’s Famous International Hot Dog Eating Contest - Total Dogs Eaten by Joey Chestnut - Proposition,Under 74.5,-0.0116,0.4762,0.4878
 2022-07-02 22:03:15.743584,Irish Open - Irish Open - Outright,Pablo Larrazabal,-0.0116,0.0033,0.0149
@@ -40,8 +37,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-03 01:02:53.760927,2022 Nathan’s Famous International Hot Dog Eating Contest - Total Dogs Eaten by Joey Chestnut - Proposition,Under 75.5,-0.013299999999999979,0.6296,0.6429
 2022-07-03 01:02:53.775499,2022 Nathan’s Famous International Hot Dog Eating Contest - Total Dogs Eaten by Joey Chestnut - Proposition,Under 76.5,-0.013899999999999912,0.7778,0.7917
 2022-07-03 00:03:43.584490,Copa Sudamericana - Copa Sudamericana 2022 - Winner,Colo Colo,-0.013899999999999996,0.1111,0.125
-2022-07-02 22:03:15.743584,Irish Open - Irish Open - Outright,Marcel Schneider,-0.0139,0.001,0.0149
 2022-07-02 22:03:15.743584,Irish Open - Irish Open - Outright,Oliver Bekker,-0.0139,0.001,0.0149
+2022-07-02 22:03:15.743584,Irish Open - Irish Open - Outright,Marcel Schneider,-0.0139,0.001,0.0149
 2022-07-03 00:03:43.584490,Copa Sudamericana - Copa Sudamericana 2022 - Winner,Deportivo Táchira,-0.0145,0.0099,0.0244
 2022-07-03 01:02:53.637497,2022 Nathan’s Famous International Hot Dog Eating Contest - Mens Leader after 1 Minute - Proposition,Any Other Eater or Tie,-0.01579999999999998,0.3175,0.3333
 2022-07-02 22:03:15.743584,Irish Open - Irish Open - Outright,Shane Lowry,-0.0165,0.0079,0.0244
@@ -54,6 +51,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-02 17:02:54.811880,2022 Nathan’s Famous International Hot Dog Eating Contest - Total Dogs Eaten by Nick Wehry - Proposition,Over 49.5,-0.022600000000000064,0.5122,0.5348
 2022-07-02 22:03:15.743584,Irish Open - Irish Open - Outright,Thomas Pieters,-0.0228,0.0066,0.0294
 2022-07-02 17:02:55.136140,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Pete Buttigieg,-0.02310000000000001,0.0769,0.1
+2022-07-03 04:03:41.607450,John Deere Classic - 2/3 Balls - Final Round 2 Balls - M. Thompson v S. Kodaira - Final Round 2 Balls ,Satoshi Kodaira,-0.023800000000000043,0.5,0.5238
 2022-07-03 00:03:43.584490,Copa Sudamericana - Copa Sudamericana 2022 - Winner,Universidad Católica,-0.0273,0.005,0.0323
 2022-07-02 17:02:54.670989,2022 Nathan’s Famous International Hot Dog Eating Contest - Mens Leader after 1 Minute - Proposition,Any Other Eater or Tie,-0.030299999999999994,0.3333,0.3636
 2022-07-02 22:03:15.743584,Irish Open - Irish Open - Outright,Frederic Lacroix,-0.0325,0.002,0.0345
