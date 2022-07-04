@@ -12,7 +12,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-04 10:03:26.136644,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Malmö FF,0.033300000000000024,0.2,0.1667
 2022-07-04 10:03:26.162188,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Gimnasia La Plata,0.029299999999999993,0.0769,0.0476
 2022-07-04 00:02:36.324512,2022 Nathan’s Famous International Hot Dog Eating Contest - Dogs Eaten By Joey Chestnut  - Dogs Eaten By Joey Chestnut,73 - 74,0.02779999999999999,0.2778,0.25
-2022-07-03 23:03:13.150427,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Tommy Fury,0.026499999999999968,0.5917,0.5652
 2022-07-04 06:03:10.231697,2022 Nathan’s Famous International Hot Dog Eating Contest - Total Dogs Eaten by Joey Chestnut - Proposition,Under 72.5,0.026000000000000023,0.2857,0.2597
 2022-07-04 10:03:26.149288,Superettan - Swedish Superettan 2022 - Outright,Skövde AIK,0.025900000000000003,0.0476,0.0217
 2022-07-04 10:03:26.162188,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Banfield,0.0242,0.0909,0.0667
@@ -30,8 +29,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-04 09:02:45.079997,MLS - MLS Cup 2022 - Winner,New York Red Bulls,0.018099999999999998,0.0769,0.0588
 2022-07-04 05:02:50.782888,College Season Props - 2022 - Regular Season Wins - Southern Mississippi - Proposition,Over 4.5,0.017299999999999982,0.5917,0.5744
 2022-07-04 10:03:26.149288,Superettan - Swedish Superettan 2022 - Outright,Landskrona BoIS,0.0156,0.0196,0.004
-2022-07-04 06:03:09.783065,2022 Nathan’s Famous International Hot Dog Eating Contest - Head-To-Head - Joey Chestnut (6 Mins) vs Nick Wehry - Proposition,Joey Chestnut hot dogs eaten in 1st 6 min -1.5,0.01539999999999997,0.6154,0.6
 2022-07-04 06:03:10.213788,2022 Nathan’s Famous International Hot Dog Eating Contest - Total Dogs Eaten by Gideon Oji  - Proposition,Under 41.5,0.01539999999999997,0.6154,0.6
+2022-07-04 06:03:09.783065,2022 Nathan’s Famous International Hot Dog Eating Contest - Head-To-Head - Joey Chestnut (6 Mins) vs Nick Wehry - Proposition,Joey Chestnut hot dogs eaten in 1st 6 min -1.5,0.01539999999999997,0.6154,0.6
 2022-07-04 10:03:26.149288,Superettan - Swedish Superettan 2022 - Outright,AFC Eskilstuna,0.015300000000000001,0.0476,0.0323
 2022-07-04 00:02:36.324512,2022 Nathan’s Famous International Hot Dog Eating Contest - Dogs Eaten By Joey Chestnut  - Dogs Eaten By Joey Chestnut,66 - 70,0.01440000000000001,0.1053,0.0909
 2022-07-04 06:03:09.727185,2022 Nathan’s Famous International Hot Dog Eating Contest - Head-To-Head - Joey Chestnut (3 Mins) vs Michelle Lesco - Proposition,Chestnut hot dogs eaten in 1st 3 min +1.5,0.014200000000000101,0.6296,0.6154
@@ -41,13 +40,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-04 08:02:36.454348,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Jake Paul,0.0116,0.4878,0.4762
 2022-07-04 06:03:10.338329,2022 Nathan’s Famous International Hot Dog Eating Contest - Total Dogs Eaten by Joey Chestnut - Proposition,Under 78.5,0.011199999999999988,0.9524,0.9412
 2022-07-04 00:02:36.609885,2022 Nathan’s Famous International Hot Dog Eating Contest - Total Dogs Eaten by Miki Sudo - Proposition,Over 44.5,0.010699999999999932,0.5455,0.5348
-2022-07-03 23:03:13.133348,Boxing Lines - Mark Magsayo vs Rey Vargas - To Win the Bout,Rey Vargas,0.010699999999999932,0.5455,0.5348
 2022-07-04 00:02:36.561962,2022 Nathan’s Famous International Hot Dog Eating Contest - Total Dogs Eaten by Joey Chestnut - Proposition,Under 74.5,0.010599999999999998,0.4651,0.4545
 2022-07-04 10:03:21.806539,Boxing Lines - Ryan Garcia vs Javier Fortuna - To Win the Bout,Javier Fortuna,0.010200000000000015,0.1481,0.1379
 2022-07-04 00:02:36.609885,2022 Nathan’s Famous International Hot Dog Eating Contest - Total Dogs Eaten by Miki Sudo - Proposition,Under 44.5,-0.010099999999999998,0.5455,0.5556
-2022-07-03 23:03:13.133348,Boxing Lines - Mark Magsayo vs Rey Vargas - To Win the Bout,Mark Magsayo,-0.01100000000000001,0.5238,0.5348
-2022-07-04 10:03:26.111183,Eliteserien - Norway Eliteserien 2022 - Outright,Viking FK,-0.011199999999999995,0.0476,0.0588
 2022-07-04 10:03:26.162188,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Independiente,-0.011199999999999995,0.0476,0.0588
+2022-07-04 10:03:26.111183,Eliteserien - Norway Eliteserien 2022 - Outright,Viking FK,-0.011199999999999995,0.0476,0.0588
 2022-07-04 05:02:50.782888,College Season Props - 2022 - Regular Season Wins - Southern Mississippi - Proposition,Under 4.5,-0.0116,0.4762,0.4878
 2022-07-04 06:03:09.967982,2022 Nathan’s Famous International Hot Dog Eating Contest - Joey Chestnut Dogs Eaten in First 2 Minutes - Proposition,Under 21.5,-0.011600000000000055,0.5122,0.5238
 2022-07-04 10:03:26.162188,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Boca Juniors,-0.012899999999999995,0.1538,0.1667
@@ -64,14 +61,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-04 00:02:36.522140,2022 Nathan’s Famous International Hot Dog Eating Contest - Total Dogs Eaten by Geoffrey Esper  - Proposition,Over 52.5,-0.01970000000000005,0.5455,0.5652
 2022-07-04 06:03:10.247791,2022 Nathan’s Famous International Hot Dog Eating Contest - Total Dogs Eaten by Joey Chestnut - Proposition,Over 73.5,-0.020100000000000007,0.7299,0.75
 2022-07-04 10:03:26.149288,Superettan - Swedish Superettan 2022 - Outright,Brommapojkarna,-0.0203,0.0323,0.0526
-2022-07-04 00:02:36.102085,NBA Specials - Where will Kevin Durant play next season? - Proposition,Boston Celtics,-0.0203,0.0385,0.0588
 2022-07-04 00:02:36.102085,NBA Specials - Where will Kevin Durant play next season? - Proposition,Memphis Grizzlies,-0.0203,0.0385,0.0588
+2022-07-04 00:02:36.102085,NBA Specials - Where will Kevin Durant play next season? - Proposition,Boston Celtics,-0.0203,0.0385,0.0588
 2022-07-04 06:03:09.783065,2022 Nathan’s Famous International Hot Dog Eating Contest - Head-To-Head - Joey Chestnut (6 Mins) vs Nick Wehry - Proposition,Nick Wehry hot dogs eaten in contest +1.5,-0.021699999999999997,0.4545,0.4762
 2022-07-04 06:03:10.213788,2022 Nathan’s Famous International Hot Dog Eating Contest - Total Dogs Eaten by Gideon Oji  - Proposition,Over 41.5,-0.021699999999999997,0.4545,0.4762
 2022-07-04 10:03:26.162188,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,River Plate,-0.021999999999999964,0.2857,0.3077
 2022-07-04 00:02:36.394097,2022 Nathan’s Famous International Hot Dog Eating Contest - Head-To-Head - Joey Chestnut vs Gideon Oji - Proposition,Gideon Oji +32.5,-0.022600000000000064,0.5122,0.5348
 2022-07-04 06:03:10.324440,2022 Nathan’s Famous International Hot Dog Eating Contest - Total Dogs Eaten by Joey Chestnut - Proposition,Over 77.5,-0.023799999999999988,0.1429,0.1667
-2022-07-03 23:03:13.150427,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Jake Paul,-0.023799999999999988,0.4762,0.5
 2022-07-04 10:03:26.111183,Eliteserien - Norway Eliteserien 2022 - Outright,Molde FK,-0.023800000000000043,0.5,0.5238
 2022-07-04 06:03:10.231697,2022 Nathan’s Famous International Hot Dog Eating Contest - Total Dogs Eaten by Joey Chestnut - Proposition,Over 72.5,-0.024599999999999955,0.8,0.8246
 2022-07-04 00:02:36.102085,NBA Specials - Where will Kevin Durant play next season? - Proposition,Atlanta Hawks,-0.028000000000000004,0.0196,0.0476
