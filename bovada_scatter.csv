@@ -1,82 +1,88 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2022-07-06 10:02:53.394561,Copa Sudamericana - Copa Sudamericana 2022 - Winner,Internacional,0.1863,0.2632,0.0769
 2022-07-06 17:02:45.800282,League One - England - League One 2022/23 - Top 6 Finish,Peterborough United,0.06840000000000002,0.4255,0.3571
 2022-07-06 17:02:45.800282,League One - England - League One 2022/23 - Top 6 Finish,Derby County,0.05860000000000004,0.5348,0.4762
 2022-07-06 17:02:45.782111,League One - England - League One 2022/23 - To Be Promoted,Derby County,0.057699999999999974,0.3077,0.25
 2022-07-06 20:02:42.862880,MLB Futures - MLB 2022 National League West - NLW Winner,San Diego Padres,0.05049999999999999,0.241,0.1905
 2022-07-06 17:02:45.800282,League One - England - League One 2022/23 - Top 6 Finish,Sheffield Wednesday,0.04630000000000001,0.6296,0.5833
-2022-07-06 10:02:52.728266,Tournament Match-Ups - Parlays - Tournament Match-Up - C. Hadley v P. Kizzire - Tournament Match-Up,Patton Kizzire,0.043399999999999994,0.5556,0.5122
-2022-07-06 10:02:52.919719,Copa Libertadores - Copa Libertadores 2022 - Winner,Corinthians-SP,0.04120000000000001,0.1,0.0588
 2022-07-06 18:03:30.540897,NBA Specials - Where will Kevin Durant play next season? - Proposition,Toronto Raptors,0.04040000000000002,0.2222,0.1818
 2022-07-06 17:02:45.782111,League One - England - League One 2022/23 - To Be Promoted,Sheffield Wednesday,0.03710000000000002,0.3448,0.3077
-2022-07-06 11:02:53.844110,Transfer Specials - Cristiano Ronaldo - Club after Summer Transfer Window - Cristiano Ronaldo - Club after Summer Transfer Window,Chelsea,0.03640000000000004,0.4,0.3636
+2022-07-06 23:02:56.915144,NBA Specials - Where will Kevin Durant play next season? - Proposition,Brooklyn Nets,0.033300000000000024,0.2,0.1667
 2022-07-06 17:02:45.791128,League One - England - League One 2022/23 - Top 2 Finish,Derby County,0.033300000000000024,0.2,0.1667
+2022-07-06 23:02:58.488507,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - J. Huh / M. Schneider / M. Kim - 1st Round 3 Balls,John Huh,0.031799999999999995,0.4762,0.4444
+2022-07-06 23:03:01.585267,College Season Props - 2022 - Regular Season Wins - Auburn - Proposition,Over 6.5,0.029000000000000026,0.4545,0.4255
 2022-07-06 20:02:42.820983,MLB Futures - MLB 2022 National League - NL Winner,Milwaukee Brewers,0.028799999999999992,0.1538,0.125
-2022-07-06 18:03:30.540897,NBA Specials - Where will Kevin Durant play next season? - Proposition,Golden State Warriors,0.028399999999999995,0.0909,0.0625
 2022-07-06 18:03:29.759069,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Gavin Newsom,0.028399999999999995,0.0909,0.0625
+2022-07-06 18:03:30.540897,NBA Specials - Where will Kevin Durant play next season? - Proposition,Golden State Warriors,0.028399999999999995,0.0909,0.0625
 2022-07-06 19:02:50.418950,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Gavin Newsom,0.028000000000000004,0.0476,0.0196
 2022-07-06 20:02:42.827881,MLB Futures - MLB 2022 American League Central - ALC Winner,Cleveland Guardians,0.02779999999999999,0.25,0.2222
 2022-07-06 20:02:42.820983,MLB Futures - MLB 2022 National League - NL Winner,San Diego Padres,0.025300000000000003,0.1429,0.1176
 2022-07-06 20:02:42.848810,MLB Futures - MLB 2022 National League Central - NLC Winner,St. Louis Cardinals,0.024599999999999955,0.3636,0.339
 2022-07-06 20:02:42.813480,MLB Futures - MLB 2022 Amercian League - AL Winner,Minnesota Twins,0.024299999999999995,0.0769,0.0526
-2022-07-06 11:02:45.131157,Boxing Lines - Israil Madrimov vs Michel Soro - To Win the Bout,Israil Madrimov,0.023799999999999932,0.8571,0.8333
-2022-07-06 11:02:53.844110,Transfer Specials - Cristiano Ronaldo - Club after Summer Transfer Window - Cristiano Ronaldo - Club after Summer Transfer Window,To Stay at Manchester United,0.021699999999999997,0.4762,0.4545
 2022-07-06 20:02:43.556902,Round Match-Ups - Parlays - 1st Round Match-Up - A. Lahiri v B. Stone - 1st Round Match-Up,Brandon Stone,0.021699999999999997,0.4762,0.4545
 2022-07-06 20:02:43.585805,Round Match-Ups - Parlays - 1st Round Match-Up - J. Catlin v L. Glover - 1st Round Match-Up,John Catlin,0.02169999999999994,0.5455,0.5238
 2022-07-06 17:02:45.769980,League One - England - League One 2022/23 - Outright,Sheffield Wednesday,0.02049999999999999,0.1538,0.1333
 2022-07-06 15:02:54.555834,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Gonzaga,0.02020000000000001,0.1111,0.0909
 2022-07-06 19:02:50.385318,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Gavin Newsom,0.02020000000000001,0.1111,0.0909
 2022-07-06 20:02:42.813480,MLB Futures - MLB 2022 Amercian League - AL Winner,Cleveland Guardians,0.019800000000000005,0.0476,0.0278
-2022-07-06 11:02:53.860286,Transfer Specials - Frenkie de Jong - Next Permanent Club - Frenkie de Jong - Next Permanent Club,Manchester United,0.018999999999999906,0.7333,0.7143
+2022-07-06 23:03:02.878935,NFL Futures - 2022/2023 Division Winner - NFC North - NFC North Winner,Minnesota Vikings,0.019000000000000017,0.2857,0.2667
 2022-07-06 21:02:48.237229,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - J. Huh / M. Schneider / M. Kim - 1st Round 3 Balls,John Huh,0.018900000000000028,0.4444,0.4255
-2022-07-06 11:02:45.095266,Boxing Lines - Caoimhin Agyarko vs Lukasz Maciec - To Win the Bout,Caoimhin Agyarko,0.018100000000000005,0.9412,0.9231
-2022-07-06 10:02:49.628754,Boxing Lines - Dereck Chisora vs Kubrat Pulev - To Win the Bout,Kubrat Pulev,0.018100000000000005,0.7403,0.7222
+2022-07-06 23:03:00.501695,NCAAF - 2022 SEC Championship - Odds to Win - East Division Winner,Florida,0.018099999999999998,0.0769,0.0588
 2022-07-06 22:02:44.624666,NFL Season Props - NFL 2022/23 Awards & League Leaders - 2022/23 - Comeback Player of the Year Award,Baker Mayfield,0.018099999999999998,0.0769,0.0588
 2022-07-06 18:03:37.262116,Scottish Open - 2/3 Balls - 1st Round 3-Balls - S. Burns / J. Rose / N. Hojgaard - 1st Round 3-Balls,Nicolai Hojgaard,0.0174,0.25,0.2326
 2022-07-06 13:03:20.178852,Boxing Lines - Mark Magsayo vs Rey Vargas - To Win the Bout,Rey Vargas,0.017199999999999993,0.5455,0.5283
 2022-07-06 18:03:39.494095,Boxing Lines - Israil Madrimov vs Michel Soro - To Win the Bout,Israil Madrimov,0.015699999999999936,0.8824,0.8667
 2022-07-06 18:03:40.074515,Business Specials - Tesla (TSLA) Price At Market Close on January 3 2023 - Proposition,Over 658.00 USD,0.015400000000000025,0.4,0.3846
+2022-07-06 23:03:02.123403,College Season Props - 2022 - Regular Season Wins - South Carolina - Proposition,Over 6,0.01539999999999997,0.6154,0.6
 2022-07-06 20:02:42.862880,MLB Futures - MLB 2022 National League West - NLW Winner,San Francisco Giants,0.015300000000000001,0.0588,0.0435
 2022-07-06 20:02:42.834925,MLB Futures - MLB 2022 American League East - ALE Winner,Boston Red Sox,0.015300000000000001,0.0476,0.0323
+2022-07-06 23:02:59.619620,NFL Season Props - NFL 2022/23 To Make the Playoffs - Carolina Panthers,Yes,0.015100000000000002,0.1818,0.1667
 2022-07-06 15:02:54.377438,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Ron DeSantis,0.01469999999999999,0.25,0.2353
 2022-07-06 20:02:42.841913,MLB Futures - MLB 2022 American League West - ALW Winner,Texas Rangers,0.0145,0.0244,0.0099
-2022-07-06 10:02:52.919719,Copa Libertadores - Copa Libertadores 2022 - Winner,Estudiantes La Plata,0.014099999999999994,0.0667,0.0526
-2022-07-06 10:02:52.919719,Copa Libertadores - Copa Libertadores 2022 - Winner,Athletico Paranaense-PR,0.014099999999999994,0.0667,0.0526
 2022-07-06 20:02:42.813480,MLB Futures - MLB 2022 Amercian League - AL Winner,Boston Red Sox,0.013999999999999999,0.0909,0.0769
-2022-07-06 18:03:29.759069,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Pete Buttigieg,0.013999999999999999,0.0909,0.0769
 2022-07-06 21:02:46.690361,NFL Futures - 2022/2023 Division Winner - NFC South - Panthers Division Finishing Position,1st,0.013999999999999999,0.0909,0.0769
+2022-07-06 18:03:29.759069,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Pete Buttigieg,0.013999999999999999,0.0909,0.0769
 2022-07-06 18:03:30.540897,NBA Specials - Where will Kevin Durant play next season? - Proposition,Brooklyn Nets,0.012899999999999995,0.1667,0.1538
 2022-07-06 20:02:42.820983,MLB Futures - MLB 2022 National League - NL Winner,St. Louis Cardinals,0.012600000000000007,0.0714,0.0588
 2022-07-06 21:02:47.875123,Round Match-Ups - Parlays - 1st Round Match-Up - X. Schauffele v R. MacIntyre - 1st Round Match-Up,Xander Schauffele,0.012299999999999978,0.6552,0.6429
 2022-07-06 19:02:51.197357,Round Match-Ups - Parlays - 1st Round Match-Up - R. Armour v M. Southgate - 1st Round Match-Up,Matthew Southgate,0.012199999999999989,0.5,0.4878
 2022-07-06 20:02:42.407485,Boxing Lines - Mark Magsayo vs Rey Vargas - To Win the Bout,Mark Magsayo,0.011600000000000055,0.5238,0.5122
-2022-07-06 17:02:45.769980,League One - England - League One 2022/23 - Outright,Derby County,0.011099999999999999,0.1111,0.1
+2022-07-06 23:03:00.547804,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,Alabama,0.01150000000000001,0.3448,0.3333
+2022-07-06 23:02:57.670621,Scottish Open - Scottish Open - Outright,Matthew Fitzpatrick,0.011199999999999995,0.0588,0.0476
 2022-07-06 18:03:37.449349,Scottish Open - 2/3 Balls - 1st Round 3-Balls - J. Smith / J. Morrison / K. Kitayama - 1st Round 3-Balls ,James Morrison,0.011099999999999999,0.2778,0.2667
+2022-07-06 23:02:57.708415,Round Match-Ups - Parlays - 1st Round Match-Up - C. Kirk v D. Lipsky - 1st Round Match-Up,David Lipsky,0.011099999999999999,0.4762,0.4651
+2022-07-06 17:02:45.769980,League One - England - League One 2022/23 - Outright,Derby County,0.011099999999999999,0.1111,0.1
 2022-07-06 19:02:51.163564,Round Match-Ups - Parlays - 1st Round Match-Up - A. Bjork v G. Forrest - 1st Round Match-Up,Alexander Bjork,0.01100000000000001,0.5348,0.5238
+2022-07-06 23:02:57.852421,Round Match-Ups - Parlays - 1st Round Match-Up - C. Tarren v D. Ghim - 1st Round Match-Up,Callum Tarren,0.01100000000000001,0.5348,0.5238
 2022-07-06 20:02:43.494361,Round Match-Ups - Parlays - 1st Round Match-Up - A. Bjork v G. Forrest - 1st Round Match-Up,Alexander Bjork,0.010699999999999932,0.5455,0.5348
-2022-07-06 11:02:45.084341,Boxing Lines - Magomed Kurbanov vs Patrick Teixeira - To Win the Bout,Patrick Teixeira,0.010499999999999982,0.2105,0.2
 2022-07-06 15:02:54.555834,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,TCU,0.010300000000000002,0.0244,0.0141
 2022-07-06 18:03:39.604183,Boxing Lines - Mark Magsayo vs Rey Vargas - To Win the Bout,Rey Vargas,0.010099999999999998,0.5556,0.5455
 2022-07-06 19:02:50.078924,Boxing Lines - Felix Cash vs Vaughn Alexander - To Win the Bout,Vaughn Alexander,-0.010099999999999998,0.1111,0.1212
-2022-07-06 20:02:42.407485,Boxing Lines - Mark Magsayo vs Rey Vargas - To Win the Bout,Rey Vargas,-0.010099999999999998,0.5455,0.5556
 2022-07-06 19:02:51.197357,Round Match-Ups - Parlays - 1st Round Match-Up - R. Armour v M. Southgate - 1st Round Match-Up,Ryan Armour,-0.010099999999999998,0.5455,0.5556
+2022-07-06 20:02:42.407485,Boxing Lines - Mark Magsayo vs Rey Vargas - To Win the Bout,Rey Vargas,-0.010099999999999998,0.5455,0.5556
 2022-07-06 17:02:45.769980,League One - England - League One 2022/23 - Outright,Barnsley,-0.0102,0.0667,0.0769
 2022-07-06 20:02:42.813480,MLB Futures - MLB 2022 Amercian League - AL Winner,Chicago White Sox,-0.0102,0.0667,0.0769
 2022-07-06 17:02:45.769980,League One - England - League One 2022/23 - Outright,Portsmouth,-0.0102,0.0667,0.0769
-2022-07-06 10:02:49.595099,Boxing Lines - Magomed Kurbanov vs Patrick Teixeira - To Win the Bout,Patrick Teixeira,-0.010499999999999982,0.2,0.2105
 2022-07-06 20:02:42.827881,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,-0.010599999999999998,0.4545,0.4651
-2022-07-06 10:02:49.628754,Boxing Lines - Dereck Chisora vs Kubrat Pulev - To Win the Bout,Dereck Chisora,-0.010699999999999987,0.3226,0.3333
+2022-07-06 23:03:02.123403,College Season Props - 2022 - Regular Season Wins - South Carolina - Proposition,Under 6,-0.010599999999999998,0.4545,0.4651
+2022-07-06 23:02:58.488507,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - J. Huh / M. Schneider / M. Kim - 1st Round 3 Balls,Marcel Schneider,-0.010699999999999987,0.3226,0.3333
 2022-07-06 19:02:50.385318,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Alexandria Ocasio-Cortez,-0.011199999999999995,0.0323,0.0435
 2022-07-06 18:03:30.540897,NBA Specials - Where will Kevin Durant play next season? - Proposition,Phoenix Suns,-0.01150000000000001,0.3333,0.3448
 2022-07-06 21:02:48.237229,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - J. Huh / M. Schneider / M. Kim - 1st Round 3 Balls,Marcel Schneider,-0.01150000000000001,0.3333,0.3448
-2022-07-06 18:03:39.604183,Boxing Lines - Mark Magsayo vs Rey Vargas - To Win the Bout,Mark Magsayo,-0.011600000000000055,0.5122,0.5238
 2022-07-06 19:02:51.163564,Round Match-Ups - Parlays - 1st Round Match-Up - A. Bjork v G. Forrest - 1st Round Match-Up,Grant Forrest,-0.011600000000000055,0.5122,0.5238
+2022-07-06 23:02:57.852421,Round Match-Ups - Parlays - 1st Round Match-Up - C. Tarren v D. Ghim - 1st Round Match-Up,Doug Ghim,-0.011600000000000055,0.5122,0.5238
+2022-07-06 18:03:39.604183,Boxing Lines - Mark Magsayo vs Rey Vargas - To Win the Bout,Mark Magsayo,-0.011600000000000055,0.5122,0.5238
 2022-07-06 17:02:45.782111,League One - England - League One 2022/23 - To Be Promoted,Peterborough United,-0.011700000000000016,0.2105,0.2222
+2022-07-06 23:02:58.385766,Tournament Match-Ups - Parlays - Tournament Match-Up - G. Sigg v J. Brun - Tournament Match-Up,Julien Brun,-0.012199999999999989,0.5,0.5122
 2022-07-06 20:02:43.494361,Round Match-Ups - Parlays - 1st Round Match-Up - A. Bjork v G. Forrest - 1st Round Match-Up,Grant Forrest,-0.012199999999999989,0.5,0.5122
-2022-07-06 10:02:53.456575,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,CF Pachuca,-0.012899999999999995,0.1538,0.1667
+2022-07-06 23:02:58.361969,Tournament Match-Ups - Parlays - Tournament Match-Up - C. Hadley v P. Kizzire - Tournament Match-Up,Chesson Hadley,-0.012199999999999989,0.5,0.5122
+2022-07-06 23:03:02.878935,NFL Futures - 2022/2023 Division Winner - NFC North - NFC North Winner,Green Bay Packers,-0.012299999999999978,0.6429,0.6552
+2022-07-06 23:03:00.501695,NCAAF - 2022 SEC Championship - Odds to Win - East Division Winner,Georgia,-0.012899999999999912,0.8333,0.8462
 2022-07-06 15:02:54.680786,Boxing Lines - Israil Madrimov vs Michel Soro - To Win the Bout,Michel Soro,-0.0131,0.1869,0.2
 2022-07-06 18:03:29.759069,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Michelle Obama,-0.014100000000000001,0.0385,0.0526
+2022-07-06 23:02:59.619620,NFL Season Props - NFL 2022/23 To Make the Playoffs - Carolina Panthers,No,-0.01429999999999998,0.8857,0.9
+2022-07-06 23:02:59.262702,NFL Season Props - NFL 2022/23 Stage of Elimination - CAR Panthers Stage of Elimination,To Miss the Playoffs,-0.01429999999999998,0.8857,0.9
 2022-07-06 13:03:20.172596,Boxing Lines - Brandon Figueroa vs Carlos Castro - To Win the Bout,Carlos Castro,-0.014399999999999996,0.1961,0.2105
+2022-07-06 23:02:58.488507,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - J. Huh / M. Schneider / M. Kim - 1st Round 3 Balls,Michael Kim,-0.014900000000000024,0.3077,0.3226
 2022-07-06 18:03:30.540897,NBA Specials - Where will Kevin Durant play next season? - Proposition,Miami Heat,-0.015100000000000002,0.1667,0.1818
 2022-07-06 17:02:45.800282,League One - England - League One 2022/23 - Top 6 Finish,Bristol Rovers,-0.015100000000000002,0.1667,0.1818
 2022-07-06 18:03:29.759069,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Kamala Harris,-0.015100000000000002,0.1667,0.1818
@@ -84,16 +90,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-06 17:02:45.800282,League One - England - League One 2022/23 - Top 6 Finish,Portsmouth,-0.015400000000000025,0.3846,0.4
 2022-07-06 18:03:40.074515,Business Specials - Tesla (TSLA) Price At Market Close on January 3 2023 - Proposition,Under 658.00 USD,-0.015800000000000036,0.6667,0.6825
 2022-07-06 20:02:42.827881,MLB Futures - MLB 2022 American League Central - ALC Winner,Chicago White Sox,-0.016699999999999993,0.4,0.4167
+2022-07-06 23:02:57.708415,Round Match-Ups - Parlays - 1st Round Match-Up - C. Kirk v D. Lipsky - 1st Round Match-Up,Chris Kirk,-0.018100000000000005,0.5652,0.5833
 2022-07-06 20:02:42.862880,MLB Futures - MLB 2022 National League West - NLW Winner,Los Angeles Dodgers,-0.018199999999999994,0.8,0.8182
 2022-07-06 17:02:45.782111,League One - England - League One 2022/23 - To Be Promoted,Portsmouth,-0.01820000000000002,0.1818,0.2
 2022-07-06 17:02:45.782111,League One - England - League One 2022/23 - To Be Promoted,Ipswich Town,-0.018799999999999983,0.3448,0.3636
 2022-07-06 20:02:42.820983,MLB Futures - MLB 2022 National League - NL Winner,Atlanta Braves,-0.020100000000000007,0.1538,0.1739
 2022-07-06 20:02:42.848810,MLB Futures - MLB 2022 National League Central - NLC Winner,Milwaukee Brewers,-0.022499999999999964,0.7143,0.7368
 2022-07-06 20:02:43.585805,Round Match-Ups - Parlays - 1st Round Match-Up - J. Catlin v L. Glover - 1st Round Match-Up,Lucas Glover,-0.023800000000000043,0.5,0.5238
+2022-07-06 23:02:56.915144,NBA Specials - Where will Kevin Durant play next season? - Proposition,Golden State Warriors,-0.0242,0.0667,0.0909
 2022-07-06 20:02:43.556902,Round Match-Ups - Parlays - 1st Round Match-Up - A. Lahiri v B. Stone - 1st Round Match-Up,Anirban Lahiri,-0.026499999999999968,0.5652,0.5917
+2022-07-06 23:03:01.585267,College Season Props - 2022 - Regular Season Wins - Auburn - Proposition,Under 6.5,-0.02750000000000008,0.6154,0.6429
 2022-07-06 17:02:45.800282,League One - England - League One 2022/23 - Top 6 Finish,Wycombe,-0.030299999999999994,0.3333,0.3636
-2022-07-06 10:02:53.456575,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Club América,-0.033300000000000024,0.1667,0.2
-2022-07-06 10:02:53.456575,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Deportivo Toluca,-0.03420000000000001,0.0769,0.1111
 2022-07-06 19:02:50.726218,Tournament Match-Ups - Parlays - Tournament Match-Up - B. Horschel v K. Bradley - Tournament Match-Up,Billy Horschel,-0.035999999999999976,0.4762,0.5122
-2022-07-06 10:02:52.728266,Tournament Match-Ups - Parlays - Tournament Match-Up - C. Hadley v P. Kizzire - Tournament Match-Up,Chesson Hadley,-0.043399999999999994,0.5122,0.5556
-2022-07-06 11:02:45.131157,Boxing Lines - Israil Madrimov vs Michel Soro - To Win the Bout,Michel Soro,-0.044800000000000006,0.1905,0.2353
