@@ -9,6 +9,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-07 10:03:36.984904,Copa Libertadores - Copa Libertadores 2022 - To Reach the Final,Palmeiras-SP,0.11110000000000003,0.4444,0.3333
 2022-07-07 06:02:49.146404,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,0.10109999999999997,0.5556,0.4545
 2022-07-07 10:03:36.984904,Copa Libertadores - Copa Libertadores 2022 - To Reach the Final,Athletico Paranaense-PR,0.0871,0.1538,0.0667
+2022-07-07 11:03:35.453328,Transfer Specials - Frenkie de Jong - Next Permanent Club - Frenkie de Jong - Next Permanent Club,To Stay at Barcelona,0.07619999999999999,0.4762,0.4
 2022-07-07 10:03:36.984904,Copa Libertadores - Copa Libertadores 2022 - To Reach the Final,Flamengo-RJ,0.07619999999999999,0.4762,0.4
 2022-07-07 10:03:36.984904,Copa Libertadores - Copa Libertadores 2022 - To Reach the Final,Corinthians-SP,0.07069999999999999,0.1818,0.1111
 2022-07-07 10:03:37.800065,Copa Sudamericana - Copa Sudamericana 2022 - To Reach the Final,Independiente,0.06840000000000002,0.2222,0.1538
@@ -18,6 +19,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-07 10:03:37.800065,Copa Sudamericana - Copa Sudamericana 2022 - To Reach the Final,Olimpia Asuncion,0.0629,0.1538,0.0909
 2022-07-07 10:03:37.687180,UEFA Women's Euro 2022 - Group A - To Advance from Group,Norway (W),0.050000000000000044,0.8,0.75
 2022-07-07 02:02:45.613419,NBA Specials - Where will Kevin Durant play next season? - Proposition,Brooklyn Nets,0.04999999999999999,0.25,0.2
+2022-07-07 11:03:35.437992,Transfer Specials - Cristiano Ronaldo - Club after Summer Transfer Window - Cristiano Ronaldo - Club after Summer Transfer Window,Chelsea,0.044399999999999995,0.4444,0.4
 2022-07-07 10:03:37.762944,UEFA Women's Euro 2022 - European Championship Women 2022 - Top Goalscorer,Vivianne Miedema,0.04169999999999999,0.1667,0.125
 2022-07-07 10:03:37.762944,UEFA Women's Euro 2022 - European Championship Women 2022 - Top Goalscorer,Marie-Antoinette Katoto,0.04169999999999999,0.1667,0.125
 2022-07-07 10:03:37.800065,Copa Sudamericana - Copa Sudamericana 2022 - To Reach the Final,FBC Melgar,0.04120000000000001,0.1,0.0588
@@ -27,12 +29,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-07 05:02:46.359431,KBO League - KBO League 2022 - Outright,Kiwoom Heroes,0.0353,0.2353,0.2
 2022-07-07 04:02:59.408705,Tournament Match-Ups - Parlays - Tournament Match-Up - B. Horschel v K. Bradley - Tournament Match-Up,Keegan Bradley,0.03479999999999994,0.6,0.5652
 2022-07-07 10:03:37.762944,UEFA Women's Euro 2022 - European Championship Women 2022 - Top Goalscorer,Beth Mead,0.03420000000000001,0.1111,0.0769
-2022-07-06 23:02:56.915144,NBA Specials - Where will Kevin Durant play next season? - Proposition,Brooklyn Nets,0.033300000000000024,0.2,0.1667
 2022-07-07 10:03:37.800065,Copa Sudamericana - Copa Sudamericana 2022 - To Reach the Final,Ceará,0.03259999999999999,0.2326,0.2
 2022-07-07 10:03:37.776597,UEFA Women's Euro 2022 - European Championship Women 2022 - To Reach the Final,England (W),0.03210000000000002,0.4167,0.3846
-2022-07-06 23:02:58.488507,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - J. Huh / M. Schneider / M. Kim - 1st Round 3 Balls,John Huh,0.031799999999999995,0.4762,0.4444
 2022-07-07 10:03:37.784791,UEFA Women's Euro 2022 - European Championship Women 2022 - To Reach the Semi Final,England (W),0.030299999999999994,0.6667,0.6364
-2022-07-06 23:03:01.585267,College Season Props - 2022 - Regular Season Wins - Auburn - Proposition,Over 6.5,0.029000000000000026,0.4545,0.4255
+2022-07-07 11:03:34.140977,UEFA Women's Euro 2022 - Group A - Not To Advance from Group,Norway (W),0.028599999999999987,0.2667,0.2381
 2022-07-07 10:03:37.674762,UEFA Women's Euro 2022 - Group A - Group Winner,England (W),0.027800000000000047,0.7778,0.75
 2022-07-07 10:03:37.929594,Superettan - Swedish Superettan 2022 - Outright,Halmstads BK,0.025600000000000067,0.6923,0.6667
 2022-07-07 00:02:42.639428,Round Match-Ups - 1st Round Match-Up - P. Cantlay v F. Molinari - 1st Round Match-Up,Patrick Cantlay,0.025599999999999956,0.6552,0.6296
@@ -40,33 +40,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-07 04:03:00.116845,Round Match-Ups - Parlays - 1st Round Match-Up - C. Smith v J. Spieth - 1st Round Match-Up,Jordan Spieth,0.023800000000000043,0.5238,0.5
 2022-07-07 03:03:35.485676,Scottish Open - 2/3 Balls - 1st Round 3-Balls - M. Hughes / M. Kieffer / J. Lee - 1st Round 3-Balls,Mackenzie Hughes,0.023800000000000043,0.5238,0.5
 2022-07-07 03:03:36.554601,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - A.. Svensson / G. Green / S.Y. Noh - 1st Round 3 Balls,Adam Svensson,0.023800000000000043,0.5238,0.5
-2022-07-07 05:02:46.716033,Scottish Open - 2/3 Balls - 1st Round 3-Balls - X. Schauffele / R. MacIntyre / M. W. Lee - 1st Round 3-Balls,Xander Schauffele,0.023799999999999988,0.5,0.4762
 2022-07-07 04:02:59.758473,Scottish Open - 2/3 Balls - 1st Round 3-Balls - K. Bradley / A. Bjork / G. Forrest - 1st Round 3-Balls ,Keegan Bradley,0.023799999999999988,0.5,0.4762
+2022-07-07 05:02:46.716033,Scottish Open - 2/3 Balls - 1st Round 3-Balls - X. Schauffele / R. MacIntyre / M. W. Lee - 1st Round 3-Balls,Xander Schauffele,0.023799999999999988,0.5,0.4762
 2022-07-07 00:02:41.959387,Tournament Match-Ups - Parlays - Tournament Match-Up - J. Rahm v J. Thomas - Tournament Match-Up,Justin Thomas,0.022600000000000064,0.5348,0.5122
 2022-07-07 10:03:37.794697,Copa Sudamericana - Copa Sudamericana 2022 - Winner,Internacional,0.02250000000000002,0.2857,0.2632
 2022-07-07 04:03:00.104759,Round Match-Ups - Parlays - 1st Round Match-Up - S. Scheffler v J. Rahm - 1st Round Match-Up,Jon Rahm,0.02169999999999994,0.5455,0.5238
 2022-07-07 06:02:49.554508,Scottish Open - 2/3 Balls - 1st Round 3-Balls - B. Harman / D. Law / J. Senior - 1st Round 3-Balls ,Brian Harman,0.020699999999999996,0.4651,0.4444
 2022-07-07 10:03:37.929594,Superettan - Swedish Superettan 2022 - Outright,Utsiktens,0.02020000000000001,0.1111,0.0909
 2022-07-07 04:03:00.306067,Round Match-Ups - Parlays - 1st Round Match-Up - J. Catlin v L. Glover - 1st Round Match-Up,John Catlin,0.01970000000000005,0.5652,0.5455
-2022-07-07 10:03:37.794697,Copa Sudamericana - Copa Sudamericana 2022 - Winner,Nacional de Football,0.019699999999999995,0.125,0.1053
 2022-07-07 03:03:36.614529,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - C. Hadley / J. Stalter / M. Hubbard - 1st Round 3 Balls,Mark Hubbard,0.019699999999999995,0.4545,0.4348
+2022-07-07 10:03:37.794697,Copa Sudamericana - Copa Sudamericana 2022 - Winner,Nacional de Football,0.019699999999999995,0.125,0.1053
 2022-07-07 06:02:49.138212,MLB Futures - MLB 2022 National League - NL Winner,St. Louis Cardinals,0.01949999999999999,0.0909,0.0714
-2022-07-06 23:03:02.878935,NFL Futures - 2022/2023 Division Winner - NFC North - NFC North Winner,Minnesota Vikings,0.019000000000000017,0.2857,0.2667
 2022-07-07 10:03:36.965265,Copa Libertadores - Copa Libertadores 2022 - Winner,Flamengo-RJ,0.019000000000000017,0.2857,0.2667
 2022-07-07 10:03:37.674762,UEFA Women's Euro 2022 - Group A - Group Winner,Norway (W),0.019000000000000017,0.2857,0.2667
 2022-07-07 05:02:46.553599,Scottish Open - 2/3 Balls - 1st Round 3-Balls - A. Rai / V. Perez / H. English - 1st Round 3-Balls ,Aaron Rai,0.018900000000000028,0.4444,0.4255
 2022-07-07 04:02:59.456095,Tournament Match-Ups - Parlays - Tournament Match-Up - J. Niemann v M. Homa - Tournament Match-Up,Joaquin Niemann,0.01880000000000004,0.5744,0.5556
 2022-07-07 04:03:00.176434,Round Match-Ups - Parlays - 1st Round Match-Up - L. Herbert v D. Frittelli - 1st Round Match-Up,Lucas Herbert,0.018100000000000005,0.5833,0.5652
 2022-07-07 10:03:37.757012,UEFA Women's Euro 2022 - European Championship Women 2022 - Winner,Norway (W),0.018099999999999998,0.0769,0.0588
-2022-07-06 23:03:00.501695,NCAAF - 2022 SEC Championship - Odds to Win - East Division Winner,Florida,0.018099999999999998,0.0769,0.0588
 2022-07-07 10:03:37.687180,UEFA Women's Euro 2022 - Group A - To Advance from Group,England (W),0.017900000000000027,0.9901,0.9722
 2022-07-07 10:03:37.757012,UEFA Women's Euro 2022 - European Championship Women 2022 - Winner,Germany (W),0.0179,0.1429,0.125
 2022-07-07 09:02:53.382283,Boxing Lines - Israil Madrimov vs Michel Soro - To Win the Bout,Israil Madrimov,0.01760000000000006,0.9,0.8824
 2022-07-07 10:03:37.794697,Copa Sudamericana - Copa Sudamericana 2022 - Winner,São Paulo,0.016699999999999993,0.2667,0.25
-2022-07-06 23:03:02.123403,College Season Props - 2022 - Regular Season Wins - South Carolina - Proposition,Over 6,0.01539999999999997,0.6154,0.6
 2022-07-07 10:03:37.929594,Superettan - Swedish Superettan 2022 - Outright,Brommapojkarna,0.015300000000000001,0.0476,0.0323
 2022-07-07 05:02:46.359431,KBO League - KBO League 2022 - Outright,Lotte Giants,0.015300000000000001,0.0476,0.0323
-2022-07-06 23:02:59.619620,NFL Season Props - NFL 2022/23 To Make the Playoffs - Carolina Panthers,Yes,0.015100000000000002,0.1818,0.1667
 2022-07-07 10:03:37.800065,Copa Sudamericana - Copa Sudamericana 2022 - To Reach the Final,Atlético Lanús,0.015100000000000002,0.1818,0.1667
 2022-07-07 04:03:01.136209,Round Match-Ups - Parlays - 1st Round Match-Up - C. Gotterup v J. Lower - 1st Round Match-Up,Chris Gotterup,0.014800000000000035,0.6226,0.6078
 2022-07-07 06:02:49.128988,MLB Futures - MLB 2022 Amercian League - AL Winner,Tampa Bay Rays,0.014399999999999996,0.0769,0.0625
@@ -77,17 +73,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-07 01:03:01.017734,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - A. Stephens / C. Gotterup / J. Lower - 1st Round 3 Balls,Justin Lower,0.012699999999999989,0.3636,0.3509
 2022-07-07 10:03:37.757012,UEFA Women's Euro 2022 - European Championship Women 2022 - Winner,England (W),0.011700000000000016,0.2222,0.2105
 2022-07-07 00:02:42.340418,Round Match-Ups - Parlays - 1st Round Match-Up - S. Scheffler v J. Rahm - 1st Round Match-Up,Jon Rahm,0.011600000000000055,0.5238,0.5122
-2022-07-06 23:03:00.547804,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,Alabama,0.01150000000000001,0.3448,0.3333
-2022-07-07 10:03:36.984904,Copa Libertadores - Copa Libertadores 2022 - To Reach the Final,Fortaleza-CE,0.011199999999999995,0.0588,0.0476
-2022-07-06 23:02:57.670621,Scottish Open - Scottish Open - Outright,Matthew Fitzpatrick,0.011199999999999995,0.0588,0.0476
 2022-07-07 10:03:37.762944,UEFA Women's Euro 2022 - European Championship Women 2022 - Top Goalscorer,Claudia Pina,0.011199999999999995,0.0588,0.0476
-2022-07-06 23:02:57.708415,Round Match-Ups - Parlays - 1st Round Match-Up - C. Kirk v D. Lipsky - 1st Round Match-Up,David Lipsky,0.011099999999999999,0.4762,0.4651
+2022-07-07 10:03:36.984904,Copa Libertadores - Copa Libertadores 2022 - To Reach the Final,Fortaleza-CE,0.011199999999999995,0.0588,0.0476
 2022-07-07 10:03:37.794697,Copa Sudamericana - Copa Sudamericana 2022 - Winner,Independiente,0.011099999999999999,0.1111,0.1
-2022-07-07 02:02:45.776335,Boxing Lines - Mark Magsayo vs Rey Vargas - To Win the Bout,Mark Magsayo,0.01100000000000001,0.5348,0.5238
 2022-07-07 08:03:03.068983,Boxing Lines - Mark Magsayo vs Rey Vargas - To Win the Bout,Mark Magsayo,0.01100000000000001,0.5348,0.5238
-2022-07-06 23:02:57.852421,Round Match-Ups - Parlays - 1st Round Match-Up - C. Tarren v D. Ghim - 1st Round Match-Up,Callum Tarren,0.01100000000000001,0.5348,0.5238
-2022-07-07 06:02:49.128988,MLB Futures - MLB 2022 Amercian League - AL Winner,Toronto Blue Jays,0.010899999999999993,0.1538,0.1429
+2022-07-07 02:02:45.776335,Boxing Lines - Mark Magsayo vs Rey Vargas - To Win the Bout,Mark Magsayo,0.01100000000000001,0.5348,0.5238
 2022-07-07 06:02:49.138212,MLB Futures - MLB 2022 National League - NL Winner,San Diego Padres,0.010899999999999993,0.1538,0.1429
+2022-07-07 06:02:49.128988,MLB Futures - MLB 2022 Amercian League - AL Winner,Toronto Blue Jays,0.010899999999999993,0.1538,0.1429
 2022-07-07 10:03:37.769238,UEFA Women's Euro 2022 - European Championship Women 2022 - Tournament Winner and Top Goalscorer Parlay,England & Beth Mead,0.010700000000000001,0.0385,0.0278
 2022-07-07 04:02:58.337844,Boxing Lines - Mark Magsayo vs Rey Vargas - To Win the Bout,Rey Vargas,0.010699999999999932,0.5455,0.5348
 2022-07-07 04:03:00.200023,Round Match-Ups - Parlays - 1st Round Match-Up - C. Tarren v D. Ghim - 1st Round Match-Up,Callum Tarren,0.010699999999999932,0.5455,0.5348
@@ -95,62 +87,49 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-07 04:03:01.209040,Round Match-Ups - Parlays - 1st Round Match-Up - K. Kraft v J. Brun - 1st Round Match-Up,Julien Brun,0.010599999999999998,0.4651,0.4545
 2022-07-07 04:03:01.263665,Bridgestone Senior Players Championship - Bridgestone Senior Players Championship - Outright,Jerry Kelly,0.0102,0.0769,0.0667
 2022-07-07 05:02:46.553599,Scottish Open - 2/3 Balls - 1st Round 3-Balls - A. Rai / V. Perez / H. English - 1st Round 3-Balls ,Harris English,-0.010099999999999998,0.3125,0.3226
-2022-07-07 06:02:49.128988,MLB Futures - MLB 2022 Amercian League - AL Winner,Minnesota Twins,-0.0102,0.0667,0.0769
 2022-07-07 00:02:42.293984,Scottish Open - Scottish Open - Outright,Jon Rahm,-0.0102,0.0667,0.0769
 2022-07-07 10:03:37.784791,UEFA Women's Euro 2022 - European Championship Women 2022 - To Reach the Semi Final,Austria (W),-0.0102,0.0667,0.0769
+2022-07-07 06:02:49.128988,MLB Futures - MLB 2022 Amercian League - AL Winner,Minnesota Twins,-0.0102,0.0667,0.0769
 2022-07-07 03:03:36.614529,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - C. Hadley / J. Stalter / M. Hubbard - 1st Round 3 Balls,Chesson Hadley,-0.010599999999999998,0.4545,0.4651
-2022-07-06 23:03:02.123403,College Season Props - 2022 - Regular Season Wins - South Carolina - Proposition,Under 6,-0.010599999999999998,0.4545,0.4651
 2022-07-07 08:03:03.068983,Boxing Lines - Mark Magsayo vs Rey Vargas - To Win the Bout,Rey Vargas,-0.010699999999999932,0.5348,0.5455
 2022-07-07 02:02:45.776335,Boxing Lines - Mark Magsayo vs Rey Vargas - To Win the Bout,Rey Vargas,-0.010699999999999932,0.5348,0.5455
-2022-07-07 04:02:59.758473,Scottish Open - 2/3 Balls - 1st Round 3-Balls - K. Bradley / A. Bjork / G. Forrest - 1st Round 3-Balls ,Alexander Bjork,-0.010699999999999987,0.3226,0.3333
 2022-07-07 06:02:49.138212,MLB Futures - MLB 2022 National League - NL Winner,Los Angeles Dodgers,-0.010699999999999987,0.3226,0.3333
-2022-07-06 23:02:58.488507,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - J. Huh / M. Schneider / M. Kim - 1st Round 3 Balls,Marcel Schneider,-0.010699999999999987,0.3226,0.3333
+2022-07-07 04:02:59.758473,Scottish Open - 2/3 Balls - 1st Round 3-Balls - K. Bradley / A. Bjork / G. Forrest - 1st Round 3-Balls ,Alexander Bjork,-0.010699999999999987,0.3226,0.3333
 2022-07-07 06:02:49.120139,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Houston Astros,-0.010899999999999993,0.1429,0.1538
 2022-07-07 10:03:37.757012,UEFA Women's Euro 2022 - European Championship Women 2022 - Winner,Netherlands (W),-0.010899999999999993,0.1429,0.1538
 2022-07-07 04:02:58.337844,Boxing Lines - Mark Magsayo vs Rey Vargas - To Win the Bout,Mark Magsayo,-0.01100000000000001,0.5238,0.5348
 2022-07-07 00:02:42.340418,Round Match-Ups - Parlays - 1st Round Match-Up - S. Scheffler v J. Rahm - 1st Round Match-Up,Scottie Scheffler,-0.01100000000000001,0.5238,0.5348
-2022-07-07 04:02:59.408705,Tournament Match-Ups - Parlays - Tournament Match-Up - B. Horschel v K. Bradley - Tournament Match-Up,Billy Horschel,-0.011099999999999999,0.4651,0.4762
 2022-07-07 04:03:00.176434,Round Match-Ups - Parlays - 1st Round Match-Up - L. Herbert v D. Frittelli - 1st Round Match-Up,Dylan Frittelli,-0.011099999999999999,0.4651,0.4762
+2022-07-07 04:02:59.408705,Tournament Match-Ups - Parlays - Tournament Match-Up - B. Horschel v K. Bradley - Tournament Match-Up,Billy Horschel,-0.011099999999999999,0.4651,0.4762
 2022-07-07 06:02:49.154605,MLB Futures - MLB 2022 American League East - ALE Winner,Toronto Blue Jays,-0.011199999999999995,0.0476,0.0588
 2022-07-07 10:03:37.757012,UEFA Women's Euro 2022 - European Championship Women 2022 - Winner,Austria (W),-0.0114,0.005,0.0164
 2022-07-07 04:03:01.082387,Round Match-Ups - Parlays - 1st Round Match-Up - H. Lebioda v D. Lingmerth - 1st Round Match-Up,David Lingmerth,-0.0116,0.4762,0.4878
-2022-07-06 23:02:57.852421,Round Match-Ups - Parlays - 1st Round Match-Up - C. Tarren v D. Ghim - 1st Round Match-Up,Doug Ghim,-0.011600000000000055,0.5122,0.5238
 2022-07-07 10:03:37.929594,Superettan - Swedish Superettan 2022 - Outright,Örebro SK,-0.0118,0.0099,0.0217
 2022-07-07 03:03:35.485676,Scottish Open - 2/3 Balls - 1st Round 3-Balls - M. Hughes / M. Kieffer / J. Lee - 1st Round 3-Balls,Jaekyeong Lee,-0.011899999999999994,0.2381,0.25
-2022-07-06 23:02:58.361969,Tournament Match-Ups - Parlays - Tournament Match-Up - C. Hadley v P. Kizzire - Tournament Match-Up,Chesson Hadley,-0.012199999999999989,0.5,0.5122
 2022-07-07 04:03:00.200023,Round Match-Ups - Parlays - 1st Round Match-Up - C. Tarren v D. Ghim - 1st Round Match-Up,Doug Ghim,-0.012199999999999989,0.5,0.5122
-2022-07-06 23:02:58.385766,Tournament Match-Ups - Parlays - Tournament Match-Up - G. Sigg v J. Brun - Tournament Match-Up,Julien Brun,-0.012199999999999989,0.5,0.5122
-2022-07-06 23:03:02.878935,NFL Futures - 2022/2023 Division Winner - NFC North - NFC North Winner,Green Bay Packers,-0.012299999999999978,0.6429,0.6552
 2022-07-07 06:02:49.163066,MLB Futures - MLB 2022 American League West - ALW Winner,Texas Rangers,-0.012800000000000002,0.0116,0.0244
-2022-07-06 23:03:00.501695,NCAAF - 2022 SEC Championship - Odds to Win - East Division Winner,Georgia,-0.012899999999999912,0.8333,0.8462
 2022-07-07 10:03:37.762944,UEFA Women's Euro 2022 - European Championship Women 2022 - Top Goalscorer,Lauren Hemp,-0.014099999999999994,0.0526,0.0667
 2022-07-07 06:02:49.154605,MLB Futures - MLB 2022 American League East - ALE Winner,New York Yankees,-0.014100000000000001,0.9474,0.9615
-2022-07-06 23:02:59.619620,NFL Season Props - NFL 2022/23 To Make the Playoffs - Carolina Panthers,No,-0.01429999999999998,0.8857,0.9
-2022-07-06 23:02:59.262702,NFL Season Props - NFL 2022/23 Stage of Elimination - CAR Panthers Stage of Elimination,To Miss the Playoffs,-0.01429999999999998,0.8857,0.9
-2022-07-06 23:02:58.488507,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - J. Huh / M. Schneider / M. Kim - 1st Round 3 Balls,Michael Kim,-0.014900000000000024,0.3077,0.3226
 2022-07-07 06:02:49.154605,MLB Futures - MLB 2022 American League East - ALE Winner,Boston Red Sox,-0.015300000000000001,0.0323,0.0476
 2022-07-07 08:03:03.081896,Boxing Lines - Ryan Garcia vs Javier Fortuna - To Win the Bout,Ryan Garcia,-0.016699999999999937,0.9,0.9167
 2022-07-07 10:03:36.965265,Copa Libertadores - Copa Libertadores 2022 - Winner,Palmeiras-SP,-0.016699999999999993,0.25,0.2667
 2022-07-07 06:02:49.554508,Scottish Open - 2/3 Balls - 1st Round 3-Balls - B. Harman / D. Law / J. Senior - 1st Round 3-Balls ,David Law,-0.017600000000000005,0.3333,0.3509
 2022-07-07 10:03:37.762944,UEFA Women's Euro 2022 - European Championship Women 2022 - Top Goalscorer,Lea Schuller,-0.018099999999999998,0.0588,0.0769
-2022-07-06 23:02:57.708415,Round Match-Ups - Parlays - 1st Round Match-Up - C. Kirk v D. Lipsky - 1st Round Match-Up,Chris Kirk,-0.018100000000000005,0.5652,0.5833
 2022-07-07 06:02:49.128988,MLB Futures - MLB 2022 Amercian League - AL Winner,Cleveland Guardians,-0.018200000000000004,0.0294,0.0476
 2022-07-07 10:03:33.235541,Boxing Lines - Israil Madrimov vs Michel Soro - To Win the Bout,Michel Soro,-0.018599999999999978,0.1481,0.1667
-2022-07-07 04:03:00.270901,Round Match-Ups - Parlays - 1st Round Match-Up - S. Im v B. Horschel - 1st Round Match-Up,Sung-Jae Im,-0.02079999999999993,0.5348,0.5556
 2022-07-07 00:02:41.959387,Tournament Match-Ups - Parlays - Tournament Match-Up - J. Rahm v J. Thomas - Tournament Match-Up,Jon Rahm,-0.02079999999999993,0.5348,0.5556
+2022-07-07 04:03:00.270901,Round Match-Ups - Parlays - 1st Round Match-Up - S. Im v B. Horschel - 1st Round Match-Up,Sung-Jae Im,-0.02079999999999993,0.5348,0.5556
 2022-07-07 04:03:00.116845,Round Match-Ups - Parlays - 1st Round Match-Up - C. Smith v J. Spieth - 1st Round Match-Up,Cameron Smith,-0.02169999999999994,0.5238,0.5455
 2022-07-07 03:03:36.554601,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - A.. Svensson / G. Green / S.Y. Noh - 1st Round 3 Balls,Seung-Yul Noh,-0.021999999999999964,0.2857,0.3077
 2022-07-07 10:03:37.762944,UEFA Women's Euro 2022 - European Championship Women 2022 - Top Goalscorer,Esther Gonzalez,-0.02310000000000001,0.0769,0.1
 2022-07-07 04:03:00.306067,Round Match-Ups - Parlays - 1st Round Match-Up - J. Catlin v L. Glover - 1st Round Match-Up,Lucas Glover,-0.023799999999999988,0.4762,0.5
 2022-07-07 04:03:00.104759,Round Match-Ups - Parlays - 1st Round Match-Up - S. Scheffler v J. Rahm - 1st Round Match-Up,Scottie Scheffler,-0.023800000000000043,0.5,0.5238
-2022-07-06 23:02:56.915144,NBA Specials - Where will Kevin Durant play next season? - Proposition,Golden State Warriors,-0.0242,0.0667,0.0909
 2022-07-07 04:02:59.456095,Tournament Match-Ups - Parlays - Tournament Match-Up - J. Niemann v M. Homa - Tournament Match-Up,Max Homa,-0.024399999999999977,0.4878,0.5122
 2022-07-07 10:03:36.974043,Copa Libertadores - Copa Libertadores 2022 - Top Goalscorer,Gabriel Almeida (Flamengo),-0.0245,0.0588,0.0833
 2022-07-07 00:02:42.639428,Round Match-Ups - 1st Round Match-Up - P. Cantlay v F. Molinari - 1st Round Match-Up,Francesco Molinari,-0.024500000000000022,0.3922,0.4167
 2022-07-07 10:03:36.984904,Copa Libertadores - Copa Libertadores 2022 - To Reach the Final,Atlético Mineiro-MG,-0.02560000000000001,0.3077,0.3333
 2022-07-07 10:03:37.784791,UEFA Women's Euro 2022 - European Championship Women 2022 - To Reach the Semi Final,Spain (W),-0.025600000000000067,0.6667,0.6923
 2022-07-07 06:02:49.128988,MLB Futures - MLB 2022 Amercian League - AL Winner,Houston Astros,-0.02679999999999999,0.2857,0.3125
-2022-07-06 23:03:01.585267,College Season Props - 2022 - Regular Season Wins - Auburn - Proposition,Under 6.5,-0.02750000000000008,0.6154,0.6429
 2022-07-07 10:03:37.776597,UEFA Women's Euro 2022 - European Championship Women 2022 - To Reach the Final,Spain (W),-0.027700000000000002,0.4167,0.4444
 2022-07-07 10:03:37.929594,Superettan - Swedish Superettan 2022 - Outright,Skövde AIK,-0.028000000000000004,0.0196,0.0476
 2022-07-07 06:02:49.190293,MLB Futures - MLB 2022 National League West - NLW Winner,San Diego Padres,-0.0305,0.2105,0.241
@@ -161,12 +140,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-07 10:03:36.965265,Copa Libertadores - Copa Libertadores 2022 - Winner,Atlético Mineiro-MG,-0.04040000000000002,0.1818,0.2222
 2022-07-07 10:03:37.674762,UEFA Women's Euro 2022 - Group A - Group Winner,Austria (W),-0.04229999999999999,0.0244,0.0667
 2022-07-07 10:03:37.800065,Copa Sudamericana - Copa Sudamericana 2022 - To Reach the Final,Atlético Goianiense,-0.048100000000000004,0.0769,0.125
-2022-07-07 10:03:37.762944,UEFA Women's Euro 2022 - European Championship Women 2022 - Top Goalscorer,Ellen White,-0.04849999999999999,0.1053,0.1538
 2022-07-07 06:02:49.138212,MLB Futures - MLB 2022 National League - NL Winner,Milwaukee Brewers,-0.04849999999999999,0.1053,0.1538
+2022-07-07 10:03:37.762944,UEFA Women's Euro 2022 - European Championship Women 2022 - Top Goalscorer,Ellen White,-0.04849999999999999,0.1053,0.1538
 2022-07-07 10:03:37.757012,UEFA Women's Euro 2022 - European Championship Women 2022 - Winner,Spain (W),-0.04999999999999999,0.2,0.25
 2022-07-07 06:02:49.146404,MLB Futures - MLB 2022 American League Central - ALC Winner,Chicago White Sox,-0.05520000000000003,0.3448,0.4
 2022-07-07 06:02:49.181716,MLB Futures - MLB 2022 National League East - NLE Winner,New York Mets,-0.061000000000000054,0.6,0.661
 2022-07-07 10:03:37.929594,Superettan - Swedish Superettan 2022 - Outright,Östers IF,-0.06620000000000001,0.0588,0.125
+2022-07-07 11:03:35.453328,Transfer Specials - Frenkie de Jong - Next Permanent Club - Frenkie de Jong - Next Permanent Club,Manchester United,-0.06659999999999999,0.6667,0.7333
 2022-07-07 06:02:49.146404,MLB Futures - MLB 2022 American League Central - ALC Winner,Cleveland Guardians,-0.06820000000000001,0.1818,0.25
 2022-07-07 10:03:37.681400,UEFA Women's Euro 2022 - Group A - Not To Advance from Group,Norway (W),-0.06959999999999997,0.2381,0.3077
 2022-07-07 10:03:37.929594,Superettan - Swedish Superettan 2022 - Outright,IK Brage,-0.07500000000000001,0.125,0.2
