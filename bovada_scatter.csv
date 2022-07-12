@@ -28,9 +28,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-12 17:03:17.105418,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Drew Gilbert vs Brock Jones - Proposition,Drew Gilbert,0.05290000000000006,0.8403,0.7874
 2022-07-12 12:03:11.761493,UEFA Women's Euro 2022 - European Championship Women 2022 - Winner,England (W),0.04999999999999999,0.25,0.2
 2022-07-12 17:03:18.113547,The Open Championship - 2/3 Balls - 1st Round 3 Balls - J. Spieth / J. Rahm / H. Varner III - 1st Round 3 Balls,Harold Varner III,0.0476,0.2381,0.1905
-2022-07-12 12:03:11.740936,UEFA Women's Euro 2022 - Group D - To Advance from Group,Iceland (W),0.047599999999999976,0.3333,0.2857
 2022-07-12 12:03:11.740936,UEFA Women's Euro 2022 - Group D - To Advance from Group,Belgium (W),0.047599999999999976,0.3333,0.2857
+2022-07-12 12:03:11.740936,UEFA Women's Euro 2022 - Group D - To Advance from Group,Iceland (W),0.047599999999999976,0.3333,0.2857
 2022-07-12 12:03:03.858172,NBA Futures - 2022 NBA Vegas Summer League - NBA Vegas Summer League Champion,New Orleans Pelicans,0.0461,0.0625,0.0164
+2022-07-12 19:03:06.095678,NBA Season Props - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Rudy Gobert,0.043800000000000006,0.2105,0.1667
 2022-07-12 12:03:03.858172,NBA Futures - 2022 NBA Vegas Summer League - NBA Vegas Summer League Champion,Portland Trail Blazers,0.0429,0.0625,0.0196
 2022-07-12 12:03:11.778374,UEFA Women's Euro 2022 - European Championship Women 2022 - Top Goalscorer,Ellen White,0.042899999999999994,0.1429,0.1
 2022-07-12 16:03:20.685736,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Gavin Newsom,0.04240000000000001,0.1333,0.0909
@@ -40,8 +41,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-12 12:03:12.367036,2022 Copa América Femenina - 2022 Copa America Femenina - Winner,Brazil (W),0.033299999999999996,0.8333,0.8
 2022-07-12 12:03:04.618530,MLB Futures - MLB 2022 National League East - NLE Winner,Atlanta Braves,0.031799999999999995,0.4762,0.4444
 2022-07-12 12:03:04.557759,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,0.030399999999999983,0.5652,0.5348
-2022-07-12 12:03:03.858172,NBA Futures - 2022 NBA Vegas Summer League - NBA Vegas Summer League Champion,Detroit Pistons,0.02779999999999999,0.25,0.2222
+2022-07-12 19:03:06.725456,The Open Championship - 2/3 Balls - 1st Round 3 Balls - P. Mickelson / L. Herbert / K. Kitayama - 1st Round 3 Balls,Kurt Kitayama,0.029600000000000015,0.4,0.3704
 2022-07-12 17:03:16.876764,MLB Specials - 2022 MLB Draft - 1st Overall Pick - Proposition,Brooks Lee,0.02779999999999999,0.25,0.2222
+2022-07-12 12:03:03.858172,NBA Futures - 2022 NBA Vegas Summer League - NBA Vegas Summer League Champion,Detroit Pistons,0.02779999999999999,0.25,0.2222
 2022-07-12 16:03:20.676266,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Field,0.0252,0.7222,0.697
 2022-07-12 12:03:03.858172,NBA Futures - 2022 NBA Vegas Summer League - NBA Vegas Summer League Champion,Toronto Raptors,0.024999999999999994,0.125,0.1
 2022-07-12 17:03:18.049792,The Open Championship - 2/3 Balls - 1st Round 3 Balls - S. Imahira / J. Scrivener / D. Law - Outright,David Law,0.023799999999999988,0.3571,0.3333
@@ -79,22 +81,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-12 12:03:03.392581,UK Politics - Next Conservative Leader - Conservative Party Leader,Rishi Sunak,-0.017600000000000005,0.3333,0.3509
 2022-07-12 12:03:11.710449,UEFA Women's Euro 2022 - Group D - Group Winner,Belgium (W),-0.018099999999999998,0.0588,0.0769
 2022-07-12 12:03:11.778374,UEFA Women's Euro 2022 - European Championship Women 2022 - Top Goalscorer,Kadidiatou Diani,-0.0181,0.0164,0.0345
-2022-07-12 17:03:18.113547,The Open Championship - 2/3 Balls - 1st Round 3 Balls - J. Spieth / J. Rahm / H. Varner III - 1st Round 3 Balls,Jordan Spieth,-0.018100000000000005,0.4167,0.4348
 2022-07-12 16:03:23.611155,The Open Championship - 2/3 Balls - 1st Round 3 Balls - P. Mickelson / L. Herbert / K. Kitayama - 1st Round 3 Balls,Lucas Herbert,-0.018100000000000005,0.4167,0.4348
+2022-07-12 17:03:18.113547,The Open Championship - 2/3 Balls - 1st Round 3 Balls - J. Spieth / J. Rahm / H. Varner III - 1st Round 3 Balls,Jordan Spieth,-0.018100000000000005,0.4167,0.4348
 2022-07-12 17:03:18.150433,The Open Championship - 2/3 Balls - 1st Round 3 Balls - L. Canter / D. Papadatos / M. Griffin - 1st Round 3 Balls,Dimitrios Papadatos,-0.018400000000000027,0.2941,0.3125
 2022-07-12 17:03:15.825171,Boxing Lines - Kazuto Ioka vs Donnie Nietes - To Win the Bout,Donnie Nietes,-0.018699999999999994,0.241,0.2597
 2022-07-12 12:03:11.778374,UEFA Women's Euro 2022 - European Championship Women 2022 - Top Goalscorer,Esther Gonzalez,-0.019099999999999992,0.0476,0.0667
 2022-07-12 12:03:11.778374,UEFA Women's Euro 2022 - European Championship Women 2022 - Top Goalscorer,Alexandra Popp,-0.019099999999999992,0.0476,0.0667
-2022-07-12 12:03:03.392581,UK Politics - Next Conservative Leader - Conservative Party Leader,Liz Truss,-0.022199999999999998,0.2,0.2222
+2022-07-12 19:03:06.725456,The Open Championship - 2/3 Balls - 1st Round 3 Balls - P. Mickelson / L. Herbert / K. Kitayama - 1st Round 3 Balls,Phil Mickelson,-0.021999999999999964,0.2857,0.3077
 2022-07-12 12:03:12.121916,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,River Plate,-0.022199999999999998,0.2,0.2222
-2022-07-12 12:03:11.778374,UEFA Women's Euro 2022 - European Championship Women 2022 - Top Goalscorer,Lineth Beerensteyn,-0.022400000000000003,0.0099,0.0323
+2022-07-12 12:03:03.392581,UK Politics - Next Conservative Leader - Conservative Party Leader,Liz Truss,-0.022199999999999998,0.2,0.2222
 2022-07-12 12:03:11.778374,UEFA Women's Euro 2022 - European Championship Women 2022 - Top Goalscorer,Sandy Baltimore,-0.022400000000000003,0.0099,0.0323
+2022-07-12 12:03:11.778374,UEFA Women's Euro 2022 - European Championship Women 2022 - Top Goalscorer,Lineth Beerensteyn,-0.022400000000000003,0.0099,0.0323
 2022-07-12 12:03:11.778374,UEFA Women's Euro 2022 - European Championship Women 2022 - Top Goalscorer,Lieke Martens,-0.023200000000000002,0.0244,0.0476
 2022-07-12 16:03:20.676266,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,-0.02560000000000001,0.3448,0.3704
 2022-07-12 17:03:17.862650,The Open Championship - 2/3 Balls - 1st Round 3 Balls - M. Calcavecchia / R. Fox / J. Morgan - 1st Round 3 Balls,Mark Calcavecchia,-0.027999999999999997,0.1538,0.1818
 2022-07-12 12:03:04.495359,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,MacKenzie Gore,-0.028399999999999995,0.0625,0.0909
-2022-07-12 12:03:11.778374,UEFA Women's Euro 2022 - European Championship Women 2022 - Top Goalscorer,Mariona Caldentey,-0.029299999999999993,0.0476,0.0769
 2022-07-12 12:03:11.778374,UEFA Women's Euro 2022 - European Championship Women 2022 - Top Goalscorer,Aitana Bonmati,-0.029299999999999993,0.0476,0.0769
+2022-07-12 12:03:11.778374,UEFA Women's Euro 2022 - European Championship Women 2022 - Top Goalscorer,Mariona Caldentey,-0.029299999999999993,0.0476,0.0769
 2022-07-12 12:03:11.778374,UEFA Women's Euro 2022 - European Championship Women 2022 - Top Goalscorer,Caroline Hansen,-0.031200000000000002,0.0164,0.0476
 2022-07-12 12:03:04.557759,MLB Futures - MLB 2022 American League Central - ALC Winner,Chicago White Sox,-0.03210000000000002,0.3846,0.4167
 2022-07-12 14:03:12.503482,MLB Specials - 2022 MLB Draft - 3rd Overall Pick - Proposition,Termarr Johnson,-0.033300000000000024,0.1667,0.2
