@@ -1,70 +1,33 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2022-07-12 17:03:17.025229,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Brandon Barriera vs Robby Snelling - Proposition,Brandon Barriera,0.27270000000000005,0.8182,0.5455
-2022-07-12 17:03:16.978849,MLB Specials - 2022 MLB Draft - Justin Crawford Draft Position - Proposition,Over 13.5,0.17669999999999997,0.7222,0.5455
-2022-07-12 17:03:17.053503,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Cade Horton vs Blade Tidwell - Proposition,Cade Horton,0.13139999999999996,0.6552,0.5238
-2022-07-12 17:03:16.876764,MLB Specials - 2022 MLB Draft - 1st Overall Pick - Proposition,Jackson Holliday,0.11900000000000002,0.2857,0.1667
-2022-07-12 17:03:16.965046,MLB Specials - 2022 MLB Draft - Jackson Holliday Draft Position - Proposition,Under 1.5,0.10390000000000002,0.2857,0.1818
-2022-07-12 17:03:16.921719,MLB Specials - 2022 MLB Draft - Druw Jones Draft Position - Proposition,Over 1.5,0.08400000000000002,0.4762,0.3922
-2022-07-12 17:03:18.150433,The Open Championship - 2/3 Balls - 1st Round 3 Balls - L. Canter / D. Papadatos / M. Griffin - 1st Round 3 Balls,Laurie Canter,0.07940000000000003,0.5238,0.4444
-2022-07-12 17:03:17.067082,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Chase DeLauter vs Jordan Beck - Proposition,Chase DeLauter,0.07439999999999991,0.697,0.6226
-2022-07-12 17:03:17.862650,The Open Championship - 2/3 Balls - 1st Round 3 Balls - M. Calcavecchia / R. Fox / J. Morgan - 1st Round 3 Balls,Ryan Fox,0.07140000000000002,0.7143,0.6429
-2022-07-12 17:03:17.039451,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Brooks Lee vs Termarr Johnson - Proposition,Brooks Lee,0.0685,0.6429,0.5744
-2022-07-12 17:03:18.187053,The Open Championship - 2/3 Balls - 1st Round 3 Balls - L. Van Meijel / J. Floydd / R. Mullarney - 1st Round 3 Balls ,Lars van Meijel,0.06779999999999997,0.5122,0.4444
-2022-07-12 17:03:17.134722,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Jacob Berry vs Gavin Cross - Proposition,Jacob Berry,0.05689999999999995,0.5917,0.5348
-2022-07-12 17:03:17.147497,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Kumar Rocker vs Carson Whisenhunt - Proposition,Kumar Rocker,0.054099999999999926,0.697,0.6429
-2022-07-12 17:03:17.105418,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Drew Gilbert vs Brock Jones - Proposition,Drew Gilbert,0.05290000000000006,0.8403,0.7874
-2022-07-12 17:03:18.113547,The Open Championship - 2/3 Balls - 1st Round 3 Balls - J. Spieth / J. Rahm / H. Varner III - 1st Round 3 Balls,Harold Varner III,0.0476,0.2381,0.1905
+2022-07-13 06:02:49.115969,UK Politics - Next Conservative Leader - Conservative Party Leader,Liz Truss,0.04999999999999999,0.25,0.2
 2022-07-13 00:02:59.873062,Tournament Match-Ups - Parlays - Tournament Match-Up - J. Niemann v M. Homa - Tournament Match-Up,Max Homa,0.04700000000000004,0.5348,0.4878
 2022-07-12 19:03:06.095678,NBA Season Props - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Rudy Gobert,0.043800000000000006,0.2105,0.1667
+2022-07-13 06:02:49.115969,UK Politics - Next Conservative Leader - Conservative Party Leader,Rishi Sunak,0.030299999999999994,0.3636,0.3333
 2022-07-12 19:03:06.725456,The Open Championship - 2/3 Balls - 1st Round 3 Balls - P. Mickelson / L. Herbert / K. Kitayama - 1st Round 3 Balls,Kurt Kitayama,0.029600000000000015,0.4,0.3704
 2022-07-13 05:03:08.796579,College Season Props - 2022 - Regular Season Wins - Minnesota - Proposition,Over 7.5,0.028900000000000037,0.5744,0.5455
-2022-07-12 17:03:16.876764,MLB Specials - 2022 MLB Draft - 1st Overall Pick - Proposition,Brooks Lee,0.02779999999999999,0.25,0.2222
 2022-07-13 05:03:08.988563,College Season Props - 2022 - Regular Season Wins - Navy - Proposition,Under 4.5,0.025599999999999956,0.6,0.5744
-2022-07-12 17:03:18.049792,The Open Championship - 2/3 Balls - 1st Round 3 Balls - S. Imahira / J. Scrivener / D. Law - Outright,David Law,0.023799999999999988,0.3571,0.3333
-2022-07-12 17:03:17.848618,The Open Championship - 2/3 Balls - 1st Round 3 Balls - A. Bjork / O. Farr / M. Ford - 1st Round 3 Balls,Oliver Farr,0.021999999999999964,0.3077,0.2857
+2022-07-13 06:02:49.115969,UK Politics - Next Conservative Leader - Conservative Party Leader,Kemi Badenoch,0.02310000000000001,0.1,0.0769
 2022-07-13 02:02:56.433588,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Gavin Newsom,0.02049999999999999,0.1538,0.1333
 2022-07-13 00:02:53.208538,Boxing Lines - Musashi Mori vs Presco Carcosia - To Win the Bout,Presco Carcosia,0.01999999999999999,0.2105,0.1905
+2022-07-13 06:02:49.115969,UK Politics - Next Conservative Leader - Conservative Party Leader,Penny Mordaunt,0.018799999999999983,0.3636,0.3448
 2022-07-13 00:02:53.224713,Boxing Lines - Kazuto Ioka vs Donnie Nietes - To Win the Bout,Kazuto Ioka,0.015100000000000002,0.8333,0.8182
-2022-07-12 17:03:16.997363,MLB Specials - 2022 MLB Draft - Kevin Parada Draft Position - Proposition,Under 4.5,0.01479999999999998,0.3922,0.3774
 2022-07-13 03:02:42.269447,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Hillary Clinton,0.014399999999999996,0.0769,0.0625
 2022-07-13 05:03:09.449445,College Season Props - 2022 - Regular Season Wins - South Carolina - Proposition,Over 6,0.013299999999999979,0.6429,0.6296
 2022-07-13 04:02:37.764908,Boxing Lines - Kazuto Ioka vs Donnie Nietes - To Win the Bout,Kazuto Ioka,0.012899999999999912,0.8462,0.8333
 2022-07-13 00:02:53.224713,Boxing Lines - Kazuto Ioka vs Donnie Nietes - To Win the Bout,Donnie Nietes,0.010599999999999998,0.2353,0.2247
-2022-07-12 17:03:16.997363,MLB Specials - 2022 MLB Draft - Kevin Parada Draft Position - Proposition,Over 4.5,-0.010099999999999998,0.6774,0.6875
-2022-07-12 17:03:18.049792,The Open Championship - 2/3 Balls - 1st Round 3 Balls - S. Imahira / J. Scrivener / D. Law - Outright,Shugo Imahira,-0.010699999999999987,0.3226,0.3333
 2022-07-13 04:02:37.764908,Boxing Lines - Kazuto Ioka vs Donnie Nietes - To Win the Bout,Donnie Nietes,-0.0131,0.2222,0.2353
-2022-07-12 17:03:17.848618,The Open Championship - 2/3 Balls - 1st Round 3 Balls - A. Bjork / O. Farr / M. Ford - 1st Round 3 Balls,Matthew Ford,-0.01319999999999999,0.25,0.2632
 2022-07-12 20:03:03.482773,MLB Specials - Where will Andrew Benintendi  be playing after the 2022 MLB Trade Deadline? - Proposition,Houston Astros,-0.015899999999999997,0.0952,0.1111
-2022-07-12 20:03:03.482773,MLB Specials - Where will Andrew Benintendi  be playing after the 2022 MLB Trade Deadline? - Proposition,Philadelphia Phillies,-0.015899999999999997,0.0952,0.1111
 2022-07-12 20:03:03.482773,MLB Specials - Where will Andrew Benintendi  be playing after the 2022 MLB Trade Deadline? - Proposition,Milwaukee Brewers,-0.015899999999999997,0.0952,0.1111
+2022-07-12 20:03:03.482773,MLB Specials - Where will Andrew Benintendi  be playing after the 2022 MLB Trade Deadline? - Proposition,Philadelphia Phillies,-0.015899999999999997,0.0952,0.1111
 2022-07-12 20:03:03.482773,MLB Specials - Where will Andrew Benintendi  be playing after the 2022 MLB Trade Deadline? - Proposition,Atlanta Braves,-0.015899999999999997,0.0952,0.1111
-2022-07-12 17:03:18.113547,The Open Championship - 2/3 Balls - 1st Round 3 Balls - J. Spieth / J. Rahm / H. Varner III - 1st Round 3 Balls,Jordan Spieth,-0.018100000000000005,0.4167,0.4348
-2022-07-12 17:03:18.150433,The Open Championship - 2/3 Balls - 1st Round 3 Balls - L. Canter / D. Papadatos / M. Griffin - 1st Round 3 Balls,Dimitrios Papadatos,-0.018400000000000027,0.2941,0.3125
-2022-07-12 17:03:15.825171,Boxing Lines - Kazuto Ioka vs Donnie Nietes - To Win the Bout,Donnie Nietes,-0.018699999999999994,0.241,0.2597
 2022-07-12 22:02:49.929082,Boxing Lines - Musashi Mori vs Presco Carcosia - To Win the Bout,Presco Carcosia,-0.01999999999999999,0.1905,0.2105
 2022-07-12 19:03:06.725456,The Open Championship - 2/3 Balls - 1st Round 3 Balls - P. Mickelson / L. Herbert / K. Kitayama - 1st Round 3 Balls,Phil Mickelson,-0.021999999999999964,0.2857,0.3077
 2022-07-13 05:03:08.988563,College Season Props - 2022 - Regular Season Wins - Navy - Proposition,Over 4.5,-0.022699999999999998,0.4651,0.4878
 2022-07-12 22:02:49.951270,Boxing Lines - Kazuto Ioka vs Donnie Nietes - To Win the Bout,Donnie Nietes,-0.02529999999999999,0.2247,0.25
-2022-07-12 17:03:17.862650,The Open Championship - 2/3 Balls - 1st Round 3 Balls - M. Calcavecchia / R. Fox / J. Morgan - 1st Round 3 Balls,Mark Calcavecchia,-0.027999999999999997,0.1538,0.1818
 2022-07-13 02:02:56.433588,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Hillary Clinton,-0.028399999999999995,0.0625,0.0909
-2022-07-12 17:03:16.876764,MLB Specials - 2022 MLB Draft - 1st Overall Pick - Proposition,Elijah Green,-0.035699999999999996,0.0476,0.0833
 2022-07-13 05:03:08.796579,College Season Props - 2022 - Regular Season Wins - Minnesota - Proposition,Under 7.5,-0.03600000000000003,0.4878,0.5238
 2022-07-13 00:02:59.873062,Tournament Match-Ups - Parlays - Tournament Match-Up - J. Niemann v M. Homa - Tournament Match-Up,Joaquin Niemann,-0.03959999999999997,0.5348,0.5744
-2022-07-12 17:03:17.862650,The Open Championship - 2/3 Balls - 1st Round 3 Balls - M. Calcavecchia / R. Fox / J. Morgan - 1st Round 3 Balls,Jediah Morgan,-0.044499999999999984,0.2222,0.2667
+2022-07-13 06:02:49.115969,UK Politics - Next Conservative Leader - Conservative Party Leader,Tom Tugendhat,-0.042800000000000005,0.0625,0.1053
 2022-07-12 20:03:03.482773,MLB Specials - Where will Andrew Benintendi  be playing after the 2022 MLB Trade Deadline? - Proposition,New York Yankees,-0.04849999999999999,0.1333,0.1818
-2022-07-12 17:03:17.105418,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Drew Gilbert vs Brock Jones - Proposition,Brock Jones,-0.05049999999999999,0.2273,0.2778
 2022-07-12 20:03:03.482773,MLB Specials - Where will Andrew Benintendi  be playing after the 2022 MLB Trade Deadline? - Proposition,San Diego Padres,-0.05350000000000002,0.1818,0.2353
-2022-07-12 17:03:17.147497,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Kumar Rocker vs Carson Whisenhunt - Proposition,Carson Whisenhunt,-0.05509999999999998,0.3704,0.4255
-2022-07-12 17:03:18.150433,The Open Championship - 2/3 Balls - 1st Round 3 Balls - L. Canter / D. Papadatos / M. Griffin - 1st Round 3 Balls,Matthew Griffin,-0.055499999999999994,0.2778,0.3333
-2022-07-12 17:03:17.134722,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Jacob Berry vs Gavin Cross - Proposition,Gavin Cross,-0.05860000000000004,0.4762,0.5348
-2022-07-12 17:03:18.187053,The Open Championship - 2/3 Balls - 1st Round 3 Balls - L. Van Meijel / J. Floydd / R. Mullarney - 1st Round 3 Balls ,Jack Floydd,-0.062,0.3226,0.3846
-2022-07-12 17:03:17.039451,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Brooks Lee vs Termarr Johnson - Proposition,Termarr Johnson,-0.06230000000000002,0.4255,0.4878
-2022-07-12 17:03:17.067082,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Chase DeLauter vs Jordan Beck - Proposition,Jordan Beck,-0.07400000000000001,0.3704,0.4444
-2022-07-12 17:03:16.921719,MLB Specials - 2022 MLB Draft - Druw Jones Draft Position - Proposition,Under 1.5,-0.0857,0.5917,0.6774
-2022-07-12 17:03:16.876764,MLB Specials - 2022 MLB Draft - 1st Overall Pick - Proposition,Druw Jones,-0.10060000000000002,0.5917,0.6923
-2022-07-12 17:03:16.965046,MLB Specials - 2022 MLB Draft - Jackson Holliday Draft Position - Proposition,Over 1.5,-0.10310000000000008,0.7826,0.8857
 2022-07-12 20:03:03.482773,MLB Specials - Where will Andrew Benintendi  be playing after the 2022 MLB Trade Deadline? - Proposition,Kansas City Royals,-0.11219999999999997,0.4878,0.6
-2022-07-12 17:03:17.053503,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Cade Horton vs Blade Tidwell - Proposition,Blade Tidwell,-0.13729999999999998,0.4082,0.5455
-2022-07-12 17:03:16.876764,MLB Specials - 2022 MLB Draft - 1st Overall Pick - Proposition,Termarr Johnson,-0.14440000000000003,0.0909,0.2353
-2022-07-12 17:03:16.978849,MLB Specials - 2022 MLB Draft - Justin Crawford Draft Position - Proposition,Under 13.5,-0.17900000000000005,0.3448,0.5238
-2022-07-12 17:03:17.025229,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Brandon Barriera vs Robby Snelling - Proposition,Robby Snelling,-0.27380000000000004,0.25,0.5238
