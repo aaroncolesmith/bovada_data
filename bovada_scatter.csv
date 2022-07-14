@@ -3,12 +3,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-14 13:03:29.171555,NBA Futures - 2022 NBA Vegas Summer League - NBA Vegas Summer League Champion,Memphis Grizzlies,0.1953,0.2105,0.0152
 2022-07-14 13:03:29.171555,NBA Futures - 2022 NBA Vegas Summer League - NBA Vegas Summer League Champion,New Orleans Pelicans,0.1597,0.2222,0.0625
 2022-07-14 12:02:55.159104,MLB Futures - MLB 2022 Player Awards - American League MVP,Shohei Ohtani,0.09179999999999999,0.5,0.4082
+2022-07-14 23:03:06.097003,Big Brother - Live Eviction - First Evicted Houseguest,Taylor,0.08330000000000004,0.8333,0.75
 2022-07-14 20:02:47.753904,Boxing Lines - Arnold Barboza Jr vs Danielito Zorrilla - To Win the Bout,Danielito Zorrilla,0.07490000000000002,0.4082,0.3333
+2022-07-14 23:03:12.550050,MLB Specials - Daily Fantasy Points Matchup - Pitchers - Proposition,Kevin Gausman,0.07450000000000001,0.3448,0.2703
 2022-07-14 12:02:55.196150,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Spencer Strider,0.07190000000000002,0.4167,0.3448
 2022-07-14 13:03:29.171555,NBA Futures - 2022 NBA Vegas Summer League - NBA Vegas Summer League Champion,Indiana Pacers,0.06760000000000001,0.1111,0.0435
 2022-07-14 20:02:48.145055,MLB Specials - Daily Fantasy Points Matchup - Pitchers - Proposition,Kevin Gausman,0.05979999999999999,0.2703,0.2105
 2022-07-14 13:03:27.903649,Round Match-Ups - 1st Round Match-Up - J. Spieth v H. Varner III - 1st Round Match-Up,Jordan Spieth,0.059599999999999986,0.6429,0.5833
+2022-07-14 23:03:13.576006,NBA Specials - Where will Donovan Mitchell play Game 1 next Season? - Proposition,New York Knicks,0.057699999999999974,0.3077,0.25
 2022-07-14 13:03:29.171555,NBA Futures - 2022 NBA Vegas Summer League - NBA Vegas Summer League Champion,Portland Trail Blazers,0.048600000000000004,0.1111,0.0625
+2022-07-14 23:03:05.962056,"Superhero Movie Specials - Will Any Of These Characters Appear in the First 5 animated series of shorts of Marvel's ""I Am Groot"" - Proposition",Rocket,0.04760000000000009,0.7143,0.6667
 2022-07-14 12:02:55.152354,MLB Futures - MLB 2022 Player Awards - American League Cy Young Award,Shohei Ohtani,0.04269999999999999,0.1538,0.1111
 2022-07-14 20:02:48.137118,MLB Specials - Daily Fantasy Points Matchup - Outfielders - Proposition,Ronald Acuna Jr..,0.03689999999999999,0.3226,0.2857
 2022-07-14 13:03:29.171555,NBA Futures - 2022 NBA Vegas Summer League - NBA Vegas Summer League Champion,Phoenix Suns,0.03660000000000001,0.0476,0.011
@@ -17,40 +21,42 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-14 13:03:27.891363,Round Match-Ups - 1st Round Match-Up - J. Rahm v J. Spieth - 1st Round Match-Up,Jordan Spieth,0.022699999999999998,0.4878,0.4651
 2022-07-14 13:03:27.841258,Round Match-Ups - 1st Round Match-Up - K. Mitchell v T. Pieters - 1st Round Match-Up,Thomas Pieters,0.022600000000000064,0.5348,0.5122
 2022-07-14 18:02:45.139856,CFL - Odds to win 109th (2022) Grey Cup - Grey Cup Winner,British Columbia Lions,0.022199999999999998,0.2222,0.2
-2022-07-14 11:03:00.036887,Boxing Lines - Jake Paul vs Hasim Rahman Jr - To Win the Bout,Jake Paul,0.02200000000000002,0.7143,0.6923
 2022-07-14 13:03:27.941679,Round Match-Ups - 1st Round Match-Up - K. Bradley v S. Theegala - 1st Round Match-Up,Sahith Theegala,0.021699999999999997,0.4762,0.4545
 2022-07-14 12:02:54.880058,UK Politics - Next Conservative Leader - Conservative Party Leader,Kemi Badenoch,0.019099999999999992,0.0667,0.0476
 2022-07-14 12:02:55.152354,MLB Futures - MLB 2022 Player Awards - American League Cy Young Award,Justin Verlander,0.019000000000000017,0.2857,0.2667
 2022-07-14 16:02:45.587381,Boxing Lines - Lamont Roach vs Angel Rodriguez - To Win the Bout,Lamont Roach,0.01760000000000006,0.9,0.8824
-2022-07-14 11:03:08.895923,UEFA Women's Euro 2022 - European Championship Women 2022 - Winner,England (W),0.016699999999999993,0.2667,0.25
-2022-07-14 11:02:59.469769,UK Politics - Next Conservative Leader - Conservative Party Leader,Rishi Sunak,0.016699999999999993,0.2667,0.25
-2022-07-14 11:03:08.895923,UEFA Women's Euro 2022 - European Championship Women 2022 - Winner,Germany (W),0.0131,0.2353,0.2222
+2022-07-14 23:03:12.929475,MLB Specials - 2022 Home Run Derby - Ronald Acuña Jr. (ATL) to win?,No,0.015100000000000002,0.8333,0.8182
+2022-07-14 23:03:06.086034,Big Brother - Big Brother 24 - America's Favorite HouseGuest,Ameerah Jones,0.013999999999999999,0.0909,0.0769
 2022-07-14 12:02:54.880058,UK Politics - Next Conservative Leader - Conservative Party Leader,Tom Tugendhat,0.012700000000000003,0.0323,0.0196
 2022-07-14 13:03:29.171555,NBA Futures - 2022 NBA Vegas Summer League - NBA Vegas Summer League Champion,Milwaukee Bucks,0.010600000000000002,0.0323,0.0217
 2022-07-14 16:02:45.497985,Boxing Lines - Pierce O'Leary vs Robin Zamora - To Win the Bout,Robin Zamora,0.0102,0.0769,0.0667
-2022-07-14 11:03:08.895923,UEFA Women's Euro 2022 - European Championship Women 2022 - Winner,Spain (W),-0.010899999999999993,0.1429,0.1538
+2022-07-14 23:03:06.086034,Big Brother - Big Brother 24 - America's Favorite HouseGuest,Joseph Abdin,-0.011099999999999999,0.1,0.1111
 2022-07-14 12:03:01.852915,National League - England National League 2022/23 - Outright,Halifax Town,-0.011199999999999995,0.0476,0.0588
 2022-07-14 16:02:45.600613,Boxing Lines - Ryan Garcia vs Javier Fortuna - To Win the Bout,Javier Fortuna,-0.0121,0.1212,0.1333
 2022-07-14 13:03:29.171555,NBA Futures - 2022 NBA Vegas Summer League - NBA Vegas Summer League Champion,Charlotte Hornets,-0.012100000000000001,0.0123,0.0244
 2022-07-14 20:02:48.129674,MLB Specials - Daily Fantasy Points Matchup - Infielders - Proposition,Ty France,-0.012399999999999967,0.2817,0.2941
 2022-07-14 13:03:29.171555,NBA Futures - 2022 NBA Vegas Summer League - NBA Vegas Summer League Champion,Orlando Magic,-0.012700000000000003,0.0196,0.0323
+2022-07-14 23:03:13.576006,NBA Specials - Where will Donovan Mitchell play Game 1 next Season? - Proposition,Miami Heat,-0.012899999999999995,0.1538,0.1667
+2022-07-14 23:03:13.576006,NBA Specials - Where will Donovan Mitchell play Game 1 next Season? - Proposition,New Orleans Pelicans,-0.013999999999999999,0.0769,0.0909
 2022-07-14 12:02:55.159104,MLB Futures - MLB 2022 Player Awards - American League MVP,Mike Trout,-0.013999999999999999,0.0769,0.0909
+2022-07-14 23:03:12.929475,MLB Specials - 2022 Home Run Derby - Ronald Acuña Jr. (ATL) to win?,Yes,-0.0174,0.2326,0.25
 2022-07-14 13:03:29.171555,NBA Futures - 2022 NBA Vegas Summer League - NBA Vegas Summer League Champion,Oklahoma City Thunder,-0.0189,0.0196,0.0385
+2022-07-14 23:03:13.576006,NBA Specials - Where will Donovan Mitchell play Game 1 next Season? - Proposition,Toronto Raptors,-0.02020000000000001,0.0909,0.1111
 2022-07-14 14:02:38.354406,Round Match-Ups - 1st Round Match-Up - J. Rahm v J. Spieth - 1st Round Match-Up,Jon Rahm,-0.02079999999999993,0.5348,0.5556
+2022-07-14 23:03:12.550050,MLB Specials - Daily Fantasy Points Matchup - Pitchers - Proposition,Carlos Rodon,-0.020799999999999985,0.3125,0.3333
+2022-07-14 23:03:12.550050,MLB Specials - Daily Fantasy Points Matchup - Pitchers - Proposition,Corbin Burnes,-0.020799999999999985,0.3125,0.3333
 2022-07-14 13:03:27.841258,Round Match-Ups - 1st Round Match-Up - K. Mitchell v T. Pieters - 1st Round Match-Up,Keith Mitchell,-0.022600000000000064,0.5122,0.5348
 2022-07-14 12:02:55.178538,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Tony Gonsolin,-0.02310000000000001,0.0769,0.1
 2022-07-14 18:02:45.139856,CFL - Odds to win 109th (2022) Grey Cup - Grey Cup Winner,Saskatchewan Roughriders,-0.023799999999999988,0.1429,0.1667
-2022-07-14 11:02:59.469769,UK Politics - Next Conservative Leader - Conservative Party Leader,Penny Mordaunt,-0.025599999999999956,0.5744,0.6
 2022-07-14 20:02:48.137118,MLB Specials - Daily Fantasy Points Matchup - Outfielders - Proposition,Aaron Judge,-0.025999999999999968,0.2817,0.3077
 2022-07-14 13:03:27.941679,Round Match-Ups - 1st Round Match-Up - K. Bradley v S. Theegala - 1st Round Match-Up,Keegan Bradley,-0.026499999999999968,0.5652,0.5917
 2022-07-14 13:03:27.891363,Round Match-Ups - 1st Round Match-Up - J. Rahm v J. Spieth - 1st Round Match-Up,Jon Rahm,-0.027700000000000058,0.5556,0.5833
 2022-07-14 12:02:55.196150,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Michael Harris,-0.02779999999999999,0.2222,0.25
+2022-07-14 23:03:12.550050,MLB Specials - Daily Fantasy Points Matchup - Pitchers - Proposition,Triston McKenzie,-0.02789999999999998,0.2353,0.2632
 2022-07-14 12:02:55.196150,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Oneil Cruz,-0.033300000000000024,0.1667,0.2
-2022-07-14 11:03:08.910902,UEFA Women's Euro 2022 - European Championship Women 2022 - Top Goalscorer,Beth Mead,-0.04139999999999999,0.4348,0.4762
 2022-07-14 13:03:27.903649,Round Match-Ups - 1st Round Match-Up - J. Spieth v H. Varner III - 1st Round Match-Up,Harold Varner III,-0.06509999999999999,0.4,0.4651
 2022-07-14 13:03:29.171555,NBA Futures - 2022 NBA Vegas Summer League - NBA Vegas Summer League Champion,Utah Jazz,-0.06899999999999999,0.0079,0.0769
 2022-07-14 13:03:29.171555,NBA Futures - 2022 NBA Vegas Summer League - NBA Vegas Summer League Champion,Toronto Raptors,-0.07239999999999999,0.0526,0.125
-2022-07-14 11:02:59.781970,Boxing Lines - Arnold Barboza Jr vs Danielito Zorrilla - To Win the Bout,Danielito Zorrilla,-0.07319999999999999,0.3333,0.4065
 2022-07-14 20:02:47.753904,Boxing Lines - Arnold Barboza Jr vs Danielito Zorrilla - To Win the Bout,Arnold Barboza Jr,-0.07809999999999995,0.6552,0.7333
 2022-07-14 12:02:55.159104,MLB Futures - MLB 2022 Player Awards - American League MVP,Aaron Judge,-0.08329999999999999,0.4167,0.5
 2022-07-14 13:03:29.171555,NBA Futures - 2022 NBA Vegas Summer League - NBA Vegas Summer League Champion,Detroit Pistons,-0.245,0.005,0.25
