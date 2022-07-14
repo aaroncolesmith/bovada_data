@@ -12,20 +12,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-13 23:02:44.360204,Tournament Match-Ups - Parlays - Tournament Match-Up - B. Koepka v D. Johnson - Tournament Match-Up,Dustin Johnson,0.03090000000000004,0.6226,0.5917
 2022-07-14 04:02:53.320281,Tournament Match-Ups - Parlays - Tournament Match-Up - R. Fox v S. Im - Tournament Match-Up,Ryan Fox,0.030399999999999983,0.5652,0.5348
 2022-07-14 04:02:54.954003,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Cooper Hjerpe vs Gabriel Hughes - Proposition,Gabriel Hughes,0.030399999999999983,0.5652,0.5348
-2022-07-14 04:02:54.879515,MLB Specials - 2022 MLB Draft - Jace Jung Draft Position - Proposition,Under 14.5,0.030299999999999994,0.697,0.6667
 2022-07-14 00:02:57.505645,NBA Futures - 2022-2023 NBA Northwest Division - Northwest Division Winner,Minnesota Timberwolves,0.030299999999999994,0.3636,0.3333
+2022-07-14 04:02:54.879515,MLB Specials - 2022 MLB Draft - Jace Jung Draft Position - Proposition,Under 14.5,0.030299999999999994,0.697,0.6667
 2022-07-14 00:02:59.336051,Tournament Match-Ups - Parlays - Tournament Match-Up - T. Fleetwood v T. Hatton - Tournament Match-Up,Tommy Fleetwood,0.025599999999999956,0.6,0.5744
 2022-07-14 03:02:46.645239,Round Match-Ups - 1st Round Match-Up - S.W. Kim v S. Horsfield - 1st Round Match-Up,Sam Horsfield,0.023800000000000043,0.5238,0.5
 2022-07-14 03:02:46.243312,The Open Championship - 2/3 Balls - 1st Round 3 Balls - H. Stenson / R. Henley / A. Potgieter - 1st Round 3 Balls,Russell Henley,0.022699999999999998,0.4878,0.4651
-2022-07-14 03:02:46.020970,The Open Championship - 2/3 Balls - 1st Round 3 Balls - J. Daly / B. Dechambeau / C. Tringale - 1st Round 3 Balls,Cameron Tringale,0.022699999999999998,0.4878,0.4651
 2022-07-13 23:02:43.572485,The Open Championship - 2/3 Balls - 1st Round 3 Balls - S. Straka / L. List / J. De Los Santos - 1st Round 3 Balls,Luke List,0.022699999999999998,0.4878,0.4651
+2022-07-14 03:02:46.020970,The Open Championship - 2/3 Balls - 1st Round 3 Balls - J. Daly / B. Dechambeau / C. Tringale - 1st Round 3 Balls,Cameron Tringale,0.022699999999999998,0.4878,0.4651
 2022-07-13 23:02:43.432162,The Open Championship - 2/3 Balls - 1st Round 3 Balls - P. Lawrie / M.W. Lee / W. Simpson - 1st Round 3 Balls,Webb Simpson,0.022699999999999998,0.4878,0.4651
 2022-07-14 03:02:46.062581,The Open Championship - 2/3 Balls - 1st Round 3 Balls - B. Harman / P. Larrazabal / D. Willett - 1st Round 3 Balls,Brian Harman,0.02260000000000001,0.4,0.3774
-2022-07-14 00:02:53.129428,College Season Props - 2022 - Regular Season Wins - Missouri - Proposition,Over 5.5,0.02169999999999994,0.5455,0.5238
 2022-07-14 03:02:46.070536,The Open Championship - 2/3 Balls - 1st Round 3 Balls - S. Dodd / J. Poston / L. Westwood - 1st Round 3 Balls,JT Poston,0.02169999999999994,0.5455,0.5238
+2022-07-14 00:02:53.129428,College Season Props - 2022 - Regular Season Wins - Missouri - Proposition,Over 5.5,0.02169999999999994,0.5455,0.5238
 2022-07-13 23:02:43.802504,The Open Championship - 2/3 Balls - 1st Round 3 Balls - D. Clarke / R. Bland / F. Celli - 1st Round 3 Balls,Richard Bland,0.02169999999999994,0.5455,0.5238
-2022-07-13 23:02:44.351014,Tournament Match-Ups - Parlays - Tournament Match-Up - A. Scott v J. Rose - Tournament Match-Up,Adam Scott,0.02079999999999993,0.5556,0.5348
 2022-07-13 23:02:43.916952,The Open Championship - 2/3 Balls - 1st Round 3 Balls - J. Catlin / J. Rutherford / D. Carey - 1st Round 3 Balls ,John Catlin,0.02079999999999993,0.5556,0.5348
+2022-07-13 23:02:44.351014,Tournament Match-Ups - Parlays - Tournament Match-Up - A. Scott v J. Rose - Tournament Match-Up,Adam Scott,0.02079999999999993,0.5556,0.5348
 2022-07-14 00:02:52.497780,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Washington Commanders,Under 8,0.02079999999999993,0.5556,0.5348
 2022-07-13 23:02:43.601333,The Open Championship - 2/3 Balls - 1st Round 3 Balls - J. Kokrak / N. Hojgaard / S. Kim - 1st Round 3 Balls,Jason Kokrak,0.020699999999999996,0.4651,0.4444
 2022-07-14 04:02:54.354948,NBA Futures - 2022-2023 NBA Atlantic Division - Atlantic Division Winner,New York Knicks,0.019800000000000005,0.0476,0.0278
@@ -38,16 +38,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-13 23:02:43.698175,The Open Championship - 2/3 Balls - 1st Round 3 Balls - M. Calcavecchia / R. Fox / J. Morgan - 1st Round 3 Balls,Ryan Fox,0.018999999999999906,0.7333,0.7143
 2022-07-14 00:02:53.416331,College Season Props - 2022 - Regular Season Wins - Boston College - Proposition,Under 6.5,0.01880000000000004,0.5744,0.5556
 2022-07-13 23:02:43.908178,The Open Championship - 2/3 Balls - 1st Round 3 Balls - L. Canter / D. Papadatos / M. Griffin - 1st Round 3 Balls,Laurie Canter,0.01880000000000004,0.5744,0.5556
-2022-07-14 03:02:46.054194,The Open Championship - 2/3 Balls - 1st Round 3 Balls - Z. Johnson / B. Horschel / C. Conners - 1st Round 3 Balls,Billy Horschel,0.018100000000000005,0.4348,0.4167
 2022-07-14 04:02:52.594138,Round Match-Ups - 1st Round Match-Up - C. Smith v B. Koepka - 1st Round Match-Up,Cameron Smith,0.018100000000000005,0.5833,0.5652
+2022-07-14 03:02:46.054194,The Open Championship - 2/3 Balls - 1st Round 3 Balls - Z. Johnson / B. Horschel / C. Conners - 1st Round 3 Balls,Billy Horschel,0.018100000000000005,0.4348,0.4167
 2022-07-14 04:02:52.544754,Round Match-Ups - 1st Round Match-Up - P. Reed v T. Hoge - 1st Round Match-Up,Patrick Reed,0.018100000000000005,0.5833,0.5652
 2022-07-13 22:02:55.133854,Big Brother - Big Brother 24 - Odds to Win,Alyssa Snider,0.018099999999999998,0.0769,0.0588
-2022-07-14 00:02:57.477769,NBA Futures - 2022-2023 NBA Atlantic Division - Atlantic Division Winner,Toronto Raptors,0.0179,0.1429,0.125
 2022-07-14 00:02:57.491438,NBA Futures - 2022-2023 NBA Central Division - Central Division Winner,Cleveland Cavaliers,0.0179,0.1429,0.125
+2022-07-14 00:02:57.477769,NBA Futures - 2022-2023 NBA Atlantic Division - Atlantic Division Winner,Toronto Raptors,0.0179,0.1429,0.125
 2022-07-14 04:02:54.328698,NBA Futures - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,New York Knicks,0.017099999999999997,0.0294,0.0123
 2022-07-14 03:02:46.194009,The Open Championship - 2/3 Balls - 1st Round 3 Balls - M. Calcavecchia / R. Fox / J. Morgan - 1st Round 3 Balls,Ryan Fox,0.016700000000000048,0.75,0.7333
-2022-07-13 23:02:43.661488,The Open Championship - 2/3 Balls - 1st Round 3 Balls - A. Quayle / Z. Lombard / J. Parry - 1st Round 3 Balls,Zander Lombard,0.016699999999999993,0.4167,0.4
 2022-07-14 03:02:46.303654,The Open Championship - 2/3 Balls - 1st Round 3 Balls - K. NA / K. Higa / E. Van Rooyen - 1st Round 3 Balls,Kevin Na,0.016699999999999993,0.4167,0.4
+2022-07-13 23:02:43.661488,The Open Championship - 2/3 Balls - 1st Round 3 Balls - A. Quayle / Z. Lombard / J. Parry - 1st Round 3 Balls,Zander Lombard,0.016699999999999993,0.4167,0.4
 2022-07-13 23:02:43.890219,The Open Championship - 2/3 Balls - 1st Round 3 Balls - P. Cantlay / S. Burns / M. Pereira - 1st Round 3 Balls,Mito Pereira,0.016699999999999993,0.2667,0.25
 2022-07-14 00:02:53.566554,College Season Props - 2022 - Regular Season Wins - Navy - Proposition,Under 4.5,0.01539999999999997,0.6154,0.6
 2022-07-14 00:02:54.255665,College Season Props - 2022 - Regular Season Wins - Georgia State - Proposition,Under 7.5,0.01539999999999997,0.6154,0.6
@@ -55,12 +55,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-13 23:02:43.548299,The Open Championship - 2/3 Balls - 1st Round 3 Balls - B. Harman / P. Larrazabal / D. Willett - 1st Round 3 Balls,Brian Harman,0.013800000000000034,0.3774,0.3636
 2022-07-13 20:02:45.639966,Round Match-Ups - 1st Round Match-Up - K. Mitchell v T. Pieters - 1st Round Match-Up,Thomas Pieters,0.012199999999999989,0.5122,0.5
 2022-07-14 00:02:57.533680,NBA Futures - 2022-2023 NBA Southeast Division - Southeast Division Winner,Atlanta Hawks,0.01150000000000001,0.3448,0.3333
-2022-07-13 18:02:42.803757,Round Match-Ups - 1st Round Match-Up - B. Harman v D. Willett - 1st Round Match-Up,Brian Harman,0.01100000000000001,0.5348,0.5238
 2022-07-13 22:02:55.133854,Big Brother - Big Brother 24 - Odds to Win,Kyle Capener,0.0102,0.0769,0.0667
 2022-07-13 22:02:55.133854,Big Brother - Big Brother 24 - Odds to Win,Brittany Hoopes,0.0102,0.0769,0.0667
-2022-07-14 04:02:54.846420,MLB Specials - 2022 MLB Draft - Brock Porter Draft Position - Proposition,Under 12.5,0.010099999999999998,0.5556,0.5455
 2022-07-14 00:02:54.427870,College Season Props - 2022 - Regular Season Wins - Washington State - Proposition,Over 5.5,0.010099999999999998,0.5556,0.5455
-2022-07-13 18:02:42.712534,Round Match-Ups - 1st Round Match-Up - W. Simpson v M.W. Lee - 1st Round Match-Up,Webb Simpson,0.010099999999999998,0.5556,0.5455
+2022-07-14 04:02:54.846420,MLB Specials - 2022 MLB Draft - Brock Porter Draft Position - Proposition,Under 12.5,0.010099999999999998,0.5556,0.5455
 2022-07-13 23:02:43.890219,The Open Championship - 2/3 Balls - 1st Round 3 Balls - P. Cantlay / S. Burns / M. Pereira - 1st Round 3 Balls,Patrick Cantlay,-0.010099999999999998,0.4444,0.4545
 2022-07-13 23:02:43.432162,The Open Championship - 2/3 Balls - 1st Round 3 Balls - P. Lawrie / M.W. Lee / W. Simpson - 1st Round 3 Balls,Min Woo Lee,-0.010099999999999998,0.4444,0.4545
 2022-07-13 22:02:55.133854,Big Brother - Big Brother 24 - Odds to Win,Matthew Turner,-0.0102,0.0667,0.0769
@@ -69,22 +67,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-14 03:02:46.020970,The Open Championship - 2/3 Balls - 1st Round 3 Balls - J. Daly / B. Dechambeau / C. Tringale - 1st Round 3 Balls,Bryson DeChambeau,-0.010599999999999998,0.4545,0.4651
 2022-07-14 00:02:54.255665,College Season Props - 2022 - Regular Season Wins - Georgia State - Proposition,Over 7.5,-0.010599999999999998,0.4545,0.4651
 2022-07-13 20:02:45.639966,Round Match-Ups - 1st Round Match-Up - K. Mitchell v T. Pieters - 1st Round Match-Up,Keith Mitchell,-0.010699999999999932,0.5348,0.5455
-2022-07-14 00:02:59.336051,Tournament Match-Ups - Parlays - Tournament Match-Up - T. Fleetwood v T. Hatton - Tournament Match-Up,Tyrrell Hatton,-0.011099999999999999,0.4651,0.4762
-2022-07-14 04:02:52.544754,Round Match-Ups - 1st Round Match-Up - P. Reed v T. Hoge - 1st Round Match-Up,Tom Hoge,-0.011099999999999999,0.4651,0.4762
-2022-07-14 04:02:52.594138,Round Match-Ups - 1st Round Match-Up - C. Smith v B. Koepka - 1st Round Match-Up,Brooks Koepka,-0.011099999999999999,0.4651,0.4762
 2022-07-13 23:02:43.908178,The Open Championship - 2/3 Balls - 1st Round 3 Balls - L. Canter / D. Papadatos / M. Griffin - 1st Round 3 Balls,Matthew Griffin,-0.011099999999999999,0.2667,0.2778
+2022-07-14 00:02:59.336051,Tournament Match-Ups - Parlays - Tournament Match-Up - T. Fleetwood v T. Hatton - Tournament Match-Up,Tyrrell Hatton,-0.011099999999999999,0.4651,0.4762
+2022-07-14 04:02:52.594138,Round Match-Ups - 1st Round Match-Up - C. Smith v B. Koepka - 1st Round Match-Up,Brooks Koepka,-0.011099999999999999,0.4651,0.4762
+2022-07-14 04:02:52.544754,Round Match-Ups - 1st Round Match-Up - P. Reed v T. Hoge - 1st Round Match-Up,Tom Hoge,-0.011099999999999999,0.4651,0.4762
 2022-07-13 23:02:43.548299,The Open Championship - 2/3 Balls - 1st Round 3 Balls - B. Harman / P. Larrazabal / D. Willett - 1st Round 3 Balls,Pablo Larrazabal,-0.01150000000000001,0.3333,0.3448
-2022-07-13 18:02:42.878393,Round Match-Ups - 1st Round Match-Up - S. Lowry v V. Hovland - 1st Round Match-Up,Viktor Hovland,-0.0116,0.4762,0.4878
 2022-07-13 23:02:43.952646,Round Match-Ups - 1st Round Match-Up - W. Simpson v M.W. Lee - 1st Round Match-Up,Min Woo Lee,-0.0116,0.4762,0.4878
-2022-07-13 18:02:42.727658,Round Match-Ups - 1st Round Match-Up - P. Reed v T. Hoge - 1st Round Match-Up,Tom Hoge,-0.0116,0.4762,0.4878
 2022-07-14 00:02:54.427870,College Season Props - 2022 - Regular Season Wins - Washington State - Proposition,Under 5.5,-0.011600000000000055,0.5122,0.5238
-2022-07-13 18:02:42.803757,Round Match-Ups - 1st Round Match-Up - B. Harman v D. Willett - 1st Round Match-Up,Danny Willett,-0.011600000000000055,0.5122,0.5238
 2022-07-14 04:02:54.846420,MLB Specials - 2022 MLB Draft - Brock Porter Draft Position - Proposition,Over 12.5,-0.011600000000000055,0.5122,0.5238
 2022-07-13 23:02:43.802504,The Open Championship - 2/3 Balls - 1st Round 3 Balls - D. Clarke / R. Bland / F. Celli - 1st Round 3 Balls,Filippo Celli,-0.011699999999999988,0.274,0.2857
-2022-07-13 23:02:43.698175,The Open Championship - 2/3 Balls - 1st Round 3 Balls - M. Calcavecchia / R. Fox / J. Morgan - 1st Round 3 Balls,Jediah Morgan,-0.011700000000000016,0.2105,0.2222
 2022-07-13 23:02:43.916952,The Open Championship - 2/3 Balls - 1st Round 3 Balls - J. Catlin / J. Rutherford / D. Carey - 1st Round 3 Balls ,David Carey,-0.011700000000000016,0.2105,0.2222
+2022-07-13 23:02:43.698175,The Open Championship - 2/3 Balls - 1st Round 3 Balls - M. Calcavecchia / R. Fox / J. Morgan - 1st Round 3 Balls,Jediah Morgan,-0.011700000000000016,0.2105,0.2222
 2022-07-13 23:02:49.130272,Boxing Lines - Lennox Clarke vs Mark Heffron - To Win the Bout,Mark Heffron,-0.0121,0.2778,0.2899
-2022-07-13 18:02:42.712534,Round Match-Ups - 1st Round Match-Up - W. Simpson v M.W. Lee - 1st Round Match-Up,Min Woo Lee,-0.012199999999999989,0.4878,0.5
 2022-07-14 03:02:46.062581,The Open Championship - 2/3 Balls - 1st Round 3 Balls - B. Harman / P. Larrazabal / D. Willett - 1st Round 3 Balls,Danny Willett,-0.013800000000000034,0.3636,0.3774
 2022-07-13 23:02:43.572485,The Open Championship - 2/3 Balls - 1st Round 3 Balls - S. Straka / L. List / J. De Los Santos - 1st Round 3 Balls,Sepp Straka,-0.01479999999999998,0.3774,0.3922
 2022-07-14 00:02:57.491438,NBA Futures - 2022-2023 NBA Central Division - Central Division Winner,Chicago Bulls,-0.015100000000000002,0.1667,0.1818
@@ -96,12 +90,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-13 23:02:43.661488,The Open Championship - 2/3 Balls - 1st Round 3 Balls - A. Quayle / Z. Lombard / J. Parry - 1st Round 3 Balls,Anthony Quayle,-0.017600000000000005,0.3333,0.3509
 2022-07-13 22:02:54.551948,Boxing Lines - Arnold Barboza Jr vs Danielito Zorrilla - To Win the Bout,Danielito Zorrilla,-0.018100000000000005,0.4167,0.4348
 2022-07-13 22:02:55.133854,Big Brother - Big Brother 24 - Odds to Win,Michael Bruner,-0.02020000000000001,0.0909,0.1111
-2022-07-14 00:02:53.129428,College Season Props - 2022 - Regular Season Wins - Missouri - Proposition,Under 5.5,-0.02169999999999994,0.5238,0.5455
 2022-07-14 03:02:46.645239,Round Match-Ups - 1st Round Match-Up - S.W. Kim v S. Horsfield - 1st Round Match-Up,Si Woo Kim,-0.02169999999999994,0.5238,0.5455
+2022-07-14 00:02:53.129428,College Season Props - 2022 - Regular Season Wins - Missouri - Proposition,Under 5.5,-0.02169999999999994,0.5238,0.5455
 2022-07-14 04:02:54.904650,MLB Specials - 2022 MLB Draft - Kevin Parada Draft Position - Proposition,Under 4.5,-0.021799999999999986,0.3704,0.3922
 2022-07-13 23:02:43.601333,The Open Championship - 2/3 Balls - 1st Round 3 Balls - J. Kokrak / N. Hojgaard / S. Kim - 1st Round 3 Balls,Nicolai Hojgaard,-0.02260000000000001,0.3774,0.4
-2022-07-13 23:02:44.351014,Tournament Match-Ups - Parlays - Tournament Match-Up - A. Scott v J. Rose - Tournament Match-Up,Justin Rose,-0.022600000000000064,0.5122,0.5348
 2022-07-14 00:02:52.497780,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Washington Commanders,Over 8,-0.022600000000000064,0.5122,0.5348
+2022-07-13 23:02:44.351014,Tournament Match-Ups - Parlays - Tournament Match-Up - A. Scott v J. Rose - Tournament Match-Up,Justin Rose,-0.022600000000000064,0.5122,0.5348
 2022-07-14 00:02:57.477769,NBA Futures - 2022-2023 NBA Atlantic Division - Atlantic Division Winner,Brooklyn Nets,-0.023799999999999988,0.1429,0.1667
 2022-07-13 22:02:55.133854,Big Brother - Big Brother 24 - Odds to Win,Paloma Aguilar,-0.0242,0.0667,0.0909
 2022-07-14 00:02:53.416331,College Season Props - 2022 - Regular Season Wins - Boston College - Proposition,Over 6.5,-0.024399999999999977,0.4878,0.5122
@@ -116,7 +110,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-13 20:02:46.685242,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Elijah Green vs Jackson Holliday - Proposition,Elijah Green,-0.04099999999999998,0.2222,0.2632
 2022-07-14 04:02:54.914343,MLB Specials - 2022 MLB Draft - Zach Neto Draft Position - Proposition,Over 12.5,-0.043399999999999994,0.5122,0.5556
 2022-07-13 22:02:55.133854,Big Brother - Big Brother 24 - Odds to Win,Taylor Hale,-0.052399999999999995,0.0385,0.0909
-2022-07-13 21:03:02.350439,MLB Specials - 2022 MLB Draft - Jackson Holliday Draft Position - Proposition,Under 1.5,-0.0857,0.2,0.2857
 2022-07-13 21:03:02.286868,MLB Specials - 2022 MLB Draft - 1st Overall Pick - Proposition,Jackson Holliday,-0.0857,0.2,0.2857
+2022-07-13 21:03:02.350439,MLB Specials - 2022 MLB Draft - Jackson Holliday Draft Position - Proposition,Under 1.5,-0.0857,0.2,0.2857
 2022-07-13 21:03:02.286868,MLB Specials - 2022 MLB Draft - 1st Overall Pick - Proposition,Brooks Lee,-0.1071,0.1429,0.25
 2022-07-14 04:02:54.854360,MLB Specials - 2022 MLB Draft - Daniel Susac Draft Position - Proposition,Over 17.5,-0.12079999999999996,0.4348,0.5556
