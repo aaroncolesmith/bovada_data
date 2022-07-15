@@ -1,16 +1,12 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-15 17:02:53.960605,Transfer Specials - Frenkie de Jong - Next Permanent Club - Frenkie de Jong - Next Permanent Club,Manchester United,0.15000000000000002,0.75,0.6
 2022-07-15 11:03:14.799611,UEFA Women's Euro 2022 - European Championship Women 2022 - Top Goalscorer,Beth Mead,0.14850000000000002,0.5833,0.4348
-2022-07-15 09:02:48.150251,UK Politics - Next Conservative Leader - Conservative Party Leader,Liz Truss,0.11109999999999998,0.3333,0.2222
 2022-07-15 18:03:11.554006,Transfer Specials - Robert Lewandowski - Next Permanent Club - Robert Lewandowski - Next Permanent Club,Barcelona,0.1049,0.9231,0.8182
 2022-07-15 11:03:14.799611,UEFA Women's Euro 2022 - European Championship Women 2022 - Top Goalscorer,Ellen White,0.05550000000000002,0.2222,0.1667
 2022-07-15 10:03:56.307905,MLB Specials - Where will Luis Castillo be playing after the 2022 MLB Trade Deadline? - Proposition,Los Angeles Dodgers,0.04999999999999999,0.25,0.2
 2022-07-15 12:02:16.815646,Boxing Lines - Arnold Barboza Jr vs Danielito Zorrilla - To Win the Bout,Arnold Barboza Jr,0.04760000000000009,0.7143,0.6667
-2022-07-15 09:02:48.698964,Euroleague - Euroleague 2022/23 - Outright,Barcelona,0.03950000000000001,0.25,0.2105
-2022-07-15 09:02:48.479956,NBA Season Props - 2022/23 NBA Awards - 2022/23 The Rookie of the Year,Paolo Banchero,0.02779999999999999,0.25,0.2222
 2022-07-15 11:03:05.561560,The Open Championship - 2/3 Balls - 2nd Round 3 Balls - B. Horschel / C. Conners / Z. Johnson - 2nd Round 3 Balls,Corey Conners,0.027700000000000002,0.4444,0.4167
 2022-07-15 10:03:54.104799,Boxing Lines - Arnold Barboza Jr vs Danielito Zorrilla - To Win the Bout,Danielito Zorrilla,0.02260000000000001,0.4,0.3774
-2022-07-15 09:02:48.946256,Boxing Lines - Arnold Barboza Jr vs Danielito Zorrilla - To Win the Bout,Arnold Barboza Jr,0.02080000000000004,0.6875,0.6667
 2022-07-15 12:02:17.816278,Round Match-Ups - 2nd Round Match-Up - J. Thomas vs S. Lowry - 2nd Round Match-Up,Justin Thomas,0.02079999999999993,0.5556,0.5348
 2022-07-15 15:02:55.030903,MLB Futures - MLB 2022 Player Awards - National League MVP ,Austin Riley,0.0203,0.0526,0.0323
 2022-07-15 14:02:29.877178,Round Match-Ups - 2nd Round Match-Up - J. Thomas vs S. Lowry - 2nd Round Match-Up,Justin Thomas,0.01880000000000004,0.5744,0.5556
@@ -20,36 +16,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-15 11:03:15.307153,2022 Copa América Femenina - 2022 Copa America Femenina - Winner,Paraguay (W),0.014499999999999999,0.0294,0.0149
 2022-07-15 16:03:26.422777,UEFA Women's Euro 2022 - Group A - To Advance from Group,Norway (W),0.012199999999999989,0.5122,0.5
 2022-07-15 16:03:26.401256,UEFA Women's Euro 2022 - Group A - Not To Advance from Group,Austria (W),0.012199999999999989,0.5122,0.5
-2022-07-15 11:03:05.538030,The Open Championship - 2/3 Balls - 2nd Round 3 Balls - B. Koepka / C. Smith / S. Power - 2nd Round 3 Balls,Cameron Smith,0.011099999999999999,0.4762,0.4651
 2022-07-15 11:03:13.647141,Premier League - English Premier League 2022/23 - Top London Team,Tottenham Hotspur,0.011099999999999999,0.4762,0.4651
+2022-07-15 11:03:05.538030,The Open Championship - 2/3 Balls - 2nd Round 3 Balls - B. Koepka / C. Smith / S. Power - 2nd Round 3 Balls,Cameron Smith,0.011099999999999999,0.4762,0.4651
 2022-07-15 11:03:13.362152,Premier League - English Premier League 2022/23 - Winner,Tottenham Hotspur,0.0102,0.0769,0.0667
 2022-07-15 11:03:13.647141,Premier League - English Premier League 2022/23 - Top London Team,Chelsea,-0.010599999999999998,0.4545,0.4651
 2022-07-15 11:03:05.538030,The Open Championship - 2/3 Balls - 2nd Round 3 Balls - B. Koepka / C. Smith / S. Power - 2nd Round 3 Balls,Brooks Koepka,-0.010699999999999987,0.3226,0.3333
-2022-07-15 09:02:48.479956,NBA Season Props - 2022/23 NBA Awards - 2022/23 The Rookie of the Year,Jaden Ivey,-0.010899999999999993,0.1429,0.1538
-2022-07-15 09:02:48.479956,NBA Season Props - 2022/23 NBA Awards - 2022/23 The Rookie of the Year,Chet Holmgren,-0.011700000000000016,0.2105,0.2222
+2022-07-15 21:03:34.766146,Boxing Lines - Ricardo Sandoval vs David Jimenez - To Win the Bout,Ricardo Sandoval,-0.011199999999999988,0.9412,0.9524
 2022-07-15 17:02:53.960605,Transfer Specials - Frenkie de Jong - Next Permanent Club - Frenkie de Jong - Next Permanent Club,Tottenham,-0.012100000000000001,0.0123,0.0244
 2022-07-15 17:02:53.960605,Transfer Specials - Frenkie de Jong - Next Permanent Club - Frenkie de Jong - Next Permanent Club,PSG,-0.012700000000000003,0.0196,0.0323
 2022-07-15 11:03:15.307153,2022 Copa América Femenina - 2022 Copa America Femenina - Winner,Argentina (W),-0.013999999999999999,0.0769,0.0909
 2022-07-15 18:03:11.554006,Transfer Specials - Robert Lewandowski - Next Permanent Club - Robert Lewandowski - Next Permanent Club,Arsenal,-0.014099999999999998,0.0244,0.0385
-2022-07-15 09:02:48.150251,UK Politics - Next Conservative Leader - Conservative Party Leader,Tom Tugendhat,-0.0145,0.0099,0.0244
-2022-07-15 09:02:48.150251,UK Politics - Next Conservative Leader - Conservative Party Leader,Rishi Sunak,-0.016699999999999993,0.25,0.2667
 2022-07-15 11:03:04.869683,Boxing Lines - Jake Paul vs Hasim Rahman Jr - To Win the Bout,Jake Paul,-0.017300000000000093,0.697,0.7143
 2022-07-15 11:03:05.561560,The Open Championship - 2/3 Balls - 2nd Round 3 Balls - B. Horschel / C. Conners / Z. Johnson - 2nd Round 3 Balls,Zach Johnson,-0.019000000000000017,0.2667,0.2857
-2022-07-15 09:02:48.150251,UK Politics - Next Conservative Leader - Conservative Party Leader,Penny Mordaunt,-0.01970000000000005,0.5455,0.5652
 2022-07-15 18:03:11.554006,Transfer Specials - Robert Lewandowski - Next Permanent Club - Robert Lewandowski - Next Permanent Club,Man Utd,-0.0203,0.0385,0.0588
 2022-07-15 10:03:54.104799,Boxing Lines - Arnold Barboza Jr vs Danielito Zorrilla - To Win the Bout,Arnold Barboza Jr,-0.02080000000000004,0.6667,0.6875
 2022-07-15 13:02:59.566382,UK Politics - Next Conservative Leader - Conservative Party Leader,Penny Mordaunt,-0.02169999999999994,0.5238,0.5455
-2022-07-15 09:02:48.698964,Euroleague - Euroleague 2022/23 - Outright,Anadolu Efes,-0.022199999999999998,0.2,0.2222
-2022-07-15 09:02:48.946256,Boxing Lines - Arnold Barboza Jr vs Danielito Zorrilla - To Win the Bout,Danielito Zorrilla,-0.02260000000000001,0.3774,0.4
 2022-07-15 11:03:05.561560,The Open Championship - 2/3 Balls - 2nd Round 3 Balls - B. Horschel / C. Conners / Z. Johnson - 2nd Round 3 Balls,Billy Horschel,-0.02260000000000001,0.3774,0.4
 2022-07-15 12:02:17.816278,Round Match-Ups - 2nd Round Match-Up - J. Thomas vs S. Lowry - 2nd Round Match-Up,Shane Lowry,-0.022600000000000064,0.5122,0.5348
 2022-07-15 18:03:11.554006,Transfer Specials - Robert Lewandowski - Next Permanent Club - Robert Lewandowski - Next Permanent Club,Chelsea,-0.02310000000000001,0.0769,0.1
 2022-07-15 18:03:11.554006,Transfer Specials - Robert Lewandowski - Next Permanent Club - Robert Lewandowski - Next Permanent Club,Newcastle,-0.023200000000000002,0.0244,0.0476
 2022-07-15 14:02:29.877178,Round Match-Ups - 2nd Round Match-Up - J. Thomas vs S. Lowry - 2nd Round Match-Up,Shane Lowry,-0.024399999999999977,0.4878,0.5122
-2022-07-15 09:02:48.150251,UK Politics - Next Conservative Leader - Conservative Party Leader,Kemi Badenoch,-0.028199999999999996,0.0385,0.0667
 2022-07-15 18:03:11.554006,Transfer Specials - Robert Lewandowski - Next Permanent Club - Robert Lewandowski - Next Permanent Club,Liverpool,-0.0373,0.0294,0.0667
 2022-07-15 11:03:14.799611,UEFA Women's Euro 2022 - European Championship Women 2022 - Top Goalscorer,Marie-Antoinette Katoto,-0.048100000000000004,0.0769,0.125
 2022-07-15 12:02:16.815646,Boxing Lines - Arnold Barboza Jr vs Danielito Zorrilla - To Win the Bout,Danielito Zorrilla,-0.04910000000000003,0.3509,0.4
-2022-07-15 10:03:56.307905,MLB Specials - Where will Luis Castillo be playing after the 2022 MLB Trade Deadline? - Proposition,St. Louis Cardinals,-0.04999999999999999,0.2,0.25
 2022-07-15 10:03:56.307905,MLB Specials - Where will Luis Castillo be playing after the 2022 MLB Trade Deadline? - Proposition,Toronto Blue Jays,-0.04999999999999999,0.2,0.25
+2022-07-15 10:03:56.307905,MLB Specials - Where will Luis Castillo be playing after the 2022 MLB Trade Deadline? - Proposition,St. Louis Cardinals,-0.04999999999999999,0.2,0.25
 2022-07-15 17:02:53.960605,Transfer Specials - Frenkie de Jong - Next Permanent Club - Frenkie de Jong - Next Permanent Club,To Stay at Barcelona,-0.1905,0.2857,0.4762
