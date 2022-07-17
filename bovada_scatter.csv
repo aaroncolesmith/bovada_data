@@ -14,6 +14,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-17 06:03:13.808850,CFL - Odds to win 109th (2022) Grey Cup - Grey Cup Winner,Winnipeg Blue Bombers,0.030299999999999994,0.3636,0.3333
 2022-07-17 07:04:01.988527,MLB Futures - MLB 2022 National League - NL Winner,Atlanta Braves,0.028700000000000003,0.2105,0.1818
 2022-07-17 07:04:02.203179,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Cade Horton vs Blade Tidwell - Proposition,Cade Horton,0.027800000000000047,0.75,0.7222
+2022-07-17 13:02:40.006618,The Open Championship - 2/3 Balls - Final Round 2 Balls - A. Scott v M. Fitzpatrick - Final Round 2 Balls,Adam Scott,0.027700000000000002,0.4444,0.4167
 2022-07-17 03:02:46.223410,UK Politics - Next Conservative Leader - Conservative Party Leader,Rishi Sunak,0.027500000000000024,0.3846,0.3571
 2022-07-17 11:02:49.405459,The Open Championship - 2/3 Balls - Final Round 2 Balls - J. Rahm v V. Perez - Final Round 2 Balls,Jon Rahm,0.025600000000000067,0.6923,0.6667
 2022-07-17 06:03:11.704996,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Los Angeles Dodgers,0.024800000000000016,0.2353,0.2105
@@ -27,30 +28,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-17 05:03:16.948208,The Open Championship - 2/3 Balls - Final Round 2 Balls - J. Kokrak v K. Kitayama - Final Round 2 Balls,Kurt Kitayama,0.02079999999999993,0.5556,0.5348
 2022-07-17 10:02:40.698869,UK Politics - Next Conservative Leader - Conservative Party Leader,Kemi Badenoch,0.02020000000000001,0.1111,0.0909
 2022-07-17 05:03:17.176936,The Open Championship - 2/3 Balls - Final Round 2 Balls - M. W. Lee v S. Theegala - Final Round 2 Balls,Sahith Theegala,0.01970000000000005,0.5652,0.5455
-2022-07-17 05:03:16.797182,The Open Championship - 2/3 Balls - Final Round 2 Balls - S. Burns v S. Im - Final Round 2 Balls ,Sam Burns,0.01970000000000005,0.5652,0.5455
 2022-07-17 03:02:48.737320,College Season Props - 2022 - Regular Season Wins - Nebraska - Proposition,Under 7.5,0.01970000000000005,0.5652,0.5455
+2022-07-17 05:03:16.797182,The Open Championship - 2/3 Balls - Final Round 2 Balls - S. Burns v S. Im - Final Round 2 Balls ,Sam Burns,0.01970000000000005,0.5652,0.5455
 2022-07-17 07:04:01.988527,MLB Futures - MLB 2022 National League - NL Winner,St. Louis Cardinals,0.019099999999999992,0.0667,0.0476
 2022-07-17 05:03:15.926892,Specials - When will the World Population Reach 8 billion? - Proposition,After November 15 2022,0.018900000000000028,0.4444,0.4255
 2022-07-17 06:03:10.487329,The Open Championship - 2/3 Balls - Final Round 2 Balls - B. Kennedy v F. Celli - Final Round 2 Balls,Brad Kennedy,0.01880000000000004,0.5744,0.5556
 2022-07-17 04:03:32.642805,The Open Championship - 2/3 Balls - Final Round 2 Balls - J. Smith v A. Jarvis - Final Round 2 Balls,Jordan Smith,0.016700000000000048,0.75,0.7333
-2022-07-17 03:02:45.889893,The Open Championship - 2/3 Balls - Final Round 2 Balls - B. Harman v S. Lowry - Final Round 2 Balls,Brian Harman,0.016699999999999993,0.4167,0.4
 2022-07-17 11:02:49.396461,The Open Championship - 2/3 Balls - Final Round 2 Balls - L. Herbert v X. Schauffele - Final Round 2 Balls,Lucas Herbert,0.016699999999999993,0.4167,0.4
-2022-07-17 05:03:17.384218,The Open Championship - 2/3 Balls - Final Round 2 Balls - B. DeChambeau v F. Molinari - Final Round 2 Balls,Bryson DeChambeau,0.016100000000000003,0.6078,0.5917
+2022-07-17 03:02:45.889893,The Open Championship - 2/3 Balls - Final Round 2 Balls - B. Harman v S. Lowry - Final Round 2 Balls,Brian Harman,0.016699999999999993,0.4167,0.4
 2022-07-17 10:02:40.374959,The Open Championship - Final Round - Final Round Score - Rory McIlroy - Final Round Score,Under 69.5,0.016100000000000003,0.6078,0.5917
+2022-07-17 05:03:17.384218,The Open Championship - 2/3 Balls - Final Round 2 Balls - B. DeChambeau v F. Molinari - Final Round 2 Balls,Bryson DeChambeau,0.016100000000000003,0.6078,0.5917
 2022-07-17 06:03:11.724061,MLB Futures - MLB 2022 Amercian League - AL Winner,Houston Astros,0.01579999999999998,0.3333,0.3175
-2022-07-17 03:02:45.882757,The Open Championship - 2/3 Balls - Final Round 2 Balls - T. Mullinax v T. Hatton - Final Round 2 Balls,Trey Mullinax,0.015400000000000025,0.4,0.3846
 2022-07-17 03:02:45.845598,The Open Championship - 2/3 Balls - Final Round 2 Balls - N. Hojgaard v W. Zalatoris - Final Round 2 Balls,Nicolai Hojgaard,0.015400000000000025,0.4,0.3846
+2022-07-17 03:02:45.882757,The Open Championship - 2/3 Balls - Final Round 2 Balls - T. Mullinax v T. Hatton - Final Round 2 Balls,Trey Mullinax,0.015400000000000025,0.4,0.3846
 2022-07-17 06:03:11.704996,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Houston Astros,0.015100000000000002,0.1818,0.1667
-2022-07-17 06:03:13.808850,CFL - Odds to win 109th (2022) Grey Cup - Grey Cup Winner,Hamilton Tiger-Cats,0.014899999999999997,0.0625,0.0476
 2022-07-17 06:03:11.724061,MLB Futures - MLB 2022 Amercian League - AL Winner,Seattle Mariners,0.014899999999999997,0.0625,0.0476
+2022-07-17 06:03:13.808850,CFL - Odds to win 109th (2022) Grey Cup - Grey Cup Winner,Hamilton Tiger-Cats,0.014899999999999997,0.0625,0.0476
 2022-07-17 07:04:02.235191,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Elijah Green vs Jackson Holliday - Proposition,Elijah Green,0.014800000000000008,0.2,0.1852
 2022-07-17 06:03:10.162742,The Open Championship - 2/3 Balls - Final Round 2 Balls - J. Smith v A. Jarvis - Final Round 2 Balls,Jordan Smith,0.014700000000000046,0.7647,0.75
 2022-07-17 07:04:01.988527,MLB Futures - MLB 2022 National League - NL Winner,New York Mets,0.01469999999999999,0.25,0.2353
 2022-07-17 03:02:46.850296,NBA Season Props - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Chris Finch,0.013999999999999999,0.0909,0.0769
 2022-07-17 11:02:52.540638,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Atlas FC,0.013899999999999996,0.125,0.1111
 2022-07-17 07:04:01.988527,MLB Futures - MLB 2022 National League - NL Winner,Los Angeles Dodgers,0.013800000000000034,0.3774,0.3636
-2022-07-17 06:03:10.859055,The Open Championship - 2/3 Balls - Final Round 2 Balls - C. Smith v C. Young - Final Round 2 Balls,Cameron Smith,0.013799999999999923,0.6364,0.6226
 2022-07-17 06:03:10.599068,The Open Championship - 2/3 Balls - Final Round 2 Balls - A. Quayle v I. Poulter - Final Round 2 Balls,Ian Poulter,0.013799999999999923,0.6364,0.6226
+2022-07-17 06:03:10.859055,The Open Championship - 2/3 Balls - Final Round 2 Balls - C. Smith v C. Young - Final Round 2 Balls,Cameron Smith,0.013799999999999923,0.6364,0.6226
 2022-07-17 05:03:25.902611,College Season Props - 2022 - Regular Season Wins - Alabama - Proposition,Over 10.5,0.01319999999999999,0.75,0.7368
 2022-07-17 05:03:18.530492,MLB Specials - 2022 MLB Draft - Jace Jung Draft Position - Proposition,Under 14.5,0.0131,0.7101,0.697
 2022-07-17 05:03:17.544877,The Open Championship - 2/3 Balls - Final Round 2 Balls - R. McIlroy v V. Hovland - Final Round 2 Balls,Rory McIlroy,0.012700000000000045,0.6491,0.6364
@@ -59,15 +60,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-17 07:04:02.100348,MLB Futures - MLB 2022 National League West - NLW Winner,San Francisco Giants,0.012100000000000001,0.0244,0.0123
 2022-07-17 10:02:46.325164,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Argentinos Juniors,0.011199999999999995,0.0588,0.0476
 2022-07-17 02:03:10.964873,Boxing Lines - Ryan Garcia vs Javier Fortuna - To Win the Bout,Ryan Garcia,0.011199999999999988,0.9524,0.9412
-2022-07-17 11:02:51.064144,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Flamengo,0.011099999999999999,0.1111,0.1
 2022-07-17 03:02:46.234064,Boxing Lines - Ryan Garcia vs Javier Fortuna - To Win the Bout,Javier Fortuna,0.011099999999999999,0.1111,0.1
+2022-07-17 11:02:51.064144,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Flamengo,0.011099999999999999,0.1111,0.1
 2022-07-17 06:03:11.641616,Home Run Derby - 2022 Home Run Derby - Round 1 - Seager v Rodriguez,Corey Seager,0.01100000000000001,0.5348,0.5238
 2022-07-17 05:03:25.549133,College Season Props - 2022 - Regular Season Wins - Oklahoma - Proposition,Over 9.5,0.01100000000000001,0.5348,0.5238
 2022-07-17 10:02:46.325164,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Boca Juniors,0.010899999999999993,0.1538,0.1429
-2022-07-17 04:03:32.683297,The Open Championship - 2/3 Balls - Final Round 2 Balls - S. Munoz v R. Dinwiddie - Final Round 2 Balls,Sebastian Munoz,0.010700000000000043,0.6774,0.6667
 2022-07-17 06:03:10.043297,The Open Championship - 2/3 Balls - Final Round 2 Balls - H. Matsuyama v D. Law - Final Round 2 Balls ,Hideki Matsuyama,0.010700000000000043,0.6774,0.6667
-2022-07-17 07:04:01.954179,Home Run Derby - 2022 Home Run Derby - To Make The Finals,Pete Alonso,0.010699999999999932,0.5455,0.5348
+2022-07-17 04:03:32.683297,The Open Championship - 2/3 Balls - Final Round 2 Balls - S. Munoz v R. Dinwiddie - Final Round 2 Balls,Sebastian Munoz,0.010700000000000043,0.6774,0.6667
 2022-07-17 06:03:18.673011,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Regular Season Division Wins - New York Jets,Under 2,0.010699999999999932,0.5455,0.5348
+2022-07-17 07:04:01.954179,Home Run Derby - 2022 Home Run Derby - To Make The Finals,Pete Alonso,0.010699999999999932,0.5455,0.5348
 2022-07-17 06:03:18.448986,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Regular Season Division Wins - Dallas Cowboys,Over 3.5,0.010099999999999998,0.5556,0.5455
 2022-07-17 06:03:11.704996,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Tampa Bay Rays,-0.010100000000000001,0.0244,0.0345
 2022-07-17 06:03:13.808850,CFL - Odds to win 109th (2022) Grey Cup - Grey Cup Winner,Montreal Alouettes,-0.0102,0.0667,0.0769
@@ -87,13 +88,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-17 05:03:15.926892,Specials - When will the World Population Reach 8 billion? - Proposition,On or Before November 15 2022,-0.013799999999999923,0.6226,0.6364
 2022-07-17 06:03:10.281008,The Open Championship - 2/3 Balls - Final Round 2 Balls - J. Thomas v M. Armitage - Final Round 2 Balls,Marcus Armitage,-0.013800000000000034,0.3636,0.3774
 2022-07-17 06:03:11.704996,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,New York Mets,-0.013899999999999996,0.1111,0.125
-2022-07-17 07:04:01.988527,MLB Futures - MLB 2022 National League - NL Winner,San Diego Padres,-0.013999999999999999,0.0769,0.0909
 2022-07-17 10:02:46.095226,UEFA Women's Euro 2022 - European Championship Women 2022 - Winner,Netherlands (W),-0.013999999999999999,0.0769,0.0909
+2022-07-17 07:04:01.988527,MLB Futures - MLB 2022 National League - NL Winner,San Diego Padres,-0.013999999999999999,0.0769,0.0909
 2022-07-17 11:02:51.046190,MLS - MLS Cup 2022 - Top Goalscorer,Raul Ruidiaz,-0.014499999999999999,0.0149,0.0294
 2022-07-17 03:02:46.223410,UK Politics - Next Conservative Leader - Conservative Party Leader,Liz Truss,-0.015100000000000002,0.1667,0.1818
 2022-07-17 04:03:32.683297,The Open Championship - 2/3 Balls - Final Round 2 Balls - S. Munoz v R. Dinwiddie - Final Round 2 Balls,Robert Dinwiddie,-0.015400000000000025,0.3846,0.4
-2022-07-17 06:03:10.043297,The Open Championship - 2/3 Balls - Final Round 2 Balls - H. Matsuyama v D. Law - Final Round 2 Balls ,David Law,-0.015400000000000025,0.3846,0.4
 2022-07-17 05:03:25.902611,College Season Props - 2022 - Regular Season Wins - Alabama - Proposition,Under 10.5,-0.015400000000000025,0.3125,0.3279
+2022-07-17 06:03:10.043297,The Open Championship - 2/3 Balls - Final Round 2 Balls - H. Matsuyama v D. Law - Final Round 2 Balls ,David Law,-0.015400000000000025,0.3846,0.4
 2022-07-17 07:04:02.235191,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Elijah Green vs Jackson Holliday - Proposition,Jackson Holliday,-0.015699999999999936,0.8667,0.8824
 2022-07-17 07:04:01.988527,MLB Futures - MLB 2022 National League - NL Winner,San Francisco Giants,-0.0157,0.0278,0.0435
 2022-07-17 10:02:40.698869,UK Politics - Next Conservative Leader - Conservative Party Leader,Penny Mordaunt,-0.016699999999999993,0.4,0.4167
@@ -105,14 +106,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-17 06:03:11.724061,MLB Futures - MLB 2022 Amercian League - AL Winner,Tampa Bay Rays,-0.018099999999999998,0.0588,0.0769
 2022-07-17 06:03:10.859055,The Open Championship - 2/3 Balls - Final Round 2 Balls - C. Smith v C. Young - Final Round 2 Balls,Cameron Young,-0.018900000000000028,0.4255,0.4444
 2022-07-17 06:03:10.599068,The Open Championship - 2/3 Balls - Final Round 2 Balls - A. Quayle v I. Poulter - Final Round 2 Balls,Anthony Quayle,-0.018900000000000028,0.4255,0.4444
-2022-07-17 05:03:26.768373,College Season Props - 2022 - Regular Season Wins - LSU - Proposition,Under 7,-0.01970000000000005,0.5455,0.5652
 2022-07-17 01:03:43.718784,The Open Championship - 2/3 Balls - Final Round 2 Balls - J. Spieth v R. Cantlay - Final Round 2 Balls,Jordan Spieth,-0.01970000000000005,0.5455,0.5652
+2022-07-17 05:03:26.768373,College Season Props - 2022 - Regular Season Wins - LSU - Proposition,Under 7,-0.01970000000000005,0.5455,0.5652
 2022-07-17 06:03:11.704996,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Milwaukee Brewers,-0.0203,0.0385,0.0588
 2022-07-17 06:03:10.105336,The Open Championship - 2/3 Balls - Final Round 2 Balls - P. Reed v L. Canter - Final Round 2 Balls,Laurie Canter,-0.020699999999999996,0.4444,0.4651
 2022-07-17 06:03:16.904896,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Minnesota Vikings,Over 9.5,-0.02079999999999993,0.5348,0.5556
 2022-07-17 04:03:32.642805,The Open Championship - 2/3 Balls - Final Round 2 Balls - J. Smith v A. Jarvis - Final Round 2 Balls,Aaron Jarvis,-0.020799999999999985,0.3125,0.3333
-2022-07-17 05:03:17.384218,The Open Championship - 2/3 Balls - Final Round 2 Balls - B. DeChambeau v F. Molinari - Final Round 2 Balls,Francesco Molinari,-0.021699999999999997,0.4545,0.4762
 2022-07-17 10:02:40.374959,The Open Championship - Final Round - Final Round Score - Rory McIlroy - Final Round Score,Over 69.5,-0.021699999999999997,0.4545,0.4762
+2022-07-17 05:03:17.384218,The Open Championship - 2/3 Balls - Final Round 2 Balls - B. DeChambeau v F. Molinari - Final Round 2 Balls,Francesco Molinari,-0.021699999999999997,0.4545,0.4762
 2022-07-17 11:02:52.642047,Allsvenskan - Swedish Allsvenskan 2022 - Outright,BK Hacken,-0.021999999999999964,0.2857,0.3077
 2022-07-17 05:03:16.948208,The Open Championship - 2/3 Balls - Final Round 2 Balls - J. Kokrak v K. Kitayama - Final Round 2 Balls,Jason Kokrak,-0.022600000000000064,0.5122,0.5348
 2022-07-17 05:03:17.176936,The Open Championship - 2/3 Balls - Final Round 2 Balls - M. W. Lee v S. Theegala - Final Round 2 Balls,Min Woo Lee,-0.023800000000000043,0.5,0.5238
@@ -123,6 +124,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-17 06:03:13.808850,CFL - Odds to win 109th (2022) Grey Cup - Grey Cup Winner,Saskatchewan Roughriders,-0.025300000000000003,0.1176,0.1429
 2022-07-17 02:03:21.137785,The Open Championship - 2/3 Balls - Final Round 2 Balls - B. Horschel v C. Kirk - Final Round 2 Balls,Billy Horschel,-0.025599999999999956,0.5744,0.6
 2022-07-17 06:03:10.975945,Round Match-Ups - Final Round Match-Up - C. Smith vs R. McIlroy - Final Round Match-Up,Rory McIlroy,-0.025599999999999956,0.5744,0.6
+2022-07-17 13:02:40.006618,The Open Championship - 2/3 Balls - Final Round 2 Balls - A. Scott v M. Fitzpatrick - Final Round 2 Balls,Matthew Fitzpatrick,-0.026499999999999968,0.6226,0.6491
 2022-07-17 11:02:45.207882,Boxing Lines - Jake Paul vs Hasim Rahman Jr - To Win the Bout,Jake Paul,-0.028800000000000048,0.6855,0.7143
 2022-07-17 07:04:02.100348,MLB Futures - MLB 2022 National League West - NLW Winner,Los Angeles Dodgers,-0.029299999999999993,0.9231,0.9524
 2022-07-17 11:02:49.405459,The Open Championship - 2/3 Balls - Final Round 2 Balls - J. Rahm v V. Perez - Final Round 2 Balls,Victor Perez,-0.029600000000000015,0.3704,0.4
