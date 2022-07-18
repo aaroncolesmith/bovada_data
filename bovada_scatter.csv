@@ -16,12 +16,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-17 19:02:44.168702,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Cade Horton vs Blade Tidwell - Proposition,Cade Horton,0.04160000000000008,0.8333,0.7917
 2022-07-18 04:03:44.477535,MLB Futures - MLB 2022 National League West - NLW Winner,Los Angeles Dodgers,0.03839999999999999,0.9615,0.9231
 2022-07-18 04:03:44.419798,MLB Futures - MLB 2022 National League - NL Winner,Milwaukee Brewers,0.03420000000000001,0.1111,0.0769
+2022-07-18 06:03:24.215488,Home Run Derby - 2022 Home Run Derby - Exact Result,Pete Alonso beats Juan Soto,0.033299999999999996,0.1333,0.1
 2022-07-18 04:03:43.883919,NFC North - 2022/2023 NFC North - Vikings Division Finishing Position,2nd,0.03210000000000002,0.4167,0.3846
 2022-07-17 22:02:58.580256,MLB Specials - 2022 MLB Draft - Justin Crawford Draft Position - Proposition,Under 13.5,0.029600000000000015,0.4,0.3704
+2022-07-18 06:03:24.314160,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Kyle Schwarber,Over 477.5 Feet,0.028900000000000037,0.5744,0.5455
+2022-07-18 06:03:24.327534,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Pete Alonso,Over 468.5 Feet,0.028900000000000037,0.5744,0.5455
+2022-07-18 06:03:24.373948,Home Run Derby - 2022 Home Run Derby - Player To Hit Most Derby Home Runs,Kyle Schwarber,0.028799999999999992,0.1538,0.125
+2022-07-18 06:03:24.202280,Home Run Derby - 2022 Home Run Derby - Exact Finals Matchup,Juan Soto v Pete Alonso,0.027999999999999997,0.1818,0.1538
 2022-07-17 19:02:44.224153,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Peyton Graham vs Cayden Wallace - Proposition,Peyton Graham,0.02729999999999999,0.8,0.7727
 2022-07-18 04:03:44.185398,Home Run Derby - 2022 Home Run Derby - Exact Result,Pete Alonso beats Kyle Schwarber,0.025300000000000003,0.1429,0.1176
 2022-07-18 04:03:44.185398,Home Run Derby - 2022 Home Run Derby - Exact Result,Kyle Schwarber beats Pete Alonso,0.024999999999999994,0.125,0.1
 2022-07-18 02:02:53.836621,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Toronto Blue Jays,0.024,0.0625,0.0385
+2022-07-18 06:03:24.215488,Home Run Derby - 2022 Home Run Derby - Exact Result,Pete Alonso beats Kyle Schwarber,0.023799999999999988,0.1667,0.1429
 2022-07-18 04:03:43.783451,NFC East - 2022/2023 NFC East - Eagles Division Finishing Position,1st,0.02260000000000001,0.4,0.3774
 2022-07-17 22:02:58.439998,MLB Specials - 2022 MLB Draft - 1st Overall Pick - Proposition,Druw Jones,0.022199999999999998,0.2222,0.2
 2022-07-17 22:02:58.498151,MLB Specials - 2022 MLB Draft - Druw Jones Draft Position - Proposition,Under 1.5,0.022199999999999998,0.2222,0.2
@@ -31,68 +37,100 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-17 20:02:38.129908,Boxing Lines - Jake Paul vs Hasim Rahman Jr - To Win the Bout,Hasim Rahman Jr,0.019500000000000017,0.3704,0.3509
 2022-07-17 21:03:56.726977,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.019000000000000017,0.2857,0.2667
 2022-07-17 19:02:44.209251,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Jacob Berry vs Gavin Cross - Proposition,Jacob Berry,0.018999999999999906,0.7333,0.7143
+2022-07-17 22:02:57.571528,NBA Futures - 2022-2023 NBA Southwest Division - Southwest Division Winner,New Orleans Pelicans,0.01820000000000002,0.2,0.1818
 2022-07-17 21:04:12.003196,MLB Specials - 2022 MLB Draft - 1st Overall Pick - Proposition,Druw Jones,0.01820000000000002,0.2,0.1818
 2022-07-17 21:04:12.172034,MLB Specials - 2022 MLB Draft - Druw Jones Draft Position - Proposition,Under 1.5,0.01820000000000002,0.2,0.1818
-2022-07-17 22:02:57.571528,NBA Futures - 2022-2023 NBA Southwest Division - Southwest Division Winner,New Orleans Pelicans,0.01820000000000002,0.2,0.1818
 2022-07-18 03:02:43.832464,UEFA Women's Euro 2022 - European Championship Women 2022 - Winner,Sweden (W),0.0179,0.1429,0.125
 2022-07-18 05:03:04.806645,Home Run Derby - 2022 Home Run Derby - To Win Home Run Derby,Pete Alonso,0.017600000000000005,0.3509,0.3333
 2022-07-17 19:02:44.176511,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Chase DeLauter vs Jordan Beck - Proposition,Chase DeLauter,0.016700000000000048,0.75,0.7333
 2022-07-17 21:04:09.013204,NBA Futures - 2022-2023 NBA Western Conference - Western Conference Winner,Memphis Grizzlies,0.016700000000000007,0.1,0.0833
 2022-07-17 22:02:57.422109,NBA Season Props - 2022/23 NBA Awards - 2022/23 The Rookie of the Year,Paolo Banchero,0.016699999999999993,0.2667,0.25
+2022-07-18 06:03:24.373948,Home Run Derby - 2022 Home Run Derby - Player To Hit Most Derby Home Runs,Pete Alonso,0.016699999999999993,0.2667,0.25
 2022-07-18 00:03:56.141147,MLB Futures - MLB 2022 National League - NL Winner,San Francisco Giants,0.0157,0.0435,0.0278
 2022-07-18 04:03:43.972561,NFC West - 2022/2023 NFC West - 49ers Division Finishing Position,1st,0.015400000000000025,0.4,0.3846
 2022-07-17 22:02:59.388173,Big Brother - Big Brother 24 - America's Favorite HouseGuest,Taylor Hale,0.015100000000000002,0.1818,0.1667
 2022-07-17 19:02:43.740628,Barracuda Championship - 2/3 Balls - Final Round 2 Balls - H. Higgs vs M. McNealy - Final Round 2 Balls,Maverick McNealy,0.014900000000000024,0.6923,0.6774
 2022-07-18 03:02:43.832464,UEFA Women's Euro 2022 - European Championship Women 2022 - Winner,Germany (W),0.01469999999999999,0.25,0.2353
+2022-07-18 06:03:24.386457,Home Run Derby - 2022 Home Run Derby - Player To Hit Most Derby Home Runs in Round 1,Pete Alonso,0.01469999999999999,0.25,0.2353
 2022-07-18 03:02:39.214797,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Baltimore Ravens,Yes,0.014200000000000101,0.6296,0.6154
-2022-07-17 22:02:57.360034,NBA Season Props - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Jayson Tatum,0.013999999999999999,0.0909,0.0769
 2022-07-17 20:02:40.527537,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,Clemson,0.013999999999999999,0.0909,0.0769
+2022-07-17 22:02:57.360034,NBA Season Props - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Jayson Tatum,0.013999999999999999,0.0909,0.0769
 2022-07-18 04:03:44.409844,MLB Futures - MLB 2022 Amercian League - AL Winner,Toronto Blue Jays,0.013899999999999996,0.125,0.1111
+2022-07-18 06:03:24.189127,Home Run Derby - 2022 Home Run Derby - To Win Home Run Derby,Kyle Schwarber,0.0131,0.2353,0.2222
 2022-07-18 05:02:56.289390,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Minnesota Vikings,Over 10,0.012299999999999978,0.3571,0.3448
 2022-07-17 22:02:58.677298,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Cooper Hjerpe vs Gabriel Hughes - Proposition,Cooper Hjerpe,0.012199999999999989,0.5122,0.5
 2022-07-17 21:04:08.957445,NBA Futures - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Toronto Raptors,0.011899999999999994,0.0833,0.0714
 2022-07-17 21:04:08.957445,NBA Futures - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Brooklyn Nets,0.011899999999999994,0.0833,0.0714
 2022-07-18 03:02:39.258145,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Detroit Lions,Yes,0.011700000000000016,0.2222,0.2105
 2022-07-18 03:02:39.677735,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Carolina Panthers,Over 6.5,0.011600000000000055,0.5238,0.5122
+2022-07-18 06:03:24.419239,Home Run Derby - 2022 Home Run Derby - Round 1 - Alonso v Acuna Jr.,Pete Alonso,0.011499999999999955,0.6667,0.6552
 2022-07-17 22:02:57.886716,Home Run Derby - 2022 Home Run Derby - To Win Home Run Derby,Julio Rodriguez,0.011099999999999999,0.1111,0.1
 2022-07-18 03:02:43.832464,UEFA Women's Euro 2022 - European Championship Women 2022 - Winner,England (W),0.011099999999999999,0.2778,0.2667
 2022-07-17 21:04:08.957445,NBA Futures - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Philadelphia 76ers,0.010899999999999993,0.1538,0.1429
+2022-07-18 06:03:24.189127,Home Run Derby - 2022 Home Run Derby - To Win Home Run Derby,Juan Soto,0.010899999999999993,0.1538,0.1429
+2022-07-18 06:03:24.450138,Home Run Derby - 2022 Home Run Derby - Round 1 - Seager v Rodriguez,Corey Seager,0.010599999999999998,0.4651,0.4545
 2022-07-17 22:02:57.571528,NBA Futures - 2022-2023 NBA Southwest Division - Southwest Division Winner,Dallas Mavericks,0.010599999999999998,0.4651,0.4545
 2022-07-18 05:03:05.241450,Home Run Derby - 2022 Home Run Derby - Round 1 - Schwarber v Pujols,Kyle Schwarber,0.010500000000000065,0.8,0.7895
+2022-07-18 06:03:24.543328,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Julio Rodriguez,Over 24.5,0.010099999999999998,0.5556,0.5455
+2022-07-18 06:03:24.283495,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Juan Soto,Over 470.5 Feet,0.010099999999999998,0.5556,0.5455
+2022-07-18 06:03:24.589305,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Ronald Acuna Jr..,Over 22.5,0.010099999999999998,0.5556,0.5455
 2022-07-17 22:02:58.142224,Home Run Derby - 2022 Home Run Derby - To Make The Finals,Pete Alonso,0.010099999999999998,0.5556,0.5455
+2022-07-18 06:03:24.269063,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Jose Ramirez,Over 451.5 Feet,0.010099999999999998,0.5556,0.5455
+2022-07-18 06:03:24.242530,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Albert Pujols,Under 459.5 Feet,0.010099999999999998,0.5556,0.5455
+2022-07-18 06:03:24.339139,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Ronald Acuna Jr..,Under 481.5 Feet,0.010099999999999998,0.5556,0.5455
 2022-07-18 03:02:39.318745,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Minnesota Vikings,Yes,0.010099999999999998,0.5556,0.5455
+2022-07-18 06:03:24.300028,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Julio Rodriguez,Over 465.5 Feet,0.010099999999999998,0.5556,0.5455
+2022-07-18 06:03:24.529788,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Juan Soto,Over 33.5,0.010099999999999998,0.5556,0.5455
+2022-07-18 06:03:24.517191,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Jose Ramirez,Over 19.5,0.010099999999999998,0.5556,0.5455
+2022-07-18 06:03:24.504239,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Corey Seager,Under 29.5,0.010099999999999998,0.5556,0.5455
 2022-07-18 03:02:39.677735,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Carolina Panthers,Under 6.5,-0.010099999999999998,0.5455,0.5556
-2022-07-18 04:03:43.836104,NFC North - 2022/2023 NFC North - Bears Division Finishing Position,1st,-0.0102,0.0667,0.0769
 2022-07-17 22:02:57.388768,NBA Season Props - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Jason Kidd,-0.0102,0.0667,0.0769
+2022-07-18 04:03:43.836104,NFC North - 2022/2023 NFC North - Bears Division Finishing Position,1st,-0.0102,0.0667,0.0769
 2022-07-17 22:02:57.402999,NBA Season Props - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Rudy Gobert,-0.010499999999999982,0.2,0.2105
+2022-07-18 06:03:24.517191,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Jose Ramirez,Under 19.5,-0.010699999999999932,0.5348,0.5455
+2022-07-18 06:03:24.242530,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Albert Pujols,Over 459.5 Feet,-0.010699999999999932,0.5348,0.5455
+2022-07-18 06:03:24.603412,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs All Players Combined (All Rounds),Under 250.5,-0.010699999999999932,0.5348,0.5455
+2022-07-18 06:03:24.269063,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Jose Ramirez,Under 451.5 Feet,-0.010699999999999932,0.5348,0.5455
+2022-07-18 06:03:24.589305,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Ronald Acuna Jr..,Under 22.5,-0.010699999999999932,0.5348,0.5455
+2022-07-18 06:03:24.570363,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Pete Alonso,Under 38.5,-0.010699999999999932,0.5348,0.5455
+2022-07-18 06:03:24.543328,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Julio Rodriguez,Under 24.5,-0.010699999999999932,0.5348,0.5455
+2022-07-18 06:03:24.529788,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Juan Soto,Under 33.5,-0.010699999999999932,0.5348,0.5455
+2022-07-18 06:03:24.504239,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Corey Seager,Over 29.5,-0.010699999999999932,0.5348,0.5455
+2022-07-18 06:03:24.283495,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Juan Soto,Under 470.5 Feet,-0.010699999999999932,0.5348,0.5455
+2022-07-18 06:03:24.300028,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Julio Rodriguez,Under 465.5 Feet,-0.010699999999999932,0.5348,0.5455
+2022-07-18 06:03:24.339139,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Ronald Acuna Jr..,Over 481.5 Feet,-0.010699999999999932,0.5348,0.5455
 2022-07-18 04:03:44.409844,MLB Futures - MLB 2022 Amercian League - AL Winner,Houston Astros,-0.010699999999999987,0.3226,0.3333
 2022-07-18 03:02:39.365589,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Seattle Seahawks,No,-0.010700000000000043,0.875,0.8857
 2022-07-18 03:02:39.258145,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Detroit Lions,No,-0.01090000000000002,0.8462,0.8571
 2022-07-18 05:03:05.241450,Home Run Derby - 2022 Home Run Derby - Round 1 - Schwarber v Pujols,Albert Pujols,-0.011099999999999999,0.2667,0.2778
 2022-07-17 21:04:09.013204,NBA Futures - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,-0.011099999999999999,0.1,0.1111
 2022-07-18 04:03:41.457727,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Detroit Lions,Under 6.5,-0.011099999999999999,0.4651,0.4762
-2022-07-18 04:03:44.185398,Home Run Derby - 2022 Home Run Derby - Exact Result,Corey Seager beats Kyle Schwarber,-0.011199999999999995,0.0476,0.0588
 2022-07-18 04:03:44.185398,Home Run Derby - 2022 Home Run Derby - Exact Result,Juan Soto beats Ronald Acuna Jr.,-0.011199999999999995,0.0476,0.0588
+2022-07-18 04:03:44.185398,Home Run Derby - 2022 Home Run Derby - Exact Result,Corey Seager beats Kyle Schwarber,-0.011199999999999995,0.0476,0.0588
 2022-07-18 03:02:39.292818,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Las Vegas Raiders,No,-0.011499999999999955,0.6552,0.6667
 2022-07-18 04:03:43.972561,NFC West - 2022/2023 NFC West - 49ers Division Finishing Position,2nd,-0.01150000000000001,0.3333,0.3448
 2022-07-18 03:02:39.318745,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Minnesota Vikings,No,-0.011600000000000055,0.5122,0.5238
 2022-07-18 04:03:43.883919,NFC North - 2022/2023 NFC North - Vikings Division Finishing Position,1st,-0.011699999999999988,0.274,0.2857
+2022-07-18 06:03:24.386457,Home Run Derby - 2022 Home Run Derby - Player To Hit Most Derby Home Runs in Round 1,Ronald Acuna Jr..,-0.011700000000000016,0.2105,0.2222
 2022-07-18 05:02:56.289390,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Minnesota Vikings,Under 10,-0.0121,0.7101,0.7222
 2022-07-18 04:03:41.560488,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Pittsburgh Steelers,Under 7.5,-0.012199999999999989,0.5,0.5122
-2022-07-18 03:02:39.690370,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Cincinnati Bengals,Under 10,-0.012199999999999989,0.4878,0.5
 2022-07-18 04:03:41.476159,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Indianapolis Colts,Under 10,-0.012199999999999989,0.4878,0.5
+2022-07-18 03:02:39.690370,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Cincinnati Bengals,Under 10,-0.012199999999999989,0.4878,0.5
 2022-07-17 22:02:57.886716,Home Run Derby - 2022 Home Run Derby - To Win Home Run Derby,Kyle Schwarber,-0.0131,0.2222,0.2353
+2022-07-18 06:03:24.215488,Home Run Derby - 2022 Home Run Derby - Exact Result,Kyle Schwarber beats Pete Alonso,-0.013899999999999996,0.1111,0.125
 2022-07-17 22:02:57.360034,NBA Season Props - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Kevin Durant,-0.013999999999999999,0.0769,0.0909
 2022-07-17 19:02:43.740628,Barracuda Championship - 2/3 Balls - Final Round 2 Balls - H. Higgs vs M. McNealy - Final Round 2 Balls,Harry Higgs,-0.01419999999999999,0.3704,0.3846
+2022-07-18 06:03:24.215488,Home Run Derby - 2022 Home Run Derby - Exact Result,Kyle Schwarber beats Ronald Acuna Jr.,-0.014399999999999996,0.0625,0.0769
 2022-07-18 04:03:43.972561,NFC West - 2022/2023 NFC West - 49ers Division Finishing Position,3rd,-0.016699999999999993,0.25,0.2667
 2022-07-17 19:02:44.209251,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Jacob Berry vs Gavin Cross - Proposition,Gavin Cross,-0.017600000000000005,0.3333,0.3509
 2022-07-17 21:04:08.906416,NBA Futures - 2022-2023 NBA Championship  - 2022-2023 NBA Championship Winner,Milwaukee Bucks,-0.0179,0.125,0.1429
+2022-07-18 06:03:24.189127,Home Run Derby - 2022 Home Run Derby - To Win Home Run Derby,Ronald Acuna Jr..,-0.0179,0.125,0.1429
 2022-07-18 04:03:44.185398,Home Run Derby - 2022 Home Run Derby - Exact Result,Kyle Schwarber beats Corey Seager,-0.018099999999999998,0.0588,0.0769
 2022-07-18 04:03:44.185398,Home Run Derby - 2022 Home Run Derby - Exact Result,Kyle Schwarber beats Julio Rodriguez,-0.018099999999999998,0.0588,0.0769
 2022-07-17 22:02:59.388173,Big Brother - Big Brother 24 - America's Favorite HouseGuest,Michael Bruner,-0.01820000000000002,0.1818,0.2
 2022-07-17 22:02:58.142224,Home Run Derby - 2022 Home Run Derby - To Make The Finals,Kyle Schwarber,-0.018900000000000028,0.4255,0.4444
-2022-07-17 21:04:12.172034,MLB Specials - 2022 MLB Draft - Druw Jones Draft Position - Proposition,Over 1.5,-0.019000000000000017,0.8667,0.8857
 2022-07-17 22:02:58.439998,MLB Specials - 2022 MLB Draft - 1st Overall Pick - Proposition,Brooks Lee,-0.019000000000000017,0.2667,0.2857
+2022-07-17 21:04:12.172034,MLB Specials - 2022 MLB Draft - Druw Jones Draft Position - Proposition,Over 1.5,-0.019000000000000017,0.8667,0.8857
 2022-07-18 03:02:39.214797,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Baltimore Ravens,No,-0.019699999999999995,0.4348,0.4545
 2022-07-17 22:02:57.360034,NBA Season Props - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Joel Embiid,-0.02049999999999999,0.1333,0.1538
 2022-07-17 22:02:58.498151,MLB Specials - 2022 MLB Draft - Druw Jones Draft Position - Proposition,Over 1.5,-0.020500000000000074,0.8462,0.8667
@@ -104,8 +142,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-17 19:02:44.224153,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Peyton Graham vs Cayden Wallace - Proposition,Cayden Wallace,-0.02739999999999998,0.2667,0.2941
 2022-07-17 21:03:56.726977,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Ron DeSantis,-0.02779999999999999,0.2222,0.25
 2022-07-17 22:02:58.439998,MLB Specials - 2022 MLB Draft - 1st Overall Pick - Proposition,Termarr Johnson,-0.027800000000000047,0.75,0.7778
-2022-07-17 22:02:58.580256,MLB Specials - 2022 MLB Draft - Justin Crawford Draft Position - Proposition,Over 13.5,-0.030299999999999994,0.6667,0.697
 2022-07-18 04:03:43.776755,NFC East - 2022/2023 NFC East - Cowboys Division Finishing Position,2nd,-0.030299999999999994,0.3333,0.3636
+2022-07-17 22:02:58.580256,MLB Specials - 2022 MLB Draft - Justin Crawford Draft Position - Proposition,Over 13.5,-0.030299999999999994,0.6667,0.697
+2022-07-18 06:03:24.202280,Home Run Derby - 2022 Home Run Derby - Exact Finals Matchup,Kyle Schwarber v Pete Alonso,-0.031399999999999983,0.2353,0.2667
+2022-07-18 06:03:24.314160,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Kyle Schwarber,Under 477.5 Feet,-0.033299999999999996,0.5122,0.5455
+2022-07-18 06:03:24.327534,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Pete Alonso,Under 468.5 Feet,-0.033299999999999996,0.5122,0.5455
 2022-07-18 04:03:44.477535,MLB Futures - MLB 2022 National League West - NLW Winner,San Diego Padres,-0.03330000000000001,0.0667,0.1
 2022-07-17 19:02:43.983072,Home Run Derby - 2022 Home Run Derby - Round 1 - Schwarber v Pujols,Kyle Schwarber,-0.03420000000000001,0.7436,0.7778
 2022-07-17 21:04:08.957445,NBA Futures - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Milwaukee Bucks,-0.03570000000000001,0.25,0.2857
@@ -113,10 +154,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-17 20:02:41.317223,College Season Props - 2022 - Regular Season Wins - USC - Proposition,Over 9.5,-0.043399999999999994,0.5122,0.5556
 2022-07-17 19:02:44.153994,MLB Specials - 2022 MLB Draft - Zach Neto Draft Position - Proposition,Over 12.5,-0.05070000000000002,0.4255,0.4762
 2022-07-17 19:02:44.216698,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Kumar Rocker vs Carson Whisenhunt - Proposition,Carson Whisenhunt,-0.059099999999999986,0.2857,0.3448
-2022-07-17 19:02:44.128412,MLB Specials - 2022 MLB Draft - Jackson Holliday Draft Position - Proposition,Under 1.5,-0.0642,0.1176,0.1818
 2022-07-17 19:02:44.083641,MLB Specials - 2022 MLB Draft - 1st Overall Pick - Proposition,Jackson Holliday,-0.0642,0.1176,0.1818
+2022-07-17 19:02:44.128412,MLB Specials - 2022 MLB Draft - Jackson Holliday Draft Position - Proposition,Under 1.5,-0.0642,0.1176,0.1818
 2022-07-18 04:03:44.296031,Home Run Derby - 2022 Home Run Derby - Round 1 - Schwarber v Pujols,Albert Pujols,-0.067,0.2778,0.3448
 2022-07-18 04:03:44.302856,Home Run Derby - 2022 Home Run Derby - Round 1 - Seager v Rodriguez,Corey Seager,-0.06930000000000003,0.4545,0.5238
-2022-07-17 19:02:44.105562,MLB Specials - 2022 MLB Draft - Druw Jones Draft Position - Proposition,Under 1.5,-0.07460000000000003,0.1818,0.2564
 2022-07-17 19:02:44.083641,MLB Specials - 2022 MLB Draft - 1st Overall Pick - Proposition,Druw Jones,-0.07460000000000003,0.1818,0.2564
+2022-07-17 19:02:44.105562,MLB Specials - 2022 MLB Draft - Druw Jones Draft Position - Proposition,Under 1.5,-0.07460000000000003,0.1818,0.2564
+2022-07-18 06:03:24.603412,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs All Players Combined (All Rounds),Over 250.5,-0.3627,0.5556,0.9183
 2022-07-17 19:02:44.083641,MLB Specials - 2022 MLB Draft - 1st Overall Pick - Proposition,Brooks Lee,-0.5059,0.2941,0.8
