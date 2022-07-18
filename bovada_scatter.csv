@@ -11,18 +11,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-17 14:03:42.133247,MLB Specials - 2022 MLB Draft - Zach Neto Draft Position - Proposition,Under 12.5,0.03610000000000002,0.5917,0.5556
 2022-07-17 16:02:39.980088,Big Brother - Big Brother 24 - America's Favorite HouseGuest,Taylor Hale,0.033399999999999985,0.1667,0.1333
 2022-07-17 22:02:58.580256,MLB Specials - 2022 MLB Draft - Justin Crawford Draft Position - Proposition,Under 13.5,0.029600000000000015,0.4,0.3704
-2022-07-17 13:02:40.006618,The Open Championship - 2/3 Balls - Final Round 2 Balls - A. Scott v M. Fitzpatrick - Final Round 2 Balls,Adam Scott,0.027700000000000002,0.4444,0.4167
 2022-07-17 19:02:44.224153,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Peyton Graham vs Cayden Wallace - Proposition,Peyton Graham,0.02729999999999999,0.8,0.7727
 2022-07-17 14:03:42.077513,MLB Specials - 2022 MLB Draft - Justin Crawford Draft Position - Proposition,Under 13.5,0.02560000000000001,0.3704,0.3448
-2022-07-17 22:02:58.498151,MLB Specials - 2022 MLB Draft - Druw Jones Draft Position - Proposition,Under 1.5,0.022199999999999998,0.2222,0.2
-2022-07-17 14:03:42.278920,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Elijah Green vs Jackson Holliday - Proposition,Elijah Green,0.022199999999999998,0.2222,0.2
 2022-07-17 22:02:58.439998,MLB Specials - 2022 MLB Draft - 1st Overall Pick - Proposition,Druw Jones,0.022199999999999998,0.2222,0.2
+2022-07-17 14:03:42.278920,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Elijah Green vs Jackson Holliday - Proposition,Elijah Green,0.022199999999999998,0.2222,0.2
+2022-07-17 22:02:58.498151,MLB Specials - 2022 MLB Draft - Druw Jones Draft Position - Proposition,Under 1.5,0.022199999999999998,0.2222,0.2
 2022-07-17 20:02:38.129908,Boxing Lines - Jake Paul vs Hasim Rahman Jr - To Win the Bout,Hasim Rahman Jr,0.019500000000000017,0.3704,0.3509
 2022-07-17 21:03:56.726977,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.019000000000000017,0.2857,0.2667
 2022-07-17 19:02:44.209251,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Jacob Berry vs Gavin Cross - Proposition,Jacob Berry,0.018999999999999906,0.7333,0.7143
+2022-07-17 21:04:12.172034,MLB Specials - 2022 MLB Draft - Druw Jones Draft Position - Proposition,Under 1.5,0.01820000000000002,0.2,0.1818
 2022-07-17 22:02:57.571528,NBA Futures - 2022-2023 NBA Southwest Division - Southwest Division Winner,New Orleans Pelicans,0.01820000000000002,0.2,0.1818
 2022-07-17 21:04:12.003196,MLB Specials - 2022 MLB Draft - 1st Overall Pick - Proposition,Druw Jones,0.01820000000000002,0.2,0.1818
-2022-07-17 21:04:12.172034,MLB Specials - 2022 MLB Draft - Druw Jones Draft Position - Proposition,Under 1.5,0.01820000000000002,0.2,0.1818
 2022-07-17 14:03:42.297149,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Jacob Berry vs Gavin Cross - Proposition,Jacob Berry,0.017300000000000093,0.7143,0.697
 2022-07-17 14:03:41.950330,MLB Specials - 2022 MLB Draft - Daniel Susac Draft Position - Proposition,Over 17.5,0.017299999999999982,0.4255,0.4082
 2022-07-17 19:02:44.176511,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Chase DeLauter vs Jordan Beck - Proposition,Chase DeLauter,0.016700000000000048,0.75,0.7333
@@ -31,8 +30,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-18 00:03:56.141147,MLB Futures - MLB 2022 National League - NL Winner,San Francisco Giants,0.0157,0.0435,0.0278
 2022-07-17 22:02:59.388173,Big Brother - Big Brother 24 - America's Favorite HouseGuest,Taylor Hale,0.015100000000000002,0.1818,0.1667
 2022-07-17 19:02:43.740628,Barracuda Championship - 2/3 Balls - Final Round 2 Balls - H. Higgs vs M. McNealy - Final Round 2 Balls,Maverick McNealy,0.014900000000000024,0.6923,0.6774
-2022-07-17 22:02:57.360034,NBA Season Props - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Jayson Tatum,0.013999999999999999,0.0909,0.0769
 2022-07-17 16:02:39.971830,Big Brother - Big Brother 24 - Odds to Win,Ameerah Jones,0.013999999999999999,0.0909,0.0769
+2022-07-17 22:02:57.360034,NBA Season Props - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Jayson Tatum,0.013999999999999999,0.0909,0.0769
 2022-07-17 20:02:40.527537,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,Clemson,0.013999999999999999,0.0909,0.0769
 2022-07-17 16:02:39.971830,Big Brother - Big Brother 24 - Odds to Win,Nicole Layog,0.013899999999999996,0.125,0.1111
 2022-07-17 14:03:42.104575,MLB Specials - 2022 MLB Draft - Kevin Parada Draft Position - Proposition,Over 4.5,0.013500000000000068,0.7468,0.7333
@@ -47,10 +46,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-17 14:03:41.668947,Home Run Derby - 2022 Home Run Derby - Round 1 - Seager v Rodriguez,Julio Rodriguez,0.010699999999999932,0.5455,0.5348
 2022-07-17 22:02:57.571528,NBA Futures - 2022-2023 NBA Southwest Division - Southwest Division Winner,Dallas Mavericks,0.010599999999999998,0.4651,0.4545
 2022-07-17 22:02:58.142224,Home Run Derby - 2022 Home Run Derby - To Make The Finals,Pete Alonso,0.010099999999999998,0.5556,0.5455
-2022-07-17 16:02:39.971830,Big Brother - Big Brother 24 - Odds to Win,Joseph Abdin,-0.0102,0.0667,0.0769
-2022-07-17 16:02:39.980088,Big Brother - Big Brother 24 - America's Favorite HouseGuest,Alyssa Snider,-0.0102,0.0667,0.0769
 2022-07-17 22:02:57.388768,NBA Season Props - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Jason Kidd,-0.0102,0.0667,0.0769
 2022-07-17 16:02:39.980088,Big Brother - Big Brother 24 - America's Favorite HouseGuest,Joseph Abdin,-0.0102,0.0667,0.0769
+2022-07-17 16:02:39.971830,Big Brother - Big Brother 24 - Odds to Win,Joseph Abdin,-0.0102,0.0667,0.0769
+2022-07-17 16:02:39.980088,Big Brother - Big Brother 24 - America's Favorite HouseGuest,Alyssa Snider,-0.0102,0.0667,0.0769
 2022-07-17 14:03:41.979465,MLB Specials - 2022 MLB Draft - Druw Jones Draft Position - Proposition,Under 1.5,-0.010299999999999976,0.2564,0.2667
 2022-07-17 22:02:57.402999,NBA Season Props - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Rudy Gobert,-0.010499999999999982,0.2,0.2105
 2022-07-17 14:03:41.668947,Home Run Derby - 2022 Home Run Derby - Round 1 - Seager v Rodriguez,Corey Seager,-0.01100000000000001,0.5238,0.5348
@@ -73,12 +72,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-17 22:02:58.439998,MLB Specials - 2022 MLB Draft - 1st Overall Pick - Proposition,Brooks Lee,-0.019000000000000017,0.2667,0.2857
 2022-07-17 14:03:42.297149,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Jacob Berry vs Gavin Cross - Proposition,Gavin Cross,-0.019500000000000017,0.3509,0.3704
 2022-07-17 22:02:57.360034,NBA Season Props - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Joel Embiid,-0.02049999999999999,0.1333,0.1538
-2022-07-17 14:03:42.278920,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Elijah Green vs Jackson Holliday - Proposition,Jackson Holliday,-0.020500000000000074,0.8462,0.8667
 2022-07-17 22:02:58.498151,MLB Specials - 2022 MLB Draft - Druw Jones Draft Position - Proposition,Over 1.5,-0.020500000000000074,0.8462,0.8667
+2022-07-17 14:03:42.278920,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Elijah Green vs Jackson Holliday - Proposition,Jackson Holliday,-0.020500000000000074,0.8462,0.8667
 2022-07-17 19:02:44.176511,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Chase DeLauter vs Jordan Beck - Proposition,Jordan Beck,-0.020799999999999985,0.3125,0.3333
 2022-07-17 22:02:57.571528,NBA Futures - 2022-2023 NBA Southwest Division - Southwest Division Winner,Memphis Grizzlies,-0.024399999999999977,0.4878,0.5122
 2022-07-17 14:03:42.077513,MLB Specials - 2022 MLB Draft - Justin Crawford Draft Position - Proposition,Over 13.5,-0.0252,0.697,0.7222
-2022-07-17 13:02:40.006618,The Open Championship - 2/3 Balls - Final Round 2 Balls - A. Scott v M. Fitzpatrick - Final Round 2 Balls,Matthew Fitzpatrick,-0.026499999999999968,0.6226,0.6491
 2022-07-17 19:02:44.224153,MLB Specials - 2022 MLB Draft - 1st to Be Drafted: Peyton Graham vs Cayden Wallace - Proposition,Cayden Wallace,-0.02739999999999998,0.2667,0.2941
 2022-07-17 21:03:56.726977,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Ron DeSantis,-0.02779999999999999,0.2222,0.25
 2022-07-17 22:02:58.439998,MLB Specials - 2022 MLB Draft - 1st Overall Pick - Proposition,Termarr Johnson,-0.027800000000000047,0.75,0.7778
