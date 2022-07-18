@@ -29,6 +29,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-18 04:03:44.409844,MLB Futures - MLB 2022 Amercian League - AL Winner,Chicago White Sox,0.0448,0.0833,0.0385
 2022-07-18 14:04:04.974510,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Albert Pujols,Under 459.5 Feet,0.044399999999999995,0.6,0.5556
 2022-07-18 10:02:29.950988,Superligaen - Denmark Superligaen 2022/23 - Outright,Brøndby IF,0.04240000000000001,0.1333,0.0909
+2022-07-18 15:02:44.162311,Home Run Derby - 2022 Home Run Derby - Requested Specials,Julio Rodriguez and Albert Pujols to Each Win in the First Round,0.04240000000000001,0.16,0.1176
 2022-07-18 10:02:29.916944,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Tigres UANL,0.04169999999999999,0.1667,0.125
 2022-07-18 10:02:21.955454,UK Politics - Next Conservative Leader - Conservative Party Leader,Rishi Sunak,0.04139999999999999,0.4762,0.4348
 2022-07-18 11:04:36.150658,MLS - MLS Cup 2022 - Top Goalscorer,Valentin Castellanos,0.04040000000000002,0.2222,0.1818
@@ -37,6 +38,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-18 09:03:19.799938,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Sandy Alcantara,0.037800000000000056,0.5833,0.5455
 2022-07-18 12:04:50.186009,MLB Futures - MLB 2022 Player Awards - National League MVP ,Paul Goldschmidt,0.03480000000000005,0.5348,0.5
 2022-07-18 04:03:44.419798,MLB Futures - MLB 2022 National League - NL Winner,Milwaukee Brewers,0.03420000000000001,0.1111,0.0769
+2022-07-18 16:02:58.861798,Eliteserien - Norway Eliteserien 2022 - Outright,Lillestrøm SK,0.03370000000000001,0.3846,0.3509
 2022-07-18 14:04:05.210839,Home Run Derby - 2022 Home Run Derby - To Make The Finals,Jose Ramirez,0.033399999999999985,0.1667,0.1333
 2022-07-18 14:04:05.130582,Home Run Derby - 2022 Home Run Derby - Player To Hit Most Derby Home Runs in Round 1,Julio Rodriguez,0.033399999999999985,0.1667,0.1333
 2022-07-18 13:03:42.255203,NBA Season Props - 2022/23 NBA Awards - 2022/23 The Rookie of the Year,Keegan Murray,0.033300000000000024,0.2,0.1667
@@ -59,10 +61,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-18 14:04:05.036701,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Kyle Schwarber,Over 477.5 Feet,0.025599999999999956,0.6,0.5744
 2022-07-18 12:04:50.137868,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Jeremy Pena,0.025300000000000003,0.1429,0.1176
 2022-07-18 04:03:44.185398,Home Run Derby - 2022 Home Run Derby - Exact Result,Pete Alonso beats Kyle Schwarber,0.025300000000000003,0.1429,0.1176
-2022-07-18 04:03:44.185398,Home Run Derby - 2022 Home Run Derby - Exact Result,Kyle Schwarber beats Pete Alonso,0.024999999999999994,0.125,0.1
 2022-07-18 12:04:50.209416,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Oneil Cruz,0.024999999999999994,0.125,0.1
-2022-07-18 12:04:50.041297,MLB Futures - MLB 2022 National League West - NLW Winner,San Diego Padres,0.0242,0.0909,0.0667
+2022-07-18 04:03:44.185398,Home Run Derby - 2022 Home Run Derby - Exact Result,Kyle Schwarber beats Pete Alonso,0.024999999999999994,0.125,0.1
 2022-07-18 09:03:33.337211,UEFA Women's Euro 2022 - European Championship Women 2022 - Top Goalscorer,Alexandra Popp,0.0242,0.0909,0.0667
+2022-07-18 12:04:50.041297,MLB Futures - MLB 2022 National League West - NLW Winner,San Diego Padres,0.0242,0.0909,0.0667
+2022-07-18 16:02:58.861798,Eliteserien - Norway Eliteserien 2022 - Outright,Molde FK,0.023800000000000043,0.5238,0.5
 2022-07-18 12:04:47.181220,UK Politics - Next Conservative Leader - Conservative Party Leader,Rishi Sunak,0.023799999999999988,0.5,0.4762
 2022-07-18 06:03:24.215488,Home Run Derby - 2022 Home Run Derby - Exact Result,Pete Alonso beats Kyle Schwarber,0.023799999999999988,0.1667,0.1429
 2022-07-18 14:04:05.156247,Home Run Derby - 2022 Home Run Derby - Round 1 - Alonso v Acuna Jr.,Ronald Acuna Jr..,0.02360000000000001,0.4082,0.3846
@@ -73,27 +76,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-18 08:03:26.285723,Home Run Derby - 2022 Home Run Derby - Exact Finals Matchup,Juan Soto v Julio Rodriguez,0.0208,0.0833,0.0625
 2022-07-18 04:03:44.399406,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Milwaukee Brewers,0.0203,0.0588,0.0385
 2022-07-18 10:02:30.305383,2022 Copa América Femenina - 2022 Copa America Femenina - Winner,Paraguay (W),0.019800000000000005,0.0476,0.0278
+2022-07-18 05:03:05.341198,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Albert Pujols,Under 18.5,0.01970000000000005,0.5652,0.5455
 2022-07-18 12:04:50.364772,MLB Regular Season Props - MLB 2022 Regular Season Props - Boston Red Sox To Make The Playoffs,Yes,0.01970000000000005,0.5652,0.5455
 2022-07-18 14:04:05.321805,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Kyle Schwarber,Over 38.5,0.01970000000000005,0.5652,0.5455
-2022-07-18 05:03:05.341198,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Albert Pujols,Under 18.5,0.01970000000000005,0.5652,0.5455
 2022-07-18 04:03:43.836104,NFC North - 2022/2023 NFC North - Bears Division Finishing Position,4th,0.019699999999999995,0.4545,0.4348
 2022-07-18 10:02:30.083734,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Godoy Cruz,0.019099999999999992,0.0667,0.0476
 2022-07-18 13:03:42.255203,NBA Season Props - 2022/23 NBA Awards - 2022/23 The Rookie of the Year,Paolo Banchero,0.019000000000000017,0.2857,0.2667
 2022-07-18 12:04:50.245087,MLB Futures - MLB 2022 League Leaders - Most Home Runs in 2022,Pete Alonso,0.019000000000000003,0.0625,0.0435
 2022-07-18 14:04:05.305623,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Julio Rodriguez,Over 24.5,0.01880000000000004,0.5744,0.5556
-2022-07-18 14:04:05.344504,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Pete Alonso,Over 38.5,0.01880000000000004,0.5744,0.5556
 2022-07-18 14:04:05.370709,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Ronald Acuna Jr..,Over 22.5,0.01880000000000004,0.5744,0.5556
+2022-07-18 14:04:05.344504,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Pete Alonso,Over 38.5,0.01880000000000004,0.5744,0.5556
 2022-07-18 10:02:29.916944,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,CF Pachuca,0.01820000000000002,0.2,0.1818
 2022-07-18 12:04:50.209416,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Nolan Gorman,0.018099999999999998,0.0769,0.0588
-2022-07-18 10:02:29.916944,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Atlas FC,0.0179,0.1429,0.125
 2022-07-18 10:02:27.975428,MLS - MLS Cup 2022 - Winner,New York City FC,0.0179,0.1429,0.125
 2022-07-18 10:02:29.916944,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,CF Monterrey,0.0179,0.1429,0.125
+2022-07-18 10:02:29.916944,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Atlas FC,0.0179,0.1429,0.125
 2022-07-18 05:03:04.806645,Home Run Derby - 2022 Home Run Derby - To Win Home Run Derby,Pete Alonso,0.017600000000000005,0.3509,0.3333
 2022-07-18 10:02:27.975428,MLS - MLS Cup 2022 - Winner,Los Angeles FC,0.0174,0.25,0.2326
 2022-07-18 06:03:24.373948,Home Run Derby - 2022 Home Run Derby - Player To Hit Most Derby Home Runs,Pete Alonso,0.016699999999999993,0.2667,0.25
-2022-07-18 14:04:05.049741,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Pete Alonso,Over 468.5 Feet,0.016699999999999937,0.6,0.5833
 2022-07-18 14:04:05.012002,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Juan Soto,Over 470.5 Feet,0.016699999999999937,0.6,0.5833
 2022-07-18 10:02:30.067834,Superettan - Swedish Superettan 2022 - Outright,Halmstads BK,0.016699999999999937,0.6,0.5833
+2022-07-18 14:04:05.049741,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Pete Alonso,Over 468.5 Feet,0.016699999999999937,0.6,0.5833
 2022-07-18 04:03:43.972561,NFC West - 2022/2023 NFC West - 49ers Division Finishing Position,1st,0.015400000000000025,0.4,0.3846
 2022-07-18 10:02:28.018824,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Atlético Mineiro,0.015400000000000025,0.4,0.3846
 2022-07-18 09:03:18.138975,Boxing Lines - Saul 'Canelo' Alvarez vs Gennady Golovkin - To Win the Bout,Gennady Golovkin,0.015400000000000025,0.2564,0.241
@@ -107,51 +110,51 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-18 12:04:50.121967,MLB Futures - MLB 2022 Player Awards - American League MVP,Jose Ramirez,0.014099999999999998,0.0385,0.0244
 2022-07-18 12:04:50.121967,MLB Futures - MLB 2022 Player Awards - American League MVP,Yordan Álvarez,0.013999999999999999,0.0909,0.0769
 2022-07-18 10:02:30.083734,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Gimnasia La Plata,0.013999999999999999,0.0909,0.0769
-2022-07-18 04:03:44.409844,MLB Futures - MLB 2022 Amercian League - AL Winner,Toronto Blue Jays,0.013899999999999996,0.125,0.1111
 2022-07-18 13:03:42.255203,NBA Season Props - 2022/23 NBA Awards - 2022/23 The Rookie of the Year,Jaden Ivey,0.013899999999999996,0.125,0.1111
 2022-07-18 10:02:30.083734,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Newell's Old Boys,0.013899999999999996,0.125,0.1111
+2022-07-18 04:03:44.409844,MLB Futures - MLB 2022 Amercian League - AL Winner,Toronto Blue Jays,0.013899999999999996,0.125,0.1111
 2022-07-18 09:03:18.043443,Boxing Lines - Chris Billam-Smith vs Isaac Chamberlain - To Win the Bout,Isaac Chamberlain,0.013500000000000012,0.4167,0.4032
-2022-07-18 06:03:24.189127,Home Run Derby - 2022 Home Run Derby - To Win Home Run Derby,Kyle Schwarber,0.0131,0.2353,0.2222
 2022-07-18 12:04:50.209416,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Juan Yepez,0.0131,0.0476,0.0345
+2022-07-18 06:03:24.189127,Home Run Derby - 2022 Home Run Derby - To Win Home Run Derby,Kyle Schwarber,0.0131,0.2353,0.2222
 2022-07-18 10:02:30.083734,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Boca Juniors,0.012899999999999995,0.1667,0.1538
 2022-07-18 09:03:19.615401,MLB Futures - MLB 2022 American League Central - ALC Winner,Cleveland Guardians,0.012899999999999995,0.1667,0.1538
 2022-07-18 10:02:29.916944,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Club América,0.012899999999999995,0.1667,0.1538
 2022-07-18 12:04:50.245087,MLB Futures - MLB 2022 League Leaders - Most Home Runs in 2022,Vladimir Guerrero Jr.,0.012800000000000002,0.0244,0.0116
 2022-07-18 12:04:50.041297,MLB Futures - MLB 2022 National League West - NLW Winner,San Francisco Giants,0.012700000000000003,0.0323,0.0196
-2022-07-18 05:02:56.289390,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Minnesota Vikings,Over 10,0.012299999999999978,0.3571,0.3448
 2022-07-18 14:04:05.198522,Home Run Derby - 2022 Home Run Derby - Round 1 - Soto v Ramirez,Juan Soto,0.012299999999999978,0.6552,0.6429
+2022-07-18 05:02:56.289390,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Minnesota Vikings,Over 10,0.012299999999999978,0.3571,0.3448
 2022-07-18 09:03:19.747682,MLB Futures - MLB 2022 Player Awards - American League Cy Young Award,Shane McClanahan,0.01150000000000001,0.3448,0.3333
 2022-07-18 06:03:24.419239,Home Run Derby - 2022 Home Run Derby - Round 1 - Alonso v Acuna Jr.,Pete Alonso,0.011499999999999955,0.6667,0.6552
 2022-07-18 12:04:49.941730,MLB Futures - MLB 2022 American League East - ALE Winner,Tampa Bay Rays,0.011200000000000002,0.0244,0.0132
 2022-07-18 10:02:29.916944,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Pumas UNAM,0.011199999999999995,0.0588,0.0476
 2022-07-18 10:02:30.305383,2022 Copa América Femenina - 2022 Copa America Femenina - Winner,Venezuela (W),0.011199999999999995,0.0588,0.0476
+2022-07-18 09:03:19.818488,MLB Futures - MLB 2022 Player Awards - National League MVP ,Manny Machado,0.010899999999999993,0.1538,0.1429
 2022-07-18 09:03:33.319141,UEFA Women's Euro 2022 - European Championship Women 2022 - Winner,Sweden (W),0.010899999999999993,0.1538,0.1429
 2022-07-18 06:03:24.189127,Home Run Derby - 2022 Home Run Derby - To Win Home Run Derby,Juan Soto,0.010899999999999993,0.1538,0.1429
-2022-07-18 09:03:19.818488,MLB Futures - MLB 2022 Player Awards - National League MVP ,Manny Machado,0.010899999999999993,0.1538,0.1429
 2022-07-18 09:03:19.317195,Home Run Derby - 2022 Home Run Derby - Round 1 - Alonso v Acuna Jr.,Pete Alonso,0.010700000000000043,0.6774,0.6667
 2022-07-18 12:04:50.093864,MLB Futures - MLB 2022 Player Awards - American League Cy Young Award,Nestor Cortes,0.010700000000000001,0.0385,0.0278
 2022-07-18 12:04:50.137868,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Adley Rutschman,0.010700000000000001,0.0385,0.0278
 2022-07-18 06:03:24.450138,Home Run Derby - 2022 Home Run Derby - Round 1 - Seager v Rodriguez,Corey Seager,0.010599999999999998,0.4651,0.4545
 2022-07-18 05:03:05.241450,Home Run Derby - 2022 Home Run Derby - Round 1 - Schwarber v Pujols,Kyle Schwarber,0.010500000000000065,0.8,0.7895
 2022-07-18 10:02:30.052034,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Malmö FF,0.010399999999999993,0.2326,0.2222
-2022-07-18 12:04:50.159468,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Joe Musgrove,0.0102,0.0769,0.0667
 2022-07-18 12:04:50.209416,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Seiya Suzuki,0.0102,0.0769,0.0667
-2022-07-18 06:03:24.242530,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Albert Pujols,Under 459.5 Feet,0.010099999999999998,0.5556,0.5455
-2022-07-18 06:03:24.269063,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Jose Ramirez,Over 451.5 Feet,0.010099999999999998,0.5556,0.5455
-2022-07-18 06:03:24.529788,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Juan Soto,Over 33.5,0.010099999999999998,0.5556,0.5455
-2022-07-18 06:03:24.300028,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Julio Rodriguez,Over 465.5 Feet,0.010099999999999998,0.5556,0.5455
-2022-07-18 06:03:24.589305,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Ronald Acuna Jr..,Over 22.5,0.010099999999999998,0.5556,0.5455
-2022-07-18 06:03:24.339139,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Ronald Acuna Jr..,Under 481.5 Feet,0.010099999999999998,0.5556,0.5455
-2022-07-18 06:03:24.570363,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Pete Alonso,Over 38.5,0.010099999999999998,0.5556,0.5455
+2022-07-18 12:04:50.159468,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Joe Musgrove,0.0102,0.0769,0.0667
 2022-07-18 06:03:24.504239,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Corey Seager,Under 29.5,0.010099999999999998,0.5556,0.5455
-2022-07-18 06:03:24.517191,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Jose Ramirez,Over 19.5,0.010099999999999998,0.5556,0.5455
-2022-07-18 06:03:24.543328,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Julio Rodriguez,Over 24.5,0.010099999999999998,0.5556,0.5455
+2022-07-18 06:03:24.300028,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Julio Rodriguez,Over 465.5 Feet,0.010099999999999998,0.5556,0.5455
 2022-07-18 06:03:24.283495,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Juan Soto,Over 470.5 Feet,0.010099999999999998,0.5556,0.5455
+2022-07-18 06:03:24.269063,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Jose Ramirez,Over 451.5 Feet,0.010099999999999998,0.5556,0.5455
+2022-07-18 06:03:24.242530,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Albert Pujols,Under 459.5 Feet,0.010099999999999998,0.5556,0.5455
+2022-07-18 06:03:24.543328,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Julio Rodriguez,Over 24.5,0.010099999999999998,0.5556,0.5455
+2022-07-18 06:03:24.589305,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Ronald Acuna Jr..,Over 22.5,0.010099999999999998,0.5556,0.5455
+2022-07-18 06:03:24.529788,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Juan Soto,Over 33.5,0.010099999999999998,0.5556,0.5455
+2022-07-18 06:03:24.517191,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Jose Ramirez,Over 19.5,0.010099999999999998,0.5556,0.5455
+2022-07-18 06:03:24.570363,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Pete Alonso,Over 38.5,0.010099999999999998,0.5556,0.5455
+2022-07-18 06:03:24.339139,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Ronald Acuna Jr..,Under 481.5 Feet,0.010099999999999998,0.5556,0.5455
 2022-07-18 14:04:04.930604,Home Run Derby - 2022 Home Run Derby - Exact Finals Matchup,Kyle Schwarber v Corey Seager,-0.010099999999999998,0.0952,0.1053
-2022-07-18 14:04:04.930604,Home Run Derby - 2022 Home Run Derby - Exact Finals Matchup,Juan Soto v Corey Seager,-0.0102,0.0667,0.0769
 2022-07-18 09:03:19.834954,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Seiya Suzuki,-0.0102,0.0667,0.0769
-2022-07-18 10:02:30.083734,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Banfield,-0.0102,0.0667,0.0769
+2022-07-18 14:04:04.930604,Home Run Derby - 2022 Home Run Derby - Exact Finals Matchup,Juan Soto v Corey Seager,-0.0102,0.0667,0.0769
 2022-07-18 10:02:29.916944,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Club León,-0.0102,0.0667,0.0769
+2022-07-18 10:02:30.083734,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Banfield,-0.0102,0.0667,0.0769
 2022-07-18 04:03:43.836104,NFC North - 2022/2023 NFC North - Bears Division Finishing Position,1st,-0.0102,0.0667,0.0769
 2022-07-18 10:02:22.600470,MLB Futures - MLB 2022 League Leaders - Most Home Runs in 2022,Rafael Devers,-0.010300000000000002,0.0141,0.0244
 2022-07-18 10:02:22.600470,MLB Futures - MLB 2022 League Leaders - Most Home Runs in 2022,Joey Gallo,-0.0104,0.0028,0.0132
@@ -159,16 +162,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-18 14:04:05.186060,Home Run Derby - 2022 Home Run Derby - Round 1 - Seager v Rodriguez,Corey Seager,-0.010599999999999998,0.4545,0.4651
 2022-07-18 09:03:19.834954,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Alek Thomas,-0.010600000000000002,0.0217,0.0323
 2022-07-18 06:03:24.269063,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Jose Ramirez,Under 451.5 Feet,-0.010699999999999932,0.5348,0.5455
-2022-07-18 06:03:24.242530,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Albert Pujols,Over 459.5 Feet,-0.010699999999999932,0.5348,0.5455
-2022-07-18 06:03:24.283495,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Juan Soto,Under 470.5 Feet,-0.010699999999999932,0.5348,0.5455
-2022-07-18 06:03:24.603412,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs All Players Combined (All Rounds),Under 250.5,-0.010699999999999932,0.5348,0.5455
-2022-07-18 06:03:24.529788,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Juan Soto,Under 33.5,-0.010699999999999932,0.5348,0.5455
-2022-07-18 06:03:24.589305,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Ronald Acuna Jr..,Under 22.5,-0.010699999999999932,0.5348,0.5455
-2022-07-18 06:03:24.300028,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Julio Rodriguez,Under 465.5 Feet,-0.010699999999999932,0.5348,0.5455
-2022-07-18 06:03:24.543328,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Julio Rodriguez,Under 24.5,-0.010699999999999932,0.5348,0.5455
-2022-07-18 06:03:24.570363,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Pete Alonso,Under 38.5,-0.010699999999999932,0.5348,0.5455
-2022-07-18 06:03:24.517191,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Jose Ramirez,Under 19.5,-0.010699999999999932,0.5348,0.5455
 2022-07-18 06:03:24.504239,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Corey Seager,Over 29.5,-0.010699999999999932,0.5348,0.5455
+2022-07-18 06:03:24.543328,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Julio Rodriguez,Under 24.5,-0.010699999999999932,0.5348,0.5455
+2022-07-18 06:03:24.283495,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Juan Soto,Under 470.5 Feet,-0.010699999999999932,0.5348,0.5455
+2022-07-18 06:03:24.529788,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Juan Soto,Under 33.5,-0.010699999999999932,0.5348,0.5455
+2022-07-18 06:03:24.300028,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Julio Rodriguez,Under 465.5 Feet,-0.010699999999999932,0.5348,0.5455
+2022-07-18 06:03:24.517191,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Jose Ramirez,Under 19.5,-0.010699999999999932,0.5348,0.5455
+2022-07-18 06:03:24.242530,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Albert Pujols,Over 459.5 Feet,-0.010699999999999932,0.5348,0.5455
+2022-07-18 06:03:24.570363,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Pete Alonso,Under 38.5,-0.010699999999999932,0.5348,0.5455
+2022-07-18 06:03:24.603412,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs All Players Combined (All Rounds),Under 250.5,-0.010699999999999932,0.5348,0.5455
+2022-07-18 06:03:24.589305,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Ronald Acuna Jr..,Under 22.5,-0.010699999999999932,0.5348,0.5455
 2022-07-18 06:03:24.339139,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Ronald Acuna Jr..,Over 481.5 Feet,-0.010699999999999932,0.5348,0.5455
 2022-07-18 04:03:44.409844,MLB Futures - MLB 2022 Amercian League - AL Winner,Houston Astros,-0.010699999999999987,0.3226,0.3333
 2022-07-18 10:02:22.600470,MLB Futures - MLB 2022 League Leaders - Most Home Runs in 2022,Nick Castellanos,-0.0107,0.0025,0.0132
@@ -177,15 +180,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-18 12:04:49.993656,MLB Futures - MLB 2022 National League Central - NLC Winner,Milwaukee Brewers,-0.010700000000000043,0.6667,0.6774
 2022-07-18 14:04:05.118994,Home Run Derby - 2022 Home Run Derby - Player To Hit Most Derby Home Runs,Kyle Schwarber,-0.010899999999999993,0.1429,0.1538
 2022-07-18 08:03:26.537615,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs All Players Combined (All Rounds),Under 250.5,-0.01100000000000001,0.5238,0.5348
-2022-07-18 05:03:05.241450,Home Run Derby - 2022 Home Run Derby - Round 1 - Schwarber v Pujols,Albert Pujols,-0.011099999999999999,0.2667,0.2778
-2022-07-18 10:02:28.018824,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Flamengo,-0.011099999999999999,0.1,0.1111
 2022-07-18 11:04:36.150658,MLS - MLS Cup 2022 - Top Goalscorer,Taxiarchis Fountas,-0.011099999999999999,0.1,0.1111
 2022-07-18 04:03:41.457727,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Detroit Lions,Under 6.5,-0.011099999999999999,0.4651,0.4762
-2022-07-18 09:03:19.766215,MLB Futures - MLB 2022 Player Awards - American League MVP,Mike Trout,-0.011199999999999995,0.0476,0.0588
-2022-07-18 04:03:44.185398,Home Run Derby - 2022 Home Run Derby - Exact Result,Juan Soto beats Ronald Acuna Jr.,-0.011199999999999995,0.0476,0.0588
+2022-07-18 05:03:05.241450,Home Run Derby - 2022 Home Run Derby - Round 1 - Schwarber v Pujols,Albert Pujols,-0.011099999999999999,0.2667,0.2778
+2022-07-18 10:02:28.018824,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Flamengo,-0.011099999999999999,0.1,0.1111
 2022-07-18 04:03:44.185398,Home Run Derby - 2022 Home Run Derby - Exact Result,Corey Seager beats Kyle Schwarber,-0.011199999999999995,0.0476,0.0588
-2022-07-18 10:02:29.950988,Superligaen - Denmark Superligaen 2022/23 - Outright,Aalborg BK,-0.011199999999999995,0.0323,0.0435
 2022-07-18 10:02:27.975428,MLS - MLS Cup 2022 - Winner,Nashville SC,-0.011199999999999995,0.0476,0.0588
+2022-07-18 04:03:44.185398,Home Run Derby - 2022 Home Run Derby - Exact Result,Juan Soto beats Ronald Acuna Jr.,-0.011199999999999995,0.0476,0.0588
+2022-07-18 10:02:29.950988,Superligaen - Denmark Superligaen 2022/23 - Outright,Aalborg BK,-0.011199999999999995,0.0323,0.0435
+2022-07-18 09:03:19.766215,MLB Futures - MLB 2022 Player Awards - American League MVP,Mike Trout,-0.011199999999999995,0.0476,0.0588
 2022-07-18 09:03:19.766215,MLB Futures - MLB 2022 Player Awards - American League MVP,Vladimir Guerrero Jr,-0.011399999999999997,0.0164,0.0278
 2022-07-18 04:03:43.972561,NFC West - 2022/2023 NFC West - 49ers Division Finishing Position,2nd,-0.01150000000000001,0.3333,0.3448
 2022-07-18 13:03:42.594251,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Albert Pujols,Over 18.5,-0.0116,0.4762,0.4878
@@ -203,17 +206,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-18 14:04:05.106165,Home Run Derby - 2022 Home Run Derby - Player to Hit Longest Home Run,Kyle Schwarber,-0.0131,0.2222,0.2353
 2022-07-18 14:04:04.930604,Home Run Derby - 2022 Home Run Derby - Exact Finals Matchup,Kyle Schwarber v Pete Alonso,-0.0131,0.2222,0.2353
 2022-07-18 13:03:42.467872,Home Run Derby - 2022 Home Run Derby - To Win Home Run Derby,Kyle Schwarber,-0.0131,0.2222,0.2353
-2022-07-18 06:03:24.215488,Home Run Derby - 2022 Home Run Derby - Exact Result,Kyle Schwarber beats Pete Alonso,-0.013899999999999996,0.1111,0.125
 2022-07-18 13:03:42.255203,NBA Season Props - 2022/23 NBA Awards - 2022/23 The Rookie of the Year,Jabari Smith Jr.,-0.013899999999999996,0.1111,0.125
-2022-07-18 09:03:19.766215,MLB Futures - MLB 2022 Player Awards - American League MVP,Yordan Álvarez,-0.013999999999999999,0.0769,0.0909
-2022-07-18 09:03:19.818488,MLB Futures - MLB 2022 Player Awards - National League MVP ,Mookie Betts,-0.013999999999999999,0.0769,0.0909
+2022-07-18 06:03:24.215488,Home Run Derby - 2022 Home Run Derby - Exact Result,Kyle Schwarber beats Pete Alonso,-0.013899999999999996,0.1111,0.125
 2022-07-18 11:04:36.150658,MLS - MLS Cup 2022 - Top Goalscorer,Javier Hernandez,-0.013999999999999999,0.0769,0.0909
 2022-07-18 10:02:29.916944,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Cruz Azul,-0.013999999999999999,0.0769,0.0909
+2022-07-18 09:03:19.818488,MLB Futures - MLB 2022 Player Awards - National League MVP ,Mookie Betts,-0.013999999999999999,0.0769,0.0909
+2022-07-18 09:03:19.766215,MLB Futures - MLB 2022 Player Awards - American League MVP,Yordan Álvarez,-0.013999999999999999,0.0769,0.0909
+2022-07-18 16:02:58.861798,Eliteserien - Norway Eliteserien 2022 - Outright,Rosenborg BK,-0.014099999999999998,0.0244,0.0385
 2022-07-18 12:04:50.093864,MLB Futures - MLB 2022 Player Awards - American League Cy Young Award,Dylan Cease,-0.014399999999999996,0.0625,0.0769
 2022-07-18 06:03:24.215488,Home Run Derby - 2022 Home Run Derby - Exact Result,Kyle Schwarber beats Ronald Acuna Jr.,-0.014399999999999996,0.0625,0.0769
 2022-07-18 10:02:30.067834,Superettan - Swedish Superettan 2022 - Outright,Landskrona BoIS,-0.0145,0.0099,0.0244
-2022-07-18 09:03:19.834954,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Brendan Donovan,-0.014899999999999997,0.0476,0.0625
 2022-07-18 09:03:19.818488,MLB Futures - MLB 2022 Player Awards - National League MVP ,Kyle Schwarber,-0.014899999999999997,0.0476,0.0625
+2022-07-18 09:03:19.834954,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Brendan Donovan,-0.014899999999999997,0.0476,0.0625
 2022-07-18 14:04:05.210839,Home Run Derby - 2022 Home Run Derby - To Make The Finals,Ronald Acuna Jr..,-0.015400000000000025,0.2703,0.2857
 2022-07-18 09:03:19.317195,Home Run Derby - 2022 Home Run Derby - Round 1 - Alonso v Acuna Jr.,Ronald Acuna Jr..,-0.015400000000000025,0.3846,0.4
 2022-07-18 10:02:22.600470,MLB Futures - MLB 2022 League Leaders - Most Home Runs in 2022,Matt Olson,-0.0156,0.004,0.0196
@@ -221,17 +225,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-18 10:02:22.600470,MLB Futures - MLB 2022 League Leaders - Most Home Runs in 2022,Salvador Perez,-0.0163,0.0033,0.0196
 2022-07-18 10:02:22.600470,MLB Futures - MLB 2022 League Leaders - Most Home Runs in 2022,Manny Machado,-0.0163,0.0033,0.0196
 2022-07-18 12:04:47.181220,UK Politics - Next Conservative Leader - Conservative Party Leader,Kemi Badenoch,-0.016600000000000004,0.0667,0.0833
-2022-07-18 04:03:43.972561,NFC West - 2022/2023 NFC West - 49ers Division Finishing Position,3rd,-0.016699999999999993,0.25,0.2667
 2022-07-18 12:04:50.121967,MLB Futures - MLB 2022 Player Awards - American League MVP,Aaron Judge,-0.016699999999999993,0.4,0.4167
+2022-07-18 04:03:43.972561,NFC West - 2022/2023 NFC West - 49ers Division Finishing Position,3rd,-0.016699999999999993,0.25,0.2667
 2022-07-18 14:04:05.118994,Home Run Derby - 2022 Home Run Derby - Player To Hit Most Derby Home Runs,Pete Alonso,-0.016699999999999993,0.25,0.2667
 2022-07-18 09:03:19.834954,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Jack Suwinski,-0.0168,0.0217,0.0385
 2022-07-18 09:03:33.319141,UEFA Women's Euro 2022 - European Championship Women 2022 - Winner,Germany (W),-0.0174,0.2326,0.25
 2022-07-18 10:02:22.600470,MLB Futures - MLB 2022 League Leaders - Most Home Runs in 2022,George Springer,-0.0177,0.004,0.0217
 2022-07-18 06:03:24.189127,Home Run Derby - 2022 Home Run Derby - To Win Home Run Derby,Ronald Acuna Jr..,-0.0179,0.125,0.1429
 2022-07-18 04:03:44.185398,Home Run Derby - 2022 Home Run Derby - Exact Result,Kyle Schwarber beats Julio Rodriguez,-0.018099999999999998,0.0588,0.0769
-2022-07-18 09:03:19.818488,MLB Futures - MLB 2022 Player Awards - National League MVP ,Trea Turner,-0.018099999999999998,0.0588,0.0769
 2022-07-18 04:03:44.185398,Home Run Derby - 2022 Home Run Derby - Exact Result,Kyle Schwarber beats Corey Seager,-0.018099999999999998,0.0588,0.0769
 2022-07-18 09:03:19.799938,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Max Fried,-0.018099999999999998,0.0588,0.0769
+2022-07-18 09:03:19.818488,MLB Futures - MLB 2022 Player Awards - National League MVP ,Trea Turner,-0.018099999999999998,0.0588,0.0769
 2022-07-18 10:02:29.916944,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Santos Laguna,-0.018200000000000004,0.0294,0.0476
 2022-07-18 09:03:19.689916,MLB Futures - MLB 2022 National League East - NLE Winner,New York Mets,-0.01880000000000004,0.6364,0.6552
 2022-07-18 09:03:19.834954,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,MacKenzie Gore,-0.019000000000000003,0.0435,0.0625
@@ -246,13 +250,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-18 09:03:19.818488,MLB Futures - MLB 2022 Player Awards - National League MVP ,Ronald Acuna Jr..,-0.0206,0.0179,0.0385
 2022-07-18 11:04:25.652664,MLB Regular Season Props - MLB 2022 Regular Season Props - Baltimore Orioles To Make The Playoffs,Yes,-0.0208,0.0625,0.0833
 2022-07-18 12:04:50.017585,MLB Futures - MLB 2022 National League East - NLE Winner,New York Mets,-0.02100000000000002,0.6154,0.6364
-2022-07-18 14:04:05.321805,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Kyle Schwarber,Under 38.5,-0.02169999999999994,0.5238,0.5455
 2022-07-18 05:03:05.341198,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Albert Pujols,Over 18.5,-0.02169999999999994,0.5238,0.5455
-2022-07-18 10:02:30.305383,2022 Copa América Femenina - 2022 Copa America Femenina - Winner,Brazil (W),-0.022199999999999998,0.8667,0.8889
+2022-07-18 14:04:05.321805,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Kyle Schwarber,Under 38.5,-0.02169999999999994,0.5238,0.5455
 2022-07-18 14:04:05.156247,Home Run Derby - 2022 Home Run Derby - Round 1 - Alonso v Acuna Jr.,Pete Alonso,-0.022199999999999998,0.6552,0.6774
-2022-07-18 14:04:05.305623,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Julio Rodriguez,Under 24.5,-0.022600000000000064,0.5122,0.5348
+2022-07-18 10:02:30.305383,2022 Copa América Femenina - 2022 Copa America Femenina - Winner,Brazil (W),-0.022199999999999998,0.8667,0.8889
 2022-07-18 14:04:05.344504,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Pete Alonso,Under 38.5,-0.022600000000000064,0.5122,0.5348
 2022-07-18 14:04:05.370709,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Ronald Acuna Jr..,Under 22.5,-0.022600000000000064,0.5122,0.5348
+2022-07-18 14:04:05.305623,Home Run Derby - 2022 Home Run Derby - Total Derby Home Runs - Julio Rodriguez,Under 24.5,-0.022600000000000064,0.5122,0.5348
 2022-07-18 14:04:05.130582,Home Run Derby - 2022 Home Run Derby - Player To Hit Most Derby Home Runs in Round 1,Juan Soto,-0.023799999999999988,0.1429,0.1667
 2022-07-18 09:03:19.818488,MLB Futures - MLB 2022 Player Awards - National League MVP ,Paul Goldschmidt,-0.023800000000000043,0.5,0.5238
 2022-07-18 09:03:19.799938,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Joe Musgrove,-0.0242,0.0667,0.0909
@@ -263,17 +267,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-18 04:03:43.776755,NFC East - 2022/2023 NFC East - Cowboys Division Finishing Position,1st,-0.025499999999999967,0.4,0.4255
 2022-07-18 04:03:44.468247,MLB Futures - MLB 2022 National League East - NLE Winner,Atlanta Braves,-0.026600000000000013,0.4082,0.4348
 2022-07-18 10:02:21.955454,UK Politics - Next Conservative Leader - Conservative Party Leader,Kemi Badenoch,-0.027800000000000005,0.0833,0.1111
-2022-07-18 14:04:04.930604,Home Run Derby - 2022 Home Run Derby - Exact Finals Matchup,Juan Soto v Pete Alonso,-0.027999999999999997,0.1538,0.1818
 2022-07-18 09:03:19.834954,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Juan Yepez,-0.027999999999999997,0.0345,0.0625
+2022-07-18 14:04:04.930604,Home Run Derby - 2022 Home Run Derby - Exact Finals Matchup,Juan Soto v Pete Alonso,-0.027999999999999997,0.1538,0.1818
+2022-07-18 16:02:58.861798,Eliteserien - Norway Eliteserien 2022 - Outright,Bodø/Glimt,-0.027999999999999997,0.1538,0.1818
 2022-07-18 09:03:19.747682,MLB Futures - MLB 2022 Player Awards - American League Cy Young Award,Shohei Ohtani,-0.028799999999999992,0.125,0.1538
 2022-07-18 10:02:22.600470,MLB Futures - MLB 2022 League Leaders - Most Home Runs in 2022,Nolan Arenado,-0.029800000000000004,0.0025,0.0323
+2022-07-18 16:02:53.419828,Home Run Derby - 2022 Home Run Derby - To Win Home Run Derby,Pete Alonso,-0.030299999999999994,0.3333,0.3636
 2022-07-18 04:03:43.776755,NFC East - 2022/2023 NFC East - Cowboys Division Finishing Position,2nd,-0.030299999999999994,0.3333,0.3636
 2022-07-18 10:02:22.600470,MLB Futures - MLB 2022 League Leaders - Most Home Runs in 2022,Ronald Acuna Jr..,-0.0303,0.002,0.0323
 2022-07-18 06:03:24.202280,Home Run Derby - 2022 Home Run Derby - Exact Finals Matchup,Kyle Schwarber v Pete Alonso,-0.031399999999999983,0.2353,0.2667
 2022-07-18 10:02:30.305383,2022 Copa América Femenina - 2022 Copa America Femenina - Winner,Colombia (W),-0.031799999999999995,0.1111,0.1429
 2022-07-18 09:03:19.834954,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Nolan Gorman,-0.0321,0.0588,0.0909
-2022-07-18 06:03:24.314160,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Kyle Schwarber,Under 477.5 Feet,-0.033299999999999996,0.5122,0.5455
 2022-07-18 06:03:24.327534,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Pete Alonso,Under 468.5 Feet,-0.033299999999999996,0.5122,0.5455
+2022-07-18 06:03:24.314160,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Kyle Schwarber,Under 477.5 Feet,-0.033299999999999996,0.5122,0.5455
 2022-07-18 04:03:44.477535,MLB Futures - MLB 2022 National League West - NLW Winner,San Diego Padres,-0.03330000000000001,0.0667,0.1
 2022-07-18 10:02:22.600470,MLB Futures - MLB 2022 League Leaders - Most Home Runs in 2022,Pete Alonso,-0.0334,0.0435,0.0769
 2022-07-18 09:03:19.747682,MLB Futures - MLB 2022 Player Awards - American League Cy Young Award,Gerrit Cole,-0.034100000000000005,0.0909,0.125
@@ -287,6 +293,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-18 10:02:22.600470,MLB Futures - MLB 2022 League Leaders - Most Home Runs in 2022,Jose Ramirez,-0.0397,0.0079,0.0476
 2022-07-18 09:03:19.799938,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Corbin Burnes,-0.04169999999999999,0.125,0.1667
 2022-07-18 14:04:05.143853,Home Run Derby - 2022 Home Run Derby - Requested Specials,Julio Rodriguez and Albert Pujols to Each Win in the First Round,-0.04240000000000001,0.1176,0.16
+2022-07-18 15:02:44.162311,Home Run Derby - 2022 Home Run Derby - Requested Specials,Julio Rodriguez and Albert Pujols to Each Win in the First Round,-0.04240000000000001,0.1176,0.16
 2022-07-18 14:04:05.210839,Home Run Derby - 2022 Home Run Derby - To Make The Finals,Pete Alonso,-0.043399999999999994,0.5122,0.5556
 2022-07-18 12:04:50.630025,MLB Regular Season Props - MLB 2022 Regular Season Props - Toronto Blue Jays To Make The Playoffs,No,-0.044499999999999984,0.2222,0.2667
 2022-07-18 10:02:30.083734,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,River Plate,-0.04620000000000002,0.1538,0.2
@@ -298,8 +305,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-18 10:02:30.052034,Allsvenskan - Swedish Allsvenskan 2022 - Outright,IF Elfsborg,-0.052399999999999995,0.0385,0.0909
 2022-07-18 12:04:50.364772,MLB Regular Season Props - MLB 2022 Regular Season Props - Boston Red Sox To Make The Playoffs,No,-0.057699999999999974,0.4878,0.5455
 2022-07-18 10:02:22.600470,MLB Futures - MLB 2022 League Leaders - Most Home Runs in 2022,Mike Trout,-0.0585,0.0526,0.1111
-2022-07-18 14:04:04.974510,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Albert Pujols,Over 459.5 Feet,-0.05860000000000004,0.4762,0.5348
 2022-07-18 12:04:49.264374,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Juan Soto,Under 470.5 Feet,-0.05860000000000004,0.4762,0.5348
+2022-07-18 14:04:04.974510,Home Run Derby - 2022 Home Run Derby - Longest Derby Home Run - Albert Pujols,Over 459.5 Feet,-0.05860000000000004,0.4762,0.5348
 2022-07-18 12:04:50.539213,MLB Regular Season Props - MLB 2022 Regular Season Props - Philadelphia Phillies To Make The Playoffs,No,-0.0595,0.5238,0.5833
 2022-07-18 10:02:22.600470,MLB Futures - MLB 2022 League Leaders - Most Home Runs in 2022,Byron Buxton,-0.0615,0.0294,0.0909
 2022-07-18 12:04:50.487345,MLB Regular Season Props - MLB 2022 Regular Season Props - Milwaukee Brewers To Make The playoffs,No,-0.06659999999999999,0.2667,0.3333
