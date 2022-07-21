@@ -3,6 +3,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-21 13:03:04.616731,3M Open - 2/3 Balls - 1st Round 3-Balls - C. Seiffert / S. Reeves / M. Fish - 1st Round 3-Balls ,Seth Reeves,0.04910000000000003,0.4,0.3509
 2022-07-21 08:02:57.376511,UEFA Women's Euro 2022 - European Championship Women 2022 - Top Goalscorer,Beth Mead,0.04760000000000009,0.7143,0.6667
 2022-07-21 08:02:57.359533,UEFA Women's Euro 2022 - European Championship Women 2022 - Winner,Germany (W),0.03570000000000001,0.2857,0.25
+2022-07-21 14:03:23.966653,Cazoo Classic - 2/3 Balls - 1st Round 3 Balls - E. Molinari / R. MacIntyre / T. Olesen - 1st Round 3 Balls,Robert MacIntyre,0.0348,0.4348,0.4
 2022-07-21 05:02:39.696645,3M Open - 2/3 Balls - 1st Round 3-Balls - C. Seiffert / S. Reeves / M. Fish - 1st Round 3-Balls ,Chase Seiffert,0.03479999999999994,0.6,0.5652
 2022-07-21 13:03:30.580385,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Fluminense,0.03420000000000001,0.1111,0.0769
 2022-07-21 10:03:18.939903,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Republican,0.032099999999999906,0.6154,0.5833
@@ -10,7 +11,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-21 04:02:41.454940,Tournament Match-Ups - Parlays - Tournament Match-Up - M. McNealy v A. Hadwin - Tournament Match-Up,Maverick McNealy,0.026499999999999968,0.5917,0.5652
 2022-07-21 11:03:43.005110,2022 Copa América Femenina - 2022 Copa America Femenina - Winner,Brazil (W),0.025000000000000022,0.9,0.875
 2022-07-21 12:02:54.796897,3M Open - 2/3 Balls - 1st Round 3-Balls - S. Kodaira / D. Hearn / T. Potter Jr - 1st Round 3-Balls,Satoshi Kodaira,0.024399999999999977,0.5122,0.4878
-2022-07-21 02:02:38.512043,3M Open - 2/3 Balls - 1st Round 3-Balls - B. Garnett / N. Watney / D. Ernst - 1st Round 3-Balls,Brice Garnett,0.023800000000000043,0.5238,0.5
 2022-07-21 12:02:55.137183,3M Open - 2/3 Balls - 1st Round 3-Balls - C. Tarren / J. Creel / J. Sorenson - 1st Round 3-Balls ,Callum Tarren,0.023800000000000043,0.5238,0.5
 2022-07-21 06:03:28.190955,3M Open - 2/3 Balls - 1st Round 3-Balls - D. Ghim / S-Y. Noh / J. Dufner - 1st Round 3-Balls,Doug Ghim,0.023799999999999988,0.5,0.4762
 2022-07-21 05:02:39.851544,3M Open - 2/3 Balls - 1st Round 3-Balls - C. Tarren / J. Creel / J. Sorenson - 1st Round 3-Balls ,Callum Tarren,0.023799999999999988,0.5,0.4762
@@ -22,16 +22,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-21 13:03:04.392493,UK Politics - Next Conservative Leader - Conservative Party Leader,Rishi Sunak,0.020699999999999996,0.4651,0.4444
 2022-07-21 06:03:28.744218,Round Match-Ups - 1st Round Match-Up - A. Svensson v M. Schwab - 1st Round Match-Up,Adam Svensson,0.01970000000000005,0.5652,0.5455
 2022-07-21 06:03:29.218449,Round Match-Ups - Parlays - 1st Round Match-Up - A. Hadwin vs S. Im - 1st Round Match-Up,Sungjae Im,0.01970000000000005,0.5652,0.5455
-2022-07-21 04:02:41.485565,Round Match-Ups - Parlays - 1st Round Match-Up - T. Hoge vs L. Glover - 1st Round Match-Up,Tom Hoge,0.01970000000000005,0.5652,0.5455
 2022-07-21 12:02:54.785187,3M Open - 2/3 Balls - 1st Round 3-Balls - B. Steele / K. Hickok / K.J. Choi - 1st Round 3-Balls,Brendan Steele,0.01970000000000005,0.5652,0.5455
-2022-07-21 12:02:54.632268,3M Open - 2/3 Balls - 1st Round 3-Balls - D. Frittelli / N. Taylor / R. Werenski - 1st Round 3-Balls,Dylan Frittelli,0.019699999999999995,0.4545,0.4348
+2022-07-21 04:02:41.485565,Round Match-Ups - Parlays - 1st Round Match-Up - T. Hoge vs L. Glover - 1st Round Match-Up,Tom Hoge,0.01970000000000005,0.5652,0.5455
 2022-07-21 04:02:40.994364,3M Open - 2/3 Balls - 1st Round 3-Balls - S. Theegala / J. Kim / C. Hadley - 1st Round 3-Balls,Sahith Theegala,0.019699999999999995,0.4545,0.4348
+2022-07-21 12:02:54.632268,3M Open - 2/3 Balls - 1st Round 3-Balls - D. Frittelli / N. Taylor / R. Werenski - 1st Round 3-Balls,Dylan Frittelli,0.019699999999999995,0.4545,0.4348
 2022-07-21 06:03:28.266382,3M Open - 2/3 Balls - 1st Round 3-Balls - C. Seiffert / S. Reeves / M. Fish - 1st Round 3-Balls ,Seth Reeves,0.017600000000000005,0.3509,0.3333
 2022-07-21 05:02:39.619057,3M Open - 2/3 Balls - 1st Round 3-Balls - B. Todd / S. Cink / L. Glover - 1st Round 3-Balls,Lucas Glover,0.017600000000000005,0.3509,0.3333
 2022-07-21 06:03:27.913204,3M Open - 2/3 Balls - 1st Round 3-Balls - M. NeSmith / A. Atwal / M. Every - 1st Round 3-Balls,Matthew NeSmith,0.01759999999999995,0.6667,0.6491
 2022-07-21 05:02:46.195192,NCAAF - 2022 Pac-12 Championship - Odds to Win - 2022 Pac-12 Championship Winner,Oregon,0.016699999999999993,0.2667,0.25
-2022-07-21 02:02:39.121116,Cazoo Classic - Cazoo Classic - Outright,Jens Dantorp,0.014499999999999999,0.0294,0.0149
-2022-07-21 02:02:39.121116,Cazoo Classic - Cazoo Classic - Outright,Frederic Lacroix,0.014499999999999999,0.0294,0.0149
 2022-07-21 05:02:38.192005,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Houston,0.01440000000000001,0.1053,0.0909
 2022-07-21 03:03:13.623127,The Evian Championship - The Evian Championship - Outright,Jin Young Ko,0.013999999999999999,0.0909,0.0769
 2022-07-21 05:02:39.619057,3M Open - 2/3 Balls - 1st Round 3-Balls - B. Todd / S. Cink / L. Glover - 1st Round 3-Balls,Stewart Cink,0.013800000000000034,0.3774,0.3636
@@ -44,14 +42,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-21 05:02:47.797716,College Season Props - 2022 - Regular Season Wins - Georgia Tech - 2022 - Regular Season Wins - Georgia Tech,Under 3.5,0.010699999999999932,0.5455,0.5348
 2022-07-21 08:02:57.359533,UEFA Women's Euro 2022 - European Championship Women 2022 - Winner,Netherlands (W),0.0102,0.0769,0.0667
 2022-07-21 04:02:40.946240,3M Open - 3M Open - Outright,Cameron Tringale,0.010100000000000001,0.0345,0.0244
-2022-07-21 02:02:38.512043,3M Open - 2/3 Balls - 1st Round 3-Balls - B. Garnett / N. Watney / D. Ernst - 1st Round 3-Balls,Nick Watney,-0.010099999999999998,0.3125,0.3226
-2022-07-21 05:02:47.593057,College Season Props - 2022 - Regular Season Wins - Mississippi State - 2022 - Regular Season Wins - Mississippi State,Under 6.5,-0.010099999999999998,0.5455,0.5556
 2022-07-21 11:03:15.131257,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,-0.010099999999999998,0.3125,0.3226
-2022-07-21 05:02:38.192005,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Duke,-0.0102,0.0667,0.0769
+2022-07-21 05:02:47.593057,College Season Props - 2022 - Regular Season Wins - Mississippi State - 2022 - Regular Season Wins - Mississippi State,Under 6.5,-0.010099999999999998,0.5455,0.5556
 2022-07-21 09:03:35.193708,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Club León,-0.0102,0.0667,0.0769
 2022-07-21 05:02:38.192005,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Kansas,-0.0102,0.0667,0.0769
+2022-07-21 05:02:38.192005,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Duke,-0.0102,0.0667,0.0769
 2022-07-21 05:02:47.797716,College Season Props - 2022 - Regular Season Wins - Georgia Tech - 2022 - Regular Season Wins - Georgia Tech,Over 3.5,-0.01100000000000001,0.5238,0.5348
 2022-07-21 04:02:41.316780,Round Match-Ups - 1st Round Match-Up - B. Steele v J. Kim - 1st Round Match-Up,Brendan Steele,-0.01100000000000001,0.5238,0.5348
+2022-07-21 14:03:23.966653,Cazoo Classic - 2/3 Balls - 1st Round 3 Balls - E. Molinari / R. MacIntyre / T. Olesen - 1st Round 3 Balls,Edoardo Molinari,-0.011899999999999966,0.339,0.3509
 2022-07-21 06:03:28.266382,3M Open - 2/3 Balls - 1st Round 3-Balls - C. Seiffert / S. Reeves / M. Fish - 1st Round 3-Balls ,Mardy Fish,-0.012899999999999995,0.1538,0.1667
 2022-07-21 05:02:39.557111,3M Open - 2/3 Balls - 1st Round 3-Balls - C. Stroud / R. Garrigus / B. Davis - 1st Round 3-Balls ,Robert Garrigus,-0.013800000000000034,0.3636,0.3774
 2022-07-21 06:03:27.913204,3M Open - 2/3 Balls - 1st Round 3-Balls - M. NeSmith / A. Atwal / M. Every - 1st Round 3-Balls,Arjun Atwal,-0.015199999999999991,0.2174,0.2326
@@ -63,15 +61,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-21 08:02:57.359533,UEFA Women's Euro 2022 - European Championship Women 2022 - Winner,France (W),-0.0174,0.2326,0.25
 2022-07-21 11:03:15.148744,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Kamala Harris,-0.01820000000000002,0.1818,0.2
 2022-07-21 05:02:39.661932,3M Open - 2/3 Balls - 1st Round 3-Balls - B. Garnett / N. Watney / D. Ernst - 1st Round 3-Balls,Nick Watney,-0.018400000000000027,0.2941,0.3125
-2022-07-21 12:02:54.785187,3M Open - 2/3 Balls - 1st Round 3-Balls - B. Steele / K. Hickok / K.J. Choi - 1st Round 3-Balls,Kramer Hickok,-0.019500000000000017,0.3509,0.3704
 2022-07-21 05:02:39.851544,3M Open - 2/3 Balls - 1st Round 3-Balls - C. Tarren / J. Creel / J. Sorenson - 1st Round 3-Balls ,Joshua Creel,-0.019500000000000017,0.3509,0.3704
+2022-07-21 12:02:54.785187,3M Open - 2/3 Balls - 1st Round 3-Balls - B. Steele / K. Hickok / K.J. Choi - 1st Round 3-Balls,Kramer Hickok,-0.019500000000000017,0.3509,0.3704
 2022-07-21 13:03:04.616731,3M Open - 2/3 Balls - 1st Round 3-Balls - C. Seiffert / S. Reeves / M. Fish - 1st Round 3-Balls ,Mardy Fish,-0.02049999999999999,0.1333,0.1538
 2022-07-21 05:02:39.710556,3M Open - 2/3 Balls - 1st Round 3-Balls - J. Huh / D.A. Points / K. Stadler - 1st Round 3-Balls,Kevin Stadler,-0.020699999999999996,0.2174,0.2381
 2022-07-21 05:02:46.195192,NCAAF - 2022 Pac-12 Championship - Odds to Win - 2022 Pac-12 Championship Winner,USC,-0.020799999999999985,0.3125,0.3333
+2022-07-21 14:03:23.966653,Cazoo Classic - 2/3 Balls - 1st Round 3 Balls - E. Molinari / R. MacIntyre / T. Olesen - 1st Round 3 Balls,Thorbjorn Olesen,-0.022199999999999998,0.3226,0.3448
 2022-07-21 05:02:39.619057,3M Open - 2/3 Balls - 1st Round 3-Balls - B. Todd / S. Cink / L. Glover - 1st Round 3-Balls,Brendon Todd,-0.02260000000000001,0.3774,0.4
+2022-07-21 06:03:29.218449,Round Match-Ups - Parlays - 1st Round Match-Up - A. Hadwin vs S. Im - 1st Round Match-Up,Adam Hadwin,-0.023799999999999988,0.4762,0.5
 2022-07-21 04:02:41.485565,Round Match-Ups - Parlays - 1st Round Match-Up - T. Hoge vs L. Glover - 1st Round Match-Up,Lucas Glover,-0.023799999999999988,0.4762,0.5
 2022-07-21 04:02:41.454940,Tournament Match-Ups - Parlays - Tournament Match-Up - M. McNealy v A. Hadwin - Tournament Match-Up,Adam Hadwin,-0.023799999999999988,0.4762,0.5
-2022-07-21 06:03:29.218449,Round Match-Ups - Parlays - 1st Round Match-Up - A. Hadwin vs S. Im - 1st Round Match-Up,Adam Hadwin,-0.023799999999999988,0.4762,0.5
 2022-07-21 06:03:28.744218,Round Match-Ups - 1st Round Match-Up - A. Svensson v M. Schwab - 1st Round Match-Up,Matthias Schwab,-0.023799999999999988,0.4762,0.5
 2022-07-21 06:03:27.855188,3M Open - 2/3 Balls - 1st Round 3-Balls - A. Svensson / M. Schwab / D. Lamely - 1st Round 3-Balls,Matthias Schwab,-0.025499999999999967,0.4,0.4255
 2022-07-21 13:03:04.616731,3M Open - 2/3 Balls - 1st Round 3-Balls - C. Seiffert / S. Reeves / M. Fish - 1st Round 3-Balls ,Chase Seiffert,-0.025599999999999956,0.5744,0.6
