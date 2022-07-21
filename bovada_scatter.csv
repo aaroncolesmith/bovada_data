@@ -1,9 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2022-07-21 08:02:57.359533,UEFA Women's Euro 2022 - European Championship Women 2022 - Winner,England (W),0.09689999999999999,0.3636,0.2667
 2022-07-21 13:03:04.616731,3M Open - 2/3 Balls - 1st Round 3-Balls - C. Seiffert / S. Reeves / M. Fish - 1st Round 3-Balls ,Seth Reeves,0.04910000000000003,0.4,0.3509
-2022-07-21 08:02:57.376511,UEFA Women's Euro 2022 - European Championship Women 2022 - Top Goalscorer,Beth Mead,0.04760000000000009,0.7143,0.6667
 2022-07-21 15:04:11.202740,MLB Specials - Who will be ejected from More Games in the 2022 Season? - Proposition,Manny Machado,0.044399999999999995,0.4444,0.4
-2022-07-21 08:02:57.359533,UEFA Women's Euro 2022 - European Championship Women 2022 - Winner,Germany (W),0.03570000000000001,0.2857,0.25
 2022-07-21 14:03:23.966653,Cazoo Classic - 2/3 Balls - 1st Round 3 Balls - E. Molinari / R. MacIntyre / T. Olesen - 1st Round 3 Balls,Robert MacIntyre,0.0348,0.4348,0.4
 2022-07-21 13:03:30.580385,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Fluminense,0.03420000000000001,0.1111,0.0769
 2022-07-21 10:03:18.939903,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Republican,0.032099999999999906,0.6154,0.5833
@@ -20,9 +17,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-21 16:03:22.721704,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Field,0.01739999999999997,0.7674,0.75
 2022-07-21 18:02:40.374423,Boxing Lines - Steve Rolls vs Shady Gamhour - To Win the Bout,Steve Rolls,0.014700000000000046,0.7647,0.75
 2022-07-21 13:03:03.780691,Bare Knuckle Fighting Championship - John Escoboza vs Jared Warren - To Win the Bout,John Escoboza,0.0116,0.4878,0.4762
-2022-07-21 08:02:57.359533,UEFA Women's Euro 2022 - European Championship Women 2022 - Winner,Netherlands (W),0.0102,0.0769,0.0667
-2022-07-21 11:03:15.131257,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,-0.010099999999999998,0.3125,0.3226
 2022-07-21 17:04:54.749901,Boxing Lines - Steve Rolls vs Shady Gamhour - To Win the Bout,Shady Gamhour,-0.010099999999999998,0.3125,0.3226
+2022-07-21 11:03:15.131257,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,-0.010099999999999998,0.3125,0.3226
 2022-07-21 09:03:35.193708,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Club León,-0.0102,0.0667,0.0769
 2022-07-21 14:03:23.966653,Cazoo Classic - 2/3 Balls - 1st Round 3 Balls - E. Molinari / R. MacIntyre / T. Olesen - 1st Round 3 Balls,Edoardo Molinari,-0.011899999999999966,0.339,0.3509
 2022-07-21 16:03:22.721704,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,-0.014000000000000012,0.2985,0.3125
@@ -31,7 +27,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-21 17:04:54.807380,Boxing Lines - Vianello Guido vs Rafael Rios - To Win the Bout,Rafael Rios,-0.016700000000000007,0.0833,0.1
 2022-07-21 13:03:03.780691,Bare Knuckle Fighting Championship - John Escoboza vs Jared Warren - To Win the Bout,Jared Warren,-0.017299999999999982,0.5744,0.5917
 2022-07-21 13:03:04.392493,UK Politics - Next Conservative Leader - Conservative Party Leader,Liz Truss,-0.017299999999999982,0.5744,0.5917
-2022-07-21 08:02:57.359533,UEFA Women's Euro 2022 - European Championship Women 2022 - Winner,France (W),-0.0174,0.2326,0.25
 2022-07-21 12:02:55.137183,3M Open - 2/3 Balls - 1st Round 3-Balls - C. Tarren / J. Creel / J. Sorenson - 1st Round 3-Balls ,Jeff Sorenson,-0.0174,0.2326,0.25
 2022-07-21 11:03:15.148744,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Kamala Harris,-0.01820000000000002,0.1818,0.2
 2022-07-21 12:02:54.785187,3M Open - 2/3 Balls - 1st Round 3-Balls - B. Steele / K. Hickok / K.J. Choi - 1st Round 3-Balls,Kramer Hickok,-0.019500000000000017,0.3509,0.3704
@@ -45,7 +40,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-21 09:03:35.193708,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,CF Pachuca,-0.033300000000000024,0.1667,0.2
 2022-07-21 13:03:30.580385,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Atlético Mineiro,-0.03640000000000004,0.3636,0.4
 2022-07-21 11:03:43.005110,2022 Copa América Femenina - 2022 Copa America Femenina - Winner,Venezuela (W),-0.037700000000000004,0.0099,0.0476
-2022-07-21 08:02:57.376511,UEFA Women's Euro 2022 - European Championship Women 2022 - Top Goalscorer,Ellen White,-0.04329999999999999,0.0476,0.0909
 2022-07-21 09:03:11.039092,UK Politics - Next Conservative Leader - Conservative Party Leader,Liz Truss,-0.05120000000000002,0.5917,0.6429
 2022-07-21 09:03:35.193708,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Deportivo Toluca,-0.052000000000000005,0.0909,0.1429
 2022-07-21 09:03:35.193708,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Club América,-0.07930000000000001,0.1429,0.2222
