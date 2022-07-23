@@ -1,5 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-22 16:03:55.187189,MLB Specials - Where will Josh Bell be playing after the 2022 MLB Trade Deadline? - Proposition,Houston Astros,0.1389,0.25,0.1111
+2022-07-23 01:04:14.926726,Senior Open Championship - Senior Open Championship - Outright,Darren Clarke,0.13419999999999999,0.1818,0.0476
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,Paul Waring,0.0857,0.2857,0.2
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,Jens Dantorp,0.0705,0.1538,0.0833
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,Julien Guerrier,0.06620000000000001,0.125,0.0588
@@ -7,39 +8,52 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,Callum Shinkwin,0.0655,0.1,0.0345
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,Grant Forrest,0.056400000000000006,0.1333,0.0769
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,Sami Valimaki,0.0544,0.0667,0.0123
+2022-07-23 01:04:14.926726,Senior Open Championship - Senior Open Championship - Outright,Scott Parel,0.0475,0.0769,0.0294
+2022-07-23 01:04:14.926726,Senior Open Championship - Senior Open Championship - Outright,Miguel Angel Jimenez,0.044599999999999994,0.0769,0.0323
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,Daan Huizing,0.0377,0.0526,0.0149
 2022-07-22 17:03:26.126535,Bare Knuckle Fighting Championship - Alex Tierney vs Darrick Gates - To Win the Bout,Alex Tierney,0.0353,0.8131,0.7778
 2022-07-22 16:03:56.130577,3M Open - 2/3 Balls - 2nd Round 3 Balls - C.T. Pan / D. Willett / S. Kang - 2nd Round 3 Balls,C.T. Pan,0.03480000000000005,0.5348,0.5
 2022-07-22 21:02:48.181822,Running Backs - Clyde Edwards-Helaire Rush TD's 2022 Reg. Season - Clyde Edwards-Helaire Rush TD's 2022 Reg. Season,Under 5.5,0.030399999999999983,0.5652,0.5348
+2022-07-23 01:04:14.926726,Senior Open Championship - Senior Open Championship - Outright,Colin Montgomerie,0.024600000000000004,0.0345,0.0099
+2022-07-23 01:04:14.926726,Senior Open Championship - Senior Open Championship - Outright,Bernhard Langer,0.024299999999999995,0.0769,0.0526
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,Nacho Elvira,0.022400000000000003,0.0244,0.002
+2022-07-23 01:04:14.926726,Senior Open Championship - Senior Open Championship - Outright,Steven Alker,0.022000000000000006,0.1053,0.0833
 2022-07-22 23:02:44.930145,Boxing Lines - Gabriel Flores Jr vs Giovanni Cabrera - To Win the Bout,Giovanni Cabrera,0.02169999999999994,0.5455,0.5238
 2022-07-22 16:03:56.110997,3M Open - 2/3 Balls - 2nd Round 3 Balls - S. Theegala / J. Kim / C. Hadley - 2nd Round 3 Balls,Joohyung Kim,0.02100000000000002,0.3846,0.3636
-2022-07-22 21:02:47.191740,Wide Receivers - Jerry Jeudy Receptions 2022 Reg. Season  - Outright,Under 73.5,0.02079999999999993,0.5556,0.5348
-2022-07-22 21:02:46.672203,Wide Receivers - Chase Claypool Rec TD’s 2022 Reg. Season - Outright,Under 4.5,0.02079999999999993,0.5556,0.5348
 2022-07-22 21:02:49.205115,Quarterbacks - Justin Fields Passing Yards 2022 Reg. Season  - Justin Fields Passing Yards 2022 Reg. Season,Under 3250.5,0.02079999999999993,0.5556,0.5348
+2022-07-22 21:02:46.672203,Wide Receivers - Chase Claypool Rec TD’s 2022 Reg. Season - Outright,Under 4.5,0.02079999999999993,0.5556,0.5348
 2022-07-22 21:02:47.129821,Wide Receivers - Jakobi Meyers Rec TD’s 2022 Reg. Season - Outright,Under 4,0.02079999999999993,0.5556,0.5348
+2022-07-22 21:02:47.191740,Wide Receivers - Jerry Jeudy Receptions 2022 Reg. Season  - Outright,Under 73.5,0.02079999999999993,0.5556,0.5348
 2022-07-22 16:04:19.118411,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Flamengo,0.02020000000000001,0.1111,0.0909
 2022-07-22 21:02:48.095898,Running Backs - Breece Hall Rush Yards 2022 Reg. Season - Breece Hall Rush Yards 2022 Reg. Season,Under 850.5,0.01970000000000005,0.5652,0.5455
 2022-07-22 21:02:47.897563,Defensive Players - Interceptions - Tre'Davious White Interceptions 2022 Reg. Season - Outright,Under 3.5,0.01970000000000005,0.5652,0.5455
 2022-07-22 18:02:59.168390,NBA Season Props - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Mike Brown,0.0189,0.0385,0.0196
 2022-07-22 16:04:19.617020,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Real Sociedad,0.01820000000000002,0.2,0.1818
 2022-07-22 14:02:48.708885,3M Open - 2/3 Balls - 2nd Round 3 Balls - M. McNealy / B. Hossler / J.J. Henry - 2nd Round 3 Balls,Maverick McNealy,0.018100000000000005,0.5833,0.5652
-2022-07-22 13:02:52.196696,Boxing Lines - Avery Sparrow vs William Foster III - To Win the Bout,William Foster III,0.017899999999999916,0.7826,0.7647
 2022-07-22 21:02:48.898788,Defensive Players - Sacks - Travon Walker Sacks 2022 Reg. Season - Outright,Under 7.5,0.017299999999999982,0.5917,0.5744
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,Marcus Armitage,0.015300000000000001,0.0588,0.0435
+2022-07-23 01:04:14.926726,Senior Open Championship - Senior Open Championship - Outright,Ernie Els,0.01440000000000001,0.1053,0.0909
+2022-07-23 01:04:07.015244,Boxing Lines - Andy Ruiz Jr. vs Luis Ortiz - To Win the Bout,Luis Ortiz,0.0131,0.303,0.2899
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,Richie Ramsay,0.011199999999999995,0.0588,0.0476
+2022-07-23 01:04:06.962273,Boxing Lines - Gabriel Flores Jr vs Giovanni Cabrera - To Win the Bout,Giovanni Cabrera,0.010099999999999998,0.5556,0.5455
 2022-07-22 17:03:25.898417,Boxing Lines - Jake Paul vs Hasim Rahman Jr - To Win the Bout,Hasim Rahman Jr,-0.010199999999999987,0.3534,0.3636
+2022-07-23 01:04:14.926726,Senior Open Championship - Senior Open Championship - Outright,Paul Broadhurst,-0.0102,0.0667,0.0769
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,Wilco Nienaber,-0.0103,0.002,0.0123
 2022-07-22 14:02:48.708885,3M Open - 2/3 Balls - 2nd Round 3 Balls - M. McNealy / B. Hossler / J.J. Henry - 2nd Round 3 Balls,J.J. Henry,-0.01050000000000001,0.1818,0.1923
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,Oliver Farr,-0.011,0.0013,0.0123
-2022-07-22 14:02:48.901886,Boxing Lines - Gabriel Flores Jr vs Giovanni Cabrera - To Win the Bout,Giovanni Cabrera,-0.01100000000000001,0.5238,0.5348
 2022-07-22 23:02:44.930145,Boxing Lines - Gabriel Flores Jr vs Giovanni Cabrera - To Win the Bout,Gabriel Flores Jr,-0.01100000000000001,0.5238,0.5348
-2022-07-22 15:03:23.819200,Round Match-Ups - Parlays - 2nd Round Match-Up - S. Im vs A. Hadwin - 2nd Round Match-Up,Adam Hadwin,-0.0116,0.4762,0.4878
-2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,JC Ritchie,-0.0116,0.0033,0.0149
+2022-07-22 14:02:48.901886,Boxing Lines - Gabriel Flores Jr vs Giovanni Cabrera - To Win the Bout,Giovanni Cabrera,-0.01100000000000001,0.5238,0.5348
 2022-07-22 21:02:48.898788,Defensive Players - Sacks - Travon Walker Sacks 2022 Reg. Season - Outright,Over 7.5,-0.0116,0.4762,0.4878
+2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,JC Ritchie,-0.0116,0.0033,0.0149
+2022-07-22 15:03:23.819200,Round Match-Ups - Parlays - 2nd Round Match-Up - S. Im vs A. Hadwin - 2nd Round Match-Up,Adam Hadwin,-0.0116,0.4762,0.4878
+2022-07-23 01:04:06.962273,Boxing Lines - Gabriel Flores Jr vs Giovanni Cabrera - To Win the Bout,Gabriel Flores Jr,-0.011600000000000055,0.5122,0.5238
+2022-07-23 01:04:14.926726,Senior Open Championship - Senior Open Championship - Outright,Paul Lawrie,-0.011699999999999999,0.0079,0.0196
 2022-07-22 16:03:56.130577,3M Open - 2/3 Balls - 2nd Round 3 Balls - C.T. Pan / D. Willett / S. Kang - 2nd Round 3 Balls,Danny Willett,-0.013800000000000034,0.3636,0.3774
+2022-07-23 01:04:14.926726,Senior Open Championship - Senior Open Championship - Outright,Doug Barron,-0.0139,0.0057,0.0196
 2022-07-22 16:04:19.617020,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Mallorca,-0.0145,0.0099,0.0244
+2022-07-23 01:04:14.926726,Senior Open Championship - Senior Open Championship - Outright,Glen Day,-0.014900000000000004,0.0196,0.0345
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,Thorbjorn Olesen,-0.0165,0.0079,0.0244
+2022-07-23 01:04:14.926726,Senior Open Championship - Senior Open Championship - Outright,Jerry Kelly,-0.01759999999999999,0.1,0.1176
 2022-07-22 14:02:48.708885,3M Open - 2/3 Balls - 2nd Round 3 Balls - M. McNealy / B. Hossler / J.J. Henry - 2nd Round 3 Balls,Beau Hossler,-0.017600000000000005,0.3333,0.3509
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,Matthew Southgate,-0.018200000000000004,0.0294,0.0476
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,Ross Fisher,-0.0186,0.001,0.0196
@@ -48,19 +62,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-22 16:03:56.110997,3M Open - 2/3 Balls - 2nd Round 3 Balls - S. Theegala / J. Kim / C. Hadley - 2nd Round 3 Balls,Chesson Hadley,-0.020799999999999985,0.3125,0.3333
 2022-07-22 16:04:19.118411,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Atlético Mineiro,-0.021999999999999964,0.2857,0.3077
 2022-07-22 16:03:56.130577,3M Open - 2/3 Balls - 2nd Round 3 Balls - C.T. Pan / D. Willett / S. Kang - 2nd Round 3 Balls,Sung Kang,-0.022199999999999998,0.2,0.2222
-2022-07-22 21:02:47.191740,Wide Receivers - Jerry Jeudy Receptions 2022 Reg. Season  - Outright,Over 73.5,-0.022600000000000064,0.5122,0.5348
 2022-07-22 21:02:47.129821,Wide Receivers - Jakobi Meyers Rec TD’s 2022 Reg. Season - Outright,Over 4,-0.022600000000000064,0.5122,0.5348
 2022-07-22 21:02:49.205115,Quarterbacks - Justin Fields Passing Yards 2022 Reg. Season  - Justin Fields Passing Yards 2022 Reg. Season,Over 3250.5,-0.022600000000000064,0.5122,0.5348
+2022-07-22 21:02:47.191740,Wide Receivers - Jerry Jeudy Receptions 2022 Reg. Season  - Outright,Over 73.5,-0.022600000000000064,0.5122,0.5348
 2022-07-22 21:02:46.672203,Wide Receivers - Chase Claypool Rec TD’s 2022 Reg. Season - Outright,Over 4.5,-0.022600000000000064,0.5122,0.5348
+2022-07-23 01:04:14.926726,Senior Open Championship - Senior Open Championship - Outright,Stephen Ames,-0.02310000000000001,0.0769,0.1
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,Garrick Porteous,-0.023200000000000002,0.0294,0.0526
+2022-07-23 01:04:14.926726,Senior Open Championship - Senior Open Championship - Outright,Alex Cejka,-0.0234,0.001,0.0244
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,Santiago Tarrio,-0.0236,0.0149,0.0385
-2022-07-22 21:02:48.095898,Running Backs - Breece Hall Rush Yards 2022 Reg. Season - Breece Hall Rush Yards 2022 Reg. Season,Over 850.5,-0.023800000000000043,0.5,0.5238
 2022-07-22 21:02:47.897563,Defensive Players - Interceptions - Tre'Davious White Interceptions 2022 Reg. Season - Outright,Over 3.5,-0.023800000000000043,0.5,0.5238
+2022-07-22 21:02:48.095898,Running Backs - Breece Hall Rush Yards 2022 Reg. Season - Breece Hall Rush Yards 2022 Reg. Season,Over 850.5,-0.023800000000000043,0.5,0.5238
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,Jack Senior,-0.028000000000000004,0.0196,0.0476
 2022-07-22 17:03:26.126535,Bare Knuckle Fighting Championship - Alex Tierney vs Darrick Gates - To Win the Bout,Darrick Gates,-0.029299999999999993,0.2564,0.2857
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,Eddie Pepperell,-0.030500000000000003,0.004,0.0345
+2022-07-23 01:04:14.926726,Senior Open Championship - Senior Open Championship - Outright,Richard Green,-0.032799999999999996,0.0057,0.0385
+2022-07-23 01:04:14.926726,Senior Open Championship - Senior Open Championship - Outright,Thomas Bjorn,-0.0345,0.004,0.0385
 2022-07-22 21:02:48.181822,Running Backs - Clyde Edwards-Helaire Rush TD's 2022 Reg. Season - Clyde Edwards-Helaire Rush TD's 2022 Reg. Season,Over 5.5,-0.03480000000000005,0.5,0.5348
+2022-07-23 01:04:14.926726,Senior Open Championship - Senior Open Championship - Outright,Thongchai Jaidee,-0.0373,0.0294,0.0667
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,Jorge Campillo,-0.0436,0.004,0.0476
+2022-07-23 01:04:14.926726,Senior Open Championship - Senior Open Championship - Outright,Padraig Harrington,-0.04620000000000002,0.1538,0.2
 2022-07-22 16:03:55.187189,MLB Specials - Where will Josh Bell be playing after the 2022 MLB Trade Deadline? - Proposition,Washington Nationals,-0.06670000000000004,0.3333,0.4
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,Oliver Bekker,-0.0756,0.0013,0.0769
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,Richard Mansell,-0.1012,0.0099,0.1111
