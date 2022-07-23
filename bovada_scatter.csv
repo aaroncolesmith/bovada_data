@@ -1,6 +1,7 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-23 01:04:14.926726,Senior Open Championship - Senior Open Championship - Outright,Darren Clarke,0.13419999999999999,0.1818,0.0476
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,Paul Waring,0.0857,0.2857,0.2
+2022-07-23 05:03:27.753143,MLB Specials - Who will be ejected from More Games in the 2022 Season? - Proposition,Aaron Boone,0.0857,0.2857,0.2
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,Jens Dantorp,0.0705,0.1538,0.0833
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,Julien Guerrier,0.06620000000000001,0.125,0.0588
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,Callum Shinkwin,0.0655,0.1,0.0345
@@ -13,42 +14,46 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-23 04:03:35.288387,MLB Futures - MLB 2022 Amercian League - AL Winner,Toronto Blue Jays,0.024999999999999994,0.125,0.1
 2022-07-23 01:04:14.926726,Senior Open Championship - Senior Open Championship - Outright,Colin Montgomerie,0.024600000000000004,0.0345,0.0099
 2022-07-23 01:04:14.926726,Senior Open Championship - Senior Open Championship - Outright,Bernhard Langer,0.024299999999999995,0.0769,0.0526
-2022-07-23 05:03:53.669139,College Season Props - 2022 - Regular Season Wins - New Mexico - 2022 - Regular Season Wins - New Mexico,Over 2.5,0.023800000000000043,0.5238,0.5
 2022-07-23 04:03:36.208606,The Evian Championship - 2/3 Balls - 3rd Round 3 Balls - A. Furue / C. Hull / L. Ko - 3rd Round 3 Balls,Lydia Ko,0.023800000000000043,0.5238,0.5
+2022-07-23 05:03:53.669139,College Season Props - 2022 - Regular Season Wins - New Mexico - 2022 - Regular Season Wins - New Mexico,Over 2.5,0.023800000000000043,0.5238,0.5
 2022-07-23 05:03:54.064416,College Season Props - 2022 - Regular Season Wins - Auburn - 2022 - Regular Season Wins - Auburn,Over 6.5,0.022699999999999998,0.4878,0.4651
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,Nacho Elvira,0.022400000000000003,0.0244,0.002
 2022-07-23 01:04:14.926726,Senior Open Championship - Senior Open Championship - Outright,Steven Alker,0.022000000000000006,0.1053,0.0833
 2022-07-22 23:02:44.930145,Boxing Lines - Gabriel Flores Jr vs Giovanni Cabrera - To Win the Bout,Giovanni Cabrera,0.02169999999999994,0.5455,0.5238
 2022-07-22 21:02:49.205115,Quarterbacks - Justin Fields Passing Yards 2022 Reg. Season  - Justin Fields Passing Yards 2022 Reg. Season,Under 3250.5,0.02079999999999993,0.5556,0.5348
-2022-07-22 21:02:47.191740,Wide Receivers - Jerry Jeudy Receptions 2022 Reg. Season  - Outright,Under 73.5,0.02079999999999993,0.5556,0.5348
 2022-07-22 21:02:46.672203,Wide Receivers - Chase Claypool Rec TD’s 2022 Reg. Season - Outright,Under 4.5,0.02079999999999993,0.5556,0.5348
 2022-07-22 21:02:47.129821,Wide Receivers - Jakobi Meyers Rec TD’s 2022 Reg. Season - Outright,Under 4,0.02079999999999993,0.5556,0.5348
+2022-07-22 21:02:47.191740,Wide Receivers - Jerry Jeudy Receptions 2022 Reg. Season  - Outright,Under 73.5,0.02079999999999993,0.5556,0.5348
 2022-07-23 04:03:36.250846,The Evian Championship - 2/3 Balls - 3rd Round 3 Balls - A. Thitikul / C. Ciganda / H.J. Kim - 3rd Round 3 Balls,Atthaya Thitikul,0.020699999999999996,0.4651,0.4444
 2022-07-22 21:02:48.095898,Running Backs - Breece Hall Rush Yards 2022 Reg. Season - Breece Hall Rush Yards 2022 Reg. Season,Under 850.5,0.01970000000000005,0.5652,0.5455
 2022-07-22 21:02:47.897563,Defensive Players - Interceptions - Tre'Davious White Interceptions 2022 Reg. Season - Outright,Under 3.5,0.01970000000000005,0.5652,0.5455
-2022-07-22 18:02:59.168390,NBA Season Props - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Mike Brown,0.0189,0.0385,0.0196
+2022-07-23 06:04:10.022843,3M Open - 2/3 Balls - 3rd Round 3 Balls - C. Davis / A. Long / P. Malnati - 3rd Round 3 Balls,Cameron Davis,0.019699999999999995,0.4545,0.4348
 2022-07-23 04:03:36.284835,The Evian Championship - 2/3 Balls - 3rd Round 3 Balls - B. Henderson / N. Korda / S.Y. Kim - 3rd Round 3 Balls,Brooke Henderson,0.017600000000000005,0.3509,0.3333
-2022-07-23 05:03:52.344024,College Season Props - 2022 - Regular Season Wins - UTEP - 2022 - Regular Season Wins - UTEP,Over 5.5,0.017299999999999982,0.5917,0.5744
 2022-07-22 21:02:48.898788,Defensive Players - Sacks - Travon Walker Sacks 2022 Reg. Season - Outright,Under 7.5,0.017299999999999982,0.5917,0.5744
+2022-07-23 05:03:52.344024,College Season Props - 2022 - Regular Season Wins - UTEP - 2022 - Regular Season Wins - UTEP,Over 5.5,0.017299999999999982,0.5917,0.5744
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,Marcus Armitage,0.015300000000000001,0.0588,0.0435
 2022-07-23 01:04:14.926726,Senior Open Championship - Senior Open Championship - Outright,Ernie Els,0.01440000000000001,0.1053,0.0909
 2022-07-23 01:04:07.015244,Boxing Lines - Andy Ruiz Jr. vs Luis Ortiz - To Win the Bout,Luis Ortiz,0.0131,0.303,0.2899
 2022-07-23 05:03:51.798831,College Season Props - 2022 - Regular Season Wins - Nebraska - 2022 - Regular Season Wins - Nebraska,Over 7.5,0.012199999999999989,0.5,0.4878
+2022-07-23 06:04:06.767296,Boxing Lines - Gabriel Flores Jr vs Giovanni Cabrera - To Win the Bout,Gabriel Flores Jr,0.011600000000000055,0.5238,0.5122
 2022-07-23 05:03:53.322791,College Season Props - 2022 - Regular Season Wins - Tennessee - 2022 - Regular Season Wins - Tennessee,Over 7.5,0.011499999999999955,0.6667,0.6552
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,Richie Ramsay,0.011199999999999995,0.0588,0.0476
 2022-07-23 01:04:06.962273,Boxing Lines - Gabriel Flores Jr vs Giovanni Cabrera - To Win the Bout,Giovanni Cabrera,0.010099999999999998,0.5556,0.5455
+2022-07-23 06:04:06.767296,Boxing Lines - Gabriel Flores Jr vs Giovanni Cabrera - To Win the Bout,Giovanni Cabrera,-0.010099999999999998,0.5455,0.5556
 2022-07-23 04:03:36.284835,The Evian Championship - 2/3 Balls - 3rd Round 3 Balls - B. Henderson / N. Korda / S.Y. Kim - 3rd Round 3 Balls,Nelly Korda,-0.010099999999999998,0.4444,0.4545
 2022-07-23 01:04:14.926726,Senior Open Championship - Senior Open Championship - Outright,Paul Broadhurst,-0.0102,0.0667,0.0769
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,Wilco Nienaber,-0.0103,0.002,0.0123
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,Oliver Farr,-0.011,0.0013,0.0123
 2022-07-22 23:02:44.930145,Boxing Lines - Gabriel Flores Jr vs Giovanni Cabrera - To Win the Bout,Gabriel Flores Jr,-0.01100000000000001,0.5238,0.5348
 2022-07-22 21:02:48.898788,Defensive Players - Sacks - Travon Walker Sacks 2022 Reg. Season - Outright,Over 7.5,-0.0116,0.4762,0.4878
-2022-07-23 05:03:52.344024,College Season Props - 2022 - Regular Season Wins - UTEP - 2022 - Regular Season Wins - UTEP,Under 5.5,-0.0116,0.4762,0.4878
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,JC Ritchie,-0.0116,0.0033,0.0149
+2022-07-23 05:03:52.344024,College Season Props - 2022 - Regular Season Wins - UTEP - 2022 - Regular Season Wins - UTEP,Under 5.5,-0.0116,0.4762,0.4878
 2022-07-23 01:04:06.962273,Boxing Lines - Gabriel Flores Jr vs Giovanni Cabrera - To Win the Bout,Gabriel Flores Jr,-0.011600000000000055,0.5122,0.5238
+2022-07-23 06:04:10.022843,3M Open - 2/3 Balls - 3rd Round 3 Balls - C. Davis / A. Long / P. Malnati - 3rd Round 3 Balls,Peter Malnati,-0.011699999999999988,0.274,0.2857
 2022-07-23 01:04:14.926726,Senior Open Championship - Senior Open Championship - Outright,Paul Lawrie,-0.011699999999999999,0.0079,0.0196
 2022-07-23 05:03:54.623285,College Season Props - 2022 - Regular Season Wins - USC - 2022 - Regular Season Wins - USC,Over 9.5,-0.012199999999999989,0.5,0.5122
 2022-07-23 04:03:36.250846,The Evian Championship - 2/3 Balls - 3rd Round 3 Balls - A. Thitikul / C. Ciganda / H.J. Kim - 3rd Round 3 Balls,Hyo Joo Kim,-0.012699999999999989,0.3509,0.3636
+2022-07-23 06:04:07.023744,Boxing Lines - Andy Ruiz Jr. vs Luis Ortiz - To Win the Bout,Luis Ortiz,-0.0131,0.2899,0.303
 2022-07-23 01:04:14.926726,Senior Open Championship - Senior Open Championship - Outright,Doug Barron,-0.0139,0.0057,0.0196
 2022-07-23 01:04:14.926726,Senior Open Championship - Senior Open Championship - Outright,Glen Day,-0.014900000000000004,0.0196,0.0345
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,Thorbjorn Olesen,-0.0165,0.0079,0.0244
@@ -57,9 +62,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,Matthew Southgate,-0.018200000000000004,0.0294,0.0476
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,Ross Fisher,-0.0186,0.001,0.0196
 2022-07-23 05:03:53.669139,College Season Props - 2022 - Regular Season Wins - New Mexico - 2022 - Regular Season Wins - New Mexico,Under 2.5,-0.01970000000000005,0.5455,0.5652
-2022-07-22 21:02:47.191740,Wide Receivers - Jerry Jeudy Receptions 2022 Reg. Season  - Outright,Over 73.5,-0.022600000000000064,0.5122,0.5348
-2022-07-22 21:02:47.129821,Wide Receivers - Jakobi Meyers Rec TD’s 2022 Reg. Season - Outright,Over 4,-0.022600000000000064,0.5122,0.5348
 2022-07-22 21:02:46.672203,Wide Receivers - Chase Claypool Rec TD’s 2022 Reg. Season - Outright,Over 4.5,-0.022600000000000064,0.5122,0.5348
+2022-07-22 21:02:47.129821,Wide Receivers - Jakobi Meyers Rec TD’s 2022 Reg. Season - Outright,Over 4,-0.022600000000000064,0.5122,0.5348
+2022-07-22 21:02:47.191740,Wide Receivers - Jerry Jeudy Receptions 2022 Reg. Season  - Outright,Over 73.5,-0.022600000000000064,0.5122,0.5348
 2022-07-22 21:02:49.205115,Quarterbacks - Justin Fields Passing Yards 2022 Reg. Season  - Justin Fields Passing Yards 2022 Reg. Season,Over 3250.5,-0.022600000000000064,0.5122,0.5348
 2022-07-23 01:04:14.926726,Senior Open Championship - Senior Open Championship - Outright,Stephen Ames,-0.02310000000000001,0.0769,0.1
 2022-07-22 21:02:45.806973,Cazoo Classic - Cazoo Classic - Outright,Garrick Porteous,-0.023200000000000002,0.0294,0.0526
