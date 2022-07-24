@@ -14,13 +14,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-24 00:02:41.511615,Running Backs - Antonio Gibson Rush TD's 2022 Reg. Season - Antonio Gibson Rush TD's 2022 Reg. Season,Under 7.5,0.044399999999999995,0.6,0.5556
 2022-07-24 06:03:01.846055,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Team With The Fewest Wins (Regular Season),SEA Seahawks,0.04169999999999999,0.1667,0.125
 2022-07-24 04:03:24.352815,MLB Specials - Where will Luis Castillo be playing after the 2022 MLB Trade Deadline? - Proposition,Los Angeles Dodgers,0.03570000000000001,0.2857,0.25
+2022-07-24 07:02:54.198712,Game of Thrones Specials - Which Dragons Will Be Alive At The End Of Season 1? - Proposition,Meleys,0.035699999999999954,0.75,0.7143
 2022-07-24 00:02:41.575636,Running Backs - Breece Hall Rush Yards 2022 Reg. Season - Breece Hall Rush Yards 2022 Reg. Season,Under 850.5,0.03479999999999994,0.6,0.5652
 2022-07-23 20:02:50.310761,Cazoo Classic - Cazoo Classic - Outright,Sami Valimaki,0.03330000000000001,0.1,0.0667
+2022-07-24 07:02:54.198712,Game of Thrones Specials - Which Dragons Will Be Alive At The End Of Season 1? - Proposition,Vhagar,0.033299999999999996,0.8333,0.8
 2022-07-24 00:02:42.283791,Defensive Players - Sacks - Joey Bosa Sacks 2022 Reg. Season - Outright,Under 12.5,0.030399999999999983,0.5652,0.5348
 2022-07-24 04:03:46.279791,College Season Props - 2022 - Regular Season Wins - Oregon - 2022 - Regular Season Wins - Oregon,Over 8.5,0.028900000000000037,0.5744,0.5455
 2022-07-23 19:03:23.920539,Senior Open Championship - Senior Open Championship - Outright,Darren Clarke,0.028700000000000003,0.2105,0.1818
 2022-07-24 06:02:52.767818,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Los Angeles Dodgers,0.02779999999999999,0.25,0.2222
 2022-07-24 04:03:24.186086,MLB Specials - Next Manager to Permanently Leave Post - Proposition,AJ Hinch,0.0267,0.1176,0.0909
+2022-07-24 07:02:54.198712,Game of Thrones Specials - Which Dragons Will Be Alive At The End Of Season 1? - Proposition,Vermax,0.024799999999999933,0.7895,0.7647
 2022-07-23 20:02:50.310761,Cazoo Classic - Cazoo Classic - Outright,Robert MacIntyre,0.024600000000000004,0.0345,0.0099
 2022-07-23 22:03:02.739699,Boxing Lines - Joet Gonzalez vs Isaac Dogboe - To Win the Bout,Joet Gonzalez,0.02440000000000009,0.7647,0.7403
 2022-07-24 06:02:52.783687,MLB Futures - MLB 2022 Amercian League - AL Winner,Seattle Mariners,0.024299999999999995,0.0769,0.0526
@@ -32,9 +35,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-24 06:02:51.756650,3M Open - 2/3 Balls - Final Round 3 Balls - J. Kim / D. Lingmerth / R. Lamb - Final Round 3 Balls,David Lingmerth,0.021999999999999964,0.3077,0.2857
 2022-07-23 20:02:50.310761,Cazoo Classic - Cazoo Classic - Outright,Thorbjorn Olesen,0.0215,0.0294,0.0079
 2022-07-24 06:02:51.743399,3M Open - 2/3 Balls - Final Round 3 Balls - C. Davis / C. Seiffert / P. Barjon - Final Round 3 Balls,Chase Seiffert,0.020799999999999985,0.3333,0.3125
+2022-07-24 04:03:46.355792,College Season Props - 2022 - Regular Season Wins - California - 2022 - Regular Season Wins - California,Under 5.5,0.02079999999999993,0.5556,0.5348
 2022-07-24 00:02:42.243767,Defensive Players - Sacks - Chase Young Sacks 2022 Reg. Season - Outright,Under 8,0.02079999999999993,0.5556,0.5348
 2022-07-24 04:03:47.595688,College Season Props - 2022 - Regular Season Wins - Washington State - 2022 - Regular Season Wins - Washington State,Under 5.5,0.02079999999999993,0.5556,0.5348
-2022-07-24 04:03:46.355792,College Season Props - 2022 - Regular Season Wins - California - 2022 - Regular Season Wins - California,Under 5.5,0.02079999999999993,0.5556,0.5348
 2022-07-23 22:03:02.926252,Bare Knuckle Fighting Championship - Alex Tierney vs Darrick Gates - To Win the Bout,Alex Tierney,0.020500000000000074,0.8667,0.8462
 2022-07-24 01:03:03.393640,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Toronto Blue Jays,0.0203,0.0588,0.0385
 2022-07-24 04:03:26.218796,Cazoo Classic - Cazoo Classic - Outright,Jens Dantorp,0.020100000000000007,0.1739,0.1538
@@ -56,6 +59,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-24 01:03:03.408817,MLB Futures - MLB 2022 Amercian League - AL Winner,Toronto Blue Jays,0.013899999999999996,0.125,0.1111
 2022-07-24 01:03:02.738173,Cazoo Classic - 2/3 Balls - Final Round 2 Balls - M. Armitage vs R. Petersson - Final Round 2 Balls,Robin Petersson,0.013600000000000001,0.3077,0.2941
 2022-07-23 22:03:02.727841,Boxing Lines - Gabriel Flores Jr vs Giovanni Cabrera - To Win the Bout,Giovanni Cabrera,0.012800000000000034,0.5455,0.5327
+2022-07-24 07:02:55.430233,Senior Open Championship - Senior Open Championship - Outright,Darren Clarke,0.011700000000000016,0.2222,0.2105
 2022-07-24 04:03:45.762918,College Season Props - 2022 - Regular Season Wins - Texas A&M - 2022 - Regular Season Wins - Texas A&M,Over 8.5,0.011499999999999955,0.6667,0.6552
 2022-07-24 01:03:03.408817,MLB Futures - MLB 2022 Amercian League - AL Winner,Tampa Bay Rays,0.011199999999999995,0.0588,0.0476
 2022-07-24 05:03:54.298889,Cazoo Classic - Cazoo Classic - Outright,Sami Valimaki,0.011099999999999999,0.1111,0.1
@@ -80,6 +84,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-23 20:02:50.310761,Cazoo Classic - Cazoo Classic - Outright,Santiago Tarrio,-0.0145,0.0004,0.0149
 2022-07-23 23:03:24.837329,Boxing Lines - Joet Gonzalez vs Isaac Dogboe - To Win the Bout,Joet Gonzalez,-0.014700000000000046,0.75,0.7647
 2022-07-24 01:03:02.738173,Cazoo Classic - 2/3 Balls - Final Round 2 Balls - M. Armitage vs R. Petersson - Final Round 2 Balls,Marcus Armitage,-0.014900000000000024,0.6774,0.6923
+2022-07-24 07:02:55.430233,Senior Open Championship - Senior Open Championship - Outright,Steven Alker,-0.015899999999999997,0.2222,0.2381
 2022-07-23 23:03:25.075948,Bare Knuckle Fighting Championship - Alex Tierney vs Darrick Gates - To Win the Bout,Darrick Gates,-0.016600000000000004,0.1739,0.1905
 2022-07-24 01:03:03.425265,MLB Futures - MLB 2022 National League - NL Winner,Los Angeles Dodgers,-0.016699999999999993,0.4,0.4167
 2022-07-24 06:02:52.836566,MLB Futures - MLB 2022 American League West - ALW Winner,Seattle Mariners,-0.018099999999999998,0.0345,0.0526
@@ -93,9 +98,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-23 20:02:49.686159,Bare Knuckle Fighting Championship - John Escoboza vs Jared Warren - To Win the Bout,Jared Warren,-0.01970000000000005,0.5455,0.5652
 2022-07-23 19:03:23.920539,Senior Open Championship - Senior Open Championship - Outright,Ernie Els,-0.022000000000000006,0.0833,0.1053
 2022-07-23 20:02:50.310761,Cazoo Classic - Cazoo Classic - Outright,Nacho Elvira,-0.022400000000000003,0.002,0.0244
+2022-07-24 04:03:47.595688,College Season Props - 2022 - Regular Season Wins - Washington State - 2022 - Regular Season Wins - Washington State,Over 5.5,-0.022600000000000064,0.5122,0.5348
 2022-07-24 00:02:42.243767,Defensive Players - Sacks - Chase Young Sacks 2022 Reg. Season - Outright,Over 8,-0.022600000000000064,0.5122,0.5348
 2022-07-24 04:03:46.355792,College Season Props - 2022 - Regular Season Wins - California - 2022 - Regular Season Wins - California,Over 5.5,-0.022600000000000064,0.5122,0.5348
-2022-07-24 04:03:47.595688,College Season Props - 2022 - Regular Season Wins - Washington State - 2022 - Regular Season Wins - Washington State,Over 5.5,-0.022600000000000064,0.5122,0.5348
 2022-07-24 06:02:52.797532,MLB Futures - MLB 2022 National League - NL Winner,Milwaukee Brewers,-0.02310000000000001,0.0769,0.1
 2022-07-24 04:03:47.207942,College Season Props - 2022 - Regular Season Wins - Mississippi State - 2022 - Regular Season Wins - Mississippi State,Under 6.5,-0.023800000000000043,0.5,0.5238
 2022-07-23 20:02:50.310761,Cazoo Classic - Cazoo Classic - Outright,David Horsey,-0.024,0.0004,0.0244
