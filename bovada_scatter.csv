@@ -5,8 +5,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-24 04:03:24.213887,MLB Specials - Where will Andrew Benintendi be playing after the 2022 MLB Trade Deadline? - Proposition,New York Yankees,0.1167,0.25,0.1333
 2022-07-23 20:02:50.310761,Cazoo Classic - Cazoo Classic - Outright,Julien Guerrier,0.1076,0.2326,0.125
 2022-07-23 20:02:50.310761,Cazoo Classic - Cazoo Classic - Outright,Alexander Bjork,0.1061,0.1111,0.005
-2022-07-24 04:03:24.352815,MLB Specials - Where will Luis Castillo be playing after the 2022 MLB Trade Deadline? - Proposition,Toronto Blue Jays,0.06669999999999998,0.2667,0.2
 2022-07-23 19:03:23.920539,Senior Open Championship - Senior Open Championship - Outright,Jerry Kelly,0.06669999999999998,0.1667,0.1
+2022-07-24 04:03:24.352815,MLB Specials - Where will Luis Castillo be playing after the 2022 MLB Trade Deadline? - Proposition,Toronto Blue Jays,0.06669999999999998,0.2667,0.2
 2022-07-24 00:02:41.519897,Running Backs - Antonio Gibson Rush Yards 2022 Reg. Season - Antonio Gibson Rush Yards 2022 Reg. Season,Under 875.5,0.05449999999999999,0.6,0.5455
 2022-07-24 01:03:02.516603,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law' - Proposition,Man-Bull,0.04909999999999992,0.8824,0.8333
 2022-07-23 21:03:19.498975,Exhibition Fights - Le'Veon Bell vs Adrian Peterson - To Win the Bout,Le'Veon Bell,0.04760000000000009,0.7143,0.6667
@@ -26,9 +26,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-23 19:03:23.920539,Senior Open Championship - Senior Open Championship - Outright,Thongchai Jaidee,0.023200000000000002,0.0526,0.0294
 2022-07-23 23:03:25.075948,Bare Knuckle Fighting Championship - Alex Tierney vs Darrick Gates - To Win the Bout,Alex Tierney,0.022199999999999998,0.8889,0.8667
 2022-07-23 20:02:50.310761,Cazoo Classic - Cazoo Classic - Outright,Thorbjorn Olesen,0.0215,0.0294,0.0079
-2022-07-24 00:02:42.243767,Defensive Players - Sacks - Chase Young Sacks 2022 Reg. Season - Outright,Under 8,0.02079999999999993,0.5556,0.5348
-2022-07-24 04:03:47.595688,College Season Props - 2022 - Regular Season Wins - Washington State - 2022 - Regular Season Wins - Washington State,Under 5.5,0.02079999999999993,0.5556,0.5348
 2022-07-24 04:03:46.355792,College Season Props - 2022 - Regular Season Wins - California - 2022 - Regular Season Wins - California,Under 5.5,0.02079999999999993,0.5556,0.5348
+2022-07-24 04:03:47.595688,College Season Props - 2022 - Regular Season Wins - Washington State - 2022 - Regular Season Wins - Washington State,Under 5.5,0.02079999999999993,0.5556,0.5348
+2022-07-24 00:02:42.243767,Defensive Players - Sacks - Chase Young Sacks 2022 Reg. Season - Outright,Under 8,0.02079999999999993,0.5556,0.5348
 2022-07-23 22:03:02.926252,Bare Knuckle Fighting Championship - Alex Tierney vs Darrick Gates - To Win the Bout,Alex Tierney,0.020500000000000074,0.8667,0.8462
 2022-07-24 01:03:03.393640,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Toronto Blue Jays,0.0203,0.0588,0.0385
 2022-07-24 04:03:26.218796,Cazoo Classic - Cazoo Classic - Outright,Jens Dantorp,0.020100000000000007,0.1739,0.1538
@@ -37,6 +37,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-23 22:03:14.799176,MLB Futures - MLB 2022 Amercian League - AL Winner,Houston Astros,0.018799999999999983,0.3636,0.3448
 2022-07-24 01:03:01.466434,NBA Futures - 2022-2023 NBA Southeast Division - Southeast Division Winner,Atlanta Hawks,0.018799999999999983,0.3636,0.3448
 2022-07-23 19:03:23.920539,Senior Open Championship - Senior Open Championship - Outright,Stuart Appleby,0.017400000000000002,0.0323,0.0149
+2022-07-24 05:04:15.329058,College Season Props - 2022 - Regular Season Wins - Michigan State - 2022 - Regular Season Wins - Michigan State,Over 7.5,0.017299999999999982,0.5917,0.5744
 2022-07-24 01:03:03.425265,MLB Futures - MLB 2022 National League - NL Winner,Milwaukee Brewers,0.016700000000000007,0.1,0.0833
 2022-07-24 01:03:02.710648,Cazoo Classic - 2/3 Balls - Final Round 2 Balls - E. Pepperell vs T. Clements - Final Round 2 Balls,Todd Clements,0.016699999999999993,0.4167,0.4
 2022-07-23 22:03:02.727841,Boxing Lines - Gabriel Flores Jr vs Giovanni Cabrera - To Win the Bout,Gabriel Flores Jr,0.01640000000000008,0.5238,0.5074
@@ -48,15 +49,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-23 22:03:02.727841,Boxing Lines - Gabriel Flores Jr vs Giovanni Cabrera - To Win the Bout,Giovanni Cabrera,0.012800000000000034,0.5455,0.5327
 2022-07-24 04:03:45.762918,College Season Props - 2022 - Regular Season Wins - Texas A&M - 2022 - Regular Season Wins - Texas A&M,Over 8.5,0.011499999999999955,0.6667,0.6552
 2022-07-24 01:03:03.408817,MLB Futures - MLB 2022 Amercian League - AL Winner,Tampa Bay Rays,0.011199999999999995,0.0588,0.0476
+2022-07-24 05:03:54.298889,Cazoo Classic - Cazoo Classic - Outright,Sami Valimaki,0.011099999999999999,0.1111,0.1
 2022-07-24 04:03:46.871196,College Season Props - 2022 - Regular Season Wins - Kentucky - 2022 - Regular Season Wins - Kentucky,Over 7.5,0.010700000000000043,0.6774,0.6667
 2022-07-24 01:03:03.425265,MLB Futures - MLB 2022 National League - NL Winner,San Diego Padres,0.0102,0.0769,0.0667
 2022-07-24 04:03:44.983303,College Season Props - 2022 - Regular Season Wins - Mississippi - 2022 - Regular Season Wins - Mississippi,Under 7.5,0.010099999999999998,0.4545,0.4444
 2022-07-24 04:03:45.259258,College Season Props - 2022 - Regular Season Wins - Kansas - 2022 - Regular Season Wins - Kansas,Under 2.5,-0.010599999999999998,0.4545,0.4651
 2022-07-24 01:03:01.466434,NBA Futures - 2022-2023 NBA Southeast Division - Southeast Division Winner,Miami Heat,-0.011499999999999955,0.6552,0.6667
+2022-07-24 05:04:15.329058,College Season Props - 2022 - Regular Season Wins - Michigan State - 2022 - Regular Season Wins - Michigan State,Under 7.5,-0.0116,0.4762,0.4878
 2022-07-23 23:03:24.792863,Boxing Lines - Vianello Guido vs Rafael Rios - To Win the Bout,Rafael Rios,-0.011899999999999994,0.0714,0.0833
 2022-07-24 04:03:44.706055,College Season Props - 2022 - Regular Season Wins - West Virginia - 2022 - Regular Season Wins - West Virginia,Over 5.5,-0.012199999999999989,0.5,0.5122
-2022-07-24 04:03:46.590448,College Season Props - 2022 - Regular Season Wins - USC - 2022 - Regular Season Wins - USC,Over 9.5,-0.012199999999999989,0.4878,0.5
 2022-07-24 04:03:47.739119,College Season Props - 2022 - Regular Season Wins - Washington - 2022 - Regular Season Wins - Washington,Under 7.5,-0.012199999999999989,0.5,0.5122
+2022-07-24 04:03:46.590448,College Season Props - 2022 - Regular Season Wins - USC - 2022 - Regular Season Wins - USC,Over 9.5,-0.012199999999999989,0.4878,0.5
 2022-07-23 19:03:23.920539,Senior Open Championship - Senior Open Championship - Outright,Miguel Angel Martin,-0.0124,0.0025,0.0149
 2022-07-24 01:03:03.408817,MLB Futures - MLB 2022 Amercian League - AL Winner,Seattle Mariners,-0.014099999999999994,0.0526,0.0667
 2022-07-23 20:02:50.310761,Cazoo Classic - Cazoo Classic - Outright,Santiago Tarrio,-0.0145,0.0004,0.0149
@@ -65,10 +68,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-23 23:03:25.075948,Bare Knuckle Fighting Championship - Alex Tierney vs Darrick Gates - To Win the Bout,Darrick Gates,-0.016600000000000004,0.1739,0.1905
 2022-07-24 01:03:03.425265,MLB Futures - MLB 2022 National League - NL Winner,Los Angeles Dodgers,-0.016699999999999993,0.4,0.4167
 2022-07-24 01:03:02.710648,Cazoo Classic - 2/3 Balls - Final Round 2 Balls - E. Pepperell vs T. Clements - Final Round 2 Balls,Eddie Pepperell,-0.018100000000000005,0.5652,0.5833
-2022-07-24 04:03:24.213887,MLB Specials - Where will Andrew Benintendi be playing after the 2022 MLB Trade Deadline? - Proposition,Philadelphia Phillies,-0.01830000000000001,0.0769,0.0952
 2022-07-24 04:03:24.213887,MLB Specials - Where will Andrew Benintendi be playing after the 2022 MLB Trade Deadline? - Proposition,Houston Astros,-0.01830000000000001,0.0769,0.0952
-2022-07-23 19:03:23.920539,Senior Open Championship - Senior Open Championship - Outright,Glen Day,-0.0192,0.0004,0.0196
+2022-07-24 04:03:24.213887,MLB Specials - Where will Andrew Benintendi be playing after the 2022 MLB Trade Deadline? - Proposition,Philadelphia Phillies,-0.01830000000000001,0.0769,0.0952
+2022-07-24 05:04:11.062262,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Team With The Fewest Wins (Regular Season),HOU Texans,-0.019000000000000017,0.2667,0.2857
 2022-07-23 20:02:50.310761,Cazoo Classic - Cazoo Classic - Outright,Jack Senior,-0.0192,0.0004,0.0196
+2022-07-23 19:03:23.920539,Senior Open Championship - Senior Open Championship - Outright,Glen Day,-0.0192,0.0004,0.0196
 2022-07-23 23:03:46.945273,College Season Props - 2022 - Regular Season Wins - Coastal Carolina - 2022 - Regular Season Wins - Coastal Carolina,Over 8,-0.019699999999999995,0.4348,0.4545
 2022-07-23 20:02:49.686159,Bare Knuckle Fighting Championship - John Escoboza vs Jared Warren - To Win the Bout,Jared Warren,-0.01970000000000005,0.5455,0.5652
 2022-07-23 19:03:23.920539,Senior Open Championship - Senior Open Championship - Outright,Ernie Els,-0.022000000000000006,0.0833,0.1053
@@ -83,6 +87,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-23 20:02:50.310761,Cazoo Classic - Cazoo Classic - Outright,Daan Huizing,-0.0282,0.0244,0.0526
 2022-07-23 19:03:23.920539,Senior Open Championship - Senior Open Championship - Outright,Padraig Harrington,-0.028799999999999992,0.125,0.1538
 2022-07-23 20:02:50.310761,Cazoo Classic - Cazoo Classic - Outright,Matthew Southgate,-0.028999999999999998,0.0004,0.0294
+2022-07-24 04:03:24.352815,MLB Specials - Where will Luis Castillo be playing after the 2022 MLB Trade Deadline? - Proposition,Cincinnati Reds,-0.029000000000000026,0.4255,0.4545
 2022-07-23 20:02:50.310761,Cazoo Classic - Cazoo Classic - Outright,Marcus Armitage,-0.0294,0.0294,0.0588
 2022-07-24 01:03:03.408817,MLB Futures - MLB 2022 Amercian League - AL Winner,Houston Astros,-0.030299999999999994,0.3333,0.3636
 2022-07-24 01:03:03.425265,MLB Futures - MLB 2022 National League - NL Winner,New York Mets,-0.031399999999999983,0.2353,0.2667
