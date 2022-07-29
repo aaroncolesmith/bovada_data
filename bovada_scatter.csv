@@ -26,19 +26,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-29 07:04:21.718129,NCAAF - 2022 ACC Championship - Odds to Win - 2022 ACC Championship Winner,Florida State,0.015300000000000001,0.0588,0.0435
 2022-07-29 17:03:10.050672,MLB Futures - MLB 2022 National League - NL Winner,New York Mets,0.01469999999999999,0.25,0.2353
 2022-07-29 07:04:21.718129,NCAAF - 2022 ACC Championship - Odds to Win - 2022 ACC Championship Winner,NC State,0.013899999999999996,0.125,0.1111
-2022-07-29 06:04:45.652361,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3 Balls - A. Hadwin / M. McNealy / D. Redman - 2nd Round 3 Balls,Maverick McNealy,0.013800000000000034,0.3774,0.3636
 2022-07-29 06:04:45.588325,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3 Balls - A. Scott / K. Bradley / K. Kisner - 2nd Round 3 Balls,Keegan Bradley,0.013800000000000034,0.3774,0.3636
+2022-07-29 06:04:45.652361,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3 Balls - A. Hadwin / M. McNealy / D. Redman - 2nd Round 3 Balls,Maverick McNealy,0.013800000000000034,0.3774,0.3636
 2022-07-29 06:04:44.646464,Boxing Lines - Dewayne Beamon vs Pablo Carrillo - To Win the Bout,Pablo Carrillo,0.011600000000000055,0.5238,0.5122
 2022-07-29 15:03:03.602355,Boxing Lines - Dewayne Beamon vs Pablo Carrillo - To Win the Bout,Pablo Carrillo,0.011600000000000055,0.5238,0.5122
+2022-07-29 18:03:09.515176,Boxing Lines - Dewayne Beamon vs Pablo Carrillo - To Win the Bout,Pablo Carrillo,0.011600000000000055,0.5238,0.5122
 2022-07-29 07:04:11.676036,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3 Balls - J. Kim / S. Piercy / K. Chappell - 2nd Round 3 Balls,Joohyung Kim,0.01100000000000001,0.5348,0.5238
 2022-07-29 06:04:45.500971,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3 Balls - S. Theegala / B. Wu / B. Hossler - 2nd Round 3 Balls,Beau Hossler,0.010699999999999987,0.3333,0.3226
 2022-07-29 16:02:45.784888,WNBA - 2022 WNBA Championship Winner - 2022 Champion,Chicago Sky,0.010099999999999998,0.3226,0.3125
 2022-07-29 17:03:11.130161,Boxing Lines - Dewayne Beamon vs Pablo Carrillo - To Win the Bout,Dewayne Beamon,0.010099999999999998,0.5556,0.5455
 2022-07-29 06:04:44.646464,Boxing Lines - Dewayne Beamon vs Pablo Carrillo - To Win the Bout,Dewayne Beamon,-0.010099999999999998,0.5455,0.5556
+2022-07-29 18:03:09.515176,Boxing Lines - Dewayne Beamon vs Pablo Carrillo - To Win the Bout,Dewayne Beamon,-0.010099999999999998,0.5455,0.5556
 2022-07-29 07:04:11.602567,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3 Balls - S. Theegala / B. Wu / B. Hossler - 2nd Round 3 Balls,Beau Hossler,-0.010699999999999987,0.3226,0.3333
 2022-07-29 06:04:45.500971,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3 Balls - S. Theegala / B. Wu / B. Hossler - 2nd Round 3 Balls,Brandon Wu,-0.010699999999999987,0.3226,0.3333
-2022-07-29 17:03:11.130161,Boxing Lines - Dewayne Beamon vs Pablo Carrillo - To Win the Bout,Pablo Carrillo,-0.011600000000000055,0.5122,0.5238
 2022-07-29 10:04:05.557110,Boxing Lines - Dewayne Beamon vs Pablo Carrillo - To Win the Bout,Pablo Carrillo,-0.011600000000000055,0.5122,0.5238
+2022-07-29 17:03:11.130161,Boxing Lines - Dewayne Beamon vs Pablo Carrillo - To Win the Bout,Pablo Carrillo,-0.011600000000000055,0.5122,0.5238
 2022-07-29 07:04:11.711717,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3 Balls - W. Simpson / J. Day / R. Fowler - 2nd Round 3 Balls,Jason Day,-0.012699999999999989,0.3509,0.3636
 2022-07-29 06:04:45.602404,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3 Balls - C. Tringale / J.J. Spaun / A. Landry - 2nd Round 3 Balls,J.J. Spaun,-0.012699999999999989,0.3509,0.3636
 2022-07-29 17:03:10.026236,MLB Futures - MLB 2022 Amercian League - AL Winner,New York Yankees,-0.013300000000000034,0.3571,0.3704
@@ -50,14 +52,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-29 07:04:11.630929,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3 Balls - M. Homa / L. List / J. Dahmen - 2nd Round 3 Balls,Joel Dahmen,-0.019000000000000017,0.2667,0.2857
 2022-07-29 07:04:21.718129,NCAAF - 2022 ACC Championship - Odds to Win - 2022 ACC Championship Winner,Clemson,-0.01970000000000005,0.5455,0.5652
 2022-07-29 11:03:15.818778,Round Match-Ups - Parlays - 2nd Round Match-Up - L. List v J. Dahmen - 2nd Round Match-Up,Luke List,-0.02079999999999993,0.5348,0.5556
-2022-07-29 07:04:11.711717,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3 Balls - W. Simpson / J. Day / R. Fowler - 2nd Round 3 Balls,Rickie Fowler,-0.021999999999999964,0.2857,0.3077
-2022-07-29 07:04:11.723664,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3 Balls - P. Cantlay / C. Champ / G. Woodland - 2nd Round 3 Balls,Gary Woodland,-0.021999999999999964,0.2857,0.3077
 2022-07-29 07:04:11.630929,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3 Balls - M. Homa / L. List / J. Dahmen - 2nd Round 3 Balls,Luke List,-0.021999999999999964,0.2857,0.3077
 2022-07-29 07:04:11.723664,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3 Balls - P. Cantlay / C. Champ / G. Woodland - 2nd Round 3 Balls,Cameron Champ,-0.021999999999999964,0.2857,0.3077
+2022-07-29 07:04:11.723664,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3 Balls - P. Cantlay / C. Champ / G. Woodland - 2nd Round 3 Balls,Gary Woodland,-0.021999999999999964,0.2857,0.3077
+2022-07-29 07:04:11.711717,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3 Balls - W. Simpson / J. Day / R. Fowler - 2nd Round 3 Balls,Rickie Fowler,-0.021999999999999964,0.2857,0.3077
 2022-07-29 16:02:45.920351,The Basketball Tournament - The Basketball Tournament Championship - Odds to Win,Heartfire,-0.023799999999999988,0.1429,0.1667
 2022-07-29 16:02:47.247605,Tournament Match-Ups - Tournament Match-Up - P. Reed v B. Koepka - Tournament Match-Up ,Brooks Koepka,-0.023800000000000043,0.5,0.5238
-2022-07-29 07:04:11.878628,Round Match-Ups - Parlays - 2nd Round Match-Up - P. Rodgers vs W. Clark - 2nd Round Match-Up,Patrick Rodgers,-0.03489999999999999,0.4651,0.5
 2022-07-29 07:04:11.902448,Round Match-Ups - Parlays - 2nd Round Match-Up - C. Davis vs C. Champ - 2nd Round Match-Up,Cameron Champ,-0.03489999999999999,0.4651,0.5
 2022-07-29 13:03:30.494101,Tournament Team Match-Ups - Tournament Team Match-Ups - Stinger v Smash - Tournament Team Match-Ups ,Smash,-0.03489999999999999,0.4651,0.5
+2022-07-29 07:04:11.878628,Round Match-Ups - Parlays - 2nd Round Match-Up - P. Rodgers vs W. Clark - 2nd Round Match-Up,Patrick Rodgers,-0.03489999999999999,0.4651,0.5
 2022-07-29 17:03:11.968294,2022 Gubernatorial Elections - Arizona - Arizona winner,Republicans,-0.0393,0.5833,0.6226
 2022-07-29 16:02:46.214260,2022 Gubernatorial Elections - Maryland - Maryland winner,Republicans,-0.1111,0.1111,0.2222
