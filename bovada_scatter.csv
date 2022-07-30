@@ -18,10 +18,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-30 14:03:04.213101,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - B. Steele v S. Kang - 3rd Round 2 Balls,Sung Kang,0.03710000000000002,0.3704,0.3333
 2022-07-30 10:05:22.913091,MLS - MLS Cup 2022 - Winner,Toronto FC,0.0344,0.0588,0.0244
 2022-07-30 08:02:50.772215,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Julio Rodriguez,0.033299999999999996,0.8333,0.8
-2022-07-30 10:05:24.400277,Championship - England Championship 2022/23 - To Be Promoted,Luton Town,0.031799999999999995,0.1429,0.1111
-2022-07-30 10:04:58.083314,MLB Futures - MLB 2022 Player Awards - National League MVP ,Austin Riley,0.031799999999999995,0.1429,0.1111
-2022-07-30 11:03:07.435599,Championship - England Championship 2022/23 - To Finish Bottom,Reading,0.031799999999999995,0.1429,0.1111
 2022-07-30 10:05:24.372968,Championship - England Championship 2022/23 - Top Goalscorer,Teemu Pukki,0.031799999999999995,0.1429,0.1111
+2022-07-30 10:05:24.400277,Championship - England Championship 2022/23 - To Be Promoted,Luton Town,0.031799999999999995,0.1429,0.1111
+2022-07-30 11:03:07.435599,Championship - England Championship 2022/23 - To Finish Bottom,Reading,0.031799999999999995,0.1429,0.1111
+2022-07-30 10:04:58.083314,MLB Futures - MLB 2022 Player Awards - National League MVP ,Austin Riley,0.031799999999999995,0.1429,0.1111
 2022-07-30 07:02:59.612998,MLB Futures - MLB 2022 American League Central - ALC Winner,Cleveland Guardians,0.031399999999999983,0.2667,0.2353
 2022-07-30 07:02:51.250407,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - P. Cantlay v S. Stallings - 3rd Round 2 Balls,Scott Stallings,0.030799999999999994,0.4082,0.3774
 2022-07-30 10:05:24.422650,Championship - England Championship 2022/23 - To Be Relegated,Blackpool,0.02779999999999999,0.25,0.2222
@@ -45,44 +45,43 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-30 10:05:24.422650,Championship - England Championship 2022/23 - To Be Relegated,Hull City,0.015100000000000002,0.1818,0.1667
 2022-07-30 15:02:52.316499,Boxing Lines - Adam Kownacki vs Ali Eren Demirezen - To Win the Bout,Adam Kownacki,0.014600000000000002,0.4348,0.4202
 2022-07-30 08:03:08.283043,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Argentinos Juniors,0.013899999999999996,0.125,0.1111
-2022-07-30 11:03:07.449885,Championship - England Championship 2022/23 - Top 6 Finish,Bristol City,0.013899999999999996,0.125,0.1111
 2022-07-30 10:05:24.400277,Championship - England Championship 2022/23 - To Be Promoted,Millwall,0.013899999999999996,0.125,0.1111
+2022-07-30 11:03:07.449885,Championship - England Championship 2022/23 - Top 6 Finish,Bristol City,0.013899999999999996,0.125,0.1111
 2022-07-30 08:03:07.920679,Superligaen - Denmark Superligaen 2022/23 - Outright,FC Midtjylland,0.013600000000000001,0.3077,0.2941
-2022-07-30 08:02:51.364035,Boxing Lines - Junior Younan vs Dauren Yeleussinov - To Win the Bout,Junior Younan,0.0131,0.7778,0.7647
 2022-07-30 09:02:47.418614,NFC South - 2022/2023 NFC South - NFC South Winner,New Orleans Saints,0.0131,0.2353,0.2222
+2022-07-30 08:02:51.364035,Boxing Lines - Junior Younan vs Dauren Yeleussinov - To Win the Bout,Junior Younan,0.0131,0.7778,0.7647
 2022-07-30 11:03:07.435599,Championship - England Championship 2022/23 - To Finish Bottom,Rotherham Utd,0.012899999999999995,0.1667,0.1538
 2022-07-30 06:04:20.638350,The Basketball Tournament - The Basketball Tournament Championship - Odds to Win,Americana for Autism,0.012899999999999995,0.1667,0.1538
 2022-07-30 05:02:54.121089,Stage of Elimination - NFL 2022/23 Stage of Elimination - CIN Bengals Stage of Elimination,To Lose in Conference Championship Game,0.012299999999999991,0.1176,0.1053
 2022-07-30 06:04:30.758869,College Season Props - 2022 - Regular Season Wins - West Virginia - 2022 - Regular Season Wins - West Virginia,Over 5.5,0.012199999999999989,0.5122,0.5
-2022-07-30 03:03:10.165289,MLB Specials - Most Regular Season Home Runs in 2022 - Most Regular Season Home Runs in 2022,Aaron Judge,0.011099999999999999,0.9,0.8889
 2022-07-30 10:04:56.519550,Round Match-Ups - Parlays - 3rd Round Match-Up - W. Zalatoris vs C. Davis - 3rd Round Match-Up,Cameron Davis,0.011099999999999999,0.4762,0.4651
 2022-07-30 05:02:55.543035,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Minnesota Vikings,Over 8,0.011099999999999999,0.7333,0.7222
 2022-07-30 10:05:24.400277,Championship - England Championship 2022/23 - To Be Promoted,Coventry City,0.011099999999999999,0.1111,0.1
-2022-07-30 10:05:24.400277,Championship - England Championship 2022/23 - To Be Promoted,Sheffield United,0.010399999999999993,0.2326,0.2222
 2022-07-30 10:05:24.422650,Championship - England Championship 2022/23 - To Be Relegated,Bristol City,0.010399999999999993,0.2326,0.2222
+2022-07-30 10:05:24.400277,Championship - England Championship 2022/23 - To Be Promoted,Sheffield United,0.010399999999999993,0.2326,0.2222
 2022-07-30 11:03:07.442838,Championship - England Championship 2022/23 - Top 2 Finish,Millwall,0.0102,0.0769,0.0667
+2022-07-30 09:02:39.801268,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Joe Musgrove,-0.0102,0.0667,0.0769
 2022-07-30 10:05:22.913091,MLS - MLS Cup 2022 - Winner,New York Red Bulls,-0.0102,0.0667,0.0769
+2022-07-30 07:02:59.595500,MLB Futures - MLB 2022 Amercian League - AL Winner,Chicago White Sox,-0.0102,0.0667,0.0769
 2022-07-30 10:05:24.400277,Championship - England Championship 2022/23 - To Be Promoted,Hull City,-0.0102,0.0667,0.0769
 2022-07-30 11:03:07.442838,Championship - England Championship 2022/23 - Top 2 Finish,Sunderland,-0.0102,0.0667,0.0769
-2022-07-30 09:02:39.801268,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Joe Musgrove,-0.0102,0.0667,0.0769
-2022-07-30 07:02:59.595500,MLB Futures - MLB 2022 Amercian League - AL Winner,Chicago White Sox,-0.0102,0.0667,0.0769
 2022-07-30 09:02:39.801268,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Tony Gonsolin,-0.0102,0.0667,0.0769
 2022-07-30 10:05:24.422650,Championship - England Championship 2022/23 - To Be Relegated,Sunderland,-0.011099999999999999,0.1,0.1111
 2022-07-30 11:03:07.435599,Championship - England Championship 2022/23 - To Finish Bottom,Blackpool,-0.011099999999999999,0.1,0.1111
 2022-07-30 10:05:24.372968,Championship - England Championship 2022/23 - Top Goalscorer,Daryl Dike,-0.011199999999999995,0.0476,0.0588
-2022-07-30 11:03:07.435599,Championship - England Championship 2022/23 - To Finish Bottom,Cardiff City,-0.011199999999999995,0.0476,0.0588
-2022-07-30 11:03:07.435599,Championship - England Championship 2022/23 - To Finish Bottom,Preston North End,-0.011199999999999995,0.0476,0.0588
 2022-07-30 11:03:07.442838,Championship - England Championship 2022/23 - Top 2 Finish,Hull City,-0.011199999999999995,0.0476,0.0588
+2022-07-30 11:03:07.435599,Championship - England Championship 2022/23 - To Finish Bottom,Preston North End,-0.011199999999999995,0.0476,0.0588
+2022-07-30 11:03:07.435599,Championship - England Championship 2022/23 - To Finish Bottom,Cardiff City,-0.011199999999999995,0.0476,0.0588
 2022-07-30 05:02:55.543035,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Minnesota Vikings,Under 8,-0.01150000000000001,0.3333,0.3448
 2022-07-30 11:03:07.449885,Championship - England Championship 2022/23 - Top 6 Finish,Hull City,-0.012899999999999995,0.1538,0.1667
 2022-07-30 11:03:07.449885,Championship - England Championship 2022/23 - Top 6 Finish,Norwich City,-0.013799999999999923,0.6226,0.6364
 2022-07-30 11:03:07.442838,Championship - England Championship 2022/23 - Top 2 Finish,Swansea City,-0.013899999999999996,0.1111,0.125
 2022-07-30 08:02:50.766359,MLB Futures - MLB 2022 Player Awards - American League MVP,Yordan Álvarez,-0.013999999999999999,0.0769,0.0909
-2022-07-30 08:02:50.772215,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Bobby Witt Jr,-0.013999999999999999,0.0769,0.0909
-2022-07-30 10:05:24.422650,Championship - England Championship 2022/23 - To Be Relegated,Stoke City,-0.013999999999999999,0.0769,0.0909
 2022-07-30 10:05:22.913091,MLS - MLS Cup 2022 - Winner,Austin FC,-0.013999999999999999,0.0769,0.0909
-2022-07-30 08:02:50.766359,MLB Futures - MLB 2022 Player Awards - American League MVP,Jose Ramirez,-0.014099999999999998,0.0244,0.0385
+2022-07-30 10:05:24.422650,Championship - England Championship 2022/23 - To Be Relegated,Stoke City,-0.013999999999999999,0.0769,0.0909
+2022-07-30 08:02:50.772215,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Bobby Witt Jr,-0.013999999999999999,0.0769,0.0909
 2022-07-30 11:03:07.442838,Championship - England Championship 2022/23 - Top 2 Finish,Reading,-0.014099999999999998,0.0244,0.0385
+2022-07-30 08:02:50.766359,MLB Futures - MLB 2022 Player Awards - American League MVP,Jose Ramirez,-0.014099999999999998,0.0244,0.0385
 2022-07-30 07:02:59.621165,MLB Futures - MLB 2022 American League East - ALE Winner,Toronto Blue Jays,-0.014100000000000001,0.0385,0.0526
 2022-07-30 10:05:24.372968,Championship - England Championship 2022/23 - Top Goalscorer,Jordan Rhodes,-0.014499999999999999,0.0149,0.0294
 2022-07-30 10:05:24.372968,Championship - England Championship 2022/23 - Top Goalscorer,Macauley Bonne,-0.0145,0.0099,0.0244
@@ -93,13 +92,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-30 11:03:07.449885,Championship - England Championship 2022/23 - Top 6 Finish,Preston North End,-0.015100000000000002,0.1667,0.1818
 2022-07-30 07:02:51.157263,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - A. Cook v K. Aphibarnrat - 3rd Round 2 Balls,Austin Cook,-0.016699999999999937,0.5833,0.6
 2022-07-30 09:02:47.418614,NFC South - 2022/2023 NFC South - NFC South Winner,Tampa Bay Buccaneers,-0.016700000000000048,0.7333,0.75
-2022-07-30 11:03:07.449885,Championship - England Championship 2022/23 - Top 6 Finish,Coventry City,-0.0174,0.2326,0.25
 2022-07-30 11:03:07.449885,Championship - England Championship 2022/23 - Top 6 Finish,Blackburn Rovers,-0.0174,0.2326,0.25
+2022-07-30 11:03:07.449885,Championship - England Championship 2022/23 - Top 6 Finish,Coventry City,-0.0174,0.2326,0.25
 2022-07-30 10:05:24.372968,Championship - England Championship 2022/23 - Top Goalscorer,Jamie Paterson,-0.017800000000000003,0.0066,0.0244
-2022-07-30 11:03:07.449885,Championship - England Championship 2022/23 - Top 6 Finish,Wigan Athletic,-0.0179,0.125,0.1429
 2022-07-30 08:02:50.772215,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Jeremy Pena,-0.0179,0.125,0.1429
-2022-07-30 07:02:51.165569,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - D. Willett v T. Moore - 3rd Round 2 Balls,Danny Willett,-0.018100000000000005,0.5652,0.5833
+2022-07-30 11:03:07.449885,Championship - England Championship 2022/23 - Top 6 Finish,Wigan Athletic,-0.0179,0.125,0.1429
 2022-07-30 10:04:56.519550,Round Match-Ups - Parlays - 3rd Round Match-Up - W. Zalatoris vs C. Davis - 3rd Round Match-Up,Will Zalatoris,-0.018100000000000005,0.5652,0.5833
+2022-07-30 07:02:51.165569,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - D. Willett v T. Moore - 3rd Round 2 Balls,Danny Willett,-0.018100000000000005,0.5652,0.5833
 2022-07-30 10:05:24.372968,Championship - England Championship 2022/23 - Top Goalscorer,Rey Manaj,-0.018200000000000004,0.0294,0.0476
 2022-07-30 11:03:07.442838,Championship - England Championship 2022/23 - Top 2 Finish,Wigan Athletic,-0.018200000000000004,0.0294,0.0476
 2022-07-30 11:03:07.442838,Championship - England Championship 2022/23 - Top 2 Finish,West Bromwich Albion,-0.01820000000000002,0.1818,0.2
@@ -108,8 +107,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-30 08:03:08.283043,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Godoy Cruz,-0.019099999999999992,0.0476,0.0667
 2022-07-30 14:03:04.236854,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - C. Kirk v A. Svensson - 3rd Round 2 Balls,Chris Kirk,-0.01970000000000005,0.5455,0.5652
 2022-07-30 10:05:24.422650,Championship - England Championship 2022/23 - To Be Relegated,Blackburn Rovers,-0.02020000000000001,0.0909,0.1111
-2022-07-30 08:02:50.766359,MLB Futures - MLB 2022 Player Awards - American League MVP,Rafael Devers,-0.0203,0.0385,0.0588
 2022-07-30 11:03:07.442838,Championship - England Championship 2022/23 - Top 2 Finish,Huddersfield Town,-0.0203,0.0385,0.0588
+2022-07-30 08:02:50.766359,MLB Futures - MLB 2022 Player Awards - American League MVP,Rafael Devers,-0.0203,0.0385,0.0588
 2022-07-30 08:02:50.760002,MLB Futures - MLB 2022 Player Awards - American League Cy Young Award,Justin Verlander,-0.021999999999999964,0.2857,0.3077
 2022-07-30 08:02:50.760002,MLB Futures - MLB 2022 Player Awards - American League Cy Young Award,Gerrit Cole,-0.022000000000000006,0.0833,0.1053
 2022-07-30 08:02:51.422990,Boxing Lines - Danny Garcia vs Jose Benavidez - To Win the Bout,Danny Garcia,-0.022199999999999998,0.8667,0.8889
