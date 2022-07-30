@@ -16,9 +16,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-30 14:03:04.213101,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - B. Steele v S. Kang - 3rd Round 2 Balls,Sung Kang,0.03710000000000002,0.3704,0.3333
 2022-07-30 17:03:00.761980,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - A. Scott v S. Theegala - 3rd Round 2 Balls,Sahith Theegala,0.03480000000000005,0.5348,0.5
 2022-07-30 10:05:22.913091,MLS - MLS Cup 2022 - Winner,Toronto FC,0.0344,0.0588,0.0244
-2022-07-30 10:05:24.372968,Championship - England Championship 2022/23 - Top Goalscorer,Teemu Pukki,0.031799999999999995,0.1429,0.1111
-2022-07-30 10:04:58.083314,MLB Futures - MLB 2022 Player Awards - National League MVP ,Austin Riley,0.031799999999999995,0.1429,0.1111
 2022-07-30 11:03:07.435599,Championship - England Championship 2022/23 - To Finish Bottom,Reading,0.031799999999999995,0.1429,0.1111
+2022-07-30 10:04:58.083314,MLB Futures - MLB 2022 Player Awards - National League MVP ,Austin Riley,0.031799999999999995,0.1429,0.1111
+2022-07-30 10:05:24.372968,Championship - England Championship 2022/23 - Top Goalscorer,Teemu Pukki,0.031799999999999995,0.1429,0.1111
 2022-07-30 10:05:24.400277,Championship - England Championship 2022/23 - To Be Promoted,Luton Town,0.031799999999999995,0.1429,0.1111
 2022-07-30 20:03:16.014046,MLB Futures - MLB 2022 National League East - NLE Winner,Atlanta Braves,0.030299999999999994,0.3636,0.3333
 2022-07-30 17:03:01.050131,Hero Open - Hero Open - Outright,Eddie Pepperell,0.0294,0.0588,0.0294
@@ -32,8 +32,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-30 11:03:07.435599,Championship - England Championship 2022/23 - To Finish Bottom,Wigan Athletic,0.0242,0.0909,0.0667
 2022-07-30 17:03:00.835752,Round Match-Ups - Parlays - 3rd Round Match-Up - P. Cantlay vs T. Finau - 3rd Round Match-Up,Tony Finau,0.023800000000000043,0.5238,0.5
 2022-07-30 21:02:45.621455,Wide Receivers - Chase Claypool Rec TD’s 2022 Reg. Season - Outright,Over 4.5,0.023799999999999988,0.5,0.4762
-2022-07-30 11:03:07.449885,Championship - England Championship 2022/23 - Top 6 Finish,Middlesbrough,0.023799999999999988,0.5,0.4762
 2022-07-30 14:03:04.236854,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - C. Kirk v A. Svensson - 3rd Round 2 Balls,Adam Svensson,0.023799999999999988,0.5,0.4762
+2022-07-30 11:03:07.449885,Championship - England Championship 2022/23 - Top 6 Finish,Middlesbrough,0.023799999999999988,0.5,0.4762
 2022-07-30 21:02:46.927231,Running Backs - Antonio Gibson Rush Yards 2022 Reg. Season - Antonio Gibson Rush Yards 2022 Reg. Season,Under 875.5,0.022600000000000064,0.6226,0.6
 2022-07-30 11:03:07.449885,Championship - England Championship 2022/23 - Top 6 Finish,Sheffield United,0.021699999999999997,0.4762,0.4545
 2022-07-30 21:02:45.549700,Wide Receivers - Brandin Cooks Rec Yards 2022 Reg. Season - Outright,Over 950.5,0.02079999999999993,0.5556,0.5348
@@ -52,17 +52,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-07-30 11:03:07.435599,Championship - England Championship 2022/23 - To Finish Bottom,Rotherham Utd,0.012899999999999995,0.1667,0.1538
 2022-07-30 20:03:15.997201,MLB Futures - MLB 2022 American League West - ALW Winner,Seattle Mariners,0.012700000000000003,0.0323,0.0196
 2022-07-30 21:02:44.604033,Scottish Open - Scottish Open - Outright,Ayaka Furue,0.012100000000000001,0.0244,0.0123
-2022-07-30 10:05:24.400277,Championship - England Championship 2022/23 - To Be Promoted,Coventry City,0.011099999999999999,0.1111,0.1
+2022-07-30 22:02:51.430693,Boxing Lines - Danny Garcia vs Jose Benavidez - To Win the Bout,Jose Benavidez,0.011899999999999994,0.1905,0.1786
 2022-07-30 10:04:56.519550,Round Match-Ups - Parlays - 3rd Round Match-Up - W. Zalatoris vs C. Davis - 3rd Round Match-Up,Cameron Davis,0.011099999999999999,0.4762,0.4651
+2022-07-30 10:05:24.400277,Championship - England Championship 2022/23 - To Be Promoted,Coventry City,0.011099999999999999,0.1111,0.1
 2022-07-30 21:02:44.000811,Boxing Lines - LeShawn Rodriquez vs Ismael Villareal - To Win the Bout,Ismael Villareal,0.010499999999999982,0.2105,0.2
-2022-07-30 10:05:24.400277,Championship - England Championship 2022/23 - To Be Promoted,Sheffield United,0.010399999999999993,0.2326,0.2222
 2022-07-30 10:05:24.422650,Championship - England Championship 2022/23 - To Be Relegated,Bristol City,0.010399999999999993,0.2326,0.2222
+2022-07-30 10:05:24.400277,Championship - England Championship 2022/23 - To Be Promoted,Sheffield United,0.010399999999999993,0.2326,0.2222
 2022-07-30 11:03:07.442838,Championship - England Championship 2022/23 - Top 2 Finish,Millwall,0.0102,0.0769,0.0667
 2022-07-30 17:03:01.050131,Hero Open - Hero Open - Outright,Oliver Farr,0.010100000000000001,0.0345,0.0244
-2022-07-30 11:03:07.442838,Championship - England Championship 2022/23 - Top 2 Finish,Sunderland,-0.0102,0.0667,0.0769
-2022-07-30 21:02:44.604033,Scottish Open - Scottish Open - Outright,Eun Hee Ji,-0.0102,0.0667,0.0769
-2022-07-30 10:05:22.913091,MLS - MLS Cup 2022 - Winner,New York Red Bulls,-0.0102,0.0667,0.0769
 2022-07-30 10:05:24.400277,Championship - England Championship 2022/23 - To Be Promoted,Hull City,-0.0102,0.0667,0.0769
+2022-07-30 10:05:22.913091,MLS - MLS Cup 2022 - Winner,New York Red Bulls,-0.0102,0.0667,0.0769
+2022-07-30 21:02:44.604033,Scottish Open - Scottish Open - Outright,Eun Hee Ji,-0.0102,0.0667,0.0769
+2022-07-30 11:03:07.442838,Championship - England Championship 2022/23 - Top 2 Finish,Sunderland,-0.0102,0.0667,0.0769
 2022-07-30 17:03:00.858949,Round Match-Ups - Parlays - 3rd Round Match-Up - C. Young vs A. Scott - 3rd Round Match-Up,Adam Scott,-0.010599999999999998,0.4545,0.4651
 2022-07-30 17:03:00.761980,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - A. Scott v S. Theegala - 3rd Round 2 Balls,Adam Scott,-0.010699999999999932,0.5348,0.5455
 2022-07-30 11:03:07.435599,Championship - England Championship 2022/23 - To Finish Bottom,Blackpool,-0.011099999999999999,0.1,0.1111
