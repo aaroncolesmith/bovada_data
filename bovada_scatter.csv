@@ -2,11 +2,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-02 05:02:48.480516,UK Politics - Next Conservative Leader - Conservative Party Leader,Rishi Sunak,0.04169999999999999,0.1667,0.125
 2022-08-02 07:05:42.016806,UK Politics - Next Conservative Leader - Conservative Party Leader,Rishi Sunak,0.04040000000000002,0.2222,0.1818
 2022-08-02 04:04:12.204826,Championship - England Championship 2022/23 - To Be Promoted,Watford,0.03640000000000004,0.4,0.3636
+2022-08-02 11:04:16.250648,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Liverpool,0.029899999999999982,0.3077,0.2778
 2022-08-02 08:03:59.993794,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Corinthians,0.0245,0.0833,0.0588
 2022-08-02 08:04:00.960632,Superligaen - Denmark Superligaen 2022/23 - Outright,FC Nordsjælland,0.024299999999999995,0.0588,0.0345
 2022-08-02 05:02:54.864006,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Pittsburgh Steelers,Under 7.5,0.023800000000000043,0.5238,0.5
 2022-08-02 05:02:48.402422,2022 Gubernatorial Elections - Nevada - Nevada winner,Democrats,0.02169999999999994,0.5455,0.5238
-2022-08-01 23:03:22.493213,Cazoo Open - Cazoo Open - Outright,Jordan Smith,0.018099999999999998,0.0769,0.0588
 2022-08-02 00:03:19.677719,Superhero Movie Specials - Who will become the Next Black Panther In Marvel's 'Black Panther: Wakanda Forever' - Proposition,M'Baku,0.01759999999999999,0.1176,0.1
 2022-08-02 08:04:01.165568,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Malmö FF,0.016699999999999993,0.2667,0.25
 2022-08-02 06:18:48.577474,UK Politics - Next Conservative Leader - Conservative Party Leader,Rishi Sunak,0.015100000000000002,0.1818,0.1667
@@ -29,6 +29,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-02 05:02:48.402422,2022 Gubernatorial Elections - Nevada - Nevada winner,Republicans,-0.01970000000000005,0.5455,0.5652
 2022-08-02 05:02:54.864006,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Pittsburgh Steelers,Over 7.5,-0.01970000000000005,0.5455,0.5652
 2022-08-02 04:04:12.219933,Championship - England Championship 2022/23 - To Be Relegated,Rotherham Utd,-0.025499999999999967,0.4,0.4255
+2022-08-02 11:04:16.250648,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester City,-0.027700000000000058,0.5556,0.5833
 2022-08-02 08:04:01.165568,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Hammarby IF,-0.027999999999999997,0.1538,0.1818
 2022-08-02 04:04:12.219933,Championship - England Championship 2022/23 - To Be Relegated,Huddersfield Town,-0.033300000000000024,0.1667,0.2
 2022-08-02 05:02:48.480516,UK Politics - Next Conservative Leader - Conservative Party Leader,Liz Truss,-0.03420000000000001,0.8889,0.9231
