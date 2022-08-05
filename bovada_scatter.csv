@@ -12,19 +12,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-05 01:03:46.054383,College Season Props - 2022 - Regular Season Wins - Colorado - 2022 - Regular Season Wins - Colorado,Under 3,0.030399999999999983,0.5652,0.5348
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,Ewen Ferguson,0.028599999999999997,0.0435,0.0149
 2022-08-04 22:03:39.363372,Quarterbacks - Jameis Winston Passing TD's 2022 Reg. Season  - Jameis Winston Passing TD's 2022 Reg. Season,Under 26.5,0.026499999999999968,0.5917,0.5652
+2022-08-05 03:02:42.724586,Defensive Players - Interceptions - Malcolm Butler Interceptions 2022 Reg. Season - Outright,Under 2.5,0.026499999999999968,0.5917,0.5652
 2022-08-04 22:03:45.504623,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,CF Pachuca,0.024999999999999994,0.125,0.1
 2022-08-04 15:03:23.538951,2022 Gubernatorial Elections - Arizona - Arizona winner,Democrats,0.023800000000000043,0.5238,0.5
 2022-08-04 22:03:45.504623,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Tigres UANL,0.022199999999999998,0.2222,0.2
-2022-08-05 01:03:39.580082,Wide Receivers - Amon-Ra St. Brown Rec Yards 2022 Reg. Season - Outright,Over 850.5,0.02079999999999993,0.5556,0.5348
-2022-08-05 01:03:40.968262,Wide Receivers - Terry McLaurin Rec Yards 2022 Reg. Season - Outright,Over 1000.5,0.02079999999999993,0.5556,0.5348
-2022-08-04 22:03:37.857027,Wide Receivers - Stefon Diggs Rec Yards 2022 Reg. Season - Outright,Over 1200.5,0.02079999999999993,0.5556,0.5348
-2022-08-04 22:03:38.605573,Running Backs - Damien Harris Rush TD's 2022 Reg. Season - Outright,Under 8.5,0.02079999999999993,0.5556,0.5348
-2022-08-05 01:03:43.341353,Tight Ends - Cole Kmet Receptions 2022 Reg. Season - Outright,Over 58.5,0.02079999999999993,0.5556,0.5348
+2022-08-05 03:02:40.384038,Wyndham Championship - 2/3 Balls - 2nd Round 3 Balls - S. Lowry / B. Horschel / S. Straka - 2nd Round 3 Balls,Billy Horschel,0.021699999999999997,0.4762,0.4545
+2022-08-05 03:02:40.455786,Wyndham Championship - 2/3 Balls - 2nd Round 3 Balls - K. Mitchell / M. Thompson / T. Duncan - 2nd Round 3 Balls,Keith Mitchell,0.021699999999999997,0.4762,0.4545
 2022-08-04 22:03:40.079168,Tight Ends - Dawson Knox Receptions 2022 Reg. Season - Outright,Under 50.5,0.02079999999999993,0.5556,0.5348
+2022-08-05 01:03:43.341353,Tight Ends - Cole Kmet Receptions 2022 Reg. Season - Outright,Over 58.5,0.02079999999999993,0.5556,0.5348
+2022-08-04 22:03:38.605573,Running Backs - Damien Harris Rush TD's 2022 Reg. Season - Outright,Under 8.5,0.02079999999999993,0.5556,0.5348
+2022-08-05 01:03:39.580082,Wide Receivers - Amon-Ra St. Brown Rec Yards 2022 Reg. Season - Outright,Over 850.5,0.02079999999999993,0.5556,0.5348
+2022-08-04 22:03:37.857027,Wide Receivers - Stefon Diggs Rec Yards 2022 Reg. Season - Outright,Over 1200.5,0.02079999999999993,0.5556,0.5348
+2022-08-05 01:03:40.968262,Wide Receivers - Terry McLaurin Rec Yards 2022 Reg. Season - Outright,Over 1000.5,0.02079999999999993,0.5556,0.5348
 2022-08-04 18:02:53.209050,Boxing Lines - Alex Martin vs Henry Lundy - To Win the Bout,Alex Martin,0.020199999999999996,0.9091,0.8889
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,Richard Mansell,0.019099999999999995,0.0435,0.0244
 2022-08-04 17:02:35.933682,Professional Baseball - NPB 2022 - Outright,Saitama Seibu Lions,0.01820000000000002,0.2,0.1818
 2022-08-04 22:03:45.504623,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,CF Monterrey,0.01820000000000002,0.2,0.1818
+2022-08-05 03:02:40.372055,Wyndham Championship - 2/3 Balls - 2nd Round 3 Balls - S. Cink / L. Glover / R. Fowler - 2nd Round 3 Balls,Stewart Cink,0.016699999999999993,0.4167,0.4
+2022-08-05 03:02:40.466066,Wyndham Championship - 2/3 Balls - 2nd Round 3 Balls - W. Simpson / K. Kisner / D. Love - 2nd Round 3 Balls,Kevin Kisner,0.015400000000000025,0.4,0.3846
 2022-08-05 00:03:02.562332,Running Backs - Antonio Gibson Rush TD's 2022 Reg. Season - Antonio Gibson Rush TD's 2022 Reg. Season,Under 7.5,0.01539999999999997,0.6154,0.6
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,Johannes Veerman,0.014099999999999998,0.0385,0.0244
 2022-08-04 22:03:45.504623,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Chivas Guadalajara,0.014099999999999998,0.0385,0.0244
@@ -36,24 +41,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-05 01:03:40.785328,Wide Receivers - Rashod Bateman Receptions 2022 Reg. Season - Outright,Over 70.5,0.010699999999999932,0.5455,0.5348
 2022-08-04 23:03:17.270038,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Carolina Panthers,Over 6.5,0.010699999999999932,0.5455,0.5348
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,John Catlin,0.010100000000000001,0.0345,0.0244
+2022-08-05 03:02:40.455786,Wyndham Championship - 2/3 Balls - 2nd Round 3 Balls - K. Mitchell / M. Thompson / T. Duncan - 2nd Round 3 Balls,Michael Thompson,-0.010099999999999998,0.3125,0.3226
+2022-08-05 03:02:40.384038,Wyndham Championship - 2/3 Balls - 2nd Round 3 Balls - S. Lowry / B. Horschel / S. Straka - 2nd Round 3 Balls,Shane Lowry,-0.010099999999999998,0.4444,0.4545
+2022-08-05 03:02:40.455786,Wyndham Championship - 2/3 Balls - 2nd Round 3 Balls - K. Mitchell / M. Thompson / T. Duncan - 2nd Round 3 Balls,Tyler Duncan,-0.010099999999999998,0.3125,0.3226
 2022-08-04 23:03:17.318335,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Denver Broncos,Over 10,-0.010099999999999998,0.5455,0.5556
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,Chase Hanna,-0.0103,0.002,0.0123
 2022-08-05 00:03:02.562332,Running Backs - Antonio Gibson Rush TD's 2022 Reg. Season - Antonio Gibson Rush TD's 2022 Reg. Season,Over 7.5,-0.010599999999999998,0.4545,0.4651
 2022-08-04 22:03:39.913315,Quarterbacks - Tua Tagovailoa TD Passes 2022 Reg. Season - Tua Tagovailoa TD Passes 2022 Reg. Season,Over 24.5,-0.010699999999999932,0.5348,0.5455
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,James Morrison,-0.0109,0.004,0.0149
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,Andy Sullivan,-0.0109,0.004,0.0149
-2022-08-04 23:03:17.270038,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Carolina Panthers,Under 6.5,-0.01100000000000001,0.5238,0.5348
 2022-08-05 01:03:40.785328,Wide Receivers - Rashod Bateman Receptions 2022 Reg. Season - Outright,Under 70.5,-0.01100000000000001,0.5238,0.5348
+2022-08-04 23:03:17.270038,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Carolina Panthers,Under 6.5,-0.01100000000000001,0.5238,0.5348
 2022-08-05 01:03:46.473593,College Season Props - 2022 - Regular Season Wins - Georgia Southern - 2022 - Regular Season Wins - Georgia Southern,Over 4.5,-0.011099999999999999,0.4651,0.4762
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,Kristoffer Broberg,-0.011300000000000001,0.001,0.0123
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,Brandon Stone,-0.0121,0.0028,0.0149
-2022-08-05 02:02:55.571317,Defensive Players - Interceptions - Malcolm Butler Interceptions 2022 Reg. Season - Outright,Over 2.5,-0.012199999999999989,0.5,0.5122
 2022-08-04 22:03:39.206074,Quarterbacks - Aaron Rodgers Passing Yards 2022 Reg. Season - Aaron Rodgers Passing Yards 2022 Reg. Season,Over 4100.5,-0.012199999999999989,0.4878,0.5
+2022-08-05 02:02:55.571317,Defensive Players - Interceptions - Malcolm Butler Interceptions 2022 Reg. Season - Outright,Over 2.5,-0.012199999999999989,0.5,0.5122
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,Paul Waring,-0.014599999999999998,0.005,0.0196
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,David Law,-0.017099999999999997,0.0123,0.0294
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,Jamie Donaldson,-0.017599999999999998,0.002,0.0196
 2022-08-04 22:03:45.504623,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Necaxa,-0.018200000000000004,0.0294,0.0476
+2022-08-05 03:02:40.384038,Wyndham Championship - 2/3 Balls - 2nd Round 3 Balls - S. Lowry / B. Horschel / S. Straka - 2nd Round 3 Balls,Sepp Straka,-0.01820000000000002,0.1818,0.2
+2022-08-05 03:02:40.466066,Wyndham Championship - 2/3 Balls - 2nd Round 3 Balls - W. Simpson / K. Kisner / D. Love - 2nd Round 3 Balls,Davis Love III,-0.01820000000000002,0.1818,0.2
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,Oliver Hundeboll,-0.0183,0.0013,0.0196
+2022-08-05 03:02:40.372055,Wyndham Championship - 2/3 Balls - 2nd Round 3 Balls - S. Cink / L. Glover / R. Fowler - 2nd Round 3 Balls,Lucas Glover,-0.018799999999999983,0.3448,0.3636
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,Thorbjorn Olesen,-0.0189,0.0196,0.0385
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,Grant Forrest,-0.0194,0.005,0.0244
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,Wilco Nienaber,-0.0204,0.004,0.0244
@@ -61,12 +72,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,Matthew Jordan,-0.022400000000000003,0.002,0.0244
 2022-08-04 22:03:40.079168,Tight Ends - Dawson Knox Receptions 2022 Reg. Season - Outright,Over 50.5,-0.022600000000000064,0.5122,0.5348
 2022-08-05 01:03:43.341353,Tight Ends - Cole Kmet Receptions 2022 Reg. Season - Outright,Under 58.5,-0.022600000000000064,0.5122,0.5348
-2022-08-04 22:03:37.857027,Wide Receivers - Stefon Diggs Rec Yards 2022 Reg. Season - Outright,Under 1200.5,-0.022600000000000064,0.5122,0.5348
 2022-08-05 01:03:39.580082,Wide Receivers - Amon-Ra St. Brown Rec Yards 2022 Reg. Season - Outright,Under 850.5,-0.022600000000000064,0.5122,0.5348
-2022-08-05 01:03:40.968262,Wide Receivers - Terry McLaurin Rec Yards 2022 Reg. Season - Outright,Under 1000.5,-0.022600000000000064,0.5122,0.5348
 2022-08-04 22:03:38.605573,Running Backs - Damien Harris Rush TD's 2022 Reg. Season - Outright,Over 8.5,-0.022600000000000064,0.5122,0.5348
+2022-08-04 22:03:37.857027,Wide Receivers - Stefon Diggs Rec Yards 2022 Reg. Season - Outright,Under 1200.5,-0.022600000000000064,0.5122,0.5348
+2022-08-05 01:03:40.968262,Wide Receivers - Terry McLaurin Rec Yards 2022 Reg. Season - Outright,Under 1000.5,-0.022600000000000064,0.5122,0.5348
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,Oliver Bekker,-0.0237,0.0057,0.0294
 2022-08-04 22:03:39.363372,Quarterbacks - Jameis Winston Passing TD's 2022 Reg. Season  - Jameis Winston Passing TD's 2022 Reg. Season,Over 26.5,-0.023799999999999988,0.4762,0.5
+2022-08-05 03:02:42.724586,Defensive Players - Interceptions - Malcolm Butler Interceptions 2022 Reg. Season - Outright,Over 2.5,-0.023799999999999988,0.4762,0.5
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,Thomas Detry,-0.0294,0.0294,0.0588
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,Matti Schmid,-0.030500000000000003,0.004,0.0345
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,Sean Crocker,-0.0306,0.0079,0.0385
