@@ -10,26 +10,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,Callum Shinkwin,0.0334,0.0769,0.0435
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,Maximilian Kieffer,0.033,0.0526,0.0196
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,Mikko Korhonen,0.03219999999999999,0.0667,0.0345
+2022-08-05 01:03:46.054383,College Season Props - 2022 - Regular Season Wins - Colorado - 2022 - Regular Season Wins - Colorado,Under 3,0.030399999999999983,0.5652,0.5348
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,Ewen Ferguson,0.028599999999999997,0.0435,0.0149
 2022-08-04 22:03:39.363372,Quarterbacks - Jameis Winston Passing TD's 2022 Reg. Season  - Jameis Winston Passing TD's 2022 Reg. Season,Under 26.5,0.026499999999999968,0.5917,0.5652
 2022-08-04 22:03:45.504623,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,CF Pachuca,0.024999999999999994,0.125,0.1
 2022-08-04 15:03:23.538951,2022 Gubernatorial Elections - Arizona - Arizona winner,Democrats,0.023800000000000043,0.5238,0.5
 2022-08-04 14:02:40.503425,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Houston Astros,0.023800000000000016,0.1905,0.1667
-2022-08-04 12:04:37.872834,Round Match-Ups - Parlays - 1st Round Match-Up - A. Wise v M. Hubbard - 1st Round Match-Up,Mark Hubbard,0.022600000000000064,0.5348,0.5122
 2022-08-04 22:03:45.504623,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Tigres UANL,0.022199999999999998,0.2222,0.2
+2022-08-05 01:03:43.341353,Tight Ends - Cole Kmet Receptions 2022 Reg. Season - Outright,Over 58.5,0.02079999999999993,0.5556,0.5348
 2022-08-04 22:03:40.079168,Tight Ends - Dawson Knox Receptions 2022 Reg. Season - Outright,Under 50.5,0.02079999999999993,0.5556,0.5348
 2022-08-04 22:03:38.605573,Running Backs - Damien Harris Rush TD's 2022 Reg. Season - Outright,Under 8.5,0.02079999999999993,0.5556,0.5348
+2022-08-05 01:03:40.968262,Wide Receivers - Terry McLaurin Rec Yards 2022 Reg. Season - Outright,Over 1000.5,0.02079999999999993,0.5556,0.5348
+2022-08-05 01:03:39.580082,Wide Receivers - Amon-Ra St. Brown Rec Yards 2022 Reg. Season - Outright,Over 850.5,0.02079999999999993,0.5556,0.5348
 2022-08-04 22:03:37.857027,Wide Receivers - Stefon Diggs Rec Yards 2022 Reg. Season - Outright,Over 1200.5,0.02079999999999993,0.5556,0.5348
 2022-08-04 18:02:53.209050,Boxing Lines - Alex Martin vs Henry Lundy - To Win the Bout,Alex Martin,0.020199999999999996,0.9091,0.8889
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,Richard Mansell,0.019099999999999995,0.0435,0.0244
-2022-08-04 17:02:35.933682,Professional Baseball - NPB 2022 - Outright,Saitama Seibu Lions,0.01820000000000002,0.2,0.1818
 2022-08-04 22:03:45.504623,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,CF Monterrey,0.01820000000000002,0.2,0.1818
+2022-08-04 17:02:35.933682,Professional Baseball - NPB 2022 - Outright,Saitama Seibu Lions,0.01820000000000002,0.2,0.1818
 2022-08-04 14:02:40.512541,MLB Futures - MLB 2022 Amercian League - AL Winner,Seattle Mariners,0.018099999999999998,0.0769,0.0588
 2022-08-04 14:02:40.529026,MLB Futures - MLB 2022 American League Central - ALC Winner,Cleveland Guardians,0.016699999999999993,0.2667,0.25
 2022-08-05 00:03:02.562332,Running Backs - Antonio Gibson Rush TD's 2022 Reg. Season - Antonio Gibson Rush TD's 2022 Reg. Season,Under 7.5,0.01539999999999997,0.6154,0.6
-2022-08-04 12:04:36.520051,Boxing Lines - Jordan Thompson vs Vasil Ducar - To Win the Bout,Jordan Thompson,0.014100000000000001,0.9474,0.9333
-2022-08-04 22:03:45.504623,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Chivas Guadalajara,0.014099999999999998,0.0385,0.0244
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,Johannes Veerman,0.014099999999999998,0.0385,0.0244
+2022-08-04 22:03:45.504623,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Chivas Guadalajara,0.014099999999999998,0.0385,0.0244
 2022-08-04 14:02:40.512541,MLB Futures - MLB 2022 Amercian League - AL Winner,Chicago White Sox,0.014099999999999994,0.0667,0.0526
 2022-08-04 22:03:45.504623,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Club León,0.013999999999999999,0.0909,0.0769
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,Alfredo Garcia-Heredia,0.012100000000000001,0.0244,0.0123
@@ -38,6 +40,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-04 18:02:53.143171,Boxing Lines - Paddy Donovan vs Tom Hill - To Win the Bout,Paddy Donovan,0.011199999999999988,0.9524,0.9412
 2022-08-04 22:03:39.913315,Quarterbacks - Tua Tagovailoa TD Passes 2022 Reg. Season - Tua Tagovailoa TD Passes 2022 Reg. Season,Under 24.5,0.01100000000000001,0.5348,0.5238
 2022-08-04 14:02:40.512541,MLB Futures - MLB 2022 Amercian League - AL Winner,Toronto Blue Jays,0.010899999999999993,0.1538,0.1429
+2022-08-05 01:03:40.785328,Wide Receivers - Rashod Bateman Receptions 2022 Reg. Season - Outright,Over 70.5,0.010699999999999932,0.5455,0.5348
 2022-08-04 23:03:17.270038,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Carolina Panthers,Over 6.5,0.010699999999999932,0.5455,0.5348
 2022-08-04 14:02:40.503425,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Toronto Blue Jays,0.0102,0.0769,0.0667
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,John Catlin,0.010100000000000001,0.0345,0.0244
@@ -46,16 +49,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-05 00:03:02.562332,Running Backs - Antonio Gibson Rush TD's 2022 Reg. Season - Antonio Gibson Rush TD's 2022 Reg. Season,Over 7.5,-0.010599999999999998,0.4545,0.4651
 2022-08-04 22:03:39.913315,Quarterbacks - Tua Tagovailoa TD Passes 2022 Reg. Season - Tua Tagovailoa TD Passes 2022 Reg. Season,Over 24.5,-0.010699999999999932,0.5348,0.5455
 2022-08-04 14:02:40.512541,MLB Futures - MLB 2022 Amercian League - AL Winner,Cleveland Guardians,-0.010700000000000001,0.0278,0.0385
-2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,James Morrison,-0.0109,0.004,0.0149
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,Andy Sullivan,-0.0109,0.004,0.0149
+2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,James Morrison,-0.0109,0.004,0.0149
 2022-08-04 23:03:17.270038,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Carolina Panthers,Under 6.5,-0.01100000000000001,0.5238,0.5348
+2022-08-05 01:03:40.785328,Wide Receivers - Rashod Bateman Receptions 2022 Reg. Season - Outright,Under 70.5,-0.01100000000000001,0.5238,0.5348
+2022-08-05 01:03:46.473593,College Season Props - 2022 - Regular Season Wins - Georgia Southern - 2022 - Regular Season Wins - Georgia Southern,Over 4.5,-0.011099999999999999,0.4651,0.4762
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,Kristoffer Broberg,-0.011300000000000001,0.001,0.0123
 2022-08-04 14:02:40.566385,MLB Futures - MLB 2022 National League West - NLW Winner,Los Angeles Dodgers,-0.011699999999999933,0.9804,0.9921
 2022-08-04 14:02:40.503425,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Los Angeles Dodgers,-0.011700000000000016,0.2105,0.2222
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,Brandon Stone,-0.0121,0.0028,0.0149
 2022-08-04 22:03:39.206074,Quarterbacks - Aaron Rodgers Passing Yards 2022 Reg. Season - Aaron Rodgers Passing Yards 2022 Reg. Season,Over 4100.5,-0.012199999999999989,0.4878,0.5
 2022-08-04 14:02:40.503425,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Miami Marlins,-0.012199999999999999,0.001,0.0132
-2022-08-04 12:04:36.648295,Boxing Lines - Tyrone McKenna vs Chris Jenkins - To Win the Bout,Chris Jenkins,-0.0126,0.1835,0.1961
 2022-08-04 14:02:40.520519,MLB Futures - MLB 2022 National League - NL Winner,New York Mets,-0.01319999999999999,0.25,0.2632
 2022-08-04 14:02:40.544352,MLB Futures - MLB 2022 American League West - ALW Winner,Seattle Mariners,-0.013699999999999999,0.0141,0.0278
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,Paul Waring,-0.014599999999999998,0.005,0.0196
@@ -70,10 +74,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,Edoardo Molinari,-0.021900000000000003,0.0025,0.0244
 2022-08-04 14:02:39.949710,UK Politics - Next Conservative Leader - Conservative Party Leader,Rishi Sunak,-0.022199999999999998,0.1111,0.1333
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,Matthew Jordan,-0.022400000000000003,0.002,0.0244
-2022-08-04 12:04:37.872834,Round Match-Ups - Parlays - 1st Round Match-Up - A. Wise v M. Hubbard - 1st Round Match-Up,Aaron Wise,-0.022600000000000064,0.5122,0.5348
+2022-08-05 01:03:39.580082,Wide Receivers - Amon-Ra St. Brown Rec Yards 2022 Reg. Season - Outright,Under 850.5,-0.022600000000000064,0.5122,0.5348
 2022-08-04 22:03:38.605573,Running Backs - Damien Harris Rush TD's 2022 Reg. Season - Outright,Over 8.5,-0.022600000000000064,0.5122,0.5348
 2022-08-04 22:03:40.079168,Tight Ends - Dawson Knox Receptions 2022 Reg. Season - Outright,Over 50.5,-0.022600000000000064,0.5122,0.5348
+2022-08-05 01:03:43.341353,Tight Ends - Cole Kmet Receptions 2022 Reg. Season - Outright,Under 58.5,-0.022600000000000064,0.5122,0.5348
 2022-08-04 22:03:37.857027,Wide Receivers - Stefon Diggs Rec Yards 2022 Reg. Season - Outright,Under 1200.5,-0.022600000000000064,0.5122,0.5348
+2022-08-05 01:03:40.968262,Wide Receivers - Terry McLaurin Rec Yards 2022 Reg. Season - Outright,Under 1000.5,-0.022600000000000064,0.5122,0.5348
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,Oliver Bekker,-0.0237,0.0057,0.0294
 2022-08-04 22:03:39.363372,Quarterbacks - Jameis Winston Passing TD's 2022 Reg. Season  - Jameis Winston Passing TD's 2022 Reg. Season,Over 26.5,-0.023799999999999988,0.4762,0.5
 2022-08-04 14:02:40.566385,MLB Futures - MLB 2022 National League West - NLW Winner,San Diego Padres,-0.027999999999999997,0.0345,0.0625
@@ -82,6 +88,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,Sean Crocker,-0.0306,0.0079,0.0385
 2022-08-04 14:02:40.503425,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,New York Yankees,-0.031700000000000006,0.1905,0.2222
 2022-08-04 14:02:40.529026,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,-0.0348,0.4,0.4348
+2022-08-05 01:03:46.054383,College Season Props - 2022 - Regular Season Wins - Colorado - 2022 - Regular Season Wins - Colorado,Over 3,-0.03480000000000005,0.5,0.5348
 2022-08-04 21:02:50.192496,Cazoo Open - Cazoo Open - Outright,Hurly Long,-0.0372,0.0013,0.0385
 2022-08-04 15:03:23.538951,2022 Gubernatorial Elections - Arizona - Arizona winner,Republicans,-0.037800000000000056,0.5455,0.5833
 2022-08-04 22:03:38.773926,Running Backs - Jonathan Taylor Rush & Rec Yards 2022 Reg. Season - Outright,Over 1799.5,-0.04700000000000004,0.4878,0.5348
