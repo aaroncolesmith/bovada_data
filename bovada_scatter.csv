@@ -1,7 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2022-08-08 08:03:39.116046,Premier League Futures/Specials - English Premier League 2022/23 - Not To Finish in Top 4,Manchester United,0.119,0.8333,0.7143
 2022-08-08 20:03:27.142085,NFL Specials - Where will Odell Beckham Jr Play Game 1 of the 2022/2023 NFL Season? - Proposition,Green Bay Packers,0.10769999999999996,0.3077,0.2
-2022-08-08 08:03:38.530742,Superligaen - Denmark Superligaen 2022/23 - Outright,FC Copenhagen,0.0917,0.5917,0.5
 2022-08-08 09:03:09.702112,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,St. Johnstone,0.0635,0.2857,0.2222
 2022-08-08 09:03:09.710839,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Motherwell,0.04760000000000009,0.7143,0.6667
 2022-08-08 09:03:09.723583,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Hammarby IF,0.04620000000000002,0.2,0.1538
@@ -11,94 +9,73 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-08 09:03:09.702112,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Livingston,0.03920000000000001,0.3333,0.2941
 2022-08-08 09:03:09.702112,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Hearts,0.038899999999999935,0.8571,0.8182
 2022-08-08 09:03:09.646537,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,FC Porto,0.031799999999999995,0.4762,0.4444
-2022-08-08 08:03:38.614056,Eredivisie - Dutch Eredivisie 2022/23 - Winner,Feyenoord,0.031799999999999995,0.1429,0.1111
-2022-08-08 08:03:39.116046,Premier League Futures/Specials - English Premier League 2022/23 - Not To Finish in Top 4,Liverpool,0.028799999999999992,0.1538,0.125
 2022-08-08 09:03:09.081548,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Palmeiras,0.027800000000000047,0.7778,0.75
 2022-08-08 17:02:50.786155,CFL - Odds to win 109th (2022) Grey Cup - Grey Cup Winner,British Columbia Lions,0.02779999999999999,0.25,0.2222
-2022-08-08 08:03:38.573580,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Hibernian,0.02779999999999999,0.25,0.2222
-2022-08-08 08:03:39.116046,Premier League Futures/Specials - English Premier League 2022/23 - Not To Finish in Top 4,Leicester City,0.026900000000000035,0.995,0.9681
-2022-08-08 08:03:39.116046,Premier League Futures/Specials - English Premier League 2022/23 - Not To Finish in Top 4,Aston Villa,0.026900000000000035,0.995,0.9681
 2022-08-08 09:03:09.690879,Premiership - Scotland Premiership 2022/23 - To Finish Bottom,Kilmarnock,0.024999999999999994,0.125,0.1
-2022-08-08 19:03:14.798460,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-08 18:02:50.637137,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-08 17:03:02.641593,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
 2022-08-08 16:03:28.545007,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-08 20:03:26.338261,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-08 15:03:40.903219,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-08 14:04:05.035970,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
 2022-08-08 13:02:51.632773,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-08 15:03:40.903219,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-08 17:03:02.641593,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-08 14:04:05.035970,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-08 19:03:14.798460,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-08 20:03:26.338261,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-08 18:02:50.637137,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
 2022-08-08 12:03:25.264991,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
 2022-08-08 11:03:00.048599,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
 2022-08-08 10:03:38.553059,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
 2022-08-08 09:03:06.988216,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-08 08:03:33.010622,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-08 08:03:38.558069,Premiership - Scotland Premiership 2022/23 - Outright,Celtic,0.022600000000000064,0.6226,0.6
+2022-08-08 21:02:49.964047,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-08 11:03:00.244816,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-08 12:03:25.452790,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-08 13:02:51.842582,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-08 10:03:38.859789,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-08 14:04:05.509168,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-08 15:03:41.105758,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-08 09:03:07.181711,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-08 16:03:28.741708,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-08 15:03:41.105758,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-08 17:03:03.031057,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-08 10:03:38.859789,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-08 18:02:50.833732,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-08 11:03:00.244816,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-08 19:03:15.106319,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-08 08:03:33.399784,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-08 21:02:50.204244,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-08 20:03:26.579654,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-08 14:04:05.509168,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-08 19:03:10.424967,Quarterbacks - Matthew Stafford Passing Yards 2022 Reg. Season - Matthew Stafford Passing Yards 2022 Reg. Season,Under 4500.5,0.02079999999999993,0.5556,0.5348
-2022-08-08 13:02:51.842582,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-08 08:03:38.590225,Premiership - Scotland Premiership 2022/23 - Top Goalscorer,Kyogo Furuhashi,0.019100000000000006,0.25,0.2309
 2022-08-08 09:03:09.723583,Allsvenskan - Swedish Allsvenskan 2022 - Outright,BK Hacken,0.01820000000000002,0.2,0.1818
-2022-08-08 08:03:38.573580,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Aberdeen,0.01820000000000002,0.2,0.1818
 2022-08-08 09:03:09.710839,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Ross County,0.017900000000000027,0.875,0.8571
-2022-08-08 09:03:09.749220,Superettan - Swedish Superettan 2022 - Outright,Halmstads BK,0.016700000000000048,0.75,0.7333
 2022-08-08 09:03:09.702112,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Hibernian,0.016700000000000048,0.75,0.7333
+2022-08-08 09:03:09.749220,Superettan - Swedish Superettan 2022 - Outright,Halmstads BK,0.016700000000000048,0.75,0.7333
 2022-08-08 09:03:09.081548,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Fluminense,0.016700000000000007,0.1,0.0833
-2022-08-08 09:03:09.633135,Eliteserien - Norway Eliteserien 2022 - Outright,Bodø/Glimt,0.016699999999999993,0.2667,0.25
 2022-08-08 09:03:09.690879,Premiership - Scotland Premiership 2022/23 - To Finish Bottom,St. Mirren,0.016699999999999993,0.2667,0.25
+2022-08-08 09:03:09.633135,Eliteserien - Norway Eliteserien 2022 - Outright,Bodø/Glimt,0.016699999999999993,0.2667,0.25
 2022-08-08 15:03:33.609623,Boxing Lines - Oleksandr Usyk vs Anthony Joshua - To Win the Bout,Oleksandr Usyk,0.01639999999999997,0.6667,0.6503
-2022-08-08 08:03:38.573580,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,St. Johnstone,0.014099999999999998,0.0385,0.0244
 2022-08-08 09:03:09.690879,Premiership - Scotland Premiership 2022/23 - To Finish Bottom,Motherwell,0.013999999999999999,0.0909,0.0769
 2022-08-08 11:03:02.457470,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Deportivo Toluca,0.013899999999999996,0.125,0.1111
 2022-08-08 09:03:09.723583,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Djurgårdens,0.013800000000000034,0.3774,0.3636
-2022-08-08 08:03:38.573580,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Livingston,0.0131,0.0476,0.0345
-2022-08-08 08:03:38.590225,Premiership - Scotland Premiership 2022/23 - Top Goalscorer,Alfredo Morelos,0.012899999999999995,0.1667,0.1538
 2022-08-08 15:03:33.609623,Boxing Lines - Oleksandr Usyk vs Anthony Joshua - To Win the Bout,Anthony Joshua,0.012400000000000022,0.4,0.3876
 2022-08-08 09:03:09.138392,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,Monza,0.012100000000000001,0.0244,0.0123
 2022-08-08 11:03:02.457470,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Necaxa,0.011199999999999995,0.0588,0.0476
 2022-08-08 11:03:02.457470,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,CF Pachuca,0.011099999999999999,0.1111,0.1
 2022-08-08 09:03:09.633135,Eliteserien - Norway Eliteserien 2022 - Outright,Molde FK,0.010099999999999998,0.5556,0.5455
 2022-08-08 09:03:09.633135,Eliteserien - Norway Eliteserien 2022 - Outright,Lillestrøm SK,-0.010099999999999998,0.3125,0.3226
-2022-08-08 08:03:39.116046,Premier League Futures/Specials - English Premier League 2022/23 - Not To Finish in Top 4,Newcastle United,-0.010199999999999987,0.9231,0.9333
 2022-08-08 09:03:09.749220,Superettan - Swedish Superettan 2022 - Outright,Brommapojkarna,-0.0102,0.0667,0.0769
 2022-08-08 09:03:09.749220,Superettan - Swedish Superettan 2022 - Outright,Östers IF,-0.0102,0.0667,0.0769
-2022-08-08 08:03:38.590225,Premiership - Scotland Premiership 2022/23 - Top Goalscorer,Georgios Giakoumakis,-0.012899999999999995,0.1538,0.1667
-2022-08-08 08:03:38.573580,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,St. Mirren,-0.014499999999999999,0.0149,0.0294
 2022-08-08 17:02:50.786155,CFL - Odds to win 109th (2022) Grey Cup - Grey Cup Winner,Hamilton Tiger-Cats,-0.014899999999999997,0.0476,0.0625
-2022-08-08 08:03:38.573580,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Motherwell,-0.018099999999999998,0.0588,0.0769
 2022-08-08 09:03:09.702112,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Ross County,-0.01820000000000002,0.1818,0.2
-2022-08-08 08:03:39.116046,Premier League Futures/Specials - English Premier League 2022/23 - Not To Finish in Top 4,Manchester City,-0.019099999999999992,0.0476,0.0667
 2022-08-08 09:03:09.081548,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Corinthians,-0.0203,0.0385,0.0588
-2022-08-08 12:03:25.264991,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-08 11:03:00.048599,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-08 17:03:02.641593,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-08 21:02:49.964047,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-08-08 16:03:28.545007,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-08 13:02:51.632773,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-08 10:03:38.553059,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-08 18:02:50.637137,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-08 19:03:14.798460,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-08 09:03:06.988216,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-08-08 20:03:26.338261,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-08 15:03:40.903219,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-08 08:03:33.010622,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-08 13:02:51.632773,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-08 09:03:06.988216,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-08 10:03:38.553059,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-08 11:03:00.048599,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-08 12:03:25.264991,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-08 19:03:14.798460,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-08-08 14:04:05.035970,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-08 08:03:38.530742,Superligaen - Denmark Superligaen 2022/23 - Outright,FC Midtjylland,-0.021999999999999964,0.2857,0.3077
+2022-08-08 15:03:40.903219,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-08 17:03:02.641593,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-08 18:02:50.637137,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-08-08 09:03:09.690879,Premiership - Scotland Premiership 2022/23 - To Finish Bottom,Livingston,-0.022199999999999998,0.1111,0.1333
-2022-08-08 18:02:50.833732,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-08 20:03:26.579654,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-08 08:03:33.399784,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
 2022-08-08 09:03:07.181711,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-08 10:03:38.859789,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
 2022-08-08 19:03:10.424967,Quarterbacks - Matthew Stafford Passing Yards 2022 Reg. Season - Matthew Stafford Passing Yards 2022 Reg. Season,Over 4500.5,-0.022600000000000064,0.5122,0.5348
 2022-08-08 11:03:00.244816,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
 2022-08-08 12:03:25.452790,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
@@ -107,11 +84,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-08 15:03:41.105758,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
 2022-08-08 16:03:28.741708,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
 2022-08-08 17:03:03.031057,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-08 10:03:38.859789,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-08 18:02:50.833732,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
 2022-08-08 19:03:15.106319,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-08 20:03:26.579654,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-08 21:02:50.204244,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
 2022-08-08 09:03:09.710839,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Hibernian,-0.02560000000000001,0.3077,0.3333
 2022-08-08 09:03:09.723583,Allsvenskan - Swedish Allsvenskan 2022 - Outright,AIK,-0.027999999999999997,0.1538,0.1818
-2022-08-08 08:03:38.530742,Superligaen - Denmark Superligaen 2022/23 - Outright,Brøndby IF,-0.028199999999999996,0.0385,0.0667
-2022-08-08 08:03:38.573580,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Hearts,-0.029000000000000026,0.4255,0.4545
 2022-08-08 11:03:02.457470,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Tigres UANL,-0.033300000000000024,0.1667,0.2
 2022-08-08 09:03:09.702112,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Motherwell,-0.03640000000000004,0.3636,0.4
 2022-08-08 09:03:09.690879,Premiership - Scotland Premiership 2022/23 - To Finish Bottom,St. Johnstone,-0.04040000000000002,0.1818,0.2222
@@ -122,10 +101,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-08 09:03:09.710839,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Livingston,-0.044500000000000095,0.7333,0.7778
 2022-08-08 09:03:09.710839,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Hearts,-0.04999999999999999,0.2,0.25
 2022-08-08 20:03:27.142085,NFL Specials - Where will Odell Beckham Jr Play Game 1 of the 2022/2023 NFL Season? - Proposition,Dallas Cowboys,-0.05,0.0833,0.1333
-2022-08-08 09:03:09.702112,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Kilmarnock,-0.05130000000000001,0.3333,0.3846
 2022-08-08 09:03:09.702112,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Dundee United,-0.05130000000000001,0.3333,0.3846
+2022-08-08 09:03:09.702112,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Kilmarnock,-0.05130000000000001,0.3333,0.3846
 2022-08-08 09:03:09.702112,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,St. Mirren,-0.05550000000000002,0.1667,0.2222
 2022-08-08 09:03:09.710839,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,St. Johnstone,-0.0683999999999999,0.7778,0.8462
-2022-08-08 08:03:39.116046,Premier League Futures/Specials - English Premier League 2022/23 - Not To Finish in Top 4,Chelsea,-0.07450000000000001,0.4255,0.5
-2022-08-08 08:03:39.116046,Premier League Futures/Specials - English Premier League 2022/23 - Not To Finish in Top 4,Tottenham Hotspur,-0.09999999999999998,0.4,0.5
-2022-08-08 08:03:39.116046,Premier League Futures/Specials - English Premier League 2022/23 - Not To Finish in Top 4,Arsenal,-0.13329999999999997,0.6,0.7333
