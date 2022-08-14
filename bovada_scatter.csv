@@ -4,6 +4,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-14 00:03:03.390139,ISPS Handa Invitational - ISPS Handa World Invitational - Outright,John Catlin,0.14120000000000002,0.2,0.0588
 2022-08-14 05:03:06.326024,Boeing Classic - Boeing Classic - Outright,Billy Andrade,0.1101,0.125,0.0149
 2022-08-13 20:03:44.009868,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Arsenal,0.10710000000000003,0.5833,0.4762
+2022-08-14 07:02:54.184500,MLB Futures - MLB 2022 American League Central - ALC Winner,Chicago White Sox,0.10370000000000001,0.3704,0.2667
 2022-08-13 20:03:43.973995,Premier League Futures/Specials - English Premier League 2022/23 - Not To Finish in Top 4,Manchester United,0.07579999999999998,0.9091,0.8333
 2022-08-14 00:03:03.390139,ISPS Handa Invitational - ISPS Handa World Invitational - Outright,Marcus Helligkilde,0.0754,0.0833,0.0079
 2022-08-14 00:03:14.561973,Serie A - Italy Serie A 2022/23 - Winner,AS Roma,0.07450000000000001,0.1333,0.0588
@@ -12,80 +13,88 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-14 05:03:06.326024,Boeing Classic - Boeing Classic - Outright,Darren Clarke,0.0518,0.0667,0.0149
 2022-08-14 05:03:06.326024,Boeing Classic - Boeing Classic - Outright,Gene Sauers,0.048600000000000004,0.0526,0.004
 2022-08-14 05:03:06.326024,Boeing Classic - Boeing Classic - Outright,Joe Durant,0.044300000000000006,0.0476,0.0033
+2022-08-14 07:02:55.995799,Wide Receivers - Tyler Lockett Rec TD’s 2022 Reg. Season - Outright,Under 5.5,0.03959999999999997,0.5744,0.5348
 2022-08-14 05:03:06.326024,Boeing Classic - Boeing Classic - Outright,Stephen Ames,0.03420000000000001,0.1111,0.0769
 2022-08-14 05:03:06.326024,Boeing Classic - Boeing Classic - Outright,K.J. Choi,0.03330000000000001,0.1,0.0667
 2022-08-13 20:03:43.955778,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Manchester United,0.0325,0.0345,0.002
+2022-08-14 07:02:54.164522,MLB Futures - MLB 2022 Amercian League - AL Winner,Toronto Blue Jays,0.031799999999999995,0.1429,0.1111
 2022-08-13 20:03:43.955778,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Southampton,0.030299999999999994,0.3636,0.3333
 2022-08-14 05:03:06.326024,Boeing Classic - Boeing Classic - Outright,David McKenzie,0.0277,0.0294,0.0017
 2022-08-13 20:03:43.955778,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Bournemouth,0.026499999999999968,0.6491,0.6226
-2022-08-13 19:02:58.978592,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester City,0.025600000000000067,0.6923,0.6667
-2022-08-13 18:02:44.724200,Quarterbacks - Matthew Stafford Passing Yards 2022 Reg. Season - Matthew Stafford Passing Yards 2022 Reg. Season,Under 4500.5,0.025599999999999956,0.6,0.5744
 2022-08-13 20:03:43.955778,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Nottingham Forest,0.023800000000000043,0.5238,0.5
 2022-08-14 00:03:14.640360,La Liga - Spain La Liga 2022/23 - Winner,Real Madrid,0.023799999999999988,0.5,0.4762
-2022-08-13 19:02:56.524955,MTV Video Music Awards - MTV Video Music Awards 2022 - Best Collaboration - Proposition,Dua Lipa & Elton John - Cold Heart,0.023799999999999988,0.1667,0.1429
+2022-08-14 07:02:53.933002,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - J.J. Spaun v S. Straka - Final Round 2 Balls,Sepp Straka,0.023799999999999988,0.5,0.4762
 2022-08-14 05:03:19.500932,College Season Props - 2022 - Regular Season Wins - Arkansas State - 2022 - Regular Season Wins - Arkansas State,Under 5,0.023699999999999943,0.6154,0.5917
-2022-08-13 18:02:46.642654,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-14 05:03:18.953635,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-13 22:03:54.900134,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-14 04:03:14.493484,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-14 07:03:01.932357,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
 2022-08-13 23:03:35.285405,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-14 02:02:48.339924,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-13 22:03:54.900134,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
 2022-08-14 00:03:11.034014,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-13 19:02:56.622268,74th Primetime Emmy Awards - Emmy Award - Outstanding Lead Actor in a Drama Series - Proposition,Lee Jung-jae - Squid Game,0.02169999999999994,0.5455,0.5238
-2022-08-14 03:02:44.760649,Round Match-Ups - Parlays - Final Round Match-Up - J. Thomas vs P. Cantlay - Final Round Match-Up,Justin Thomas,0.02169999999999994,0.5455,0.5238
+2022-08-14 02:02:48.339924,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-14 04:03:14.493484,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-14 05:03:18.953635,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
 2022-08-14 03:02:44.973614,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - R. Palmer v W. Clark - Final Round 2 Balls,Ryan Palmer,0.02169999999999994,0.5455,0.5238
+2022-08-14 03:02:44.760649,Round Match-Ups - Parlays - Final Round Match-Up - J. Thomas vs P. Cantlay - Final Round Match-Up,Justin Thomas,0.02169999999999994,0.5455,0.5238
 2022-08-14 04:03:05.853260,Boxing Lines - Badou Jack vs Richard Rivera - To Win the Bout,Richard Rivera,0.021299999999999986,0.303,0.2817
-2022-08-14 01:03:07.903881,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-13 21:02:59.902426,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-13 22:03:55.386476,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-13 21:02:59.902426,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-13 23:03:35.631817,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-14 01:03:07.903881,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-14 03:02:48.926668,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-14 04:03:14.713637,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-14 07:03:02.216591,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-14 05:03:19.330724,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-13 19:02:56.648393,74th Primetime Emmy Awards - Emmy Award - Outstanding Limited Series - Proposition,The White Lotus,0.020299999999999985,0.6429,0.6226
 2022-08-14 00:03:14.539265,1. Bundesliga - Germany Bundesliga 2022/23 - Winner,Bayern Munich,0.020199999999999996,0.9091,0.8889
-2022-08-13 18:02:41.625901,Boxing Lines - Adrien Broner vs Omar Figueroa Jr - To Win the Bout,Adrien Broner,0.01959999999999995,0.697,0.6774
 2022-08-13 20:03:43.973995,Premier League Futures/Specials - English Premier League 2022/23 - Not To Finish in Top 4,Chelsea,0.018900000000000028,0.4444,0.4255
-2022-08-13 18:02:44.664498,Running Backs - Derrick Henry Rush Yards 2022 Reg. Season - Outright,Under 1400.5,0.01880000000000004,0.5744,0.5556
 2022-08-14 04:03:13.104067,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Detroit Lions,Over 7.5,0.018799999999999983,0.3636,0.3448
-2022-08-14 01:03:00.732220,Boxing Lines - Jose Enrique Durantes vs Edy Valencia Mercado - To Win the Bout,Jose Enrique Durantes,0.018100000000000005,0.9412,0.9231
 2022-08-14 04:03:06.394985,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - M. Laird v M. Thompson - Final Round 2 Balls,Martin Laird,0.018100000000000005,0.5833,0.5652
+2022-08-14 01:03:00.732220,Boxing Lines - Jose Enrique Durantes vs Edy Valencia Mercado - To Win the Bout,Jose Enrique Durantes,0.018100000000000005,0.9412,0.9231
+2022-08-14 07:02:54.715180,CFL - 2020 CFL Season Odds - Odds to win the 109th (2022) Grey Cup,Saskatchewan Roughriders,0.016700000000000007,0.1,0.0833
 2022-08-14 00:03:02.584333,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Republican Candidate,Ron DeSantis,0.016699999999999993,0.4167,0.4
-2022-08-13 19:02:56.591260,74th Primetime Emmy Awards - Emmy Award - Outstanding Drama Series - Proposition,Squid Game,0.016699999999999993,0.2667,0.25
+2022-08-14 07:02:54.715180,CFL - 2020 CFL Season Odds - Odds to win the 109th (2022) Grey Cup,British Columbia Lions,0.016699999999999993,0.2667,0.25
+2022-08-14 07:02:53.883410,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - T. Finau v B. Harman - Final Round 2 Balls,Tony Finau,0.01539999999999997,0.6154,0.6
 2022-08-14 05:03:18.638614,College Season Props - 2022 - Regular Season Wins - Boston College - 2022 - Regular Season Wins - Boston College,Under 6.5,0.01539999999999997,0.6154,0.6
 2022-08-13 20:03:43.915094,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Mohamed Salah,0.015100000000000002,0.1818,0.1667
+2022-08-14 07:02:54.715180,CFL - 2020 CFL Season Odds - Odds to win the 109th (2022) Grey Cup,Hamilton Tiger-Cats,0.014899999999999997,0.0625,0.0476
 2022-08-14 05:03:06.326024,Boeing Classic - Boeing Classic - Outright,John Huston,0.014499999999999999,0.0294,0.0149
-2022-08-14 03:02:45.274652,Boxing Lines - Teofimo Lopez vs Pedro Campa - To Win the Bout,Teofimo Lopez,0.01429999999999998,0.9852,0.9709
 2022-08-14 02:02:43.324188,Boxing Lines - Xander Zayas vs Elias Espadas - To Win the Bout,Xander Zayas,0.01429999999999998,0.9852,0.9709
+2022-08-14 03:02:45.274652,Boxing Lines - Teofimo Lopez vs Pedro Campa - To Win the Bout,Teofimo Lopez,0.01429999999999998,0.9852,0.9709
 2022-08-14 05:03:16.333956,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Detroit Lions,Over 6.5,0.014200000000000101,0.6296,0.6154
 2022-08-13 20:03:43.915094,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Gabriel Martinelli,0.014099999999999998,0.0385,0.0244
 2022-08-13 20:03:43.915094,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Darwin Nunez,0.013999999999999999,0.0909,0.0769
 2022-08-13 20:03:43.955778,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leicester City,0.013899999999999996,0.125,0.1111
 2022-08-14 00:03:14.561973,Serie A - Italy Serie A 2022/23 - Winner,Inter Milan,0.013800000000000034,0.3774,0.3636
+2022-08-14 07:02:53.911548,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - S. Im v T. Merritt - Final Round 2 Balls,Sungjae Im,0.013799999999999923,0.6364,0.6226
+2022-08-14 07:02:53.925642,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - W. Zalatoris v T. Mullinax - Final Round 2 Balls,Trey Mullinax,0.013300000000000034,0.3704,0.3571
 2022-08-14 04:03:15.744221,AFC North - 2022/2023 AFC North - AFC North Winner,Cincinnati Bengals,0.012299999999999978,0.3571,0.3448
 2022-08-14 05:03:05.744722,Round Match-Ups - Parlays - Final Round Match-Up - W. Clark vs D. McCarthy - Final Round Match-Up,Denny McCarthy,0.012199999999999989,0.5122,0.5
 2022-08-13 20:03:43.955778,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Fulham,0.01150000000000001,0.3448,0.3333
 2022-08-14 02:02:47.292562,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,George Pickens,0.011199999999999995,0.0588,0.0476
 2022-08-14 02:02:47.406520,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Team With The Fewest Wins (Regular Season),CHI Bears,0.011099999999999999,0.1111,0.1
+2022-08-14 07:02:53.861665,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - K.H. Lee v L. Glover - Final Round 2 Balls,Kyoung-Hoon Lee,0.010699999999999932,0.5455,0.5348
 2022-08-14 05:03:05.645573,Round Match-Ups - Parlays - Final Round Match-Up - C. Conners vs D. Riley - Final Round Match-Up,Corey Conners,0.010699999999999932,0.5455,0.5348
 2022-08-14 04:03:09.820151,Quarterbacks - Dak Prescott Passing INT's 2022 Reg. Season - Dak Prescott Passing INT's 2022 Reg. Season,Over 10.5,0.010699999999999932,0.5455,0.5348
+2022-08-14 07:02:53.868473,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - C. Morikawa v J. Kim - Final Round 2 Balls,Collin Morikawa,0.010699999999999932,0.5455,0.5348
 2022-08-13 20:03:43.955778,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Brighton & Hove Albion,0.0102,0.0769,0.0667
 2022-08-14 00:03:14.640360,La Liga - Spain La Liga 2022/23 - Winner,Villarreal,0.010100000000000001,0.0345,0.0244
 2022-08-14 05:03:05.858563,Round Match-Ups - Parlays - Final Round Match-Up - W. Zalatoris vs S. Burns - Final Round Match-Up,Will Zalatoris,0.010099999999999998,0.5556,0.5455
 2022-08-14 05:03:05.806005,Round Match-Ups - Parlays - Final Round Match-Up - M. Fitzpatrick vs T. Finau - Final Round Match-Up,Matthew Fitzpatrick,0.010099999999999998,0.5556,0.5455
+2022-08-14 07:02:53.925642,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - W. Zalatoris v T. Mullinax - Final Round 2 Balls,Will Zalatoris,-0.010099999999999998,0.6774,0.6875
 2022-08-14 05:03:18.638614,College Season Props - 2022 - Regular Season Wins - Boston College - 2022 - Regular Season Wins - Boston College,Over 6.5,-0.010599999999999998,0.4545,0.4651
 2022-08-14 05:03:05.744722,Round Match-Ups - Parlays - Final Round Match-Up - W. Clark vs D. McCarthy - Final Round Match-Up,Wyndham Clark,-0.010699999999999932,0.5348,0.5455
 2022-08-14 05:03:06.326024,Boeing Classic - Boeing Classic - Outright,Rod Pampling,-0.0109,0.004,0.0149
 2022-08-14 04:03:09.820151,Quarterbacks - Dak Prescott Passing INT's 2022 Reg. Season - Dak Prescott Passing INT's 2022 Reg. Season,Under 10.5,-0.01100000000000001,0.5238,0.5348
 2022-08-13 20:03:44.009868,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Liverpool,-0.011099999999999999,0.8889,0.9
 2022-08-14 04:03:06.394985,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - M. Laird v M. Thompson - Final Round 2 Balls,Michael Thompson,-0.011099999999999999,0.4651,0.4762
+2022-08-14 07:02:55.956017,Wide Receivers - Treylon Burks Rec Yards 2022 Reg. Season - Outright,Over 775.5,-0.011099999999999999,0.4651,0.4762
 2022-08-14 04:03:15.744221,AFC North - 2022/2023 AFC North - AFC North Winner,Cleveland Browns,-0.011899999999999994,0.2381,0.25
+2022-08-14 05:03:05.645573,Round Match-Ups - Parlays - Final Round Match-Up - C. Conners vs D. Riley - Final Round Match-Up,Davis Riley,-0.012199999999999989,0.5,0.5122
 2022-08-14 05:03:05.806005,Round Match-Ups - Parlays - Final Round Match-Up - M. Fitzpatrick vs T. Finau - Final Round Match-Up,Tony Finau,-0.012199999999999989,0.4878,0.5
 2022-08-14 02:02:46.399909,Running Backs - Jonathan Taylor Rush Yards 2022 Reg. Season - Outright,Over 1450.5,-0.012199999999999989,0.5,0.5122
-2022-08-14 05:03:05.645573,Round Match-Ups - Parlays - Final Round Match-Up - C. Conners vs D. Riley - Final Round Match-Up,Davis Riley,-0.012199999999999989,0.5,0.5122
 2022-08-14 05:03:05.858563,Round Match-Ups - Parlays - Final Round Match-Up - W. Zalatoris vs S. Burns - Final Round Match-Up,Sam Burns,-0.012199999999999989,0.4878,0.5
-2022-08-14 05:03:06.326024,Boeing Classic - Boeing Classic - Outright,Scott McCarron,-0.0124,0.0025,0.0149
+2022-08-14 07:02:53.861665,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - K.H. Lee v L. Glover - Final Round 2 Balls,Lucas Glover,-0.012199999999999989,0.5,0.5122
+2022-08-14 07:02:53.868473,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - C. Morikawa v J. Kim - Final Round 2 Balls,Joohyung Kim,-0.012199999999999989,0.5,0.5122
 2022-08-14 05:03:06.326024,Boeing Classic - Boeing Classic - Outright,David Toms,-0.0124,0.0025,0.0149
+2022-08-14 05:03:06.326024,Boeing Classic - Boeing Classic - Outright,Scott McCarron,-0.0124,0.0025,0.0149
 2022-08-13 20:03:44.009868,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Newcastle United,-0.013899999999999996,0.1111,0.125
 2022-08-14 00:03:14.539265,1. Bundesliga - Germany Bundesliga 2022/23 - Winner,RB Leipzig,-0.014100000000000001,0.0385,0.0526
 2022-08-14 03:02:45.274652,Boxing Lines - Teofimo Lopez vs Pedro Campa - To Win the Bout,Pedro Campa,-0.014399999999999996,0.0625,0.0769
@@ -94,39 +103,42 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-14 05:03:06.326024,Boeing Classic - Boeing Classic - Outright,Kirk Triplett,-0.0156,0.004,0.0196
 2022-08-14 04:03:13.104067,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Detroit Lions,Under 7.5,-0.01629999999999998,0.7059,0.7222
 2022-08-14 05:03:06.326024,Boeing Classic - Boeing Classic - Outright,Tim Herron,-0.0163,0.0033,0.0196
+2022-08-14 07:02:53.911548,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - S. Im v T. Merritt - Final Round 2 Balls,Troy Merritt,-0.017299999999999982,0.4082,0.4255
 2022-08-13 20:03:44.009868,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Tottenham Hotspur,-0.01759999999999995,0.6491,0.6667
+2022-08-14 07:02:54.715180,CFL - 2020 CFL Season Odds - Odds to win the 109th (2022) Grey Cup,Calgary Stampeders,-0.01820000000000002,0.1818,0.2
 2022-08-13 20:03:44.009868,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Chelsea,-0.01880000000000004,0.6364,0.6552
+2022-08-14 07:02:53.883410,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - T. Finau v B. Harman - Final Round 2 Balls,Brian Harman,-0.018900000000000028,0.4255,0.4444
 2022-08-14 00:03:14.561973,Serie A - Italy Serie A 2022/23 - Winner,Napoli,-0.019099999999999992,0.0476,0.0667
 2022-08-14 05:03:16.333956,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Detroit Lions,Under 6.5,-0.019699999999999995,0.4348,0.4545
+2022-08-14 07:02:53.933002,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - J.J. Spaun v S. Straka - Final Round 2 Balls,J J Spaun,-0.01970000000000005,0.5455,0.5652
 2022-08-14 00:03:14.640360,La Liga - Spain La Liga 2022/23 - Winner,Sevilla,-0.0203,0.0385,0.0588
 2022-08-14 00:03:02.321053,Big Brother - Big Brother 24 - Odds to Win,Taylor Hale,-0.02049999999999999,0.1333,0.1538
-2022-08-14 00:03:11.034014,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-13 18:02:46.642654,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-14 02:02:48.339924,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-13 23:03:35.285405,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-08-14 04:03:14.493484,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-08-13 22:03:54.900134,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-08-14 05:03:18.953635,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-13 23:03:35.285405,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-14 02:02:48.339924,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-14 07:03:01.932357,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-14 00:03:11.034014,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-08-14 05:03:19.500932,College Season Props - 2022 - Regular Season Wins - Arkansas State - 2022 - Regular Season Wins - Arkansas State,Over 5,-0.021699999999999997,0.4545,0.4762
 2022-08-14 00:03:03.390139,ISPS Handa Invitational - ISPS Handa World Invitational - Outright,Craig Howie,-0.021900000000000003,0.0025,0.0244
-2022-08-14 00:03:03.390139,ISPS Handa Invitational - ISPS Handa World Invitational - Outright,Connor Syme,-0.022199999999999998,0.1111,0.1333
 2022-08-14 00:03:14.561973,Serie A - Italy Serie A 2022/23 - Winner,AC Milan,-0.022199999999999998,0.2,0.2222
-2022-08-13 21:02:59.902426,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-13 22:03:55.386476,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-14 03:02:48.926668,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-14 05:03:19.330724,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-14 00:03:03.390139,ISPS Handa Invitational - ISPS Handa World Invitational - Outright,Connor Syme,-0.022199999999999998,0.1111,0.1333
 2022-08-14 04:03:14.713637,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-14 05:03:19.330724,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-13 21:02:59.902426,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-14 03:02:48.926668,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
 2022-08-14 01:03:07.903881,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-14 07:03:02.216591,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
 2022-08-13 23:03:35.631817,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-13 18:02:44.724200,Quarterbacks - Matthew Stafford Passing Yards 2022 Reg. Season - Matthew Stafford Passing Yards 2022 Reg. Season,Over 4500.5,-0.022699999999999998,0.4651,0.4878
+2022-08-13 22:03:55.386476,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
 2022-08-14 05:03:06.326024,Boeing Classic - Boeing Classic - Outright,Jerry Kelly,-0.023200000000000002,0.0294,0.0526
 2022-08-14 00:03:14.640360,La Liga - Spain La Liga 2022/23 - Winner,Atlético Madrid,-0.023799999999999988,0.1429,0.1667
 2022-08-14 03:02:44.760649,Round Match-Ups - Parlays - Final Round Match-Up - J. Thomas vs P. Cantlay - Final Round Match-Up,Patrick Cantlay,-0.023800000000000043,0.5,0.5238
 2022-08-14 03:02:44.973614,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - R. Palmer v W. Clark - Final Round 2 Balls,Wyndham Clark,-0.023800000000000043,0.5,0.5238
 2022-08-14 00:03:03.390139,ISPS Handa Invitational - ISPS Handa World Invitational - Outright,Felix Palson,-0.024,0.0004,0.0244
-2022-08-13 18:02:44.664498,Running Backs - Derrick Henry Rush Yards 2022 Reg. Season - Outright,Over 1400.5,-0.024399999999999977,0.4878,0.5122
+2022-08-14 07:02:54.715180,CFL - 2020 CFL Season Odds - Odds to win the 109th (2022) Grey Cup,Toronto Argonauts,-0.024999999999999994,0.1,0.125
 2022-08-14 00:03:14.640360,La Liga - Spain La Liga 2022/23 - Winner,FC Barcelona,-0.025499999999999967,0.4,0.4255
-2022-08-13 19:02:58.978592,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Liverpool,-0.02779999999999999,0.2222,0.25
 2022-08-14 05:03:06.326024,Boeing Classic - Boeing Classic - Outright,Steve Flesch,-0.0281,0.0013,0.0294
 2022-08-13 20:03:43.955778,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Aston Villa,-0.0286,0.0714,0.1
 2022-08-14 05:03:06.326024,Boeing Classic - Boeing Classic - Outright,Scott Dunlap,-0.032,0.0025,0.0345
@@ -134,10 +146,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-14 05:03:06.326024,Boeing Classic - Boeing Classic - Outright,Tim Petrovic,-0.0373,0.0294,0.0667
 2022-08-14 00:03:03.390139,ISPS Handa Invitational - ISPS Handa World Invitational - Outright,Renato Paratore,-0.0375,0.001,0.0385
 2022-08-14 00:03:03.390139,ISPS Handa Invitational - ISPS Handa World Invitational - Outright,Borja Virto,-0.0384,0.0385,0.0769
+2022-08-14 07:02:54.184500,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,-0.03920000000000001,0.2941,0.3333
 2022-08-14 00:03:14.561973,Serie A - Italy Serie A 2022/23 - Winner,Juventus,-0.04099999999999998,0.3226,0.3636
 2022-08-13 20:03:43.915094,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Erling Haaland,-0.044399999999999995,0.4,0.4444
 2022-08-14 05:03:06.326024,Boeing Classic - Boeing Classic - Outright,Paul Broadhurst,-0.0451,0.0025,0.0476
+2022-08-14 07:02:55.995799,Wide Receivers - Tyler Lockett Rec TD’s 2022 Reg. Season - Outright,Over 5.5,-0.04700000000000004,0.4878,0.5348
 2022-08-14 05:03:06.326024,Boeing Classic - Boeing Classic - Outright,Brandt Jobe,-0.0489,0.0099,0.0588
+2022-08-14 07:02:54.184500,MLB Futures - MLB 2022 American League Central - ALC Winner,Cleveland Guardians,-0.05070000000000002,0.4255,0.4762
 2022-08-14 00:03:03.390139,ISPS Handa Invitational - ISPS Handa World Invitational - Outright,Filippo Celli,-0.0509,0.0079,0.0588
 2022-08-14 05:03:06.326024,Boeing Classic - Boeing Classic - Outright,Steven Alker,-0.05379999999999999,0.1,0.1538
 2022-08-14 00:03:03.390139,ISPS Handa Invitational - ISPS Handa World Invitational - Outright,Dale Whitnell,-0.0584,0.0004,0.0588
