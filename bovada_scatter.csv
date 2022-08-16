@@ -1,36 +1,30 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-16 10:03:47.830356,Serie A - Italy Serie A 2022/23 - Top 4 Finish,AS Roma,0.19870000000000004,0.5833,0.3846
 2022-08-16 08:03:47.675371,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Villarreal,0.13330000000000003,0.4,0.2667
-2022-08-16 00:03:33.004597,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Freiburg,0.11909999999999998,0.1667,0.0476
 2022-08-16 10:03:47.930044,La Liga - Spain La Liga 2022/23 - To Be Relegated,Espanyol,0.10390000000000002,0.2857,0.1818
-2022-08-16 00:03:32.981587,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Bochum,0.09099999999999997,0.5455,0.4545
 2022-08-16 10:03:47.930044,La Liga - Spain La Liga 2022/23 - To Be Relegated,Elche,0.09090000000000004,0.4545,0.3636
-2022-08-15 23:03:10.014745,1. Bundesliga - Germany Bundesliga 2022/23 - Winner without Bayern Munich,Borussia Dortmund,0.08900000000000002,0.5238,0.4348
 2022-08-16 01:03:24.132800,Big Brother - Big Brother 24 - Specials - Most Nominated Houseguest,Terrance,0.08339999999999992,0.6667,0.5833
 2022-08-16 10:03:48.765909,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Hammarby IF,0.06669999999999998,0.2667,0.2
-2022-08-16 00:03:32.981587,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Wolfsburg,0.06620000000000001,0.125,0.0588
 2022-08-16 10:03:47.904883,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Villarreal,0.066,0.1429,0.0769
 2022-08-16 01:03:24.106899,Big Brother - Big Brother 24 - Specials - Houseguests to be evicted on Double Eviction Night,Alyssa Snider,0.0635,0.2857,0.2222
 2022-08-16 10:03:47.930044,La Liga - Spain La Liga 2022/23 - To Be Relegated,Valencia,0.0629,0.1538,0.0909
 2022-08-16 10:03:47.930044,La Liga - Spain La Liga 2022/23 - To Be Relegated,Almería,0.057699999999999974,0.3077,0.25
 2022-08-16 02:03:04.043711,Celebrity Specials - Kim Kardashian Next Boyfriend - Proposition,Van Jones,0.05710000000000001,0.2,0.1429
-2022-08-16 00:03:33.004597,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Union Berlin,0.0524,0.1,0.0476
 2022-08-16 01:03:24.106899,Big Brother - Big Brother 24 - Specials - Houseguests to be evicted on Double Eviction Night,Kyle Capener,0.04999999999999999,0.25,0.2
-2022-08-16 10:03:47.916934,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Karim Benzema (Real Madrid),0.047599999999999976,0.3333,0.2857
 2022-08-16 02:03:04.043711,Celebrity Specials - Kim Kardashian Next Boyfriend - Proposition,Kanye West,0.047599999999999976,0.3333,0.2857
+2022-08-16 10:03:47.916934,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Karim Benzema (Real Madrid),0.047599999999999976,0.3333,0.2857
 2022-08-16 01:03:24.080571,Big Brother - Big Brother 24 - Specials - Final 3,Terrance Higgins,0.04620000000000002,0.2,0.1538
 2022-08-16 01:03:24.080571,Big Brother - Big Brother 24 - Specials - Final 3,Brittany Hoopes,0.044499999999999984,0.2667,0.2222
 2022-08-16 10:03:47.904883,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Real Sociedad,0.04440000000000001,0.1111,0.0667
 2022-08-16 08:03:35.124824,MLB Futures - MLB 2022 National League East - NLE Winner,Atlanta Braves,0.043800000000000006,0.2105,0.1667
 2022-08-16 08:03:47.675371,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Real Madrid,0.043300000000000005,0.9524,0.9091
-2022-08-16 00:03:33.004597,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,FC Köln,0.04329999999999999,0.0909,0.0476
 2022-08-16 10:03:48.804447,Superettan - Swedish Superettan 2022 - Outright,Halmstads BK,0.04290000000000005,0.9,0.8571
 2022-08-16 01:03:24.161965,Big Brother - Big Brother 24 - Specials - Who will win the most competions?,Michael Bruner,0.04239999999999999,0.9091,0.8667
 2022-08-16 10:03:47.904883,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Real Betis,0.04120000000000001,0.1,0.0588
 2022-08-16 01:03:35.742530,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester City,0.040999999999999925,0.7333,0.6923
-2022-08-16 01:03:24.080571,Big Brother - Big Brother 24 - Specials - Final 3,Joseph Abdin,0.03640000000000004,0.4,0.3636
-2022-08-16 01:03:35.779912,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Southampton,0.03640000000000004,0.4,0.3636
 2022-08-16 10:03:47.930044,La Liga - Spain La Liga 2022/23 - To Be Relegated,Cádiz,0.03640000000000004,0.4,0.3636
+2022-08-16 01:03:35.779912,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Southampton,0.03640000000000004,0.4,0.3636
+2022-08-16 01:03:24.080571,Big Brother - Big Brother 24 - Specials - Final 3,Joseph Abdin,0.03640000000000004,0.4,0.3636
 2022-08-16 08:03:47.675371,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Athletic Bilbao,0.034100000000000005,0.125,0.0909
 2022-08-16 10:03:48.765909,Allsvenskan - Swedish Allsvenskan 2022 - Outright,BK Hacken,0.03409999999999999,0.2667,0.2326
 2022-08-16 08:03:47.675371,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Real Betis,0.033300000000000024,0.2,0.1667
@@ -39,9 +33,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-16 08:03:48.709192,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Nottingham Forest,0.031799999999999995,0.1429,0.1111
 2022-08-16 08:03:47.675371,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Real Sociedad,0.030899999999999983,0.2309,0.2
 2022-08-16 01:03:35.840099,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Chelsea,0.030299999999999994,0.6667,0.6364
-2022-08-16 00:03:33.004597,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Borussia Dortmund,0.028800000000000048,0.875,0.8462
-2022-08-15 23:03:10.014745,1. Bundesliga - Germany Bundesliga 2022/23 - Winner without Bayern Munich,Freiburg,0.0286,0.0385,0.0099
-2022-08-16 00:03:32.981587,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Hertha BSC,0.02779999999999999,0.25,0.2222
 2022-08-16 10:03:47.930044,La Liga - Spain La Liga 2022/23 - To Be Relegated,Athletic Bilbao,0.026499999999999996,0.0588,0.0323
 2022-08-16 08:03:35.184269,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Adley Rutschman,0.025900000000000003,0.0476,0.0217
 2022-08-16 10:03:47.916934,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Robert Lewandowski (Barcelona),0.02560000000000001,0.3333,0.3077
@@ -49,29 +40,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-16 10:03:30.188199,Boxing Lines - Lindolfo Delgado vs Aguilar Omar Alejandro - To Win the Bout,Aguilar Omar Alejandro,0.0252,0.7222,0.697
 2022-08-16 08:03:47.675371,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Valencia,0.0242,0.0909,0.0667
 2022-08-16 02:03:05.497397,NCAAF - 2022 Mountain West Championship - Mountain West Championship - Mountain Division Winner,Air Force,0.023799999999999988,0.3571,0.3333
-2022-08-15 23:03:06.528491,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-16 12:04:28.556025,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
 2022-08-16 03:02:57.989545,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-16 11:02:51.199870,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
 2022-08-16 10:03:43.545470,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-16 00:03:28.387530,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-16 11:02:51.199870,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
 2022-08-16 01:03:34.526785,Serie A - Italy Serie A 2022/23 - Winner,Juventus,0.022199999999999998,0.3448,0.3226
 2022-08-16 08:03:48.728394,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Wolverhampton Wanderers,0.022199999999999998,0.8,0.7778
-2022-08-16 00:03:32.981587,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Werder Bremen,0.021999999999999964,0.3077,0.2857
 2022-08-16 08:03:48.718993,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Brighton & Hove Albion,0.02169999999999994,0.5455,0.5238
 2022-08-16 08:03:48.709192,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Crystal Palace,0.02100000000000002,0.3846,0.3636
+2022-08-16 09:02:56.047875,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-16 12:04:29.000927,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-16 10:03:43.927335,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-16 11:02:51.451399,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-16 00:03:28.758989,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-16 09:02:56.047875,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-15 23:03:06.935447,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-16 00:03:33.004597,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Mainz,0.0203,0.0588,0.0385
 2022-08-16 08:03:35.109946,MLB Futures - MLB 2022 National League Central - NLC Winner,St. Louis Cardinals,0.020299999999999985,0.6429,0.6226
 2022-08-16 08:03:47.675371,La Liga - Spain La Liga 2022/23 - Top 4 Finish,FC Barcelona,0.020199999999999996,0.9091,0.8889
 2022-08-16 02:03:06.850409,College Season Props - 2022 - Regular Season Wins - Arizona - 2022 - Regular Season Wins - Arizona,Over 2.5,0.019499999999999962,0.6491,0.6296
 2022-08-16 08:03:35.073350,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,0.019000000000000017,0.2857,0.2667
 2022-08-16 10:03:47.916934,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Rafa Mir (Sevilla),0.0189,0.0385,0.0196
 2022-08-16 08:03:48.728394,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Nottingham Forest,0.01880000000000004,0.6552,0.6364
-2022-08-16 00:03:32.981587,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,VfB Stuttgart,0.01820000000000002,0.2,0.1818
 2022-08-16 10:03:47.916934,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Alvaro Morata (Atletico Madrid),0.018200000000000004,0.0476,0.0294
 2022-08-16 10:03:47.991424,La Liga - Spain La Liga 2022/23 - Real Madrid - Trophy Special,La Liga and Copa del Rey,0.0179,0.1429,0.125
 2022-08-16 10:03:47.830356,Serie A - Italy Serie A 2022/23 - Top 4 Finish,Atalanta,0.017600000000000005,0.3509,0.3333
@@ -80,15 +66,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-16 01:03:35.840099,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Arsenal,0.016699999999999937,0.6,0.5833
 2022-08-16 10:03:47.830356,Serie A - Italy Serie A 2022/23 - Top 4 Finish,Lazio,0.015100000000000002,0.1818,0.1667
 2022-08-16 08:03:47.675371,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Real Valladolid,0.0145,0.0244,0.0099
-2022-08-15 23:03:10.014745,1. Bundesliga - Germany Bundesliga 2022/23 - Winner without Bayern Munich,FC Köln,0.0145,0.0244,0.0099
-2022-08-15 23:03:10.014745,1. Bundesliga - Germany Bundesliga 2022/23 - Winner without Bayern Munich,Union Berlin,0.0145,0.0244,0.0099
 2022-08-16 11:02:42.529481,Boxing Lines - Badou Jack vs Richard Rivera - To Win the Bout,Richard Rivera,0.014300000000000007,0.2469,0.2326
 2022-08-16 01:03:24.161965,Big Brother - Big Brother 24 - Specials - Who will win the most competions?,Kyle Capener,0.013999999999999999,0.0909,0.0769
 2022-08-16 08:03:48.605408,Premier League Futures/Specials - English Premier League 2022/23 - Winner without 'The Big Six',Crystal Palace,0.013999999999999999,0.0909,0.0769
 2022-08-16 10:03:48.595493,Superligaen - Denmark Superligaen 2022/23 - Outright,AGF Aarhus,0.0131,0.0476,0.0345
-2022-08-16 01:03:34.553674,La Liga - Spain La Liga 2022/23 - Winner,Atlético Madrid,0.012899999999999995,0.1667,0.1538
-2022-08-16 08:03:35.062374,MLB Futures - MLB 2022 National League - NL Winner,Atlanta Braves,0.012899999999999995,0.1667,0.1538
 2022-08-16 01:03:24.106899,Big Brother - Big Brother 24 - Specials - Houseguests to be evicted on Double Eviction Night,Jasmine Davis,0.012899999999999995,0.1667,0.1538
+2022-08-16 08:03:35.062374,MLB Futures - MLB 2022 National League - NL Winner,Atlanta Braves,0.012899999999999995,0.1667,0.1538
+2022-08-16 01:03:34.553674,La Liga - Spain La Liga 2022/23 - Winner,Atlético Madrid,0.012899999999999995,0.1667,0.1538
 2022-08-16 01:03:24.106899,Big Brother - Big Brother 24 - Specials - Houseguests to be evicted on Double Eviction Night,Matthew Turner,0.012899999999999995,0.1667,0.1538
 2022-08-16 01:03:35.779912,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Fulham,0.012699999999999989,0.3636,0.3509
 2022-08-16 11:02:42.636929,Boxing Lines - Lindolfo Delgado vs Aguilar Omar Alejandro - To Win the Bout,Lindolfo Delgado,0.012299999999999978,0.3571,0.3448
@@ -100,23 +84,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-16 01:03:24.080571,Big Brother - Big Brother 24 - Specials - Final 3,Michael Bruner,0.011099999999999999,0.4762,0.4651
 2022-08-16 08:03:48.728394,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Crystal Palace,0.011099999999999999,0.9,0.8889
 2022-08-16 02:03:05.469684,NCAAF - 2022 MAC Championship - MAC East Division Winner,Miami Ohio,0.011099999999999999,0.4762,0.4651
-2022-08-16 08:03:35.062374,MLB Futures - MLB 2022 National League - NL Winner,St. Louis Cardinals,0.0102,0.0769,0.0667
 2022-08-16 08:03:48.699134,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Crystal Palace,0.0102,0.0769,0.0667
+2022-08-16 08:03:35.062374,MLB Futures - MLB 2022 National League - NL Winner,St. Louis Cardinals,0.0102,0.0769,0.0667
 2022-08-16 02:03:06.928651,College Season Props - 2022 - Regular Season Wins - LSU - 2022 - Regular Season Wins - LSU,Over 7,0.010099999999999998,0.5556,0.5455
 2022-08-16 08:03:48.718993,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,West Ham United,0.010099999999999998,0.4545,0.4444
 2022-08-16 08:03:48.709192,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Brighton & Hove Albion,-0.010099999999999998,0.5455,0.5556
 2022-08-16 08:03:41.498672,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - New York Jets,No,-0.010199999999999987,0.9231,0.9333
-2022-08-16 01:03:35.742530,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Tottenham Hotspur,-0.0102,0.0667,0.0769
-2022-08-16 10:03:47.916934,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Vinicius Jr (Real Madrid),-0.0102,0.0667,0.0769
 2022-08-16 01:03:24.161965,Big Brother - Big Brother 24 - Specials - Who will win the most competions?,Monte Taylor,-0.0102,0.0667,0.0769
-2022-08-16 00:03:32.897773,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Sadio Mane,-0.010399999999999993,0.2222,0.2326
+2022-08-16 10:03:47.916934,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Vinicius Jr (Real Madrid),-0.0102,0.0667,0.0769
+2022-08-16 01:03:35.742530,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Tottenham Hotspur,-0.0102,0.0667,0.0769
 2022-08-16 08:03:48.605408,Premier League Futures/Specials - English Premier League 2022/23 - Winner without 'The Big Six',Brighton & Hove Albion,-0.010899999999999993,0.1429,0.1538
 2022-08-16 02:03:05.497397,NCAAF - 2022 Mountain West Championship - Mountain West Championship - Mountain Division Winner,Boise State,-0.011099999999999999,0.4651,0.4762
 2022-08-16 01:03:24.161965,Big Brother - Big Brother 24 - Specials - Who will win the most competions?,Jasmine Davis,-0.011199999999999995,0.0476,0.0588
 2022-08-16 02:03:06.928651,College Season Props - 2022 - Regular Season Wins - LSU - 2022 - Regular Season Wins - LSU,Under 7,-0.011600000000000055,0.5122,0.5238
 2022-08-16 02:03:06.919066,College Season Props - 2022 - Regular Season Wins - Texas - Alternate Regular Season Wins - Texas,Over 9.5,-0.011899999999999994,0.2381,0.25
-2022-08-16 00:03:33.004597,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Hoffenheim,-0.012899999999999995,0.1538,0.1667
-2022-08-16 00:03:32.981587,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Mainz,-0.012899999999999995,0.1538,0.1667
 2022-08-16 01:03:35.779912,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Crystal Palace,-0.012899999999999995,0.1538,0.1667
 2022-08-16 02:03:05.469684,NCAAF - 2022 MAC Championship - MAC East Division Winner,Kent State,-0.0131,0.2222,0.2353
 2022-08-16 09:02:47.739414,MLB Futures - MLB 2022 Amercian League - AL Winner,New York Yankees,-0.013300000000000034,0.3571,0.3704
@@ -131,69 +112,54 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-16 08:03:35.184269,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Bobby Witt Jr,-0.016600000000000004,0.0667,0.0833
 2022-08-16 02:03:06.875198,College Season Props - 2022 - Regular Season Wins - Marshall - 2022 - Regular Season Wins - Marshall,Under 6.5,-0.017299999999999982,0.4082,0.4255
 2022-08-16 08:03:35.855314,Boxing Lines - Alberto Puello vs Batyr Akhmedov - To Win the Bout,Alberto Puello,-0.017600000000000005,0.3906,0.4082
-2022-08-16 00:03:32.897773,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Patrik Schick,-0.0179,0.125,0.1429
-2022-08-16 10:03:48.804447,Superettan - Swedish Superettan 2022 - Outright,IK Brage,-0.018099999999999998,0.0588,0.0769
 2022-08-16 10:03:47.916934,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Raphael Raphinha ( Barcelona),-0.018099999999999998,0.0588,0.0769
+2022-08-16 10:03:48.804447,Superettan - Swedish Superettan 2022 - Outright,IK Brage,-0.018099999999999998,0.0588,0.0769
 2022-08-16 10:03:48.765909,Allsvenskan - Swedish Allsvenskan 2022 - Outright,AIK,-0.018099999999999998,0.0588,0.0769
 2022-08-16 02:03:06.850409,College Season Props - 2022 - Regular Season Wins - Arizona - 2022 - Regular Season Wins - Arizona,Under 2.5,-0.018100000000000005,0.4167,0.4348
 2022-08-16 10:03:47.830356,Serie A - Italy Serie A 2022/23 - Top 4 Finish,Juventus,-0.018199999999999994,0.8,0.8182
 2022-08-16 10:03:47.830356,Serie A - Italy Serie A 2022/23 - Top 4 Finish,Udinese,-0.018200000000000004,0.0294,0.0476
-2022-08-16 00:03:32.981587,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Eintracht Frankfurt,-0.018200000000000004,0.0294,0.0476
 2022-08-16 01:03:34.526785,Serie A - Italy Serie A 2022/23 - Winner,AC Milan,-0.01820000000000002,0.1818,0.2
 2022-08-16 09:02:48.122508,Boxing Lines - Oleksandr Usyk vs Anthony Joshua - To Win the Bout,Oleksandr Usyk,-0.01870000000000005,0.6587,0.6774
 2022-08-16 10:03:47.904883,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Atlético Madrid,-0.01880000000000004,0.5556,0.5744
-2022-08-15 23:03:10.014745,1. Bundesliga - Germany Bundesliga 2022/23 - Winner without Bayern Munich,Wolfsburg,-0.0189,0.0196,0.0385
-2022-08-16 01:03:35.779912,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Wolverhampton Wanderers,-0.019000000000000017,0.2667,0.2857
 2022-08-16 01:03:35.779912,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leeds United,-0.019000000000000017,0.2667,0.2857
+2022-08-16 01:03:35.779912,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Wolverhampton Wanderers,-0.019000000000000017,0.2667,0.2857
 2022-08-16 10:03:47.830356,Serie A - Italy Serie A 2022/23 - Top 4 Finish,Torino,-0.0203,0.0385,0.0588
 2022-08-16 01:03:24.080571,Big Brother - Big Brother 24 - Specials - Final 3,Alyssa Snider,-0.02049999999999999,0.1333,0.1538
 2022-08-16 01:03:24.080571,Big Brother - Big Brother 24 - Specials - Final 3,Jasmine Davis,-0.02049999999999999,0.1333,0.1538
-2022-08-16 00:03:28.387530,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-16 12:04:28.556025,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-08-16 03:02:57.989545,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-08-16 10:03:43.545470,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-15 23:03:06.528491,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-08-16 11:02:51.199870,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-08-16 11:02:42.674153,Boxing Lines - Alberto Puello vs Batyr Akhmedov - To Win the Bout,Batyr Akhmedov,-0.021299999999999986,0.6454,0.6667
-2022-08-16 00:03:32.981587,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Augsburg,-0.021699999999999997,0.4545,0.4762
 2022-08-16 08:03:35.073350,MLB Futures - MLB 2022 American League Central - ALC Winner,Cleveland Guardians,-0.021699999999999997,0.4545,0.4762
 2022-08-16 08:03:48.718993,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Crystal Palace,-0.02200000000000002,0.6923,0.7143
-2022-08-16 00:03:32.897773,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Serge Gnabry,-0.022199999999999998,0.1111,0.1333
 2022-08-16 01:03:35.742530,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Liverpool,-0.022199999999999998,0.2,0.2222
-2022-08-16 11:02:51.451399,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-16 00:03:28.758989,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-16 09:02:56.047875,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
 2022-08-16 10:03:43.927335,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-15 23:03:06.935447,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-16 00:03:32.981587,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Union Berlin,-0.02310000000000001,0.0769,0.1
+2022-08-16 12:04:29.000927,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-16 11:02:51.451399,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-16 09:02:56.047875,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
 2022-08-16 10:03:47.830356,Serie A - Italy Serie A 2022/23 - Top 4 Finish,Inter Milan,-0.023799999999999932,0.8333,0.8571
-2022-08-16 01:03:35.764030,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Darwin Nunez,-0.0242,0.0667,0.0909
 2022-08-16 08:03:35.184269,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Jeremy Pena,-0.0242,0.0667,0.0909
+2022-08-16 01:03:35.764030,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Darwin Nunez,-0.0242,0.0667,0.0909
 2022-08-16 10:03:48.765909,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Djurgårdens,-0.025499999999999967,0.4,0.4255
 2022-08-16 08:03:35.109946,MLB Futures - MLB 2022 National League Central - NLC Winner,Milwaukee Brewers,-0.026600000000000013,0.4082,0.4348
-2022-08-16 10:03:47.830356,Serie A - Italy Serie A 2022/23 - Top 4 Finish,Hellas Verona,-0.0294,0.0294,0.0588
 2022-08-16 10:03:47.830356,Serie A - Italy Serie A 2022/23 - Top 4 Finish,Sassuolo,-0.0294,0.0294,0.0588
+2022-08-16 10:03:47.830356,Serie A - Italy Serie A 2022/23 - Top 4 Finish,Hellas Verona,-0.0294,0.0294,0.0588
 2022-08-16 10:03:47.930044,La Liga - Spain La Liga 2022/23 - To Be Relegated,Girona,-0.0348,0.4,0.4348
-2022-08-16 08:03:35.073350,MLB Futures - MLB 2022 American League Central - ALC Winner,Chicago White Sox,-0.03640000000000004,0.3636,0.4
 2022-08-16 08:03:35.062374,MLB Futures - MLB 2022 National League - NL Winner,Los Angeles Dodgers,-0.03640000000000004,0.3636,0.4
+2022-08-16 08:03:35.073350,MLB Futures - MLB 2022 American League Central - ALC Winner,Chicago White Sox,-0.03640000000000004,0.3636,0.4
 2022-08-16 08:03:35.124824,MLB Futures - MLB 2022 National League East - NLE Winner,New York Mets,-0.04169999999999996,0.8333,0.875
-2022-08-16 10:03:47.930044,La Liga - Spain La Liga 2022/23 - To Be Relegated,Celta de Vigo,-0.04169999999999999,0.125,0.1667
 2022-08-16 01:03:35.840099,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Manchester United,-0.04169999999999999,0.125,0.1667
+2022-08-16 10:03:47.930044,La Liga - Spain La Liga 2022/23 - To Be Relegated,Celta de Vigo,-0.04169999999999999,0.125,0.1667
 2022-08-16 01:03:35.840099,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Liverpool,-0.04290000000000005,0.8571,0.9
 2022-08-16 01:03:24.080571,Big Brother - Big Brother 24 - Specials - Final 3,Kyle Capener,-0.047599999999999976,0.2857,0.3333
 2022-08-16 08:03:48.728394,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Southampton,-0.04760000000000009,0.6667,0.7143
 2022-08-16 10:03:47.830356,Serie A - Italy Serie A 2022/23 - Top 4 Finish,AC Milan,-0.050000000000000044,0.75,0.8
-2022-08-16 00:03:32.981587,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Freiburg,-0.0524,0.0476,0.1
 2022-08-16 10:03:47.830356,Serie A - Italy Serie A 2022/23 - Top 4 Finish,Napoli,-0.05449999999999999,0.4,0.4545
 2022-08-16 10:03:47.930044,La Liga - Spain La Liga 2022/23 - To Be Relegated,Getafe,-0.0567,0.1538,0.2105
-2022-08-16 00:03:32.981587,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,FC Köln,-0.0596,0.0833,0.1429
-2022-08-16 00:03:33.004597,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Bayer Leverkusen,-0.061999999999999944,0.5744,0.6364
 2022-08-16 10:03:47.930044,La Liga - Spain La Liga 2022/23 - To Be Relegated,Rayo Vallecano,-0.07679999999999998,0.2309,0.3077
-2022-08-16 00:03:33.004597,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Wolfsburg,-0.0769,0.0769,0.1538
 2022-08-16 01:03:24.080571,Big Brother - Big Brother 24 - Specials - Final 3,Indiana Santos,-0.08170000000000001,0.0294,0.1111
-2022-08-15 23:03:10.014745,1. Bundesliga - Germany Bundesliga 2022/23 - Winner without Bayern Munich,Bayer Leverkusen,-0.08330000000000001,0.1667,0.25
 2022-08-16 10:03:47.904883,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Sevilla,-0.09720000000000001,0.125,0.2222
 2022-08-16 01:03:24.132800,Big Brother - Big Brother 24 - Specials - Most Nominated Houseguest,Taylor,-0.09999999999999998,0.4,0.5
-2022-08-15 23:03:10.014745,1. Bundesliga - Germany Bundesliga 2022/23 - Winner without Bayern Munich,RB Leipzig,-0.10339999999999999,0.2299,0.3333
 2022-08-16 01:03:24.106899,Big Brother - Big Brother 24 - Specials - Houseguests to be evicted on Double Eviction Night,Indiana Santos,-0.11529999999999999,0.0385,0.1538
 2022-08-16 08:03:47.675371,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Sevilla,-0.1154,0.3846,0.5
-2022-08-16 00:03:33.004597,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,RB Leipzig,-0.1552,0.6226,0.7778
