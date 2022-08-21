@@ -7,9 +7,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-20 20:03:19.597238,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Bournemouth,0.06659999999999999,0.7333,0.6667
 2022-08-20 12:04:38.026516,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - T. Pendrith v M. Leishman - 3rd Round 2 Balls,Marc Leishman,0.06230000000000002,0.4878,0.4255
 2022-08-20 20:03:19.607165,Premier League Futures/Specials - English Premier League 2022/23 - Top Club on Christmas Day,Manchester City,0.053300000000000014,0.7143,0.661
-2022-08-20 12:04:38.281888,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - C. Young v C. Conners - 3rd Round 2 Balls,Cameron Young,0.04849999999999999,0.5833,0.5348
 2022-08-20 14:03:03.570897,74th Primetime Emmy Awards - Emmy Award - Outstanding Lead Actress in a Comedy Series - Proposition,Quinta Brunson - Abbott Elementary,0.04849999999999999,0.2985,0.25
 2022-08-20 12:04:38.202875,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - H. Matsuyama v H. Varner - 3rd Round 2 Balls,Hideki Matsuyama,0.04849999999999999,0.5833,0.5348
+2022-08-20 12:04:38.281888,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - C. Young v C. Conners - 3rd Round 2 Balls,Cameron Young,0.04849999999999999,0.5833,0.5348
 2022-08-20 12:04:37.801545,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - S. Munoz v L. Glover - 3rd Round 2 Balls,Lucas Glover,0.04760000000000003,0.5238,0.4762
 2022-08-20 20:03:19.597238,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Everton,0.047599999999999976,0.3333,0.2857
 2022-08-20 12:04:37.973925,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - K. Mitchell v L. Herbert - 3rd Round 2 Balls,Lucas Herbert,0.039600000000000024,0.4651,0.4255
@@ -18,8 +18,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-20 20:03:19.597238,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Aston Villa,0.03420000000000001,0.1111,0.0769
 2022-08-20 15:03:51.773792,Professional Baseball - NPB 2022 - Outright,Yokohama Dena Baystars,0.03420000000000001,0.1111,0.0769
 2022-08-20 18:02:55.271075,MTV Video Music Awards - MTV Video Music Awards 2022 - Video of the Year - Proposition,"Taylor Swift - All Too Well (10 Minute Version, Taylor's Version)",0.033300000000000024,0.2,0.1667
-2022-08-20 16:02:40.984045,BKFC 27: London - Terry Brazier vs Danny Christie - To Win the Bout,Danny Christie,0.030299999999999994,0.4651,0.4348
 2022-08-20 12:04:37.770419,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - T. Finau v L. List - 3rd Round 2 Balls,Tony Finau,0.030299999999999994,0.6667,0.6364
+2022-08-20 16:02:40.984045,BKFC 27: London - Terry Brazier vs Danny Christie - To Win the Bout,Danny Christie,0.030299999999999994,0.4651,0.4348
 2022-08-20 20:03:19.586961,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Arsenal,0.029299999999999993,0.0769,0.0476
 2022-08-20 15:03:55.807819,CFL - 2020 CFL Season Odds - To play in the 109th (2022) Grey Cup,Montreal Alouettes,0.028799999999999992,0.1538,0.125
 2022-08-20 19:02:43.397058,MLB Futures - MLB 2022 American League East - ALE Winner,Toronto Blue Jays,0.028399999999999995,0.0909,0.0625
@@ -28,39 +28,41 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-20 13:02:47.374614,BKFC 27: London - Michael Page vs Mike Perry - To Win the Bout,Michael Page,0.026499999999999968,0.7826,0.7561
 2022-08-20 12:04:38.157416,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - K. Bradley v K.H. Lee - 3rd Round 2 Balls,Kyoung-Hoon Lee,0.023799999999999988,0.5,0.4762
 2022-08-20 12:04:38.047095,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - J. Thomas v S. Im - 3rd Round 2 Balls,Sungjae Im,0.023799999999999988,0.5,0.4762
-2022-08-20 14:03:12.161602,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-20 12:04:53.777906,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-20 17:02:59.452375,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-20 23:03:34.671376,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-21 00:03:38.658354,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
 2022-08-20 20:03:15.053845,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
 2022-08-20 21:03:12.981100,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-20 23:03:34.671376,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-20 16:02:49.449374,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-20 15:03:58.695996,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-20 13:02:55.815069,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-20 18:03:07.009508,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-20 19:02:51.053570,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
 2022-08-20 12:04:37.887433,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - J.T. Poston v M. McNealy - 3rd Round 2 Balls,J.T. Poston,0.022600000000000064,0.5348,0.5122
+2022-08-20 19:02:51.053570,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-20 12:04:53.777906,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-20 18:03:07.009508,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-20 13:02:55.815069,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-20 14:03:12.161602,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-20 16:02:49.449374,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-20 17:02:59.452375,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-20 15:03:58.695996,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
 2022-08-20 15:03:51.763884,KBO League - KBO League 2022 - Outright,LG Twins,0.022199999999999998,0.2222,0.2
 2022-08-20 15:03:55.807819,CFL - 2020 CFL Season Odds - To play in the 109th (2022) Grey Cup,Winnipeg Blue Bombers,0.02200000000000002,0.7143,0.6923
 2022-08-20 14:03:03.386923,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Republican Candidate,Donald Trump,0.021699999999999997,0.4762,0.4545
 2022-08-20 12:04:37.954499,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - D. McCarthy v S. Theegala - 3rd Round 2 Balls,Sahith Theegala,0.02169999999999994,0.5455,0.5238
-2022-08-20 19:02:51.292312,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-20 23:03:34.917616,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-20 12:04:54.396077,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-20 13:02:56.074804,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-20 21:03:13.485033,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-20 18:03:07.336010,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-20 12:04:54.396077,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-20 14:03:12.458529,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-20 15:03:58.955471,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-20 23:03:34.917616,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-20 16:02:49.690825,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-20 20:03:15.470091,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-20 17:02:59.700494,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-20 18:03:07.336010,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-20 19:02:51.292312,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-20 20:03:15.470091,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-20 21:03:13.485033,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-21 00:03:39.064715,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-20 15:03:58.955471,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-20 12:04:37.825644,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - J. Rahm v T. Moore - 3rd Round 2 Balls,Taylor Moore,0.02030000000000004,0.3774,0.3571
 2022-08-20 13:02:47.333795,BKFC 27: London - Connor Tierney vs Joe Elmore - To Win the Bout,Connor Tierney,0.018999999999999906,0.7333,0.7143
 2022-08-20 12:04:37.875498,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - M. Homa v J.J. Spaun - 3rd Round 2 Balls,J J Spaun,0.018900000000000028,0.4444,0.4255
 2022-08-20 23:03:38.690683,Ligue 1 - France Ligue 1 2022/23 - Winner,Paris Saint-Germain,0.018100000000000005,0.9412,0.9231
-2022-08-20 13:02:53.652782,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Dameon Pierce,0.018099999999999998,0.0769,0.0588
 2022-08-20 23:03:38.719034,Serie A - Italy Serie A 2022/23 - Winner,Napoli,0.018099999999999998,0.0769,0.0588
+2022-08-20 13:02:53.652782,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Dameon Pierce,0.018099999999999998,0.0769,0.0588
 2022-08-20 17:02:51.024361,BKFC 27: London - Jake Bostwick vs Chris Fishgold - To Win the Bout,Jake Bostwick,0.017299999999999982,0.5917,0.5744
 2022-08-20 20:03:19.586961,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester City,0.016700000000000048,0.75,0.7333
 2022-08-20 12:04:38.111831,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - W. Zalatoris v E. Grillo - 3rd Round 2 Balls,Emiliano Grillo,0.016699999999999993,0.4167,0.4
@@ -71,8 +73,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-20 12:04:39.554370,Euro Basket - Euro Basket 2022 - Winners Group,Group D,0.01469999999999999,0.25,0.2353
 2022-08-20 14:03:03.404875,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.014600000000000002,0.2778,0.2632
 2022-08-20 23:03:38.705159,1. Bundesliga - Germany Bundesliga 2022/23 - Winner,Bayern Munich,0.014000000000000012,0.9231,0.9091
-2022-08-20 23:03:32.545874,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Team With The Fewest Wins (Regular Season),CHI Bears,0.013899999999999996,0.125,0.1111
 2022-08-20 15:03:51.763884,KBO League - KBO League 2022 - Outright,KT Wiz,0.013899999999999996,0.125,0.1111
+2022-08-20 23:03:32.545874,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Team With The Fewest Wins (Regular Season),CHI Bears,0.013899999999999996,0.125,0.1111
 2022-08-20 23:03:38.719034,Serie A - Italy Serie A 2022/23 - Winner,Inter Milan,0.013800000000000034,0.3774,0.3636
 2022-08-20 16:02:40.804024,Boxing Lines - Lindolfo Delgado vs Aguilar Omar Alejandro - To Win the Bout,Lindolfo Delgado,0.013800000000000034,0.3774,0.3636
 2022-08-20 14:03:04.085757,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - W. Zalatoris v E. Grillo - 3rd Round 2 Balls,Will Zalatoris,0.013299999999999979,0.6429,0.6296
@@ -81,15 +83,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-20 12:04:37.905706,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - C. Kirk v T. Merritt - 3rd Round 2 Balls,Troy Merritt,0.011600000000000055,0.5238,0.5122
 2022-08-20 12:04:37.850419,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - M. Fitzpatrick v J. Kim - 3rd Round 2 Balls,Joohyung Kim,0.0116,0.4878,0.4762
 2022-08-20 13:02:47.903466,D+D Real Czech Masters - D+D Czech Masters - Outright,Marcel Schneider,0.011099999999999999,0.1111,0.1
+2022-08-20 12:04:38.216650,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - J. Niemann v A. Wise - 3rd Round 2 Balls,Joaquin Niemann,0.010699999999999932,0.5455,0.5348
 2022-08-20 14:03:03.883232,BKFC 27: London - Conan Barbaru vs Dan Vinni - To Win the Bout,Dan Vinni,0.010699999999999932,0.5455,0.5348
 2022-08-20 12:04:38.098410,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - T. Mullinax v C. Reavie - 3rd Round 2 Balls,Trey Mullinax,0.010699999999999932,0.5455,0.5348
-2022-08-20 12:04:38.216650,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - J. Niemann v A. Wise - 3rd Round 2 Balls,Joaquin Niemann,0.010699999999999932,0.5455,0.5348
 2022-08-20 14:03:03.299431,Political Specials - Which Party will win the House in the 2022 Midterm Election? - Winning Party,Democratic,0.010299999999999976,0.2667,0.2564
 2022-08-20 15:03:51.303516,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - J. Thomas v S. Im - 3rd Round 2 Balls,Justin Thomas,0.010099999999999998,0.5556,0.5455
 2022-08-20 14:03:03.394259,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,-0.010099999999999998,0.4444,0.4545
-2022-08-20 20:03:19.597238,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Brighton & Hove Albion,-0.0102,0.0667,0.0769
-2022-08-20 13:02:53.652782,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Kenneth Walker III,-0.0102,0.0667,0.0769
 2022-08-20 16:02:40.687502,Boxing Lines - Ramla Ali vs Crystal Garcia Nova - To Win the Bout,Crystal Garcia Nova,-0.0102,0.0667,0.0769
+2022-08-20 13:02:53.652782,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Kenneth Walker III,-0.0102,0.0667,0.0769
+2022-08-20 20:03:19.597238,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Brighton & Hove Albion,-0.0102,0.0667,0.0769
 2022-08-20 16:02:40.954739,BKFC 27: London - Conan Barbaru vs Dan Vinni - To Win the Bout,Dan Vinni,-0.010699999999999932,0.5348,0.5455
 2022-08-20 12:04:37.905706,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - C. Kirk v T. Merritt - 3rd Round 2 Balls,Chris Kirk,-0.01100000000000001,0.5238,0.5348
 2022-08-20 12:04:37.813715,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - S. Straka v M. Hughes - 3rd Round 2 Balls,Sepp Straka,-0.01100000000000001,0.5238,0.5348
@@ -100,8 +102,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-20 17:02:51.024361,BKFC 27: London - Jake Bostwick vs Chris Fishgold - To Win the Bout,Chris Fishgold,-0.0116,0.4762,0.4878
 2022-08-20 13:02:47.903466,D+D Real Czech Masters - D+D Czech Masters - Outright,Antoine Rozner,-0.011699999999999999,0.0079,0.0196
 2022-08-20 13:02:47.333795,BKFC 27: London - Connor Tierney vs Joe Elmore - To Win the Bout,Joe Elmore,-0.011899999999999966,0.339,0.3509
-2022-08-20 12:04:38.216650,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - J. Niemann v A. Wise - 3rd Round 2 Balls,Aaron Wise,-0.012199999999999989,0.5,0.5122
 2022-08-20 12:04:38.098410,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - T. Mullinax v C. Reavie - 3rd Round 2 Balls,Chez Reavie,-0.012199999999999989,0.5,0.5122
+2022-08-20 12:04:38.216650,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - J. Niemann v A. Wise - 3rd Round 2 Balls,Aaron Wise,-0.012199999999999989,0.5,0.5122
 2022-08-20 15:03:51.303516,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - J. Thomas v S. Im - 3rd Round 2 Balls,Sungjae Im,-0.012199999999999989,0.4878,0.5
 2022-08-20 15:03:55.807819,CFL - 2020 CFL Season Odds - To play in the 109th (2022) Grey Cup,Ottawa Redblacks,-0.012700000000000003,0.0196,0.0323
 2022-08-20 20:03:00.069354,Boxing Lines - Oleksandr Usyk vs Anthony Joshua - To Win the Bout,Anthony Joshua,-0.012900000000000023,0.3534,0.3663
@@ -116,36 +118,38 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-20 15:03:51.763884,KBO League - KBO League 2022 - Outright,Kiwoom Heroes,-0.01820000000000002,0.1818,0.2
 2022-08-20 12:04:38.134977,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - S. Burns v A. Hadwin - 3rd Round 2 Balls,Adam Hadwin,-0.018900000000000028,0.4255,0.4444
 2022-08-20 12:04:38.111831,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - W. Zalatoris v E. Grillo - 3rd Round 2 Balls,Will Zalatoris,-0.019499999999999962,0.6296,0.6491
-2022-08-20 12:04:38.157416,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - K. Bradley v K.H. Lee - 3rd Round 2 Balls,Keegan Bradley,-0.01970000000000005,0.5455,0.5652
 2022-08-20 12:04:38.047095,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - J. Thomas v S. Im - 3rd Round 2 Balls,Justin Thomas,-0.01970000000000005,0.5455,0.5652
+2022-08-20 12:04:38.157416,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - K. Bradley v K.H. Lee - 3rd Round 2 Balls,Keegan Bradley,-0.01970000000000005,0.5455,0.5652
 2022-08-20 19:02:43.397058,MLB Futures - MLB 2022 American League East - ALE Winner,New York Yankees,-0.020299999999999985,0.9412,0.9615
+2022-08-20 17:02:59.452375,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-20 12:04:53.777906,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-08-20 13:02:55.815069,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-21 00:03:38.658354,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-20 14:03:12.161602,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-08-20 23:03:34.671376,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-08-20 21:03:12.981100,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-08-20 20:03:15.053845,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-20 16:02:49.449374,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-20 12:04:53.777906,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-20 17:02:59.452375,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-08-20 19:02:51.053570,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-20 16:02:49.449374,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-08-20 18:03:07.009508,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-08-20 15:03:58.695996,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-20 14:03:12.161602,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-08-20 16:02:40.811364,Boxing Lines - Roger Gutierrez vs Hector Garcia - To Win the Bout,Roger Gutierrez,-0.020799999999999985,0.3125,0.3333
 2022-08-20 12:04:37.825644,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - J. Rahm v T. Moore - 3rd Round 2 Balls,Jon Rahm,-0.02080000000000004,0.6667,0.6875
 2022-08-20 13:02:47.374614,BKFC 27: London - Michael Page vs Mike Perry - To Win the Bout,Mike Perry,-0.021299999999999986,0.2817,0.303
-2022-08-20 12:04:54.396077,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-20 13:02:56.074804,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-20 16:02:49.690825,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-20 12:04:37.875498,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - M. Homa v J.J. Spaun - 3rd Round 2 Balls,Max Homa,-0.022600000000000064,0.6,0.6226
-2022-08-20 15:03:58.955471,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-20 23:03:34.917616,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-20 14:03:12.458529,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-20 17:02:59.700494,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-20 21:03:13.485033,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-20 20:03:15.470091,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-20 12:04:37.887433,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - J.T. Poston v M. McNealy - 3rd Round 2 Balls,Maverick McNealy,-0.022600000000000064,0.5122,0.5348
 2022-08-20 19:02:51.292312,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-20 20:03:15.470091,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
 2022-08-20 18:03:07.336010,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-20 21:03:13.485033,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-20 17:02:59.700494,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-20 16:02:49.690825,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-20 23:03:34.917616,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-20 12:04:37.887433,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - J.T. Poston v M. McNealy - 3rd Round 2 Balls,Maverick McNealy,-0.022600000000000064,0.5122,0.5348
+2022-08-20 15:03:58.955471,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-20 14:03:12.458529,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-20 13:02:56.074804,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-20 12:04:54.396077,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-20 12:04:37.875498,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - M. Homa v J.J. Spaun - 3rd Round 2 Balls,Max Homa,-0.022600000000000064,0.6,0.6226
+2022-08-21 00:03:39.064715,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
 2022-08-20 12:04:37.786171,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - D. Riley v A. Smalley - 3rd Round 2 Balls,Alex Smalley,-0.022699999999999998,0.4651,0.4878
 2022-08-20 12:04:37.954499,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - D. McCarthy v S. Theegala - 3rd Round 2 Balls,Denny McCarthy,-0.023800000000000043,0.5,0.5238
 2022-08-20 20:03:19.607165,Premier League Futures/Specials - English Premier League 2022/23 - Top Club on Christmas Day,Chelsea,-0.0242,0.0667,0.0909
@@ -162,8 +166,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-20 12:04:38.294505,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - S. Scheffler v A. Scott - 3rd Round 2 Balls,Scottie Scheffler,-0.0413,0.6078,0.6491
 2022-08-20 12:04:37.801545,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - S. Munoz v L. Glover - 3rd Round 2 Balls,Sebastian Munoz,-0.04139999999999999,0.5238,0.5652
 2022-08-20 20:03:19.586961,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Liverpool,-0.04620000000000002,0.1538,0.2
-2022-08-20 12:04:38.202875,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - H. Matsuyama v H. Varner - 3rd Round 2 Balls,Harold Varner III,-0.047099999999999975,0.4651,0.5122
 2022-08-20 12:04:38.281888,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - C. Young v C. Conners - 3rd Round 2 Balls,Corey Conners,-0.047099999999999975,0.4651,0.5122
+2022-08-20 12:04:38.202875,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - H. Matsuyama v H. Varner - 3rd Round 2 Balls,Harold Varner III,-0.047099999999999975,0.4651,0.5122
 2022-08-20 20:03:19.597238,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Nottingham Forest,-0.05020000000000002,0.3846,0.4348
 2022-08-20 20:03:19.597238,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Southampton,-0.06670000000000004,0.3333,0.4
 2022-08-20 12:04:38.026516,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - T. Pendrith v M. Leishman - 3rd Round 2 Balls,Taylor Pendrith,-0.06700000000000006,0.5556,0.6226
