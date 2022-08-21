@@ -9,6 +9,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-20 20:03:19.597238,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Everton,0.047599999999999976,0.3333,0.2857
 2022-08-20 18:02:55.199938,MTV Video Music Awards - MTV Video Music Awards 2022 - Artist of the Year - Proposition,Harry Styles,0.03959999999999997,0.5744,0.5348
 2022-08-21 01:03:25.570951,74th Primetime Emmy Awards - Emmy Award - Outstanding Comedy Series - Proposition,Ted Lasso,0.03639999999999999,0.6364,0.6
+2022-08-21 05:03:01.946379,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Seattle Seahawks,Under 5.5,0.03600000000000003,0.5238,0.4878
 2022-08-21 01:03:25.615911,74th Primetime Emmy Awards - Emmy Award - Outstanding Lead Actor in a Drama Series - Proposition,Lee Jung-jae - Squid Game,0.03600000000000003,0.5238,0.4878
 2022-08-21 01:03:25.650057,74th Primetime Emmy Awards - Emmy Award - Outstanding Lead Actress in a Drama Series - Proposition,Melanie Lynskey - Yellowjackets,0.03570000000000001,0.2857,0.25
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Vijay Singh,0.03559999999999999,0.0435,0.0079
@@ -17,51 +18,64 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-20 20:03:19.597238,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Aston Villa,0.03420000000000001,0.1111,0.0769
 2022-08-20 18:02:55.271075,MTV Video Music Awards - MTV Video Music Awards 2022 - Video of the Year - Proposition,"Taylor Swift - All Too Well (10 Minute Version, Taylor's Version)",0.033300000000000024,0.2,0.1667
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Jim Furyk,0.0294,0.0588,0.0294
-2022-08-20 20:03:19.586961,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Arsenal,0.029299999999999993,0.0769,0.0476
 2022-08-21 02:02:50.202806,Boxing Lines - Emanuel Navarrete vs Eduardo Baez - To Win the Bout,Emanuel Navarrete,0.029299999999999993,0.9524,0.9231
+2022-08-20 20:03:19.586961,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Arsenal,0.029299999999999993,0.0769,0.0476
 2022-08-20 19:02:43.397058,MLB Futures - MLB 2022 American League East - ALE Winner,Toronto Blue Jays,0.028399999999999995,0.0909,0.0625
 2022-08-20 20:03:19.597238,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leeds United,0.02739999999999998,0.2941,0.2667
 2022-08-21 01:03:50.090832,NFL Team Specials - Carolina Panthers - Panthers Specials,CAR Panthers to be a Wild Card Seed and Christian McCaffrey over 595.5 Reg Season Receiving Yards,0.0242,0.0909,0.0667
 2022-08-21 04:04:52.816683,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  San Francisco 49ers,Over 10,0.023800000000000043,0.5238,0.5
-2022-08-21 02:02:58.925600,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-21 01:03:45.419825,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-21 00:03:38.658354,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-20 23:03:34.671376,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-21 04:04:55.539095,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-20 21:03:12.981100,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-20 18:03:07.009508,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-20 20:03:15.053845,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
 2022-08-20 19:02:51.053570,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-20 17:02:59.452375,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-21 01:03:45.419825,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-21 05:03:03.593471,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-21 04:04:55.539095,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-20 20:03:15.053845,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-21 00:03:38.658354,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-20 21:03:12.981100,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-21 02:02:58.925600,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
 2022-08-21 03:03:13.883883,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-20 23:03:34.671376,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-20 18:03:07.009508,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
 2022-08-21 01:03:26.042045,Boxing Lines - Sergey Lipinets vs Omar Figueroa Jr - To Win the Bout,Sergey Lipinets,0.021700000000000053,0.7778,0.7561
-2022-08-20 17:02:59.700494,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-21 01:03:45.928642,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-21 02:02:59.265026,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-21 00:03:39.064715,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-21 03:03:14.412892,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-20 23:03:34.917616,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-20 21:03:13.485033,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-21 00:03:39.064715,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-21 01:03:45.928642,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-20 18:03:07.336010,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-21 03:03:14.412892,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-21 02:02:59.265026,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-21 04:04:55.922831,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-20 19:02:51.292312,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-21 05:03:03.871217,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-20 20:03:15.470091,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-20 19:02:51.292312,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-20 18:03:07.336010,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Gene Sauers,0.019499999999999997,0.0294,0.0099
 2022-08-21 04:04:42.355592,BMW Championship - 2/3 Balls - Final Round 2 Balls - M. Fitzpatrick v S. Munoz - Final Round 2 Balls,Sebastian Munoz,0.018900000000000028,0.4444,0.4255
+2022-08-21 05:02:54.082431,BMW Championship - 2/3 Balls - Final Round 2 Balls - S. Burns v T. Mullinax - Final Round 2 Balls,Trey Mullinax,0.018900000000000028,0.4444,0.4255
 2022-08-20 23:03:38.690683,Ligue 1 - France Ligue 1 2022/23 - Winner,Paris Saint-Germain,0.018100000000000005,0.9412,0.9231
 2022-08-20 23:03:38.719034,Serie A - Italy Serie A 2022/23 - Winner,Napoli,0.018099999999999998,0.0769,0.0588
-2022-08-20 17:02:51.024361,BKFC 27: London - Jake Bostwick vs Chris Fishgold - To Win the Bout,Jake Bostwick,0.017299999999999982,0.5917,0.5744
+2022-08-21 05:02:54.109436,BMW Championship - 2/3 Balls - Final Round 2 Balls - R. McIlroy v A. Putnam - Final Round 2 Balls,Rory McIlroy,0.017300000000000093,0.7143,0.697
 2022-08-20 20:03:19.586961,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester City,0.016700000000000048,0.75,0.7333
+2022-08-21 05:02:54.007781,BMW Championship - 2/3 Balls - Final Round 2 Balls - K. Bradley v A. Hadwin - Final Round 2 Balls,Keegan Bradley,0.016699999999999937,0.6,0.5833
+2022-08-21 05:02:54.061532,BMW Championship - 2/3 Balls - Final Round 2 Balls - J.T. Poston v J.J. Spaun - Final Round 2 Balls,J.T. Poston,0.016699999999999937,0.6,0.5833
+2022-08-21 05:02:53.993518,BMW Championship - 2/3 Balls - Final Round 2 Balls - D. Riley v S. Straka - Final Round 2 Balls,Davis Riley,0.016699999999999937,0.6,0.5833
+2022-08-21 05:02:53.903410,BMW Championship - 2/3 Balls - Final Round 2 Balls - V. Hovland v C. Tringale - Final Round 2 Balls,Viktor Hovland,0.016699999999999937,0.6,0.5833
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Tom Pernice Jr,0.0163,0.0196,0.0033
 2022-08-20 18:02:55.465151,Boxing Lines - Oleksandr Usyk vs Anthony Joshua - To Win the Bout,Oleksandr Usyk,0.01539999999999997,0.6875,0.6721
 2022-08-20 23:03:38.705159,1. Bundesliga - Germany Bundesliga 2022/23 - Winner,Bayern Munich,0.014000000000000012,0.9231,0.9091
 2022-08-20 23:03:32.545874,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Team With The Fewest Wins (Regular Season),CHI Bears,0.013899999999999996,0.125,0.1111
 2022-08-20 23:03:38.719034,Serie A - Italy Serie A 2022/23 - Winner,Inter Milan,0.013800000000000034,0.3774,0.3636
+2022-08-21 05:02:54.054939,BMW Championship - 2/3 Balls - Final Round 2 Balls - S. Theegala v E. Grillo - Final Round 2 Balls,Emiliano Grillo,0.011600000000000055,0.5238,0.5122
+2022-08-21 05:02:53.491258,Boxing Lines - Claressa Shields vs Savannah Marshall - To Win the Bout,Claressa Shields,0.011600000000000055,0.5238,0.5122
+2022-08-21 05:02:53.966317,BMW Championship - 2/3 Balls - Final Round 2 Balls - M. McNealy v A. Noren - Final Round 2 Balls,Maverick McNealy,0.010699999999999932,0.5455,0.5348
+2022-08-21 05:02:54.029256,BMW Championship - 2/3 Balls - Final Round 2 Balls - M. Leishman v M. Kuchar - Final Round 2 Balls,Marc Leishman,0.010699999999999932,0.5455,0.5348
 2022-08-21 03:02:56.551672,Boxing Lines - Claressa Shields vs Savannah Marshall - To Win the Bout,Savannah Marshall,0.010099999999999998,0.5556,0.5455
+2022-08-21 05:02:53.491258,Boxing Lines - Claressa Shields vs Savannah Marshall - To Win the Bout,Savannah Marshall,-0.010099999999999998,0.5455,0.5556
 2022-08-20 20:03:19.597238,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Brighton & Hove Albion,-0.0102,0.0667,0.0769
-2022-08-20 19:02:42.678320,Boxing Lines - Oleksandr Usyk vs Anthony Joshua - To Win the Bout,Anthony Joshua,-0.011099999999999999,0.3663,0.3774
+2022-08-21 05:02:54.054939,BMW Championship - 2/3 Balls - Final Round 2 Balls - S. Theegala v E. Grillo - Final Round 2 Balls,Sahith Theegala,-0.01100000000000001,0.5238,0.5348
 2022-08-20 23:03:25.992572,Boxing Lines - Brandun Lee vs Will Madera - To Win the Bout,Will Madera,-0.011099999999999999,0.1,0.1111
-2022-08-20 17:02:51.024361,BKFC 27: London - Jake Bostwick vs Chris Fishgold - To Win the Bout,Chris Fishgold,-0.0116,0.4762,0.4878
+2022-08-20 19:02:42.678320,Boxing Lines - Oleksandr Usyk vs Anthony Joshua - To Win the Bout,Anthony Joshua,-0.011099999999999999,0.3663,0.3774
+2022-08-21 05:02:53.966317,BMW Championship - 2/3 Balls - Final Round 2 Balls - M. McNealy v A. Noren - Final Round 2 Balls,Alex Noren,-0.012199999999999989,0.5,0.5122
+2022-08-21 05:02:54.029256,BMW Championship - 2/3 Balls - Final Round 2 Balls - M. Leishman v M. Kuchar - Final Round 2 Balls,Matt Kuchar,-0.012199999999999989,0.5,0.5122
+2022-08-21 05:02:53.941541,BMW Championship - 2/3 Balls - Final Round 2 Balls - J. Thomas v L. List - Final Round 2 Balls,Justin Thomas,-0.012700000000000045,0.6364,0.6491
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Y.E Yang,-0.0129,0.002,0.0149
 2022-08-20 20:03:00.069354,Boxing Lines - Oleksandr Usyk vs Anthony Joshua - To Win the Bout,Anthony Joshua,-0.012900000000000023,0.3534,0.3663
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Billy Andrade,-0.0139,0.001,0.0149
@@ -74,42 +88,49 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-20 23:03:38.705159,1. Bundesliga - Germany Bundesliga 2022/23 - Winner,Borussia Dortmund,-0.016700000000000007,0.0833,0.1
 2022-08-20 20:03:19.607165,Premier League Futures/Specials - English Premier League 2022/23 - Top Club on Christmas Day,Manchester United,-0.017599999999999998,0.002,0.0196
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Scott Parel,-0.017599999999999998,0.002,0.0196
+2022-08-21 05:02:54.109436,BMW Championship - 2/3 Balls - Final Round 2 Balls - R. McIlroy v A. Putnam - Final Round 2 Balls,Andrew Putnam,-0.017600000000000005,0.3333,0.3509
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Doug Barron,-0.018200000000000004,0.0294,0.0476
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Thongchai Jaidee,-0.018200000000000004,0.0294,0.0476
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Woody Austin,-0.0189,0.0007,0.0196
 2022-08-21 04:04:52.816683,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  San Francisco 49ers,Under 10,-0.01970000000000005,0.5455,0.5652
 2022-08-20 19:02:43.397058,MLB Futures - MLB 2022 American League East - ALE Winner,New York Yankees,-0.020299999999999985,0.9412,0.9615
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Steve Flesch,-0.0204,0.004,0.0244
-2022-08-21 03:03:13.883883,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-21 04:04:55.539095,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-20 21:03:12.981100,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-20 18:03:07.009508,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-21 05:02:53.903410,BMW Championship - 2/3 Balls - Final Round 2 Balls - V. Hovland v C. Tringale - Final Round 2 Balls,Cameron Tringale,-0.020699999999999996,0.4444,0.4651
+2022-08-21 05:02:54.007781,BMW Championship - 2/3 Balls - Final Round 2 Balls - K. Bradley v A. Hadwin - Final Round 2 Balls,Adam Hadwin,-0.020699999999999996,0.4444,0.4651
+2022-08-21 05:02:54.061532,BMW Championship - 2/3 Balls - Final Round 2 Balls - J.T. Poston v J.J. Spaun - Final Round 2 Balls,J J Spaun,-0.020699999999999996,0.4444,0.4651
+2022-08-21 05:02:53.993518,BMW Championship - 2/3 Balls - Final Round 2 Balls - D. Riley v S. Straka - Final Round 2 Balls,Sepp Straka,-0.020699999999999996,0.4444,0.4651
 2022-08-20 23:03:34.671376,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-20 17:02:59.452375,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-20 18:03:07.009508,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-20 19:02:51.053570,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-20 20:03:15.053845,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-08-21 00:03:38.658354,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-20 21:03:12.981100,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-21 05:03:03.593471,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-08-21 01:03:45.419825,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-08-21 02:02:58.925600,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-20 20:03:15.053845,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-20 19:02:51.053570,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-21 03:03:13.883883,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-21 04:04:55.539095,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Tim Petrovic,-0.022400000000000003,0.002,0.0244
-2022-08-21 01:03:45.928642,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-21 03:03:14.412892,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-21 00:03:39.064715,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-21 05:02:54.082431,BMW Championship - 2/3 Balls - Final Round 2 Balls - S. Burns v T. Mullinax - Final Round 2 Balls,Sam Burns,-0.022600000000000064,0.6,0.6226
 2022-08-21 04:04:42.355592,BMW Championship - 2/3 Balls - Final Round 2 Balls - M. Fitzpatrick v S. Munoz - Final Round 2 Balls,Matthew Fitzpatrick,-0.022600000000000064,0.6,0.6226
-2022-08-21 02:02:59.265026,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-20 20:03:15.470091,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
 2022-08-21 04:04:55.922831,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-20 23:03:34.917616,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-20 19:02:51.292312,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-20 17:02:59.700494,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
 2022-08-20 18:03:07.336010,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-21 03:03:14.412892,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-21 01:03:45.928642,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-21 00:03:39.064715,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-20 23:03:34.917616,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
 2022-08-20 21:03:13.485033,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Colin Montgomerie,-0.023700000000000002,0.0007,0.0244
+2022-08-20 20:03:15.470091,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-21 05:03:03.871217,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-20 19:02:51.292312,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-21 02:02:59.265026,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Kevin Sutherland,-0.023700000000000002,0.0007,0.0244
+2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Colin Montgomerie,-0.023700000000000002,0.0007,0.0244
 2022-08-20 20:03:19.607165,Premier League Futures/Specials - English Premier League 2022/23 - Top Club on Christmas Day,Chelsea,-0.0242,0.0667,0.0909
 2022-08-21 02:02:50.202806,Boxing Lines - Emanuel Navarrete vs Eduardo Baez - To Win the Bout,Eduardo Baez,-0.024999999999999994,0.1,0.125
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Brandt Jobe,-0.026099999999999998,0.0033,0.0294
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Paul Goydos,-0.028399999999999998,0.001,0.0294
+2022-08-21 05:03:01.946379,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Seattle Seahawks,Over 5.5,-0.028900000000000037,0.5455,0.5744
 2022-08-20 23:03:38.719034,Serie A - Italy Serie A 2022/23 - Winner,Juventus,-0.032299999999999995,0.3125,0.3448
 2022-08-21 01:03:27.067803,MLB Futures - MLB 2022 National League Central - NLC Winner,Milwaukee Brewers,-0.03570000000000001,0.25,0.2857
 2022-08-20 20:03:19.597238,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Crystal Palace,-0.036199999999999996,0.1176,0.1538
