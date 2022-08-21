@@ -2,8 +2,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Padraig Harrington,0.375,0.5,0.125
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Mike Weir,0.2661,0.2857,0.0196
 2022-08-21 10:03:09.969673,League One - England - League One 2022/23 - Top Goalscorer,Jonson Clarke-Harris,0.13329999999999997,0.3333,0.2
+2022-08-21 11:03:03.040039,League Two - England - League Two 2022/23 - To Be Promoted,Stevenage,0.11109999999999998,0.3333,0.2222
+2022-08-21 11:03:03.040039,League Two - England - League Two 2022/23 - To Be Promoted,Mansfield Town,0.10150000000000003,0.4348,0.3333
+2022-08-21 11:03:03.025280,League Two - England - League Two 2022/23 - Top Goalscorer,Sam Hoskins,0.1,0.2,0.1
+2022-08-21 11:03:03.056354,League Two - England - League Two 2022/23 - To Be Relegated,Gillingham,0.1,0.2,0.1
 2022-08-21 10:03:09.984512,League One - England - League One 2022/23 - To Be Promoted,Ipswich Town,0.0988,0.6226,0.5238
+2022-08-21 11:03:03.071156,League Two - England - League Two 2022/23 - Top 7 Finish,Stevenage,0.09830000000000005,0.5238,0.4255
+2022-08-21 11:03:03.040039,League Two - England - League Two 2022/23 - To Be Promoted,Leyton Orient,0.09689999999999999,0.3636,0.2667
 2022-08-21 10:03:10.035822,League One - England - League One 2022/23 - Top 2 Finish,Ipswich Town,0.09099999999999997,0.5455,0.4545
+2022-08-21 11:03:03.071156,League Two - England - League Two 2022/23 - Top 7 Finish,Leyton Orient,0.08330000000000004,0.5833,0.5
+2022-08-21 11:03:03.056354,League Two - England - League Two 2022/23 - To Be Relegated,Colchester United,0.08330000000000001,0.25,0.1667
+2022-08-21 11:03:03.009586,League Two - England - League Two 2022/23 - Outright,Hartlepool United,0.07859999999999999,0.0909,0.0123
+2022-08-21 11:03:03.025280,League Two - England - League Two 2022/23 - Top Goalscorer,Billy Waters,0.07859999999999999,0.0909,0.0123
 2022-08-21 10:03:10.047407,League One - England - League One 2022/23 - Top 6 Finish,Portsmouth,0.07710000000000006,0.6226,0.5455
 2022-08-21 10:03:10.006881,League One - England - League One 2022/23 - To Be Relegated,Burton Albion,0.06930000000000003,0.5238,0.4545
 2022-08-21 06:02:46.924981,MLB Futures - MLB 2022 American League Central - ALC Winner,Chicago White Sox,0.067,0.3448,0.2778
@@ -13,16 +23,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-21 10:03:10.020699,League One - England - League One 2022/23 - To Finish Bottom,Burton Albion,0.05710000000000001,0.2,0.1429
 2022-08-21 10:03:09.838519,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,FC Porto,0.05559999999999998,0.5556,0.5
 2022-08-21 10:03:09.850932,Premiership - Scotland Premiership 2022/23 - Outright,Celtic,0.05130000000000001,0.6667,0.6154
+2022-08-21 11:03:03.071156,League Two - England - League Two 2022/23 - Top 7 Finish,Barrow FC,0.04999999999999999,0.25,0.2
 2022-08-21 10:03:10.047407,League One - England - League One 2022/23 - Top 6 Finish,Ipswich Town,0.04849999999999999,0.8667,0.8182
 2022-08-21 10:03:09.984512,League One - England - League One 2022/23 - To Be Promoted,Sheffield Wednesday,0.04760000000000003,0.5238,0.4762
 2022-08-21 10:03:09.984512,League One - England - League One 2022/23 - To Be Promoted,Peterborough United,0.047599999999999976,0.3333,0.2857
 2022-08-21 10:03:10.047407,League One - England - League One 2022/23 - Top 6 Finish,Plymouth Argyle,0.047599999999999976,0.3333,0.2857
+2022-08-21 11:03:02.507101,MLS - MLS Cup 2022 - Top Goalscorer,Romell Quito,0.0475,0.0769,0.0294
 2022-08-21 10:03:10.047407,League One - England - League One 2022/23 - Top 6 Finish,Peterborough United,0.04630000000000001,0.6296,0.5833
 2022-08-21 10:03:10.035822,League One - England - League One 2022/23 - Top 2 Finish,Sheffield Wednesday,0.044399999999999995,0.4444,0.4
+2022-08-21 11:03:03.071156,League Two - England - League Two 2022/23 - Top 7 Finish,Doncaster Rovers,0.04410000000000003,0.3774,0.3333
 2022-08-21 10:03:09.969673,League One - England - League One 2022/23 - Top Goalscorer,Colby Bishop,0.042899999999999994,0.1429,0.1
+2022-08-21 11:03:03.040039,League Two - England - League Two 2022/23 - To Be Promoted,Barrow FC,0.042899999999999994,0.1429,0.1
 2022-08-21 10:03:09.785996,Championship - England Championship 2022/23 - Outright,Sheffield United,0.04269999999999999,0.1538,0.1111
 2022-08-21 10:03:10.047407,League One - England - League One 2022/23 - Top 6 Finish,Sheffield Wednesday,0.04039999999999999,0.8182,0.7778
 2022-08-21 09:03:54.215511,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Flamengo,0.03889999999999999,0.1818,0.1429
+2022-08-21 11:03:03.071156,League Two - England - League Two 2022/23 - Top 7 Finish,Mansfield Town,0.03639999999999999,0.6364,0.6
 2022-08-21 01:03:25.570951,74th Primetime Emmy Awards - Emmy Award - Outstanding Comedy Series - Proposition,Ted Lasso,0.03639999999999999,0.6364,0.6
 2022-08-21 05:03:01.946379,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Seattle Seahawks,Under 5.5,0.03600000000000003,0.5238,0.4878
 2022-08-21 01:03:25.615911,74th Primetime Emmy Awards - Emmy Award - Outstanding Lead Actor in a Drama Series - Proposition,Lee Jung-jae - Squid Game,0.03600000000000003,0.5238,0.4878
@@ -32,62 +47,74 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Vijay Singh,0.03559999999999999,0.0435,0.0079
 2022-08-21 01:03:27.067803,MLB Futures - MLB 2022 National League Central - NLC Winner,St. Louis Cardinals,0.0353,0.8,0.7647
 2022-08-21 01:03:25.665701,74th Primetime Emmy Awards - Emmy Award - Outstanding Limited Series - Proposition,The White Lotus,0.034499999999999975,0.6774,0.6429
+2022-08-21 11:03:03.009586,League Two - England - League Two 2022/23 - Outright,Leyton Orient,0.03420000000000001,0.1111,0.0769
 2022-08-21 09:03:54.303358,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Huracán,0.034100000000000005,0.125,0.0909
 2022-08-21 10:03:10.006881,League One - England - League One 2022/23 - To Be Relegated,Shrewsbury Town,0.033300000000000024,0.2,0.1667
+2022-08-21 11:03:02.637701,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Club América,0.033300000000000024,0.2,0.1667
+2022-08-21 11:03:03.009586,League Two - England - League Two 2022/23 - Outright,Stevenage,0.0321,0.0909,0.0588
+2022-08-21 11:03:03.159343,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Liverpool,0.03180000000000005,0.8889,0.8571
+2022-08-21 11:03:03.056354,League Two - England - League Two 2022/23 - To Be Relegated,Rochdale,0.030299999999999994,0.3636,0.3333
 2022-08-21 10:03:10.006881,League One - England - League One 2022/23 - To Be Relegated,Morecambe,0.030299999999999994,0.6667,0.6364
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Jim Furyk,0.0294,0.0588,0.0294
 2022-08-21 02:02:50.202806,Boxing Lines - Emanuel Navarrete vs Eduardo Baez - To Win the Bout,Emanuel Navarrete,0.029299999999999993,0.9524,0.9231
 2022-08-21 10:03:10.047407,League One - England - League One 2022/23 - Top 6 Finish,Port Vale,0.027800000000000005,0.1111,0.0833
-2022-08-21 10:03:10.006881,League One - England - League One 2022/23 - To Be Relegated,Forest Green Rovers,0.02779999999999999,0.25,0.2222
 2022-08-21 10:03:10.047407,League One - England - League One 2022/23 - Top 6 Finish,Wycombe,0.02779999999999999,0.25,0.2222
+2022-08-21 10:03:10.006881,League One - England - League One 2022/23 - To Be Relegated,Forest Green Rovers,0.02779999999999999,0.25,0.2222
+2022-08-21 11:03:03.009586,League Two - England - League Two 2022/23 - Outright,Mansfield Town,0.024999999999999994,0.125,0.1
 2022-08-21 10:03:09.984512,League One - England - League One 2022/23 - To Be Promoted,Wycombe,0.024999999999999994,0.125,0.1
 2022-08-21 09:03:54.215511,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Fluminense,0.024299999999999995,0.0769,0.0526
 2022-08-21 01:03:50.090832,NFL Team Specials - Carolina Panthers - Panthers Specials,CAR Panthers to be a Wild Card Seed and Christian McCaffrey over 595.5 Reg Season Receiving Yards,0.0242,0.0909,0.0667
+2022-08-21 11:03:03.025280,League Two - England - League Two 2022/23 - Top Goalscorer,Courtney Baker-Richardson,0.023899999999999998,0.0435,0.0196
 2022-08-21 04:04:52.816683,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  San Francisco 49ers,Over 10,0.023800000000000043,0.5238,0.5
 2022-08-21 09:03:54.303358,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Atlético Tucumán,0.023799999999999988,0.1667,0.1429
 2022-08-21 10:03:10.006881,League One - England - League One 2022/23 - To Be Relegated,Exeter City,0.023799999999999988,0.1667,0.1429
-2022-08-21 04:04:55.539095,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-21 01:03:45.419825,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-21 10:03:06.358662,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-21 02:02:58.925600,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
 2022-08-21 09:03:51.419515,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-21 11:03:03.159343,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Arsenal,0.022600000000000064,0.6226,0.6
+2022-08-21 11:02:58.152174,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-20 23:03:34.671376,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-21 10:03:06.358662,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-21 00:03:38.658354,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
 2022-08-21 08:02:53.643162,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
 2022-08-21 07:02:52.929676,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-21 06:03:00.104659,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
 2022-08-21 05:03:03.593471,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-21 04:04:55.539095,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-21 01:03:45.419825,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
 2022-08-21 03:03:13.883883,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-21 02:02:58.925600,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-21 00:03:38.658354,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-20 23:03:34.671376,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-21 10:03:09.953900,League One - England - League One 2022/23 - Outright,Peterborough United,0.022199999999999998,0.1333,0.1111
-2022-08-21 10:03:09.825127,Eliteserien - Norway Eliteserien 2022 - Outright,Lillestrøm SK,0.022199999999999998,0.2222,0.2
+2022-08-21 06:03:00.104659,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
 2022-08-21 10:03:10.035822,League One - England - League One 2022/23 - Top 2 Finish,Peterborough United,0.022199999999999998,0.2222,0.2
+2022-08-21 10:03:09.825127,Eliteserien - Norway Eliteserien 2022 - Outright,Lillestrøm SK,0.022199999999999998,0.2222,0.2
+2022-08-21 10:03:09.953900,League One - England - League One 2022/23 - Outright,Peterborough United,0.022199999999999998,0.1333,0.1111
 2022-08-21 07:02:50.066384,CFL - 2020 CFL Season Odds - Odds to win the 109th (2022) Grey Cup,British Columbia Lions,0.021999999999999964,0.3077,0.2857
 2022-08-21 01:03:26.042045,Boxing Lines - Sergey Lipinets vs Omar Figueroa Jr - To Win the Bout,Sergey Lipinets,0.021700000000000053,0.7778,0.7561
 2022-08-21 09:03:54.071907,La Liga - Spain La Liga 2022/23 - Winner,Real Madrid,0.02169999999999994,0.5455,0.5238
-2022-08-21 05:03:03.871217,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-21 10:03:06.697427,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-21 00:03:39.064715,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-20 23:03:34.917616,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-21 02:02:59.265026,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-21 06:03:00.519851,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-21 07:02:53.151292,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-21 03:03:14.412892,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-21 07:02:43.997422,BMW Championship - 2/3 Balls - Final Round 2 Balls - J. Kim v S. Power - Final Round 2 Balls,Joohyung Kim,0.02079999999999993,0.5556,0.5348
+2022-08-21 11:02:58.517902,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-21 10:03:06.697427,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-21 09:03:51.654803,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-21 04:04:55.922831,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-21 01:03:45.928642,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-20 23:03:34.917616,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-21 03:03:14.412892,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-21 08:02:53.882647,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-21 06:03:00.519851,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-21 00:03:39.064715,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-21 05:03:03.871217,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-21 01:03:45.928642,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-21 04:04:55.922831,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-21 10:03:09.984512,League One - England - League One 2022/23 - To Be Promoted,Port Vale,0.0203,0.0588,0.0385
 2022-08-21 10:03:10.006881,League One - England - League One 2022/23 - To Be Relegated,Barnsley,0.02020000000000001,0.1111,0.0909
 2022-08-21 07:02:44.335229,Round Match-Ups - Parlays - Final Round Match-Up - C. Morikawa vs J. Niemann - Final Round Match-Up,Collin Morikawa,0.01970000000000005,0.5652,0.5455
 2022-08-21 10:02:57.247198,Boxing Lines - Claressa Shields vs Savannah Marshall - To Win the Bout,Savannah Marshall,0.01970000000000005,0.5652,0.5455
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Gene Sauers,0.019499999999999997,0.0294,0.0099
-2022-08-21 09:03:54.289752,Superligaen - Denmark Superligaen 2022/23 - Outright,AGF Aarhus,0.019099999999999992,0.0667,0.0476
 2022-08-21 10:03:09.969673,League One - England - League One 2022/23 - Top Goalscorer,Jack Marriott,0.019099999999999992,0.0667,0.0476
+2022-08-21 09:03:54.289752,Superligaen - Denmark Superligaen 2022/23 - Outright,AGF Aarhus,0.019099999999999992,0.0667,0.0476
 2022-08-21 10:03:09.863646,Allsvenskan - Swedish Allsvenskan 2022 - Outright,BK Hacken,0.019000000000000017,0.2857,0.2667
 2022-08-21 05:02:54.082431,BMW Championship - 2/3 Balls - Final Round 2 Balls - S. Burns v T. Mullinax - Final Round 2 Balls,Trey Mullinax,0.018900000000000028,0.4444,0.4255
 2022-08-21 04:04:42.355592,BMW Championship - 2/3 Balls - Final Round 2 Balls - M. Fitzpatrick v S. Munoz - Final Round 2 Balls,Sebastian Munoz,0.018900000000000028,0.4444,0.4255
+2022-08-21 11:03:03.040039,League Two - England - League Two 2022/23 - To Be Promoted,Doncaster Rovers,0.01820000000000002,0.2,0.1818
 2022-08-21 10:03:09.785996,Championship - England Championship 2022/23 - Outright,Sunderland,0.018200000000000004,0.0476,0.0294
+2022-08-21 11:03:03.025280,League Two - England - League Two 2022/23 - Top Goalscorer,Andy Cook,0.018200000000000004,0.0476,0.0294
 2022-08-21 07:02:44.552774,MLB Futures - MLB 2022 National League Central - NLC Winner,St. Louis Cardinals,0.018199999999999994,0.8182,0.8
 2022-08-20 23:03:38.690683,Ligue 1 - France Ligue 1 2022/23 - Winner,Paris Saint-Germain,0.018100000000000005,0.9412,0.9231
 2022-08-20 23:03:38.719034,Serie A - Italy Serie A 2022/23 - Winner,Napoli,0.018099999999999998,0.0769,0.0588
@@ -95,171 +122,243 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-21 09:03:54.303358,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Argentinos Juniors,0.0179,0.1429,0.125
 2022-08-21 05:02:54.109436,BMW Championship - 2/3 Balls - Final Round 2 Balls - R. McIlroy v A. Putnam - Final Round 2 Balls,Rory McIlroy,0.017300000000000093,0.7143,0.697
 2022-08-21 10:03:09.953900,League One - England - League One 2022/23 - Outright,Portsmouth,0.016700000000000007,0.1,0.0833
+2022-08-21 05:02:54.061532,BMW Championship - 2/3 Balls - Final Round 2 Balls - J.T. Poston v J.J. Spaun - Final Round 2 Balls,J.T. Poston,0.016699999999999937,0.6,0.5833
 2022-08-21 05:02:53.903410,BMW Championship - 2/3 Balls - Final Round 2 Balls - V. Hovland v C. Tringale - Final Round 2 Balls,Viktor Hovland,0.016699999999999937,0.6,0.5833
 2022-08-21 05:02:53.993518,BMW Championship - 2/3 Balls - Final Round 2 Balls - D. Riley v S. Straka - Final Round 2 Balls,Davis Riley,0.016699999999999937,0.6,0.5833
 2022-08-21 05:02:54.007781,BMW Championship - 2/3 Balls - Final Round 2 Balls - K. Bradley v A. Hadwin - Final Round 2 Balls,Keegan Bradley,0.016699999999999937,0.6,0.5833
-2022-08-21 05:02:54.061532,BMW Championship - 2/3 Balls - Final Round 2 Balls - J.T. Poston v J.J. Spaun - Final Round 2 Balls,J.T. Poston,0.016699999999999937,0.6,0.5833
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Tom Pernice Jr,0.0163,0.0196,0.0033
 2022-08-21 10:03:10.035822,League One - England - League One 2022/23 - Top 2 Finish,Portsmouth,0.015100000000000002,0.1818,0.1667
+2022-08-21 11:03:03.127179,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Wilfried Zaha,0.0145,0.0244,0.0099
 2022-08-21 06:02:46.937212,MLB Futures - MLB 2022 American League East - ALE Winner,Toronto Blue Jays,0.01440000000000001,0.1053,0.0909
+2022-08-21 11:03:03.009586,League Two - England - League Two 2022/23 - Outright,Barrow FC,0.014099999999999998,0.0385,0.0244
 2022-08-20 23:03:38.705159,1. Bundesliga - Germany Bundesliga 2022/23 - Winner,Bayern Munich,0.014000000000000012,0.9231,0.9091
+2022-08-21 11:03:03.056354,League Two - England - League Two 2022/23 - To Be Relegated,Tranmere Rovers,0.013999999999999999,0.0909,0.0769
+2022-08-21 11:03:03.009586,League Two - England - League Two 2022/23 - Outright,Bradford City,0.013899999999999996,0.125,0.1111
 2022-08-20 23:03:32.545874,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Team With The Fewest Wins (Regular Season),CHI Bears,0.013899999999999996,0.125,0.1111
 2022-08-21 10:03:10.006881,League One - England - League One 2022/23 - To Be Relegated,Milton Keynes Dons,0.013899999999999996,0.125,0.1111
 2022-08-21 09:03:54.303358,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,River Plate,0.013899999999999996,0.125,0.1111
 2022-08-20 23:03:38.719034,Serie A - Italy Serie A 2022/23 - Winner,Inter Milan,0.013800000000000034,0.3774,0.3636
 2022-08-21 10:03:09.838519,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,Benfica,0.013600000000000001,0.3077,0.2941
-2022-08-21 10:03:09.953900,League One - England - League One 2022/23 - Outright,Sheffield Wednesday,0.0131,0.2353,0.2222
 2022-08-21 06:02:46.875185,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Los Angeles Dodgers,0.0131,0.2353,0.2222
+2022-08-21 10:03:09.953900,League One - England - League One 2022/23 - Outright,Sheffield Wednesday,0.0131,0.2353,0.2222
+2022-08-21 11:03:03.056354,League Two - England - League Two 2022/23 - To Be Relegated,Crawley Town,0.012899999999999995,0.1667,0.1538
 2022-08-21 06:02:46.902031,MLB Futures - MLB 2022 Amercian League - AL Winner,New York Yankees,0.012299999999999978,0.3571,0.3448
-2022-08-21 05:02:53.491258,Boxing Lines - Claressa Shields vs Savannah Marshall - To Win the Bout,Claressa Shields,0.011600000000000055,0.5238,0.5122
 2022-08-21 05:02:54.054939,BMW Championship - 2/3 Balls - Final Round 2 Balls - S. Theegala v E. Grillo - Final Round 2 Balls,Emiliano Grillo,0.011600000000000055,0.5238,0.5122
+2022-08-21 05:02:53.491258,Boxing Lines - Claressa Shields vs Savannah Marshall - To Win the Bout,Claressa Shields,0.011600000000000055,0.5238,0.5122
 2022-08-21 10:03:10.020699,League One - England - League One 2022/23 - To Finish Bottom,Forest Green Rovers,0.011199999999999995,0.0588,0.0476
 2022-08-21 09:03:54.303358,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Racing Club,0.010899999999999993,0.1538,0.1429
 2022-08-21 05:02:54.029256,BMW Championship - 2/3 Balls - Final Round 2 Balls - M. Leishman v M. Kuchar - Final Round 2 Balls,Marc Leishman,0.010699999999999932,0.5455,0.5348
 2022-08-21 05:02:53.966317,BMW Championship - 2/3 Balls - Final Round 2 Balls - M. McNealy v A. Noren - Final Round 2 Balls,Maverick McNealy,0.010699999999999932,0.5455,0.5348
+2022-08-21 11:03:03.025280,League Two - England - League Two 2022/23 - Top Goalscorer,Brandon Thomas-Asante,0.0102,0.0769,0.0667
+2022-08-21 11:03:03.025280,League Two - England - League Two 2022/23 - Top Goalscorer,Harry McKirdy,0.0102,0.0769,0.0667
 2022-08-21 03:02:56.551672,Boxing Lines - Claressa Shields vs Savannah Marshall - To Win the Bout,Savannah Marshall,0.010099999999999998,0.5556,0.5455
 2022-08-21 05:02:53.491258,Boxing Lines - Claressa Shields vs Savannah Marshall - To Win the Bout,Savannah Marshall,-0.010099999999999998,0.5455,0.5556
 2022-08-21 10:03:09.969673,League One - England - League One 2022/23 - Top Goalscorer,Lee Gregory,-0.010100000000000001,0.0244,0.0345
 2022-08-21 06:02:46.912684,MLB Futures - MLB 2022 National League - NL Winner,Milwaukee Brewers,-0.0102,0.0667,0.0769
 2022-08-21 10:03:09.785996,Championship - England Championship 2022/23 - Outright,Middlesbrough,-0.0102,0.0667,0.0769
+2022-08-21 11:03:03.025280,League Two - England - League Two 2022/23 - Top Goalscorer,Callum Hendry,-0.010700000000000001,0.0278,0.0385
 2022-08-21 10:03:09.969673,League One - England - League One 2022/23 - Top Goalscorer,James Collins,-0.010700000000000001,0.0278,0.0385
+2022-08-21 11:03:03.009586,League Two - England - League Two 2022/23 - Outright,Grimsby Town,-0.010700000000000001,0.0278,0.0385
+2022-08-21 11:03:03.009586,League Two - England - League Two 2022/23 - Outright,Swindon Town,-0.010700000000000001,0.0278,0.0385
 2022-08-21 10:03:09.969673,League One - England - League One 2022/23 - Top Goalscorer,Aaron Collins,-0.010700000000000001,0.0278,0.0385
+2022-08-21 11:03:03.009586,League Two - England - League Two 2022/23 - Outright,Walsall,-0.010700000000000001,0.0278,0.0385
+2022-08-21 11:03:03.040039,League Two - England - League Two 2022/23 - To Be Promoted,Rochdale,-0.010700000000000001,0.0278,0.0385
+2022-08-21 11:03:03.071156,League Two - England - League Two 2022/23 - Top 7 Finish,Crawley Town,-0.010899999999999993,0.1429,0.1538
 2022-08-21 05:02:54.054939,BMW Championship - 2/3 Balls - Final Round 2 Balls - S. Theegala v E. Grillo - Final Round 2 Balls,Sahith Theegala,-0.01100000000000001,0.5238,0.5348
 2022-08-20 23:03:25.992572,Boxing Lines - Brandun Lee vs Will Madera - To Win the Bout,Will Madera,-0.011099999999999999,0.1,0.1111
-2022-08-21 10:03:09.863646,Allsvenskan - Swedish Allsvenskan 2022 - Outright,AIK,-0.011199999999999995,0.0476,0.0588
-2022-08-21 10:03:10.020699,League One - England - League One 2022/23 - To Finish Bottom,Accrington Stanley,-0.011199999999999995,0.0476,0.0588
+2022-08-21 11:03:02.507101,MLS - MLS Cup 2022 - Top Goalscorer,Jesus Ferreira,-0.011099999999999999,0.1,0.1111
+2022-08-21 06:02:46.902031,MLB Futures - MLB 2022 Amercian League - AL Winner,Chicago White Sox,-0.011199999999999995,0.0476,0.0588
+2022-08-21 11:03:03.025280,League Two - England - League Two 2022/23 - Top Goalscorer,Vadaine Oliver,-0.011199999999999995,0.0476,0.0588
+2022-08-21 11:03:03.025280,League Two - England - League Two 2022/23 - Top Goalscorer,Kyle Wootton,-0.011199999999999995,0.0476,0.0588
+2022-08-21 11:03:03.025280,League Two - England - League Two 2022/23 - Top Goalscorer,Dominic Telford,-0.011199999999999995,0.0476,0.0588
 2022-08-21 10:03:09.890148,Superettan - Swedish Superettan 2022 - Outright,IK Brage,-0.011199999999999995,0.0476,0.0588
+2022-08-21 11:03:03.040039,League Two - England - League Two 2022/23 - To Be Promoted,Hartlepool United,-0.011199999999999995,0.0476,0.0588
+2022-08-21 10:03:10.020699,League One - England - League One 2022/23 - To Finish Bottom,Accrington Stanley,-0.011199999999999995,0.0476,0.0588
+2022-08-21 10:03:09.863646,Allsvenskan - Swedish Allsvenskan 2022 - Outright,AIK,-0.011199999999999995,0.0476,0.0588
 2022-08-21 10:03:09.984512,League One - England - League One 2022/23 - To Be Promoted,Cambridge United,-0.011199999999999995,0.0476,0.0588
 2022-08-21 10:03:09.984512,League One - England - League One 2022/23 - To Be Promoted,Accrington Stanley,-0.011199999999999995,0.0476,0.0588
-2022-08-21 06:02:46.902031,MLB Futures - MLB 2022 Amercian League - AL Winner,Chicago White Sox,-0.011199999999999995,0.0476,0.0588
+2022-08-21 11:03:03.071156,League Two - England - League Two 2022/23 - Top 7 Finish,Northampton Town,-0.011499999999999955,0.6552,0.6667
+2022-08-21 11:03:03.056354,League Two - England - League Two 2022/23 - To Be Relegated,Bradford City,-0.012100000000000001,0.0123,0.0244
+2022-08-21 11:03:03.025280,League Two - England - League Two 2022/23 - Top Goalscorer,Jack Muldoon,-0.012100000000000001,0.0123,0.0244
 2022-08-21 10:03:09.969673,League One - England - League One 2022/23 - Top Goalscorer,Chuks Aneke,-0.012100000000000001,0.0123,0.0244
 2022-08-21 05:02:54.029256,BMW Championship - 2/3 Balls - Final Round 2 Balls - M. Leishman v M. Kuchar - Final Round 2 Balls,Matt Kuchar,-0.012199999999999989,0.5,0.5122
 2022-08-21 05:02:53.966317,BMW Championship - 2/3 Balls - Final Round 2 Balls - M. McNealy v A. Noren - Final Round 2 Balls,Alex Noren,-0.012199999999999989,0.5,0.5122
 2022-08-21 05:02:53.941541,BMW Championship - 2/3 Balls - Final Round 2 Balls - J. Thomas v L. List - Final Round 2 Balls,Justin Thomas,-0.012700000000000045,0.6364,0.6491
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Y.E Yang,-0.0129,0.002,0.0149
-2022-08-21 10:03:09.785996,Championship - England Championship 2022/23 - Outright,Burnley,-0.013899999999999996,0.1111,0.125
+2022-08-21 11:03:03.040039,League Two - England - League Two 2022/23 - To Be Promoted,Crewe Alexandra,-0.013899999999999996,0.1111,0.125
 2022-08-21 10:03:10.047407,League One - England - League One 2022/23 - Top 6 Finish,Shrewsbury Town,-0.013899999999999996,0.1111,0.125
+2022-08-21 10:03:09.785996,Championship - England Championship 2022/23 - Outright,Burnley,-0.013899999999999996,0.1111,0.125
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Billy Andrade,-0.0139,0.001,0.0149
 2022-08-21 10:03:10.035822,League One - England - League One 2022/23 - Top 2 Finish,Charlton Athletic,-0.013999999999999999,0.0769,0.0909
-2022-08-21 10:03:10.006881,League One - England - League One 2022/23 - To Be Relegated,Plymouth Argyle,-0.014099999999999994,0.0526,0.0667
+2022-08-21 11:03:03.025280,League Two - England - League Two 2022/23 - Top Goalscorer,Paddy Madden,-0.013999999999999999,0.0769,0.0909
+2022-08-21 11:03:02.507101,MLS - MLS Cup 2022 - Top Goalscorer,Jeremy Ebobisse,-0.013999999999999999,0.0769,0.0909
+2022-08-21 11:03:03.056354,League Two - England - League Two 2022/23 - To Be Relegated,Crewe Alexandra,-0.013999999999999999,0.0769,0.0909
 2022-08-21 10:03:09.953900,League One - England - League One 2022/23 - Outright,Bolton Wanderers,-0.014099999999999994,0.0526,0.0667
+2022-08-21 10:03:10.006881,League One - England - League One 2022/23 - To Be Relegated,Plymouth Argyle,-0.014099999999999994,0.0526,0.0667
 2022-08-21 10:03:09.953900,League One - England - League One 2022/23 - Outright,Barnsley,-0.014099999999999998,0.0244,0.0385
+2022-08-21 11:03:03.159343,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Aston Villa,-0.014099999999999998,0.0244,0.0385
+2022-08-21 11:03:03.009586,League Two - England - League Two 2022/23 - Outright,Tranmere Rovers,-0.014099999999999998,0.0244,0.0385
 2022-08-21 10:03:09.969673,League One - England - League One 2022/23 - Top Goalscorer,Joe Pigott,-0.014099999999999998,0.0244,0.0385
+2022-08-21 11:03:03.056354,League Two - England - League Two 2022/23 - To Be Relegated,Leyton Orient,-0.014199999999999999,0.0152,0.0294
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Robert Karlsson,-0.0144,0.0005,0.0149
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Marco Dawson,-0.014400000000000001,0.002,0.0164
 2022-08-21 10:03:10.006881,League One - England - League One 2022/23 - To Be Relegated,Portsmouth,-0.014499999999999999,0.0149,0.0294
 2022-08-21 10:03:10.020699,League One - England - League One 2022/23 - To Finish Bottom,Wycombe,-0.014499999999999999,0.0149,0.0294
 2022-08-21 10:03:09.969673,League One - England - League One 2022/23 - Top Goalscorer,Mohamed Eisa,-0.0145,0.0099,0.0244
 2022-08-21 07:02:44.552774,MLB Futures - MLB 2022 National League Central - NLC Winner,Milwaukee Brewers,-0.01469999999999999,0.2353,0.25
-2022-08-21 10:03:09.969673,League One - England - League One 2022/23 - Top Goalscorer,Alfie May,-0.014900000000000004,0.0196,0.0345
-2022-08-21 10:03:09.969673,League One - England - League One 2022/23 - Top Goalscorer,James Norwood,-0.014900000000000004,0.0196,0.0345
+2022-08-21 11:03:03.025280,League Two - England - League Two 2022/23 - Top Goalscorer,Aribim Pepple,-0.014900000000000004,0.0196,0.0345
 2022-08-21 10:03:09.969673,League One - England - League One 2022/23 - Top Goalscorer,Cole Stockton,-0.014900000000000004,0.0196,0.0345
-2022-08-21 10:03:10.035822,League One - England - League One 2022/23 - Top 2 Finish,Milton Keynes Dons,-0.015300000000000001,0.0435,0.0588
+2022-08-21 10:03:09.969673,League One - England - League One 2022/23 - Top Goalscorer,James Norwood,-0.014900000000000004,0.0196,0.0345
+2022-08-21 10:03:09.969673,League One - England - League One 2022/23 - Top Goalscorer,Alfie May,-0.014900000000000004,0.0196,0.0345
+2022-08-21 11:03:03.071156,League Two - England - League Two 2022/23 - Top 7 Finish,Carlisle Utd,-0.015100000000000002,0.1667,0.1818
+2022-08-21 11:03:03.127179,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Mohamed Salah,-0.015100000000000002,0.1667,0.1818
 2022-08-21 10:03:09.953900,League One - England - League One 2022/23 - Outright,Charlton Athletic,-0.015300000000000001,0.0323,0.0476
+2022-08-21 10:03:10.035822,League One - England - League One 2022/23 - Top 2 Finish,Milton Keynes Dons,-0.015300000000000001,0.0435,0.0588
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Joe Durant,-0.0156,0.004,0.0196
 2022-08-21 10:03:09.969673,League One - England - League One 2022/23 - Top Goalscorer,Freddie Ladapo,-0.0157,0.0278,0.0435
+2022-08-21 11:03:03.025280,League Two - England - League Two 2022/23 - Top Goalscorer,Conor McAleny,-0.0157,0.0278,0.0435
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Ken Duke,-0.0163,0.0033,0.0196
+2022-08-21 11:03:03.071156,League Two - England - League Two 2022/23 - Top 7 Finish,Bradford City,-0.016699999999999937,0.5833,0.6
 2022-08-20 23:03:38.705159,1. Bundesliga - Germany Bundesliga 2022/23 - Winner,Borussia Dortmund,-0.016700000000000007,0.0833,0.1
 2022-08-21 10:03:09.969673,League One - England - League One 2022/23 - Top Goalscorer,David McGoldrick,-0.017099999999999997,0.0123,0.0294
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Scott Parel,-0.017599999999999998,0.002,0.0196
 2022-08-21 05:02:54.109436,BMW Championship - 2/3 Balls - Final Round 2 Balls - R. McIlroy v A. Putnam - Final Round 2 Balls,Andrew Putnam,-0.017600000000000005,0.3333,0.3509
 2022-08-21 09:03:54.071907,La Liga - Spain La Liga 2022/23 - Winner,FC Barcelona,-0.017600000000000005,0.3333,0.3509
+2022-08-21 11:03:03.056354,League Two - England - League Two 2022/23 - To Be Relegated,Harrogate Town,-0.0179,0.125,0.1429
 2022-08-21 10:03:09.984512,League One - England - League One 2022/23 - To Be Promoted,Charlton Athletic,-0.0179,0.125,0.1429
+2022-08-21 11:03:03.009586,League Two - England - League Two 2022/23 - Outright,Northampton Town,-0.0179,0.125,0.1429
+2022-08-21 11:03:03.009586,League Two - England - League Two 2022/23 - Outright,Salford City,-0.0179,0.125,0.1429
+2022-08-21 11:03:03.056354,League Two - England - League Two 2022/23 - To Be Relegated,AFC Wimbledon,-0.018099999999999998,0.0588,0.0769
+2022-08-21 11:03:03.071156,League Two - England - League Two 2022/23 - Top 7 Finish,Rochdale,-0.018099999999999998,0.0588,0.0769
 2022-08-21 06:02:46.937212,MLB Futures - MLB 2022 American League East - ALE Winner,New York Yankees,-0.018100000000000005,0.9231,0.9412
-2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Thongchai Jaidee,-0.018200000000000004,0.0294,0.0476
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Doug Barron,-0.018200000000000004,0.0294,0.0476
+2022-08-21 11:03:02.507101,MLS - MLS Cup 2022 - Top Goalscorer,Carlos Vela,-0.018200000000000004,0.0294,0.0476
+2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Thongchai Jaidee,-0.018200000000000004,0.0294,0.0476
 2022-08-21 09:03:54.071907,La Liga - Spain La Liga 2022/23 - Winner,Villarreal,-0.018200000000000004,0.0294,0.0476
 2022-08-21 10:03:09.785996,Championship - England Championship 2022/23 - Outright,Watford,-0.01820000000000002,0.1818,0.2
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Woody Austin,-0.0189,0.0007,0.0196
+2022-08-21 11:03:03.056354,League Two - England - League Two 2022/23 - To Be Relegated,Stevenage,-0.0189,0.0196,0.0385
+2022-08-21 11:03:03.056354,League Two - England - League Two 2022/23 - To Be Relegated,Hartlepool United,-0.019000000000000017,0.2667,0.2857
 2022-08-21 10:03:10.035822,League One - England - League One 2022/23 - Top 2 Finish,Oxford United,-0.019099999999999992,0.0476,0.0667
 2022-08-21 04:04:52.816683,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  San Francisco 49ers,Under 10,-0.01970000000000005,0.5455,0.5652
 2022-08-21 10:03:10.047407,League One - England - League One 2022/23 - Top 6 Finish,Burton Albion,-0.019800000000000005,0.0278,0.0476
-2022-08-21 10:03:10.047407,League One - England - League One 2022/23 - Top 6 Finish,Forest Green Rovers,-0.02020000000000001,0.0909,0.1111
 2022-08-21 10:03:09.984512,League One - England - League One 2022/23 - To Be Promoted,Milton Keynes Dons,-0.02020000000000001,0.0909,0.1111
+2022-08-21 10:03:10.047407,League One - England - League One 2022/23 - Top 6 Finish,Forest Green Rovers,-0.02020000000000001,0.0909,0.1111
 2022-08-21 10:03:10.006881,League One - England - League One 2022/23 - To Be Relegated,Lincoln City,-0.020299999999999985,0.25,0.2703
 2022-08-21 10:03:09.984512,League One - England - League One 2022/23 - To Be Promoted,Bristol Rovers,-0.0203,0.0385,0.0588
 2022-08-21 10:03:09.984512,League One - England - League One 2022/23 - To Be Promoted,Forest Green Rovers,-0.0203,0.0385,0.0588
+2022-08-21 11:03:03.056354,League Two - England - League Two 2022/23 - To Be Relegated,Doncaster Rovers,-0.0203,0.0385,0.0588
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Steve Flesch,-0.0204,0.004,0.0244
-2022-08-21 05:02:54.007781,BMW Championship - 2/3 Balls - Final Round 2 Balls - K. Bradley v A. Hadwin - Final Round 2 Balls,Adam Hadwin,-0.020699999999999996,0.4444,0.4651
+2022-08-21 11:03:03.040039,League Two - England - League Two 2022/23 - To Be Promoted,Walsall,-0.02049999999999999,0.1333,0.1538
 2022-08-21 05:02:53.993518,BMW Championship - 2/3 Balls - Final Round 2 Balls - D. Riley v S. Straka - Final Round 2 Balls,Sepp Straka,-0.020699999999999996,0.4444,0.4651
-2022-08-21 05:02:53.903410,BMW Championship - 2/3 Balls - Final Round 2 Balls - V. Hovland v C. Tringale - Final Round 2 Balls,Cameron Tringale,-0.020699999999999996,0.4444,0.4651
 2022-08-21 05:02:54.061532,BMW Championship - 2/3 Balls - Final Round 2 Balls - J.T. Poston v J.J. Spaun - Final Round 2 Balls,J J Spaun,-0.020699999999999996,0.4444,0.4651
-2022-08-21 09:03:51.419515,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-21 10:03:06.358662,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-20 23:03:34.671376,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-21 05:02:53.903410,BMW Championship - 2/3 Balls - Final Round 2 Balls - V. Hovland v C. Tringale - Final Round 2 Balls,Cameron Tringale,-0.020699999999999996,0.4444,0.4651
+2022-08-21 05:02:54.007781,BMW Championship - 2/3 Balls - Final Round 2 Balls - K. Bradley v A. Hadwin - Final Round 2 Balls,Adam Hadwin,-0.020699999999999996,0.4444,0.4651
 2022-08-21 08:02:53.643162,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-08-21 07:02:52.929676,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-21 06:03:00.104659,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-21 11:02:58.152174,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-08-21 05:03:03.593471,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-21 04:04:55.539095,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-21 06:03:00.104659,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-21 11:03:03.071156,League Two - England - League Two 2022/23 - Top 7 Finish,Stockport County,-0.02079999999999993,0.5348,0.5556
+2022-08-21 10:03:06.358662,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-20 23:03:34.671376,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-21 09:03:51.419515,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-08-21 03:03:13.883883,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-21 02:02:58.925600,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-21 01:03:45.419825,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-08-21 00:03:38.658354,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-21 01:03:45.419825,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-21 04:04:55.539095,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-21 02:02:58.925600,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-08-21 10:03:10.047407,League One - England - League One 2022/23 - Top 6 Finish,Derby County,-0.02100000000000002,0.6154,0.6364
 2022-08-21 10:03:10.047407,League One - England - League One 2022/23 - Top 6 Finish,Charlton Athletic,-0.021999999999999964,0.2857,0.3077
 2022-08-21 10:03:09.953900,League One - England - League One 2022/23 - Outright,Derby County,-0.022199999999999998,0.1111,0.1333
+2022-08-21 11:03:02.637701,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Tigres UANL,-0.022199999999999998,0.2,0.2222
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Tim Petrovic,-0.022400000000000003,0.002,0.0244
-2022-08-21 05:02:54.082431,BMW Championship - 2/3 Balls - Final Round 2 Balls - S. Burns v T. Mullinax - Final Round 2 Balls,Sam Burns,-0.022600000000000064,0.6,0.6226
-2022-08-21 04:04:42.355592,BMW Championship - 2/3 Balls - Final Round 2 Balls - M. Fitzpatrick v S. Munoz - Final Round 2 Balls,Matthew Fitzpatrick,-0.022600000000000064,0.6,0.6226
-2022-08-21 07:02:53.151292,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-20 23:03:34.917616,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-21 04:04:55.922831,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-21 03:03:14.412892,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
 2022-08-21 00:03:39.064715,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-21 02:02:59.265026,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-21 05:03:03.871217,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-21 07:02:53.151292,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-21 11:02:58.517902,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
 2022-08-21 10:03:06.697427,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
 2022-08-21 01:03:45.928642,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-21 02:02:59.265026,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-21 03:03:14.412892,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-21 04:04:55.922831,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-21 05:03:03.871217,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-21 09:03:51.654803,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-21 08:02:53.882647,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
 2022-08-21 06:03:00.519851,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-21 09:03:51.654803,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-20 23:03:34.917616,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-21 08:02:53.882647,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-21 04:04:42.355592,BMW Championship - 2/3 Balls - Final Round 2 Balls - M. Fitzpatrick v S. Munoz - Final Round 2 Balls,Matthew Fitzpatrick,-0.022600000000000064,0.6,0.6226
+2022-08-21 05:02:54.082431,BMW Championship - 2/3 Balls - Final Round 2 Balls - S. Burns v T. Mullinax - Final Round 2 Balls,Sam Burns,-0.022600000000000064,0.6,0.6226
+2022-08-21 11:03:02.507101,MLS - MLS Cup 2022 - Top Goalscorer,Hany Mukhtar,-0.02310000000000001,0.0769,0.1
+2022-08-21 11:03:03.009586,League Two - England - League Two 2022/23 - Outright,Stockport County,-0.02310000000000001,0.0769,0.1
+2022-08-21 11:03:02.489385,MLS - MLS Cup 2022 - Winner,Toronto FC,-0.023200000000000002,0.0244,0.0476
 2022-08-21 09:03:54.215511,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Atlético Mineiro,-0.023200000000000002,0.0294,0.0526
-2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Kevin Sutherland,-0.023700000000000002,0.0007,0.0244
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Colin Montgomerie,-0.023700000000000002,0.0007,0.0244
+2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Kevin Sutherland,-0.023700000000000002,0.0007,0.0244
+2022-08-21 07:02:44.335229,Round Match-Ups - Parlays - Final Round Match-Up - C. Morikawa vs J. Niemann - Final Round Match-Up,Joaquin Niemann,-0.023799999999999988,0.4762,0.5
+2022-08-21 11:03:03.071156,League Two - England - League Two 2022/23 - Top 7 Finish,Harrogate Town,-0.023799999999999988,0.1429,0.1667
 2022-08-21 10:03:10.020699,League One - England - League One 2022/23 - To Finish Bottom,Cheltenham Town,-0.023799999999999988,0.1429,0.1667
 2022-08-21 10:03:10.006881,League One - England - League One 2022/23 - To Be Relegated,Cheltenham Town,-0.023799999999999988,0.4762,0.5
-2022-08-21 07:02:44.335229,Round Match-Ups - Parlays - Final Round Match-Up - C. Morikawa vs J. Niemann - Final Round Match-Up,Joaquin Niemann,-0.023799999999999988,0.4762,0.5
 2022-08-21 10:02:57.247198,Boxing Lines - Claressa Shields vs Savannah Marshall - To Win the Bout,Claressa Shields,-0.023800000000000043,0.5,0.5238
 2022-08-21 07:02:43.997422,BMW Championship - 2/3 Balls - Final Round 2 Balls - J. Kim v S. Power - Final Round 2 Balls,Seamus Power,-0.024399999999999977,0.4878,0.5122
-2022-08-21 02:02:50.202806,Boxing Lines - Emanuel Navarrete vs Eduardo Baez - To Win the Bout,Eduardo Baez,-0.024999999999999994,0.1,0.125
+2022-08-21 11:03:03.040039,League Two - England - League Two 2022/23 - To Be Promoted,Colchester United,-0.0245,0.0588,0.0833
+2022-08-21 11:03:02.507101,MLS - MLS Cup 2022 - Top Goalscorer,Brandon Vazquez,-0.024999999999999994,0.1,0.125
 2022-08-21 10:03:09.984512,League One - England - League One 2022/23 - To Be Promoted,Oxford United,-0.024999999999999994,0.1,0.125
+2022-08-21 02:02:50.202806,Boxing Lines - Emanuel Navarrete vs Eduardo Baez - To Win the Bout,Eduardo Baez,-0.024999999999999994,0.1,0.125
+2022-08-21 11:03:03.040039,League Two - England - League Two 2022/23 - To Be Promoted,Northampton Town,-0.025499999999999967,0.4,0.4255
 2022-08-21 10:03:09.850932,Premiership - Scotland Premiership 2022/23 - Outright,Rangers,-0.025499999999999967,0.4,0.4255
+2022-08-21 11:03:03.040039,League Two - England - League Two 2022/23 - To Be Promoted,Salford City,-0.025499999999999967,0.4,0.4255
 2022-08-21 10:03:09.984512,League One - England - League One 2022/23 - To Be Promoted,Derby County,-0.02560000000000001,0.3077,0.3333
+2022-08-21 11:03:03.040039,League Two - England - League Two 2022/23 - To Be Promoted,Stockport County,-0.02560000000000001,0.3077,0.3333
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Brandt Jobe,-0.026099999999999998,0.0033,0.0294
+2022-08-21 11:03:03.040039,League Two - England - League Two 2022/23 - To Be Promoted,Crawley Town,-0.0267,0.0909,0.1176
 2022-08-21 10:03:10.047407,League One - England - League One 2022/23 - Top 6 Finish,Bristol Rovers,-0.0267,0.0909,0.1176
 2022-08-21 10:03:10.006881,League One - England - League One 2022/23 - To Be Relegated,Accrington Stanley,-0.02779999999999999,0.2222,0.25
 2022-08-21 10:03:10.020699,League One - England - League One 2022/23 - To Finish Bottom,Port Vale,-0.028199999999999996,0.0385,0.0667
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Paul Goydos,-0.028399999999999998,0.001,0.0294
+2022-08-21 11:03:03.040039,League Two - England - League Two 2022/23 - To Be Promoted,Grimsby Town,-0.028799999999999992,0.125,0.1538
 2022-08-21 05:03:01.946379,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Seattle Seahawks,Over 5.5,-0.028900000000000037,0.5455,0.5744
 2022-08-21 10:03:10.035822,League One - England - League One 2022/23 - Top 2 Finish,Barnsley,-0.029299999999999993,0.0476,0.0769
+2022-08-21 11:03:03.159343,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Chelsea,-0.030299999999999994,0.6364,0.6667
+2022-08-21 11:03:03.040039,League Two - England - League Two 2022/23 - To Be Promoted,Tranmere Rovers,-0.031799999999999995,0.1111,0.1429
 2022-08-21 10:03:10.035822,League One - England - League One 2022/23 - Top 2 Finish,Bolton Wanderers,-0.031799999999999995,0.1111,0.1429
 2022-08-21 10:03:10.020699,League One - England - League One 2022/23 - To Finish Bottom,Cambridge United,-0.0321,0.0588,0.0909
 2022-08-20 23:03:38.719034,Serie A - Italy Serie A 2022/23 - Winner,Juventus,-0.032299999999999995,0.3125,0.3448
+2022-08-21 11:03:03.071156,League Two - England - League Two 2022/23 - Top 7 Finish,Crewe Alexandra,-0.03259999999999999,0.2,0.2326
 2022-08-21 10:03:10.035822,League One - England - League One 2022/23 - Top 2 Finish,Derby County,-0.03259999999999999,0.2,0.2326
 2022-08-21 10:03:09.984512,League One - England - League One 2022/23 - To Be Promoted,Barnsley,-0.033299999999999996,0.1,0.1333
+2022-08-21 11:03:03.056354,League Two - England - League Two 2022/23 - To Be Relegated,Newport County,-0.03330000000000001,0.0667,0.1
 2022-08-21 10:03:09.863646,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Malmö FF,-0.033300000000000024,0.1667,0.2
 2022-08-21 10:03:10.006881,League One - England - League One 2022/23 - To Be Relegated,Wycombe,-0.03420000000000001,0.0769,0.1111
-2022-08-21 01:03:27.067803,MLB Futures - MLB 2022 National League Central - NLC Winner,Milwaukee Brewers,-0.03570000000000001,0.25,0.2857
 2022-08-21 09:03:54.289752,Superligaen - Denmark Superligaen 2022/23 - Outright,FC Midtjylland,-0.03570000000000001,0.25,0.2857
+2022-08-21 01:03:27.067803,MLB Futures - MLB 2022 National League Central - NLC Winner,Milwaukee Brewers,-0.03570000000000001,0.25,0.2857
+2022-08-21 11:03:03.071156,League Two - England - League Two 2022/23 - Top 7 Finish,Grimsby Town,-0.03570000000000001,0.25,0.2857
 2022-08-21 01:03:25.665701,74th Primetime Emmy Awards - Emmy Award - Outstanding Limited Series - Proposition,Dopesick,-0.03640000000000004,0.3636,0.4
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,David Toms,-0.0385,0.005,0.0435
 2022-08-21 09:03:54.071907,La Liga - Spain La Liga 2022/23 - Winner,Atlético Madrid,-0.03889999999999999,0.1429,0.1818
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Bernhard Langer,-0.039400000000000004,0.0132,0.0526
-2022-08-21 10:03:09.984512,League One - England - League One 2022/23 - To Be Promoted,Bolton Wanderers,-0.04040000000000002,0.1818,0.2222
 2022-08-21 10:03:10.047407,League One - England - League One 2022/23 - Top 6 Finish,Milton Keynes Dons,-0.04040000000000002,0.1818,0.2222
+2022-08-21 10:03:09.984512,League One - England - League One 2022/23 - To Be Promoted,Bolton Wanderers,-0.04040000000000002,0.1818,0.2222
+2022-08-21 11:03:03.071156,League Two - England - League Two 2022/23 - Top 7 Finish,Walsall,-0.04099999999999998,0.2667,0.3077
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Rod Pampling,-0.0431,0.0004,0.0435
+2022-08-21 11:03:03.071156,League Two - England - League Two 2022/23 - Top 7 Finish,Salford City,-0.04409999999999992,0.6226,0.6667
 2022-08-21 10:03:09.838519,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,Sporting CP,-0.044499999999999984,0.2222,0.2667
 2022-08-21 01:03:25.615911,74th Primetime Emmy Awards - Emmy Award - Outstanding Lead Actor in a Drama Series - Proposition,Brian Cox - Succession,-0.045499999999999985,0.4545,0.5
 2022-08-21 01:03:25.650057,74th Primetime Emmy Awards - Emmy Award - Outstanding Lead Actress in a Drama Series - Proposition,Zendaya - Euphoria,-0.04760000000000009,0.6667,0.7143
+2022-08-21 11:03:03.040039,League Two - England - League Two 2022/23 - To Be Promoted,Swindon Town,-0.04849999999999999,0.1333,0.1818
+2022-08-21 11:03:03.071156,League Two - England - League Two 2022/23 - Top 7 Finish,Tranmere Rovers,-0.04999999999999999,0.2,0.25
 2022-08-21 10:03:10.047407,League One - England - League One 2022/23 - Top 6 Finish,Oxford United,-0.04999999999999999,0.2,0.25
+2022-08-21 11:03:03.071156,League Two - England - League Two 2022/23 - Top 7 Finish,Colchester United,-0.052000000000000005,0.0909,0.1429
+2022-08-21 11:03:03.056354,League Two - England - League Two 2022/23 - To Be Relegated,Barrow FC,-0.0524,0.0476,0.1
 2022-08-21 10:03:10.047407,League One - England - League One 2022/23 - Top 6 Finish,Bolton Wanderers,-0.05449999999999999,0.4,0.4545
 2022-08-21 10:03:09.863646,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Djurgårdens,-0.05520000000000003,0.3448,0.4
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Alex Cejka,-0.056799999999999996,0.0099,0.0667
 2022-08-21 06:02:46.924981,MLB Futures - MLB 2022 American League Central - ALC Winner,Cleveland Guardians,-0.057699999999999974,0.4545,0.5122
 2022-08-21 06:02:46.924981,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,-0.05790000000000001,0.3125,0.3704
+2022-08-21 11:03:03.040039,League Two - England - League Two 2022/23 - To Be Promoted,Gillingham,-0.058300000000000005,0.0667,0.125
 2022-08-21 10:03:10.006881,League One - England - League One 2022/23 - To Be Relegated,Cambridge United,-0.059099999999999986,0.2857,0.3448
+2022-08-21 11:03:03.071156,League Two - England - League Two 2022/23 - Top 7 Finish,Swindon Town,-0.06659999999999999,0.2667,0.3333
 2022-08-21 10:03:10.047407,League One - England - League One 2022/23 - Top 6 Finish,Barnsley,-0.06669999999999998,0.2,0.2667
+2022-08-21 11:03:03.071156,League Two - England - League Two 2022/23 - Top 7 Finish,Gillingham,-0.07930000000000001,0.1429,0.2222
 2022-08-21 10:03:10.006881,League One - England - League One 2022/23 - To Be Relegated,Port Vale,-0.08549999999999996,0.2222,0.3077
 2022-08-21 10:03:09.825127,Eliteserien - Norway Eliteserien 2022 - Outright,Bodø/Glimt,-0.11900000000000002,0.1667,0.2857
 2022-08-21 04:04:42.712144,Dick's Sporting Goods Open - Dicks Sporting Goods Open - Outright,Miguel Angel Jimenez,-0.123,0.002,0.125
