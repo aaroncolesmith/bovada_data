@@ -1,21 +1,11 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2022-08-22 08:03:23.554840,Championship - England Championship 2022/23 - To Finish Bottom,Birmingham City,0.0849,0.2667,0.1818
 2022-08-22 09:02:53.536723,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Coritiba,0.08339999999999992,0.6667,0.5833
 2022-08-22 09:02:53.730963,Eliteserien - Norway Eliteserien 2022 - Outright,Viking FK,0.08099999999999999,0.0909,0.0099
 2022-08-22 09:02:53.324964,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Villarreal,0.08080000000000004,0.4444,0.3636
-2022-08-22 08:03:23.264762,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Villarreal,0.07930000000000001,0.2222,0.1429
 2022-08-22 09:02:53.545343,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Fluminense,0.07809999999999995,0.7333,0.6552
 2022-08-22 09:02:53.536723,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Atlético Goianiense,0.07619999999999993,0.6,0.5238
-2022-08-22 08:03:23.578109,Championship - England Championship 2022/23 - Top 6 Finish,West Bromwich Albion,0.06929999999999997,0.5455,0.4762
 2022-08-22 09:02:53.810831,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Kilmarnock,0.06820000000000004,0.8182,0.75
-2022-08-22 08:03:23.278856,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Robert Lewandowski (Barcelona),0.06670000000000004,0.4,0.3333
-2022-08-22 08:03:23.519250,Championship - England Championship 2022/23 - Top Goalscorer,Oscar Estupinan,0.0615,0.0909,0.0294
-2022-08-22 08:03:23.566073,Championship - England Championship 2022/23 - Top 2 Finish,Sheffield United,0.06149999999999997,0.2941,0.2326
-2022-08-22 08:03:23.530520,Championship - England Championship 2022/23 - To Be Promoted,Sheffield United,0.055900000000000005,0.3636,0.3077
-2022-08-22 08:03:23.540340,Championship - England Championship 2022/23 - To Be Relegated,Birmingham City,0.05559999999999998,0.5,0.4444
-2022-08-22 08:03:23.566073,Championship - England Championship 2022/23 - Top 2 Finish,West Bromwich Albion,0.05550000000000002,0.2222,0.1667
 2022-08-22 09:02:53.551985,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Internacional,0.053099999999999925,0.6364,0.5833
-2022-08-22 08:03:23.578109,Championship - England Championship 2022/23 - Top 6 Finish,Sheffield United,0.053099999999999925,0.6364,0.5833
 2022-08-22 09:02:53.810831,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Dundee United,0.050000000000000044,0.8,0.75
 2022-08-22 09:02:53.551985,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Fluminense,0.04810000000000003,0.9231,0.875
 2022-08-22 09:02:53.545343,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Internacional,0.047599999999999976,0.3333,0.2857
@@ -28,252 +18,182 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-22 19:02:03.248901,AFC South - 2022/202 AFC South - AFC South Top 2 Finishers,IND Colts / TEN Titans,0.03920000000000001,0.7059,0.6667
 2022-08-22 14:03:56.158123,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,New York Mets,0.03889999999999999,0.1818,0.1429
 2022-08-22 09:02:53.800996,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Aberdeen,0.035699999999999954,0.75,0.7143
-2022-08-22 08:03:23.530520,Championship - England Championship 2022/23 - To Be Promoted,West Bromwich Albion,0.03409999999999999,0.2667,0.2326
 2022-08-22 18:02:38.687000,AFC East - 2022/2023 AFC East - Patriots Division Finishing Position,1st,0.033399999999999985,0.1667,0.1333
-2022-08-22 09:02:53.800996,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Ross County,0.033300000000000024,0.2,0.1667
-2022-08-22 08:03:23.578109,Championship - England Championship 2022/23 - Top 6 Finish,Luton Town,0.033300000000000024,0.2,0.1667
-2022-08-22 09:02:53.775633,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Aberdeen,0.033300000000000024,0.2,0.1667
 2022-08-22 11:01:59.663576,WNBA - 2022 WNBA Championship Winner - 2022 Champion,Chicago Sky,0.033300000000000024,0.2,0.1667
-2022-08-22 09:02:53.832707,Superettan - Swedish Superettan 2022 - Outright,Brommapojkarna,0.03330000000000001,0.1,0.0667
+2022-08-22 09:02:53.800996,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Ross County,0.033300000000000024,0.2,0.1667
+2022-08-22 09:02:53.775633,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Aberdeen,0.033300000000000024,0.2,0.1667
 2022-08-22 09:02:53.721059,Superligaen - Denmark Superligaen 2022/23 - Outright,Silkeborg IF,0.03330000000000001,0.1,0.0667
-2022-08-22 09:02:53.536723,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Botafogo,0.03259999999999999,0.2326,0.2
+2022-08-22 09:02:53.832707,Superettan - Swedish Superettan 2022 - Outright,Brommapojkarna,0.03330000000000001,0.1,0.0667
 2022-08-22 09:02:53.775633,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Hibernian,0.03259999999999999,0.2326,0.2
+2022-08-22 09:02:53.536723,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Botafogo,0.03259999999999999,0.2326,0.2
 2022-08-22 09:02:53.711173,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Santos Laguna,0.0321,0.0909,0.0588
-2022-08-22 08:03:23.540340,Championship - England Championship 2022/23 - To Be Relegated,Swansea City,0.028799999999999992,0.1538,0.125
 2022-08-22 14:03:56.158123,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Tampa Bay Rays,0.028000000000000004,0.0476,0.0196
 2022-08-22 09:02:53.551985,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Santos,0.027999999999999997,0.1818,0.1538
 2022-08-22 09:02:53.730963,Eliteserien - Norway Eliteserien 2022 - Outright,Molde FK,0.025600000000000067,0.6923,0.6667
 2022-08-22 09:02:53.768143,Premiership - Scotland Premiership 2022/23 - Outright,Celtic,0.025600000000000067,0.6923,0.6667
-2022-08-22 08:03:23.540340,Championship - England Championship 2022/23 - To Be Relegated,Queens Park Rangers,0.024999999999999994,0.125,0.1
-2022-08-22 08:03:23.578109,Championship - England Championship 2022/23 - Top 6 Finish,Bristol City,0.024999999999999994,0.125,0.1
-2022-08-22 08:03:23.578109,Championship - England Championship 2022/23 - Top 6 Finish,Reading,0.0242,0.0909,0.0667
 2022-08-22 09:02:53.536723,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Cuiabá,0.023800000000000043,0.5238,0.5
-2022-08-22 08:03:23.540340,Championship - England Championship 2022/23 - To Be Relegated,Cardiff City,0.023799999999999988,0.1667,0.1429
 2022-08-22 09:02:53.790181,Premiership - Scotland Premiership 2022/23 - To Finish Bottom,Kilmarnock,0.023799999999999988,0.1667,0.1429
-2022-08-22 18:02:36.495901,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-22 19:02:01.506836,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-22 13:04:08.180587,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-22 14:04:04.553789,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-22 15:02:47.243047,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-22 08:03:20.299586,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-22 09:02:50.244399,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-22 17:04:17.249592,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-22 10:02:44.493631,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-22 20:01:58.923738,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
 2022-08-22 11:02:08.841350,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
 2022-08-22 12:03:05.393862,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-08-22 10:02:42.597510,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Minnesota Vikings,Under 9.5,0.022600000000000064,0.5348,0.5122
+2022-08-22 13:04:08.180587,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-22 14:04:04.553789,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-22 17:04:17.249592,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-22 15:02:47.243047,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-22 18:02:36.495901,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-22 19:02:01.506836,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-22 20:01:58.923738,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-22 21:02:46.229141,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-22 10:02:44.493631,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
 2022-08-22 16:02:44.846915,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,0.022600000000000064,0.5348,0.5122
+2022-08-22 10:02:42.597510,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Minnesota Vikings,Under 9.5,0.022600000000000064,0.5348,0.5122
 2022-08-22 14:03:56.158123,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,St. Louis Cardinals,0.0225,0.0625,0.04
-2022-08-22 08:03:23.540340,Championship - England Championship 2022/23 - To Be Relegated,Huddersfield Town,0.022199999999999998,0.2222,0.2
 2022-08-22 09:02:53.536723,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Avaí,0.02200000000000002,0.7143,0.6923
-2022-08-22 08:03:23.540340,Championship - England Championship 2022/23 - To Be Relegated,Rotherham Utd,0.02100000000000002,0.3846,0.3636
-2022-08-22 19:02:01.780297,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-22 16:02:45.079173,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-22 20:01:59.135233,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-22 08:03:20.545407,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-22 11:02:09.057552,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-22 15:02:47.496243,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-22 09:02:50.688019,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-22 20:01:54.048647,Defensive Players - Sacks - Cameron Jordan Sacks 2022 Reg. Season - Outright,Under 10.25,0.02079999999999993,0.5556,0.5348
 2022-08-22 10:02:44.736470,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-22 14:04:04.889479,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-22 20:01:54.111529,Defensive Players - Sacks - Matthew Judon Sacks 2022 Reg. Season - Outright,Under 10.25,0.02079999999999993,0.5556,0.5348
-2022-08-22 13:04:08.761917,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-22 12:03:05.878330,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
-2022-08-22 17:04:17.661299,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-22 11:02:04.502993,Quarterbacks - Tom Brady Passing TD's 2022 Reg. Season - Tom Brady Passing TD's 2022 Reg. Season,Over 35.5,0.02079999999999993,0.5556,0.5348
+2022-08-22 11:02:09.057552,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-22 14:04:04.889479,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-22 15:02:47.496243,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-22 13:04:08.761917,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-22 17:04:17.661299,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-22 16:02:45.079173,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-22 18:02:36.872026,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-22 20:01:59.135233,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-22 20:01:54.048647,Defensive Players - Sacks - Cameron Jordan Sacks 2022 Reg. Season - Outright,Under 10.25,0.02079999999999993,0.5556,0.5348
+2022-08-22 21:02:46.689387,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-22 18:02:29.826337,Running Backs - Najee Harris Receptions 2022 Reg. Season - Outright,Under 60.5,0.02079999999999993,0.5556,0.5348
-2022-08-22 08:03:23.264762,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Athletic Bilbao,0.0203,0.0588,0.0385
-2022-08-22 08:03:23.530520,Championship - England Championship 2022/23 - To Be Promoted,Wigan Athletic,0.0203,0.0588,0.0385
+2022-08-22 12:03:05.878330,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
+2022-08-22 19:02:01.780297,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,0.02079999999999993,0.5556,0.5348
 2022-08-22 09:02:53.324964,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Real Madrid,0.020299999999999985,0.9615,0.9412
-2022-08-22 08:03:23.540340,Championship - England Championship 2022/23 - To Be Relegated,Coventry City,0.02020000000000001,0.1111,0.0909
-2022-08-22 08:03:23.540340,Championship - England Championship 2022/23 - To Be Relegated,Preston North End,0.02020000000000001,0.1111,0.0909
-2022-08-22 08:03:23.578109,Championship - England Championship 2022/23 - Top 6 Finish,Wigan Athletic,0.02020000000000001,0.1111,0.0909
-2022-08-22 08:03:23.264762,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Real Betis,0.02020000000000001,0.1111,0.0909
 2022-08-22 09:02:53.324964,La Liga - Spain La Liga 2022/23 - Top 4 Finish,FC Barcelona,0.020199999999999996,0.9091,0.8889
 2022-08-22 11:01:59.663576,WNBA - 2022 WNBA Championship Winner - 2022 Champion,Dallas Wings,0.019899999999999998,0.0278,0.0079
 2022-08-22 20:01:53.927475,Running Backs - Najee Harris Rush Yards 2022 Reg. Season - Outright,Under 1150.5,0.01970000000000005,0.5652,0.5455
-2022-08-22 09:02:53.821525,Allsvenskan - Swedish Allsvenskan 2022 - Outright,AIK,0.019099999999999992,0.0667,0.0476
 2022-08-22 09:02:53.545343,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Santos,0.019099999999999992,0.0667,0.0476
+2022-08-22 09:02:53.821525,Allsvenskan - Swedish Allsvenskan 2022 - Outright,AIK,0.019099999999999992,0.0667,0.0476
 2022-08-22 09:02:53.821525,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Hammarby IF,0.019000000000000017,0.2857,0.2667
 2022-08-22 09:02:53.783090,Premiership - Scotland Premiership 2022/23 - Top Goalscorer,Kyogo Furuhashi,0.019000000000000017,0.2857,0.2667
 2022-08-22 09:02:53.810831,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Livingston,0.018999999999999906,0.7333,0.7143
 2022-08-22 20:01:54.167025,Defensive Players - Sacks - Robert Quinn Sacks 2022 Reg. Season - Outright,Under 10.25,0.01880000000000004,0.5744,0.5556
-2022-08-22 12:02:59.366903,CFL - 2020 CFL Season Odds - To play in the 109th (2022) Grey Cup,Toronto Argonauts,0.01820000000000002,0.2,0.1818
-2022-08-22 08:03:23.578109,Championship - England Championship 2022/23 - Top 6 Finish,Sunderland,0.01820000000000002,0.2,0.1818
 2022-08-22 09:02:53.810831,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Hearts,0.01820000000000002,0.2,0.1818
-2022-08-22 08:03:23.540340,Championship - England Championship 2022/23 - To Be Relegated,Blackpool,0.01820000000000002,0.2,0.1818
+2022-08-22 12:02:59.366903,CFL - 2020 CFL Season Odds - To play in the 109th (2022) Grey Cup,Toronto Argonauts,0.01820000000000002,0.2,0.1818
 2022-08-22 09:02:53.551985,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Fortaleza,0.018200000000000004,0.0476,0.0294
-2022-08-22 08:03:23.530520,Championship - England Championship 2022/23 - To Be Promoted,Reading,0.018200000000000004,0.0476,0.0294
 2022-08-22 09:02:53.810831,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,St. Johnstone,0.018199999999999994,0.8182,0.8
 2022-08-22 09:02:53.502291,MLS - MLS Cup 2022 - Winner,New York City FC,0.018099999999999998,0.0769,0.0588
-2022-08-22 08:03:23.519250,Championship - England Championship 2022/23 - Top Goalscorer,Karlan Ahearne-Grant,0.018099999999999998,0.0769,0.0588
-2022-08-22 09:02:53.790181,Premiership - Scotland Premiership 2022/23 - To Finish Bottom,Dundee United,0.0179,0.1429,0.125
 2022-08-22 09:02:53.845757,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,River Plate,0.0179,0.1429,0.125
-2022-08-22 08:03:23.540340,Championship - England Championship 2022/23 - To Be Relegated,Stoke City,0.01759999999999999,0.1176,0.1
-2022-08-22 08:03:23.578109,Championship - England Championship 2022/23 - Top 6 Finish,Millwall,0.0174,0.25,0.2326
-2022-08-22 08:03:23.519250,Championship - England Championship 2022/23 - Top Goalscorer,Iliman-Cheikh Ndiaye,0.017099999999999997,0.0294,0.0123
+2022-08-22 09:02:53.790181,Premiership - Scotland Premiership 2022/23 - To Finish Bottom,Dundee United,0.0179,0.1429,0.125
 2022-08-22 09:02:53.800996,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Hibernian,0.016700000000000048,0.75,0.7333
-2022-08-22 08:03:23.578109,Championship - England Championship 2022/23 - Top 6 Finish,Coventry City,0.016699999999999993,0.2667,0.25
 2022-08-22 09:02:53.316590,La Liga - Spain La Liga 2022/23 - To Be Relegated,Espanyol,0.015400000000000025,0.4,0.3846
 2022-08-22 09:02:53.783090,Premiership - Scotland Premiership 2022/23 - Top Goalscorer,Georgios Giakoumakis,0.015100000000000002,0.1818,0.1667
-2022-08-22 18:02:38.706282,AFC North - 2022/2023 AFC North - AFC North Winner,Baltimore Ravens,0.015100000000000002,0.4167,0.4016
 2022-08-22 09:02:53.316590,La Liga - Spain La Liga 2022/23 - To Be Relegated,Valencia,0.015100000000000002,0.1818,0.1667
+2022-08-22 18:02:38.706282,AFC North - 2022/2023 AFC North - AFC North Winner,Baltimore Ravens,0.015100000000000002,0.4167,0.4016
 2022-08-22 19:01:59.084105,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Isiah Pacheco,0.014400000000000003,0.0323,0.0179
 2022-08-22 09:02:53.721059,Superligaen - Denmark Superligaen 2022/23 - Outright,Randers,0.014100000000000001,0.0526,0.0385
-2022-08-22 14:03:56.158123,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Atlanta Braves,0.013999999999999999,0.0909,0.0769
-2022-08-22 08:03:23.530520,Championship - England Championship 2022/23 - To Be Promoted,Luton Town,0.013999999999999999,0.0909,0.0769
 2022-08-22 09:02:53.845757,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Boca Juniors,0.013999999999999999,0.0909,0.0769
-2022-08-22 08:03:23.530520,Championship - England Championship 2022/23 - To Be Promoted,Sunderland,0.013999999999999999,0.0909,0.0769
+2022-08-22 14:03:56.158123,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Atlanta Braves,0.013999999999999999,0.0909,0.0769
 2022-08-22 09:02:53.775633,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Motherwell,0.013999999999999999,0.0909,0.0769
 2022-08-22 09:02:53.711173,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,CF Pachuca,0.013899999999999996,0.125,0.1111
 2022-08-22 10:02:47.934398,Eredivisie - Dutch Eredivisie 2022/23 - Winner,Ajax,0.013799999999999923,0.6364,0.6226
-2022-08-22 12:02:59.366903,CFL - 2020 CFL Season Odds - To play in the 109th (2022) Grey Cup,Montreal Alouettes,0.012899999999999995,0.1667,0.1538
 2022-08-22 11:01:59.663576,WNBA - 2022 WNBA Championship Winner - 2022 Champion,Seattle Storm,0.012899999999999995,0.1667,0.1538
+2022-08-22 12:02:59.366903,CFL - 2020 CFL Season Odds - To play in the 109th (2022) Grey Cup,Montreal Alouettes,0.012899999999999995,0.1667,0.1538
 2022-08-22 13:03:48.385295,Brazilian Politics - 2022 Brazilian Presidential Election - Winner,Lula da Silva,0.0121,0.7222,0.7101
-2022-08-22 08:03:23.554840,Championship - England Championship 2022/23 - To Finish Bottom,Swansea City,0.011199999999999995,0.0588,0.0476
-2022-08-22 08:03:23.566073,Championship - England Championship 2022/23 - Top 2 Finish,Luton Town,0.011199999999999995,0.0588,0.0476
 2022-08-22 09:02:53.324964,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Osasuna,0.011199999999999995,0.0588,0.0476
-2022-08-22 08:03:23.519250,Championship - England Championship 2022/23 - Top Goalscorer,Ross Stewart,0.011199999999999995,0.0588,0.0476
-2022-08-22 10:02:47.934398,Eredivisie - Dutch Eredivisie 2022/23 - Winner,Feyenoord,0.011099999999999999,0.1111,0.1
 2022-08-22 09:02:53.790181,Premiership - Scotland Premiership 2022/23 - To Finish Bottom,Livingston,0.011099999999999999,0.1111,0.1
-2022-08-22 18:02:38.388381,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Buffalo Bills,0.010899999999999993,0.1538,0.1429
+2022-08-22 10:02:47.934398,Eredivisie - Dutch Eredivisie 2022/23 - Winner,Feyenoord,0.011099999999999999,0.1111,0.1
 2022-08-22 18:02:31.960429,Stage of Elimination - NFL 2022/23 Stage of Elimination - BUF Bills Stage of Elimination,To Win Super Bowl,0.010899999999999993,0.1538,0.1429
-2022-08-22 12:02:57.949191,Quarterbacks - Patrick Mahomes Passing Yards 2022 Reg. Season - Patrick Mahomes Passing Yards 2022 Reg. Season,Under 4650.5,0.010699999999999932,0.5455,0.5348
-2022-08-22 12:02:57.961449,Quarterbacks - Russell Wilson Passing Yards 2022 Reg. Season - Russell Wilson Passing Yards 2022 Reg. Season,Over 4050.5,0.010699999999999932,0.5455,0.5348
+2022-08-22 18:02:38.388381,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Buffalo Bills,0.010899999999999993,0.1538,0.1429
 2022-08-22 09:02:53.721059,Superligaen - Denmark Superligaen 2022/23 - Outright,FC Copenhagen,0.010699999999999932,0.5455,0.5348
+2022-08-22 12:02:57.961449,Quarterbacks - Russell Wilson Passing Yards 2022 Reg. Season - Russell Wilson Passing Yards 2022 Reg. Season,Over 4050.5,0.010699999999999932,0.5455,0.5348
+2022-08-22 12:02:57.949191,Quarterbacks - Patrick Mahomes Passing Yards 2022 Reg. Season - Patrick Mahomes Passing Yards 2022 Reg. Season,Under 4650.5,0.010699999999999932,0.5455,0.5348
 2022-08-22 09:02:53.730963,Eliteserien - Norway Eliteserien 2022 - Outright,Lillestrøm SK,0.010399999999999993,0.2326,0.2222
 2022-08-22 09:02:53.551985,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Ceará,0.0102,0.0769,0.0667
 2022-08-22 18:02:28.203894,Wide Receivers - Gabriel Davis Rec TD’s 2022 Reg. Season - Outright,Over 7.5,0.010099999999999998,0.5556,0.5455
 2022-08-22 09:02:53.316590,La Liga - Spain La Liga 2022/23 - To Be Relegated,Elche,-0.010099999999999998,0.4444,0.4545
 2022-08-22 09:02:53.775633,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Kilmarnock,-0.010100000000000001,0.0244,0.0345
 2022-08-22 09:02:53.790181,Premiership - Scotland Premiership 2022/23 - To Finish Bottom,Motherwell,-0.0102,0.0667,0.0769
-2022-08-22 09:02:53.783090,Premiership - Scotland Premiership 2022/23 - Top Goalscorer,Lawrence Shankland,-0.0102,0.0667,0.0769
 2022-08-22 09:02:53.775633,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Livingston,-0.0102,0.0667,0.0769
+2022-08-22 09:02:53.783090,Premiership - Scotland Premiership 2022/23 - Top Goalscorer,Lawrence Shankland,-0.0102,0.0667,0.0769
 2022-08-22 09:02:53.324964,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Sevilla,-0.010399999999999993,0.2222,0.2326
-2022-08-22 12:02:57.961449,Quarterbacks - Russell Wilson Passing Yards 2022 Reg. Season - Russell Wilson Passing Yards 2022 Reg. Season,Under 4050.5,-0.01100000000000001,0.5238,0.5348
 2022-08-22 12:02:57.949191,Quarterbacks - Patrick Mahomes Passing Yards 2022 Reg. Season - Patrick Mahomes Passing Yards 2022 Reg. Season,Over 4650.5,-0.01100000000000001,0.5238,0.5348
-2022-08-22 08:03:23.530520,Championship - England Championship 2022/23 - To Be Promoted,Preston North End,-0.011099999999999999,0.1,0.1111
+2022-08-22 12:02:57.961449,Quarterbacks - Russell Wilson Passing Yards 2022 Reg. Season - Russell Wilson Passing Yards 2022 Reg. Season,Under 4050.5,-0.01100000000000001,0.5238,0.5348
 2022-08-22 09:02:53.783090,Premiership - Scotland Premiership 2022/23 - Top Goalscorer,Antonio Colak,-0.011099999999999999,0.1,0.1111
-2022-08-22 10:02:47.934398,Eredivisie - Dutch Eredivisie 2022/23 - Winner,AZ Alkmaar,-0.011199999999999995,0.0476,0.0588
 2022-08-22 09:02:53.845757,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Unión de Santa Fe,-0.011199999999999995,0.0476,0.0588
-2022-08-22 08:03:23.566073,Championship - England Championship 2022/23 - Top 2 Finish,Swansea City,-0.011199999999999995,0.0476,0.0588
+2022-08-22 10:02:47.934398,Eredivisie - Dutch Eredivisie 2022/23 - Winner,AZ Alkmaar,-0.011199999999999995,0.0476,0.0588
 2022-08-22 09:02:53.316590,La Liga - Spain La Liga 2022/23 - To Be Relegated,Athletic Bilbao,-0.011199999999999995,0.0476,0.0588
 2022-08-22 18:02:28.203894,Wide Receivers - Gabriel Davis Rec TD’s 2022 Reg. Season - Outright,Under 7.5,-0.011600000000000055,0.5122,0.5238
 2022-08-22 09:02:53.721059,Superligaen - Denmark Superligaen 2022/23 - Outright,FC Midtjylland,-0.011899999999999994,0.2381,0.25
 2022-08-22 19:01:59.107216,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Deshaun Watson,-0.012100000000000001,0.0123,0.0244
 2022-08-22 18:02:31.384801,Tight Ends - Noah Fant Receptions 2022 Reg. Season - Outright,Over 59.5,-0.012199999999999989,0.5,0.5122
 2022-08-22 18:02:32.823471,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Breece Hall,-0.012299999999999991,0.1053,0.1176
-2022-08-22 08:03:23.578109,Championship - England Championship 2022/23 - Top 6 Finish,Blackburn Rovers,-0.012699999999999989,0.3509,0.3636
-2022-08-22 08:03:23.578109,Championship - England Championship 2022/23 - Top 6 Finish,Cardiff City,-0.012899999999999995,0.1538,0.1667
 2022-08-22 09:02:53.845757,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Atlético Tucumán,-0.012899999999999995,0.1538,0.1667
-2022-08-22 08:03:23.554840,Championship - England Championship 2022/23 - To Finish Bottom,Bristol City,-0.013999999999999999,0.0769,0.0909
 2022-08-22 19:01:59.084105,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Jalen Tolbert,-0.013999999999999999,0.0769,0.0909
-2022-08-22 08:03:23.554840,Championship - England Championship 2022/23 - To Finish Bottom,Wigan Athletic,-0.013999999999999999,0.0769,0.0909
-2022-08-22 08:03:23.530520,Championship - England Championship 2022/23 - To Be Promoted,Birmingham City,-0.014099999999999998,0.0244,0.0385
-2022-08-22 08:03:23.554840,Championship - England Championship 2022/23 - To Finish Bottom,Luton Town,-0.014100000000000001,0.0385,0.0526
-2022-08-22 08:03:23.554840,Championship - England Championship 2022/23 - To Finish Bottom,Sunderland,-0.014100000000000001,0.0385,0.0526
+2022-08-22 21:02:31.319707,Omega European Masters - Omega European Masters - Outright,Robert MacIntyre,-0.014100000000000001,0.0385,0.0526
 2022-08-22 18:02:38.706282,AFC North - 2022/2023 AFC North - AFC North Winner,Cincinnati Bengals,-0.01419999999999999,0.3704,0.3846
 2022-08-22 14:03:56.158123,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Toronto Blue Jays,-0.014399999999999996,0.0625,0.0769
 2022-08-22 09:02:53.790181,Premiership - Scotland Premiership 2022/23 - To Finish Bottom,Aberdeen,-0.014499999999999999,0.0149,0.0294
 2022-08-22 09:02:53.525493,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Palmeiras,-0.015100000000000002,0.8182,0.8333
 2022-08-22 09:02:53.316590,La Liga - Spain La Liga 2022/23 - To Be Relegated,Rayo Vallecano,-0.015100000000000002,0.1667,0.1818
 2022-08-22 09:02:53.768143,Premiership - Scotland Premiership 2022/23 - Outright,Rangers,-0.015400000000000025,0.3846,0.4
-2022-08-22 08:03:23.243472,La Liga - Spain La Liga 2022/23 - Winner,FC Barcelona,-0.015400000000000025,0.3846,0.4
-2022-08-22 08:03:23.530520,Championship - England Championship 2022/23 - To Be Promoted,Cardiff City,-0.016600000000000004,0.0667,0.0833
-2022-08-22 08:03:23.530520,Championship - England Championship 2022/23 - To Be Promoted,Swansea City,-0.016600000000000004,0.0667,0.0833
 2022-08-22 09:02:53.800996,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,St. Johnstone,-0.016699999999999993,0.25,0.2667
-2022-08-22 08:03:23.566073,Championship - England Championship 2022/23 - Top 2 Finish,Norwich City,-0.016699999999999993,0.25,0.2667
 2022-08-22 09:02:53.545343,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Athletico Paranaense,-0.0174,0.2326,0.25
-2022-08-22 08:03:23.243472,La Liga - Spain La Liga 2022/23 - Winner,Atlético Madrid,-0.01759999999999999,0.1,0.1176
 2022-08-22 09:02:53.316590,La Liga - Spain La Liga 2022/23 - To Be Relegated,Real Valladolid,-0.017600000000000005,0.3333,0.3509
 2022-08-22 19:02:03.248901,AFC South - 2022/202 AFC South - AFC South Top 2 Finishers,JAX Jaguars / TEN Titans,-0.0179,0.125,0.1429
 2022-08-22 09:02:53.800996,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Hearts,-0.017900000000000027,0.8571,0.875
-2022-08-22 08:03:23.566073,Championship - England Championship 2022/23 - Top 2 Finish,Preston North End,-0.018099999999999998,0.0588,0.0769
 2022-08-22 09:02:53.832707,Superettan - Swedish Superettan 2022 - Outright,IK Brage,-0.018200000000000004,0.0294,0.0476
-2022-08-22 08:03:23.578109,Championship - England Championship 2022/23 - Top 6 Finish,Queens Park Rangers,-0.01820000000000002,0.1818,0.2
-2022-08-22 08:03:23.530520,Championship - England Championship 2022/23 - To Be Promoted,Stoke City,-0.02020000000000001,0.0909,0.1111
-2022-08-22 08:03:23.278856,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Aubameyang (Barcelona),-0.0203,0.0385,0.0588
 2022-08-22 09:02:53.721059,Superligaen - Denmark Superligaen 2022/23 - Outright,Brøndby IF,-0.0203,0.0385,0.0588
-2022-08-22 19:02:01.506836,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-22 10:02:42.597510,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Minnesota Vikings,Over 9.5,-0.02079999999999993,0.5348,0.5556
-2022-08-22 18:02:36.495901,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-22 09:02:50.244399,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-22 12:03:05.393862,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-22 16:02:44.846915,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-22 13:04:08.180587,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-08-22 17:04:17.249592,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-22 21:02:46.229141,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-22 10:02:42.597510,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Minnesota Vikings,Over 9.5,-0.02079999999999993,0.5348,0.5556
+2022-08-22 16:02:44.846915,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-08-22 11:02:08.841350,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-08-22 10:02:44.493631,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-22 14:04:04.553789,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-22 20:01:58.923738,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-22 08:03:20.299586,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-22 12:03:05.393862,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-22 19:02:01.506836,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-08-22 15:02:47.243047,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
-2022-08-22 08:03:23.566073,Championship - England Championship 2022/23 - Top 2 Finish,Watford,-0.020799999999999985,0.3125,0.3333
-2022-08-22 12:02:59.343727,CFL - 2020 CFL Season Odds - Odds to win the 109th (2022) Grey Cup,British Columbia Lions,-0.021999999999999964,0.2857,0.3077
+2022-08-22 18:02:36.495901,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-22 14:04:04.553789,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-22 13:04:08.180587,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
+2022-08-22 20:01:58.923738,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-08-22 09:02:53.316590,La Liga - Spain La Liga 2022/23 - To Be Relegated,Almería,-0.021999999999999964,0.2857,0.3077
+2022-08-22 12:02:59.343727,CFL - 2020 CFL Season Odds - Odds to win the 109th (2022) Grey Cup,British Columbia Lions,-0.021999999999999964,0.2857,0.3077
 2022-08-22 09:02:53.783090,Premiership - Scotland Premiership 2022/23 - Top Goalscorer,Alfredo Morelos,-0.022199999999999998,0.1111,0.1333
+2022-08-22 18:02:29.826337,Running Backs - Najee Harris Receptions 2022 Reg. Season - Outright,Over 60.5,-0.022600000000000064,0.5122,0.5348
+2022-08-22 11:02:04.502993,Quarterbacks - Tom Brady Passing TD's 2022 Reg. Season - Tom Brady Passing TD's 2022 Reg. Season,Under 35.5,-0.022600000000000064,0.5122,0.5348
 2022-08-22 10:02:44.736470,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-22 11:02:09.057552,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-22 12:03:05.878330,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-22 13:04:08.761917,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-22 14:04:04.889479,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-22 15:02:47.496243,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-22 16:02:45.079173,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-22 19:02:01.780297,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-22 20:01:54.111529,Defensive Players - Sacks - Matthew Judon Sacks 2022 Reg. Season - Outright,Over 10.25,-0.022600000000000064,0.5122,0.5348
+2022-08-22 20:01:54.048647,Defensive Players - Sacks - Cameron Jordan Sacks 2022 Reg. Season - Outright,Over 10.25,-0.022600000000000064,0.5122,0.5348
+2022-08-22 21:02:46.689387,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
+2022-08-22 20:01:59.135233,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
 2022-08-22 17:04:17.661299,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
 2022-08-22 18:02:36.872026,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-22 19:02:01.780297,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-22 20:01:54.048647,Defensive Players - Sacks - Cameron Jordan Sacks 2022 Reg. Season - Outright,Over 10.25,-0.022600000000000064,0.5122,0.5348
-2022-08-22 20:01:59.135233,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-22 08:03:20.545407,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-22 16:02:45.079173,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-22 15:02:47.496243,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-22 14:04:04.889479,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-22 11:02:09.057552,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-22 09:02:50.688019,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-22 20:01:54.111529,Defensive Players - Sacks - Matthew Judon Sacks 2022 Reg. Season - Outright,Over 10.25,-0.022600000000000064,0.5122,0.5348
-2022-08-22 13:04:08.761917,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-22 12:03:05.878330,College Season Props - 2022 - Regular Season Wins - Troy - 2022 - Regular Season Wins - Troy,Over 6.5,-0.022600000000000064,0.5122,0.5348
-2022-08-22 11:02:04.502993,Quarterbacks - Tom Brady Passing TD's 2022 Reg. Season - Tom Brady Passing TD's 2022 Reg. Season,Under 35.5,-0.022600000000000064,0.5122,0.5348
-2022-08-22 18:02:29.826337,Running Backs - Najee Harris Receptions 2022 Reg. Season - Outright,Over 60.5,-0.022600000000000064,0.5122,0.5348
 2022-08-22 09:02:53.551985,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,São Paulo,-0.023799999999999988,0.1429,0.1667
 2022-08-22 09:02:53.316590,La Liga - Spain La Liga 2022/23 - To Be Relegated,Osasuna,-0.023799999999999988,0.1429,0.1667
-2022-08-22 08:03:23.566073,Championship - England Championship 2022/23 - Top 2 Finish,Middlesbrough,-0.023799999999999988,0.1429,0.1667
 2022-08-22 20:01:53.927475,Running Backs - Najee Harris Rush Yards 2022 Reg. Season - Outright,Over 1150.5,-0.023800000000000043,0.5,0.5238
-2022-08-22 19:01:59.084105,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Treylon Burks,-0.0242,0.0667,0.0909
 2022-08-22 19:01:59.084105,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Garrett Wilson,-0.0242,0.0667,0.0909
+2022-08-22 19:01:59.084105,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Treylon Burks,-0.0242,0.0667,0.0909
 2022-08-22 20:01:54.167025,Defensive Players - Sacks - Robert Quinn Sacks 2022 Reg. Season - Outright,Over 10.25,-0.024399999999999977,0.4878,0.5122
 2022-08-22 09:02:53.721059,Superligaen - Denmark Superligaen 2022/23 - Outright,FC Nordsjælland,-0.0245,0.0588,0.0833
-2022-08-22 08:03:23.566073,Championship - England Championship 2022/23 - Top 2 Finish,Blackburn Rovers,-0.024999999999999994,0.1,0.125
-2022-08-22 08:03:23.530520,Championship - England Championship 2022/23 - To Be Promoted,Watford,-0.025499999999999967,0.4,0.4255
-2022-08-22 08:03:23.530520,Championship - England Championship 2022/23 - To Be Promoted,Burnley,-0.02560000000000001,0.3077,0.3333
-2022-08-22 09:02:53.810831,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Hibernian,-0.02560000000000001,0.3077,0.3333
-2022-08-22 08:03:23.278856,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Karim Benzema (Real Madrid),-0.02560000000000001,0.3077,0.3333
 2022-08-22 12:02:59.366903,CFL - 2020 CFL Season Odds - To play in the 109th (2022) Grey Cup,Calgary Stampeders,-0.02560000000000001,0.3077,0.3333
-2022-08-22 08:03:23.578109,Championship - England Championship 2022/23 - Top 6 Finish,Watford,-0.025600000000000067,0.6667,0.6923
+2022-08-22 09:02:53.810831,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Hibernian,-0.02560000000000001,0.3077,0.3333
 2022-08-22 18:02:32.823471,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Chris Olave,-0.0267,0.0909,0.1176
 2022-08-22 12:02:59.366903,CFL - 2020 CFL Season Odds - To play in the 109th (2022) Grey Cup,Winnipeg Blue Bombers,-0.026800000000000046,0.6875,0.7143
-2022-08-22 08:03:23.530520,Championship - England Championship 2022/23 - To Be Promoted,Middlesbrough,-0.02779999999999999,0.2222,0.25
-2022-08-22 08:03:23.566073,Championship - England Championship 2022/23 - Top 2 Finish,Burnley,-0.02779999999999999,0.2222,0.25
-2022-08-22 08:03:23.540340,Championship - England Championship 2022/23 - To Be Relegated,Wigan Athletic,-0.02779999999999999,0.2222,0.25
-2022-08-22 08:03:23.540340,Championship - England Championship 2022/23 - To Be Relegated,Luton Town,-0.028799999999999992,0.125,0.1538
 2022-08-22 09:02:53.810831,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,St. Mirren,-0.028800000000000048,0.8462,0.875
-2022-08-22 08:03:23.578109,Championship - England Championship 2022/23 - Top 6 Finish,Middlesbrough,-0.029000000000000026,0.4255,0.4545
 2022-08-22 09:02:53.810831,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Motherwell,-0.030299999999999994,0.6364,0.6667
 2022-08-22 09:02:53.800996,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Livingston,-0.030299999999999994,0.3333,0.3636
-2022-08-22 08:03:23.540340,Championship - England Championship 2022/23 - To Be Relegated,Sunderland,-0.031799999999999995,0.1111,0.1429
 2022-08-22 09:02:53.810831,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Ross County,-0.03180000000000005,0.8571,0.8889
-2022-08-22 08:03:23.578109,Championship - England Championship 2022/23 - Top 6 Finish,Birmingham City,-0.0321,0.0588,0.0909
-2022-08-22 08:03:23.540340,Championship - England Championship 2022/23 - To Be Relegated,Bristol City,-0.03259999999999999,0.2,0.2326
-2022-08-22 08:03:23.578109,Championship - England Championship 2022/23 - Top 6 Finish,Stoke City,-0.03259999999999999,0.2,0.2326
 2022-08-22 18:02:32.823471,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Drake London,-0.03330000000000001,0.0667,0.1
-2022-08-22 08:03:23.578109,Championship - England Championship 2022/23 - Top 6 Finish,Swansea City,-0.033300000000000024,0.1667,0.2
-2022-08-22 09:02:53.821525,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Malmö FF,-0.033399999999999985,0.1333,0.1667
 2022-08-22 09:02:53.711173,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Deportivo Toluca,-0.033399999999999985,0.1333,0.1667
-2022-08-22 09:02:53.551985,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,RB Bragantino,-0.03409999999999999,0.2326,0.2667
+2022-08-22 09:02:53.821525,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Malmö FF,-0.033399999999999985,0.1333,0.1667
 2022-08-22 09:02:53.790181,Premiership - Scotland Premiership 2022/23 - To Finish Bottom,Ross County,-0.03409999999999999,0.2326,0.2667
-2022-08-22 08:03:23.554840,Championship - England Championship 2022/23 - To Finish Bottom,Reading,-0.034100000000000005,0.0909,0.125
-2022-08-22 08:03:23.578109,Championship - England Championship 2022/23 - Top 6 Finish,Burnley,-0.037800000000000056,0.5455,0.5833
+2022-08-22 09:02:53.551985,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,RB Bragantino,-0.03409999999999999,0.2326,0.2667
 2022-08-22 09:02:53.545343,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Corinthians,-0.04089999999999999,0.3846,0.4255
 2022-08-22 09:02:53.800996,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Dundee United,-0.04099999999999998,0.2667,0.3077
-2022-08-22 08:03:23.530520,Championship - England Championship 2022/23 - To Be Promoted,Blackburn Rovers,-0.04620000000000002,0.1538,0.2
-2022-08-22 08:03:23.578109,Championship - England Championship 2022/23 - Top 6 Finish,Preston North End,-0.04999999999999999,0.2,0.25
 2022-08-22 09:02:53.790181,Premiership - Scotland Premiership 2022/23 - To Finish Bottom,St. Mirren,-0.04999999999999999,0.2,0.25
 2022-08-22 09:02:53.775633,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Hearts,-0.05559999999999998,0.4444,0.5
 2022-08-22 09:02:53.810831,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Aberdeen,-0.055900000000000005,0.3077,0.3636
@@ -281,9 +201,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-22 09:02:53.551985,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Corinthians,-0.057699999999999974,0.6923,0.75
 2022-08-22 09:02:53.800996,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Kilmarnock,-0.057699999999999974,0.25,0.3077
 2022-08-22 11:01:59.663576,WNBA - 2022 WNBA Championship Winner - 2022 Champion,Connecticut Sun,-0.0595,0.1905,0.25
-2022-08-22 08:03:23.540340,Championship - England Championship 2022/23 - To Be Relegated,Reading,-0.06659999999999999,0.2667,0.3333
 2022-08-22 09:02:53.536723,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Fortaleza,-0.07500000000000001,0.125,0.2
-2022-08-22 08:03:23.264762,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Atlético Madrid,-0.09830000000000005,0.4255,0.5238
 2022-08-22 09:02:53.545343,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Atlético Mineiro,-0.13139999999999996,0.5238,0.6552
 2022-08-22 11:01:59.663576,WNBA - 2022 WNBA Championship Winner - 2022 Champion,Las Vegas Aces,-0.1318999999999999,0.5348,0.6667
 2022-08-22 09:02:53.324964,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Atlético Madrid,-0.14140000000000008,0.6364,0.7778
