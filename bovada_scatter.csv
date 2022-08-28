@@ -3,6 +3,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-28 06:04:06.599924,The Ally Challenge - The Ally Challenge - Outright,Steve Stricker,0.18,0.2326,0.0526
 2022-08-28 00:05:20.867721,CP Womens Open - CP Womens Open - Outright,Narin An,0.1556,0.2667,0.1111
 2022-08-28 09:05:26.540776,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,West Ham United,0.14549999999999996,0.6,0.4545
+2022-08-28 10:05:29.009809,Championship - England Championship 2022/23 - Top Goalscorer,Oscar Estupinan,0.13130000000000003,0.2222,0.0909
 2022-08-27 23:02:19.386429,BKFC 28: New Mexico - Brad Kelly vs Isaac Vallie-Flagg - To Win the Bout,Brad Kelly,0.12740000000000007,0.8333,0.7059
 2022-08-28 09:05:26.410757,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Bournemouth,0.12120000000000003,0.4545,0.3333
 2022-08-28 09:05:26.540776,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Leicester City,0.10340000000000005,0.7701,0.6667
@@ -10,6 +11,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-28 07:04:55.876858,MLB Futures - MLB 2022 National League East - NLE Winner,New York Mets,0.09619999999999995,0.8462,0.75
 2022-08-28 09:05:25.527669,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Atlético Goianiense,0.09230000000000005,0.6923,0.6
 2022-08-28 00:05:20.867721,CP Womens Open - CP Womens Open - Outright,Paula Reto,0.0905,0.125,0.0345
+2022-08-28 10:05:29.155353,Premiership - Scotland Premiership 2022/23 - Top Goalscorer,Antonio Colak,0.08179999999999998,0.1818,0.1
 2022-08-28 07:04:55.824616,MLB Futures - MLB 2022 American League Central - ALC Winner,Cleveland Guardians,0.07809999999999995,0.7333,0.6552
 2022-08-28 09:05:26.518397,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Brighton & Hove Albion,0.07779999999999998,0.7701,0.6923
 2022-08-28 09:05:26.518397,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Manchester United,0.07579999999999998,0.9091,0.8333
@@ -19,35 +21,55 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-28 01:04:48.564552,BKFC 28: New Mexico - Donald Sanchez vs Jeremy Smith - To Win the Bout,Jeremy Smith,0.06440000000000001,0.4348,0.3704
 2022-08-28 06:04:06.599924,The Ally Challenge - The Ally Challenge - Outright,Scott Dunlap,0.06269999999999999,0.0667,0.004
 2022-08-28 02:04:48.334993,Futures - Presidents Cup 2022 - Outright,USA,0.05709999999999993,0.8571,0.8
+2022-08-28 10:05:29.190516,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Hibernian,0.055900000000000005,0.3636,0.3077
+2022-08-28 10:05:28.182325,La Liga - Spain La Liga 2022/23 - To Be Relegated,Rayo Vallecano,0.05550000000000002,0.2222,0.1667
+2022-08-28 10:05:28.103031,Serie A - Italy Serie A 2022/23 - Top 4 Finish,Lazio,0.05550000000000002,0.2222,0.1667
 2022-08-28 06:05:07.360229,Requested Specials - Requested Specials:+500 and Lower - Season Specials,To Make the Playoffs: Baltimore Ravens & Philadelphia Eagles,0.05520000000000003,0.4,0.3448
+2022-08-28 10:05:29.244935,Superettan - Swedish Superettan 2022 - Outright,Brommapojkarna,0.05379999999999999,0.1538,0.1
 2022-08-28 06:05:07.360229,Requested Specials - Requested Specials:+500 and Lower - Season Specials,"Ravens, Colts & Bills all to make the playoffs",0.05070000000000002,0.3448,0.2941
 2022-08-28 06:04:06.599924,The Ally Challenge - The Ally Challenge - Outright,Padraig Harrington,0.04999999999999999,0.25,0.2
+2022-08-28 10:05:29.143413,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Aberdeen,0.04999999999999999,0.25,0.2
 2022-08-28 00:05:41.822126,Serie A - Italy Serie A 2022/23 - Winner,AC Milan,0.04999999999999999,0.25,0.2
+2022-08-28 10:05:29.208319,Allsvenskan - Swedish Allsvenskan 2022 - Outright,BK Hacken,0.04910000000000003,0.4,0.3509
 2022-08-27 23:02:19.477107,BKFC 28: New Mexico - John Dodson vs Ryan Benoit - To Win the Bout,John Dodson,0.04760000000000009,0.7143,0.6667
+2022-08-28 10:05:28.182325,La Liga - Spain La Liga 2022/23 - To Be Relegated,Elche,0.045499999999999985,0.5,0.4545
 2022-08-28 09:05:26.458799,Premier League Futures/Specials - English Premier League 2022/23 - Not To Finish in Top 4,Chelsea,0.045499999999999985,0.5455,0.5
 2022-08-28 09:05:26.433428,Premier League Futures/Specials - English Premier League 2022/23 - Top 2 Finish,Arsenal,0.044499999999999984,0.2667,0.2222
+2022-08-28 10:05:29.106017,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,Benfica,0.043200000000000016,0.3509,0.3077
 2022-08-28 09:05:26.518397,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Wolverhampton Wanderers,0.04040000000000002,0.2222,0.1818
 2022-08-28 09:05:25.420985,La Liga - Spain La Liga 2022/23 - Winner,Real Madrid,0.037800000000000056,0.5833,0.5455
 2022-08-28 09:05:26.458799,Premier League Futures/Specials - English Premier League 2022/23 - Not To Finish in Top 4,Tottenham Hotspur,0.03640000000000004,0.4,0.3636
 2022-08-28 06:05:07.477013,Requested Specials - Requested Specials: +501 to +1000 - Season Specials,"To Make the Playoffs: LA Chargers, Colts, Vikings & Eagles",0.036199999999999996,0.1538,0.1176
-2022-08-28 09:05:26.301337,Premier League Futures/Specials - English Premier League 2022/23 - Winner without 'The Big Six',Brighton & Hove Albion,0.03570000000000001,0.2857,0.25
+2022-08-28 10:05:29.180117,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Kilmarnock,0.03570000000000001,0.2857,0.25
 2022-08-28 00:05:41.822126,Serie A - Italy Serie A 2022/23 - Winner,Juventus,0.03570000000000001,0.2857,0.25
+2022-08-28 09:05:26.301337,Premier League Futures/Specials - English Premier League 2022/23 - Winner without 'The Big Six',Brighton & Hove Albion,0.03570000000000001,0.2857,0.25
+2022-08-28 10:05:28.364839,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Internacional,0.035699999999999954,0.75,0.7143
 2022-08-28 09:05:25.316645,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Christopher Nkunku,0.03420000000000001,0.1111,0.0769
 2022-08-28 06:04:06.599924,The Ally Challenge - The Ally Challenge - Outright,Brett Quigley,0.0334,0.0769,0.0435
 2022-08-28 09:05:26.518397,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Southampton,0.033300000000000024,0.2,0.1667
+2022-08-28 10:05:29.083427,Eliteserien - Norway Eliteserien 2022 - Outright,Bodø/Glimt,0.033300000000000024,0.2,0.1667
 2022-08-28 09:05:26.218169,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Godoy Cruz,0.03330000000000001,0.1,0.0667
 2022-08-28 09:05:25.366243,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Augsburg,0.03179999999999994,0.5556,0.5238
 2022-08-28 06:04:06.599924,The Ally Challenge - The Ally Challenge - Outright,Duffy Waldorf,0.0306,0.0385,0.0079
+2022-08-28 10:05:29.009809,Championship - England Championship 2022/23 - Top Goalscorer,Matt Godden,0.0294,0.0588,0.0294
+2022-08-28 10:05:28.994042,Championship - England Championship 2022/23 - Outright,Middlesbrough,0.029299999999999993,0.0769,0.0476
 2022-08-28 00:05:42.576957,Premier League Futures/Specials - English Premier League 2022/23 - Team To Go Unbeaten,Man City,0.029299999999999993,0.0769,0.0476
 2022-08-27 23:02:19.338425,BKFC 28: New Mexico - Jayme Hinshaw vs Cassie Robb - To Win the Bout,Cassie Robb,0.029000000000000026,0.4545,0.4255
 2022-08-28 09:05:26.218169,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Patronato,0.028000000000000004,0.0476,0.0196
 2022-08-28 06:05:07.477013,Requested Specials - Requested Specials: +501 to +1000 - Season Specials,"To Make the Playoffs: Chargers, Ravens, Vikings, Eagles",0.027999999999999997,0.1333,0.1053
+2022-08-28 10:05:29.180117,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Aberdeen,0.027800000000000047,0.7778,0.75
+2022-08-28 10:05:28.103031,Serie A - Italy Serie A 2022/23 - Top 4 Finish,AC Milan,0.027800000000000047,0.7778,0.75
 2022-08-28 06:04:06.599924,The Ally Challenge - The Ally Challenge - Outright,Ernie Els,0.027800000000000005,0.1111,0.0833
-2022-08-28 09:05:26.218169,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Atlético Tucumán,0.02779999999999999,0.25,0.2222
+2022-08-28 10:05:29.024195,Championship - England Championship 2022/23 - To Be Promoted,Queens Park Rangers,0.027800000000000005,0.1111,0.0833
 2022-08-28 09:05:25.527669,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Botafogo,0.02779999999999999,0.25,0.2222
+2022-08-28 10:05:29.180117,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,St. Mirren,0.02779999999999999,0.25,0.2222
+2022-08-28 09:05:26.218169,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Atlético Tucumán,0.02779999999999999,0.25,0.2222
 2022-08-28 09:05:26.495606,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Brighton & Hove Albion,0.02779999999999999,0.25,0.2222
+2022-08-28 10:05:28.195681,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Real Sociedad,0.02739999999999998,0.2941,0.2667
 2022-08-28 03:04:39.001908,BKFC 28: New Mexico - Christine Ferea vs Taylor Starling - To Win the Bout,Christine Ferea,0.0260999999999999,0.8039,0.7778
+2022-08-28 10:05:29.024195,Championship - England Championship 2022/23 - To Be Promoted,Burnley,0.02560000000000001,0.3333,0.3077
 2022-08-28 09:05:25.366243,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Schalke 04,0.02560000000000001,0.3333,0.3077
+2022-08-28 10:05:28.349454,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Flamengo,0.025000000000000022,0.9,0.875
 2022-08-28 07:04:55.824616,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,0.02460000000000001,0.2778,0.2532
 2022-08-28 09:05:25.527669,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Juventude,0.0242,0.9333,0.9091
 2022-08-28 02:05:10.629211,NFL Specials - Bills vs Patriots - Regular Season Series - Bills vs Patriots - Regular Season Series,Bills 2-0,0.023800000000000043,0.5238,0.5
@@ -56,90 +78,135 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-28 09:05:25.378398,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Bayer Leverkusen,0.023799999999999988,0.5,0.4762
 2022-08-28 09:05:25.353731,1. Bundesliga - Germany Bundesliga 2022/23 - Winner without Bayern Munich,Bayer Leverkusen,0.023799999999999988,0.1667,0.1429
 2022-08-28 09:05:25.378398,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Hoffenheim,0.022199999999999998,0.2222,0.2
-2022-08-28 06:05:07.853665,Requested Specials - Requested Specials: Playoff Parlays - Playoff Parlays,Colts and  Vikings both to make playoffs,0.022199999999999998,0.3448,0.3226
 2022-08-28 09:05:26.563997,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Wolverhampton Wanderers,0.022199999999999998,0.8,0.7778
+2022-08-28 06:05:07.853665,Requested Specials - Requested Specials: Playoff Parlays - Playoff Parlays,Colts and  Vikings both to make playoffs,0.022199999999999998,0.3448,0.3226
+2022-08-28 10:05:28.994042,Championship - England Championship 2022/23 - Outright,Burnley,0.022199999999999998,0.1333,0.1111
 2022-08-28 01:04:48.401384,BKFC 28: New Mexico - Jayme Hinshaw vs Cassie Robb - To Win the Bout,Jayme Hinshaw,0.02180000000000004,0.6296,0.6078
 2022-08-28 09:05:26.495606,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Manchester United,0.02169999999999994,0.5455,0.5238
+2022-08-28 10:05:28.349454,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Atlético Mineiro,0.02169999999999994,0.5455,0.5238
+2022-08-28 10:05:28.103031,Serie A - Italy Serie A 2022/23 - Top 4 Finish,Atalanta,0.02100000000000002,0.3846,0.3636
 2022-08-28 09:05:25.269836,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Reims,0.02100000000000002,0.3846,0.3636
 2022-08-28 02:05:10.973724,NFL Specials - Jaguars vs Texans - Regular Season Series - Jaguars vs Texans - Regular Season Series,Jaguars 2-0,0.02100000000000002,0.3846,0.3636
 2022-08-28 06:05:07.853665,Requested Specials - Requested Specials: Playoff Parlays - Playoff Parlays,Ravens and  Vikings both to make playoffs,0.020799999999999985,0.3333,0.3125
+2022-08-28 10:05:28.195681,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Athletic Bilbao,0.02049999999999999,0.1538,0.1333
+2022-08-28 10:05:28.087464,Serie A - Italy Serie A 2022/23 - Winner,Atalanta,0.0203,0.0588,0.0385
 2022-08-27 23:02:19.436254,BKFC 28: New Mexico - Donald Sanchez vs Jeremy Smith - To Win the Bout,Donald Sanchez,0.020199999999999996,0.6923,0.6721
 2022-08-28 07:04:55.795787,MLB Futures - MLB 2022 Amercian League - AL Winner,Toronto Blue Jays,0.019699999999999995,0.125,0.1053
 2022-08-28 09:05:26.563997,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Brighton & Hove Albion,0.019399999999999973,0.995,0.9756
 2022-08-28 09:05:26.540776,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Bournemouth,0.019199999999999995,0.9901,0.9709
+2022-08-28 10:05:28.234093,La Liga - Spain La Liga 2022/23 - Real Madrid - Trophy Special,La Liga and Champions League,0.019099999999999992,0.0667,0.0476
+2022-08-28 10:05:29.024195,Championship - England Championship 2022/23 - To Be Promoted,West Bromwich Albion,0.019000000000000017,0.2857,0.2667
+2022-08-28 10:05:28.195681,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Real Betis,0.019000000000000017,0.2857,0.2667
 2022-08-28 00:05:20.759693,BKFC 28: New Mexico - John Dodson vs Ryan Benoit - To Win the Bout,John Dodson,0.018999999999999906,0.7333,0.7143
+2022-08-28 10:05:29.190516,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Motherwell,0.01880000000000004,0.6552,0.6364
 2022-08-28 07:04:55.824616,MLB Futures - MLB 2022 American League Central - ALC Winner,Chicago White Sox,0.01820000000000002,0.2,0.1818
 2022-08-28 09:05:26.410757,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Leicester City,0.018200000000000004,0.0476,0.0294
+2022-08-28 10:05:29.155353,Premiership - Scotland Premiership 2022/23 - Top Goalscorer,Bojan Miovski,0.018099999999999998,0.0769,0.0588
+2022-08-28 10:05:29.024195,Championship - England Championship 2022/23 - To Be Promoted,Hull City,0.018099999999999998,0.0769,0.0588
 2022-08-28 06:04:06.599924,The Ally Challenge - The Ally Challenge - Outright,David Toms,0.018099999999999998,0.0526,0.0345
-2022-08-27 22:01:58.283456,1. Bundesliga - Germany Bundesliga 2022/23 - Winner,Borussia Dortmund,0.018099999999999998,0.0769,0.0588
 2022-08-28 09:05:26.540776,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Everton,0.017900000000000027,0.875,0.8571
+2022-08-28 10:05:29.180117,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Hearts,0.017900000000000027,0.875,0.8571
+2022-08-28 10:05:29.190516,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Ross County,0.017900000000000027,0.875,0.8571
 2022-08-28 09:05:25.284443,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Lens,0.0179,0.1429,0.125
-2022-08-28 09:05:26.563997,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Southampton,0.016700000000000048,0.75,0.7333
+2022-08-28 10:05:29.167200,Premiership - Scotland Premiership 2022/23 - To Finish Bottom,Ross County,0.0174,0.25,0.2326
 2022-08-28 09:05:26.563997,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Everton,0.016700000000000048,0.75,0.7333
+2022-08-28 10:05:29.190516,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Livingston,0.016700000000000048,0.75,0.7333
+2022-08-28 09:05:26.563997,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Southampton,0.016700000000000048,0.75,0.7333
 2022-08-27 23:02:19.463026,BKFC 28: New Mexico - Eric Dodson vs Nick Villar - To Win the Bout,Eric Dodson,0.016700000000000048,0.75,0.7333
 2022-08-28 02:04:48.024934,Omega European Masters - 2/3 Balls - Final Round 3 Balls - F. Zanotti / L. De Jager / L. Slattery - Final Round 3 Balls,Fabrizio Zanotti,0.016699999999999993,0.4167,0.4
+2022-08-28 10:05:28.087464,Serie A - Italy Serie A 2022/23 - Winner,AC Milan,0.016699999999999993,0.2667,0.25
+2022-08-28 10:05:28.349454,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Internacional,0.016699999999999993,0.4167,0.4
 2022-08-28 09:05:26.495606,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Aston Villa,0.016600000000000004,0.0833,0.0667
 2022-08-28 06:05:07.853665,Requested Specials - Requested Specials: Playoff Parlays - Playoff Parlays,Chargers and  Saints both to make playoffs,0.01629999999999998,0.2941,0.2778
+2022-08-28 10:05:29.132429,Premiership - Scotland Premiership 2022/23 - Outright,Rangers,0.015400000000000025,0.4,0.3846
+2022-08-28 00:05:41.822126,Serie A - Italy Serie A 2022/23 - Winner,AS Roma,0.015100000000000002,0.1818,0.1667
+2022-08-28 10:05:28.364839,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Atlético Mineiro,0.015100000000000002,0.8333,0.8182
 2022-08-28 09:05:25.516054,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Palmeiras,0.015100000000000002,0.8333,0.8182
 2022-08-28 09:05:26.518397,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Everton,0.015100000000000002,0.1818,0.1667
-2022-08-28 00:05:41.822126,Serie A - Italy Serie A 2022/23 - Winner,AS Roma,0.015100000000000002,0.1818,0.1667
 2022-08-28 06:04:06.599924,The Ally Challenge - The Ally Challenge - Outright,Joe Durant,0.014900000000000004,0.0345,0.0196
 2022-08-28 07:04:55.795787,MLB Futures - MLB 2022 Amercian League - AL Winner,Cleveland Guardians,0.014399999999999996,0.0769,0.0625
-2022-08-28 09:05:26.433428,Premier League Futures/Specials - English Premier League 2022/23 - Top 2 Finish,Manchester United,0.014099999999999998,0.0385,0.0244
+2022-08-28 10:05:28.994042,Championship - England Championship 2022/23 - Outright,Queens Park Rangers,0.014099999999999998,0.0385,0.0244
 2022-08-28 00:05:20.867721,CP Womens Open - CP Womens Open - Outright,Sarah Schmelzel,0.014099999999999998,0.0385,0.0244
-2022-08-28 07:04:55.810382,MLB Futures - MLB 2022 National League - NL Winner,San Diego Padres,0.013999999999999999,0.0909,0.0769
+2022-08-28 09:05:26.433428,Premier League Futures/Specials - English Premier League 2022/23 - Top 2 Finish,Manchester United,0.014099999999999998,0.0385,0.0244
 2022-08-28 09:05:26.410757,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Wolverhampton Wanderers,0.013999999999999999,0.0909,0.0769
 2022-08-28 09:05:25.420985,La Liga - Spain La Liga 2022/23 - Winner,Atlético Madrid,0.013999999999999999,0.0909,0.0769
-2022-08-28 09:05:26.218169,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Gimnasia La Plata,0.013899999999999996,0.125,0.1111
+2022-08-28 07:04:55.810382,MLB Futures - MLB 2022 National League - NL Winner,San Diego Padres,0.013999999999999999,0.0909,0.0769
+2022-08-28 10:05:28.299209,MLS - MLS Cup 2022 - Top Goalscorer,Romell Quito,0.013999999999999999,0.0909,0.0769
+2022-08-28 10:05:29.167200,Premiership - Scotland Premiership 2022/23 - To Finish Bottom,Livingston,0.013899999999999996,0.125,0.1111
 2022-08-28 09:05:25.366243,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Mainz,0.013899999999999996,0.125,0.1111
+2022-08-28 10:05:28.288545,MLS - MLS Cup 2022 - Winner,Philadelphia Union,0.013899999999999996,0.125,0.1111
+2022-08-28 09:05:26.218169,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Gimnasia La Plata,0.013899999999999996,0.125,0.1111
 2022-08-28 09:05:25.269836,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,AC Ajaccio,0.013799999999999923,0.6364,0.6226
 2022-08-27 23:02:19.406623,BKFC 28: New Mexico - Christine Ferea vs Taylor Starling - To Win the Bout,Christine Ferea,0.0131,0.7778,0.7647
 2022-08-28 09:05:25.353731,1. Bundesliga - Germany Bundesliga 2022/23 - Winner without Bayern Munich,Union Berlin,0.0131,0.0476,0.0345
 2022-08-28 09:05:25.366243,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Wolfsburg,0.012899999999999995,0.1667,0.1538
+2022-08-28 10:05:29.024195,Championship - England Championship 2022/23 - To Be Promoted,Sheffield United,0.012699999999999989,0.3636,0.3509
 2022-08-28 09:05:25.366243,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Hertha BSC,0.012699999999999989,0.3636,0.3509
 2022-08-28 09:05:26.410757,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,West Ham United,0.012100000000000001,0.0244,0.0123
-2022-08-27 22:01:44.400105,BKFC 28: New Mexico - Joshua Moreno vs Zion Tomlinson Sr. - To Win the Bout,Zion Tomlinson Sr.,0.01150000000000001,0.3448,0.3333
+2022-08-28 10:05:28.103031,Serie A - Italy Serie A 2022/23 - Top 4 Finish,AS Roma,0.011499999999999955,0.6667,0.6552
+2022-08-28 10:05:28.288545,MLS - MLS Cup 2022 - Winner,New York Red Bulls,0.011199999999999995,0.0588,0.0476
+2022-08-28 10:05:29.024195,Championship - England Championship 2022/23 - To Be Promoted,Reading,0.011199999999999995,0.0588,0.0476
+2022-08-28 10:05:29.009809,Championship - England Championship 2022/23 - Top Goalscorer,Josh Sargent,0.011199999999999995,0.0588,0.0476
 2022-08-28 00:05:20.684956,BKFC 28: New Mexico - Joshua Moreno vs Zion Tomlinson Sr. - To Win the Bout,Joshua Moreno,0.011099999999999999,0.7333,0.7222
-2022-08-28 06:04:06.599924,The Ally Challenge - The Ally Challenge - Outright,Stephen Ames,0.011099999999999999,0.1111,0.1
 2022-08-28 00:05:41.822126,Serie A - Italy Serie A 2022/23 - Winner,Napoli,0.011099999999999999,0.1111,0.1
+2022-08-28 06:04:06.599924,The Ally Challenge - The Ally Challenge - Outright,Stephen Ames,0.011099999999999999,0.1111,0.1
 2022-08-28 09:05:26.410757,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Everton,0.011099999999999999,0.1111,0.1
+2022-08-28 10:05:28.299209,MLS - MLS Cup 2022 - Top Goalscorer,Brandon Vazquez,0.011099999999999999,0.1111,0.1
+2022-08-28 10:05:28.234093,La Liga - Spain La Liga 2022/23 - Real Madrid - Trophy Special,La Liga and Copa del Rey,0.010899999999999993,0.1538,0.1429
+2022-08-28 10:05:29.167200,Premiership - Scotland Premiership 2022/23 - To Finish Bottom,Dundee United,0.010899999999999993,0.1538,0.1429
 2022-08-28 07:04:55.770820,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,New York Mets,0.010899999999999993,0.1538,0.1429
+2022-08-28 10:05:29.024195,Championship - England Championship 2022/23 - To Be Promoted,Middlesbrough,0.010399999999999993,0.2326,0.2222
+2022-08-28 10:05:29.167200,Premiership - Scotland Premiership 2022/23 - To Finish Bottom,Motherwell,0.0102,0.0769,0.0667
 2022-08-28 01:04:45.483698,WNBA - 2022 WNBA Championship Winner - Series Exact Order,G1 Chicago Sky / G2 Chicago Sky / G3 Connecticut Sun / G4 Connecticut Sun / G5 Chicago Sky,0.0102,0.0769,0.0667
 2022-08-28 09:05:26.563997,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Aston Villa,0.010199999999999987,0.9333,0.9231
+2022-08-28 10:05:29.143413,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Hearts,0.010099999999999998,0.4545,0.4444
 2022-08-28 02:05:10.629211,NFL Specials - Bills vs Patriots - Regular Season Series - Bills vs Patriots - Regular Season Series,Series tied at 1-1,-0.010099999999999998,0.4444,0.4545
-2022-08-28 09:05:26.458799,Premier League Futures/Specials - English Premier League 2022/23 - Not To Finish in Top 4,Newcastle United,-0.010199999999999987,0.9231,0.9333
+2022-08-28 10:05:28.103031,Serie A - Italy Serie A 2022/23 - Top 4 Finish,Napoli,-0.010099999999999998,0.4444,0.4545
 2022-08-28 09:05:26.563997,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Crystal Palace,-0.010199999999999987,0.9231,0.9333
+2022-08-28 09:05:26.458799,Premier League Futures/Specials - English Premier League 2022/23 - Not To Finish in Top 4,Newcastle United,-0.010199999999999987,0.9231,0.9333
+2022-08-28 10:05:29.009809,Championship - England Championship 2022/23 - Top Goalscorer,Karlan Ahearne-Grant,-0.0102,0.0667,0.0769
+2022-08-28 10:05:28.299209,MLS - MLS Cup 2022 - Top Goalscorer,Jeremy Ebobisse,-0.0102,0.0667,0.0769
+2022-08-28 10:05:29.009809,Championship - England Championship 2022/23 - Top Goalscorer,Teemu Pukki,-0.0102,0.0667,0.0769
 2022-08-28 09:05:26.410757,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Leeds United,-0.0102,0.0667,0.0769
 2022-08-28 09:05:26.518397,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Brentford,-0.010399999999999993,0.2222,0.2326
 2022-08-27 23:02:19.338425,BKFC 28: New Mexico - Jayme Hinshaw vs Cassie Robb - To Win the Bout,Jayme Hinshaw,-0.010499999999999954,0.6078,0.6183
+2022-08-28 02:05:10.629211,NFL Specials - Bills vs Patriots - Regular Season Series - Bills vs Patriots - Regular Season Series,Patriots 2-0,-0.011099999999999999,0.1,0.1111
+2022-08-28 07:04:55.810382,MLB Futures - MLB 2022 National League - NL Winner,St. Louis Cardinals,-0.011099999999999999,0.1,0.1111
 2022-08-28 09:05:25.527669,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,América Mineiro,-0.011099999999999999,0.1,0.1111
 2022-08-28 09:05:26.218169,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Racing Club,-0.011099999999999999,0.1,0.1111
-2022-08-28 02:05:10.629211,NFL Specials - Bills vs Patriots - Regular Season Series - Bills vs Patriots - Regular Season Series,Patriots 2-0,-0.011099999999999999,0.1,0.1111
-2022-08-27 22:01:44.400105,BKFC 28: New Mexico - Joshua Moreno vs Zion Tomlinson Sr. - To Win the Bout,Joshua Moreno,-0.011099999999999999,0.7222,0.7333
-2022-08-28 07:04:55.810382,MLB Futures - MLB 2022 National League - NL Winner,St. Louis Cardinals,-0.011099999999999999,0.1,0.1111
-2022-08-27 22:01:58.283456,1. Bundesliga - Germany Bundesliga 2022/23 - Winner,Bayern Munich,-0.011199999999999988,0.9412,0.9524
+2022-08-28 10:05:29.024195,Championship - England Championship 2022/23 - To Be Promoted,Blackpool,-0.011199999999999995,0.0476,0.0588
 2022-08-28 09:05:26.495606,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Leicester City,-0.011199999999999995,0.0476,0.0588
+2022-08-28 10:05:29.024195,Championship - England Championship 2022/23 - To Be Promoted,Wigan Athletic,-0.011199999999999995,0.0476,0.0588
+2022-08-28 10:05:28.364839,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,América Mineiro,-0.011199999999999995,0.0476,0.0588
+2022-08-28 10:05:29.009809,Championship - England Championship 2022/23 - Top Goalscorer,Ross Stewart,-0.011199999999999995,0.0476,0.0588
+2022-08-28 10:05:28.299209,MLS - MLS Cup 2022 - Top Goalscorer,Cristian Arango,-0.011199999999999995,0.0476,0.0588
 2022-08-28 00:05:20.867721,CP Womens Open - CP Womens Open - Outright,Amy Yang,-0.011300000000000001,0.001,0.0123
 2022-08-28 00:05:20.684956,BKFC 28: New Mexico - Joshua Moreno vs Zion Tomlinson Sr. - To Win the Bout,Zion Tomlinson Sr.,-0.01150000000000001,0.3333,0.3448
 2022-08-28 00:05:20.867721,CP Womens Open - CP Womens Open - Outright,Xiyu Lin,-0.0119,0.0004,0.0123
 2022-08-28 02:05:10.973724,NFL Specials - Jaguars vs Texans - Regular Season Series - Jaguars vs Texans - Regular Season Series,Series tied at 1-1,-0.012199999999999989,0.4878,0.5
-2022-08-28 09:05:26.301337,Premier League Futures/Specials - English Premier League 2022/23 - Winner without 'The Big Six',Newcastle United,-0.012699999999999989,0.3509,0.3636
-2022-08-28 00:05:41.822126,Serie A - Italy Serie A 2022/23 - Winner,Inter Milan,-0.012699999999999989,0.3509,0.3636
 2022-08-28 02:04:48.024934,Omega European Masters - 2/3 Balls - Final Round 3 Balls - F. Zanotti / L. De Jager / L. Slattery - Final Round 3 Balls,Louis De Jager,-0.012699999999999989,0.3509,0.3636
+2022-08-28 00:05:41.822126,Serie A - Italy Serie A 2022/23 - Winner,Inter Milan,-0.012699999999999989,0.3509,0.3636
+2022-08-28 09:05:26.301337,Premier League Futures/Specials - English Premier League 2022/23 - Winner without 'The Big Six',Newcastle United,-0.012699999999999989,0.3509,0.3636
 2022-08-27 23:02:19.406623,BKFC 28: New Mexico - Christine Ferea vs Taylor Starling - To Win the Bout,Taylor Starling,-0.012799999999999978,0.2857,0.2985
 2022-08-28 09:05:25.378398,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Eintracht Frankfurt,-0.012899999999999995,0.1538,0.1667
 2022-08-28 00:05:20.867721,CP Womens Open - CP Womens Open - Outright,Ashleigh Buhai,-0.0129,0.002,0.0149
 2022-08-28 00:05:20.867721,CP Womens Open - CP Womens Open - Outright,Megan Khang,-0.0129,0.002,0.0149
 2022-08-28 09:05:26.301337,Premier League Futures/Specials - English Premier League 2022/23 - Winner without 'The Big Six',Brentford,-0.0131,0.0345,0.0476
+2022-08-28 10:05:28.195681,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Rayo Vallecano,-0.0131,0.0345,0.0476
 2022-08-28 09:05:26.218169,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Huracán,-0.013899999999999996,0.1111,0.125
+2022-08-28 10:05:29.024195,Championship - England Championship 2022/23 - To Be Promoted,Coventry City,-0.013899999999999996,0.1111,0.125
 2022-08-28 09:05:25.378398,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,FC Köln,-0.013899999999999996,0.1111,0.125
 2022-08-28 00:05:20.867721,CP Womens Open - CP Womens Open - Outright,Carlota Ciganda,-0.0139,0.001,0.0149
+2022-08-28 10:05:29.024195,Championship - England Championship 2022/23 - To Be Promoted,Sunderland,-0.013999999999999999,0.0769,0.0909
+2022-08-28 10:05:29.143413,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Motherwell,-0.013999999999999999,0.0769,0.0909
 2022-08-28 09:05:25.316645,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Patrik Schick,-0.013999999999999999,0.0769,0.0909
+2022-08-28 10:05:28.364839,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Fluminense,-0.014000000000000012,0.9091,0.9231
 2022-08-28 09:05:25.378398,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Mainz,-0.014099999999999994,0.0526,0.0667
 2022-08-28 07:04:55.770820,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Tampa Bay Rays,-0.014099999999999998,0.0244,0.0385
 2022-08-28 06:04:06.599924,The Ally Challenge - The Ally Challenge - Outright,David Branshaw,-0.0142,0.0007,0.0149
-2022-08-28 06:04:06.599924,The Ally Challenge - The Ally Challenge - Outright,Marco Dawson,-0.0144,0.0005,0.0149
 2022-08-28 06:04:06.599924,The Ally Challenge - The Ally Challenge - Outright,Mike Weir,-0.0144,0.0005,0.0149
+2022-08-28 06:04:06.599924,The Ally Challenge - The Ally Challenge - Outright,Marco Dawson,-0.0144,0.0005,0.0149
+2022-08-28 10:05:28.087464,Serie A - Italy Serie A 2022/23 - Winner,AS Roma,-0.015100000000000002,0.1667,0.1818
 2022-08-28 00:05:20.867721,CP Womens Open - CP Womens Open - Outright,Stephanie Kyriacou,-0.0163,0.0033,0.0196
 2022-08-28 07:04:55.810382,MLB Futures - MLB 2022 National League - NL Winner,Los Angeles Dodgers,-0.016699999999999993,0.4,0.4167
 2022-08-28 09:05:25.378398,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Freiburg,-0.016699999999999993,0.25,0.2667
@@ -151,33 +218,51 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-28 09:05:26.563997,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Brentford,-0.017900000000000027,0.8571,0.875
 2022-08-28 09:05:26.518397,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Newcastle United,-0.018199999999999994,0.8,0.8182
 2022-08-28 00:05:20.867721,CP Womens Open - CP Womens Open - Outright,Danielle Kang,-0.018200000000000004,0.0294,0.0476
+2022-08-28 10:05:28.994042,Championship - England Championship 2022/23 - Outright,Sunderland,-0.018200000000000004,0.0294,0.0476
+2022-08-28 10:05:29.180117,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Ross County,-0.01820000000000002,0.1818,0.2
+2022-08-28 10:05:29.190516,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Hearts,-0.01820000000000002,0.1818,0.2
 2022-08-28 09:05:25.366243,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Werder Bremen,-0.01820000000000002,0.1818,0.2
+2022-08-28 10:05:29.046270,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Tigres UANL,-0.01820000000000002,0.1818,0.2
 2022-08-28 00:05:20.867721,CP Womens Open - CP Womens Open - Outright,Ariya Jutanugarn,-0.0183,0.0013,0.0196
-2022-08-28 06:04:06.599924,The Ally Challenge - The Ally Challenge - Outright,Lee Janzen,-0.0189,0.0007,0.0196
 2022-08-28 09:05:26.218169,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Newell's Old Boys,-0.0189,0.0196,0.0385
+2022-08-28 06:04:06.599924,The Ally Challenge - The Ally Challenge - Outright,Lee Janzen,-0.0189,0.0007,0.0196
+2022-08-28 10:05:29.180117,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Motherwell,-0.018900000000000028,0.4255,0.4444
+2022-08-28 10:05:29.155353,Premiership - Scotland Premiership 2022/23 - Top Goalscorer,Kyogo Furuhashi,-0.019000000000000017,0.2667,0.2857
 2022-08-28 09:05:26.495606,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Leeds United,-0.019099999999999992,0.0476,0.0667
+2022-08-28 10:05:28.364839,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Ceará,-0.019099999999999992,0.0476,0.0667
 2022-08-28 00:05:20.867721,CP Womens Open - CP Womens Open - Outright,Brooke Henderson,-0.0192,0.0004,0.0196
 2022-08-28 01:04:48.401384,BKFC 28: New Mexico - Jayme Hinshaw vs Cassie Robb - To Win the Bout,Cassie Robb,-0.019699999999999995,0.4348,0.4545
 2022-08-28 09:05:26.540776,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Fulham,-0.020199999999999996,0.8889,0.9091
+2022-08-28 10:05:29.024195,Championship - England Championship 2022/23 - To Be Promoted,Millwall,-0.02020000000000001,0.0909,0.1111
 2022-08-28 09:05:25.366243,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Union Berlin,-0.0203,0.0385,0.0588
 2022-08-28 09:05:26.518397,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Bournemouth,-0.0203,0.0385,0.0588
 2022-08-27 23:02:19.463026,BKFC 28: New Mexico - Eric Dodson vs Nick Villar - To Win the Bout,Nick Villar,-0.020799999999999985,0.3125,0.3333
 2022-08-28 06:04:06.599924,The Ally Challenge - The Ally Challenge - Outright,Bernhard Langer,-0.0215,0.0079,0.0294
+2022-08-28 10:05:29.190516,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Aberdeen,-0.021999999999999964,0.2857,0.3077
 2022-08-28 09:05:25.284443,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Rennes,-0.021999999999999964,0.2857,0.3077
+2022-08-28 10:05:29.208319,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Djurgårdens,-0.021999999999999964,0.2857,0.3077
 2022-08-28 09:05:26.540776,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Leeds United,-0.022199999999999998,0.7778,0.8
 2022-08-28 03:04:39.001908,BKFC 28: New Mexico - Christine Ferea vs Taylor Starling - To Win the Bout,Taylor Starling,-0.02250000000000002,0.2632,0.2857
 2022-08-28 09:05:25.366243,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Bochum,-0.022600000000000064,0.6,0.6226
+2022-08-28 10:05:29.024195,Championship - England Championship 2022/23 - To Be Promoted,Preston North End,-0.02310000000000001,0.0769,0.1
 2022-08-28 09:05:26.540776,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Arsenal,-0.023200000000000002,0.0294,0.0526
 2022-08-28 00:05:20.867721,CP Womens Open - CP Womens Open - Outright,Ally Ewing,-0.0234,0.001,0.0244
 2022-08-28 06:04:06.599924,The Ally Challenge - The Ally Challenge - Outright,Ken Duke,-0.0236,0.0149,0.0385
-2022-08-28 09:05:26.218169,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,River Plate,-0.023799999999999988,0.1429,0.1667
+2022-08-28 10:05:29.167200,Premiership - Scotland Premiership 2022/23 - To Finish Bottom,Kilmarnock,-0.023799999999999988,0.1429,0.1667
 2022-08-28 09:05:26.518397,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,West Ham United,-0.023799999999999988,0.4762,0.5
+2022-08-28 09:05:26.218169,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,River Plate,-0.023799999999999988,0.1429,0.1667
+2022-08-28 10:05:28.152753,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Sevilla,-0.0242,0.0667,0.0909
 2022-08-28 06:04:06.599924,The Ally Challenge - The Ally Challenge - Outright,K.J. Choi,-0.024399999999999998,0.005,0.0294
 2022-08-28 06:04:06.599924,The Ally Challenge - The Ally Challenge - Outright,Paul Broadhurst,-0.024399999999999998,0.005,0.0294
-2022-08-28 09:05:25.527669,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Fortaleza,-0.024999999999999994,0.1,0.125
 2022-08-28 09:05:26.410757,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Fulham,-0.024999999999999994,0.1,0.125
+2022-08-28 09:05:25.527669,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Fortaleza,-0.024999999999999994,0.1,0.125
+2022-08-28 10:05:28.152753,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Atlético Madrid,-0.025499999999999967,0.4,0.4255
+2022-08-28 10:05:29.180117,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Livingston,-0.02560000000000001,0.3077,0.3333
 2022-08-28 09:05:26.540776,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Crystal Palace,-0.025600000000000067,0.6667,0.6923
+2022-08-28 10:05:29.132429,Premiership - Scotland Premiership 2022/23 - Outright,Celtic,-0.025600000000000067,0.6667,0.6923
 2022-08-28 06:04:06.599924,The Ally Challenge - The Ally Challenge - Outright,Robert Karlsson,-0.0269,0.0025,0.0294
+2022-08-28 10:05:29.190516,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,St. Mirren,-0.027999999999999914,0.8182,0.8462
+2022-08-28 10:05:28.994042,Championship - England Championship 2022/23 - Outright,Watford,-0.027999999999999997,0.1538,0.1818
 2022-08-28 07:04:55.838343,MLB Futures - MLB 2022 American League East - ALE Winner,Tampa Bay Rays,-0.028000000000000004,0.0196,0.0476
 2022-08-28 00:05:20.867721,CP Womens Open - CP Womens Open - Outright,Lilia Vu,-0.028399999999999998,0.001,0.0294
 2022-08-28 00:05:20.867721,CP Womens Open - CP Womens Open - Outright,Atthaya Thitikul,-0.028399999999999998,0.001,0.0294
@@ -187,31 +272,49 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-28 09:05:26.218169,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Argentinos Juniors,-0.031799999999999995,0.1111,0.1429
 2022-08-28 09:05:26.540776,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Southampton,-0.03180000000000005,0.8571,0.8889
 2022-08-28 06:04:06.599924,The Ally Challenge - The Ally Challenge - Outright,Jerry Kelly,-0.0319,0.0066,0.0385
+2022-08-28 10:05:29.143413,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Hibernian,-0.03259999999999999,0.2,0.2326
 2022-08-28 00:05:20.867721,CP Womens Open - CP Womens Open - Outright,Jessica Korda,-0.0332,0.0013,0.0345
+2022-08-28 10:05:29.167200,Premiership - Scotland Premiership 2022/23 - To Finish Bottom,St. Mirren,-0.033300000000000024,0.1667,0.2
 2022-08-28 00:05:20.867721,CP Womens Open - CP Womens Open - Outright,Jennifer Kupcho,-0.034100000000000005,0.0004,0.0345
 2022-08-28 06:04:06.599924,The Ally Challenge - The Ally Challenge - Outright,Woody Austin,-0.0344,0.0244,0.0588
 2022-08-28 06:04:06.599924,The Ally Challenge - The Ally Challenge - Outright,Jim Furyk,-0.03559999999999999,0.0079,0.0435
+2022-08-28 10:05:29.180117,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Hibernian,-0.035699999999999954,0.7143,0.75
+2022-08-28 10:05:28.182325,La Liga - Spain La Liga 2022/23 - To Be Relegated,Almería,-0.03570000000000001,0.25,0.2857
+2022-08-28 10:05:29.024195,Championship - England Championship 2022/23 - To Be Promoted,Watford,-0.03640000000000004,0.3636,0.4
 2022-08-28 09:05:26.319789,Premier League Futures/Specials - English Premier League 2022/23 - Winner without Man City & Liverpool,Tottenham Hotspur,-0.03640000000000004,0.3636,0.4
 2022-08-28 07:04:55.795787,MLB Futures - MLB 2022 Amercian League - AL Winner,Tampa Bay Rays,-0.037500000000000006,0.0625,0.1
 2022-08-28 06:04:06.599924,The Ally Challenge - The Ally Challenge - Outright,Scott Parel,-0.038,0.0005,0.0385
 2022-08-28 06:04:06.599924,The Ally Challenge - The Ally Challenge - Outright,Doug Barron,-0.0385,0.005,0.0435
 2022-08-28 09:05:26.518397,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Leicester City,-0.03920000000000001,0.2941,0.3333
+2022-08-28 10:05:29.190516,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Kilmarnock,-0.04039999999999999,0.7778,0.8182
+2022-08-28 10:05:29.208319,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Hammarby IF,-0.04099999999999998,0.2667,0.3077
 2022-08-28 09:05:26.410757,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Southampton,-0.04240000000000001,0.0909,0.1333
 2022-08-28 09:05:26.458799,Premier League Futures/Specials - English Premier League 2022/23 - Not To Finish in Top 4,Manchester United,-0.04270000000000007,0.8462,0.8889
+2022-08-28 10:05:28.087464,Serie A - Italy Serie A 2022/23 - Winner,Inter Milan,-0.043200000000000016,0.3077,0.3509
 2022-08-28 09:05:26.301337,Premier League Futures/Specials - English Premier League 2022/23 - Winner without 'The Big Six',Leeds United,-0.04329999999999999,0.0476,0.0909
 2022-08-28 09:05:26.518397,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Crystal Palace,-0.044399999999999995,0.4,0.4444
 2022-08-28 09:05:25.420985,La Liga - Spain La Liga 2022/23 - Winner,FC Barcelona,-0.044399999999999995,0.4,0.4444
+2022-08-28 10:05:28.103031,Serie A - Italy Serie A 2022/23 - Top 4 Finish,Juventus,-0.044500000000000095,0.7333,0.7778
 2022-08-28 00:05:20.867721,CP Womens Open - CP Womens Open - Outright,Lizette Salas,-0.0456,0.002,0.0476
 2022-08-28 00:05:20.867721,CP Womens Open - CP Womens Open - Outright,Hannah Green,-0.0466,0.001,0.0476
 2022-08-27 23:02:19.477107,BKFC 28: New Mexico - John Dodson vs Ryan Benoit - To Win the Bout,Ryan Benoit,-0.04910000000000003,0.3509,0.4
 2022-08-28 09:05:25.269836,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,AJ Auxerre,-0.05070000000000002,0.4255,0.4762
+2022-08-28 10:05:29.244935,Superettan - Swedish Superettan 2022 - Outright,Halmstads BK,-0.052000000000000046,0.8571,0.9091
+2022-08-28 10:05:29.155353,Premiership - Scotland Premiership 2022/23 - Top Goalscorer,Alfredo Morelos,-0.052300000000000006,0.0588,0.1111
+2022-08-28 10:05:28.195681,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Sevilla,-0.05550000000000002,0.1667,0.2222
 2022-08-28 09:05:26.563997,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Bournemouth,-0.055900000000000005,0.3077,0.3636
 2022-08-28 06:04:06.599924,The Ally Challenge - The Ally Challenge - Outright,Steven Alker,-0.056400000000000006,0.0769,0.1333
+2022-08-28 10:05:28.103031,Serie A - Italy Serie A 2022/23 - Top 4 Finish,Inter Milan,-0.05709999999999993,0.8,0.8571
 2022-08-28 01:04:48.564552,BKFC 28: New Mexico - Donald Sanchez vs Jeremy Smith - To Win the Bout,Donald Sanchez,-0.06269999999999998,0.6296,0.6923
+2022-08-28 10:05:28.087464,Serie A - Italy Serie A 2022/23 - Winner,Juventus,-0.0635,0.2222,0.2857
 2022-08-28 09:05:26.410757,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Nottingham Forest,-0.0642,0.1176,0.1818
+2022-08-28 10:05:28.349454,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Fluminense,-0.06659999999999999,0.6667,0.7333
 2022-08-28 09:05:25.527669,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Coritiba,-0.06669999999999998,0.6,0.6667
+2022-08-28 10:05:29.106017,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,Sporting CP,-0.06840000000000002,0.1538,0.2222
 2022-08-28 02:04:48.334993,Futures - Presidents Cup 2022 - Outright,Internationals,-0.0741,0.1481,0.2222
 2022-08-28 09:05:26.433428,Premier League Futures/Specials - English Premier League 2022/23 - Top 2 Finish,Liverpool,-0.07619999999999993,0.5238,0.6
+2022-08-28 10:05:28.182325,La Liga - Spain La Liga 2022/23 - To Be Relegated,Mallorca,-0.07789999999999997,0.2857,0.3636
+2022-08-28 10:05:29.083427,Eliteserien - Norway Eliteserien 2022 - Outright,Viking FK,-0.08099999999999999,0.0099,0.0909
 2022-08-28 00:05:20.867721,CP Womens Open - CP Womens Open - Outright,Nasa Hataoka,-0.0877,0.0123,0.1
 2022-08-28 09:05:26.540776,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Manchester United,-0.088,0.1429,0.2309
 2022-08-28 09:05:25.527669,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Goiás,-0.10390000000000002,0.1818,0.2857
