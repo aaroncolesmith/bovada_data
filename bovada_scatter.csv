@@ -29,8 +29,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-30 01:03:50.439736,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Real Madrid,0.018900000000000028,0.9804,0.9615
 2022-08-30 03:04:49.156715,Wide Receivers - Stefon Diggs Receptions 2022 Reg. Season - Outright,Under 99.5,0.01880000000000004,0.5744,0.5556
 2022-08-30 08:03:13.366997,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Athletic Bilbao,0.018099999999999998,0.0769,0.0588
-2022-08-30 03:04:47.571989,Wide Receivers - Amon-Ra St. Brown Rec TD’s 2022 Reg. Season - Outright,Over 5.5,0.017299999999999982,0.5917,0.5744
 2022-08-30 03:04:55.433736,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  New Orleans Saints,Over 8.5,0.017299999999999982,0.5917,0.5744
+2022-08-30 03:04:47.571989,Wide Receivers - Amon-Ra St. Brown Rec TD’s 2022 Reg. Season - Outright,Over 5.5,0.017299999999999982,0.5917,0.5744
 2022-08-30 06:02:18.465922,MLB Futures - MLB 2022 National League - NL Winner,Los Angeles Dodgers,0.016699999999999993,0.4167,0.4
 2022-08-30 01:03:50.417052,La Liga - Spain La Liga 2022/23 - To Be Relegated,Almería,0.015899999999999997,0.2381,0.2222
 2022-08-30 03:05:03.002643,NFC East - 2022/2023 NFC East - Eagles Division Finishing Position,1st,0.015400000000000025,0.4,0.3846
@@ -39,12 +39,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-30 03:04:56.153228,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Philadelphia Eagles,Over 10.5,0.01419999999999999,0.3846,0.3704
 2022-08-30 08:03:13.478245,La Liga - Spain La Liga 2022/23 - Barcelona - Trophy Special,La Liga & Copa del Rey,0.013899999999999996,0.125,0.1111
 2022-08-30 08:03:15.286943,National League - England National League 2022/23 - Outright,Notts County,0.013899999999999996,0.125,0.1111
+2022-08-30 13:03:04.566314,Boxing Lines - Marcin Siwy vs Kamil Sokolowski - To Win the Bout,Marcin Siwy,0.013799999999999923,0.6364,0.6226
 2022-08-30 08:03:13.492526,La Liga - Spain La Liga 2022/23 - Real Madrid - Trophy Special,La Liga and Copa del Rey,0.012899999999999995,0.1667,0.1538
 2022-08-30 03:04:54.172244,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Dallas Cowboys,No,0.012299999999999978,0.3571,0.3448
 2022-08-30 08:03:14.570023,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,Braga,0.011199999999999995,0.0588,0.0476
 2022-08-30 06:02:18.465922,MLB Futures - MLB 2022 National League - NL Winner,St. Louis Cardinals,0.011099999999999999,0.1111,0.1
-2022-08-30 03:04:55.498415,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  San Francisco 49ers,Over 10,0.01100000000000001,0.5348,0.5238
 2022-08-30 07:04:19.958006,Quarterbacks - Kyler Murray Passing Yards 2022 Reg. Season - Kyler Murray Passing Yards 2022 Reg. Season,Under 4000.5,0.01100000000000001,0.5348,0.5238
+2022-08-30 03:04:55.498415,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  San Francisco 49ers,Over 10,0.01100000000000001,0.5348,0.5238
 2022-08-30 06:02:18.452056,MLB Futures - MLB 2022 Amercian League - AL Winner,Minnesota Twins,0.010700000000000001,0.0385,0.0278
 2022-08-30 12:04:36.282194,Boxing Lines - Marcin Siwy vs Kamil Sokolowski - To Win the Bout,Kamil Sokolowski,-0.010099999999999998,0.4444,0.4545
 2022-08-30 11:03:30.251204,Boxing Lines - Marcin Siwy vs Kamil Sokolowski - To Win the Bout,Kamil Sokolowski,-0.010599999999999998,0.4545,0.4651
@@ -55,10 +56,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-30 03:04:55.433736,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  New Orleans Saints,Under 8.5,-0.0116,0.4762,0.4878
 2022-08-30 03:04:47.571989,Wide Receivers - Amon-Ra St. Brown Rec TD’s 2022 Reg. Season - Outright,Under 5.5,-0.0116,0.4762,0.4878
 2022-08-30 03:04:54.172244,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Dallas Cowboys,Yes,-0.0121,0.7101,0.7222
-2022-08-30 07:04:17.753273,Running Backs - Cam Akers Rush & Rec Yards 2022 Reg. Season - Cam Akers Rush & Rec Yards 2022 Reg. Season,Over 1200.5,-0.012199999999999989,0.4878,0.5
 2022-08-30 07:04:21.687621,Tight Ends - Noah Fant Receptions 2022 Reg. Season - Outright,Over 59.5,-0.012199999999999989,0.4878,0.5
-2022-08-30 03:04:52.434882,Quarterbacks - Tom Brady Passing Yards 2022 Reg. Season - Tom Brady Passing Yards 2022 Reg. Season,Over 4650.5,-0.012199999999999989,0.5,0.5122
+2022-08-30 07:04:17.753273,Running Backs - Cam Akers Rush & Rec Yards 2022 Reg. Season - Cam Akers Rush & Rec Yards 2022 Reg. Season,Over 1200.5,-0.012199999999999989,0.4878,0.5
 2022-08-30 03:04:47.585283,Wide Receivers - Amon-Ra St. Brown Rec Yards 2022 Reg. Season - Outright,Under 850.5,-0.012199999999999989,0.4878,0.5
+2022-08-30 03:04:52.434882,Quarterbacks - Tom Brady Passing Yards 2022 Reg. Season - Tom Brady Passing Yards 2022 Reg. Season,Over 4650.5,-0.012199999999999989,0.5,0.5122
 2022-08-30 08:03:13.366997,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Real Betis,-0.013899999999999996,0.1111,0.125
 2022-08-30 06:02:18.452056,MLB Futures - MLB 2022 Amercian League - AL Winner,Cleveland Guardians,-0.014399999999999996,0.0625,0.0769
 2022-08-30 03:04:56.153228,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Philadelphia Eagles,Under 10.5,-0.014499999999999957,0.6825,0.697
@@ -67,12 +68,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-30 08:03:14.676227,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Hammarby IF,-0.016699999999999993,0.25,0.2667
 2022-08-30 03:04:46.171505,Boxing Lines - Claressa Shields vs Savannah Marshall - To Win the Bout,Savannah Marshall,-0.017199999999999993,0.5283,0.5455
 2022-08-30 08:03:15.286943,National League - England National League 2022/23 - Outright,Solihull Moors,-0.018099999999999998,0.0588,0.0769
+2022-08-30 13:03:04.566314,Boxing Lines - Marcin Siwy vs Kamil Sokolowski - To Win the Bout,Kamil Sokolowski,-0.018900000000000028,0.4255,0.4444
 2022-08-30 01:03:50.439736,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Real Betis,-0.019000000000000017,0.2667,0.2857
 2022-08-30 03:04:52.449828,Quarterbacks - Trevor Lawrence Passing INT's 2022 Reg. Season - Trevor Lawrence Passing INT's 2022 Reg. Season,Over 14,-0.020699999999999996,0.4444,0.4651
 2022-08-30 01:03:50.465316,La Liga - Spain La Liga 2022/23 - Top 6 Finish,Real Sociedad,-0.02169999999999994,0.5238,0.5455
 2022-08-30 03:04:50.841716,Running Backs - Najee Harris Rush Yards 2022 Reg. Season - Outright,Over 1150.5,-0.021699999999999997,0.4545,0.4762
-2022-08-30 07:04:19.927134,Quarterbacks - Kyler Murray Passing INT's 2022 Reg. Season  - Kyler Murray Passing INT's 2022 Reg. Season,Over 12,-0.022600000000000064,0.5122,0.5348
 2022-08-30 03:04:47.902809,Wide Receivers - Courtland Sutton Rec Yards 2022 Reg. Season - Outright,Under 1000.5,-0.022600000000000064,0.5122,0.5348
+2022-08-30 07:04:19.927134,Quarterbacks - Kyler Murray Passing INT's 2022 Reg. Season  - Kyler Murray Passing INT's 2022 Reg. Season,Over 12,-0.022600000000000064,0.5122,0.5348
 2022-08-30 03:04:55.214236,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Carolina Panthers,Under 6.5,-0.023799999999999988,0.4762,0.5
 2022-08-30 08:03:14.570023,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,Sporting CP,-0.023799999999999988,0.1429,0.1667
 2022-08-30 01:03:50.439736,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Villarreal,-0.023799999999999988,0.4762,0.5
