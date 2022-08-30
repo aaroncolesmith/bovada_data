@@ -1,15 +1,8 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2022-08-30 01:03:50.465316,La Liga - Spain La Liga 2022/23 - Top 6 Finish,Athletic Bilbao,0.19440000000000002,0.4444,0.25
-2022-08-30 01:03:50.417052,La Liga - Spain La Liga 2022/23 - To Be Relegated,Cádiz,0.13920000000000005,0.5238,0.3846
-2022-08-30 01:03:50.465316,La Liga - Spain La Liga 2022/23 - Top 6 Finish,Villarreal,0.13680000000000003,0.7368,0.6
-2022-08-30 01:03:50.417052,La Liga - Spain La Liga 2022/23 - To Be Relegated,Mallorca,0.1179,0.3846,0.2667
-2022-08-30 01:03:50.465316,La Liga - Spain La Liga 2022/23 - Top 6 Finish,Real Betis,0.11069999999999997,0.5455,0.4348
-2022-08-30 01:03:50.439736,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Atlético Madrid,0.10040000000000004,0.7368,0.6364
+2022-08-30 14:05:24.717782,Premier League Futures/Specials - England Premier League 2022/23 - Requests/Specials - Next English Premier League Manager to Leave (2nd),Steven Gerrard,0.08329999999999999,0.3333,0.25
 2022-08-30 08:03:14.676227,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Djurgårdens,0.07789999999999997,0.3636,0.2857
 2022-08-30 06:02:18.474593,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,0.06659999999999999,0.3333,0.2667
-2022-08-30 01:03:50.439736,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Sevilla,0.0632,0.2299,0.1667
 2022-08-30 08:03:15.286943,National League - England National League 2022/23 - Outright,Chesterfield,0.04999999999999999,0.25,0.2
-2022-08-30 01:03:50.439736,La Liga - Spain La Liga 2022/23 - Top 4 Finish,FC Barcelona,0.04710000000000003,0.9804,0.9333
 2022-08-30 06:02:17.953041,Boxing Lines - Nikodem Jezewski vs Serge Michel - To Win the Bout,Nikodem Jezewski,0.04409999999999992,0.6667,0.6226
 2022-08-30 08:03:13.366997,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Atlético Madrid,0.04089999999999999,0.4255,0.3846
 2022-08-30 07:04:19.557978,Quarterbacks - Jalen Hurts Rushing Yards 2022 Reg. Season  - Jalen Hurts Rushing Yards 2022 Reg. Season,Under 750.5,0.03959999999999997,0.5744,0.5348
@@ -24,16 +17,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-30 11:03:30.217941,Boxing Lines - Nikodem Jezewski vs Serge Michel - To Win the Bout,Serge Michel,0.025499999999999967,0.4255,0.4
 2022-08-30 03:04:50.841716,Running Backs - Najee Harris Rush Yards 2022 Reg. Season - Outright,Under 1150.5,0.023699999999999943,0.6154,0.5917
 2022-08-30 03:04:52.449828,Quarterbacks - Trevor Lawrence Passing INT's 2022 Reg. Season - Trevor Lawrence Passing INT's 2022 Reg. Season,Under 14,0.022600000000000064,0.6226,0.6
-2022-08-30 07:04:19.927134,Quarterbacks - Kyler Murray Passing INT's 2022 Reg. Season  - Kyler Murray Passing INT's 2022 Reg. Season,Under 12,0.02079999999999993,0.5556,0.5348
 2022-08-30 03:04:47.902809,Wide Receivers - Courtland Sutton Rec Yards 2022 Reg. Season - Outright,Over 1000.5,0.02079999999999993,0.5556,0.5348
-2022-08-30 01:03:50.439736,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Real Madrid,0.018900000000000028,0.9804,0.9615
+2022-08-30 07:04:19.927134,Quarterbacks - Kyler Murray Passing INT's 2022 Reg. Season  - Kyler Murray Passing INT's 2022 Reg. Season,Under 12,0.02079999999999993,0.5556,0.5348
 2022-08-30 03:04:49.156715,Wide Receivers - Stefon Diggs Receptions 2022 Reg. Season - Outright,Under 99.5,0.01880000000000004,0.5744,0.5556
 2022-08-30 08:03:13.366997,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Athletic Bilbao,0.018099999999999998,0.0769,0.0588
 2022-08-30 03:04:55.433736,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  New Orleans Saints,Over 8.5,0.017299999999999982,0.5917,0.5744
 2022-08-30 03:04:47.571989,Wide Receivers - Amon-Ra St. Brown Rec TD’s 2022 Reg. Season - Outright,Over 5.5,0.017299999999999982,0.5917,0.5744
+2022-08-30 14:04:54.363727,Brazilian Politics - 2022 Brazilian Presidential Election - Winner,Jair Bolsonaro,0.016699999999999993,0.4167,0.4
 2022-08-30 06:02:18.465922,MLB Futures - MLB 2022 National League - NL Winner,Los Angeles Dodgers,0.016699999999999993,0.4167,0.4
-2022-08-30 01:03:50.417052,La Liga - Spain La Liga 2022/23 - To Be Relegated,Almería,0.015899999999999997,0.2381,0.2222
 2022-08-30 03:05:03.002643,NFC East - 2022/2023 NFC East - Eagles Division Finishing Position,1st,0.015400000000000025,0.4,0.3846
+2022-08-30 14:04:54.290893,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Republican Candidate,Nikki Haley,0.015300000000000001,0.0588,0.0435
 2022-08-30 12:04:36.282194,Boxing Lines - Marcin Siwy vs Kamil Sokolowski - To Win the Bout,Marcin Siwy,0.014800000000000035,0.6226,0.6078
 2022-08-30 06:02:18.452056,MLB Futures - MLB 2022 Amercian League - AL Winner,Tampa Bay Rays,0.014399999999999996,0.0769,0.0625
 2022-08-30 03:04:56.153228,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Philadelphia Eagles,Over 10.5,0.01419999999999999,0.3846,0.3704
@@ -41,43 +34,51 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-30 08:03:15.286943,National League - England National League 2022/23 - Outright,Notts County,0.013899999999999996,0.125,0.1111
 2022-08-30 13:03:04.566314,Boxing Lines - Marcin Siwy vs Kamil Sokolowski - To Win the Bout,Marcin Siwy,0.013799999999999923,0.6364,0.6226
 2022-08-30 08:03:13.492526,La Liga - Spain La Liga 2022/23 - Real Madrid - Trophy Special,La Liga and Copa del Rey,0.012899999999999995,0.1667,0.1538
+2022-08-30 14:04:56.957107,Boxing Lines - Nikodem Jezewski vs Serge Michel - To Win the Bout,Nikodem Jezewski,0.012700000000000045,0.6491,0.6364
+2022-08-30 14:04:56.920784,Boxing Lines - Marcin Siwy vs Kamil Sokolowski - To Win the Bout,Marcin Siwy,0.012700000000000045,0.6491,0.6364
 2022-08-30 03:04:54.172244,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Dallas Cowboys,No,0.012299999999999978,0.3571,0.3448
 2022-08-30 08:03:14.570023,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,Braga,0.011199999999999995,0.0588,0.0476
 2022-08-30 06:02:18.465922,MLB Futures - MLB 2022 National League - NL Winner,St. Louis Cardinals,0.011099999999999999,0.1111,0.1
-2022-08-30 07:04:19.958006,Quarterbacks - Kyler Murray Passing Yards 2022 Reg. Season - Kyler Murray Passing Yards 2022 Reg. Season,Under 4000.5,0.01100000000000001,0.5348,0.5238
+2022-08-30 14:04:54.309773,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,0.011099999999999999,0.4762,0.4651
 2022-08-30 03:04:55.498415,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  San Francisco 49ers,Over 10,0.01100000000000001,0.5348,0.5238
+2022-08-30 07:04:19.958006,Quarterbacks - Kyler Murray Passing Yards 2022 Reg. Season - Kyler Murray Passing Yards 2022 Reg. Season,Under 4000.5,0.01100000000000001,0.5348,0.5238
 2022-08-30 06:02:18.452056,MLB Futures - MLB 2022 Amercian League - AL Winner,Minnesota Twins,0.010700000000000001,0.0385,0.0278
+2022-08-30 14:04:54.290893,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Republican Candidate,Mike Pence,0.0102,0.0769,0.0667
+2022-08-30 14:04:54.345431,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,0.0102,0.0769,0.0667
 2022-08-30 12:04:36.282194,Boxing Lines - Marcin Siwy vs Kamil Sokolowski - To Win the Bout,Kamil Sokolowski,-0.010099999999999998,0.4444,0.4545
 2022-08-30 11:03:30.251204,Boxing Lines - Marcin Siwy vs Kamil Sokolowski - To Win the Bout,Kamil Sokolowski,-0.010599999999999998,0.4545,0.4651
-2022-08-30 07:04:19.958006,Quarterbacks - Kyler Murray Passing Yards 2022 Reg. Season - Kyler Murray Passing Yards 2022 Reg. Season,Over 4000.5,-0.010699999999999932,0.5348,0.5455
 2022-08-30 03:04:55.498415,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  San Francisco 49ers,Under 10,-0.010699999999999932,0.5348,0.5455
+2022-08-30 07:04:19.958006,Quarterbacks - Kyler Murray Passing Yards 2022 Reg. Season - Kyler Murray Passing Yards 2022 Reg. Season,Over 4000.5,-0.010699999999999932,0.5348,0.5455
 2022-08-30 06:02:18.429672,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,New York Mets,-0.010899999999999993,0.1429,0.1538
+2022-08-30 14:04:54.290893,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Republican Candidate,Donald Trump,-0.011099999999999999,0.4651,0.4762
+2022-08-30 14:04:54.345431,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,-0.011099999999999999,0.2667,0.2778
 2022-08-30 08:03:14.676227,Allsvenskan - Swedish Allsvenskan 2022 - Outright,AIK,-0.011199999999999995,0.0476,0.0588
+2022-08-30 14:04:54.363727,Brazilian Politics - 2022 Brazilian Presidential Election - Winner,Lula da Silva,-0.011499999999999955,0.6552,0.6667
 2022-08-30 03:04:55.433736,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  New Orleans Saints,Under 8.5,-0.0116,0.4762,0.4878
 2022-08-30 03:04:47.571989,Wide Receivers - Amon-Ra St. Brown Rec TD’s 2022 Reg. Season - Outright,Under 5.5,-0.0116,0.4762,0.4878
+2022-08-30 14:04:54.162372,Political Specials - Which Party will win the House in the 2022 Midterm Election? - Winning Party,Republican,-0.011900000000000022,0.75,0.7619
 2022-08-30 03:04:54.172244,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Dallas Cowboys,Yes,-0.0121,0.7101,0.7222
 2022-08-30 07:04:21.687621,Tight Ends - Noah Fant Receptions 2022 Reg. Season - Outright,Over 59.5,-0.012199999999999989,0.4878,0.5
 2022-08-30 07:04:17.753273,Running Backs - Cam Akers Rush & Rec Yards 2022 Reg. Season - Cam Akers Rush & Rec Yards 2022 Reg. Season,Over 1200.5,-0.012199999999999989,0.4878,0.5
 2022-08-30 03:04:47.585283,Wide Receivers - Amon-Ra St. Brown Rec Yards 2022 Reg. Season - Outright,Under 850.5,-0.012199999999999989,0.4878,0.5
 2022-08-30 03:04:52.434882,Quarterbacks - Tom Brady Passing Yards 2022 Reg. Season - Tom Brady Passing Yards 2022 Reg. Season,Over 4650.5,-0.012199999999999989,0.5,0.5122
 2022-08-30 08:03:13.366997,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Real Betis,-0.013899999999999996,0.1111,0.125
+2022-08-30 14:04:54.290893,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Republican Candidate,Mitt Romney,-0.014199999999999999,0.0152,0.0294
 2022-08-30 06:02:18.452056,MLB Futures - MLB 2022 Amercian League - AL Winner,Cleveland Guardians,-0.014399999999999996,0.0625,0.0769
 2022-08-30 03:04:56.153228,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Philadelphia Eagles,Under 10.5,-0.014499999999999957,0.6825,0.697
-2022-08-30 01:03:50.417052,La Liga - Spain La Liga 2022/23 - To Be Relegated,Valencia,-0.015100000000000002,0.1667,0.1818
+2022-08-30 14:04:54.345431,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Ron DeSantis,-0.014600000000000002,0.2632,0.2778
 2022-08-30 06:02:18.474593,MLB Futures - MLB 2022 American League Central - ALC Winner,Chicago White Sox,-0.015700000000000006,0.1176,0.1333
 2022-08-30 08:03:14.676227,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Hammarby IF,-0.016699999999999993,0.25,0.2667
 2022-08-30 03:04:46.171505,Boxing Lines - Claressa Shields vs Savannah Marshall - To Win the Bout,Savannah Marshall,-0.017199999999999993,0.5283,0.5455
+2022-08-30 14:04:54.254943,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Gavin Newsom,-0.0179,0.125,0.1429
 2022-08-30 08:03:15.286943,National League - England National League 2022/23 - Outright,Solihull Moors,-0.018099999999999998,0.0588,0.0769
 2022-08-30 13:03:04.566314,Boxing Lines - Marcin Siwy vs Kamil Sokolowski - To Win the Bout,Kamil Sokolowski,-0.018900000000000028,0.4255,0.4444
-2022-08-30 01:03:50.439736,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Real Betis,-0.019000000000000017,0.2667,0.2857
 2022-08-30 03:04:52.449828,Quarterbacks - Trevor Lawrence Passing INT's 2022 Reg. Season - Trevor Lawrence Passing INT's 2022 Reg. Season,Over 14,-0.020699999999999996,0.4444,0.4651
-2022-08-30 01:03:50.465316,La Liga - Spain La Liga 2022/23 - Top 6 Finish,Real Sociedad,-0.02169999999999994,0.5238,0.5455
 2022-08-30 03:04:50.841716,Running Backs - Najee Harris Rush Yards 2022 Reg. Season - Outright,Over 1150.5,-0.021699999999999997,0.4545,0.4762
-2022-08-30 03:04:47.902809,Wide Receivers - Courtland Sutton Rec Yards 2022 Reg. Season - Outright,Under 1000.5,-0.022600000000000064,0.5122,0.5348
 2022-08-30 07:04:19.927134,Quarterbacks - Kyler Murray Passing INT's 2022 Reg. Season  - Kyler Murray Passing INT's 2022 Reg. Season,Over 12,-0.022600000000000064,0.5122,0.5348
+2022-08-30 03:04:47.902809,Wide Receivers - Courtland Sutton Rec Yards 2022 Reg. Season - Outright,Under 1000.5,-0.022600000000000064,0.5122,0.5348
 2022-08-30 03:04:55.214236,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Carolina Panthers,Under 6.5,-0.023799999999999988,0.4762,0.5
 2022-08-30 08:03:14.570023,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,Sporting CP,-0.023799999999999988,0.1429,0.1667
-2022-08-30 01:03:50.439736,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Villarreal,-0.023799999999999988,0.4762,0.5
 2022-08-30 03:04:49.156715,Wide Receivers - Stefon Diggs Receptions 2022 Reg. Season - Outright,Over 99.5,-0.024399999999999977,0.4878,0.5122
 2022-08-30 03:05:02.989231,NFC East - 2022/2023 NFC East - Cowboys Division Finishing Position,1st,-0.025499999999999967,0.4,0.4255
 2022-08-30 06:02:18.514362,MLB Futures - MLB 2022 National League East - NLE Winner,New York Mets,-0.027999999999999914,0.8182,0.8462
@@ -87,9 +88,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-30 11:03:41.282629,Running Backs - JK Dobbins Rush Yards 2022 Reg. Season - Proposition,Over 850.5,-0.03179999999999994,0.5238,0.5556
 2022-08-30 08:03:14.676227,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Malmö FF,-0.04329999999999999,0.0476,0.0909
 2022-08-30 06:02:17.953041,Boxing Lines - Nikodem Jezewski vs Serge Michel - To Win the Bout,Serge Michel,-0.044399999999999995,0.4,0.4444
-2022-08-30 01:03:50.417052,La Liga - Spain La Liga 2022/23 - To Be Relegated,Rayo Vallecano,-0.04620000000000002,0.1538,0.2
 2022-08-30 07:04:19.557978,Quarterbacks - Jalen Hurts Rushing Yards 2022 Reg. Season  - Jalen Hurts Rushing Yards 2022 Reg. Season,Over 750.5,-0.04700000000000004,0.4878,0.5348
 2022-08-30 06:02:18.474593,MLB Futures - MLB 2022 American League Central - ALC Winner,Cleveland Guardians,-0.04760000000000009,0.6667,0.7143
 2022-08-30 06:02:19.882710,WNBA - 2022 WNBA Championship Winner - 2022 Champion,Chicago Sky,-0.0635,0.2222,0.2857
-2022-08-30 01:03:50.439736,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Real Sociedad,-0.06959999999999997,0.2381,0.3077
-2022-08-30 01:03:50.465316,La Liga - Spain La Liga 2022/23 - Top 6 Finish,Valencia,-0.1,0.1,0.2
