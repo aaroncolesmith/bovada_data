@@ -3,8 +3,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-31 16:03:26.493217,Transfer Specials - Cristiano Ronaldo - Club after Summer Transfer Window - Cristiano Ronaldo - Club after Summer Transfer Window,To Stay at Manchester United,0.1388999999999999,0.9167,0.7778
 2022-08-31 12:05:40.574099,Transfer Specials - Cristiano Ronaldo - Club after Summer Transfer Window - Cristiano Ronaldo - Club after Summer Transfer Window,Chelsea,0.10910000000000002,0.2,0.0909
 2022-08-31 13:05:02.929494,EuroBasket 2022 - EuroBasket 2022 - Top Points Scorer,Giannis Antetokounmpo,0.0849,0.2667,0.1818
-2022-08-31 09:03:27.805339,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Southampton,0.06820000000000004,0.8182,0.75
 2022-08-31 09:03:27.805339,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Fulham,0.06820000000000004,0.8182,0.75
+2022-08-31 09:03:27.805339,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Southampton,0.06820000000000004,0.8182,0.75
 2022-08-31 14:23:13.421967,NBA Season Props - 2022/23 NBA Season - To Make the Playoffs - Los Angeles Lakers,No,0.06670000000000004,0.4,0.3333
 2022-08-31 09:03:27.729906,Premier League Futures/Specials - English Premier League 2022/23 - Not To Finish in Top 4,Chelsea,0.0595,0.5833,0.5238
 2022-08-31 09:03:27.689107,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Nottingham Forest,0.05070000000000002,0.4762,0.4255
@@ -15,59 +15,61 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-31 09:03:27.753207,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Newcastle United,0.04099999999999998,0.3077,0.2667
 2022-08-31 09:03:27.766405,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Fulham,0.04040000000000002,0.2222,0.1818
 2022-08-31 09:03:27.785360,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Brighton & Hove Albion,0.03920000000000001,0.3333,0.2941
-2022-08-31 05:05:39.970673,Requested Specials - Requested Specials:+500 and Lower - Season Specials,"Regular Season Receiving Yds: J.Waddle U1050, C.Watson U650, D.Adams U1300",0.03570000000000001,0.2857,0.25
 2022-08-31 07:04:52.422463,Potential Fights - Jake Paul vs Anderson Silva - To Win the Bout,Anderson Silva,0.03479999999999994,0.6,0.5652
-2022-08-31 14:23:08.540610,Tournament Match-Ups - Tournament Match-Up - C. Smith v B. DeChambeau - Tournament Match-Up,Cameron Smith,0.033399999999999985,0.6078,0.5744
 2022-08-31 09:03:26.615270,Copa Libertadores - Copa Libertadores 2022 - Winner,Athletico Paranaense-PR,0.033399999999999985,0.1667,0.1333
+2022-08-31 14:23:08.540610,Tournament Match-Ups - Tournament Match-Up - C. Smith v B. DeChambeau - Tournament Match-Up,Cameron Smith,0.033399999999999985,0.6078,0.5744
 2022-08-31 08:03:38.460027,Premier League Futures/Specials - England Premier League 2022/23 - Requests/Specials - Next English Premier League Manager to Leave (2nd),Thomas Tuchel,0.0321,0.0909,0.0588
 2022-08-31 09:03:27.766405,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,West Ham United,0.03179999999999994,0.5556,0.5238
 2022-08-31 14:23:12.707874,NBA Season Props - 2022/23 NBA Season - Regular Season Win Totals - Cleveland Cavaliers,Over 43.5,0.030399999999999983,0.5652,0.5348
-2022-08-31 06:03:21.661018,Quarterbacks - Jameis Winston Passing INT's 2022 Reg. Season  - Jameis Winston Passing INT's 2022 Reg. Season,Under 13,0.030399999999999983,0.5652,0.5348
 2022-08-31 09:03:27.689107,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Everton,0.030299999999999994,0.3636,0.3333
 2022-08-31 09:03:27.648703,Premier League Futures/Specials - English Premier League 2022/23 - Winner without 'The Big Six',Newcastle United,0.030299999999999994,0.3636,0.3333
 2022-08-31 09:03:27.785360,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Leicester City,0.029900000000000038,0.8,0.7701
-2022-08-31 09:03:27.689107,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leicester City,0.02779999999999999,0.25,0.2222
 2022-08-31 09:03:27.742149,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Manchester United,0.02779999999999999,0.2778,0.25
+2022-08-31 09:03:27.689107,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leicester City,0.02779999999999999,0.25,0.2222
 2022-08-31 09:03:27.664447,Premier League Futures/Specials - English Premier League 2022/23 - Winner without Man City & Liverpool,Arsenal,0.025499999999999967,0.4255,0.4
 2022-08-31 09:03:08.044486,Made in Himmerland - 2/3 Balls - 1st Round 3 Balls - S. Hend / L. Slattery / F. Laporta - 1st Round 3 Balls ,Francesco Laporta,0.025499999999999967,0.4255,0.4
 2022-08-31 09:03:27.704913,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Wolverhampton Wanderers,0.0242,0.0909,0.0667
 2022-08-31 14:23:08.321994,Tournament Match-Ups - Parlays - Tournament Match-Up - B. DeChambeau v B. Koepka - Tournament Match-Up,Brooks Koepka,0.023800000000000043,0.5238,0.5
-2022-08-31 16:03:10.780274,Tournament Match-Ups - Tournament Match-Up - C. Smith v J. Niemann - Tournament Match-Up,Joaquin Niemann,0.023800000000000043,0.5238,0.5
 2022-08-31 14:23:08.485207,Tournament Match-Ups - Parlays - Tournament Match-Up - M. Wolff v J. Kokrak - Tournament Match-Up,Jason Kokrak,0.023800000000000043,0.5238,0.5
 2022-08-31 14:23:08.515112,Tournament Match-Ups - Parlays - Tournament Match-Up - P. Reed v H. Varner III - Tournament Match-Up,Harold Varner III,0.023800000000000043,0.5238,0.5
+2022-08-31 16:03:10.780274,Tournament Match-Ups - Tournament Match-Up - C. Smith v J. Niemann - Tournament Match-Up,Joaquin Niemann,0.023800000000000043,0.5238,0.5
 2022-08-31 09:03:27.704913,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Nottingham Forest,0.023799999999999988,0.1667,0.1429
 2022-08-31 07:05:14.574519,College Season Props - 2022 - Regular Season Wins - Michigan State - 2022 - Regular Season Wins - Michigan State,Under 7.5,0.023799999999999988,0.5,0.4762
 2022-08-31 12:05:06.288914,Wide Receivers - Allen Lazard Receptions 2022 Reg. Season - Outright,Over 55.5,0.023699999999999943,0.6154,0.5917
-2022-08-31 17:03:20.719200,Tournament Match-Ups - Parlays - Tournament Match-Up - M. Wolff v J. Kokrak - Tournament Match-Up,Jason Kokrak,0.02169999999999994,0.5455,0.5238
 2022-08-31 08:03:38.482252,National League - England National League 2022/23 - Outright,Wrexham,0.02169999999999994,0.5455,0.5238
+2022-08-31 18:03:33.964610,Tournament Match-Ups - Parlays - Tournament Match-Up - P. Reed v H. Varner III - Tournament Match-Up,Harold Varner III,0.02169999999999994,0.5455,0.5238
+2022-08-31 17:03:20.719200,Tournament Match-Ups - Parlays - Tournament Match-Up - M. Wolff v J. Kokrak - Tournament Match-Up,Jason Kokrak,0.02169999999999994,0.5455,0.5238
 2022-08-31 09:03:07.679592,Boxing Lines - Joey Spencer vs Kevin Salgado Zambrano - To Win the Bout,Kevin Salgado Zambrano,0.02080000000000004,0.274,0.2532
 2022-08-31 12:05:40.574099,Transfer Specials - Cristiano Ronaldo - Club after Summer Transfer Window - Cristiano Ronaldo - Club after Summer Transfer Window,Atletico Madrid,0.0203,0.0588,0.0385
+2022-08-31 18:03:33.954968,Tournament Match-Ups - Parlays - Tournament Match-Up - M. Wolff v J. Kokrak - Tournament Match-Up,Jason Kokrak,0.01970000000000005,0.5652,0.5455
 2022-08-31 16:03:10.751300,Tournament Match-Ups - Tournament Match-Up - C. Smith v B. DeChambeau - Tournament Match-Up,Bryson DeChambeau,0.019699999999999995,0.4545,0.4348
 2022-08-31 09:03:27.704913,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Leicester City,0.019099999999999992,0.0667,0.0476
 2022-08-31 09:03:27.785360,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Aston Villa,0.018999999999999906,0.7333,0.7143
-2022-08-31 06:03:20.715679,Running Backs - Elijah Mitchell Rush TD's 2022 Reg. Season - Outright,Under 6.5,0.01880000000000004,0.5744,0.5556
 2022-08-31 09:03:27.753207,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Manchester United,0.01880000000000004,0.6552,0.6364
+2022-08-31 18:03:33.914991,Tournament Match-Ups - Parlays - Tournament Match-Up - D. Johnson v T. Gooch - Tournament Match-Up,Dustin Johnson,0.018100000000000005,0.5833,0.5652
 2022-08-31 14:23:08.421123,Tournament Match-Ups - Parlays - Tournament Match-Up - J. Niemann v A. Ancer - Tournament Match-Up,Joaquin Niemann,0.018100000000000005,0.5833,0.5652
-2022-08-31 06:03:15.138638,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,0.017600000000000005,0.3509,0.3333
+2022-08-31 18:03:33.333667,Boxing Lines - Marcin Siwy vs Kamil Sokolowski - To Win the Bout,Marcin Siwy,0.017300000000000093,0.7143,0.697
+2022-08-31 14:23:08.730896,Tournament Match-Ups - Tournament Match-Up - C. Smith v P. Reed - Tournament Match-Up,Cameron Smith,0.017299999999999982,0.5917,0.5744
 2022-08-31 14:23:08.664130,Tournament Match-Ups - Tournament Match-Up - C. Smith v L. Oosthuizen - Tournament Match-Up,Cameron Smith,0.017299999999999982,0.5917,0.5744
 2022-08-31 12:05:06.271700,Wide Receivers - Allen Lazard Rec Yards 2022 Reg. Season - Outright,Over 725.5,0.017299999999999982,0.5917,0.5744
-2022-08-31 14:23:08.730896,Tournament Match-Ups - Tournament Match-Up - C. Smith v P. Reed - Tournament Match-Up,Cameron Smith,0.017299999999999982,0.5917,0.5744
 2022-08-31 08:03:07.414599,Boxing Lines - Marcin Siwy vs Kamil Sokolowski - To Win the Bout,Marcin Siwy,0.016900000000000026,0.6721,0.6552
 2022-08-31 08:03:37.909906,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,Benfica,0.016699999999999993,0.4167,0.4
 2022-08-31 16:03:10.705682,Tournament Match-Ups - Parlays - Tournament Match-Up - J. Niemann v A. Ancer - Tournament Match-Up,Joaquin Niemann,0.016699999999999937,0.6,0.5833
+2022-08-31 18:03:34.011262,Tournament Match-Ups - Tournament Match-Up - C. Smith v L. Oosthuizen - Tournament Match-Up,Cameron Smith,0.016100000000000003,0.6078,0.5917
 2022-08-31 14:23:08.564785,Tournament Match-Ups - Tournament Match-Up - C. Smith v B. Koepka - Tournament Match-Up,Cameron Smith,0.016100000000000003,0.6078,0.5917
-2022-08-31 14:23:08.755853,Tournament Match-Ups - Tournament Match-Up - C. Smith v S. Garcia - Tournament Match-Up,Cameron Smith,0.016100000000000003,0.6078,0.5917
+2022-08-31 18:03:34.021794,Tournament Match-Ups - Tournament Match-Up - C. Smith v P. Casey - Tournament Match-Up,Cameron Smith,0.016100000000000003,0.6078,0.5917
 2022-08-31 17:03:20.809305,Tournament Match-Ups - Tournament Match-Up - C. Smith v P. Reed - Tournament Match-Up,Cameron Smith,0.016100000000000003,0.6078,0.5917
+2022-08-31 14:23:08.755853,Tournament Match-Ups - Tournament Match-Up - C. Smith v S. Garcia - Tournament Match-Up,Cameron Smith,0.016100000000000003,0.6078,0.5917
 2022-08-31 10:03:49.232269,Boxing Lines - Joey Spencer vs Kevin Salgado Zambrano - To Win the Bout,Joey Spencer,0.015800000000000036,0.8095,0.7937
-2022-08-31 12:05:06.249361,Wide Receivers - Allen Lazard Rec TD’s 2022 Reg. Season - Outright,Over 5.5,0.01539999999999997,0.6154,0.6
-2022-08-31 17:03:20.697784,Tournament Match-Ups - Parlays - Tournament Match-Up - J. Niemann v A. Ancer - Tournament Match-Up,Joaquin Niemann,0.01539999999999997,0.6154,0.6
 2022-08-31 09:03:07.538135,Boxing Lines - Marcin Siwy vs Kamil Sokolowski - To Win the Bout,Marcin Siwy,0.01539999999999997,0.6875,0.6721
+2022-08-31 17:03:20.697784,Tournament Match-Ups - Parlays - Tournament Match-Up - J. Niemann v A. Ancer - Tournament Match-Up,Joaquin Niemann,0.01539999999999997,0.6154,0.6
+2022-08-31 18:03:33.976330,Tournament Match-Ups - Tournament Match-Up - C. Smith v B. DeChambeau - Tournament Match-Up,Cameron Smith,0.01539999999999997,0.6154,0.6
+2022-08-31 12:05:06.249361,Wide Receivers - Allen Lazard Rec TD’s 2022 Reg. Season - Outright,Over 5.5,0.01539999999999997,0.6154,0.6
 2022-08-31 15:03:55.338144,Tournament Match-Ups - Tournament Match-Up - C. Smith v S. Garcia - Tournament Match-Up,Cameron Smith,0.014800000000000035,0.6226,0.6078
-2022-08-31 06:03:15.126230,MLB Futures - MLB 2022 National League - NL Winner,Philadelphia Phillies,0.014399999999999996,0.0769,0.0625
-2022-08-31 06:03:23.087755,Tight Ends - Mike Gesicki Receptions 2022 Reg. Season - Outright,Under 56.5,0.014200000000000101,0.6296,0.6154
+2022-08-31 18:03:34.029854,Tournament Match-Ups - Tournament Match-Up - C. Smith v P. Reed - Tournament Match-Up,Cameron Smith,0.014800000000000035,0.6226,0.6078
 2022-08-31 14:23:10.749957,Boxing Lines - Konrad Kaczmarkiewicz vs Kristof Kovacs - To Win the Bout,Konrad Kaczmarkiewicz,0.014100000000000001,0.9474,0.9333
-2022-08-31 09:03:27.753207,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Southampton,0.014099999999999998,0.0385,0.0244
 2022-08-31 13:05:02.929494,EuroBasket 2022 - EuroBasket 2022 - Top Points Scorer,Domantas Sabonis,0.014099999999999998,0.0435,0.0294
+2022-08-31 09:03:27.753207,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Southampton,0.014099999999999998,0.0385,0.0244
 2022-08-31 09:03:27.785360,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Everton,0.013900000000000023,0.8889,0.875
 2022-08-31 09:03:27.753207,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,West Ham United,0.013899999999999996,0.125,0.1111
 2022-08-31 09:03:27.766405,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Leeds United,0.013600000000000001,0.3077,0.2941
@@ -75,27 +77,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-31 09:03:27.785360,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Crystal Palace,0.011499999999999955,0.6667,0.6552
 2022-08-31 09:03:27.742149,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Newcastle United,0.011099999999999999,0.1111,0.1
 2022-08-31 17:03:20.771965,Tournament Match-Ups - Tournament Match-Up - C. Smith v J. Niemann - Tournament Match-Up,Cameron Smith,0.01100000000000001,0.5348,0.5238
-2022-08-31 06:03:15.098315,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,New York Mets,0.010899999999999993,0.1538,0.1429
 2022-08-31 08:03:38.441759,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Tottenham Hotspur,0.0102,0.0769,0.0667
 2022-08-31 17:03:20.746037,Tournament Match-Ups - Tournament Match-Up - C. Smith v B. DeChambeau - Tournament Match-Up,Bryson DeChambeau,-0.010099999999999998,0.4444,0.4545
 2022-08-31 09:03:27.689107,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,West Ham United,-0.0102,0.0667,0.0769
-2022-08-31 12:05:06.249361,Wide Receivers - Allen Lazard Rec TD’s 2022 Reg. Season - Outright,Under 5.5,-0.010599999999999998,0.4545,0.4651
 2022-08-31 14:23:08.730896,Tournament Match-Ups - Tournament Match-Up - C. Smith v P. Reed - Tournament Match-Up,Patrick Reed,-0.010599999999999998,0.4545,0.4651
+2022-08-31 12:05:06.249361,Wide Receivers - Allen Lazard Rec TD’s 2022 Reg. Season - Outright,Under 5.5,-0.010599999999999998,0.4545,0.4651
 2022-08-31 12:05:02.823414,Boxing Lines - Konrad Kaczmarkiewicz vs Kristof Kovacs - To Win the Bout,Kristof Kovacs,-0.010700000000000001,0.1143,0.125
 2022-08-31 12:05:40.574099,Transfer Specials - Cristiano Ronaldo - Club after Summer Transfer Window - Cristiano Ronaldo - Club after Summer Transfer Window,Sporting Lisbon,-0.010899999999999993,0.1429,0.1538
-2022-08-31 09:03:27.805339,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Aston Villa,-0.011099999999999999,0.8889,0.9
-2022-08-31 09:03:26.615270,Copa Libertadores - Copa Libertadores 2022 - Winner,Velez Sarsfield,-0.011099999999999999,0.1,0.1111
+2022-08-31 18:03:33.914991,Tournament Match-Ups - Parlays - Tournament Match-Up - D. Johnson v T. Gooch - Tournament Match-Up,Talor Gooch,-0.011099999999999999,0.4651,0.4762
 2022-08-31 14:23:08.421123,Tournament Match-Ups - Parlays - Tournament Match-Up - J. Niemann v A. Ancer - Tournament Match-Up,Abraham Ancer,-0.011099999999999999,0.4651,0.4762
 2022-08-31 09:03:27.766405,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Nottingham Forest,-0.011099999999999999,0.1,0.1111
+2022-08-31 09:03:27.805339,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Aston Villa,-0.011099999999999999,0.8889,0.9
 2022-08-31 10:03:50.081675,Boston - Boston - Outright,Joaquin Niemann,-0.011099999999999999,0.1,0.1111
+2022-08-31 09:03:26.615270,Copa Libertadores - Copa Libertadores 2022 - Winner,Velez Sarsfield,-0.011099999999999999,0.1,0.1111
 2022-08-31 09:03:27.648703,Premier League Futures/Specials - English Premier League 2022/23 - Winner without 'The Big Six',Leicester City,-0.011199999999999995,0.0476,0.0588
-2022-08-31 08:03:38.482252,National League - England National League 2022/23 - Outright,Solihull Moors,-0.011199999999999995,0.0476,0.0588
 2022-08-31 16:03:26.493217,Transfer Specials - Cristiano Ronaldo - Club after Summer Transfer Window - Cristiano Ronaldo - Club after Summer Transfer Window,Atletico Madrid,-0.011199999999999995,0.0476,0.0588
-2022-08-31 06:03:15.138638,MLB Futures - MLB 2022 American League Central - ALC Winner,Cleveland Guardians,-0.011499999999999955,0.6552,0.6667
+2022-08-31 08:03:38.482252,National League - England National League 2022/23 - Outright,Solihull Moors,-0.011199999999999995,0.0476,0.0588
 2022-08-31 12:05:06.271700,Wide Receivers - Allen Lazard Rec Yards 2022 Reg. Season - Outright,Under 725.5,-0.0116,0.4762,0.4878
 2022-08-31 17:03:20.771965,Tournament Match-Ups - Tournament Match-Up - C. Smith v J. Niemann - Tournament Match-Up,Joaquin Niemann,-0.011600000000000055,0.5122,0.5238
 2022-08-31 09:03:27.704913,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Fulham,-0.013999999999999999,0.0769,0.0909
-2022-08-31 06:03:15.098315,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Atlanta Braves,-0.013999999999999999,0.0769,0.0909
 2022-08-31 10:03:49.232269,Boxing Lines - Joey Spencer vs Kevin Salgado Zambrano - To Win the Bout,Kevin Salgado Zambrano,-0.014300000000000035,0.2597,0.274
 2022-08-31 09:03:08.044486,Made in Himmerland - 2/3 Balls - 1st Round 3 Balls - S. Hend / L. Slattery / F. Laporta - 1st Round 3 Balls ,Lee Slattery,-0.01479999999999998,0.3774,0.3922
 2022-08-31 09:03:27.766405,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Everton,-0.015100000000000002,0.1667,0.1818
@@ -107,45 +107,45 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-31 08:03:36.835442,Serie A - Italy Serie A 2022/23 - Winner,AC Milan,-0.016699999999999993,0.25,0.2667
 2022-08-31 09:03:08.044486,Made in Himmerland - 2/3 Balls - 1st Round 3 Balls - S. Hend / L. Slattery / F. Laporta - 1st Round 3 Balls ,Scott Hend,-0.017299999999999982,0.2857,0.303
 2022-08-31 14:23:10.995586,Boxing Lines - Albert Bell vs Nicolas Polanco - To Win the Bout,Nicolas Polanco,-0.01759999999999999,0.1,0.1176
-2022-08-31 09:03:27.704913,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Southampton,-0.018099999999999998,0.0588,0.0769
 2022-08-31 13:05:02.929494,EuroBasket 2022 - EuroBasket 2022 - Top Points Scorer,Goran Dragic,-0.018099999999999998,0.0588,0.0769
+2022-08-31 09:03:27.704913,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Southampton,-0.018099999999999998,0.0588,0.0769
 2022-08-31 08:03:38.441759,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Chelsea,-0.018200000000000004,0.0294,0.0476
 2022-08-31 09:03:07.648939,Boxing Lines - Charles Martin vs Devin Vargas - To Win the Bout,Charles Martin,-0.01849999999999996,0.9524,0.9709
 2022-08-31 17:03:20.697784,Tournament Match-Ups - Parlays - Tournament Match-Up - J. Niemann v A. Ancer - Tournament Match-Up,Abraham Ancer,-0.018900000000000028,0.4255,0.4444
+2022-08-31 18:03:33.976330,Tournament Match-Ups - Tournament Match-Up - C. Smith v B. DeChambeau - Tournament Match-Up,Bryson DeChambeau,-0.018900000000000028,0.4255,0.4444
 2022-08-31 09:03:27.805339,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Everton,-0.018999999999999906,0.7143,0.7333
 2022-08-31 09:03:27.766405,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Leicester City,-0.019000000000000017,0.2667,0.2857
 2022-08-31 14:23:10.718421,Boxing Lines - Nikodem Jezewski vs Serge Michel - To Win the Bout,Nikodem Jezewski,-0.019499999999999962,0.6296,0.6491
 2022-08-31 14:23:08.755853,Tournament Match-Ups - Tournament Match-Up - C. Smith v S. Garcia - Tournament Match-Up,Sergio Garcia,-0.019699999999999995,0.4348,0.4545
 2022-08-31 17:03:20.809305,Tournament Match-Ups - Tournament Match-Up - C. Smith v P. Reed - Tournament Match-Up,Patrick Reed,-0.019699999999999995,0.4348,0.4545
-2022-08-31 06:03:23.087755,Tight Ends - Mike Gesicki Receptions 2022 Reg. Season - Outright,Over 56.5,-0.019699999999999995,0.4348,0.4545
 2022-08-31 14:23:08.564785,Tournament Match-Ups - Tournament Match-Up - C. Smith v B. Koepka - Tournament Match-Up,Brooks Koepka,-0.019699999999999995,0.4348,0.4545
+2022-08-31 18:03:34.021794,Tournament Match-Ups - Tournament Match-Up - C. Smith v P. Casey - Tournament Match-Up,Paul Casey,-0.019699999999999995,0.4348,0.4545
+2022-08-31 18:03:34.011262,Tournament Match-Ups - Tournament Match-Up - C. Smith v L. Oosthuizen - Tournament Match-Up,Louis Oosthuizen,-0.019699999999999995,0.4348,0.4545
 2022-08-31 16:03:10.705682,Tournament Match-Ups - Parlays - Tournament Match-Up - J. Niemann v A. Ancer - Tournament Match-Up,Abraham Ancer,-0.020699999999999996,0.4444,0.4651
 2022-08-31 14:23:08.485207,Tournament Match-Ups - Parlays - Tournament Match-Up - M. Wolff v J. Kokrak - Tournament Match-Up,Matthew Wolff,-0.02169999999999994,0.5238,0.5455
-2022-08-31 16:03:10.780274,Tournament Match-Ups - Tournament Match-Up - C. Smith v J. Niemann - Tournament Match-Up,Cameron Smith,-0.02169999999999994,0.5238,0.5455
 2022-08-31 14:23:08.321994,Tournament Match-Ups - Parlays - Tournament Match-Up - B. DeChambeau v B. Koepka - Tournament Match-Up,Bryson DeChambeau,-0.02169999999999994,0.5238,0.5455
 2022-08-31 14:23:08.515112,Tournament Match-Ups - Parlays - Tournament Match-Up - P. Reed v H. Varner III - Tournament Match-Up,Patrick Reed,-0.02169999999999994,0.5238,0.5455
+2022-08-31 16:03:10.780274,Tournament Match-Ups - Tournament Match-Up - C. Smith v J. Niemann - Tournament Match-Up,Cameron Smith,-0.02169999999999994,0.5238,0.5455
 2022-08-31 14:23:08.664130,Tournament Match-Ups - Tournament Match-Up - C. Smith v L. Oosthuizen - Tournament Match-Up,Louis Oosthuizen,-0.021699999999999997,0.4545,0.4762
 2022-08-31 12:05:06.288914,Wide Receivers - Allen Lazard Receptions 2022 Reg. Season - Outright,Under 55.5,-0.021699999999999997,0.4545,0.4762
 2022-08-31 09:03:27.648703,Premier League Futures/Specials - English Premier League 2022/23 - Winner without 'The Big Six',Brighton & Hove Albion,-0.021999999999999964,0.2857,0.3077
 2022-08-31 09:03:27.717790,Premier League Futures/Specials - English Premier League 2022/23 - Top 2 Finish,Chelsea,-0.023799999999999988,0.1429,0.1667
+2022-08-31 18:03:33.954968,Tournament Match-Ups - Parlays - Tournament Match-Up - M. Wolff v J. Kokrak - Tournament Match-Up,Matthew Wolff,-0.023799999999999988,0.4762,0.5
 2022-08-31 10:03:50.081675,Boston - Boston - Outright,Cameron Smith,-0.023799999999999988,0.1429,0.1667
 2022-08-31 17:03:20.719200,Tournament Match-Ups - Parlays - Tournament Match-Up - M. Wolff v J. Kokrak - Tournament Match-Up,Matthew Wolff,-0.023800000000000043,0.5,0.5238
-2022-08-31 06:03:20.715679,Running Backs - Elijah Mitchell Rush TD's 2022 Reg. Season - Outright,Over 6.5,-0.024399999999999977,0.4878,0.5122
+2022-08-31 18:03:33.964610,Tournament Match-Ups - Parlays - Tournament Match-Up - P. Reed v H. Varner III - Tournament Match-Up,Patrick Reed,-0.023800000000000043,0.5,0.5238
 2022-08-31 09:03:27.766405,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Crystal Palace,-0.025499999999999967,0.4,0.4255
 2022-08-31 07:05:14.574519,College Season Props - 2022 - Regular Season Wins - Michigan State - 2022 - Regular Season Wins - Michigan State,Over 7.5,-0.026499999999999968,0.5652,0.5917
-2022-08-31 06:03:15.138638,MLB Futures - MLB 2022 American League Central - ALC Winner,Chicago White Sox,-0.0267,0.0909,0.1176
 2022-08-31 09:03:27.753207,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Brighton & Hove Albion,-0.02779999999999999,0.2222,0.25
 2022-08-31 09:03:27.785360,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Leeds United,-0.027800000000000047,0.75,0.7778
 2022-08-31 09:03:27.805339,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Leicester City,-0.027999999999999914,0.8182,0.8462
-2022-08-31 06:03:15.113035,MLB Futures - MLB 2022 Amercian League - AL Winner,Houston Astros,-0.028600000000000014,0.3636,0.3922
 2022-08-31 09:03:27.785360,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Fulham,-0.028800000000000048,0.8462,0.875
 2022-08-31 09:03:27.766405,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Aston Villa,-0.030299999999999994,0.3333,0.3636
 2022-08-31 09:03:27.785360,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,West Ham United,-0.03179999999999994,0.5238,0.5556
-2022-08-31 16:03:26.493217,Transfer Specials - Cristiano Ronaldo - Club after Summer Transfer Window - Cristiano Ronaldo - Club after Summer Transfer Window,Sporting Lisbon,-0.031799999999999995,0.1111,0.1429
 2022-08-31 16:03:26.493217,Transfer Specials - Cristiano Ronaldo - Club after Summer Transfer Window - Cristiano Ronaldo - Club after Summer Transfer Window,Napoli,-0.031799999999999995,0.1111,0.1429
+2022-08-31 16:03:26.493217,Transfer Specials - Cristiano Ronaldo - Club after Summer Transfer Window - Cristiano Ronaldo - Club after Summer Transfer Window,Sporting Lisbon,-0.031799999999999995,0.1111,0.1429
 2022-08-31 09:03:27.664447,Premier League Futures/Specials - English Premier League 2022/23 - Winner without Man City & Liverpool,Chelsea,-0.03259999999999999,0.2,0.2326
 2022-08-31 08:03:07.414599,Boxing Lines - Marcin Siwy vs Kamil Sokolowski - To Win the Bout,Kamil Sokolowski,-0.03370000000000001,0.3745,0.4082
-2022-08-31 06:03:21.661018,Quarterbacks - Jameis Winston Passing INT's 2022 Reg. Season  - Jameis Winston Passing INT's 2022 Reg. Season,Over 13,-0.03480000000000005,0.5,0.5348
 2022-08-31 14:23:12.707874,NBA Season Props - 2022/23 NBA Season - Regular Season Win Totals - Cleveland Cavaliers,Under 43.5,-0.03480000000000005,0.5,0.5348
 2022-08-31 07:04:52.422463,Potential Fights - Jake Paul vs Anderson Silva - To Win the Bout,Jake Paul,-0.03489999999999999,0.4651,0.5
 2022-08-31 14:23:07.825886,74th Primetime Emmy Awards - Emmy Award - Outstanding Comedy Series - Proposition,Barry,-0.0363,0.2667,0.303
