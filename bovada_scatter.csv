@@ -1,6 +1,7 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-01 06:03:15.100191,MLB Futures - MLB 2022 National League East - NLE Winner,New York Mets,0.09960000000000002,0.9091,0.8095
 2022-09-01 06:03:16.743584,WNBA - 2022 WNBA Championship Winner - 2022 Champion,Las Vegas Aces,0.09230000000000005,0.4,0.3077
+2022-09-01 08:04:10.289524,Copa Libertadores - Copa Libertadores 2022 - Winner,Flamengo-RJ,0.06669999999999998,0.6667,0.6
 2022-09-01 06:03:15.055431,MLB Futures - MLB 2022 American League Central - ALC Winner,Cleveland Guardians,0.03710000000000002,0.6923,0.6552
 2022-09-01 00:05:19.061589,NBA Season Props - 2022/23 NBA Season - Regular Season Win Totals - Toronto Raptors,Over 45.5,0.03610000000000002,0.5917,0.5556
 2022-09-01 02:04:43.011459,NFL Specials - Fantasy Football League Leaders - Who will Score the Most Fantasy Points (PPR Scoring),Kyle Pitts,0.033399999999999985,0.1667,0.1333
@@ -8,17 +9,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-01 06:03:14.926846,KBO League - KBO League 2022 - Outright,LG Twins,0.02779999999999999,0.25,0.2222
 2022-09-01 00:05:15.734989,Boxing Lines - Claressa Shields vs Savannah Marshall - To Win the Bout,Claressa Shields,0.02740000000000009,0.5348,0.5074
 2022-09-01 02:04:42.993232,NFL Specials - Fantasy Football League Leaders - Who will Score the Most Fantasy Points (PPR Scoring),CeeDee Lamb,0.024299999999999995,0.0769,0.0526
-2022-08-31 22:05:29.633487,Boxing Lines - Hector Flores Calixto vs Sivenathi Nontshinga - To Win the Bout,Sivenathi Nontshinga,0.0232,0.3704,0.3472
 2022-09-01 06:03:15.070664,MLB Futures - MLB 2022 American League East - ALE Winner,Tampa Bay Rays,0.0232,0.0667,0.0435
+2022-08-31 22:05:29.633487,Boxing Lines - Hector Flores Calixto vs Sivenathi Nontshinga - To Win the Bout,Sivenathi Nontshinga,0.0232,0.3704,0.3472
 2022-08-31 23:03:13.719008,Made in Himmerland - 2/3 Balls - 1st Round 3 Balls - L. Donald / N. Hojgaard / A. Arnaus - 1st Round 3 Balls ,Luke Donald,0.021999999999999964,0.3077,0.2857
 2022-08-31 23:03:13.932735,Made in Himmerland - 2/3 Balls - 1st Round 3 Balls - E. Molinari / R. Hojgaard / R. Mansell - 1st Round 3 Balls ,Edoardo Molinari,0.020799999999999985,0.3333,0.3125
 2022-09-01 07:04:44.937940,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Tennessee Titans,No,0.02079999999999993,0.5556,0.5348
 2022-08-31 23:03:13.482183,Tournament Match-Ups - Parlays - Tournament Match-Up - M. Wolff v J. Kokrak - Tournament Match-Up,Jason Kokrak,0.018100000000000005,0.5833,0.5652
 2022-09-01 05:05:24.014900,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Player of the Year,Justin Jefferson,0.018099999999999998,0.0769,0.0588
 2022-08-31 23:03:13.886549,Made in Himmerland - 2/3 Balls - 1st Round 3 Balls - A. Wu / K. Broberg / G. Migliozzi - 1st Round 3 Balls ,Kristoffer Broberg,0.017600000000000005,0.3509,0.3333
-2022-09-01 03:05:21.730909,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Dallas Cowboys,Under 10,0.017299999999999982,0.5917,0.5744
 2022-08-31 22:05:29.338600,Boxing Lines - Nikodem Jezewski vs Serge Michel - To Win the Bout,Serge Michel,0.017299999999999982,0.4255,0.4082
+2022-09-01 03:05:21.730909,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Dallas Cowboys,Under 10,0.017299999999999982,0.5917,0.5744
 2022-09-01 06:03:14.363997,Boxing Lines - Marcin Siwy vs Kamil Sokolowski - To Win the Bout,Kamil Sokolowski,0.01689999999999997,0.3448,0.3279
+2022-09-01 07:04:32.662125,NCAAF - 2022 ACC Championship - 2022 ACC Championship Winner,NC State,0.015700000000000006,0.1333,0.1176
 2022-09-01 06:03:15.070664,MLB Futures - MLB 2022 American League East - ALE Winner,Toronto Blue Jays,0.015300000000000001,0.0588,0.0435
 2022-08-31 22:05:29.769151,Boxing Lines - Jose Valenzuela vs Jezzrel Corrales - To Win the Bout,Jose Valenzuela,0.013900000000000023,0.8889,0.875
 2022-09-01 07:04:27.515795,MLB Futures - MLB 2022 Amercian League - AL Winner,Toronto Blue Jays,0.013899999999999996,0.125,0.1111
@@ -26,19 +28,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-08-31 22:05:29.439803,Boxing Lines - John Docherty vs Diego Costa - To Win the Bout,Diego Costa,0.0121,0.1333,0.1212
 2022-09-01 00:05:15.705106,Boxing Lines - Isaac Cruz Gonzalez vs Eduardo Ramirez - To Win the Bout,Eduardo Ramirez,0.011899999999999994,0.1905,0.1786
 2022-08-31 23:03:16.352497,Boxing Lines - Abner Mares vs Miguel Flores - To Win the Bout,Miguel Flores,0.011899999999999966,0.3509,0.339
-2022-09-01 07:04:26.830534,Boxing Lines - Marcin Siwy vs Kamil Sokolowski - To Win the Bout,Marcin Siwy,0.011099999999999999,0.7333,0.7222
 2022-08-31 22:05:29.557486,Boxing Lines - Albert Bell vs Nicolas Polanco - To Win the Bout,Nicolas Polanco,0.011099999999999999,0.1111,0.1
-2022-08-31 22:05:29.709580,Boxing Lines - Abner Mares vs Miguel Flores - To Win the Bout,Miguel Flores,0.011099999999999999,0.339,0.3279
 2022-09-01 00:05:15.690511,Boxing Lines - Jose Valenzuela vs Jezzrel Corrales - To Win the Bout,Jose Valenzuela,0.011099999999999999,0.9,0.8889
-2022-08-31 20:03:06.047406,Made in Himmerland - 2/3 Balls - 1st Round 3 Balls - R. Langasque / M. Schneider / C. Wood - 1st Round 3 Balls,Romain Langasque,0.010099999999999998,0.4545,0.4444
+2022-08-31 22:05:29.709580,Boxing Lines - Abner Mares vs Miguel Flores - To Win the Bout,Miguel Flores,0.011099999999999999,0.339,0.3279
+2022-09-01 07:04:26.830534,Boxing Lines - Marcin Siwy vs Kamil Sokolowski - To Win the Bout,Marcin Siwy,0.011099999999999999,0.7333,0.7222
 2022-09-01 07:04:27.515795,MLB Futures - MLB 2022 Amercian League - AL Winner,Tampa Bay Rays,-0.0102,0.0667,0.0769
 2022-08-31 23:03:13.482183,Tournament Match-Ups - Parlays - Tournament Match-Up - M. Wolff v J. Kokrak - Tournament Match-Up,Matthew Wolff,-0.011099999999999999,0.4651,0.4762
 2022-09-01 07:04:27.515795,MLB Futures - MLB 2022 Amercian League - AL Winner,Minnesota Twins,-0.011199999999999995,0.0323,0.0435
 2022-09-01 03:05:21.730909,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Dallas Cowboys,Over 10,-0.0116,0.4762,0.4878
-2022-08-31 20:03:06.047406,Made in Himmerland - 2/3 Balls - 1st Round 3 Balls - R. Langasque / M. Schneider / C. Wood - 1st Round 3 Balls,Chris Wood,-0.011700000000000016,0.2105,0.2222
 2022-09-01 06:03:14.542944,Boxing Lines - Abner Mares vs Miguel Flores - To Win the Bout,Miguel Flores,-0.011899999999999966,0.339,0.3509
-2022-09-01 03:05:21.891183,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Houston Texans,Under 4.5,-0.012199999999999989,0.4878,0.5
 2022-09-01 00:05:18.469659,NBA Season Props - 2022/23 NBA Season - Regular Season Win Totals - Cleveland Cavaliers,Under 43.5,-0.012199999999999989,0.4878,0.5
+2022-09-01 03:05:21.891183,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Houston Texans,Under 4.5,-0.012199999999999989,0.4878,0.5
 2022-09-01 03:05:22.371731,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Seattle Seahawks,Over 5.5,-0.012199999999999989,0.5,0.5122
 2022-08-31 23:03:13.719008,Made in Himmerland - 2/3 Balls - 1st Round 3 Balls - L. Donald / N. Hojgaard / A. Arnaus - 1st Round 3 Balls ,Nicolai Hojgaard,-0.012699999999999989,0.3509,0.3636
 2022-08-31 23:03:16.254634,Boxing Lines - Hector Flores Calixto vs Sivenathi Nontshinga - To Win the Bout,Sivenathi Nontshinga,-0.013300000000000034,0.3571,0.3704
@@ -58,4 +58,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-01 00:05:19.003371,NBA Season Props - 2022/23 NBA Season - Regular Season Win Totals - Sacramento Kings,Under 33.5,-0.03480000000000005,0.5,0.5348
 2022-09-01 00:05:19.061589,NBA Season Props - 2022/23 NBA Season - Regular Season Win Totals - Toronto Raptors,Under 45.5,-0.035999999999999976,0.4762,0.5122
 2022-09-01 06:03:14.926846,KBO League - KBO League 2022 - Outright,Kiwoom Heroes,-0.05679999999999999,0.125,0.1818
+2022-09-01 08:04:10.289524,Copa Libertadores - Copa Libertadores 2022 - Winner,Velez Sarsfield,-0.061500000000000006,0.0385,0.1
 2022-09-01 06:03:16.743584,WNBA - 2022 WNBA Championship Winner - 2022 Champion,Connecticut Sun,-0.0635,0.2222,0.2857
