@@ -9,9 +9,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-01 15:04:33.135731,WNBA - 2022 WNBA Championship Winner - Series Correct Score,Las Vegas Aces 3-1,0.08359999999999998,0.2941,0.2105
 2022-09-01 15:04:33.159748,WNBA - 2022 WNBA Championship Winner - Series Exact Order,G1 Seattle Storm / G2 Las Vegas Aces / G3 Las Vegas Aces / G4 Las Vegas Aces,0.07189999999999996,0.2941,0.2222
 2022-09-01 15:04:33.148742,WNBA - 2022 WNBA Championship Winner - Series Correct Score,Connecticut Sun 3-2,0.06840000000000002,0.2222,0.1538
-2022-09-01 15:04:33.159748,WNBA - 2022 WNBA Championship Winner - Series Exact Order,G1 Seattle Storm / G2 Las Vegas Aces / G3 Las Vegas Aces / G4 Seattle Storm / G5 Las Vegas Aces,0.06670000000000001,0.2,0.1333
-2022-09-01 15:04:33.159748,WNBA - 2022 WNBA Championship Winner - Series Exact Order,G1 Seattle Storm / G2 Las Vegas Aces / G3 Seattle Storm / G4 Las Vegas Aces / G5 Las Vegas Aces,0.06670000000000001,0.2,0.1333
 2022-09-01 15:04:56.408073,NFL Specials - Fantasy Football League Leaders - Who will Score the Most Fantasy Points (Non PPR Scoring),Lamar Jackson,0.06670000000000001,0.2,0.1333
+2022-09-01 15:04:33.159748,WNBA - 2022 WNBA Championship Winner - Series Exact Order,G1 Seattle Storm / G2 Las Vegas Aces / G3 Seattle Storm / G4 Las Vegas Aces / G5 Las Vegas Aces,0.06670000000000001,0.2,0.1333
+2022-09-01 15:04:33.159748,WNBA - 2022 WNBA Championship Winner - Series Exact Order,G1 Seattle Storm / G2 Las Vegas Aces / G3 Las Vegas Aces / G4 Seattle Storm / G5 Las Vegas Aces,0.06670000000000001,0.2,0.1333
 2022-09-01 15:04:29.470996,Brazilian Politics - 2022 Brazilian Presidential Election - Winner,Jair Bolsonaro,0.0595,0.4762,0.4167
 2022-09-01 15:04:33.135731,WNBA - 2022 WNBA Championship Winner - Series Correct Score,Las Vegas Aces 3-2,0.05790000000000001,0.3704,0.3125
 2022-09-01 15:04:33.175985,WNBA - 2022 WNBA Championship Winner - Series Exact Order,G1 Connecticut Sun / G2 Chicago Sky / G3 Connecticut Sun / G4 Chicago Sky / G5 Chicago Sky,0.05679999999999999,0.1818,0.125
@@ -20,50 +20,34 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-01 23:03:23.872426,Boxing Lines - Dan Azeez vs Shakan Pitters - To Win the Bout,Dan Azeez,0.05070000000000008,0.8333,0.7826
 2022-09-01 15:04:59.393273,NCAA Football Specials - Teams To Go Undefeated in the Regular Season & Conference Championships - Undefeated Season,Alabama Crimson Tide,0.047599999999999976,0.3333,0.2857
 2022-09-01 15:04:33.135731,WNBA - 2022 WNBA Championship Winner - Series Correct Score,Seattle Storm 3-2,0.04620000000000002,0.2,0.1538
+2022-09-02 01:05:14.240539,NCAA Football Specials - Teams To Go Undefeated in the Regular Season & Conference Championships - Undefeated Season,Michigan Wolverines,0.04329999999999999,0.0909,0.0476
 2022-09-01 15:04:31.349327,Boston - 2/3 Balls - 1st Round 3 Balls - J. Morgan / S. Norris / S. Kim - 1st Round 3 Balls,Shaun Norris,0.03620000000000001,0.4444,0.4082
-2022-09-01 15:04:33.175985,WNBA - 2022 WNBA Championship Winner - Series Exact Order,G1 Connecticut Sun / G2 Chicago Sky / G3 Chicago Sky / G4 Connecticut Sun / G5 Connecticut Sun,0.03420000000000001,0.1111,0.0769
 2022-09-01 15:04:33.175985,WNBA - 2022 WNBA Championship Winner - Series Exact Order,G1 Connecticut Sun / G2 Chicago Sky / G3 Connecticut Sun / G4 Chicago Sky / G5 Connecticut Sun,0.03420000000000001,0.1111,0.0769
-2022-09-01 12:03:59.952124,Tournament Match-Ups - Tournament Match-Up - C. Smith v B. DeChambeau - Tournament Match-Up,Cameron Smith,0.03370000000000006,0.6491,0.6154
+2022-09-01 15:04:33.175985,WNBA - 2022 WNBA Championship Winner - Series Exact Order,G1 Connecticut Sun / G2 Chicago Sky / G3 Chicago Sky / G4 Connecticut Sun / G5 Connecticut Sun,0.03420000000000001,0.1111,0.0769
 2022-09-01 15:04:31.526551,Dana Open - 2/3 Balls - 1st Round 3-Balls - L. Maguire / B. Henderson / P. Reto - 1st Round 3-Balls,Brooke Henderson,0.031799999999999995,0.4762,0.4444
-2022-09-01 13:04:50.450228,Round Match-Ups - 1st Round Match-Up - L. Oosthuizen v B. Koepka - 1st Round Match-Up,Louis Oosthuizen,0.030399999999999983,0.5652,0.5348
 2022-09-01 15:04:56.485908,NFL Specials - Fantasy Football League Leaders - Who will Score the Most Fantasy Points (PPR Scoring),CeeDee Lamb,0.02840000000000001,0.1053,0.0769
 2022-09-01 15:04:56.485908,NFL Specials - Fantasy Football League Leaders - Who will Score the Most Fantasy Points (PPR Scoring),Davante Adams,0.028399999999999995,0.0909,0.0625
-2022-09-01 12:03:59.963841,Tournament Match-Ups - Tournament Match-Up - C. Smith v B. Koepka - Tournament Match-Up,Cameron Smith,0.026499999999999968,0.6491,0.6226
-2022-09-01 12:04:00.009548,Tournament Match-Ups - Tournament Match-Up - C. Smith v P. Reed - Tournament Match-Up,Cameron Smith,0.026499999999999968,0.6491,0.6226
-2022-09-01 12:04:00.017655,Tournament Match-Ups - Tournament Match-Up - C. Smith v S. Garcia - Tournament Match-Up,Cameron Smith,0.026499999999999968,0.6491,0.6226
-2022-09-01 23:03:38.360599,NFL Specials - First Coach to Permanently leave position - First Coach to Permanently leave position,Arthur Smith,0.0242,0.0909,0.0667
 2022-09-01 23:03:38.360599,NFL Specials - First Coach to Permanently leave position - First Coach to Permanently leave position,Robert Saleh,0.0242,0.0909,0.0667
+2022-09-01 23:03:38.360599,NFL Specials - First Coach to Permanently leave position - First Coach to Permanently leave position,Arthur Smith,0.0242,0.0909,0.0667
 2022-09-01 15:04:33.159748,WNBA - 2022 WNBA Championship Winner - Series Exact Order,G1 Seattle Storm / G2 Las Vegas Aces / G3 Seattle Storm / G4 Las Vegas Aces / G5 Seattle Storm,0.02310000000000001,0.1,0.0769
 2022-09-01 15:04:31.494399,Dana Open - 2/3 Balls - 1st Round 3-Balls - D. Kang / I. Gee Chun / L. Ko - 1st Round 3-Balls,Lydia Ko,0.022699999999999998,0.4878,0.4651
 2022-09-01 23:03:24.388866,Big Brother - Big Brother 24 - Odds to Win,Monte Taylor,0.022199999999999998,0.2222,0.2
-2022-09-01 12:03:59.989574,Tournament Match-Ups - Tournament Match-Up - C. Smith v L. Oosthuizen - Tournament Match-Up,Cameron Smith,0.02180000000000004,0.6296,0.6078
-2022-09-01 13:04:50.513885,Round Match-Ups - 1st Round Match-Up - T. Gooch v P. Reed - 1st Round Match-Up,Talor Gooch,0.02079999999999993,0.5556,0.5348
-2022-09-01 12:03:59.932626,Tournament Match-Ups - Parlays - Tournament Match-Up - P. Reed v H. Varner III - Tournament Match-Up,Harold Varner III,0.01970000000000005,0.5652,0.5455
 2022-09-01 15:04:31.555364,Dana Open - 2/3 Balls - 1st Round 3-Balls - A. Stanford / M. Khang / C. Hull - 1st Round 3-Balls,Megan Khang,0.019699999999999995,0.4545,0.4348
 2022-09-01 15:04:33.159748,WNBA - 2022 WNBA Championship Winner - Series Exact Order,G1 Seattle Storm / G2 Las Vegas Aces / G3 Las Vegas Aces / G4 Seattle Storm / G5 Seattle Storm,0.01830000000000001,0.0952,0.0769
-2022-09-01 12:04:07.880924,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Tampa Bay Buccaneers,Under 12.5,0.017400000000000082,0.8,0.7826
-2022-09-01 12:03:58.451708,Boxing Lines - Natasha Jonas vs Patricia Berghult - To Win the Bout,Natasha Jonas,0.016799999999999926,0.8571,0.8403
 2022-09-01 21:04:49.694419,Boxing Lines - Marcin Siwy vs Kamil Sokolowski - To Win the Bout,Marcin Siwy,0.016700000000000048,0.75,0.7333
-2022-09-01 12:03:59.899687,Tournament Match-Ups - Parlays - Tournament Match-Up - D. Johnson v T. Gooch - Tournament Match-Up,Dustin Johnson,0.016699999999999937,0.6,0.5833
-2022-09-01 12:04:00.001271,Tournament Match-Ups - Tournament Match-Up - C. Smith v P. Casey - Tournament Match-Up,Cameron Smith,0.014800000000000035,0.6226,0.6078
+2022-09-02 01:04:59.437244,Round Match-Ups - 1st Round Match-Up - J. Niemann v B. DeChambeau - 1st Round Match-Up,Joaquin Niemann,0.016100000000000003,0.6078,0.5917
 2022-09-02 00:03:02.277201,Boxing Lines - Marcin Siwy vs Kamil Sokolowski - To Win the Bout,Marcin Siwy,0.014700000000000046,0.7647,0.75
 2022-09-01 15:04:33.135731,WNBA - 2022 WNBA Championship Winner - Series Correct Score,Seattle Storm 3-1,0.014600000000000002,0.2778,0.2632
 2022-09-01 23:03:23.899811,Boxing Lines - Albert Bell vs Nicolas Polanco - To Win the Bout,Albert Bell,0.014100000000000001,0.9615,0.9474
 2022-09-01 23:03:40.665589,Serie A - Italy Serie A 2022/23 - Winner,Atalanta,0.013999999999999999,0.0909,0.0769
 2022-09-01 23:03:23.907371,Boxing Lines - Eduardo Hernandez vs Jorge Mata Cuellar - To Win the Bout,Eduardo Hernandez,0.013900000000000023,0.8889,0.875
-2022-09-01 12:03:59.908169,Tournament Match-Ups - Parlays - Tournament Match-Up - J. Niemann v A. Ancer - Tournament Match-Up,Joaquin Niemann,0.013799999999999923,0.6364,0.6226
 2022-09-01 15:04:59.424528,NCAA Football Specials - Total Regular Seaosn Games Coached by Scott Frost in 2022? - Scott Frost Special,Under 8.5,0.012699999999999989,0.3636,0.3509
-2022-09-01 12:03:59.916372,Tournament Match-Ups - Parlays - Tournament Match-Up - L. Oosthuizen v P. Casey - Tournament Match-Up,Paul Casey,0.012199999999999989,0.5122,0.5
 2022-09-01 15:04:56.408073,NFL Specials - Fantasy Football League Leaders - Who will Score the Most Fantasy Points (Non PPR Scoring),Josh Allen,0.011700000000000016,0.2222,0.2105
-2022-09-01 12:03:59.980767,Tournament Match-Ups - Tournament Match-Up - C. Smith v J. Niemann - Tournament Match-Up,Joaquin Niemann,0.011600000000000055,0.5238,0.5122
-2022-09-01 12:03:59.972331,Tournament Match-Ups - Tournament Match-Up - C. Smith v D. Johnson - Tournament Match-Up,Dustin Johnson,0.011600000000000055,0.5238,0.5122
 2022-09-01 23:03:38.379356,NFL Specials - Who will announce retirement at end of the season? - Proposition,Julio Jones,0.0102,0.0769,0.0667
-2022-09-01 15:04:31.494399,Dana Open - 2/3 Balls - 1st Round 3-Balls - D. Kang / I. Gee Chun / L. Ko - 1st Round 3-Balls,In Gee Chun,-0.010099999999999998,0.3125,0.3226
 2022-09-01 15:04:56.509602,NFL Specials - Fantasy Football League Leaders - Who will Score the Most Fantasy Points (PPR Scoring),George Kittle,-0.010099999999999998,0.0952,0.1053
-2022-09-01 12:03:59.924408,Tournament Match-Ups - Parlays - Tournament Match-Up - M. Wolff v J. Kokrak - Tournament Match-Up,Matthew Wolff,-0.010599999999999998,0.4545,0.4651
-2022-09-01 12:03:59.916372,Tournament Match-Ups - Parlays - Tournament Match-Up - L. Oosthuizen v P. Casey - Tournament Match-Up,Louis Oosthuizen,-0.010699999999999932,0.5348,0.5455
-2022-09-01 12:03:59.972331,Tournament Match-Ups - Tournament Match-Up - C. Smith v D. Johnson - Tournament Match-Up,Cameron Smith,-0.01100000000000001,0.5238,0.5348
-2022-09-01 12:03:59.980767,Tournament Match-Ups - Tournament Match-Up - C. Smith v J. Niemann - Tournament Match-Up,Cameron Smith,-0.01100000000000001,0.5238,0.5348
+2022-09-01 15:04:31.494399,Dana Open - 2/3 Balls - 1st Round 3-Balls - D. Kang / I. Gee Chun / L. Ko - 1st Round 3-Balls,In Gee Chun,-0.010099999999999998,0.3125,0.3226
+2022-09-02 01:04:58.245435,Boxing Lines - Natasha Jonas vs Patricia Berghult - To Win the Bout,Patricia Berghult,-0.010499999999999982,0.2,0.2105
+2022-09-02 01:04:58.500502,Potential Fights - Jake Paul vs Anderson Silva - To Win the Bout,Jake Paul,-0.010599999999999998,0.4545,0.4651
 2022-09-01 21:04:49.678745,Boxing Lines - Konrad Kaczmarkiewicz vs Kristof Kovacs - To Win the Bout,Kristof Kovacs,-0.011099999999999999,0.1,0.1111
 2022-09-01 15:04:56.509602,NFL Specials - Fantasy Football League Leaders - Who will Score the Most Fantasy Points (PPR Scoring),Darren Waller,-0.011099999999999999,0.1,0.1111
 2022-09-01 15:04:56.408073,NFL Specials - Fantasy Football League Leaders - Who will Score the Most Fantasy Points (Non PPR Scoring),Tom Brady,-0.011900000000000008,0.0833,0.0952
@@ -71,32 +55,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-01 15:04:56.485908,NFL Specials - Fantasy Football League Leaders - Who will Score the Most Fantasy Points (PPR Scoring),Cooper Kupp,-0.013800000000000034,0.3636,0.3774
 2022-09-01 23:03:38.360599,NFL Specials - First Coach to Permanently leave position - First Coach to Permanently leave position,Frank Reich,-0.013899999999999996,0.1111,0.125
 2022-09-01 15:04:56.408073,NFL Specials - Fantasy Football League Leaders - Who will Score the Most Fantasy Points (Non PPR Scoring),Kyler Murray,-0.013999999999999999,0.0769,0.0909
-2022-09-01 15:04:31.349327,Boston - 2/3 Balls - 1st Round 3 Balls - J. Morgan / S. Norris / S. Kim - 1st Round 3 Balls,Jediah Morgan,-0.01469999999999999,0.2353,0.25
 2022-09-01 15:04:31.526551,Dana Open - 2/3 Balls - 1st Round 3-Balls - L. Maguire / B. Henderson / P. Reto - 1st Round 3-Balls,Paula Reto,-0.01469999999999999,0.2353,0.25
+2022-09-01 15:04:31.349327,Boston - 2/3 Balls - 1st Round 3 Balls - J. Morgan / S. Norris / S. Kim - 1st Round 3 Balls,Jediah Morgan,-0.01469999999999999,0.2353,0.25
 2022-09-01 15:04:31.526551,Dana Open - 2/3 Balls - 1st Round 3-Balls - L. Maguire / B. Henderson / P. Reto - 1st Round 3-Balls,Leona Maguire,-0.015400000000000025,0.3846,0.4
-2022-09-01 12:03:59.908169,Tournament Match-Ups - Parlays - Tournament Match-Up - J. Niemann v A. Ancer - Tournament Match-Up,Abraham Ancer,-0.017299999999999982,0.4082,0.4255
 2022-09-01 15:04:31.555364,Dana Open - 2/3 Balls - 1st Round 3-Balls - A. Stanford / M. Khang / C. Hull - 1st Round 3-Balls,Charley Hull,-0.017299999999999982,0.4082,0.4255
 2022-09-01 23:03:38.360599,NFL Specials - First Coach to Permanently leave position - First Coach to Permanently leave position,Ron Rivera,-0.01759999999999999,0.1,0.1176
 2022-09-01 15:04:56.509602,NFL Specials - Fantasy Football League Leaders - Who will Score the Most Fantasy Points (PPR Scoring),Travis Kelce,-0.017600000000000005,0.3333,0.3509
 2022-09-01 15:04:56.509602,NFL Specials - Fantasy Football League Leaders - Who will Score the Most Fantasy Points (PPR Scoring),Mark Andrews,-0.017600000000000005,0.3333,0.3509
-2022-09-01 12:03:59.989574,Tournament Match-Ups - Tournament Match-Up - C. Smith v L. Oosthuizen - Tournament Match-Up,Louis Oosthuizen,-0.018100000000000005,0.4167,0.4348
 2022-09-01 15:04:31.349327,Boston - 2/3 Balls - 1st Round 3 Balls - J. Morgan / S. Norris / S. Kim - 1st Round 3 Balls,Sihwan Kim,-0.018100000000000005,0.4167,0.4348
 2022-09-01 15:04:56.485908,NFL Specials - Fantasy Football League Leaders - Who will Score the Most Fantasy Points (PPR Scoring),Ja'Marr Chase,-0.01820000000000002,0.1818,0.2
 2022-09-01 15:04:56.408073,NFL Specials - Fantasy Football League Leaders - Who will Score the Most Fantasy Points (Non PPR Scoring),Patrick Mahomes,-0.01820000000000002,0.1818,0.2
 2022-09-01 15:04:56.408073,NFL Specials - Fantasy Football League Leaders - Who will Score the Most Fantasy Points (Non PPR Scoring),Matthew Stafford,-0.019000000000000003,0.0435,0.0625
 2022-09-01 22:05:09.096500,Boxing Lines - Nikodem Jezewski vs Serge Michel - To Win the Bout,Serge Michel,-0.019000000000000017,0.4065,0.4255
-2022-09-01 12:04:07.880924,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Tampa Bay Buccaneers,Over 12.5,-0.019000000000000017,0.2667,0.2857
-2022-09-01 12:03:59.899687,Tournament Match-Ups - Parlays - Tournament Match-Up - D. Johnson v T. Gooch - Tournament Match-Up,Talor Gooch,-0.020699999999999996,0.4444,0.4651
+2022-09-02 01:04:59.437244,Round Match-Ups - 1st Round Match-Up - J. Niemann v B. DeChambeau - 1st Round Match-Up,Bryson DeChambeau,-0.019699999999999995,0.4348,0.4545
 2022-09-01 22:05:09.653164,Boxing Lines - Claressa Shields vs Savannah Marshall - To Win the Bout,Claressa Shields,-0.022600000000000064,0.5122,0.5348
 2022-09-01 23:03:38.360599,NFL Specials - First Coach to Permanently leave position - First Coach to Permanently leave position,Pete Carroll,-0.023799999999999988,0.1429,0.1667
-2022-09-01 12:03:59.932626,Tournament Match-Ups - Parlays - Tournament Match-Up - P. Reed v H. Varner III - Tournament Match-Up,Patrick Reed,-0.023799999999999988,0.4762,0.5
-2022-09-01 13:04:50.513885,Round Match-Ups - 1st Round Match-Up - T. Gooch v P. Reed - 1st Round Match-Up,Patrick Reed,-0.024399999999999977,0.4878,0.5122
-2022-09-01 12:04:00.009548,Tournament Match-Ups - Tournament Match-Up - C. Smith v P. Reed - Tournament Match-Up,Patrick Reed,-0.033299999999999996,0.3922,0.4255
-2022-09-01 12:03:59.963841,Tournament Match-Ups - Tournament Match-Up - C. Smith v B. Koepka - Tournament Match-Up,Brooks Koepka,-0.033299999999999996,0.3922,0.4255
-2022-09-01 12:03:59.952124,Tournament Match-Ups - Tournament Match-Up - C. Smith v B. DeChambeau - Tournament Match-Up,Bryson DeChambeau,-0.033299999999999996,0.3922,0.4255
-2022-09-01 12:04:00.017655,Tournament Match-Ups - Tournament Match-Up - C. Smith v S. Garcia - Tournament Match-Up,Sergio Garcia,-0.033299999999999996,0.3922,0.4255
+2022-09-02 01:05:14.240539,NCAA Football Specials - Teams To Go Undefeated in the Regular Season & Conference Championships - Undefeated Season,Georgia Bulldogs,-0.02779999999999999,0.2222,0.25
 2022-09-01 23:03:23.872426,Boxing Lines - Dan Azeez vs Shakan Pitters - To Win the Bout,Shakan Pitters,-0.034999999999999976,0.2353,0.2703
-2022-09-01 13:04:50.450228,Round Match-Ups - 1st Round Match-Up - L. Oosthuizen v B. Koepka - 1st Round Match-Up,Brooks Koepka,-0.035999999999999976,0.4762,0.5122
 2022-09-01 15:04:29.470996,Brazilian Politics - 2022 Brazilian Presidential Election - Winner,Lula da Silva,-0.04910000000000003,0.6,0.6491
 2022-09-01 15:04:33.123199,WNBA - 2022 WNBA Championship Winner - Semifinals Series Price,Seattle Storm,-0.09830000000000005,0.4255,0.5238
 2022-09-01 15:04:33.112183,WNBA - 2022 WNBA Championship Winner - Semifinals Series Price,Connecticut Sun,-0.179,0.4762,0.6552
