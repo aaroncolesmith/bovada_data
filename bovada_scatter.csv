@@ -7,14 +7,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-02 20:03:07.532068,NCAAF - 2022 Mountain West Championship - Mountain West Championship Game Winner,Fresno State,0.028500000000000025,0.3226,0.2941
 2022-09-02 20:03:07.521923,NCAAF - 2022 Mountain West Championship - Mountain West Championship - West Division Winner,UNLV,0.028199999999999996,0.0667,0.0385
 2022-09-02 14:05:35.201141,NBA Season Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Detroit Pistons,0.027800000000000005,0.1111,0.0833
-2022-09-02 21:02:49.978557,NCAAF - 2022 Big Ten Championship  - Big Ten West Division Winner 2022,Iowa,0.02779999999999999,0.25,0.2222
 2022-09-02 14:05:35.892204,NBA Futures - 2022-2023 NBA Central Division - Central Division Winner,Cleveland Cavaliers,0.02779999999999999,0.25,0.2222
+2022-09-02 21:02:49.978557,NCAAF - 2022 Big Ten Championship  - Big Ten West Division Winner 2022,Iowa,0.02779999999999999,0.25,0.2222
+2022-09-03 00:04:22.506987,Big Brother - Big Brother 24 - America's Favorite HouseGuest,Joseph Abdin,0.026499999999999996,0.0588,0.0323
 2022-09-02 21:02:49.963470,NCAAF - 2022 Big Ten Championship  - 2022 Big Ten Championship Winner,Nebraska,0.025599999999999998,0.0435,0.0179
 2022-09-02 14:05:35.211443,NBA Season Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Portland Trail Blazers,0.025599999999999956,0.6,0.5744
 2022-09-02 21:02:49.978557,NCAAF - 2022 Big Ten Championship  - Big Ten West Division Winner 2022,Wisconsin,0.024500000000000022,0.4167,0.3922
 2022-09-02 21:02:49.971846,NCAAF - 2022 Big Ten Championship  - Big Ten East Division Winner (Without NJ College) 2022,Michigan State,0.024299999999999995,0.0769,0.0526
-2022-09-02 14:05:35.201141,NBA Season Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Milwaukee Bucks,0.023799999999999988,0.1667,0.1429
 2022-09-02 14:05:35.211443,NBA Season Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Minnesota Timberwolves,0.023799999999999988,0.5,0.4762
+2022-09-02 14:05:35.201141,NBA Season Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Milwaukee Bucks,0.023799999999999988,0.1667,0.1429
 2022-09-02 20:03:07.532068,NCAAF - 2022 Mountain West Championship - Mountain West Championship Game Winner,Air Force,0.022199999999999998,0.2222,0.2
 2022-09-02 14:05:34.850708,Boston - 2/3 Balls - 1st Round 3 Balls - C. Smith / D. Johnson / H. Stenson - 1st Round 3 Balls,Cameron Smith,0.019699999999999995,0.4545,0.4348
 2022-09-02 16:03:48.687610,Futures - Presidents Cup 2022 - Outright,Internationals,0.018599999999999978,0.1667,0.1481
@@ -28,10 +29,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-02 15:03:32.061205,Boxing Lines - Marcin Siwy vs Kamil Sokolowski - To Win the Bout,Kamil Sokolowski,0.014000000000000012,0.3125,0.2985
 2022-09-02 20:03:07.369434,NCAAF - 2022 Big 12 Championship  - 2022 Big 12 Championship Winner,Kansas State,0.013999999999999999,0.0909,0.0769
 2022-09-02 20:03:07.396248,NCAAF - 2022 Pac-12 Championship - 2022 Pac-12 Championship Winner,Utah,0.013600000000000001,0.3077,0.2941
-2022-09-02 12:04:42.124385,Boxing Lines - Hector Flores Calixto vs Sivenathi Nontshinga - To Win the Bout,Sivenathi Nontshinga,0.013300000000000034,0.3704,0.3571
 2022-09-02 14:05:33.695396,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Field,0.011900000000000022,0.7619,0.75
-2022-09-02 13:05:59.365918,NFL Specials - Cooper Kupp and Steffon Diggs to both score a TD win Week 1 - Proposition,Yes,0.011700000000000016,0.2222,0.2105
 2022-09-02 14:05:35.211443,NBA Season Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Phoenix Suns,0.011700000000000016,0.2222,0.2105
+2022-09-02 13:05:59.365918,NFL Specials - Cooper Kupp and Steffon Diggs to both score a TD win Week 1 - Proposition,Yes,0.011700000000000016,0.2222,0.2105
 2022-09-02 14:05:35.201141,NBA Season Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Chicago Bulls,0.011600000000000055,0.5238,0.5122
 2022-09-02 21:02:49.971846,NCAAF - 2022 Big Ten Championship  - Big Ten East Division Winner (Without NJ College) 2022,Penn State,0.011099999999999999,0.1111,0.1
 2022-09-02 14:05:33.772224,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Joe Biden,0.010899999999999993,0.1538,0.1429
@@ -47,7 +47,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-02 14:05:35.867817,NBA Futures - 2022-2023 NBA Western Conference - Western Conference Winner,Golden State Warriors,-0.0131,0.2222,0.2353
 2022-09-02 14:05:33.772224,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Ron DeSantis,-0.01319999999999999,0.25,0.2632
 2022-09-02 14:05:35.926545,NBA Futures - 2022-2023 NBA Southeast Division - Southeast Division Winner,Atlanta Hawks,-0.013300000000000034,0.3571,0.3704
-2022-09-02 12:04:42.124385,Boxing Lines - Hector Flores Calixto vs Sivenathi Nontshinga - To Win the Bout,Hector Flores Calixto,-0.013599999999999945,0.6923,0.7059
 2022-09-02 21:02:49.963470,NCAAF - 2022 Big Ten Championship  - 2022 Big Ten Championship Winner,Wisconsin,-0.013999999999999999,0.0769,0.0909
 2022-09-02 20:03:07.514938,NCAAF - 2022 Mountain West Championship - Mountain West Championship - Mountain Division Winner,Wyoming,-0.014100000000000001,0.0385,0.0526
 2022-09-02 14:05:35.880416,NBA Futures - 2022-2023 NBA Atlantic Division - Atlantic Division Winner,Toronto Raptors,-0.014399999999999996,0.0625,0.0769
@@ -55,8 +54,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-02 23:04:58.103835,Boxing Lines - Joey Spencer vs Kevin Salgado Zambrano - To Win the Bout,Kevin Salgado Zambrano,-0.014500000000000013,0.2128,0.2273
 2022-09-02 14:05:34.850708,Boston - 2/3 Balls - 1st Round 3 Balls - C. Smith / D. Johnson / H. Stenson - 1st Round 3 Balls,Henrik Stenson,-0.01469999999999999,0.2353,0.25
 2022-09-02 14:05:35.853119,NBA Futures - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Toronto Raptors,-0.014899999999999997,0.0476,0.0625
-2022-09-02 14:05:35.867817,NBA Futures - 2022-2023 NBA Western Conference - Western Conference Winner,Phoenix Suns,-0.015100000000000002,0.1667,0.1818
 2022-09-02 14:05:35.201141,NBA Season Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Brooklyn Nets,-0.015100000000000002,0.1667,0.1818
+2022-09-02 14:05:35.867817,NBA Futures - 2022-2023 NBA Western Conference - Western Conference Winner,Phoenix Suns,-0.015100000000000002,0.1667,0.1818
 2022-09-02 14:05:35.903978,NBA Futures - 2022-2023 NBA Northwest Division - Northwest Division Winner,Denver Nuggets,-0.01539999999999997,0.6,0.6154
 2022-09-02 21:02:49.963470,NCAAF - 2022 Big Ten Championship  - 2022 Big Ten Championship Winner,Purdue,-0.0159,0.0164,0.0323
 2022-09-02 14:05:33.772224,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,-0.016699999999999993,0.25,0.2667
@@ -70,8 +69,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-02 20:03:07.356151,NCAAF - 2022 ACC Championship - Coastal Division Winner,Pittsburgh,-0.02779999999999999,0.25,0.2778
 2022-09-02 21:02:49.971846,NCAAF - 2022 Big Ten Championship  - Big Ten East Division Winner (Without NJ College) 2022,Ohio State,-0.027800000000000047,0.75,0.7778
 2022-09-02 20:03:07.369434,NCAAF - 2022 Big 12 Championship  - 2022 Big 12 Championship Winner,Oklahoma State,-0.028799999999999992,0.125,0.1538
-2022-09-02 14:05:33.788690,Brazilian Politics - 2022 Brazilian Presidential Election - Winner,Jair Bolsonaro,-0.031799999999999995,0.4444,0.4762
 2022-09-02 14:05:33.753821,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,-0.031799999999999995,0.4444,0.4762
+2022-09-02 14:05:33.788690,Brazilian Politics - 2022 Brazilian Presidential Election - Winner,Jair Bolsonaro,-0.031799999999999995,0.4444,0.4762
 2022-09-02 20:03:07.521923,NCAAF - 2022 Mountain West Championship - Mountain West Championship - West Division Winner,San Diego State,-0.032299999999999995,0.3125,0.3448
 2022-09-02 15:03:32.195203,Boxing Lines - Dan Azeez vs Shakan Pitters - To Win the Bout,Dan Azeez,-0.033299999999999996,0.8,0.8333
 2022-09-02 14:05:35.892204,NBA Futures - 2022-2023 NBA Central Division - Central Division Winner,Milwaukee Bucks,-0.035699999999999954,0.7143,0.75
