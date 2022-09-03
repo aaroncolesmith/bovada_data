@@ -19,10 +19,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-03 07:04:25.067143,MLB Futures - MLB 2022 American League Central - ALC Winner,Chicago White Sox,0.033300000000000024,0.2,0.1667
 2022-09-03 07:04:24.729771,Dana Open - Dana Open - Outright,Megan Khang,0.0319,0.0385,0.0066
 2022-09-03 10:04:58.829887,Tour Championship - Tour Championship - Outright,Harry Hall,0.0312,0.0435,0.0123
-2022-09-03 09:04:24.914467,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Regular Season Division Wins - New Orleans Saints,Over 3.5,0.030299999999999994,0.4651,0.4348
 2022-09-03 14:03:02.333182,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,0.030299999999999994,0.3333,0.303
-2022-09-03 09:04:04.877648,EuroBasket 2022 - EuroBasket 2022 - Top 3,Slovenia,0.028900000000000037,0.5744,0.5455
+2022-09-03 09:04:24.914467,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Regular Season Division Wins - New Orleans Saints,Over 3.5,0.030299999999999994,0.4651,0.4348
 2022-09-03 07:04:25.067143,MLB Futures - MLB 2022 American League Central - ALC Winner,Cleveland Guardians,0.028900000000000037,0.5744,0.5455
+2022-09-03 09:04:04.877648,EuroBasket 2022 - EuroBasket 2022 - Top 3,Slovenia,0.028900000000000037,0.5744,0.5455
 2022-09-03 07:04:25.048311,MLB Futures - MLB 2022 National League - NL Winner,Atlanta Braves,0.027999999999999997,0.1818,0.1538
 2022-09-03 09:04:24.108729,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Pittsburgh Steelers,Over 8,0.027700000000000002,0.4444,0.4167
 2022-09-03 14:03:02.392390,Brazilian Politics - 2022 Brazilian Presidential Election - Winner,Lula da Silva,0.02750000000000008,0.6429,0.6154
@@ -35,15 +35,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-03 09:04:23.867605,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Miami Dolphins,Over 10,0.022199999999999998,0.3448,0.3226
 2022-09-03 08:03:16.094492,MLB Futures - MLB 2022 National League - NL Winner,New York Mets,0.021999999999999964,0.3077,0.2857
 2022-09-03 14:03:02.447818,74th Primetime Emmy Awards - Emmy Award - Outstanding Drama Series - Proposition,Better Call Saul,0.021999999999999964,0.3077,0.2857
-2022-09-03 17:02:51.301752,Boston - 2/3 Balls - 2nd Round 3-Balls - B. Koepka / S. Norris / C. Koepka - 2nd Round 3-Balls,Brooks Koepka,0.021699999999999997,0.4762,0.4545
-2022-09-03 17:02:51.452299,Boston - 2/3 Balls - 2nd Round 3-Balls - S. Horsfield / W. Ormsby / P. Mickelson - 2nd Round 3-Balls,Sam Horsfield,0.021699999999999997,0.4762,0.4545
 2022-09-03 09:04:23.095997,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Chicago Bears,Under 5.5,0.021699999999999997,0.4762,0.4545
+2022-09-03 17:02:51.452299,Boston - 2/3 Balls - 2nd Round 3-Balls - S. Horsfield / W. Ormsby / P. Mickelson - 2nd Round 3-Balls,Sam Horsfield,0.021699999999999997,0.4762,0.4545
+2022-09-03 17:02:51.301752,Boston - 2/3 Balls - 2nd Round 3-Balls - B. Koepka / S. Norris / C. Koepka - 2nd Round 3-Balls,Brooks Koepka,0.021699999999999997,0.4762,0.4545
 2022-09-03 10:05:09.859250,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Miami Dolphins,Over 9,0.02169999999999994,0.5455,0.5238
 2022-09-03 09:04:23.906734,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Minnesota Vikings,Over 10,0.02100000000000002,0.3846,0.3636
 2022-09-03 09:04:08.849691,Wide Receivers - Marquise Brown Rec Yards 2022 Reg. Season - Outright,Over 900.5,0.02079999999999993,0.5556,0.5348
 2022-09-03 09:04:22.956779,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Baltimore Ravens,Over 10.5,0.020699999999999996,0.4651,0.4444
 2022-09-03 07:04:25.048311,MLB Futures - MLB 2022 National League - NL Winner,San Diego Padres,0.02020000000000001,0.1111,0.0909
 2022-09-03 07:04:24.729771,Dana Open - Dana Open - Outright,Carlota Ciganda,0.019099999999999992,0.0667,0.0476
+2022-09-03 19:02:54.358630,WNBA - 2022 WNBA Championship Winner - Semifinals Series Price,Seattle Storm,0.018900000000000028,0.4444,0.4255
 2022-09-03 09:04:23.987414,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - New Orleans Saints,Over 9,0.018900000000000028,0.4444,0.4255
 2022-09-03 09:04:23.621710,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Jacksonville Jaguars,Over 7.5,0.018799999999999983,0.3636,0.3448
 2022-09-03 09:04:24.296973,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Tennessee Titans,Under 8,0.018799999999999983,0.3636,0.3448
@@ -62,15 +63,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-03 07:04:24.729771,Dana Open - Dana Open - Outright,Lexi Thompson,0.013999999999999999,0.0909,0.0769
 2022-09-03 07:04:24.729771,Dana Open - Dana Open - Outright,Wei-Ling Hsu,0.0139,0.0196,0.0057
 2022-09-03 07:04:25.010782,MLB Futures - MLB 2022 American League - AL Winner,Toronto Blue Jays,0.013899999999999996,0.125,0.1111
-2022-09-03 09:04:23.039809,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Carolina Panthers,Over 7.5,0.013300000000000034,0.3704,0.3571
 2022-09-03 09:04:23.321297,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Denver Broncos,Under 9,0.013300000000000034,0.3704,0.3571
+2022-09-03 09:04:23.039809,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Carolina Panthers,Over 7.5,0.013300000000000034,0.3704,0.3571
 2022-09-03 09:04:24.516831,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Regular Season Division Wins - Chicago Bears,Under 2.5,0.013299999999999979,0.6429,0.6296
 2022-09-03 09:04:22.683200,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Philadelphia Eagles,Over 9.5,0.013299999999999979,0.6429,0.6296
 2022-09-03 09:04:22.766936,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Tampa Bay Buccaneers,Under 11.5,0.012299999999999978,0.6552,0.6429
+2022-09-03 19:03:03.504720,College Season Props - 2022 - Regular Season Wins - Baylor - 2022 - Regular Season Wins - Baylor,Over 7.5,0.012299999999999978,0.6552,0.6429
 2022-09-03 09:04:22.577648,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  New England Patriots,Under 8.5,0.012199999999999989,0.5122,0.5
 2022-09-03 07:04:25.010782,MLB Futures - MLB 2022 American League - AL Winner,Chicago White Sox,0.012100000000000001,0.0244,0.0123
 2022-09-03 10:04:58.829887,Tour Championship - Tour Championship - Outright,Carson Young,0.011699999999999999,0.0196,0.0079
 2022-09-03 17:02:51.479263,Round Match-Ups - 2nd Round Match-Up - B. Grace vs A. Ancer - 2nd Round Match-Up,Abraham Ancer,0.011600000000000055,0.5238,0.5122
+2022-09-03 19:03:03.515240,College Season Props - 2022 - Regular Season Wins - Baylor - Regular Season Conference Wins - Baylor,Over 4.5,0.011499999999999955,0.6667,0.6552
 2022-09-03 09:04:42.130150,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,Sporting CP,0.010899999999999993,0.1538,0.1429
 2022-09-03 07:04:24.966815,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Tampa Bay Rays,0.010700000000000001,0.0385,0.0278
 2022-09-03 09:04:24.408920,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Regular Season Division Wins - Atlanta Falcons,Under 2,0.010699999999999932,0.5455,0.5348
@@ -83,18 +86,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-03 17:02:51.301752,Boston - 2/3 Balls - 2nd Round 3-Balls - B. Koepka / S. Norris / C. Koepka - 2nd Round 3-Balls,Shaun Norris,-0.010699999999999987,0.3226,0.3333
 2022-09-03 09:04:24.408920,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Regular Season Division Wins - Atlanta Falcons,Over 2,-0.01100000000000001,0.5238,0.5348
 2022-09-03 09:04:08.820384,Wide Receivers - Marquise Brown Rec TD’s 2022 Reg. Season - Outright,Under 6,-0.01100000000000001,0.5238,0.5348
+2022-09-03 19:02:54.347895,WNBA - 2022 WNBA Championship Winner - Semifinals Series Price,Connecticut Sun,-0.011099999999999999,0.4651,0.4762
 2022-09-03 10:05:09.800708,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Kansas City Chiefs,Under 10.5,-0.011099999999999999,0.4651,0.4762
 2022-09-03 07:04:24.729771,Dana Open - Dana Open - Outright,Emily Kristine Pedersen,-0.0116,0.0033,0.0149
 2022-09-03 09:04:22.558417,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Minnesota Vikings,Under 9.5,-0.011600000000000055,0.5122,0.5238
-2022-09-03 09:04:04.877648,EuroBasket 2022 - EuroBasket 2022 - Top 3,Estonia,-0.011699999999999999,0.0079,0.0196
 2022-09-03 09:04:04.877648,EuroBasket 2022 - EuroBasket 2022 - Top 3,Hungary,-0.011699999999999999,0.0079,0.0196
+2022-09-03 09:04:04.877648,EuroBasket 2022 - EuroBasket 2022 - Top 3,Estonia,-0.011699999999999999,0.0079,0.0196
 2022-09-03 18:03:34.555849,Boxing Lines - Liam Smith vs Hassan Mwakinyo - To Win the Bout,Hassan Mwakinyo,-0.0121,0.1212,0.1333
 2022-09-03 09:04:23.709096,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Las Vegas Raiders,Under 9.5,-0.012299999999999978,0.6429,0.6552
 2022-09-03 17:02:51.377849,Boston - 2/3 Balls - 2nd Round 3-Balls - C. Tringale / P. Uihlein / P. Khongwatmai - 2nd Round 3-Balls,Peter Uihlein,-0.012699999999999989,0.3509,0.3636
 2022-09-03 10:04:58.829887,Tour Championship - Tour Championship - Outright,Chan Kim,-0.0129,0.002,0.0149
 2022-09-03 07:04:24.729771,Dana Open - Dana Open - Outright,Atthaya Thitikul,-0.013,0.0066,0.0196
-2022-09-03 09:04:23.321297,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Denver Broncos,Over 9,-0.0131,0.697,0.7101
 2022-09-03 09:04:23.039809,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Carolina Panthers,Under 7.5,-0.0131,0.697,0.7101
+2022-09-03 09:04:23.321297,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Denver Broncos,Over 9,-0.0131,0.697,0.7101
 2022-09-03 09:04:24.249285,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Tampa Bay Buccaneers,Over 10.5,-0.013299999999999979,0.6296,0.6429
 2022-09-03 14:03:02.349575,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Republican Candidate,Ron DeSantis,-0.013800000000000034,0.3636,0.3774
 2022-09-03 07:04:24.729771,Dana Open - Dana Open - Outright,Madelene Sagstrom,-0.014499999999999999,0.0149,0.0294
@@ -104,19 +108,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-03 09:04:04.877648,EuroBasket 2022 - EuroBasket 2022 - Top 3,Poland,-0.015300000000000001,0.0323,0.0476
 2022-09-03 14:03:02.461806,74th Primetime Emmy Awards - Emmy Award - Outstanding Lead Actor in a Drama Series - Proposition,Brian Cox - Succession,-0.015400000000000025,0.3846,0.4
 2022-09-03 07:04:24.729771,Dana Open - Dana Open - Outright,Hye Jin Choi,-0.015700000000000006,0.1176,0.1333
-2022-09-03 09:04:23.621710,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Jacksonville Jaguars,Under 7.5,-0.01629999999999998,0.7059,0.7222
 2022-09-03 09:04:24.296973,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Tennessee Titans,Over 8,-0.01629999999999998,0.7059,0.7222
+2022-09-03 09:04:23.621710,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Jacksonville Jaguars,Under 7.5,-0.01629999999999998,0.7059,0.7222
 2022-09-03 09:04:22.766936,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Tampa Bay Buccaneers,Over 11.5,-0.017299999999999982,0.4082,0.4255
+2022-09-03 19:03:03.504720,College Season Props - 2022 - Regular Season Wins - Baylor - 2022 - Regular Season Wins - Baylor,Under 7.5,-0.017299999999999982,0.4082,0.4255
 2022-09-03 10:04:58.829887,Tour Championship - Tour Championship - Outright,Fabian Gomez,-0.017599999999999998,0.002,0.0196
 2022-09-03 08:03:44.136957,Superligaen - Denmark Superligaen 2022/23 - Outright,FC Midtjylland,-0.018400000000000027,0.2941,0.3125
 2022-09-03 10:04:58.829887,Tour Championship - Tour Championship - Outright,Dean Burmester,-0.0189,0.0196,0.0385
-2022-09-03 07:04:24.729771,Dana Open - Dana Open - Outright,So Yeon Ryu,-0.0189,0.0196,0.0385
 2022-09-03 10:04:58.829887,Tour Championship - Tour Championship - Outright,Brent Grant,-0.0189,0.0196,0.0385
+2022-09-03 07:04:24.729771,Dana Open - Dana Open - Outright,So Yeon Ryu,-0.0189,0.0196,0.0385
 2022-09-03 09:04:04.877648,EuroBasket 2022 - EuroBasket 2022 - Top 3,Belgium,-0.019099999999999995,0.0244,0.0435
 2022-09-03 12:05:02.298019,Round Match-Ups - 2nd Round Match-Up - A. Lahiri vs C. Howell III - 2nd Round Match-Up,Anirban Lahiri,-0.01970000000000005,0.5455,0.5652
-2022-09-03 09:04:04.877648,EuroBasket 2022 - EuroBasket 2022 - Top 3,Finland,-0.019800000000000005,0.0278,0.0476
 2022-09-03 09:04:04.877648,EuroBasket 2022 - EuroBasket 2022 - Top 3,Ukraine,-0.019800000000000005,0.0278,0.0476
+2022-09-03 09:04:04.877648,EuroBasket 2022 - EuroBasket 2022 - Top 3,Finland,-0.019800000000000005,0.0278,0.0476
 2022-09-03 09:04:23.987414,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - New Orleans Saints,Under 9,-0.020299999999999985,0.6226,0.6429
+2022-09-03 19:02:54.358630,WNBA - 2022 WNBA Championship Winner - Semifinals Series Price,Las Vegas Aces,-0.020299999999999985,0.6226,0.6429
 2022-09-03 09:04:04.877648,EuroBasket 2022 - EuroBasket 2022 - Top 3,Georgia,-0.0204,0.0196,0.04
 2022-09-03 07:04:25.010782,MLB Futures - MLB 2022 American League - AL Winner,Houston Astros,-0.02100000000000002,0.3636,0.3846
 2022-09-03 09:04:23.867605,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Miami Dolphins,Under 10,-0.021400000000000086,0.7222,0.7436
