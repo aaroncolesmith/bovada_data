@@ -1,4 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2022-09-04 09:06:23.132344,MLS - MLS Cup 2022 - Top Goalscorer,Hany Mukhtar,0.3056,0.5556,0.25
 2022-09-04 04:03:05.342286,Tour Championship - Tour Championship - Outright,Justin Suh,0.3005,0.3774,0.0769
 2022-09-03 22:04:43.443133,Dana Open - Dana Open - Outright,Lexi Thompson,0.15910000000000002,0.25,0.0909
 2022-09-04 02:03:14.163539,League Two - England - League Two 2022/23 - Top 7 Finish,Stevenage,0.13639999999999997,0.6364,0.5
@@ -13,12 +14,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-04 02:03:14.163539,League Two - England - League Two 2022/23 - Top 7 Finish,Leyton Orient,0.06969999999999998,0.6923,0.6226
 2022-09-04 02:03:14.135066,League Two - England - League Two 2022/23 - To Be Promoted,Barrow FC,0.06840000000000002,0.2222,0.1538
 2022-09-04 01:06:05.006323,League One - England - League One 2022/23 - To Be Promoted,Ipswich Town,0.06669999999999998,0.6667,0.6
-2022-09-04 01:06:05.098979,League One - England - League One 2022/23 - Top 6 Finish,Portsmouth,0.06659999999999999,0.7333,0.6667
 2022-09-04 02:03:14.163539,League Two - England - League Two 2022/23 - Top 7 Finish,Grimsby Town,0.06659999999999999,0.3333,0.2667
+2022-09-04 01:06:05.098979,League One - England - League One 2022/23 - Top 6 Finish,Portsmouth,0.06659999999999999,0.7333,0.6667
 2022-09-04 01:06:04.965355,League One - England - League One 2022/23 - Outright,Ipswich Town,0.06519999999999998,0.3509,0.2857
 2022-09-04 01:06:05.098979,League One - England - League One 2022/23 - Top 6 Finish,Plymouth Argyle,0.05980000000000002,0.4444,0.3846
 2022-09-04 02:03:14.135066,League Two - England - League Two 2022/23 - To Be Promoted,Leyton Orient,0.0595,0.4762,0.4167
 2022-09-04 04:03:05.342286,Tour Championship - Tour Championship - Outright,Nicholas Lindheim,0.058899999999999994,0.0833,0.0244
+2022-09-04 09:05:44.436921,MLB Futures - MLB 2022 American League East - ALE Winner,Tampa Bay Rays,0.05710000000000001,0.2,0.1429
 2022-09-04 02:03:14.135066,League Two - England - League Two 2022/23 - To Be Promoted,Stevenage,0.055900000000000005,0.3636,0.3077
 2022-09-04 01:06:05.098979,League One - England - League One 2022/23 - Top 6 Finish,Shrewsbury Town,0.05559999999999998,0.1667,0.1111
 2022-09-04 04:03:05.342286,Tour Championship - Tour Championship - Outright,Sam Stevens,0.0538,0.0588,0.005
@@ -33,15 +35,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-04 01:06:05.006323,League One - England - League One 2022/23 - To Be Promoted,Portsmouth,0.04410000000000003,0.3774,0.3333
 2022-09-03 22:04:43.443133,Dana Open - Dana Open - Outright,Sei Young Kim,0.04239999999999999,0.0769,0.0345
 2022-09-04 02:03:14.155852,League Two - England - League Two 2022/23 - Top 3 Finish,Northampton Town,0.04099999999999998,0.3077,0.2667
-2022-09-04 02:03:14.135066,League Two - England - League Two 2022/23 - To Be Promoted,Grimsby Town,0.03889999999999999,0.1818,0.1429
 2022-09-04 01:06:05.098979,League One - England - League One 2022/23 - Top 6 Finish,Cambridge United,0.03889999999999999,0.1818,0.1429
+2022-09-04 02:03:14.135066,League Two - England - League Two 2022/23 - To Be Promoted,Grimsby Town,0.03889999999999999,0.1818,0.1429
 2022-09-04 02:03:14.163539,League Two - England - League Two 2022/23 - Top 7 Finish,Mansfield Town,0.03639999999999999,0.6364,0.6
 2022-09-04 02:03:14.163539,League Two - England - League Two 2022/23 - Top 7 Finish,Walsall,0.03570000000000001,0.2857,0.25
 2022-09-04 01:06:05.050338,League One - England - League One 2022/23 - Top 2 Finish,Portsmouth,0.03570000000000001,0.2857,0.25
-2022-09-04 01:06:05.006323,League One - England - League One 2022/23 - To Be Promoted,Oxford United,0.03420000000000001,0.1111,0.0769
 2022-09-04 01:05:55.794644,NFL Specials - Who will announce retirement at end of the season? - Proposition,Julio Jones,0.03420000000000001,0.1111,0.0769
 2022-09-04 02:03:14.149734,League Two - England - League Two 2022/23 - To Finish Bottom,Harrogate Town,0.03420000000000001,0.1111,0.0769
+2022-09-04 01:06:05.006323,League One - England - League One 2022/23 - To Be Promoted,Oxford United,0.03420000000000001,0.1111,0.0769
 2022-09-04 01:06:05.181670,League Two - England - League Two 2022/23 - Outright,Northampton Town,0.034100000000000005,0.125,0.0909
+2022-09-04 09:06:23.114120,MLS - MLS Cup 2022 - Winner,Philadelphia Union,0.033300000000000024,0.2,0.1667
 2022-09-04 00:03:25.285803,Championship - England Championship 2022/23 - Outright,Norwich City,0.033300000000000024,0.2,0.1667
 2022-09-04 01:05:29.685195,Boxing Lines - Erika Cruz Hernandez vs Jelena Mrdjenovich - To Win the Bout,Erika Cruz Hernandez,0.03300000000000003,0.9804,0.9474
 2022-09-04 01:06:05.098979,League One - England - League One 2022/23 - Top 6 Finish,Ipswich Town,0.03190000000000004,0.9091,0.8772
@@ -58,21 +61,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-04 06:03:58.350603,Boxing Lines - Andy Ruiz Jr. vs Luis Ortiz - To Win the Bout,Andy Ruiz Jr.,0.024800000000000044,0.8,0.7752
 2022-09-04 02:03:14.143238,League Two - England - League Two 2022/23 - To Be Relegated,Swindon Town,0.0242,0.0909,0.0667
 2022-09-04 04:03:05.342286,Tour Championship - Tour Championship - Outright,Carl Yuan,0.0232,0.0667,0.0435
+2022-09-04 09:06:23.132344,MLS - MLS Cup 2022 - Top Goalscorer,Daniel Gazdag,0.02310000000000001,0.1,0.0769
 2022-09-04 01:06:05.006323,League One - England - League One 2022/23 - To Be Promoted,Exeter City,0.02310000000000001,0.1,0.0769
 2022-09-04 00:03:24.463317,Serie A - Italy Serie A 2022/23 - Winner,Napoli,0.02310000000000001,0.1,0.0769
-2022-09-04 07:04:08.933185,Made in Himmerland - 2/3 Balls - Final Round 2 Ball - E. Ferguson vs T. Lewis - Final Round 2 Ball,Ewen Ferguson,0.022600000000000064,0.6226,0.6
 2022-09-04 03:03:13.429157,Made in Himmerland - 2/3 Balls - Final Round 2 Ball - J. Walters vs M. Jordan - Final Round 2 Ball,Justin Walters,0.022600000000000064,0.5348,0.5122
+2022-09-04 07:04:08.933185,Made in Himmerland - 2/3 Balls - Final Round 2 Ball - E. Ferguson vs T. Lewis - Final Round 2 Ball,Ewen Ferguson,0.022600000000000064,0.6226,0.6
 2022-09-04 08:03:55.786916,Tour Championship - Tour Championship - Outright,Justin Suh,0.02260000000000001,0.4,0.3774
+2022-09-04 01:06:05.098979,League One - England - League One 2022/23 - Top 6 Finish,Exeter City,0.022199999999999998,0.2222,0.2
 2022-09-04 02:03:14.149734,League Two - England - League Two 2022/23 - To Finish Bottom,Rochdale,0.022199999999999998,0.2222,0.2
 2022-09-04 00:03:25.285803,Championship - England Championship 2022/23 - Outright,Sheffield United,0.022199999999999998,0.2222,0.2
-2022-09-04 01:06:05.098979,League One - England - League One 2022/23 - Top 6 Finish,Exeter City,0.022199999999999998,0.2222,0.2
 2022-09-04 00:03:24.494691,La Liga - Spain La Liga 2022/23 - Winner,FC Barcelona,0.021699999999999997,0.4762,0.4545
 2022-09-04 01:06:05.181670,League Two - England - League Two 2022/23 - Outright,Leyton Orient,0.02049999999999999,0.1538,0.1333
+2022-09-04 01:06:04.965355,League One - England - League One 2022/23 - Outright,Plymouth Argyle,0.0203,0.0588,0.0385
 2022-09-03 22:04:43.443133,Dana Open - Dana Open - Outright,Xiyu Lin,0.0203,0.0588,0.0385
 2022-09-04 01:06:05.050338,League One - England - League One 2022/23 - Top 2 Finish,Oxford United,0.0203,0.0588,0.0385
-2022-09-04 01:06:04.965355,League One - England - League One 2022/23 - Outright,Plymouth Argyle,0.0203,0.0588,0.0385
 2022-09-04 02:03:14.143238,League Two - England - League Two 2022/23 - To Be Relegated,Carlisle Utd,0.02020000000000001,0.1111,0.0909
 2022-09-04 01:06:05.006323,League One - England - League One 2022/23 - To Be Promoted,Barnsley,0.02020000000000001,0.1111,0.0909
+2022-09-04 09:06:24.982899,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Ivan Toney,0.019499999999999997,0.0294,0.0099
 2022-09-04 03:03:13.311741,Made in Himmerland - 2/3 Balls - Final Round 2 Ball - C. Howrie vs R. Hojgaard - Final Round 2 Ball,Craig Howie,0.018900000000000028,0.4444,0.4255
 2022-09-03 22:04:43.443133,Dana Open - Dana Open - Outright,Brooke Henderson,0.0189,0.0385,0.0196
 2022-09-04 02:03:14.143238,League Two - England - League Two 2022/23 - To Be Relegated,Newport County,0.018099999999999998,0.0769,0.0588
@@ -85,38 +90,41 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-04 01:06:05.050338,League One - England - League One 2022/23 - Top 2 Finish,Shrewsbury Town,0.014900000000000004,0.0345,0.0196
 2022-09-03 23:03:04.147476,Boxing Lines - Erika Cruz Hernandez vs Jelena Mrdjenovich - To Win the Bout,Jelena Mrdjenovich,0.01440000000000001,0.1053,0.0909
 2022-09-04 02:03:14.149734,League Two - England - League Two 2022/23 - To Finish Bottom,Crewe Alexandra,0.014100000000000001,0.0526,0.0385
-2022-09-04 04:03:05.342286,Tour Championship - Tour Championship - Outright,Michael Kim,0.014099999999999998,0.0435,0.0294
 2022-09-04 02:03:14.149734,League Two - England - League Two 2022/23 - To Finish Bottom,AFC Wimbledon,0.014099999999999998,0.0435,0.0294
+2022-09-04 04:03:05.342286,Tour Championship - Tour Championship - Outright,Michael Kim,0.014099999999999998,0.0435,0.0294
 2022-09-04 02:03:03.086595,Boxing Lines - Jose Valenzuela vs Edwin De Los Santos - To Win the Bout,Jose Valenzuela,0.014000000000000012,0.9231,0.9091
-2022-09-04 01:06:05.050338,League One - England - League One 2022/23 - Top 2 Finish,Bolton Wanderers,0.013999999999999999,0.0909,0.0769
 2022-09-04 02:03:14.143238,League Two - England - League Two 2022/23 - To Be Relegated,Tranmere Rovers,0.013999999999999999,0.0909,0.0769
+2022-09-04 01:06:05.050338,League One - England - League One 2022/23 - Top 2 Finish,Bolton Wanderers,0.013999999999999999,0.0909,0.0769
 2022-09-04 01:06:05.098979,League One - England - League One 2022/23 - Top 6 Finish,Bolton Wanderers,0.013800000000000034,0.3774,0.3636
 2022-09-04 02:03:14.135066,League Two - England - League Two 2022/23 - To Be Promoted,Northampton Town,0.013800000000000034,0.3774,0.3636
 2022-09-04 02:03:14.135066,League Two - England - League Two 2022/23 - To Be Promoted,Bradford City,0.013800000000000034,0.3774,0.3636
 2022-09-04 01:06:05.006323,League One - England - League One 2022/23 - To Be Promoted,Bolton Wanderers,0.012899999999999995,0.1667,0.1538
+2022-09-04 09:06:24.424704,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,Sporting CP,0.012899999999999995,0.1667,0.1538
 2022-09-04 00:03:25.285803,Championship - England Championship 2022/23 - Outright,Burnley,0.012899999999999995,0.1667,0.1538
-2022-09-04 02:03:14.149734,League Two - England - League Two 2022/23 - To Finish Bottom,Carlisle Utd,0.011199999999999995,0.0588,0.0476
 2022-09-04 01:06:05.050338,League One - England - League One 2022/23 - Top 2 Finish,Barnsley,0.011199999999999995,0.0588,0.0476
+2022-09-04 02:03:14.149734,League Two - England - League Two 2022/23 - To Finish Bottom,Carlisle Utd,0.011199999999999995,0.0588,0.0476
 2022-09-04 02:03:14.149734,League Two - England - League Two 2022/23 - To Finish Bottom,Crawley Town,0.011099999999999999,0.1111,0.1
 2022-09-03 22:04:42.545963,Boxing Lines - Eduardo Hernandez vs Jorge Mata Cuellar - To Win the Bout,Eduardo Hernandez,0.011099999999999999,0.9,0.8889
 2022-09-04 01:05:26.597801,WNBA - 2022 WNBA Championship Winner - 2022 Champion,Chicago Sky,0.011099999999999999,0.2778,0.2667
+2022-09-04 09:06:23.114120,MLS - MLS Cup 2022 - Winner,Nashville SC,0.010700000000000001,0.0385,0.0278
 2022-09-04 08:03:55.786916,Tour Championship - Tour Championship - Outright,Carl Yuan,0.0102,0.0769,0.0667
+2022-09-04 09:05:44.436921,MLB Futures - MLB 2022 American League East - ALE Winner,Toronto Blue Jays,0.0102,0.0769,0.0667
 2022-09-04 02:03:14.149734,League Two - England - League Two 2022/23 - To Finish Bottom,Newport County,0.010100000000000001,0.0345,0.0244
+2022-09-04 09:06:24.424704,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,FC Porto,0.010099999999999998,0.4545,0.4444
 2022-09-04 00:03:08.873504,Boxing Lines - Hector Flores Calixto vs Sivenathi Nontshinga - To Win the Bout,Hector Flores Calixto,-0.010099999999999998,0.6774,0.6875
-2022-09-04 01:06:05.006323,League One - England - League One 2022/23 - To Be Promoted,Milton Keynes Dons,-0.0102,0.0667,0.0769
 2022-09-04 01:06:05.006323,League One - England - League One 2022/23 - To Be Promoted,Wycombe,-0.0102,0.0667,0.0769
-2022-09-04 01:06:05.098979,League One - England - League One 2022/23 - Top 6 Finish,Bristol Rovers,-0.0102,0.0667,0.0769
 2022-09-04 00:03:25.285803,Championship - England Championship 2022/23 - Outright,Middlesbrough,-0.0102,0.0667,0.0769
+2022-09-04 01:06:05.006323,League One - England - League One 2022/23 - To Be Promoted,Milton Keynes Dons,-0.0102,0.0667,0.0769
+2022-09-04 01:06:05.098979,League One - England - League One 2022/23 - Top 6 Finish,Bristol Rovers,-0.0102,0.0667,0.0769
 2022-09-04 04:03:04.733187,Boxing Lines - Joey Spencer vs Kevin Salgado Zambrano - To Win the Bout,Kevin Salgado Zambrano,-0.010499999999999982,0.2,0.2105
 2022-09-04 06:03:58.938005,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,-0.010699999999999987,0.3226,0.3333
 2022-09-04 01:06:05.181670,League Two - England - League Two 2022/23 - Outright,Salford City,-0.010899999999999993,0.1429,0.1538
-2022-09-04 02:03:14.163539,League Two - England - League Two 2022/23 - Top 7 Finish,Rochdale,-0.011199999999999995,0.0476,0.0588
-2022-09-04 02:03:14.163539,League Two - England - League Two 2022/23 - Top 7 Finish,Hartlepool United,-0.011199999999999995,0.0476,0.0588
 2022-09-04 06:03:58.901670,MLB Futures - MLB 2022 National League - NL Winner,Milwaukee Brewers,-0.011199999999999995,0.0323,0.0435
+2022-09-04 02:03:14.163539,League Two - England - League Two 2022/23 - Top 7 Finish,Hartlepool United,-0.011199999999999995,0.0476,0.0588
+2022-09-04 02:03:14.163539,League Two - England - League Two 2022/23 - Top 7 Finish,Rochdale,-0.011199999999999995,0.0476,0.0588
+2022-09-04 09:06:23.114120,MLS - MLS Cup 2022 - Winner,New York City FC,-0.011199999999999995,0.0476,0.0588
 2022-09-04 04:03:05.342286,Tour Championship - Tour Championship - Outright,Dean Burmester,-0.011699999999999999,0.0079,0.0196
-2022-09-03 21:05:16.452903,Boxing Lines - Erika Cruz Hernandez vs Jelena Mrdjenovich - To Win the Bout,Jelena Mrdjenovich,-0.011700000000000002,0.0909,0.1026
 2022-09-04 01:06:04.965355,League One - England - League One 2022/23 - Outright,Milton Keynes Dons,-0.012100000000000001,0.0123,0.0244
-2022-09-03 21:05:56.752596,College Season Props - 2022 - Regular Season Wins - LSU - 2022 - Regular Season Wins - LSU,Under 7,-0.012199999999999989,0.5,0.5122
 2022-09-03 22:04:43.443133,Dana Open - Dana Open - Outright,Brittany Altomare,-0.0129,0.002,0.0149
 2022-09-03 22:04:43.443133,Dana Open - Dana Open - Outright,Ariya Jutanugarn,-0.0129,0.002,0.0149
 2022-09-04 01:06:05.050338,League One - England - League One 2022/23 - Top 2 Finish,Forest Green Rovers,-0.013,0.0066,0.0196
@@ -124,19 +132,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-04 06:03:58.901670,MLB Futures - MLB 2022 National League - NL Winner,New York Mets,-0.013600000000000001,0.2941,0.3077
 2022-09-03 22:04:43.443133,Dana Open - Dana Open - Outright,Peiyun Chien,-0.013600000000000001,0.0013,0.0149
 2022-09-04 03:03:13.311741,Made in Himmerland - 2/3 Balls - Final Round 2 Ball - C. Howrie vs R. Hojgaard - Final Round 2 Ball,Rasmus Hojgaard,-0.013799999999999923,0.6226,0.6364
-2022-09-04 02:03:14.135066,League Two - England - League Two 2022/23 - To Be Promoted,AFC Wimbledon,-0.013899999999999996,0.1111,0.125
 2022-09-04 02:03:14.149734,League Two - England - League Two 2022/23 - To Finish Bottom,Gillingham,-0.013899999999999996,0.1111,0.125
+2022-09-04 02:03:14.135066,League Two - England - League Two 2022/23 - To Be Promoted,AFC Wimbledon,-0.013899999999999996,0.1111,0.125
 2022-09-04 00:03:25.285803,Championship - England Championship 2022/23 - Outright,Watford,-0.013899999999999996,0.1111,0.125
 2022-09-04 02:03:14.135066,League Two - England - League Two 2022/23 - To Be Promoted,Swindon Town,-0.013899999999999996,0.1111,0.125
-2022-09-03 22:04:43.443133,Dana Open - Dana Open - Outright,Wichanee Meechai,-0.0139,0.001,0.0149
-2022-09-03 22:04:43.443133,Dana Open - Dana Open - Outright,A Lim Kim,-0.0139,0.001,0.0149
-2022-09-03 22:04:43.443133,Dana Open - Dana Open - Outright,Lauren Stephenson,-0.0139,0.001,0.0149
 2022-09-03 22:04:43.443133,Dana Open - Dana Open - Outright,Yuka Saso,-0.0139,0.001,0.0149
+2022-09-03 22:04:43.443133,Dana Open - Dana Open - Outright,Wichanee Meechai,-0.0139,0.001,0.0149
+2022-09-03 22:04:43.443133,Dana Open - Dana Open - Outright,Lauren Stephenson,-0.0139,0.001,0.0149
+2022-09-03 22:04:43.443133,Dana Open - Dana Open - Outright,A Lim Kim,-0.0139,0.001,0.0149
 2022-09-04 01:06:05.098979,League One - England - League One 2022/23 - Top 6 Finish,Accrington Stanley,-0.013999999999999999,0.0769,0.0909
+2022-09-04 00:03:24.494691,La Liga - Spain La Liga 2022/23 - Winner,Atlético Madrid,-0.013999999999999999,0.0769,0.0909
 2022-09-04 02:03:14.155852,League Two - England - League Two 2022/23 - Top 3 Finish,AFC Wimbledon,-0.013999999999999999,0.0769,0.0909
 2022-09-04 01:06:04.965355,League One - England - League One 2022/23 - Outright,Derby County,-0.013999999999999999,0.0769,0.0909
 2022-09-04 02:03:14.155852,League Two - England - League Two 2022/23 - Top 3 Finish,Swindon Town,-0.013999999999999999,0.0769,0.0909
-2022-09-04 00:03:24.494691,La Liga - Spain La Liga 2022/23 - Winner,Atlético Madrid,-0.013999999999999999,0.0769,0.0909
 2022-09-04 01:06:05.181670,League Two - England - League Two 2022/23 - Outright,Newport County,-0.014099999999999998,0.0244,0.0385
 2022-09-04 00:03:25.285803,Championship - England Championship 2022/23 - Outright,Blackburn Rovers,-0.014099999999999998,0.0244,0.0385
 2022-09-04 00:03:25.285803,Championship - England Championship 2022/23 - Outright,Luton Town,-0.014499999999999999,0.0149,0.0294
@@ -145,38 +153,43 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-04 01:06:05.050338,League One - England - League One 2022/23 - Top 2 Finish,Derby County,-0.015100000000000002,0.1667,0.1818
 2022-09-04 07:04:25.549132,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Minnesota Vikings,Under 10,-0.015800000000000036,0.6667,0.6825
 2022-09-04 02:03:14.143238,League Two - England - League Two 2022/23 - To Be Relegated,Colchester United,-0.016699999999999993,0.25,0.2667
+2022-09-04 09:06:23.114120,MLS - MLS Cup 2022 - Winner,Los Angeles FC,-0.017600000000000005,0.3333,0.3509
+2022-09-04 09:06:24.982899,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Mohamed Salah,-0.018099999999999998,0.0588,0.0769
+2022-09-04 09:06:23.114120,MLS - MLS Cup 2022 - Winner,Austin FC,-0.018099999999999998,0.0588,0.0769
 2022-09-04 02:03:14.143238,League Two - England - League Two 2022/23 - To Be Relegated,Grimsby Town,-0.018099999999999998,0.0588,0.0769
 2022-09-04 02:03:14.143238,League Two - England - League Two 2022/23 - To Be Relegated,Walsall,-0.018099999999999998,0.0588,0.0769
+2022-09-04 09:06:23.132344,MLS - MLS Cup 2022 - Top Goalscorer,Cristian Arango,-0.018200000000000004,0.0294,0.0476
 2022-09-04 02:03:14.155852,League Two - England - League Two 2022/23 - Top 3 Finish,Harrogate Town,-0.018200000000000004,0.0294,0.0476
-2022-09-03 22:04:43.443133,Dana Open - Dana Open - Outright,Lilia Vu,-0.0183,0.0013,0.0196
 2022-09-03 22:04:43.443133,Dana Open - Dana Open - Outright,Wei-Ling Hsu,-0.0183,0.0013,0.0196
+2022-09-03 22:04:43.443133,Dana Open - Dana Open - Outright,Lilia Vu,-0.0183,0.0013,0.0196
 2022-09-03 22:04:43.443133,Dana Open - Dana Open - Outright,Minjee Lee,-0.0186,0.001,0.0196
+2022-09-03 22:04:43.443133,Dana Open - Dana Open - Outright,So Yeon Ryu,-0.0186,0.001,0.0196
 2022-09-04 04:03:05.342286,Tour Championship - Tour Championship - Outright,Ben Taylor,-0.0186,0.001,0.0196
 2022-09-04 04:03:05.342286,Tour Championship - Tour Championship - Outright,Kevin Yu,-0.0186,0.001,0.0196
-2022-09-03 22:04:43.443133,Dana Open - Dana Open - Outright,So Yeon Ryu,-0.0186,0.001,0.0196
-2022-09-04 01:06:05.006323,League One - England - League One 2022/23 - To Be Promoted,Forest Green Rovers,-0.0189,0.0196,0.0385
 2022-09-03 22:04:43.443133,Dana Open - Dana Open - Outright,Megan Khang,-0.0189,0.0196,0.0385
-2022-09-04 02:03:14.155852,League Two - England - League Two 2022/23 - Top 3 Finish,Bradford City,-0.019000000000000017,0.2667,0.2857
+2022-09-04 01:06:05.006323,League One - England - League One 2022/23 - To Be Promoted,Forest Green Rovers,-0.0189,0.0196,0.0385
 2022-09-04 01:06:05.006323,League One - England - League One 2022/23 - To Be Promoted,Derby County,-0.019000000000000017,0.2667,0.2857
+2022-09-04 02:03:14.155852,League Two - England - League Two 2022/23 - Top 3 Finish,Bradford City,-0.019000000000000017,0.2667,0.2857
+2022-09-04 09:06:23.132344,MLS - MLS Cup 2022 - Top Goalscorer,Brandon Vazquez,-0.019099999999999992,0.0476,0.0667
 2022-09-04 02:03:14.135066,League Two - England - League Two 2022/23 - To Be Promoted,Harrogate Town,-0.019099999999999992,0.0476,0.0667
-2022-09-04 02:03:14.135066,League Two - England - League Two 2022/23 - To Be Promoted,Crewe Alexandra,-0.02020000000000001,0.0909,0.1111
 2022-09-04 02:03:14.155852,League Two - England - League Two 2022/23 - Top 3 Finish,Newport County,-0.02020000000000001,0.0909,0.1111
+2022-09-04 02:03:14.135066,League Two - England - League Two 2022/23 - To Be Promoted,Crewe Alexandra,-0.02020000000000001,0.0909,0.1111
 2022-09-04 07:04:08.933185,Made in Himmerland - 2/3 Balls - Final Round 2 Ball - E. Ferguson vs T. Lewis - Final Round 2 Ball,Tom Lewis,-0.020699999999999996,0.4444,0.4651
 2022-09-04 03:03:13.429157,Made in Himmerland - 2/3 Balls - Final Round 2 Ball - J. Walters vs M. Jordan - Final Round 2 Ball,Matthew Jordan,-0.02079999999999993,0.5348,0.5556
 2022-09-03 22:04:43.443133,Dana Open - Dana Open - Outright,Ayaka Furue,-0.0216,0.0028,0.0244
-2022-09-04 02:03:14.155852,League Two - England - League Two 2022/23 - Top 3 Finish,Walsall,-0.02310000000000001,0.0769,0.1
 2022-09-04 06:03:58.848799,MLB Futures - MLB 2022 American League - AL Winner,Tampa Bay Rays,-0.02310000000000001,0.0769,0.1
-2022-09-04 02:03:14.163539,League Two - England - League Two 2022/23 - Top 7 Finish,Gillingham,-0.0242,0.0667,0.0909
-2022-09-04 01:06:05.098979,League One - England - League One 2022/23 - Top 6 Finish,Lincoln City,-0.0242,0.0667,0.0909
+2022-09-04 02:03:14.155852,League Two - England - League Two 2022/23 - Top 3 Finish,Walsall,-0.02310000000000001,0.0769,0.1
 2022-09-04 02:03:14.143238,League Two - England - League Two 2022/23 - To Be Relegated,Sutton Utd,-0.0242,0.0667,0.0909
+2022-09-04 01:06:05.098979,League One - England - League One 2022/23 - Top 6 Finish,Lincoln City,-0.0242,0.0667,0.0909
+2022-09-04 02:03:14.163539,League Two - England - League Two 2022/23 - Top 7 Finish,Gillingham,-0.0242,0.0667,0.0909
 2022-09-04 01:06:05.098979,League One - England - League One 2022/23 - Top 6 Finish,Fleetwood Town,-0.024299999999999995,0.0526,0.0769
 2022-09-04 01:06:05.050338,League One - England - League One 2022/23 - Top 2 Finish,Charlton Athletic,-0.024299999999999995,0.0526,0.0769
 2022-09-04 01:06:05.006323,League One - England - League One 2022/23 - To Be Promoted,Charlton Athletic,-0.024999999999999994,0.1,0.125
 2022-09-04 02:03:14.135066,League Two - England - League Two 2022/23 - To Be Promoted,Tranmere Rovers,-0.024999999999999994,0.1,0.125
 2022-09-04 02:03:14.135066,League Two - England - League Two 2022/23 - To Be Promoted,Salford City,-0.027700000000000002,0.4167,0.4444
 2022-09-04 02:03:14.163539,League Two - England - League Two 2022/23 - Top 7 Finish,Carlisle Utd,-0.027999999999999997,0.1538,0.1818
-2022-09-04 06:03:58.901670,MLB Futures - MLB 2022 National League - NL Winner,Atlanta Braves,-0.027999999999999997,0.1538,0.1818
 2022-09-04 01:06:05.098979,League One - England - League One 2022/23 - Top 6 Finish,Milton Keynes Dons,-0.027999999999999997,0.1538,0.1818
+2022-09-04 06:03:58.901670,MLB Futures - MLB 2022 National League - NL Winner,Atlanta Braves,-0.027999999999999997,0.1538,0.1818
 2022-09-04 02:03:14.149734,League Two - England - League Two 2022/23 - To Finish Bottom,Colchester United,-0.028799999999999992,0.125,0.1538
 2022-09-04 02:03:14.135066,League Two - England - League Two 2022/23 - To Be Promoted,Newport County,-0.028799999999999992,0.125,0.1538
 2022-09-04 01:06:05.098979,League One - England - League One 2022/23 - Top 6 Finish,Forest Green Rovers,-0.029299999999999993,0.0476,0.0769
@@ -189,15 +202,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-04 02:03:14.163539,League Two - England - League Two 2022/23 - Top 7 Finish,Crewe Alexandra,-0.033300000000000024,0.1667,0.2
 2022-09-04 04:03:05.342286,Tour Championship - Tour Championship - Outright,Harry Hall,-0.0336,0.0099,0.0435
 2022-09-04 00:03:24.463317,Serie A - Italy Serie A 2022/23 - Winner,Juventus,-0.03409999999999999,0.2326,0.2667
-2022-09-04 02:03:14.163539,League Two - England - League Two 2022/23 - Top 7 Finish,Crawley Town,-0.034100000000000005,0.0909,0.125
 2022-09-04 01:06:04.965355,League One - England - League One 2022/23 - Outright,Peterborough United,-0.034100000000000005,0.0909,0.125
+2022-09-04 02:03:14.163539,League Two - England - League Two 2022/23 - Top 7 Finish,Crawley Town,-0.034100000000000005,0.0909,0.125
 2022-09-04 02:03:14.163539,League Two - England - League Two 2022/23 - Top 7 Finish,Bradford City,-0.03479999999999994,0.5652,0.6
 2022-09-04 04:03:05.342286,Tour Championship - Tour Championship - Outright,Camilo Villegas,-0.0352,0.0033,0.0385
 2022-09-04 02:03:14.163539,League Two - England - League Two 2022/23 - Top 7 Finish,Doncaster Rovers,-0.03640000000000004,0.3636,0.4
 2022-09-03 22:04:43.443133,Dana Open - Dana Open - Outright,Hyo Joo Kim,-0.0375,0.001,0.0385
 2022-09-04 01:05:29.685195,Boxing Lines - Erika Cruz Hernandez vs Jelena Mrdjenovich - To Win the Bout,Jelena Mrdjenovich,-0.03860000000000001,0.0667,0.1053
-2022-09-04 01:06:05.098979,League One - England - League One 2022/23 - Top 6 Finish,Charlton Athletic,-0.04099999999999998,0.2667,0.3077
+2022-09-04 09:05:44.436921,MLB Futures - MLB 2022 American League East - ALE Winner,New York Yankees,-0.038899999999999935,0.8182,0.8571
 2022-09-04 02:03:14.155852,League Two - England - League Two 2022/23 - Top 3 Finish,Mansfield Town,-0.04099999999999998,0.2667,0.3077
+2022-09-04 01:06:05.098979,League One - England - League One 2022/23 - Top 6 Finish,Charlton Athletic,-0.04099999999999998,0.2667,0.3077
 2022-09-03 22:04:43.443133,Dana Open - Dana Open - Outright,Nasa Hataoka,-0.042899999999999994,0.1,0.1429
 2022-09-04 01:06:05.098979,League One - England - League One 2022/23 - Top 6 Finish,Sheffield Wednesday,-0.04389999999999994,0.8182,0.8621
 2022-09-04 01:06:05.098979,League One - England - League One 2022/23 - Top 6 Finish,Derby County,-0.044399999999999995,0.5556,0.6
