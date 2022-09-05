@@ -8,14 +8,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-05 09:05:11.095438,FIBA AmeriCup - FIBA AmeriCup - Outright,Argentina,0.08329999999999999,0.5,0.4167
 2022-09-05 06:04:51.754957,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,0.07740000000000002,0.4,0.3226
 2022-09-05 06:04:51.770553,MLB Futures - MLB 2022 American League East - ALE Winner,New York Yankees,0.07069999999999999,0.8889,0.8182
-2022-09-05 05:03:51.079372,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Houston Texans,Over 5.5,0.06670000000000004,0.4,0.3333
 2022-09-05 06:04:51.808924,MLB Futures - MLB 2022 National League East - NLE Winner,Atlanta Braves,0.06669999999999998,0.2667,0.2
-2022-09-05 05:03:50.708767,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Chicago Bears,Over 6.5,0.06230000000000002,0.4545,0.3922
 2022-09-05 09:05:11.095438,FIBA AmeriCup - FIBA AmeriCup - Outright,Brazil,0.04620000000000002,0.2,0.1538
 2022-09-05 09:05:28.149084,Superettan - Swedish Superettan 2022 - Outright,Halmstads BK,0.04169999999999996,0.875,0.8333
-2022-09-05 05:03:50.941303,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Baltimore Ravens,Over 10.5,0.03489999999999999,0.5,0.4651
+2022-09-05 17:05:11.807042,NCAAF - 2022 American Conference Championship - American Conference Championship Game Winner,East Carolina,0.0334,0.0769,0.0435
 2022-09-05 10:05:30.226016,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Palmeiras,0.033299999999999996,0.8333,0.8
 2022-09-05 09:05:27.963787,Eliteserien - Norway Eliteserien 2022 - Outright,Molde FK,0.03180000000000005,0.8889,0.8571
+2022-09-05 17:05:11.807042,NCAAF - 2022 American Conference Championship - American Conference Championship Game Winner,Central Florida,0.02779999999999999,0.2778,0.25
 2022-09-05 09:05:28.771322,National League - England National League 2022/23 - Outright,Chesterfield,0.02779999999999999,0.25,0.2222
 2022-09-05 10:05:30.226016,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,América Mineiro,0.0274,0.0294,0.002
 2022-09-05 07:05:25.196374,Superligaen - Denmark Superligaen 2022/23 - Outright,Randers,0.0242,0.0909,0.0667
@@ -27,48 +26,53 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-05 06:04:52.516609,NBA Season Props - 2022/23 NBA Season - Regular Season Win Totals - Utah Jazz,Under 25.5,0.02079999999999993,0.5556,0.5348
 2022-09-05 14:04:49.883943,WNBA - 2022 WNBA Championship Winner - Semifinals Series Price,Connecticut Sun,0.01999999999999999,0.2105,0.1905
 2022-09-05 14:04:59.706758,CFL - 2022 CFL Season Odds - Odds to win the 109th (2022) Grey Cup,Toronto Argonauts,0.019699999999999995,0.125,0.1053
-2022-09-05 05:03:51.321374,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Tampa Bay Buccaneers,Over 12.5,0.019000000000000017,0.2857,0.2667
 2022-09-05 14:04:59.706758,CFL - 2022 CFL Season Odds - Odds to win the 109th (2022) Grey Cup,Ottawa Redblacks,0.0184,0.0294,0.011
 2022-09-05 14:04:49.894559,WNBA - 2022 WNBA Championship Winner - Semifinals Series Price,Seattle Storm,0.01820000000000002,0.2,0.1818
 2022-09-05 08:03:49.521219,MLS - MLS Cup 2022 - Winner,CF Montréal,0.018099999999999998,0.0769,0.0588
 2022-09-05 07:05:04.505473,EuroBasket 2022 - EuroBasket 2022 - Outright,Bosnia And Herzegovina,0.017400000000000002,0.0323,0.0149
+2022-09-05 17:05:11.716493,NCAAF - 2022 ACC Championship - 2022 ACC Championship Winner,Florida State,0.015300000000000001,0.0476,0.0323
 2022-09-05 07:05:04.505473,EuroBasket 2022 - EuroBasket 2022 - Outright,Germany,0.013999999999999999,0.0909,0.0769
 2022-09-05 08:03:50.804854,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Boca Juniors,0.013899999999999996,0.125,0.1111
+2022-09-05 17:05:26.602107,College Season Props - 2022 - Regular Season Wins - Clemson - Alternate Regular Season Wins - Clemson,Over 11.5,0.01319999999999999,0.2632,0.25
+2022-09-05 17:05:28.041548,NFL Specials - Fantasy Football League Leaders - Who will Score the Most Fantasy Points (Non PPR Scoring),Josh Allen,0.0131,0.2353,0.2222
 2022-09-05 14:04:49.916861,WNBA - 2022 WNBA Championship Winner - Series Correct Score,Chicago Sky 3-2,0.012699999999999989,0.3636,0.3509
 2022-09-05 14:05:06.147652,AFC South - 2022/202 AFC South - Titans Division Finishing Position,1st,0.012699999999999989,0.3636,0.3509
 2022-09-05 14:05:06.036894,AFC South - 2022/202 AFC South - AFC South Winner,Tennessee Titans,0.012699999999999989,0.3636,0.3509
 2022-09-05 09:05:28.098138,Allsvenskan - Swedish Allsvenskan 2022 - Outright,AIK,0.011199999999999995,0.0588,0.0476
-2022-09-05 05:03:50.701810,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Carolina Panthers,Under 6.5,0.011099999999999999,0.4762,0.4651
 2022-09-05 08:03:50.804854,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Gimnasia La Plata,0.010899999999999993,0.1538,0.1429
 2022-09-05 14:04:59.706758,CFL - 2022 CFL Season Odds - Odds to win the 109th (2022) Grey Cup,Montreal Alouettes,0.0102,0.0769,0.0667
 2022-09-05 14:04:59.706758,CFL - 2022 CFL Season Odds - Odds to win the 109th (2022) Grey Cup,British Columbia Lions,-0.010499999999999982,0.2,0.2105
+2022-09-05 17:05:26.723415,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,DJ Uiagalelei,-0.010700000000000001,0.0278,0.0385
 2022-09-05 08:03:50.804854,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Racing Club,-0.011099999999999999,0.1,0.1111
-2022-09-05 05:03:50.681493,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Atlanta Falcons,Under 5,-0.011499999999999955,0.6552,0.6667
+2022-09-05 17:05:26.723415,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,Will Anderson Jr.,-0.011199999999999995,0.0476,0.0588
+2022-09-05 17:05:11.807042,NCAAF - 2022 American Conference Championship - American Conference Championship Game Winner,South Florida,-0.0114,0.005,0.0164
 2022-09-05 14:04:49.916861,WNBA - 2022 WNBA Championship Winner - Series Correct Score,Connecticut Sun 3-2,-0.011700000000000016,0.2105,0.2222
 2022-09-05 09:05:28.098138,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Malmö FF,-0.0131,0.0345,0.0476
 2022-09-05 09:05:27.913104,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Tigres UANL,-0.013899999999999996,0.1111,0.125
+2022-09-05 17:05:11.740667,NCAAF - 2022 Big 12 Championship  - 2022 Big 12 Championship Winner,TCU,-0.013999999999999999,0.0769,0.0909
+2022-09-05 17:05:26.723415,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,TreVeyon Henderson,-0.014099999999999998,0.0244,0.0385
+2022-09-05 17:05:26.602107,College Season Props - 2022 - Regular Season Wins - Clemson - Alternate Regular Season Wins - Clemson,Under 11.5,-0.01430000000000009,0.8039,0.8182
+2022-09-05 17:05:28.041548,NFL Specials - Fantasy Football League Leaders - Who will Score the Most Fantasy Points (Non PPR Scoring),Patrick Mahomes,-0.015100000000000002,0.1667,0.1818
 2022-09-05 14:04:49.894559,WNBA - 2022 WNBA Championship Winner - Semifinals Series Price,Las Vegas Aces,-0.015699999999999936,0.8667,0.8824
 2022-09-05 07:05:04.505473,EuroBasket 2022 - EuroBasket 2022 - Outright,Lithuania,-0.01580000000000001,0.0556,0.0714
-2022-09-05 05:03:51.321374,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Tampa Bay Buccaneers,Under 12.5,-0.017400000000000082,0.7826,0.8
 2022-09-05 08:03:49.573385,MLS - MLS Cup 2022 - Top Goalscorer,Jesus Ferreira,-0.018200000000000004,0.0294,0.0476
 2022-09-05 06:04:51.754957,MLB Futures - MLB 2022 American League Central - ALC Winner,Chicago White Sox,-0.01820000000000002,0.1818,0.2
-2022-09-05 10:05:30.226016,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Flamengo,-0.022199999999999998,0.2,0.2222
 2022-09-05 07:05:04.505473,EuroBasket 2022 - EuroBasket 2022 - Outright,Slovenia,-0.022199999999999998,0.2,0.2222
+2022-09-05 10:05:30.226016,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Flamengo,-0.022199999999999998,0.2,0.2222
 2022-09-05 06:04:52.516609,NBA Season Props - 2022/23 NBA Season - Regular Season Win Totals - Utah Jazz,Over 25.5,-0.022600000000000064,0.5122,0.5348
 2022-09-05 08:03:49.573385,MLS - MLS Cup 2022 - Top Goalscorer,Daniel Gazdag,-0.02310000000000001,0.0769,0.1
+2022-09-05 17:05:11.807042,NCAAF - 2022 American Conference Championship - American Conference Championship Game Winner,Memphis,-0.024299999999999995,0.0526,0.0769
 2022-09-05 06:04:51.794269,MLB Futures - MLB 2022 National League Central - NLC Winner,Milwaukee Brewers,-0.024299999999999995,0.0345,0.0588
 2022-09-05 09:05:27.963787,Eliteserien - Norway Eliteserien 2022 - Outright,Lillestrøm SK,-0.024999999999999994,0.1,0.125
 2022-09-05 08:03:49.521219,MLS - MLS Cup 2022 - Winner,Los Angeles FC,-0.02560000000000001,0.3077,0.3333
 2022-09-05 14:04:59.706758,CFL - 2022 CFL Season Odds - Odds to win the 109th (2022) Grey Cup,Saskatchewan Roughriders,-0.0267,0.0909,0.1176
 2022-09-05 09:05:28.771322,National League - England National League 2022/23 - Outright,Wrexham,-0.027700000000000058,0.5556,0.5833
+2022-09-05 17:05:26.723415,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,CJ Stroud,-0.02779999999999999,0.2222,0.25
 2022-09-05 09:05:28.149084,Superettan - Swedish Superettan 2022 - Outright,Brommapojkarna,-0.027999999999999997,0.1538,0.1818
 2022-09-05 14:04:49.868749,WNBA - 2022 WNBA Championship Winner - 2022 Champion,Chicago Sky,-0.029000000000000026,0.4255,0.4545
-2022-09-05 05:03:50.941303,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Baltimore Ravens,Under 10.5,-0.03479999999999994,0.5652,0.6
 2022-09-05 07:05:25.196374,Superligaen - Denmark Superligaen 2022/23 - Outright,FC Midtjylland,-0.04409999999999997,0.25,0.2941
 2022-09-05 06:04:51.808924,MLB Futures - MLB 2022 National League East - NLE Winner,New York Mets,-0.05709999999999993,0.8,0.8571
 2022-09-05 06:04:51.754957,MLB Futures - MLB 2022 American League Central - ALC Winner,Cleveland Guardians,-0.0595,0.5238,0.5833
-2022-09-05 05:03:50.708767,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Chicago Bears,Under 6.5,-0.062000000000000055,0.6154,0.6774
-2022-09-05 05:03:51.079372,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Houston Texans,Under 5.5,-0.06659999999999999,0.6667,0.7333
 2022-09-05 06:04:51.770553,MLB Futures - MLB 2022 American League East - ALE Winner,Tampa Bay Rays,-0.07500000000000001,0.125,0.2
 2022-09-05 09:05:28.098138,Allsvenskan - Swedish Allsvenskan 2022 - Outright,BK Hacken,-0.0807,0.3448,0.4255
 2022-09-05 09:05:11.095438,FIBA AmeriCup - FIBA AmeriCup - Outright,USA,-0.09039999999999998,0.2667,0.3571
