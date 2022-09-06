@@ -7,8 +7,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-06 09:04:19.198927,UEFA Champions League - UEFA Champions League 2022/2023 - Top Goalscorer,Erling Braut Haaland (Man City),0.0562,0.2667,0.2105
 2022-09-06 10:06:02.567348,Allsvenskan - Swedish Allsvenskan 2022 - Outright,BK Hacken,0.05520000000000003,0.4,0.3448
 2022-09-06 10:06:01.293977,UEFA Champions League - Group H - To Advance From Group,Benfica,0.0504,0.2857,0.2353
-2022-09-06 06:05:39.196583,MLB Futures - MLB 2022 National League East - NLE Winner,New York Mets,0.04760000000000009,0.7143,0.6667
 2022-09-06 10:06:00.393751,UEFA Champions League - Group C - To Advance From Group,FC Barcelona,0.04760000000000009,0.7143,0.6667
+2022-09-06 06:05:39.196583,MLB Futures - MLB 2022 National League East - NLE Winner,New York Mets,0.04760000000000009,0.7143,0.6667
 2022-09-06 10:06:02.567348,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Djurgårdens,0.045499999999999985,0.5,0.4545
 2022-09-06 10:06:00.340812,UEFA Champions League - Group C - Not To Advance From Group,Inter Milan,0.04139999999999999,0.5652,0.5238
 2022-09-06 10:06:01.102502,UEFA Champions League - Group H - Group Winner,Paris Saint-Germain,0.035699999999999954,0.75,0.7143
@@ -17,9 +17,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-06 10:06:02.898109,Superettan - Swedish Superettan 2022 - Outright,Brommapojkarna,0.027999999999999997,0.1818,0.1538
 2022-09-06 06:05:39.105804,MLB Futures - MLB 2022 American League - AL Winner,Tampa Bay Rays,0.027800000000000005,0.1111,0.0833
 2022-09-06 04:05:13.656531,Running Backs - Ezekiel Elliot Rush Yards 2022 Reg. Season - Outright,Under 900.5,0.026499999999999968,0.5917,0.5652
+2022-09-06 13:03:44.385686,AFC East - 2022/2023 AFC East - AFC East Winner,Miami Dolphins,0.026100000000000012,0.2,0.1739
 2022-09-06 09:04:19.539992,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Godoy Cruz,0.024999999999999994,0.125,0.1
-2022-09-06 06:05:39.182302,MLB Futures - MLB 2022 National League Central - NLC Winner,Milwaukee Brewers,0.024299999999999995,0.0588,0.0345
 2022-09-06 06:05:39.077844,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Tampa Bay Rays,0.024299999999999995,0.0588,0.0345
+2022-09-06 06:05:39.182302,MLB Futures - MLB 2022 National League Central - NLC Winner,Milwaukee Brewers,0.024299999999999995,0.0588,0.0345
 2022-09-06 10:06:00.225792,UEFA Champions League - Group A - To Advance From Group,Ajax,0.023800000000000043,0.5238,0.5
 2022-09-06 03:05:34.722105,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Chicago Bears,Under 5.5,0.023799999999999988,0.5,0.4762
 2022-09-06 10:06:00.557932,UEFA Champions League - Group F - Group Winner,Real Madrid,0.023799999999999932,0.8571,0.8333
@@ -31,8 +32,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-06 03:05:34.820701,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Detroit Lions,Over 7.5,0.018100000000000005,0.4348,0.4167
 2022-09-06 09:04:19.539992,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Boca Juniors,0.0179,0.1429,0.125
 2022-09-06 04:05:32.645347,UEFA Champions League - Group D - To Advance From Group,Sporting CP,0.017600000000000005,0.3509,0.3333
-2022-09-06 10:06:01.461745,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Bayern Munich,0.0174,0.25,0.2326
 2022-09-06 10:06:00.697349,UEFA Champions League - Group E - Group Winner,AC Milan,0.0174,0.25,0.2326
+2022-09-06 10:06:01.461745,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Bayern Munich,0.0174,0.25,0.2326
 2022-09-06 10:05:59.987469,UEFA Champions League - Group B - Group Winner,FC Porto,0.016699999999999993,0.2667,0.25
 2022-09-06 10:06:00.476975,UEFA Champions League - Group D - Not To Advance From Group,Eintracht Frankfurt,0.01539999999999997,0.6154,0.6
 2022-09-06 10:06:00.901786,UEFA Champions League - Group G - Group Winner,Manchester City,0.015100000000000002,0.8333,0.8182
@@ -43,26 +44,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-06 10:06:01.363573,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,FC Barcelona,0.014099999999999994,0.0667,0.0526
 2022-09-06 03:05:18.833457,BMW PGA Championship - BMW PGA Championship - Outright,Shane Lowry,0.014099999999999994,0.0667,0.0526
 2022-09-06 06:05:39.152799,MLB Futures - MLB 2022 American League East - ALE Winner,Toronto Blue Jays,0.013999999999999999,0.0909,0.0769
-2022-09-06 06:05:39.105804,MLB Futures - MLB 2022 American League - AL Winner,Seattle Mariners,0.013899999999999996,0.125,0.1111
 2022-09-06 06:05:39.122643,MLB Futures - MLB 2022 National League - NL Winner,St. Louis Cardinals,0.013899999999999996,0.125,0.1111
+2022-09-06 06:05:39.105804,MLB Futures - MLB 2022 American League - AL Winner,Seattle Mariners,0.013899999999999996,0.125,0.1111
 2022-09-06 03:05:35.281967,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Tennessee Titans,Under 8,0.013800000000000034,0.3774,0.3636
 2022-09-06 10:06:00.303863,UEFA Champions League - Group C - Group Winner,FC Barcelona,0.013800000000000034,0.3774,0.3636
 2022-09-06 06:05:39.105804,MLB Futures - MLB 2022 American League - AL Winner,Houston Astros,0.013300000000000034,0.3704,0.3571
 2022-09-06 04:05:06.105390,Boxing Lines - Claressa Shields vs Savannah Marshall - To Win the Bout,Savannah Marshall,0.012800000000000034,0.5455,0.5327
 2022-09-06 10:06:00.011240,UEFA Champions League - Group B - Not To Advance From Group,Bayer Leverkusen,0.012199999999999989,0.5122,0.5
 2022-09-06 10:06:00.037014,UEFA Champions League - Group B - To Advance From Group,Atlético Madrid,0.011699999999999933,0.7895,0.7778
-2022-09-06 04:05:16.883483,Quarterbacks - Trevor Lawrence Passing Yards 2022 Reg. Season - Trevor Lawrence Passing Yards 2022 Reg. Season,Under 4000.5,0.011600000000000055,0.5238,0.5122
 2022-09-06 04:05:06.105390,Boxing Lines - Claressa Shields vs Savannah Marshall - To Win the Bout,Claressa Shields,0.011600000000000055,0.5238,0.5122
+2022-09-06 04:05:16.883483,Quarterbacks - Trevor Lawrence Passing Yards 2022 Reg. Season - Trevor Lawrence Passing Yards 2022 Reg. Season,Under 4000.5,0.011600000000000055,0.5238,0.5122
 2022-09-06 04:05:10.276112,Wide Receivers - CeeDee Lamb Rec Yards 2022 Reg. Season - Outright,Under 1175.5,0.0116,0.4878,0.4762
 2022-09-06 04:05:16.829413,Quarterbacks - Trevor Lawrence Passing TD's 2022 Reg. Season - Trevor Lawrence Passing TD's 2022 Reg. Season,Under 22.5,0.011099999999999999,0.4762,0.4651
 2022-09-06 06:05:39.077844,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Atlanta Braves,0.011099999999999999,0.1111,0.1
-2022-09-06 10:05:59.987469,UEFA Champions League - Group B - Group Winner,Atlético Madrid,0.01100000000000001,0.5348,0.5238
 2022-09-06 04:05:09.940434,Wide Receivers - Adam Thielen Rec Yards 2022 Reg. Season - Outright,Under 750.5,0.01100000000000001,0.5348,0.5238
+2022-09-06 10:05:59.987469,UEFA Champions League - Group B - Group Winner,Atlético Madrid,0.01100000000000001,0.5348,0.5238
 2022-09-06 10:06:00.427706,UEFA Champions League - Group D - Group Winner,Tottenham Hotspur,0.010700000000000043,0.6774,0.6667
 2022-09-06 04:05:10.598854,Wide Receivers - DK Metcalf Rec Yards 2022 Reg. Season - Outright,Under 925.5,0.010699999999999932,0.5455,0.5348
-2022-09-06 04:05:14.907636,Quarterbacks - Baker Mayfield Passing TD's  2022 Reg. Season - Baker Mayfield Passing TD's  2022 Reg. Season,Under 21.5,0.010699999999999932,0.5455,0.5348
-2022-09-06 04:05:15.413596,Quarterbacks - Josh Allen Passing Yards 2022 Reg. Season - Josh Allen Passing Yards 2022 Reg. Season,Under 4350.5,0.010699999999999932,0.5455,0.5348
 2022-09-06 04:05:16.352043,Quarterbacks - Patrick Mahomes Passing TD's 2022 Reg. Season - Patrick Mahomes Passing TD's 2022 Reg. Season,Under 35.5,0.010699999999999932,0.5455,0.5348
+2022-09-06 04:05:15.413596,Quarterbacks - Josh Allen Passing Yards 2022 Reg. Season - Josh Allen Passing Yards 2022 Reg. Season,Under 4350.5,0.010699999999999932,0.5455,0.5348
+2022-09-06 04:05:14.907636,Quarterbacks - Baker Mayfield Passing TD's  2022 Reg. Season - Baker Mayfield Passing TD's  2022 Reg. Season,Under 21.5,0.010699999999999932,0.5455,0.5348
 2022-09-06 06:05:39.077844,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Houston Astros,0.010499999999999982,0.2105,0.2
 2022-09-06 10:06:00.557932,UEFA Champions League - Group F - Group Winner,Celtic,0.0102,0.0769,0.0667
 2022-09-06 04:05:16.883483,Quarterbacks - Trevor Lawrence Passing Yards 2022 Reg. Season - Trevor Lawrence Passing Yards 2022 Reg. Season,Over 4000.5,-0.010099999999999998,0.5455,0.5556
@@ -71,24 +72,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-06 04:05:09.940434,Wide Receivers - Adam Thielen Rec Yards 2022 Reg. Season - Outright,Over 750.5,-0.010699999999999932,0.5348,0.5455
 2022-09-06 12:05:25.531195,Boxing Lines - Mikaela Mayer vs Alycia Baumgardner - To Win the Bout,Alycia Baumgardner,-0.010699999999999987,0.3226,0.3333
 2022-09-06 10:06:01.415838,UEFA Champions League - UEFA Champions League 2022/2023 - Top Goalscorer,Heung-Min Son (Tottenham),-0.010700000000000001,0.0278,0.0385
-2022-09-06 10:06:01.363573,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Liverpool,-0.010899999999999993,0.1429,0.1538
 2022-09-06 10:06:00.746787,UEFA Champions League - Group E - Not To Advance From Group,Chelsea,-0.010899999999999993,0.1429,0.1538
+2022-09-06 10:06:01.363573,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Liverpool,-0.010899999999999993,0.1429,0.1538
 2022-09-06 04:05:15.413596,Quarterbacks - Josh Allen Passing Yards 2022 Reg. Season - Josh Allen Passing Yards 2022 Reg. Season,Over 4350.5,-0.01100000000000001,0.5238,0.5348
 2022-09-06 04:05:16.352043,Quarterbacks - Patrick Mahomes Passing TD's 2022 Reg. Season - Patrick Mahomes Passing TD's 2022 Reg. Season,Over 35.5,-0.01100000000000001,0.5238,0.5348
-2022-09-06 04:05:14.907636,Quarterbacks - Baker Mayfield Passing TD's  2022 Reg. Season - Baker Mayfield Passing TD's  2022 Reg. Season,Over 21.5,-0.01100000000000001,0.5238,0.5348
 2022-09-06 04:05:10.598854,Wide Receivers - DK Metcalf Rec Yards 2022 Reg. Season - Outright,Over 925.5,-0.01100000000000001,0.5238,0.5348
+2022-09-06 04:05:14.907636,Quarterbacks - Baker Mayfield Passing TD's  2022 Reg. Season - Baker Mayfield Passing TD's  2022 Reg. Season,Over 21.5,-0.01100000000000001,0.5238,0.5348
 2022-09-06 10:06:01.415838,UEFA Champions League - UEFA Champions League 2022/2023 - Top Goalscorer,Karim Benzema (Real Madrid),-0.011099999999999999,0.1,0.1111
-2022-09-06 10:06:01.363573,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Real Madrid,-0.011099999999999999,0.1,0.1111
 2022-09-06 12:05:27.862373,NBA Futures - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Miami Heat,-0.011099999999999999,0.1,0.1111
-2022-09-06 10:06:00.011240,UEFA Champions League - Group B - Not To Advance From Group,FC Porto,-0.012199999999999989,0.4878,0.5
+2022-09-06 10:06:01.363573,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Real Madrid,-0.011099999999999999,0.1,0.1111
 2022-09-06 09:04:19.422441,Superligaen - Denmark Superligaen 2022/23 - Outright,FC Copenhagen,-0.012199999999999989,0.4878,0.5
+2022-09-06 10:06:00.011240,UEFA Champions League - Group B - Not To Advance From Group,FC Porto,-0.012199999999999989,0.4878,0.5
 2022-09-06 10:06:01.363573,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Paris Saint-Germain,-0.012899999999999995,0.1538,0.1667
 2022-09-06 10:06:02.898109,Superettan - Swedish Superettan 2022 - Outright,Halmstads BK,-0.012900000000000023,0.8621,0.875
 2022-09-06 09:04:19.422441,Superligaen - Denmark Superligaen 2022/23 - Outright,AGF Aarhus,-0.0131,0.0345,0.0476
 2022-09-06 06:05:39.077844,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Los Angeles Dodgers,-0.013500000000000012,0.2532,0.2667
 2022-09-06 06:05:39.105804,MLB Futures - MLB 2022 American League - AL Winner,Toronto Blue Jays,-0.013899999999999996,0.1111,0.125
-2022-09-06 06:05:39.077844,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,New York Mets,-0.013899999999999996,0.16,0.1739
 2022-09-06 09:04:19.198927,UEFA Champions League - UEFA Champions League 2022/2023 - Top Goalscorer,Karim Benzema (Real Madrid),-0.013899999999999996,0.1111,0.125
+2022-09-06 06:05:39.077844,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,New York Mets,-0.013899999999999996,0.16,0.1739
 2022-09-06 09:04:19.198927,UEFA Champions League - UEFA Champions League 2022/2023 - Top Goalscorer,Lionel Messi (PSG),-0.013999999999999999,0.0769,0.0909
 2022-09-06 10:06:02.898109,Superettan - Swedish Superettan 2022 - Outright,IK Brage,-0.014099999999999998,0.0244,0.0385
 2022-09-06 04:05:10.026177,Wide Receivers - Allen Robinson Rec Yards 2022 Reg. Season - Outright,Over 850.5,-0.014200000000000101,0.6154,0.6296
@@ -101,6 +102,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-06 04:05:10.276112,Wide Receivers - CeeDee Lamb Rec Yards 2022 Reg. Season - Outright,Over 1175.5,-0.017299999999999982,0.5744,0.5917
 2022-09-06 10:06:00.476975,UEFA Champions League - Group D - Not To Advance From Group,Tottenham Hotspur,-0.01820000000000002,0.1818,0.2
 2022-09-06 03:05:35.281967,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Tennessee Titans,Over 8,-0.018399999999999972,0.6875,0.7059
+2022-09-06 13:03:44.385686,AFC East - 2022/2023 AFC East - AFC East Winner,Buffalo Bills,-0.018399999999999972,0.6875,0.7059
 2022-09-06 10:06:00.225792,UEFA Champions League - Group A - To Advance From Group,Liverpool,-0.019100000000000006,0.9333,0.9524
 2022-09-06 03:05:34.820701,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Detroit Lions,Under 7.5,-0.019499999999999962,0.6296,0.6491
 2022-09-06 03:05:34.322492,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Chicago Bears,Over 6.5,-0.019699999999999995,0.4348,0.4545
