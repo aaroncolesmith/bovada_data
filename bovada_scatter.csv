@@ -6,8 +6,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-05 22:03:20.919139,Serie A - Italy Serie A 2022/23 - Winner,Inter Milan,0.06659999999999999,0.3333,0.2667
 2022-09-05 22:03:20.907490,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Mainz,0.066,0.1429,0.0769
 2022-09-05 18:05:52.494528,NCAAF - 2022 SEC Championship  - 2022 SEC Championship Winner,Georgia,0.06230000000000002,0.4545,0.3922
-2022-09-05 18:05:52.613388,NCAAF - 2022 Mountain West Championship - Mountain West Championship Game Winner,Air Force,0.05559999999999998,0.2778,0.2222
 2022-09-05 19:06:23.319196,NFC South - 2022/2023 NFC South - NFC South Straight Forecast,1st TB Buccaneers / 2nd NO Saints,0.05559999999999998,0.5,0.4444
+2022-09-05 18:05:52.613388,NCAAF - 2022 Mountain West Championship - Mountain West Championship Game Winner,Air Force,0.05559999999999998,0.2778,0.2222
 2022-09-05 22:03:20.849010,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Marseille,0.05449999999999999,0.6,0.5455
 2022-09-05 22:03:20.907490,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Eintracht Frankfurt,0.04999999999999999,0.25,0.2
 2022-09-05 22:03:20.836178,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Toulouse,0.04040000000000002,0.2222,0.1818
@@ -18,9 +18,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-05 22:03:20.836178,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,AC Ajaccio,0.0363,0.7333,0.697
 2022-09-05 22:03:20.919139,Serie A - Italy Serie A 2022/23 - Winner,AC Milan,0.03570000000000001,0.2857,0.25
 2022-09-05 17:05:11.807042,NCAAF - 2022 American Conference Championship - American Conference Championship Game Winner,East Carolina,0.0334,0.0769,0.0435
+2022-09-05 22:03:20.901261,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,VfB Stuttgart,0.033300000000000024,0.2,0.1667
 2022-09-05 19:06:23.319196,NFC South - 2022/2023 NFC South - NFC South Straight Forecast,1st NO Saints / 2nd TB Buccaneers,0.033300000000000024,0.2,0.1667
 2022-09-05 22:03:20.836178,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Strasbourg,0.033300000000000024,0.2,0.1667
-2022-09-05 22:03:20.901261,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,VfB Stuttgart,0.033300000000000024,0.2,0.1667
 2022-09-05 19:06:22.886685,NFC East - 2022/2023 NFC East - NFC East Straight Forecast,1st PHI Eagles / 2nd DAL Cowboys,0.031399999999999983,0.2667,0.2353
 2022-09-05 22:03:20.836178,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Reims,0.030299999999999994,0.3636,0.3333
 2022-09-05 22:03:20.907490,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Borussia Dortmund,0.029900000000000038,0.8,0.7701
@@ -29,41 +29,36 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-05 18:05:52.697674,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,Alabama,0.027500000000000024,0.3846,0.3571
 2022-09-05 19:06:23.299723,NFC South - 2022/2023 NFC South - NFC South Exact Order,1st NO Saints/2nd TB Buccaneers/3rd CAR Panthers/4th ATL Falcons,0.025300000000000003,0.1429,0.1176
 2022-09-05 19:06:16.350272,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Seattle Seahawks,Over 5.5,0.023800000000000043,0.5238,0.5
+2022-09-06 03:05:34.722105,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Chicago Bears,Under 5.5,0.023799999999999988,0.5,0.4762
 2022-09-05 18:05:52.462287,NCAAF - 2022 Pac-12 Championship - 2022 Pac-12 Championship Winner,USC,0.02360000000000001,0.4082,0.3846
 2022-09-05 22:03:20.849010,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Lyon,0.022600000000000064,0.6226,0.6
-2022-09-05 14:04:59.706758,CFL - 2022 CFL Season Odds - Odds to win the 109th (2022) Grey Cup,Winnipeg Blue Bombers,0.021699999999999997,0.4762,0.4545
-2022-09-05 14:04:49.883943,WNBA - 2022 WNBA Championship Winner - Semifinals Series Price,Connecticut Sun,0.01999999999999999,0.2105,0.1905
-2022-09-05 14:04:59.706758,CFL - 2022 CFL Season Odds - Odds to win the 109th (2022) Grey Cup,Toronto Argonauts,0.019699999999999995,0.125,0.1053
 2022-09-05 19:06:23.811043,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner Exact Matchup,BUF Bills vs KC Chiefs,0.019699999999999995,0.125,0.1053
 2022-09-05 19:06:16.387080,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Tennessee Titans,Under 9,0.01880000000000004,0.5744,0.5556
-2022-09-05 14:04:59.706758,CFL - 2022 CFL Season Odds - Odds to win the 109th (2022) Grey Cup,Ottawa Redblacks,0.0184,0.0294,0.011
-2022-09-05 14:04:49.894559,WNBA - 2022 WNBA Championship Winner - Semifinals Series Price,Seattle Storm,0.01820000000000002,0.2,0.1818
+2022-09-06 03:05:34.820701,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Detroit Lions,Over 7.5,0.018100000000000005,0.4348,0.4167
 2022-09-05 19:06:22.886685,NFC East - 2022/2023 NFC East - NFC East Straight Forecast,1st PHI Eagles / 2nd NY Giants,0.018099999999999998,0.0769,0.0588
 2022-09-05 22:03:20.849010,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Monaco,0.016699999999999993,0.2667,0.25
 2022-09-05 17:05:11.716493,NCAAF - 2022 ACC Championship - 2022 ACC Championship Winner,Florida State,0.015300000000000001,0.0476,0.0323
 2022-09-05 22:03:20.876646,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Christopher Nkunku,0.015100000000000002,0.1818,0.1667
 2022-09-05 17:05:11.740667,NCAAF - 2022 Big 12 Championship  - 2022 Big 12 Championship Winner,Texas,0.01469999999999999,0.25,0.2353
 2022-09-05 19:06:23.811043,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner Exact Matchup,BUF Bills vs LA Chargers,0.01440000000000001,0.1053,0.0909
+2022-09-06 03:05:34.322492,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Chicago Bears,Under 6.5,0.014200000000000101,0.6296,0.6154
 2022-09-05 22:03:20.826706,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Jonathan David,0.014099999999999998,0.0385,0.0244
 2022-09-05 22:03:20.901261,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Borussia Mönchengladbach,0.014099999999999998,0.0385,0.0244
+2022-09-06 03:05:18.833457,BMW PGA Championship - BMW PGA Championship - Outright,Shane Lowry,0.014099999999999994,0.0667,0.0526
 2022-09-05 22:03:21.425790,Championship - England Championship 2022/23 - Outright,Middlesbrough,0.013999999999999999,0.0909,0.0769
+2022-09-06 03:05:35.281967,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Tennessee Titans,Under 8,0.013800000000000034,0.3774,0.3636
 2022-09-05 17:05:26.602107,College Season Props - 2022 - Regular Season Wins - Clemson - Alternate Regular Season Wins - Clemson,Over 11.5,0.01319999999999999,0.2632,0.25
 2022-09-05 17:05:28.041548,NFL Specials - Fantasy Football League Leaders - Who will Score the Most Fantasy Points (Non PPR Scoring),Josh Allen,0.0131,0.2353,0.2222
-2022-09-05 19:06:22.850864,NFC East - 2022/2023 NFC East - NFC East Exact Order,1st PHI Eagles/2nd DAL Cowboys/3rd WAS Commanders/4th NY Giants,0.012899999999999995,0.1667,0.1538
 2022-09-05 22:03:20.849010,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Lille,0.012899999999999995,0.1667,0.1538
-2022-09-05 14:04:49.916861,WNBA - 2022 WNBA Championship Winner - Series Correct Score,Chicago Sky 3-2,0.012699999999999989,0.3636,0.3509
-2022-09-05 14:05:06.036894,AFC South - 2022/202 AFC South - AFC South Winner,Tennessee Titans,0.012699999999999989,0.3636,0.3509
-2022-09-05 14:05:06.147652,AFC South - 2022/202 AFC South - Titans Division Finishing Position,1st,0.012699999999999989,0.3636,0.3509
+2022-09-05 19:06:22.850864,NFC East - 2022/2023 NFC East - NFC East Exact Order,1st PHI Eagles/2nd DAL Cowboys/3rd WAS Commanders/4th NY Giants,0.012899999999999995,0.1667,0.1538
 2022-09-05 22:03:21.425790,Championship - England Championship 2022/23 - Outright,Sheffield United,0.011700000000000016,0.2222,0.2105
 2022-09-05 22:03:20.907490,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Werder Bremen,0.011199999999999995,0.0588,0.0476
 2022-09-05 19:06:22.886685,NFC East - 2022/2023 NFC East - NFC East Straight Forecast,1st WAS Commanders / 2nd DAL Cowboys,0.011099999999999999,0.1111,0.1
 2022-09-05 22:03:21.425790,Championship - England Championship 2022/23 - Outright,Norwich City,0.010499999999999982,0.2105,0.2
-2022-09-05 14:04:59.706758,CFL - 2022 CFL Season Odds - Odds to win the 109th (2022) Grey Cup,Montreal Alouettes,0.0102,0.0769,0.0667
 2022-09-05 18:06:12.534455,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Miami Dolphins,Over 9,0.010099999999999998,0.5556,0.5455
 2022-09-05 17:05:11.807042,NCAAF - 2022 American Conference Championship - American Conference Championship Game Winner,Cincinnati,-0.010099999999999998,0.3125,0.3226
 2022-09-05 22:03:20.836178,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Lens,-0.010100000000000001,0.0244,0.0345
 2022-09-05 17:05:11.763049,NCAAF - 2022 Big Ten Championship  - 2022 Big Ten Championship Winner,Penn State,-0.0102,0.0667,0.0769
-2022-09-05 14:04:59.706758,CFL - 2022 CFL Season Odds - Odds to win the 109th (2022) Grey Cup,British Columbia Lions,-0.010499999999999982,0.2,0.2105
 2022-09-05 19:06:23.299723,NFC South - 2022/2023 NFC South - NFC South Exact Order,1st TB Buccaneers/2nd CAR Panthers/3rd NO Saints/4th ATL Falcons,-0.010499999999999982,0.2,0.2105
 2022-09-05 17:05:26.723415,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,DJ Uiagalelei,-0.010700000000000001,0.0278,0.0385
 2022-09-05 22:03:21.425790,Championship - England Championship 2022/23 - Outright,Burnley,-0.010899999999999993,0.1429,0.1538
@@ -71,7 +66,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-05 17:05:26.723415,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,Will Anderson Jr.,-0.011199999999999995,0.0476,0.0588
 2022-09-05 17:05:11.807042,NCAAF - 2022 American Conference Championship - American Conference Championship Game Winner,South Florida,-0.0114,0.005,0.0164
 2022-09-05 18:06:12.534455,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Miami Dolphins,Under 9,-0.011600000000000055,0.5122,0.5238
-2022-09-05 14:04:49.916861,WNBA - 2022 WNBA Championship Winner - Series Correct Score,Connecticut Sun 3-2,-0.011700000000000016,0.2105,0.2222
 2022-09-05 18:06:12.571154,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Minnesota Vikings,Under 9.5,-0.012199999999999989,0.5,0.5122
 2022-09-05 18:06:12.641978,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  New England Patriots,Under 8.5,-0.012199999999999989,0.5,0.5122
 2022-09-05 22:03:20.919139,Serie A - Italy Serie A 2022/23 - Winner,Napoli,-0.013899999999999996,0.1111,0.125
@@ -81,13 +75,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-05 17:05:26.723415,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,TreVeyon Henderson,-0.014099999999999998,0.0244,0.0385
 2022-09-05 17:05:26.602107,College Season Props - 2022 - Regular Season Wins - Clemson - Alternate Regular Season Wins - Clemson,Under 11.5,-0.01430000000000009,0.8039,0.8182
 2022-09-05 17:05:28.041548,NFL Specials - Fantasy Football League Leaders - Who will Score the Most Fantasy Points (Non PPR Scoring),Patrick Mahomes,-0.015100000000000002,0.1667,0.1818
-2022-09-05 14:04:49.894559,WNBA - 2022 WNBA Championship Winner - Semifinals Series Price,Las Vegas Aces,-0.015699999999999936,0.8667,0.8824
 2022-09-05 18:05:52.462287,NCAAF - 2022 Pac-12 Championship - 2022 Pac-12 Championship Winner,UCLA,-0.015899999999999997,0.0952,0.1111
 2022-09-05 22:03:20.919139,Serie A - Italy Serie A 2022/23 - Winner,Atalanta,-0.016700000000000007,0.0833,0.1
 2022-09-05 17:05:11.740667,NCAAF - 2022 Big 12 Championship  - 2022 Big 12 Championship Winner,Oklahoma State,-0.0179,0.125,0.1429
 2022-09-05 22:03:20.836178,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Lille,-0.018200000000000004,0.0294,0.0476
+2022-09-06 03:05:35.281967,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Tennessee Titans,Over 8,-0.018399999999999972,0.6875,0.7059
 2022-09-05 22:03:20.901261,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Eintracht Frankfurt,-0.0189,0.0196,0.0385
 2022-09-05 22:03:20.849010,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Nice,-0.019099999999999992,0.0476,0.0667
+2022-09-06 03:05:34.820701,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Detroit Lions,Under 7.5,-0.019499999999999962,0.6296,0.6491
+2022-09-06 03:05:34.322492,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Chicago Bears,Over 6.5,-0.019699999999999995,0.4348,0.4545
 2022-09-05 19:06:16.350272,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Seattle Seahawks,Under 5.5,-0.01970000000000005,0.5455,0.5652
 2022-09-05 22:03:20.826706,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Lionel Messi,-0.02020000000000001,0.0909,0.1111
 2022-09-05 18:05:52.462287,NCAAF - 2022 Pac-12 Championship - 2022 Pac-12 Championship Winner,Utah,-0.020699999999999996,0.2778,0.2985
@@ -98,13 +94,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-05 19:06:16.387080,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Tennessee Titans,Over 9,-0.024399999999999977,0.4878,0.5122
 2022-09-05 19:06:22.886685,NFC East - 2022/2023 NFC East - NFC East Straight Forecast,1st DAL Cowboys / 2nd WAS Commanders,-0.025300000000000003,0.1176,0.1429
 2022-09-05 22:03:20.826706,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Neymar,-0.02560000000000001,0.3077,0.3333
+2022-09-06 03:05:34.722105,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Chicago Bears,Over 5.5,-0.026499999999999968,0.5652,0.5917
 2022-09-05 19:06:23.319196,NFC South - 2022/2023 NFC South - NFC South Straight Forecast,1st ATL Falcons / 2nd TB Buccaneers,-0.026499999999999996,0.0323,0.0588
-2022-09-05 14:04:59.706758,CFL - 2022 CFL Season Odds - Odds to win the 109th (2022) Grey Cup,Saskatchewan Roughriders,-0.0267,0.0909,0.1176
-2022-09-05 22:03:20.919139,Serie A - Italy Serie A 2022/23 - Winner,Juventus,-0.02779999999999999,0.2222,0.25
 2022-09-05 17:05:26.723415,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,CJ Stroud,-0.02779999999999999,0.2222,0.25
 2022-09-05 19:06:23.319196,NFC South - 2022/2023 NFC South - NFC South Straight Forecast,1st TB Buccaneers / 2nd CAR Panthers,-0.02779999999999999,0.2222,0.25
+2022-09-05 22:03:20.919139,Serie A - Italy Serie A 2022/23 - Winner,Juventus,-0.02779999999999999,0.2222,0.25
 2022-09-05 22:03:20.901261,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Mainz,-0.028199999999999996,0.0385,0.0667
-2022-09-05 14:04:49.868749,WNBA - 2022 WNBA Championship Winner - 2022 Champion,Chicago Sky,-0.029000000000000026,0.4255,0.4545
 2022-09-05 22:03:20.849010,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Rennes,-0.033300000000000024,0.1667,0.2
 2022-09-05 22:03:20.901261,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Werder Bremen,-0.034100000000000005,0.0909,0.125
 2022-09-05 22:03:20.901261,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,FC Köln,-0.03420000000000001,0.0769,0.1111
@@ -113,9 +108,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-05 18:05:52.613388,NCAAF - 2022 Mountain West Championship - Mountain West Championship Game Winner,Boise State,-0.046599999999999975,0.2564,0.303
 2022-09-05 22:03:20.836178,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Lorient,-0.04999999999999999,0.2,0.25
 2022-09-05 22:03:20.876646,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Sadio Mane,-0.055800000000000016,0.2299,0.2857
-2022-09-05 22:03:20.901261,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Hertha BSC,-0.055900000000000005,0.3077,0.3636
 2022-09-05 22:03:20.836178,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Clermont Foot,-0.055900000000000005,0.3077,0.3636
 2022-09-05 22:03:20.836178,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Troyes,-0.055900000000000005,0.3077,0.3636
+2022-09-05 22:03:20.901261,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Hertha BSC,-0.055900000000000005,0.3077,0.3636
 2022-09-05 22:03:20.907490,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,RB Leipzig,-0.0595,0.5238,0.5833
 2022-09-05 19:06:23.319196,NFC South - 2022/2023 NFC South - NFC South Straight Forecast,1st TB Buccaneers / 2nd ATL Falcons,-0.0629,0.0909,0.1538
 2022-09-05 22:03:20.907490,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Borussia Mönchengladbach,-0.06820000000000001,0.1818,0.25
