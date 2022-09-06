@@ -16,9 +16,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-05 22:03:20.836178,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Angers,0.03639999999999999,0.6364,0.6
 2022-09-05 22:03:20.836178,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,AC Ajaccio,0.0363,0.7333,0.697
 2022-09-05 22:03:20.919139,Serie A - Italy Serie A 2022/23 - Winner,AC Milan,0.03570000000000001,0.2857,0.25
-2022-09-05 19:06:23.319196,NFC South - 2022/2023 NFC South - NFC South Straight Forecast,1st NO Saints / 2nd TB Buccaneers,0.033300000000000024,0.2,0.1667
 2022-09-06 06:05:39.122643,MLB Futures - MLB 2022 National League - NL Winner,Atlanta Braves,0.033300000000000024,0.2,0.1667
 2022-09-05 22:03:20.901261,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,VfB Stuttgart,0.033300000000000024,0.2,0.1667
+2022-09-05 19:06:23.319196,NFC South - 2022/2023 NFC South - NFC South Straight Forecast,1st NO Saints / 2nd TB Buccaneers,0.033300000000000024,0.2,0.1667
 2022-09-05 22:03:20.836178,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Strasbourg,0.033300000000000024,0.2,0.1667
 2022-09-05 19:06:22.886685,NFC East - 2022/2023 NFC East - NFC East Straight Forecast,1st PHI Eagles / 2nd DAL Cowboys,0.031399999999999983,0.2667,0.2353
 2022-09-05 22:03:20.836178,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Reims,0.030299999999999994,0.3636,0.3333
@@ -46,11 +46,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-06 06:05:39.077844,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Seattle Mariners,0.014899999999999997,0.0625,0.0476
 2022-09-05 19:06:23.811043,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner Exact Matchup,BUF Bills vs LA Chargers,0.01440000000000001,0.1053,0.0909
 2022-09-06 03:05:34.322492,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Chicago Bears,Under 6.5,0.014200000000000101,0.6296,0.6154
-2022-09-05 22:03:20.826706,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Jonathan David,0.014099999999999998,0.0385,0.0244
 2022-09-05 22:03:20.901261,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Borussia Mönchengladbach,0.014099999999999998,0.0385,0.0244
+2022-09-05 22:03:20.826706,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Jonathan David,0.014099999999999998,0.0385,0.0244
 2022-09-06 03:05:18.833457,BMW PGA Championship - BMW PGA Championship - Outright,Shane Lowry,0.014099999999999994,0.0667,0.0526
-2022-09-05 22:03:21.425790,Championship - England Championship 2022/23 - Outright,Middlesbrough,0.013999999999999999,0.0909,0.0769
 2022-09-06 06:05:39.152799,MLB Futures - MLB 2022 American League East - ALE Winner,Toronto Blue Jays,0.013999999999999999,0.0909,0.0769
+2022-09-05 22:03:21.425790,Championship - England Championship 2022/23 - Outright,Middlesbrough,0.013999999999999999,0.0909,0.0769
 2022-09-06 06:05:39.105804,MLB Futures - MLB 2022 American League - AL Winner,Seattle Mariners,0.013899999999999996,0.125,0.1111
 2022-09-06 06:05:39.122643,MLB Futures - MLB 2022 National League - NL Winner,St. Louis Cardinals,0.013899999999999996,0.125,0.1111
 2022-09-06 03:05:35.281967,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Tennessee Titans,Under 8,0.013800000000000034,0.3774,0.3636
@@ -68,33 +68,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-05 19:06:22.886685,NFC East - 2022/2023 NFC East - NFC East Straight Forecast,1st WAS Commanders / 2nd DAL Cowboys,0.011099999999999999,0.1111,0.1
 2022-09-06 04:05:09.940434,Wide Receivers - Adam Thielen Rec Yards 2022 Reg. Season - Outright,Under 750.5,0.01100000000000001,0.5348,0.5238
 2022-09-06 04:05:16.352043,Quarterbacks - Patrick Mahomes Passing TD's 2022 Reg. Season - Patrick Mahomes Passing TD's 2022 Reg. Season,Under 35.5,0.010699999999999932,0.5455,0.5348
-2022-09-06 04:05:14.907636,Quarterbacks - Baker Mayfield Passing TD's  2022 Reg. Season - Baker Mayfield Passing TD's  2022 Reg. Season,Under 21.5,0.010699999999999932,0.5455,0.5348
 2022-09-06 04:05:15.413596,Quarterbacks - Josh Allen Passing Yards 2022 Reg. Season - Josh Allen Passing Yards 2022 Reg. Season,Under 4350.5,0.010699999999999932,0.5455,0.5348
+2022-09-06 04:05:14.907636,Quarterbacks - Baker Mayfield Passing TD's  2022 Reg. Season - Baker Mayfield Passing TD's  2022 Reg. Season,Under 21.5,0.010699999999999932,0.5455,0.5348
 2022-09-06 04:05:10.598854,Wide Receivers - DK Metcalf Rec Yards 2022 Reg. Season - Outright,Under 925.5,0.010699999999999932,0.5455,0.5348
-2022-09-05 22:03:21.425790,Championship - England Championship 2022/23 - Outright,Norwich City,0.010499999999999982,0.2105,0.2
 2022-09-06 06:05:39.077844,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Houston Astros,0.010499999999999982,0.2105,0.2
-2022-09-05 18:06:12.534455,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Miami Dolphins,Over 9,0.010099999999999998,0.5556,0.5455
+2022-09-05 22:03:21.425790,Championship - England Championship 2022/23 - Outright,Norwich City,0.010499999999999982,0.2105,0.2
 2022-09-06 04:05:16.883483,Quarterbacks - Trevor Lawrence Passing Yards 2022 Reg. Season - Trevor Lawrence Passing Yards 2022 Reg. Season,Over 4000.5,-0.010099999999999998,0.5455,0.5556
 2022-09-05 22:03:20.836178,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Lens,-0.010100000000000001,0.0244,0.0345
 2022-09-05 19:06:23.299723,NFC South - 2022/2023 NFC South - NFC South Exact Order,1st TB Buccaneers/2nd CAR Panthers/3rd NO Saints/4th ATL Falcons,-0.010499999999999982,0.2,0.2105
 2022-09-06 04:05:09.940434,Wide Receivers - Adam Thielen Rec Yards 2022 Reg. Season - Outright,Over 750.5,-0.010699999999999932,0.5348,0.5455
 2022-09-05 22:03:21.425790,Championship - England Championship 2022/23 - Outright,Burnley,-0.010899999999999993,0.1429,0.1538
-2022-09-06 04:05:14.907636,Quarterbacks - Baker Mayfield Passing TD's  2022 Reg. Season - Baker Mayfield Passing TD's  2022 Reg. Season,Over 21.5,-0.01100000000000001,0.5238,0.5348
-2022-09-06 04:05:10.598854,Wide Receivers - DK Metcalf Rec Yards 2022 Reg. Season - Outright,Over 925.5,-0.01100000000000001,0.5238,0.5348
-2022-09-06 04:05:16.352043,Quarterbacks - Patrick Mahomes Passing TD's 2022 Reg. Season - Patrick Mahomes Passing TD's 2022 Reg. Season,Over 35.5,-0.01100000000000001,0.5238,0.5348
 2022-09-06 04:05:15.413596,Quarterbacks - Josh Allen Passing Yards 2022 Reg. Season - Josh Allen Passing Yards 2022 Reg. Season,Over 4350.5,-0.01100000000000001,0.5238,0.5348
-2022-09-05 18:06:12.534455,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Miami Dolphins,Under 9,-0.011600000000000055,0.5122,0.5238
-2022-09-05 18:06:12.641978,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  New England Patriots,Under 8.5,-0.012199999999999989,0.5,0.5122
-2022-09-05 18:06:12.571154,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Minnesota Vikings,Under 9.5,-0.012199999999999989,0.5,0.5122
+2022-09-06 04:05:14.907636,Quarterbacks - Baker Mayfield Passing TD's  2022 Reg. Season - Baker Mayfield Passing TD's  2022 Reg. Season,Over 21.5,-0.01100000000000001,0.5238,0.5348
+2022-09-06 04:05:16.352043,Quarterbacks - Patrick Mahomes Passing TD's 2022 Reg. Season - Patrick Mahomes Passing TD's 2022 Reg. Season,Over 35.5,-0.01100000000000001,0.5238,0.5348
+2022-09-06 04:05:10.598854,Wide Receivers - DK Metcalf Rec Yards 2022 Reg. Season - Outright,Over 925.5,-0.01100000000000001,0.5238,0.5348
 2022-09-06 06:05:39.077844,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Los Angeles Dodgers,-0.013500000000000012,0.2532,0.2667
-2022-09-06 06:05:39.077844,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,New York Mets,-0.013899999999999996,0.16,0.1739
 2022-09-06 06:05:39.105804,MLB Futures - MLB 2022 American League - AL Winner,Toronto Blue Jays,-0.013899999999999996,0.1111,0.125
+2022-09-06 06:05:39.077844,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,New York Mets,-0.013899999999999996,0.16,0.1739
 2022-09-05 22:03:20.919139,Serie A - Italy Serie A 2022/23 - Winner,Napoli,-0.013899999999999996,0.1111,0.125
 2022-09-05 19:06:23.319196,NFC South - 2022/2023 NFC South - NFC South Straight Forecast,1st CAR Panthers / 2nd TB Buccaneers,-0.013999999999999999,0.0769,0.0909
 2022-09-05 22:03:20.907490,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,VfB Stuttgart,-0.014099999999999998,0.0244,0.0385
 2022-09-06 04:05:10.026177,Wide Receivers - Allen Robinson Rec Yards 2022 Reg. Season - Outright,Over 850.5,-0.014200000000000101,0.6154,0.6296
-2022-09-06 06:05:39.122643,MLB Futures - MLB 2022 National League - NL Winner,San Diego Padres,-0.016700000000000007,0.0833,0.1
 2022-09-05 22:03:20.919139,Serie A - Italy Serie A 2022/23 - Winner,Atalanta,-0.016700000000000007,0.0833,0.1
+2022-09-06 06:05:39.122643,MLB Futures - MLB 2022 National League - NL Winner,San Diego Padres,-0.016700000000000007,0.0833,0.1
 2022-09-06 04:05:10.276112,Wide Receivers - CeeDee Lamb Rec Yards 2022 Reg. Season - Outright,Over 1175.5,-0.017299999999999982,0.5744,0.5917
 2022-09-05 22:03:20.836178,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Lille,-0.018200000000000004,0.0294,0.0476
 2022-09-06 03:05:35.281967,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Tennessee Titans,Over 8,-0.018399999999999972,0.6875,0.7059
@@ -117,16 +113,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-05 19:06:23.319196,NFC South - 2022/2023 NFC South - NFC South Straight Forecast,1st TB Buccaneers / 2nd CAR Panthers,-0.02779999999999999,0.2222,0.25
 2022-09-05 22:03:20.901261,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Mainz,-0.028199999999999996,0.0385,0.0667
 2022-09-05 22:03:20.849010,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Rennes,-0.033300000000000024,0.1667,0.2
-2022-09-06 06:05:39.152799,MLB Futures - MLB 2022 American League East - ALE Winner,Tampa Bay Rays,-0.034100000000000005,0.0909,0.125
 2022-09-05 22:03:20.901261,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Werder Bremen,-0.034100000000000005,0.0909,0.125
+2022-09-06 06:05:39.152799,MLB Futures - MLB 2022 American League East - ALE Winner,Tampa Bay Rays,-0.034100000000000005,0.0909,0.125
 2022-09-05 22:03:20.901261,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,FC Köln,-0.03420000000000001,0.0769,0.1111
 2022-09-06 06:05:39.137637,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,-0.04290000000000005,0.3571,0.4
 2022-09-06 06:05:39.196583,MLB Futures - MLB 2022 National League East - NLE Winner,Atlanta Braves,-0.04290000000000005,0.3571,0.4
 2022-09-05 22:03:20.836178,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Lorient,-0.04999999999999999,0.2,0.25
 2022-09-05 22:03:20.876646,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Sadio Mane,-0.055800000000000016,0.2299,0.2857
-2022-09-05 22:03:20.836178,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Troyes,-0.055900000000000005,0.3077,0.3636
 2022-09-05 22:03:20.901261,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Hertha BSC,-0.055900000000000005,0.3077,0.3636
 2022-09-05 22:03:20.836178,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Clermont Foot,-0.055900000000000005,0.3077,0.3636
+2022-09-05 22:03:20.836178,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Troyes,-0.055900000000000005,0.3077,0.3636
 2022-09-05 22:03:20.907490,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,RB Leipzig,-0.0595,0.5238,0.5833
 2022-09-05 19:06:23.319196,NFC South - 2022/2023 NFC South - NFC South Straight Forecast,1st TB Buccaneers / 2nd ATL Falcons,-0.0629,0.0909,0.1538
 2022-09-05 22:03:20.907490,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Borussia Mönchengladbach,-0.06820000000000001,0.1818,0.25
