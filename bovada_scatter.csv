@@ -3,13 +3,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-07 11:04:15.839225,WNBA - 2022 WNBA Championship Winner - 2022 Champion,Las Vegas Aces,0.15870000000000006,0.7143,0.5556
 2022-09-07 11:04:15.839225,WNBA - 2022 WNBA Championship Winner - 2022 Champion,Connecticut Sun,0.08979999999999999,0.1667,0.0769
 2022-09-07 09:03:30.553527,Copa Libertadores - Copa Libertadores 2022 - Winner,Flamengo-RJ,0.08330000000000004,0.75,0.6667
+2022-09-07 20:06:41.673485,MLB Futures - MLB 2022 American League Central - ALC Winner,Cleveland Guardians,0.06519999999999992,0.6,0.5348
 2022-09-07 16:06:01.183525,Tournament Match-Ups - Parlays - Tournament Match-Up - T. Fleetwood vs A. Scott - Tournament Match-Up,Tommy Fleetwood,0.04620000000000002,0.5917,0.5455
 2022-09-07 19:06:27.130950,Big Brother - Big Brother 24 - Odds to Win,Michael Bruner,0.044399999999999995,0.4444,0.4
 2022-09-07 09:03:30.804778,Allsvenskan - Swedish Allsvenskan 2022 - Outright,BK Hacken,0.044399999999999995,0.4444,0.4
 2022-09-07 11:04:13.069817,Brazilian Politics - 2022 Brazilian Presidential Election - Winner,Lula da Silva,0.03469999999999995,0.7222,0.6875
 2022-09-07 12:06:20.382012,BMW PGA Championships - 2/3 Balls - 1st Round 3 Balls - L. Bjerregaard / F. Zanotti /A. Sullivan - 1st Round 3 Balls,Fabrizio Zanotti,0.031799999999999995,0.4762,0.4444
-2022-09-07 08:03:40.738025,EuroBasket 2022 - EuroBasket 2022 - Outright,Greece,0.02789999999999998,0.2632,0.2353
-2022-09-07 08:03:36.831129,Boxing Lines - Janelson Figueroa Bocachica vs Roiman Villa - To Win the Bout,Roiman Villa,0.02460000000000001,0.2778,0.2532
 2022-09-07 15:06:22.969458,Boxing Lines - Claressa Shields vs Savannah Marshall - To Win the Bout,Claressa Shields,0.02400000000000002,0.5455,0.5215
 2022-09-07 17:06:29.859363,Tournament Match-Ups - Parlays - Tournament Match-Up - A. Meronk vs R. Fox - Tournament Match-Up,Adrian Meronk,0.023800000000000043,0.5238,0.5
 2022-09-07 17:06:29.851819,Tournament Match-Ups - Parlays - Tournament Match-Up - A. Bjork vs E. Pepperell - Tournament Match-Up,Alexander Bjork,0.023800000000000043,0.5238,0.5
@@ -23,7 +22,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-07 17:06:29.880792,Tournament Match-Ups - Parlays - Tournament Match-Up - B. Grace vs D. Burmester - Tournament Match-Up,Branden Grace,0.01880000000000004,0.5744,0.5556
 2022-09-07 09:03:30.860282,Superettan - Swedish Superettan 2022 - Outright,Brommapojkarna,0.01820000000000002,0.2,0.1818
 2022-09-07 13:04:58.918070,Boxing Lines - Adelaida Ruiz vs Sonia Osorio - To Win the Bout,Adelaida Ruiz,0.01760000000000006,0.9,0.8824
-2022-09-07 08:03:37.033869,Boxing Lines - Ginny Fuchs vs Gemma Ruegg - To Win the Bout,Gemma Ruegg,0.01759999999999999,0.1176,0.1
 2022-09-07 14:05:16.951197,Boxing Lines - Yokasta Valle vs Thi Thu Nhi Nguyen - To Win the Bout,Yokasta Valle,0.016799999999999926,0.8571,0.8403
 2022-09-07 17:06:31.065731,Boxing Lines - Yokasta Valle vs Thi Thu Nhi Nguyen - To Win the Bout,Thi Thu Nhi Nguyen,0.01629999999999998,0.2105,0.1942
 2022-09-07 16:06:01.545658,BMW PGA Championships - 2/3 Balls - 1st Round 3 Balls - M. Kieffer / B. Stone / S. Crocker - 1st Round 3 Balls,Maximilian Kieffer,0.015400000000000025,0.4,0.3846
@@ -31,44 +29,40 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-07 19:06:10.961224,Boxing Lines - Adelaida Ruiz vs Sonia Osorio - To Win the Bout,Adelaida Ruiz,0.014000000000000012,0.9231,0.9091
 2022-09-07 14:05:17.309092,Boxing Lines - Ricardo Brown vs Carlos Carreon - To Win the Bout,Ricardo Brown,0.014000000000000012,0.9231,0.9091
 2022-09-07 19:06:23.453141,NFL Specials - Cooper Kupp and Steffon Diggs to both score a TD win Week 1 - Proposition,Yes,0.0131,0.2353,0.2222
-2022-09-07 08:03:40.738025,EuroBasket 2022 - EuroBasket 2022 - Outright,Serbia,0.0131,0.2353,0.2222
 2022-09-07 15:06:26.527127,Round Match-Ups - Parlays - 1st Round Match-Up - L. Canter vs S. Horsfield - 1st Round Match-Up,Laurie Canter,0.012199999999999989,0.5122,0.5
 2022-09-07 11:04:13.318005,Boxing Lines - Bjoern Schicke vs Marten Arsumanjan - To Win the Bout,Marten Arsumanjan,0.011900000000000022,0.8214,0.8095
-2022-09-07 08:03:36.843957,Boxing Lines - Joshua Frazer vs Esteban Villalba - To Win the Bout,Esteban Villalba,0.011700000000000002,0.1026,0.0909
 2022-09-07 15:06:26.571594,Round Match-Ups - Parlays - 1st Round Match-Up - M. Wallace vs L. Herbert - 1st Round Match-Up,Lucas Herbert,0.011600000000000055,0.5238,0.5122
 2022-09-07 15:06:26.648378,Round Match-Ups - Parlays - 1st Round Match-Up - A. Arnaus vs R. Hojgaard - 1st Round Match-Up,Adri Arnaus,0.011600000000000055,0.5238,0.5122
 2022-09-07 09:03:09.506255,Boxing Lines - Bernard Angelo Torres vs Frency Fortunato Saya - To Win the Bout,Frency Fortunato Saya,0.011099999999999999,0.4762,0.4651
-2022-09-07 17:06:31.090263,Boxing Lines - Janelson Figueroa Bocachica vs Roiman Villa - To Win the Bout,Roiman Villa,0.011099999999999999,0.2778,0.2667
 2022-09-07 11:04:14.852163,Shinhan Donghae Open - Shinhan Donghae Open - Outright,Si Woo Kim,0.011099999999999999,0.1111,0.1
+2022-09-07 17:06:31.090263,Boxing Lines - Janelson Figueroa Bocachica vs Roiman Villa - To Win the Bout,Roiman Villa,0.011099999999999999,0.2778,0.2667
 2022-09-07 15:06:26.541433,Round Match-Ups - Parlays - 1st Round Match-Up - P. Reed vs B. Grace - 1st Round Match-Up,Branden Grace,0.010699999999999932,0.5455,0.5348
 2022-09-07 15:06:22.432448,Boxing Lines - Janelson Figueroa Bocachica vs Roiman Villa - To Win the Bout,Janelson Figueroa Bocachica,0.010500000000000065,0.8,0.7895
-2022-09-07 15:06:26.571594,Round Match-Ups - Parlays - 1st Round Match-Up - M. Wallace vs L. Herbert - 1st Round Match-Up,Matt Wallace,-0.010099999999999998,0.5455,0.5556
 2022-09-07 15:06:26.648378,Round Match-Ups - Parlays - 1st Round Match-Up - A. Arnaus vs R. Hojgaard - 1st Round Match-Up,Rasmus Hojgaard,-0.010099999999999998,0.5455,0.5556
+2022-09-07 15:06:26.571594,Round Match-Ups - Parlays - 1st Round Match-Up - M. Wallace vs L. Herbert - 1st Round Match-Up,Matt Wallace,-0.010099999999999998,0.5455,0.5556
 2022-09-07 11:04:16.006293,FIBA AmeriCup - FIBA AmeriCup - Outright,Puerto Rico,-0.0102,0.0667,0.0769
 2022-09-07 12:06:20.382012,BMW PGA Championships - 2/3 Balls - 1st Round 3 Balls - L. Bjerregaard / F. Zanotti /A. Sullivan - 1st Round 3 Balls,Lucas Bjerregaard,-0.010299999999999976,0.2564,0.2667
 2022-09-07 17:06:31.090263,Boxing Lines - Janelson Figueroa Bocachica vs Roiman Villa - To Win the Bout,Janelson Figueroa Bocachica,-0.010500000000000065,0.7895,0.8
-2022-09-07 08:03:36.831129,Boxing Lines - Janelson Figueroa Bocachica vs Roiman Villa - To Win the Bout,Janelson Figueroa Bocachica,-0.010500000000000065,0.7895,0.8
 2022-09-07 15:06:25.639785,BMW PGA Championship - BMW PGA Championship - Outright,Rory McIlroy,-0.010899999999999993,0.1429,0.1538
 2022-09-07 19:06:23.453141,NFL Specials - Cooper Kupp and Steffon Diggs to both score a TD win Week 1 - Proposition,No,-0.01090000000000002,0.8462,0.8571
 2022-09-07 15:06:26.541433,Round Match-Ups - Parlays - 1st Round Match-Up - P. Reed vs B. Grace - 1st Round Match-Up,Patrick Reed,-0.01100000000000001,0.5238,0.5348
-2022-09-07 08:03:37.033869,Boxing Lines - Ginny Fuchs vs Gemma Ruegg - To Win the Bout,Ginny Fuchs,-0.011199999999999988,0.9412,0.9524
 2022-09-07 17:06:29.944431,Tournament Match-Ups - Parlays - Tournament Match-Up - R. MacIntyre vs J. Smith - Tournament Match-Up,Robert MacIntyre,-0.012199999999999989,0.4878,0.5
-2022-09-07 08:03:37.247491,Boxing Lines - Claressa Shields vs Savannah Marshall - To Win the Bout,Claressa Shields,-0.01330000000000009,0.5215,0.5348
+2022-09-07 20:06:41.003871,Round Match-Ups - Parlays - 1st Round Match-Up - D. Burmester vs R. Fox - 1st Round Match-Up,Ryan Fox,-0.012199999999999989,0.5,0.5122
 2022-09-07 13:04:58.899688,Boxing Lines - Yokasta Valle vs Thi Thu Nhi Nguyen - To Win the Bout,Thi Thu Nhi Nguyen,-0.01369999999999999,0.2273,0.241
+2022-09-07 09:03:30.860282,Superettan - Swedish Superettan 2022 - Outright,Osters IF,-0.014099999999999998,0.0244,0.0385
 2022-09-07 11:04:16.006293,FIBA AmeriCup - FIBA AmeriCup - Outright,Venezuela,-0.014099999999999998,0.0244,0.0385
 2022-09-07 19:06:27.130950,Big Brother - Big Brother 24 - Odds to Win,Alyssa Snider,-0.014099999999999998,0.0244,0.0385
-2022-09-07 09:03:30.860282,Superettan - Swedish Superettan 2022 - Outright,Osters IF,-0.014099999999999998,0.0244,0.0385
-2022-09-07 08:03:40.738025,EuroBasket 2022 - EuroBasket 2022 - Outright,Italy,-0.014100000000000001,0.0385,0.0526
 2022-09-07 16:06:01.545658,BMW PGA Championships - 2/3 Balls - 1st Round 3 Balls - M. Kieffer / B. Stone / S. Crocker - 1st Round 3 Balls,Sean Crocker,-0.01419999999999999,0.3704,0.3846
 2022-09-07 19:06:11.059060,Boxing Lines - Christian Mbilli vs DeAndre Ware - To Win the Bout,DeAndre Ware,-0.01440000000000001,0.0909,0.1053
 2022-09-07 14:05:16.959668,Boxing Lines - Adelaida Ruiz vs Sonia Osorio - To Win the Bout,Sonia Osorio,-0.014800000000000008,0.1333,0.1481
 2022-09-07 11:04:13.366948,Boxing Lines - Claressa Shields vs Savannah Marshall - To Win the Bout,Savannah Marshall,-0.015600000000000058,0.5192,0.5348
 2022-09-07 19:06:10.986391,Boxing Lines - Joshua Frazer vs Esteban Villalba - To Win the Bout,Esteban Villalba,-0.016700000000000007,0.0833,0.1
 2022-09-07 14:05:16.951197,Boxing Lines - Yokasta Valle vs Thi Thu Nhi Nguyen - To Win the Bout,Thi Thu Nhi Nguyen,-0.01680000000000001,0.2105,0.2273
+2022-09-07 20:06:41.673485,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,-0.017799999999999983,0.2899,0.3077
 2022-09-07 13:04:58.918070,Boxing Lines - Adelaida Ruiz vs Sonia Osorio - To Win the Bout,Sonia Osorio,-0.018599999999999978,0.1481,0.1667
 2022-09-07 09:03:09.327719,Boxing Lines - Brandon Glanton vs Mario Aguilar - To Win the Bout,Brandon Glanton,-0.018900000000000028,0.9615,0.9804
-2022-09-07 17:06:29.851819,Tournament Match-Ups - Parlays - Tournament Match-Up - A. Bjork vs E. Pepperell - Tournament Match-Up,Eddie Pepperell,-0.01970000000000005,0.5455,0.5652
 2022-09-07 17:06:29.859363,Tournament Match-Ups - Parlays - Tournament Match-Up - A. Meronk vs R. Fox - Tournament Match-Up,Ryan Fox,-0.01970000000000005,0.5455,0.5652
+2022-09-07 17:06:29.851819,Tournament Match-Ups - Parlays - Tournament Match-Up - A. Bjork vs E. Pepperell - Tournament Match-Up,Eddie Pepperell,-0.01970000000000005,0.5455,0.5652
 2022-09-07 15:06:22.323450,Boxing Lines - Yokasta Valle vs Thi Thu Nhi Nguyen - To Win the Bout,Thi Thu Nhi Nguyen,-0.01999999999999999,0.1905,0.2105
 2022-09-07 19:06:27.130950,Big Brother - Big Brother 24 - Odds to Win,Taylor Hale,-0.02020000000000001,0.0909,0.1111
 2022-09-07 12:06:20.382012,BMW PGA Championships - 2/3 Balls - 1st Round 3 Balls - L. Bjerregaard / F. Zanotti /A. Sullivan - 1st Round 3 Balls,Andy Sullivan,-0.02100000000000002,0.3636,0.3846
@@ -81,4 +75,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-07 11:04:13.069817,Brazilian Politics - 2022 Brazilian Presidential Election - Winner,Jair Bolsonaro,-0.03640000000000004,0.3636,0.4
 2022-09-07 13:04:59.315199,Boxing Lines - Ricardo Brown vs Carlos Carreon - To Win the Bout,Carlos Carreon,-0.037699999999999984,0.129,0.1667
 2022-09-07 16:06:01.183525,Tournament Match-Ups - Parlays - Tournament Match-Up - T. Fleetwood vs A. Scott - Tournament Match-Up,Adam Scott,-0.05870000000000003,0.4651,0.5238
+2022-09-07 20:06:41.673485,MLB Futures - MLB 2022 American League Central - ALC Winner,Chicago White Sox,-0.07269999999999999,0.1905,0.2632
 2022-09-07 11:04:15.839225,WNBA - 2022 WNBA Championship Winner - 2022 Champion,Chicago Sky,-0.1929,0.2326,0.4255
