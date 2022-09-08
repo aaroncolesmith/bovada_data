@@ -24,8 +24,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-08 09:05:30.080401,UEFA Champions League - Group E - Not To Advance From Group,Chelsea,0.0897,0.2326,0.1429
 2022-09-08 09:05:29.914820,UEFA Champions League - Group B - Group Winner,Atlético Madrid,0.08779999999999999,0.6226,0.5348
 2022-09-08 17:06:51.515073,74th Primetime Emmy Awards - Emmy Award - Outstanding Comedy Series - Outstanding Comedy Series,Abbott Elementary,0.0857,0.2857,0.2
-2022-09-08 09:05:30.039327,UEFA Champions League - Group F - Group Winner,Real Madrid,0.07620000000000005,0.9333,0.8571
 2022-09-08 09:05:29.998643,UEFA Champions League - Group C - To Advance From Group,Bayern Munich,0.07620000000000005,0.9333,0.8571
+2022-09-08 09:05:30.039327,UEFA Champions League - Group F - Group Winner,Real Madrid,0.07620000000000005,0.9333,0.8571
 2022-09-08 09:05:30.098705,UEFA Champions League - Group G - Group Winner,Manchester City,0.07579999999999998,0.9091,0.8333
 2022-09-08 09:05:29.958579,UEFA Champions League - Group A - Not To Advance From Group,Rangers,0.07450000000000001,0.9412,0.8667
 2022-09-08 14:05:47.031251,Requested Specials - Requested Specials : Regular Season Wins Parlays - Season Win Specials,Houston Texans to Win 9+ Games,0.0708,0.1333,0.0625
@@ -74,8 +74,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-08 15:06:27.624211,74th Primetime Emmy Awards - Emmy Award - Outstanding Limited Series - Outstanding Limited Series,The White Lotus,0.01959999999999995,0.697,0.6774
 2022-09-08 11:04:31.256535,Boxing Lines - Mary Spencer vs Cynthia Lozano - To Win the Bout,Cynthia Lozano,0.01949999999999999,0.0909,0.0714
 2022-09-08 09:05:30.107927,UEFA Champions League - Group G - Not To Advance From Group,Sevilla,0.018999999999999906,0.7333,0.7143
-2022-09-08 10:06:21.007721,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Lyon,0.018799999999999983,0.3636,0.3448
 2022-09-08 17:06:51.373556,Political Specials - Which Party will win the House in the 2022 Midterm Election? - Winning Party,Democratic,0.018799999999999983,0.3636,0.3448
+2022-09-08 10:06:21.007721,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Lyon,0.018799999999999983,0.3636,0.3448
 2022-09-08 09:05:30.213350,UEFA Champions League - UEFA Champions League 2022/2023 - Nationality of Winner,Spain,0.01820000000000002,0.2,0.1818
 2022-09-08 09:05:19.582298,EuroBasket 2022 - EuroBasket 2022 - Outright,Lithuania,0.018099999999999998,0.0769,0.0588
 2022-09-08 16:04:26.829033,Boxing Lines - Yokasta Valle vs Thi Thu Nhi Nguyen - To Win the Bout,Yokasta Valle,0.017900000000000027,0.875,0.8571
@@ -85,9 +85,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-08 17:06:53.137720,MLB Futures - MLB 2022 American League - AL Winner,New York Yankees,0.01579999999999998,0.3333,0.3175
 2022-09-08 09:05:30.190805,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Borussia Dortmund,0.015300000000000001,0.0588,0.0435
 2022-09-08 09:05:30.087755,UEFA Champions League - Group E - To Advance From Group,AC Milan,0.015100000000000002,0.8333,0.8182
-2022-09-08 09:05:30.213350,UEFA Champions League - UEFA Champions League 2022/2023 - Nationality of Winner,France,0.015100000000000002,0.1818,0.1667
 2022-09-08 10:06:21.055475,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Rennes,0.015100000000000002,0.1818,0.1667
 2022-09-08 10:06:04.380006,Boxing Lines - Brandon Cook vs Stepan Horvath - To Win the Bout,Stepan Horvath,0.015100000000000002,0.1818,0.1667
+2022-09-08 09:05:30.213350,UEFA Champions League - UEFA Champions League 2022/2023 - Nationality of Winner,France,0.015100000000000002,0.1818,0.1667
 2022-09-08 10:06:21.037095,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Clermont Foot,0.014900000000000024,0.3226,0.3077
 2022-09-08 10:06:21.037095,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Troyes,0.014900000000000024,0.3226,0.3077
 2022-09-08 17:06:53.137720,MLB Futures - MLB 2022 American League - AL Winner,Houston Astros,0.01479999999999998,0.3922,0.3774
@@ -95,10 +95,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-08 09:05:30.178960,UEFA Champions League - UEFA Champions League 2022/2023 - Top Goalscorer,Richarlison (Tottenham),0.014499999999999999,0.0294,0.0149
 2022-09-08 13:07:00.524691,Boxing Lines - Joshua Frazer vs Esteban Villalba - To Win the Bout,Joshua Frazer,0.014100000000000001,0.9615,0.9474
 2022-09-08 17:06:53.122593,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,St. Louis Cardinals,0.013999999999999999,0.0909,0.0769
+2022-09-08 19:04:42.803827,Boxing Lines - Anderson Silva vs Jake Paul - To Win the Bout,Jake Paul,0.013900000000000023,0.4878,0.4739
 2022-09-08 10:06:21.055475,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Lorient,0.0131,0.0476,0.0345
 2022-09-08 17:06:53.122593,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,New York Yankees,0.012899999999999995,0.1667,0.1538
-2022-09-08 08:06:31.055757,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Javonte Williams,0.011199999999999995,0.0588,0.0476
 2022-09-08 09:05:29.700030,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,New Orleans Saints,0.011199999999999995,0.0588,0.0476
+2022-09-08 08:06:31.055757,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Javonte Williams,0.011199999999999995,0.0588,0.0476
 2022-09-08 10:06:21.835137,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Santos Laguna,0.011099999999999999,0.1111,0.1
 2022-09-08 09:05:19.592195,FIBA AmeriCup - FIBA AmeriCup - Outright,USA,0.011099999999999999,0.2778,0.2667
 2022-09-08 12:05:22.637479,Boxing Lines - Claressa Shields vs Savannah Marshall - To Win the Bout,Claressa Shields,0.01100000000000001,0.5348,0.5238
@@ -111,9 +112,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-08 09:05:30.008956,UEFA Champions League - Group D - Group Winner,Marseille,-0.010899999999999993,0.1429,0.1538
 2022-09-08 11:04:31.524922,Boxing Lines - Claressa Shields vs Savannah Marshall - To Win the Bout,Claressa Shields,-0.01100000000000001,0.5238,0.5348
 2022-09-08 11:04:31.395076,Boxing Lines - Ginny Fuchs vs Gemma Ruegg - To Win the Bout,Ginny Fuchs,-0.011199999999999988,0.9412,0.9524
+2022-09-08 09:05:30.178960,UEFA Champions League - UEFA Champions League 2022/2023 - Top Goalscorer,Neymar (PSG),-0.011199999999999995,0.0476,0.0588
 2022-09-08 09:05:30.178960,UEFA Champions League - UEFA Champions League 2022/2023 - Top Goalscorer,Mohamed Salah (Liverpool),-0.011199999999999995,0.0476,0.0588
 2022-09-08 08:06:31.055757,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Damien Harris,-0.011199999999999995,0.0476,0.0588
-2022-09-08 09:05:30.178960,UEFA Champions League - UEFA Champions League 2022/2023 - Top Goalscorer,Neymar (PSG),-0.011199999999999995,0.0476,0.0588
 2022-09-08 09:05:30.080401,UEFA Champions League - Group E - Not To Advance From Group,FC Salzburg,-0.011699999999999933,0.7778,0.7895
 2022-09-08 10:06:21.055475,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Reims,-0.012100000000000001,0.0123,0.0244
 2022-09-08 09:05:29.998643,UEFA Champions League - Group C - To Advance From Group,Viktoria Plzen,-0.012700000000000003,0.0196,0.0323
@@ -125,6 +126,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-08 10:06:21.835137,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Deportivo Toluca,-0.013999999999999999,0.0769,0.0909
 2022-09-08 09:05:19.592195,FIBA AmeriCup - FIBA AmeriCup - Outright,Puerto Rico,-0.014099999999999994,0.0526,0.0667
 2022-09-08 09:05:30.178960,UEFA Champions League - UEFA Champions League 2022/2023 - Top Goalscorer,Harry Kane (Tottenham),-0.014100000000000001,0.0385,0.0526
+2022-09-08 19:04:42.515434,Boxing Lines - Mary Spencer vs Cynthia Lozano - To Win the Bout,Cynthia Lozano,-0.014399999999999996,0.0625,0.0769
 2022-09-08 07:06:37.613678,MLB Futures - MLB 2022 American League East - ALE Winner,Toronto Blue Jays,-0.014399999999999996,0.0625,0.0769
 2022-09-08 15:06:28.186256,Boxing Lines - Janelson Figueroa Bocachica vs Roiman Villa - To Win the Bout,Janelson Figueroa Bocachica,-0.014700000000000046,0.75,0.7647
 2022-09-08 10:06:21.007721,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Nice,-0.014900000000000004,0.0196,0.0345
@@ -149,6 +151,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-08 11:04:31.243193,Boxing Lines - Joshua Frazer vs Esteban Villalba - To Win the Bout,Joshua Frazer,-0.023499999999999965,0.9474,0.9709
 2022-09-08 16:04:27.325838,BKFC 29: Montana 2 - Leo Bercier vs Brian Maxwell - To Win the Bout,Brian Maxwell,-0.024599999999999955,0.339,0.3636
 2022-09-08 08:06:30.980255,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Mike Evans,-0.024999999999999994,0.1,0.125
+2022-09-08 19:04:42.803827,Boxing Lines - Anderson Silva vs Jake Paul - To Win the Bout,Anderson Silva,-0.025599999999999956,0.5744,0.6
 2022-09-08 09:05:30.190805,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Liverpool,-0.02779999999999999,0.2222,0.25
 2022-09-08 08:06:31.055757,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Nick Chubb,-0.028399999999999995,0.0625,0.0909
 2022-09-08 09:05:30.178960,UEFA Champions League - UEFA Champions League 2022/2023 - Top Goalscorer,Lionel Messi (PSG),-0.029299999999999993,0.0476,0.0769
@@ -164,13 +167,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-08 10:06:21.055475,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Lyon,-0.0393,0.5833,0.6226
 2022-09-08 09:05:30.190805,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Chelsea,-0.0417,0.0833,0.125
 2022-09-08 09:05:30.050253,UEFA Champions League - Group F - Not To Advance From Group,Real Madrid,-0.04329999999999999,0.0476,0.0909
-2022-09-08 09:05:30.080401,UEFA Champions League - Group E - Not To Advance From Group,Dinamo Zagreb,-0.044399999999999995,0.8889,0.9333
 2022-09-08 17:06:51.555797,74th Primetime Emmy Awards - Emmy Award - Outstanding Drama Series - Outstanding Drama Series,Succession,-0.044399999999999995,0.5556,0.6
+2022-09-08 09:05:30.080401,UEFA Champions League - Group E - Not To Advance From Group,Dinamo Zagreb,-0.044399999999999995,0.8889,0.9333
 2022-09-08 09:05:30.204813,UEFA Champions League - UEFA Champions League 2022/2023 - Furthest Progressing EPL Team,Chelsea,-0.048100000000000004,0.0769,0.125
 2022-09-08 09:05:30.050253,UEFA Champions League - Group F - Not To Advance From Group,Celtic,-0.0504,0.7143,0.7647
 2022-09-08 09:05:30.107927,UEFA Champions League - Group G - Not To Advance From Group,Manchester City,-0.052399999999999995,0.0385,0.0909
-2022-09-08 09:05:30.213350,UEFA Champions League - UEFA Champions League 2022/2023 - Nationality of Winner,England,-0.05559999999999998,0.5,0.5556
 2022-09-08 09:05:29.958579,UEFA Champions League - Group A - Not To Advance From Group,Ajax,-0.05559999999999998,0.5,0.5556
+2022-09-08 09:05:30.213350,UEFA Champions League - UEFA Champions League 2022/2023 - Nationality of Winner,England,-0.05559999999999998,0.5,0.5556
 2022-09-08 09:05:30.019646,UEFA Champions League - Group D - Not To Advance From Group,Tottenham Hotspur,-0.05679999999999999,0.125,0.1818
 2022-09-08 09:05:29.949247,UEFA Champions League - Group A - Group Winner,Rangers,-0.05879999999999999,0.0079,0.0667
 2022-09-08 09:05:30.008956,UEFA Champions League - Group D - Group Winner,Eintracht Frankfurt,-0.0629,0.0909,0.1538
@@ -196,8 +199,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-08 09:05:30.140842,UEFA Champions League - Group H - Not To Advance From Group,Benfica,-0.13330000000000009,0.6667,0.8
 2022-09-08 09:05:29.914820,UEFA Champions League - Group B - Group Winner,Bayer Leverkusen,-0.15,0.1,0.25
 2022-09-08 09:05:30.147800,UEFA Champions League - Group H - To Advance From Group,Juventus,-0.15389999999999993,0.6923,0.8462
-2022-09-08 09:05:29.958579,UEFA Champions League - Group A - Not To Advance From Group,Napoli,-0.15559999999999996,0.4444,0.6
 2022-09-08 09:05:29.938065,UEFA Champions League - Group B - To Advance From Group,Bayer Leverkusen,-0.15559999999999996,0.4,0.5556
+2022-09-08 09:05:29.958579,UEFA Champions League - Group A - Not To Advance From Group,Napoli,-0.15559999999999996,0.4444,0.6
 2022-09-08 09:05:30.050253,UEFA Champions League - Group F - Not To Advance From Group,Shakhtar Donetsk,-0.19740000000000002,0.75,0.9474
 2022-09-08 09:05:29.949247,UEFA Champions League - Group A - Group Winner,Liverpool,-0.20450000000000002,0.5455,0.75
 2022-09-08 09:05:29.998643,UEFA Champions League - Group C - To Advance From Group,Inter Milan,-0.21610000000000007,0.3077,0.5238
