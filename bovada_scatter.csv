@@ -9,7 +9,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-08 17:06:51.584164,74th Primetime Emmy Awards - Emmy Award - Outstanding Lead Actor in a Drama Series - Outstanding Drama Actor,Bob Odenkirk - Better Call Saul,0.033299999999999996,0.4878,0.4545
 2022-09-08 15:06:27.515722,74th Primetime Emmy Awards - Emmy Award - Outstanding Competition Program - Outstanding Competition Program,RuPaul's Drag Race,0.027800000000000047,0.7778,0.75
 2022-09-08 17:06:51.555797,74th Primetime Emmy Awards - Emmy Award - Outstanding Drama Series - Outstanding Drama Series,Better Call Saul,0.02560000000000001,0.3333,0.3077
-2022-09-08 12:05:22.446882,Boxing Lines - Janelson Figueroa Bocachica vs Roiman Villa - To Win the Bout,Roiman Villa,0.0252,0.303,0.2778
 2022-09-08 17:06:53.149687,MLB Futures - MLB 2022 National League - NL Winner,Philadelphia Phillies,0.024299999999999995,0.0769,0.0526
 2022-09-08 13:07:08.924545,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Alternate Regular Season Wins - Dallas Cowboys,Under 9,0.022199999999999998,0.3448,0.3226
 2022-09-08 16:04:35.035361,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  San Francisco 49ers,Over 10,0.02079999999999993,0.5556,0.5348
@@ -29,20 +28,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-08 17:06:53.122593,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,New York Yankees,0.012899999999999995,0.1667,0.1538
 2022-09-08 20:06:13.746115,CFL - 2022 CFL Season Odds - Odds to win the 109th (2022) Grey Cup,Hamilton Tiger-Cats,0.012700000000000003,0.0323,0.0196
 2022-09-08 20:06:09.333552,BKFC 29: Montana 2 - Joe Riggs vs Josh Dyer - To Win the Bout,Josh Dyer,0.011600000000000055,0.5238,0.5122
-2022-09-08 12:05:22.637479,Boxing Lines - Claressa Shields vs Savannah Marshall - To Win the Bout,Claressa Shields,0.01100000000000001,0.5348,0.5238
+2022-09-09 00:06:25.157948,Boxing Lines - Adelaida Ruiz vs Sonia Osorio - To Win the Bout,Sonia Osorio,0.010700000000000001,0.125,0.1143
 2022-09-08 20:06:09.333552,BKFC 29: Montana 2 - Joe Riggs vs Josh Dyer - To Win the Bout,Joe Riggs,-0.010099999999999998,0.5455,0.5556
-2022-09-08 12:05:22.637479,Boxing Lines - Claressa Shields vs Savannah Marshall - To Win the Bout,Savannah Marshall,-0.010699999999999932,0.5348,0.5455
 2022-09-08 20:06:13.746115,CFL - 2022 CFL Season Odds - Odds to win the 109th (2022) Grey Cup,Montreal Alouettes,-0.011199999999999995,0.0476,0.0588
 2022-09-08 20:06:13.746115,CFL - 2022 CFL Season Odds - Odds to win the 109th (2022) Grey Cup,Winnipeg Blue Bombers,-0.0116,0.4762,0.4878
+2022-09-09 00:06:25.487509,Boxing Lines - Rostam Ibrahim vs Chico Kwasi - To Win the Bout,Chico Kwasi,-0.012299999999999978,0.3448,0.3571
 2022-09-08 16:04:25.940506,WNBA - 2022 WNBA Championship Winner - 2022 Champion,Connecticut Sun,-0.012899999999999995,0.1538,0.1667
 2022-09-08 16:04:26.966612,Boxing Lines - Joseph Adorno vs Hugo Alberto Roldan - To Win the Bout,Hugo Alberto Roldan,-0.013600000000000001,0.2941,0.3077
-2022-09-08 15:06:27.624211,74th Primetime Emmy Awards - Emmy Award - Outstanding Limited Series - Outstanding Limited Series,The Dropout,-0.013999999999999999,0.0769,0.0909
 2022-09-08 14:05:37.139442,Boxing Lines - Mary Spencer vs Cynthia Lozano - To Win the Bout,Cynthia Lozano,-0.013999999999999999,0.0769,0.0909
+2022-09-08 15:06:27.624211,74th Primetime Emmy Awards - Emmy Award - Outstanding Limited Series - Outstanding Limited Series,The Dropout,-0.013999999999999999,0.0769,0.0909
 2022-09-08 20:06:09.060498,Boxing Lines - Janelson Figueroa Bocachica vs Roiman Villa - To Win the Bout,Roiman Villa,-0.014000000000000012,0.2985,0.3125
 2022-09-08 19:04:42.515434,Boxing Lines - Mary Spencer vs Cynthia Lozano - To Win the Bout,Cynthia Lozano,-0.014399999999999996,0.0625,0.0769
 2022-09-08 15:06:28.186256,Boxing Lines - Janelson Figueroa Bocachica vs Roiman Villa - To Win the Bout,Janelson Figueroa Bocachica,-0.014700000000000046,0.75,0.7647
 2022-09-08 17:06:51.373556,Political Specials - Which Party will win the House in the 2022 Midterm Election? - Winning Party,Republican,-0.01629999999999998,0.7059,0.7222
-2022-09-08 12:05:22.446882,Boxing Lines - Janelson Figueroa Bocachica vs Roiman Villa - To Win the Bout,Janelson Figueroa Bocachica,-0.017899999999999916,0.7647,0.7826
 2022-09-08 22:05:09.026129,Boxing Lines - Yokasta Valle vs Thi Thu Nhi Nguyen - To Win the Bout,Yokasta Valle,-0.017900000000000027,0.8571,0.875
 2022-09-08 15:06:27.515722,74th Primetime Emmy Awards - Emmy Award - Outstanding Competition Program - Outstanding Competition Program,Nailed It!,-0.018099999999999998,0.0588,0.0769
 2022-09-08 17:06:51.465736,Brazilian Politics - 2022 Brazilian Presidential Election - Winner,Jair Bolsonaro,-0.018799999999999983,0.3448,0.3636
