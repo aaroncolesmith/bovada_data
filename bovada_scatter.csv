@@ -30,6 +30,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-08 17:06:53.137720,MLB Futures - MLB 2022 American League - AL Winner,Houston Astros,0.01479999999999998,0.3922,0.3774
 2022-09-09 01:06:14.512097,VP Bank Swiss Ladies Open - VP Bank Swiss Ladies Open - Outright,Kylie Henry,0.014599999999999998,0.0196,0.005
 2022-09-08 17:06:52.908272,Boxing Lines - Caroline Dubois vs Milena Koleva - To Win the Bout,Caroline Dubois,0.014599999999999946,0.995,0.9804
+2022-09-09 05:05:04.411806,Boxing Lines - Janelson Figueroa Bocachica vs Roiman Villa - To Win the Bout,Roiman Villa,0.014000000000000012,0.3125,0.2985
 2022-09-08 17:06:53.122593,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,St. Louis Cardinals,0.013999999999999999,0.0909,0.0769
 2022-09-08 19:04:42.803827,Boxing Lines - Anderson Silva vs Jake Paul - To Win the Bout,Jake Paul,0.013900000000000023,0.4878,0.4739
 2022-09-09 01:06:14.512097,VP Bank Swiss Ladies Open - VP Bank Swiss Ladies Open - Outright,Nobuhle Dlamini,0.0139,0.0196,0.0057
@@ -43,10 +44,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-09 01:06:12.457603,Boxing Lines - Ginny Fuchs vs Gemma Ruegg - To Win the Bout,Ginny Fuchs,0.011199999999999988,0.9524,0.9412
 2022-09-09 02:06:46.730940,Boxing Lines - Ricardo Brown vs Carlos Carreon - To Win the Bout,Ricardo Brown,0.011199999999999988,0.9524,0.9412
 2022-09-09 00:06:25.157948,Boxing Lines - Adelaida Ruiz vs Sonia Osorio - To Win the Bout,Sonia Osorio,0.010700000000000001,0.125,0.1143
+2022-09-09 05:05:02.937387,NBA Season Props - 2022/23 NBA Season - Regular Season Win Totals - Orlando Magic,Over 26.5,0.010699999999999932,0.5455,0.5348
 2022-09-08 20:06:09.333552,BKFC 29: Montana 2 - Joe Riggs vs Josh Dyer - To Win the Bout,Joe Riggs,-0.010099999999999998,0.5455,0.5556
-2022-09-09 01:06:12.512039,Boxing Lines - Haro Matevosyan vs Jhony Navarrete - To Win the Bout,Jhony Navarrete,-0.0102,0.0667,0.0769
 2022-09-09 01:06:21.587133,NCAA Football Specials - Next Team to be Ranked in the AP Top 25  - Proposition,Florida State,-0.0102,0.0667,0.0769
+2022-09-09 01:06:12.512039,Boxing Lines - Haro Matevosyan vs Jhony Navarrete - To Win the Bout,Jhony Navarrete,-0.0102,0.0667,0.0769
 2022-09-09 04:07:23.546279,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Los Angeles Rams,-0.0102,0.0667,0.0769
+2022-09-09 05:05:02.937387,NBA Season Props - 2022/23 NBA Season - Regular Season Win Totals - Orlando Magic,Under 26.5,-0.01100000000000001,0.5238,0.5348
 2022-09-08 20:06:13.746115,CFL - 2022 CFL Season Odds - Odds to win the 109th (2022) Grey Cup,Montreal Alouettes,-0.011199999999999995,0.0476,0.0588
 2022-09-08 20:06:13.746115,CFL - 2022 CFL Season Odds - Odds to win the 109th (2022) Grey Cup,Winnipeg Blue Bombers,-0.0116,0.4762,0.4878
 2022-09-09 01:06:21.604347,NCAA Football Specials - Next Team to be Ranked in the AP Top 10 - Proposition,Utah,-0.011900000000000008,0.0833,0.0952
@@ -57,13 +60,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-09 01:06:14.512097,VP Bank Swiss Ladies Open - VP Bank Swiss Ladies Open - Outright,Emma Grechi,-0.0139,0.0057,0.0196
 2022-09-08 20:06:09.060498,Boxing Lines - Janelson Figueroa Bocachica vs Roiman Villa - To Win the Bout,Roiman Villa,-0.014000000000000012,0.2985,0.3125
 2022-09-08 19:04:42.515434,Boxing Lines - Mary Spencer vs Cynthia Lozano - To Win the Bout,Cynthia Lozano,-0.014399999999999996,0.0625,0.0769
-2022-09-09 01:06:14.512097,VP Bank Swiss Ladies Open - VP Bank Swiss Ladies Open - Outright,Elin Arvidsson,-0.014499999999999999,0.0149,0.0294
 2022-09-09 01:06:14.512097,VP Bank Swiss Ladies Open - VP Bank Swiss Ladies Open - Outright,Marianne Skarpnord,-0.014499999999999999,0.0149,0.0294
+2022-09-09 01:06:14.512097,VP Bank Swiss Ladies Open - VP Bank Swiss Ladies Open - Outright,Elin Arvidsson,-0.014499999999999999,0.0149,0.0294
 2022-09-09 01:06:14.512097,VP Bank Swiss Ladies Open - VP Bank Swiss Ladies Open - Outright,Sophie Witt,-0.015700000000000002,0.0007,0.0164
 2022-09-08 17:06:51.373556,Political Specials - Which Party will win the House in the 2022 Midterm Election? - Winning Party,Republican,-0.01629999999999998,0.7059,0.7222
 2022-09-09 01:06:14.512097,VP Bank Swiss Ladies Open - VP Bank Swiss Ladies Open - Outright,Elena Moosmann,-0.0165,0.0079,0.0244
-2022-09-09 01:06:12.457603,Boxing Lines - Ginny Fuchs vs Gemma Ruegg - To Win the Bout,Gemma Ruegg,-0.01759999999999999,0.1,0.1176
 2022-09-09 02:06:46.730940,Boxing Lines - Ricardo Brown vs Carlos Carreon - To Win the Bout,Carlos Carreon,-0.01759999999999999,0.1,0.1176
+2022-09-09 01:06:12.457603,Boxing Lines - Ginny Fuchs vs Gemma Ruegg - To Win the Bout,Gemma Ruegg,-0.01759999999999999,0.1,0.1176
 2022-09-09 01:06:21.604347,NCAA Football Specials - Next Team to be Ranked in the AP Top 10 - Proposition,Michigan State,-0.0179,0.125,0.1429
 2022-09-08 22:05:09.026129,Boxing Lines - Yokasta Valle vs Thi Thu Nhi Nguyen - To Win the Bout,Yokasta Valle,-0.017900000000000027,0.8571,0.875
 2022-09-09 01:06:14.512097,VP Bank Swiss Ladies Open - VP Bank Swiss Ladies Open - Outright,Chanettee Wannasaen,-0.018099999999999998,0.0345,0.0526
