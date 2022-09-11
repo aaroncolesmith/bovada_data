@@ -1,5 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-11 11:04:23.200782,WNBA - 2022 WNBA Championship Winner - WNBA Finals MVP,A'ja Wilson,0.12829999999999997,0.3636,0.2353
+2022-09-11 14:02:53.059326,NFL Weekly Specials - NFL Week 1 Specials - Requested Specials,"Dolphins 30+ Points, Raiders 25+ Points, Seahawks 20+ Points",0.08900000000000001,0.1,0.011
 2022-09-11 09:06:35.531080,MLB Futures - MLB 2022 National League East - NLE Winner,New York Mets,0.08339999999999992,0.6667,0.5833
 2022-09-11 08:02:39.905316,MLB Futures - MLB 2022 American League Central - ALC Winner,Cleveland Guardians,0.07119999999999993,0.6364,0.5652
 2022-09-11 09:06:35.518139,MLB Futures - MLB 2022 American League East - ALE Winner,New York Yankees,0.06669999999999998,0.9,0.8333
@@ -8,15 +9,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-11 12:05:12.201821,BMW PGA Championships - 2/3 Balls - Final Round 2 Balls - F. Zanotti vs J. Morrison - Including Tie,James Morrison,0.030799999999999994,0.4082,0.3774
 2022-09-11 09:06:52.660428,Superligaen - Denmark Superligaen 2022/23 - Outright,FC Midtjylland,0.02779999999999999,0.25,0.2222
 2022-09-11 09:06:52.496409,MLS - MLS Cup 2022 - Top Goalscorer,Hany Mukhtar,0.027700000000000058,0.5833,0.5556
+2022-09-11 14:02:53.044769,NFL Weekly Specials - NFL RedZone Specials - Sunday 11th Sept,"Joe Burrow, Trevor Lawrence, Tua Tagovailoa & Jameis Winston each have 250+ Passing Yards",0.024999999999999994,0.125,0.1
 2022-09-11 11:04:23.182273,WNBA - 2022 WNBA Championship Winner - Series Correct Score,Connecticut Sun 3-0,0.0245,0.0833,0.0588
 2022-09-11 04:05:02.301285,74th Primetime Emmy Awards - Emmy Award - Outstanding Comedy Series - Outstanding Comedy Series,Abbott Elementary,0.021999999999999964,0.3077,0.2857
 2022-09-11 11:04:23.171583,WNBA - 2022 WNBA Championship Winner - WNBA Finals - Series Price,Connecticut Sun,0.020799999999999985,0.3333,0.3125
 2022-09-11 04:05:13.007198,Tight Ends - Pat Freiermuth Receptions 2022 Reg. Season - Outright,Under 62.5,0.02079999999999993,0.5556,0.5348
 2022-09-11 10:06:07.636561,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Chivas Guadalajara,0.019099999999999992,0.0667,0.0476
-2022-09-11 11:04:23.182273,WNBA - 2022 WNBA Championship Winner - Series Correct Score,Las Vegas Aces 3-0,0.019000000000000017,0.2857,0.2667
 2022-09-11 11:04:23.192932,WNBA - 2022 WNBA Championship Winner - Series Exact Order,G1 Las Vegas Aces / G2 Las Vegas Aces / G3 Las Vegas Aces,0.019000000000000017,0.2857,0.2667
+2022-09-11 11:04:23.182273,WNBA - 2022 WNBA Championship Winner - Series Correct Score,Las Vegas Aces 3-0,0.019000000000000017,0.2857,0.2667
 2022-09-11 08:02:39.881832,MLB Futures - MLB 2022 American League - AL Winner,Cleveland Guardians,0.019000000000000003,0.0625,0.0435
 2022-09-11 09:06:52.691463,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,Benfica,0.018900000000000028,0.4444,0.4255
+2022-09-11 14:02:53.059326,NFL Weekly Specials - NFL Week 1 Specials - Requested Specials,"K.Pitts, M.Andrews, J.Chase, T.Hill, J.Waddle, C. Kirk, McLaurin, D.Adams,K. Allen,J. Jefferson, Kelce, M.Evans, Deebo, DJ Moore, Mar.Brown all +50 yards rec +4 receptions each",0.0189,0.0385,0.0196
 2022-09-11 07:06:22.026428,Round Match-Ups - Parlays - Final Round Match-Up - E. Pepperell vs F. Zanotti - Final Round Match-Up,Fabrizio Zanotti,0.01880000000000004,0.5744,0.5556
 2022-09-11 07:06:22.063244,Round Match-Ups - Parlays - Final Round Match-Up - R. McIlroy vs V. Hovland - Final Round Match-Up,Viktor Hovland,0.018100000000000005,0.4348,0.4167
 2022-09-11 09:06:52.691463,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,Braga,0.018099999999999998,0.0769,0.0588
@@ -60,8 +63,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-11 08:02:39.905316,MLB Futures - MLB 2022 American League Central - ALC Winner,Chicago White Sox,-0.030299999999999994,0.3333,0.3636
 2022-09-11 08:02:39.881832,MLB Futures - MLB 2022 American League - AL Winner,Tampa Bay Rays,-0.0407,0.0769,0.1176
 2022-09-11 11:04:23.182273,WNBA - 2022 WNBA Championship Winner - Series Correct Score,Las Vegas Aces 3-1,-0.04099999999999998,0.2222,0.2632
-2022-09-11 09:06:52.496409,MLS - MLS Cup 2022 - Top Goalscorer,Sebastian Driussi,-0.044399999999999995,0.4,0.4444
 2022-09-11 10:06:07.803892,Allsvenskan - Swedish Allsvenskan 2022 - Outright,BK Hacken,-0.044399999999999995,0.4,0.4444
+2022-09-11 09:06:52.496409,MLS - MLS Cup 2022 - Top Goalscorer,Sebastian Driussi,-0.044399999999999995,0.4,0.4444
 2022-09-11 09:06:52.660428,Superligaen - Denmark Superligaen 2022/23 - Outright,FC Copenhagen,-0.06230000000000002,0.4255,0.4878
 2022-09-11 11:04:23.200782,WNBA - 2022 WNBA Championship Winner - WNBA Finals MVP,Kelsey Plum,-0.06840000000000002,0.1538,0.2222
 2022-09-11 08:02:39.905316,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,-0.0729,0.1176,0.1905
