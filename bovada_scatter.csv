@@ -9,8 +9,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-15 01:03:57.377045,Championship - England Championship 2022/23 - Top 6 Finish,Norwich City,0.119,0.8333,0.7143
 2022-09-15 02:04:49.747380,UEFA Champions League - Group A - Group Winner,Napoli,0.11780000000000002,0.4255,0.3077
 2022-09-15 01:03:57.367828,Championship - England Championship 2022/23 - Top 2 Finish,Norwich City,0.11260000000000003,0.4762,0.3636
-2022-09-15 01:03:57.351260,Championship - England Championship 2022/23 - To Be Promoted,Norwich City,0.11119999999999997,0.5556,0.4444
 2022-09-15 02:04:49.790136,UEFA Champions League - Group E - Group Winner,AC Milan,0.11119999999999997,0.5556,0.4444
+2022-09-15 01:03:57.351260,Championship - England Championship 2022/23 - To Be Promoted,Norwich City,0.11119999999999997,0.5556,0.4444
 2022-09-15 01:03:57.377045,Championship - England Championship 2022/23 - Top 6 Finish,Sheffield United,0.11109999999999998,0.8889,0.7778
 2022-09-15 09:05:40.640994,Superettan - Swedish Superettan 2022 - Outright,Brommapojkarna,0.10769999999999996,0.3077,0.2
 2022-09-15 02:04:49.811334,UEFA Champions League - Group H - Group Winner,Benfica,0.08979999999999999,0.1667,0.0769
@@ -19,6 +19,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-15 01:03:57.377045,Championship - England Championship 2022/23 - Top 6 Finish,Stoke City,0.08330000000000001,0.25,0.1667
 2022-09-15 05:04:04.850430,EuroBasket 2022 - EuroBasket 2022 - Outright,Poland,0.0804,0.1,0.0196
 2022-09-15 01:03:57.359437,Championship - England Championship 2022/23 - To Be Relegated,Huddersfield Town,0.07619999999999993,0.6,0.5238
+2022-09-15 13:02:49.958437,Tournament Match-Ups - Tournament Match-Up - T. Gooch v L. Oosthuizen - Tournament Match-Up,Talor Gooch,0.07619999999999993,0.6,0.5238
 2022-09-15 06:02:49.610929,MLB Futures - MLB 2022 American League Central - ALC Winner,Cleveland Guardians,0.07289999999999996,0.8824,0.8095
 2022-09-15 05:04:04.850430,EuroBasket 2022 - EuroBasket 2022 - Outright,Germany,0.07079999999999997,0.3448,0.274
 2022-09-15 01:03:57.359437,Championship - England Championship 2022/23 - To Be Relegated,Reading,0.06840000000000002,0.2222,0.1538
@@ -31,23 +32,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-15 09:05:39.911937,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Bayern Munich,0.05310000000000001,0.2857,0.2326
 2022-09-15 06:02:49.470643,Game of Thrones Specials - Game of Thrones vs House of the Dragon: Highest IMDB Series Rating - Highest IMDB Series Rating At Year End,Game of Thrones,0.04760000000000009,0.7143,0.6667
 2022-09-15 09:05:39.911937,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Manchester City,0.04760000000000003,0.5238,0.4762
+2022-09-15 13:02:49.882890,Tournament Match-Ups - Tournament Match-Up - B. DeChambeau v B. Koepka - Tournament Match-Up,Brooks Koepka,0.047099999999999975,0.5122,0.4651
 2022-09-15 07:04:02.257573,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Las Vegas Raiders,Over 8.5,0.045499999999999985,0.5455,0.5
 2022-09-15 02:04:49.649202,NFC West - 2022/2023 NFC West - NFC West Winner,Los Angeles Rams,0.045499999999999985,0.5,0.4545
 2022-09-15 01:03:57.340421,Championship - England Championship 2022/23 - Outright,Norwich City,0.044499999999999984,0.2667,0.2222
 2022-09-15 09:05:39.897500,UEFA Champions League - UEFA Champions League 2022/2023 - Top Goalscorer,Kylian Mbappe (PSG),0.04040000000000002,0.2222,0.1818
 2022-09-15 11:04:36.080025,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),Justin Jefferson,0.03889999999999999,0.1818,0.1429
-2022-09-15 05:04:03.897954,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,0.03710000000000002,0.3448,0.3077
-2022-09-15 06:02:49.378696,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,0.03710000000000002,0.3448,0.3077
-2022-09-15 07:03:57.826046,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,0.03710000000000002,0.3448,0.3077
-2022-09-15 03:03:43.374321,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,0.03710000000000002,0.3448,0.3077
-2022-09-15 12:04:28.951473,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,0.03710000000000002,0.3448,0.3077
-2022-09-15 11:04:34.903742,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,0.03710000000000002,0.3448,0.3077
-2022-09-15 09:05:34.859041,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,0.03710000000000002,0.3448,0.3077
 2022-09-15 01:03:57.377045,Championship - England Championship 2022/23 - Top 6 Finish,Burnley,0.03710000000000002,0.6923,0.6552
-2022-09-15 04:03:06.302820,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,0.03710000000000002,0.3448,0.3077
 2022-09-15 10:04:02.704105,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,0.03710000000000002,0.3448,0.3077
-2022-09-15 02:04:45.643899,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,0.03710000000000002,0.3448,0.3077
+2022-09-15 06:02:49.378696,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,0.03710000000000002,0.3448,0.3077
+2022-09-15 11:04:34.903742,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,0.03710000000000002,0.3448,0.3077
 2022-09-15 01:03:52.822536,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,0.03710000000000002,0.3448,0.3077
+2022-09-15 13:02:48.021949,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,0.03710000000000002,0.3448,0.3077
+2022-09-15 05:04:03.897954,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,0.03710000000000002,0.3448,0.3077
+2022-09-15 12:04:28.951473,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,0.03710000000000002,0.3448,0.3077
+2022-09-15 09:05:34.859041,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,0.03710000000000002,0.3448,0.3077
+2022-09-15 04:03:06.302820,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,0.03710000000000002,0.3448,0.3077
+2022-09-15 03:03:43.374321,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,0.03710000000000002,0.3448,0.3077
+2022-09-15 02:04:45.643899,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,0.03710000000000002,0.3448,0.3077
+2022-09-15 07:03:57.826046,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,0.03710000000000002,0.3448,0.3077
 2022-09-15 01:03:57.351260,Championship - England Championship 2022/23 - To Be Promoted,Sunderland,0.03420000000000001,0.1111,0.0769
 2022-09-15 01:03:57.377045,Championship - England Championship 2022/23 - Top 6 Finish,Queens Park Rangers,0.03409999999999999,0.2667,0.2326
 2022-09-15 01:03:57.351260,Championship - England Championship 2022/23 - To Be Promoted,Burnley,0.03210000000000002,0.4167,0.3846
@@ -65,11 +68,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-15 09:05:39.911937,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,FC Barcelona,0.023799999999999988,0.1667,0.1429
 2022-09-15 01:03:57.359437,Championship - England Championship 2022/23 - To Be Relegated,Swansea City,0.023799999999999988,0.1667,0.1429
 2022-09-15 02:04:46.622724,Round Match-Ups - Parlays - 1st Round Match-Up - J. Suh v Y. Yuan - 1st Round Match-Up,Yechun Yuan,0.023799999999999988,0.5,0.4762
-2022-09-15 02:04:49.686330,NCAA Football Specials - Next Coach To Permanently Leave Their Position - Coaching Special,Karl Dorrell (Colorado),0.02310000000000001,0.1,0.0769
 2022-09-15 01:03:57.351260,Championship - England Championship 2022/23 - To Be Promoted,Stoke City,0.02310000000000001,0.1,0.0769
-2022-09-15 02:04:49.686330,NCAA Football Specials - Next Coach To Permanently Leave Their Position - Coaching Special,Geoff Collins (Georgia Tech),0.022199999999999998,0.1333,0.1111
+2022-09-15 02:04:49.686330,NCAA Football Specials - Next Coach To Permanently Leave Their Position - Coaching Special,Karl Dorrell (Colorado),0.02310000000000001,0.1,0.0769
 2022-09-15 01:03:57.377045,Championship - England Championship 2022/23 - Top 6 Finish,Preston North End,0.022199999999999998,0.2222,0.2
+2022-09-15 02:04:49.686330,NCAA Football Specials - Next Coach To Permanently Leave Their Position - Coaching Special,Geoff Collins (Georgia Tech),0.022199999999999998,0.1333,0.1111
 2022-09-15 01:03:57.351260,Championship - England Championship 2022/23 - To Be Promoted,Queens Park Rangers,0.022199999999999998,0.1333,0.1111
+2022-09-15 13:02:49.906377,Tournament Match-Ups - Tournament Match-Up - C. Smith v J. Niemann - Tournament Match-Up,Cameron Smith,0.02169999999999994,0.5455,0.5238
 2022-09-15 01:03:57.377045,Championship - England Championship 2022/23 - Top 6 Finish,Coventry City,0.02020000000000001,0.1111,0.0909
 2022-09-15 02:04:49.675893,NCAA Football Specials - Next Team To Break Into Ranking - To Enter Top 25,Mississippi State,0.02020000000000001,0.1111,0.0909
 2022-09-15 05:04:08.741994,Round Match-Ups - Parlays - 1st Round Match-Up - M. Homa v T. Merritt - 1st Round Match-Up,Troy Merritt,0.019699999999999995,0.4545,0.4348
@@ -83,67 +87,74 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-15 02:04:49.205490,NFL Specials - Who Will Score the Most Fantasy Points Week 2 (Non PPR) - Proposition,Dawson Knox (BUF),0.016700000000000007,0.1,0.0833
 2022-09-15 06:02:49.600327,MLB Futures - MLB 2022 National League - NL Winner,New York Mets,0.016699999999999993,0.2667,0.25
 2022-09-15 06:02:52.969053,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Comeback Player of the Year Award,Khalil Mack,0.0157,0.0435,0.0278
+2022-09-15 13:02:49.215560,Fortinet Championship - 2/3 Balls - 1st Round 3 Balls - H. Matsuyama / C. Davis / C. Conners - 1st Round 3 Balls,Hideki Matsuyama,0.015400000000000025,0.4,0.3846
 2022-09-15 02:04:49.007422,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,JJ McCarthy,0.015300000000000001,0.0476,0.0323
 2022-09-15 02:04:46.904401,Fortinet Championship - 2/3 Balls - 1st Round 3 Balls - P. Malnati / D. Redman / J. Suh - 1st Round 3 Balls,Peter Malnati,0.014900000000000024,0.3226,0.3077
 2022-09-15 02:04:49.608972,AFC East - 2022/2023 AFC East - AFC East Winner,Buffalo Bills,0.014700000000000046,0.7647,0.75
 2022-09-15 02:04:49.840415,UEFA Champions League - UEFA Champions League 2022/2023 - Nationality of Winner,Portugal,0.0145,0.0244,0.0099
 2022-09-15 02:04:49.666773,NCAA Football Specials - Next Team To Break Into Ranking - To Enter Top 10,Tennessee,0.01440000000000001,0.1053,0.0909
 2022-09-15 02:04:49.280607,NFL Specials - Who Will Score the Most Fantasy Points Week 2 (PPR) - Proposition,Joe Mixon (CIN),0.014399999999999996,0.0769,0.0625
+2022-09-15 13:02:48.405865,Boxing Lines - Ellis Zorro vs Dec Spelman - To Win the Bout,Ellis Zorro,0.014200000000000101,0.8403,0.8261
 2022-09-15 09:05:39.911937,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,AC Milan,0.014100000000000001,0.0526,0.0385
 2022-09-15 01:03:57.351260,Championship - England Championship 2022/23 - To Be Promoted,Preston North End,0.013999999999999999,0.0909,0.0769
 2022-09-15 02:04:49.205490,NFL Specials - Who Will Score the Most Fantasy Points Week 2 (Non PPR) - Proposition,Pat Freiermuth,0.013999999999999999,0.0909,0.0769
 2022-09-15 02:04:45.816373,Boxing Lines - Joseph Goodall vs Arsene Fosso - To Win the Bout,Joseph Goodall,0.013900000000000023,0.8889,0.875
 2022-09-15 01:03:57.359437,Championship - England Championship 2022/23 - To Be Relegated,Luton Town,0.013899999999999996,0.125,0.1111
+2022-09-15 13:02:49.242448,Fortinet Championship - 2/3 Balls - 1st Round 3 Balls - H. English / J. Dahmen / R. Fowler - 1st Round 3 Balls,Rickie Fowler,0.013300000000000034,0.3704,0.3571
 2022-09-15 07:04:01.662258,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Comeback Player of the Year Award,Saquon Barkley,0.012899999999999995,0.1667,0.1538
-2022-09-15 10:04:04.020546,Round Match-Ups - Parlays - 1st Round Match-Up - T. Pendrith v D. Riley - 1st Round Match-Up,Davis Riley,0.012199999999999989,0.5122,0.5
-2022-09-15 02:04:46.838139,Fortinet Championship - 2/3 Balls - 1st Round 3 Balls - G. Higgo / M. Laird / A. Landry - 1st Round 3 Balls,Martin Laird,0.012199999999999989,0.5,0.4878
 2022-09-15 05:04:08.644796,Round Match-Ups - Parlays - 1st Round Match-Up - T. Pendrith v D. Riley - 1st Round Match-Up,Davis Riley,0.012199999999999989,0.5,0.4878
+2022-09-15 10:04:04.020546,Round Match-Ups - Parlays - 1st Round Match-Up - T. Pendrith v D. Riley - 1st Round Match-Up,Davis Riley,0.012199999999999989,0.5122,0.5
 2022-09-15 03:03:44.086023,Round Match-Ups - Parlays - 1st Round Match-Up - S. Theegala v T. Montgomery - 1st Round Match-Up,Taylor Montgomery,0.012199999999999989,0.5122,0.5
+2022-09-15 02:04:46.838139,Fortinet Championship - 2/3 Balls - 1st Round 3 Balls - G. Higgo / M. Laird / A. Landry - 1st Round 3 Balls,Martin Laird,0.012199999999999989,0.5,0.4878
 2022-09-15 04:03:08.948195,Fortinet Championship - 2/3 Balls - 1st Round 3 Balls - M. Homa / C. Champ / M. Kim - 1st Round 3 Balls,Max Homa,0.0116,0.4878,0.4762
+2022-09-15 13:02:49.917982,Tournament Match-Ups - Tournament Match-Up - C. Smith v T. Gooch - Tournament Match-Up,Talor Gooch,0.0116,0.4878,0.4762
 2022-09-15 09:05:38.165473,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Sean McDermott,0.011199999999999995,0.0588,0.0476
 2022-09-15 11:04:35.178790,Boxing Lines - Frank Arnold vs Brayan Mairena - To Win the Bout,Frank Arnold,0.011199999999999988,0.9524,0.9412
 2022-09-15 02:04:45.808843,Boxing Lines - Paul Gallen vs Justin Hodges - To Win the Bout,Paul Gallen,0.011099999999999999,0.9,0.8889
 2022-09-15 04:03:08.784637,Fortinet Championship - 2/3 Balls - 1st Round 3 Balls - B. Steele / M. Wallace / B. An - 1st Round 3 Balls,Brendan Steele,0.011099999999999999,0.4762,0.4651
+2022-09-15 13:02:53.502880,NFL Weekly Specials - NFL RedZone Specials - Sunday 18th Sept,Rhamondre Stevenson & Leonard Fournette 2+ receptions each,0.01100000000000001,0.5348,0.5238
 2022-09-15 01:03:53.110228,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Patrick Mahomes,0.010899999999999993,0.1538,0.1429
 2022-09-15 02:04:48.526174,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Houston Texans,Over 4.5,0.010699999999999932,0.5455,0.5348
 2022-09-15 02:04:46.812979,Fortinet Championship - 2/3 Balls - 1st Round 3 Balls - B. Steele / M. Wallace / B. An - 1st Round 3 Balls,Brendan Steele,0.010599999999999998,0.4651,0.4545
-2022-09-15 02:04:49.390462,NFL Specials - Will the Packers Beat the Bears Week 2 and Aaron Rodgers to tweet: “I still own you” after the Game - Packers Special,Yes,0.0102,0.0769,0.0667
 2022-09-15 01:03:57.367828,Championship - England Championship 2022/23 - Top 2 Finish,Queens Park Rangers,0.0102,0.0769,0.0667
+2022-09-15 02:04:49.390462,NFL Specials - Will the Packers Beat the Bears Week 2 and Aaron Rodgers to tweet: “I still own you” after the Game - Packers Special,Yes,0.0102,0.0769,0.0667
 2022-09-15 09:05:40.248186,MLS - MLS Cup 2022 - Winner,Austin FC,0.0102,0.0769,0.0667
 2022-09-15 01:03:55.238291,Boxing Lines - Miles Zalewski vs Shiva Mishra - To Win the Bout,Miles Zalewski,0.010199999999999987,0.9333,0.9231
 2022-09-15 09:05:39.897500,UEFA Champions League - UEFA Champions League 2022/2023 - Top Goalscorer,Vinicius Junior (Real Madrid),0.010100000000000001,0.0345,0.0244
-2022-09-15 02:04:49.686330,NCAA Football Specials - Next Coach To Permanently Leave Their Position - Coaching Special,Jimbo Fisher (Texas A&M),-0.010099999999999998,0.5455,0.5556
 2022-09-15 05:04:08.644796,Round Match-Ups - Parlays - 1st Round Match-Up - T. Pendrith v D. Riley - 1st Round Match-Up,Taylor Pendrith,-0.010099999999999998,0.5455,0.5556
+2022-09-15 02:04:49.686330,NCAA Football Specials - Next Coach To Permanently Leave Their Position - Coaching Special,Jimbo Fisher (Texas A&M),-0.010099999999999998,0.5455,0.5556
 2022-09-15 02:04:46.838139,Fortinet Championship - 2/3 Balls - 1st Round 3 Balls - G. Higgo / M. Laird / A. Landry - 1st Round 3 Balls,Garrick Higgo,-0.010099999999999998,0.3125,0.3226
-2022-09-15 01:03:57.377045,Championship - England Championship 2022/23 - Top 6 Finish,Huddersfield Town,-0.010100000000000001,0.0244,0.0345
-2022-09-15 01:03:57.367828,Championship - England Championship 2022/23 - Top 2 Finish,Cardiff City,-0.010100000000000001,0.0244,0.0345
 2022-09-15 01:03:57.367828,Championship - England Championship 2022/23 - Top 2 Finish,Swansea City,-0.010100000000000001,0.0244,0.0345
+2022-09-15 01:03:57.367828,Championship - England Championship 2022/23 - Top 2 Finish,Cardiff City,-0.010100000000000001,0.0244,0.0345
+2022-09-15 01:03:57.377045,Championship - England Championship 2022/23 - Top 6 Finish,Huddersfield Town,-0.010100000000000001,0.0244,0.0345
 2022-09-15 02:04:49.686330,NCAA Football Specials - Next Coach To Permanently Leave Their Position - Coaching Special,Butch Jones (Arkansas State),-0.0102,0.0667,0.0769
 2022-09-15 02:04:49.686330,NCAA Football Specials - Next Coach To Permanently Leave Their Position - Coaching Special,Ken Niumatalolo (Navy),-0.0102,0.0667,0.0769
 2022-09-15 09:05:39.924900,UEFA Champions League - UEFA Champions League 2022/2023 - Furthest Progressing EPL Team,Liverpool,-0.010399999999999993,0.2222,0.2326
 2022-09-15 10:04:04.020546,Round Match-Ups - Parlays - 1st Round Match-Up - T. Pendrith v D. Riley - 1st Round Match-Up,Taylor Pendrith,-0.010699999999999932,0.5348,0.5455
 2022-09-15 03:03:44.086023,Round Match-Ups - Parlays - 1st Round Match-Up - S. Theegala v T. Montgomery - 1st Round Match-Up,Sahith Theegala,-0.010699999999999932,0.5348,0.5455
 2022-09-15 04:03:08.784637,Fortinet Championship - 2/3 Balls - 1st Round 3 Balls - B. Steele / M. Wallace / B. An - 1st Round 3 Balls,Matt Wallace,-0.010699999999999987,0.3226,0.3333
+2022-09-15 01:03:57.367828,Championship - England Championship 2022/23 - Top 2 Finish,West Bromwich Albion,-0.010899999999999993,0.1429,0.1538
 2022-09-15 09:05:39.531826,NFC East - 2022/2023 NFC East - NFC East Winner,Washington Football Team,-0.010899999999999993,0.1429,0.1538
 2022-09-15 02:04:49.686330,NCAA Football Specials - Next Coach To Permanently Leave Their Position - Coaching Special,Jeff Scott (South Florida),-0.010899999999999993,0.1429,0.1538
-2022-09-15 01:03:57.367828,Championship - England Championship 2022/23 - Top 2 Finish,West Bromwich Albion,-0.010899999999999993,0.1429,0.1538
 2022-09-15 02:04:48.526174,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Houston Texans,Under 4.5,-0.01100000000000001,0.5238,0.5348
-2022-09-15 03:03:44.016803,Round Match-Ups - Parlays - 1st Round Match-Up - C. Davis v A. Noren - 1st Round Match-Up,Alex Noren,-0.011099999999999999,0.4651,0.4762
 2022-09-15 02:04:48.590968,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Minnesota Vikings,Under 9.5,-0.011099999999999999,0.4651,0.4762
 2022-09-15 02:04:49.007422,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,CJ Stroud,-0.011099999999999999,0.2667,0.2778
+2022-09-15 03:03:44.016803,Round Match-Ups - Parlays - 1st Round Match-Up - C. Davis v A. Noren - 1st Round Match-Up,Alex Noren,-0.011099999999999999,0.4651,0.4762
 2022-09-15 09:05:39.911937,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Atlético Madrid,-0.011199999999999995,0.0476,0.0588
-2022-09-15 01:03:57.351260,Championship - England Championship 2022/23 - To Be Promoted,Swansea City,-0.011199999999999995,0.0476,0.0588
 2022-09-15 09:05:40.248186,MLS - MLS Cup 2022 - Winner,Orlando City,-0.011199999999999995,0.0476,0.0588
-2022-09-15 02:04:46.812979,Fortinet Championship - 2/3 Balls - 1st Round 3 Balls - B. Steele / M. Wallace / B. An - 1st Round 3 Balls,Matt Wallace,-0.01150000000000001,0.3333,0.3448
+2022-09-15 01:03:57.351260,Championship - England Championship 2022/23 - To Be Promoted,Swansea City,-0.011199999999999995,0.0476,0.0588
 2022-09-15 10:04:04.647001,Fortinet Championship - 2/3 Balls - 1st Round 3 Balls - M. Homa / C. Champ / M. Kim - 1st Round 3 Balls,Cameron Champ,-0.01150000000000001,0.3333,0.3448
 2022-09-15 02:04:48.104916,NCAAF - 2022 Big 12 Championship  - 2022 Big 12 Championship Winner,Oklahoma,-0.01150000000000001,0.3333,0.3448
-2022-09-15 02:04:49.649202,NFC West - 2022/2023 NFC West - NFC West Winner,Arizona Cardinals,-0.012899999999999995,0.1538,0.1667
+2022-09-15 02:04:46.812979,Fortinet Championship - 2/3 Balls - 1st Round 3 Balls - B. Steele / M. Wallace / B. An - 1st Round 3 Balls,Matt Wallace,-0.01150000000000001,0.3333,0.3448
 2022-09-15 02:04:49.205490,NFL Specials - Who Will Score the Most Fantasy Points Week 2 (Non PPR) - Proposition,George Kittle,-0.012899999999999995,0.1538,0.1667
-2022-09-15 01:03:57.367828,Championship - England Championship 2022/23 - Top 2 Finish,Bristol City,-0.0131,0.0345,0.0476
+2022-09-15 02:04:49.649202,NFC West - 2022/2023 NFC West - NFC West Winner,Arizona Cardinals,-0.012899999999999995,0.1538,0.1667
 2022-09-15 02:04:49.205490,NFL Specials - Who Will Score the Most Fantasy Points Week 2 (Non PPR) - Proposition,Mark Andrews,-0.0131,0.2222,0.2353
+2022-09-15 01:03:57.367828,Championship - England Championship 2022/23 - Top 2 Finish,Bristol City,-0.0131,0.0345,0.0476
+2022-09-15 13:02:49.242448,Fortinet Championship - 2/3 Balls - 1st Round 3 Balls - H. English / J. Dahmen / R. Fowler - 1st Round 3 Balls,Harris English,-0.013300000000000034,0.3571,0.3704
+2022-09-15 13:02:49.215560,Fortinet Championship - 2/3 Balls - 1st Round 3 Balls - H. Matsuyama / C. Davis / C. Conners - 1st Round 3 Balls,Corey Conners,-0.013800000000000034,0.3636,0.3774
 2022-09-15 02:04:45.824254,Boxing Lines - Benjamin Hussain vs Lachlan Higgins - To Win the Bout,Benjamin Hussain,-0.013900000000000023,0.875,0.8889
-2022-09-15 11:04:35.131068,Boxing Lines - Khalid Ali vs Dario Borosa - To Win the Bout,Dario Borosa,-0.013999999999999999,0.0769,0.0909
 2022-09-15 01:03:55.260734,Boxing Lines - Jalen Tait vs Krishnil Mudaliar - To Win the Bout,Krishnil Mudaliar,-0.013999999999999999,0.0769,0.0909
+2022-09-15 11:04:35.131068,Boxing Lines - Khalid Ali vs Dario Borosa - To Win the Bout,Dario Borosa,-0.013999999999999999,0.0769,0.0909
 2022-09-15 01:03:57.340421,Championship - England Championship 2022/23 - Outright,Middlesbrough,-0.014099999999999994,0.0526,0.0667
 2022-09-15 01:03:57.359437,Championship - England Championship 2022/23 - To Be Relegated,Queens Park Rangers,-0.014099999999999994,0.0526,0.0667
 2022-09-15 09:05:39.911937,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Inter Milan,-0.014099999999999998,0.0244,0.0385
@@ -152,17 +163,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-15 11:04:35.178790,Boxing Lines - Frank Arnold vs Brayan Mairena - To Win the Bout,Brayan Mairena,-0.01440000000000001,0.0909,0.1053
 2022-09-15 09:05:39.911937,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,FC Porto,-0.014599999999999998,0.005,0.0196
 2022-09-15 02:04:48.094623,NCAAF - 2022 ACC Championship - 2022 ACC Championship Winner,Clemson,-0.01539999999999997,0.6,0.6154
-2022-09-15 01:03:57.367828,Championship - England Championship 2022/23 - Top 2 Finish,Middlesbrough,-0.015700000000000006,0.1176,0.1333
 2022-09-15 01:03:57.377045,Championship - England Championship 2022/23 - Top 6 Finish,Cardiff City,-0.015700000000000006,0.1176,0.1333
+2022-09-15 01:03:57.367828,Championship - England Championship 2022/23 - Top 2 Finish,Middlesbrough,-0.015700000000000006,0.1176,0.1333
 2022-09-15 05:04:08.741994,Round Match-Ups - Parlays - 1st Round Match-Up - M. Homa v T. Merritt - 1st Round Match-Up,Max Homa,-0.016100000000000003,0.5917,0.6078
+2022-09-15 13:02:48.405865,Boxing Lines - Ellis Zorro vs Dec Spelman - To Win the Bout,Dec Spelman,-0.016399999999999998,0.2083,0.2247
 2022-09-15 10:04:04.647001,Fortinet Championship - 2/3 Balls - 1st Round 3 Balls - M. Homa / C. Champ / M. Kim - 1st Round 3 Balls,Michael Kim,-0.016699999999999993,0.25,0.2667
 2022-09-15 01:03:57.359437,Championship - England Championship 2022/23 - To Be Relegated,Bristol City,-0.01759999999999999,0.1,0.1176
 2022-09-15 02:04:49.757245,UEFA Champions League - Group C - Group Winner,Inter Milan,-0.018099999999999998,0.0588,0.0769
 2022-09-15 01:03:57.340421,Championship - England Championship 2022/23 - Outright,West Bromwich Albion,-0.018099999999999998,0.0588,0.0769
 2022-09-15 01:03:57.367828,Championship - England Championship 2022/23 - Top 2 Finish,Millwall,-0.018200000000000004,0.0294,0.0476
 2022-09-15 01:03:57.351260,Championship - England Championship 2022/23 - To Be Promoted,Blackpool,-0.018200000000000004,0.0294,0.0476
-2022-09-15 01:03:57.351260,Championship - England Championship 2022/23 - To Be Promoted,Hull City,-0.018200000000000004,0.0294,0.0476
 2022-09-15 01:03:57.367828,Championship - England Championship 2022/23 - Top 2 Finish,Luton Town,-0.018200000000000004,0.0294,0.0476
+2022-09-15 01:03:57.351260,Championship - England Championship 2022/23 - To Be Promoted,Hull City,-0.018200000000000004,0.0294,0.0476
 2022-09-15 02:04:49.840415,UEFA Champions League - UEFA Champions League 2022/2023 - Nationality of Winner,Spain,-0.01820000000000002,0.1818,0.2
 2022-09-15 01:03:57.367828,Championship - England Championship 2022/23 - Top 2 Finish,Burnley,-0.019000000000000017,0.2667,0.2857
 2022-09-15 01:03:57.367828,Championship - England Championship 2022/23 - Top 2 Finish,Blackpool,-0.019600000000000003,0.0149,0.0345
@@ -175,14 +187,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-15 12:04:36.292165,Boxing Lines - Leon Harth vs Brandon Deslaurier - To Win the Bout,Brandon Deslaurier,-0.022699999999999998,0.2273,0.25
 2022-09-15 01:03:57.377045,Championship - England Championship 2022/23 - Top 6 Finish,Hull City,-0.02310000000000001,0.0769,0.1
 2022-09-15 01:03:57.367828,Championship - England Championship 2022/23 - Top 2 Finish,Reading,-0.0236,0.0149,0.0385
-2022-09-15 01:03:57.351260,Championship - England Championship 2022/23 - To Be Promoted,Luton Town,-0.0242,0.0667,0.0909
 2022-09-15 01:03:57.340421,Championship - England Championship 2022/23 - Outright,Watford,-0.0242,0.0667,0.0909
 2022-09-15 01:03:57.351260,Championship - England Championship 2022/23 - To Be Promoted,Millwall,-0.0242,0.0667,0.0909
+2022-09-15 01:03:57.351260,Championship - England Championship 2022/23 - To Be Promoted,Luton Town,-0.0242,0.0667,0.0909
 2022-09-15 09:05:39.911937,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Borussia Dortmund,-0.024299999999999995,0.0345,0.0588
 2022-09-15 02:04:49.800899,UEFA Champions League - Group G - Group Winner,Sevilla,-0.024600000000000004,0.0099,0.0345
 2022-09-15 06:02:49.600327,MLB Futures - MLB 2022 National League - NL Winner,Atlanta Braves,-0.024800000000000016,0.2105,0.2353
 2022-09-15 06:02:49.588938,MLB Futures - MLB 2022 American League - AL Winner,New York Yankees,-0.02560000000000001,0.3077,0.3333
 2022-09-15 05:04:07.200889,Boxing Lines - Benjamin Hussain vs Lachlan Higgins - To Win the Bout,Lachlan Higgins,-0.026100000000000012,0.1739,0.2
+2022-09-15 13:02:49.882890,Tournament Match-Ups - Tournament Match-Up - B. DeChambeau v B. Koepka - Tournament Match-Up,Bryson DeChambeau,-0.027700000000000058,0.5556,0.5833
 2022-09-15 02:04:49.840415,UEFA Champions League - UEFA Champions League 2022/2023 - Nationality of Winner,Italy,-0.028199999999999996,0.0385,0.0667
 2022-09-15 06:02:49.470643,Game of Thrones Specials - Game of Thrones vs House of the Dragon: Highest IMDB Series Rating - Highest IMDB Series Rating At Year End,House of the Dragon,-0.029600000000000015,0.3704,0.4
 2022-09-15 02:04:49.777700,UEFA Champions League - Group F - Group Winner,Celtic,-0.030299999999999997,0.0132,0.0435
@@ -195,27 +208,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-15 10:04:04.006813,Round Match-Ups - Parlays - 1st Round Match-Up - S. Theegala v T. Montgomery - 1st Round Match-Up,Taylor Montgomery,-0.035999999999999976,0.4762,0.5122
 2022-09-15 01:03:57.377045,Championship - England Championship 2022/23 - Top 6 Finish,Reading,-0.036199999999999996,0.1176,0.1538
 2022-09-15 02:04:49.649202,NFC West - 2022/2023 NFC West - NFC West Winner,San Francisco 49ers,-0.03640000000000004,0.3636,0.4
-2022-09-15 12:04:28.971571,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,-0.03710000000000002,0.3077,0.3448
-2022-09-15 07:03:57.849735,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,-0.03710000000000002,0.3077,0.3448
-2022-09-15 02:04:45.652496,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,-0.03710000000000002,0.3077,0.3448
-2022-09-15 01:03:52.830503,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,-0.03710000000000002,0.3077,0.3448
-2022-09-15 05:04:03.909889,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,-0.03710000000000002,0.3077,0.3448
-2022-09-15 06:02:49.391938,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,-0.03710000000000002,0.3077,0.3448
 2022-09-15 03:03:43.387071,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,-0.03710000000000002,0.3077,0.3448
+2022-09-15 05:04:03.909889,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,-0.03710000000000002,0.3077,0.3448
+2022-09-15 01:03:52.830503,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,-0.03710000000000002,0.3077,0.3448
+2022-09-15 07:03:57.849735,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,-0.03710000000000002,0.3077,0.3448
+2022-09-15 11:04:34.917483,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,-0.03710000000000002,0.3077,0.3448
+2022-09-15 12:04:28.971571,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,-0.03710000000000002,0.3077,0.3448
+2022-09-15 02:04:45.652496,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,-0.03710000000000002,0.3077,0.3448
 2022-09-15 04:03:06.324483,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,-0.03710000000000002,0.3077,0.3448
 2022-09-15 09:05:34.870279,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,-0.03710000000000002,0.3077,0.3448
 2022-09-15 10:04:02.719869,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,-0.03710000000000002,0.3077,0.3448
-2022-09-15 11:04:34.917483,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,-0.03710000000000002,0.3077,0.3448
+2022-09-15 06:02:49.391938,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,-0.03710000000000002,0.3077,0.3448
+2022-09-15 13:02:48.034470,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,-0.03710000000000002,0.3077,0.3448
 2022-09-15 02:04:49.777700,UEFA Champions League - Group F - Group Winner,RB Leipzig,-0.0384,0.0385,0.0769
 2022-09-15 07:04:02.257573,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Las Vegas Raiders,Under 8.5,-0.04139999999999999,0.5238,0.5652
 2022-09-15 02:04:49.747380,UEFA Champions League - Group A - Group Winner,Liverpool,-0.045499999999999985,0.5,0.5455
 2022-09-15 01:03:57.351260,Championship - England Championship 2022/23 - To Be Promoted,Watford,-0.047599999999999976,0.2857,0.3333
 2022-09-15 01:03:57.359437,Championship - England Championship 2022/23 - To Be Relegated,Sunderland,-0.048100000000000004,0.0769,0.125
-2022-09-15 01:03:57.359437,Championship - England Championship 2022/23 - To Be Relegated,Rotherham Utd,-0.04999999999999999,0.2,0.25
 2022-09-15 01:03:57.351260,Championship - England Championship 2022/23 - To Be Promoted,Middlesbrough,-0.04999999999999999,0.2,0.25
+2022-09-15 01:03:57.359437,Championship - England Championship 2022/23 - To Be Relegated,Rotherham Utd,-0.04999999999999999,0.2,0.25
 2022-09-15 09:05:39.924900,UEFA Champions League - UEFA Champions League 2022/2023 - Furthest Progressing EPL Team,Tottenham,-0.052000000000000005,0.0909,0.1429
 2022-09-15 09:05:39.897500,UEFA Champions League - UEFA Champions League 2022/2023 - Top Goalscorer,Robert Lewandowski (Barcelona),-0.05310000000000001,0.2326,0.2857
 2022-09-15 01:03:57.377045,Championship - England Championship 2022/23 - Top 6 Finish,Millwall,-0.05550000000000002,0.1667,0.2222
+2022-09-15 13:02:49.958437,Tournament Match-Ups - Tournament Match-Up - T. Gooch v L. Oosthuizen - Tournament Match-Up,Louis Oosthuizen,-0.05870000000000003,0.4651,0.5238
 2022-09-15 01:03:57.359437,Championship - England Championship 2022/23 - To Be Relegated,Wigan Athletic,-0.06840000000000002,0.1538,0.2222
 2022-09-15 02:04:49.800899,UEFA Champions League - Group G - Group Winner,Borussia Dortmund,-0.095,0.0588,0.1538
 2022-09-15 06:02:49.610929,MLB Futures - MLB 2022 American League Central - ALC Winner,Chicago White Sox,-0.09720000000000001,0.125,0.2222
