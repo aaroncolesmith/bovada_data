@@ -16,22 +16,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-16 08:05:25.659775,UEFA Europa League - Group B - Outright,Fenerbahce,0.044399999999999995,0.4444,0.4
 2022-09-16 06:04:48.899205,MLB Futures - MLB 2022 American League Central - ALC Winner,Chicago White Sox,0.04169999999999999,0.1667,0.125
 2022-09-16 15:04:30.756190,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,CF Pachuca,0.04040000000000002,0.2222,0.1818
-2022-09-16 05:04:11.453455,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,0.03710000000000002,0.3448,0.3077
 2022-09-16 06:04:50.139590,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,0.03710000000000002,0.3448,0.3077
+2022-09-16 08:05:19.861405,Fortinet Championship - 2/3 Balls - 2nd Round 3 Balls - S. Theegala / T. Pendrith / D. Riley - 2nd Round 3 Balls,Taylor Pendrith,0.03640000000000004,0.4,0.3636
 2022-09-16 08:05:19.655473,Fortinet Championship - 2/3 Balls - 2nd Round 3 Balls - B. Snedeker / C. Ramey / J. Herman - 2nd Round 3 Balls,Chad Ramey,0.03640000000000004,0.4,0.3636
 2022-09-16 08:05:19.672579,Fortinet Championship - 2/3 Balls - 2nd Round 3 Balls - L. List / R. Streb / S. Cink - 2nd Round 3 Balls,Luke List,0.03640000000000004,0.4,0.3636
-2022-09-16 08:05:19.861405,Fortinet Championship - 2/3 Balls - 2nd Round 3 Balls - S. Theegala / T. Pendrith / D. Riley - 2nd Round 3 Balls,Taylor Pendrith,0.03640000000000004,0.4,0.3636
 2022-09-16 07:06:08.004171,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Field,0.027800000000000047,0.75,0.7222
 2022-09-16 11:06:40.502211,EuroBasket 2022 - EuroBasket 2022 - Outright,France,0.027700000000000002,0.4444,0.4167
 2022-09-16 06:04:48.877359,MLB Futures - MLB 2022 American League - AL Winner,New York Yankees,0.02560000000000001,0.3333,0.3077
 2022-09-16 08:05:25.659775,UEFA Europa League - Group B - Outright,Rennes,0.023799999999999988,0.5,0.4762
 2022-09-16 15:04:28.344655,Round Match-Ups - 2nd Round Match-Up - H. Matsuyama v C. Conners - 2nd Round Match-Up ,Corey Conners,0.022600000000000064,0.5348,0.5122
 2022-09-16 15:04:28.252113,Fortinet Championship - 2/3 Balls - 2nd Round 3 Balls - S. Theegala / T. Pendrith / D. Riley - 2nd Round 3 Balls,Sahith Theegala,0.02260000000000001,0.4,0.3774
-2022-09-16 05:04:13.049039,Italian Open - 2/3 Balls - 2nd Round 3 Balls - V. Perez / M. Kieffer / A. Pavan - 2nd Round 3 Balls,Maximilian Kieffer,0.02260000000000001,0.4,0.3774
 2022-09-16 15:04:27.683099,Requested Specials - Requested Specials: +501 to +1000 - Season Specials,"Bills to Win AFC East, Cowboys to Miss the Playoffs & Bears Under 5.5 Regular Season Wins",0.022199999999999998,0.2222,0.2
-2022-09-16 05:04:13.180511,Italian Open - 2/3 Balls - 2nd Round 3 Balls - W. Besseling / S. Tarrio / A. Canizares - 2nd Round 3 Balls,Wil Besseling,0.021699999999999997,0.4762,0.4545
-2022-09-16 13:04:07.638299,Tournament Match-Ups - Parlays - Tournament Match-Up - P. Reed v L. Oosthuizen - Tournament Match-Up,Louis Oosthuizen,0.02169999999999994,0.5455,0.5238
 2022-09-16 13:04:07.400879,Round Match-Ups - Parlays - 1st Round Match-Up - K. Na vs H. Varner III - 1st Round Match-Up,Harold Varner III,0.02169999999999994,0.5455,0.5238
+2022-09-16 13:04:07.638299,Tournament Match-Ups - Parlays - Tournament Match-Up - P. Reed v L. Oosthuizen - Tournament Match-Up,Louis Oosthuizen,0.02169999999999994,0.5455,0.5238
 2022-09-16 15:04:28.547885,Chicago - 2/3 Balls - 1st Round 3 Balls - P. Reed / C. Tringale / I. Poulter - 1st Round 3 Balls,Cameron Tringale,0.020799999999999985,0.3333,0.3125
 2022-09-16 07:06:11.163651,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Mike Williams,0.0203,0.0526,0.0323
 2022-09-16 08:05:25.637061,UEFA Europa League - Group A - Outright,Bodø/Glimt,0.02020000000000001,0.1111,0.0909
@@ -39,60 +36,53 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-16 10:03:59.429241,Boxing Lines - Ellis Zorro vs Dec Spelman - To Win the Bout,Dec Spelman,0.01899999999999999,0.2273,0.2083
 2022-09-16 07:06:11.978490,NFL Specials - How Many Missed Extra Points Will be Missed by Kickers in Week 2 - Proposition,Under 4.5,0.018399999999999972,0.7059,0.6875
 2022-09-16 15:04:27.865186,NCAA Football Specials - Next Team To Break Into Ranking - To Enter Top 25,Minnesota,0.01830000000000001,0.0952,0.0769
-2022-09-16 06:04:52.562720,AFC West - 2022/2023 AFC West - AFC West Winner,Denver Broncos,0.01820000000000002,0.2,0.1818
 2022-09-16 06:04:52.552457,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Kansas City Chiefs,0.01820000000000002,0.2,0.1818
+2022-09-16 06:04:52.562720,AFC West - 2022/2023 AFC West - AFC West Winner,Denver Broncos,0.01820000000000002,0.2,0.1818
 2022-09-16 08:05:25.621855,UEFA Europa League - Group H - Outright,Trabzonspor,0.01820000000000002,0.2,0.1818
 2022-09-16 08:05:25.875422,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,Istanbul Basaksehir,0.018200000000000004,0.0476,0.0294
 2022-09-16 15:04:28.155558,Fortinet Championship - 2/3 Balls - 2nd Round 3 Balls - J. Suh / D. Redman / P. Malnati - 2nd Round 3 Balls,Justin Suh,0.018100000000000005,0.4348,0.4167
 2022-09-16 15:04:27.662872,Requested Specials - Requested Specials : Regular Season Wins Parlays - Season Win Specials,"Reg Season Wins: Chiefs 11+, Eagles 10+, Ravens 10+, Saints 9+",0.0179,0.1429,0.125
-2022-09-16 05:04:13.143377,Italian Open - 2/3 Balls - 2nd Round 3 Balls - R. Hojgaard / L. Herbert / F. Celli - 2nd Round 3 Balls,Lucas Herbert,0.016699999999999993,0.4167,0.4
+2022-09-16 17:04:33.711373,Boxing Lines - Shefat Isufi vs Ryan Ford - To Win the Bout,Ryan Ford,0.017799999999999983,0.3077,0.2899
 2022-09-16 15:04:30.911199,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Boca Juniors,0.016699999999999993,0.2667,0.25
-2022-09-16 05:04:11.736323,Boxing Lines - Austin Williams vs Kieron Conway - To Win the Bout,Kieron Conway,0.016500000000000015,0.2,0.1835
-2022-09-16 05:04:13.116160,Italian Open - 2/3 Balls - 2nd Round 3 Balls - P. Waring / N.N. Moller / R. McEvoy - 2nd Round 3 Balls,Niklas Norgaard Moller,0.015400000000000025,0.4,0.3846
 2022-09-16 15:04:27.697100,Requested Specials - Requested Specials: +1001 to +3000 - Season Specials,Most Passing Yds: Justin Herbert & Most Rushing Yds: Jonathan Taylor,0.015300000000000001,0.0588,0.0435
 2022-09-16 07:06:11.129873,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Yards (Regular Season),Justin Herbert,0.015100000000000002,0.1818,0.1667
 2022-09-16 06:04:51.840577,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Comeback Player of the Year Award,Khalil Mack,0.014899999999999997,0.0625,0.0476
 2022-09-16 09:04:06.125562,NFL Weekly Specials - NFL Week 2 - Leaders - Lowest Scoring Game - Week 2 (Sunday Only),Patriots vs Steelers,0.014800000000000008,0.1481,0.1333
 2022-09-16 06:04:52.605540,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Kansas City Chiefs,0.013899999999999996,0.125,0.1111
 2022-09-16 10:03:59.389819,Boxing Lines - Leon Harth vs Brandon Deslaurier - To Win the Bout,Brandon Deslaurier,0.01369999999999999,0.241,0.2273
-2022-09-16 07:06:12.947031,UEFA Europa League - UEFA Europa League 22/23 - Winner,Arsenal,0.012899999999999995,0.1667,0.1538
 2022-09-16 15:04:30.911199,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Atlético Tucumán,0.012899999999999995,0.1667,0.1538
+2022-09-16 07:06:12.947031,UEFA Europa League - UEFA Europa League 22/23 - Winner,Arsenal,0.012899999999999995,0.1667,0.1538
 2022-09-16 09:04:01.593246,Boxing Lines - Ellis Zorro vs Dec Spelman - To Win the Bout,Dec Spelman,0.012200000000000016,0.2083,0.1961
 2022-09-16 06:04:48.888379,MLB Futures - MLB 2022 National League - NL Winner,Philadelphia Phillies,0.011899999999999994,0.0833,0.0714
 2022-09-16 06:04:48.888379,MLB Futures - MLB 2022 National League - NL Winner,Atlanta Braves,0.011700000000000016,0.2222,0.2105
 2022-09-16 15:04:28.315899,Round Match-Ups - 2nd Round Match-Up - D. McCarthy v A. Noren - 2nd Round Match-Up,Alex Noren,0.011600000000000055,0.5238,0.5122
 2022-09-16 15:04:27.956146,NFL Weekly Specials - NFL Week 2 - Leaders - Most Rushing Yards - Week 2 (Sunday Only),Aaron Jones,0.011199999999999995,0.0435,0.0323
-2022-09-16 15:04:27.662872,Requested Specials - Requested Specials : Regular Season Wins Parlays - Season Win Specials,"Regular Season Wins: Chiefs 11+, Ravens & Colts 10+ Each, Bears, Commanders & Steelers 7+, Raiders U9.5 & Lions U6.5",0.011199999999999995,0.0588,0.0476
 2022-09-16 07:06:12.947031,UEFA Europa League - UEFA Europa League 22/23 - Winner,Real Betis,0.011199999999999995,0.0588,0.0476
+2022-09-16 15:04:27.662872,Requested Specials - Requested Specials : Regular Season Wins Parlays - Season Win Specials,"Regular Season Wins: Chiefs 11+, Ravens & Colts 10+ Each, Bears, Commanders & Steelers 7+, Raiders U9.5 & Lions U6.5",0.011199999999999995,0.0588,0.0476
 2022-09-16 07:06:11.117319,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Justin Herbert,0.010899999999999993,0.1538,0.1429
 2022-09-16 08:05:25.069089,NFL Weekly Specials - NFL RedZone Specials - Sunday 18th Sept,Rhamondre Stevenson & Leonard Fournette 2+ receptions each,0.010699999999999932,0.5455,0.5348
-2022-09-16 06:04:50.418447,Boxing Lines - Austin Williams vs Kieron Conway - To Win the Bout,Kieron Conway,0.010499999999999982,0.2105,0.2
-2022-09-16 07:06:11.117319,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Patrick Mahomes,0.010499999999999982,0.2105,0.2
 2022-09-16 06:04:51.914352,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Josh Allen (BUF),0.010499999999999982,0.2105,0.2
+2022-09-16 07:06:11.117319,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Patrick Mahomes,0.010499999999999982,0.2105,0.2
+2022-09-16 06:04:50.418447,Boxing Lines - Austin Williams vs Kieron Conway - To Win the Bout,Kieron Conway,0.010499999999999982,0.2105,0.2
 2022-09-16 09:04:06.125562,NFL Weekly Specials - NFL Week 2 - Leaders - Lowest Scoring Game - Week 2 (Sunday Only),Commanders vs Lions,0.0102,0.0769,0.0667
 2022-09-16 06:04:48.899205,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,0.0102,0.0769,0.0667
 2022-09-16 15:04:28.939934,Tournament Match-Ups - Parlays - Tournament Match-Up - P. Reed v L. Oosthuizen - Tournament Match-Up,Louis Oosthuizen,0.010099999999999998,0.5556,0.5455
-2022-09-16 09:04:06.135347,NFL Weekly Specials - NFL Week 2 - Leaders - Lowest Scoring Team - Week 2 (Sunday Only),Pittsburgh Steelers,-0.0102,0.0667,0.0769
 2022-09-16 15:04:30.756190,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Deportivo Toluca,-0.0102,0.0667,0.0769
+2022-09-16 09:04:06.135347,NFL Weekly Specials - NFL Week 2 - Leaders - Lowest Scoring Team - Week 2 (Sunday Only),Pittsburgh Steelers,-0.0102,0.0667,0.0769
 2022-09-16 07:06:07.728366,Boxing Lines - Austin Williams vs Kieron Conway - To Win the Bout,Kieron Conway,-0.010499999999999982,0.2,0.2105
-2022-09-16 05:04:13.049039,Italian Open - 2/3 Balls - 2nd Round 3 Balls - V. Perez / M. Kieffer / A. Pavan - 2nd Round 3 Balls,Andrea Pavan,-0.010499999999999982,0.2,0.2105
 2022-09-16 08:05:19.655473,Fortinet Championship - 2/3 Balls - 2nd Round 3 Balls - B. Snedeker / C. Ramey / J. Herman - 2nd Round 3 Balls,Jim Herman,-0.010699999999999987,0.3226,0.3333
-2022-09-16 16:04:11.075284,Chicago - Chicago - Outright,Cameron Smith,-0.010899999999999993,0.1429,0.1538
 2022-09-16 15:04:27.662872,Requested Specials - Requested Specials : Regular Season Wins Parlays - Season Win Specials,"Regular Season Wins: Chargers 11+, Vikings 10+ & Giants Under 7.5",-0.010899999999999993,0.1429,0.1538
+2022-09-16 16:04:11.075284,Chicago - Chicago - Outright,Cameron Smith,-0.010899999999999993,0.1429,0.1538
 2022-09-16 08:05:17.864658,Boxing Lines - Saul 'Canelo' Alvarez vs Gennady Golovkin - To Win the Bout,Saul 'Canelo' Alvarez,-0.01090000000000002,0.8462,0.8571
 2022-09-16 15:04:28.315899,Round Match-Ups - 2nd Round Match-Up - D. McCarthy v A. Noren - 2nd Round Match-Up,Denny McCarthy,-0.01100000000000001,0.5238,0.5348
 2022-09-16 06:04:52.562720,AFC West - 2022/2023 AFC West - AFC West Winner,Las Vegas Raiders,-0.011099999999999999,0.1,0.1111
 2022-09-16 07:06:07.973304,Political Specials - Which Party will win the House in the 2022 Midterm Election? - Winning Party,Republican,-0.011299999999999977,0.7561,0.7674
-2022-09-16 11:06:40.502211,EuroBasket 2022 - EuroBasket 2022 - Outright,Germany,-0.01150000000000001,0.3333,0.3448
 2022-09-16 15:04:28.155558,Fortinet Championship - 2/3 Balls - 2nd Round 3 Balls - J. Suh / D. Redman / P. Malnati - 2nd Round 3 Balls,Doc Redman,-0.01150000000000001,0.3333,0.3448
+2022-09-16 11:06:40.502211,EuroBasket 2022 - EuroBasket 2022 - Outright,Germany,-0.01150000000000001,0.3333,0.3448
 2022-09-16 15:04:28.939934,Tournament Match-Ups - Parlays - Tournament Match-Up - P. Reed v L. Oosthuizen - Tournament Match-Up,Patrick Reed,-0.011600000000000055,0.5122,0.5238
-2022-09-16 05:04:13.143377,Italian Open - 2/3 Balls - 2nd Round 3 Balls - R. Hojgaard / L. Herbert / F. Celli - 2nd Round 3 Balls,Filippo Celli,-0.011699999999999988,0.274,0.2857
-2022-09-16 05:04:13.157132,Italian Open - 2/3 Balls - 2nd Round 3 Balls - R. McIlroy / F. Molinari / N. Hojgaard - 2nd Round 3 Balls,Francesco Molinari,-0.011699999999999988,0.274,0.2857
-2022-09-16 05:04:13.049039,Italian Open - 2/3 Balls - 2nd Round 3 Balls - V. Perez / M. Kieffer / A. Pavan - 2nd Round 3 Balls,Victor Perez,-0.012199999999999989,0.5,0.5122
 2022-09-16 15:04:27.662872,Requested Specials - Requested Specials : Regular Season Wins Parlays - Season Win Specials,"Regular Season Wins: Chargers 11+, Eagles 10+ & Bears U5.5",-0.012899999999999995,0.1538,0.1667
 2022-09-16 06:04:48.877359,MLB Futures - MLB 2022 American League - AL Winner,Tampa Bay Rays,-0.013999999999999999,0.0769,0.0909
 2022-09-16 06:04:52.605540,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Los Angeles Chargers,-0.014399999999999996,0.0625,0.0769
-2022-09-16 05:04:11.606202,Boxing Lines - Ellis Zorro vs Dec Spelman - To Win the Bout,Dec Spelman,-0.014399999999999996,0.1961,0.2105
 2022-09-16 07:06:12.927783,UEFA Europa League - Group E - Outright,Omonia Nicosia,-0.0145,0.0099,0.0244
 2022-09-16 07:06:11.978490,NFL Specials - How Many Missed Extra Points Will be Missed by Kickers in Week 2 - Proposition,Over 4.5,-0.01479999999999998,0.3774,0.3922
 2022-09-16 07:06:11.129873,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Yards (Regular Season),Patrick Mahomes,-0.015100000000000002,0.1667,0.1818
@@ -101,16 +91,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-16 06:04:48.857751,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Atlanta Braves,-0.015700000000000006,0.1176,0.1333
 2022-09-16 11:06:40.502211,EuroBasket 2022 - EuroBasket 2022 - Outright,Poland,-0.016700000000000007,0.0833,0.1
 2022-09-16 10:03:59.429241,Boxing Lines - Ellis Zorro vs Dec Spelman - To Win the Bout,Ellis Zorro,-0.016799999999999926,0.8403,0.8571
+2022-09-16 17:04:33.665192,Boxing Lines - Leon Harth vs Brandon Deslaurier - To Win the Bout,Brandon Deslaurier,-0.0179,0.2174,0.2353
 2022-09-16 08:05:19.672579,Fortinet Championship - 2/3 Balls - 2nd Round 3 Balls - L. List / R. Streb / S. Cink - 2nd Round 3 Balls,Stewart Cink,-0.018799999999999983,0.3448,0.3636
 2022-09-16 08:05:19.672579,Fortinet Championship - 2/3 Balls - 2nd Round 3 Balls - L. List / R. Streb / S. Cink - 2nd Round 3 Balls,Robert Streb,-0.018799999999999983,0.3448,0.3636
-2022-09-16 06:04:51.840577,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Comeback Player of the Year Award,JuJu Smith-Schuste,-0.019099999999999992,0.0476,0.0667
 2022-09-16 08:05:25.875422,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,Nice,-0.019099999999999992,0.0476,0.0667
+2022-09-16 06:04:51.840577,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Comeback Player of the Year Award,JuJu Smith-Schuste,-0.019099999999999992,0.0476,0.0667
 2022-09-16 08:05:25.637061,UEFA Europa League - Group A - Outright,FC Zürich,-0.019499999999999997,0.0099,0.0294
 2022-09-16 06:04:51.914352,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Justin Herbert,-0.019699999999999995,0.1053,0.125
 2022-09-16 16:04:10.002268,Boxing Lines - Ellis Zorro vs Dec Spelman - To Win the Bout,Dec Spelman,-0.021100000000000008,0.2062,0.2273
 2022-09-16 13:04:07.638299,Tournament Match-Ups - Parlays - Tournament Match-Up - P. Reed v L. Oosthuizen - Tournament Match-Up,Patrick Reed,-0.02169999999999994,0.5238,0.5455
 2022-09-16 15:04:27.662872,Requested Specials - Requested Specials : Regular Season Wins Parlays - Season Win Specials,"Regular Season Wins: Colts & Chargers 8+ Each, Bears Under 7.5",-0.021699999999999997,0.4545,0.4762
-2022-09-16 05:04:13.180511,Italian Open - 2/3 Balls - 2nd Round 3 Balls - W. Besseling / S. Tarrio / A. Canizares - 2nd Round 3 Balls,Santiago Tarrio,-0.02260000000000001,0.3774,0.4
 2022-09-16 08:05:19.655473,Fortinet Championship - 2/3 Balls - 2nd Round 3 Balls - B. Snedeker / C. Ramey / J. Herman - 2nd Round 3 Balls,Brandt Snedeker,-0.02260000000000001,0.3774,0.4
 2022-09-16 15:04:28.344655,Round Match-Ups - 2nd Round Match-Up - H. Matsuyama v C. Conners - 2nd Round Match-Up ,Hideki Matsuyama,-0.022600000000000064,0.5122,0.5348
 2022-09-16 15:04:28.547885,Chicago - 2/3 Balls - 1st Round 3 Balls - P. Reed / C. Tringale / I. Poulter - 1st Round 3 Balls,Patrick Reed,-0.022699999999999998,0.4651,0.4878
@@ -122,7 +112,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-16 06:04:48.877359,MLB Futures - MLB 2022 American League - AL Winner,Toronto Blue Jays,-0.031799999999999995,0.1111,0.1429
 2022-09-16 06:04:48.910317,MLB Futures - MLB 2022 American League East - ALE Winner,Tampa Bay Rays,-0.032900000000000006,0.0385,0.0714
 2022-09-16 08:05:25.682669,UEFA Europa League - Group C - Outright,Ludogorets Razgrad,-0.034100000000000005,0.0909,0.125
-2022-09-16 05:04:11.464863,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,-0.03710000000000002,0.3077,0.3448
 2022-09-16 06:04:50.157886,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,-0.03710000000000002,0.3077,0.3448
 2022-09-16 06:04:51.902859,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Skyy Moore,-0.0384,0.0385,0.0769
 2022-09-16 06:04:48.910317,MLB Futures - MLB 2022 American League East - ALE Winner,Toronto Blue Jays,-0.0391,0.0323,0.0714
