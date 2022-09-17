@@ -22,6 +22,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-16 22:02:38.413228,Italian Open - Italian Open - Outright,Victor Perez,0.0286,0.0385,0.0099
 2022-09-17 02:05:50.360954,La Liga - Spain La Liga 2022/23 - Winner,FC Barcelona,0.023800000000000043,0.5238,0.5
 2022-09-17 06:06:12.592267,NCAAF - 2022 Big Ten Championship  - 2022 Big Ten Championship Winner,Michigan,0.022199999999999998,0.2222,0.2
+2022-09-17 08:04:34.311878,Boxing Lines - Saul 'Canelo' Alvarez vs Gennady Golovkin - To Win the Bout,Gennady Golovkin,0.021100000000000008,0.2273,0.2062
 2022-09-16 22:02:38.413228,Italian Open - Italian Open - Outright,Lucas Herbert,0.020000000000000004,0.0323,0.0123
 2022-09-17 07:04:29.763634,Boxing Lines - Terence Crawford vs Errol Spence - To Win the Bout,Terence Crawford,0.01970000000000005,0.5652,0.5455
 2022-09-17 04:04:57.526023,Portland Classic - Portland Classic - Outright,Paula Reto,0.017099999999999997,0.0294,0.0123
@@ -33,17 +34,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-17 04:04:57.526023,Portland Classic - Portland Classic - Outright,WeiWei Zhang,0.0129,0.0149,0.002
 2022-09-16 22:02:38.413228,Italian Open - Italian Open - Outright,Kurt Kitayama,0.012899999999999998,0.0179,0.005
 2022-09-16 22:02:38.561633,Boxing Lines - Steven Butler vs Mark DeLuca - To Win the Bout,Mark DeLuca,0.012499999999999983,0.2105,0.198
-2022-09-17 04:04:57.541964,Sanford International - Sanford International - Outright,Tim Petrovic,0.012100000000000001,0.0244,0.0123
 2022-09-17 04:04:57.541964,Sanford International - Sanford International - Outright,Kirk Triplett,0.012100000000000001,0.0244,0.0123
+2022-09-17 04:04:57.541964,Sanford International - Sanford International - Outright,Tim Petrovic,0.012100000000000001,0.0244,0.0123
 2022-09-17 04:04:57.526023,Portland Classic - Portland Classic - Outright,Ruoning Yin,0.011699999999999999,0.0196,0.0079
 2022-09-17 02:05:50.332666,1. Bundesliga - Germany Bundesliga 2022/23 - Winner,RB Leipzig,0.011199999999999995,0.0588,0.0476
 2022-09-17 02:05:47.027468,Boxing Lines - Saul 'Canelo' Alvarez vs Gennady Golovkin - To Win the Bout,Saul 'Canelo' Alvarez,0.01090000000000002,0.8571,0.8462
+2022-09-17 08:04:34.350881,Boxing Lines - Joseph Joyce vs Joseph Parker - To Win the Bout,Joseph Parker,-0.010099999999999998,0.3745,0.3846
 2022-09-16 22:02:38.413228,Italian Open - Italian Open - Outright,Aaron Rai,-0.010499999999999999,0.0044,0.0149
 2022-09-17 04:04:57.541964,Sanford International - Sanford International - Outright,Woody Austin,-0.0109,0.004,0.0149
 2022-09-17 04:04:57.541964,Sanford International - Sanford International - Outright,Colin Montgomerie,-0.011300000000000001,0.001,0.0123
 2022-09-16 22:02:38.413228,Italian Open - Italian Open - Outright,Nicolai Hojgaard,-0.0115,0.0179,0.0294
 2022-09-17 05:04:47.306516,Boxing Lines - Lyndon Arthur vs Walter Gabriel Sequeira - To Win the Bout,Walter Gabriel Sequeira,-0.011899999999999994,0.0714,0.0833
 2022-09-16 23:05:04.321373,Boxing Lines - Steven Butler vs Mark DeLuca - To Win the Bout,Mark DeLuca,-0.012499999999999983,0.198,0.2105
+2022-09-17 08:04:35.712825,NFL Weekly Specials - NFL RedZone Specials - 16:05/16:25 games - Sunday 18th Sept - 16:05/16:25 games,Each Team scores 1+ FGs in the 4:05pm & 4:25pm Games,-0.0131,0.2222,0.2353
 2022-09-17 04:04:57.526023,Portland Classic - Portland Classic - Outright,Lauren Stephenson,-0.0132,0.0017,0.0149
 2022-09-16 22:02:38.413228,Italian Open - Italian Open - Outright,Rasmus Hojgaard,-0.0139,0.001,0.0149
 2022-09-17 04:04:57.541964,Sanford International - Sanford International - Outright,K.J. Choi,-0.014599999999999998,0.005,0.0196
@@ -53,8 +56,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-17 04:04:57.541964,Sanford International - Sanford International - Outright,Miguel Angel Jimenez,-0.016600000000000004,0.0667,0.0833
 2022-09-17 04:04:57.526023,Portland Classic - Portland Classic - Outright,Na Rin An,-0.017099999999999997,0.0123,0.0294
 2022-09-17 04:04:57.541964,Sanford International - Sanford International - Outright,Fred Couples,-0.0177,0.004,0.0217
-2022-09-17 04:04:57.541964,Sanford International - Sanford International - Outright,Paul Broadhurst,-0.022400000000000003,0.002,0.0244
 2022-09-17 04:04:57.541964,Sanford International - Sanford International - Outright,Rod Pampling,-0.022400000000000003,0.002,0.0244
+2022-09-17 04:04:57.541964,Sanford International - Sanford International - Outright,Paul Broadhurst,-0.022400000000000003,0.002,0.0244
 2022-09-17 04:04:57.526023,Portland Classic - Portland Classic - Outright,Brooke Henderson,-0.02310000000000001,0.0769,0.1
 2022-09-17 04:04:57.526023,Portland Classic - Portland Classic - Outright,Georgia Hall,-0.0232,0.0435,0.0667
 2022-09-17 07:04:29.750520,Boxing Lines - Saul 'Canelo' Alvarez vs Gennady Golovkin - To Win the Bout,Saul 'Canelo' Alvarez,-0.023799999999999932,0.8333,0.8571
