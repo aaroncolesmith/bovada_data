@@ -18,6 +18,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-18 00:05:21.234847,Portland Classic - Portland Classic - Outright,Ryann OToole,0.0294,0.0588,0.0294
 2022-09-18 00:05:21.234847,Portland Classic - Portland Classic - Outright,Frida Kinhult,0.0279,0.0345,0.0066
 2022-09-17 18:04:25.997994,Italian Open - Italian Open - Outright,Robert MacIntyre,0.024600000000000004,0.0345,0.0099
+2022-09-18 03:02:39.652961,Boxing Lines - Saul 'Canelo' Alvarez vs Gennady Golovkin - To Win the Bout,Gennady Golovkin,0.022699999999999998,0.25,0.2273
 2022-09-17 16:03:54.813449,Chicago - 2/3 Balls - 2nd Round 3 Balls - P. Reed / J. Kokrak / T. Pettit - 2nd Round 3 Balls,Jason Kokrak,0.02260000000000001,0.4,0.3774
 2022-09-18 02:05:52.308847,Boxing Lines - Saul 'Canelo' Alvarez vs Gennady Golovkin - To Win the Bout,Saul 'Canelo' Alvarez,0.02210000000000001,0.8403,0.8182
 2022-09-18 02:05:52.308847,Boxing Lines - Saul 'Canelo' Alvarez vs Gennady Golovkin - To Win the Bout,Gennady Golovkin,0.021100000000000008,0.2273,0.2062
@@ -45,18 +46,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-18 00:05:20.934321,Italian Open - 2/3 Balls - Final Round 3 Balls - G. Migliozzi / N. Norgaard Moller / K. Aphibarnrat - Final Round 3 Balls,Kiradech Aphibarnrat,-0.010699999999999987,0.3226,0.3333
 2022-09-18 00:05:21.234847,Portland Classic - Portland Classic - Outright,WeiWei Zhang,-0.0109,0.004,0.0149
 2022-09-17 16:03:54.686862,Chicago - 2/3 Balls - 2nd Round 3 Balls - A. Lahiri / R. Bland / S. Kim - 2nd Round 3 Balls,Richard Bland,-0.01150000000000001,0.3333,0.3448
-2022-09-18 01:04:07.312111,Sanford International - Sanford International - Outright,Clark Dennis,-0.011699999999999999,0.0079,0.0196
 2022-09-18 01:04:07.312111,Sanford International - Sanford International - Outright,David Toms,-0.011699999999999999,0.0079,0.0196
+2022-09-18 01:04:07.312111,Sanford International - Sanford International - Outright,Clark Dennis,-0.011699999999999999,0.0079,0.0196
 2022-09-17 21:03:05.753800,Boxing Lines - Ali Akhmedov vs Gabriel Rosado - To Win the Bout,Gabriel Rosado,-0.011899999999999994,0.1786,0.1905
 2022-09-18 00:05:21.234847,Portland Classic - Portland Classic - Outright,Ruoning Yin,-0.0139,0.0057,0.0196
 2022-09-17 22:02:52.164750,Boxing Lines - Diego Pacheco vs Enrique Collazo - To Win the Bout,Enrique Collazo,-0.013999999999999999,0.0769,0.0909
 2022-09-18 00:05:21.234847,Portland Classic - Portland Classic - Outright,Hye Jin Choi,-0.014499999999999999,0.0149,0.0294
 2022-09-18 00:05:21.234847,Portland Classic - Portland Classic - Outright,Mina Harigae,-0.014599999999999998,0.005,0.0196
-2022-09-18 01:04:07.312111,Sanford International - Sanford International - Outright,Tim Petrovic,-0.0187,0.0057,0.0244
 2022-09-18 01:04:07.312111,Sanford International - Sanford International - Outright,Kirk Triplett,-0.0187,0.0057,0.0244
+2022-09-18 01:04:07.312111,Sanford International - Sanford International - Outright,Tim Petrovic,-0.0187,0.0057,0.0244
 2022-09-17 16:03:54.813449,Chicago - 2/3 Balls - 2nd Round 3 Balls - P. Reed / J. Kokrak / T. Pettit - 2nd Round 3 Balls,Patrick Reed,-0.019699999999999995,0.4348,0.4545
-2022-09-17 18:04:25.997994,Italian Open - Italian Open - Outright,Jordan Smith,-0.0228,0.0066,0.0294
+2022-09-18 03:02:39.652961,Boxing Lines - Saul 'Canelo' Alvarez vs Gennady Golovkin - To Win the Bout,Saul 'Canelo' Alvarez,-0.02210000000000001,0.8182,0.8403
 2022-09-18 01:04:07.312111,Sanford International - Sanford International - Outright,Brandt Jobe,-0.0228,0.0066,0.0294
+2022-09-17 18:04:25.997994,Italian Open - Italian Open - Outright,Jordan Smith,-0.0228,0.0066,0.0294
 2022-09-17 18:04:25.997994,Italian Open - Italian Open - Outright,Tyrrell Hatton,-0.023200000000000002,0.0244,0.0476
 2022-09-17 15:02:46.866677,Fortinet Championship - 2/3 Balls - 3rd Round 2 Balls - M. Schwab v R. Fowler - 3rd Round 2 Balls,Matthias Schwab,-0.024399999999999977,0.4878,0.5122
 2022-09-18 00:05:21.234847,Portland Classic - Portland Classic - Outright,So Yeon Ryu,-0.0258,0.0036,0.0294
