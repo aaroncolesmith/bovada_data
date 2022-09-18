@@ -18,14 +18,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-18 00:05:21.234847,Portland Classic - Portland Classic - Outright,Ryann OToole,0.0294,0.0588,0.0294
 2022-09-18 00:05:21.234847,Portland Classic - Portland Classic - Outright,Frida Kinhult,0.0279,0.0345,0.0066
 2022-09-17 18:04:25.997994,Italian Open - Italian Open - Outright,Robert MacIntyre,0.024600000000000004,0.0345,0.0099
+2022-09-18 04:04:34.410801,Boxing Lines - Joseph Joyce vs Joseph Parker - To Win the Bout,Joseph Joyce,0.0242,0.6875,0.6633
 2022-09-18 03:02:39.652961,Boxing Lines - Saul 'Canelo' Alvarez vs Gennady Golovkin - To Win the Bout,Gennady Golovkin,0.022699999999999998,0.25,0.2273
-2022-09-17 16:03:54.813449,Chicago - 2/3 Balls - 2nd Round 3 Balls - P. Reed / J. Kokrak / T. Pettit - 2nd Round 3 Balls,Jason Kokrak,0.02260000000000001,0.4,0.3774
+2022-09-18 04:04:37.798216,Round Match-Ups - Parlays - Final Round Match-Up - C. Smith vs D. Johnson - Final Round Match-Up,Dustin Johnson,0.022600000000000064,0.5348,0.5122
+2022-09-18 04:04:37.925544,Chicago - Final Round - Final Round Six Shooter - Group B - C. Schwartzel / I. Poulter / L. Canter / M. Jones / P. Uihlein / S. Vincent - Final Round Six Shooter,Matt Jones,0.022199999999999998,0.2222,0.2
 2022-09-18 02:05:52.308847,Boxing Lines - Saul 'Canelo' Alvarez vs Gennady Golovkin - To Win the Bout,Saul 'Canelo' Alvarez,0.02210000000000001,0.8403,0.8182
 2022-09-18 02:05:52.308847,Boxing Lines - Saul 'Canelo' Alvarez vs Gennady Golovkin - To Win the Bout,Gennady Golovkin,0.021100000000000008,0.2273,0.2062
-2022-09-17 15:02:46.866677,Fortinet Championship - 2/3 Balls - 3rd Round 2 Balls - M. Schwab v R. Fowler - 3rd Round 2 Balls,Rickie Fowler,0.02079999999999993,0.5556,0.5348
-2022-09-17 16:03:54.686862,Chicago - 2/3 Balls - 2nd Round 3 Balls - A. Lahiri / R. Bland / S. Kim - 2nd Round 3 Balls,Anirban Lahiri,0.020699999999999996,0.4651,0.4444
 2022-09-17 18:04:25.997994,Italian Open - Italian Open - Outright,Victor Perez,0.0203,0.0588,0.0385
-2022-09-17 16:03:54.835075,Chicago - 2/3 Balls - 2nd Round 3 Balls - S. Horsfield / G. McDowell / P. Mickelson - 2nd Round 3 Balls,Sam Horsfield,0.018900000000000028,0.4444,0.4255
+2022-09-18 04:04:34.396826,Boxing Lines - Maxi Hughes vs Kid Galahad - To Win the Bout,Kid Galahad,0.020199999999999996,0.6923,0.6721
 2022-09-17 22:02:52.164750,Boxing Lines - Diego Pacheco vs Enrique Collazo - To Win the Bout,Diego Pacheco,0.018100000000000005,0.9655,0.9474
 2022-09-18 00:05:21.004280,Italian Open - 2/3 Balls - Final Round 3 Balls - E. Pepperell / T. Bjorn / T. Olesen - Final Round 3 Balls,Thorbjorn Olesen,0.016699999999999993,0.4167,0.4
 2022-09-18 00:05:21.234847,Portland Classic - Portland Classic - Outright,Daniela Darquea,0.014900000000000004,0.0345,0.0196
@@ -35,17 +35,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-17 18:04:25.997994,Italian Open - Italian Open - Outright,Oliver Bekker,0.013,0.0196,0.0066
 2022-09-18 00:05:20.934321,Italian Open - 2/3 Balls - Final Round 3 Balls - G. Migliozzi / N. Norgaard Moller / K. Aphibarnrat - Final Round 3 Balls,Niklas Norgaard Moller,0.012299999999999978,0.3571,0.3448
 2022-09-18 02:05:52.949075,Round Match-Ups - Parlays - Final Round Match-Up - C. Smith vs D. Johnson - Final Round Match-Up,Dustin Johnson,0.012199999999999989,0.5122,0.5
-2022-09-17 15:02:47.017384,Fortinet Championship - 2/3 Balls - 3rd Round 2 Balls - J. Lower v B. Hun An - 3rd Round 2 Balls,Byeong Hun An,0.012199999999999989,0.5122,0.5
 2022-09-18 01:04:07.312111,Sanford International - Sanford International - Outright,Ken Duke,0.011300000000000001,0.0149,0.0036
 2022-09-18 01:04:07.312111,Sanford International - Sanford International - Outright,Fred Couples,0.0109,0.0149,0.004
 2022-09-18 01:04:07.312111,Sanford International - Sanford International - Outright,Steve Flesch,0.0102,0.0769,0.0667
 2022-09-18 00:05:21.004280,Italian Open - 2/3 Balls - Final Round 3 Balls - E. Pepperell / T. Bjorn / T. Olesen - Final Round 3 Balls,Eddie Pepperell,-0.010099999999999998,0.4444,0.4545
 2022-09-17 18:04:25.997994,Italian Open - Italian Open - Outright,Antoine Rozner,-0.0104,0.0028,0.0132
-2022-09-17 15:02:47.017384,Fortinet Championship - 2/3 Balls - 3rd Round 2 Balls - J. Lower v B. Hun An - 3rd Round 2 Balls,Justin Lower,-0.010699999999999932,0.5348,0.5455
-2022-09-17 16:03:54.835075,Chicago - 2/3 Balls - 2nd Round 3 Balls - S. Horsfield / G. McDowell / P. Mickelson - 2nd Round 3 Balls,Phil Mickelson,-0.010699999999999987,0.3226,0.3333
 2022-09-18 00:05:20.934321,Italian Open - 2/3 Balls - Final Round 3 Balls - G. Migliozzi / N. Norgaard Moller / K. Aphibarnrat - Final Round 3 Balls,Kiradech Aphibarnrat,-0.010699999999999987,0.3226,0.3333
 2022-09-18 00:05:21.234847,Portland Classic - Portland Classic - Outright,WeiWei Zhang,-0.0109,0.004,0.0149
-2022-09-17 16:03:54.686862,Chicago - 2/3 Balls - 2nd Round 3 Balls - A. Lahiri / R. Bland / S. Kim - 2nd Round 3 Balls,Richard Bland,-0.01150000000000001,0.3333,0.3448
+2022-09-18 04:04:34.539036,Boxing Lines - Anderson Silva vs Jake Paul - To Win the Bout,Jake Paul,-0.011600000000000055,0.5122,0.5238
 2022-09-18 01:04:07.312111,Sanford International - Sanford International - Outright,David Toms,-0.011699999999999999,0.0079,0.0196
 2022-09-18 01:04:07.312111,Sanford International - Sanford International - Outright,Clark Dennis,-0.011699999999999999,0.0079,0.0196
 2022-09-17 21:03:05.753800,Boxing Lines - Ali Akhmedov vs Gabriel Rosado - To Win the Bout,Gabriel Rosado,-0.011899999999999994,0.1786,0.1905
@@ -55,12 +52,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-18 00:05:21.234847,Portland Classic - Portland Classic - Outright,Mina Harigae,-0.014599999999999998,0.005,0.0196
 2022-09-18 01:04:07.312111,Sanford International - Sanford International - Outright,Kirk Triplett,-0.0187,0.0057,0.0244
 2022-09-18 01:04:07.312111,Sanford International - Sanford International - Outright,Tim Petrovic,-0.0187,0.0057,0.0244
-2022-09-17 16:03:54.813449,Chicago - 2/3 Balls - 2nd Round 3 Balls - P. Reed / J. Kokrak / T. Pettit - 2nd Round 3 Balls,Patrick Reed,-0.019699999999999995,0.4348,0.4545
+2022-09-18 04:04:37.798216,Round Match-Ups - Parlays - Final Round Match-Up - C. Smith vs D. Johnson - Final Round Match-Up,Cameron Smith,-0.02079999999999993,0.5348,0.5556
+2022-09-18 04:04:34.396826,Boxing Lines - Maxi Hughes vs Kid Galahad - To Win the Bout,Maxi Hughes,-0.021799999999999986,0.3704,0.3922
 2022-09-18 03:02:39.652961,Boxing Lines - Saul 'Canelo' Alvarez vs Gennady Golovkin - To Win the Bout,Saul 'Canelo' Alvarez,-0.02210000000000001,0.8182,0.8403
-2022-09-18 01:04:07.312111,Sanford International - Sanford International - Outright,Brandt Jobe,-0.0228,0.0066,0.0294
 2022-09-17 18:04:25.997994,Italian Open - Italian Open - Outright,Jordan Smith,-0.0228,0.0066,0.0294
+2022-09-18 01:04:07.312111,Sanford International - Sanford International - Outright,Brandt Jobe,-0.0228,0.0066,0.0294
 2022-09-17 18:04:25.997994,Italian Open - Italian Open - Outright,Tyrrell Hatton,-0.023200000000000002,0.0244,0.0476
-2022-09-17 15:02:46.866677,Fortinet Championship - 2/3 Balls - 3rd Round 2 Balls - M. Schwab v R. Fowler - 3rd Round 2 Balls,Matthias Schwab,-0.024399999999999977,0.4878,0.5122
 2022-09-18 00:05:21.234847,Portland Classic - Portland Classic - Outright,So Yeon Ryu,-0.0258,0.0036,0.0294
 2022-09-17 18:04:25.997994,Italian Open - Italian Open - Outright,Viktor Hovland,-0.028999999999999998,0.0004,0.0294
 2022-09-18 00:05:21.234847,Portland Classic - Portland Classic - Outright,Maja Stark,-0.030699999999999998,0.0526,0.0833
