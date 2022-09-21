@@ -1,4 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2022-09-21 14:04:00.377876,Brazilian Politics - 2022 Brazilian Presidential Election - Winner,Lula da Silva,0.035699999999999954,0.75,0.7143
 2022-09-21 13:04:40.826051,Boxing Lines - Nahir Albright vs Estivan Falcao - To Win the Bout,Nahir Albright,0.030200000000000005,0.7403,0.7101
 2022-09-21 07:05:41.090478,MLB Futures - MLB 2022 American League East - ALE Winner,Tampa Bay Rays,0.028000000000000004,0.0476,0.0196
 2022-09-21 10:04:56.151497,Open de France - 2/3 Balls - 1st Round 3 Balls - A. Meronk / N. Colsaerts / R. MacIntyre - 1st Round 3 Balls,Adrian Meronk,0.026600000000000013,0.4348,0.4082
@@ -17,6 +18,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-21 13:04:40.864664,Boxing Lines - Henry Lebron vs Andy Vences - To Win the Bout,Andy Vences,0.010800000000000004,0.2381,0.2273
 2022-09-21 07:05:41.052301,MLB Futures - MLB 2022 American League - AL Winner,New York Yankees,0.010699999999999987,0.3333,0.3226
 2022-09-21 12:03:58.071876,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,St. Louis Cardinals,-0.0102,0.0667,0.0769
+2022-09-21 14:04:00.406439,Boxing Lines - Bruce Carrington vs Jose Argel - To Win the Bout,Jose Argel,-0.0102,0.0667,0.0769
 2022-09-21 13:04:40.826051,Boxing Lines - Nahir Albright vs Estivan Falcao - To Win the Bout,Estivan Falcao,-0.010699999999999987,0.3226,0.3333
 2022-09-21 12:03:58.071876,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Seattle Mariners,-0.011199999999999995,0.0476,0.0588
 2022-09-21 07:05:41.031909,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Houston Astros,-0.011700000000000016,0.2105,0.2222
@@ -26,4 +28,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-21 11:04:23.860855,Boxing Lines - Raven Chapman vs Jorgelina Guanini - To Win the Bout,Raven Chapman,-0.0232,0.7101,0.7333
 2022-09-21 10:04:56.173878,Open de France - 2/3 Balls - 1st Round 3 Balls - A. Fitzpatrick / G. Forrest / J. Brun - 1st Round 3 Balls,Alex Fitzpatrick,-0.02739999999999998,0.2667,0.2941
 2022-09-21 09:07:45.871973,Open de France - 2/3 Balls - 1st Round 3 Balls - A. Canizares / M. Kawamura / S. Valimaki - 1st Round 3 Balls,Masahiro Kawamura,-0.029000000000000026,0.4255,0.4545
+2022-09-21 14:04:00.377876,Brazilian Politics - 2022 Brazilian Presidential Election - Winner,Jair Bolsonaro,-0.030299999999999994,0.3333,0.3636
 2022-09-21 10:04:56.151497,Open de France - 2/3 Balls - 1st Round 3 Balls - A. Meronk / N. Colsaerts / R. MacIntyre - 1st Round 3 Balls,Nicolas Colsaerts,-0.0353,0.2,0.2353
