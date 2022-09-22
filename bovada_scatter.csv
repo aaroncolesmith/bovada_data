@@ -42,8 +42,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-22 14:03:55.438429,NBA Futures - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,0.012299999999999991,0.1176,0.1053
 2022-09-22 14:03:55.459232,NBA Futures - 2022-2023 NBA Atlantic Division - Atlantic Division Winner,Boston Celtics,0.012199999999999989,0.5,0.4878
 2022-09-22 16:04:44.881627,Presidents Cup - Day 1 - Day 1 Foursomes - P. Cantlay / X. Schauffele v A. Scott / H. Matsuyama - Day 1 Foursomes,Adam Scott / Hideki Matsuyama,0.01150000000000001,0.3448,0.3333
-2022-09-22 12:02:51.892273,Boxing Lines - Pablo Valdez vs Noe Alejandro Lopez - To Win the Bout,Noe Alejandro Lopez,0.011099999999999999,0.1111,0.1
 2022-09-22 14:03:55.420733,NBA Futures - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Miami Heat,0.011099999999999999,0.1111,0.1
+2022-09-22 12:02:51.892273,Boxing Lines - Pablo Valdez vs Noe Alejandro Lopez - To Win the Bout,Noe Alejandro Lopez,0.011099999999999999,0.1111,0.1
 2022-09-22 14:03:55.516619,NBA Futures - 2022-2023 NBA Pacific Division - Pacific Division Winner,Golden State Warriors,0.010699999999999987,0.3333,0.3226
 2022-09-22 13:04:00.060797,Presidents Cup - Day 1 - Day 1 Foursomes - T. Finau / M. Homa v T. Pendrith / M. Pereira - Day 1 Foursomes,Taylor Pendrith / Mito Pereira,0.010699999999999987,0.3333,0.3226
 2022-09-22 09:05:22.967023,Boxing Lines - Nahir Albright vs Estivan Falcao - To Win the Bout,Estivan Falcao,-0.010099999999999998,0.3125,0.3226
@@ -53,16 +53,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-22 20:06:27.684597,Open de France - Open de France - Outright,Wil Besseling,-0.0106,0.0004,0.011
 2022-09-22 17:04:46.739325,Presidents Cup - Day 1 - Day 1 Foursomes - J. Spieth / J. Thomas v S. Im / C. Conners - Day 1 Foursomes,Jordan Spieth / Justin Thomas,-0.010699999999999932,0.5348,0.5455
 2022-09-22 16:04:44.942920,Presidents Cup - Day 1 - Day 1 Foursomes - T. Finau / M. Homa v T. Pendrith / M. Pereira - Day 1 Foursomes,Taylor Pendrith / Mito Pereira,-0.010699999999999987,0.3226,0.3333
-2022-09-22 14:03:58.894047,NFL Specials - First NFL Coach to Permanently Leave their Post - First NFL Coach to Permanently Leave their Post,Pete Carroll,-0.011199999999999995,0.0476,0.0588
+2022-09-22 21:04:14.842871,Boxing Lines - Shakur Stevenson vs Robson Conceicao - To Win the Bout,Robson Conceicao,-0.011099999999999999,0.1,0.1111
 2022-09-22 14:03:58.894047,NFL Specials - First NFL Coach to Permanently Leave their Post - First NFL Coach to Permanently Leave their Post,Arthur Smith,-0.011199999999999995,0.0476,0.0588
+2022-09-22 14:03:58.894047,NFL Specials - First NFL Coach to Permanently Leave their Post - First NFL Coach to Permanently Leave their Post,Pete Carroll,-0.011199999999999995,0.0476,0.0588
 2022-09-22 20:06:27.684597,Open de France - Open de France - Outright,Kristian Krogh Johannessen,-0.0116,0.0033,0.0149
 2022-09-22 09:05:22.148983,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),Devin Singletary,-0.012700000000000003,0.0196,0.0323
 2022-09-22 14:03:55.459232,NBA Futures - 2022-2023 NBA Atlantic Division - Atlantic Division Winner,Philadelphia 76ers,-0.0131,0.2222,0.2353
 2022-09-22 17:04:47.895338,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Comeback Player of the Year Award,Darrell Henderson,-0.014099999999999998,0.0244,0.0385
 2022-09-22 09:05:22.105354,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,James Cook,-0.014100000000000001,0.0385,0.0526
 2022-09-22 20:06:27.684597,Open de France - Open de France - Outright,Edoardo Molinari,-0.0142,0.0007,0.0149
-2022-09-22 20:06:27.684597,Open de France - Open de France - Outright,Romain Langasque,-0.0145,0.0004,0.0149
 2022-09-22 20:06:27.684597,Open de France - Open de France - Outright,Mikko Korhonen,-0.0145,0.0099,0.0244
+2022-09-22 20:06:27.684597,Open de France - Open de France - Outright,Romain Langasque,-0.0145,0.0004,0.0149
 2022-09-22 19:04:38.552280,FIBA World Cup Women - FIBA World Cup Women 2022 - Outright,Bosnia & Herzegovina,-0.014900000000000004,0.0196,0.0345
 2022-09-22 15:03:58.705291,Boxing Lines - Nathan Heaney vs Jack Flatley - To Win the Bout,Jack Flatley,-0.015400000000000025,0.241,0.2564
 2022-09-22 17:04:47.883965,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Kevin Stefanski,-0.0157,0.0278,0.0435
