@@ -13,6 +13,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-23 15:05:21.823234,Championship - England Championship 2022/23 - To Be Promoted,Sheffield United,0.03639999999999999,0.6364,0.6
 2022-09-23 17:04:28.251448,Championship - England Championship 2022/23 - To Finish Bottom,Blackpool,0.03330000000000001,0.1,0.0667
 2022-09-23 15:05:21.843494,Championship - England Championship 2022/23 - Top 2 Finish,Luton Town,0.0294,0.0588,0.0294
+2022-09-23 20:02:47.928616,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Jacksonville Jaguars,Over 6.5,0.028900000000000037,0.5744,0.5455
 2022-09-23 13:03:51.165848,Presidents Cup - Day 2 - Day 2 Fourballs - X. Schauffele / P. Cantlay vs H. Matsuyama / J. Kim - Day 2 Fourballs,Hideki Matsuyama / Joohyung Kim,0.02560000000000001,0.3333,0.3077
 2022-09-23 17:04:23.228429,Big Brother - Big Brother 24 - America's Favorite HouseGuest,Kyle Capener,0.0242,0.0909,0.0667
 2022-09-23 17:04:28.278204,Championship - England Championship 2022/23 - Top 6 Finish,Burnley,0.02200000000000002,0.7143,0.6923
@@ -33,15 +34,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-23 17:04:28.278204,Championship - England Championship 2022/23 - Top 6 Finish,Millwall,0.015100000000000002,0.1818,0.1667
 2022-09-23 13:03:51.123465,Presidents Cup - Day 2 - Day 2 Fourballs - J. Spieth / J. Thomas vs A. Scott / C. Davis - Day 2 Fourballs,Adam Scott / Cameron Davis,0.014900000000000024,0.3226,0.3077
 2022-09-23 13:03:51.137138,Presidents Cup - Day 2 - Day 2 Fourballs - S. Scheffler / S. Burns vs S. Im / S. Munoz - Day 2 Fourballs,Sungjae Im / Sebastian Munoz,0.014900000000000024,0.3226,0.3077
+2022-09-23 14:02:51.823990,Presidents Cup - Day 2 - Day 2 Fourballs - B. Horschel / M. Homa vs C. Conners / T. Pendrith - Hole 1 Winner,Billy Horschel / Max Homa,0.01469999999999999,0.25,0.2353
 2022-09-23 14:02:51.811694,Presidents Cup - Day 2 - Day 2 Fourballs - X. Schauffele / P. Cantlay vs H. Matsuyama / J. Kim - Hole 1 Winner,Xander Schauffele / Patrick Cantlay,0.01469999999999999,0.25,0.2353
 2022-09-23 14:02:51.799394,Presidents Cup - Day 2 - Day 2 Fourballs - K. Kisner / C. Young vs M. Pereira / C. Bezuidenhout - Hole 1 Winner,Kevin Kisner / Cameron Young,0.01469999999999999,0.25,0.2353
-2022-09-23 14:02:51.823990,Presidents Cup - Day 2 - Day 2 Fourballs - B. Horschel / M. Homa vs C. Conners / T. Pendrith - Hole 1 Winner,Billy Horschel / Max Homa,0.01469999999999999,0.25,0.2353
 2022-09-23 15:05:21.843494,Championship - England Championship 2022/23 - Top 2 Finish,Reading,0.014499999999999999,0.0294,0.0149
 2022-09-23 15:05:21.843494,Championship - England Championship 2022/23 - Top 2 Finish,Swansea City,0.014099999999999998,0.0385,0.0244
 2022-09-23 17:04:28.278204,Championship - England Championship 2022/23 - Top 6 Finish,Huddersfield Town,0.014099999999999998,0.0385,0.0244
 2022-09-23 14:02:51.516456,Boxing Lines - Nahir Albright vs Estivan Falcao - To Win the Bout,Estivan Falcao,0.014000000000000012,0.3125,0.2985
 2022-09-23 14:02:51.786872,Presidents Cup - Day 2 - Day 2 Fourballs - S. Scheffler / S. Burns vs S. Im / S. Munoz - Hole 1 Winner,Scottie Scheffler / Sam Burns,0.01319999999999999,0.2632,0.25
 2022-09-23 16:04:11.781214,Boxing Lines - Joshua Oluwaseun Wahab vs Liam Dillon - To Win the Bout,Liam Dillon,0.012299999999999978,0.3571,0.3448
+2022-09-23 20:02:47.182678,Boxing Lines - Michael Magnesi vs Anthony Cacace - To Win the Bout,Michael Magnesi,0.01200000000000001,0.4202,0.4082
 2022-09-23 12:05:51.344700,Boxing Lines - Orlando Gonzalez Ruiz vs Misael Lopez - To Win the Bout,Misael Lopez,0.011700000000000016,0.2222,0.2105
 2022-09-23 17:04:28.251448,Championship - England Championship 2022/23 - To Finish Bottom,Cardiff City,0.011199999999999995,0.0588,0.0476
 2022-09-23 15:05:21.799603,Championship - England Championship 2022/23 - Outright,Burnley,0.010899999999999993,0.1538,0.1429
@@ -62,12 +64,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-23 19:03:45.698299,Open de France - Open de France - Outright,Matthieu Pavon,-0.0139,0.0057,0.0196
 2022-09-23 17:04:25.009404,Boxing Lines - Nahir Albright vs Estivan Falcao - To Win the Bout,Estivan Falcao,-0.014000000000000012,0.2985,0.3125
 2022-09-23 16:04:11.423747,Game of Thrones Specials - Game of Thrones: House of the Dragon. Sit on Iron Throne End of Season 1 - Game of Thrones Special,Otto Hightower,-0.014099999999999994,0.0526,0.0667
-2022-09-23 14:02:51.811694,Presidents Cup - Day 2 - Day 2 Fourballs - X. Schauffele / P. Cantlay vs H. Matsuyama / J. Kim - Hole 1 Winner,Hole Halved,-0.014200000000000101,0.6154,0.6296
+2022-09-23 13:03:51.137138,Presidents Cup - Day 2 - Day 2 Fourballs - S. Scheffler / S. Burns vs S. Im / S. Munoz - Day 2 Fourballs,Scottie Scheffler / Sam Burns,-0.014200000000000101,0.6154,0.6296
 2022-09-23 14:02:51.823990,Presidents Cup - Day 2 - Day 2 Fourballs - B. Horschel / M. Homa vs C. Conners / T. Pendrith - Hole 1 Winner,Hole Halved,-0.014200000000000101,0.6154,0.6296
+2022-09-23 13:03:51.123465,Presidents Cup - Day 2 - Day 2 Fourballs - J. Spieth / J. Thomas vs A. Scott / C. Davis - Day 2 Fourballs,Jordan Spieth / Justin Thomas,-0.014200000000000101,0.6154,0.6296
 2022-09-23 14:02:51.799394,Presidents Cup - Day 2 - Day 2 Fourballs - K. Kisner / C. Young vs M. Pereira / C. Bezuidenhout - Hole 1 Winner,Hole Halved,-0.014200000000000101,0.6154,0.6296
 2022-09-23 13:03:51.165848,Presidents Cup - Day 2 - Day 2 Fourballs - X. Schauffele / P. Cantlay vs H. Matsuyama / J. Kim - Day 2 Fourballs,Xander Schauffele / Patrick Cantlay,-0.014200000000000101,0.6154,0.6296
-2022-09-23 13:03:51.137138,Presidents Cup - Day 2 - Day 2 Fourballs - S. Scheffler / S. Burns vs S. Im / S. Munoz - Day 2 Fourballs,Scottie Scheffler / Sam Burns,-0.014200000000000101,0.6154,0.6296
-2022-09-23 13:03:51.123465,Presidents Cup - Day 2 - Day 2 Fourballs - J. Spieth / J. Thomas vs A. Scott / C. Davis - Day 2 Fourballs,Jordan Spieth / Justin Thomas,-0.014200000000000101,0.6154,0.6296
+2022-09-23 14:02:51.811694,Presidents Cup - Day 2 - Day 2 Fourballs - X. Schauffele / P. Cantlay vs H. Matsuyama / J. Kim - Hole 1 Winner,Hole Halved,-0.014200000000000101,0.6154,0.6296
 2022-09-23 08:02:52.212468,Presidents Cup - Day 2 - Day 2 Foursomes - J. Spieth / J. Thomas vs A. Scott / C. Davis - Day 2 Foursomes,Adam Scott / Cameron Davis,-0.014900000000000024,0.3077,0.3226
 2022-09-23 19:03:45.545984,Boxing Lines - Maxi Hughes vs Kid Galahad - To Win the Bout,Kid Galahad,-0.01539999999999997,0.6721,0.6875
 2022-09-23 19:03:45.698299,Open de France - Open de France - Outright,Marcel Schneider,-0.0154,0.001,0.0164
@@ -94,6 +96,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-23 17:04:28.278204,Championship - England Championship 2022/23 - Top 6 Finish,Sunderland,-0.03570000000000001,0.25,0.2857
 2022-09-23 19:03:45.698299,Open de France - Open de France - Outright,Julien Brun,-0.036,0.0025,0.0385
 2022-09-23 19:03:45.698299,Open de France - Open de France - Outright,James Morrison,-0.036,0.0025,0.0385
+2022-09-23 20:02:47.928616,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Jacksonville Jaguars,Under 6.5,-0.03600000000000003,0.4878,0.5238
 2022-09-23 19:03:45.698299,Open de France - Open de France - Outright,Jordan Smith,-0.0377,0.0149,0.0526
 2022-09-23 17:04:28.278204,Championship - England Championship 2022/23 - Top 6 Finish,Bristol City,-0.03889999999999999,0.1429,0.1818
 2022-09-23 15:05:21.833509,Championship - England Championship 2022/23 - To Be Relegated,Coventry City,-0.04099999999999998,0.2667,0.3077
