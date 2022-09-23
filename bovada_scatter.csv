@@ -18,20 +18,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-23 09:06:30.264221,Boxing Lines - Floyd Mayweather vs Mikuru Asakura - To Win the Bout,Mikuru Asakura,0.017200000000000007,0.1081,0.0909
 2022-09-23 04:05:23.145238,Boxing Lines - Orlando Gonzalez Ruiz vs Misael Lopez - To Win the Bout,Orlando Gonzalez Ruiz,0.016799999999999926,0.8571,0.8403
 2022-09-23 08:02:52.251635,Presidents Cup - Day 2 - Day 2 Foursomes - B. Horschel / M. Homa vs C. Conners / T. Pendrith - Day 2 Foursomes,Corey Conners / Taylor Pendrith,0.015400000000000025,0.4,0.3846
-2022-09-23 05:04:10.650558,Presidents Cup - Day 2 - Day 2 Foursomes - X. Schauffele / P. Cantlay vs H. Matsuyama / T. Kim - Day 2 Foursomes,Xander Schauffele / Patrick Cantlay,0.01539999999999997,0.6154,0.6
 2022-09-23 04:05:23.674575,Presidents Cup - Day 2 - Day 2 Foursomes - S. Scheffler / S. Burns vs S. Im / S. Munoz - Day 2 Foursomes,Scottie Scheffler / Sam Burns,0.01539999999999997,0.6154,0.6
+2022-09-23 05:04:10.650558,Presidents Cup - Day 2 - Day 2 Foursomes - X. Schauffele / P. Cantlay vs H. Matsuyama / T. Kim - Day 2 Foursomes,Xander Schauffele / Patrick Cantlay,0.01539999999999997,0.6154,0.6
 2022-09-23 01:13:40.219612,Boxing Lines - Solomon Dacres vs Dominic Akinlade - To Win the Bout,Solomon Dacres,0.014900000000000024,0.9804,0.9655
 2022-09-23 04:05:23.274598,Boxing Lines - Hannah Rankin vs Terri Harper - To Win the Bout,Terri Harper,0.014399999999999968,0.8039,0.7895
 2022-09-23 04:05:23.483808,Open de France - 2/3 Balls - 2nd Round 3 Balls - N. Colsaerts / R. MacIntyre / A. Meronk - 2nd Round 3 Balls,Adrian Meronk,0.013800000000000034,0.3774,0.3636
 2022-09-23 04:05:23.164889,Boxing Lines - Cristopher Lopez Rodriguez vs Alejandro Jair Gonzalez - To Win the Bout,Alejandro Jair Gonzalez,0.0131,0.2353,0.2222
-2022-09-22 22:03:55.225411,Professional Baseball - NPB 2022 - Outright,Yokohama Dena Baystars,0.012899999999999995,0.1667,0.1538
-2022-09-22 22:03:55.225411,Professional Baseball - NPB 2022 - Outright,Fukuoka SoftBank Hawks,0.011700000000000016,0.2222,0.2105
 2022-09-23 04:05:23.198759,Boxing Lines - Callum Thompson vs Delmar Thomas - To Win the Bout,Callum Thompson,0.011199999999999988,0.9524,0.9412
 2022-09-23 07:02:58.953458,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),Amari Cooper,0.010100000000000001,0.0345,0.0244
 2022-09-23 04:05:23.619618,Open de France - 2/3 Balls - 2nd Round 3 Balls - G. Coetzee / D. Van Driel / J. Gandon - 2nd Round 3 Balls,Darius Van Driel,0.010099999999999998,0.3226,0.3125
 2022-09-23 04:05:23.473879,Open de France - 2/3 Balls - 2nd Round 3 Balls - T. Bjorn / A. Rozner / R. Hojgaard - 2nd Round 3 Balls,Rasmus Hojgaard,0.010099999999999998,0.4545,0.4444
-2022-09-23 01:13:40.206157,Boxing Lines - Raven Chapman vs Jorgelina Guanini - To Win the Bout,Jorgelina Guanini,-0.010099999999999998,0.3125,0.3226
 2022-09-23 04:05:23.619618,Open de France - 2/3 Balls - 2nd Round 3 Balls - G. Coetzee / D. Van Driel / J. Gandon - 2nd Round 3 Balls,George Coetzee,-0.010099999999999998,0.5455,0.5556
+2022-09-23 01:13:40.206157,Boxing Lines - Raven Chapman vs Jorgelina Guanini - To Win the Bout,Jorgelina Guanini,-0.010099999999999998,0.3125,0.3226
 2022-09-23 08:02:52.233399,Presidents Cup - Day 2 - Day 2 Foursomes - K. Kisner / C. Young vs M. Pereira / C. Bezuidenhout - Day 2 Foursomes,Match Halved,-0.010899999999999993,0.1429,0.1538
 2022-09-23 08:02:52.251635,Presidents Cup - Day 2 - Day 2 Foursomes - B. Horschel / M. Homa vs C. Conners / T. Pendrith - Day 2 Foursomes,Match Halved,-0.010899999999999993,0.1429,0.1538
 2022-09-23 04:05:23.212893,Boxing Lines - James Heneghan vs Rod Douglas Jnr - To Win the Bout,Rod Douglas Jnr,-0.011099999999999999,0.1,0.1111
@@ -46,6 +44,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-23 04:05:23.145238,Boxing Lines - Orlando Gonzalez Ruiz vs Misael Lopez - To Win the Bout,Misael Lopez,-0.01680000000000001,0.2105,0.2273
 2022-09-23 06:03:11.931771,AFC North - 2022/2023 AFC North - AFC North Winner,Pittsburgh Steelers,-0.01759999999999999,0.1,0.1176
 2022-09-23 01:13:43.031071,NBA Season Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Cleveland Cavaliers,-0.019699999999999995,0.4348,0.4545
+2022-09-23 10:05:31.122683,Boxing Lines - Eric Donovan vs Khalil El Hadri - To Win the Bout,Khalil El Hadri,-0.01990000000000003,0.3968,0.4167
 2022-09-23 08:02:52.225593,Presidents Cup - Day 2 - Day 2 Foursomes - S. Scheffler / S. Burns vs S. Im / S. Munoz - Day 2 Foursomes,Sungjae Im / Sebastian Munoz,-0.02020000000000005,0.3077,0.3279
 2022-09-23 08:02:52.251635,Presidents Cup - Day 2 - Day 2 Foursomes - B. Horschel / M. Homa vs C. Conners / T. Pendrith - Day 2 Foursomes,Billy Horschel / Max Homa,-0.02079999999999993,0.5348,0.5556
 2022-09-23 01:13:43.130317,NBA Season Props - 2022/23 NBA Season - To Make the Playoffs - Detroit Pistons,No,-0.02300000000000002,0.9671,0.9901
@@ -53,7 +52,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-23 05:04:10.650558,Presidents Cup - Day 2 - Day 2 Foursomes - X. Schauffele / P. Cantlay vs H. Matsuyama / T. Kim - Day 2 Foursomes,Hideki Matsuyama / Tom Kim,-0.023799999999999988,0.3333,0.3571
 2022-09-23 07:02:58.894061,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Rookie of the Year,Kayvon Thibodeaux,-0.0242,0.0667,0.0909
 2022-09-23 08:02:52.233399,Presidents Cup - Day 2 - Day 2 Foursomes - K. Kisner / C. Young vs M. Pereira / C. Bezuidenhout - Day 2 Foursomes,Mito Pereira / Christiaan Bezuidenhout,-0.02560000000000001,0.3448,0.3704
-2022-09-22 22:03:55.225411,Professional Baseball - NPB 2022 - Outright,Orix Buffaloes,-0.028700000000000003,0.1818,0.2105
 2022-09-23 01:13:40.144020,Boxing Lines - Shakur Stevenson vs Robson Conceicao - To Win the Bout,Shakur Stevenson,-0.03839999999999999,0.9231,0.9615
 2022-09-23 01:13:43.461547,2022/23 NBA Season - Regular Season Wins - Regular Season Wins - Totals - Detroit Pistons,Under 28.5,-0.05860000000000004,0.4762,0.5348
 2022-09-23 03:02:56.825494,Big Brother - Big Brother 24 - America's Favorite HouseGuest,Kyle Capener,-0.0666,0.0667,0.1333
