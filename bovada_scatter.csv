@@ -5,11 +5,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-24 08:05:49.176524,MLB Futures - MLB 2022 American League Central - ALC Winner,Cleveland Guardians,0.07189999999999996,0.995,0.9231
 2022-09-24 05:07:01.638558,Pure Insurance Championship - Pure Insurance Championship - Outright,Steven Alker,0.06670000000000001,0.2,0.1333
 2022-09-24 07:04:36.585612,MLB Futures - MLB 2022 National League East - NLE Winner,New York Mets,0.06280000000000008,0.8889,0.8261
-2022-09-23 21:03:14.570717,Game of Thrones Specials - Game of Thrones: House of the Dragon. Sit on Iron Throne End of Season 1 - Game of Thrones Special,Aegon Targaryen,0.0625,0.75,0.6875
 2022-09-24 05:07:01.638558,Pure Insurance Championship - Pure Insurance Championship - Outright,Ken Duke,0.058899999999999994,0.0833,0.0244
 2022-09-24 07:04:40.780693,NFL Weekly Specials - NFL RedZone Specials - 1pm Games,Each Team to Score 1+ Field Goal in all of the 1pm Games,0.0585,0.1111,0.0526
-2022-09-24 04:03:05.551658,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Outright,Ryann OToole,0.0518,0.0667,0.0149
 2022-09-24 04:03:05.551658,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Outright,Yuka Saso,0.0518,0.0667,0.0149
+2022-09-24 04:03:05.551658,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Outright,Ryann OToole,0.0518,0.0667,0.0149
 2022-09-24 04:03:05.551658,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Outright,Lilia Vu,0.0475,0.0769,0.0294
 2022-09-24 05:07:05.983466,NCAA Football Specials - Next Coach To Permanently Leave Their Position - Coaching Special,Geoff Collins (Georgia Tech),0.03640000000000004,0.4,0.3636
 2022-09-24 01:08:02.466283,NFL Weekly Specials - NFL RedZone Specials - 1pm Games,Each Team to Score 1+ Field Goal in all of the 1pm Games,0.036199999999999996,0.0526,0.0164
@@ -19,8 +18,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-24 05:07:01.638558,Pure Insurance Championship - Pure Insurance Championship - Outright,Timothy ONeal,0.0279,0.0345,0.0066
 2022-09-24 01:07:59.954495,Game of Thrones Specials - Game of Thrones: House of the Dragon. Sit on Iron Throne End of Season 1 - Game of Thrones Special,Aegon Targaryen,0.027800000000000047,0.7778,0.75
 2022-09-24 04:03:05.551658,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Outright,Georgia Hall,0.024299999999999995,0.0588,0.0345
+2022-09-24 09:05:00.590889,Survivor 43 - Survivor 43 Outright Winner - Proposition,Mike Gabler,0.0238,0.0714,0.0476
 2022-09-24 05:07:01.638558,Pure Insurance Championship - Pure Insurance Championship - Outright,Brett Quigley,0.0236,0.0385,0.0149
 2022-09-24 05:07:01.638558,Pure Insurance Championship - Pure Insurance Championship - Outright,Y.E Yang,0.023200000000000002,0.0526,0.0294
+2022-09-24 09:05:00.590889,Survivor 43 - Survivor 43 Outright Winner - Proposition,Sami Layadi,0.023200000000000002,0.0476,0.0244
+2022-09-24 09:05:00.590889,Survivor 43 - Survivor 43 Outright Winner - Proposition,Dwight Moore,0.02310000000000001,0.1,0.0769
 2022-09-23 22:05:41.415505,Boxing Lines - Shakur Stevenson vs Robson Conceicao - To Win the Bout,Robson Conceicao,0.022199999999999998,0.1333,0.1111
 2022-09-24 07:04:36.912083,Presidents Cup - Day 3 - Day 3 - Winner (Inc Draw),Internationals,0.022199999999999998,0.2222,0.2
 2022-09-24 05:07:01.638558,Pure Insurance Championship - Pure Insurance Championship - Outright,Chris DiMarco,0.021900000000000003,0.0244,0.0025
@@ -29,32 +31,38 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-24 08:05:49.185743,MLB Futures - MLB 2022 American League East - ALE Winner,New York Yankees,0.019399999999999973,0.995,0.9756
 2022-09-24 04:03:05.551658,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Outright,A Lim Kim,0.019099999999999995,0.0435,0.0244
 2022-09-24 03:04:14.442946,Presidents Cup - Day 3 - Day 3 Fourballs - J. Spieth / J. Thomas vs S. Im / C. Conners - Day 3 Fourballs,Jordan Spieth / Justin Thomas,0.01880000000000004,0.5744,0.5556
+2022-09-24 09:05:00.590889,Survivor 43 - Survivor 43 Outright Winner - Proposition,Cassidy Clark,0.018200000000000004,0.0476,0.0294
 2022-09-24 05:07:01.638558,Pure Insurance Championship - Pure Insurance Championship - Outright,Rod Pampling,0.018099999999999998,0.0526,0.0345
 2022-09-24 01:08:04.470658,FIBA World Cup Women - FIBA World Cup Women 2022 - Outright Without USA,Belgium,0.0179,0.1429,0.125
 2022-09-24 04:03:05.551658,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Outright,Charley Hull,0.017400000000000002,0.0323,0.0149
 2022-09-24 05:07:01.638558,Pure Insurance Championship - Pure Insurance Championship - Outright,Rocco Mediate,0.017099999999999997,0.0294,0.0123
+2022-09-24 09:05:02.545481,Presidents Cup - Day 3 - Day 3 Foursomes - J. Spieth / J. Thomas vs S. Im / C. Conners - Day 3 Foursomes,Jordan Spieth / Justin Thomas,0.016699999999999937,0.6,0.5833
+2022-09-24 09:05:02.577868,Presidents Cup - Day 3 - Day 3 Foursomes - T. Finau / M. Homa vs S.W. Kim / C. Davis - Day 3 Foursomes,Tony Finau / Max Homa,0.016699999999999937,0.6,0.5833
 2022-09-24 04:03:05.551658,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Outright,Jeongeun Lee5,0.0163,0.0196,0.0033
 2022-09-24 05:07:01.369921,Presidents Cup - Day 3 - Day 3 Fourballs - S. Scheffler / S. Burns vs K.H. Lee / T. Kim - Day 3 Fourballs,Scottie Scheffler / Sam Burns,0.016100000000000003,0.6078,0.5917
 2022-09-24 05:07:01.638558,Pure Insurance Championship - Pure Insurance Championship - Outright,Mark Walker,0.0151,0.0217,0.0066
+2022-09-24 09:05:02.565636,Presidents Cup - Day 3 - Day 3 Foursomes - S. Scheffler / S. Burns vs K.H. Lee / J. Kim - Day 3 Foursomes,Scottie Scheffler / Sam Burns,0.014800000000000035,0.6226,0.6078
 2022-09-24 05:07:01.638558,Pure Insurance Championship - Pure Insurance Championship - Outright,Brian Gay,0.014099999999999998,0.0435,0.0294
 2022-09-24 01:08:04.460732,FIBA World Cup Women - FIBA World Cup Women 2022 - Outright,USA,0.014000000000000012,0.9231,0.9091
 2022-09-24 07:04:36.560605,MLB Futures - MLB 2022 American League - AL Winner,Tampa Bay Rays,0.013999999999999999,0.0909,0.0769
 2022-09-24 04:03:05.551658,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Outright,Lauren Coughlin,0.013900000000000001,0.0164,0.0025
-2022-09-24 04:03:05.551658,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Outright,Jenny Shin,0.0138,0.0217,0.0079
 2022-09-24 05:07:01.638558,Pure Insurance Championship - Pure Insurance Championship - Outright,Lee Janzen,0.0138,0.0217,0.0079
+2022-09-24 04:03:05.551658,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Outright,Jenny Shin,0.0138,0.0217,0.0079
 2022-09-24 03:04:12.809405,Boxing Lines - Shakur Stevenson vs Robson Conceicao - To Win the Bout,Robson Conceicao,0.012899999999999995,0.1379,0.125
 2022-09-24 06:04:12.964349,Boxing Lines - Joshua Oluwaseun Wahab vs Liam Dillon - To Win the Bout,Joshua Oluwaseun Wahab,0.011099999999999999,0.7333,0.7222
 2022-09-24 06:04:12.771422,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Houston Astros,0.010499999999999982,0.2105,0.2
 2022-09-24 01:08:00.207600,Boxing Lines - Shakur Stevenson vs Robson Conceicao - To Win the Bout,Shakur Stevenson,0.010199999999999987,0.9333,0.9231
 2022-09-24 05:07:05.983466,NCAA Football Specials - Next Coach To Permanently Leave Their Position - Coaching Special,Tim Albin (Ohio,-0.0102,0.0667,0.0769
-2022-09-24 05:07:01.638558,Pure Insurance Championship - Pure Insurance Championship - Outright,Stuart Appleby,-0.0103,0.002,0.0123
+2022-09-24 09:05:00.590889,Survivor 43 - Survivor 43 Outright Winner - Proposition,Noelle Lambert,-0.0102,0.0667,0.0769
 2022-09-24 08:05:49.176524,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,-0.0103,0.002,0.0123
+2022-09-24 05:07:01.638558,Pure Insurance Championship - Pure Insurance Championship - Outright,Stuart Appleby,-0.0103,0.002,0.0123
 2022-09-24 05:07:01.638558,Pure Insurance Championship - Pure Insurance Championship - Outright,Vijay Singh,-0.0106,0.009,0.0196
 2022-09-24 04:03:06.771320,NFL Weekly Specials - NFL Week 3 Leaders - Lowest Scoring Team - Week 3 (Sunday Only),Carolina Panthers,-0.010899999999999993,0.1429,0.1538
-2022-09-24 05:07:01.638558,Pure Insurance Championship - Pure Insurance Championship - Outright,Scott McCarron,-0.011,0.0013,0.0123
 2022-09-24 04:03:05.551658,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Outright,Esther Henseleit,-0.011,0.0013,0.0123
+2022-09-24 05:07:01.638558,Pure Insurance Championship - Pure Insurance Championship - Outright,Scott McCarron,-0.011,0.0013,0.0123
 2022-09-24 04:03:06.771320,NFL Weekly Specials - NFL Week 3 Leaders - Lowest Scoring Team - Week 3 (Sunday Only),Green Bay Packers,-0.011099999999999999,0.1,0.1111
 2022-09-24 05:07:01.638558,Pure Insurance Championship - Pure Insurance Championship - Outright,Ken Tanigawa,-0.011300000000000001,0.001,0.0123
+2022-09-24 09:05:02.565636,Presidents Cup - Day 3 - Day 3 Foursomes - S. Scheffler / S. Burns vs K.H. Lee / J. Kim - Day 3 Foursomes,Kyoung-Hoon Lee / Joohyung Kim,-0.01150000000000001,0.3333,0.3448
 2022-09-24 06:04:12.964349,Boxing Lines - Joshua Oluwaseun Wahab vs Liam Dillon - To Win the Bout,Liam Dillon,-0.01150000000000001,0.3333,0.3448
 2022-09-24 05:07:01.638558,Pure Insurance Championship - Pure Insurance Championship - Outright,Joe Durant,-0.011699999999999999,0.0079,0.0196
 2022-09-24 05:07:01.638558,Pure Insurance Championship - Pure Insurance Championship - Outright,Scott Parel,-0.0124,0.0025,0.0149
@@ -69,13 +77,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-24 05:07:01.638558,Pure Insurance Championship - Pure Insurance Championship - Outright,Marco Dawson,-0.0165,0.0079,0.0244
 2022-09-24 05:07:01.638558,Pure Insurance Championship - Pure Insurance Championship - Outright,Paul Goydos,-0.0171,0.0025,0.0196
 2022-09-24 04:03:05.551658,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Outright,Alison Lee,-0.017599999999999998,0.002,0.0196
-2022-09-23 22:05:41.415505,Boxing Lines - Shakur Stevenson vs Robson Conceicao - To Win the Bout,Shakur Stevenson,-0.018100000000000005,0.9231,0.9412
 2022-09-24 06:04:12.990207,Boxing Lines - Michael Magnesi vs Anthony Cacace - To Win the Bout,Michael Magnesi,-0.018100000000000005,0.4167,0.4348
+2022-09-23 22:05:41.415505,Boxing Lines - Shakur Stevenson vs Robson Conceicao - To Win the Bout,Shakur Stevenson,-0.018100000000000005,0.9231,0.9412
 2022-09-24 04:03:05.551658,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Outright,Jessica Korda,-0.0184,0.011,0.0294
 2022-09-24 04:03:05.551658,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Outright,So Yeon Ryu,-0.0186,0.001,0.0196
 2022-09-24 05:07:01.369921,Presidents Cup - Day 3 - Day 3 Fourballs - S. Scheffler / S. Burns vs K.H. Lee / T. Kim - Day 3 Fourballs,K.H. Lee / Tom Kim,-0.018799999999999983,0.3448,0.3636
 2022-09-24 05:07:01.638558,Pure Insurance Championship - Pure Insurance Championship - Outright,Thongchai Jaidee,-0.019099999999999992,0.0476,0.0667
 2022-09-24 05:07:01.638558,Pure Insurance Championship - Pure Insurance Championship - Outright,Kirk Triplett,-0.019499999999999997,0.0099,0.0294
+2022-09-24 09:05:02.545481,Presidents Cup - Day 3 - Day 3 Foursomes - J. Spieth / J. Thomas vs S. Im / C. Conners - Day 3 Foursomes,Sungjae Im / Corey Conners,-0.019500000000000017,0.3509,0.3704
+2022-09-24 09:05:02.577868,Presidents Cup - Day 3 - Day 3 Foursomes - T. Finau / M. Homa vs S.W. Kim / C. Davis - Day 3 Foursomes,Si Woo Kim / Cameron Davis,-0.019500000000000017,0.3509,0.3704
 2022-09-24 07:04:36.366790,Boxing Lines - Maxi Hughes vs Kid Galahad - To Win the Bout,Kid Galahad,-0.02180000000000004,0.6503,0.6721
 2022-09-24 04:03:05.551658,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Outright,Lexi Thompson,-0.022200000000000004,0.0123,0.0345
 2022-09-24 04:03:05.551658,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Outright,Carlota Ciganda,-0.022400000000000003,0.002,0.0244
@@ -89,6 +99,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-24 05:07:01.638558,Pure Insurance Championship - Pure Insurance Championship - Outright,Paul Broadhurst,-0.0262,0.0123,0.0385
 2022-09-24 04:03:05.551658,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Outright,Maja Stark,-0.0274,0.002,0.0294
 2022-09-24 07:04:36.912083,Presidents Cup - Day 3 - Day 3 - Winner (Inc Draw),USA,-0.027800000000000047,0.75,0.7778
+2022-09-24 09:05:00.590889,Survivor 43 - Survivor 43 Outright Winner - Proposition,Ryan Medrano,-0.027999999999999997,0.1538,0.1818
 2022-09-24 01:08:04.470658,FIBA World Cup Women - FIBA World Cup Women 2022 - Outright Without USA,Bosnia & Herzegovina,-0.033100000000000004,0.0294,0.0625
 2022-09-24 05:07:01.638558,Pure Insurance Championship - Pure Insurance Championship - Outright,Stephen Ames,-0.0335,0.005,0.0385
 2022-09-24 04:03:05.551658,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Outright,Nasa Hataoka,-0.0384,0.0385,0.0769
@@ -96,7 +107,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-24 05:07:01.638558,Pure Insurance Championship - Pure Insurance Championship - Outright,Jim Furyk,-0.045,0.0217,0.0667
 2022-09-24 08:05:49.185743,MLB Futures - MLB 2022 American League East - ALE Winner,Tampa Bay Rays,-0.0451,0.0025,0.0476
 2022-09-24 04:03:05.551658,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Outright,Minjee Lee,-0.0476,0.005,0.0526
-2022-09-23 21:03:14.570717,Game of Thrones Specials - Game of Thrones: House of the Dragon. Sit on Iron Throne End of Season 1 - Game of Thrones Special,Princess Rhaenyra Targaryen,-0.062,0.3226,0.3846
 2022-09-24 05:07:01.638558,Pure Insurance Championship - Pure Insurance Championship - Outright,Alex Cejka,-0.0634,0.0033,0.0667
 2022-09-24 07:04:36.585612,MLB Futures - MLB 2022 National League East - NLE Winner,Atlanta Braves,-0.06860000000000002,0.1667,0.2353
 2022-09-24 05:07:01.638558,Pure Insurance Championship - Pure Insurance Championship - Outright,Jerry Kelly,-0.07859999999999999,0.0123,0.0909
