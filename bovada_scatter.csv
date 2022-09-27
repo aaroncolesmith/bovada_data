@@ -3,7 +3,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-27 01:09:12.014962,FIBA World Cup Women - FIBA World Cup Women 2022 - Outright Without USA,Canada,0.07189999999999996,0.2941,0.2222
 2022-09-27 07:04:02.992655,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Tua Tagovailoa,0.06309999999999999,0.0909,0.0278
 2022-09-27 11:03:02.523906,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Romeo Doubs,0.048600000000000004,0.1111,0.0625
-2022-09-26 23:04:42.383500,Boxing Lines - Ginny Fuchs vs Gemma Ruegg - To Win the Bout,Gemma Ruegg,0.04440000000000001,0.1111,0.0667
+2022-09-27 12:04:01.468061,Survivor 43 - Survivor 43 Outright Winner - Proposition,Sami Layadi,0.04329999999999999,0.0909,0.0476
 2022-09-27 11:03:02.523906,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Drake London,0.03889999999999999,0.1818,0.1429
 2022-09-27 01:09:12.014962,FIBA World Cup Women - FIBA World Cup Women 2022 - Outright Without USA,France,0.03889999999999999,0.1818,0.1429
 2022-09-27 07:04:02.992655,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Trevor Lawrence,0.036199999999999996,0.0526,0.0164
@@ -11,36 +11,41 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-27 11:03:02.523906,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Chris Olave,0.03420000000000001,0.1111,0.0769
 2022-09-27 07:04:02.358482,MLB Futures - MLB 2022 National League - NL Winner,Atlanta Braves,0.028700000000000003,0.2105,0.1818
 2022-09-27 07:04:02.334317,MLB Futures - MLB 2022 American League - AL Winner,Houston Astros,0.028600000000000014,0.3922,0.3636
-2022-09-26 23:04:47.137920,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Rookie of the Year,Jalen Pitre,0.028000000000000004,0.0476,0.0196
 2022-09-27 07:04:02.289634,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Atlanta Braves,0.024999999999999994,0.125,0.1
-2022-09-27 07:04:02.992655,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Josh Allen,0.023799999999999988,0.1667,0.1429
 2022-09-27 07:04:03.662493,NFC East - 2022/2023 NFC East - NFC East Winner,Dallas Cowboys,0.023799999999999988,0.1667,0.1429
 2022-09-27 10:05:33.147301,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Lamar Jackson,0.023799999999999988,0.1667,0.1429
+2022-09-27 07:04:02.992655,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Josh Allen,0.023799999999999988,0.1667,0.1429
 2022-09-27 07:04:02.992655,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Carson Wentz,0.023200000000000002,0.0526,0.0294
 2022-09-27 10:05:33.524842,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  San Francisco 49ers,Under 9.5,0.022600000000000064,0.5348,0.5122
 2022-09-27 01:09:07.382146,Professional Baseball - NPB 2022 - Outright,Saitama Seibu Lions,0.0203,0.0588,0.0385
-2022-09-27 01:09:07.756644,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Outright,Rory McIlroy,0.01820000000000002,0.2,0.1818
-2022-09-27 11:03:02.595968,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),Nick Chubb,0.01820000000000002,0.2,0.1818
 2022-09-27 10:05:38.772630,FIFA World Cup Futures - FIFA World Cup 2022 - Outright,Brazil,0.01820000000000002,0.2,0.1818
+2022-09-27 11:03:02.595968,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),Nick Chubb,0.01820000000000002,0.2,0.1818
+2022-09-27 12:04:07.092380,FIFA World Cup Futures - Group A - Outright,Senegal,0.01820000000000002,0.2,0.1818
+2022-09-27 01:09:07.756644,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Outright,Rory McIlroy,0.01820000000000002,0.2,0.1818
 2022-09-27 08:04:15.671635,MLB Futures - MLB 2022 National League East - NLE Winner,New York Mets,0.018199999999999994,0.8182,0.8
+2022-09-27 12:04:07.127654,FIFA World Cup Futures - Group A - Not To Advance from Group Stage,Ecuador,0.018100000000000005,0.5833,0.5652
 2022-09-27 07:04:02.334317,MLB Futures - MLB 2022 American League - AL Winner,Cleveland Guardians,0.016700000000000007,0.1,0.0833
 2022-09-27 07:04:03.626507,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Dallas Cowboys,0.015300000000000001,0.0588,0.0435
+2022-09-27 12:04:07.122390,FIFA World Cup Futures - Group A - To Advance from Group Stage,Qatar,0.015100000000000002,0.1818,0.1667
 2022-09-27 07:04:02.289634,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,St. Louis Cardinals,0.014899999999999997,0.0625,0.0476
 2022-09-27 07:04:02.358482,MLB Futures - MLB 2022 National League - NL Winner,Los Angeles Dodgers,0.01479999999999998,0.3922,0.3774
 2022-09-27 07:04:02.981287,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Josh Allen,0.01469999999999999,0.25,0.2353
 2022-09-27 08:04:16.001161,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),Jamaal Williams,0.014599999999999998,0.0196,0.005
 2022-09-27 01:09:12.003865,FIBA World Cup Women - FIBA World Cup Women 2022 - Outright,Canada,0.014099999999999994,0.0667,0.0526
 2022-09-27 07:04:02.289634,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Los Angeles Dodgers,0.0131,0.2353,0.2222
+2022-09-27 12:04:07.127654,FIFA World Cup Futures - Group A - Not To Advance from Group Stage,Senegal,0.012199999999999989,0.5122,0.5
 2022-09-27 08:04:16.001161,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),Dameon Pierce,0.012100000000000001,0.0244,0.0123
 2022-09-27 07:04:02.289634,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Cleveland Guardians,0.011199999999999995,0.0435,0.0323
 2022-09-27 11:03:02.523906,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Dameon Pierce,0.011099999999999999,0.1111,0.1
+2022-09-27 12:04:07.122390,FIFA World Cup Futures - Group A - To Advance from Group Stage,Netherlands,0.011099999999999999,0.9,0.8889
+2022-09-27 12:04:07.092380,FIFA World Cup Futures - Group A - Outright,Ecuador,0.010899999999999993,0.1538,0.1429
 2022-09-27 07:04:02.334317,MLB Futures - MLB 2022 American League - AL Winner,Toronto Blue Jays,0.010899999999999993,0.1538,0.1429
 2022-09-27 10:05:33.950531,Boxing Lines - Anderson Silva vs Jake Paul - To Win the Bout,Anderson Silva,0.010699999999999932,0.5455,0.5348
 2022-09-27 07:04:03.662493,NFC East - 2022/2023 NFC East - NFC East Winner,Philadelphia Eagles,0.010500000000000065,0.8,0.7895
 2022-09-27 08:04:16.001161,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),Lamar Jackson,0.010100000000000001,0.0345,0.0244
 2022-09-27 10:05:38.772630,FIFA World Cup Futures - FIFA World Cup 2022 - Outright,Belgium,-0.0102,0.0667,0.0769
-2022-09-27 11:03:02.523906,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Desmond Ridder,-0.010700000000000001,0.0278,0.0385
 2022-09-27 11:03:02.523906,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,James Cook,-0.010700000000000001,0.0278,0.0385
+2022-09-27 11:03:02.523906,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Desmond Ridder,-0.010700000000000001,0.0278,0.0385
 2022-09-27 10:05:33.950531,Boxing Lines - Anderson Silva vs Jake Paul - To Win the Bout,Jake Paul,-0.01100000000000001,0.5238,0.5348
 2022-09-27 11:03:02.523906,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Garrett Wilson,-0.011099999999999999,0.1,0.1111
 2022-09-27 08:04:16.001161,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),Alvin Kamara,-0.012100000000000001,0.0123,0.0244
@@ -56,20 +61,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-27 07:04:02.358482,MLB Futures - MLB 2022 National League - NL Winner,New York Mets,-0.015400000000000025,0.2703,0.2857
 2022-09-27 10:05:38.772630,FIFA World Cup Futures - FIFA World Cup 2022 - Outright,England,-0.015700000000000006,0.1176,0.1333
 2022-09-27 01:09:07.382146,Professional Baseball - NPB 2022 - Outright,Rakuten Golden Eagles,-0.016600000000000004,0.0667,0.0833
-2022-09-27 08:04:15.671635,MLB Futures - MLB 2022 National League East - NLE Winner,Atlanta Braves,-0.016699999999999993,0.25,0.2667
 2022-09-27 01:09:12.014962,FIBA World Cup Women - FIBA World Cup Women 2022 - Outright Without USA,Australia,-0.016699999999999993,0.25,0.2667
+2022-09-27 08:04:15.671635,MLB Futures - MLB 2022 National League East - NLE Winner,Atlanta Braves,-0.016699999999999993,0.25,0.2667
 2022-09-27 08:04:16.001161,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),David Montgomery,-0.0203,0.0385,0.0588
 2022-09-27 10:05:33.524842,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  San Francisco 49ers,Over 9.5,-0.02079999999999993,0.5348,0.5556
 2022-09-27 07:04:02.334317,MLB Futures - MLB 2022 American League - AL Winner,New York Yankees,-0.020799999999999985,0.3125,0.3333
+2022-09-27 12:04:07.092380,FIFA World Cup Futures - Group A - Outright,Netherlands,-0.02200000000000002,0.6923,0.7143
+2022-09-27 12:04:07.122390,FIFA World Cup Futures - Group A - To Advance from Group Stage,Ecuador,-0.023799999999999988,0.4762,0.5
+2022-09-27 12:04:07.127654,FIFA World Cup Futures - Group A - Not To Advance from Group Stage,Netherlands,-0.023799999999999988,0.1429,0.1667
 2022-09-27 07:04:02.992655,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Kirk Cousins,-0.024299999999999995,0.0526,0.0769
 2022-09-27 11:03:02.523906,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Kenny Pickett,-0.0245,0.0588,0.0833
 2022-09-27 11:03:02.523906,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,George Pickens,-0.0267,0.0909,0.1176
-2022-09-26 23:04:42.383500,Boxing Lines - Ginny Fuchs vs Gemma Ruegg - To Win the Bout,Ginny Fuchs,-0.03300000000000003,0.9474,0.9804
 2022-09-27 01:09:12.014962,FIBA World Cup Women - FIBA World Cup Women 2022 - Outright Without USA,Belgium,-0.033299999999999996,0.1,0.1333
 2022-09-27 01:09:12.014962,FIBA World Cup Women - FIBA World Cup Women 2022 - Outright Without USA,Serbia,-0.03330000000000001,0.0667,0.1
 2022-09-27 07:04:03.662493,NFC East - 2022/2023 NFC East - NFC East Winner,New York Giants,-0.034100000000000005,0.0909,0.125
 2022-09-27 11:03:02.523906,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Jahan Dotson,-0.048600000000000004,0.0625,0.1111
-2022-09-27 11:03:02.523906,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Brian Robinson Jr,-0.0524,0.0476,0.1
 2022-09-27 07:04:02.992655,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Matthew Stafford,-0.0524,0.0476,0.1
+2022-09-27 11:03:02.523906,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Brian Robinson Jr,-0.0524,0.0476,0.1
 2022-09-27 07:04:02.992655,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Justin Herbert,-0.0629,0.0909,0.1538
 2022-09-27 07:04:02.992655,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Tom Brady,-0.06620000000000001,0.0588,0.125
