@@ -6,6 +6,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-28 06:03:13.876792,95th Academy Awards - Best Picture - Best Picture,The Fabelmans,0.13329999999999997,0.3333,0.2
 2022-09-28 09:04:27.064763,League Two - England - League Two 2022/23 - Top Goalscorer,Sam Hoskins,0.10069999999999998,0.3333,0.2326
 2022-09-28 10:05:40.738033,Boxing Lines - Jordan Purkiss vs Ryan Walker - To Win the Bout,Ryan Walker,0.0595,0.4762,0.4167
+2022-09-28 11:04:46.193665,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Avaí,0.057699999999999974,0.75,0.6923
 2022-09-28 07:04:33.282336,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Nick Sirianni,0.04999999999999999,0.25,0.2
 2022-09-28 09:04:15.596153,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Comeback Player of the Year Award,Saquon Barkley,0.047599999999999976,0.3333,0.2857
 2022-09-28 09:04:27.155033,League Two - England - League Two 2022/23 - Top 7 Finish,Carlisle United,0.044499999999999984,0.2667,0.2222
@@ -18,56 +19,74 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-09-28 09:04:15.827810,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),Cooper Kupp,0.022199999999999998,0.2222,0.2
 2022-09-28 09:04:15.614811,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Player of the Year,Micah Parsons,0.021999999999999964,0.3077,0.2857
 2022-09-28 06:03:14.256777,MLB Futures - MLB 2022 American League - AL Winner,New York Yankees,0.020799999999999985,0.3333,0.3125
+2022-09-28 11:04:37.758231,Boxing Lines - Lucas Ballingall vs Boy Jones Jr - To Win the Bout,Boy Jones Jr,0.02049999999999999,0.2128,0.1923
 2022-09-28 01:08:36.550167,NCAAF - 2022 Big Ten Championship  - 2022 Big Ten Championship Winner,Minnesota,0.02020000000000001,0.1111,0.0909
-2022-09-28 09:04:17.924570,Boxing Lines - Ashley Gonzalez Macias vs Lourdes Juarez - To Win the Bout,Ashley Gonzalez Macias,0.019100000000000006,0.1481,0.129
 2022-09-28 03:02:58.929705,FIBA World Cup Women - FIBA World Cup Women 2022 - Outright,USA,0.019100000000000006,0.9524,0.9333
+2022-09-28 09:04:17.924570,Boxing Lines - Ashley Gonzalez Macias vs Lourdes Juarez - To Win the Bout,Ashley Gonzalez Macias,0.019100000000000006,0.1481,0.129
 2022-09-28 09:04:27.064763,League Two - England - League Two 2022/23 - Top Goalscorer,Kristian Dennis,0.019099999999999992,0.0667,0.0476
 2022-09-28 00:03:52.255774,Boxing Lines - Anthony Peterson vs Raul Chirino - To Win the Bout,Anthony Peterson,0.018900000000000028,0.9804,0.9615
 2022-09-28 03:02:57.490774,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Utah Jazz,Under 25.5,0.01880000000000004,0.5744,0.5556
 2022-09-28 07:04:27.110004,Boxing Lines - Sebastian Fundora vs Carlos Ocampo - To Win the Bout,Sebastian Fundora,0.01760000000000006,0.9,0.8824
 2022-09-28 05:04:00.962707,League Two - England - League Two 2022/23 - Outright,Bradford City,0.01759999999999999,0.1176,0.1
+2022-09-28 11:04:46.220752,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Corinthians,0.017300000000000093,0.7143,0.697
 2022-09-28 00:03:52.144925,Boxing Lines - Lenny Fuller vs Josue Bendana - To Win the Bout,Josue Bendana,0.016700000000000007,0.1,0.0833
-2022-09-28 05:04:00.962707,League Two - England - League Two 2022/23 - Outright,Leyton Orient,0.016699999999999993,0.2667,0.25
 2022-09-28 08:03:16.337181,MLS - MLS Cup 2022 - Winner,Philadelphia Union,0.016699999999999993,0.2667,0.25
+2022-09-28 05:04:00.962707,League Two - England - League Two 2022/23 - Outright,Leyton Orient,0.016699999999999993,0.2667,0.25
 2022-09-28 07:04:27.286470,Boxing Lines - George Kambosos Jr vs Devin Haney - To Win the Bout,Devin Haney,0.016699999999999937,0.9167,0.9
 2022-09-28 06:03:14.275967,MLB Futures - MLB 2022 National League - NL Winner,New York Mets,0.015400000000000025,0.2857,0.2703
 2022-09-28 09:04:15.709885,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Lamar Jackson,0.015100000000000002,0.1818,0.1667
 2022-09-28 09:04:15.684806,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Bailey Zappe,0.014599999999999998,0.0196,0.005
+2022-09-28 11:04:37.746086,Boxing Lines - Lukasz Stanioch vs Khoren Gevor - To Win the Bout,Lukasz Stanioch,0.014100000000000001,0.9474,0.9333
 2022-09-28 09:04:27.064763,League Two - England - League Two 2022/23 - Top Goalscorer,George Miller,0.014099999999999998,0.0385,0.0244
 2022-09-28 06:03:14.256777,MLB Futures - MLB 2022 American League - AL Winner,Tampa Bay Rays,0.013999999999999999,0.0909,0.0769
+2022-09-28 11:04:46.193665,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Ceará,0.013899999999999996,0.125,0.1111
 2022-09-28 00:03:55.733581,AFC South - 2022/202 AFC South - AFC South Winner,Jacksonville Jaguars,0.013600000000000001,0.3077,0.2941
 2022-09-28 03:02:53.777876,The Amazing Race - The Amazing Race 34 - Outright Winner,Derek & Claire,0.0131,0.2353,0.2222
 2022-09-28 09:04:15.748611,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Patrick Mahomes,0.011700000000000016,0.2222,0.2105
 2022-09-28 01:08:36.586149,NCAAF - 2022 SEC Championship  - 2022 SEC Championship Winner,LSU,0.011699999999999999,0.0196,0.0079
-2022-09-28 09:04:27.064763,League Two - England - League Two 2022/23 - Top Goalscorer,Josh Gordon,0.011199999999999995,0.0588,0.0476
 2022-09-28 09:04:18.586532,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Outright,Tommy Fleetwood,0.011199999999999995,0.0588,0.0476
+2022-09-28 09:04:27.064763,League Two - England - League Two 2022/23 - Top Goalscorer,Josh Gordon,0.011199999999999995,0.0588,0.0476
 2022-09-28 06:03:14.874157,Boxing Lines - Ebonie Jones vs Vanesa Caballero - To Win the Bout,Ebonie Jones,0.011199999999999988,0.9524,0.9412
-2022-09-28 05:04:00.962707,League Two - England - League Two 2022/23 - Outright,Mansfield Town,0.010899999999999993,0.1538,0.1429
 2022-09-28 09:04:15.576143,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Doug Pederson,0.010899999999999993,0.1538,0.1429
+2022-09-28 05:04:00.962707,League Two - England - League Two 2022/23 - Outright,Mansfield Town,0.010899999999999993,0.1538,0.1429
 2022-09-28 07:04:27.227109,Boxing Lines - Savannah Marshall vs Claressa Shields - To Win the Bout,Claressa Shields,0.010099999999999998,0.5556,0.5455
 2022-09-28 06:03:14.275967,MLB Futures - MLB 2022 National League - NL Winner,Atlanta Braves,-0.010499999999999982,0.2,0.2105
-2022-09-28 07:04:27.286470,Boxing Lines - George Kambosos Jr vs Devin Haney - To Win the Bout,George Kambosos Jr,-0.010899999999999993,0.1429,0.1538
 2022-09-28 06:03:14.256777,MLB Futures - MLB 2022 American League - AL Winner,Toronto Blue Jays,-0.010899999999999993,0.1429,0.1538
+2022-09-28 07:04:27.286470,Boxing Lines - George Kambosos Jr vs Devin Haney - To Win the Bout,George Kambosos Jr,-0.010899999999999993,0.1429,0.1538
+2022-09-28 11:04:37.758231,Boxing Lines - Lucas Ballingall vs Boy Jones Jr - To Win the Bout,Lucas Ballingall,-0.01090000000000002,0.8462,0.8571
 2022-09-28 07:04:27.006375,Boxing Lines - Anthony Peterson vs Raul Chirino - To Win the Bout,Raul Chirino,-0.011099999999999999,0.0556,0.0667
+2022-09-28 11:04:46.220752,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,São Paulo,-0.011199999999999995,0.0476,0.0588
 2022-09-28 09:04:27.140476,League Two - England - League Two 2022/23 - Top 3 Finish,Carlisle United,-0.011199999999999995,0.0476,0.0588
 2022-09-28 07:04:27.227109,Boxing Lines - Savannah Marshall vs Claressa Shields - To Win the Bout,Savannah Marshall,-0.011600000000000055,0.5122,0.5238
 2022-09-28 00:03:55.733581,AFC South - 2022/202 AFC South - AFC South Winner,Indianapolis Colts,-0.012199999999999989,0.5,0.5122
+2022-09-28 11:04:46.207144,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Internacional,-0.012499999999999956,0.7701,0.7826
+2022-09-28 11:04:37.687504,Boxing Lines - Vasil Ducar vs Vaclav Pejsar - To Win the Bout,Vaclav Pejsar,-0.013899999999999996,0.129,0.1429
+2022-09-28 11:04:46.193665,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Botafogo,-0.013999999999999999,0.0769,0.0909
 2022-09-28 00:03:52.226852,Boxing Lines - Samuel Molina vs Viorel Simion - To Win the Bout,Viorel Simion,-0.013999999999999999,0.0769,0.0909
 2022-09-28 09:04:17.924570,Boxing Lines - Ashley Gonzalez Macias vs Lourdes Juarez - To Win the Bout,Lourdes Juarez,-0.014000000000000012,0.9091,0.9231
+2022-09-28 11:04:46.220752,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Santos,-0.014099999999999998,0.0244,0.0385
 2022-09-28 03:02:58.929705,FIBA World Cup Women - FIBA World Cup Women 2022 - Outright,Belgium,-0.014499999999999999,0.0149,0.0294
+2022-09-28 11:04:46.207144,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Fluminense,-0.015100000000000002,0.8182,0.8333
+2022-09-28 11:04:46.220752,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Athletico Paranaense,-0.016699999999999937,0.5833,0.6
 2022-09-28 08:03:16.337181,MLS - MLS Cup 2022 - Winner,Los Angeles FC,-0.016699999999999993,0.25,0.2667
 2022-09-28 09:04:27.093401,League Two - England - League Two 2022/23 - To Be Promoted,Grimsby Town,-0.0179,0.125,0.1429
 2022-09-28 09:04:27.064763,League Two - England - League Two 2022/23 - Top Goalscorer,Danny Johnson,-0.0179,0.125,0.1429
+2022-09-28 11:04:46.207144,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Corinthians,-0.019000000000000017,0.2667,0.2857
 2022-09-28 03:02:58.944548,FIBA World Cup Women - FIBA World Cup Women 2022 - Outright Without USA,Serbia,-0.019099999999999992,0.0476,0.0667
 2022-09-28 03:02:58.929705,FIBA World Cup Women - FIBA World Cup Women 2022 - Outright,Canada,-0.019099999999999992,0.0476,0.0667
 2022-09-28 03:02:58.929705,FIBA World Cup Women - FIBA World Cup Women 2022 - Outright,France,-0.019099999999999995,0.0244,0.0435
 2022-09-28 01:08:36.550167,NCAAF - 2022 Big Ten Championship  - 2022 Big Ten Championship Winner,Penn State,-0.02020000000000001,0.0909,0.1111
+2022-09-28 11:04:46.207144,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Atlético Mineiro,-0.021999999999999964,0.2857,0.3077
 2022-09-28 06:03:14.567123,Boxing Lines - Lucas Ballingall vs Boy Jones Jr - To Win the Bout,Boy Jones Jr,-0.023599999999999982,0.1869,0.2105
 2022-09-28 00:03:52.255774,Boxing Lines - Anthony Peterson vs Raul Chirino - To Win the Bout,Raul Chirino,-0.0242,0.0667,0.0909
 2022-09-28 03:02:57.490774,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Utah Jazz,Over 25.5,-0.024399999999999977,0.4878,0.5122
 2022-09-28 09:04:27.140476,League Two - England - League Two 2022/23 - Top 3 Finish,Grimsby Town,-0.027800000000000005,0.0833,0.1111
+2022-09-28 11:04:46.220752,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,RB Bragantino,-0.028199999999999996,0.0385,0.0667
+2022-09-28 11:04:46.193665,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Cuiabá,-0.028900000000000037,0.5455,0.5744
 2022-09-28 06:03:13.837765,95th Academy Awards - Best Actress - Best Actress,Cate Blanchett,-0.030299999999999994,0.3333,0.3636
+2022-09-28 11:04:46.207144,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Flamengo,-0.033299999999999996,0.8,0.8333
 2022-09-28 09:04:27.155033,League Two - England - League Two 2022/23 - Top 7 Finish,Grimsby Town,-0.03570000000000001,0.25,0.2857
+2022-09-28 11:04:46.193665,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Coritiba,-0.044499999999999984,0.6923,0.7368
 2022-09-28 03:02:58.944548,FIBA World Cup Women - FIBA World Cup Women 2022 - Outright Without USA,Belgium,-0.0524,0.0476,0.1
 2022-09-28 10:05:40.738033,Boxing Lines - Jordan Purkiss vs Ryan Walker - To Win the Bout,Jordan Purkiss,-0.05740000000000001,0.5917,0.6491
 2022-09-28 03:02:58.944548,FIBA World Cup Women - FIBA World Cup Women 2022 - Outright Without USA,France,-0.08179999999999998,0.1,0.1818
