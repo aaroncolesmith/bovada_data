@@ -1,121 +1,1058 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2022-09-28 06:03:15.139641,Boxing Lines - George Kambosos Jr vs Devin Haney - To Win the Bout,Devin Haney,0.24480000000000002,0.9,0.6552
-2022-09-28 03:02:58.944548,FIBA World Cup Women - FIBA World Cup Women 2022 - Outright Without USA,China,0.1688,0.4545,0.2857
-2022-09-28 03:02:58.944548,FIBA World Cup Women - FIBA World Cup Women 2022 - Outright Without USA,Australia,0.16670000000000001,0.4167,0.25
-2022-09-28 06:03:14.292140,MLB Futures - MLB 2022 National League East - NLE Winner,Atlanta Braves,0.1582,0.4082,0.25
-2022-09-28 06:03:13.876792,95th Academy Awards - Best Picture - Best Picture,The Fabelmans,0.13329999999999997,0.3333,0.2
-2022-09-28 09:04:27.064763,League Two - England - League Two 2022/23 - Top Goalscorer,Sam Hoskins,0.10069999999999998,0.3333,0.2326
-2022-09-28 10:05:40.738033,Boxing Lines - Jordan Purkiss vs Ryan Walker - To Win the Bout,Ryan Walker,0.0595,0.4762,0.4167
-2022-09-28 11:04:46.193665,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Avaí,0.057699999999999974,0.75,0.6923
-2022-09-28 07:04:33.282336,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Nick Sirianni,0.04999999999999999,0.25,0.2
-2022-09-28 09:04:15.596153,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Comeback Player of the Year Award,Saquon Barkley,0.047599999999999976,0.3333,0.2857
-2022-09-28 09:04:27.155033,League Two - England - League Two 2022/23 - Top 7 Finish,Carlisle United,0.044499999999999984,0.2667,0.2222
-2022-09-28 12:02:51.636388,Tournament Match-Ups - Tournament Match-Ups - R. Ramsay vs E. Ferguson - Tournament Match-Ups,Richard Ramsay,0.043399999999999994,0.5556,0.5122
-2022-09-28 12:02:51.768172,Sanderson Farms Championship - 2/3 Balls - 1st Round 3 Balls - D. Frittelli / A. Hadwin / R. Moore - 1st Round 3 Balls,Dylan Frittelli,0.03640000000000004,0.4,0.3636
-2022-09-28 12:02:47.766114,US Midterm Elections 2022 - Which Party will win the House in the 2022 Midterm Election? - Winning Party,Republican,0.03260000000000007,0.8,0.7674
-2022-09-28 03:02:53.517777,95th Academy Awards - Best Director - Best Director,Steven Spielberg,0.031799999999999995,0.4762,0.4444
-2022-09-28 07:04:33.282336,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Doug Pederson,0.031799999999999995,0.1429,0.1111
-2022-09-28 12:02:50.980614,Boxing Lines - Lukasz Plawecki vs Mateusz Lis - To Win the Bout,Lukasz Plawecki,0.026700000000000057,0.5917,0.565
-2022-09-28 12:02:51.837262,Sanderson Farms Championship - 2/3 Balls - 1st Round 3 Balls - R. Streb / N. Taylor / B. Todd - 1st Round 3 Balls,Robert Streb,0.02560000000000001,0.3333,0.3077
-2022-09-28 09:04:27.093401,League Two - England - League Two 2022/23 - To Be Promoted,Carlisle United,0.024999999999999994,0.125,0.1
-2022-09-28 06:03:13.860071,95th Academy Awards - Best Director - Best Director,Steven Spielberg,0.023799999999999988,0.5,0.4762
-2022-09-28 00:03:52.226852,Boxing Lines - Samuel Molina vs Viorel Simion - To Win the Bout,Samuel Molina,0.023499999999999965,0.9709,0.9474
-2022-09-28 06:03:13.876792,95th Academy Awards - Best Picture - Best Picture,Everything Everywhere All At Once,0.02310000000000001,0.1,0.0769
-2022-09-28 09:04:15.827810,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),Cooper Kupp,0.022199999999999998,0.2222,0.2
-2022-09-28 09:04:15.614811,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Player of the Year,Micah Parsons,0.021999999999999964,0.3077,0.2857
-2022-09-28 12:02:51.081333,Boxing Lines - Anthony Peterson vs Raul Chirino - To Win the Bout,Raul Chirino,0.0213,0.0769,0.0556
-2022-09-28 06:03:14.256777,MLB Futures - MLB 2022 American League - AL Winner,New York Yankees,0.020799999999999985,0.3333,0.3125
-2022-09-28 12:02:51.579119,Tournament Match-Ups - Tournament Match-Ups - B. Horschel vs T. Gooch - Tournament Match-Ups,Talor Gooch,0.02079999999999993,0.5556,0.5348
-2022-09-28 12:02:50.988094,Boxing Lines - Connor Marsden vs Martin McDonagh - To Win the Bout,Connor Marsden,0.020699999999999996,0.4651,0.4444
-2022-09-28 11:04:37.758231,Boxing Lines - Lucas Ballingall vs Boy Jones Jr - To Win the Bout,Boy Jones Jr,0.02049999999999999,0.2128,0.1923
-2022-09-28 01:08:36.550167,NCAAF - 2022 Big Ten Championship  - 2022 Big Ten Championship Winner,Minnesota,0.02020000000000001,0.1111,0.0909
-2022-09-28 09:04:17.924570,Boxing Lines - Ashley Gonzalez Macias vs Lourdes Juarez - To Win the Bout,Ashley Gonzalez Macias,0.019100000000000006,0.1481,0.129
-2022-09-28 03:02:58.929705,FIBA World Cup Women - FIBA World Cup Women 2022 - Outright,USA,0.019100000000000006,0.9524,0.9333
-2022-09-28 09:04:27.064763,League Two - England - League Two 2022/23 - Top Goalscorer,Kristian Dennis,0.019099999999999992,0.0667,0.0476
-2022-09-28 00:03:52.255774,Boxing Lines - Anthony Peterson vs Raul Chirino - To Win the Bout,Anthony Peterson,0.018900000000000028,0.9804,0.9615
-2022-09-28 03:02:57.490774,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Utah Jazz,Under 25.5,0.01880000000000004,0.5744,0.5556
-2022-09-28 12:02:51.191035,Boxing Lines - Ginny Fuchs vs Gemma Ruegg - To Win the Bout,Ginny Fuchs,0.018100000000000005,0.9655,0.9474
-2022-09-28 07:04:27.110004,Boxing Lines - Sebastian Fundora vs Carlos Ocampo - To Win the Bout,Sebastian Fundora,0.01760000000000006,0.9,0.8824
-2022-09-28 05:04:00.962707,League Two - England - League Two 2022/23 - Outright,Bradford City,0.01759999999999999,0.1176,0.1
-2022-09-28 11:04:46.220752,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Corinthians,0.017300000000000093,0.7143,0.697
-2022-09-28 00:03:52.144925,Boxing Lines - Lenny Fuller vs Josue Bendana - To Win the Bout,Josue Bendana,0.016700000000000007,0.1,0.0833
-2022-09-28 05:04:00.962707,League Two - England - League Two 2022/23 - Outright,Leyton Orient,0.016699999999999993,0.2667,0.25
-2022-09-28 08:03:16.337181,MLS - MLS Cup 2022 - Winner,Philadelphia Union,0.016699999999999993,0.2667,0.25
-2022-09-28 07:04:27.286470,Boxing Lines - George Kambosos Jr vs Devin Haney - To Win the Bout,Devin Haney,0.016699999999999937,0.9167,0.9
-2022-09-28 12:02:50.973040,Boxing Lines - Jordan Purkiss vs Ryan Walker - To Win the Bout,Jordan Purkiss,0.016100000000000003,0.6078,0.5917
-2022-09-28 06:03:14.275967,MLB Futures - MLB 2022 National League - NL Winner,New York Mets,0.015400000000000025,0.2857,0.2703
-2022-09-28 09:04:15.709885,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Lamar Jackson,0.015100000000000002,0.1818,0.1667
-2022-09-28 09:04:15.684806,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Bailey Zappe,0.014599999999999998,0.0196,0.005
-2022-09-28 12:02:51.005404,Boxing Lines - Lucas Ballingall vs Boy Jones Jr - To Win the Bout,Boy Jones Jr,0.014500000000000013,0.2273,0.2128
-2022-09-28 11:04:37.746086,Boxing Lines - Lukasz Stanioch vs Khoren Gevor - To Win the Bout,Lukasz Stanioch,0.014100000000000001,0.9474,0.9333
-2022-09-28 09:04:27.064763,League Two - England - League Two 2022/23 - Top Goalscorer,George Miller,0.014099999999999998,0.0385,0.0244
-2022-09-28 06:03:14.256777,MLB Futures - MLB 2022 American League - AL Winner,Tampa Bay Rays,0.013999999999999999,0.0909,0.0769
-2022-09-28 11:04:46.193665,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Ceará,0.013899999999999996,0.125,0.1111
-2022-09-28 00:03:55.733581,AFC South - 2022/202 AFC South - AFC South Winner,Jacksonville Jaguars,0.013600000000000001,0.3077,0.2941
-2022-09-28 03:02:53.777876,The Amazing Race - The Amazing Race 34 - Outright Winner,Derek & Claire,0.0131,0.2353,0.2222
-2022-09-28 09:04:15.748611,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Patrick Mahomes,0.011700000000000016,0.2222,0.2105
-2022-09-28 01:08:36.586149,NCAAF - 2022 SEC Championship  - 2022 SEC Championship Winner,LSU,0.011699999999999999,0.0196,0.0079
-2022-09-28 09:04:18.586532,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Outright,Tommy Fleetwood,0.011199999999999995,0.0588,0.0476
-2022-09-28 09:04:27.064763,League Two - England - League Two 2022/23 - Top Goalscorer,Josh Gordon,0.011199999999999995,0.0588,0.0476
-2022-09-28 06:03:14.874157,Boxing Lines - Ebonie Jones vs Vanesa Caballero - To Win the Bout,Ebonie Jones,0.011199999999999988,0.9524,0.9412
-2022-09-28 05:04:00.962707,League Two - England - League Two 2022/23 - Outright,Mansfield Town,0.010899999999999993,0.1538,0.1429
-2022-09-28 12:02:51.283963,Boxing Lines - George Kambosos Jr vs Devin Haney - To Win the Bout,George Kambosos Jr,0.010899999999999993,0.1538,0.1429
-2022-09-28 09:04:15.576143,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Doug Pederson,0.010899999999999993,0.1538,0.1429
-2022-09-28 07:04:27.227109,Boxing Lines - Savannah Marshall vs Claressa Shields - To Win the Bout,Claressa Shields,0.010099999999999998,0.5556,0.5455
-2022-09-28 06:03:14.275967,MLB Futures - MLB 2022 National League - NL Winner,Atlanta Braves,-0.010499999999999982,0.2,0.2105
-2022-09-28 06:03:14.256777,MLB Futures - MLB 2022 American League - AL Winner,Toronto Blue Jays,-0.010899999999999993,0.1429,0.1538
-2022-09-28 07:04:27.286470,Boxing Lines - George Kambosos Jr vs Devin Haney - To Win the Bout,George Kambosos Jr,-0.010899999999999993,0.1429,0.1538
-2022-09-28 11:04:37.758231,Boxing Lines - Lucas Ballingall vs Boy Jones Jr - To Win the Bout,Lucas Ballingall,-0.01090000000000002,0.8462,0.8571
-2022-09-28 07:04:27.006375,Boxing Lines - Anthony Peterson vs Raul Chirino - To Win the Bout,Raul Chirino,-0.011099999999999999,0.0556,0.0667
-2022-09-28 11:04:46.220752,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,São Paulo,-0.011199999999999995,0.0476,0.0588
-2022-09-28 09:04:27.140476,League Two - England - League Two 2022/23 - Top 3 Finish,Carlisle United,-0.011199999999999995,0.0476,0.0588
-2022-09-28 12:02:50.980614,Boxing Lines - Lukasz Plawecki vs Mateusz Lis - To Win the Bout,Mateusz Lis,-0.0116,0.4762,0.4878
-2022-09-28 07:04:27.227109,Boxing Lines - Savannah Marshall vs Claressa Shields - To Win the Bout,Savannah Marshall,-0.011600000000000055,0.5122,0.5238
-2022-09-28 12:02:51.020194,Boxing Lines - Jon Fernandez vs Jose Osado - To Win the Bout,Jose Osado,-0.011899999999999994,0.1786,0.1905
-2022-09-28 00:03:55.733581,AFC South - 2022/202 AFC South - AFC South Winner,Indianapolis Colts,-0.012199999999999989,0.5,0.5122
-2022-09-28 11:04:46.207144,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Internacional,-0.012499999999999956,0.7701,0.7826
-2022-09-28 12:02:51.005404,Boxing Lines - Lucas Ballingall vs Boy Jones Jr - To Win the Bout,Lucas Ballingall,-0.012899999999999912,0.8333,0.8462
-2022-09-28 11:04:37.687504,Boxing Lines - Vasil Ducar vs Vaclav Pejsar - To Win the Bout,Vaclav Pejsar,-0.013899999999999996,0.129,0.1429
-2022-09-28 00:03:52.226852,Boxing Lines - Samuel Molina vs Viorel Simion - To Win the Bout,Viorel Simion,-0.013999999999999999,0.0769,0.0909
-2022-09-28 11:04:46.193665,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Botafogo,-0.013999999999999999,0.0769,0.0909
-2022-09-28 09:04:17.924570,Boxing Lines - Ashley Gonzalez Macias vs Lourdes Juarez - To Win the Bout,Lourdes Juarez,-0.014000000000000012,0.9091,0.9231
-2022-09-28 11:04:46.220752,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Santos,-0.014099999999999998,0.0244,0.0385
-2022-09-28 03:02:58.929705,FIBA World Cup Women - FIBA World Cup Women 2022 - Outright,Belgium,-0.014499999999999999,0.0149,0.0294
-2022-09-28 11:04:46.207144,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Fluminense,-0.015100000000000002,0.8182,0.8333
-2022-09-28 12:02:51.134637,Boxing Lines - Felix Cash vs Connor Coyle - To Win the Bout,Connor Coyle,-0.015700000000000006,0.1176,0.1333
-2022-09-28 11:04:46.220752,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Athletico Paranaense,-0.016699999999999937,0.5833,0.6
-2022-09-28 08:03:16.337181,MLS - MLS Cup 2022 - Winner,Los Angeles FC,-0.016699999999999993,0.25,0.2667
-2022-09-28 09:04:27.064763,League Two - England - League Two 2022/23 - Top Goalscorer,Danny Johnson,-0.0179,0.125,0.1429
-2022-09-28 09:04:27.093401,League Two - England - League Two 2022/23 - To Be Promoted,Grimsby Town,-0.0179,0.125,0.1429
-2022-09-28 12:02:51.123915,Boxing Lines - Luis Nery vs Jesus Ruiz Garcia - To Win the Bout,Jesus Ruiz Garcia,-0.01899999999999999,0.2083,0.2273
-2022-09-28 11:04:46.207144,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Corinthians,-0.019000000000000017,0.2667,0.2857
-2022-09-28 03:02:58.944548,FIBA World Cup Women - FIBA World Cup Women 2022 - Outright Without USA,Serbia,-0.019099999999999992,0.0476,0.0667
-2022-09-28 03:02:58.929705,FIBA World Cup Women - FIBA World Cup Women 2022 - Outright,Canada,-0.019099999999999992,0.0476,0.0667
-2022-09-28 03:02:58.929705,FIBA World Cup Women - FIBA World Cup Women 2022 - Outright,France,-0.019099999999999995,0.0244,0.0435
-2022-09-28 01:08:36.550167,NCAAF - 2022 Big Ten Championship  - 2022 Big Ten Championship Winner,Penn State,-0.02020000000000001,0.0909,0.1111
-2022-09-28 12:02:50.973040,Boxing Lines - Jordan Purkiss vs Ryan Walker - To Win the Bout,Ryan Walker,-0.021699999999999997,0.4545,0.4762
-2022-09-28 11:04:46.207144,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Atlético Mineiro,-0.021999999999999964,0.2857,0.3077
-2022-09-28 12:02:51.012834,Boxing Lines - Dominik Harwankowski vs Yona Segu - To Win the Bout,Yona Segu,-0.022400000000000003,0.1026,0.125
-2022-09-28 12:02:51.837262,Sanderson Farms Championship - 2/3 Balls - 1st Round 3 Balls - R. Streb / N. Taylor / B. Todd - 1st Round 3 Balls,Brendon Todd,-0.02260000000000001,0.3774,0.4
-2022-09-28 12:02:51.579119,Tournament Match-Ups - Tournament Match-Ups - B. Horschel vs T. Gooch - Tournament Match-Ups,Billy Horschel,-0.022600000000000064,0.5122,0.5348
-2022-09-28 12:02:50.988094,Boxing Lines - Connor Marsden vs Martin McDonagh - To Win the Bout,Martin McDonagh,-0.022600000000000064,0.6,0.6226
-2022-09-28 06:03:14.567123,Boxing Lines - Lucas Ballingall vs Boy Jones Jr - To Win the Bout,Boy Jones Jr,-0.023599999999999982,0.1869,0.2105
-2022-09-28 00:03:52.255774,Boxing Lines - Anthony Peterson vs Raul Chirino - To Win the Bout,Raul Chirino,-0.0242,0.0667,0.0909
-2022-09-28 03:02:57.490774,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Utah Jazz,Over 25.5,-0.024399999999999977,0.4878,0.5122
-2022-09-28 12:02:51.768172,Sanderson Farms Championship - 2/3 Balls - 1st Round 3 Balls - D. Frittelli / A. Hadwin / R. Moore - 1st Round 3 Balls,Ryan Moore,-0.02739999999999998,0.2667,0.2941
-2022-09-28 09:04:27.140476,League Two - England - League Two 2022/23 - Top 3 Finish,Grimsby Town,-0.027800000000000005,0.0833,0.1111
-2022-09-28 11:04:46.220752,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,RB Bragantino,-0.028199999999999996,0.0385,0.0667
-2022-09-28 11:04:46.193665,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Cuiabá,-0.028900000000000037,0.5455,0.5744
-2022-09-28 06:03:13.837765,95th Academy Awards - Best Actress - Best Actress,Cate Blanchett,-0.030299999999999994,0.3333,0.3636
-2022-09-28 12:02:47.766114,US Midterm Elections 2022 - Which Party will win the House in the 2022 Midterm Election? - Winning Party,Democratic,-0.031799999999999995,0.2667,0.2985
-2022-09-28 11:04:46.207144,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Flamengo,-0.033299999999999996,0.8,0.8333
-2022-09-28 09:04:27.155033,League Two - England - League Two 2022/23 - Top 7 Finish,Grimsby Town,-0.03570000000000001,0.25,0.2857
-2022-09-28 12:02:51.191035,Boxing Lines - Ginny Fuchs vs Gemma Ruegg - To Win the Bout,Gemma Ruegg,-0.0397,0.0714,0.1111
-2022-09-28 12:02:51.636388,Tournament Match-Ups - Tournament Match-Ups - R. Ramsay vs E. Ferguson - Tournament Match-Ups,Ewen Ferguson,-0.043399999999999994,0.5122,0.5556
-2022-09-28 11:04:46.193665,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Coritiba,-0.044499999999999984,0.6923,0.7368
-2022-09-28 03:02:58.944548,FIBA World Cup Women - FIBA World Cup Women 2022 - Outright Without USA,Belgium,-0.0524,0.0476,0.1
-2022-09-28 10:05:40.738033,Boxing Lines - Jordan Purkiss vs Ryan Walker - To Win the Bout,Jordan Purkiss,-0.05740000000000001,0.5917,0.6491
-2022-09-28 03:02:58.944548,FIBA World Cup Women - FIBA World Cup Women 2022 - Outright Without USA,France,-0.08179999999999998,0.1,0.1818
-2022-09-28 03:02:58.944548,FIBA World Cup Women - FIBA World Cup Women 2022 - Outright Without USA,Canada,-0.12739999999999999,0.1667,0.2941
-2022-09-28 06:03:14.292140,MLB Futures - MLB 2022 National League East - NLE Winner,New York Mets,-0.18180000000000007,0.6364,0.8182
-2022-09-28 06:03:15.139641,Boxing Lines - George Kambosos Jr vs Devin Haney - To Win the Bout,George Kambosos Jr,-0.2544,0.1538,0.4082
+2022-10-12 02:06:16.801988,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Comeback Player of the Year Award,Saquon Barkley,0.4167,0.75,0.3333
+2022-10-12 02:06:23.922522,Serie A - Italy Serie A 2022/23 - Top 4 Finish,Napoli,0.39270000000000005,0.8182,0.4255
+2022-10-12 02:06:23.826233,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,AJ Auxerre,0.3864,0.75,0.3636
+2022-10-12 02:06:24.133427,UEFA Champions League - Group B - Group Winner,Club Brugge,0.35419999999999996,0.6667,0.3125
+2022-10-12 02:06:24.275620,Allsvenskan - Swedish Allsvenskan 2022 - Outright,BK Hacken,0.35069999999999996,0.6364,0.2857
+2022-10-12 02:06:23.971720,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Robert Lewandowski (Barcelona),0.34550000000000003,0.8,0.4545
+2022-10-12 02:06:23.993420,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Athletic Bilbao,0.33330000000000004,0.4762,0.1429
+2022-10-12 02:06:23.978765,La Liga - Spain La Liga 2022/23 - To Be Relegated,Elche,0.32380000000000003,0.8,0.4762
+2022-10-12 02:06:23.913211,Serie A - Italy Serie A 2022/23 - To Be Relegated,Sampdoria,0.31490000000000007,0.6226,0.3077
+2022-10-12 02:06:16.791342,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Nick Sirianni,0.2955,0.5455,0.25
+2022-10-12 02:06:24.150583,UEFA Champions League - Group A - Group Winner,Napoli,0.28880000000000006,0.7143,0.4255
+2022-10-12 02:06:23.978765,La Liga - Spain La Liga 2022/23 - To Be Relegated,Almería,0.2619,0.5,0.2381
+2022-10-12 02:06:23.837348,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Monaco,0.25710000000000005,0.5238,0.2667
+2022-10-12 02:06:24.641809,Premier League Futures/Specials - English Premier League 2022/23 - PFA Player of the Year 2022/23,Erling Haaland,0.2479,0.6923,0.4444
+2022-10-12 02:06:17.696264,NFC West - 2022/2023 NFC West - NFC West Winner,San Francisco 49ers,0.24500000000000005,0.6296,0.3846
+2022-10-12 02:06:24.559982,Premier League Futures/Specials - English Premier League 2022/23 - Not To Finish in Top 4,Liverpool,0.2333,0.5,0.2667
+2022-10-12 02:06:17.342716,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Denver Broncos,No,0.23259999999999992,0.7674,0.5348
+2022-10-12 02:06:24.450409,League Two - England - League Two 2022/23 - Top 3 Finish,Stevenage,0.23240000000000005,0.5833,0.3509
+2022-10-12 02:06:16.948788,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),Cooper Kupp,0.2222,0.4444,0.2222
+2022-10-12 02:06:16.626754,Professional Baseball - NPB 2022 - Outright,Orix Buffaloes,0.21820000000000003,0.4,0.1818
+2022-10-12 02:06:17.402018,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Los Angeles Rams,No,0.21650000000000003,0.4762,0.2597
+2022-10-12 02:06:16.815042,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Player of the Year,Micah Parsons,0.21610000000000007,0.5238,0.3077
+2022-10-12 02:06:17.332640,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Dallas Cowboys,Yes,0.20830000000000004,0.8,0.5917
+2022-10-12 02:06:17.662393,NFC North - 2022/2023 NFC North - NFC North Winner,Minnesota Vikings,0.19870000000000004,0.5833,0.3846
+2022-10-12 02:06:24.404557,League Two - England - League Two 2022/23 - To Be Promoted,Stevenage,0.19710000000000005,0.6226,0.4255
+2022-10-12 02:06:23.913211,Serie A - Italy Serie A 2022/23 - To Be Relegated,Hellas Verona,0.19659999999999997,0.3077,0.1111
+2022-10-12 02:06:23.963085,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Athletic Bilbao,0.1898,0.2667,0.0769
+2022-10-12 02:06:16.309422,Boxing Lines - Andrew Moloney vs Norbelto Jimenez - To Win the Bout,Andrew Moloney,0.18610000000000004,0.7778,0.5917
+2022-10-12 02:06:17.569463,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,CJ Stroud,0.18329999999999996,0.6,0.4167
+2022-10-12 02:06:23.791529,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Monaco,0.1746,0.2857,0.1111
+2022-10-12 02:06:23.876785,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,VfB Stuttgart,0.1691,0.3509,0.1818
+2022-10-12 02:06:23.837348,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Lens,0.1691,0.3509,0.1818
+2022-10-12 02:06:24.550307,Premier League Futures/Specials - English Premier League 2022/23 - Top 2 Finish,Arsenal,0.16850000000000004,0.4762,0.3077
+2022-10-12 02:06:17.728836,AFC East - 2022/2023 AFC East - AFC East Winner,Buffalo Bills,0.16479999999999995,0.8571,0.6923
+2022-10-12 02:06:24.459754,League Two - England - League Two 2022/23 - Top 7 Finish,Stevenage,0.16479999999999995,0.8571,0.6923
+2022-10-12 02:06:24.570833,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Arsenal,0.16479999999999995,0.8571,0.6923
+2022-10-12 02:06:23.922522,Serie A - Italy Serie A 2022/23 - Top 4 Finish,Atalanta,0.15780000000000005,0.5833,0.4255
+2022-10-12 02:06:17.322744,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Cleveland Browns,No,0.15610000000000002,0.7561,0.6
+2022-10-12 02:06:17.715172,AFC South - 2022/202 AFC South - AFC South Winner,Tennessee Titans,0.1493,0.3846,0.2353
+2022-10-12 02:06:24.515418,Premier League Futures/Specials - English Premier League 2022/23 - Winner without Man City & Liverpool,Arsenal,0.14549999999999996,0.5455,0.4
+2022-10-12 02:06:24.626774,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Bournemouth,0.14549999999999996,0.5455,0.4
+2022-10-12 02:06:17.767026,AFC West - 2022/2023 AFC West - AFC West Winner,Kansas City Chiefs,0.14139999999999997,0.697,0.5556
+2022-10-12 02:06:23.876785,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Schalke 04,0.13920000000000005,0.5238,0.3846
+2022-10-12 02:06:24.253509,Superligaen - Denmark Superligaen 2022/23 - Outright,FC Nordsjælland,0.1382,0.2632,0.125
+2022-10-12 02:06:24.304696,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Boca Juniors,0.13670000000000004,0.4444,0.3077
+2022-10-12 02:06:23.978765,La Liga - Spain La Liga 2022/23 - To Be Relegated,Getafe,0.13330000000000003,0.4,0.2667
+2022-10-12 02:06:24.459754,League Two - England - League Two 2022/23 - Top 7 Finish,Tranmere Rovers,0.13329999999999997,0.3333,0.2
+2022-10-12 02:06:17.392370,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Los Angeles Chargers,Yes,0.1318999999999999,0.6667,0.5348
+2022-10-12 02:06:17.459988,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - New York Giants,Yes,0.13140000000000002,0.4762,0.3448
+2022-10-12 02:06:16.914620,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Travis Kelce,0.13130000000000003,0.2222,0.0909
+2022-10-12 02:06:23.826233,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Brest,0.12880000000000003,0.5833,0.4545
+2022-10-12 02:06:24.429168,League Two - England - League Two 2022/23 - To Be Relegated,Crawley Town,0.12589999999999998,0.3077,0.1818
+2022-10-12 02:06:24.348368,League One - England - League One 2022/23 - Outright,Ipswich Town,0.12380000000000002,0.5238,0.4
+2022-10-12 02:06:16.874005,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Kenny Pickett,0.12329999999999999,0.1429,0.0196
+2022-10-12 02:06:17.157768,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  New York Jets,Over 6,0.12260000000000004,0.6226,0.5
+2022-10-12 02:06:16.880716,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Josh Allen,0.11900000000000002,0.2857,0.1667
+2022-10-12 02:06:16.626754,Professional Baseball - NPB 2022 - Outright,Hanshin Tigers,0.1185,0.1429,0.0244
+2022-10-12 02:06:17.416033,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Miami Dolphins,No,0.11770000000000003,0.3774,0.2597
+2022-10-12 02:06:17.079593,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Kansas City Chiefs,Over 11.5,0.11740000000000006,0.6296,0.5122
+2022-10-12 02:06:24.374945,League Two - England - League Two 2022/23 - Outright,Stevenage,0.1167,0.25,0.1333
+2022-10-12 02:06:23.164146,Tournament Match-Ups - Parlays - Tournament Match-Up - A. Smalley v W. Clark - Tournament Match-Up,Wyndham Clark,0.11549999999999999,0.5917,0.4762
+2022-10-12 02:06:23.884182,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Union Berlin,0.11430000000000001,0.4,0.2857
+2022-10-12 02:06:16.866790,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Josh Allen,0.11359999999999998,0.3636,0.25
+2022-10-12 02:06:17.431652,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Minnesota Vikings,Yes,0.11110000000000009,0.8333,0.7222
+2022-10-12 02:06:16.891592,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Yards (Regular Season),Josh Allen,0.11109999999999998,0.3333,0.2222
+2022-10-12 02:06:17.353420,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Green Bay Packers,No,0.11109999999999998,0.3333,0.2222
+2022-10-12 02:06:17.513852,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - San Francisco 49ers,Yes,0.10709999999999997,0.75,0.6429
+2022-10-12 02:06:24.593497,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Newcastle United,0.10000000000000009,0.8333,0.7333
+2022-10-12 02:06:24.593497,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,West Ham United,0.09999999999999998,0.6,0.5
+2022-10-12 02:06:24.526876,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Erling Haaland,0.09999999999999998,0.9,0.8
+2022-10-12 02:06:24.459754,League Two - England - League Two 2022/23 - Top 7 Finish,Walsall,0.09720000000000001,0.2222,0.125
+2022-10-12 02:06:23.922522,Serie A - Italy Serie A 2022/23 - Top 4 Finish,Udinese,0.09720000000000001,0.125,0.0278
+2022-10-12 02:06:24.537978,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Nottingham Forest,0.09689999999999999,0.7333,0.6364
+2022-10-12 02:06:16.967505,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),Saquon Barkley,0.09620000000000001,0.25,0.1538
+2022-10-12 02:06:21.956171,A1 - Greece A1 2022/23 - Outright,Olympiakos,0.09300000000000008,0.8333,0.7403
+2022-10-12 02:06:17.312497,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Cincinnati Bengals,Yes,0.09049999999999997,0.5556,0.4651
+2022-10-12 02:06:23.913211,Serie A - Italy Serie A 2022/23 - To Be Relegated,Bologna,0.0897,0.2326,0.1429
+2022-10-12 02:06:16.930459,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),Justin Jefferson,0.0889,0.2,0.1111
+2022-10-12 02:06:16.858029,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Dameon Pierce,0.0889,0.2,0.1111
+2022-10-12 02:06:17.747113,AFC North - 2022/2023 AFC North - AFC North Winner,Baltimore Ravens,0.08730000000000004,0.6429,0.5556
+2022-10-12 02:06:23.812610,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Terem Moffi,0.08689999999999999,0.0909,0.004
+2022-10-12 02:06:24.459754,League Two - England - League Two 2022/23 - Top 7 Finish,Mansfield Town,0.0857,0.8,0.7143
+2022-10-12 02:06:16.959568,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Nick Chubb,0.08549999999999996,0.3077,0.2222
+2022-10-12 02:06:23.856234,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Niclas Fullkrug,0.08410000000000001,0.1429,0.0588
+2022-10-12 02:06:17.466973,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - New York Jets,Yes,0.08339999999999999,0.1667,0.0833
+2022-10-12 02:06:16.858029,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Breece Hall,0.08339999999999999,0.1667,0.0833
+2022-10-12 02:06:23.791529,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Lens,0.08339999999999999,0.1667,0.0833
+2022-10-12 02:06:24.491984,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester City,0.08330000000000004,0.8333,0.75
+2022-10-12 02:06:24.593497,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Brighton & Hove Albion,0.08330000000000004,0.8333,0.75
+2022-10-12 02:06:17.646776,NFC East - 2022/2023 NFC East - NFC East Winner,Dallas Cowboys,0.08330000000000001,0.25,0.1667
+2022-10-12 02:06:23.826233,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Nantes,0.08329999999999999,0.3333,0.25
+2022-10-12 02:06:24.035963,MLS - MLS Cup 2022 - Winner,Los Angeles FC,0.08329999999999999,0.3333,0.25
+2022-10-12 02:06:23.903801,Serie A - Italy Serie A 2022/23 - Winner,Napoli,0.08329999999999999,0.3333,0.25
+2022-10-12 02:06:17.375792,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Kansas City Chiefs,Yes,0.08279999999999998,0.9231,0.8403
+2022-10-12 02:06:21.828283,NBL - NBL 2022/23 - Outright,Perth Wildcats,0.08150000000000002,0.2353,0.1538
+2022-10-12 02:06:17.442076,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - New England Patriots,No,0.0808000000000001,0.7778,0.697
+2022-10-12 02:06:17.292736,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Carolina Panthers,No,0.08079999999999998,0.9756,0.8948
+2022-10-12 02:06:24.570833,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Chelsea,0.07939999999999997,0.5556,0.4762
+2022-10-12 02:06:17.055682,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Green Bay Packers,Under 10.5,0.07939999999999997,0.5556,0.4762
+2022-10-12 02:06:16.948788,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),Justin Jefferson,0.07930000000000001,0.2222,0.1429
+2022-10-12 02:06:17.276129,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Baltimore Ravens,Yes,0.07780000000000009,0.8,0.7222
+2022-10-12 02:06:16.801988,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Comeback Player of the Year Award,Geno Smith,0.07769999999999999,0.0909,0.0132
+2022-10-12 02:06:23.876785,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Hertha BSC,0.07690000000000002,0.3846,0.3077
+2022-10-12 02:06:24.439939,League Two - England - League Two 2022/23 - To Finish Bottom,Crawley Town,0.07579999999999999,0.1667,0.0909
+2022-10-12 02:06:17.634032,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Philadelphia Eagles,0.07509999999999997,0.3077,0.2326
+2022-10-12 02:06:17.757767,NFC South - 2022/2023 NFC South - NFC South Winner,Tampa Bay Buccaneers,0.07500000000000007,0.8667,0.7917
+2022-10-12 02:06:23.963085,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Atlético Madrid,0.07450000000000001,0.5,0.4255
+2022-10-12 02:06:23.993420,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Real Sociedad,0.0744,0.3125,0.2381
+2022-10-12 02:06:24.162588,UEFA Champions League - Group C - Group Winner,Bayern Munich,0.0726,0.9615,0.8889
+2022-10-12 02:06:16.967505,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),Josh Jacobs,0.0713,0.0909,0.0196
+2022-10-12 02:06:17.551035,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Washington Commanders,No,0.07120000000000004,0.9231,0.8519
+2022-10-12 02:06:24.603752,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Wolverhampton Wanderers,0.07069999999999999,0.8889,0.8182
+2022-10-12 02:06:24.450409,League Two - England - League Two 2022/23 - Top 3 Finish,Mansfield Town,0.06990000000000002,0.4545,0.3846
+2022-10-12 02:06:24.404557,League Two - England - League Two 2022/23 - To Be Promoted,Mansfield Town,0.06929999999999997,0.5455,0.4762
+2022-10-12 02:06:17.499061,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Pittsburgh Steelers,No,0.0685,0.9852,0.9167
+2022-10-12 02:06:24.550307,Premier League Futures/Specials - English Premier League 2022/23 - Top 2 Finish,Chelsea,0.06840000000000002,0.2222,0.1538
+2022-10-12 02:06:24.603752,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Leeds United,0.0683999999999999,0.8462,0.7778
+2022-10-12 02:06:24.603752,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Brentford,0.0683999999999999,0.8462,0.7778
+2022-10-12 02:06:23.856234,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Christopher Nkunku,0.06820000000000001,0.25,0.1818
+2022-10-12 02:06:23.837348,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Rennes,0.06820000000000001,0.25,0.1818
+2022-10-12 02:06:16.891592,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Yards (Regular Season),Tom Brady,0.06770000000000001,0.1,0.0323
+2022-10-12 02:06:17.634032,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,San Francisco 49ers,0.06669999999999998,0.1667,0.1
+2022-10-12 02:06:17.969400,US Midterm Elections 2022 - Which Party will win the House in the 2022 Midterm Election? - Winning Party,Republican,0.06669999999999998,0.8667,0.8
+2022-10-12 02:06:24.579817,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Chelsea,0.06669999999999998,0.9,0.8333
+2022-10-12 02:06:16.815042,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Player of the Year,Nick Bosa,0.0666,0.1333,0.0667
+2022-10-12 02:06:23.903801,Serie A - Italy Serie A 2022/23 - Winner,AC Milan,0.06659999999999999,0.3333,0.2667
+2022-10-12 02:06:16.828243,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Rookie of the Year,Ahmad Gardner,0.06620000000000001,0.125,0.0588
+2022-10-12 02:06:24.304696,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,River Plate,0.066,0.1429,0.0769
+2022-10-12 02:06:17.767026,AFC West - 2022/2023 AFC West - AFC West Winner,Los Angeles Chargers,0.0635,0.2857,0.2222
+2022-10-12 02:06:16.967505,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),Nick Chubb,0.0635,0.2857,0.2222
+2022-10-12 02:06:24.100738,Championship - England Championship 2022/23 - Outright,Norwich City,0.0635,0.2857,0.2222
+2022-10-12 02:06:23.993420,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Atlético Madrid,0.06320000000000003,0.8,0.7368
+2022-10-12 02:06:23.884182,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Freiburg,0.06190000000000001,0.4255,0.3636
+2022-10-12 02:06:24.459754,League Two - England - League Two 2022/23 - Top 7 Finish,Stockport County,0.05980000000000002,0.4444,0.3846
+2022-10-12 02:06:24.275620,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Hammarby IF,0.0596,0.1429,0.0833
+2022-10-12 02:06:21.917427,Liga ACB - Liga ACB 2022/23 - Outright,Real Madrid BC,0.057699999999999974,0.5122,0.4545
+2022-10-12 02:06:17.302417,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Chicago Bears,No,0.057599999999999985,0.9524,0.8948
+2022-10-12 02:06:24.626774,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Everton,0.05709999999999993,0.8571,0.8
+2022-10-12 02:06:17.224661,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Tennessee Titans,Over 8,0.05689999999999995,0.5917,0.5348
+2022-10-12 02:06:19.500410,2022/23 Player Stats per Game - Points per Game - Donovan Mitchell,Under 25.6,0.05689999999999995,0.5917,0.5348
+2022-10-12 02:06:16.828243,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Rookie of the Year,Tariq Woolen,0.056799999999999996,0.0667,0.0099
+2022-10-12 02:06:16.866790,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Patrick Mahomes,0.05679999999999999,0.1818,0.125
+2022-10-12 02:06:16.948788,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),Tyreek Hill,0.056400000000000006,0.1333,0.0769
+2022-10-12 02:06:17.980378,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,0.055900000000000005,0.3636,0.3077
+2022-10-12 02:06:24.501807,Premier League Futures/Specials - English Premier League 2022/23 - Winner without 'The Big Six',Newcastle United,0.055900000000000005,0.3636,0.3077
+2022-10-12 02:06:20.374889,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Chicago Bulls,0.05559999999999998,0.5556,0.5
+2022-10-12 02:06:24.537978,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Fulham,0.05550000000000002,0.2222,0.1667
+2022-10-12 02:06:17.617475,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Buffalo Bills,0.05409999999999998,0.3571,0.303
+2022-10-12 02:06:23.922522,Serie A - Italy Serie A 2022/23 - Top 4 Finish,AC Milan,0.05349999999999999,0.8182,0.7647
+2022-10-12 02:06:16.914620,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Mark Andrews,0.0524,0.1,0.0476
+2022-10-12 02:06:22.118396,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Christian Wood,0.052399999999999995,0.0909,0.0385
+2022-10-12 02:06:23.812610,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Jonathan David,0.052399999999999995,0.0909,0.0385
+2022-10-12 02:06:23.884182,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Werder Bremen,0.052300000000000006,0.1111,0.0588
+2022-10-12 02:06:24.603752,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Southampton,0.052000000000000046,0.9091,0.8571
+2022-10-12 02:06:24.054320,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Palmeiras,0.05179999999999996,0.993,0.9412
+2022-10-12 02:06:24.450409,League Two - England - League Two 2022/23 - Top 3 Finish,Salford City,0.05130000000000001,0.3846,0.3333
+2022-10-12 02:06:24.559982,Premier League Futures/Specials - English Premier League 2022/23 - Not To Finish in Top 4,Tottenham Hotspur,0.05070000000000002,0.4762,0.4255
+2022-10-12 02:06:16.828243,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Rookie of the Year,Devin Lloyd,0.04999999999999999,0.25,0.2
+2022-10-12 02:06:17.617475,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Kansas City Chiefs,0.04999999999999999,0.25,0.2
+2022-10-12 02:06:22.181631,NBA Awards - 2022/23 NBA Awards - 2022/23 The Rookie of the Year,Paolo Banchero,0.04910000000000003,0.4,0.3509
+2022-10-12 02:06:24.289069,Super Lig - Turkey Super League 22/23 - Outright,Istanbul Basaksehir,0.04909999999999999,0.1667,0.1176
+2022-10-12 02:06:17.269825,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Atlanta Falcons,Yes,0.04849999999999999,0.1538,0.1053
+2022-10-12 02:06:17.050007,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Detroit Lions,Under 6.5,0.04760000000000003,0.5238,0.4762
+2022-10-12 02:06:17.383524,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Las Vegas Raiders,Yes,0.0476,0.2857,0.2381
+2022-10-12 02:06:24.117026,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Club América,0.047599999999999976,0.3333,0.2857
+2022-10-12 02:06:16.610776,KBO League - KBO League 2022 - Outright,LG Twins,0.047599999999999976,0.3333,0.2857
+2022-10-12 02:06:23.978765,La Liga - Spain La Liga 2022/23 - To Be Relegated,Sevilla,0.0475,0.0769,0.0294
+2022-10-12 02:06:17.634032,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Dallas Cowboys,0.04650000000000001,0.1053,0.0588
+2022-10-12 02:06:21.828283,NBL - NBL 2022/23 - Outright,Adelaide 36ers,0.04620000000000002,0.2,0.1538
+2022-10-12 02:06:18.344307,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Indiana Pacers,Under 24.5,0.04620000000000002,0.5917,0.5455
+2022-10-12 02:06:17.261816,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Arizona Cardinals,Yes,0.04470000000000002,0.2857,0.241
+2022-10-12 02:06:24.579817,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Newcastle United,0.044499999999999984,0.2667,0.2222
+2022-10-12 02:06:16.874005,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Matt Ryan,0.04440000000000001,0.1111,0.0667
+2022-10-12 02:06:16.152046,Boxing Lines - Lauren Price vs Timea Belik - To Win the Bout,Timea Belik,0.04440000000000001,0.1,0.0556
+2022-10-12 02:06:16.874005,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Carson Wentz,0.04440000000000001,0.1111,0.0667
+2022-10-12 02:06:16.626754,Professional Baseball - NPB 2022 - Outright,Tokyo Yakult Swallows,0.044399999999999995,0.4444,0.4
+2022-10-12 02:06:24.266384,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,FC Porto,0.044399999999999995,0.4444,0.4
+2022-10-12 02:06:24.450409,League Two - England - League Two 2022/23 - Top 3 Finish,Carlisle United,0.04329999999999999,0.0909,0.0476
+2022-10-12 02:06:16.847448,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Player of the Year,Jalen Hurts,0.042899999999999994,0.1429,0.1
+2022-10-12 02:06:23.870409,1. Bundesliga - Germany Bundesliga 2022/23 - Winner without Bayern Munich,Freiburg,0.042899999999999994,0.1429,0.1
+2022-10-12 02:06:24.404557,League Two - England - League Two 2022/23 - To Be Promoted,Tranmere Rovers,0.04269999999999999,0.1538,0.1111
+2022-10-12 02:06:16.847448,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Player of the Year,Justin Jefferson,0.04269999999999999,0.1538,0.1111
+2022-10-12 02:06:16.967505,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),Dameon Pierce,0.04229999999999999,0.0667,0.0244
+2022-10-12 02:06:17.569463,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,Dorian Thompson-Robinson,0.0416,0.0526,0.011
+2022-10-12 02:06:18.633863,2022/23 NBA - Regular Season Wins - Regular Season Wins - Alternate Totals - CHI Bulls ,Under 39.5,0.0413,0.3922,0.3509
+2022-10-12 02:06:16.959568,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Saquon Barkley,0.04120000000000001,0.1,0.0588
+2022-10-12 02:06:24.035963,MLS - MLS Cup 2022 - Winner,New York City FC,0.04120000000000001,0.1,0.0588
+2022-10-12 02:06:16.959568,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Taysom Hill,0.041,0.0476,0.0066
+2022-10-12 02:06:21.828283,NBL - NBL 2022/23 - Outright,Sydney Kings,0.04099999999999998,0.2632,0.2222
+2022-10-12 02:06:24.459754,League Two - England - League Two 2022/23 - Top 7 Finish,Salford City,0.040999999999999925,0.7333,0.6923
+2022-10-12 02:06:24.537978,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leeds United,0.04040000000000002,0.2222,0.1818
+2022-10-12 02:06:24.304696,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Racing Club,0.04040000000000002,0.2222,0.1818
+2022-10-12 02:06:17.113722,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Minnesota Vikings,Over 10.5,0.03959999999999997,0.5744,0.5348
+2022-10-12 02:06:19.670492,2022/23 Player Stats per Game - Points per Game - Nikola Jokic,Under 27,0.03959999999999997,0.5744,0.5348
+2022-10-12 02:06:23.826233,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Montpellier,0.03889999999999999,0.1818,0.1429
+2022-10-12 02:06:16.948788,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),Stefon Diggs,0.03889999999999999,0.1818,0.1429
+2022-10-12 02:06:24.603752,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Fulham,0.038899999999999935,0.8571,0.8182
+2022-10-12 02:06:24.172775,UEFA Champions League - Group D - Group Winner,Marseille,0.0384,0.0769,0.0385
+2022-10-12 02:06:23.993420,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Valencia,0.0384,0.0769,0.0385
+2022-10-12 02:06:18.790486,2022/23 NBA - Regular Season Wins - Regular Season Wins - Alternate Totals - MEM Grizzlies ,Under 45.5,0.03839999999999999,0.3509,0.3125
+2022-10-12 02:06:24.579817,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Arsenal,0.03759999999999997,0.9709,0.9333
+2022-10-12 02:06:16.967505,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),Miles Sanders,0.0373,0.0667,0.0294
+2022-10-12 02:06:24.117026,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Cruz Azul,0.0373,0.0667,0.0294
+2022-10-12 02:06:20.385481,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Sacramento Kings,0.03710000000000002,0.3704,0.3333
+2022-10-12 02:06:16.561884,95th Academy Awards - Best Actress - Best Actress,Cate Blanchett,0.03710000000000002,0.3704,0.3333
+2022-10-12 02:06:18.409768,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - New Orleans Pelicans,Over 44.5,0.03610000000000002,0.5917,0.5556
+2022-10-12 02:06:17.211608,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Tampa Bay Buccaneers,Under 11.5,0.03610000000000002,0.5917,0.5556
+2022-10-12 02:06:24.077483,A-League - Australia A-League 2022/23 - Grand Final Winner,Melbourne Victory,0.03570000000000001,0.2857,0.25
+2022-10-12 02:06:18.753530,2022/23 NBA - Regular Season Wins - Regular Season Wins - Alternate Totals - LA Clippers ,Over 56.5,0.03570000000000001,0.2857,0.25
+2022-10-12 02:06:23.922522,Serie A - Italy Serie A 2022/23 - Top 4 Finish,Lazio,0.03570000000000001,0.2857,0.25
+2022-10-12 02:06:18.760245,2022/23 NBA - Regular Season Wins - Regular Season Wins - Alternate Totals - LA Clippers ,Over 49.5,0.035699999999999954,0.75,0.7143
+2022-10-12 02:06:24.626774,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Leicester City,0.035699999999999954,0.75,0.7143
+2022-10-12 02:06:23.876785,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Bochum,0.035699999999999954,0.75,0.7143
+2022-10-12 02:06:16.948788,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),Tyler Lockett,0.035300000000000005,0.0476,0.0123
+2022-10-12 02:06:16.948788,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),Marquise Brown,0.03420000000000001,0.1111,0.0769
+2022-10-12 02:06:24.491984,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Arsenal,0.034100000000000005,0.125,0.0909
+2022-10-12 02:06:23.903801,Serie A - Italy Serie A 2022/23 - Winner,Atalanta,0.034100000000000005,0.125,0.0909
+2022-10-12 02:06:16.791342,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Brian Daboll,0.034100000000000005,0.125,0.0909
+2022-10-12 02:06:23.870409,1. Bundesliga - Germany Bundesliga 2022/23 - Winner without Bayern Munich,Union Berlin,0.034100000000000005,0.125,0.0909
+2022-10-12 02:06:16.930459,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),Tyreek Hill,0.034100000000000005,0.125,0.0909
+2022-10-12 02:06:16.891592,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Yards (Regular Season),Jared Goff,0.0335,0.0476,0.0141
+2022-10-12 02:06:23.884182,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Borussia Mönchengladbach,0.033300000000000024,0.2,0.1667
+2022-10-12 02:06:24.209235,UEFA Europa League - UEFA Europa League 22/23 - Winner,Arsenal,0.033300000000000024,0.2,0.1667
+2022-10-12 02:06:24.450409,League Two - England - League Two 2022/23 - Top 3 Finish,Tranmere Rovers,0.03330000000000001,0.1,0.0667
+2022-10-12 02:06:16.847448,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Player of the Year,Cooper Kupp,0.033299999999999996,0.1333,0.1
+2022-10-12 02:06:17.475202,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Philadelphia Eagles,Yes,0.03279999999999994,0.9852,0.9524
+2022-10-12 02:06:21.901442,LKL - LKL 2022/23 - Outright,Zalgiris,0.03180000000000005,0.8889,0.8571
+2022-10-12 02:06:24.450409,League Two - England - League Two 2022/23 - Top 3 Finish,Stockport County,0.031799999999999995,0.1429,0.1111
+2022-10-12 02:06:24.439939,League Two - England - League Two 2022/23 - To Finish Bottom,Harrogate Town,0.031799999999999995,0.1429,0.1111
+2022-10-12 02:06:16.858029,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Chris Olave,0.031799999999999995,0.1429,0.1111
+2022-10-12 02:06:23.951287,La Liga - Spain La Liga 2022/23 - Winner,FC Barcelona,0.03179999999999994,0.5556,0.5238
+2022-10-12 02:06:17.151296,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  New York Giants,Over 8.5,0.03179999999999994,0.5556,0.5238
+2022-10-12 02:06:23.413315,Tournament Match-Ups - Tournament Match-Up - C. Smith v D. Johnson - Tournament Match-Up,Dustin Johnson,0.03179999999999994,0.5556,0.5238
+2022-10-12 02:06:16.959568,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Austin Ekeler,0.031,0.0588,0.0278
+2022-10-12 02:06:18.354392,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Los Angeles Clippers,Over 52.5,0.030399999999999983,0.5652,0.5348
+2022-10-12 02:06:19.527896,2022/23 Player Stats per Game - Points per Game - James Harden,Over 21.7,0.030399999999999983,0.5652,0.5348
+2022-10-12 02:06:19.935456,2022/23 Player Stats per Game - Assists per Game - Chris Paul,Under 9.8,0.030399999999999983,0.5652,0.5348
+2022-10-12 02:06:18.418966,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - New York Knicks,Under 39.5,0.030399999999999983,0.5652,0.5348
+2022-10-12 02:06:19.449055,2022/23 Player Stats per Game - Points per Game - Darius Garland ,Under 21.3,0.030399999999999983,0.5652,0.5348
+2022-10-12 02:06:18.993337,2022/23 NBA - Regular Season Wins - Regular Season Wins - Alternate Totals - SAC Kings ,Over 36.5,0.030299999999999994,0.3636,0.3333
+2022-10-12 02:06:24.189296,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Manchester City,0.030299999999999994,0.3636,0.3333
+2022-10-12 02:06:16.579411,95th Academy Awards - Best Picture - Best Picture,The Fabelmans,0.030299999999999994,0.3636,0.3333
+2022-10-12 02:06:16.791342,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Mike McCarthy,0.029700000000000004,0.0476,0.0179
+2022-10-12 02:06:23.812610,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Martin Terrier,0.0294,0.0588,0.0294
+2022-10-12 02:06:24.328172,Eredivisie - Dutch Eredivisie 2022/23 - Winner,AZ Alkmaar,0.0294,0.0588,0.0294
+2022-10-12 02:06:23.856234,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Leroy Sane,0.0294,0.0588,0.0294
+2022-10-12 02:06:23.837348,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Lorient,0.029299999999999993,0.0769,0.0476
+2022-10-12 02:06:24.404557,League Two - England - League Two 2022/23 - To Be Promoted,Salford City,0.029000000000000026,0.4545,0.4255
+2022-10-12 02:06:18.441086,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Orlando Magic,Over 26.5,0.028900000000000037,0.5744,0.5455
+2022-10-12 02:06:21.865319,LNB Pro A - LNB Pro A 2022/23 - Outright,AS Monaco,0.028900000000000037,0.5744,0.5455
+2022-10-12 02:06:24.641809,Premier League Futures/Specials - English Premier League 2022/23 - PFA Player of the Year 2022/23,Kevin de Bruyne,0.028799999999999992,0.1538,0.125
+2022-10-12 02:06:17.537208,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Tampa Bay Buccaneers,No,0.028799999999999992,0.1667,0.1379
+2022-10-12 02:06:16.930459,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),Cooper Kupp,0.028799999999999992,0.1538,0.125
+2022-10-12 02:06:24.626774,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,West Ham United,0.02859999999999996,0.9901,0.9615
+2022-10-12 02:06:22.131581,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,JB Bickerstaff,0.028199999999999996,0.0667,0.0385
+2022-10-12 02:06:24.189296,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Chelsea,0.028199999999999996,0.0667,0.0385
+2022-10-12 02:06:16.948788,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),Travis Kelce,0.028199999999999996,0.0667,0.0385
+2022-10-12 02:06:24.374945,League Two - England - League Two 2022/23 - Outright,Mansfield Town,0.027999999999999997,0.1818,0.1538
+2022-10-12 02:06:24.593497,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Everton,0.02779999999999999,0.25,0.2222
+2022-10-12 02:06:16.880716,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Patrick Mahomes,0.02779999999999999,0.25,0.2222
+2022-10-12 02:06:24.404557,League Two - England - League Two 2022/23 - To Be Promoted,Stockport County,0.02779999999999999,0.25,0.2222
+2022-10-12 02:06:16.136588,Boxing Lines - Shannon Ryan vs Buchra El Quaissi - To Win the Bout,Buchra El Quaissi,0.027700000000000002,0.0833,0.0556
+2022-10-12 02:06:16.959568,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Jalen Hurts,0.0267,0.1176,0.0909
+2022-10-12 02:06:16.930459,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),Courtland Sutton,0.026499999999999996,0.0588,0.0323
+2022-10-12 02:06:20.787001,Team Seeding - 2022/23 - CLE Cavaliers,Under 6.5,0.026499999999999968,0.5917,0.5652
+2022-10-12 02:06:21.541190,2022/23 NBA - The NBA Finals Props - 2022/23 NBA Season - Winner Specials - Winning State,Field,0.026499999999999968,0.5917,0.5652
+2022-10-12 02:06:17.061709,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Houston Texans,Over 3.5,0.026499999999999968,0.5917,0.5652
+2022-10-12 02:06:18.496083,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - San Antonio Spurs,Under 23.5,0.026499999999999968,0.5917,0.5652
+2022-10-12 02:06:24.603752,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Aston Villa,0.025600000000000067,0.6923,0.6667
+2022-10-12 02:06:24.559982,Premier League Futures/Specials - English Premier League 2022/23 - Not To Finish in Top 4,Manchester United,0.025600000000000067,0.6923,0.6667
+2022-10-12 02:06:24.537978,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Southampton,0.02560000000000001,0.3333,0.3077
+2022-10-12 02:06:24.593497,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Crystal Palace,0.025499999999999967,0.4255,0.4
+2022-10-12 02:06:17.569463,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,Blake Corum,0.024800000000000003,0.0526,0.0278
+2022-10-12 02:06:24.641809,Premier League Futures/Specials - English Premier League 2022/23 - PFA Player of the Year 2022/23,Gabriel Jesus,0.0245,0.0833,0.0588
+2022-10-12 02:06:16.959568,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Dameon Pierce,0.024399999999999998,0.0385,0.0141
+2022-10-12 02:06:24.570833,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Newcastle United,0.0242,0.0909,0.0667
+2022-10-12 02:06:23.856234,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Jamal Musiala,0.0242,0.0909,0.0667
+2022-10-12 02:06:17.767026,AFC West - 2022/2023 AFC West - AFC West Winner,Las Vegas Raiders,0.0242,0.0909,0.0667
+2022-10-12 02:06:24.404557,League Two - England - League Two 2022/23 - To Be Promoted,Walsall,0.0242,0.0909,0.0667
+2022-10-12 02:06:17.696264,NFC West - 2022/2023 NFC West - NFC West Winner,Seattle Seahawks,0.023899999999999998,0.0435,0.0196
+2022-10-12 02:06:17.125695,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  New England Patriots,Over 7.5,0.023800000000000043,0.5238,0.5
+2022-10-12 02:06:20.775841,Team Seeding - 2022/23 - CHI Bulls,Over 8.5,0.023799999999999988,0.5,0.4762
+2022-10-12 02:06:16.930459,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),Marquise Brown,0.023200000000000002,0.0476,0.0244
+2022-10-12 02:06:21.849990,Japan B League - Japan League B1 2022/23 - Outright,Nagoya Diamond Dolphins,0.0232,0.0667,0.0435
+2022-10-12 02:06:17.451903,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - New Orleans Saints,No,0.0232,0.7333,0.7101
+2022-10-12 02:06:16.828243,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Rookie of the Year,Travon Walker,0.02310000000000001,0.1,0.0769
+2022-10-12 02:06:22.131581,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Chris Finch,0.02310000000000001,0.1,0.0769
+2022-10-12 02:06:23.791529,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Rennes,0.02310000000000001,0.1,0.0769
+2022-10-12 02:06:17.528167,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Seattle Seahawks,Yes,0.02310000000000001,0.1,0.0769
+2022-10-12 02:06:24.656268,Premier League Futures/Specials - English Premier League 2022/23 - Team To Go Unbeaten,Man City,0.02310000000000001,0.1,0.0769
+2022-10-12 02:06:16.959568,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Khalil Herbert,0.0228,0.0294,0.0066
+2022-10-12 02:06:17.073731,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Jacksonville Jaguars,Over 7.5,0.022600000000000064,0.6226,0.6
+2022-10-12 02:06:17.067343,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Indianapolis Colts,Under 8.5,0.022600000000000064,0.5348,0.5122
+2022-10-12 02:06:18.965505,2022/23 NBA - Regular Season Wins - Regular Season Wins - Alternate Totals - POR Trail Blazers ,Under 35.5,0.02260000000000001,0.3125,0.2899
+2022-10-12 02:06:16.874005,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Dak Prescott,0.022400000000000003,0.0323,0.0099
+2022-10-12 02:06:16.930459,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),Chris Olave,0.022200000000000004,0.0345,0.0123
+2022-10-12 02:06:17.677495,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Philadelphia Eagles,0.022199999999999998,0.1333,0.1111
+2022-10-12 02:06:17.677495,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Buffalo Bills,0.022199999999999998,0.2222,0.2
+2022-10-12 02:06:24.579817,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Manchester United,0.022199999999999998,0.8,0.7778
+2022-10-12 02:06:16.948788,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),Mike Williams,0.022099999999999998,0.0385,0.0164
+2022-10-12 02:06:16.333192,Boxing Lines - Jason Moloney vs Nawaphon Kaikanha - To Win the Bout,Jason Moloney,0.02189999999999992,0.9167,0.8948
+2022-10-12 02:06:16.880716,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Jared Goff,0.021799999999999996,0.0435,0.0217
+2022-10-12 02:06:18.714535,2022/23 NBA - Regular Season Wins - Regular Season Wins - Alternate Totals - HOU Rockets ,Under 20.5,0.020799999999999985,0.3333,0.3125
+2022-10-12 02:06:19.854290,2022/23 Player Stats per Game - Rebounds per Game - Jusuf Nurkic,Under 10.5,0.02079999999999993,0.5556,0.5348
+2022-10-12 02:06:19.761511,2022/23 Player Stats per Game - Rebounds per Game - Christian Wood,Under 9.1,0.02079999999999993,0.5556,0.5348
+2022-10-12 02:06:19.590707,2022/23 Player Stats per Game - Points per Game - Keldon Johnson,Over 19.8,0.02079999999999993,0.5556,0.5348
+2022-10-12 02:06:16.981761,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Arizona Cardinals,Under 7.5,0.02079999999999993,0.5556,0.5348
+2022-10-12 02:06:16.847448,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Player of the Year,Lamar Jackson,0.02049999999999999,0.1538,0.1333
+2022-10-12 02:06:24.388006,League Two - England - League Two 2022/23 - Top Goalscorer,George Miller,0.0203,0.0588,0.0385
+2022-10-12 02:06:23.971720,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Borja Iglesias (Real Betis),0.0203,0.0588,0.0385
+2022-10-12 02:06:24.035963,MLS - MLS Cup 2022 - Winner,LA Galaxy,0.0203,0.0588,0.0385
+2022-10-12 02:06:23.856234,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Marcus Thuram,0.0203,0.0588,0.0385
+2022-10-12 02:06:16.948788,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),Austin Ekeler,0.0203,0.0588,0.0385
+2022-10-12 02:06:16.579411,95th Academy Awards - Best Picture - Best Picture,Top Gun: Maverick,0.0203,0.0588,0.0385
+2022-10-12 02:06:17.368161,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Jacksonville Jaguars,No,0.020299999999999985,0.6429,0.6226
+2022-10-12 02:06:24.117026,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Tigres UANL,0.02020000000000001,0.1111,0.0909
+2022-10-12 02:06:23.812610,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Lionel Messi,0.02020000000000001,0.1111,0.0909
+2022-10-12 02:06:24.035963,MLS - MLS Cup 2022 - Winner,CF Montréal,0.02020000000000001,0.1111,0.0909
+2022-10-12 02:06:17.569463,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,Drake Maye,0.020000000000000004,0.0323,0.0123
+2022-10-12 02:06:18.363852,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Los Angeles Lakers,Under 45.5,0.01970000000000005,0.5652,0.5455
+2022-10-12 02:06:24.579817,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Brighton & Hove Albion,0.019100000000000006,0.25,0.2309
+2022-10-12 02:06:24.626774,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Crystal Palace,0.019100000000000006,0.9524,0.9333
+2022-10-12 02:06:17.569463,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,Jahmyr Gibbs,0.019099999999999995,0.0435,0.0244
+2022-10-12 02:06:24.133427,UEFA Champions League - Group B - Group Winner,FC Porto,0.019099999999999992,0.0667,0.0476
+2022-10-12 02:06:24.229874,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,Nice,0.019099999999999992,0.0667,0.0476
+2022-10-12 02:06:24.117026,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Deportivo Toluca,0.019099999999999992,0.0667,0.0476
+2022-10-12 02:06:16.828243,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Rookie of the Year,Jalen Pitre,0.019099999999999992,0.0667,0.0476
+2022-10-12 02:06:23.856234,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Youssoufa Moukoko,0.0189,0.0385,0.0196
+2022-10-12 02:06:23.963085,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Valencia,0.0189,0.0385,0.0196
+2022-10-12 02:06:16.874005,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Russell Wilson,0.0189,0.0385,0.0196
+2022-10-12 02:06:16.914620,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Amon-Ra St. Brown,0.0189,0.0385,0.0196
+2022-10-12 02:06:18.284071,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Denver Nuggets,Over 50.5,0.01880000000000004,0.5744,0.5556
+2022-10-12 02:06:17.360641,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Indianapolis Colts,Yes,0.01880000000000004,0.5744,0.5556
+2022-10-12 02:06:24.289069,Super Lig - Turkey Super League 22/23 - Outright,Besiktas,0.01820000000000002,0.2,0.1818
+2022-10-12 02:06:24.450409,League Two - England - League Two 2022/23 - Top 3 Finish,Walsall,0.018200000000000004,0.0476,0.0294
+2022-10-12 02:06:24.100738,Championship - England Championship 2022/23 - Outright,Queens Park Rangers,0.018200000000000004,0.0476,0.0294
+2022-10-12 02:06:16.858029,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Tyler Allgeier,0.0182,0.0323,0.0141
+2022-10-12 02:06:24.550307,Premier League Futures/Specials - English Premier League 2022/23 - Top 2 Finish,Manchester City,0.018100000000000005,0.9412,0.9231
+2022-10-12 02:06:16.930459,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),Tyler Lockett,0.0181,0.0345,0.0164
+2022-10-12 02:06:23.903801,Serie A - Italy Serie A 2022/23 - Winner,Lazio,0.018099999999999998,0.0526,0.0345
+2022-10-12 02:06:16.858029,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Kenny Pickett,0.018099999999999998,0.0769,0.0588
+2022-10-12 02:06:23.856234,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Timo Werner,0.018099999999999998,0.0769,0.0588
+2022-10-12 02:06:16.561884,95th Academy Awards - Best Actress - Best Actress,Viola Davis,0.018099999999999998,0.0769,0.0588
+2022-10-12 02:06:24.388006,League Two - England - League Two 2022/23 - Top Goalscorer,Danny Johnson,0.0179,0.1429,0.125
+2022-10-12 02:06:24.501807,Premier League Futures/Specials - English Premier League 2022/23 - Winner without 'The Big Six',West Ham United,0.0179,0.1429,0.125
+2022-10-12 02:06:24.374945,League Two - England - League Two 2022/23 - Outright,Salford City,0.0179,0.1429,0.125
+2022-10-12 02:06:19.057651,2022/23 NBA - Regular Season Wins - Regular Season Wins - Alternate Totals - WAS Wizards ,Under 31.5,0.017799999999999983,0.3077,0.2899
+2022-10-12 02:06:19.020160,2022/23 NBA - Regular Season Wins - Regular Season Wins - Alternate Totals - TOR Raptors ,Over 49.5,0.017600000000000005,0.3509,0.3333
+2022-10-12 02:06:24.501807,Premier League Futures/Specials - English Premier League 2022/23 - Winner without 'The Big Six',Brighton & Hove Albion,0.017600000000000005,0.3509,0.3333
+2022-10-12 02:06:20.449533,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Charlotte Hornets,No,0.01739999999999997,0.7674,0.75
+2022-10-12 02:06:18.515079,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Utah Jazz,Under 25.5,0.017299999999999982,0.5917,0.5744
+2022-10-12 02:06:21.886336,Serie A - Serie A 2022/23 - Outright,Olimpia Milano,0.017299999999999982,0.5917,0.5744
+2022-10-12 02:06:18.479164,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Sacramento Kings,Over 33.5,0.017299999999999982,0.5917,0.5744
+2022-10-12 02:06:24.388006,League Two - England - League Two 2022/23 - Top Goalscorer,Josh Umerah,0.017099999999999997,0.0294,0.0123
+2022-10-12 02:06:16.948788,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),Courtland Sutton,0.0168,0.0385,0.0217
+2022-10-12 02:06:17.634032,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Minnesota Vikings,0.016700000000000007,0.1,0.0833
+2022-10-12 02:06:17.617475,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Los Angeles Chargers,0.016700000000000007,0.1,0.0833
+2022-10-12 02:06:24.429168,League Two - England - League Two 2022/23 - To Be Relegated,Harrogate Town,0.016699999999999993,0.2667,0.25
+2022-10-12 02:06:18.723672,2022/23 NBA - Regular Season Wins - Regular Season Wins - Alternate Totals - HOU Rockets ,Over 27.5,0.016699999999999993,0.2667,0.25
+2022-10-12 02:06:24.459754,League Two - England - League Two 2022/23 - Top 7 Finish,Grimsby Town,0.016699999999999993,0.2667,0.25
+2022-10-12 02:06:24.537978,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Wolverhampton Wanderers,0.016699999999999993,0.2667,0.25
+2022-10-12 02:06:24.348368,League One - England - League One 2022/23 - Outright,Plymouth Argyle,0.016600000000000004,0.0833,0.0667
+2022-10-12 02:06:16.801988,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Comeback Player of the Year Award,JJ Watt,0.0159,0.0323,0.0164
+2022-10-12 02:06:16.948788,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),Devonta Smith,0.0159,0.0323,0.0164
+2022-10-12 02:06:17.677495,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Kansas City Chiefs,0.015700000000000006,0.1333,0.1176
+2022-10-12 02:06:16.914620,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Jahan Dotson,0.0157,0.0435,0.0278
+2022-10-12 02:06:23.993420,La Liga - Spain La Liga 2022/23 - Top 4 Finish,FC Barcelona,0.015599999999999947,0.996,0.9804
+2022-10-12 02:06:21.865319,LNB Pro A - LNB Pro A 2022/23 - Outright,Le Mans Sarthe Basket,0.015300000000000001,0.0588,0.0435
+2022-10-12 02:06:21.038682,Number 1 Seed - 2022/23 NBA - Eastern Conference No. 1 Seed,PHI 76ers,0.015100000000000002,0.1818,0.1667
+2022-10-12 02:06:16.094779,Boxing Lines - Ginny Fuchs vs Gemma Ruegg - To Win the Bout,Ginny Fuchs,0.014900000000000024,0.9804,0.9655
+2022-10-12 02:06:16.858029,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Brian Robinson Jr,0.014899999999999997,0.0625,0.0476
+2022-10-12 02:06:23.993420,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Real Madrid,0.014599999999999946,0.995,0.9804
+2022-10-12 02:06:23.903801,Serie A - Italy Serie A 2022/23 - Winner,Udinese,0.0145,0.0244,0.0099
+2022-10-12 02:06:17.569463,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,Bo Nix,0.0145,0.0244,0.0099
+2022-10-12 02:06:16.874005,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Mitchell Trubisky,0.0145,0.0244,0.0099
+2022-10-12 02:06:24.603752,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Liverpool,0.0145,0.0244,0.0099
+2022-10-12 02:06:16.930459,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),Tee Higgins,0.0145,0.0244,0.0099
+2022-10-12 02:06:24.641809,Premier League Futures/Specials - English Premier League 2022/23 - PFA Player of the Year 2022/23,Bukayo Saka,0.014499999999999999,0.0294,0.0149
+2022-10-12 02:06:16.874005,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Zach Wilson,0.014100000000000001,0.0526,0.0385
+2022-10-12 02:06:16.815042,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Player of the Year,Rashan Gary,0.014100000000000001,0.0526,0.0385
+2022-10-12 02:06:16.874005,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Marcus Mariota,0.014100000000000001,0.0526,0.0385
+2022-10-12 02:06:17.569463,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,Adrian Martinez,0.014099999999999998,0.0385,0.0244
+2022-10-12 02:06:23.812610,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Wissam Ben Yedder,0.014099999999999998,0.0385,0.0244
+2022-10-12 02:06:24.189296,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Napoli,0.014099999999999998,0.0385,0.0244
+2022-10-12 02:06:24.429168,League Two - England - League Two 2022/23 - To Be Relegated,Sutton Utd,0.014099999999999998,0.0385,0.0244
+2022-10-12 02:06:16.959568,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Josh Jacobs,0.014099999999999998,0.0385,0.0244
+2022-10-12 02:06:24.388006,League Two - England - League Two 2022/23 - Top Goalscorer,Omar Bogle,0.014099999999999998,0.0385,0.0244
+2022-10-12 02:06:23.856234,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Jonas Hofmann,0.014099999999999998,0.0385,0.0244
+2022-10-12 02:06:23.856234,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Michael Gregoritsch,0.014099999999999998,0.0385,0.0244
+2022-10-12 02:06:17.569463,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,DJ Uiagalelei,0.014099999999999998,0.0385,0.0244
+2022-10-12 02:06:17.677495,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,San Francisco 49ers,0.014099999999999994,0.0667,0.0526
+2022-10-12 02:06:22.131581,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Taylor Jenkins,0.013999999999999999,0.0909,0.0769
+2022-10-12 02:06:16.847448,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Player of the Year,Saquon Barkley,0.013999999999999999,0.0909,0.0769
+2022-10-12 02:06:24.626774,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Brentford,0.013900000000000023,0.8889,0.875
+2022-10-12 02:06:16.858029,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Romeo Doubs,0.013899999999999996,0.125,0.1111
+2022-10-12 02:06:16.874005,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Matthew Stafford,0.013899999999999996,0.125,0.1111
+2022-10-12 02:06:18.779844,2022/23 NBA - Regular Season Wins - Regular Season Wins - Alternate Totals - MEM Grizzlies,Under 52.5,0.013500000000000068,0.7468,0.7333
+2022-10-12 02:06:23.951287,La Liga - Spain La Liga 2022/23 - Winner,Atlético Madrid,0.0131,0.0476,0.0345
+2022-10-12 02:06:18.554724,2022/23 NBA - Regular Season Wins - Regular Season Wins - Alternate Totals - ATL Hawks ,Under 41.5,0.0131,0.303,0.2899
+2022-10-12 02:06:21.811246,Euroleague - Euroleague 2022/23 - Outright,Real Madrid BC,0.0131,0.2353,0.2222
+2022-10-12 02:06:16.828243,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Rookie of the Year,Coby Bryant,0.013,0.0196,0.0066
+2022-10-12 02:06:16.914620,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Isaiah McKenzie,0.013,0.0196,0.0066
+2022-10-12 02:06:16.930459,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),Terry McLaurin,0.012899999999999998,0.0179,0.005
+2022-10-12 02:06:24.100738,Championship - England Championship 2022/23 - Outright,Burnley,0.012899999999999995,0.1667,0.1538
+2022-10-12 02:06:16.828243,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Rookie of the Year,Roger McCreary,0.012700000000000003,0.0323,0.0196
+2022-10-12 02:06:16.930459,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),CeeDee Lamb,0.012700000000000003,0.0323,0.0196
+2022-10-12 02:06:16.891592,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Yards (Regular Season),Matt Ryan,0.012700000000000003,0.0323,0.0196
+2022-10-12 02:06:22.118396,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Caris LeVert,0.012700000000000003,0.0323,0.0196
+2022-10-12 02:06:21.828283,NBL - NBL 2022/23 - Outright,Cairns Taipans,0.012700000000000003,0.0323,0.0196
+2022-10-12 02:06:16.828243,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Rookie of the Year,Boye Mafe,0.012599999999999998,0.0278,0.0152
+2022-10-12 02:06:17.143255,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  New Orleans Saints,Under 7.5,0.012199999999999989,0.5122,0.5
+2022-10-12 02:06:16.847448,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Player of the Year,Travis Kelce,0.012100000000000001,0.0244,0.0123
+2022-10-12 02:06:16.967505,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),Rhamondre Stevenson,0.012100000000000001,0.0244,0.0123
+2022-10-12 02:06:21.865319,LNB Pro A - LNB Pro A 2022/23 - Outright,ADA Blois,0.012100000000000001,0.0244,0.0123
+2022-10-12 02:06:16.525696,Boxing Lines - Dmitry Bivol vs Gilberto Ramirez - To Win the Bout,Gilberto Ramirez,0.011700000000000016,0.2222,0.2105
+2022-10-12 02:06:16.914620,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Devin Duvernay,0.011699999999999999,0.0196,0.0079
+2022-10-12 02:06:25.086376,FIFA World Cup Futures - Group B - To Advance from Group Stage,USA,0.011600000000000055,0.5238,0.5122
+2022-10-12 02:06:16.930459,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),Josh Reynolds,0.0114,0.0164,0.005
+2022-10-12 02:06:16.706895,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,UCLA,0.0114,0.0164,0.005
+2022-10-12 02:06:22.166715,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Devin Vassell,0.011399999999999997,0.0278,0.0164
+2022-10-12 02:06:16.959568,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Kenneth Walker III,0.011399999999999997,0.0278,0.0164
+2022-10-12 02:06:16.959568,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Miles Sanders,0.011399999999999997,0.0278,0.0164
+2022-10-12 02:06:17.677495,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Dallas Cowboys,0.011199999999999995,0.0435,0.0323
+2022-10-12 02:06:16.874005,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Davis Mills,0.011199999999999995,0.0588,0.0476
+2022-10-12 02:06:16.579411,95th Academy Awards - Best Picture - Best Picture,The Whale,0.011199999999999995,0.0588,0.0476
+2022-10-12 02:06:16.874005,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Baker Mayfield,0.011199999999999995,0.0588,0.0476
+2022-10-12 02:06:24.229874,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,Fiorentina,0.011199999999999995,0.0588,0.0476
+2022-10-12 02:06:24.229874,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,AZ Alkmaar,0.011199999999999995,0.0588,0.0476
+2022-10-12 02:06:16.914620,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Gabriel Davis,0.011199999999999995,0.0588,0.0476
+2022-10-12 02:06:24.328172,Eredivisie - Dutch Eredivisie 2022/23 - Winner,Feyenoord,0.011099999999999999,0.1111,0.1
+2022-10-12 02:06:24.077483,A-League - Australia A-League 2022/23 - Grand Final Winner,Macarthur FC,0.011099999999999999,0.1111,0.1
+2022-10-12 02:06:21.811246,Euroleague - Euroleague 2022/23 - Outright,Olympiakos,0.011099999999999999,0.1111,0.1
+2022-10-12 02:06:16.367916,Boxing Lines - Deontay Wilder vs Robert Helenius - To Win the Bout,Deontay Wilder,0.011099999999999999,0.9,0.8889
+2022-10-12 02:06:18.471071,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Portland Trail Blazers,Over 39.5,0.01100000000000001,0.5348,0.5238
+2022-10-12 02:06:18.253777,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Brooklyn Nets,Under 50.5,0.01100000000000001,0.5348,0.5238
+2022-10-12 02:06:16.444224,Boxing Lines - Anderson Silva vs Jake Paul - To Win the Bout,Jake Paul,0.01100000000000001,0.5348,0.5238
+2022-10-12 02:06:24.275620,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Kalmar FF,0.0109,0.0149,0.004
+2022-10-12 02:06:24.229874,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,West Ham United,0.010899999999999993,0.1538,0.1429
+2022-10-12 02:06:23.963085,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Real Sociedad,0.010899999999999993,0.1538,0.1429
+2022-10-12 02:06:16.847448,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Player of the Year,Tyreek Hill,0.010700000000000001,0.0385,0.0278
+2022-10-12 02:06:24.253509,Superligaen - Denmark Superligaen 2022/23 - Outright,FC Copenhagen,0.010699999999999987,0.3333,0.3226
+2022-10-12 02:06:19.860472,2022/23 Player Stats per Game - Rebounds per Game - Karl-Anthony Towns ,Under 9,0.010699999999999932,0.5455,0.5348
+2022-10-12 02:06:18.505512,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Toronto Raptors,Under 45.5,0.010599999999999998,0.4651,0.4545
+2022-10-12 02:06:16.948788,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),DK Metcalf,0.010300000000000002,0.0244,0.0141
+2022-10-12 02:06:24.289069,Super Lig - Turkey Super League 22/23 - Outright,Konyaspor,0.0102,0.0769,0.0667
+2022-10-12 02:06:23.913211,Serie A - Italy Serie A 2022/23 - To Be Relegated,Sassuolo,0.0102,0.0769,0.0667
+2022-10-12 02:06:16.847448,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Player of the Year,Nick Chubb,0.0102,0.0769,0.0667
+2022-10-12 02:06:16.959568,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Dalvin Cook,0.0102,0.0769,0.0667
+2022-10-12 02:06:16.815042,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Player of the Year,Aaron Donald,0.0102,0.0769,0.0667
+2022-10-12 02:06:23.963085,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Osasuna,0.010100000000000001,0.0345,0.0244
+2022-10-12 02:06:17.617475,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Las Vegas Raiders,0.010100000000000001,0.0345,0.0244
+2022-10-12 02:06:21.917427,Liga ACB - Liga ACB 2022/23 - Outright,Tenerife,0.010100000000000001,0.0345,0.0244
+2022-10-12 02:06:22.118396,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Kendrick Nunn,0.0101,0.0141,0.004
+2022-10-12 02:06:23.870409,1. Bundesliga - Germany Bundesliga 2022/23 - Winner without Bayern Munich,Borussia Dortmund,0.010099999999999998,0.4545,0.4444
+2022-10-12 02:06:16.610776,KBO League - KBO League 2022 - Outright,SSG Landers,-0.010099999999999998,0.5455,0.5556
+2022-10-12 02:06:16.847448,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Player of the Year,Justin Herbert,-0.010100000000000001,0.0244,0.0345
+2022-10-12 02:06:24.579817,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Everton,-0.010100000000000001,0.0244,0.0345
+2022-10-12 02:06:17.634032,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Arizona Cardinals,-0.010100000000000001,0.0244,0.0345
+2022-10-12 02:06:22.131581,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Steve Nash,-0.0102,0.0667,0.0769
+2022-10-12 02:06:24.404557,League Two - England - League Two 2022/23 - To Be Promoted,Crewe Alexandra,-0.0102,0.0667,0.0769
+2022-10-12 02:06:16.828243,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Rookie of the Year,Kayvon Thibodeaux,-0.0102,0.0667,0.0769
+2022-10-12 02:06:22.131581,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Monty Williams,-0.0102,0.0667,0.0769
+2022-10-12 02:06:16.549203,95th Academy Awards - Best Actor - Best Actor,Bill Nighy,-0.0102,0.0667,0.0769
+2022-10-12 02:06:24.189296,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,FC Barcelona,-0.0102,0.0667,0.0769
+2022-10-12 02:06:16.791342,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Kevin O'Connell,-0.0102,0.0667,0.0769
+2022-10-12 02:06:23.963085,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Getafe,-0.0103,0.002,0.0123
+2022-10-12 02:06:16.914620,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Darren Waller,-0.010300000000000002,0.0141,0.0244
+2022-10-12 02:06:16.914620,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),DJ Moore,-0.010300000000000002,0.0141,0.0244
+2022-10-12 02:06:16.948788,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),T.J. Hockenson,-0.010300000000000002,0.0141,0.0244
+2022-10-12 02:06:17.634032,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Detroit Lions,-0.010300000000000002,0.0141,0.0244
+2022-10-12 02:06:21.849990,Japan B League - Japan League B1 2022/23 - Outright,Chiba Jets,-0.010499999999999982,0.2,0.2105
+2022-10-12 02:06:16.914620,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),DK Metcalf,-0.010600000000000002,0.0217,0.0323
+2022-10-12 02:06:16.791342,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Matt Lafleur,-0.010600000000000002,0.0217,0.0323
+2022-10-12 02:06:18.471071,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Portland Trail Blazers,Under 39.5,-0.010699999999999932,0.5348,0.5455
+2022-10-12 02:06:18.253777,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Brooklyn Nets,Over 50.5,-0.010699999999999932,0.5348,0.5455
+2022-10-12 02:06:16.444224,Boxing Lines - Anderson Silva vs Jake Paul - To Win the Bout,Anderson Silva,-0.010699999999999932,0.5348,0.5455
+2022-10-12 02:06:16.874005,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Josh Allen,-0.010700000000000001,0.0278,0.0385
+2022-10-12 02:06:16.959568,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),James Conner,-0.010700000000000001,0.0278,0.0385
+2022-10-12 02:06:24.593497,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Leicester City,-0.010899999999999993,0.1429,0.1538
+2022-10-12 02:06:16.379583,Boxing Lines - George Kambosos Jr vs Devin Haney - To Win the Bout,George Kambosos Jr,-0.010899999999999993,0.1429,0.1538
+2022-10-12 02:06:16.333192,Boxing Lines - Jason Moloney vs Nawaphon Kaikanha - To Win the Bout,Nawaphon Kaikanha,-0.010899999999999993,0.1429,0.1538
+2022-10-12 02:06:24.189296,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Bayern Munich,-0.010899999999999993,0.1429,0.1538
+2022-10-12 02:06:17.757767,NFC South - 2022/2023 NFC South - NFC South Winner,New Orleans Saints,-0.010899999999999993,0.1429,0.1538
+2022-10-12 02:06:16.959568,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Derrick Henry,-0.010899999999999993,0.1429,0.1538
+2022-10-12 02:06:23.971720,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Youssef En-Nesyri (Sevilla),-0.0109,0.004,0.0149
+2022-10-12 02:06:24.641809,Premier League Futures/Specials - English Premier League 2022/23 - PFA Player of the Year 2022/23,Cristiano Ronaldo,-0.0109,0.004,0.0149
+2022-10-12 02:06:23.971720,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Memphis Depay (Barcelona),-0.0109,0.004,0.0149
+2022-10-12 02:06:23.971720,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Sequeira Joao Felix (Atletico Madrid),-0.0109,0.004,0.0149
+2022-10-12 02:06:24.348368,League One - England - League One 2022/23 - Outright,Milton Keynes Dons,-0.011,0.0013,0.0123
+2022-10-12 02:06:19.860472,2022/23 Player Stats per Game - Rebounds per Game - Karl-Anthony Towns ,Over 9,-0.01100000000000001,0.5238,0.5348
+2022-10-12 02:06:23.963085,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Real Betis,-0.011099999999999999,0.1,0.1111
+2022-10-12 02:06:24.077483,A-League - Australia A-League 2022/23 - Grand Final Winner,Western United,-0.011099999999999999,0.1,0.1111
+2022-10-12 02:06:18.058934,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Michelle Obama,-0.011199999999999995,0.0323,0.0435
+2022-10-12 02:06:16.706895,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,USC,-0.011199999999999995,0.0476,0.0588
+2022-10-12 02:06:16.959568,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),James Robinson,-0.011199999999999995,0.0476,0.0588
+2022-10-12 02:06:23.971720,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Iago Aspas (Celta de Vigo),-0.011199999999999995,0.0476,0.0588
+2022-10-12 02:06:16.948788,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),Jaylen Waddle,-0.011199999999999995,0.0476,0.0588
+2022-10-12 02:06:23.978765,La Liga - Spain La Liga 2022/23 - To Be Relegated,Celta de Vigo,-0.011199999999999995,0.0476,0.0588
+2022-10-12 02:06:23.971720,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Vinicius Jr (Real Madrid),-0.011199999999999995,0.0476,0.0588
+2022-10-12 02:06:16.847448,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Player of the Year,Jaylen Waddle,-0.011200000000000002,0.0132,0.0244
+2022-10-12 02:06:16.866790,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Russell Wilson,-0.011200000000000002,0.0132,0.0244
+2022-10-12 02:06:16.801988,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Comeback Player of the Year Award,Danielle Hunter,-0.011200000000000002,0.0132,0.0244
+2022-10-12 02:06:23.993420,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Elche,-0.011300000000000001,0.001,0.0123
+2022-10-12 02:06:23.963085,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Cádiz,-0.011300000000000001,0.001,0.0123
+2022-10-12 02:06:16.706895,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,Washington,-0.011300000000000001,0.001,0.0123
+2022-10-12 02:06:16.914620,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Courtland Sutton,-0.011399999999999997,0.0164,0.0278
+2022-10-12 02:06:16.847448,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Player of the Year,Aaron Rodgers,-0.0114,0.005,0.0164
+2022-10-12 02:06:16.930459,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),Hunter Renfrow,-0.0114,0.005,0.0164
+2022-10-12 02:06:24.603752,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Crystal Palace,-0.011499999999999955,0.6552,0.6667
+2022-10-12 02:06:18.058934,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Mitt Romney,-0.0116,0.0033,0.0149
+2022-10-12 02:06:18.479164,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Sacramento Kings,Under 33.5,-0.0116,0.4762,0.4878
+2022-10-12 02:06:18.515079,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Utah Jazz,Over 25.5,-0.0116,0.4762,0.4878
+2022-10-12 02:06:23.413315,Tournament Match-Ups - Tournament Match-Up - C. Smith v D. Johnson - Tournament Match-Up,Cameron Smith,-0.011600000000000055,0.5122,0.5238
+2022-10-12 02:06:16.815042,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Player of the Year,Xavien Howard,-0.011699999999999999,0.0079,0.0196
+2022-10-12 02:06:23.791529,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Montpellier,-0.011699999999999999,0.0079,0.0196
+2022-10-12 02:06:16.791342,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Dennis Allen,-0.012100000000000001,0.0123,0.0244
+2022-10-12 02:06:17.569463,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,JJ McCarthy,-0.012100000000000001,0.0123,0.0244
+2022-10-12 02:06:16.930459,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),Michael Pittman Jr,-0.012100000000000001,0.0123,0.0244
+2022-10-12 02:06:16.948788,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),Dalton Schultz,-0.012100000000000001,0.0123,0.0244
+2022-10-12 02:06:24.526876,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Darwin Nunez,-0.012100000000000001,0.0123,0.0244
+2022-10-12 02:06:16.891592,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Yards (Regular Season),Jameis Winston,-0.012100000000000001,0.0123,0.0244
+2022-10-12 02:06:23.837348,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Nantes,-0.012100000000000001,0.0123,0.0244
+2022-10-12 02:06:23.884182,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,VfB Stuttgart,-0.012100000000000001,0.0123,0.0244
+2022-10-12 02:06:16.959568,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),David Montgomery,-0.012100000000000001,0.0123,0.0244
+2022-10-12 02:06:16.959568,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Devin Singletary,-0.012100000000000001,0.0123,0.0244
+2022-10-12 02:06:23.993420,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Mallorca,-0.012100000000000001,0.0123,0.0244
+2022-10-12 02:06:16.251034,Boxing Lines - Savannah Marshall vs Claressa Shields - To Win the Bout,Savannah Marshall,-0.012199999999999989,0.5,0.5122
+2022-10-12 02:06:18.461520,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Phoenix Suns,Over 52.5,-0.012199999999999989,0.5,0.5122
+2022-10-12 02:06:16.999736,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Buffalo Bills,Under 12.5,-0.012199999999999989,0.5,0.5122
+2022-10-12 02:06:18.394150,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Minnesota Timberwolves,Under 48.5,-0.012199999999999989,0.4878,0.5
+2022-10-12 02:06:19.430502,2022/23 Player Stats per Game - Points per Game - Cade Cummingham,Under 19.5,-0.012199999999999989,0.4878,0.5
+2022-10-12 02:06:18.069956,Brazilian Politics - 2022 Brazilian Presidential Election - Winner,Jair Bolsonaro,-0.012299999999999978,0.3448,0.3571
+2022-10-12 02:06:16.847448,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Player of the Year,Michael Pittman Jr,-0.012400000000000001,0.004,0.0164
+2022-10-12 02:06:16.914620,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Keenan Allen,-0.012700000000000003,0.0196,0.0323
+2022-10-12 02:06:16.858029,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Kenneth Walker III,-0.012700000000000003,0.0196,0.0323
+2022-10-12 02:06:16.858029,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Rachaad White,-0.012700000000000003,0.0196,0.0323
+2022-10-12 02:06:16.866790,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Trevor Lawrence,-0.012700000000000003,0.0196,0.0323
+2022-10-12 02:06:16.948788,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),Hunter Renfrow,-0.012700000000000003,0.0196,0.0323
+2022-10-12 02:06:16.948788,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),Drake London,-0.012700000000000003,0.0196,0.0323
+2022-10-12 02:06:16.866790,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Matthew Stafford,-0.012700000000000003,0.0196,0.0323
+2022-10-12 02:06:23.963085,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Almería,-0.0129,0.002,0.0149
+2022-10-12 02:06:24.526876,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Bruno Fernandes,-0.0129,0.002,0.0149
+2022-10-12 02:06:24.450409,League Two - England - League Two 2022/23 - Top 3 Finish,Crawley Town,-0.013,0.0066,0.0196
+2022-10-12 02:06:23.812610,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Nicolas Pepe,-0.013,0.0066,0.0196
+2022-10-12 02:06:24.641809,Premier League Futures/Specials - English Premier League 2022/23 - PFA Player of the Year 2022/23,Virgil van Dijk,-0.013,0.0066,0.0196
+2022-10-12 02:06:16.880716,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Baker Mayfield,-0.013,0.0066,0.0196
+2022-10-12 02:06:23.971720,La Liga - Spain La Liga 2022/23 - Top Goalscorer,De Goes Rodrygo (Real Madrid),-0.013,0.0066,0.0196
+2022-10-12 02:06:24.641809,Premier League Futures/Specials - English Premier League 2022/23 - PFA Player of the Year 2022/23,Trent Alexander-Arnold,-0.013,0.0066,0.0196
+2022-10-12 02:06:24.526876,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Marcus Rashford,-0.013,0.0066,0.0196
+2022-10-12 02:06:16.930459,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),Travis Kelce,-0.0131,0.0345,0.0476
+2022-10-12 02:06:16.959568,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Lamar Jackson,-0.0131,0.0345,0.0476
+2022-10-12 02:06:24.035963,MLS - MLS Cup 2022 - Winner,FC Cincinnati,-0.0131,0.0345,0.0476
+2022-10-12 02:06:23.837348,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,AJ Auxerre,-0.013600000000000001,0.0013,0.0149
+2022-10-12 02:06:16.367916,Boxing Lines - Deontay Wilder vs Robert Helenius - To Win the Bout,Robert Helenius,-0.013899999999999996,0.16,0.1739
+2022-10-12 02:06:22.181631,NBA Awards - 2022/23 NBA Awards - 2022/23 The Rookie of the Year,Jabari Smith Jr.,-0.013899999999999996,0.1111,0.125
+2022-10-12 02:06:21.901442,LKL - LKL 2022/23 - Outright,Wolves,-0.013899999999999996,0.1111,0.125
+2022-10-12 02:06:17.646776,NFC East - 2022/2023 NFC East - NFC East Winner,New York Giants,-0.013999999999999999,0.0769,0.0909
+2022-10-12 02:06:16.858029,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,George Pickens,-0.013999999999999999,0.0769,0.0909
+2022-10-12 02:06:24.450409,League Two - England - League Two 2022/23 - Top 3 Finish,Swindon Town,-0.013999999999999999,0.0769,0.0909
+2022-10-12 02:06:16.914620,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Justin Jefferson,-0.013999999999999999,0.0769,0.0909
+2022-10-12 02:06:24.626774,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Aston Villa,-0.014000000000000012,0.9091,0.9231
+2022-10-12 02:06:20.449533,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Charlotte Hornets,Yes,-0.014000000000000012,0.2985,0.3125
+2022-10-12 02:06:16.914620,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Jaylen Waddle,-0.014099999999999994,0.0526,0.0667
+2022-10-12 02:06:21.939452,Super Ligi - Turkey BSL 2022/23 - Outright,Galatasaray SK,-0.014099999999999994,0.0526,0.0667
+2022-10-12 02:06:16.967505,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),Aaron Jones,-0.014099999999999994,0.0526,0.0667
+2022-10-12 02:06:24.603752,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Chelsea,-0.014099999999999998,0.0244,0.0385
+2022-10-12 02:06:24.100738,Championship - England Championship 2022/23 - Outright,West Bromwich Albion,-0.014099999999999998,0.0244,0.0385
+2022-10-12 02:06:16.874005,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Geno Smith,-0.014099999999999998,0.0244,0.0385
+2022-10-12 02:06:21.865319,LNB Pro A - LNB Pro A 2022/23 - Outright,Paris,-0.014099999999999998,0.0244,0.0385
+2022-10-12 02:06:16.948788,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),Michael Pittman Jr,-0.014099999999999998,0.0244,0.0385
+2022-10-12 02:06:24.501807,Premier League Futures/Specials - English Premier League 2022/23 - Winner without 'The Big Six',Brentford,-0.014099999999999998,0.0294,0.0435
+2022-10-12 02:06:16.828243,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Rookie of the Year,Derek Stingley Jr,-0.014099999999999998,0.0244,0.0385
+2022-10-12 02:06:16.914620,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Drake London,-0.014099999999999998,0.0244,0.0385
+2022-10-12 02:06:23.922522,Serie A - Italy Serie A 2022/23 - Top 4 Finish,Torino,-0.014099999999999998,0.0244,0.0385
+2022-10-12 02:06:24.077483,A-League - Australia A-League 2022/23 - Grand Final Winner,Wellington Phoenix,-0.014099999999999998,0.0244,0.0385
+2022-10-12 02:06:23.876785,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Borussia Mönchengladbach,-0.014099999999999998,0.0244,0.0385
+2022-10-12 02:06:16.828243,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Rookie of the Year,Trent McDuffie,-0.014099999999999998,0.0244,0.0385
+2022-10-12 02:06:16.874005,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Tua Tagovailoa,-0.014099999999999998,0.0244,0.0385
+2022-10-12 02:06:23.812610,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Alexandre Lacazette,-0.014099999999999998,0.0244,0.0385
+2022-10-12 02:06:16.828243,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Rookie of the Year,Kyle Hamilton,-0.014099999999999998,0.0244,0.0385
+2022-10-12 02:06:24.348368,League One - England - League One 2022/23 - Outright,Barnsley,-0.014099999999999998,0.0244,0.0385
+2022-10-12 02:06:16.967505,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),Joe Mixon,-0.014099999999999998,0.0244,0.0385
+2022-10-12 02:06:16.880716,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Trevor Lawrence,-0.014100000000000001,0.0385,0.0526
+2022-10-12 02:06:22.118396,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Jordan Clarkson,-0.014100000000000001,0.0385,0.0526
+2022-10-12 02:06:16.828243,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Rookie of the Year,Jordan Davis,-0.014100000000000001,0.0385,0.0526
+2022-10-12 02:06:16.914620,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Amari Cooper,-0.014400000000000003,0.0179,0.0323
+2022-10-12 02:06:16.967505,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),Damien Harris,-0.014499999999999999,0.0149,0.0294
+2022-10-12 02:06:23.856234,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Thomas Muller,-0.014499999999999999,0.0149,0.0294
+2022-10-12 02:06:24.537978,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Brighton & Hove Albion,-0.014499999999999999,0.0149,0.0294
+2022-10-12 02:06:24.491984,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester United,-0.014499999999999999,0.0149,0.0294
+2022-10-12 02:06:23.856234,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Miguel Andre Silva,-0.014499999999999999,0.0149,0.0294
+2022-10-12 02:06:23.856234,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Lukas Nmecha,-0.014499999999999999,0.0149,0.0294
+2022-10-12 02:06:16.815042,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Player of the Year,Roquan Smith,-0.0145,0.0099,0.0244
+2022-10-12 02:06:16.967505,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),Najee Harris,-0.0145,0.0099,0.0244
+2022-10-12 02:06:16.791342,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Todd Bowles,-0.0145,0.0099,0.0244
+2022-10-12 02:06:16.914620,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Diontae Johnson,-0.0145,0.0099,0.0244
+2022-10-12 02:06:16.791342,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Mike Tomlin,-0.0145,0.0099,0.0244
+2022-10-12 02:06:24.289069,Super Lig - Turkey Super League 22/23 - Outright,Gaziantep,-0.0145,0.0099,0.0244
+2022-10-12 02:06:23.856234,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Randal Muani,-0.0145,0.0099,0.0244
+2022-10-12 02:06:24.537978,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Newcastle United,-0.0145,0.0099,0.0244
+2022-10-12 02:06:16.914620,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Dalton Schultz,-0.0145,0.0099,0.0244
+2022-10-12 02:06:24.603752,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Arsenal,-0.0145,0.0099,0.0244
+2022-10-12 02:06:16.815042,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Player of the Year,Bobby Wagner,-0.014599999999999998,0.005,0.0196
+2022-10-12 02:06:16.801988,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Comeback Player of the Year Award,Chase Young,-0.014599999999999998,0.005,0.0196
+2022-10-12 02:06:23.971720,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Enes Unal (Getafe),-0.014599999999999998,0.005,0.0196
+2022-10-12 02:06:23.993420,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Girona,-0.014599999999999998,0.005,0.0196
+2022-10-12 02:06:24.526876,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Wilfried Zaha,-0.014599999999999998,0.005,0.0196
+2022-10-12 02:06:16.801988,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Comeback Player of the Year Award,Mitchell Trubisky,-0.014599999999999998,0.005,0.0196
+2022-10-12 02:06:16.858029,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Jahan Dotson,-0.014899999999999997,0.0476,0.0625
+2022-10-12 02:06:24.579817,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Brentford,-0.014900000000000004,0.0196,0.0345
+2022-10-12 02:06:23.812610,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Florian Sotoca,-0.014900000000000004,0.0196,0.0345
+2022-10-12 02:06:24.501807,Premier League Futures/Specials - English Premier League 2022/23 - Winner without 'The Big Six',Wolverhampton Wanderers,-0.014900000000000004,0.0196,0.0345
+2022-10-12 02:06:24.459754,League Two - England - League Two 2022/23 - Top 7 Finish,Leyton Orient,-0.015100000000000002,0.8182,0.8333
+2022-10-12 02:06:16.866790,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Lamar Jackson,-0.015100000000000002,0.1667,0.1818
+2022-10-12 02:06:24.537978,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Brentford,-0.015100000000000002,0.1667,0.1818
+2022-10-12 02:06:16.858029,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Isiah Pacheco,-0.015300000000000001,0.0323,0.0476
+2022-10-12 02:06:17.617475,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Indianapolis Colts,-0.015300000000000001,0.0323,0.0476
+2022-10-12 02:06:16.880716,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Derek Carr,-0.015300000000000001,0.0435,0.0588
+2022-10-12 02:06:18.505512,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Toronto Raptors,Over 45.5,-0.01539999999999997,0.6,0.6154
+2022-10-12 02:06:20.274316,2022/23 Regular Season Player Leaders - Assists Leader - APG,Chris Paul,-0.015400000000000025,0.3846,0.4
+2022-10-12 02:06:24.593497,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Aston Villa,-0.015400000000000025,0.3846,0.4
+2022-10-12 02:06:23.922522,Serie A - Italy Serie A 2022/23 - Top 4 Finish,Sassuolo,-0.015499999999999998,0.0123,0.0278
+2022-10-12 02:06:23.922522,Serie A - Italy Serie A 2022/23 - Top 4 Finish,Hellas Verona,-0.0156,0.004,0.0196
+2022-10-12 02:06:23.876785,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Freiburg,-0.0156,0.004,0.0196
+2022-10-12 02:06:23.978765,La Liga - Spain La Liga 2022/23 - To Be Relegated,Real Sociedad,-0.0156,0.004,0.0196
+2022-10-12 02:06:18.779844,2022/23 NBA - Regular Season Wins - Regular Season Wins - Alternate Totals - MEM Grizzlies,Over 52.5,-0.01579999999999998,0.3175,0.3333
+2022-10-12 02:06:16.914620,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Michael Pittman Jr,-0.0159,0.0164,0.0323
+2022-10-12 02:06:16.959568,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),D'Andre Swift,-0.0159,0.0164,0.0323
+2022-10-12 02:06:18.554724,2022/23 NBA - Regular Season Wins - Regular Season Wins - Alternate Totals - ATL Hawks ,Over 41.5,-0.015900000000000025,0.7619,0.7778
+2022-10-12 02:06:23.993420,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Real Valladolid,-0.0163,0.0033,0.0196
+2022-10-12 02:06:16.847448,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Player of the Year,Davin Cook,-0.0165,0.0079,0.0244
+2022-10-12 02:06:24.526876,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Luis Diaz,-0.0165,0.0079,0.0244
+2022-10-12 02:06:21.886336,Serie A - Serie A 2022/23 - Outright,Virtus Bologna,-0.016699999999999993,0.4,0.4167
+2022-10-12 02:06:16.858029,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Garrett Wilson,-0.016700000000000007,0.0833,0.1
+2022-10-12 02:06:24.626774,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Southampton,-0.016700000000000048,0.7333,0.75
+2022-10-12 02:06:18.714535,2022/23 NBA - Regular Season Wins - Regular Season Wins - Alternate Totals - HOU Rockets ,Over 20.5,-0.016700000000000048,0.7333,0.75
+2022-10-12 02:06:16.525696,Boxing Lines - Dmitry Bivol vs Gilberto Ramirez - To Win the Bout,Dmitry Bivol,-0.016799999999999926,0.8403,0.8571
+2022-10-12 02:06:16.914620,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Devonta Smith,-0.0168,0.0217,0.0385
+2022-10-12 02:06:16.959568,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Najee Harris,-0.0168,0.0217,0.0385
+2022-10-12 02:06:16.874005,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Justin Herbert,-0.0168,0.0217,0.0385
+2022-10-12 02:06:16.959568,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Ezekiel Elliott,-0.0168,0.0217,0.0385
+2022-10-12 02:06:24.275620,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Malmö FF,-0.017099999999999997,0.0123,0.0294
+2022-10-12 02:06:16.828243,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Rookie of the Year,Nakobe Dean,-0.017100000000000004,0.0152,0.0323
+2022-10-12 02:06:23.971720,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Rafa Mir (Sevilla),-0.017599999999999998,0.002,0.0196
+2022-10-12 02:06:23.922522,Serie A - Italy Serie A 2022/23 - Top 4 Finish,Bologna,-0.017599999999999998,0.002,0.0196
+2022-10-12 02:06:24.537978,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leicester City,-0.017600000000000005,0.3333,0.3509
+2022-10-12 02:06:23.913211,Serie A - Italy Serie A 2022/23 - To Be Relegated,Spezia,-0.017600000000000005,0.3333,0.3509
+2022-10-12 02:06:23.791529,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Marseille,-0.017600000000000005,0.3333,0.3509
+2022-10-12 02:06:17.569463,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,Micheal Penix Jr.,-0.017800000000000003,0.0066,0.0244
+2022-10-12 02:06:24.526876,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Raheem Sterling,-0.017800000000000003,0.0066,0.0244
+2022-10-12 02:06:24.117026,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Santos Laguna,-0.0179,0.125,0.1429
+2022-10-12 02:06:24.404557,League Two - England - League Two 2022/23 - To Be Promoted,Swindon Town,-0.0179,0.125,0.1429
+2022-10-12 02:06:21.901442,LKL - LKL 2022/23 - Outright,Rytas,-0.0179,0.125,0.1429
+2022-10-12 02:06:16.914620,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Hunter Renfrow,-0.0179,0.0099,0.0278
+2022-10-12 02:06:21.875473,Bundesliga - Bundesliga 2022/23 - Outright,ratiopharm Ulm,-0.018099999999999998,0.0345,0.0526
+2022-10-12 02:06:16.847448,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Player of the Year,Josh Allen,-0.018099999999999998,0.0588,0.0769
+2022-10-12 02:06:17.617475,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Cincinnati Bengals,-0.018099999999999998,0.0588,0.0769
+2022-10-12 02:06:24.501807,Premier League Futures/Specials - English Premier League 2022/23 - Winner without 'The Big Six',Aston Villa,-0.018099999999999998,0.0588,0.0769
+2022-10-12 02:06:24.253509,Superligaen - Denmark Superligaen 2022/23 - Outright,Viborg FF,-0.018099999999999998,0.0588,0.0769
+2022-10-12 02:06:16.891592,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Yards (Regular Season),Jalen Hurts,-0.018099999999999998,0.0588,0.0769
+2022-10-12 02:06:16.880716,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Joe Burrow,-0.018099999999999998,0.0588,0.0769
+2022-10-12 02:06:24.077483,A-League - Australia A-League 2022/23 - Grand Final Winner,Adelaide United,-0.018099999999999998,0.0588,0.0769
+2022-10-12 02:06:17.528167,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Seattle Seahawks,No,-0.018100000000000005,0.9671,0.9852
+2022-10-12 02:06:18.723672,2022/23 NBA - Regular Season Wins - Regular Season Wins - Alternate Totals - HOU Rockets ,Under 27.5,-0.018199999999999994,0.8,0.8182
+2022-10-12 02:06:24.229874,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,Istanbul Basaksehir,-0.018200000000000004,0.0294,0.0476
+2022-10-12 02:06:23.837348,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Nice,-0.018200000000000004,0.0294,0.0476
+2022-10-12 02:06:24.229874,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,FC Basel,-0.018200000000000004,0.0294,0.0476
+2022-10-12 02:06:22.118396,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Kelly Oubre Jr.,-0.018200000000000004,0.0294,0.0476
+2022-10-12 02:06:24.100738,Championship - England Championship 2022/23 - Outright,Middlesbrough,-0.018200000000000004,0.0294,0.0476
+2022-10-12 02:06:21.875473,Bundesliga - Bundesliga 2022/23 - Outright,Brose Bamberg,-0.018200000000000004,0.0294,0.0476
+2022-10-12 02:06:24.450409,League Two - England - League Two 2022/23 - Top 3 Finish,Crewe Alexandra,-0.018200000000000004,0.0294,0.0476
+2022-10-12 02:06:24.501807,Premier League Futures/Specials - English Premier League 2022/23 - Winner without 'The Big Six',Leeds United,-0.018200000000000004,0.0294,0.0476
+2022-10-12 02:06:22.118396,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Kevin Love,-0.018200000000000004,0.0294,0.0476
+2022-10-12 02:06:16.579411,95th Academy Awards - Best Picture - Best Picture,Babylon,-0.01820000000000002,0.1818,0.2
+2022-10-12 02:06:24.289069,Super Lig - Turkey Super League 22/23 - Outright,Trabzonspor,-0.01820000000000002,0.1818,0.2
+2022-10-12 02:06:23.826233,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Monaco,-0.0183,0.0013,0.0196
+2022-10-12 02:06:23.993420,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Cádiz,-0.0186,0.001,0.0196
+2022-10-12 02:06:18.025757,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Republican Candidate,Ron DeSantis,-0.018799999999999983,0.3448,0.3636
+2022-10-12 02:06:16.948788,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),Brandin Cooks,-0.0189,0.0196,0.0385
+2022-10-12 02:06:16.866790,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Aaron Rodgers,-0.0189,0.0196,0.0385
+2022-10-12 02:06:24.429168,League Two - England - League Two 2022/23 - To Be Relegated,Tranmere Rovers,-0.0189,0.0196,0.0385
+2022-10-12 02:06:16.914620,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Deebo Samuel,-0.0189,0.0196,0.0385
+2022-10-12 02:06:16.959568,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Kyler Murray,-0.0189,0.0196,0.0385
+2022-10-12 02:06:17.368161,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Jacksonville Jaguars,Yes,-0.018900000000000028,0.4255,0.4444
+2022-10-12 02:06:24.172775,UEFA Champions League - Group D - Group Winner,Sporting CP,-0.018900000000000028,0.4255,0.4444
+2022-10-12 02:06:19.020160,2022/23 NBA - Regular Season Wins - Regular Season Wins - Alternate Totals - TOR Raptors ,Under 49.5,-0.018999999999999906,0.7143,0.7333
+2022-10-12 02:06:24.209235,UEFA Europa League - UEFA Europa League 22/23 - Winner,AS Roma,-0.019099999999999992,0.0476,0.0667
+2022-10-12 02:06:16.847448,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Player of the Year,Christian McCaffrey,-0.019100000000000002,0.0132,0.0323
+2022-10-12 02:06:16.815042,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Player of the Year,T.J. Watt,-0.019100000000000002,0.0132,0.0323
+2022-10-12 02:06:16.801988,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Comeback Player of the Year Award,Marcus Mariota,-0.019100000000000002,0.0132,0.0323
+2022-10-12 02:06:23.971720,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Jimenez Juanmi (Real Betis),-0.0194,0.005,0.0244
+2022-10-12 02:06:16.801988,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Comeback Player of the Year Award,Jeffrey Okudah,-0.0194,0.005,0.0244
+2022-10-12 02:06:23.826233,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Lens,-0.0194,0.005,0.0244
+2022-10-12 02:06:23.826233,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Rennes,-0.019499999999999997,0.0099,0.0294
+2022-10-12 02:06:23.856234,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Marco Reus,-0.019499999999999997,0.0099,0.0294
+2022-10-12 02:06:23.778932,Ligue 1 - France Ligue 1 2022/23 - Winner,Lyon,-0.019499999999999997,0.0099,0.0294
+2022-10-12 02:06:17.125695,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  New England Patriots,Under 7.5,-0.01970000000000005,0.5455,0.5652
+2022-10-12 02:06:16.914620,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),CeeDee Lamb,-0.019800000000000005,0.0278,0.0476
+2022-10-12 02:06:16.930459,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),Devonta Smith,-0.019800000000000005,0.0278,0.0476
+2022-10-12 02:06:16.880716,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Jameis Winston,-0.020000000000000004,0.0123,0.0323
+2022-10-12 02:06:24.537978,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Crystal Palace,-0.02020000000000001,0.0909,0.1111
+2022-10-12 02:06:23.826233,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Nice,-0.02020000000000001,0.0909,0.1111
+2022-10-12 02:06:24.550307,Premier League Futures/Specials - English Premier League 2022/23 - Top 2 Finish,Manchester United,-0.02020000000000001,0.0909,0.1111
+2022-10-12 02:06:16.801988,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Comeback Player of the Year Award,JuJu Smith-Schuster,-0.0203,0.0323,0.0526
+2022-10-12 02:06:16.948788,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),Diontae Johnson,-0.0203,0.0385,0.0588
+2022-10-12 02:06:24.450409,League Two - England - League Two 2022/23 - Top 3 Finish,Doncaster Rovers,-0.0203,0.0385,0.0588
+2022-10-12 02:06:24.348368,League One - England - League One 2022/23 - Outright,Bolton Wanderers,-0.0203,0.0385,0.0588
+2022-10-12 02:06:24.348368,League One - England - League One 2022/23 - Outright,Derby County,-0.0203,0.0385,0.0588
+2022-10-12 02:06:24.579817,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Aston Villa,-0.0203,0.0385,0.0588
+2022-10-12 02:06:16.914620,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Terry McLaurin,-0.0204,0.0141,0.0345
+2022-10-12 02:06:17.073731,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Jacksonville Jaguars,Under 7.5,-0.020699999999999996,0.4444,0.4651
+2022-10-12 02:06:17.067343,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Indianapolis Colts,Over 8.5,-0.02079999999999993,0.5348,0.5556
+2022-10-12 02:06:24.439939,League Two - England - League Two 2022/23 - To Finish Bottom,Hartlepool United,-0.02100000000000002,0.3636,0.3846
+2022-10-12 02:06:16.815042,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Player of the Year,Trey Hendrickson,-0.021300000000000003,0.0132,0.0345
+2022-10-12 02:06:24.526876,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Ivan Toney,-0.0215,0.0079,0.0294
+2022-10-12 02:06:23.993420,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Getafe,-0.0216,0.0028,0.0244
+2022-10-12 02:06:19.057651,2022/23 NBA - Regular Season Wins - Regular Season Wins - Alternate Totals - WAS Wizards ,Over 31.5,-0.021700000000000053,0.7561,0.7778
+2022-10-12 02:06:16.948788,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),D.J. Moore (CAR),-0.022099999999999998,0.0164,0.0385
+2022-10-12 02:06:16.967505,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),David Montgomery,-0.022099999999999998,0.0164,0.0385
+2022-10-12 02:06:17.677495,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Denver Broncos,-0.022099999999999998,0.0164,0.0385
+2022-10-12 02:06:21.849990,Japan B League - Japan League B1 2022/23 - Outright,Alvark Tokyo,-0.022199999999999998,0.2,0.2222
+2022-10-12 02:06:21.811246,Euroleague - Euroleague 2022/23 - Outright,Barcelona,-0.022199999999999998,0.2,0.2222
+2022-10-12 02:06:16.858029,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Isaiah Spiller,-0.022400000000000003,0.0099,0.0323
+2022-10-12 02:06:16.858029,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Skyy Moore,-0.022400000000000003,0.0099,0.0323
+2022-10-12 02:06:19.854290,2022/23 Player Stats per Game - Rebounds per Game - Jusuf Nurkic,Over 10.5,-0.022600000000000064,0.5122,0.5348
+2022-10-12 02:06:19.761511,2022/23 Player Stats per Game - Rebounds per Game - Christian Wood,Over 9.1,-0.022600000000000064,0.5122,0.5348
+2022-10-12 02:06:19.590707,2022/23 Player Stats per Game - Points per Game - Keldon Johnson,Under 19.8,-0.022600000000000064,0.5122,0.5348
+2022-10-12 02:06:16.981761,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Arizona Cardinals,Over 7.5,-0.022600000000000064,0.5122,0.5348
+2022-10-12 02:06:24.439939,League Two - England - League Two 2022/23 - To Finish Bottom,Gillingham,-0.02310000000000001,0.0769,0.1
+2022-10-12 02:06:21.828283,NBL - NBL 2022/23 - Outright,Illawarra Hawks,-0.02310000000000001,0.0769,0.1
+2022-10-12 02:06:23.903801,Serie A - Italy Serie A 2022/23 - Winner,AS Roma,-0.02310000000000001,0.0769,0.1
+2022-10-12 02:06:24.501807,Premier League Futures/Specials - English Premier League 2022/23 - Winner without 'The Big Six',Crystal Palace,-0.02310000000000001,0.0769,0.1
+2022-10-12 02:06:16.914620,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Tyreek Hill,-0.0232,0.0435,0.0667
+2022-10-12 02:06:16.914620,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Michael Thomas,-0.0232,0.0435,0.0667
+2022-10-12 02:06:16.891592,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Yards (Regular Season),Matthew Stafford,-0.0232,0.0435,0.0667
+2022-10-12 02:06:16.967505,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),James Robinson,-0.023200000000000002,0.0244,0.0476
+2022-10-12 02:06:24.374945,League Two - England - League Two 2022/23 - Outright,Barrow FC,-0.023200000000000002,0.0294,0.0526
+2022-10-12 02:06:24.501807,Premier League Futures/Specials - English Premier League 2022/23 - Winner without 'The Big Six',Fulham,-0.023200000000000002,0.0244,0.0476
+2022-10-12 02:06:24.054320,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Internacional,-0.023200000000000002,0.0244,0.0476
+2022-10-12 02:06:23.837348,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Strasbourg,-0.0236,0.0149,0.0385
+2022-10-12 02:06:16.914620,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Jerry Jeudy,-0.0236,0.0149,0.0385
+2022-10-12 02:06:22.118396,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Tyler Herro,-0.023799999999999988,0.1429,0.1667
+2022-10-12 02:06:24.348368,League One - England - League One 2022/23 - Outright,Portsmouth,-0.023799999999999988,0.1429,0.1667
+2022-10-12 02:06:17.061709,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Houston Texans,Under 3.5,-0.023799999999999988,0.4762,0.5
+2022-10-12 02:06:20.787001,Team Seeding - 2022/23 - CLE Cavaliers,Over 6.5,-0.023799999999999988,0.4762,0.5
+2022-10-12 02:06:17.451903,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - New Orleans Saints,Yes,-0.023799999999999988,0.3333,0.3571
+2022-10-12 02:06:18.496083,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - San Antonio Spurs,Over 23.5,-0.023799999999999988,0.4762,0.5
+2022-10-12 02:06:17.996078,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Gavin Newsom,-0.023799999999999988,0.1429,0.1667
+2022-10-12 02:06:17.634032,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Green Bay Packers,-0.023800000000000016,0.1667,0.1905
+2022-10-12 02:06:24.172775,UEFA Champions League - Group D - Group Winner,Tottenham Hotspur,-0.023800000000000043,0.5,0.5238
+2022-10-12 02:06:18.363852,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Los Angeles Lakers,Over 45.5,-0.023800000000000043,0.5,0.5238
+2022-10-12 02:06:16.791342,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Kevin Stefanski,-0.023899999999999998,0.0196,0.0435
+2022-10-12 02:06:17.677495,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Los Angeles Rams,-0.024,0.0385,0.0625
+2022-10-12 02:06:16.959568,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Leonard Fournette,-0.024,0.0385,0.0625
+2022-10-12 02:06:24.404557,League Two - England - League Two 2022/23 - To Be Promoted,Doncaster Rovers,-0.0242,0.0667,0.0909
+2022-10-12 02:06:16.874005,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Joe Burrow,-0.0242,0.0667,0.0909
+2022-10-12 02:06:16.874005,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Mac Jones,-0.0242,0.0667,0.0909
+2022-10-12 02:06:21.849990,Japan B League - Japan League B1 2022/23 - Outright,Shimane Susanoo Magic,-0.0242,0.0667,0.0909
+2022-10-12 02:06:24.537978,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,West Ham United,-0.024299999999999995,0.0526,0.0769
+2022-10-12 02:06:17.360641,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Indianapolis Colts,No,-0.024399999999999977,0.4878,0.5122
+2022-10-12 02:06:18.284071,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Denver Nuggets,Under 50.5,-0.024399999999999977,0.4878,0.5122
+2022-10-12 02:06:23.971720,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Arnaut Danjuma (Villarreal),-0.024399999999999998,0.005,0.0294
+2022-10-12 02:06:16.914620,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Adam Thielen,-0.024399999999999998,0.0141,0.0385
+2022-10-12 02:06:16.858029,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Jalen Tolbert,-0.024600000000000004,0.0099,0.0345
+2022-10-12 02:06:16.967505,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),Leonard Fournette,-0.024800000000000003,0.0278,0.0526
+2022-10-12 02:06:17.677495,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Miami Dolphins,-0.024800000000000003,0.0278,0.0526
+2022-10-12 02:06:21.828283,NBL - NBL 2022/23 - Outright,Melbourne United,-0.024999999999999994,0.1,0.125
+2022-10-12 02:06:24.189296,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Liverpool,-0.024999999999999994,0.1,0.125
+2022-10-12 02:06:21.541190,2022/23 NBA - The NBA Finals Props - 2022/23 NBA Season - Winner Specials - Winning State,California,-0.02560000000000001,0.3077,0.3333
+2022-10-12 02:06:17.646776,NFC East - 2022/2023 NFC East - NFC East Winner,Washington Football Team,-0.0257,0.0066,0.0323
+2022-10-12 02:06:20.775841,Team Seeding - 2022/23 - CHI Bulls,Under 8.5,-0.026499999999999968,0.5652,0.5917
+2022-10-12 02:06:16.930459,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),Mark Andrews,-0.026499999999999996,0.0323,0.0588
+2022-10-12 02:06:24.304696,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Argentinos Juniors,-0.0266,0.0028,0.0294
+2022-10-12 02:06:16.959568,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Jamaal Williams,-0.0267,0.0909,0.1176
+2022-10-12 02:06:21.865319,LNB Pro A - LNB Pro A 2022/23 - Outright,ASVEL Basket,-0.02739999999999998,0.2667,0.2941
+2022-10-12 02:06:24.289069,Super Lig - Turkey Super League 22/23 - Outright,Fenerbahce,-0.02739999999999998,0.2667,0.2941
+2022-10-12 02:06:18.993337,2022/23 NBA - Regular Season Wins - Regular Season Wins - Alternate Totals - SAC Kings ,Under 36.5,-0.02739999999999998,0.7059,0.7333
+2022-10-12 02:06:23.993420,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Almería,-0.0274,0.002,0.0294
+2022-10-12 02:06:24.429168,League Two - England - League Two 2022/23 - To Be Relegated,Hartlepool United,-0.027700000000000058,0.5556,0.5833
+2022-10-12 02:06:24.348368,League One - England - League One 2022/23 - Outright,Sheffield Wednesday,-0.02779999999999999,0.2222,0.25
+2022-10-12 02:06:22.181631,NBA Awards - 2022/23 NBA Awards - 2022/23 The Rookie of the Year,Keegan Murray,-0.02779999999999999,0.2222,0.25
+2022-10-12 02:06:18.965505,2022/23 NBA - Regular Season Wins - Regular Season Wins - Alternate Totals - POR Trail Blazers ,Over 35.5,-0.027800000000000047,0.75,0.7778
+2022-10-12 02:06:24.603752,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Everton,-0.027999999999999914,0.8182,0.8462
+2022-10-12 02:06:16.880716,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Matthew Stafford,-0.028000000000000004,0.0196,0.0476
+2022-10-12 02:06:17.662393,NFC North - 2022/2023 NFC North - NFC North Winner,Chicago Bears,-0.028000000000000004,0.0196,0.0476
+2022-10-12 02:06:16.858029,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Christian Watson,-0.028000000000000004,0.0196,0.0476
+2022-10-12 02:06:16.948788,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),Michael Thomas,-0.028000000000000004,0.0196,0.0476
+2022-10-12 02:06:16.914620,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Allen Robinson II,-0.028000000000000004,0.0196,0.0476
+2022-10-12 02:06:21.828283,NBL - NBL 2022/23 - Outright,Tasmania JackJumpers,-0.028000000000000004,0.0196,0.0476
+2022-10-12 02:06:24.491984,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Tottenham Hotspur,-0.028199999999999996,0.0385,0.0667
+2022-10-12 02:06:24.229874,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,FC Köln,-0.028199999999999996,0.0385,0.0667
+2022-10-12 02:06:24.404557,League Two - England - League Two 2022/23 - To Be Promoted,Newport County,-0.028199999999999996,0.0385,0.0667
+2022-10-12 02:06:24.641809,Premier League Futures/Specials - English Premier League 2022/23 - PFA Player of the Year 2022/23,Harry Kane,-0.028399999999999995,0.0625,0.0909
+2022-10-12 02:06:17.537208,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Tampa Bay Buccaneers,Yes,-0.02859999999999996,0.9,0.9286
+2022-10-12 02:06:23.971720,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Ousmane Dembele (Barcelona),-0.0286,0.0099,0.0385
+2022-10-12 02:06:24.526876,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Heung-Min Son,-0.0286,0.0099,0.0385
+2022-10-12 02:06:23.971720,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Antoine Griezmann (Atletico Madrid),-0.0286,0.0099,0.0385
+2022-10-12 02:06:16.858029,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Malik Willis,-0.0286,0.0099,0.0385
+2022-10-12 02:06:23.971720,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Gerard Moreno (Villarreal),-0.0286,0.0099,0.0385
+2022-10-12 02:06:24.579817,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Crystal Palace,-0.029299999999999993,0.0476,0.0769
+2022-10-12 02:06:24.450409,League Two - England - League Two 2022/23 - Top 3 Finish,Sutton Utd,-0.029299999999999993,0.0476,0.0769
+2022-10-12 02:06:23.791529,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Lille,-0.029299999999999993,0.0476,0.0769
+2022-10-12 02:06:17.747113,AFC North - 2022/2023 AFC North - AFC North Winner,Pittsburgh Steelers,-0.0294,0.0294,0.0588
+2022-10-12 02:06:24.035963,MLS - MLS Cup 2022 - Winner,Nashville SC,-0.0294,0.0294,0.0588
+2022-10-12 02:06:24.459754,League Two - England - League Two 2022/23 - Top 7 Finish,Crawley Town,-0.0294,0.0294,0.0588
+2022-10-12 02:06:23.870409,1. Bundesliga - Germany Bundesliga 2022/23 - Winner without Bayern Munich,Hoffenheim,-0.0294,0.0294,0.0588
+2022-10-12 02:06:16.136588,Boxing Lines - Shannon Ryan vs Buchra El Quaissi - To Win the Bout,Shannon Ryan,-0.02949999999999997,0.9655,0.995
+2022-10-12 02:06:16.791342,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Dan Campbell,-0.031200000000000002,0.0164,0.0476
+2022-10-12 02:06:16.891592,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Yards (Regular Season),Joe Burrow,-0.0321,0.0588,0.0909
+2022-10-12 02:06:23.993420,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Celta de Vigo,-0.0321,0.0588,0.0909
+2022-10-12 02:06:16.930459,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),Ja'Marr Chase,-0.03219999999999999,0.0345,0.0667
+2022-10-12 02:06:23.837348,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Montpellier,-0.03270000000000001,0.0149,0.0476
+2022-10-12 02:06:16.880716,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Russell Wilson,-0.033,0.0196,0.0526
+2022-10-12 02:06:17.151296,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  New York Giants,Under 8.5,-0.033299999999999996,0.5122,0.5455
+2022-10-12 02:06:16.948788,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),Davante Adams,-0.03330000000000001,0.0667,0.1
+2022-10-12 02:06:17.677495,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Green Bay Packers,-0.03330000000000001,0.0667,0.1
+2022-10-12 02:06:16.891592,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Yards (Regular Season),Derek Carr,-0.03330000000000001,0.0667,0.1
+2022-10-12 02:06:24.459754,League Two - England - League Two 2022/23 - Top 7 Finish,Doncaster Rovers,-0.033300000000000024,0.1667,0.2
+2022-10-12 02:06:24.439939,League Two - England - League Two 2022/23 - To Finish Bottom,Rochdale,-0.033399999999999985,0.1333,0.1667
+2022-10-12 02:06:24.117026,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,CF Monterrey,-0.03409999999999999,0.2326,0.2667
+2022-10-12 02:06:16.801988,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Comeback Player of the Year Award,Christian McCaffrey,-0.034100000000000005,0.0909,0.125
+2022-10-12 02:06:16.874005,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Justin Fields,-0.034100000000000005,0.0909,0.125
+2022-10-12 02:06:24.404557,League Two - England - League Two 2022/23 - To Be Promoted,Sutton Utd,-0.034100000000000005,0.0909,0.125
+2022-10-12 02:06:21.828283,NBL - NBL 2022/23 - Outright,South East Melbourne Phoenix,-0.034100000000000005,0.0909,0.125
+2022-10-12 02:06:24.459754,League Two - England - League Two 2022/23 - Top 7 Finish,Newport County,-0.03420000000000001,0.0769,0.1111
+2022-10-12 02:06:23.884182,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Mainz,-0.03420000000000001,0.0769,0.1111
+2022-10-12 02:06:16.874005,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Jameis Winston,-0.03420000000000001,0.0769,0.1111
+2022-10-12 02:06:17.996078,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Pete Buttigieg,-0.03420000000000001,0.0769,0.1111
+2022-10-12 02:06:24.526876,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Harry Kane,-0.03420000000000001,0.0769,0.1111
+2022-10-12 02:06:23.863634,1. Bundesliga - Germany Bundesliga 2022/23 - Winner,Bayern Munich,-0.03420000000000001,0.8889,0.9231
+2022-10-12 02:06:17.475202,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Philadelphia Eagles,No,-0.03420000000000001,0.0769,0.1111
+2022-10-12 02:06:16.930459,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),Christian Kirk,-0.03439999999999999,0.0323,0.0667
+2022-10-12 02:06:24.253509,Superligaen - Denmark Superligaen 2022/23 - Outright,AGF Aarhus,-0.0344,0.0244,0.0588
+2022-10-12 02:06:23.856234,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Anthony Modeste,-0.0344,0.0244,0.0588
+2022-10-12 02:06:23.922522,Serie A - Italy Serie A 2022/23 - Top 4 Finish,Fiorentina,-0.0344,0.0244,0.0588
+2022-10-12 02:06:18.354392,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Los Angeles Clippers,Under 52.5,-0.03480000000000005,0.5,0.5348
+2022-10-12 02:06:19.527896,2022/23 Player Stats per Game - Points per Game - James Harden,Under 21.7,-0.03480000000000005,0.5,0.5348
+2022-10-12 02:06:19.449055,2022/23 Player Stats per Game - Points per Game - Darius Garland ,Over 21.3,-0.03480000000000005,0.5,0.5348
+2022-10-12 02:06:18.418966,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - New York Knicks,Over 39.5,-0.03480000000000005,0.5,0.5348
+2022-10-12 02:06:19.935456,2022/23 Player Stats per Game - Assists per Game - Chris Paul,Over 9.8,-0.03480000000000005,0.5,0.5348
+2022-10-12 02:06:16.874005,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Sam Darnold,-0.035300000000000005,0.0123,0.0476
+2022-10-12 02:06:16.858029,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,David Bell,-0.035300000000000005,0.0123,0.0476
+2022-10-12 02:06:18.753530,2022/23 NBA - Regular Season Wins - Regular Season Wins - Alternate Totals - LA Clippers ,Under 56.5,-0.035600000000000076,0.7826,0.8182
+2022-10-12 02:06:18.790486,2022/23 NBA - Regular Season Wins - Regular Season Wins - Alternate Totals - MEM Grizzlies ,Over 45.5,-0.035699999999999954,0.7143,0.75
+2022-10-12 02:06:17.211608,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Tampa Bay Buccaneers,Over 11.5,-0.035999999999999976,0.4762,0.5122
+2022-10-12 02:06:18.409768,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - New Orleans Pelicans,Under 44.5,-0.035999999999999976,0.4762,0.5122
+2022-10-12 02:06:18.441086,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Orlando Magic,Under 26.5,-0.03600000000000003,0.4878,0.5238
+2022-10-12 02:06:16.959568,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Jonathan Taylor,-0.036199999999999996,0.1176,0.1538
+2022-10-12 02:06:24.570833,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Manchester United,-0.03640000000000004,0.3636,0.4
+2022-10-12 02:06:18.633863,2022/23 NBA - Regular Season Wins - Regular Season Wins - Alternate Totals - CHI Bulls ,Over 39.5,-0.036900000000000044,0.6774,0.7143
+2022-10-12 02:06:24.526876,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Gabriel Jesus,-0.0373,0.0294,0.0667
+2022-10-12 02:06:16.610776,KBO League - KBO League 2022 - Outright,KT Wiz,-0.037500000000000006,0.0625,0.1
+2022-10-12 02:06:16.152046,Boxing Lines - Lauren Price vs Timea Belik - To Win the Bout,Lauren Price,-0.037699999999999956,0.9524,0.9901
+2022-10-12 02:06:24.054320,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Flamengo,-0.037700000000000004,0.0099,0.0476
+2022-10-12 02:06:24.526876,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Aleksandar Mitrovic,-0.037700000000000004,0.0099,0.0476
+2022-10-12 02:06:18.760245,2022/23 NBA - Regular Season Wins - Regular Season Wins - Alternate Totals - LA Clippers ,Under 49.5,-0.03839999999999999,0.3125,0.3509
+2022-10-12 02:06:23.856234,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Serge Gnabry,-0.0384,0.0385,0.0769
+2022-10-12 02:06:16.801988,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Comeback Player of the Year Award,Baker Mayfield,-0.0385,0.005,0.0435
+2022-10-12 02:06:24.459754,League Two - England - League Two 2022/23 - Top 7 Finish,Crewe Alexandra,-0.03889999999999999,0.1429,0.1818
+2022-10-12 02:06:16.880716,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Lamar Jackson,-0.03889999999999999,0.1429,0.1818
+2022-10-12 02:06:16.801988,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Comeback Player of the Year Award,Jameis Winston,-0.0392,0.0196,0.0588
+2022-10-12 02:06:24.641809,Premier League Futures/Specials - English Premier League 2022/23 - PFA Player of the Year 2022/23,Mohamed Salah,-0.0392,0.0196,0.0588
+2022-10-12 02:06:16.801988,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Comeback Player of the Year Award,Michael Thomas,-0.0392,0.0196,0.0588
+2022-10-12 02:06:24.526876,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Mohamed Salah,-0.0392,0.0196,0.0588
+2022-10-12 02:06:16.847448,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Player of the Year,Jonathan Taylor,-0.0392,0.0196,0.0588
+2022-10-12 02:06:24.641809,Premier League Futures/Specials - English Premier League 2022/23 - PFA Player of the Year 2022/23,Luis Diaz,-0.0392,0.0196,0.0588
+2022-10-12 02:06:23.812610,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Kylian Mbappe,-0.0393,0.5833,0.6226
+2022-10-12 02:06:17.261816,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Arizona Cardinals,No,-0.04039999999999999,0.7826,0.823
+2022-10-12 02:06:24.374945,League Two - England - League Two 2022/23 - Outright,Bradford City,-0.0407,0.0769,0.1176
+2022-10-12 02:06:24.459754,League Two - England - League Two 2022/23 - Top 7 Finish,Barrow FC,-0.04089999999999999,0.3846,0.4255
+2022-10-12 02:06:24.429168,League Two - England - League Two 2022/23 - To Be Relegated,Colchester United,-0.04099999999999998,0.2667,0.3077
+2022-10-12 02:06:24.459754,League Two - England - League Two 2022/23 - Top 7 Finish,Swindon Town,-0.04099999999999998,0.2667,0.3077
+2022-10-12 02:06:23.971720,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Anssumane Fati (Barcelona),-0.041,0.0066,0.0476
+2022-10-12 02:06:23.876785,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,FC Köln,-0.04120000000000001,0.0588,0.1
+2022-10-12 02:06:17.617475,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Miami Dolphins,-0.04120000000000001,0.0588,0.1
+2022-10-12 02:06:24.626774,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Leeds United,-0.04169999999999996,0.8333,0.875
+2022-10-12 02:06:23.837348,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Lille,-0.04169999999999999,0.125,0.1667
+2022-10-12 02:06:16.914620,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Cooper Kupp,-0.04169999999999999,0.125,0.1667
+2022-10-12 02:06:21.849990,Japan B League - Japan League B1 2022/23 - Outright,Utsunomiya Brex,-0.04169999999999999,0.125,0.1667
+2022-10-12 02:06:24.189296,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Paris Saint-Germain,-0.04169999999999999,0.125,0.1667
+2022-10-12 02:06:23.876785,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Wolfsburg,-0.04169999999999999,0.125,0.1667
+2022-10-12 02:06:24.304696,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Gimnasia La Plata,-0.0417,0.0833,0.125
+2022-10-12 02:06:17.617475,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Denver Broncos,-0.04239999999999999,0.0345,0.0769
+2022-10-12 02:06:17.569463,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,Stetson Bennett IV,-0.04239999999999999,0.0345,0.0769
+2022-10-12 02:06:16.801988,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Comeback Player of the Year Award,Allen Robinson,-0.042600000000000006,0.005,0.0476
+2022-10-12 02:06:16.858029,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Treylon Burks,-0.0427,0.0099,0.0526
+2022-10-12 02:06:24.626774,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Fulham,-0.04270000000000007,0.8462,0.8889
+2022-10-12 02:06:24.077483,A-League - Australia A-League 2022/23 - Grand Final Winner,Sydney FC,-0.042899999999999994,0.1,0.1429
+2022-10-12 02:06:16.930459,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),Jaylen Waddle,-0.04329999999999999,0.0476,0.0909
+2022-10-12 02:06:17.383524,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Las Vegas Raiders,No,-0.04349999999999998,0.7826,0.8261
+2022-10-12 02:06:23.963085,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Sevilla,-0.043899999999999995,0.0149,0.0588
+2022-10-12 02:06:16.930459,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),Amon-Ra St Brown,-0.043899999999999995,0.0149,0.0588
+2022-10-12 02:06:24.404557,League Two - England - League Two 2022/23 - To Be Promoted,Leyton Orient,-0.044399999999999995,0.5556,0.6
+2022-10-12 02:06:24.035963,MLS - MLS Cup 2022 - Winner,Philadelphia Union,-0.044499999999999984,0.2222,0.2667
+2022-10-12 02:06:16.967505,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),Christian McCaffrey,-0.044599999999999994,0.0323,0.0769
+2022-10-12 02:06:16.866790,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Tua Tagovailoa,-0.0446,0.0179,0.0625
+2022-10-12 02:06:23.876785,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Werder Bremen,-0.0448,0.0385,0.0833
+2022-10-12 02:06:23.951287,La Liga - Spain La Liga 2022/23 - Winner,Real Madrid,-0.045499999999999985,0.4545,0.5
+2022-10-12 02:06:23.978765,La Liga - Spain La Liga 2022/23 - To Be Relegated,Athletic Bilbao,-0.0456,0.002,0.0476
+2022-10-12 02:06:24.054320,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Fluminense,-0.0456,0.002,0.0476
+2022-10-12 02:06:17.050007,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Detroit Lions,Over 6.5,-0.04620000000000002,0.5455,0.5917
+2022-10-12 02:06:19.670492,2022/23 Player Stats per Game - Points per Game - Nikola Jokic,Over 27,-0.04700000000000004,0.4878,0.5348
+2022-10-12 02:06:17.113722,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Minnesota Vikings,Under 10.5,-0.04700000000000004,0.4878,0.5348
+2022-10-12 02:06:16.914620,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Ja'Marr Chase,-0.0474,0.0435,0.0909
+2022-10-12 02:06:24.570833,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Tottenham Hotspur,-0.04749999999999999,0.6192,0.6667
+2022-10-12 02:06:24.429168,League Two - England - League Two 2022/23 - To Be Relegated,Walsall,-0.0475,0.0294,0.0769
+2022-10-12 02:06:23.913211,Serie A - Italy Serie A 2022/23 - To Be Relegated,Salernitana,-0.047599999999999976,0.2857,0.3333
+2022-10-12 02:06:23.884182,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Bayer Leverkusen,-0.047599999999999976,0.2857,0.3333
+2022-10-12 02:06:17.634032,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Tampa Bay Buccaneers,-0.0476,0.1429,0.1905
+2022-10-12 02:06:18.344307,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Indiana Pacers,Over 24.5,-0.04760000000000003,0.4762,0.5238
+2022-10-12 02:06:24.559982,Premier League Futures/Specials - English Premier League 2022/23 - Not To Finish in Top 4,Newcastle United,-0.047799999999999954,0.9231,0.9709
+2022-10-12 02:06:16.930459,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),Davante Adams,-0.048100000000000004,0.0769,0.125
+2022-10-12 02:06:16.948788,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),Amon-Ra St. Brown,-0.0491,0.0278,0.0769
+2022-10-12 02:06:24.550307,Premier League Futures/Specials - English Premier League 2022/23 - Top 2 Finish,Tottenham Hotspur,-0.04999999999999999,0.2,0.25
+2022-10-12 02:06:16.561884,95th Academy Awards - Best Actress - Best Actress,Margot Robbie,-0.04999999999999999,0.2,0.25
+2022-10-12 02:06:24.593497,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Fulham,-0.04999999999999999,0.2,0.25
+2022-10-12 02:06:17.646776,NFC East - 2022/2023 NFC East - NFC East Winner,Philadelphia Eagles,-0.050000000000000044,0.75,0.8
+2022-10-12 02:06:17.980378,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Field,-0.05020000000000002,0.7059,0.7561
+2022-10-12 02:06:24.304696,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Atlético Tucumán,-0.05080000000000001,0.1818,0.2326
+2022-10-12 02:06:24.429168,League Two - England - League Two 2022/23 - To Be Relegated,Gillingham,-0.05080000000000001,0.1818,0.2326
+2022-10-12 02:06:17.569463,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,Caleb Williams,-0.052000000000000005,0.0909,0.1429
+2022-10-12 02:06:24.374945,League Two - England - League Two 2022/23 - Outright,Northampton Town,-0.052000000000000005,0.0909,0.1429
+2022-10-12 02:06:23.856234,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Patrik Schick,-0.052300000000000006,0.0588,0.1111
+2022-10-12 02:06:17.269825,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Atlanta Falcons,No,-0.0524,0.9091,0.9615
+2022-10-12 02:06:23.826233,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Angers,-0.053099999999999925,0.5833,0.6364
+2022-10-12 02:06:23.978765,La Liga - Spain La Liga 2022/23 - To Be Relegated,Real Valladolid,-0.053100000000000036,0.3636,0.4167
+2022-10-12 02:06:23.837348,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Marseille,-0.05449999999999999,0.5455,0.6
+2022-10-12 02:06:16.626754,Professional Baseball - NPB 2022 - Outright,Fukuoka SoftBank Hawks,-0.05550000000000002,0.1667,0.2222
+2022-10-12 02:06:17.747113,AFC North - 2022/2023 AFC North - AFC North Winner,Cleveland Browns,-0.05550000000000002,0.1667,0.2222
+2022-10-12 02:06:24.450409,League Two - England - League Two 2022/23 - Top 3 Finish,Barrow FC,-0.05559999999999998,0.1111,0.1667
+2022-10-12 02:06:24.593497,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Southampton,-0.05710000000000001,0.1429,0.2
+2022-10-12 02:06:23.884182,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Hoffenheim,-0.05710000000000001,0.1429,0.2
+2022-10-12 02:06:24.429168,League Two - England - League Two 2022/23 - To Be Relegated,Rochdale,-0.057699999999999974,0.25,0.3077
+2022-10-12 02:06:21.917427,Liga ACB - Liga ACB 2022/23 - Outright,Barcelona,-0.057699999999999974,0.4878,0.5455
+2022-10-12 02:06:19.500410,2022/23 Player Stats per Game - Points per Game - Donovan Mitchell,Over 25.6,-0.05860000000000004,0.4762,0.5348
+2022-10-12 02:06:17.224661,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Tennessee Titans,Under 8,-0.05860000000000004,0.4762,0.5348
+2022-10-12 02:06:17.634032,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Los Angeles Rams,-0.0596,0.0833,0.1429
+2022-10-12 02:06:16.930459,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),Michael Thomas,-0.0605,0.0164,0.0769
+2022-10-12 02:06:24.404557,League Two - England - League Two 2022/23 - To Be Promoted,Bradford City,-0.06190000000000001,0.3636,0.4255
+2022-10-12 02:06:17.302417,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Chicago Bears,Yes,-0.0628,0.1111,0.1739
+2022-10-12 02:06:16.880716,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Tua Tagovailoa,-0.06309999999999999,0.0278,0.0909
+2022-10-12 02:06:24.593497,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Leeds United,-0.0635,0.2222,0.2857
+2022-10-12 02:06:24.593497,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Brentford,-0.0635,0.2222,0.2857
+2022-10-12 02:06:24.515418,Premier League Futures/Specials - English Premier League 2022/23 - Winner without Man City & Liverpool,Manchester United,-0.0642,0.1176,0.1818
+2022-10-12 02:06:24.266384,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,Sporting CP,-0.066,0.0769,0.1429
+2022-10-12 02:06:24.266384,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,Braga,-0.066,0.0769,0.1429
+2022-10-12 02:06:17.757767,NFC South - 2022/2023 NFC South - NFC South Winner,Carolina Panthers,-0.06649999999999999,0.0244,0.0909
+2022-10-12 02:06:23.826233,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,AC Ajaccio,-0.06659999999999999,0.6667,0.7333
+2022-10-12 02:06:24.328172,Eredivisie - Dutch Eredivisie 2022/23 - Winner,PSV Eindhoven,-0.06659999999999999,0.2667,0.3333
+2022-10-12 02:06:24.388006,League Two - England - League Two 2022/23 - Top Goalscorer,Sam Hoskins,-0.06659999999999999,0.2667,0.3333
+2022-10-12 02:06:24.459754,League Two - England - League Two 2022/23 - Top 7 Finish,Bradford City,-0.06669999999999998,0.6,0.6667
+2022-10-12 02:06:23.913211,Serie A - Italy Serie A 2022/23 - To Be Relegated,Cremonese,-0.06669999999999998,0.6,0.6667
+2022-10-12 02:06:24.374945,League Two - England - League Two 2022/23 - Outright,Leyton Orient,-0.06669999999999998,0.2,0.2667
+2022-10-12 02:06:23.993420,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Real Betis,-0.06669999999999998,0.2,0.2667
+2022-10-12 02:06:17.969400,US Midterm Elections 2022 - Which Party will win the House in the 2022 Midterm Election? - Winning Party,Democratic,-0.06669999999999998,0.2,0.2667
+2022-10-12 02:06:23.913211,Serie A - Italy Serie A 2022/23 - To Be Relegated,Empoli,-0.06670000000000004,0.3333,0.4
+2022-10-12 02:06:23.856234,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Sadio Mane,-0.0676,0.1429,0.2105
+2022-10-12 02:06:23.903801,Serie A - Italy Serie A 2022/23 - Winner,Inter Milan,-0.06820000000000001,0.1818,0.25
+2022-10-12 02:06:24.626774,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Wolverhampton Wanderers,-0.06820000000000004,0.75,0.8182
+2022-10-12 02:06:23.884182,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Eintracht Frankfurt,-0.06840000000000002,0.1538,0.2222
+2022-10-12 02:06:24.404557,League Two - England - League Two 2022/23 - To Be Promoted,Northampton Town,-0.06990000000000002,0.3846,0.4545
+2022-10-12 02:06:16.858029,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Drake London,-0.07069999999999999,0.1111,0.1818
+2022-10-12 02:06:17.499061,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Pittsburgh Steelers,Yes,-0.07120000000000001,0.0769,0.1481
+2022-10-12 02:06:17.662393,NFC North - 2022/2023 NFC North - NFC North Winner,Detroit Lions,-0.07220000000000001,0.0278,0.1
+2022-10-12 02:06:16.967505,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),D'Andre Swift,-0.0745,0.0164,0.0909
+2022-10-12 02:06:16.891592,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Yards (Regular Season),Tua Tagovailoa,-0.0745,0.0164,0.0909
+2022-10-12 02:06:17.551035,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Washington Commanders,Yes,-0.07450000000000001,0.1429,0.2174
+2022-10-12 02:06:24.603752,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Brighton & Hove Albion,-0.07509999999999997,0.2326,0.3077
+2022-10-12 02:06:24.304696,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Huracán,-0.07579999999999999,0.0909,0.1667
+2022-10-12 02:06:23.884182,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,RB Leipzig,-0.07619999999999993,0.5238,0.6
+2022-10-12 02:06:24.162588,UEFA Champions League - Group C - Group Winner,FC Barcelona,-0.0762,0.0667,0.1429
+2022-10-12 02:06:17.276129,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Baltimore Ravens,No,-0.0781,0.2667,0.3448
+2022-10-12 02:06:23.826233,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Toulouse,-0.07930000000000001,0.1429,0.2222
+2022-10-12 02:06:24.450409,League Two - England - League Two 2022/23 - Top 3 Finish,Leyton Orient,-0.07939999999999997,0.4762,0.5556
+2022-10-12 02:06:23.913211,Serie A - Italy Serie A 2022/23 - To Be Relegated,Lecce,-0.07940000000000003,0.4444,0.5238
+2022-10-12 02:06:17.055682,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Green Bay Packers,Over 10.5,-0.07950000000000002,0.5122,0.5917
+2022-10-12 02:06:17.466973,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - New York Jets,No,-0.08040000000000003,0.9,0.9804
+2022-10-12 02:06:17.442076,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - New England Patriots,Yes,-0.08050000000000002,0.2899,0.3704
+2022-10-12 02:06:23.978765,La Liga - Spain La Liga 2022/23 - To Be Relegated,Osasuna,-0.0815,0.0435,0.125
+2022-10-12 02:06:24.579817,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Liverpool,-0.08199999999999996,0.8889,0.9709
+2022-10-12 02:06:17.292736,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Carolina Panthers,Yes,-0.083,0.0909,0.1739
+2022-10-12 02:06:24.450409,League Two - England - League Two 2022/23 - Top 3 Finish,Bradford City,-0.08329999999999999,0.25,0.3333
+2022-10-12 02:06:24.404557,League Two - England - League Two 2022/23 - To Be Promoted,Barrow FC,-0.08330000000000001,0.1667,0.25
+2022-10-12 02:06:24.593497,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Wolverhampton Wanderers,-0.08330000000000001,0.1667,0.25
+2022-10-12 02:06:16.791342,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Mike McDaniel,-0.08339999999999999,0.0833,0.1667
+2022-10-12 02:06:17.375792,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Kansas City Chiefs,No,-0.0844,0.1429,0.2273
+2022-10-12 02:06:24.133427,UEFA Champions League - Group B - Group Winner,Bayer Leverkusen,-0.0849,0.1818,0.2667
+2022-10-12 02:06:24.537978,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Everton,-0.0849,0.1818,0.2667
+2022-10-12 02:06:23.963085,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Villarreal,-0.0849,0.1818,0.2667
+2022-10-12 02:06:23.913211,Serie A - Italy Serie A 2022/23 - To Be Relegated,Udinese,-0.08689999999999999,0.004,0.0909
+2022-10-12 02:06:23.978765,La Liga - Spain La Liga 2022/23 - To Be Relegated,Rayo Vallecano,-0.0871,0.0667,0.1538
+2022-10-12 02:06:24.537978,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Bournemouth,-0.0877,0.579,0.6667
+2022-10-12 02:06:17.312497,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Cincinnati Bengals,No,-0.08779999999999999,0.5122,0.6
+2022-10-12 02:06:21.828283,NBL - NBL 2022/23 - Outright,Brisbane Bullets,-0.0889,0.1111,0.2
+2022-10-12 02:06:21.956171,A1 - Greece A1 2022/23 - Outright,Panathinaikos,-0.09029999999999999,0.2222,0.3125
+2022-10-12 02:06:16.791342,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Doug Pederson,-0.09129999999999999,0.0625,0.1538
+2022-10-12 02:06:24.459754,League Two - England - League Two 2022/23 - Top 7 Finish,Northampton Town,-0.0948,0.6552,0.75
+2022-10-12 02:06:16.815042,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Player of the Year,Myles Garrett,-0.095,0.0588,0.1538
+2022-10-12 02:06:24.491984,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Liverpool,-0.0956,0.0294,0.125
+2022-10-12 02:06:23.993420,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Villarreal,-0.0988,0.3774,0.4762
+2022-10-12 02:06:24.100738,Championship - England Championship 2022/23 - Outright,Sheffield United,-0.09889999999999999,0.2857,0.3846
+2022-10-12 02:06:24.450409,League Two - England - League Two 2022/23 - Top 3 Finish,Northampton Town,-0.09889999999999999,0.2857,0.3846
+2022-10-12 02:06:23.978765,La Liga - Spain La Liga 2022/23 - To Be Relegated,Girona,-0.09889999999999999,0.2857,0.3846
+2022-10-12 02:06:24.459754,League Two - England - League Two 2022/23 - Top 7 Finish,Sutton Utd,-0.1,0.1667,0.2667
+2022-10-12 02:06:23.870409,1. Bundesliga - Germany Bundesliga 2022/23 - Winner without Bayern Munich,RB Leipzig,-0.1,0.1667,0.2667
+2022-10-12 02:06:23.826233,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Clermont Foot,-0.10039999999999999,0.2222,0.3226
+2022-10-12 02:06:23.826233,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Troyes,-0.10039999999999999,0.2222,0.3226
+2022-10-12 02:06:24.603752,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Newcastle United,-0.10069999999999998,0.2326,0.3333
+2022-10-12 02:06:17.662393,NFC North - 2022/2023 NFC North - NFC North Winner,Green Bay Packers,-0.10109999999999997,0.4545,0.5556
+2022-10-12 02:06:23.903801,Serie A - Italy Serie A 2022/23 - Winner,Juventus,-0.10619999999999999,0.0476,0.1538
+2022-10-12 02:06:23.164146,Tournament Match-Ups - Parlays - Tournament Match-Up - A. Smalley v W. Clark - Tournament Match-Up,Alex Smalley,-0.10710000000000003,0.4762,0.5833
+2022-10-12 02:06:24.603752,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,West Ham United,-0.10710000000000003,0.4762,0.5833
+2022-10-12 02:06:24.570833,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Liverpool,-0.10770000000000002,0.6923,0.8
+2022-10-12 02:06:17.431652,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Minnesota Vikings,No,-0.1122,0.2326,0.3448
+2022-10-12 02:06:17.353420,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Green Bay Packers,Yes,-0.1129,0.7333,0.8462
+2022-10-12 02:06:17.513852,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - San Francisco 49ers,No,-0.11299999999999999,0.3125,0.4255
+2022-10-12 02:06:24.150583,UEFA Champions League - Group A - Group Winner,Ajax,-0.1135,0.0294,0.1429
+2022-10-12 02:06:24.253509,Superligaen - Denmark Superligaen 2022/23 - Outright,Randers,-0.1151,0.0667,0.1818
+2022-10-12 02:06:17.416033,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Miami Dolphins,Yes,-0.12019999999999997,0.6875,0.8077
+2022-10-12 02:06:17.079593,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Kansas City Chiefs,Under 11.5,-0.12079999999999996,0.4348,0.5556
+2022-10-12 02:06:17.157768,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  New York Jets,Under 6,-0.12080000000000002,0.4444,0.5652
+2022-10-12 02:06:24.559982,Premier League Futures/Specials - English Premier League 2022/23 - Not To Finish in Top 4,Chelsea,-0.12379999999999997,0.4762,0.6
+2022-10-12 02:06:24.515418,Premier League Futures/Specials - English Premier League 2022/23 - Winner without Man City & Liverpool,Tottenham Hotspur,-0.12869999999999998,0.2222,0.3509
+2022-10-12 02:06:17.715172,AFC South - 2022/202 AFC South - AFC South Winner,Indianapolis Colts,-0.1296,0.3704,0.5
+2022-10-12 02:06:17.459988,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - New York Giants,No,-0.13049999999999995,0.5917,0.7222
+2022-10-12 02:06:24.559982,Premier League Futures/Specials - English Premier League 2022/23 - Not To Finish in Top 4,Arsenal,-0.13099999999999998,0.2326,0.3636
+2022-10-12 02:06:23.978765,La Liga - Spain La Liga 2022/23 - To Be Relegated,Valencia,-0.13219999999999998,0.0345,0.1667
+2022-10-12 02:06:17.392370,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Los Angeles Chargers,No,-0.13480000000000003,0.4,0.5348
+2022-10-12 02:06:24.150583,UEFA Champions League - Group A - Group Winner,Liverpool,-0.13640000000000002,0.3636,0.5
+2022-10-12 02:06:24.626774,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Nottingham Forest,-0.13670000000000004,0.3077,0.4444
+2022-10-12 02:06:23.826233,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Lorient,-0.14229999999999998,0.0244,0.1667
+2022-10-12 02:06:16.828243,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Rookie of the Year,Aidan Hutchinson,-0.1491,0.1176,0.2667
+2022-10-12 02:06:23.978765,La Liga - Spain La Liga 2022/23 - To Be Relegated,Espanyol,-0.15000000000000002,0.25,0.4
+2022-10-12 02:06:16.959568,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Alvin Kamara,-0.1503,0.0164,0.1667
+2022-10-12 02:06:17.569463,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,Bryce Young,-0.15550000000000003,0.0667,0.2222
+2022-10-12 02:06:17.322744,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Cleveland Browns,Yes,-0.15740000000000004,0.3077,0.4651
+2022-10-12 02:06:16.309422,Boxing Lines - Andrew Moloney vs Norbelto Jimenez - To Win the Bout,Norbelto Jimenez,-0.1607,0.2857,0.4464
+2022-10-12 02:06:17.728836,AFC East - 2022/2023 AFC East - AFC East Winner,Miami Dolphins,-0.1666,0.1667,0.3333
+2022-10-12 02:06:23.922522,Serie A - Italy Serie A 2022/23 - Top 4 Finish,AS Roma,-0.16849999999999998,0.5238,0.6923
+2022-10-12 02:06:17.767026,AFC West - 2022/2023 AFC West - AFC West Winner,Denver Broncos,-0.1728,0.0625,0.2353
+2022-10-12 02:06:16.967505,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),Jonathan Taylor,-0.1731,0.0769,0.25
+2022-10-12 02:06:23.922522,Serie A - Italy Serie A 2022/23 - Top 4 Finish,Inter Milan,-0.1774,0.6226,0.8
+2022-10-12 02:06:23.993420,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Sevilla,-0.1914,0.0385,0.2299
+2022-10-12 02:06:23.971720,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Karim Benzema (Real Madrid),-0.1971,0.1538,0.3509
+2022-10-12 02:06:17.332640,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Dallas Cowboys,No,-0.20950000000000002,0.2667,0.4762
+2022-10-12 02:06:17.402018,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Los Angeles Rams,Yes,-0.21599999999999997,0.5917,0.8077
+2022-10-12 02:06:23.978765,La Liga - Spain La Liga 2022/23 - To Be Relegated,Mallorca,-0.2179,0.1667,0.3846
+2022-10-12 02:06:17.342716,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Denver Broncos,Yes,-0.23630000000000007,0.2985,0.5348
+2022-10-12 02:06:23.791529,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Lyon,-0.23859999999999998,0.125,0.3636
+2022-10-12 02:06:24.550307,Premier League Futures/Specials - English Premier League 2022/23 - Top 2 Finish,Liverpool,-0.2444,0.2,0.4444
+2022-10-12 02:06:17.696264,NFC West - 2022/2023 NFC West - NFC West Winner,Los Angeles Rams,-0.25750000000000006,0.3077,0.5652
+2022-10-12 02:06:24.133427,UEFA Champions League - Group B - Group Winner,Atlético Madrid,-0.2762,0.2,0.4762
+2022-10-12 02:06:23.913211,Serie A - Italy Serie A 2022/23 - To Be Relegated,Monza,-0.2762,0.2,0.4762
+2022-10-12 02:06:23.837348,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Lyon,-0.29760000000000003,0.2857,0.5833
+2022-10-12 02:06:23.922522,Serie A - Italy Serie A 2022/23 - Top 4 Finish,Juventus,-0.3143,0.4,0.7143
+2022-10-12 02:06:23.876785,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Augsburg,-0.31660000000000005,0.2667,0.5833
+2022-10-12 02:06:24.275620,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Djurgårdens,-0.38100000000000006,0.3333,0.7143
