@@ -1,23 +1,29 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-12 23:40:51.652822,UEFA Champions League - Group E - Group Winner,Chelsea,0.5043,0.8889,0.3846
 2022-10-12 23:40:51.661938,UEFA Champions League - Group H - Group Winner,Benfica,0.1666,0.3333,0.1667
+2022-10-13 05:41:00.342056,MLB Futures - MLB 2022 National League - NL Winner,San Diego Padres,0.1242,0.2353,0.1111
+2022-10-13 05:41:00.342056,MLB Futures - MLB 2022 National League - NL Winner,Atlanta Braves,0.10039999999999999,0.3226,0.2222
 2022-10-13 01:40:11.000494,NFL Specials - Next NFL Coach to Permanently Leave their Post - Proposition,Ron Rivera,0.0889,0.2222,0.1333
 2022-10-12 22:40:48.034788,BKFC 31: Richman vs Doolittle - Evgeny Kurdanov vs Gorjan Slaveski - To Win the Bout,Evgeny Kurdanov,0.08039999999999997,0.5455,0.4651
 2022-10-12 22:40:46.091703,Professional Baseball - NPB 2022 - Outright,Tokyo Yakult Swallows,0.05559999999999998,0.5,0.4444
+2022-10-13 05:41:00.317841,MLB Futures - MLB 2022 American League - AL Winner,New York Yankees,0.05520000000000003,0.4,0.3448
 2022-10-12 22:40:46.091703,Professional Baseball - NPB 2022 - Outright,Orix Buffaloes,0.05449999999999999,0.4545,0.4
+2022-10-13 05:41:00.328675,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Atlanta Braves,0.04909999999999999,0.1667,0.1176
+2022-10-13 05:41:00.328675,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,San Diego Padres,0.048600000000000004,0.1111,0.0625
 2022-10-12 22:40:47.097263,95th Academy Awards - Best Actor - Best Actor,Brendan Fraser,0.03639999999999999,0.6364,0.6
 2022-10-12 22:40:47.759554,Boxing Lines - Savannah Marshall vs Claressa Shields - To Win the Bout,Savannah Marshall,0.035999999999999976,0.5122,0.4762
 2022-10-13 02:40:46.077507,Team Seeding - 2022/23 - DEN Nuggets,Under 5.5,0.03479999999999994,0.6,0.5652
 2022-10-12 22:40:47.564253,Boxing Lines - Liam Paro vs Brock Jarvis - To Win the Bout,Brock Jarvis,0.03370000000000001,0.4,0.3663
 2022-10-12 23:40:51.640923,Championship - England Championship 2022/23 - Outright,Burnley,0.033300000000000024,0.2,0.1667
+2022-10-13 05:41:06.976922,CFL - 2022 CFL Season Odds - Odds to win the 109th (2022) Grey Cup,British Columbia Lions,0.033300000000000024,0.2,0.1667
 2022-10-12 22:40:49.615544,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Golden State Warriors,Over 51.5,0.030399999999999983,0.5652,0.5348
 2022-10-12 22:40:46.081206,KBO League - KBO League 2022 - Outright,KT Wiz,0.028399999999999995,0.0909,0.0625
 2022-10-12 23:40:51.671330,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Napoli,0.028199999999999996,0.0667,0.0385
 2022-10-12 22:40:47.551988,Boxing Lines - Abdoulaye Mayweather vs Cesar Mateo Tapia - To Win the Bout,Cesar Mateo Tapia,0.025800000000000045,0.6226,0.5968
 2022-10-13 04:40:33.677191,US Midterm Elections 2022 - House & Senate Control Doubles - Proposition,Republican House & Republican Senate,0.023800000000000043,0.5238,0.5
-2022-10-12 22:40:46.951996,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Tampa Bay Buccaneers,0.023799999999999988,0.1667,0.1429
-2022-10-12 23:40:51.671330,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Bayern Munich,0.023799999999999988,0.1667,0.1429
 2022-10-13 04:40:34.864377,2022/23 NBA - Regular Season Wins - Regular Season Wins - Alternate Totals - ORL Magic ,Over 30.5,0.023799999999999988,0.3571,0.3333
+2022-10-12 23:40:51.671330,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Bayern Munich,0.023799999999999988,0.1667,0.1429
+2022-10-12 22:40:46.951996,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Tampa Bay Buccaneers,0.023799999999999988,0.1667,0.1429
 2022-10-13 01:40:11.176604,Boxing Lines - Alessio Lorusso vs Sebastian Perez - To Win the Bout,Alessio Lorusso,0.023799999999999932,0.8571,0.8333
 2022-10-13 04:40:34.573839,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Sacramento Kings,Over 33.5,0.023699999999999943,0.6154,0.5917
 2022-10-12 23:40:44.629120,Boxing Lines - Frank Sanchez vs Carlos Negron - To Win the Bout,Frank Sanchez,0.023499999999999965,0.9709,0.9474
@@ -26,13 +32,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-12 22:40:49.094111,Tournament Match-Ups - Parlays - Tournament Match-Up - K. Streelman v S. Jaeger - Tournament Match-Up,Stephan Jaeger,0.02079999999999993,0.5556,0.5348
 2022-10-12 22:40:48.732719,Round Match-Ups - Parlays - 1st Round Match-Up - C. Davis vs S. Straka - 1st Round Match-Up,Cameron Davis,0.02079999999999993,0.5556,0.5348
 2022-10-12 23:40:51.640923,Championship - England Championship 2022/23 - Outright,West Bromwich Albion,0.019099999999999995,0.0435,0.0244
+2022-10-13 05:41:06.976922,CFL - 2022 CFL Season Odds - Odds to win the 109th (2022) Grey Cup,Hamilton Tiger-Cats,0.019099999999999995,0.0435,0.0244
+2022-10-13 05:41:00.328675,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,New York Yankees,0.01820000000000002,0.2,0.1818
 2022-10-12 22:40:49.325109,SAS Championship - SAS Championship - Outright,Padraig Harrington,0.01820000000000002,0.2,0.1818
 2022-10-12 22:40:48.583489,The ZOZO Championship - 2/3 Balls - 1st Round 3 Balls - M. McNealy / M. Pereira / S. Imahira - 1st Round 3 Balls,Mito Pereira,0.018100000000000005,0.4348,0.4167
 2022-10-12 23:40:51.671330,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Liverpool,0.01759999999999999,0.1176,0.1
-2022-10-13 04:40:34.548930,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Orlando Magic,Over 26.5,0.017299999999999982,0.5917,0.5744
 2022-10-12 23:40:51.640923,Championship - England Championship 2022/23 - Outright,Sheffield United,0.017299999999999982,0.303,0.2857
-2022-10-13 04:40:34.460731,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Denver Nuggets,Over 50.5,0.017299999999999982,0.5917,0.5744
 2022-10-12 22:40:49.109667,Tournament Match-Ups - Parlays - Tournament Match-Up - M. McNealy v S. Straka - Tournament Match-Up,Maverick McNealy,0.017299999999999982,0.5917,0.5744
+2022-10-13 04:40:34.548930,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Orlando Magic,Over 26.5,0.017299999999999982,0.5917,0.5744
+2022-10-13 04:40:34.460731,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Denver Nuggets,Over 50.5,0.017299999999999982,0.5917,0.5744
 2022-10-12 22:40:47.526735,Boxing Lines - Demsey McKean vs Patrick Korte - To Win the Bout,Patrick Korte,0.017200000000000007,0.1081,0.0909
 2022-10-13 04:40:34.587187,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Toronto Raptors,Over 45.5,0.01539999999999997,0.6154,0.6
 2022-10-12 22:40:48.122395,Andalucia Masters - Andalucia Masters  - Outright,Matt Fitzpatrick,0.015100000000000002,0.1818,0.1667
@@ -41,20 +49,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-12 22:40:47.792939,Boxing Lines - Gurgen Hovhannisyan vs Michael Polite Coffie - To Win the Bout,Gurgen Hovhannisyan,0.014700000000000046,0.7647,0.75
 2022-10-12 23:40:51.671330,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Tottenham,0.014100000000000001,0.0526,0.0385
 2022-10-12 23:40:51.671330,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Real Madrid,0.013999999999999999,0.0909,0.0769
+2022-10-13 05:41:06.976922,CFL - 2022 CFL Season Odds - Odds to win the 109th (2022) Grey Cup,Montreal Alouettes,0.013999999999999999,0.0909,0.0769
 2022-10-13 04:40:34.930292,2022/23 NBA - Regular Season Wins - Regular Season Wins - Alternate Totals - SAC Kings ,Over 36.5,0.013800000000000034,0.3774,0.3636
 2022-10-12 22:40:47.967014,Boxing Lines - Dmitry Bivol vs Gilberto Ramirez - To Win the Bout,Gilberto Ramirez,0.0131,0.2353,0.2222
 2022-10-13 02:40:41.812862,Boxing Lines - Gurgen Hovhannisyan vs Michael Polite Coffie - To Win the Bout,Gurgen Hovhannisyan,0.0131,0.7778,0.7647
-2022-10-12 23:40:46.930591,Round Match-Ups - Parlays - 1st Round Match-Up - H. Matsuyama vs C. Morikawa - 1st Round Match-Up,Collin Morikawa,0.012199999999999989,0.5122,0.5
 2022-10-12 23:40:46.466405,Andalucia Masters - 2/3 Balls - 1st Round 3-Balls - C. Hanna / A. Pavan / M. Korhonen - 1st Round 3-Balls,Mikko Korhonen,0.012199999999999989,0.5122,0.5
+2022-10-12 23:40:46.930591,Round Match-Ups - Parlays - 1st Round Match-Up - H. Matsuyama vs C. Morikawa - 1st Round Match-Up,Collin Morikawa,0.012199999999999989,0.5122,0.5
 2022-10-12 23:40:46.271136,Andalucia Masters - 2/3 Balls - 1st Round 3-Balls - M. Woo Lee / M. Fitzpatrick / R. Fox - 1st Round 3-Balls,Matt Fitzpatrick,0.0116,0.4878,0.4762
 2022-10-12 22:40:47.694301,Boxing Lines - James Dickens vs Dlamini Lerato - To Win the Bout,Dlamini Lerato,0.011400000000000021,0.2817,0.2703
 2022-10-12 23:40:46.494848,The ZOZO Championship - The ZOZO Championship - Outright,Viktor Hovland,0.011199999999999995,0.0588,0.0476
 2022-10-12 22:40:48.862134,Round Match-Ups - Parlays - 1st Round Match-Up - S. Munoz vs M. McNealy - 1st Round Match-Up,Maverick McNealy,0.01100000000000001,0.5348,0.5238
-2022-10-12 23:40:46.392973,Andalucia Masters - 2/3 Balls - 1st Round 3-Balls - S. Soderberg / D. Gavins / T. Detry - 1st Round 3-Balls,Thomas Detry,0.010599999999999998,0.4651,0.4545
 2022-10-12 22:40:48.944375,Round Match-Ups - 1st Round Match-Up - X. Schauffele v C. Morikawa - 1st Round Match-Up,Collin Morikawa,0.010599999999999998,0.4651,0.4545
+2022-10-12 23:40:46.392973,Andalucia Masters - 2/3 Balls - 1st Round 3-Balls - S. Soderberg / D. Gavins / T. Detry - 1st Round 3-Balls,Thomas Detry,0.010599999999999998,0.4651,0.4545
+2022-10-12 23:40:44.338636,Boxing Lines - Abdoulaye Mayweather vs Cesar Mateo Tapia - To Win the Bout,Abdoulaye Mayweather,0.010099999999999998,0.4545,0.4444
+2022-10-13 05:41:00.519950,Boxing Lines - Abdoulaye Mayweather vs Cesar Mateo Tapia - To Win the Bout,Abdoulaye Mayweather,0.010099999999999998,0.4545,0.4444
 2022-10-12 23:40:46.479070,Andalucia Masters - 2/3 Balls - 1st Round 3-Balls - R. Ramsay / J. B. Hansen / J. Donaldson - 1st Round 3-Balls,Jamie Donaldson,0.010099999999999998,0.3226,0.3125
 2022-10-12 22:40:48.661685,The ZOZO Championship - 2/3 Balls - 1st Round 3 Balls - W. Clark / S. Jaeger / M. Horikawa - 1st Round 3 Balls,Wyndham Clark,0.010099999999999998,0.4545,0.4444
-2022-10-12 23:40:44.338636,Boxing Lines - Abdoulaye Mayweather vs Cesar Mateo Tapia - To Win the Bout,Abdoulaye Mayweather,0.010099999999999998,0.4545,0.4444
 2022-10-13 01:40:11.209754,Boxing Lines - Abdoulaye Mayweather vs Cesar Mateo Tapia - To Win the Bout,Abdoulaye Mayweather,-0.010099999999999998,0.4444,0.4545
 2022-10-12 22:40:49.325109,SAS Championship - SAS Championship - Outright,Bernhard Langer,-0.0102,0.0667,0.0769
 2022-10-13 04:40:34.909587,2022/23 NBA - Regular Season Wins - Regular Season Wins - Alternate Totals - SA Spurs ,Over 18.5,-0.010400000000000076,0.7674,0.7778
@@ -63,34 +73,37 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-13 04:40:32.796134,BKFC 31: Richman vs Doolittle - Bubba McDaniel Jr. vs Chris Camozzi - To Win the Bout,Bubba McDaniel Jr.,-0.010699999999999987,0.3226,0.3333
 2022-10-12 22:40:47.564253,Boxing Lines - Liam Paro vs Brock Jarvis - To Win the Bout,Liam Paro,-0.010700000000000043,0.6667,0.6774
 2022-10-12 22:40:48.405522,The ZOZO Championship - The ZOZO Championship - Outright,Xander Schauffele,-0.011099999999999999,0.1,0.1111
-2022-10-12 22:40:49.109667,Tournament Match-Ups - Parlays - Tournament Match-Up - M. McNealy v S. Straka - Tournament Match-Up,Sepp Straka,-0.0116,0.4762,0.4878
 2022-10-13 04:40:34.548930,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Orlando Magic,Under 26.5,-0.0116,0.4762,0.4878
+2022-10-12 22:40:49.109667,Tournament Match-Ups - Parlays - Tournament Match-Up - M. McNealy v S. Straka - Tournament Match-Up,Sepp Straka,-0.0116,0.4762,0.4878
 2022-10-13 04:40:34.460731,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Denver Nuggets,Under 50.5,-0.0116,0.4762,0.4878
 2022-10-12 22:40:48.862134,Round Match-Ups - Parlays - 1st Round Match-Up - S. Munoz vs M. McNealy - 1st Round Match-Up,Sebastian Munoz,-0.011600000000000055,0.5122,0.5238
 2022-10-13 01:40:11.398799,Boxing Lines - Deontay Wilder vs Robert Helenius - To Win the Bout,Robert Helenius,-0.011899999999999994,0.1481,0.16
 2022-10-13 04:40:34.555119,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Philadelphia 76ers,Under 50.5,-0.012199999999999989,0.5,0.5122
 2022-10-12 23:40:46.457047,Andalucia Masters - 2/3 Balls - 1st Round 3-Balls - A. Rozner / M. Kieffer / J. Campillo - 1st Round 3-Balls,Jorge Campillo,-0.012299999999999978,0.3448,0.3571
 2022-10-12 22:40:46.951996,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Green Bay Packers,-0.012899999999999995,0.1538,0.1667
-2022-10-12 22:40:47.819323,Boxing Lines - Andrew Moloney vs Norbelto Jimenez - To Win the Bout,Andrew Moloney,-0.0131,0.7647,0.7778
 2022-10-13 04:40:33.677191,US Midterm Elections 2022 - House & Senate Control Doubles - Proposition,Democratic House & Democratic Senate,-0.0131,0.2222,0.2353
+2022-10-12 22:40:47.819323,Boxing Lines - Andrew Moloney vs Norbelto Jimenez - To Win the Bout,Andrew Moloney,-0.0131,0.7647,0.7778
 2022-10-12 22:40:49.325109,SAS Championship - SAS Championship - Outright,Steven Alker,-0.013899999999999996,0.1111,0.125
 2022-10-12 23:40:44.629120,Boxing Lines - Frank Sanchez vs Carlos Negron - To Win the Bout,Carlos Negron,-0.013999999999999999,0.0769,0.0909
 2022-10-12 23:40:46.466405,Andalucia Masters - 2/3 Balls - 1st Round 3-Balls - C. Hanna / A. Pavan / M. Korhonen - 1st Round 3-Balls,Chase Hanna,-0.014000000000000012,0.2985,0.3125
 2022-10-13 01:40:11.000494,NFL Specials - Next NFL Coach to Permanently Leave their Post - Proposition,Josh McDaniels,-0.014099999999999994,0.0526,0.0667
 2022-10-13 01:40:11.000494,NFL Specials - Next NFL Coach to Permanently Leave their Post - Proposition,Dan Campbell,-0.014099999999999994,0.0526,0.0667
+2022-10-13 05:41:00.328675,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Cleveland Guardians,-0.014100000000000001,0.0385,0.0526
 2022-10-13 04:40:32.650662,Boxing Lines - Gary Antonio Russell vs Emmanuel Rodriguez - To Win the Bout,Emmanuel Rodriguez,-0.01419999999999999,0.3704,0.3846
 2022-10-12 23:40:44.338636,Boxing Lines - Abdoulaye Mayweather vs Cesar Mateo Tapia - To Win the Bout,Cesar Mateo Tapia,-0.014800000000000035,0.6078,0.6226
+2022-10-13 05:41:00.519950,Boxing Lines - Abdoulaye Mayweather vs Cesar Mateo Tapia - To Win the Bout,Cesar Mateo Tapia,-0.014800000000000035,0.6078,0.6226
 2022-10-12 22:40:48.583489,The ZOZO Championship - 2/3 Balls - 1st Round 3 Balls - M. McNealy / M. Pereira / S. Imahira - 1st Round 3 Balls,Maverick McNealy,-0.016699999999999993,0.4,0.4167
 2022-10-13 01:40:11.176604,Boxing Lines - Alessio Lorusso vs Sebastian Perez - To Win the Bout,Sebastian Perez,-0.01680000000000001,0.2105,0.2273
 2022-10-12 22:40:47.708682,Boxing Lines - Peter McGrail vs Alexander Espinoza - To Win the Bout,Alexander Espinoza,-0.01759999999999999,0.1,0.1176
 2022-10-13 04:40:34.930292,2022/23 NBA - Regular Season Wins - Regular Season Wins - Alternate Totals - SAC Kings ,Under 36.5,-0.018399999999999972,0.6875,0.7059
 2022-10-12 22:40:47.759554,Boxing Lines - Savannah Marshall vs Claressa Shields - To Win the Bout,Claressa Shields,-0.01880000000000004,0.5556,0.5744
+2022-10-13 05:41:00.317841,MLB Futures - MLB 2022 American League - AL Winner,Seattle Mariners,-0.019699999999999995,0.1053,0.125
 2022-10-13 04:40:34.573839,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Sacramento Kings,Under 33.5,-0.021699999999999997,0.4545,0.4762
 2022-10-12 22:40:49.094111,Tournament Match-Ups - Parlays - Tournament Match-Up - K. Streelman v S. Jaeger - Tournament Match-Up,Kevin Streelman,-0.022600000000000064,0.5122,0.5348
 2022-10-13 04:40:34.864377,2022/23 NBA - Regular Season Wins - Regular Season Wins - Alternate Totals - ORL Magic ,Under 30.5,-0.0232,0.7101,0.7333
 2022-10-12 23:40:51.652822,UEFA Champions League - Group E - Group Winner,Dinamo Zagreb,-0.023200000000000002,0.0244,0.0476
-2022-10-13 01:40:11.000494,NFL Specials - Next NFL Coach to Permanently Leave their Post - Proposition,Frank Reich,-0.023799999999999988,0.1429,0.1667
 2022-10-12 22:40:46.081206,KBO League - KBO League 2022 - Outright,Kiwoom Heroes,-0.023799999999999988,0.1429,0.1667
+2022-10-13 01:40:11.000494,NFL Specials - Next NFL Coach to Permanently Leave their Post - Proposition,Frank Reich,-0.023799999999999988,0.1429,0.1667
 2022-10-12 22:40:48.878841,Round Match-Ups - Parlays - 1st Round Match-Up - K.H. Lee vs L. Herbert - 1st Round Match-Up,Lucas Herbert,-0.023800000000000043,0.5,0.5238
 2022-10-12 22:40:48.732719,Round Match-Ups - Parlays - 1st Round Match-Up - C. Davis vs S. Straka - 1st Round Match-Up,Sepp Straka,-0.024399999999999977,0.4878,0.5122
 2022-10-12 23:40:51.661938,UEFA Champions League - Group H - Group Winner,Juventus,-0.024399999999999998,0.005,0.0294
@@ -98,9 +111,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-13 02:40:41.812862,Boxing Lines - Gurgen Hovhannisyan vs Michael Polite Coffie - To Win the Bout,Michael Polite Coffie,-0.0252,0.2778,0.303
 2022-10-12 22:40:49.615544,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Golden State Warriors,Under 51.5,-0.03480000000000005,0.5,0.5348
 2022-10-13 02:40:46.077507,Team Seeding - 2022/23 - DEN Nuggets,Over 5.5,-0.03489999999999999,0.4651,0.5
+2022-10-13 05:41:00.317841,MLB Futures - MLB 2022 American League - AL Winner,Cleveland Guardians,-0.037599999999999995,0.1053,0.1429
+2022-10-13 05:41:00.328675,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Philadelphia Phillies,-0.0417,0.0833,0.125
+2022-10-13 05:41:06.976922,CFL - 2022 CFL Season Odds - Odds to win the 109th (2022) Grey Cup,Saskatchewan Roughriders,-0.04329999999999999,0.0476,0.0909
 2022-10-12 23:40:51.671330,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,FC Barcelona,-0.047099999999999996,0.0196,0.0667
 2022-10-12 22:40:46.091703,Professional Baseball - NPB 2022 - Outright,Hanshin Tigers,-0.052000000000000005,0.0909,0.1429
+2022-10-13 05:41:00.342056,MLB Futures - MLB 2022 National League - NL Winner,Philadelphia Phillies,-0.05350000000000002,0.1818,0.2353
 2022-10-12 22:40:46.091703,Professional Baseball - NPB 2022 - Outright,Fukuoka SoftBank Hawks,-0.06669999999999998,0.1,0.1667
 2022-10-12 22:40:48.034788,BKFC 31: Richman vs Doolittle - Evgeny Kurdanov vs Gorjan Slaveski - To Win the Bout,Gorjan Slaveski,-0.07619999999999993,0.5238,0.6
+2022-10-13 05:41:00.328675,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Los Angeles Dodgers,-0.08729999999999999,0.2353,0.3226
 2022-10-12 23:40:51.661938,UEFA Champions League - Group H - Group Winner,Paris Saint-Germain,-0.11029999999999995,0.7647,0.875
+2022-10-13 05:41:00.342056,MLB Futures - MLB 2022 National League - NL Winner,Los Angeles Dodgers,-0.1154,0.3846,0.5
 2022-10-12 23:40:51.652822,UEFA Champions League - Group E - Group Winner,AC Milan,-0.4889,0.0667,0.5556
