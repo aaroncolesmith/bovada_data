@@ -16,11 +16,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-15 00:40:54.533270,BKFC 31: Richman vs Doolittle - Josh Todd vs Jessie Stalder - To Win the Bout,Jessie Stalder,0.035999999999999976,0.5122,0.4762
 2022-10-14 21:40:40.451884,2022 Gubernatorial Elections - Nevada - Nevada winner,Republicans,0.03489999999999999,0.5,0.4651
 2022-10-14 22:40:42.664275,SAS Championship - SAS Championship - Outright,Robert Karlsson,0.0344,0.0588,0.0244
-2022-10-14 19:40:38.432965,NFL Weekly Specials - NFL Week 6 Leaders - Most Passing Yards - Week 6 (Sunday Only),Tom Brady,0.034100000000000005,0.125,0.0909
 2022-10-14 21:40:41.341669,NFL Weekly Specials - NFL Week 6 Leaders - Most Passing Yards - Week 6 (Sunday Only),Tom Brady,0.034100000000000005,0.125,0.0909
-2022-10-14 22:40:42.664275,SAS Championship - SAS Championship - Outright,Jerry Kelly,0.0321,0.0909,0.0588
-2022-10-14 22:40:42.664275,SAS Championship - SAS Championship - Outright,Jim Furyk,0.0321,0.0909,0.0588
+2022-10-14 19:40:38.432965,NFL Weekly Specials - NFL Week 6 Leaders - Most Passing Yards - Week 6 (Sunday Only),Tom Brady,0.034100000000000005,0.125,0.0909
 2022-10-14 22:40:42.664275,SAS Championship - SAS Championship - Outright,Steve Flesch,0.0321,0.0909,0.0588
+2022-10-14 22:40:42.664275,SAS Championship - SAS Championship - Outright,Jim Furyk,0.0321,0.0909,0.0588
+2022-10-14 22:40:42.664275,SAS Championship - SAS Championship - Outright,Jerry Kelly,0.0321,0.0909,0.0588
 2022-10-14 19:40:38.413994,NFL Weekly Specials - NFL Week 6 Leaders - Highest Scoring Team - Week 6 (Sunday Only),TB Buccaneers,0.031799999999999995,0.1429,0.1111
 2022-10-14 21:40:41.318544,NFL Weekly Specials - NFL Week 6 Leaders - Highest Scoring Team - Week 6 (Sunday Only),TB Buccaneers,0.031799999999999995,0.1429,0.1111
 2022-10-14 15:40:58.967473,BKFC 31: Richman vs Doolittle - Evgeny Kurdanov vs Gorjan Slaveski - To Win the Bout,Gorjan Slaveski,0.03179999999999994,0.5556,0.5238
@@ -33,34 +33,36 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-14 19:40:37.132160,Andalucia Masters - Andalucia Masters - Outright,Joakim Lagergren,0.025500000000000002,0.0345,0.009
 2022-10-14 22:40:42.016240,Andalucia Masters - Andalucia Masters - Outright,Angel Hidalgo,0.025300000000000003,0.1429,0.1176
 2022-10-14 20:40:55.501525,BKFC 31: Richman vs Doolittle - Mike Richman vs Isaac Doolittle - To Win the Bout,Isaac Doolittle,0.0252,0.303,0.2778
-2022-10-14 18:40:37.134390,BKFC 31: Richman vs Doolittle - Mike Richman vs Isaac Doolittle - To Win the Bout,Mike Richman,0.024799999999999933,0.7895,0.7647
 2022-10-14 21:40:37.391423,BKFC 31: Richman vs Doolittle - Mike Richman vs Isaac Doolittle - To Win the Bout,Mike Richman,0.024799999999999933,0.7895,0.7647
+2022-10-14 18:40:37.134390,BKFC 31: Richman vs Doolittle - Mike Richman vs Isaac Doolittle - To Win the Bout,Mike Richman,0.024799999999999933,0.7895,0.7647
 2022-10-14 22:40:42.664275,SAS Championship - SAS Championship - Outright,Thongchai Jaidee,0.0242,0.0909,0.0667
+2022-10-15 03:40:46.215844,Boxing Lines - Liam Paro vs Brock Jarvis - To Win the Bout,Brock Jarvis,0.02410000000000001,0.4,0.3759
 2022-10-14 21:40:37.640248,The ZOZO Championship - 2/3 Balls - 3rd Round 3 Balls - S. Ryder / A/ Schenk / C. Morikawa - Outright,Collin Morikawa,0.022699999999999998,0.4878,0.4651
 2022-10-14 19:40:37.259826,The ZOZO Championship - 2/3 Balls - 3rd Round 3 Balls - S. Ryder / A/ Schenk / C. Morikawa - Outright,Collin Morikawa,0.022699999999999998,0.4878,0.4651
 2022-10-15 00:40:54.239446,Boxing Lines - Rocky Ogden vs Ben Cameron Hands - To Win the Bout,Rocky Ogden,0.021299999999999986,0.6667,0.6454
 2022-10-14 21:40:37.341976,BKFC 31: Richman vs Doolittle - Andrew Angelcor vs Van Vo - To Win the Bout,Andrew Angelcor,0.019400000000000084,0.8131,0.7937
 2022-10-14 19:40:36.815766,BKFC 31: Richman vs Doolittle - Andrew Angelcor vs Van Vo - To Win the Bout,Andrew Angelcor,0.019400000000000084,0.8131,0.7937
-2022-10-14 21:40:37.681948,Round Match-Ups - Parlays - 3rd Round Match-Up - S. Im vs H. Matsuyama - 3rd Round Match-Up,Sungjae Im,0.01880000000000004,0.5744,0.5556
 2022-10-14 19:40:37.308376,Round Match-Ups - Parlays - 3rd Round Match-Up - S. Im vs H. Matsuyama - 3rd Round Match-Up,Sungjae Im,0.01880000000000004,0.5744,0.5556
+2022-10-14 21:40:37.681948,Round Match-Ups - Parlays - 3rd Round Match-Up - S. Im vs H. Matsuyama - 3rd Round Match-Up,Sungjae Im,0.01880000000000004,0.5744,0.5556
 2022-10-14 18:40:38.640904,NFL Weekly Specials - NFL Week 6 Leaders - Most Rushing Yards - Week 6 (Sunday Only),Darrell Henderson,0.0159,0.0323,0.0164
 2022-10-14 21:40:41.360989,NFL Weekly Specials - NFL Week 6 Leaders - Most Rushing Yards - Week 6 (Sunday Only),Darrell Henderson,0.0159,0.0323,0.0164
 2022-10-14 22:40:42.664275,SAS Championship - SAS Championship - Outright,Vijay Singh,0.0145,0.0244,0.0099
 2022-10-14 19:40:37.132160,Andalucia Masters - Andalucia Masters - Outright,John Catlin,0.014499999999999999,0.0294,0.0149
 2022-10-14 22:40:39.184462,BKFC 31: Richman vs Doolittle - Mike Richman vs Isaac Doolittle - To Win the Bout,Mike Richman,0.014399999999999968,0.8039,0.7895
 2022-10-14 16:40:53.712508,MLB Futures - 2022 World Series MVP - 2022 World Series MVP,Yordan Alvarez (HOU),0.013999999999999999,0.0909,0.0769
-2022-10-14 19:40:36.657705,Boxing Lines - Gurgen Hovhannisyan vs Michael Polite Coffie - To Win the Bout,Gurgen Hovhannisyan,0.0131,0.8131,0.8
 2022-10-14 21:40:37.201544,Boxing Lines - Gurgen Hovhannisyan vs Michael Polite Coffie - To Win the Bout,Gurgen Hovhannisyan,0.0131,0.8131,0.8
+2022-10-14 19:40:36.657705,Boxing Lines - Gurgen Hovhannisyan vs Michael Polite Coffie - To Win the Bout,Gurgen Hovhannisyan,0.0131,0.8131,0.8
 2022-10-14 21:40:40.435593,2022 Gubernatorial Elections - Florida - Florida winner,Democrats,0.012899999999999995,0.1667,0.1538
 2022-10-14 22:40:42.664275,SAS Championship - SAS Championship - Outright,Kirk Triplett,0.012100000000000001,0.0244,0.0123
 2022-10-14 19:40:37.207174,The ZOZO Championship - 2/3 Balls - 3rd Round 3 Balls - L. Hodges / B. Wu / C. Young - Outright,Cameron Young,0.0116,0.4878,0.4762
 2022-10-14 21:40:37.593612,The ZOZO Championship - 2/3 Balls - 3rd Round 3 Balls - L. Hodges / B. Wu / C. Young - Outright,Cameron Young,0.0116,0.4878,0.4762
 2022-10-14 21:40:37.653323,The ZOZO Championship - 2/3 Balls - 3rd Round 3 Balls - A. Putnam / R. Fowler / K. Bradley - Outright,Rickie Fowler,0.01150000000000001,0.3448,0.3333
 2022-10-14 20:40:57.617788,The ZOZO Championship - 2/3 Balls - 3rd Round 3 Balls - S. Ryder / A/ Schenk / C. Morikawa - Outright,Adam Schenk,0.010699999999999987,0.3333,0.3226
-2022-10-14 18:40:36.907185,Boxing Lines - Cherneka Johnson vs Susie Ramadan - To Win the Bout,Susie Ramadan,0.010200000000000015,0.1481,0.1379
 2022-10-14 21:40:37.195179,Boxing Lines - Cherneka Johnson vs Susie Ramadan - To Win the Bout,Susie Ramadan,0.010200000000000015,0.1481,0.1379
-2022-10-14 16:40:54.498904,Boxing Lines - Gary Antonio Russell vs Emmanuel Rodriguez - To Win the Bout,Gary Antonio Russell,0.010099999999999998,0.6875,0.6774
+2022-10-14 18:40:36.907185,Boxing Lines - Cherneka Johnson vs Susie Ramadan - To Win the Bout,Susie Ramadan,0.010200000000000015,0.1481,0.1379
 2022-10-14 20:40:54.955766,Boxing Lines - Savannah Marshall vs Claressa Shields - To Win the Bout,Claressa Shields,0.010099999999999998,0.5556,0.5455
+2022-10-14 16:40:54.498904,Boxing Lines - Gary Antonio Russell vs Emmanuel Rodriguez - To Win the Bout,Gary Antonio Russell,0.010099999999999998,0.6875,0.6774
+2022-10-15 03:40:46.373893,Boxing Lines - Savannah Marshall vs Claressa Shields - To Win the Bout,Claressa Shields,0.010099999999999998,0.5556,0.5455
 2022-10-14 21:40:37.182387,Boxing Lines - Savannah Marshall vs Claressa Shields - To Win the Bout,Claressa Shields,-0.010099999999999998,0.5455,0.5556
 2022-10-14 20:40:54.986162,Boxing Lines - Cherneka Johnson vs Susie Ramadan - To Win the Bout,Susie Ramadan,-0.010200000000000015,0.1379,0.1481
 2022-10-14 19:40:37.132160,Andalucia Masters - Andalucia Masters - Outright,Marc Warren,-0.0103,0.002,0.0123
@@ -117,6 +119,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-14 22:40:39.156488,BKFC 31: Richman vs Doolittle - Evgeny Kurdanov vs Gorjan Slaveski - To Win the Bout,Evgeny Kurdanov,-0.06899999999999995,0.5,0.569
 2022-10-15 00:40:54.572156,BKFC 31: Richman vs Doolittle - Evgeny Kurdanov vs Gorjan Slaveski - To Win the Bout,Evgeny Kurdanov,-0.06899999999999995,0.5,0.569
 2022-10-14 23:40:34.956792,BKFC 31: Richman vs Doolittle - Evgeny Kurdanov vs Gorjan Slaveski - To Win the Bout,Gorjan Slaveski,-0.07740000000000002,0.4878,0.5652
+2022-10-15 03:40:47.010054,SAS Championship - SAS Championship - Outright,Ye Yang,-0.0867,0.0244,0.1111
 2022-10-14 22:40:42.664275,SAS Championship - SAS Championship - Outright,Steven Alker,-0.0867,0.0244,0.1111
 2022-10-14 21:40:40.427449,2022 Gubernatorial Elections - Arizona - Arizona winner,Democrats,-0.09099999999999997,0.4545,0.5455
 2022-10-14 22:40:42.664275,SAS Championship - SAS Championship - Outright,Padraig Harrington,-0.10910000000000002,0.0909,0.2
