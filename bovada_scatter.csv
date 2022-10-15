@@ -3,9 +3,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-15 05:40:48.075813,MLB Futures - MLB 2022 National League - NL Winner,San Diego Padres,0.10949999999999999,0.3448,0.2353
 2022-10-15 04:40:42.247437,SAS Championship - SAS Championship - Outright,Ye Yang,0.0867,0.1111,0.0244
 2022-10-15 00:40:54.572156,BKFC 31: Richman vs Doolittle - Evgeny Kurdanov vs Gorjan Slaveski - To Win the Bout,Gorjan Slaveski,0.07740000000000002,0.5652,0.4878
-2022-10-14 23:40:34.956792,BKFC 31: Richman vs Doolittle - Evgeny Kurdanov vs Gorjan Slaveski - To Win the Bout,Evgeny Kurdanov,0.06899999999999995,0.569,0.5
-2022-10-15 05:40:48.090635,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,San Diego Padres,0.06669999999999998,0.1667,0.1
 2022-10-15 05:40:48.105673,MLB Futures - MLB 2022 American League - AL Winner,Cleveland Guardians,0.06669999999999998,0.1667,0.1
+2022-10-15 05:40:48.090635,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,San Diego Padres,0.06669999999999998,0.1667,0.1
 2022-10-15 01:41:19.611093,2022 Gubernatorial Elections - Wisconsin - Wisconsin winner,Republican,0.0595,0.5833,0.5238
 2022-10-15 08:41:09.255737,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Racing Club,0.05710000000000001,0.2,0.1429
 2022-10-15 05:40:48.090635,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Philadelphia Phillies,0.05,0.1333,0.0833
@@ -23,8 +22,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-15 05:40:48.090635,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Houston Astros,0.021999999999999964,0.3077,0.2857
 2022-10-15 00:40:54.239446,Boxing Lines - Rocky Ogden vs Ben Cameron Hands - To Win the Bout,Rocky Ogden,0.021299999999999986,0.6667,0.6454
 2022-10-15 06:40:44.470680,Boxing Lines - Lorenzo Simpson vs Marcus Heywood - To Win the Bout,Marcus Heywood,0.02020000000000001,0.1111,0.0909
-2022-10-15 08:41:04.810259,NFL Weekly Specials - NFL Week 6 Leaders - Most Passing Yards - Week 6 (Sunday Only),Tom Brady,0.0179,0.1429,0.125
 2022-10-15 08:41:04.502807,NFL Fantasy Specials - Week 6 Fantasy Scoring Leaders - Week 6 Top Scoring Fantasy WR (PPR),Marquise Brown,0.0179,0.1429,0.125
+2022-10-15 08:41:04.810259,NFL Weekly Specials - NFL Week 6 Leaders - Most Passing Yards - Week 6 (Sunday Only),Tom Brady,0.0179,0.1429,0.125
 2022-10-15 08:41:04.452829,NFL Fantasy Specials - Week 6 Fantasy Scoring Leaders - Week 6 Top Scoring Fantasy RB (PPR),Rhamondre Stevenson,0.016700000000000007,0.1,0.0833
 2022-10-15 09:40:38.048972,Boxing Lines - Gurgen Hovhannisyan vs Michael Polite Coffie - To Win the Bout,Gurgen Hovhannisyan,0.015999999999999903,0.8291,0.8131
 2022-10-15 09:40:38.034256,Boxing Lines - Savannah Marshall vs Claressa Shields - To Win the Bout,Savannah Marshall,0.012199999999999989,0.5122,0.5
@@ -45,10 +44,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-15 00:40:54.252391,Boxing Lines - Demsey McKean vs Patrick Korte - To Win the Bout,Patrick Korte,-0.016700000000000007,0.0833,0.1
 2022-10-15 09:40:38.034256,Boxing Lines - Savannah Marshall vs Claressa Shields - To Win the Bout,Claressa Shields,-0.01770000000000005,0.5475,0.5652
 2022-10-15 04:40:45.682026,NBL - NBL 2022/23 - Outright,Illawarra Hawks,-0.018099999999999998,0.0588,0.0769
-2022-10-15 08:41:09.245840,Super Lig - Turkey Super League 22/23 - Outright,Besiktas,-0.01820000000000002,0.1818,0.2
 2022-10-15 04:40:45.682026,NBL - NBL 2022/23 - Outright,Adelaide 36ers,-0.01820000000000002,0.1818,0.2
-2022-10-15 08:41:09.245840,Super Lig - Turkey Super League 22/23 - Outright,Istanbul Basaksehir,-0.023799999999999988,0.1429,0.1667
+2022-10-15 08:41:09.245840,Super Lig - Turkey Super League 22/23 - Outright,Besiktas,-0.01820000000000002,0.1818,0.2
 2022-10-15 08:41:04.502807,NFL Fantasy Specials - Week 6 Fantasy Scoring Leaders - Week 6 Top Scoring Fantasy WR (PPR),Ja'Marr Chase,-0.023799999999999988,0.1429,0.1667
+2022-10-15 08:41:09.245840,Super Lig - Turkey Super League 22/23 - Outright,Istanbul Basaksehir,-0.023799999999999988,0.1429,0.1667
 2022-10-15 05:40:48.090635,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,New York Yankees,-0.023800000000000016,0.1667,0.1905
 2022-10-15 00:40:54.245961,Boxing Lines - Abdoulaye Mayweather vs Cesar Mateo Tapia - To Win the Bout,Abdoulaye Mayweather,-0.027700000000000002,0.4167,0.4444
 2022-10-15 04:40:45.682026,NBL - NBL 2022/23 - Outright,Perth Wildcats,-0.0353,0.2,0.2353
@@ -58,7 +57,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-15 08:41:09.255737,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Boca Juniors,-0.055499999999999994,0.7778,0.8333
 2022-10-15 00:40:54.572156,BKFC 31: Richman vs Doolittle - Evgeny Kurdanov vs Gorjan Slaveski - To Win the Bout,Evgeny Kurdanov,-0.06899999999999995,0.5,0.569
 2022-10-15 05:40:48.075813,MLB Futures - MLB 2022 National League - NL Winner,Atlanta Braves,-0.07719999999999999,0.2353,0.3125
-2022-10-14 23:40:34.956792,BKFC 31: Richman vs Doolittle - Evgeny Kurdanov vs Gorjan Slaveski - To Win the Bout,Gorjan Slaveski,-0.07740000000000002,0.4878,0.5652
 2022-10-15 05:40:48.090635,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Los Angeles Dodgers,-0.08330000000000001,0.1667,0.25
 2022-10-15 03:40:47.010054,SAS Championship - SAS Championship - Outright,Ye Yang,-0.0867,0.0244,0.1111
 2022-10-15 05:40:48.105673,MLB Futures - MLB 2022 American League - AL Winner,New York Yankees,-0.09230000000000005,0.3077,0.4
