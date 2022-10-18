@@ -1,45 +1,85 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2022-10-17 20:40:39.808978,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,CF Pachuca,0.10910000000000002,0.2,0.0909
+2022-10-18 08:40:43.357058,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Corinthians,0.25710000000000005,0.5238,0.2667
+2022-10-18 08:40:43.350712,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Avaí,0.23040000000000005,0.9804,0.75
+2022-10-18 08:40:43.363805,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Corinthians,0.2269,0.9412,0.7143
+2022-10-18 08:40:43.357058,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Internacional,0.20079999999999998,0.9709,0.7701
+2022-10-18 08:40:43.350712,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Ceará,0.1607,0.2857,0.125
+2022-10-18 08:40:43.755903,Superettan - Swedish Superettan 2022 - Outright,Brommapojkarna,0.14549999999999996,0.5455,0.4
+2022-10-18 08:40:43.357058,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Flamengo,0.13329999999999997,0.9333,0.8
+2022-10-18 08:40:43.350712,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Cuiabá,0.12119999999999997,0.6667,0.5455
 2022-10-18 04:40:56.713391,2022 Gubernatorial Elections - Arizona - Arizona winner,Republicans,0.05910000000000004,0.7143,0.6552
-2022-10-17 20:40:39.402144,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Denver Broncos,No,0.05630000000000002,0.8182,0.7619
 2022-10-18 07:40:54.216032,Super Lig - Turkey Super League 22/23 - Outright,Besiktas,0.05080000000000001,0.2326,0.1818
-2022-10-17 20:40:39.808978,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Club América,0.045499999999999985,0.5455,0.5
+2022-10-18 08:40:43.844195,League One - England - League One 2022/23 - Top 6 Finish,Charlton Athletic,0.05080000000000001,0.2326,0.1818
 2022-10-18 01:40:30.841104,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  New York Jets,Over 7.5,0.03610000000000002,0.5917,0.5556
 2022-10-17 21:40:57.486845,Serie A - Italy Serie A 2022/23 - Winner,Napoli,0.03370000000000001,0.3846,0.3509
+2022-10-18 08:40:43.363805,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Internacional,0.033499999999999974,0.995,0.9615
+2022-10-18 08:40:43.329086,MLS - MLS Cup 2022 - Winner,FC Dallas,0.0321,0.0909,0.0588
 2022-10-17 21:40:57.503792,La Liga - Spain La Liga 2022/23 - Winner,Real Madrid,0.027700000000000058,0.5833,0.5556
 2022-10-18 07:40:54.216032,Super Lig - Turkey Super League 22/23 - Outright,Fenerbahce,0.02560000000000001,0.3333,0.3077
-2022-10-17 20:40:39.808978,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Deportivo Toluca,0.0242,0.0909,0.0667
+2022-10-18 08:40:43.363805,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Fortaleza,0.0236,0.0385,0.0149
 2022-10-17 23:40:46.810945,2022 Gubernatorial Elections - Nevada - Nevada winner,Republicans,0.02169999999999994,0.5455,0.5238
 2022-10-18 02:40:37.354289,US Midterm Elections 2022 - Senate Races: 10 Markets - Nevada,Republican,0.02079999999999993,0.5556,0.5348
+2022-10-18 08:40:43.363805,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Flamengo,0.019399999999999973,0.995,0.9756
 2022-10-17 23:40:46.944899,Brazilian Politics - 2022 Brazilian Presidential Election - Winner,Lula da Silva,0.018399999999999972,0.7059,0.6875
 2022-10-17 21:40:57.916472,League One - England - League One 2022/23 - Outright,Plymouth Argyle,0.01820000000000002,0.2,0.1818
+2022-10-18 08:40:43.350712,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Goiás,0.018200000000000004,0.0476,0.0294
 2022-10-18 02:40:37.373654,US Midterm Elections 2022 - Senate Races: 10 Markets - Ohio,Republican,0.018199999999999994,0.8182,0.8
 2022-10-18 01:40:34.247297,NBL - NBL 2022/23 - Outright,New Zealand Breakers,0.018099999999999998,0.0769,0.0588
+2022-10-18 08:40:43.329086,MLS - MLS Cup 2022 - Winner,Los Angeles FC,0.017600000000000005,0.3509,0.3333
 2022-10-18 02:40:37.379675,US Midterm Elections 2022 - Senate Races: 10 Markets - Pennsylvania,Republican,0.017600000000000005,0.3509,0.3333
 2022-10-18 02:40:37.386118,US Midterm Elections 2022 - Senate Races: 10 Markets - Wisconsin,Republican,0.01739999999999997,0.7674,0.75
 2022-10-18 02:40:37.543616,Brazilian Politics - 2022 Brazilian Presidential Election - Winner,Lula da Silva,0.01629999999999998,0.7222,0.7059
 2022-10-18 05:40:52.653979,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Houston Astros,0.015400000000000025,0.4,0.3846
 2022-10-18 02:40:37.225955,Elite Boxing - Anderson Silva vs Jake Paul - To Win the Bout,Jake Paul,0.01539999999999997,0.5392,0.5238
+2022-10-18 08:40:43.363805,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Botafogo,0.0145,0.0244,0.0099
+2022-10-18 08:40:43.804119,League One - England - League One 2022/23 - To Be Promoted,Charlton Athletic,0.013999999999999999,0.0909,0.0769
+2022-10-18 08:40:43.363805,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,São Paulo,0.011199999999999995,0.0588,0.0476
+2022-10-18 08:40:43.329086,MLS - MLS Cup 2022 - Winner,Austin FC,0.011099999999999999,0.1111,0.1
 2022-10-18 02:40:37.340457,US Midterm Elections 2022 - Senate Races: 10 Markets - Florida,Republican,0.011099999999999999,0.9,0.8889
+2022-10-18 08:40:43.832520,League One - England - League One 2022/23 - Top 2 Finish,Charlton Athletic,0.010700000000000001,0.0385,0.0278
+2022-10-18 08:40:43.329086,MLS - MLS Cup 2022 - Winner,Philadelphia Union,0.010399999999999993,0.2326,0.2222
 2022-10-18 06:40:40.846633,Elite Boxing - Anderson Silva vs Jake Paul - To Win the Bout,Jake Paul,0.010299999999999976,0.5495,0.5392
 2022-10-18 01:40:31.242420,The CJ Cup - The CJ Cup - Outright,Scottie Scheffler,0.0102,0.0769,0.0667
 2022-10-17 21:40:57.503792,La Liga - Spain La Liga 2022/23 - Winner,FC Barcelona,-0.010099999999999998,0.4444,0.4545
 2022-10-17 21:40:57.486845,Serie A - Italy Serie A 2022/23 - Winner,Inter Milan,-0.010899999999999993,0.1429,0.1538
+2022-10-18 08:40:43.357058,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,América Mineiro,-0.0109,0.004,0.0149
 2022-10-18 02:40:37.340457,US Midterm Elections 2022 - Senate Races: 10 Markets - Florida,Democrat,-0.011900000000000022,0.1667,0.1786
 2022-10-18 02:40:37.543616,Brazilian Politics - 2022 Brazilian Presidential Election - Winner,Jair Bolsonaro,-0.012299999999999978,0.3448,0.3571
+2022-10-18 08:40:43.795000,League One - England - League One 2022/23 - Top Goalscorer,Jonson Clarke-Harris,-0.013800000000000034,0.3636,0.3774
 2022-10-18 02:40:37.386118,US Midterm Elections 2022 - Senate Races: 10 Markets - Wisconsin,Democrat,-0.014000000000000012,0.2985,0.3125
+2022-10-18 08:40:43.844195,League One - England - League One 2022/23 - Top 6 Finish,Ipswich Town,-0.014100000000000001,0.9615,0.9756
 2022-10-18 01:40:34.247297,NBL - NBL 2022/23 - Outright,Illawarra Hawks,-0.014100000000000001,0.0385,0.0526
+2022-10-18 08:40:43.350712,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Santos,-0.014499999999999999,0.0149,0.0294
 2022-10-18 05:40:52.653979,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,San Diego Padres,-0.016699999999999993,0.25,0.2667
 2022-10-17 21:40:57.486845,Serie A - Italy Serie A 2022/23 - Winner,Atalanta,-0.01759999999999999,0.1,0.1176
+2022-10-18 08:40:43.363805,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Goiás,-0.017599999999999998,0.002,0.0196
 2022-10-17 21:40:57.486845,Serie A - Italy Serie A 2022/23 - Winner,Juventus,-0.018099999999999998,0.0588,0.0769
 2022-10-17 21:40:57.916472,League One - England - League One 2022/23 - Outright,Portsmouth,-0.018099999999999998,0.0588,0.0769
+2022-10-18 08:40:43.329086,MLS - MLS Cup 2022 - Winner,FC Cincinnati,-0.018099999999999998,0.0588,0.0769
+2022-10-18 08:40:43.813543,League One - England - League One 2022/23 - To Be Relegated,Charlton Athletic,-0.018200000000000004,0.0294,0.0476
+2022-10-18 08:40:43.832520,League One - England - League One 2022/23 - Top 2 Finish,Portsmouth,-0.01820000000000002,0.1818,0.2
 2022-10-18 02:40:37.367272,US Midterm Elections 2022 - Senate Races: 10 Markets - North Carolina,Democrat,-0.018400000000000027,0.2941,0.3125
+2022-10-18 08:40:43.363805,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Fluminense,-0.01849999999999996,0.9524,0.9709
 2022-10-18 02:40:37.379675,US Midterm Elections 2022 - Senate Races: 10 Markets - Pennsylvania,Democrat,-0.018999999999999906,0.7143,0.7333
+2022-10-18 08:40:38.730422,Boxing Lines - Dmitry Bivol vs Gilberto Ramirez - To Win the Bout,Gilberto Ramirez,-0.020199999999999996,0.2151,0.2353
 2022-10-17 23:40:46.810945,2022 Gubernatorial Elections - Nevada - Nevada winner,Democrats,-0.02169999999999994,0.5238,0.5455
 2022-10-18 02:40:37.354289,US Midterm Elections 2022 - Senate Races: 10 Markets - Nevada,Democrat,-0.022600000000000064,0.5122,0.5348
+2022-10-18 08:40:43.329086,MLS - MLS Cup 2022 - Winner,LA Galaxy,-0.02310000000000001,0.0769,0.1
 2022-10-18 07:40:54.216032,Super Lig - Turkey Super League 22/23 - Outright,Trabzonspor,-0.023799999999999988,0.1429,0.1667
 2022-10-17 21:40:57.486845,Serie A - Italy Serie A 2022/23 - Winner,Lazio,-0.028000000000000004,0.0196,0.0476
+2022-10-18 08:40:43.350712,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Botafogo,-0.029299999999999993,0.0476,0.0769
+2022-10-18 08:40:43.363805,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,América Mineiro,-0.0294,0.0294,0.0588
 2022-10-18 02:40:37.373654,US Midterm Elections 2022 - Senate Races: 10 Markets - Ohio,Democrat,-0.03570000000000001,0.25,0.2857
 2022-10-18 01:40:30.841104,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  New York Jets,Under 7.5,-0.035999999999999976,0.4762,0.5122
-2022-10-17 20:40:39.402144,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Denver Broncos,Yes,-0.05299999999999999,0.25,0.303
+2022-10-18 08:40:43.804119,League One - England - League One 2022/23 - To Be Promoted,Portsmouth,-0.03920000000000001,0.2941,0.3333
+2022-10-18 08:40:43.844195,League One - England - League One 2022/23 - Top 6 Finish,Portsmouth,-0.04760000000000009,0.6667,0.7143
+2022-10-18 08:40:43.350712,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Fortaleza,-0.0573,0.0196,0.0769
 2022-10-18 04:40:56.713391,2022 Gubernatorial Elections - Arizona - Arizona winner,Democrats,-0.05960000000000004,0.3571,0.4167
+2022-10-18 08:40:43.363805,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Atlético Mineiro,-0.06659999999999999,0.6667,0.7333
+2022-10-18 08:40:43.350712,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Atlético Goianiense,-0.06669999999999998,0.8333,0.9
+2022-10-18 08:40:43.363805,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Athletico Paranaense,-0.08330000000000004,0.5,0.5833
+2022-10-18 08:40:43.357058,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Athletico Paranaense,-0.10910000000000002,0.0909,0.2
+2022-10-18 08:40:43.755903,Superettan - Swedish Superettan 2022 - Outright,Halmstads BK,-0.12119999999999997,0.5455,0.6667
+2022-10-18 08:40:43.357058,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Atlético Mineiro,-0.1607,0.125,0.2857
+2022-10-18 08:40:43.357058,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Fluminense,-0.18180000000000007,0.6364,0.8182
+2022-10-18 08:40:43.350712,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Coritiba,-0.19230000000000003,0.5,0.6923
