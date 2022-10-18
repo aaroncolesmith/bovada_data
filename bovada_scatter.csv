@@ -9,11 +9,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-18 08:40:43.350712,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Cuiabá,0.12119999999999997,0.6667,0.5455
 2022-10-18 04:40:56.713391,2022 Gubernatorial Elections - Arizona - Arizona winner,Republicans,0.05910000000000004,0.7143,0.6552
 2022-10-18 10:40:43.250897,AFC West - 2022/2023 AFC West - AFC West Winner,Los Angeles Chargers,0.059099999999999986,0.3448,0.2857
-2022-10-18 07:40:54.216032,Super Lig - Turkey Super League 22/23 - Outright,Besiktas,0.05080000000000001,0.2326,0.1818
 2022-10-18 08:40:43.844195,League One - England - League One 2022/23 - Top 6 Finish,Charlton Athletic,0.05080000000000001,0.2326,0.1818
+2022-10-18 07:40:54.216032,Super Lig - Turkey Super League 22/23 - Outright,Besiktas,0.05080000000000001,0.2326,0.1818
 2022-10-18 01:40:30.841104,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  New York Jets,Over 7.5,0.03610000000000002,0.5917,0.5556
 2022-10-18 08:40:43.363805,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Internacional,0.033499999999999974,0.995,0.9615
 2022-10-18 08:40:43.329086,MLS - MLS Cup 2022 - Winner,FC Dallas,0.0321,0.0909,0.0588
+2022-10-18 11:40:38.145785,Boxing Lines - Dmitry Bivol vs Gilberto Ramirez - To Win the Bout,Gilberto Ramirez,0.029100000000000015,0.2564,0.2273
 2022-10-18 07:40:54.216032,Super Lig - Turkey Super League 22/23 - Outright,Fenerbahce,0.02560000000000001,0.3333,0.3077
 2022-10-18 08:40:43.363805,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Fortaleza,0.0236,0.0385,0.0149
 2022-10-18 10:40:43.289624,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Tampa Bay Buccaneers,0.02310000000000001,0.1,0.0769
@@ -35,11 +36,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-18 08:40:43.804119,League One - England - League One 2022/23 - To Be Promoted,Charlton Athletic,0.013999999999999999,0.0909,0.0769
 2022-10-18 10:40:42.555572,Boxing Lines - Dmitry Bivol vs Gilberto Ramirez - To Win the Bout,Gilberto Ramirez,0.012199999999999989,0.2273,0.2151
 2022-10-18 10:40:42.487971,Elite Boxing - Anderson Silva vs Jake Paul - To Win the Bout,Jake Paul,0.011900000000000022,0.5614,0.5495
-2022-10-18 08:40:43.363805,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,São Paulo,0.011199999999999995,0.0588,0.0476
 2022-10-18 10:40:42.421627,MLB Futures - 2022 NLCS MVP - 2022 NLCS MVP,Jake Cronenworth,0.011199999999999995,0.0435,0.0323
-2022-10-18 10:40:43.240507,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Los Angeles Chargers,0.011099999999999999,0.1111,0.1
-2022-10-18 02:40:37.340457,US Midterm Elections 2022 - Senate Races: 10 Markets - Florida,Republican,0.011099999999999999,0.9,0.8889
+2022-10-18 08:40:43.363805,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,São Paulo,0.011199999999999995,0.0588,0.0476
 2022-10-18 08:40:43.329086,MLS - MLS Cup 2022 - Winner,Austin FC,0.011099999999999999,0.1111,0.1
+2022-10-18 02:40:37.340457,US Midterm Elections 2022 - Senate Races: 10 Markets - Florida,Republican,0.011099999999999999,0.9,0.8889
+2022-10-18 10:40:43.240507,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Los Angeles Chargers,0.011099999999999999,0.1111,0.1
 2022-10-18 08:40:43.832520,League One - England - League One 2022/23 - Top 2 Finish,Charlton Athletic,0.010700000000000001,0.0385,0.0278
 2022-10-18 08:40:43.329086,MLS - MLS Cup 2022 - Winner,Philadelphia Union,0.010399999999999993,0.2326,0.2222
 2022-10-18 06:40:40.846633,Elite Boxing - Anderson Silva vs Jake Paul - To Win the Bout,Jake Paul,0.010299999999999976,0.5495,0.5392
@@ -68,6 +69,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-18 07:40:54.216032,Super Lig - Turkey Super League 22/23 - Outright,Trabzonspor,-0.023799999999999988,0.1429,0.1667
 2022-10-18 10:40:43.289624,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,San Francisco 49ers,-0.024,0.0385,0.0625
 2022-10-18 10:40:43.250897,AFC West - 2022/2023 AFC West - AFC West Winner,Denver Broncos,-0.024299999999999995,0.0526,0.0769
+2022-10-18 11:40:38.145785,Boxing Lines - Dmitry Bivol vs Gilberto Ramirez - To Win the Bout,Dmitry Bivol,-0.027200000000000002,0.8131,0.8403
 2022-10-18 08:40:43.350712,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Botafogo,-0.029299999999999993,0.0476,0.0769
 2022-10-18 08:40:43.363805,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,América Mineiro,-0.0294,0.0294,0.0588
 2022-10-18 02:40:37.373654,US Midterm Elections 2022 - Senate Races: 10 Markets - Ohio,Democrat,-0.03570000000000001,0.25,0.2857
