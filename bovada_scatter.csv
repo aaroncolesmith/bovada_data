@@ -3,6 +3,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-17 17:40:48.589917,US Midterm Elections 2022 - Senate Races: Winning Margin - Georgia,Democrat 2-2.99%,0.0889,0.2,0.1111
 2022-10-17 17:40:48.596302,US Midterm Elections 2022 - Senate Races: Winning Margin - Nevada,Democrat <1%,0.07789999999999997,0.3636,0.2857
 2022-10-17 17:40:48.589917,US Midterm Elections 2022 - Senate Races: Winning Margin - Georgia,Democrat 3% or over,0.07500000000000001,0.2,0.125
+2022-10-18 04:40:56.713391,2022 Gubernatorial Elections - Arizona - Arizona winner,Republicans,0.05910000000000004,0.7143,0.6552
 2022-10-17 20:40:39.402144,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Denver Broncos,No,0.05630000000000002,0.8182,0.7619
 2022-10-17 17:40:48.642152,2022 Gubernatorial Elections - Nevada - Nevada winner,Democrats,0.045499999999999985,0.5455,0.5
 2022-10-17 20:40:39.808978,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Club América,0.045499999999999985,0.5455,0.5
@@ -11,7 +12,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-17 21:40:57.486845,Serie A - Italy Serie A 2022/23 - Winner,Napoli,0.03370000000000001,0.3846,0.3509
 2022-10-17 17:40:48.653467,2022 Gubernatorial Elections - Pennsylvania - Pennsylvania winner,Republican,0.033300000000000024,0.2,0.1667
 2022-10-17 17:40:48.570032,US Midterm Elections 2022 - Senate Races: 10 Markets - Pennsylvania,Republican,0.030299999999999994,0.3333,0.303
-2022-10-17 15:40:51.579128,Elite Boxing - Anderson Silva vs Jake Paul - To Win the Bout,Anderson Silva,0.028800000000000048,0.5238,0.495
 2022-10-17 19:40:47.661019,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Rookie of the Year,Ahmad Gardner,0.02779999999999999,0.25,0.2222
 2022-10-17 21:40:57.503792,La Liga - Spain La Liga 2022/23 - Winner,Real Madrid,0.027700000000000058,0.5833,0.5556
 2022-10-17 20:40:39.808978,Liga MX - Apertura - Liga MX Apertura 2022 - Winner,Deportivo Toluca,0.0242,0.0909,0.0667
@@ -52,7 +52,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-17 17:40:48.538894,US Midterm Elections 2022 - Senate Races: 10 Markets - New Hampshire,Republican,-0.021400000000000002,0.1786,0.2
 2022-10-17 23:40:46.810945,2022 Gubernatorial Elections - Nevada - Nevada winner,Democrats,-0.02169999999999994,0.5238,0.5455
 2022-10-18 02:40:37.354289,US Midterm Elections 2022 - Senate Races: 10 Markets - Nevada,Democrat,-0.022600000000000064,0.5122,0.5348
-2022-10-17 15:40:51.579128,Elite Boxing - Anderson Silva vs Jake Paul - To Win the Bout,Jake Paul,-0.023699999999999943,0.5238,0.5475
 2022-10-17 17:40:48.633660,2022 Gubernatorial Elections - Georgia - Georgia winner,Democrat,-0.023799999999999988,0.1429,0.1667
 2022-10-17 17:40:48.675574,2022 Gubernatorial Elections - Wisconsin - Wisconsin winner,Republican,-0.027700000000000058,0.5556,0.5833
 2022-10-17 21:40:57.486845,Serie A - Italy Serie A 2022/23 - Winner,Lazio,-0.028000000000000004,0.0196,0.0476
@@ -64,4 +63,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-17 17:40:48.589917,US Midterm Elections 2022 - Senate Races: Winning Margin - Georgia,Democrat <1%,-0.03950000000000001,0.2105,0.25
 2022-10-17 17:40:48.642152,2022 Gubernatorial Elections - Nevada - Nevada winner,Republicans,-0.05059999999999998,0.5238,0.5744
 2022-10-17 20:40:39.402144,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Denver Broncos,Yes,-0.05299999999999999,0.25,0.303
+2022-10-18 04:40:56.713391,2022 Gubernatorial Elections - Arizona - Arizona winner,Democrats,-0.05960000000000004,0.3571,0.4167
 2022-10-17 17:40:48.589917,US Midterm Elections 2022 - Senate Races: Winning Margin - Georgia,Republican,-0.06779999999999997,0.4444,0.5122
