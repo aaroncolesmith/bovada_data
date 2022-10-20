@@ -10,6 +10,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-20 02:40:40.362646,NCAA Football Specials - Michigan To Make the 2022-23 College Football Playoff - Proposition,No,0.07929999999999993,0.7222,0.6429
 2022-10-20 11:40:42.945747,Championship - England Championship 2022/23 - Top 6 Finish,Luton Town,0.0781,0.3448,0.2667
 2022-10-20 10:40:35.490879,Championship - England Championship 2022/23 - To Finish Bottom,Huddersfield Town,0.07690000000000002,0.3846,0.3077
+2022-10-20 13:40:42.704162,KBO League - KBO League 2022 - Outright,KT Wiz,0.0726,0.1111,0.0385
 2022-10-20 11:40:42.945747,Championship - England Championship 2022/23 - Top 6 Finish,Middlesbrough,0.06659999999999999,0.3333,0.2667
 2022-10-20 09:40:45.613667,BMW Ladies Championship - BMW Ladies Championship - Outright,A Lim Kim,0.061500000000000006,0.1,0.0385
 2022-10-20 09:40:47.175997,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,New Orleans Pelicans,0.059699999999999975,0.2597,0.2
@@ -35,8 +36,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-20 11:40:42.933036,Championship - England Championship 2022/23 - Top 2 Finish,Luton Town,0.03330000000000001,0.1,0.0667
 2022-10-20 10:40:35.476305,Championship - England Championship 2022/23 - To Be Promoted,Swansea City,0.031799999999999995,0.1429,0.1111
 2022-10-20 09:40:45.184849,Round Match-Ups - Parlays - 1st Round Match-Up - S. Stallings v D. Willett - 1st Round Match-Up,Scott Stallings,0.030399999999999983,0.5652,0.5348
-2022-10-20 11:40:42.933036,Championship - England Championship 2022/23 - Top 2 Finish,Queens Park Rangers,0.028799999999999992,0.1538,0.125
 2022-10-20 10:40:35.476305,Championship - England Championship 2022/23 - To Be Promoted,Middlesbrough,0.028799999999999992,0.1538,0.125
+2022-10-20 11:40:42.933036,Championship - England Championship 2022/23 - Top 2 Finish,Queens Park Rangers,0.028799999999999992,0.1538,0.125
 2022-10-20 10:40:35.468391,Championship - England Championship 2022/23 - Top Goalscorer,Ben Brereton Díaz,0.028799999999999992,0.1538,0.125
 2022-10-20 10:40:35.483573,Championship - England Championship 2022/23 - To Be Relegated,Reading,0.027999999999999997,0.1818,0.1538
 2022-10-20 04:40:39.319441,Boxing Lines - Isaiah Steen vs Sena Agbeko - To Win the Bout,Isaiah Steen,0.027800000000000047,0.7778,0.75
@@ -44,44 +45,43 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-20 10:40:33.492590,The CJ Cup - 2/3 Balls - 1st Round 3 Balls - A. Smalley / S.H. Kim / Y. Seo - 1st Round 3 Balls,Alex Smalley,0.025499999999999967,0.4255,0.4
 2022-10-20 12:40:36.217188,Boxing Lines - Isaiah Steen vs Sena Agbeko - To Win the Bout,Isaiah Steen,0.024799999999999933,0.7895,0.7647
 2022-10-20 11:40:42.933036,Championship - England Championship 2022/23 - Top 2 Finish,Swansea City,0.0242,0.0909,0.0667
-2022-10-20 10:40:35.483573,Championship - England Championship 2022/23 - To Be Relegated,Cardiff City,0.023799999999999988,0.1667,0.1429
-2022-10-20 07:40:33.240780,The CJ Cup - 2/3 Balls - 1st Round 3 Balls - A. Wise / C. Bezuidenhout / Y. Kim - 1st Round 3 Balls,Aaron Wise,0.023799999999999988,0.5,0.4762
 2022-10-20 02:40:38.607883,Round Match-Ups - 1st Round Match-Up - M. Homa v T. Hatton - 1st Round Match-Up,Tyrrell Hatton,0.023799999999999988,0.5,0.4762
+2022-10-20 07:40:33.240780,The CJ Cup - 2/3 Balls - 1st Round 3 Balls - A. Wise / C. Bezuidenhout / Y. Kim - 1st Round 3 Balls,Aaron Wise,0.023799999999999988,0.5,0.4762
+2022-10-20 10:40:35.483573,Championship - England Championship 2022/23 - To Be Relegated,Cardiff City,0.023799999999999988,0.1667,0.1429
 2022-10-20 09:40:48.158057,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Arsenal,0.023799999999999932,0.8571,0.8333
 2022-10-20 11:40:42.933036,Championship - England Championship 2022/23 - Top 2 Finish,Blackburn Rovers,0.02310000000000001,0.1,0.0769
 2022-10-20 02:40:38.836746,Round Match-Ups - Parlays - 1st Round Match-Up - H. English v M. Kuchar - 1st Round Match-Up,Matt Kuchar,0.022600000000000064,0.5348,0.5122
 2022-10-20 10:40:35.483573,Championship - England Championship 2022/23 - To Be Relegated,Wigan Athletic,0.022199999999999998,0.2222,0.2
-2022-10-20 09:40:47.124643,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Cleveland Cavaliers,0.021999999999999964,0.3077,0.2857
 2022-10-20 11:40:42.945747,Championship - England Championship 2022/23 - Top 6 Finish,Swansea City,0.021999999999999964,0.3077,0.2857
+2022-10-20 09:40:47.124643,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Cleveland Cavaliers,0.021999999999999964,0.3077,0.2857
+2022-10-20 11:40:40.638673,Round Match-Ups - Parlays - 1st Round Match-Up - J. Spieth vs M. Homa - 1st Round Match-Up,Max Homa,0.02169999999999994,0.5455,0.5238
+2022-10-20 09:40:45.097140,Round Match-Ups - 1st Round Match-Up - M. Pereira v T. Fleetwood - 1st Round Match-Up,Tommy Fleetwood,0.02169999999999994,0.5455,0.5238
+2022-10-20 11:40:40.613572,Round Match-Ups - Parlays - 1st Round Match-Up - B. Horschel v C. Davis - 1st Round Match-Up,Billy Horschel,0.02169999999999994,0.5455,0.5238
+2022-10-20 02:40:38.537733,Round Match-Ups - 1st Round Match-Up - M. Fitzpatrick v V. Hovland - 1st Round Match-Up,Matthew Fitzpatrick,0.02169999999999994,0.5455,0.5238
 2022-10-20 09:40:45.083503,Round Match-Ups - 1st Round Match-Up - C. Morikawa v T. Kim - 1st Round Match-Up,Collin Morikawa,0.02169999999999994,0.5455,0.5238
 2022-10-20 02:40:38.704902,Round Match-Ups - Parlays - 1st Round Match-Up - K. Bradley vs T. Hoge - 1st Round Match-Up,Keegan Bradley,0.02169999999999994,0.5455,0.5238
-2022-10-20 11:40:40.613572,Round Match-Ups - Parlays - 1st Round Match-Up - B. Horschel v C. Davis - 1st Round Match-Up,Billy Horschel,0.02169999999999994,0.5455,0.5238
-2022-10-20 09:40:45.097140,Round Match-Ups - 1st Round Match-Up - M. Pereira v T. Fleetwood - 1st Round Match-Up,Tommy Fleetwood,0.02169999999999994,0.5455,0.5238
-2022-10-20 02:40:38.537733,Round Match-Ups - 1st Round Match-Up - M. Fitzpatrick v V. Hovland - 1st Round Match-Up,Matthew Fitzpatrick,0.02169999999999994,0.5455,0.5238
-2022-10-20 11:40:40.638673,Round Match-Ups - Parlays - 1st Round Match-Up - J. Spieth vs M. Homa - 1st Round Match-Up,Max Homa,0.02169999999999994,0.5455,0.5238
+2022-10-20 13:40:43.541203,Round Match-Ups - 1st Round Match-Up - M. McNealy v S.W. Kim - 1st Round Match-Up,Maverick McNealy,0.02079999999999993,0.5556,0.5348
 2022-10-20 11:40:40.566219,Round Match-Ups - Parlays - 1st Round Match-Up - H. English v M. Kuchar - 1st Round Match-Up,Matt Kuchar,0.02079999999999993,0.5556,0.5348
-2022-10-20 11:40:40.353062,Round Match-Ups - Parlays - 1st Round Match-Up - A. Wise vs C. Conners - 1st Round Match-Up,Aaron Wise,0.02079999999999993,0.5556,0.5348
 2022-10-20 09:40:45.198624,Round Match-Ups - Parlays - 1st Round Match-Up - A. Putnam v D. McCarthy - 1st Round Match-Up,Andrew Putnam,0.02079999999999993,0.5556,0.5348
+2022-10-20 11:40:40.353062,Round Match-Ups - Parlays - 1st Round Match-Up - A. Wise vs C. Conners - 1st Round Match-Up,Aaron Wise,0.02079999999999993,0.5556,0.5348
 2022-10-20 10:40:33.922242,Tournament Match-Ups - Tournament Match-Up - S.W. Kim vs T. Fleetwood - Tournament Match-Up,Tommy Fleetwood,0.02079999999999993,0.5556,0.5348
 2022-10-20 11:40:42.933036,Championship - England Championship 2022/23 - Top 2 Finish,Preston North End,0.0203,0.0588,0.0385
 2022-10-20 11:40:42.945747,Championship - England Championship 2022/23 - Top 6 Finish,Bristol City,0.02020000000000001,0.1111,0.0909
 2022-10-20 02:40:38.863665,Round Match-Ups - Parlays - 1st Round Match-Up - K. Kisner v S. Power - 1st Round Match-Up,Seamus Power,0.01970000000000005,0.5652,0.5455
+2022-10-20 13:40:43.556392,Round Match-Ups - 1st Round Match-Up - C. Morikawa v T. Kim - 1st Round Match-Up,Collin Morikawa,0.01970000000000005,0.5652,0.5455
 2022-10-20 12:40:38.186668,Japan B League - Japan League B1 2022/23 - Outright,Shibuya Sun Rockers,0.019099999999999992,0.0667,0.0476
-2022-10-20 00:58:07.168702,Championship - England Championship 2022/23 - Outright,Queens Park Rangers,0.019099999999999992,0.0667,0.0476
 2022-10-20 04:40:39.311231,Boxing Lines - Floyd Schofield vs Daniel Rosas - To Win the Bout,Floyd Schofield,0.018900000000000028,0.9804,0.9615
 2022-10-20 12:40:38.186668,Japan B League - Japan League B1 2022/23 - Outright,Fighting Eagles Nagoya,0.0189,0.0385,0.0196
 2022-10-20 10:40:33.892487,Tournament Match-Ups - Tournament Match-Up - S. Lowry vs H. Matsuyama - Tournament Match-Up,Shane Lowry,0.01880000000000004,0.5744,0.5556
-2022-10-20 00:58:07.168702,Championship - England Championship 2022/23 - Outright,Norwich City,0.01820000000000002,0.2,0.1818
 2022-10-20 12:40:38.186668,Japan B League - Japan League B1 2022/23 - Outright,Ryukyu Golden Kings,0.01820000000000002,0.2,0.1818
 2022-10-20 09:40:45.613667,BMW Ladies Championship - BMW Ladies Championship - Outright,Yuka Saso,0.018200000000000004,0.0476,0.0294
 2022-10-20 11:40:40.379504,Round Match-Ups - Parlays - 1st Round Match-Up - S. Stallings v D. Willett - 1st Round Match-Up,Scott Stallings,0.018100000000000005,0.5833,0.5652
 2022-10-20 09:40:47.143919,2022/23 Divisions - 2022-2023 NBA Northwest Division - Division Winner,Minnesota Timberwolves,0.018100000000000005,0.4348,0.4167
-2022-10-20 11:40:42.933036,Championship - England Championship 2022/23 - Top 2 Finish,Millwall,0.018099999999999998,0.0769,0.0588
 2022-10-20 11:40:42.933036,Championship - England Championship 2022/23 - Top 2 Finish,Middlesbrough,0.018099999999999998,0.0769,0.0588
-2022-10-20 10:40:32.876032,Boxing Lines - Isaiah Steen vs Sena Agbeko - To Win the Bout,Sena Agbeko,0.017299999999999982,0.303,0.2857
+2022-10-20 11:40:42.933036,Championship - England Championship 2022/23 - Top 2 Finish,Millwall,0.018099999999999998,0.0769,0.0588
 2022-10-20 09:40:44.786423,The CJ Cup - 2/3 Balls - 1st Round 3 Balls - C. Reavie / B. Todd / G. Woodland - 1st Round 3 Balls,Gary Woodland,0.017299999999999982,0.4255,0.4082
+2022-10-20 10:40:32.876032,Boxing Lines - Isaiah Steen vs Sena Agbeko - To Win the Bout,Sena Agbeko,0.017299999999999982,0.303,0.2857
 2022-10-20 02:40:39.131352,Boxing Lines - Seiya Tsutsumi vs Kenshin Oshima - To Win the Bout,Kenshin Oshima,0.01680000000000001,0.2273,0.2105
-2022-10-20 00:58:03.791551,Boxing Lines - Seiya Tsutsumi vs Kenshin Oshima - To Win the Bout,Seiya Tsutsumi,0.016799999999999926,0.8571,0.8403
 2022-10-20 12:40:38.186668,Japan B League - Japan League B1 2022/23 - Outright,Shimane Susanoo Magic,0.016600000000000004,0.0833,0.0667
 2022-10-20 10:40:35.476305,Championship - England Championship 2022/23 - To Be Promoted,Preston North End,0.016600000000000004,0.0833,0.0667
 2022-10-20 07:40:34.869774,NCAA Football Specials - To Finish Regular Season Undefeated - Undefeated Regular Season,Clemson,0.01469999999999999,0.25,0.2353
@@ -92,46 +92,43 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-20 11:40:42.945747,Championship - England Championship 2022/23 - Top 6 Finish,Rotherham Utd,0.013999999999999999,0.0909,0.0769
 2022-10-20 10:40:35.468391,Championship - England Championship 2022/23 - Top Goalscorer,Carlton Morris,0.0131,0.0476,0.0345
 2022-10-20 09:40:45.613667,BMW Ladies Championship - BMW Ladies Championship - Outright,Sung Hyun Park,0.013,0.0196,0.0066
+2022-10-20 13:40:42.704162,KBO League - KBO League 2022 - Outright,LG Twins,0.012699999999999989,0.3636,0.3509
 2022-10-20 09:40:47.153507,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Golden State Warriors,0.012299999999999978,0.3571,0.3448
-2022-10-20 00:58:05.654021,Mallorca Open - 2/3 Balls - 1st Round 3 Balls - N. Elvira / R. Hojgaard / R. Ramsay - 1st Round 3 Balls,Rasmus Hojgaard,0.012199999999999989,0.5,0.4878
 2022-10-20 10:40:35.468391,Championship - England Championship 2022/23 - Top Goalscorer,Tom Bradshaw,0.011699999999999999,0.0196,0.0079
 2022-10-20 04:40:39.303677,Boxing Lines - Anabel Ortiz vs Maria Micheo Santizo - To Win the Bout,Anabel Ortiz,0.011699999999999933,0.7895,0.7778
-2022-10-20 02:40:38.573928,Round Match-Ups - 1st Round Match-Up - M. McNealy v T. Fleetwood - 1st Round Match-Up,Tommy Fleetwood,0.011600000000000055,0.5238,0.5122
 2022-10-20 04:40:38.869181,Round Match-Ups - Parlays - 1st Round Match-Up - S. Scheffler vs J. Thomas - 1st Round Match-Up,Justin Thomas,0.011600000000000055,0.5238,0.5122
+2022-10-20 02:40:38.573928,Round Match-Ups - 1st Round Match-Up - M. McNealy v T. Fleetwood - 1st Round Match-Up,Tommy Fleetwood,0.011600000000000055,0.5238,0.5122
 2022-10-20 11:40:42.684603,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,Lazio,0.011199999999999995,0.0588,0.0476
 2022-10-20 11:40:42.945747,Championship - England Championship 2022/23 - Top 6 Finish,Birmingham City,0.011199999999999995,0.0588,0.0476
 2022-10-20 02:40:40.413055,NCAA Football Specials - TCU To Make the 2022-23 College Football Playoff - Proposition,No,0.011199999999999988,0.9524,0.9412
 2022-10-20 09:40:48.158057,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Newcastle United,0.011099999999999999,0.1111,0.1
-2022-10-20 00:58:05.602873,Mallorca Open - 2/3 Balls - 1st Round 3 Balls - A. Pavan / A. Hidalgo / M. Jordan - 1st Round 3 Balls,Matthew Jordan,0.011099999999999999,0.4762,0.4651
 2022-10-20 11:40:39.820635,Boxing Lines - Jonathan Gonzalez vs Shokichi Iwata - To Win the Bout,Shokichi Iwata,0.01100000000000001,0.5348,0.5238
-2022-10-20 02:40:38.752029,Round Match-Ups - Parlays - 1st Round Match-Up - T. Fleetwood vs R. Fowler - 1st Round Match-Up,Tommy Fleetwood,0.010699999999999932,0.5455,0.5348
-2022-10-20 02:40:38.963772,Tournament Match-Ups - Tournament Match-Up - S. Stallings vs S. Straka - Tournament Match-Up,Scott Stallings,0.010699999999999932,0.5455,0.5348
 2022-10-20 02:40:38.737143,Round Match-Ups - Parlays - 1st Round Match-Up - R. McIIroy vs J. Rahm - 1st Round Match-Up,Rory McIIroy,0.010699999999999932,0.5455,0.5348
+2022-10-20 02:40:38.963772,Tournament Match-Ups - Tournament Match-Up - S. Stallings vs S. Straka - Tournament Match-Up,Scott Stallings,0.010699999999999932,0.5455,0.5348
+2022-10-20 02:40:38.752029,Round Match-Ups - Parlays - 1st Round Match-Up - T. Fleetwood vs R. Fowler - 1st Round Match-Up,Tommy Fleetwood,0.010699999999999932,0.5455,0.5348
 2022-10-20 09:40:45.613667,BMW Ladies Championship - BMW Ladies Championship - Outright,Linn Grant,-0.010100000000000001,0.0244,0.0345
 2022-10-20 11:40:42.945747,Championship - England Championship 2022/23 - Top 6 Finish,Blackpool,-0.0102,0.0667,0.0769
 2022-10-20 10:40:35.468391,Championship - England Championship 2022/23 - Top Goalscorer,Jay Rodriguez,-0.0102,0.0667,0.0769
-2022-10-20 00:58:07.168702,Championship - England Championship 2022/23 - Outright,Sheffield United,-0.010399999999999993,0.2222,0.2326
 2022-10-20 11:40:39.820635,Boxing Lines - Jonathan Gonzalez vs Shokichi Iwata - To Win the Bout,Jonathan Gonzalez,-0.010699999999999932,0.5348,0.5455
-2022-10-20 00:58:05.654021,Mallorca Open - 2/3 Balls - 1st Round 3 Balls - N. Elvira / R. Hojgaard / R. Ramsay - 1st Round 3 Balls,Richie Ramsay,-0.010699999999999987,0.3226,0.3333
 2022-10-20 02:40:38.573928,Round Match-Ups - 1st Round Match-Up - M. McNealy v T. Fleetwood - 1st Round Match-Up,Maverick McNealy,-0.01100000000000001,0.5238,0.5348
 2022-10-20 04:40:38.869181,Round Match-Ups - Parlays - 1st Round Match-Up - S. Scheffler vs J. Thomas - 1st Round Match-Up,Scottie Scheffler,-0.01100000000000001,0.5238,0.5348
-2022-10-20 11:40:40.379504,Round Match-Ups - Parlays - 1st Round Match-Up - S. Stallings v D. Willett - 1st Round Match-Up,Danny Willett,-0.011099999999999999,0.4651,0.4762
 2022-10-20 09:40:47.153507,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Los Angeles Lakers,-0.011099999999999999,0.1,0.1111
+2022-10-20 11:40:40.379504,Round Match-Ups - Parlays - 1st Round Match-Up - S. Stallings v D. Willett - 1st Round Match-Up,Danny Willett,-0.011099999999999999,0.4651,0.4762
+2022-10-20 13:40:42.836697,Boxing Lines - Isaiah Steen vs Sena Agbeko - To Win the Bout,Isaiah Steen,-0.011699999999999933,0.7778,0.7895
 2022-10-20 09:40:47.252039,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Milwaukee Bucks,-0.011700000000000016,0.2105,0.2222
-2022-10-20 02:40:38.752029,Round Match-Ups - Parlays - 1st Round Match-Up - T. Fleetwood vs R. Fowler - 1st Round Match-Up,Rickie Fowler,-0.012199999999999989,0.5,0.5122
 2022-10-20 02:40:38.737143,Round Match-Ups - Parlays - 1st Round Match-Up - R. McIIroy vs J. Rahm - 1st Round Match-Up,Jon Rahm,-0.012199999999999989,0.5,0.5122
+2022-10-20 02:40:38.752029,Round Match-Ups - Parlays - 1st Round Match-Up - T. Fleetwood vs R. Fowler - 1st Round Match-Up,Rickie Fowler,-0.012199999999999989,0.5,0.5122
 2022-10-20 09:40:44.147869,Boxing Lines - Kamil Mlodzinski vs Lukas Dekys - To Win the Bout,Kamil Mlodzinski,-0.012400000000000022,0.3876,0.4
 2022-10-20 11:40:39.771952,Boxing Lines - Ernesto Mercado vs Jayson Velez - To Win the Bout,Jayson Velez,-0.012899999999999995,0.1538,0.1667
 2022-10-20 10:40:32.876032,Boxing Lines - Isaiah Steen vs Sena Agbeko - To Win the Bout,Isaiah Steen,-0.0131,0.7647,0.7778
 2022-10-20 02:40:40.413055,NCAA Football Specials - TCU To Make the 2022-23 College Football Playoff - Proposition,Yes,-0.013899999999999996,0.1111,0.125
 2022-10-20 11:40:42.945747,Championship - England Championship 2022/23 - Top 6 Finish,Wigan Athletic,-0.013999999999999999,0.0769,0.0909
-2022-10-20 11:40:42.945747,Championship - England Championship 2022/23 - Top 6 Finish,Reading,-0.013999999999999999,0.0769,0.0909
 2022-10-20 10:40:35.468391,Championship - England Championship 2022/23 - Top Goalscorer,Josh Sargent,-0.013999999999999999,0.0769,0.0909
+2022-10-20 11:40:42.945747,Championship - England Championship 2022/23 - Top 6 Finish,Reading,-0.013999999999999999,0.0769,0.0909
 2022-10-20 10:40:35.476305,Championship - England Championship 2022/23 - To Be Promoted,Sunderland,-0.013999999999999999,0.0769,0.0909
 2022-10-20 09:40:45.613667,BMW Ladies Championship - BMW Ladies Championship - Outright,Hannah Green,-0.014099999999999998,0.0294,0.0435
 2022-10-20 10:40:35.476305,Championship - England Championship 2022/23 - To Be Promoted,Cardiff City,-0.014100000000000001,0.0385,0.0526
 2022-10-20 09:40:47.160992,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Miami Heat,-0.014200000000000101,0.6154,0.6296
-2022-10-20 00:58:05.602873,Mallorca Open - 2/3 Balls - 1st Round 3 Balls - A. Pavan / A. Hidalgo / M. Jordan - 1st Round 3 Balls,Andrea Pavan,-0.014300000000000007,0.2326,0.2469
 2022-10-20 10:40:35.476305,Championship - England Championship 2022/23 - To Be Promoted,Hull City,-0.014499999999999999,0.0149,0.0294
 2022-10-20 09:40:47.252039,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Brooklyn Nets,-0.01469999999999999,0.2353,0.25
 2022-10-20 09:40:47.160992,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Charlotte Hornets,-0.014899999999999997,0.0476,0.0625
@@ -139,8 +136,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-20 11:40:42.684603,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,Juventus,-0.015100000000000002,0.1667,0.1818
 2022-10-20 11:40:42.684603,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,AC Milan,-0.015100000000000002,0.1667,0.1818
 2022-10-20 09:40:45.613667,BMW Ladies Championship - BMW Ladies Championship - Outright,Leona Maguire,-0.0165,0.0079,0.0244
-2022-10-20 09:40:47.175997,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Dallas Mavericks,-0.016699999999999993,0.4,0.4167
 2022-10-20 10:40:35.483573,Championship - England Championship 2022/23 - To Be Relegated,Coventry City,-0.016699999999999993,0.25,0.2667
+2022-10-20 09:40:47.175997,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Dallas Mavericks,-0.016699999999999993,0.4,0.4167
 2022-10-20 02:40:39.131352,Boxing Lines - Seiya Tsutsumi vs Kenshin Oshima - To Win the Bout,Seiya Tsutsumi,-0.016799999999999926,0.8403,0.8571
 2022-10-20 10:40:35.490879,Championship - England Championship 2022/23 - To Finish Bottom,Rotherham Utd,-0.018099999999999998,0.0588,0.0769
 2022-10-20 09:40:47.143919,2022/23 Divisions - 2022-2023 NBA Northwest Division - Division Winner,Denver Nuggets,-0.018100000000000005,0.5652,0.5833
@@ -155,24 +152,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-20 10:40:35.476305,Championship - England Championship 2022/23 - To Be Promoted,Sheffield United,-0.021699999999999997,0.4545,0.4762
 2022-10-20 09:40:47.124643,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Milwaukee Bucks,-0.02200000000000002,0.6923,0.7143
 2022-10-20 11:40:42.684603,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,Inter Milan,-0.022199999999999998,0.2,0.2222
-2022-10-20 02:40:38.836746,Round Match-Ups - Parlays - 1st Round Match-Up - H. English v M. Kuchar - 1st Round Match-Up,Harris English,-0.022600000000000064,0.5122,0.5348
 2022-10-20 10:40:33.922242,Tournament Match-Ups - Tournament Match-Up - S.W. Kim vs T. Fleetwood - Tournament Match-Up,Si Woo Kim,-0.022600000000000064,0.5122,0.5348
+2022-10-20 02:40:38.836746,Round Match-Ups - Parlays - 1st Round Match-Up - H. English v M. Kuchar - 1st Round Match-Up,Harris English,-0.022600000000000064,0.5122,0.5348
 2022-10-20 10:40:35.483573,Championship - England Championship 2022/23 - To Be Relegated,Luton Town,-0.023200000000000002,0.0294,0.0526
 2022-10-20 02:40:38.863665,Round Match-Ups - Parlays - 1st Round Match-Up - K. Kisner v S. Power - 1st Round Match-Up,Kevin Kisner,-0.023799999999999988,0.4762,0.5
-2022-10-20 11:40:40.613572,Round Match-Ups - Parlays - 1st Round Match-Up - B. Horschel v C. Davis - 1st Round Match-Up,Cameron Davis,-0.023800000000000043,0.5,0.5238
-2022-10-20 09:40:45.097140,Round Match-Ups - 1st Round Match-Up - M. Pereira v T. Fleetwood - 1st Round Match-Up,Mito Pereira,-0.023800000000000043,0.5,0.5238
+2022-10-20 13:40:43.556392,Round Match-Ups - 1st Round Match-Up - C. Morikawa v T. Kim - 1st Round Match-Up,Tom Kim,-0.023799999999999988,0.4762,0.5
 2022-10-20 02:40:38.704902,Round Match-Ups - Parlays - 1st Round Match-Up - K. Bradley vs T. Hoge - 1st Round Match-Up,Tom Hoge,-0.023800000000000043,0.5,0.5238
+2022-10-20 11:40:40.613572,Round Match-Ups - Parlays - 1st Round Match-Up - B. Horschel v C. Davis - 1st Round Match-Up,Cameron Davis,-0.023800000000000043,0.5,0.5238
 2022-10-20 02:40:38.537733,Round Match-Ups - 1st Round Match-Up - M. Fitzpatrick v V. Hovland - 1st Round Match-Up,Viktor Hovland,-0.023800000000000043,0.5,0.5238
-2022-10-20 11:40:40.638673,Round Match-Ups - Parlays - 1st Round Match-Up - J. Spieth vs M. Homa - 1st Round Match-Up,Jordan Spieth,-0.023800000000000043,0.5,0.5238
 2022-10-20 09:40:45.083503,Round Match-Ups - 1st Round Match-Up - C. Morikawa v T. Kim - 1st Round Match-Up,Tom Kim,-0.023800000000000043,0.5,0.5238
+2022-10-20 09:40:45.097140,Round Match-Ups - 1st Round Match-Up - M. Pereira v T. Fleetwood - 1st Round Match-Up,Mito Pereira,-0.023800000000000043,0.5,0.5238
+2022-10-20 11:40:40.638673,Round Match-Ups - Parlays - 1st Round Match-Up - J. Spieth vs M. Homa - 1st Round Match-Up,Jordan Spieth,-0.023800000000000043,0.5,0.5238
 2022-10-20 09:40:45.613667,BMW Ladies Championship - BMW Ladies Championship - Outright,Sei Young Kim,-0.023899999999999998,0.0196,0.0435
-2022-10-20 10:40:35.476305,Championship - England Championship 2022/23 - To Be Promoted,Stoke City,-0.0242,0.0667,0.0909
 2022-10-20 04:40:39.311231,Boxing Lines - Floyd Schofield vs Daniel Rosas - To Win the Bout,Daniel Rosas,-0.0242,0.0667,0.0909
+2022-10-20 10:40:35.476305,Championship - England Championship 2022/23 - To Be Promoted,Stoke City,-0.0242,0.0667,0.0909
 2022-10-20 11:40:42.933036,Championship - England Championship 2022/23 - Top 2 Finish,West Bromwich Albion,-0.0242,0.0667,0.0909
-2022-10-20 11:40:40.566219,Round Match-Ups - Parlays - 1st Round Match-Up - H. English v M. Kuchar - 1st Round Match-Up,Harris English,-0.024399999999999977,0.4878,0.5122
+2022-10-20 13:40:43.541203,Round Match-Ups - 1st Round Match-Up - M. McNealy v S.W. Kim - 1st Round Match-Up,Si Woo Kim,-0.024399999999999977,0.4878,0.5122
 2022-10-20 09:40:45.198624,Round Match-Ups - Parlays - 1st Round Match-Up - A. Putnam v D. McCarthy - 1st Round Match-Up,Denny McCarthy,-0.024399999999999977,0.4878,0.5122
-2022-10-20 10:40:33.892487,Tournament Match-Ups - Tournament Match-Up - S. Lowry vs H. Matsuyama - Tournament Match-Up,Hideki Matsuyama,-0.024399999999999977,0.4878,0.5122
 2022-10-20 11:40:40.353062,Round Match-Ups - Parlays - 1st Round Match-Up - A. Wise vs C. Conners - 1st Round Match-Up,Corey Conners,-0.024399999999999977,0.4878,0.5122
+2022-10-20 11:40:40.566219,Round Match-Ups - Parlays - 1st Round Match-Up - H. English v M. Kuchar - 1st Round Match-Up,Harris English,-0.024399999999999977,0.4878,0.5122
+2022-10-20 10:40:33.892487,Tournament Match-Ups - Tournament Match-Up - S. Lowry vs H. Matsuyama - Tournament Match-Up,Hideki Matsuyama,-0.024399999999999977,0.4878,0.5122
 2022-10-20 12:40:36.217188,Boxing Lines - Isaiah Steen vs Sena Agbeko - To Win the Bout,Sena Agbeko,-0.0252,0.2778,0.303
 2022-10-20 04:40:39.319441,Boxing Lines - Isaiah Steen vs Sena Agbeko - To Win the Bout,Sena Agbeko,-0.02679999999999999,0.2857,0.3125
 2022-10-20 07:40:33.240780,The CJ Cup - 2/3 Balls - 1st Round 3 Balls - A. Wise / C. Bezuidenhout / Y. Kim - 1st Round 3 Balls,Yeongsu Kim,-0.02779999999999999,0.2222,0.25
@@ -195,10 +194,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-20 10:40:35.483573,Championship - England Championship 2022/23 - To Be Relegated,Bristol City,-0.03889999999999999,0.1429,0.1818
 2022-10-20 10:40:35.476305,Championship - England Championship 2022/23 - To Be Promoted,West Bromwich Albion,-0.03889999999999999,0.1429,0.1818
 2022-10-20 11:40:42.945747,Championship - England Championship 2022/23 - Top 6 Finish,Sunderland,-0.04040000000000002,0.1818,0.2222
-2022-10-20 00:58:07.168702,Championship - England Championship 2022/23 - Outright,Watford,-0.04329999999999999,0.0476,0.0909
 2022-10-20 09:40:47.175997,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Memphis Grizzlies,-0.043399999999999994,0.4444,0.4878
-2022-10-20 10:40:35.483573,Championship - England Championship 2022/23 - To Be Relegated,Rotherham Utd,-0.044499999999999984,0.2222,0.2667
 2022-10-20 10:40:35.476305,Championship - England Championship 2022/23 - To Be Promoted,Watford,-0.044499999999999984,0.2222,0.2667
+2022-10-20 10:40:35.483573,Championship - England Championship 2022/23 - To Be Relegated,Rotherham Utd,-0.044499999999999984,0.2222,0.2667
 2022-10-20 11:40:42.945747,Championship - England Championship 2022/23 - Top 6 Finish,Watford,-0.04760000000000003,0.4762,0.5238
 2022-10-20 11:40:42.945747,Championship - England Championship 2022/23 - Top 6 Finish,Stoke City,-0.05080000000000001,0.1818,0.2326
 2022-10-20 09:40:47.891667,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Djurgårdens,-0.052399999999999995,0.0385,0.0909
@@ -210,6 +208,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-20 04:40:39.281805,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Philadelphia Phillies,-0.0673,0.2105,0.2778
 2022-10-20 11:40:42.933036,Championship - England Championship 2022/23 - Top 2 Finish,Norwich City,-0.07690000000000002,0.3077,0.3846
 2022-10-20 02:40:40.362646,NCAA Football Specials - Michigan To Make the 2022-23 College Football Playoff - Proposition,Yes,-0.0807,0.3448,0.4255
+2022-10-20 13:40:42.704162,KBO League - KBO League 2022 - Outright,Kiwoom Heroes,-0.08240000000000001,0.1176,0.2
 2022-10-20 04:40:39.281805,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,New York Yankees,-0.08330000000000001,0.1667,0.25
 2022-10-20 10:40:35.483573,Championship - England Championship 2022/23 - To Be Relegated,Birmingham City,-0.08340000000000003,0.3333,0.4167
 2022-10-20 09:40:47.891667,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Hammarby IF,-0.0889,0.1111,0.2
