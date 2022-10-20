@@ -29,12 +29,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-20 14:40:53.978427,Brazilian Politics - 2022 Brazilian Presidential Election - Winner,Jair Bolsonaro,0.05509999999999998,0.4255,0.3704
 2022-10-20 10:40:35.476305,Championship - England Championship 2022/23 - To Be Promoted,Luton Town,0.05379999999999999,0.1538,0.1
 2022-10-20 10:40:35.483573,Championship - England Championship 2022/23 - To Be Relegated,Huddersfield Town,0.053099999999999925,0.6364,0.5833
-2022-10-20 16:40:57.271842,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,0.05130000000000001,0.3846,0.3333
 2022-10-20 11:40:42.945747,Championship - England Championship 2022/23 - Top 6 Finish,Blackburn Rovers,0.05130000000000001,0.3846,0.3333
+2022-10-20 16:40:57.271842,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Joe Biden,0.05130000000000001,0.3846,0.3333
 2022-10-20 10:40:35.476305,Championship - England Championship 2022/23 - To Be Promoted,Queens Park Rangers,0.05080000000000001,0.2326,0.1818
 2022-10-20 09:40:48.158057,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Liverpool,0.04760000000000009,0.7143,0.6667
-2022-10-20 16:40:57.362754,UK Politics - Next UK Conservative Party Leader (After Liz Truss) - Next Conservative Party Leader,Penny Mordaunt,0.047599999999999976,0.3333,0.2857
 2022-10-20 19:40:36.690484,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Memphis Grizzlies,0.047599999999999976,0.3333,0.2857
+2022-10-20 16:40:57.362754,UK Politics - Next UK Conservative Party Leader (After Liz Truss) - Next Conservative Party Leader,Penny Mordaunt,0.047599999999999976,0.3333,0.2857
 2022-10-20 19:40:36.814489,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - New York Knicks,No,0.043399999999999994,0.7101,0.6667
 2022-10-20 11:40:42.684603,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,Atalanta,0.04329999999999999,0.0909,0.0476
 2022-10-20 19:40:36.690484,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Dallas Mavericks,0.04290000000000005,0.4,0.3571
@@ -48,9 +48,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-20 11:40:42.933036,Championship - England Championship 2022/23 - Top 2 Finish,Luton Town,0.03330000000000001,0.1,0.0667
 2022-10-20 19:40:36.573643,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Sacramento Kings,Under 33.5,0.033299999999999996,0.4878,0.4545
 2022-10-20 10:40:35.476305,Championship - England Championship 2022/23 - To Be Promoted,Swansea City,0.031799999999999995,0.1429,0.1111
-2022-10-20 09:40:45.184849,Round Match-Ups - Parlays - 1st Round Match-Up - S. Stallings v D. Willett - 1st Round Match-Up,Scott Stallings,0.030399999999999983,0.5652,0.5348
-2022-10-20 19:40:36.423277,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Atlanta Hawks,Over 45.5,0.030399999999999983,0.5652,0.5348
 2022-10-20 19:40:36.435559,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Brooklyn Nets,Under 50.5,0.030399999999999983,0.5652,0.5348
+2022-10-20 19:40:36.423277,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Atlanta Hawks,Over 45.5,0.030399999999999983,0.5652,0.5348
+2022-10-20 09:40:45.184849,Round Match-Ups - Parlays - 1st Round Match-Up - S. Stallings v D. Willett - 1st Round Match-Up,Scott Stallings,0.030399999999999983,0.5652,0.5348
 2022-10-20 16:40:57.089281,US Midterm Elections 2022 - Senate Races: 10 Markets - Georgia,Democrat,0.030299999999999994,0.6667,0.6364
 2022-10-20 10:40:35.468391,Championship - England Championship 2022/23 - Top Goalscorer,Ben Brereton Díaz,0.028799999999999992,0.1538,0.125
 2022-10-20 11:40:42.933036,Championship - England Championship 2022/23 - Top 2 Finish,Queens Park Rangers,0.028799999999999992,0.1538,0.125
@@ -74,15 +74,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-20 10:40:35.483573,Championship - England Championship 2022/23 - To Be Relegated,Wigan Athletic,0.022199999999999998,0.2222,0.2
 2022-10-20 09:40:47.124643,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Cleveland Cavaliers,0.021999999999999964,0.3077,0.2857
 2022-10-20 11:40:42.945747,Championship - England Championship 2022/23 - Top 6 Finish,Swansea City,0.021999999999999964,0.3077,0.2857
-2022-10-20 11:40:40.638673,Round Match-Ups - Parlays - 1st Round Match-Up - J. Spieth vs M. Homa - 1st Round Match-Up,Max Homa,0.02169999999999994,0.5455,0.5238
-2022-10-20 11:40:40.613572,Round Match-Ups - Parlays - 1st Round Match-Up - B. Horschel v C. Davis - 1st Round Match-Up,Billy Horschel,0.02169999999999994,0.5455,0.5238
-2022-10-20 09:40:45.083503,Round Match-Ups - 1st Round Match-Up - C. Morikawa v T. Kim - 1st Round Match-Up,Collin Morikawa,0.02169999999999994,0.5455,0.5238
 2022-10-20 09:40:45.097140,Round Match-Ups - 1st Round Match-Up - M. Pereira v T. Fleetwood - 1st Round Match-Up,Tommy Fleetwood,0.02169999999999994,0.5455,0.5238
-2022-10-20 13:40:43.541203,Round Match-Ups - 1st Round Match-Up - M. McNealy v S.W. Kim - 1st Round Match-Up,Maverick McNealy,0.02079999999999993,0.5556,0.5348
-2022-10-20 10:40:33.922242,Tournament Match-Ups - Tournament Match-Up - S.W. Kim vs T. Fleetwood - Tournament Match-Up,Tommy Fleetwood,0.02079999999999993,0.5556,0.5348
+2022-10-20 09:40:45.083503,Round Match-Ups - 1st Round Match-Up - C. Morikawa v T. Kim - 1st Round Match-Up,Collin Morikawa,0.02169999999999994,0.5455,0.5238
+2022-10-20 11:40:40.613572,Round Match-Ups - Parlays - 1st Round Match-Up - B. Horschel v C. Davis - 1st Round Match-Up,Billy Horschel,0.02169999999999994,0.5455,0.5238
+2022-10-20 11:40:40.638673,Round Match-Ups - Parlays - 1st Round Match-Up - J. Spieth vs M. Homa - 1st Round Match-Up,Max Homa,0.02169999999999994,0.5455,0.5238
 2022-10-20 11:40:40.566219,Round Match-Ups - Parlays - 1st Round Match-Up - H. English v M. Kuchar - 1st Round Match-Up,Matt Kuchar,0.02079999999999993,0.5556,0.5348
+2022-10-20 10:40:33.922242,Tournament Match-Ups - Tournament Match-Up - S.W. Kim vs T. Fleetwood - Tournament Match-Up,Tommy Fleetwood,0.02079999999999993,0.5556,0.5348
 2022-10-20 11:40:40.353062,Round Match-Ups - Parlays - 1st Round Match-Up - A. Wise vs C. Conners - 1st Round Match-Up,Aaron Wise,0.02079999999999993,0.5556,0.5348
 2022-10-20 09:40:45.198624,Round Match-Ups - Parlays - 1st Round Match-Up - A. Putnam v D. McCarthy - 1st Round Match-Up,Andrew Putnam,0.02079999999999993,0.5556,0.5348
+2022-10-20 13:40:43.541203,Round Match-Ups - 1st Round Match-Up - M. McNealy v S.W. Kim - 1st Round Match-Up,Maverick McNealy,0.02079999999999993,0.5556,0.5348
 2022-10-20 19:40:36.853804,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Sacramento Kings,No,0.020500000000000074,0.8667,0.8462
 2022-10-20 11:40:42.933036,Championship - England Championship 2022/23 - Top 2 Finish,Preston North End,0.0203,0.0588,0.0385
 2022-10-20 11:40:42.945747,Championship - England Championship 2022/23 - Top 6 Finish,Bristol City,0.02020000000000001,0.1111,0.0909
@@ -117,10 +117,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-20 19:40:36.802675,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Minnesota Timberwolves,Yes,0.013899999999999912,0.7917,0.7778
 2022-10-20 15:40:50.767362,Boxing Lines - Angel Fierro vs Jeremy Cuevas - To Win the Bout,Jeremy Cuevas,0.01369999999999999,0.241,0.2273
 2022-10-20 16:40:57.308230,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Republican Candidate,Ron DeSantis,0.013300000000000034,0.3704,0.3571
+2022-10-20 21:40:34.993991,Boxing Lines - James McKenzie Morrison vs Robert Simms - To Win the Bout,James McKenzie Morrison,0.0131,0.7778,0.7647
 2022-10-20 10:40:35.468391,Championship - England Championship 2022/23 - Top Goalscorer,Carlton Morris,0.0131,0.0476,0.0345
 2022-10-20 09:40:45.613667,BMW Ladies Championship - BMW Ladies Championship - Outright,Sung Hyun Park,0.013,0.0196,0.0066
-2022-10-20 15:40:50.752649,Boxing Lines - Ernesto Mercado vs Jayson Velez - To Win the Bout,Jayson Velez,0.012899999999999995,0.1667,0.1538
 2022-10-20 19:40:36.412953,2022/23 NBA - Regular Season Wins - Regular Season Wins - Most Wins - NBA 2022/23 Regular Season,LA Clippers,0.012899999999999995,0.1667,0.1538
+2022-10-20 15:40:50.752649,Boxing Lines - Ernesto Mercado vs Jayson Velez - To Win the Bout,Jayson Velez,0.012899999999999995,0.1667,0.1538
 2022-10-20 13:40:42.704162,KBO League - KBO League 2022 - Outright,LG Twins,0.012699999999999989,0.3636,0.3509
 2022-10-20 15:40:50.676453,Boxing Lines - Kamil Mlodzinski vs Lukas Dekys - To Win the Bout,Kamil Mlodzinski,0.012400000000000022,0.4,0.3876
 2022-10-20 09:40:47.153507,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Golden State Warriors,0.012299999999999978,0.3571,0.3448
@@ -140,8 +141,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-20 19:40:36.429601,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Boston Celtics,Under 53.5,-0.010699999999999932,0.5348,0.5455
 2022-10-20 11:40:39.820635,Boxing Lines - Jonathan Gonzalez vs Shokichi Iwata - To Win the Bout,Jonathan Gonzalez,-0.010699999999999932,0.5348,0.5455
 2022-10-20 15:40:50.704224,Boxing Lines - Emre Cukur vs Hadillah Mohoumadi - To Win the Bout,Emre Cukur,-0.01090000000000002,0.8462,0.8571
-2022-10-20 11:40:40.379504,Round Match-Ups - Parlays - 1st Round Match-Up - S. Stallings v D. Willett - 1st Round Match-Up,Danny Willett,-0.011099999999999999,0.4651,0.4762
 2022-10-20 09:40:47.153507,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Los Angeles Lakers,-0.011099999999999999,0.1,0.1111
+2022-10-20 11:40:40.379504,Round Match-Ups - Parlays - 1st Round Match-Up - S. Stallings v D. Willett - 1st Round Match-Up,Danny Willett,-0.011099999999999999,0.4651,0.4762
 2022-10-20 19:40:36.648346,2022/23 Regular Season Player Leaders - Three Pointer Leader - Three Pointers PG,Jayson Tatum (BOS),-0.011399999999999997,0.0164,0.0278
 2022-10-20 15:40:50.640738,Boxing Lines - Anabel Ortiz vs Maria Micheo Santizo - To Win the Bout,Anabel Ortiz,-0.011699999999999933,0.7778,0.7895
 2022-10-20 13:40:42.836697,Boxing Lines - Isaiah Steen vs Sena Agbeko - To Win the Bout,Isaiah Steen,-0.011699999999999933,0.7778,0.7895
@@ -154,29 +155,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-20 19:40:34.966017,Boxing Lines - Ernesto Mercado vs Jayson Velez - To Win the Bout,Jayson Velez,-0.012899999999999995,0.1538,0.1667
 2022-10-20 10:40:32.876032,Boxing Lines - Isaiah Steen vs Sena Agbeko - To Win the Bout,Isaiah Steen,-0.0131,0.7647,0.7778
 2022-10-20 16:40:57.537610,Boxing Lines - Kamil Mlodzinski vs Lukas Dekys - To Win the Bout,Kamil Mlodzinski,-0.013900000000000023,0.3861,0.4
+2022-10-20 11:40:42.945747,Championship - England Championship 2022/23 - Top 6 Finish,Wigan Athletic,-0.013999999999999999,0.0769,0.0909
+2022-10-20 10:40:35.468391,Championship - England Championship 2022/23 - Top Goalscorer,Josh Sargent,-0.013999999999999999,0.0769,0.0909
+2022-10-20 10:40:35.476305,Championship - England Championship 2022/23 - To Be Promoted,Sunderland,-0.013999999999999999,0.0769,0.0909
 2022-10-20 11:40:42.945747,Championship - England Championship 2022/23 - Top 6 Finish,Reading,-0.013999999999999999,0.0769,0.0909
 2022-10-20 19:40:36.636474,2022/23 Regular Season Player Leaders - Rebounds Leader - RPG,Joel Embiid (PHI),-0.013999999999999999,0.0769,0.0909
-2022-10-20 10:40:35.468391,Championship - England Championship 2022/23 - Top Goalscorer,Josh Sargent,-0.013999999999999999,0.0769,0.0909
 2022-10-20 19:40:36.412953,2022/23 NBA - Regular Season Wins - Regular Season Wins - Most Wins - NBA 2022/23 Regular Season,PHI 76ers,-0.013999999999999999,0.0769,0.0909
-2022-10-20 11:40:42.945747,Championship - England Championship 2022/23 - Top 6 Finish,Wigan Athletic,-0.013999999999999999,0.0769,0.0909
-2022-10-20 10:40:35.476305,Championship - England Championship 2022/23 - To Be Promoted,Sunderland,-0.013999999999999999,0.0769,0.0909
 2022-10-20 09:40:45.613667,BMW Ladies Championship - BMW Ladies Championship - Outright,Hannah Green,-0.014099999999999998,0.0294,0.0435
-2022-10-20 10:40:35.476305,Championship - England Championship 2022/23 - To Be Promoted,Cardiff City,-0.014100000000000001,0.0385,0.0526
 2022-10-20 15:40:50.743759,Boxing Lines - Bek Nurmaganbet vs Luciano Chaparro Araujo - To Win the Bout,Bek Nurmaganbet,-0.014100000000000001,0.9474,0.9615
+2022-10-20 10:40:35.476305,Championship - England Championship 2022/23 - To Be Promoted,Cardiff City,-0.014100000000000001,0.0385,0.0526
 2022-10-20 09:40:47.160992,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Miami Heat,-0.014200000000000101,0.6154,0.6296
 2022-10-20 19:40:36.611571,2022/23 Regular Season Player Leaders - Scoring Leader - PPG,LeBron James (LAL),-0.01440000000000001,0.0909,0.1053
 2022-10-20 10:40:35.476305,Championship - England Championship 2022/23 - To Be Promoted,Hull City,-0.014499999999999999,0.0149,0.0294
 2022-10-20 09:40:47.252039,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Brooklyn Nets,-0.01469999999999999,0.2353,0.25
 2022-10-20 09:40:47.160992,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Charlotte Hornets,-0.014899999999999997,0.0476,0.0625
 2022-10-20 09:40:44.786423,The CJ Cup - 2/3 Balls - 1st Round 3 Balls - C. Reavie / B. Todd / G. Woodland - 1st Round 3 Balls,Chez Reavie,-0.014900000000000024,0.3077,0.3226
-2022-10-20 11:40:42.684603,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,AC Milan,-0.015100000000000002,0.1667,0.1818
-2022-10-20 11:40:42.684603,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,Juventus,-0.015100000000000002,0.1667,0.1818
 2022-10-20 19:40:36.666802,2022/23 Regular Season Player Leaders - Blocks Leader - Blocks PG,Rudy Gobert,-0.015100000000000002,0.1667,0.1818
+2022-10-20 11:40:42.684603,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,Juventus,-0.015100000000000002,0.1667,0.1818
+2022-10-20 11:40:42.684603,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,AC Milan,-0.015100000000000002,0.1667,0.1818
 2022-10-20 14:40:52.866100,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Dallas Mavericks,-0.015400000000000025,0.3846,0.4
 2022-10-20 19:40:36.802675,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Minnesota Timberwolves,No,-0.01589999999999997,0.274,0.2899
 2022-10-20 09:40:45.613667,BMW Ladies Championship - BMW Ladies Championship - Outright,Leona Maguire,-0.0165,0.0079,0.0244
-2022-10-20 10:40:35.483573,Championship - England Championship 2022/23 - To Be Relegated,Coventry City,-0.016699999999999993,0.25,0.2667
 2022-10-20 09:40:47.175997,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Dallas Mavericks,-0.016699999999999993,0.4,0.4167
+2022-10-20 10:40:35.483573,Championship - England Championship 2022/23 - To Be Relegated,Coventry City,-0.016699999999999993,0.25,0.2667
 2022-10-20 10:40:35.490879,Championship - England Championship 2022/23 - To Finish Bottom,Rotherham Utd,-0.018099999999999998,0.0588,0.0769
 2022-10-20 09:40:47.143919,2022/23 Divisions - 2022-2023 NBA Northwest Division - Division Winner,Denver Nuggets,-0.018100000000000005,0.5652,0.5833
 2022-10-20 12:40:38.186668,Japan B League - Japan League B1 2022/23 - Outright,Alvark Tokyo,-0.01820000000000002,0.1818,0.2
@@ -187,36 +188,36 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-20 19:40:36.790818,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Miami Heat,Yes,-0.020199999999999996,0.8889,0.9091
 2022-10-20 20:40:51.712991,Boxing Lines - Bek Nurmaganbet vs Luciano Chaparro Araujo - To Win the Bout,Luciano Chaparro Araujo,-0.02020000000000001,0.0909,0.1111
 2022-10-20 10:40:33.492590,The CJ Cup - 2/3 Balls - 1st Round 3 Balls - A. Smalley / S.H. Kim / Y. Seo - 1st Round 3 Balls,Yoseop Seo,-0.020299999999999985,0.25,0.2703
-2022-10-20 19:40:36.624057,2022/23 Regular Season Player Leaders - Assists Leader - APG,LaMelo Ball,-0.0203,0.0323,0.0526
 2022-10-20 10:40:35.490879,Championship - England Championship 2022/23 - To Finish Bottom,Bristol City,-0.0203,0.0385,0.0588
+2022-10-20 19:40:36.624057,2022/23 Regular Season Player Leaders - Assists Leader - APG,LaMelo Ball,-0.0203,0.0323,0.0526
 2022-10-20 19:40:36.731380,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Cleveland Cavaliers,No,-0.020799999999999985,0.3125,0.3333
 2022-10-20 19:40:36.707460,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Boston Celtics,No,-0.0208,0.0625,0.0833
 2022-10-20 16:40:57.524354,Boxing Lines - Marlon Harrington vs Marquis Taylor - To Win the Bout,Marlon Harrington,-0.021100000000000008,0.2353,0.2564
-2022-10-20 19:40:36.690484,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,New Orleans Pelicans,-0.02169999999999994,0.5238,0.5455
 2022-10-20 10:40:35.476305,Championship - England Championship 2022/23 - To Be Promoted,Burnley,-0.02169999999999994,0.5238,0.5455
-2022-10-20 10:40:35.476305,Championship - England Championship 2022/23 - To Be Promoted,Sheffield United,-0.021699999999999997,0.4545,0.4762
+2022-10-20 19:40:36.690484,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,New Orleans Pelicans,-0.02169999999999994,0.5238,0.5455
 2022-10-20 19:40:36.680434,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Toronto Raptors,-0.021699999999999997,0.4545,0.4762
+2022-10-20 10:40:35.476305,Championship - England Championship 2022/23 - To Be Promoted,Sheffield United,-0.021699999999999997,0.4545,0.4762
 2022-10-20 09:40:47.124643,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Milwaukee Bucks,-0.02200000000000002,0.6923,0.7143
-2022-10-20 11:40:42.684603,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,Inter Milan,-0.022199999999999998,0.2,0.2222
 2022-10-20 19:40:36.853804,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Sacramento Kings,Yes,-0.022199999999999998,0.2,0.2222
+2022-10-20 11:40:42.684603,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,Inter Milan,-0.022199999999999998,0.2,0.2222
 2022-10-20 19:40:36.611571,2022/23 Regular Season Player Leaders - Scoring Leader - PPG,Joel Embiid (PHI),-0.02250000000000002,0.2632,0.2857
 2022-10-20 10:40:33.922242,Tournament Match-Ups - Tournament Match-Up - S.W. Kim vs T. Fleetwood - Tournament Match-Up,Si Woo Kim,-0.022600000000000064,0.5122,0.5348
 2022-10-20 10:40:35.483573,Championship - England Championship 2022/23 - To Be Relegated,Luton Town,-0.023200000000000002,0.0294,0.0526
 2022-10-20 13:40:43.556392,Round Match-Ups - 1st Round Match-Up - C. Morikawa v T. Kim - 1st Round Match-Up,Tom Kim,-0.023799999999999988,0.4762,0.5
-2022-10-20 09:40:45.083503,Round Match-Ups - 1st Round Match-Up - C. Morikawa v T. Kim - 1st Round Match-Up,Tom Kim,-0.023800000000000043,0.5,0.5238
 2022-10-20 11:40:40.638673,Round Match-Ups - Parlays - 1st Round Match-Up - J. Spieth vs M. Homa - 1st Round Match-Up,Jordan Spieth,-0.023800000000000043,0.5,0.5238
+2022-10-20 09:40:45.083503,Round Match-Ups - 1st Round Match-Up - C. Morikawa v T. Kim - 1st Round Match-Up,Tom Kim,-0.023800000000000043,0.5,0.5238
 2022-10-20 11:40:40.613572,Round Match-Ups - Parlays - 1st Round Match-Up - B. Horschel v C. Davis - 1st Round Match-Up,Cameron Davis,-0.023800000000000043,0.5,0.5238
 2022-10-20 09:40:45.097140,Round Match-Ups - 1st Round Match-Up - M. Pereira v T. Fleetwood - 1st Round Match-Up,Mito Pereira,-0.023800000000000043,0.5,0.5238
 2022-10-20 09:40:45.613667,BMW Ladies Championship - BMW Ladies Championship - Outright,Sei Young Kim,-0.023899999999999998,0.0196,0.0435
 2022-10-20 19:40:36.713424,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Brooklyn Nets,Yes,-0.02400000000000002,0.9375,0.9615
 2022-10-20 10:40:35.476305,Championship - England Championship 2022/23 - To Be Promoted,Stoke City,-0.0242,0.0667,0.0909
-2022-10-20 19:40:36.826623,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Orlando Magic,Yes,-0.0242,0.0667,0.0909
 2022-10-20 11:40:42.933036,Championship - England Championship 2022/23 - Top 2 Finish,West Bromwich Albion,-0.0242,0.0667,0.0909
-2022-10-20 13:40:43.541203,Round Match-Ups - 1st Round Match-Up - M. McNealy v S.W. Kim - 1st Round Match-Up,Si Woo Kim,-0.024399999999999977,0.4878,0.5122
-2022-10-20 09:40:45.198624,Round Match-Ups - Parlays - 1st Round Match-Up - A. Putnam v D. McCarthy - 1st Round Match-Up,Denny McCarthy,-0.024399999999999977,0.4878,0.5122
-2022-10-20 11:40:40.353062,Round Match-Ups - Parlays - 1st Round Match-Up - A. Wise vs C. Conners - 1st Round Match-Up,Corey Conners,-0.024399999999999977,0.4878,0.5122
+2022-10-20 19:40:36.826623,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Orlando Magic,Yes,-0.0242,0.0667,0.0909
 2022-10-20 10:40:33.892487,Tournament Match-Ups - Tournament Match-Up - S. Lowry vs H. Matsuyama - Tournament Match-Up,Hideki Matsuyama,-0.024399999999999977,0.4878,0.5122
+2022-10-20 13:40:43.541203,Round Match-Ups - 1st Round Match-Up - M. McNealy v S.W. Kim - 1st Round Match-Up,Si Woo Kim,-0.024399999999999977,0.4878,0.5122
 2022-10-20 11:40:40.566219,Round Match-Ups - Parlays - 1st Round Match-Up - H. English v M. Kuchar - 1st Round Match-Up,Harris English,-0.024399999999999977,0.4878,0.5122
+2022-10-20 11:40:40.353062,Round Match-Ups - Parlays - 1st Round Match-Up - A. Wise vs C. Conners - 1st Round Match-Up,Corey Conners,-0.024399999999999977,0.4878,0.5122
+2022-10-20 09:40:45.198624,Round Match-Ups - Parlays - 1st Round Match-Up - A. Putnam v D. McCarthy - 1st Round Match-Up,Denny McCarthy,-0.024399999999999977,0.4878,0.5122
 2022-10-20 12:40:36.217188,Boxing Lines - Isaiah Steen vs Sena Agbeko - To Win the Bout,Sena Agbeko,-0.0252,0.2778,0.303
 2022-10-20 14:40:53.624452,US Midterm Elections 2022 - Senate Races: 10 Markets - Arizona,Democrat,-0.025599999999999956,0.6296,0.6552
 2022-10-20 19:40:36.648346,2022/23 Regular Season Player Leaders - Three Pointer Leader - Three Pointers PG,Klay Thompson (GSW),-0.026499999999999996,0.0476,0.0741
@@ -225,20 +226,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-20 14:40:54.002637,UK Politics - Next UK Conservative Party Leader (After Liz Truss) - Next Conservative Party Leader,Ben Wallace,-0.029299999999999993,0.0476,0.0769
 2022-10-20 11:40:42.945747,Championship - England Championship 2022/23 - Top 6 Finish,Hull City,-0.0294,0.0294,0.0588
 2022-10-20 11:40:42.933036,Championship - England Championship 2022/23 - Top 2 Finish,Sheffield United,-0.029600000000000015,0.3704,0.4
-2022-10-20 19:40:36.412953,2022/23 NBA - Regular Season Wins - Regular Season Wins - Most Wins - NBA 2022/23 Regular Season,BKN Nets,-0.033299999999999996,0.1,0.1333
 2022-10-20 09:40:45.613667,BMW Ladies Championship - BMW Ladies Championship - Outright,Lydia Ko,-0.033299999999999996,0.1,0.1333
+2022-10-20 19:40:36.412953,2022/23 NBA - Regular Season Wins - Regular Season Wins - Most Wins - NBA 2022/23 Regular Season,BKN Nets,-0.033299999999999996,0.1,0.1333
 2022-10-20 10:40:35.483573,Championship - England Championship 2022/23 - To Be Relegated,Preston North End,-0.03330000000000001,0.0667,0.1
-2022-10-20 12:40:38.186668,Japan B League - Japan League B1 2022/23 - Outright,Chiba Jets,-0.033300000000000024,0.1667,0.2
 2022-10-20 19:40:36.412953,2022/23 NBA - Regular Season Wins - Regular Season Wins - Most Wins - NBA 2022/23 Regular Season,BOS Celtics,-0.033300000000000024,0.1667,0.2
+2022-10-20 12:40:38.186668,Japan B League - Japan League B1 2022/23 - Outright,Chiba Jets,-0.033300000000000024,0.1667,0.2
 2022-10-20 11:40:42.945747,Championship - England Championship 2022/23 - Top 6 Finish,Sheffield United,-0.03410000000000002,0.7333,0.7674
-2022-10-20 19:40:36.435559,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Brooklyn Nets,Over 50.5,-0.03480000000000005,0.5,0.5348
 2022-10-20 19:40:36.423277,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Atlanta Hawks,Under 45.5,-0.03480000000000005,0.5,0.5348
+2022-10-20 19:40:36.435559,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Brooklyn Nets,Over 50.5,-0.03480000000000005,0.5,0.5348
 2022-10-20 09:40:45.184849,Round Match-Ups - Parlays - 1st Round Match-Up - S. Stallings v D. Willett - 1st Round Match-Up,Danny Willett,-0.035999999999999976,0.4762,0.5122
 2022-10-20 09:40:45.613667,BMW Ladies Championship - BMW Ladies Championship - Outright,Jin Young Ko,-0.036899999999999995,0.0066,0.0435
 2022-10-20 09:40:45.613667,BMW Ladies Championship - BMW Ladies Championship - Outright,Celine Boutier,-0.0377,0.0149,0.0526
 2022-10-20 11:40:42.933036,Championship - England Championship 2022/23 - Top 2 Finish,Burnley,-0.0378,0.4167,0.4545
-2022-10-20 10:40:35.476305,Championship - England Championship 2022/23 - To Be Promoted,West Bromwich Albion,-0.03889999999999999,0.1429,0.1818
 2022-10-20 10:40:35.483573,Championship - England Championship 2022/23 - To Be Relegated,Bristol City,-0.03889999999999999,0.1429,0.1818
+2022-10-20 10:40:35.476305,Championship - England Championship 2022/23 - To Be Promoted,West Bromwich Albion,-0.03889999999999999,0.1429,0.1818
 2022-10-20 19:40:36.412953,2022/23 NBA - Regular Season Wins - Regular Season Wins - Most Wins - NBA 2022/23 Regular Season,DEN Nuggets,-0.0397,0.0714,0.1111
 2022-10-20 11:40:42.945747,Championship - England Championship 2022/23 - Top 6 Finish,Sunderland,-0.04040000000000002,0.1818,0.2222
 2022-10-20 19:40:36.657748,2022/23 Regular Season Player Leaders - Steals Leader - Steals PG,Jimmy Butler,-0.0407,0.0769,0.1176
@@ -247,8 +248,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-20 19:40:36.814489,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - New York Knicks,Yes,-0.04290000000000005,0.3571,0.4
 2022-10-20 09:40:47.175997,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Memphis Grizzlies,-0.043399999999999994,0.4444,0.4878
 2022-10-20 16:40:57.089281,US Midterm Elections 2022 - Senate Races: 10 Markets - Georgia,Republican,-0.044399999999999995,0.4,0.4444
-2022-10-20 10:40:35.476305,Championship - England Championship 2022/23 - To Be Promoted,Watford,-0.044499999999999984,0.2222,0.2667
 2022-10-20 10:40:35.483573,Championship - England Championship 2022/23 - To Be Relegated,Rotherham Utd,-0.044499999999999984,0.2222,0.2667
+2022-10-20 10:40:35.476305,Championship - England Championship 2022/23 - To Be Promoted,Watford,-0.044499999999999984,0.2222,0.2667
 2022-10-20 11:40:42.945747,Championship - England Championship 2022/23 - Top 6 Finish,Watford,-0.04760000000000003,0.4762,0.5238
 2022-10-20 16:40:57.271842,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Field,-0.050799999999999956,0.6825,0.7333
 2022-10-20 11:40:42.945747,Championship - England Championship 2022/23 - Top 6 Finish,Stoke City,-0.05080000000000001,0.1818,0.2326
