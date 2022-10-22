@@ -1,11 +1,14 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-22 08:40:45.795797,BMW Ladies Championship - BMW Ladies Championship - Outright,Lydia Ko,0.15389999999999998,0.3077,0.1538
+2022-10-22 09:40:43.983291,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,Benfica,0.13639999999999997,0.6364,0.5
 2022-10-22 08:40:45.795797,BMW Ladies Championship - BMW Ladies Championship - Outright,Atthaya Thitikul,0.11430000000000001,0.4,0.2857
 2022-10-22 08:40:48.806691,National League - England National League 2022/23 - Outright,Notts County,0.09230000000000005,0.4,0.3077
+2022-10-22 09:40:44.024461,Liga Profesional de Fútbol - Argentina Liga Profesional 2022 Season - Outright,Boca Juniors,0.07929999999999993,0.8571,0.7778
 2022-10-21 22:40:38.346952,MLB Futures - 2022 NLCS MVP - 2022 NLCS MVP,Manny Machado,0.07579999999999999,0.1667,0.0909
 2022-10-22 05:40:38.663393,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Philadelphia Phillies,0.07520000000000002,0.2857,0.2105
 2022-10-21 22:40:38.346952,MLB Futures - 2022 NLCS MVP - 2022 NLCS MVP,Kyle Schwarber,0.066,0.1429,0.0769
 2022-10-22 00:48:55.244667,NBL - NBL 2022/23 - Outright,South East Melbourne Phoenix,0.048100000000000004,0.125,0.0769
+2022-10-22 09:40:42.128009,Brazilian Politics - 2022 Brazilian Presidential Election - Winner,Jair Bolsonaro,0.043399999999999994,0.4878,0.4444
 2022-10-22 02:40:40.866658,Game of Thrones Specials - House of the Dragon Finale IMDB Episode Rating - House of the Dragon Finale Rating,8.6 to 9,0.04040000000000002,0.2222,0.1818
 2022-10-22 08:40:47.094250,NFL Weekly Specials - NFL Week 7 Leaders - Lowest Scoring Team - Week 7 (Sunday Only),CAR Panthers,0.03570000000000001,0.2857,0.25
 2022-10-21 22:40:38.346952,MLB Futures - 2022 NLCS MVP - 2022 NLCS MVP,Josh Bell,0.0334,0.0769,0.0435
@@ -15,22 +18,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-22 08:40:45.795797,BMW Ladies Championship - BMW Ladies Championship - Outright,Hyo Joo Kim,0.028199999999999996,0.0667,0.0385
 2022-10-22 08:40:48.576973,League One - England - League One 2022/23 - To Be Promoted,Ipswich Town,0.027800000000000047,0.7778,0.75
 2022-10-22 07:41:01.947767,UK Politics - Next UK Conservative Party Leader (After Liz Truss) - Next Conservative Party Leader,Rishi Sunak,0.024499999999999966,0.6078,0.5833
-2022-10-22 06:40:52.650495,The CJ Cup - 2/3 Balls - 3rd Round 3 Balls - C. Bezuidenhout / B. Kim / S. Park - 3rd Round 3 Balls,Christiaan Bezuidenhout,0.024399999999999977,0.5122,0.4878
 2022-10-22 06:40:52.967972,Round Match-Ups - 3rd Round Match-Up - T. Hoge vs B. Harman - 3rd Round Match-Up,Brian Harman,0.024399999999999977,0.5122,0.4878
+2022-10-22 06:40:52.650495,The CJ Cup - 2/3 Balls - 3rd Round 3 Balls - C. Bezuidenhout / B. Kim / S. Park - 3rd Round 3 Balls,Christiaan Bezuidenhout,0.024399999999999977,0.5122,0.4878
 2022-10-22 05:40:38.106355,The CJ Cup - 2/3 Balls - 3rd Round 3 Balls - J. Thomas / L. List / J. Suh - 3rd Round 3 Balls,Justin Thomas,0.023800000000000043,0.5238,0.5
 2022-10-22 05:40:38.237829,The CJ Cup - 2/3 Balls - 3rd Round 3 Balls - T. Kim / S. Power / W. Clark - 3rd Round 3 Balls,Tom Kim,0.022699999999999998,0.4878,0.4651
 2022-10-22 03:41:02.995695,The CJ Cup - 2/3 Balls - 3rd Round 3 Balls - C. Bezuidenhout / B. Kim / S. Park - 3rd Round 3 Balls,Christiaan Bezuidenhout,0.022699999999999998,0.4878,0.4651
 2022-10-22 07:41:05.063336,Round Match-Ups - 3rd Round Match-Up - S. Burns vs C. Morikawa - 3rd Round Match-Up,Collin Morikawa,0.022600000000000064,0.5348,0.5122
+2022-10-22 07:41:05.153115,Round Match-Ups - 3rd Round Match-Up - J. Rahm vs R. McIlroy - 3rd Round Match-Up,Jon Rahm,0.022600000000000064,0.5348,0.5122
 2022-10-22 03:41:03.183706,Round Match-Ups - 3rd Round Match-Up - D. Willett vs W. Clark - 3rd Round Match-Up,Wyndham Clark,0.022600000000000064,0.5348,0.5122
 2022-10-22 07:41:05.140242,Round Match-Ups - 3rd Round Match-Up - A. Wise vs C. Davis - 3rd Round Match-Up,Cameron Davis,0.022600000000000064,0.5348,0.5122
-2022-10-22 07:41:05.153115,Round Match-Ups - 3rd Round Match-Up - J. Rahm vs R. McIlroy - 3rd Round Match-Up,Jon Rahm,0.022600000000000064,0.5348,0.5122
 2022-10-22 06:40:52.795767,The CJ Cup - 2/3 Balls - 3rd Round 3 Balls - B. Harman / D. Willett / T. Moore - 3rd Round 3 Balls,Brian Harman,0.02260000000000001,0.4,0.3774
 2022-10-22 00:48:55.244667,NBL - NBL 2022/23 - Outright,Adelaide 36ers,0.022199999999999998,0.2222,0.2
 2022-10-22 08:40:48.600951,League One - England - League One 2022/23 - Top 2 Finish,Ipswich Town,0.02200000000000002,0.7143,0.6923
 2022-10-22 05:40:38.186301,The CJ Cup - 2/3 Balls - 3rd Round 3 Balls - C. Morikawa / C. Kirk / M. Kuchar - 3rd Round 3 Balls,Collin Morikawa,0.021699999999999997,0.4762,0.4545
 2022-10-22 05:40:38.177115,The CJ Cup - 2/3 Balls - 3rd Round 3 Balls - S. Scheffler / E. Grillo / A. Smalley - 3rd Round 3 Balls,Scottie Scheffler,0.02169999999999994,0.5455,0.5238
-2022-10-22 03:41:03.234503,Round Match-Ups - 3rd Round Match-Up - B. Todd vs L. Hodges - 3rd Round Match-Up,Lee Hodges,0.02169999999999994,0.5455,0.5238
 2022-10-22 06:40:52.830682,The CJ Cup - 2/3 Balls - 3rd Round 3 Balls - R. McIlroy / A. Wise / L. Hodges - 3rd Round 3 Balls,Rory McIlroy,0.02169999999999994,0.5455,0.5238
+2022-10-22 03:41:03.234503,Round Match-Ups - 3rd Round Match-Up - B. Todd vs L. Hodges - 3rd Round Match-Up,Lee Hodges,0.02169999999999994,0.5455,0.5238
 2022-10-22 05:40:38.663393,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Houston Astros,0.02079999999999993,0.5556,0.5348
 2022-10-22 05:40:38.055336,Mallorca Open - 2/3 Balls - 3rd Round 3 Balls - R. Hojgaard / R. Fox / D. Whitnell - 3rd Round 3 Balls,Rasmus Hojgaard,0.020699999999999996,0.4651,0.4444
 2022-10-22 08:40:45.795797,BMW Ladies Championship - BMW Ladies Championship - Outright,Hye Jin Choi,0.0203,0.0588,0.0385
@@ -39,22 +42,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-22 02:40:42.218995,The CJ Cup - 2/3 Balls - 3rd Round 3 Balls - M. Fitzpatrick / T. Fleetwood / M. McNealy - 3rd Round 3 Balls,Matthew Fitzpatrick,0.018900000000000028,0.4444,0.4255
 2022-10-22 00:48:54.388832,Mallorca Open - Mallorca Open - Outright,Richie Ramsay,0.0186,0.0196,0.001
 2022-10-22 06:40:52.743013,The CJ Cup - 2/3 Balls - 3rd Round 3 Balls - J. Day / A. Hadwin / G. Woodland - 3rd Round 3 Balls,Gary Woodland,0.017600000000000005,0.3509,0.3333
-2022-10-22 06:40:52.781584,The CJ Cup - 2/3 Balls - 3rd Round 3 Balls - S. Im / M. Homa / A. Putnam - 3rd Round 3 Balls,Sungjae Im,0.016699999999999993,0.4167,0.4
 2022-10-22 08:40:48.600951,League One - England - League One 2022/23 - Top 2 Finish,Plymouth Argyle,0.016699999999999993,0.4167,0.4
+2022-10-22 06:40:52.781584,The CJ Cup - 2/3 Balls - 3rd Round 3 Balls - S. Im / M. Homa / A. Putnam - 3rd Round 3 Balls,Sungjae Im,0.016699999999999993,0.4167,0.4
 2022-10-22 06:40:52.662248,The CJ Cup - 2/3 Balls - 3rd Round 3 Balls - S. Straka / H. English / J.J. Spaun - 3rd Round 3 Balls,Sepp Straka,0.015400000000000025,0.4,0.3846
 2022-10-22 03:41:02.106650,Boxing Lines - Jonathan Lopez vs Ulises Suarez Ortega - To Win the Bout,Jonathan Lopez,0.014100000000000001,0.9615,0.9474
 2022-10-22 08:40:47.116489,NFL Weekly Specials - NFL Week 7 Leaders - Most Rushing Yards - Week 7 (Sunday Only),Breece Hall,0.013999999999999999,0.0909,0.0769
 2022-10-22 05:40:38.055336,Mallorca Open - 2/3 Balls - 3rd Round 3 Balls - R. Hojgaard / R. Fox / D. Whitnell - 3rd Round 3 Balls,Dale Whitnell,0.011899999999999994,0.25,0.2381
 2022-10-22 00:48:54.407673,Mallorca Open - 2/3 Balls - 3rd Round 3 Balls - S. Hend / C. Syme / R. Paratore - 3rd Round 3 Balls,Connor Syme,0.011099999999999999,0.4762,0.4651
-2022-10-22 02:40:42.404390,Round Match-Ups - 3rd Round Match-Up - J. Rahm vs R. McIlroy - 3rd Round Match-Up,Rory McIlroy,0.01100000000000001,0.5348,0.5238
 2022-10-22 06:40:52.924256,Round Match-Ups - 3rd Round Match-Up - S. Im vs T. Kim - 3rd Round Match-Up,Sungjae Im,0.01100000000000001,0.5348,0.5238
+2022-10-22 02:40:42.404390,Round Match-Ups - 3rd Round Match-Up - J. Rahm vs R. McIlroy - 3rd Round Match-Up,Rory McIlroy,0.01100000000000001,0.5348,0.5238
 2022-10-22 00:48:54.440652,Mallorca Open - 2/3 Balls - 3rd Round 3 Balls - A. Cockerill / C. Hanna / M. Warren - 3rd Round 3 Balls,Aaron Cockerill,0.010699999999999987,0.3333,0.3226
+2022-10-22 06:40:52.932847,Round Match-Ups - 3rd Round Match-Up - D. Willett vs W. Clark - 3rd Round Match-Up,Wyndham Clark,0.010699999999999932,0.5455,0.5348
 2022-10-22 06:40:52.871665,Round Match-Ups - 3rd Round Match-Up - M. Fitzpatrick vs V. Hovland - 3rd Round Match-Up,Matthew Fitzpatrick,0.010699999999999932,0.5455,0.5348
 2022-10-22 07:41:05.034996,Round Match-Ups - 3rd Round Match-Up - S. Im vs T. Kim - 3rd Round Match-Up,Sungjae Im,0.010699999999999932,0.5455,0.5348
-2022-10-22 06:40:52.932847,Round Match-Ups - 3rd Round Match-Up - D. Willett vs W. Clark - 3rd Round Match-Up,Wyndham Clark,0.010699999999999932,0.5455,0.5348
 2022-10-22 07:41:04.964454,Round Match-Ups - 3rd Round Match-Up - M. Fitzpatrick vs V. Hovland - 3rd Round Match-Up,Matthew Fitzpatrick,0.010099999999999998,0.5556,0.5455
 2022-10-22 02:40:42.218995,The CJ Cup - 2/3 Balls - 3rd Round 3 Balls - M. Fitzpatrick / T. Fleetwood / M. McNealy - 3rd Round 3 Balls,Maverick McNealy,-0.010099999999999998,0.3125,0.3226
 2022-10-22 00:48:55.244667,NBL - NBL 2022/23 - Outright,New Zealand Breakers,-0.0102,0.0667,0.0769
+2022-10-22 09:40:43.983291,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,Braga,-0.0102,0.0667,0.0769
 2022-10-21 22:40:38.346952,MLB Futures - 2022 NLCS MVP - 2022 NLCS MVP,Trent Grisham,-0.010600000000000002,0.0217,0.0323
 2022-10-22 03:41:02.995695,The CJ Cup - 2/3 Balls - 3rd Round 3 Balls - C. Bezuidenhout / B. Kim / S. Park - 3rd Round 3 Balls,Bio Kim,-0.010699999999999987,0.3226,0.3333
 2022-10-21 22:40:38.346952,MLB Futures - 2022 NLCS MVP - 2022 NLCS MVP,Jurickson Profar,-0.010700000000000001,0.0278,0.0385
@@ -65,33 +69,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-22 06:40:52.650495,The CJ Cup - 2/3 Balls - 3rd Round 3 Balls - C. Bezuidenhout / B. Kim / S. Park - 3rd Round 3 Balls,Sanghyun Park,-0.011699999999999988,0.274,0.2857
 2022-10-22 05:40:38.106355,The CJ Cup - 2/3 Balls - 3rd Round 3 Balls - J. Thomas / L. List / J. Suh - 3rd Round 3 Balls,Justin Suh,-0.011699999999999988,0.274,0.2857
 2022-10-22 06:40:52.830682,The CJ Cup - 2/3 Balls - 3rd Round 3 Balls - R. McIlroy / A. Wise / L. Hodges - 3rd Round 3 Balls,Lee Hodges,-0.011700000000000016,0.2105,0.2222
-2022-10-22 07:41:05.034996,Round Match-Ups - 3rd Round Match-Up - S. Im vs T. Kim - 3rd Round Match-Up,Tom Kim,-0.012199999999999989,0.5,0.5122
-2022-10-22 06:40:52.932847,Round Match-Ups - 3rd Round Match-Up - D. Willett vs W. Clark - 3rd Round Match-Up,Danny Willett,-0.012199999999999989,0.5,0.5122
 2022-10-22 07:41:04.964454,Round Match-Ups - 3rd Round Match-Up - M. Fitzpatrick vs V. Hovland - 3rd Round Match-Up,Viktor Hovland,-0.012199999999999989,0.4878,0.5
 2022-10-22 06:40:52.871665,Round Match-Ups - 3rd Round Match-Up - M. Fitzpatrick vs V. Hovland - 3rd Round Match-Up,Viktor Hovland,-0.012199999999999989,0.5,0.5122
-2022-10-22 00:48:54.407673,Mallorca Open - 2/3 Balls - 3rd Round 3 Balls - S. Hend / C. Syme / R. Paratore - 3rd Round 3 Balls,Renato Paratore,-0.012699999999999989,0.3509,0.3636
+2022-10-22 07:41:05.034996,Round Match-Ups - 3rd Round Match-Up - S. Im vs T. Kim - 3rd Round Match-Up,Tom Kim,-0.012199999999999989,0.5,0.5122
+2022-10-22 06:40:52.932847,Round Match-Ups - 3rd Round Match-Up - D. Willett vs W. Clark - 3rd Round Match-Up,Danny Willett,-0.012199999999999989,0.5,0.5122
 2022-10-22 06:40:52.662248,The CJ Cup - 2/3 Balls - 3rd Round 3 Balls - S. Straka / H. English / J.J. Spaun - 3rd Round 3 Balls,Harris English,-0.012699999999999989,0.3509,0.3636
+2022-10-22 00:48:54.407673,Mallorca Open - 2/3 Balls - 3rd Round 3 Balls - S. Hend / C. Syme / R. Paratore - 3rd Round 3 Balls,Renato Paratore,-0.012699999999999989,0.3509,0.3636
 2022-10-22 08:40:44.913567,Boxing Lines - Damian Wrzesinski vs Artjoms Ramlavs - To Win the Bout,Artjoms Ramlavs,-0.012799999999999978,0.3205,0.3333
 2022-10-21 22:40:38.346952,MLB Futures - 2022 NLCS MVP - 2022 NLCS MVP,Ha-Seong Kim,-0.012800000000000002,0.0217,0.0345
-2022-10-21 21:40:34.601723,Boxing Lines - Marlon Harrington vs Marquis Taylor - To Win the Bout,Marlon Harrington,-0.012800000000000006,0.2198,0.2326
 2022-10-22 05:40:38.177115,The CJ Cup - 2/3 Balls - 3rd Round 3 Balls - S. Scheffler / E. Grillo / A. Smalley - 3rd Round 3 Balls,Emiliano Grillo,-0.013600000000000001,0.2941,0.3077
 2022-10-22 08:40:48.806691,National League - England National League 2022/23 - Outright,Chesterfield,-0.013899999999999996,0.1111,0.125
 2022-10-22 00:48:55.244667,NBL - NBL 2022/23 - Outright,Melbourne United,-0.013999999999999999,0.0769,0.0909
+2022-10-22 09:40:41.597617,NFL Weekly Specials - NFL Week 7 RedZone Specials - Sunday 23rd Oct,Points In Every Quarter Of Every Game,-0.014899999999999997,0.0476,0.0625
 2022-10-22 06:40:52.650495,The CJ Cup - 2/3 Balls - 3rd Round 3 Balls - C. Bezuidenhout / B. Kim / S. Park - 3rd Round 3 Balls,Bio Kim,-0.014900000000000024,0.3077,0.3226
 2022-10-21 22:40:38.346952,MLB Futures - 2022 NLCS MVP - 2022 NLCS MVP,Alec Bohm,-0.017100000000000004,0.0152,0.0323
 2022-10-22 02:40:42.218995,The CJ Cup - 2/3 Balls - 3rd Round 3 Balls - M. Fitzpatrick / T. Fleetwood / M. McNealy - 3rd Round 3 Balls,Tommy Fleetwood,-0.017600000000000005,0.3333,0.3509
 2022-10-22 05:40:38.106355,The CJ Cup - 2/3 Balls - 3rd Round 3 Balls - J. Thomas / L. List / J. Suh - 3rd Round 3 Balls,Luke List,-0.018400000000000027,0.2941,0.3125
-2022-10-21 21:40:34.594013,Boxing Lines - Isaiah Steen vs Sena Agbeko - To Win the Bout,Sena Agbeko,-0.018699999999999994,0.241,0.2597
 2022-10-22 06:40:52.795767,The CJ Cup - 2/3 Balls - 3rd Round 3 Balls - B. Harman / D. Willett / T. Moore - 3rd Round 3 Balls,Danny Willett,-0.018799999999999983,0.3448,0.3636
 2022-10-22 05:40:38.237829,The CJ Cup - 2/3 Balls - 3rd Round 3 Balls - T. Kim / S. Power / W. Clark - 3rd Round 3 Balls,Seamus Power,-0.019600000000000006,0.303,0.3226
 2022-10-22 06:40:52.967972,Round Match-Ups - 3rd Round Match-Up - T. Hoge vs B. Harman - 3rd Round Match-Up,Tom Hoge,-0.02079999999999993,0.5348,0.5556
 2022-10-22 05:40:38.186301,The CJ Cup - 2/3 Balls - 3rd Round 3 Balls - C. Morikawa / C. Kirk / M. Kuchar - 3rd Round 3 Balls,Chris Kirk,-0.020799999999999985,0.3125,0.3333
 2022-10-21 22:40:38.346952,MLB Futures - 2022 NLCS MVP - 2022 NLCS MVP,Jake Cronenworth,-0.021799999999999996,0.0217,0.0435
 2022-10-22 06:40:52.743013,The CJ Cup - 2/3 Balls - 3rd Round 3 Balls - J. Day / A. Hadwin / G. Woodland - 3rd Round 3 Balls,Jason Day,-0.02260000000000001,0.3774,0.4
+2022-10-22 07:41:05.153115,Round Match-Ups - 3rd Round Match-Up - J. Rahm vs R. McIlroy - 3rd Round Match-Up,Rory McIlroy,-0.022600000000000064,0.5122,0.5348
 2022-10-22 07:41:05.063336,Round Match-Ups - 3rd Round Match-Up - S. Burns vs C. Morikawa - 3rd Round Match-Up,Sam Burns,-0.022600000000000064,0.5122,0.5348
 2022-10-22 07:41:05.140242,Round Match-Ups - 3rd Round Match-Up - A. Wise vs C. Davis - 3rd Round Match-Up,Aaron Wise,-0.022600000000000064,0.5122,0.5348
 2022-10-22 03:41:03.183706,Round Match-Ups - 3rd Round Match-Up - D. Willett vs W. Clark - 3rd Round Match-Up,Danny Willett,-0.022600000000000064,0.5122,0.5348
-2022-10-22 07:41:05.153115,Round Match-Ups - 3rd Round Match-Up - J. Rahm vs R. McIlroy - 3rd Round Match-Up,Rory McIlroy,-0.022600000000000064,0.5122,0.5348
 2022-10-22 08:40:48.806691,National League - England National League 2022/23 - Outright,Solihull Moors,-0.023200000000000002,0.0244,0.0476
 2022-10-21 22:40:38.346952,MLB Futures - 2022 NLCS MVP - 2022 NLCS MVP,Will Myers,-0.0233,0.0152,0.0385
 2022-10-22 05:40:38.055336,Mallorca Open - 2/3 Balls - 3rd Round 3 Balls - R. Hojgaard / R. Fox / D. Whitnell - 3rd Round 3 Balls,Ryan Fox,-0.02360000000000001,0.3846,0.4082
@@ -104,6 +107,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-22 06:40:51.899864,Brazilian Politics - 2022 Brazilian Presidential Election - Winner,Lula da Silva,-0.03090000000000004,0.5917,0.6226
 2022-10-22 08:40:48.600951,League One - England - League One 2022/23 - Top 2 Finish,Derby County,-0.033299999999999996,0.1,0.1333
 2022-10-21 22:40:38.346952,MLB Futures - 2022 NLCS MVP - 2022 NLCS MVP,Aaron Nola,-0.03439999999999999,0.0323,0.0667
+2022-10-22 09:40:42.128009,Brazilian Politics - 2022 Brazilian Presidential Election - Winner,Lula da Silva,-0.03610000000000002,0.5556,0.5917
 2022-10-22 08:40:45.795797,BMW Ladies Championship - BMW Ladies Championship - Outright,Minsol Kim,-0.037700000000000004,0.0099,0.0476
 2022-10-21 22:40:38.346952,MLB Futures - 2022 NLCS MVP - 2022 NLCS MVP,Nick Castellanos,-0.0436,0.0152,0.0588
 2022-10-22 08:40:48.606596,League One - England - League One 2022/23 - Top 6 Finish,Derby County,-0.045499999999999985,0.5,0.5455
@@ -113,4 +117,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-22 08:40:45.795797,BMW Ladies Championship - BMW Ladies Championship - Outright,Lilia Vu,-0.06669999999999998,0.1,0.1667
 2022-10-22 08:40:48.806691,National League - England National League 2022/23 - Outright,Wrexham,-0.06700000000000006,0.5556,0.6226
 2022-10-22 05:40:38.663393,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,San Diego Padres,-0.09010000000000001,0.1538,0.2439
+2022-10-22 09:40:43.983291,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,FC Porto,-0.13670000000000004,0.3077,0.4444
 2022-10-22 08:40:45.795797,BMW Ladies Championship - BMW Ladies Championship - Outright,Andrea Lee,-0.19039999999999999,0.1667,0.3571
