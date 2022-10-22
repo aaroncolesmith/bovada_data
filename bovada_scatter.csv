@@ -11,15 +11,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-21 22:40:41.031962,League One - England - League One 2022/23 - Outright,Ipswich Town,0.031799999999999995,0.4762,0.4444
 2022-10-21 22:40:38.346952,MLB Futures - 2022 NLCS MVP - 2022 NLCS MVP,Brandon Drury,0.031,0.0588,0.0278
 2022-10-21 22:40:38.346952,MLB Futures - 2022 NLCS MVP - 2022 NLCS MVP,Bryce Harper,0.028799999999999992,0.1538,0.125
-2022-10-21 15:40:35.553013,Round Match-Ups - 2nd Round Match-Up - V. Hovland vs S. Burns - 2nd Round Match-Up,Sam Burns,0.023800000000000043,0.5238,0.5
-2022-10-21 15:40:36.767755,UK Politics - Next UK Conservative Party Leader (After Liz Truss) - Next Conservative Party Leader,Penny Mordaunt,0.023799999999999988,0.1667,0.1429
+2022-10-22 03:41:02.995695,The CJ Cup - 2/3 Balls - 3rd Round 3 Balls - C. Bezuidenhout / B. Kim / S. Park - 3rd Round 3 Balls,Christiaan Bezuidenhout,0.022699999999999998,0.4878,0.4651
+2022-10-22 03:41:03.183706,Round Match-Ups - 3rd Round Match-Up - D. Willett vs W. Clark - 3rd Round Match-Up,Wyndham Clark,0.022600000000000064,0.5348,0.5122
 2022-10-22 00:48:55.244667,NBL - NBL 2022/23 - Outright,Adelaide 36ers,0.022199999999999998,0.2222,0.2
-2022-10-21 15:40:35.546508,Round Match-Ups - 2nd Round Match-Up - S.W. Kim vs J. Day - 2nd Round Match-Up,Si Woo Kim,0.02079999999999993,0.5556,0.5348
+2022-10-22 03:41:03.234503,Round Match-Ups - 3rd Round Match-Up - B. Todd vs L. Hodges - 3rd Round Match-Up,Lee Hodges,0.02169999999999994,0.5455,0.5238
 2022-10-22 02:40:42.218995,The CJ Cup - 2/3 Balls - 3rd Round 3 Balls - M. Fitzpatrick / T. Fleetwood / M. McNealy - 3rd Round 3 Balls,Matthew Fitzpatrick,0.018900000000000028,0.4444,0.4255
 2022-10-22 00:48:54.388832,Mallorca Open - Mallorca Open - Outright,Richie Ramsay,0.0186,0.0196,0.001
 2022-10-21 18:40:45.898679,UK Politics - Next UK Conservative Party Leader (After Liz Truss) - Next Conservative Party Leader,Rishi Sunak,0.018100000000000005,0.5833,0.5652
 2022-10-21 20:40:39.433693,Mallorca Open - Mallorca Open - Outright,Hugo Leon,0.0166,0.0179,0.0013
 2022-10-21 20:40:38.916222,Boxing Lines - Isaiah Steen vs Sena Agbeko - To Win the Bout,Isaiah Steen,0.015800000000000036,0.8095,0.7937
+2022-10-22 03:41:02.106650,Boxing Lines - Jonathan Lopez vs Ulises Suarez Ortega - To Win the Bout,Jonathan Lopez,0.014100000000000001,0.9615,0.9474
 2022-10-21 20:40:39.433693,Mallorca Open - Mallorca Open - Outright,Paul Waring,0.0114,0.0164,0.005
 2022-10-22 00:48:54.407673,Mallorca Open - 2/3 Balls - 3rd Round 3 Balls - S. Hend / C. Syme / R. Paratore - 3rd Round 3 Balls,Connor Syme,0.011099999999999999,0.4762,0.4651
 2022-10-22 02:40:42.404390,Round Match-Ups - 3rd Round Match-Up - J. Rahm vs R. McIlroy - 3rd Round Match-Up,Rory McIlroy,0.01100000000000001,0.5348,0.5238
@@ -30,6 +31,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-22 00:48:55.244667,NBL - NBL 2022/23 - Outright,New Zealand Breakers,-0.0102,0.0667,0.0769
 2022-10-21 20:40:39.433693,Mallorca Open - Mallorca Open - Outright,Kiradech Aphibarnrat,-0.0103,0.002,0.0123
 2022-10-21 22:40:38.346952,MLB Futures - 2022 NLCS MVP - 2022 NLCS MVP,Trent Grisham,-0.010600000000000002,0.0217,0.0323
+2022-10-22 03:41:02.995695,The CJ Cup - 2/3 Balls - 3rd Round 3 Balls - C. Bezuidenhout / B. Kim / S. Park - 3rd Round 3 Balls,Bio Kim,-0.010699999999999987,0.3226,0.3333
 2022-10-21 22:40:38.346952,MLB Futures - 2022 NLCS MVP - 2022 NLCS MVP,Jurickson Profar,-0.010700000000000001,0.0278,0.0385
 2022-10-22 02:40:40.866658,Game of Thrones Specials - House of the Dragon Finale IMDB Episode Rating - House of the Dragon Finale Rating,8 or below,-0.010899999999999993,0.1429,0.1538
 2022-10-22 02:40:40.866658,Game of Thrones Specials - House of the Dragon Finale IMDB Episode Rating - House of the Dragon Finale Rating,Above 9.5,-0.011099999999999999,0.4651,0.4762
@@ -46,7 +48,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-21 20:40:39.433693,Mallorca Open - Mallorca Open - Outright,Julien Brun,-0.0139,0.001,0.0149
 2022-10-22 00:48:55.244667,NBL - NBL 2022/23 - Outright,Melbourne United,-0.013999999999999999,0.0769,0.0909
 2022-10-21 20:40:39.433693,Mallorca Open - Mallorca Open - Outright,Nicolai Hojgaard,-0.014099999999999998,0.0244,0.0385
-2022-10-21 15:40:35.739788,Boxing Lines - Isaiah Steen vs Sena Agbeko - To Win the Bout,Sena Agbeko,-0.014300000000000035,0.2597,0.274
 2022-10-21 20:40:39.433693,Mallorca Open - Mallorca Open - Outright,Joost Luiten,-0.017099999999999997,0.0123,0.0294
 2022-10-21 22:40:38.346952,MLB Futures - 2022 NLCS MVP - 2022 NLCS MVP,Alec Bohm,-0.017100000000000004,0.0152,0.0323
 2022-10-21 20:40:39.433693,Mallorca Open - Mallorca Open - Outright,Adrian Otaegui,-0.017599999999999998,0.002,0.0196
@@ -57,11 +58,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-21 21:40:34.594013,Boxing Lines - Isaiah Steen vs Sena Agbeko - To Win the Bout,Sena Agbeko,-0.018699999999999994,0.241,0.2597
 2022-10-21 20:40:39.433693,Mallorca Open - Mallorca Open - Outright,Justin Walters,-0.0187,0.0057,0.0244
 2022-10-21 20:40:38.925417,Boxing Lines - Marlon Harrington vs Marquis Taylor - To Win the Bout,Marquis Taylor,-0.020199999999999996,0.8131,0.8333
-2022-10-21 15:40:36.767755,UK Politics - Next UK Conservative Party Leader (After Liz Truss) - Next Conservative Party Leader,Boris Johnson,-0.02100000000000002,0.3636,0.3846
 2022-10-21 20:40:39.433693,Mallorca Open - Mallorca Open - Outright,Richard Mansell,-0.0215,0.0079,0.0294
 2022-10-21 22:40:38.346952,MLB Futures - 2022 NLCS MVP - 2022 NLCS MVP,Jake Cronenworth,-0.021799999999999996,0.0217,0.0435
+2022-10-22 03:41:03.183706,Round Match-Ups - 3rd Round Match-Up - D. Willett vs W. Clark - 3rd Round Match-Up,Danny Willett,-0.022600000000000064,0.5122,0.5348
 2022-10-21 22:40:38.346952,MLB Futures - 2022 NLCS MVP - 2022 NLCS MVP,Will Myers,-0.0233,0.0152,0.0385
 2022-10-21 20:40:39.433693,Mallorca Open - Mallorca Open - Outright,Richie Ramsay,-0.0234,0.001,0.0244
+2022-10-22 03:41:03.234503,Round Match-Ups - 3rd Round Match-Up - B. Todd vs L. Hodges - 3rd Round Match-Up,Brendon Todd,-0.023800000000000043,0.5,0.5238
 2022-10-21 22:40:38.346952,MLB Futures - 2022 NLCS MVP - 2022 NLCS MVP,Rhys Hoskins,-0.024299999999999995,0.0526,0.0769
 2022-10-21 22:40:38.346952,MLB Futures - 2022 NLCS MVP - 2022 NLCS MVP,J.T. Realmuto,-0.024299999999999995,0.0526,0.0769
 2022-10-21 20:40:39.433693,Mallorca Open - Mallorca Open - Outright,Lukas Nemecz,-0.026499999999999996,0.0323,0.0588
