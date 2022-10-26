@@ -10,6 +10,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-26 10:40:40.280037,League Two - England - League Two 2022/23 - To Finish Bottom,Hartlepool United,0.0595,0.4762,0.4167
 2022-10-26 13:40:54.910836,2022 Gubernatorial Elections - Georgia - Georgia winner,Democrat,0.05710000000000001,0.2,0.1429
 2022-10-26 10:40:40.263054,League Two - England - League Two 2022/23 - To Be Promoted,Leyton Orient,0.05590000000000006,0.6923,0.6364
+2022-10-26 16:41:07.799533,Boxing Lines - Steve Claggett vs Jonathan Jose Eniz - To Win the Bout,Jonathan Jose Eniz,0.055900000000000005,0.3226,0.2667
 2022-10-26 10:40:40.300909,League Two - England - League Two 2022/23 - Top 7 Finish,Stevenage,0.05559999999999998,0.8889,0.8333
 2022-10-26 10:40:40.300909,League Two - England - League Two 2022/23 - Top 7 Finish,Salford City,0.05520000000000003,0.6552,0.6
 2022-10-26 10:40:39.883812,UEFA Champions League - Group H - Group Winner,Benfica,0.05130000000000001,0.3846,0.3333
@@ -25,6 +26,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-26 10:40:37.420682,Bermuda Championship - 2/3 Balls - 1st Round 3 Balls - C. Ramey / R. Brehm / G. Higgo - 1st Round 3 Balls,Ryan Brehm,0.03570000000000001,0.2857,0.25
 2022-10-26 10:40:40.300909,League Two - England - League Two 2022/23 - Top 7 Finish,Leyton Orient,0.03410000000000002,0.9091,0.875
 2022-10-26 10:40:40.253443,League Two - England - League Two 2022/23 - Top Goalscorer,Danny Johnson,0.033399999999999985,0.1667,0.1333
+2022-10-26 16:41:09.462644,Round Match-Ups - 1st Round Match-Ups - K. Hickok vs C. Percy - 1st Round Match-Ups,Kramer Hickok,0.033299999999999996,0.5455,0.5122
 2022-10-26 06:40:39.372645,Boxing Lines - Hiroto Kyoguchi vs Kenshiro Teraji - To Win the Bout,Kenshiro Teraji,0.03249999999999997,0.3922,0.3597
 2022-10-26 10:40:39.927129,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Manchester City,0.03179999999999994,0.5556,0.5238
 2022-10-26 10:40:40.271555,League Two - England - League Two 2022/23 - To Be Relegated,Hartlepool United,0.030299999999999994,0.6667,0.6364
@@ -39,16 +41,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-26 10:40:39.936975,UEFA Champions League - UEFA Champions League 2022/2023 - Furthest Progressing EPL Team,Manchester City,0.02200000000000002,0.7143,0.6923
 2022-10-26 10:40:37.467627,Bermuda Championship - 2/3 Balls - 1st Round 3 Balls - W. Bryan / B. An / A. Smalley - 1st Round 3 Balls,Alex Smalley,0.021699999999999997,0.4762,0.4545
 2022-10-26 10:40:40.217820,League One - England - League One 2022/23 - Outright,Ipswich Town,0.02169999999999994,0.5455,0.5238
+2022-10-26 16:41:07.812753,Boxing Lines - Yves Ulysse Jr vs Jose Macias Enriquez - To Win the Bout,Jose Macias Enriquez,0.021100000000000008,0.2273,0.2062
 2022-10-26 10:40:40.263054,League Two - England - League Two 2022/23 - To Be Promoted,Salford City,0.02100000000000002,0.3846,0.3636
 2022-10-26 08:40:44.151655,Portugal Masters - 2/3 Balls - 1st Round 3 Balls - K. Samooja / S. Brown / T. Olesen - 1st Round 3 Balls,Kalle Samooja,0.020799999999999985,0.3333,0.3125
+2022-10-26 16:41:09.680422,Tournament Match-Ups - Tournament Match-Ups - A. Schenk v B. Wu - Tournament Match-Ups,Adam Schenk,0.02079999999999993,0.5556,0.5348
+2022-10-26 16:41:09.850516,Tournament Match-Ups - Tournament Match-Ups - P. Rodgers v A. Smalley - Tournament Match-Ups,Patrick Rodgers,0.02079999999999993,0.5556,0.5348
 2022-10-26 13:40:54.804549,US Midterm Elections 2022 - Senate Races: 10 Markets - Arizona,Republican,0.01970000000000005,0.5652,0.5455
 2022-10-26 13:40:54.820992,US Midterm Elections 2022 - Senate Races: 10 Markets - Georgia,Republican,0.01970000000000005,0.5652,0.5455
 2022-10-26 10:40:40.271555,League Two - England - League Two 2022/23 - To Be Relegated,Harrogate Town,0.019000000000000017,0.2857,0.2667
 2022-10-26 10:40:39.927129,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Real Madrid,0.01820000000000002,0.2,0.1818
 2022-10-26 10:40:40.300909,League Two - England - League Two 2022/23 - Top 7 Finish,Walsall,0.01820000000000002,0.2,0.1818
 2022-10-26 11:40:38.054565,Tournament Match-Ups - Tournament Match-Ups - S. Jaeger vs B. An - Tournament Match-Ups,Stephan Jaeger,0.018100000000000005,0.5833,0.5652
-2022-10-26 15:40:40.249292,Boxing Lines - Le'Veon Bell vs Uriah Hall - To Win the Bout,Le'Veon Bell,0.0179,0.2353,0.2174
 2022-10-26 10:40:39.936975,UEFA Champions League - UEFA Champions League 2022/2023 - Furthest Progressing EPL Team,Chelsea,0.0179,0.1429,0.125
+2022-10-26 15:40:40.249292,Boxing Lines - Le'Veon Bell vs Uriah Hall - To Win the Bout,Le'Veon Bell,0.0179,0.2353,0.2174
 2022-10-26 15:40:40.086453,Boxing Lines - Steve Claggett vs Jonathan Jose Eniz - To Win the Bout,Steve Claggett,0.017899999999999916,0.7826,0.7647
 2022-10-26 15:40:40.385387,Fights Women - Mary Romero vs Ellie Scotney - To Win the Bout,Mary Romero,0.017500000000000016,0.3205,0.303
 2022-10-26 06:40:39.379747,Boxing Lines - Jonathan Gonzalez vs Shokichi Iwata - To Win the Bout,Shokichi Iwata,0.017299999999999982,0.5917,0.5744
@@ -71,74 +76,81 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-26 10:40:40.288572,League Two - England - League Two 2022/23 - Top 3 Finish,Mansfield Town,-0.010099999999999998,0.4444,0.4545
 2022-10-26 10:40:39.912740,UEFA Champions League - UEFA Champions League 2022/2023 - Top Goalscorer,Leroy Sane,-0.0102,0.0667,0.0769
 2022-10-26 10:40:40.288572,League Two - England - League Two 2022/23 - Top 3 Finish,Carlisle United,-0.0102,0.0667,0.0769
-2022-10-26 10:40:40.271555,League Two - England - League Two 2022/23 - To Be Relegated,Rochdale,-0.010399999999999993,0.2222,0.2326
 2022-10-26 13:40:54.838280,US Midterm Elections 2022 - Senate Races: 10 Markets - North Carolina,Democrat,-0.010399999999999993,0.2222,0.2326
+2022-10-26 10:40:40.271555,League Two - England - League Two 2022/23 - To Be Relegated,Rochdale,-0.010399999999999993,0.2222,0.2326
+2022-10-26 15:40:40.919314,Round Match-Ups - 1st Round Match-Ups - R. Knox vs A. Long - 1st Round Match-Ups,Russell Knox,-0.010699999999999932,0.5348,0.5455
+2022-10-26 15:40:40.995077,Round Match-Ups - 1st Round Match-Ups - K. Hickok vs C. Percy - 1st Round Match-Ups,Cameron Percy,-0.010699999999999932,0.5348,0.5455
 2022-10-26 15:40:40.972543,Round Match-Ups - 1st Round Match-Ups - N. Hardy vs S. Jaeger - 1st Round Match-Ups,Nick Hardy,-0.010699999999999932,0.5348,0.5455
 2022-10-26 15:40:41.004136,Round Match-Ups - 1st Round Match-Ups - H. Hall vs A. Eckroat - 1st Round Match-Ups,Harry Hall,-0.010699999999999932,0.5348,0.5455
-2022-10-26 15:40:40.995077,Round Match-Ups - 1st Round Match-Ups - K. Hickok vs C. Percy - 1st Round Match-Ups,Cameron Percy,-0.010699999999999932,0.5348,0.5455
 2022-10-26 15:40:41.019958,Round Match-Ups - 1st Round Match-Ups - C. Tarren vs E. Van Rooyen - 1st Round Match-Ups,Callum Tarren,-0.010699999999999932,0.5348,0.5455
 2022-10-26 12:40:43.526167,Boxing Lines - Le'Veon Bell vs Uriah Hall - To Win the Bout,Uriah Hall,-0.01090000000000002,0.8462,0.8571
-2022-10-26 15:40:41.081456,Round Match-Ups - 1st Round Match-Ups - B. Garnett vs M. Schmid - 1st Round Match-Ups,Brice Garnett,-0.01100000000000001,0.5238,0.5348
+2022-10-26 16:41:09.462644,Round Match-Ups - 1st Round Match-Ups - K. Hickok vs C. Percy - 1st Round Match-Ups,Cameron Percy,-0.01100000000000001,0.5238,0.5348
 2022-10-26 15:40:41.081456,Round Match-Ups - 1st Round Match-Ups - B. Garnett vs M. Schmid - 1st Round Match-Ups,Matti Schmid,-0.01100000000000001,0.5238,0.5348
+2022-10-26 15:40:41.081456,Round Match-Ups - 1st Round Match-Ups - B. Garnett vs M. Schmid - 1st Round Match-Ups,Brice Garnett,-0.01100000000000001,0.5238,0.5348
 2022-10-26 15:40:40.892610,Round Match-Ups - 1st Round Match-Ups - D. Ghim vs S. Ryder - 1st Round Match-Ups,Sam Ryder,-0.01100000000000001,0.5238,0.5348
 2022-10-26 15:40:40.892610,Round Match-Ups - 1st Round Match-Ups - D. Ghim vs S. Ryder - 1st Round Match-Ups,Doug Ghim,-0.01100000000000001,0.5238,0.5348
-2022-10-26 10:40:36.968539,Boxing Lines - Mateusz Masternak vs Jason Whateley - To Win the Bout,Mateusz Masternak,-0.011099999999999999,0.7222,0.7333
 2022-10-26 10:40:37.026075,Boxing Lines - Jonathan Gonzalez vs Shokichi Iwata - To Win the Bout,Jonathan Gonzalez,-0.011099999999999999,0.4651,0.4762
+2022-10-26 10:40:36.968539,Boxing Lines - Mateusz Masternak vs Jason Whateley - To Win the Bout,Mateusz Masternak,-0.011099999999999999,0.7222,0.7333
 2022-10-26 10:40:40.263054,League Two - England - League Two 2022/23 - To Be Promoted,AFC Wimbledon,-0.011199999999999995,0.0476,0.0588
 2022-10-26 10:40:39.912740,UEFA Champions League - UEFA Champions League 2022/2023 - Top Goalscorer,Robert Lewandowski (Barcelona),-0.011199999999999995,0.0476,0.0588
 2022-10-26 06:40:39.379747,Boxing Lines - Jonathan Gonzalez vs Shokichi Iwata - To Win the Bout,Jonathan Gonzalez,-0.0116,0.4762,0.4878
-2022-10-26 15:40:40.919314,Round Match-Ups - 1st Round Match-Ups - R. Knox vs A. Long - 1st Round Match-Ups,Adam Long,-0.011600000000000055,0.5122,0.5238
 2022-10-26 15:40:40.995077,Round Match-Ups - 1st Round Match-Ups - K. Hickok vs C. Percy - 1st Round Match-Ups,Kramer Hickok,-0.011600000000000055,0.5122,0.5238
-2022-10-26 15:40:41.019958,Round Match-Ups - 1st Round Match-Ups - C. Tarren vs E. Van Rooyen - 1st Round Match-Ups,Erik Van Rooyen,-0.011600000000000055,0.5122,0.5238
 2022-10-26 15:40:40.972543,Round Match-Ups - 1st Round Match-Ups - N. Hardy vs S. Jaeger - 1st Round Match-Ups,Stephan Jaeger,-0.011600000000000055,0.5122,0.5238
-2022-10-26 10:40:37.090329,Fights Women - Mary Romero vs Ellie Scotney - To Win the Bout,Ellie Scotney,-0.011600000000000055,0.7531,0.7647
+2022-10-26 15:40:40.919314,Round Match-Ups - 1st Round Match-Ups - R. Knox vs A. Long - 1st Round Match-Ups,Adam Long,-0.011600000000000055,0.5122,0.5238
 2022-10-26 15:40:41.004136,Round Match-Ups - 1st Round Match-Ups - H. Hall vs A. Eckroat - 1st Round Match-Ups,Austin Eckroat,-0.011600000000000055,0.5122,0.5238
+2022-10-26 15:40:41.019958,Round Match-Ups - 1st Round Match-Ups - C. Tarren vs E. Van Rooyen - 1st Round Match-Ups,Erik Van Rooyen,-0.011600000000000055,0.5122,0.5238
+2022-10-26 10:40:37.090329,Fights Women - Mary Romero vs Ellie Scotney - To Win the Bout,Ellie Scotney,-0.011600000000000055,0.7531,0.7647
 2022-10-26 10:40:37.429635,Bermuda Championship - 2/3 Balls - 1st Round 3 Balls - L. Glover / B. Gay / L. Donald - 1st Round 3 Balls,Luke Donald,-0.012699999999999989,0.3509,0.3636
 2022-10-26 10:40:40.300909,League Two - England - League Two 2022/23 - Top 7 Finish,Swindon Town,-0.012699999999999989,0.3509,0.3636
-2022-10-26 13:40:54.854176,US Midterm Elections 2022 - Senate Races: 10 Markets - Wisconsin,Republican,-0.012899999999999912,0.8333,0.8462
 2022-10-26 15:40:40.249292,Boxing Lines - Le'Veon Bell vs Uriah Hall - To Win the Bout,Uriah Hall,-0.012899999999999912,0.8333,0.8462
+2022-10-26 13:40:54.854176,US Midterm Elections 2022 - Senate Races: 10 Markets - Wisconsin,Republican,-0.012899999999999912,0.8333,0.8462
+2022-10-26 10:40:40.263054,League Two - England - League Two 2022/23 - To Be Promoted,Swindon Town,-0.012899999999999995,0.1538,0.1667
 2022-10-26 10:40:40.300909,League Two - England - League Two 2022/23 - Top 7 Finish,Sutton Utd,-0.012899999999999995,0.1538,0.1667
 2022-10-26 10:40:40.263054,League Two - England - League Two 2022/23 - To Be Promoted,Tranmere Rovers,-0.012899999999999995,0.1538,0.1667
-2022-10-26 10:40:40.263054,League Two - England - League Two 2022/23 - To Be Promoted,Swindon Town,-0.012899999999999995,0.1538,0.1667
 2022-10-26 10:40:40.280037,League Two - England - League Two 2022/23 - To Finish Bottom,Crawley Town,-0.013899999999999996,0.1111,0.125
 2022-10-26 10:40:40.271555,League Two - England - League Two 2022/23 - To Be Relegated,Newport County,-0.013999999999999999,0.0769,0.0909
 2022-10-26 11:40:40.419664,UEFA Champions League - Group H - Group Winner,Benfica,-0.01419999999999999,0.3704,0.3846
 2022-10-26 14:40:43.676352,Fights Women - Mary Romero vs Ellie Scotney - To Win the Bout,Mary Romero,-0.014500000000000013,0.303,0.3175
-2022-10-26 14:40:43.604810,Boxing Lines - Hiroto Kyoguchi vs Kenshiro Teraji - To Win the Bout,Kenshiro Teraji,-0.01479999999999998,0.3774,0.3922
 2022-10-26 10:40:37.011463,Boxing Lines - Hiroto Kyoguchi vs Kenshiro Teraji - To Win the Bout,Kenshiro Teraji,-0.01479999999999998,0.3774,0.3922
+2022-10-26 14:40:43.604810,Boxing Lines - Hiroto Kyoguchi vs Kenshiro Teraji - To Win the Bout,Kenshiro Teraji,-0.01479999999999998,0.3774,0.3922
 2022-10-26 15:40:40.169873,Boxing Lines - Mickey Ellison vs Thomas Whittaker Hart - To Win the Bout,Mickey Ellison,-0.014800000000000008,0.1333,0.1481
-2022-10-26 10:40:40.271555,League Two - England - League Two 2022/23 - To Be Relegated,Gillingham,-0.015100000000000002,0.1667,0.1818
 2022-10-26 10:40:40.280037,League Two - England - League Two 2022/23 - To Finish Bottom,Colchester United,-0.015100000000000002,0.1667,0.1818
+2022-10-26 10:40:40.271555,League Two - England - League Two 2022/23 - To Be Relegated,Gillingham,-0.015100000000000002,0.1667,0.1818
 2022-10-26 12:40:43.557691,Boxing Lines - Hiroto Kyoguchi vs Kenshiro Teraji - To Win the Bout,Hiroto Kyoguchi,-0.01539999999999997,0.6721,0.6875
+2022-10-26 16:41:08.081376,Boxing Lines - Le'Veon Bell vs Uriah Hall - To Win the Bout,Le'Veon Bell,-0.015500000000000014,0.2198,0.2353
 2022-10-26 10:40:40.263054,League Two - England - League Two 2022/23 - To Be Promoted,Bradford City,-0.016699999999999993,0.4,0.4167
+2022-10-26 16:41:07.812753,Boxing Lines - Yves Ulysse Jr vs Jose Macias Enriquez - To Win the Bout,Yves Ulysse Jr,-0.016799999999999926,0.8403,0.8571
 2022-10-26 13:40:54.843379,US Midterm Elections 2022 - Senate Races: 10 Markets - Ohio,Democrat,-0.0174,0.2326,0.25
 2022-10-26 10:40:40.271555,League Two - England - League Two 2022/23 - To Be Relegated,Crewe Alexandra,-0.018099999999999998,0.0588,0.0769
 2022-10-26 10:40:39.936975,UEFA Champions League - UEFA Champions League 2022/2023 - Furthest Progressing EPL Team,Liverpool,-0.01820000000000002,0.1818,0.2
+2022-10-26 15:40:41.089939,Round Match-Ups - 1st Round Match-Ups - D. McCarthy vs S.H. Kim - 1st Round Match-Ups,Denny McCarthy,-0.01880000000000004,0.5556,0.5744
 2022-10-26 15:40:41.048638,Round Match-Ups - 1st Round Match-Ups - S. Power vs N. Taylor - 1st Round Match-Ups,Seamus Power,-0.01880000000000004,0.5556,0.5744
 2022-10-26 15:40:41.011906,Round Match-Ups - 1st Round Match-Ups - A. Rai vs A. Schenk - 1st Round Match-Ups,Aaron Rai,-0.01880000000000004,0.5556,0.5744
-2022-10-26 15:40:41.089939,Round Match-Ups - 1st Round Match-Ups - D. McCarthy vs S.H. Kim - 1st Round Match-Ups,Denny McCarthy,-0.01880000000000004,0.5556,0.5744
 2022-10-26 10:40:39.927129,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Paris Saint-Germain,-0.019000000000000017,0.2667,0.2857
 2022-10-26 10:40:40.288572,League Two - England - League Two 2022/23 - Top 3 Finish,Northampton Town,-0.019000000000000017,0.2667,0.2857
-2022-10-26 15:40:41.027404,Round Match-Ups - 1st Round Match-Ups - C. Hadley vs T. Duncan - 1st Round Match-Ups,Chesson Hadley,-0.01970000000000005,0.5455,0.5652
 2022-10-26 15:40:41.059169,Round Match-Ups - 1st Round Match-Ups - A. Smalley vs B. An - 1st Round Match-Ups,Alex Smalley,-0.01970000000000005,0.5455,0.5652
 2022-10-26 15:40:41.105569,Round Match-Ups - 1st Round Match-Ups - A. Meronk vs R. Shelton - 1st Round Match-Ups,Adrian Meronk,-0.01970000000000005,0.5455,0.5652
+2022-10-26 15:40:41.027404,Round Match-Ups - 1st Round Match-Ups - C. Hadley vs T. Duncan - 1st Round Match-Ups,Chesson Hadley,-0.01970000000000005,0.5455,0.5652
 2022-10-26 15:40:40.385387,Fights Women - Mary Romero vs Ellie Scotney - To Win the Bout,Ellie Scotney,-0.01980000000000004,0.7333,0.7531
 2022-10-26 10:40:40.242898,League Two - England - League Two 2022/23 - Outright,Bradford City,-0.02020000000000001,0.0909,0.1111
+2022-10-26 10:40:40.300909,League Two - England - League Two 2022/23 - Top 7 Finish,AFC Wimbledon,-0.02020000000000001,0.0909,0.1111
 2022-10-26 13:40:54.927200,2022 Gubernatorial Elections - Maryland - Maryland winner,Republicans,-0.02020000000000001,0.0909,0.1111
 2022-10-26 10:40:40.463264,National League - England National League 2022/23 - Outright,Chesterfield,-0.02020000000000001,0.0909,0.1111
 2022-10-26 10:40:40.280037,League Two - England - League Two 2022/23 - To Finish Bottom,Rochdale,-0.02020000000000001,0.0909,0.1111
-2022-10-26 10:40:40.300909,League Two - England - League Two 2022/23 - Top 7 Finish,AFC Wimbledon,-0.02020000000000001,0.0909,0.1111
 2022-10-26 10:40:37.420682,Bermuda Championship - 2/3 Balls - 1st Round 3 Balls - C. Ramey / R. Brehm / G. Higgo - 1st Round 3 Balls,Garrick Higgo,-0.020699999999999996,0.4444,0.4651
 2022-10-26 10:40:40.263054,League Two - England - League Two 2022/23 - To Be Promoted,Northampton Town,-0.02100000000000002,0.3636,0.3846
 2022-10-26 10:40:40.263054,League Two - England - League Two 2022/23 - To Be Promoted,Mansfield Town,-0.02169999999999994,0.5238,0.5455
 2022-10-26 10:40:40.288572,League Two - England - League Two 2022/23 - Top 3 Finish,Bradford City,-0.021999999999999964,0.2857,0.3077
-2022-10-26 10:40:37.429635,Bermuda Championship - 2/3 Balls - 1st Round 3 Balls - L. Glover / B. Gay / L. Donald - 1st Round 3 Balls,Brian Gay,-0.022199999999999998,0.3226,0.3448
 2022-10-26 10:40:40.253443,League Two - England - League Two 2022/23 - Top Goalscorer,Sam Hoskins,-0.022199999999999998,0.2,0.2222
 2022-10-26 10:40:40.300909,League Two - England - League Two 2022/23 - Top 7 Finish,Doncaster Rovers,-0.022199999999999998,0.1111,0.1333
+2022-10-26 10:40:37.429635,Bermuda Championship - 2/3 Balls - 1st Round 3 Balls - L. Glover / B. Gay / L. Donald - 1st Round 3 Balls,Brian Gay,-0.022199999999999998,0.3226,0.3448
+2022-10-26 16:41:09.850516,Tournament Match-Ups - Tournament Match-Ups - P. Rodgers v A. Smalley - Tournament Match-Ups,Alex Smalley,-0.022600000000000064,0.5122,0.5348
 2022-10-26 15:40:40.949315,Round Match-Ups - 1st Round Match-Ups - L. Glover vs G. Higgo - 1st Round Match-Ups,Lucas Glover,-0.022600000000000064,0.5122,0.5348
-2022-10-26 10:40:40.263054,League Two - England - League Two 2022/23 - To Be Promoted,Grimsby Town,-0.023799999999999988,0.1429,0.1667
+2022-10-26 16:41:09.680422,Tournament Match-Ups - Tournament Match-Ups - A. Schenk v B. Wu - Tournament Match-Ups,Brandon Wu,-0.022600000000000064,0.5122,0.5348
 2022-10-26 11:40:38.054565,Tournament Match-Ups - Tournament Match-Ups - S. Jaeger vs B. An - Tournament Match-Ups,Byeong Hun An,-0.023799999999999988,0.4762,0.5
+2022-10-26 10:40:40.263054,League Two - England - League Two 2022/23 - To Be Promoted,Grimsby Town,-0.023799999999999988,0.1429,0.1667
 2022-10-26 13:40:54.804549,US Midterm Elections 2022 - Senate Races: 10 Markets - Arizona,Democrat,-0.023800000000000043,0.5,0.5238
+2022-10-26 15:40:40.928016,Round Match-Ups - 1st Round Match-Ups - J. Lower vs M. Hubbard - 1st Round Match-Ups,Justin Lower,-0.023800000000000043,0.5,0.5238
 2022-10-26 13:40:54.820992,US Midterm Elections 2022 - Senate Races: 10 Markets - Georgia,Democrat,-0.023800000000000043,0.5,0.5238
 2022-10-26 08:40:44.095639,Portugal Masters - 2/3 Balls - 1st Round 3 Balls - J. Senior / T. Pulkkanen / C. Wood - 1st Round 3 Balls,Chris Wood,-0.02400000000000002,0.25,0.274
 2022-10-26 13:40:54.951217,2022 Gubernatorial Elections - Texas - Texas winner,Republican,-0.0242,0.9091,0.9333
@@ -153,10 +165,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-26 13:40:54.848857,US Midterm Elections 2022 - Senate Races: 10 Markets - Pennsylvania,Democrat,-0.0348,0.4,0.4348
 2022-10-26 13:40:54.833124,US Midterm Elections 2022 - Senate Races: 10 Markets - New Hampshire,Democrat,-0.035699999999999954,0.7143,0.75
 2022-10-26 10:40:40.300909,League Two - England - League Two 2022/23 - Top 7 Finish,Carlisle United,-0.03570000000000001,0.25,0.2857
-2022-10-26 14:40:43.500578,Boxing Lines - Steve Claggett vs Jonathan Jose Eniz - To Win the Bout,Jonathan Jose Eniz,-0.0363,0.2667,0.303
 2022-10-26 08:40:44.151655,Portugal Masters - 2/3 Balls - 1st Round 3 Balls - K. Samooja / S. Brown / T. Olesen - 1st Round 3 Balls,Steven Brown,-0.0363,0.2667,0.303
+2022-10-26 14:40:43.500578,Boxing Lines - Steve Claggett vs Jonathan Jose Eniz - To Win the Bout,Jonathan Jose Eniz,-0.0363,0.2667,0.303
 2022-10-26 10:40:40.300909,League Two - England - League Two 2022/23 - Top 7 Finish,Bradford City,-0.03710000000000002,0.6552,0.6923
 2022-10-26 10:40:39.874385,UEFA Champions League - Group F - Group Winner,Real Madrid,-0.03920000000000001,0.9412,0.9804
+2022-10-26 16:41:07.799533,Boxing Lines - Steve Claggett vs Jonathan Jose Eniz - To Win the Bout,Steve Claggett,-0.042300000000000004,0.7403,0.7826
 2022-10-26 10:40:40.263054,League Two - England - League Two 2022/23 - To Be Promoted,Carlisle United,-0.042899999999999994,0.1,0.1429
 2022-10-26 13:40:54.959662,2022 Gubernatorial Elections - Wisconsin - Wisconsin winner,Democrat,-0.04760000000000003,0.4762,0.5238
 2022-10-26 10:40:39.912740,UEFA Champions League - UEFA Champions League 2022/2023 - Top Goalscorer,Erling Braut Haaland (Man City),-0.05559999999999998,0.4444,0.5
