@@ -6,7 +6,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-26 10:40:40.280037,League Two - England - League Two 2022/23 - To Finish Bottom,Hartlepool United,0.0595,0.4762,0.4167
 2022-10-26 10:40:40.288572,League Two - England - League Two 2022/23 - Top 3 Finish,Stevenage,0.0595,0.5833,0.5238
 2022-10-26 10:40:40.263054,League Two - England - League Two 2022/23 - To Be Promoted,Leyton Orient,0.05590000000000006,0.6923,0.6364
-2022-10-25 23:40:44.704169,Championship - England Championship 2022/23 - Outright,Burnley,0.055900000000000005,0.3636,0.3077
 2022-10-26 10:40:40.300909,League Two - England - League Two 2022/23 - Top 7 Finish,Stevenage,0.05559999999999998,0.8889,0.8333
 2022-10-26 10:40:40.300909,League Two - England - League Two 2022/23 - Top 7 Finish,Salford City,0.05520000000000003,0.6552,0.6
 2022-10-26 10:40:39.883812,UEFA Champions League - Group H - Group Winner,Benfica,0.05130000000000001,0.3846,0.3333
@@ -15,21 +14,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-26 10:40:39.874385,UEFA Champions League - Group F - Group Winner,RB Leipzig,0.04120000000000001,0.1,0.0588
 2022-10-26 10:40:40.242898,League Two - England - League Two 2022/23 - Outright,Leyton Orient,0.04099999999999998,0.3077,0.2667
 2022-10-26 10:40:37.429635,Bermuda Championship - 2/3 Balls - 1st Round 3 Balls - L. Glover / B. Gay / L. Donald - 1st Round 3 Balls,Lucas Glover,0.04089999999999999,0.4255,0.3846
-2022-10-25 23:40:44.722144,Championship - England Championship 2022/23 - To Be Promoted,Burnley,0.0393,0.6226,0.5833
 2022-10-26 10:40:40.288572,League Two - England - League Two 2022/23 - Top 3 Finish,Salford City,0.03570000000000001,0.2857,0.25
 2022-10-26 10:40:37.420682,Bermuda Championship - 2/3 Balls - 1st Round 3 Balls - C. Ramey / R. Brehm / G. Higgo - 1st Round 3 Balls,Ryan Brehm,0.03570000000000001,0.2857,0.25
 2022-10-26 10:40:40.300909,League Two - England - League Two 2022/23 - Top 7 Finish,Leyton Orient,0.03410000000000002,0.9091,0.875
 2022-10-26 10:40:40.253443,League Two - England - League Two 2022/23 - Top Goalscorer,Danny Johnson,0.033399999999999985,0.1667,0.1333
 2022-10-26 06:40:39.372645,Boxing Lines - Hiroto Kyoguchi vs Kenshiro Teraji - To Win the Bout,Kenshiro Teraji,0.03249999999999997,0.3922,0.3597
-2022-10-25 23:40:44.734496,Championship - England Championship 2022/23 - To Be Relegated,West Bromwich Albion,0.0321,0.0909,0.0588
 2022-10-26 10:40:39.927129,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Manchester City,0.03179999999999994,0.5556,0.5238
 2022-10-26 10:40:40.271555,League Two - England - League Two 2022/23 - To Be Relegated,Hartlepool United,0.030299999999999994,0.6667,0.6364
-2022-10-25 23:40:44.722144,Championship - England Championship 2022/23 - To Be Promoted,Sheffield United,0.029000000000000026,0.4545,0.4255
 2022-10-26 10:40:40.463264,National League - England National League 2022/23 - Outright,Notts County,0.029000000000000026,0.4545,0.4255
 2022-10-26 11:40:38.280664,Boxing Lines - Steve Claggett vs Jonathan Jose Eniz - To Win the Bout,Jonathan Jose Eniz,0.02899999999999997,0.303,0.274
 2022-10-26 10:40:40.300909,League Two - England - League Two 2022/23 - Top 7 Finish,Stockport County,0.027700000000000002,0.4444,0.4167
 2022-10-26 10:40:40.271555,League Two - England - League Two 2022/23 - To Be Relegated,Colchester United,0.02560000000000001,0.3333,0.3077
-2022-10-25 23:40:45.127747,League One - England - League One 2022/23 - Outright,Ipswich Town,0.023800000000000043,0.5238,0.5
 2022-10-26 08:40:44.151655,Portugal Masters - 2/3 Balls - 1st Round 3 Balls - K. Samooja / S. Brown / T. Olesen - 1st Round 3 Balls,Thorbjorn Olesen,0.023799999999999988,0.5,0.4762
 2022-10-26 10:40:40.288572,League Two - England - League Two 2022/23 - Top 3 Finish,Barrow FC,0.02310000000000001,0.1,0.0769
 2022-10-26 08:40:44.095639,Portugal Masters - 2/3 Balls - 1st Round 3 Balls - J. Senior / T. Pulkkanen / C. Wood - 1st Round 3 Balls,Tapio Pulkkanen,0.022699999999999998,0.4878,0.4651
@@ -41,9 +36,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-26 08:40:44.151655,Portugal Masters - 2/3 Balls - 1st Round 3 Balls - K. Samooja / S. Brown / T. Olesen - 1st Round 3 Balls,Kalle Samooja,0.020799999999999985,0.3333,0.3125
 2022-10-26 02:40:39.959450,US Midterm Elections 2022 - Senate Races: 10 Markets - Nevada,Republican,0.020299999999999985,0.6429,0.6226
 2022-10-26 10:40:40.271555,League Two - England - League Two 2022/23 - To Be Relegated,Harrogate Town,0.019000000000000017,0.2857,0.2667
-2022-10-26 10:40:39.927129,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Real Madrid,0.01820000000000002,0.2,0.1818
 2022-10-26 10:40:40.300909,League Two - England - League Two 2022/23 - Top 7 Finish,Walsall,0.01820000000000002,0.2,0.1818
-2022-10-25 23:40:45.127747,League One - England - League One 2022/23 - Outright,Plymouth Argyle,0.01820000000000002,0.2,0.1818
+2022-10-26 10:40:39.927129,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Real Madrid,0.01820000000000002,0.2,0.1818
 2022-10-26 11:40:38.054565,Tournament Match-Ups - Tournament Match-Ups - S. Jaeger vs B. An - Tournament Match-Ups,Stephan Jaeger,0.018100000000000005,0.5833,0.5652
 2022-10-26 10:40:39.936975,UEFA Champions League - UEFA Champions League 2022/2023 - Furthest Progressing EPL Team,Chelsea,0.0179,0.1429,0.125
 2022-10-26 06:40:39.379747,Boxing Lines - Jonathan Gonzalez vs Shokichi Iwata - To Win the Bout,Shokichi Iwata,0.017299999999999982,0.5917,0.5744
@@ -51,67 +45,60 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-26 10:40:40.263054,League Two - England - League Two 2022/23 - To Be Promoted,Stockport County,0.016699999999999993,0.2667,0.25
 2022-10-26 10:40:37.011463,Boxing Lines - Hiroto Kyoguchi vs Kenshiro Teraji - To Win the Bout,Hiroto Kyoguchi,0.01539999999999997,0.6875,0.6721
 2022-10-26 02:40:39.968637,US Midterm Elections 2022 - Senate Races: 10 Markets - North Carolina,Republican,0.015100000000000002,0.8333,0.8182
+2022-10-26 12:40:43.557691,Boxing Lines - Hiroto Kyoguchi vs Kenshiro Teraji - To Win the Bout,Kenshiro Teraji,0.01479999999999998,0.3922,0.3774
 2022-10-26 02:40:39.977417,US Midterm Elections 2022 - Senate Races: 10 Markets - Pennsylvania,Republican,0.014200000000000101,0.6296,0.6154
 2022-10-26 10:40:40.242898,League Two - England - League Two 2022/23 - Outright,Salford City,0.013999999999999999,0.0909,0.0769
 2022-10-26 11:40:40.419664,UEFA Champions League - Group H - Group Winner,Paris Saint-Germain,0.013599999999999945,0.7059,0.6923
 2022-10-26 02:40:39.981932,US Midterm Elections 2022 - Senate Races: 10 Markets - Wisconsin,Republican,0.012899999999999912,0.8462,0.8333
-2022-10-25 23:40:44.829826,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,AC Milan,0.012100000000000001,0.0244,0.0123
 2022-10-26 03:40:44.603508,Fights Women - Mary Romero vs Ellie Scotney - To Win the Bout,Ellie Scotney,0.011600000000000055,0.7647,0.7531
 2022-10-26 10:40:36.968539,Boxing Lines - Mateusz Masternak vs Jason Whateley - To Win the Bout,Jason Whateley,0.01150000000000001,0.3448,0.3333
 2022-10-26 10:40:40.263054,League Two - England - League Two 2022/23 - To Be Promoted,Barrow FC,0.010899999999999993,0.1538,0.1429
-2022-10-25 23:40:44.829826,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Chelsea,0.0102,0.0769,0.0667
 2022-10-26 10:40:40.288572,League Two - England - League Two 2022/23 - Top 3 Finish,Mansfield Town,-0.010099999999999998,0.4444,0.4545
 2022-10-26 10:40:40.288572,League Two - England - League Two 2022/23 - Top 3 Finish,Carlisle United,-0.0102,0.0667,0.0769
-2022-10-25 23:40:44.704169,Championship - England Championship 2022/23 - Outright,Watford,-0.0102,0.0667,0.0769
 2022-10-26 10:40:39.912740,UEFA Champions League - UEFA Champions League 2022/2023 - Top Goalscorer,Leroy Sane,-0.0102,0.0667,0.0769
-2022-10-26 10:40:40.271555,League Two - England - League Two 2022/23 - To Be Relegated,Rochdale,-0.010399999999999993,0.2222,0.2326
 2022-10-26 02:40:39.981932,US Midterm Elections 2022 - Senate Races: 10 Markets - Wisconsin,Democrat,-0.010399999999999993,0.2222,0.2326
+2022-10-26 10:40:40.271555,League Two - England - League Two 2022/23 - To Be Relegated,Rochdale,-0.010399999999999993,0.2222,0.2326
+2022-10-26 12:40:43.526167,Boxing Lines - Le'Veon Bell vs Uriah Hall - To Win the Bout,Uriah Hall,-0.01090000000000002,0.8462,0.8571
 2022-10-26 10:40:37.026075,Boxing Lines - Jonathan Gonzalez vs Shokichi Iwata - To Win the Bout,Jonathan Gonzalez,-0.011099999999999999,0.4651,0.4762
 2022-10-26 10:40:36.968539,Boxing Lines - Mateusz Masternak vs Jason Whateley - To Win the Bout,Mateusz Masternak,-0.011099999999999999,0.7222,0.7333
-2022-10-26 10:40:40.263054,League Two - England - League Two 2022/23 - To Be Promoted,AFC Wimbledon,-0.011199999999999995,0.0476,0.0588
 2022-10-26 10:40:39.912740,UEFA Champions League - UEFA Champions League 2022/2023 - Top Goalscorer,Robert Lewandowski (Barcelona),-0.011199999999999995,0.0476,0.0588
+2022-10-26 10:40:40.263054,League Two - England - League Two 2022/23 - To Be Promoted,AFC Wimbledon,-0.011199999999999995,0.0476,0.0588
 2022-10-26 06:40:39.379747,Boxing Lines - Jonathan Gonzalez vs Shokichi Iwata - To Win the Bout,Jonathan Gonzalez,-0.0116,0.4762,0.4878
 2022-10-26 10:40:37.090329,Fights Women - Mary Romero vs Ellie Scotney - To Win the Bout,Ellie Scotney,-0.011600000000000055,0.7531,0.7647
-2022-10-26 10:40:40.300909,League Two - England - League Two 2022/23 - Top 7 Finish,Swindon Town,-0.012699999999999989,0.3509,0.3636
-2022-10-25 23:40:44.829826,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Manchester City,-0.012699999999999989,0.3509,0.3636
 2022-10-26 10:40:37.429635,Bermuda Championship - 2/3 Balls - 1st Round 3 Balls - L. Glover / B. Gay / L. Donald - 1st Round 3 Balls,Luke Donald,-0.012699999999999989,0.3509,0.3636
+2022-10-26 10:40:40.300909,League Two - England - League Two 2022/23 - Top 7 Finish,Swindon Town,-0.012699999999999989,0.3509,0.3636
 2022-10-26 10:40:40.300909,League Two - England - League Two 2022/23 - Top 7 Finish,Sutton Utd,-0.012899999999999995,0.1538,0.1667
-2022-10-25 23:40:44.829826,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Bayern Munich,-0.012899999999999995,0.1538,0.1667
-2022-10-26 10:40:40.263054,League Two - England - League Two 2022/23 - To Be Promoted,Swindon Town,-0.012899999999999995,0.1538,0.1667
 2022-10-26 10:40:40.263054,League Two - England - League Two 2022/23 - To Be Promoted,Tranmere Rovers,-0.012899999999999995,0.1538,0.1667
+2022-10-26 10:40:40.263054,League Two - England - League Two 2022/23 - To Be Promoted,Swindon Town,-0.012899999999999995,0.1538,0.1667
 2022-10-26 10:40:40.280037,League Two - England - League Two 2022/23 - To Finish Bottom,Crawley Town,-0.013899999999999996,0.1111,0.125
 2022-10-26 10:40:40.271555,League Two - England - League Two 2022/23 - To Be Relegated,Newport County,-0.013999999999999999,0.0769,0.0909
-2022-10-25 23:40:44.704169,Championship - England Championship 2022/23 - Outright,Queens Park Rangers,-0.013999999999999999,0.0769,0.0909
-2022-10-25 23:40:44.829826,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Tottenham,-0.014100000000000001,0.0385,0.0526
 2022-10-26 11:40:40.419664,UEFA Champions League - Group H - Group Winner,Benfica,-0.01419999999999999,0.3704,0.3846
 2022-10-26 10:40:37.011463,Boxing Lines - Hiroto Kyoguchi vs Kenshiro Teraji - To Win the Bout,Kenshiro Teraji,-0.01479999999999998,0.3774,0.3922
-2022-10-25 23:40:44.704169,Championship - England Championship 2022/23 - Outright,Sheffield United,-0.015100000000000002,0.1667,0.1818
-2022-10-26 10:40:40.271555,League Two - England - League Two 2022/23 - To Be Relegated,Gillingham,-0.015100000000000002,0.1667,0.1818
 2022-10-26 10:40:40.280037,League Two - England - League Two 2022/23 - To Finish Bottom,Colchester United,-0.015100000000000002,0.1667,0.1818
+2022-10-26 10:40:40.271555,League Two - England - League Two 2022/23 - To Be Relegated,Gillingham,-0.015100000000000002,0.1667,0.1818
+2022-10-26 12:40:43.557691,Boxing Lines - Hiroto Kyoguchi vs Kenshiro Teraji - To Win the Bout,Hiroto Kyoguchi,-0.01539999999999997,0.6721,0.6875
 2022-10-26 10:40:40.263054,League Two - England - League Two 2022/23 - To Be Promoted,Bradford City,-0.016699999999999993,0.4,0.4167
 2022-10-26 02:40:39.968637,US Midterm Elections 2022 - Senate Races: 10 Markets - North Carolina,Democrat,-0.0174,0.2326,0.25
-2022-10-25 23:40:45.127747,League One - England - League One 2022/23 - Outright,Portsmouth,-0.018099999999999998,0.0588,0.0769
 2022-10-26 10:40:40.271555,League Two - England - League Two 2022/23 - To Be Relegated,Crewe Alexandra,-0.018099999999999998,0.0588,0.0769
 2022-10-26 10:40:39.936975,UEFA Champions League - UEFA Champions League 2022/2023 - Furthest Progressing EPL Team,Liverpool,-0.01820000000000002,0.1818,0.2
 2022-10-26 02:40:39.959450,US Midterm Elections 2022 - Senate Races: 10 Markets - Nevada,Democrat,-0.018900000000000028,0.4255,0.4444
-2022-10-26 10:40:39.927129,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Paris Saint-Germain,-0.019000000000000017,0.2667,0.2857
 2022-10-26 10:40:40.288572,League Two - England - League Two 2022/23 - Top 3 Finish,Northampton Town,-0.019000000000000017,0.2667,0.2857
-2022-10-25 23:40:44.829826,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Napoli,-0.019099999999999992,0.0476,0.0667
+2022-10-26 10:40:39.927129,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Paris Saint-Germain,-0.019000000000000017,0.2667,0.2857
 2022-10-26 02:40:39.977417,US Midterm Elections 2022 - Senate Races: 10 Markets - Pennsylvania,Democrat,-0.019699999999999995,0.4348,0.4545
-2022-10-26 10:40:40.463264,National League - England National League 2022/23 - Outright,Chesterfield,-0.02020000000000001,0.0909,0.1111
-2022-10-26 10:40:40.280037,League Two - England - League Two 2022/23 - To Finish Bottom,Rochdale,-0.02020000000000001,0.0909,0.1111
-2022-10-26 10:40:40.242898,League Two - England - League Two 2022/23 - Outright,Bradford City,-0.02020000000000001,0.0909,0.1111
 2022-10-26 10:40:40.300909,League Two - England - League Two 2022/23 - Top 7 Finish,AFC Wimbledon,-0.02020000000000001,0.0909,0.1111
+2022-10-26 10:40:40.242898,League Two - England - League Two 2022/23 - Outright,Bradford City,-0.02020000000000001,0.0909,0.1111
+2022-10-26 10:40:40.280037,League Two - England - League Two 2022/23 - To Finish Bottom,Rochdale,-0.02020000000000001,0.0909,0.1111
+2022-10-26 10:40:40.463264,National League - England National League 2022/23 - Outright,Chesterfield,-0.02020000000000001,0.0909,0.1111
 2022-10-26 10:40:37.420682,Bermuda Championship - 2/3 Balls - 1st Round 3 Balls - C. Ramey / R. Brehm / G. Higgo - 1st Round 3 Balls,Garrick Higgo,-0.020699999999999996,0.4444,0.4651
 2022-10-26 10:40:40.263054,League Two - England - League Two 2022/23 - To Be Promoted,Northampton Town,-0.02100000000000002,0.3636,0.3846
-2022-10-26 10:40:40.263054,League Two - England - League Two 2022/23 - To Be Promoted,Mansfield Town,-0.02169999999999994,0.5238,0.5455
 2022-10-26 02:40:39.950947,US Midterm Elections 2022 - Senate Races: 10 Markets - Georgia,Democrat,-0.02169999999999994,0.5238,0.5455
+2022-10-26 10:40:40.263054,League Two - England - League Two 2022/23 - To Be Promoted,Mansfield Town,-0.02169999999999994,0.5238,0.5455
 2022-10-26 10:40:40.288572,League Two - England - League Two 2022/23 - Top 3 Finish,Bradford City,-0.021999999999999964,0.2857,0.3077
+2022-10-26 10:40:40.253443,League Two - England - League Two 2022/23 - Top Goalscorer,Sam Hoskins,-0.022199999999999998,0.2,0.2222
 2022-10-26 10:40:37.429635,Bermuda Championship - 2/3 Balls - 1st Round 3 Balls - L. Glover / B. Gay / L. Donald - 1st Round 3 Balls,Brian Gay,-0.022199999999999998,0.3226,0.3448
 2022-10-26 10:40:40.300909,League Two - England - League Two 2022/23 - Top 7 Finish,Doncaster Rovers,-0.022199999999999998,0.1111,0.1333
-2022-10-26 10:40:40.253443,League Two - England - League Two 2022/23 - Top Goalscorer,Sam Hoskins,-0.022199999999999998,0.2,0.2222
-2022-10-26 10:40:40.263054,League Two - England - League Two 2022/23 - To Be Promoted,Grimsby Town,-0.023799999999999988,0.1429,0.1667
 2022-10-26 11:40:38.054565,Tournament Match-Ups - Tournament Match-Ups - S. Jaeger vs B. An - Tournament Match-Ups,Byeong Hun An,-0.023799999999999988,0.4762,0.5
+2022-10-26 10:40:40.263054,League Two - England - League Two 2022/23 - To Be Promoted,Grimsby Town,-0.023799999999999988,0.1429,0.1667
 2022-10-26 08:40:44.095639,Portugal Masters - 2/3 Balls - 1st Round 3 Balls - J. Senior / T. Pulkkanen / C. Wood - 1st Round 3 Balls,Chris Wood,-0.02400000000000002,0.25,0.274
 2022-10-26 11:40:38.311224,Boxing Lines - Mateusz Masternak vs Jason Whateley - To Win the Bout,Jason Whateley,-0.02429999999999999,0.3205,0.3448
 2022-10-26 10:40:40.288572,League Two - England - League Two 2022/23 - Top 3 Finish,Tranmere Rovers,-0.024999999999999994,0.1,0.125
@@ -120,14 +107,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-26 10:40:40.242898,League Two - England - League Two 2022/23 - Outright,Mansfield Town,-0.027999999999999997,0.1538,0.1818
 2022-10-26 11:40:38.280664,Boxing Lines - Steve Claggett vs Jonathan Jose Eniz - To Win the Bout,Steve Claggett,-0.028999999999999915,0.7647,0.7937
 2022-10-26 10:40:40.300909,League Two - England - League Two 2022/23 - Top 7 Finish,Grimsby Town,-0.03370000000000001,0.3509,0.3846
-2022-10-25 23:40:44.722144,Championship - England Championship 2022/23 - To Be Promoted,West Bromwich Albion,-0.034100000000000005,0.0909,0.125
 2022-10-26 10:40:40.300909,League Two - England - League Two 2022/23 - Top 7 Finish,Carlisle United,-0.03570000000000001,0.25,0.2857
 2022-10-26 08:40:44.151655,Portugal Masters - 2/3 Balls - 1st Round 3 Balls - K. Samooja / S. Brown / T. Olesen - 1st Round 3 Balls,Steven Brown,-0.0363,0.2667,0.303
 2022-10-26 10:40:40.300909,League Two - England - League Two 2022/23 - Top 7 Finish,Bradford City,-0.03710000000000002,0.6552,0.6923
 2022-10-26 10:40:39.874385,UEFA Champions League - Group F - Group Winner,Real Madrid,-0.03920000000000001,0.9412,0.9804
-2022-10-25 23:40:44.704169,Championship - England Championship 2022/23 - Outright,Norwich City,-0.04169999999999999,0.125,0.1667
 2022-10-26 10:40:40.263054,League Two - England - League Two 2022/23 - To Be Promoted,Carlisle United,-0.042899999999999994,0.1,0.1429
-2022-10-25 23:40:44.734496,Championship - England Championship 2022/23 - To Be Relegated,Rotherham Utd,-0.043200000000000016,0.3077,0.3509
 2022-10-26 10:40:39.912740,UEFA Champions League - UEFA Champions League 2022/2023 - Top Goalscorer,Erling Braut Haaland (Man City),-0.05559999999999998,0.4444,0.5
 2022-10-26 10:40:39.883812,UEFA Champions League - Group H - Group Winner,Paris Saint-Germain,-0.057699999999999974,0.6923,0.75
 2022-10-26 10:40:40.197899,Superettan - Swedish Superettan 2022 - Outright,Halmstads BK,-0.27380000000000004,0.25,0.5238
