@@ -4,18 +4,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-26 14:40:44.699745,Professional Baseball - NPB 2022 - Outright,Tokyo Yakult Swallows,0.0917,0.7143,0.6226
 2022-10-26 13:40:54.943941,2022 Gubernatorial Elections - Pennsylvania - Pennsylvania winner,Republican,0.0683,0.2857,0.2174
 2022-10-26 19:40:43.788686,NFL Specials - Next NFL Coach to Permanently Leave their Post - Proposition,Dan Campbell,0.065,0.1176,0.0526
-2022-10-26 13:40:54.910836,2022 Gubernatorial Elections - Georgia - Georgia winner,Democrat,0.05710000000000001,0.2,0.1429
 2022-10-26 19:40:43.788686,NFL Specials - Next NFL Coach to Permanently Leave their Post - Proposition,Frank Reich,0.05710000000000001,0.2,0.1429
+2022-10-26 13:40:54.910836,2022 Gubernatorial Elections - Georgia - Georgia winner,Democrat,0.05710000000000001,0.2,0.1429
 2022-10-26 16:41:07.799533,Boxing Lines - Steve Claggett vs Jonathan Jose Eniz - To Win the Bout,Jonathan Jose Eniz,0.055900000000000005,0.3226,0.2667
 2022-10-26 23:40:37.850703,MLB Specials - Will Aaron Boone be the Manager of the New York Yankees for Game 1 of the 2023 Season? - Proposition,Yes,0.05449999999999999,0.6,0.5455
 2022-10-26 19:40:43.788686,NFL Specials - Next NFL Coach to Permanently Leave their Post - Proposition,Dennis Allen,0.047099999999999996,0.0667,0.0196
+2022-10-27 00:40:38.990027,Brazilian Politics - 2022 Brazilian Presidential Election - Winner,Lula da Silva,0.04459999999999997,0.6875,0.6429
 2022-10-26 13:40:54.959662,2022 Gubernatorial Elections - Wisconsin - Wisconsin winner,Republican,0.044399999999999995,0.6,0.5556
 2022-10-26 13:40:54.833124,US Midterm Elections 2022 - Senate Races: 10 Markets - New Hampshire,Republican,0.03839999999999999,0.3509,0.3125
 2022-10-26 13:40:54.848857,US Midterm Elections 2022 - Senate Races: 10 Markets - Pennsylvania,Republican,0.03709999999999991,0.6667,0.6296
 2022-10-26 16:41:09.462644,Round Match-Ups - 1st Round Match-Ups - K. Hickok vs C. Percy - 1st Round Match-Ups,Kramer Hickok,0.033299999999999996,0.5455,0.5122
 2022-10-26 13:40:54.927200,2022 Gubernatorial Elections - Maryland - Maryland winner,Democrats,0.028000000000000025,0.9804,0.9524
-2022-10-26 21:40:46.688179,Miami - Quarter Finals - Quarter Finals - Punch v Hy Flyers - Outright,Punch,0.026499999999999968,0.5917,0.5652
 2022-10-26 21:40:46.714578,Miami - Quarter Finals - Quarter Finals - Torque v Cleeks - Outright,Torque,0.026499999999999968,0.5917,0.5652
+2022-10-26 21:40:46.688179,Miami - Quarter Finals - Quarter Finals - Punch v Hy Flyers - Outright,Punch,0.026499999999999968,0.5917,0.5652
 2022-10-26 23:40:39.234980,Portugal Masters - 2/3 Balls - 1st Round 3 Balls - A. Pavan / J. Smith / K. Aphibarnrat - 1st Round 3 Balls,Jordan Smith,0.025599999999999956,0.6,0.5744
 2022-10-26 19:40:43.788686,NFL Specials - Next NFL Coach to Permanently Leave their Post - Proposition,Kevin Stefanski,0.024299999999999995,0.0588,0.0345
 2022-10-26 23:40:39.922779,Mitsubishi Electric Ladies - Mitsubishi Electric Ladies - Outright,Nasa Hataoka,0.022199999999999998,0.2222,0.2
@@ -44,34 +45,35 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-26 13:40:56.311727,Boxing Lines - Robeisy Ramirez vs Jose Matias Romero - To Win the Bout,Robeisy Ramirez,0.011199999999999988,0.9524,0.9412
 2022-10-26 23:40:39.922779,Mitsubishi Electric Ladies - Mitsubishi Electric Ladies - Outright,Hinako Shibuno,0.011099999999999999,0.1111,0.1
 2022-10-26 23:40:39.922779,Mitsubishi Electric Ladies - Mitsubishi Electric Ladies - Outright,Ai Suzuki,0.010700000000000001,0.0385,0.0278
+2022-10-27 00:40:37.894186,Fights Women - Mary Romero vs Ellie Scotney - To Win the Bout,Mary Romero,0.01040000000000002,0.3279,0.3175
 2022-10-26 13:40:54.854176,US Midterm Elections 2022 - Senate Races: 10 Markets - Wisconsin,Democrat,0.010399999999999993,0.2326,0.2222
 2022-10-26 19:40:44.744204,Round Match-Ups - 1st Round Match-Ups - A. Smalley vs B. An - 1st Round Match-Ups,Alex Smalley,0.010099999999999998,0.5556,0.5455
 2022-10-26 22:40:36.282447,Portugal Masters - Portugal Masters - Outright,Robert MacIntyre,-0.0102,0.0667,0.0769
 2022-10-26 13:40:54.838280,US Midterm Elections 2022 - Senate Races: 10 Markets - North Carolina,Democrat,-0.010399999999999993,0.2222,0.2326
-2022-10-26 15:40:41.019958,Round Match-Ups - 1st Round Match-Ups - C. Tarren vs E. Van Rooyen - 1st Round Match-Ups,Callum Tarren,-0.010699999999999932,0.5348,0.5455
-2022-10-26 15:40:41.004136,Round Match-Ups - 1st Round Match-Ups - H. Hall vs A. Eckroat - 1st Round Match-Ups,Harry Hall,-0.010699999999999932,0.5348,0.5455
 2022-10-26 15:40:40.995077,Round Match-Ups - 1st Round Match-Ups - K. Hickok vs C. Percy - 1st Round Match-Ups,Cameron Percy,-0.010699999999999932,0.5348,0.5455
+2022-10-26 15:40:41.004136,Round Match-Ups - 1st Round Match-Ups - H. Hall vs A. Eckroat - 1st Round Match-Ups,Harry Hall,-0.010699999999999932,0.5348,0.5455
 2022-10-26 15:40:40.972543,Round Match-Ups - 1st Round Match-Ups - N. Hardy vs S. Jaeger - 1st Round Match-Ups,Nick Hardy,-0.010699999999999932,0.5348,0.5455
+2022-10-26 15:40:41.019958,Round Match-Ups - 1st Round Match-Ups - C. Tarren vs E. Van Rooyen - 1st Round Match-Ups,Callum Tarren,-0.010699999999999932,0.5348,0.5455
 2022-10-26 15:40:40.919314,Round Match-Ups - 1st Round Match-Ups - R. Knox vs A. Long - 1st Round Match-Ups,Russell Knox,-0.010699999999999932,0.5348,0.5455
 2022-10-26 12:40:43.526167,Boxing Lines - Le'Veon Bell vs Uriah Hall - To Win the Bout,Uriah Hall,-0.01090000000000002,0.8462,0.8571
-2022-10-26 15:40:41.081456,Round Match-Ups - 1st Round Match-Ups - B. Garnett vs M. Schmid - 1st Round Match-Ups,Matti Schmid,-0.01100000000000001,0.5238,0.5348
-2022-10-26 16:41:09.462644,Round Match-Ups - 1st Round Match-Ups - K. Hickok vs C. Percy - 1st Round Match-Ups,Cameron Percy,-0.01100000000000001,0.5238,0.5348
 2022-10-26 15:40:40.892610,Round Match-Ups - 1st Round Match-Ups - D. Ghim vs S. Ryder - 1st Round Match-Ups,Sam Ryder,-0.01100000000000001,0.5238,0.5348
+2022-10-26 16:41:09.462644,Round Match-Ups - 1st Round Match-Ups - K. Hickok vs C. Percy - 1st Round Match-Ups,Cameron Percy,-0.01100000000000001,0.5238,0.5348
 2022-10-26 15:40:40.892610,Round Match-Ups - 1st Round Match-Ups - D. Ghim vs S. Ryder - 1st Round Match-Ups,Doug Ghim,-0.01100000000000001,0.5238,0.5348
 2022-10-26 15:40:41.081456,Round Match-Ups - 1st Round Match-Ups - B. Garnett vs M. Schmid - 1st Round Match-Ups,Brice Garnett,-0.01100000000000001,0.5238,0.5348
-2022-10-26 19:40:44.779143,Round Match-Ups - 1st Round Match-Ups - D. McCarthy vs S.H. Kim - 1st Round Match-Ups,S.H. Kim,-0.0116,0.4762,0.4878
+2022-10-26 15:40:41.081456,Round Match-Ups - 1st Round Match-Ups - B. Garnett vs M. Schmid - 1st Round Match-Ups,Matti Schmid,-0.01100000000000001,0.5238,0.5348
 2022-10-26 23:40:39.159179,Portugal Masters - 2/3 Balls - 1st Round 3 Balls - J. Senior / T. Pulkkanen / C. Wood - 1st Round 3 Balls,Tapio Pulkkanen,-0.0116,0.4762,0.4878
-2022-10-26 15:40:40.972543,Round Match-Ups - 1st Round Match-Ups - N. Hardy vs S. Jaeger - 1st Round Match-Ups,Stephan Jaeger,-0.011600000000000055,0.5122,0.5238
-2022-10-26 15:40:40.919314,Round Match-Ups - 1st Round Match-Ups - R. Knox vs A. Long - 1st Round Match-Ups,Adam Long,-0.011600000000000055,0.5122,0.5238
+2022-10-26 19:40:44.779143,Round Match-Ups - 1st Round Match-Ups - D. McCarthy vs S.H. Kim - 1st Round Match-Ups,S.H. Kim,-0.0116,0.4762,0.4878
 2022-10-26 15:40:41.004136,Round Match-Ups - 1st Round Match-Ups - H. Hall vs A. Eckroat - 1st Round Match-Ups,Austin Eckroat,-0.011600000000000055,0.5122,0.5238
 2022-10-26 15:40:40.995077,Round Match-Ups - 1st Round Match-Ups - K. Hickok vs C. Percy - 1st Round Match-Ups,Kramer Hickok,-0.011600000000000055,0.5122,0.5238
+2022-10-26 15:40:40.972543,Round Match-Ups - 1st Round Match-Ups - N. Hardy vs S. Jaeger - 1st Round Match-Ups,Stephan Jaeger,-0.011600000000000055,0.5122,0.5238
 2022-10-26 15:40:41.019958,Round Match-Ups - 1st Round Match-Ups - C. Tarren vs E. Van Rooyen - 1st Round Match-Ups,Erik Van Rooyen,-0.011600000000000055,0.5122,0.5238
+2022-10-26 15:40:40.919314,Round Match-Ups - 1st Round Match-Ups - R. Knox vs A. Long - 1st Round Match-Ups,Adam Long,-0.011600000000000055,0.5122,0.5238
 2022-10-26 19:40:42.557970,Boxing Lines - Vianello Guido vs Jay McFarlane - To Win the Bout,Jay McFarlane,-0.0121,0.1212,0.1333
-2022-10-26 18:40:56.724935,Miami - Quarter Finals - Quarter Finals - Punch v Hy Flyers - Outright,Hy Flyers,-0.012199999999999989,0.5,0.5122
-2022-10-26 23:40:39.198192,Portugal Masters - 2/3 Balls - 1st Round 3 Balls - K. Samooja / S. Brown / T. Olesen - 1st Round 3 Balls,Thorbjorn Olesen,-0.012199999999999989,0.4878,0.5
 2022-10-26 19:40:44.744204,Round Match-Ups - 1st Round Match-Ups - A. Smalley vs B. An - 1st Round Match-Ups,Byeong Hun An,-0.012199999999999989,0.4878,0.5
-2022-10-26 13:40:54.854176,US Midterm Elections 2022 - Senate Races: 10 Markets - Wisconsin,Republican,-0.012899999999999912,0.8333,0.8462
+2022-10-26 23:40:39.198192,Portugal Masters - 2/3 Balls - 1st Round 3 Balls - K. Samooja / S. Brown / T. Olesen - 1st Round 3 Balls,Thorbjorn Olesen,-0.012199999999999989,0.4878,0.5
+2022-10-26 18:40:56.724935,Miami - Quarter Finals - Quarter Finals - Punch v Hy Flyers - Outright,Hy Flyers,-0.012199999999999989,0.5,0.5122
 2022-10-26 15:40:40.249292,Boxing Lines - Le'Veon Bell vs Uriah Hall - To Win the Bout,Uriah Hall,-0.012899999999999912,0.8333,0.8462
+2022-10-26 13:40:54.854176,US Midterm Elections 2022 - Senate Races: 10 Markets - Wisconsin,Republican,-0.012899999999999912,0.8333,0.8462
 2022-10-26 19:40:42.537371,Boxing Lines - Yves Ulysse Jr vs Jose Macias Enriquez - To Win the Bout,Yves Ulysse Jr,-0.014200000000000101,0.8261,0.8403
 2022-10-26 14:40:43.676352,Fights Women - Mary Romero vs Ellie Scotney - To Win the Bout,Mary Romero,-0.014500000000000013,0.303,0.3175
 2022-10-26 14:40:43.604810,Boxing Lines - Hiroto Kyoguchi vs Kenshiro Teraji - To Win the Bout,Kenshiro Teraji,-0.01479999999999998,0.3774,0.3922
@@ -83,23 +85,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-26 13:40:54.843379,US Midterm Elections 2022 - Senate Races: 10 Markets - Ohio,Democrat,-0.0174,0.2326,0.25
 2022-10-26 19:40:42.655011,Boxing Lines - Hector Valdez vs Max Ornelas - To Win the Bout,Hector Valdez,-0.01759999999999995,0.6491,0.6667
 2022-10-26 23:40:39.860754,Miami - Quarter Finals - Quarter Finals - Smash v Niblicks - Outright,Niblicks,-0.018100000000000005,0.4167,0.4348
+2022-10-26 15:40:41.048638,Round Match-Ups - 1st Round Match-Ups - S. Power vs N. Taylor - 1st Round Match-Ups,Seamus Power,-0.01880000000000004,0.5556,0.5744
 2022-10-26 15:40:41.011906,Round Match-Ups - 1st Round Match-Ups - A. Rai vs A. Schenk - 1st Round Match-Ups,Aaron Rai,-0.01880000000000004,0.5556,0.5744
 2022-10-26 15:40:41.089939,Round Match-Ups - 1st Round Match-Ups - D. McCarthy vs S.H. Kim - 1st Round Match-Ups,Denny McCarthy,-0.01880000000000004,0.5556,0.5744
-2022-10-26 15:40:41.048638,Round Match-Ups - 1st Round Match-Ups - S. Power vs N. Taylor - 1st Round Match-Ups,Seamus Power,-0.01880000000000004,0.5556,0.5744
 2022-10-26 15:40:41.059169,Round Match-Ups - 1st Round Match-Ups - A. Smalley vs B. An - 1st Round Match-Ups,Alex Smalley,-0.01970000000000005,0.5455,0.5652
 2022-10-26 15:40:41.027404,Round Match-Ups - 1st Round Match-Ups - C. Hadley vs T. Duncan - 1st Round Match-Ups,Chesson Hadley,-0.01970000000000005,0.5455,0.5652
 2022-10-26 15:40:41.105569,Round Match-Ups - 1st Round Match-Ups - A. Meronk vs R. Shelton - 1st Round Match-Ups,Adrian Meronk,-0.01970000000000005,0.5455,0.5652
 2022-10-26 15:40:40.385387,Fights Women - Mary Romero vs Ellie Scotney - To Win the Bout,Ellie Scotney,-0.01980000000000004,0.7333,0.7531
 2022-10-26 13:40:54.927200,2022 Gubernatorial Elections - Maryland - Maryland winner,Republicans,-0.02020000000000001,0.0909,0.1111
 2022-10-26 23:40:39.870860,Miami - Quarter Finals - Quarter Finals - Torque v Cleeks - Outright,Cleeks,-0.021699999999999997,0.4545,0.4762
-2022-10-26 16:41:09.850516,Tournament Match-Ups - Tournament Match-Ups - P. Rodgers v A. Smalley - Tournament Match-Ups,Alex Smalley,-0.022600000000000064,0.5122,0.5348
 2022-10-26 16:41:09.680422,Tournament Match-Ups - Tournament Match-Ups - A. Schenk v B. Wu - Tournament Match-Ups,Brandon Wu,-0.022600000000000064,0.5122,0.5348
 2022-10-26 15:40:40.949315,Round Match-Ups - 1st Round Match-Ups - L. Glover vs G. Higgo - 1st Round Match-Ups,Lucas Glover,-0.022600000000000064,0.5122,0.5348
-2022-10-26 21:40:46.688179,Miami - Quarter Finals - Quarter Finals - Punch v Hy Flyers - Outright,Hy Flyers,-0.023799999999999988,0.4762,0.5
+2022-10-26 16:41:09.850516,Tournament Match-Ups - Tournament Match-Ups - P. Rodgers v A. Smalley - Tournament Match-Ups,Alex Smalley,-0.022600000000000064,0.5122,0.5348
 2022-10-26 21:40:46.714578,Miami - Quarter Finals - Quarter Finals - Torque v Cleeks - Outright,Cleeks,-0.023799999999999988,0.4762,0.5
+2022-10-26 21:40:46.688179,Miami - Quarter Finals - Quarter Finals - Punch v Hy Flyers - Outright,Hy Flyers,-0.023799999999999988,0.4762,0.5
 2022-10-26 23:40:39.234980,Portugal Masters - 2/3 Balls - 1st Round 3 Balls - A. Pavan / J. Smith / K. Aphibarnrat - 1st Round 3 Balls,Andrea Pavan,-0.023800000000000016,0.1667,0.1905
-2022-10-26 13:40:54.804549,US Midterm Elections 2022 - Senate Races: 10 Markets - Arizona,Democrat,-0.023800000000000043,0.5,0.5238
 2022-10-26 13:40:54.820992,US Midterm Elections 2022 - Senate Races: 10 Markets - Georgia,Democrat,-0.023800000000000043,0.5,0.5238
+2022-10-26 13:40:54.804549,US Midterm Elections 2022 - Senate Races: 10 Markets - Arizona,Democrat,-0.023800000000000043,0.5,0.5238
 2022-10-26 15:40:40.928016,Round Match-Ups - 1st Round Match-Ups - J. Lower vs M. Hubbard - 1st Round Match-Ups,Justin Lower,-0.023800000000000043,0.5,0.5238
 2022-10-26 13:40:54.951217,2022 Gubernatorial Elections - Texas - Texas winner,Republican,-0.0242,0.9091,0.9333
 2022-10-26 21:40:43.282277,Boxing Lines - Hector Valdez vs Max Ornelas - To Win the Bout,Max Ornelas,-0.027600000000000013,0.3891,0.4167
@@ -109,7 +111,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-26 14:40:43.500578,Boxing Lines - Steve Claggett vs Jonathan Jose Eniz - To Win the Bout,Jonathan Jose Eniz,-0.0363,0.2667,0.303
 2022-10-26 16:41:07.799533,Boxing Lines - Steve Claggett vs Jonathan Jose Eniz - To Win the Bout,Steve Claggett,-0.042300000000000004,0.7403,0.7826
 2022-10-26 13:40:54.959662,2022 Gubernatorial Elections - Wisconsin - Wisconsin winner,Democrat,-0.04760000000000003,0.4762,0.5238
+2022-10-27 00:40:38.990027,Brazilian Politics - 2022 Brazilian Presidential Election - Winner,Jair Bolsonaro,-0.05740000000000001,0.3774,0.4348
 2022-10-26 23:40:37.850703,MLB Specials - Will Aaron Boone be the Manager of the New York Yankees for Game 1 of the 2023 Season? - Proposition,No,-0.05870000000000003,0.4651,0.5238
+2022-10-27 00:40:37.894186,Fights Women - Mary Romero vs Ellie Scotney - To Win the Bout,Ellie Scotney,-0.06659999999999999,0.6667,0.7333
 2022-10-26 13:40:54.943941,2022 Gubernatorial Elections - Pennsylvania - Pennsylvania winner,Democrat,-0.09719999999999995,0.7778,0.875
 2022-10-26 14:40:44.699745,Professional Baseball - NPB 2022 - Outright,Orix Buffaloes,-0.12120000000000003,0.3333,0.4545
 2022-10-26 21:40:44.170028,MLB Specials - Will Aaron Boone be the Manager of the New York Yankees for Game 1 of the 2023 Season? - Proposition,No,-0.15359999999999996,0.5238,0.6774
