@@ -29,6 +29,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-28 16:40:44.914945,Music Specials - Drake & 21 Savage: Her Loss - Drake & 21 Savage: Her Loss,To break the Spotify record for largest streaming debut within one day,0.030299999999999994,0.3636,0.3333
 2022-10-28 16:40:45.079658,US Midterm Elections 2022 - Senate Races: 10 Markets - Nevada,Republican,0.028299999999999992,0.6774,0.6491
 2022-10-28 17:40:37.041782,Boxing Lines - Ashton Sylve vs Braulio Rodriguez - To Win the Bout,Ashton Sylve,0.028000000000000025,0.9804,0.9524
+2022-10-28 21:40:37.251177,Boxing Lines - Le'Veon Bell vs Uriah Hall - To Win the Bout,Uriah Hall,0.028000000000000025,0.8571,0.8291
 2022-10-28 18:40:50.803091,2022 Gubernatorial Elections - Pennsylvania - Pennsylvania winner,Democrat,0.027999999999999914,0.8462,0.8182
 2022-10-28 11:40:40.661147,NFC South - 2022/2023 NFC South - NFC South Winner,Atlanta Falcons,0.02779999999999999,0.25,0.2222
 2022-10-28 17:40:37.397474,US Midterm Elections 2022 - Senate Races: 10 Markets - Georgia,Republican,0.026499999999999968,0.5917,0.5652
@@ -65,6 +66,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-28 16:40:44.951376,US Presidential Election 2024 - US Presidential Election 2024 - First In Group To Announce Their 2024 Presidential Run - First In Group To Announce 2024 Presidential Campaign,Josh Hawley,-0.011199999999999995,0.0476,0.0588
 2022-10-28 16:40:44.951376,US Presidential Election 2024 - US Presidential Election 2024 - First In Group To Announce Their 2024 Presidential Run - First In Group To Announce 2024 Presidential Campaign,Tom Cotton,-0.011199999999999995,0.0476,0.0588
 2022-10-28 19:40:44.758105,Portugal Masters - Portugal Masters - Outright,Marc Warren,-0.011300000000000001,0.001,0.0123
+2022-10-28 21:40:37.251177,Boxing Lines - Le'Veon Bell vs Uriah Hall - To Win the Bout,Le'Veon Bell,-0.011700000000000016,0.2105,0.2222
 2022-10-28 16:40:45.040216,US Midterm Elections 2022 - Midterm Elections Turnout - Midterm Elections 2022 Turnout,To exceed 2020 presidential election turnout,-0.011900000000000022,0.1667,0.1786
 2022-10-28 16:40:44.979639,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Republican Candidate,Donald Trump,-0.012199999999999989,0.4878,0.5
 2022-10-28 10:40:39.739518,Boxing Lines - Craig Richards vs Ricards Bolotniks - To Win the Bout,Ricards Bolotniks,-0.012499999999999983,0.198,0.2105
@@ -72,15 +74,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-28 11:40:40.661147,NFC South - 2022/2023 NFC South - NFC South Winner,New Orleans Saints,-0.012899999999999995,0.1538,0.1667
 2022-10-28 19:40:44.758105,Portugal Masters - Portugal Masters - Outright,Sami Valimaki,-0.012899999999999998,0.005,0.0179
 2022-10-28 16:40:44.951376,US Presidential Election 2024 - US Presidential Election 2024 - First In Group To Announce Their 2024 Presidential Run - First In Group To Announce 2024 Presidential Campaign,Mike Pence,-0.013899999999999996,0.1111,0.125
-2022-10-28 16:40:44.951376,US Presidential Election 2024 - US Presidential Election 2024 - First In Group To Announce Their 2024 Presidential Run - First In Group To Announce 2024 Presidential Campaign,Liz Cheney,-0.013999999999999999,0.0769,0.0909
 2022-10-28 17:40:37.491327,2022 Gubernatorial Elections - Maryland - Maryland winner,Republicans,-0.013999999999999999,0.0769,0.0909
 2022-10-28 17:40:37.057860,Boxing Lines - Nico Ali Walsh vs Billy Wagner - To Win the Bout,Billy Wagner,-0.013999999999999999,0.0769,0.0909
+2022-10-28 16:40:44.951376,US Presidential Election 2024 - US Presidential Election 2024 - First In Group To Announce Their 2024 Presidential Run - First In Group To Announce 2024 Presidential Campaign,Liz Cheney,-0.013999999999999999,0.0769,0.0909
 2022-10-28 19:40:44.758105,Portugal Masters - Portugal Masters - Outright,Julien Brun,-0.014599999999999998,0.005,0.0196
-2022-10-28 16:40:45.048069,US Midterm Elections 2022 - Senate Majority - Republican Senate Seats Following Election,50 Republican Seats,-0.015100000000000002,0.1667,0.1818
 2022-10-28 16:40:44.968386,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Kamala Harris,-0.015100000000000002,0.1667,0.1818
+2022-10-28 16:40:45.048069,US Midterm Elections 2022 - Senate Majority - Republican Senate Seats Following Election,50 Republican Seats,-0.015100000000000002,0.1667,0.1818
 2022-10-28 11:40:39.413215,Boxing Lines - Le'Veon Bell vs Uriah Hall - To Win the Bout,Le'Veon Bell,-0.015899999999999997,0.2222,0.2381
-2022-10-28 10:40:40.322617,Bermuda Championship - 2/3 Balls - 2nd Round 3 Balls - A. Smalley / B. Hun / W. Bryan - 2nd Round 3 Balls,Byeong Hun An,-0.016699999999999993,0.4,0.4167
 2022-10-28 18:40:50.803091,2022 Gubernatorial Elections - Pennsylvania - Pennsylvania winner,Republican,-0.016699999999999993,0.25,0.2667
+2022-10-28 10:40:40.322617,Bermuda Championship - 2/3 Balls - 2nd Round 3 Balls - A. Smalley / B. Hun / W. Bryan - 2nd Round 3 Balls,Byeong Hun An,-0.016699999999999993,0.4,0.4167
 2022-10-28 14:41:00.408385,Boxing Lines - Vianello Guido vs Jay McFarlane - To Win the Bout,Jay McFarlane,-0.016700000000000007,0.0833,0.1
 2022-10-28 19:40:44.758105,Portugal Masters - Portugal Masters - Outright,Mikko Korhonen,-0.0171,0.0025,0.0196
 2022-10-28 17:40:37.410814,US Midterm Elections 2022 - Senate Races: 10 Markets - New Hampshire,Republican,-0.017600000000000005,0.3333,0.3509
@@ -92,9 +94,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-28 10:40:40.388784,Bermuda Championship - 2/3 Balls - 2nd Round 3 Balls - G. Higgo / C. Ramey / R. Brehm - 2nd Round 3 Balls,Garrick Higgo,-0.021699999999999997,0.4545,0.4762
 2022-10-28 19:40:44.758105,Portugal Masters - Portugal Masters - Outright,Robert MacIntyre,-0.022099999999999998,0.0057,0.0278
 2022-10-28 17:40:37.454880,2022 Gubernatorial Elections - Arizona - Arizona winner,Democrats,-0.022199999999999998,0.2,0.2222
-2022-10-28 10:40:40.576110,Round Match-Ups - 2nd Round Match-Up - B. Gay vs C. Gribble - 2nd Round Match-Up,Brian Gay,-0.023799999999999988,0.4762,0.5
-2022-10-28 17:40:37.397474,US Midterm Elections 2022 - Senate Races: 10 Markets - Georgia,Democrat,-0.023799999999999988,0.4762,0.5
 2022-10-28 13:41:02.837575,Euroleague - Euroleague 2022/23 - Outright,Olympiakos,-0.023799999999999988,0.1429,0.1667
+2022-10-28 17:40:37.397474,US Midterm Elections 2022 - Senate Races: 10 Markets - Georgia,Democrat,-0.023799999999999988,0.4762,0.5
+2022-10-28 10:40:40.576110,Round Match-Ups - 2nd Round Match-Up - B. Gay vs C. Gribble - 2nd Round Match-Up,Brian Gay,-0.023799999999999988,0.4762,0.5
 2022-10-28 17:40:37.041782,Boxing Lines - Ashton Sylve vs Braulio Rodriguez - To Win the Bout,Braulio Rodriguez,-0.0242,0.0667,0.0909
 2022-10-28 19:40:44.758105,Portugal Masters - Portugal Masters - Outright,Joost Luiten,-0.024299999999999995,0.0345,0.0588
 2022-10-28 16:40:45.079658,US Midterm Elections 2022 - Senate Races: 10 Markets - Nevada,Democrat,-0.024500000000000022,0.3922,0.4167
@@ -103,12 +105,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-28 09:40:42.724218,Miami - Quarter Finals - Quarter Finals - Torque v Cleeks - Outright,Cleeks,-0.030799999999999994,0.3774,0.4082
 2022-10-28 16:40:45.233027,2022 Gubernatorial Elections - Wisconsin - Wisconsin winner,Democrat,-0.031799999999999995,0.4444,0.4762
 2022-10-28 17:40:37.424687,US Midterm Elections 2022 - Senate Races: 10 Markets - Ohio,Democrat,-0.03259999999999999,0.2,0.2326
-2022-10-28 17:40:37.469772,2022 Gubernatorial Elections - Georgia - Georgia winner,Democrat,-0.033300000000000024,0.1667,0.2
 2022-10-28 16:40:44.844799,95th Academy Awards - Best Actress - Best Actress,Margot Robbie,-0.033300000000000024,0.1667,0.2
+2022-10-28 17:40:37.469772,2022 Gubernatorial Elections - Georgia - Georgia winner,Democrat,-0.033300000000000024,0.1667,0.2
 2022-10-28 16:40:44.951376,US Presidential Election 2024 - US Presidential Election 2024 - First In Group To Announce Their 2024 Presidential Run - First In Group To Announce 2024 Presidential Campaign,Chris Christie,-0.03420000000000001,0.0769,0.1111
 2022-10-28 15:40:43.146246,Miami - Quarter Finals - Quarter Finals - Punch v Hy Flyers - Outright,Hy Flyers,-0.03620000000000001,0.4082,0.4444
-2022-10-28 16:40:45.108734,US Midterm Elections 2022 - Senate Races: 10 Markets - Pennsylvania,Democrat,-0.03640000000000004,0.3636,0.4
 2022-10-28 11:40:39.119749,Brazilian Politics - 2022 Brazilian Presidential Election - Winner,Jair Bolsonaro,-0.03640000000000004,0.3636,0.4
+2022-10-28 16:40:45.108734,US Midterm Elections 2022 - Senate Races: 10 Markets - Pennsylvania,Democrat,-0.03640000000000004,0.3636,0.4
 2022-10-28 17:40:37.417162,US Midterm Elections 2022 - Senate Races: 10 Markets - North Carolina,Democrat,-0.037000000000000005,0.1852,0.2222
 2022-10-28 19:40:44.758105,Portugal Masters - Portugal Masters - Outright,Kiradech Aphibarnrat,-0.0378,0.0057,0.0435
 2022-10-28 17:40:37.403600,US Midterm Elections 2022 - Senate Races: 10 Markets - Nevada,Democrat,-0.0413,0.3509,0.3922
