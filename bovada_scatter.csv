@@ -2,7 +2,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-27 23:40:36.029416,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Number 1 Seed,Philadelphia Eagles,0.35900000000000004,0.6923,0.3333
 2022-10-27 23:40:35.998895,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Number 1 Seed,Buffalo Bills,0.35,0.75,0.4
 2022-10-27 22:40:38.464672,Portugal Masters - Portugal Masters - Outright,Jordan Smith,0.1814,0.2439,0.0625
+2022-10-28 08:40:39.255957,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Atlético Goianiense,0.11430000000000007,0.7143,0.6
 2022-10-27 23:40:36.029416,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Number 1 Seed,Dallas Cowboys,0.09029999999999999,0.1429,0.0526
+2022-10-28 08:40:39.255957,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Coritiba,0.07450000000000001,0.5,0.4255
 2022-10-28 06:40:37.451407,NFC South - 2022/2023 NFC South - NFC South Winner,New Orleans Saints,0.06669999999999998,0.1667,0.1
 2022-10-27 23:40:36.029416,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Number 1 Seed,New York Giants,0.0655,0.1,0.0345
 2022-10-28 06:40:37.397740,AFC North - 2022/2023 AFC North - AFC North Winner,Baltimore Ravens,0.06269999999999998,0.6923,0.6296
@@ -16,12 +18,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-28 01:40:35.839281,MLB Specials - Where will Aaron Judge Play Game 1 of the 2023 Regular Season - Proposition,San Francisco Giants,0.0353,0.2353,0.2
 2022-10-27 23:40:36.029416,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Number 1 Seed,Minnesota Vikings,0.034100000000000005,0.125,0.0909
 2022-10-28 06:40:36.591437,Bermuda Championship - 2/3 Balls - 2nd Round 3 Balls - N. Hardy / M.J. Daffue / A. Bhatia - 2nd Round 3 Balls,Akshay Bhatia,0.02779999999999999,0.25,0.2222
+2022-10-28 08:40:39.265753,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Atlético Mineiro,0.025600000000000067,0.6923,0.6667
 2022-10-28 06:40:36.550439,Bermuda Championship - 2/3 Balls - 2nd Round 3 Balls - R. Knox / A. Smotherman / C. Gribble - 2nd Round 3 Balls,Russell Knox,0.025499999999999967,0.4255,0.4
 2022-10-28 06:40:36.536519,Bermuda Championship - 2/3 Balls - 2nd Round 3 Balls - C. Hoffman / D. Ghim / R. Barnes - 2nd Round 3 Balls,Doug Ghim,0.025499999999999967,0.4255,0.4
 2022-10-28 02:40:38.118614,NFL Specials - Will Tom Brady retire in the middle of the 2022/2023 Rgular Season - Proposition,No,0.025000000000000022,0.9,0.875
 2022-10-27 22:40:38.464672,Portugal Masters - Portugal Masters - Outright,Kiradech Aphibarnrat,0.024399999999999998,0.0385,0.0141
 2022-10-28 06:40:37.451407,NFC South - 2022/2023 NFC South - NFC South Winner,Carolina Panthers,0.024299999999999995,0.0769,0.0526
 2022-10-28 06:40:36.747218,Mitsubishi Electric Ladies - Mitsubishi Electric Ladies - Outright,Mone Inami,0.0242,0.0909,0.0667
+2022-10-28 08:40:39.376006,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,Villarreal,0.022199999999999998,0.2222,0.2
 2022-10-28 04:40:33.584941,Boxing Lines - Mirko Natalizi vs Tony Dixon - To Win the Bout,Mirko Natalizi,0.022199999999999998,0.8,0.7778
 2022-10-28 01:40:35.696733,US Midterm Elections 2022 - Senate Races: Winning Margin - Nevada,Republican,0.02169999999999994,0.5455,0.5238
 2022-10-28 04:40:35.083130,Bermuda Championship - 2/3 Balls - 2nd Round 3 Balls - J. Lower / M. Hubbard / S. Bae - 2nd Round 3 Balls,Justin Lower,0.020699999999999996,0.4651,0.4444
@@ -38,23 +42,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-28 04:40:33.888303,Fights Women - Jessica McCaskill vs Chantelle Cameron - To Win the Bout,Chantelle Cameron,0.015199999999999991,0.5968,0.5816
 2022-10-28 06:40:35.971788,Elite Boxing - Anderson Silva vs Jake Paul - To Win the Bout,Jake Paul,0.014900000000000024,0.6923,0.6774
 2022-10-28 06:40:36.025279,Boxing Lines - Johnny Fisher vs Dominik Musil - To Win the Bout,Johnny Fisher,0.014900000000000024,0.9804,0.9655
+2022-10-28 08:40:36.895067,Boxing Lines - Hiroto Kyoguchi vs Kenshiro Teraji - To Win the Bout,Kenshiro Teraji,0.01479999999999998,0.3922,0.3774
 2022-10-27 22:40:38.464672,Portugal Masters - Portugal Masters - Outright,Nicolai Von Dellingshausen,0.0145,0.0244,0.0099
 2022-10-28 06:40:36.109847,Boxing Lines - Le'Veon Bell vs Uriah Hall - To Win the Bout,Uriah Hall,0.014200000000000101,0.8403,0.8261
 2022-10-27 22:40:38.464672,Portugal Masters - Portugal Masters - Outright,Hurly Long,0.014099999999999998,0.0435,0.0294
 2022-10-28 06:40:36.032332,Boxing Lines - Mickey Ellison vs Thomas Whittaker Hart - To Win the Bout,Thomas Whittaker Hart,0.014000000000000012,0.9231,0.9091
-2022-10-28 04:40:34.356033,NBL - NBL 2022/23 - Outright,Brisbane Bullets,0.013999999999999999,0.0909,0.0769
 2022-10-28 02:40:38.210239,NCAA Football Specials - To Finish Regular Season Undefeated - Undefeated Regular Season,TCU,0.013999999999999999,0.0909,0.0769
+2022-10-28 04:40:34.356033,NBL - NBL 2022/23 - Outright,Brisbane Bullets,0.013999999999999999,0.0909,0.0769
 2022-10-28 02:40:36.821627,Portugal Masters - 2/3 Balls - 2nd Round 3 Balls - K. Samooja / S. Brown / T. Olesen - 2nd Round 3 Balls,Kalle Samooja,0.013600000000000001,0.3077,0.2941
 2022-10-27 23:40:35.998895,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Number 1 Seed,New York Jets,0.0131,0.0164,0.0033
+2022-10-28 08:40:39.265753,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,São Paulo,0.012899999999999995,0.1667,0.1538
 2022-10-28 06:40:36.571002,Bermuda Championship - 2/3 Balls - 2nd Round 3 Balls - G. Higgo / C. Ramey / R. Brehm - 2nd Round 3 Balls,Chad Ramey,0.012699999999999989,0.3636,0.3509
 2022-10-28 06:40:37.471852,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Baltimore Ravens,0.011199999999999995,0.0588,0.0476
 2022-10-28 05:40:37.100133,Boxing Lines - Mirko Natalizi vs Tony Dixon - To Win the Bout,Tony Dixon,0.011099999999999999,0.2778,0.2667
 2022-10-28 04:40:35.196062,Round Match-Ups - 2nd Round Match-Up - B. Gay vs C. Gribble - 2nd Round Match-Up,Cody Gribble,0.01100000000000001,0.5348,0.5238
+2022-10-28 08:40:39.255957,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Avaí,0.010800000000000032,0.996,0.9852
 2022-10-28 07:40:38.170987,Boxing Lines - Le'Veon Bell vs Uriah Hall - To Win the Bout,Le'Veon Bell,0.010800000000000004,0.2381,0.2273
 2022-10-27 22:40:38.115358,Elite Boxing - Anderson Silva vs Jake Paul - To Win the Bout,Jake Paul,0.010700000000000043,0.6774,0.6667
 2022-10-27 21:40:30.184765,Boxing Lines - Steve Claggett vs Jonathan Jose Eniz - To Win the Bout,Jonathan Jose Eniz,0.010699999999999987,0.3333,0.3226
 2022-10-28 07:40:37.871434,Round Match-Ups - 2nd Round Match-Up - B. Gay vs C. Gribble - 2nd Round Match-Up,Cody Gribble,0.010699999999999932,0.5455,0.5348
 2022-10-28 06:40:37.842616,UEFA Europa League - UEFA Europa League 22/23 - Winner,Arsenal,0.010499999999999982,0.2105,0.2
+2022-10-28 08:40:39.260873,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Atlético Mineiro,0.010100000000000001,0.0345,0.0244
 2022-10-28 05:40:36.666426,NFL Fantasy Specials - Week 8 Fantasy Scoring Leaders - Week 8 Highest Scoring RB (NON-PPR),Jonathan Taylor,-0.0102,0.0667,0.0769
 2022-10-28 06:40:36.004885,Boxing Lines - Jordan Reynolds vs Jose Manuel Lopez Clavero - To Win the Bout,Jose Manuel Lopez Clavero,-0.0102,0.0667,0.0769
 2022-10-27 22:40:38.464672,Portugal Masters - Portugal Masters - Outright,Jazz Janewattananond,-0.0103,0.002,0.0123
@@ -62,12 +70,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-28 05:40:37.100133,Boxing Lines - Mirko Natalizi vs Tony Dixon - To Win the Bout,Mirko Natalizi,-0.010500000000000065,0.7895,0.8
 2022-10-27 22:40:38.464672,Portugal Masters - Portugal Masters - Outright,Lukas Nemecz,-0.0109,0.004,0.0149
 2022-10-27 22:40:38.464672,Portugal Masters - Portugal Masters - Outright,Jack Senior,-0.011,0.0013,0.0123
+2022-10-28 06:40:36.018695,Boxing Lines - Gary Cully vs Jaouad Belmehdi - To Win the Bout,Jaouad Belmehdi,-0.011099999999999999,0.1,0.1111
+2022-10-28 06:40:37.076500,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Seattle Seahawks,Under 7.5,-0.011099999999999999,0.4651,0.4762
+2022-10-28 04:40:33.584941,Boxing Lines - Mirko Natalizi vs Tony Dixon - To Win the Bout,Tony Dixon,-0.011099999999999999,0.2667,0.2778
+2022-10-28 06:40:36.080190,Boxing Lines - Alexis Rocha vs Jesus Antonio Perez Campos - To Win the Bout,Jesus Antonio Perez Campos,-0.011099999999999999,0.1,0.1111
 2022-10-28 04:40:33.594781,Boxing Lines - Vianello Guido vs Jay McFarlane - To Win the Bout,Jay McFarlane,-0.011099999999999999,0.1,0.1111
 2022-10-28 06:40:36.073502,Boxing Lines - Troy Isley vs Quincy LaVallais - To Win the Bout,Quincy LaVallais,-0.011099999999999999,0.1,0.1111
-2022-10-28 04:40:33.584941,Boxing Lines - Mirko Natalizi vs Tony Dixon - To Win the Bout,Tony Dixon,-0.011099999999999999,0.2667,0.2778
-2022-10-28 06:40:36.018695,Boxing Lines - Gary Cully vs Jaouad Belmehdi - To Win the Bout,Jaouad Belmehdi,-0.011099999999999999,0.1,0.1111
-2022-10-28 06:40:36.080190,Boxing Lines - Alexis Rocha vs Jesus Antonio Perez Campos - To Win the Bout,Jesus Antonio Perez Campos,-0.011099999999999999,0.1,0.1111
-2022-10-28 06:40:37.076500,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Seattle Seahawks,Under 7.5,-0.011099999999999999,0.4651,0.4762
 2022-10-28 07:40:38.170987,Boxing Lines - Le'Veon Bell vs Uriah Hall - To Win the Bout,Uriah Hall,-0.011200000000000099,0.8291,0.8403
 2022-10-27 22:40:38.464672,Portugal Masters - Portugal Masters - Outright,Sebastian Garcia Rodriguez,-0.011300000000000001,0.001,0.0123
 2022-10-27 22:40:38.464672,Portugal Masters - Portugal Masters - Outright,Marcus Armitage,-0.011399999999999997,0.0164,0.0278
@@ -90,18 +98,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-28 05:40:36.666426,NFL Fantasy Specials - Week 8 Fantasy Scoring Leaders - Week 8 Highest Scoring RB (NON-PPR),Alvin Kamara,-0.013999999999999999,0.0769,0.0909
 2022-10-27 22:40:38.464672,Portugal Masters - Portugal Masters - Outright,Marcus Helligkilde,-0.0142,0.0022,0.0164
 2022-10-27 22:40:38.464672,Portugal Masters - Portugal Masters - Outright,Niklas Norgaard Moller,-0.0145,0.0099,0.0244
+2022-10-28 08:40:36.895067,Boxing Lines - Hiroto Kyoguchi vs Kenshiro Teraji - To Win the Bout,Hiroto Kyoguchi,-0.01539999999999997,0.6721,0.6875
 2022-10-27 22:40:38.464672,Portugal Masters - Portugal Masters - Outright,Grant Forrest,-0.0156,0.004,0.0196
 2022-10-28 06:40:36.039431,Boxing Lines - Mateusz Masternak vs Jason Whateley - To Win the Bout,Jason Whateley,-0.01579999999999998,0.3175,0.3333
 2022-10-27 22:40:38.464672,Portugal Masters - Portugal Masters - Outright,Edoardo Molinari,-0.015899999999999997,0.002,0.0179
 2022-10-27 22:40:38.260158,Boxing Lines - Le'Veon Bell vs Uriah Hall - To Win the Bout,Le'Veon Bell,-0.01629999999999998,0.2247,0.241
 2022-10-28 06:40:36.536519,Bermuda Championship - 2/3 Balls - 2nd Round 3 Balls - C. Hoffman / D. Ghim / R. Barnes - 2nd Round 3 Balls,Ricky Barnes,-0.016699999999999993,0.25,0.2667
-2022-10-28 06:40:36.116916,Boxing Lines - Nico Ali Walsh vs Billy Wagner - To Win the Bout,Billy Wagner,-0.016700000000000007,0.0833,0.1
 2022-10-28 06:40:36.102929,Boxing Lines - Ashton Sylve vs Braulio Rodriguez - To Win the Bout,Braulio Rodriguez,-0.016700000000000007,0.0833,0.1
+2022-10-28 06:40:36.116916,Boxing Lines - Nico Ali Walsh vs Billy Wagner - To Win the Bout,Billy Wagner,-0.016700000000000007,0.0833,0.1
 2022-10-27 22:40:38.464672,Portugal Masters - Portugal Masters - Outright,Matt Wallace,-0.0168,0.0217,0.0385
 2022-10-28 06:40:36.591437,Bermuda Championship - 2/3 Balls - 2nd Round 3 Balls - N. Hardy / M.J. Daffue / A. Bhatia - 2nd Round 3 Balls,MJ Daffue,-0.017600000000000005,0.3333,0.3509
+2022-10-28 02:40:38.210239,NCAA Football Specials - To Finish Regular Season Undefeated - Undefeated Regular Season,Tennessee,-0.0179,0.125,0.1429
 2022-10-27 23:40:35.998895,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Number 1 Seed,Jacksonville Jaguars,-0.0179,0.0099,0.0278
 2022-10-27 23:40:35.998895,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Number 1 Seed,Indianapolis Colts,-0.0179,0.0099,0.0278
-2022-10-28 02:40:38.210239,NCAA Football Specials - To Finish Regular Season Undefeated - Undefeated Regular Season,Tennessee,-0.0179,0.125,0.1429
 2022-10-28 06:40:35.984270,Boxing Lines - Mirko Natalizi vs Tony Dixon - To Win the Bout,Tony Dixon,-0.018100000000000005,0.2597,0.2778
 2022-10-28 06:40:36.066943,Boxing Lines - Jeremiah Milton vs Quintin Sumpter - To Win the Bout,Quintin Sumpter,-0.018100000000000005,0.2597,0.2778
 2022-10-27 22:40:38.464672,Portugal Masters - Portugal Masters - Outright,Antoine Rozner,-0.018200000000000004,0.0294,0.0476
@@ -122,6 +131,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-27 22:40:38.464672,Portugal Masters - Portugal Masters - Outright,Andy Sullivan,-0.0286,0.0099,0.0385
 2022-10-27 22:40:38.464672,Portugal Masters - Portugal Masters - Outright,Victor Perez,-0.033,0.0196,0.0526
 2022-10-28 02:40:38.118614,NFL Specials - Will Tom Brady retire in the middle of the 2022/2023 Rgular Season - Proposition,Yes,-0.033300000000000024,0.1667,0.2
+2022-10-28 08:40:39.265753,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Athletico Paranaense,-0.03570000000000001,0.25,0.2857
 2022-10-27 23:40:35.998895,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Number 1 Seed,Kansas City Chiefs,-0.036599999999999994,0.1739,0.2105
 2022-10-27 22:40:38.464672,Portugal Masters - Portugal Masters - Outright,Nicolai Hojgaard,-0.0377,0.0149,0.0526
 2022-10-27 22:40:38.464672,Portugal Masters - Portugal Masters - Outright,Robert MacIntyre,-0.0389,0.0278,0.0667
@@ -131,7 +141,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-27 23:40:35.998895,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Number 1 Seed,Los Angeles Chargers,-0.05249999999999999,0.0244,0.0769
 2022-10-27 23:40:35.998895,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Number 1 Seed,Baltimore Ravens,-0.06770000000000001,0.0323,0.1
 2022-10-28 06:40:37.451407,NFC South - 2022/2023 NFC South - NFC South Winner,Tampa Bay Buccaneers,-0.0816,0.6154,0.697
+2022-10-28 08:40:39.255957,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Ceará,-0.09230000000000005,0.3077,0.4
 2022-10-27 23:40:36.029416,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Number 1 Seed,Los Angeles Rams,-0.1127,0.0123,0.125
 2022-10-27 23:40:36.029416,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Number 1 Seed,Tampa Bay Buccaneers,-0.1386,0.0152,0.1538
+2022-10-28 08:40:39.255957,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Cuiabá,-0.15000000000000002,0.6,0.75
 2022-10-27 23:40:35.998895,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Number 1 Seed,Miami Dolphins,-0.152,0.0385,0.1905
 2022-10-27 23:40:36.029416,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Number 1 Seed,Green Bay Packers,-0.2006,0.0099,0.2105
