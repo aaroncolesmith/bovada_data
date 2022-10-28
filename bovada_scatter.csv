@@ -9,9 +9,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-28 16:40:44.844799,95th Academy Awards - Best Actress - Best Actress,Cate Blanchett,0.07400000000000001,0.4444,0.3704
 2022-10-28 17:40:37.525086,2022 Gubernatorial Elections - Wisconsin - Wisconsin winner,Republican,0.06969999999999998,0.6923,0.6226
 2022-10-28 16:40:45.201046,2022 Gubernatorial Elections - Nevada - Nevada winner,Republicans,0.06820000000000004,0.8182,0.75
-2022-10-28 06:40:37.451407,NFC South - 2022/2023 NFC South - NFC South Winner,New Orleans Saints,0.06669999999999998,0.1667,0.1
 2022-10-28 13:41:01.034560,KBO League - KBO League 2022 - Outright,SSG Landers,0.06579999999999997,0.6491,0.5833
-2022-10-28 06:40:37.397740,AFC North - 2022/2023 AFC North - AFC North Winner,Baltimore Ravens,0.06269999999999998,0.6923,0.6296
 2022-10-28 16:40:44.902644,Celebrity Specials - Tom Brady and Gisele Bundchen Specials - Tom Brady and Gisele Bundchen Specials,To confirm that they split up and reunited in 2022,0.05559999999999998,0.5,0.4444
 2022-10-28 16:40:44.951376,US Presidential Election 2024 - US Presidential Election 2024 - First In Group To Announce Their 2024 Presidential Run - First In Group To Announce 2024 Presidential Campaign,Ted Cruz,0.052300000000000006,0.1111,0.0588
 2022-10-28 16:40:45.026793,Donald Trump Specials - When will Donald Trump announce his 2024 presidential campaign? - When will Trump announce his 2024 campaign?,December 2022,0.052000000000000005,0.1429,0.0909
@@ -29,75 +27,52 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-28 09:40:42.724218,Miami - Quarter Finals - Quarter Finals - Torque v Cleeks - Outright,Torque,0.030299999999999994,0.6667,0.6364
 2022-10-28 16:40:45.079658,US Midterm Elections 2022 - Senate Races: 10 Markets - Nevada,Republican,0.028299999999999992,0.6774,0.6491
 2022-10-28 17:40:37.041782,Boxing Lines - Ashton Sylve vs Braulio Rodriguez - To Win the Bout,Ashton Sylve,0.028000000000000025,0.9804,0.9524
+2022-10-28 18:40:50.803091,2022 Gubernatorial Elections - Pennsylvania - Pennsylvania winner,Democrat,0.027999999999999914,0.8462,0.8182
 2022-10-28 11:40:40.661147,NFC South - 2022/2023 NFC South - NFC South Winner,Atlanta Falcons,0.02779999999999999,0.25,0.2222
-2022-10-28 06:40:36.591437,Bermuda Championship - 2/3 Balls - 2nd Round 3 Balls - N. Hardy / M.J. Daffue / A. Bhatia - 2nd Round 3 Balls,Akshay Bhatia,0.02779999999999999,0.25,0.2222
 2022-10-28 17:40:37.397474,US Midterm Elections 2022 - Senate Races: 10 Markets - Georgia,Republican,0.026499999999999968,0.5917,0.5652
 2022-10-28 08:40:39.265753,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Atlético Mineiro,0.025600000000000067,0.6923,0.6667
-2022-10-28 06:40:36.536519,Bermuda Championship - 2/3 Balls - 2nd Round 3 Balls - C. Hoffman / D. Ghim / R. Barnes - 2nd Round 3 Balls,Doug Ghim,0.025499999999999967,0.4255,0.4
-2022-10-28 06:40:36.550439,Bermuda Championship - 2/3 Balls - 2nd Round 3 Balls - R. Knox / A. Smotherman / C. Gribble - 2nd Round 3 Balls,Russell Knox,0.025499999999999967,0.4255,0.4
 2022-10-28 10:40:40.555726,Round Match-Ups - 2nd Round Match-Up - R. Knox vs A. Long - 2nd Round Match-Up,Adam Long,0.024399999999999977,0.5122,0.4878
-2022-10-28 06:40:37.451407,NFC South - 2022/2023 NFC South - NFC South Winner,Carolina Panthers,0.024299999999999995,0.0769,0.0526
-2022-10-28 06:40:36.747218,Mitsubishi Electric Ladies - Mitsubishi Electric Ladies - Outright,Mone Inami,0.0242,0.0909,0.0667
 2022-10-28 17:40:37.515949,2022 Gubernatorial Elections - Texas - Texas winner,Republican,0.0242,0.9333,0.9091
 2022-10-28 16:40:45.233027,2022 Gubernatorial Elections - Wisconsin - Wisconsin winner,Republican,0.022600000000000064,0.6226,0.6
-2022-10-28 08:40:39.376006,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,Villarreal,0.022199999999999998,0.2222,0.2
 2022-10-28 15:40:43.542296,2022 Gubernatorial Elections - Pennsylvania - Pennsylvania winner,Democrat,0.022199999999999998,0.8,0.7778
+2022-10-28 08:40:39.376006,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,Villarreal,0.022199999999999998,0.2222,0.2
 2022-10-28 10:40:40.322617,Bermuda Championship - 2/3 Balls - 2nd Round 3 Balls - A. Smalley / B. Hun / W. Bryan - 2nd Round 3 Balls,Alex Smalley,0.021699999999999997,0.4762,0.4545
 2022-10-28 13:41:03.302168,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,FC Köln,0.0203,0.0588,0.0385
 2022-10-28 17:40:37.469772,2022 Gubernatorial Elections - Georgia - Georgia winner,Republican,0.020199999999999996,0.9091,0.8889
 2022-10-28 14:41:00.397591,Boxing Lines - Mirko Natalizi vs Tony Dixon - To Win the Bout,Mirko Natalizi,0.020000000000000018,0.8095,0.7895
-2022-10-28 06:40:35.984270,Boxing Lines - Mirko Natalizi vs Tony Dixon - To Win the Bout,Mirko Natalizi,0.020000000000000018,0.8095,0.7895
 2022-10-28 10:40:40.576110,Round Match-Ups - 2nd Round Match-Up - B. Gay vs C. Gribble - 2nd Round Match-Up,Cody Gribble,0.01970000000000005,0.5652,0.5455
-2022-10-28 06:40:36.577745,Bermuda Championship - 2/3 Balls - 2nd Round 3 Balls - L. Glover / B. Gay / L. Donald - 2nd Round 3 Balls,Lucas Glover,0.019699999999999995,0.4545,0.4348
-2022-10-28 11:40:39.119749,Brazilian Politics - 2022 Brazilian Presidential Election - Winner,Lula da Silva,0.018999999999999906,0.7333,0.7143
 2022-10-28 17:40:37.410814,US Midterm Elections 2022 - Senate Races: 10 Markets - New Hampshire,Democrat,0.018999999999999906,0.7333,0.7143
+2022-10-28 11:40:39.119749,Brazilian Politics - 2022 Brazilian Presidential Election - Winner,Lula da Silva,0.018999999999999906,0.7333,0.7143
 2022-10-28 17:40:37.057860,Boxing Lines - Nico Ali Walsh vs Billy Wagner - To Win the Bout,Nico Ali Walsh,0.01849999999999996,0.9709,0.9524
 2022-10-28 17:40:37.508037,2022 Gubernatorial Elections - Pennsylvania - Pennsylvania winner,Democrat,0.018199999999999994,0.8182,0.8
 2022-10-28 10:40:40.494750,Round Match-Ups - 2nd Round Match-Up - D. McCarthy vs R. Shelton - 2nd Round Match-Up,Denny McCarthy,0.018100000000000005,0.5833,0.5652
-2022-10-28 06:40:36.747218,Mitsubishi Electric Ladies - Mitsubishi Electric Ladies - Outright,Mao Saigo,0.018099999999999998,0.0769,0.0588
 2022-10-28 10:40:40.388784,Bermuda Championship - 2/3 Balls - 2nd Round 3 Balls - G. Higgo / C. Ramey / R. Brehm - 2nd Round 3 Balls,Ryan Brehm,0.016699999999999993,0.2667,0.25
-2022-10-28 06:40:36.060245,Boxing Lines - Hector Valdez vs Max Ornelas - To Win the Bout,Max Ornelas,0.016699999999999993,0.4167,0.4
 2022-10-28 16:40:44.844799,95th Academy Awards - Best Actress - Best Actress,Michelle Yeoh,0.015100000000000002,0.1818,0.1667
-2022-10-28 06:40:36.025279,Boxing Lines - Johnny Fisher vs Dominik Musil - To Win the Bout,Johnny Fisher,0.014900000000000024,0.9804,0.9655
-2022-10-28 06:40:35.971788,Elite Boxing - Anderson Silva vs Jake Paul - To Win the Bout,Jake Paul,0.014900000000000024,0.6923,0.6774
 2022-10-28 08:40:36.895067,Boxing Lines - Hiroto Kyoguchi vs Kenshiro Teraji - To Win the Bout,Kenshiro Teraji,0.01479999999999998,0.3922,0.3774
-2022-10-28 06:40:36.109847,Boxing Lines - Le'Veon Bell vs Uriah Hall - To Win the Bout,Uriah Hall,0.014200000000000101,0.8403,0.8261
 2022-10-28 17:40:37.444491,US Midterm Elections 2022 - Which Party will win the House in the 2022 Midterm Election? - Winning Party,Republican,0.014000000000000012,0.9231,0.9091
-2022-10-28 06:40:36.032332,Boxing Lines - Mickey Ellison vs Thomas Whittaker Hart - To Win the Bout,Thomas Whittaker Hart,0.014000000000000012,0.9231,0.9091
 2022-10-28 08:40:39.265753,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,São Paulo,0.012899999999999995,0.1667,0.1538
-2022-10-28 06:40:36.571002,Bermuda Championship - 2/3 Balls - 2nd Round 3 Balls - G. Higgo / C. Ramey / R. Brehm - 2nd Round 3 Balls,Chad Ramey,0.012699999999999989,0.3636,0.3509
-2022-10-28 06:40:37.471852,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Baltimore Ravens,0.011199999999999995,0.0588,0.0476
 2022-10-28 16:40:45.040216,US Midterm Elections 2022 - Midterm Elections Turnout - Midterm Elections 2022 Turnout,To exceed 2018 midterms turnout,0.011099999999999999,0.9,0.8889
 2022-10-28 17:40:37.454880,2022 Gubernatorial Elections - Arizona - Arizona winner,Republicans,0.01090000000000002,0.8571,0.8462
 2022-10-28 08:40:39.255957,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Avaí,0.010800000000000032,0.996,0.9852
 2022-10-28 07:40:38.170987,Boxing Lines - Le'Veon Bell vs Uriah Hall - To Win the Bout,Le'Veon Bell,0.010800000000000004,0.2381,0.2273
 2022-10-28 07:40:37.871434,Round Match-Ups - 2nd Round Match-Up - B. Gay vs C. Gribble - 2nd Round Match-Up,Cody Gribble,0.010699999999999932,0.5455,0.5348
-2022-10-28 06:40:37.842616,UEFA Europa League - UEFA Europa League 22/23 - Winner,Arsenal,0.010499999999999982,0.2105,0.2
 2022-10-28 08:40:39.260873,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Atlético Mineiro,0.010100000000000001,0.0345,0.0244
 2022-10-28 17:40:37.381679,US Midterm Elections 2022 - Senate Races: 10 Markets - Arizona,Democrat,-0.010099999999999998,0.4444,0.4545
-2022-10-28 06:40:36.004885,Boxing Lines - Jordan Reynolds vs Jose Manuel Lopez Clavero - To Win the Bout,Jose Manuel Lopez Clavero,-0.0102,0.0667,0.0769
 2022-10-28 11:40:40.661147,NFC South - 2022/2023 NFC South - NFC South Winner,Carolina Panthers,-0.0102,0.0667,0.0769
 2022-10-28 13:41:02.837575,Euroleague - Euroleague 2022/23 - Outright,Real Madrid BC,-0.010499999999999982,0.2,0.2105
 2022-10-28 10:40:39.767761,Boxing Lines - Regis Prograis vs Jose Zepeda - To Win the Bout,Jose Zepeda,-0.010699999999999987,0.3226,0.3333
 2022-10-28 17:40:37.444491,US Midterm Elections 2022 - Which Party will win the House in the 2022 Midterm Election? - Winning Party,Democratic,-0.010899999999999993,0.1429,0.1538
-2022-10-28 06:40:36.080190,Boxing Lines - Alexis Rocha vs Jesus Antonio Perez Campos - To Win the Bout,Jesus Antonio Perez Campos,-0.011099999999999999,0.1,0.1111
-2022-10-28 06:40:36.018695,Boxing Lines - Gary Cully vs Jaouad Belmehdi - To Win the Bout,Jaouad Belmehdi,-0.011099999999999999,0.1,0.1111
-2022-10-28 06:40:37.076500,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Seattle Seahawks,Under 7.5,-0.011099999999999999,0.4651,0.4762
 2022-10-28 10:40:40.494750,Round Match-Ups - 2nd Round Match-Up - D. McCarthy vs R. Shelton - 2nd Round Match-Up,Robby Shelton,-0.011099999999999999,0.4651,0.4762
 2022-10-28 17:40:37.508037,2022 Gubernatorial Elections - Pennsylvania - Pennsylvania winner,Republican,-0.011099999999999999,0.2667,0.2778
-2022-10-28 06:40:36.073502,Boxing Lines - Troy Isley vs Quincy LaVallais - To Win the Bout,Quincy LaVallais,-0.011099999999999999,0.1,0.1111
-2022-10-28 16:40:44.951376,US Presidential Election 2024 - US Presidential Election 2024 - First In Group To Announce Their 2024 Presidential Run - First In Group To Announce 2024 Presidential Campaign,Josh Hawley,-0.011199999999999995,0.0476,0.0588
 2022-10-28 16:40:44.951376,US Presidential Election 2024 - US Presidential Election 2024 - First In Group To Announce Their 2024 Presidential Run - First In Group To Announce 2024 Presidential Campaign,Tom Cotton,-0.011199999999999995,0.0476,0.0588
+2022-10-28 16:40:44.951376,US Presidential Election 2024 - US Presidential Election 2024 - First In Group To Announce Their 2024 Presidential Run - First In Group To Announce 2024 Presidential Campaign,Josh Hawley,-0.011199999999999995,0.0476,0.0588
 2022-10-28 07:40:38.170987,Boxing Lines - Le'Veon Bell vs Uriah Hall - To Win the Bout,Uriah Hall,-0.011200000000000099,0.8291,0.8403
-2022-10-28 06:40:36.591437,Bermuda Championship - 2/3 Balls - 2nd Round 3 Balls - N. Hardy / M.J. Daffue / A. Bhatia - 2nd Round 3 Balls,Nick Hardy,-0.011600000000000055,0.5122,0.5238
-2022-10-28 06:40:36.025279,Boxing Lines - Johnny Fisher vs Dominik Musil - To Win the Bout,Dominik Musil,-0.011899999999999994,0.0714,0.0833
 2022-10-28 16:40:45.040216,US Midterm Elections 2022 - Midterm Elections Turnout - Midterm Elections 2022 Turnout,To exceed 2020 presidential election turnout,-0.011900000000000022,0.1667,0.1786
 2022-10-28 07:40:37.871434,Round Match-Ups - 2nd Round Match-Up - B. Gay vs C. Gribble - 2nd Round Match-Up,Brian Gay,-0.012199999999999989,0.5,0.5122
 2022-10-28 16:40:44.979639,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Republican Candidate,Donald Trump,-0.012199999999999989,0.4878,0.5
 2022-10-28 10:40:39.739518,Boxing Lines - Craig Richards vs Ricards Bolotniks - To Win the Bout,Ricards Bolotniks,-0.012499999999999983,0.198,0.2105
 2022-10-28 17:40:37.429990,US Midterm Elections 2022 - Senate Races: 10 Markets - Pennsylvania,Democrat,-0.012699999999999989,0.3509,0.3636
 2022-10-28 11:40:40.661147,NFC South - 2022/2023 NFC South - NFC South Winner,New Orleans Saints,-0.012899999999999995,0.1538,0.1667
-2022-10-28 06:40:35.971788,Elite Boxing - Anderson Silva vs Jake Paul - To Win the Bout,Anderson Silva,-0.013300000000000034,0.3571,0.3704
 2022-10-28 16:40:44.951376,US Presidential Election 2024 - US Presidential Election 2024 - First In Group To Announce Their 2024 Presidential Run - First In Group To Announce 2024 Presidential Campaign,Mike Pence,-0.013899999999999996,0.1111,0.125
 2022-10-28 17:40:37.491327,2022 Gubernatorial Elections - Maryland - Maryland winner,Republicans,-0.013999999999999999,0.0769,0.0909
 2022-10-28 16:40:44.951376,US Presidential Election 2024 - US Presidential Election 2024 - First In Group To Announce Their 2024 Presidential Run - First In Group To Announce 2024 Presidential Campaign,Liz Cheney,-0.013999999999999999,0.0769,0.0909
@@ -105,30 +80,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-28 16:40:44.968386,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Democratic Candidate,Kamala Harris,-0.015100000000000002,0.1667,0.1818
 2022-10-28 16:40:45.048069,US Midterm Elections 2022 - Senate Majority - Republican Senate Seats Following Election,50 Republican Seats,-0.015100000000000002,0.1667,0.1818
 2022-10-28 08:40:36.895067,Boxing Lines - Hiroto Kyoguchi vs Kenshiro Teraji - To Win the Bout,Hiroto Kyoguchi,-0.01539999999999997,0.6721,0.6875
-2022-10-28 06:40:36.039431,Boxing Lines - Mateusz Masternak vs Jason Whateley - To Win the Bout,Jason Whateley,-0.01579999999999998,0.3175,0.3333
 2022-10-28 11:40:39.413215,Boxing Lines - Le'Veon Bell vs Uriah Hall - To Win the Bout,Le'Veon Bell,-0.015899999999999997,0.2222,0.2381
 2022-10-28 10:40:40.322617,Bermuda Championship - 2/3 Balls - 2nd Round 3 Balls - A. Smalley / B. Hun / W. Bryan - 2nd Round 3 Balls,Byeong Hun An,-0.016699999999999993,0.4,0.4167
-2022-10-28 06:40:36.536519,Bermuda Championship - 2/3 Balls - 2nd Round 3 Balls - C. Hoffman / D. Ghim / R. Barnes - 2nd Round 3 Balls,Ricky Barnes,-0.016699999999999993,0.25,0.2667
-2022-10-28 06:40:36.116916,Boxing Lines - Nico Ali Walsh vs Billy Wagner - To Win the Bout,Billy Wagner,-0.016700000000000007,0.0833,0.1
+2022-10-28 18:40:50.803091,2022 Gubernatorial Elections - Pennsylvania - Pennsylvania winner,Republican,-0.016699999999999993,0.25,0.2667
 2022-10-28 14:41:00.408385,Boxing Lines - Vianello Guido vs Jay McFarlane - To Win the Bout,Jay McFarlane,-0.016700000000000007,0.0833,0.1
-2022-10-28 06:40:36.102929,Boxing Lines - Ashton Sylve vs Braulio Rodriguez - To Win the Bout,Braulio Rodriguez,-0.016700000000000007,0.0833,0.1
-2022-10-28 06:40:36.591437,Bermuda Championship - 2/3 Balls - 2nd Round 3 Balls - N. Hardy / M.J. Daffue / A. Bhatia - 2nd Round 3 Balls,MJ Daffue,-0.017600000000000005,0.3333,0.3509
 2022-10-28 17:40:37.410814,US Midterm Elections 2022 - Senate Races: 10 Markets - New Hampshire,Republican,-0.017600000000000005,0.3333,0.3509
-2022-10-28 06:40:35.984270,Boxing Lines - Mirko Natalizi vs Tony Dixon - To Win the Bout,Tony Dixon,-0.018100000000000005,0.2597,0.2778
-2022-10-28 06:40:36.066943,Boxing Lines - Jeremiah Milton vs Quintin Sumpter - To Win the Bout,Quintin Sumpter,-0.018100000000000005,0.2597,0.2778
 2022-10-28 14:41:00.397591,Boxing Lines - Mirko Natalizi vs Tony Dixon - To Win the Bout,Tony Dixon,-0.018100000000000005,0.2597,0.2778
-2022-10-28 06:40:36.577745,Bermuda Championship - 2/3 Balls - 2nd Round 3 Balls - L. Glover / B. Gay / L. Donald - 2nd Round 3 Balls,Brian Gay,-0.018799999999999983,0.3448,0.3636
 2022-10-28 16:40:44.951376,US Presidential Election 2024 - US Presidential Election 2024 - First In Group To Announce Their 2024 Presidential Run - First In Group To Announce 2024 Presidential Campaign,Ron DeSantis,-0.019000000000000017,0.2667,0.2857
 2022-10-28 13:41:00.684319,Boxing Lines - Mirko Natalizi vs Tony Dixon - To Win the Bout,Mirko Natalizi,-0.020000000000000018,0.7895,0.8095
 2022-10-28 17:40:37.515949,2022 Gubernatorial Elections - Texas - Texas winner,Democrat,-0.02049999999999999,0.1333,0.1538
-2022-10-28 06:40:36.032332,Boxing Lines - Mickey Ellison vs Thomas Whittaker Hart - To Win the Bout,Mickey Ellison,-0.02049999999999999,0.1333,0.1538
-2022-10-28 06:40:36.557301,Bermuda Championship - 2/3 Balls - 2nd Round 3 Balls - J. Lower / M. Hubbard / S. Bae - 2nd Round 3 Balls,Justin Lower,-0.020699999999999996,0.4444,0.4651
 2022-10-28 10:40:40.555726,Round Match-Ups - 2nd Round Match-Up - R. Knox vs A. Long - 2nd Round Match-Up,Russell Knox,-0.02079999999999993,0.5348,0.5556
 2022-10-28 10:40:40.388784,Bermuda Championship - 2/3 Balls - 2nd Round 3 Balls - G. Higgo / C. Ramey / R. Brehm - 2nd Round 3 Balls,Garrick Higgo,-0.021699999999999997,0.4545,0.4762
 2022-10-28 17:40:37.454880,2022 Gubernatorial Elections - Arizona - Arizona winner,Democrats,-0.022199999999999998,0.2,0.2222
-2022-10-28 06:40:36.086960,Boxing Lines - Antonio Nieves vs Alexandro Santiago - To Win the Bout,Antonio Nieves,-0.022199999999999998,0.3226,0.3448
-2022-10-28 06:40:36.550439,Bermuda Championship - 2/3 Balls - 2nd Round 3 Balls - R. Knox / A. Smotherman / C. Gribble - 2nd Round 3 Balls,Austin Smotherman,-0.02260000000000001,0.3774,0.4
-2022-10-28 06:40:36.571002,Bermuda Championship - 2/3 Balls - 2nd Round 3 Balls - G. Higgo / C. Ramey / R. Brehm - 2nd Round 3 Balls,Garrick Higgo,-0.023799999999999988,0.4762,0.5
 2022-10-28 10:40:40.576110,Round Match-Ups - 2nd Round Match-Up - B. Gay vs C. Gribble - 2nd Round Match-Up,Brian Gay,-0.023799999999999988,0.4762,0.5
 2022-10-28 13:41:02.837575,Euroleague - Euroleague 2022/23 - Outright,Olympiakos,-0.023799999999999988,0.1429,0.1667
 2022-10-28 17:40:37.397474,US Midterm Elections 2022 - Senate Races: 10 Markets - Georgia,Democrat,-0.023799999999999988,0.4762,0.5
@@ -148,13 +111,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-28 17:40:37.417162,US Midterm Elections 2022 - Senate Races: 10 Markets - North Carolina,Democrat,-0.037000000000000005,0.1852,0.2222
 2022-10-28 17:40:37.403600,US Midterm Elections 2022 - Senate Races: 10 Markets - Nevada,Democrat,-0.0413,0.3509,0.3922
 2022-10-28 17:40:37.435526,US Midterm Elections 2022 - Senate Races: 10 Markets - Wisconsin,Democrat,-0.0421,0.1905,0.2326
-2022-10-28 06:40:37.451407,NFC South - 2022/2023 NFC South - NFC South Winner,Atlanta Falcons,-0.044499999999999984,0.2222,0.2667
 2022-10-28 16:40:45.056951,US Midterm Elections 2022 - Senate Races: 10 Markets - Arizona,Democrat,-0.045499999999999985,0.4545,0.5
-2022-10-28 06:40:37.397740,AFC North - 2022/2023 AFC North - AFC North Winner,Cincinnati Bengals,-0.05130000000000001,0.3333,0.3846
 2022-10-28 16:40:45.251423,UK Politics - Rishi Sunak Prime Minister Exit Date - When will Rishi Sunak exit role of Prime Minister?,2024,-0.05559999999999998,0.5,0.5556
 2022-10-28 16:40:45.201046,2022 Gubernatorial Elections - Nevada - Nevada winner,Democrats,-0.0736,0.2597,0.3333
 2022-10-28 17:40:37.525086,2022 Gubernatorial Elections - Wisconsin - Wisconsin winner,Democrat,-0.08080000000000004,0.3636,0.4444
-2022-10-28 06:40:37.451407,NFC South - 2022/2023 NFC South - NFC South Winner,Tampa Bay Buccaneers,-0.0816,0.6154,0.697
 2022-10-28 08:40:39.255957,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Ceará,-0.09230000000000005,0.3077,0.4
 2022-10-28 16:40:45.026793,Donald Trump Specials - When will Donald Trump announce his 2024 presidential campaign? - When will Trump announce his 2024 campaign?,November 2022,-0.09999999999999998,0.5,0.6
 2022-10-28 16:40:45.160736,2022 Gubernatorial Elections - Arizona - Arizona winner,Democrats,-0.11109999999999998,0.2222,0.3333
