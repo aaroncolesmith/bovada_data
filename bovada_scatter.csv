@@ -10,12 +10,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-29 02:40:28.572439,NBL - NBL 2022/23 - Outright,New Zealand Breakers,0.0321,0.0909,0.0588
 2022-10-29 02:40:28.572439,NBL - NBL 2022/23 - Outright,South East Melbourne Phoenix,0.028700000000000003,0.2105,0.1818
 2022-10-28 21:40:37.251177,Boxing Lines - Le'Veon Bell vs Uriah Hall - To Win the Bout,Uriah Hall,0.028000000000000025,0.8571,0.8291
-2022-10-28 18:40:50.803091,2022 Gubernatorial Elections - Pennsylvania - Pennsylvania winner,Democrat,0.027999999999999914,0.8462,0.8182
+2022-10-29 07:40:35.322792,Boxing Lines - Le'Veon Bell vs Uriah Hall - To Win the Bout,Le'Veon Bell,0.02529999999999999,0.25,0.2247
 2022-10-28 19:40:44.758105,Portugal Masters - Portugal Masters - Outright,Sebastian Heisele,0.024499999999999997,0.0278,0.0033
 2022-10-29 00:40:29.879644,US Midterm Elections 2022 - Senate Races: 10 Markets - New Hampshire,Democrat,0.022800000000000042,0.7561,0.7333
+2022-10-29 02:40:29.520299,Round Match-Ups - 3rd Round Match-Up - P. Rodgers vs R. Knox - 3rd Round Match-Up,Patrick Rodgers,0.02079999999999993,0.5556,0.5348
 2022-10-29 02:40:29.510262,Round Match-Ups - 3rd Round Match-Up - D. McCarthy vs J. Lower - 3rd Round Match-Up,Denny McCarthy,0.02079999999999993,0.5556,0.5348
 2022-10-29 06:40:31.882868,Round Match-Ups - 3rd Round Match-Up - B. Crane vs D. Wu - 3rd Round Match-Up,Dylan Wu,0.02079999999999993,0.5556,0.5348
-2022-10-29 02:40:29.520299,Round Match-Ups - 3rd Round Match-Up - P. Rodgers vs R. Knox - 3rd Round Match-Up,Patrick Rodgers,0.02079999999999993,0.5556,0.5348
 2022-10-29 04:40:43.674606,2022 Gubernatorial Elections - Pennsylvania - Pennsylvania winner,Democrat,0.020500000000000074,0.8667,0.8462
 2022-10-28 19:40:44.758105,Portugal Masters - Portugal Masters - Outright,Rikard Karlberg,0.0194,0.0244,0.005
 2022-10-28 19:40:44.758105,Portugal Masters - Portugal Masters - Outright,Nicolai Von Dellingshausen,0.019099999999999995,0.0435,0.0244
@@ -29,8 +29,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-29 04:40:44.083448,Boxing Lines - Dmitry Bivol vs Gilberto Ramirez - To Win the Bout,Dmitry Bivol,0.011900000000000022,0.8214,0.8095
 2022-10-29 02:40:29.490627,Round Match-Ups - 3rd Round Match-Up - B. Crane vs D. Wu - 3rd Round Match-Up,Dylan Wu,0.01100000000000001,0.5348,0.5238
 2022-10-29 02:40:29.362349,Portugal Masters - 2/3 Balls - 3rd Round 3 Balls - R. Sterne / L. Bjerregaard / R. MacIntyre - 3rd Round 3 Balls,Lucas Bjerregaard,0.010699999999999987,0.3333,0.3226
-2022-10-29 02:40:29.426093,Portugal Masters - 2/3 Balls - 3rd Round 3 Balls - M. Jordan / K. Samooja / S. Hend - 3rd Round 3 Balls,Kalle Samooja,0.010099999999999998,0.3226,0.3125
 2022-10-29 02:40:29.467867,Portugal Masters - 2/3 Balls - 3rd Round 3 Balls - T. Pulkkanen / J. Smith / G. Green - 3rd Round 3 Balls,Tapio Pulkkanen,0.010099999999999998,0.3226,0.3125
+2022-10-29 02:40:29.426093,Portugal Masters - 2/3 Balls - 3rd Round 3 Balls - M. Jordan / K. Samooja / S. Hend - 3rd Round 3 Balls,Kalle Samooja,0.010099999999999998,0.3226,0.3125
 2022-10-29 02:40:29.350387,Portugal Masters - 2/3 Balls - 3rd Round 3 Balls - M. Siem / D. Gavins / A. Sullivan - 3rd Round 3 Balls,Marcel Siem,-0.010099999999999998,0.3125,0.3226
 2022-10-29 02:40:29.414316,Portugal Masters - 2/3 Balls - 3rd Round 3 Balls - T. Lee / D. Drysdale / D. Van Driel - 3rd Round 3 Balls,David Drysdale,-0.010099999999999998,0.3125,0.3226
 2022-10-29 04:40:43.585236,US Midterm Elections 2022 - Senate Races: Winning Margin - Pennsylvania,Republican <1%,-0.010299999999999976,0.2564,0.2667
@@ -47,22 +47,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-10-29 04:40:44.083448,Boxing Lines - Dmitry Bivol vs Gilberto Ramirez - To Win the Bout,Gilberto Ramirez,-0.012799999999999978,0.2469,0.2597
 2022-10-28 19:40:44.758105,Portugal Masters - Portugal Masters - Outright,Sami Valimaki,-0.012899999999999998,0.005,0.0179
 2022-10-28 19:40:44.758105,Portugal Masters - Portugal Masters - Outright,Julien Brun,-0.014599999999999998,0.005,0.0196
-2022-10-29 04:40:43.674606,2022 Gubernatorial Elections - Pennsylvania - Pennsylvania winner,Republican,-0.01469999999999999,0.2353,0.25
 2022-10-29 02:40:28.572439,NBL - NBL 2022/23 - Outright,Adelaide 36ers,-0.01469999999999999,0.2353,0.25
+2022-10-29 04:40:43.674606,2022 Gubernatorial Elections - Pennsylvania - Pennsylvania winner,Republican,-0.01469999999999999,0.2353,0.25
 2022-10-29 05:40:45.011609,Elite Boxing - Jamaine Ortiz vs Vasyl Lomachenko - To Win the Bout,Vasyl Lomachenko,-0.014900000000000024,0.9375,0.9524
-2022-10-28 18:40:50.803091,2022 Gubernatorial Elections - Pennsylvania - Pennsylvania winner,Republican,-0.016699999999999993,0.25,0.2667
 2022-10-28 19:40:44.758105,Portugal Masters - Portugal Masters - Outright,Mikko Korhonen,-0.0171,0.0025,0.0196
 2022-10-29 04:40:46.827471,Championship - England Championship 2022/23 - Outright,Queens Park Rangers,-0.018099999999999998,0.0588,0.0769
 2022-10-29 02:40:29.385428,Portugal Masters - 2/3 Balls - 3rd Round 3 Balls - M. Kawamura / N. Lemke / A. Chesters - 3rd Round 3 Balls,Masahiro Kawamura,-0.018100000000000005,0.4167,0.4348
 2022-10-28 19:40:44.758105,Portugal Masters - Portugal Masters - Outright,Robert MacIntyre,-0.022099999999999998,0.0057,0.0278
 2022-10-28 19:40:44.758105,Portugal Masters - Portugal Masters - Outright,Joost Luiten,-0.024299999999999995,0.0345,0.0588
+2022-10-29 02:40:29.510262,Round Match-Ups - 3rd Round Match-Up - D. McCarthy vs J. Lower - 3rd Round Match-Up,Justin Lower,-0.024399999999999977,0.4878,0.5122
 2022-10-29 06:40:31.882868,Round Match-Ups - 3rd Round Match-Up - B. Crane vs D. Wu - 3rd Round Match-Up,Ben Crane,-0.024399999999999977,0.4878,0.5122
 2022-10-29 02:40:29.520299,Round Match-Ups - 3rd Round Match-Up - P. Rodgers vs R. Knox - 3rd Round Match-Up,Russell Knox,-0.024399999999999977,0.4878,0.5122
-2022-10-29 02:40:29.510262,Round Match-Ups - 3rd Round Match-Up - D. McCarthy vs J. Lower - 3rd Round Match-Up,Justin Lower,-0.024399999999999977,0.4878,0.5122
 2022-10-29 00:40:29.879644,US Midterm Elections 2022 - Senate Races: 10 Markets - New Hampshire,Republican,-0.02560000000000001,0.3077,0.3333
 2022-10-28 19:40:44.758105,Portugal Masters - Portugal Masters - Outright,Yannik Paul,-0.0286,0.0099,0.0385
 2022-10-29 02:40:29.505355,Round Match-Ups - 3rd Round Match-Up - C.T. Pan vs F. Gomez - 3rd Round Match-Up,Fabian Gomez,-0.03489999999999999,0.4651,0.5
 2022-10-28 19:40:44.758105,Portugal Masters - Portugal Masters - Outright,Kiradech Aphibarnrat,-0.0378,0.0057,0.0435
+2022-10-29 07:40:35.322792,Boxing Lines - Le'Veon Bell vs Uriah Hall - To Win the Bout,Uriah Hall,-0.038899999999999935,0.8182,0.8571
 2022-10-29 02:40:29.495511,Round Match-Ups - 3rd Round Match-Up - B. Griffin vs B. Gay - 3rd Round Match-Up,Brian Gay,-0.047099999999999975,0.4651,0.5122
 2022-10-28 19:40:44.758105,Portugal Masters - Portugal Masters - Outright,Jeff Winther,-0.047099999999999996,0.0196,0.0667
 2022-10-29 02:40:28.572439,NBL - NBL 2022/23 - Outright,Perth Wildcats,-0.05379999999999999,0.1,0.1538
