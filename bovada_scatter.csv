@@ -13,6 +13,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-04 09:40:41.976997,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Sacks (Regular Season),Myles Garrett,0.04909999999999999,0.1667,0.1176
 2022-11-04 06:40:46.826361,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Comeback Player of the Year Award,Geno Smith,0.047599999999999976,0.3333,0.2857
 2022-11-04 07:41:03.873224,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Minnesota Vikings,Under 11.5,0.04700000000000004,0.5348,0.4878
+2022-11-04 10:40:39.586545,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,West Ham United,0.04620000000000002,0.2,0.1538
 2022-11-04 09:40:41.960257,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),Dameon Pierce,0.0448,0.0833,0.0385
 2022-11-04 06:40:46.816194,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Kevin O'Connell,0.04440000000000001,0.1111,0.0667
 2022-11-04 07:41:03.781180,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Houston Texans,Under 3.5,0.044399999999999995,0.6,0.5556
@@ -23,6 +24,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-04 06:40:46.901823,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Jalen Hurts,0.0353,0.2353,0.2
 2022-11-04 07:41:03.882984,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  New England Patriots,Over 8.5,0.03489999999999999,0.5,0.4651
 2022-11-04 04:40:41.660873,NBL - NBL 2022/23 - Outright,New Zealand Breakers,0.034100000000000005,0.125,0.0909
+2022-11-04 10:40:39.586545,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,Fiorentina,0.0321,0.0909,0.0588
 2022-11-04 03:40:38.090491,UEFA Europa League - UEFA Europa League 22/23 - Winner,Real Betis,0.0321,0.0909,0.0588
 2022-11-04 06:40:47.427107,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Los Angeles Lakers,Under 38.5,0.03179999999999994,0.5556,0.5238
 2022-11-04 06:40:47.076965,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Indianapolis Colts,Yes,0.03059999999999999,0.2632,0.2326
@@ -31,20 +33,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-04 09:40:40.324921,US Midterm Elections 2022 - Senate Races: 35 Markets - Florida,Republican,0.028000000000000025,0.9804,0.9524
 2022-11-04 08:40:34.079855,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Miami Dolphins,Yes,0.027800000000000047,0.7778,0.75
 2022-11-04 01:40:33.712252,2022 Gubernatorial Elections - Kansas - Kansas winner,Democrats,0.027700000000000002,0.4444,0.4167
+2022-11-04 10:40:39.586545,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,AZ Alkmaar,0.0245,0.0833,0.0588
 2022-11-04 09:40:40.448473,US Midterm Elections 2022 - Senate Races: 35 Markets - North Carolina,Republican,0.02429999999999999,0.9474,0.9231
 2022-11-04 09:40:41.948138,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Miles Sanders,0.024,0.0625,0.0385
 2022-11-04 01:40:32.542183,Twitter Specials - When Will Donald Trump Return To Twitter? - When Will Donald Trump Return To Twitter?,Before December 2022,0.023799999999999988,0.5,0.4762
 2022-11-04 08:40:34.782002,Round Match-Ups - 2nd Round Match-Up - H. English vs J.J. Spaun - 2nd Round Match-Up,JJ Spaun,0.022600000000000064,0.5348,0.5122
+2022-11-04 10:40:37.299705,Round Match-Ups - 2nd Round Match-Up - M. McNealy vs B. Harman - 2nd Round Match-Up,Brian Harman,0.022600000000000064,0.5348,0.5122
 2022-11-04 07:41:03.672899,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Baltimore Ravens,Under 10.5,0.021699999999999997,0.4762,0.4545
 2022-11-04 08:40:34.697494,World Wide Technology Championship - 2/3 Balls - 2nd Round 3 Balls - T. Merritt / C. Kirk / M. McGreevy - 2nd Round 3 Balls,Troy Merritt,0.021699999999999997,0.4762,0.4545
-2022-11-04 06:40:46.221758,Round Match-Ups - 2nd Round Match-Up - A. Noren vs M. Kuchar - 2nd Round Match-Up,Matt Kuchar,0.02169999999999994,0.5455,0.5238
 2022-11-04 08:40:34.760299,World Wide Technology Championship - 2/3 Balls - 2nd Round 3 Balls - R. Henley / Z. Blair / C.T. Pan - 2nd Round 3 Balls,Russell Henley,0.02169999999999994,0.5455,0.5238
+2022-11-04 06:40:46.221758,Round Match-Ups - 2nd Round Match-Up - A. Noren vs M. Kuchar - 2nd Round Match-Up,Matt Kuchar,0.02169999999999994,0.5455,0.5238
+2022-11-04 08:40:34.667905,World Wide Technology Championship - 2/3 Balls - 2nd Round 3 Balls - M. Kuchar / L. Glover / A. Landry - 2nd Round 3 Balls,Matt Kuchar,0.02079999999999993,0.5556,0.5348
+2022-11-04 06:40:46.335013,Round Match-Ups - 2nd Round Match-Up - M. Laird vs S. Piercy - 2nd Round Match-Up,Martin Laird,0.02079999999999993,0.5556,0.5348
+2022-11-04 08:40:34.796655,Round Match-Ups - 2nd Round Match-Up - T. Finau vs A. Wise - 2nd Round Match-Up,Tony Finau,0.02079999999999993,0.5556,0.5348
+2022-11-04 06:40:46.356370,Round Match-Ups - 2nd Round Match-Up - E. Grillo vs S. Power - 2nd Round Match-Up,Emiliano Grillo,0.02079999999999993,0.5556,0.5348
 2022-11-04 07:41:03.965741,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Tampa Bay Buccaneers,Under 8.5,0.02079999999999993,0.5556,0.5348
 2022-11-04 06:40:46.268177,Round Match-Ups - 2nd Round Match-Up - S. Munoz vs J. Rose - 2nd Round Match-Up,Sebastian Munoz,0.02079999999999993,0.5556,0.5348
-2022-11-04 06:40:46.335013,Round Match-Ups - 2nd Round Match-Up - M. Laird vs S. Piercy - 2nd Round Match-Up,Martin Laird,0.02079999999999993,0.5556,0.5348
-2022-11-04 06:40:46.356370,Round Match-Ups - 2nd Round Match-Up - E. Grillo vs S. Power - 2nd Round Match-Up,Emiliano Grillo,0.02079999999999993,0.5556,0.5348
-2022-11-04 08:40:34.796655,Round Match-Ups - 2nd Round Match-Up - T. Finau vs A. Wise - 2nd Round Match-Up,Tony Finau,0.02079999999999993,0.5556,0.5348
-2022-11-04 08:40:34.667905,World Wide Technology Championship - 2/3 Balls - 2nd Round 3 Balls - M. Kuchar / L. Glover / A. Landry - 2nd Round 3 Balls,Matt Kuchar,0.02079999999999993,0.5556,0.5348
 2022-11-04 01:40:33.314975,NBA Specials - Where will Russell Westbrook Play after the 2023 NBA Trade Deadline - Proposition,Brooklyn Nets,0.0203,0.0588,0.0385
 2022-11-04 08:40:34.051002,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Jacksonville Jaguars,Yes,0.020100000000000007,0.1739,0.1538
 2022-11-04 06:40:46.816194,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Mike McCarthy,0.019800000000000005,0.0476,0.0278
@@ -63,21 +67,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-04 08:40:33.829085,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Yards (Regular Season),Jalen Hurts,0.0157,0.0435,0.0278
 2022-11-04 09:40:41.931036,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),Cooper Kupp,0.015400000000000025,0.4,0.3846
 2022-11-04 07:41:03.761331,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Detroit Lions,Under 5.5,0.01539999999999997,0.6154,0.6
-2022-11-04 04:40:41.649397,Euro Cup - Euro Cup 2022/23 - Outright,Gran Canaria,0.015100000000000002,0.1818,0.1667
 2022-11-04 05:40:39.215431,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,San Francisco 49ers,0.015100000000000002,0.1818,0.1667
+2022-11-04 04:40:41.649397,Euro Cup - Euro Cup 2022/23 - Outright,Gran Canaria,0.015100000000000002,0.1818,0.1667
 2022-11-04 06:40:46.816194,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Pete Carroll,0.014899999999999997,0.0625,0.0476
 2022-11-04 01:40:33.327976,NBA Specials - NBA 2022-203 Season - Team To Finish With Least Regular Season Wins - Proposition,San Antonio Spurs,0.014399999999999996,0.0769,0.0625
 2022-11-04 08:40:34.046257,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Indianapolis Colts,No,0.01430000000000009,0.8182,0.8039
-2022-11-03 22:40:38.202266,TOTO Japan Classic - TOTO Japan Classic - Outright,Ayaka Furue,0.013899999999999996,0.125,0.1111
+2022-11-04 10:40:39.586545,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,Istanbul Basaksehir,0.014099999999999998,0.0435,0.0294
 2022-11-04 08:40:34.070539,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Los Angeles Chargers,Yes,0.012700000000000045,0.6491,0.6364
 2022-11-04 08:40:34.029286,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Denver Broncos,Yes,0.012299999999999991,0.1176,0.1053
 2022-11-04 06:40:46.257384,Round Match-Ups - 2nd Round Match-Up - E. van Rooyen vs M. Wallace - 2nd Round Match-Up,Matt Wallace,0.011600000000000055,0.5238,0.5122
+2022-11-04 04:40:41.865027,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.0114,0.0164,0.005
 2022-11-04 08:40:35.505648,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.0114,0.0164,0.005
 2022-11-04 06:40:48.459132,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.0114,0.0164,0.005
-2022-11-04 04:40:41.865027,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.0114,0.0164,0.005
 2022-11-04 01:40:33.386560,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.0114,0.0164,0.005
-2022-11-04 03:40:38.090491,UEFA Europa League - UEFA Europa League 22/23 - Winner,Freiburg,0.011199999999999995,0.0588,0.0476
 2022-11-04 08:40:34.009217,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Chicago Bears,Yes,0.011199999999999995,0.0588,0.0476
+2022-11-04 03:40:38.090491,UEFA Europa League - UEFA Europa League 22/23 - Winner,Freiburg,0.011199999999999995,0.0588,0.0476
 2022-11-04 09:40:40.281035,US Midterm Elections 2022 - Senate Races: 35 Markets - Arizona,Democrat,0.01100000000000001,0.5348,0.5238
 2022-11-04 09:40:41.976997,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Sacks (Regular Season),Nick Bosa,0.010899999999999993,0.1538,0.1429
 2022-11-04 06:40:47.067794,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Green Bay Packers,No,0.010700000000000043,0.6774,0.6667
@@ -85,8 +89,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-04 08:40:34.064173,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Las Vegas Raiders,Yes,0.010499999999999982,0.2105,0.2
 2022-11-04 05:40:39.201949,AFC North - 2022/2023 AFC North - AFC North Winner,Baltimore Ravens,0.010400000000000076,0.7778,0.7674
 2022-11-04 06:40:46.970906,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Baltimore Ravens,Yes,0.010199999999999987,0.9333,0.9231
-2022-11-04 06:40:45.177583,Boxing Lines - Benjamin Bommber vs Ankush Hooda - To Win the Bout,Benjamin Bommber,0.010199999999999987,0.9333,0.9231
 2022-11-04 06:40:46.942690,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Arizona Cardinals,No,0.010199999999999987,0.9333,0.9231
+2022-11-04 06:40:45.177583,Boxing Lines - Benjamin Bommber vs Ankush Hooda - To Win the Bout,Benjamin Bommber,0.010199999999999987,0.9333,0.9231
 2022-11-04 08:40:33.829085,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Yards (Regular Season),Josh Allen,-0.010099999999999998,0.3125,0.3226
 2022-11-04 03:40:38.090491,UEFA Europa League - UEFA Europa League 22/23 - Winner,Arsenal,-0.010499999999999982,0.2,0.2105
 2022-11-04 07:41:03.761331,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Detroit Lions,Over 5.5,-0.010599999999999998,0.4545,0.4651
@@ -94,11 +98,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-04 08:40:34.130804,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Washington Commanders,No,-0.010700000000000043,0.875,0.8857
 2022-11-04 07:41:03.696313,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Carolina Panthers,Under 4.5,-0.01100000000000001,0.5238,0.5348
 2022-11-04 06:40:46.257384,Round Match-Ups - 2nd Round Match-Up - E. van Rooyen vs M. Wallace - 2nd Round Match-Up,Erik Van Rooyen,-0.01100000000000001,0.5238,0.5348
+2022-11-04 09:40:44.088977,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.0114,0.005,0.0164
+2022-11-04 07:41:01.601619,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.0114,0.005,0.0164
 2022-11-04 05:40:39.981123,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.0114,0.005,0.0164
 2022-11-04 02:40:36.873790,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.0114,0.005,0.0164
 2022-11-04 00:40:36.674751,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.0114,0.005,0.0164
-2022-11-04 07:41:01.601619,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.0114,0.005,0.0164
-2022-11-04 09:40:44.088977,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.0114,0.005,0.0164
 2022-11-04 08:40:34.029286,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Denver Broncos,No,-0.011500000000000066,0.95,0.9615
 2022-11-04 07:41:03.827843,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Las Vegas Raiders,Under 6.5,-0.0116,0.4762,0.4878
 2022-11-04 06:40:46.816194,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Brandon Staley,-0.012100000000000001,0.0123,0.0244
@@ -118,28 +122,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-04 01:40:33.314975,NBA Specials - Where will Russell Westbrook Play after the 2023 NBA Trade Deadline - Proposition,San Antonio Spurs,-0.01820000000000002,0.1818,0.2
 2022-11-04 00:40:35.488814,Boxing Lines - Andre Dirrell vs Yunieski Gonzalez - To Win the Bout,Andre Dirrell,-0.018900000000000028,0.4255,0.4444
 2022-11-04 08:40:34.760299,World Wide Technology Championship - 2/3 Balls - 2nd Round 3 Balls - R. Henley / Z. Blair / C.T. Pan - 2nd Round 3 Balls,C T Pan,-0.019000000000000017,0.2667,0.2857
-2022-11-04 06:40:45.188462,Boxing Lines - Clay AJ Waterman vs Mitchell Whitelaw - To Win the Bout,Mitchell Whitelaw,-0.02020000000000001,0.0909,0.1111
-2022-11-04 04:40:41.649397,Euro Cup - Euro Cup 2022/23 - Outright,Bursaspor,-0.02020000000000001,0.0909,0.1111
 2022-11-04 07:40:59.937497,Boxing Lines - Kazuto Takesako vs Gyung Mo Yuh - To Win the Bout,Gyung Mo Yuh,-0.02020000000000001,0.0909,0.1111
+2022-11-04 04:40:41.649397,Euro Cup - Euro Cup 2022/23 - Outright,Bursaspor,-0.02020000000000001,0.0909,0.1111
+2022-11-04 06:40:45.188462,Boxing Lines - Clay AJ Waterman vs Mitchell Whitelaw - To Win the Bout,Mitchell Whitelaw,-0.02020000000000001,0.0909,0.1111
 2022-11-04 09:40:41.976997,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Sacks (Regular Season),Matthew Judon,-0.02049999999999999,0.1333,0.1538
 2022-11-04 04:40:40.706400,Boxing Lines - Dmitry Bivol vs Gilberto Ramirez - To Win the Bout,Gilberto Ramirez,-0.02080000000000004,0.2532,0.274
 2022-11-04 09:40:40.448473,US Midterm Elections 2022 - Senate Races: 35 Markets - North Carolina,Democrat,-0.021699999999999997,0.1212,0.1429
 2022-11-04 08:40:34.697494,World Wide Technology Championship - 2/3 Balls - 2nd Round 3 Balls - T. Merritt / C. Kirk / M. McGreevy - 2nd Round 3 Balls,Max McGreevy,-0.022199999999999998,0.2,0.2222
 2022-11-04 08:40:34.079855,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Miami Dolphins,No,-0.02260000000000001,0.2899,0.3125
-2022-11-04 08:40:34.782002,Round Match-Ups - 2nd Round Match-Up - H. English vs J.J. Spaun - 2nd Round Match-Up,Harris English,-0.022600000000000064,0.5122,0.5348
+2022-11-04 10:40:37.299705,Round Match-Ups - 2nd Round Match-Up - M. McNealy vs B. Harman - 2nd Round Match-Up,Maverick McNealy,-0.022600000000000064,0.5122,0.5348
 2022-11-04 07:41:03.965741,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Tampa Bay Buccaneers,Over 8.5,-0.022600000000000064,0.5122,0.5348
+2022-11-04 08:40:34.782002,Round Match-Ups - 2nd Round Match-Up - H. English vs J.J. Spaun - 2nd Round Match-Up,Harris English,-0.022600000000000064,0.5122,0.5348
 2022-11-04 08:40:34.791798,Round Match-Ups - 2nd Round Match-Up - S. Munoz vs J. Rose - 2nd Round Match-Up,Justin Rose,-0.022699999999999998,0.4651,0.4878
 2022-11-04 09:40:41.976997,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Sacks (Regular Season),Khalil Mack,-0.0232,0.0435,0.0667
 2022-11-04 07:41:03.672899,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Baltimore Ravens,Over 10.5,-0.023699999999999943,0.5917,0.6154
+2022-11-04 06:40:46.884585,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Kenneth Walker III,-0.023799999999999988,0.3333,0.3571
 2022-11-04 09:40:41.931036,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),Tyreek Hill,-0.023799999999999988,0.4762,0.5
 2022-11-04 06:40:46.302018,Round Match-Ups - 2nd Round Match-Up - T. Montgomery vs T. Detry - 2nd Round Match-Up,Thomas Detry,-0.023799999999999988,0.4762,0.5
-2022-11-04 06:40:46.884585,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Kenneth Walker III,-0.023799999999999988,0.3333,0.3571
 2022-11-04 06:40:46.221758,Round Match-Ups - 2nd Round Match-Up - A. Noren vs M. Kuchar - 2nd Round Match-Up,Alex Noren,-0.023800000000000043,0.5,0.5238
-2022-11-04 06:40:46.335013,Round Match-Ups - 2nd Round Match-Up - M. Laird vs S. Piercy - 2nd Round Match-Up,Scott Piercy,-0.024399999999999977,0.4878,0.5122
-2022-11-04 08:40:34.796655,Round Match-Ups - 2nd Round Match-Up - T. Finau vs A. Wise - 2nd Round Match-Up,Aaron Wise,-0.024399999999999977,0.4878,0.5122
 2022-11-04 06:40:46.356370,Round Match-Ups - 2nd Round Match-Up - E. Grillo vs S. Power - 2nd Round Match-Up,Seamus Power,-0.024399999999999977,0.4878,0.5122
-2022-11-04 07:41:03.907371,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  New York Giants,Under 9.5,-0.024399999999999977,0.4878,0.5122
 2022-11-04 06:40:46.268177,Round Match-Ups - 2nd Round Match-Up - S. Munoz vs J. Rose - 2nd Round Match-Up,Justin Rose,-0.024399999999999977,0.4878,0.5122
+2022-11-04 08:40:34.796655,Round Match-Ups - 2nd Round Match-Up - T. Finau vs A. Wise - 2nd Round Match-Up,Aaron Wise,-0.024399999999999977,0.4878,0.5122
+2022-11-04 06:40:46.335013,Round Match-Ups - 2nd Round Match-Up - M. Laird vs S. Piercy - 2nd Round Match-Up,Scott Piercy,-0.024399999999999977,0.4878,0.5122
+2022-11-04 07:41:03.907371,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  New York Giants,Under 9.5,-0.024399999999999977,0.4878,0.5122
 2022-11-04 05:40:39.189258,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Baltimore Ravens,-0.0267,0.0909,0.1176
 2022-11-04 09:40:40.324921,US Midterm Elections 2022 - Senate Races: 35 Markets - Florida,Democrat,-0.027800000000000005,0.0833,0.1111
 2022-11-04 06:40:46.816194,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Robert Saleh,-0.029299999999999993,0.0476,0.0769
@@ -153,6 +158,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-04 07:41:03.873224,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Minnesota Vikings,Over 11.5,-0.03959999999999997,0.5348,0.5744
 2022-11-04 08:40:34.092297,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - New Orleans Saints,No,-0.04169999999999996,0.8333,0.875
 2022-11-04 07:41:03.781180,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Houston Texans,Over 3.5,-0.047099999999999975,0.4651,0.5122
+2022-11-04 10:40:39.586545,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,Villarreal,-0.05550000000000002,0.1667,0.2222
 2022-11-04 09:40:43.693417,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Philadelphia 76ers,-0.06840000000000002,0.1538,0.2222
 2022-11-04 07:41:03.917320,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Philadelphia Eagles,Under 14.5,-0.07950000000000002,0.5122,0.5917
 2022-11-04 06:40:46.816194,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Brian Daboll,-0.1238,0.1429,0.2667
