@@ -7,8 +7,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-05 06:40:30.624254,2022 Gubernatorial Elections - Pennsylvania - Pennsylvania winner,Democrat,0.04859999999999998,0.9375,0.8889
 2022-11-05 01:40:30.937551,TimberTech Championship - TimberTech Championship - Outright,Rod Pampling,0.047099999999999996,0.0667,0.0196
 2022-11-05 01:40:30.937551,TimberTech Championship - TimberTech Championship - Outright,Paul Goydos,0.043899999999999995,0.0588,0.0149
-2022-11-05 02:40:42.422572,Round Match-Ups - 3rd Round Match-Up - S. Scheffler vs V. Hovland - 3rd Round Match-Up,Viktor Hovland,0.03600000000000003,0.5238,0.4878
 2022-11-05 02:40:42.529254,Round Match-Ups - 3rd Round Match-Up - M. Laird vs S. Ryder - 3rd Round Match-Up,Sam Ryder,0.03600000000000003,0.5238,0.4878
+2022-11-05 02:40:42.422572,Round Match-Ups - 3rd Round Match-Up - S. Scheffler vs V. Hovland - 3rd Round Match-Up,Viktor Hovland,0.03600000000000003,0.5238,0.4878
 2022-11-05 03:40:31.361231,NBL - NBL 2022/23 - Outright,Cairns Taipans,0.029299999999999993,0.0769,0.0476
 2022-11-05 05:40:29.805294,AFC South - 2022/202 AFC South - AFC South Winner,Indianapolis Colts,0.028700000000000003,0.2105,0.1818
 2022-11-05 01:40:30.937551,TimberTech Championship - TimberTech Championship - Outright,Robert Karlsson,0.028000000000000004,0.0476,0.0196
@@ -28,35 +28,34 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-05 05:40:29.805294,AFC South - 2022/202 AFC South - AFC South Winner,Houston Texans,0.015300000000000001,0.0476,0.0323
 2022-11-05 01:40:30.937551,TimberTech Championship - TimberTech Championship - Outright,Retief Goosen,0.014499999999999999,0.0294,0.0149
 2022-11-05 01:40:30.937551,TimberTech Championship - TimberTech Championship - Outright,Scott Parel,0.014499999999999999,0.0294,0.0149
-2022-11-05 01:40:30.937551,TimberTech Championship - TimberTech Championship - Outright,K J Choi,0.014099999999999998,0.0435,0.0294
-2022-11-05 01:40:30.937551,TimberTech Championship - TimberTech Championship - Outright,David Toms,0.014099999999999998,0.0385,0.0244
 2022-11-05 01:40:30.937551,TimberTech Championship - TimberTech Championship - Outright,Stephen Ames,0.014099999999999998,0.0435,0.0294
+2022-11-05 01:40:30.937551,TimberTech Championship - TimberTech Championship - Outright,David Toms,0.014099999999999998,0.0385,0.0244
+2022-11-05 01:40:30.937551,TimberTech Championship - TimberTech Championship - Outright,K J Choi,0.014099999999999998,0.0435,0.0294
+2022-11-05 07:40:33.603394,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Milwaukee Bucks,0.012899999999999995,0.1667,0.1538
 2022-11-05 01:40:30.937551,TimberTech Championship - TimberTech Championship - Outright,Tom Pernice Jr,0.0116,0.0149,0.0033
-2022-11-05 04:40:50.394440,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.0114,0.0164,0.005
 2022-11-04 21:40:42.173616,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.0114,0.0164,0.005
-2022-11-04 19:40:34.790944,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.0114,0.0164,0.005
-2022-11-05 02:40:40.977963,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.0114,0.0164,0.005
 2022-11-04 23:40:38.446886,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.0114,0.0164,0.005
+2022-11-05 02:40:40.977963,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.0114,0.0164,0.005
+2022-11-05 04:40:50.394440,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.0114,0.0164,0.005
 2022-11-05 05:40:31.042947,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.0114,0.0164,0.005
+2022-11-05 06:40:32.718722,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.0114,0.0164,0.005
 2022-11-05 01:40:30.937551,TimberTech Championship - TimberTech Championship - Outright,Thongchai Jaidee,0.011199999999999995,0.0588,0.0476
 2022-11-04 22:40:41.645257,Boxing Lines - Rostam Ibrahim vs Armenak Hovhannisyan - To Win the Bout,Rostam Ibrahim,0.01090000000000002,0.8571,0.8462
 2022-11-04 23:40:35.492373,Boxing Lines - David Morrell vs Aidos Yerbossynuly - To Win the Bout,Aidos Yerbossynuly,0.010200000000000015,0.1481,0.1379
-2022-11-05 01:40:32.995287,College Specials - How Many Different Teams will be Ranked #1 by the AP in the 2022/2023 Regular Season - Proposition,"Under 3,5",-0.011099999999999999,0.4651,0.4762
+2022-11-05 07:40:32.667727,BKFC 32: Barnett vs Herrera - Reggie Barnett Jr vs Geane Herrera - To Win the Bout,Reggie Barnett Jr,-0.010599999999999998,0.4545,0.4651
 2022-11-05 02:40:43.270382,Championship - England Championship 2022/23 - Outright,Watford,-0.011099999999999999,0.1,0.1111
-2022-11-04 18:40:48.689048,Bare Knuckle Fighting Championship - Reggie Barnett Jr vs Geane Herrera - To Win the Bout,Reggie Barnett Jr,-0.011099999999999999,0.4651,0.4762
-2022-11-05 06:40:32.718722,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.0114,0.005,0.0164
-2022-11-04 20:40:39.198235,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.0114,0.005,0.0164
-2022-11-05 03:40:31.732236,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.0114,0.005,0.0164
+2022-11-05 01:40:32.995287,College Specials - How Many Different Teams will be Ranked #1 by the AP in the 2022/2023 Regular Season - Proposition,"Under 3,5",-0.011099999999999999,0.4651,0.4762
+2022-11-05 07:40:34.056806,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.0114,0.005,0.0164
 2022-11-04 22:40:45.443849,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.0114,0.005,0.0164
-2022-11-05 01:40:33.088662,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.0114,0.005,0.0164
+2022-11-05 06:40:32.718722,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.0114,0.005,0.0164
+2022-11-05 03:40:31.732236,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.0114,0.005,0.0164
 2022-11-05 05:40:31.042947,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.0114,0.005,0.0164
-2022-11-04 18:40:52.505441,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.0114,0.005,0.0164
+2022-11-04 20:40:39.198235,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.0114,0.005,0.0164
+2022-11-05 01:40:33.088662,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.0114,0.005,0.0164
 2022-11-05 05:40:30.397117,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Republican Candidate,Ron DeSantis,-0.01150000000000001,0.3333,0.3448
 2022-11-04 22:40:41.858461,Bare Knuckle Fighting Championship - Jared Warren vs Jason Jackson - To Win the Bout,Jason Jackson,-0.012699999999999989,0.3509,0.3636
 2022-11-05 01:40:30.937551,TimberTech Championship - TimberTech Championship - Outright,Ken Duke,-0.013,0.0066,0.0196
-2022-11-04 19:40:33.712454,Boxing Lines - Jessie Wilcox vs Ivan Alvarez - To Win the Bout,Ivan Alvarez,-0.013000000000000012,0.1739,0.1869
 2022-11-05 06:40:30.719546,World Wide Technology Championship - 2/3 Balls - 3rd Round 2 Balls - D. Frittelli v E. Cole - 3rd Round 2 Balls,Dylan Frittelli,-0.013799999999999923,0.6226,0.6364
-2022-11-04 19:40:33.738823,Boxing Lines - Mourad Aliev vs Yakup Saglam - To Win the Bout,Yakup Saglam,-0.013899999999999996,0.1111,0.125
 2022-11-05 03:40:31.361231,NBL - NBL 2022/23 - Outright,Melbourne United,-0.013999999999999999,0.0769,0.0909
 2022-11-05 01:40:30.937551,TimberTech Championship - TimberTech Championship - Outright,Jim Furyk,-0.014100000000000001,0.0385,0.0526
 2022-11-05 01:40:30.937551,TimberTech Championship - TimberTech Championship - Outright,Brett Quigley,-0.014599999999999998,0.0033,0.0179
@@ -67,6 +66,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-05 05:40:31.501890,World Wide Technology Championship - 2/3 Balls - 3rd Round 2 Balls - T. Montgomery v J. Dahmen - 3rd Round 2 Balls,Taylor Montgomery,-0.01970000000000005,0.5455,0.5652
 2022-11-05 02:40:43.270382,Championship - England Championship 2022/23 - Outright,Norwich City,-0.02020000000000001,0.0909,0.1111
 2022-11-05 02:40:40.849546,College Specials - How Many Different Teams will be Ranked #1 by the AP in the 2022/2023 Regular Season - Proposition,"Under 3,5",-0.020699999999999996,0.4444,0.4651
+2022-11-05 07:40:33.603394,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Los Angeles Clippers,-0.022199999999999998,0.1111,0.1333
 2022-11-04 20:40:39.136542,College Specials - Will North Carolina be Ranked AP #1 on December 6th 2022? - Proposition,Yes,-0.023799999999999932,0.6429,0.6667
 2022-11-05 01:40:30.937551,TimberTech Championship - TimberTech Championship - Outright,Doug Barron,-0.024600000000000004,0.0099,0.0345
 2022-11-05 01:40:30.937551,TimberTech Championship - TimberTech Championship - Outright,Steve Flesch,-0.029500000000000002,0.005,0.0345
