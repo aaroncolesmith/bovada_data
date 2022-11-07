@@ -6,6 +6,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-07 14:40:29.227201,US Midterm Elections 2022 - Senate Races: 35 Markets - Nevada,Democrat,0.14150000000000001,0.4082,0.2667
 2022-11-07 08:40:30.292453,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Aberdeen,0.13670000000000004,0.4444,0.3077
 2022-11-07 14:40:29.268936,US Midterm Elections 2022 - Senate Races: 35 Markets - Pennsylvania,Democrat,0.13070000000000004,0.4878,0.3571
+2022-11-07 16:40:37.470745,2022 Gubernatorial Elections - Kansas - Kansas winner,Democrats,0.13,0.5744,0.4444
 2022-11-07 08:40:30.326375,Super Lig - Turkey Super League 22/23 - Outright,Galatasaray,0.125,0.25,0.125
 2022-11-07 08:40:30.312156,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Livingston,0.12380000000000002,0.5238,0.4
 2022-11-07 07:40:41.638969,AFC South - 2022/202 AFC South - AFC South Winner,Jacksonville Jaguars,0.1111,0.2222,0.1111
@@ -14,74 +15,82 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-07 15:40:33.421041,US Midterm Elections 2022 - Which Party will win the Senate in the 2022 Midterm Election? - Proposition,Democrats,0.08959999999999996,0.3636,0.274
 2022-11-07 15:40:33.384125,US Midterm Elections 2022 - House & Senate Control Doubles - Proposition,Republican House & Democratic Senate,0.08359999999999998,0.2941,0.2105
 2022-11-07 08:40:30.312156,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,St. Johnstone,0.08330000000000001,0.25,0.1667
-2022-11-07 11:40:30.958155,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Utah Jazz,Yes,0.08329999999999999,0.3333,0.25
 2022-11-07 08:40:30.275091,Superligaen - Denmark Superligaen 2022/23 - Outright,FC Copenhagen,0.08329999999999999,0.3333,0.25
 2022-11-07 09:40:34.439614,Eredivisie - Dutch Eredivisie 2022/23 - Winner,PSV Eindhoven,0.08329999999999999,0.3333,0.25
+2022-11-07 11:40:30.958155,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Utah Jazz,Yes,0.08329999999999999,0.3333,0.25
 2022-11-07 07:40:41.577581,NFC South - 2022/2023 NFC South - NFC South Winner,Tampa Bay Buccaneers,0.08079999999999998,0.6552,0.5744
 2022-11-07 11:40:30.501406,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Detroit Lions,Over 5.5,0.08030000000000004,0.5348,0.4545
 2022-11-07 08:40:30.317592,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Hearts,0.07500000000000001,0.2,0.125
 2022-11-07 08:40:30.317592,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Kilmarnock,0.07130000000000003,0.9804,0.9091
+2022-11-07 16:40:37.304924,US Midterm Elections 2022 - How many incumbent U.S. Senators will be re-elected in 2022? - Proposition,26,0.06820000000000001,0.25,0.1818
 2022-11-07 10:40:35.643117,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Patrick Mahomes,0.06669999999999998,0.2667,0.2
 2022-11-07 14:40:29.232795,US Midterm Elections 2022 - Senate Races: 35 Markets - New Hampshire,Democrat,0.06659999999999999,0.7333,0.6667
 2022-11-07 08:40:30.306280,Premiership - Scotland Premiership 2022/23 - To Finish Bottom,Kilmarnock,0.0635,0.2857,0.2222
+2022-11-07 16:40:37.500405,2022 Gubernatorial Elections - Michigan - Michigan winner,Democrats,0.059700000000000086,0.8,0.7403
 2022-11-07 07:40:41.649604,AFC East - 2022/2023 AFC East - AFC East Winner,Miami Dolphins,0.058599999999999985,0.1538,0.0952
 2022-11-07 08:40:30.286635,Premiership - Scotland Premiership 2022/23 - Outright,Celtic,0.05679999999999996,0.875,0.8182
 2022-11-07 11:40:30.509676,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Indianapolis Colts,Under 6.5,0.05559999999999998,0.5556,0.5
 2022-11-07 08:40:30.299872,Premiership - Scotland Premiership 2022/23 - Top Goalscorer,Bojan Miovski,0.048100000000000004,0.125,0.0769
 2022-11-07 11:40:30.513748,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Jacksonville Jaguars,Under 6.5,0.047099999999999975,0.5122,0.4651
 2022-11-07 07:40:41.577581,NFC South - 2022/2023 NFC South - NFC South Winner,New Orleans Saints,0.04620000000000002,0.2,0.1538
+2022-11-07 16:40:37.279430,US Midterm Elections 2022 - House & Senate Control Doubles - Proposition,Republican House & Republican Senate,0.04579999999999995,0.7333,0.6875
 2022-11-07 15:40:33.035179,Boxing Lines - Jack Bateson vs Shabaz Masoud - To Win the Bout,Shabaz Masoud,0.04390000000000005,0.8,0.7561
 2022-11-07 06:40:28.751639,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Kansas City Chiefs,0.04169999999999999,0.1667,0.125
 2022-11-07 14:40:29.292634,US Midterm Elections 2022 - Senate Races: 35 Markets - Wisconsin,Democrat,0.037699999999999984,0.1667,0.129
+2022-11-07 16:40:37.297226,US Midterm Elections 2022 - How many Senate Seats will the Republicans control after the midterms? - Proposition,52,0.03670000000000001,0.1905,0.1538
 2022-11-07 08:40:30.312156,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Motherwell,0.03640000000000004,0.4,0.3636
 2022-11-07 14:40:30.643646,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Manchester City,0.03610000000000002,0.5917,0.5556
 2022-11-07 11:40:30.518088,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Las Vegas Raiders,Under 6.5,0.035999999999999976,0.5122,0.4762
 2022-11-07 09:40:34.371593,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,Benfica,0.035699999999999954,0.75,0.7143
-2022-11-07 04:40:29.276302,NBL - NBL 2022/23 - Outright,Sydney Kings,0.03470000000000001,0.3125,0.2778
+2022-11-07 16:40:37.297226,US Midterm Elections 2022 - How many Senate Seats will the Republicans control after the midterms? - Proposition,53,0.0353,0.2353,0.2
 2022-11-07 08:40:30.312156,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Aberdeen,0.03410000000000002,0.9091,0.875
 2022-11-07 09:40:34.439614,Eredivisie - Dutch Eredivisie 2022/23 - Winner,Feyenoord,0.034100000000000005,0.125,0.0909
 2022-11-07 14:40:29.156052,US Midterm Elections 2022 - Senate Races: 35 Markets - Arizona,Democrat,0.033299999999999996,0.5455,0.5122
 2022-11-07 07:40:41.609071,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Seattle Seahawks,0.03219999999999999,0.0667,0.0345
 2022-11-07 10:40:35.643117,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Jalen Hurts,0.031399999999999983,0.2667,0.2353
 2022-11-07 07:40:41.552789,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Kansas City Chiefs,0.031399999999999983,0.2667,0.2353
-2022-11-07 10:40:37.243624,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.031200000000000002,0.0476,0.0164
-2022-11-07 14:40:30.408290,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.031200000000000002,0.0476,0.0164
-2022-11-07 11:40:31.387313,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.031200000000000002,0.0476,0.0164
-2022-11-07 13:40:35.695661,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.031200000000000002,0.0476,0.0164
 2022-11-07 06:40:29.728741,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.031200000000000002,0.0476,0.0164
+2022-11-07 13:40:35.695661,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.031200000000000002,0.0476,0.0164
+2022-11-07 14:40:30.408290,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.031200000000000002,0.0476,0.0164
+2022-11-07 16:40:39.202025,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.031200000000000002,0.0476,0.0164
+2022-11-07 10:40:37.243624,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.031200000000000002,0.0476,0.0164
 2022-11-07 08:40:30.011109,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.031200000000000002,0.0476,0.0164
 2022-11-07 14:40:30.651375,UEFA Champions League - UEFA Champions League 2022/2023 - Furthest Progressing EPL Team,Manchester City,0.029299999999999993,0.7436,0.7143
+2022-11-07 16:40:37.297226,US Midterm Elections 2022 - How many Senate Seats will the Republicans control after the midterms? - Proposition,51,0.028799999999999992,0.1538,0.125
 2022-11-07 10:40:35.649830,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Philadelphia Eagles Undefeated Regular Season,Yes,0.028399999999999995,0.0909,0.0625
 2022-11-07 14:40:29.288669,US Midterm Elections 2022 - Senate Races: 35 Markets - Washington State,Republican,0.027999999999999997,0.1818,0.1538
+2022-11-07 16:40:37.304924,US Midterm Elections 2022 - How many incumbent U.S. Senators will be re-elected in 2022? - Proposition,25,0.02789999999999998,0.2632,0.2353
 2022-11-07 07:40:41.552789,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Baltimore Ravens,0.0267,0.1176,0.0909
 2022-11-07 14:40:29.180171,US Midterm Elections 2022 - Senate Races: 35 Markets - Georgia,Democrat,0.026600000000000013,0.4348,0.4082
-2022-11-07 14:40:29.254061,US Midterm Elections 2022 - Senate Races: 35 Markets - Oklahoma (Regularly Scheduled),Democrat,0.0242,0.0909,0.0667
-2022-11-07 14:40:29.203878,US Midterm Elections 2022 - Senate Races: 35 Markets - Kansas,Democrat,0.0242,0.0909,0.0667
+2022-11-07 16:40:37.289256,US Midterm Elections 2022 - How many Republican governors will there be after the midterms? - Proposition,26,0.024299999999999995,0.0769,0.0526
 2022-11-07 14:40:29.236887,US Midterm Elections 2022 - Senate Races: 35 Markets - New York,Republican,0.0242,0.0909,0.0667
 2022-11-07 14:40:29.284741,US Midterm Elections 2022 - Senate Races: 35 Markets - Vermont,Republican,0.0242,0.0909,0.0667
-2022-11-07 04:40:29.276302,NBL - NBL 2022/23 - Outright,Melbourne United,0.0242,0.0909,0.0667
+2022-11-07 14:40:29.254061,US Midterm Elections 2022 - Senate Races: 35 Markets - Oklahoma (Regularly Scheduled),Democrat,0.0242,0.0909,0.0667
 2022-11-07 14:40:29.245056,US Midterm Elections 2022 - Senate Races: 35 Markets - North Dakota,Democrat,0.0242,0.0909,0.0667
+2022-11-07 14:40:29.203878,US Midterm Elections 2022 - Senate Races: 35 Markets - Kansas,Democrat,0.0242,0.0909,0.0667
 2022-11-07 10:40:35.643117,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Tua Tagovailoa,0.023899999999999998,0.0435,0.0196
 2022-11-07 14:40:30.643646,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Napoli,0.023799999999999988,0.1667,0.1429
 2022-11-07 13:40:34.077627,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Baltimore Ravens,Over 10.5,0.023699999999999943,0.6154,0.5917
 2022-11-07 11:40:30.523160,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Los Angeles Chargers,Over 9.5,0.022600000000000064,0.5348,0.5122
 2022-11-07 11:40:30.505588,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Houston Texans,Under 3.5,0.022600000000000064,0.6226,0.6
 2022-11-07 15:40:33.399199,US Midterm Elections 2022 - Senate Majority Leader On February 1st 2023 - Senate Majority Leader On February 1st 2023,Chuck Schumer,0.02260000000000001,0.3125,0.2899
-2022-11-07 04:40:29.276302,NBL - NBL 2022/23 - Outright,Brisbane Bullets,0.022199999999999998,0.1333,0.1111
 2022-11-07 14:40:29.280824,US Midterm Elections 2022 - Senate Races: 35 Markets - Utah,Independent,0.022000000000000006,0.1053,0.0833
+2022-11-07 16:40:37.289256,US Midterm Elections 2022 - How many Republican governors will there be after the midterms? - Proposition,25,0.021799999999999996,0.0435,0.0217
 2022-11-07 07:40:41.609071,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Dallas Cowboys,0.021799999999999986,0.1818,0.16
 2022-11-07 11:40:30.484971,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Atlanta Falcons,Under 7.5,0.021699999999999997,0.4762,0.4545
 2022-11-07 07:40:41.552789,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Cincinnati Bengals,0.0208,0.0833,0.0625
-2022-11-07 11:40:30.497325,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Cincinnati Bengals,Under 9.5,0.02079999999999993,0.5556,0.5348
 2022-11-07 11:40:30.527888,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Minnesota Vikings,Over 11.5,0.02079999999999993,0.5556,0.5348
+2022-11-07 11:40:30.497325,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Cincinnati Bengals,Under 9.5,0.02079999999999993,0.5556,0.5348
 2022-11-07 07:40:41.686202,NFC North - 2022/2023 NFC North - NFC North Winner,Minnesota Vikings,0.020299999999999985,0.9615,0.9412
 2022-11-07 06:40:28.751639,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Seattle Seahawks,0.020000000000000004,0.0323,0.0123
 2022-11-07 07:40:41.552789,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,New York Jets,0.020000000000000004,0.0323,0.0123
 2022-11-07 15:40:33.414295,US Midterm Elections 2022 - Which Party will win the House in the 2022 Midterm Election? - Winning Party,Republican,0.019100000000000006,0.9524,0.9333
-2022-11-07 14:40:30.627086,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Napoli,0.018099999999999998,0.0769,0.0588
-2022-11-07 08:40:30.292453,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Livingston,0.018099999999999998,0.0769,0.0588
 2022-11-07 06:40:28.751639,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Dallas Cowboys,0.018099999999999998,0.0769,0.0588
+2022-11-07 08:40:30.292453,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Livingston,0.018099999999999998,0.0769,0.0588
+2022-11-07 14:40:30.627086,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Napoli,0.018099999999999998,0.0769,0.0588
 2022-11-07 08:40:29.724746,A1 - Greece A1 2022/23 - Outright,Olympiakos,0.017900000000000027,0.875,0.8571
+2022-11-07 16:40:37.297226,US Midterm Elections 2022 - How many Senate Seats will the Republicans control after the midterms? - Proposition,50,0.0179,0.1429,0.125
+2022-11-07 16:40:37.289256,US Midterm Elections 2022 - How many Republican governors will there be after the midterms? - Proposition,27,0.016700000000000007,0.1,0.0833
 2022-11-07 15:40:33.042016,Boxing Lines - David Adeleye vs Michael Wallisch - To Win the Bout,Michael Wallisch,0.016700000000000007,0.1,0.0833
 2022-11-07 08:40:30.312156,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,St. Mirren,0.016699999999999993,0.4167,0.4
 2022-11-07 14:40:30.657005,UEFA Champions League - UEFA Champions League 2022/2023 - Nationality of Winner,England,0.016699999999999937,0.6,0.5833
@@ -94,41 +103,46 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-07 08:40:30.292453,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,St. Johnstone,0.014900000000000004,0.0345,0.0196
 2022-11-07 11:40:30.493203,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Chicago Bears,Under 6.5,0.014200000000000101,0.6296,0.6154
 2022-11-07 08:40:30.275091,Superligaen - Denmark Superligaen 2022/23 - Outright,Silkeborg IF,0.014099999999999998,0.0385,0.0244
-2022-11-07 06:40:28.751639,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,San Francisco 49ers,0.013999999999999999,0.0909,0.0769
 2022-11-07 07:40:41.552789,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Miami Dolphins,0.013999999999999999,0.0909,0.0769
 2022-11-07 08:40:30.299872,Premiership - Scotland Premiership 2022/23 - Top Goalscorer,Lawrence Shankland,0.013999999999999999,0.0909,0.0769
-2022-11-07 14:40:30.657005,UEFA Champions League - UEFA Champions League 2022/2023 - Nationality of Winner,Italy,0.013899999999999996,0.125,0.1111
+2022-11-07 06:40:28.751639,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,San Francisco 49ers,0.013999999999999999,0.0909,0.0769
+2022-11-07 16:40:37.297226,US Midterm Elections 2022 - How many Senate Seats will the Republicans control after the midterms? - Proposition,49,0.013999999999999999,0.0909,0.0769
 2022-11-07 14:40:30.651375,UEFA Champions League - UEFA Champions League 2022/2023 - Furthest Progressing EPL Team,Chelsea,0.013899999999999996,0.125,0.1111
+2022-11-07 14:40:30.657005,UEFA Champions League - UEFA Champions League 2022/2023 - Nationality of Winner,Italy,0.013899999999999996,0.125,0.1111
 2022-11-07 14:40:30.627086,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Manchester City,0.013800000000000034,0.3774,0.3636
 2022-11-07 10:40:35.643117,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Geno Smith,0.0131,0.0476,0.0345
 2022-11-07 07:40:41.686202,NFC North - 2022/2023 NFC North - NFC North Winner,Detroit Lions,0.013,0.0196,0.0066
 2022-11-07 14:40:29.167859,US Midterm Elections 2022 - Senate Races: 35 Markets - Colorado,Republican,0.012899999999999995,0.1667,0.1538
+2022-11-07 16:40:37.297226,US Midterm Elections 2022 - How many Senate Seats will the Republicans control after the midterms? - Proposition,0-46,0.012700000000000003,0.0323,0.0196
 2022-11-07 09:40:33.490332,Liga ACB - Liga ACB 2022/23 - Outright,Barcelona,0.012199999999999989,0.5,0.4878
 2022-11-07 11:40:30.536889,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Philadelphia Eagles,Under 14.5,0.011600000000000055,0.5238,0.5122
 2022-11-07 08:40:30.292453,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Motherwell,0.011199999999999995,0.0588,0.0476
-2022-11-07 09:40:33.481178,LKL - LKL 2022/23 - Outright,Rytas,0.011099999999999999,0.1111,0.1
 2022-11-07 09:40:33.413016,Euroleague - Euroleague 2022/23 - Outright,AS Monaco,0.011099999999999999,0.1111,0.1
+2022-11-07 09:40:33.481178,LKL - LKL 2022/23 - Outright,Rytas,0.011099999999999999,0.1111,0.1
 2022-11-07 14:40:30.643646,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Chelsea,0.010899999999999993,0.1538,0.1429
 2022-11-07 15:40:33.407964,US Midterm Elections 2022 - Senate Race With Smallest Margin Of Victory - Senate Race With Smallest Margin Between 1st & 2nd Place,Pennsylvania,0.010899999999999993,0.1538,0.1429
-2022-11-07 14:40:30.668110,UEFA Europa League - UEFA Europa League 22/23 - Winner,Juventus,0.0102,0.0769,0.0667
+2022-11-07 16:40:37.297226,US Midterm Elections 2022 - How many Senate Seats will the Republicans control after the midterms? - Proposition,47,0.010600000000000002,0.0323,0.0217
 2022-11-07 14:40:30.668110,UEFA Europa League - UEFA Europa League 22/23 - Winner,Ajax,0.0102,0.0769,0.0667
+2022-11-07 14:40:30.668110,UEFA Europa League - UEFA Europa League 22/23 - Winner,Juventus,0.0102,0.0769,0.0667
 2022-11-07 08:40:30.326375,Super Lig - Turkey Super League 22/23 - Outright,Fenerbahce,0.010099999999999998,0.4545,0.4444
-2022-11-07 14:40:29.240988,US Midterm Elections 2022 - Senate Races: 35 Markets - North Carolina,Democrat,-0.010099999999999998,0.1111,0.1212
 2022-11-07 11:40:30.536889,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Philadelphia Eagles,Over 14.5,-0.010099999999999998,0.5455,0.5556
+2022-11-07 14:40:29.240988,US Midterm Elections 2022 - Senate Races: 35 Markets - North Carolina,Democrat,-0.010099999999999998,0.1111,0.1212
 2022-11-07 07:40:41.659598,AFC West - 2022/2023 AFC West - AFC West Winner,Las Vegas Raiders,-0.010100000000000001,0.0244,0.0345
 2022-11-07 09:40:33.453043,LNB Pro A - LNB Pro A 2022/23 - Outright,Boulogne-Levallois,-0.0102,0.0667,0.0769
 2022-11-07 14:40:30.643646,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,RB Leipzig,-0.010700000000000001,0.0278,0.0385
 2022-11-07 07:40:43.607558,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Boston Celtics,-0.010899999999999993,0.1429,0.1538
-2022-11-07 14:40:30.657005,UEFA Champions League - UEFA Champions League 2022/2023 - Nationality of Winner,France,-0.011099999999999999,0.1,0.1111
 2022-11-07 14:40:30.677483,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,Braga,-0.011099999999999999,0.1,0.1111
+2022-11-07 16:40:37.279430,US Midterm Elections 2022 - House & Senate Control Doubles - Proposition,Democratic House & Democratic Senate,-0.011099999999999999,0.1,0.1111
+2022-11-07 14:40:30.657005,UEFA Champions League - UEFA Champions League 2022/2023 - Nationality of Winner,France,-0.011099999999999999,0.1,0.1111
 2022-11-07 09:40:33.481178,LKL - LKL 2022/23 - Outright,Zalgiris,-0.011199999999999988,0.9412,0.9524
 2022-11-07 08:40:30.292453,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,St. Mirren,-0.011199999999999995,0.0476,0.0588
-2022-11-07 08:40:30.312156,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Ross County,-0.011199999999999995,0.0476,0.0588
 2022-11-07 10:40:35.643117,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Joe Burrow,-0.011199999999999995,0.0476,0.0588
+2022-11-07 08:40:30.312156,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Ross County,-0.011199999999999995,0.0476,0.0588
 2022-11-07 08:40:30.317592,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,St. Mirren,-0.011499999999999955,0.6552,0.6667
 2022-11-07 10:40:35.643117,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Justin Herbert,-0.012700000000000003,0.0196,0.0323
 2022-11-07 07:40:41.552789,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Las Vegas Raiders,-0.012800000000000002,0.0116,0.0244
 2022-11-07 07:40:43.607558,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Milwaukee Bucks,-0.012899999999999995,0.1538,0.1667
+2022-11-07 16:40:37.304924,US Midterm Elections 2022 - How many incumbent U.S. Senators will be re-elected in 2022? - Proposition,27,-0.012899999999999995,0.1538,0.1667
 2022-11-07 08:40:30.326375,Super Lig - Turkey Super League 22/23 - Outright,Trabzonspor,-0.013899999999999996,0.1111,0.125
 2022-11-07 09:40:34.371593,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,Braga,-0.013999999999999999,0.0769,0.0909
 2022-11-07 14:40:30.677483,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,Fiorentina,-0.013999999999999999,0.0769,0.0909
@@ -138,10 +152,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-07 08:40:30.299872,Premiership - Scotland Premiership 2022/23 - Top Goalscorer,Tom Lawrence,-0.0145,0.0099,0.0244
 2022-11-07 08:40:29.194951,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Buffalo Bills,-0.01469999999999999,0.2353,0.25
 2022-11-07 07:40:41.609071,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Los Angeles Rams,-0.014899999999999997,0.0476,0.0625
-2022-11-07 14:40:30.643646,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Real Madrid,-0.015100000000000002,0.1667,0.1818
 2022-11-07 08:40:30.275091,Superligaen - Denmark Superligaen 2022/23 - Outright,FC Midtjylland,-0.015100000000000002,0.1667,0.1818
+2022-11-07 14:40:30.643646,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Real Madrid,-0.015100000000000002,0.1667,0.1818
 2022-11-07 14:40:30.668110,UEFA Europa League - UEFA Europa League 22/23 - Winner,Bayer Leverkusen,-0.0157,0.0278,0.0435
+2022-11-07 16:40:37.279430,US Midterm Elections 2022 - House & Senate Control Doubles - Proposition,Republican House & Democratic Senate,-0.01629999999999998,0.2778,0.2941
 2022-11-07 08:40:30.275091,Superligaen - Denmark Superligaen 2022/23 - Outright,FC Nordsjælland,-0.016699999999999993,0.4,0.4167
+2022-11-07 16:40:37.984584,Boxing Lines - David Adeleye vs Michael Wallisch - To Win the Bout,Michael Wallisch,-0.016700000000000007,0.0833,0.1
 2022-11-07 10:40:35.643117,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Lamar Jackson,-0.016700000000000007,0.0833,0.1
 2022-11-07 08:40:30.306280,Premiership - Scotland Premiership 2022/23 - To Finish Bottom,Ross County,-0.017600000000000005,0.3333,0.3509
 2022-11-07 08:40:30.299872,Premiership - Scotland Premiership 2022/23 - Top Goalscorer,Liel Abada,-0.018099999999999998,0.0588,0.0769
@@ -160,9 +176,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-07 07:40:41.609071,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Green Bay Packers,-0.021799999999999996,0.0217,0.0435
 2022-11-07 15:40:33.414295,US Midterm Elections 2022 - Which Party will win the House in the 2022 Midterm Election? - Winning Party,Democratic,-0.022199999999999998,0.1111,0.1333
 2022-11-07 06:40:28.751639,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Green Bay Packers,-0.022400000000000003,0.0099,0.0323
-2022-11-07 11:40:30.497325,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Cincinnati Bengals,Over 9.5,-0.022600000000000064,0.5122,0.5348
 2022-11-07 09:40:33.462132,Bundesliga - Bundesliga 2022/23 - Outright,Alba Berlin,-0.022600000000000064,0.5122,0.5348
 2022-11-07 11:40:30.527888,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Minnesota Vikings,Under 11.5,-0.022600000000000064,0.5122,0.5348
+2022-11-07 11:40:30.497325,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Cincinnati Bengals,Over 9.5,-0.022600000000000064,0.5122,0.5348
 2022-11-07 08:40:30.299872,Premiership - Scotland Premiership 2022/23 - Top Goalscorer,Liam Boyce,-0.0228,0.0066,0.0294
 2022-11-07 15:40:33.035179,Boxing Lines - Jack Bateson vs Shabaz Masoud - To Win the Bout,Jack Bateson,-0.0232,0.2667,0.2899
 2022-11-07 11:40:30.484971,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Atlanta Falcons,Over 7.5,-0.023699999999999943,0.5917,0.6154
@@ -171,32 +187,33 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-07 14:40:29.180171,US Midterm Elections 2022 - Senate Races: 35 Markets - Georgia,Republican,-0.025599999999999956,0.6296,0.6552
 2022-11-07 07:40:41.577581,NFC South - 2022/2023 NFC South - NFC South Winner,Carolina Panthers,-0.025900000000000003,0.0217,0.0476
 2022-11-07 08:40:30.292453,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Hibernian,-0.02779999999999999,0.2222,0.25
-2022-11-07 15:40:33.399199,US Midterm Elections 2022 - Senate Majority Leader On February 1st 2023 - Senate Majority Leader On February 1st 2023,Mitch McConnell,-0.027800000000000047,0.75,0.7778
 2022-11-07 07:40:41.638969,AFC South - 2022/202 AFC South - AFC South Winner,Tennessee Titans,-0.027800000000000047,0.75,0.7778
+2022-11-07 15:40:33.399199,US Midterm Elections 2022 - Senate Majority Leader On February 1st 2023 - Senate Majority Leader On February 1st 2023,Mitch McConnell,-0.027800000000000047,0.75,0.7778
 2022-11-07 14:40:30.668110,UEFA Europa League - UEFA Europa League 22/23 - Winner,Real Betis,-0.028399999999999995,0.0625,0.0909
 2022-11-07 08:40:30.312156,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Dundee United,-0.0294,0.0294,0.0588
 2022-11-07 09:40:33.838524,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.031200000000000002,0.0164,0.0476
 2022-11-07 12:40:45.183249,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.031200000000000002,0.0164,0.0476
-2022-11-07 14:40:30.408290,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.031200000000000002,0.0164,0.0476
 2022-11-07 07:40:44.214435,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.031200000000000002,0.0164,0.0476
-2022-11-07 10:40:37.243624,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.031200000000000002,0.0164,0.0476
-2022-11-07 04:40:29.654175,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.031200000000000002,0.0164,0.0476
+2022-11-07 14:40:30.408290,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.031200000000000002,0.0164,0.0476
+2022-11-07 15:40:35.106528,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.031200000000000002,0.0164,0.0476
 2022-11-07 14:40:29.156052,US Midterm Elections 2022 - Senate Races: 35 Markets - Arizona,Republican,-0.03179999999999994,0.5238,0.5556
-2022-11-07 04:40:29.276302,NBL - NBL 2022/23 - Outright,New Zealand Breakers,-0.034100000000000005,0.0909,0.125
+2022-11-07 16:40:37.304924,US Midterm Elections 2022 - How many incumbent U.S. Senators will be re-elected in 2022? - Proposition,24,-0.034999999999999976,0.2353,0.2703
 2022-11-07 07:40:41.595476,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Buffalo Bills,-0.03570000000000001,0.25,0.2857
 2022-11-07 11:40:30.518088,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Las Vegas Raiders,Over 6.5,-0.03610000000000002,0.5556,0.5917
 2022-11-07 07:40:41.620362,NFC West - 2022/2023 NFC West - NFC West Winner,Arizona Cardinals,-0.0373,0.0294,0.0667
 2022-11-07 14:40:29.292634,US Midterm Elections 2022 - Senate Races: 35 Markets - Wisconsin,Republican,-0.03749999999999998,0.9,0.9375
+2022-11-07 16:40:37.297226,US Midterm Elections 2022 - How many Senate Seats will the Republicans control after the midterms? - Proposition,56 Or More,-0.037500000000000006,0.0625,0.1
 2022-11-07 07:40:41.638969,AFC South - 2022/202 AFC South - AFC South Winner,Houston Texans,-0.037700000000000004,0.0099,0.0476
 2022-11-07 08:40:30.317592,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Aberdeen,-0.03889999999999999,0.1429,0.1818
 2022-11-07 14:40:30.651375,UEFA Champions League - UEFA Champions League 2022/2023 - Furthest Progressing EPL Team,Liverpool,-0.04169999999999999,0.125,0.1667
 2022-11-07 11:40:30.513748,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Jacksonville Jaguars,Over 6.5,-0.044399999999999995,0.5556,0.6
 2022-11-07 09:40:34.371593,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,FC Porto,-0.044499999999999984,0.2222,0.2667
+2022-11-07 16:40:37.500405,2022 Gubernatorial Elections - Michigan - Michigan winner,Republicans,-0.04580000000000001,0.2667,0.3125
 2022-11-07 14:40:30.657005,UEFA Champions League - UEFA Champions League 2022/2023 - Nationality of Winner,Germany,-0.04620000000000002,0.1538,0.2
 2022-11-07 08:40:30.317592,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Motherwell,-0.04760000000000009,0.6667,0.7143
 2022-11-07 08:40:30.275091,Superligaen - Denmark Superligaen 2022/23 - Outright,Viborg FF,-0.052000000000000005,0.0909,0.1429
 2022-11-07 11:40:30.509676,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Indianapolis Colts,Over 6.5,-0.05300000000000005,0.5122,0.5652
-2022-11-07 04:40:29.276302,NBL - NBL 2022/23 - Outright,South East Melbourne Phoenix,-0.05350000000000002,0.1818,0.2353
+2022-11-07 16:40:37.297226,US Midterm Elections 2022 - How many Senate Seats will the Republicans control after the midterms? - Proposition,55,-0.0596,0.0833,0.1429
 2022-11-07 08:40:30.312156,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Hearts,-0.061000000000000054,0.8621,0.9231
 2022-11-07 15:40:33.384125,US Midterm Elections 2022 - House & Senate Control Doubles - Proposition,Republican House & Republican Senate,-0.0625,0.6875,0.75
 2022-11-07 07:40:41.552789,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Buffalo Bills,-0.06509999999999999,0.4,0.4651
@@ -211,14 +228,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-07 15:40:33.421041,US Midterm Elections 2022 - Which Party will win the Senate in the 2022 Midterm Election? - Proposition,Republicans,-0.08579999999999999,0.7059,0.7917
 2022-11-07 07:40:41.638969,AFC South - 2022/202 AFC South - AFC South Winner,Indianapolis Colts,-0.0929,0.1176,0.2105
 2022-11-07 08:40:30.306280,Premiership - Scotland Premiership 2022/23 - To Finish Bottom,St. Johnstone,-0.0953,0.0476,0.1429
+2022-11-07 16:40:37.297226,US Midterm Elections 2022 - How many Senate Seats will the Republicans control after the midterms? - Proposition,54,-0.09620000000000001,0.1538,0.25
 2022-11-07 08:40:30.312156,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Hibernian,-0.09719999999999995,0.7778,0.875
 2022-11-07 08:40:30.326375,Super Lig - Turkey Super League 22/23 - Outright,Besiktas,-0.09720000000000001,0.125,0.2222
+2022-11-07 16:40:37.289256,US Midterm Elections 2022 - How many Republican governors will there be after the midterms? - Proposition,32 Or More,-0.09799999999999998,0.2353,0.3333
 2022-11-07 07:40:41.577581,NFC South - 2022/2023 NFC South - NFC South Winner,Atlanta Falcons,-0.10039999999999999,0.2222,0.3226
 2022-11-07 08:40:30.292453,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Hearts,-0.10900000000000004,0.3077,0.4167
 2022-11-07 08:40:30.317592,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Livingston,-0.11109999999999998,0.5556,0.6667
 2022-11-07 07:40:41.620362,NFC West - 2022/2023 NFC West - NFC West Winner,Los Angeles Rams,-0.1196,0.0909,0.2105
 2022-11-07 09:40:34.439614,Eredivisie - Dutch Eredivisie 2022/23 - Winner,Ajax,-0.12140000000000006,0.6154,0.7368
 2022-11-07 14:40:29.268936,US Midterm Elections 2022 - Senate Races: 35 Markets - Pennsylvania,Republican,-0.13569999999999993,0.5744,0.7101
+2022-11-07 16:40:37.470745,2022 Gubernatorial Elections - Kansas - Kansas winner,Republicans,-0.14180000000000004,0.4878,0.6296
 2022-11-07 14:40:29.227201,US Midterm Elections 2022 - Senate Races: 35 Markets - Nevada,Republican,-0.14480000000000004,0.6552,0.8
 2022-11-07 11:40:30.489083,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Buffalo Bills,Over 13.5,-0.15449999999999997,0.5122,0.6667
 2022-11-07 10:40:35.643117,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Josh Allen,-0.16850000000000004,0.3077,0.4762
