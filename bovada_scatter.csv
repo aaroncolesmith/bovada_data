@@ -8,17 +8,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-10 09:40:35.766443,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Augsburg,0.055900000000000005,0.3636,0.3077
 2022-11-10 09:40:35.760573,1. Bundesliga - Germany Bundesliga 2022/23 - Winner without Bayern Munich,Eintracht Frankfurt,0.048100000000000004,0.125,0.0769
 2022-11-10 05:40:31.102746,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Minnesota Vikings,Over 11.5,0.044399999999999995,0.6,0.5556
+2022-11-10 13:40:33.159626,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Indianapolis Colts,Under 6.5,0.04179999999999995,0.697,0.6552
+2022-11-10 13:40:31.962987,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Milwaukee Bucks,0.041000000000000036,0.7778,0.7368
 2022-11-10 06:40:32.381070,Round Match-Ups - 1st Round Match-Up - A. Wise vs H. Matsuyama - 1st Round Match-Up,Aaron Wise,0.03959999999999997,0.5744,0.5348
 2022-11-10 10:40:40.954045,NFL Specials - Next NFL Coach to Permanently Leave their Post - Next Coach to Leave ,Kliff Kingsbury,0.03710000000000002,0.3448,0.3077
 2022-11-10 10:40:42.550631,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Livingston,0.03420000000000001,0.1111,0.0769
 2022-11-10 09:40:35.766443,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Schalke 04,0.033299999999999996,0.8333,0.8
 2022-11-10 09:40:35.766443,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,FC Köln,0.0321,0.0909,0.0588
 2022-11-10 10:40:42.576300,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Livingston,0.03179999999999994,0.5556,0.5238
-2022-11-10 09:40:35.665391,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.031200000000000002,0.0476,0.0164
-2022-11-10 11:40:30.965475,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.031200000000000002,0.0476,0.0164
 2022-11-10 12:40:34.068141,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.031200000000000002,0.0476,0.0164
-2022-11-10 07:40:41.814758,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.031200000000000002,0.0476,0.0164
-2022-11-10 01:40:34.120582,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.031200000000000002,0.0476,0.0164
+2022-11-10 11:40:30.965475,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.031200000000000002,0.0476,0.0164
+2022-11-10 09:40:35.665391,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.031200000000000002,0.0476,0.0164
 2022-11-10 05:40:32.906031,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.031200000000000002,0.0476,0.0164
 2022-11-10 03:40:33.357168,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.031200000000000002,0.0476,0.0164
 2022-11-10 09:40:35.948824,Eredivisie - Dutch Eredivisie 2022/23 - Winner,PSV Eindhoven,0.030299999999999994,0.3636,0.3333
@@ -26,73 +26,85 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-10 08:40:33.427535,Boxing Lines - Craig Richards vs Ricards Bolotniks - To Win the Bout,Craig Richards,0.028800000000000048,0.875,0.8462
 2022-11-10 07:40:41.217308,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Boston Celtics,0.025600000000000067,0.6923,0.6667
 2022-11-10 10:40:42.550631,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Hearts,0.02560000000000001,0.3333,0.3077
+2022-11-10 13:40:31.968632,2022/23 Divisions - 2022-2023 NBA Northwest Division - Division Winner,Denver Nuggets,0.025599999999999956,0.6,0.5744
 2022-11-10 11:40:31.310052,Houston Open - 2/3 Balls - 1st Round 3 Balls - R. Armour / A. Schenk / J. Lower - 1st Round 3 Balls,Adam Schenk,0.025499999999999967,0.4255,0.4
 2022-11-10 03:40:32.566068,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,Stetson Bennett IV,0.0242,0.0909,0.0667
-2022-11-10 10:40:40.954045,NFL Specials - Next NFL Coach to Permanently Leave their Post - Next Coach to Leave ,Josh McDaniels,0.023799999999999988,0.1667,0.1429
 2022-11-10 10:40:42.583469,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Aberdeen,0.023799999999999988,0.1667,0.1429
 2022-11-10 11:40:31.330288,Houston Open - 2/3 Balls - 1st Round 3 Balls - K. Tway / S. Piercy / P. Rodgers - 1st Round 3 Balls,Patrick Rodgers,0.023799999999999988,0.5,0.4762
+2022-11-10 10:40:40.954045,NFL Specials - Next NFL Coach to Permanently Leave their Post - Next Coach to Leave ,Josh McDaniels,0.023799999999999988,0.1667,0.1429
+2022-11-10 13:40:33.369714,NFL Fantasy Specials - Week 10 Fantasy Scoring Leaders - Highest Scoring RB (PPR),Alvin Kamara,0.023799999999999988,0.1667,0.1429
 2022-11-10 09:40:35.766443,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Mainz,0.023200000000000002,0.0476,0.0244
+2022-11-10 13:40:31.419286,Boxing Lines - Aloys Youmbi vs Pawel Strykowski - To Win the Bout,Pawel Strykowski,0.02310000000000001,0.1,0.0769
 2022-11-10 09:40:33.500987,Boxing Lines - Jack Bateson vs Shabaz Masoud - To Win the Bout,Jack Bateson,0.022699999999999998,0.25,0.2273
 2022-11-10 02:40:31.144401,Tournament Match-Ups - Tournament Match-Up - H. Matsuyama vs T. Finau - Tournament Match-Up,Tony Finau,0.022600000000000064,0.6226,0.6
-2022-11-10 10:40:42.558615,Premiership - Scotland Premiership 2022/23 - Top Goalscorer,Kyogo Furuhashi,0.021999999999999964,0.3077,0.2857
+2022-11-10 13:40:31.957362,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Boston Celtics,0.02200000000000002,0.7143,0.6923
 2022-11-10 10:40:42.583469,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Hibernian,0.021999999999999964,0.3077,0.2857
-2022-11-10 01:40:32.142633,Houston Open - 2/3 Balls - 1st Round 3 Balls - K. Tway / S. Piercy / P. Rodgers - 1st Round 3 Balls,Patrick Rodgers,0.021699999999999997,0.4762,0.4545
+2022-11-10 10:40:42.558615,Premiership - Scotland Premiership 2022/23 - Top Goalscorer,Kyogo Furuhashi,0.021999999999999964,0.3077,0.2857
 2022-11-10 11:40:31.193141,Round Match-Ups - 1st Round Match-Up - D. Lipsky v T. Mullinax - 1st Round Match-Up,David Lipsky,0.02169999999999994,0.5455,0.5238
 2022-11-10 11:40:31.173169,Round Match-Ups - 1st Round Match-Up - J. Day vs T. Montgomery - 1st Round Match-Up,Taylor Montgomery,0.02169999999999994,0.5455,0.5238
 2022-11-10 11:40:31.163176,Round Match-Ups - 1st Round Match-Up - S. Theegala vs W. Gordon - 1st Round Match-Up,Will Gordon,0.02169999999999994,0.5455,0.5238
+2022-11-10 13:40:31.968632,2022/23 Divisions - 2022-2023 NBA Northwest Division - Division Winner,Utah Jazz,0.02020000000000001,0.1111,0.0909
 2022-11-10 10:40:42.543917,Premiership - Scotland Premiership 2022/23 - Outright,Celtic,0.01980000000000004,0.8948,0.875
-2022-11-10 01:40:32.083980,Houston Open - 2/3 Balls - 1st Round 3 Balls - D. Willett / D. Redman / S. Theegala - 1st Round 3 Balls,Sahith Theegala,0.019699999999999995,0.4545,0.4348
+2022-11-10 13:40:31.980040,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Atlanta Hawks,0.01970000000000005,0.5652,0.5455
 2022-11-10 03:40:34.342068,Houston Open - 2/3 Balls - 1st Round 3 Balls - M. Hughes / T. Finau / J. Dahmen - 1st Round 3 Balls,Tony Finau,0.019699999999999995,0.4545,0.4348
 2022-11-10 11:40:31.325253,Houston Open - 2/3 Balls - 1st Round 3 Balls - M. McNealy / Z. Blair / S. Jaeger - 1st Round 3 Balls,Stephan Jaeger,0.017600000000000005,0.3509,0.3333
 2022-11-10 08:40:34.032763,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Gretchen Whitmer,0.017400000000000002,0.0323,0.0149
-2022-11-10 10:40:42.576300,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,St. Johnstone,0.016699999999999993,0.2667,0.25
 2022-11-10 05:40:31.979729,Houston Open - 2/3 Balls - 1st Round 3 Balls - J. Herman / N. Taylor / J. Rose - 1st Round 3 Balls,Nick Taylor,0.016699999999999993,0.4167,0.4
+2022-11-10 10:40:42.576300,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,St. Johnstone,0.016699999999999993,0.2667,0.25
 2022-11-10 07:40:41.253146,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Los Angeles Clippers,0.016699999999999993,0.2667,0.25
 2022-11-10 05:40:30.698986,Boxing Lines - Thomas Essomba vs Marcel Braithwaite - To Win the Bout,Thomas Essomba,0.016300000000000092,0.6226,0.6063
 2022-11-10 11:40:31.269846,Houston Open - 2/3 Balls - 1st Round 3 Balls - D. Willett / D. Redman / S. Theegala - 1st Round 3 Balls,Danny Willett,0.015400000000000025,0.4,0.3846
 2022-11-10 05:40:30.698986,Boxing Lines - Thomas Essomba vs Marcel Braithwaite - To Win the Bout,Marcel Braithwaite,0.015199999999999991,0.4444,0.4292
-2022-11-10 01:40:32.083980,Houston Open - 2/3 Balls - 1st Round 3 Balls - D. Willett / D. Redman / S. Theegala - 1st Round 3 Balls,Danny Willett,0.01419999999999999,0.3846,0.3704
+2022-11-10 13:40:31.985654,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,New Orleans Pelicans,0.01469999999999999,0.25,0.2353
+2022-11-10 13:40:31.980040,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Washington Wizards,0.014399999999999996,0.0769,0.0625
+2022-11-10 13:40:31.968632,2022/23 Divisions - 2022-2023 NBA Northwest Division - Division Winner,Portland Trail Blazers,0.0131,0.2353,0.2222
+2022-11-10 13:40:33.369714,NFL Fantasy Specials - Week 10 Fantasy Scoring Leaders - Highest Scoring RB (PPR),Saquon Barkley,0.0131,0.2353,0.2222
 2022-11-10 10:40:39.840181,Tournament Match-Ups - Tournament Match-Up - S. Burns vs S. Scheffler - Tournament Match-Up,Scottie Scheffler,0.012700000000000045,0.6491,0.6364
 2022-11-10 03:40:32.378926,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Indianapolis Colts,Under 6.5,0.012299999999999978,0.6552,0.6429
 2022-11-10 03:40:34.255912,Round Match-Ups - 1st Round Match-Up - M. Laird v J. Bramlett - 1st Round Match-Up,Joseph Bramlett,0.012199999999999989,0.5122,0.5
 2022-11-10 07:40:41.316550,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Clippers,0.011700000000000016,0.2222,0.2105
 2022-11-10 03:40:32.240789,NCAAF - 2022 Sun Belt Championship - Sun Belt Championship Game Winner,Troy,0.0116,0.4878,0.4762
 2022-11-10 10:40:42.583469,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,St. Mirren,0.011499999999999955,0.6667,0.6552
-2022-11-10 01:40:32.530884,Boxing Lines - Tyler Denny vs Bradley Rea - To Win the Bout,Bradley Rea,0.011099999999999999,0.7937,0.7826
-2022-11-10 09:40:33.461047,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Gavin Newsom,-0.0102,0.0667,0.0769
+2022-11-10 13:40:31.985654,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Memphis Grizzlies,0.010599999999999998,0.4651,0.4545
+2022-11-10 13:40:33.369714,NFL Fantasy Specials - Week 10 Fantasy Scoring Leaders - Highest Scoring RB (PPR),Christian McCaffrey,0.010499999999999982,0.2105,0.2
 2022-11-10 10:40:39.778400,Houston Open - Houston Open - Outright,Sam Burns,-0.0102,0.0667,0.0769
+2022-11-10 09:40:33.461047,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Gavin Newsom,-0.0102,0.0667,0.0769
 2022-11-10 03:40:34.255912,Round Match-Ups - 1st Round Match-Up - M. Laird v J. Bramlett - 1st Round Match-Up,Martin Laird,-0.010699999999999932,0.5348,0.5455
 2022-11-10 07:40:41.227491,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Cleveland Cavaliers,-0.010699999999999987,0.3226,0.3333
 2022-11-10 09:40:33.500987,Boxing Lines - Jack Bateson vs Shabaz Masoud - To Win the Bout,Shabaz Masoud,-0.01089999999999991,0.8182,0.8291
+2022-11-10 13:40:31.957362,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Toronto Raptors,-0.010899999999999993,0.1429,0.1538
 2022-11-10 10:40:40.954045,NFL Specials - Next NFL Coach to Permanently Leave their Post - Next Coach to Leave ,Lovie Smith,-0.010899999999999993,0.1429,0.1538
-2022-11-10 10:40:40.954045,NFL Specials - Next NFL Coach to Permanently Leave their Post - Next Coach to Leave ,Ron Rivera,-0.011099999999999999,0.1,0.1111
+2022-11-10 13:40:31.993855,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Milwaukee Bucks,-0.010899999999999993,0.1429,0.1538
+2022-11-10 13:40:31.516741,Boxing Lines - Natasha Jonas vs Marie Eve Dicaire - To Win the Bout,Natasha Jonas,-0.01090000000000002,0.8462,0.8571
 2022-11-10 12:40:32.529588,Boxing Lines - Tyler Denny vs Bradley Rea - To Win the Bout,Bradley Rea,-0.011099999999999999,0.7826,0.7937
-2022-11-10 10:40:42.576300,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Kilmarnock,-0.011199999999999995,0.0476,0.0588
+2022-11-10 10:40:40.954045,NFL Specials - Next NFL Coach to Permanently Leave their Post - Next Coach to Leave ,Ron Rivera,-0.011099999999999999,0.1,0.1111
 2022-11-10 09:40:35.772387,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Werder Bremen,-0.011199999999999995,0.0476,0.0588
-2022-11-10 01:40:32.142633,Houston Open - 2/3 Balls - 1st Round 3 Balls - K. Tway / S. Piercy / P. Rodgers - 1st Round 3 Balls,Scott Piercy,-0.01150000000000001,0.3333,0.3448
+2022-11-10 10:40:42.576300,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Kilmarnock,-0.011199999999999995,0.0476,0.0588
 2022-11-10 07:40:41.241726,2022/23 Divisions - 2022-2023 NBA Northwest Division - Division Winner,Minnesota Timberwolves,-0.011700000000000016,0.2105,0.2222
 2022-11-10 09:40:33.461047,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,-0.011700000000000016,0.2105,0.2222
 2022-11-10 09:40:33.631620,Boxing Lines - Craig Richards vs Ricards Bolotniks - To Win the Bout,Ricards Bolotniks,-0.011899999999999994,0.1786,0.1905
 2022-11-10 10:40:40.954045,NFL Specials - Next NFL Coach to Permanently Leave their Post - Next Coach to Leave ,Kevin Stefanski,-0.011900000000000008,0.0833,0.0952
-2022-11-10 07:40:41.316550,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Phoenix Suns,-0.012899999999999995,0.1538,0.1667
 2022-11-10 07:40:41.217308,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Toronto Raptors,-0.012899999999999995,0.1538,0.1667
+2022-11-10 07:40:41.316550,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Phoenix Suns,-0.012899999999999995,0.1538,0.1667
+2022-11-10 13:40:31.974371,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Golden State Warriors,-0.0131,0.2222,0.2353
 2022-11-10 11:40:31.310052,Houston Open - 2/3 Balls - 1st Round 3 Balls - R. Armour / A. Schenk / J. Lower - 1st Round 3 Balls,Justin Lower,-0.013800000000000034,0.3636,0.3774
 2022-11-10 10:40:42.558615,Premiership - Scotland Premiership 2022/23 - Top Goalscorer,Georgios Giakoumakis,-0.013899999999999996,0.1111,0.125
-2022-11-10 10:40:39.426901,Boxing Lines - Khalil Coe vs Bradley Olmeda - To Win the Bout,Bradley Olmeda,-0.013999999999999999,0.0769,0.0909
+2022-11-10 13:40:31.549478,Boxing Lines - Raymond Muratalla vs Miguel Contreras - To Win the Bout,Miguel Contreras,-0.013899999999999996,0.129,0.1429
 2022-11-10 10:40:42.558615,Premiership - Scotland Premiership 2022/23 - Top Goalscorer,Lawrence Shankland,-0.013999999999999999,0.0769,0.0909
+2022-11-10 10:40:39.426901,Boxing Lines - Khalil Coe vs Bradley Olmeda - To Win the Bout,Bradley Olmeda,-0.013999999999999999,0.0769,0.0909
 2022-11-10 09:40:35.766443,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Werder Bremen,-0.014099999999999998,0.0244,0.0385
 2022-11-10 10:40:42.576300,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Aberdeen,-0.01429999999999998,0.8948,0.9091
 2022-11-10 07:40:41.253146,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Golden State Warriors,-0.01469999999999999,0.2353,0.25
 2022-11-10 11:40:31.310052,Houston Open - 2/3 Balls - 1st Round 3 Balls - R. Armour / A. Schenk / J. Lower - 1st Round 3 Balls,Ryan Armour,-0.014900000000000024,0.3077,0.3226
 2022-11-10 10:40:42.543917,Premiership - Scotland Premiership 2022/23 - Outright,Rangers,-0.015100000000000002,0.1667,0.1818
 2022-11-10 02:40:30.609472,Boxing Lines - Thomas Essomba vs Marcel Braithwaite - To Win the Bout,Marcel Braithwaite,-0.015199999999999991,0.4292,0.4444
+2022-11-10 13:40:31.985654,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Dallas Mavericks,-0.015400000000000025,0.3846,0.4
 2022-11-10 09:40:35.772387,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Borussia Mönchengladbach,-0.016600000000000004,0.0667,0.0833
 2022-11-10 10:40:42.576300,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,St. Mirren,-0.016699999999999993,0.4,0.4167
 2022-11-10 10:40:39.840181,Tournament Match-Ups - Tournament Match-Up - S. Burns vs S. Scheffler - Tournament Match-Up,Sam Burns,-0.017299999999999982,0.4082,0.4255
 2022-11-10 03:40:32.378926,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Indianapolis Colts,Over 6.5,-0.017299999999999982,0.4082,0.4255
 2022-11-10 03:40:34.342068,Houston Open - 2/3 Balls - 1st Round 3 Balls - M. Hughes / T. Finau / J. Dahmen - 1st Round 3 Balls,Joel Dahmen,-0.017600000000000005,0.3333,0.3509
 2022-11-10 10:40:42.583469,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,St. Johnstone,-0.018199999999999994,0.8,0.8182
-2022-11-10 01:40:32.083980,Houston Open - 2/3 Balls - 1st Round 3 Balls - D. Willett / D. Redman / S. Theegala - 1st Round 3 Balls,Doc Redman,-0.019000000000000017,0.2667,0.2857
 2022-11-10 11:40:31.330288,Houston Open - 2/3 Balls - 1st Round 3 Balls - K. Tway / S. Piercy / P. Rodgers - 1st Round 3 Balls,Kevin Tway,-0.019000000000000017,0.2667,0.2857
 2022-11-10 11:40:31.269846,Houston Open - 2/3 Balls - 1st Round 3 Balls - D. Willett / D. Redman / S. Theegala - 1st Round 3 Balls,Sahith Theegala,-0.019699999999999995,0.4348,0.4545
 2022-11-10 11:40:32.644966,National League - England National League 2022/23 - Outright,Chesterfield,-0.02020000000000001,0.0909,0.1111
@@ -101,28 +113,31 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-10 10:40:42.550631,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Hibernian,-0.022199999999999998,0.2,0.2222
 2022-11-10 10:40:40.954045,NFL Specials - Next NFL Coach to Permanently Leave their Post - Next Coach to Leave ,Nathaniel Hackett,-0.023799999999999988,0.4762,0.5
 2022-11-10 11:40:31.193141,Round Match-Ups - 1st Round Match-Up - D. Lipsky v T. Mullinax - 1st Round Match-Up,Trey Mullinax,-0.023800000000000043,0.5,0.5238
-2022-11-10 11:40:31.325253,Houston Open - 2/3 Balls - 1st Round 3 Balls - M. McNealy / Z. Blair / S. Jaeger - 1st Round 3 Balls,Maverick McNealy,-0.023800000000000043,0.5,0.5238
-2022-11-10 11:40:31.163176,Round Match-Ups - 1st Round Match-Up - S. Theegala vs W. Gordon - 1st Round Match-Up,Sahith Theegala,-0.023800000000000043,0.5,0.5238
 2022-11-10 11:40:31.173169,Round Match-Ups - 1st Round Match-Up - J. Day vs T. Montgomery - 1st Round Match-Up,Jason Day,-0.023800000000000043,0.5,0.5238
+2022-11-10 11:40:31.163176,Round Match-Ups - 1st Round Match-Up - S. Theegala vs W. Gordon - 1st Round Match-Up,Sahith Theegala,-0.023800000000000043,0.5,0.5238
+2022-11-10 11:40:31.325253,Houston Open - 2/3 Balls - 1st Round 3 Balls - M. McNealy / Z. Blair / S. Jaeger - 1st Round 3 Balls,Maverick McNealy,-0.023800000000000043,0.5,0.5238
 2022-11-10 10:40:42.576300,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Hibernian,-0.027800000000000047,0.75,0.7778
 2022-11-10 09:40:35.772387,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Mainz,-0.0294,0.0294,0.0588
-2022-11-10 04:40:31.149468,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.031200000000000002,0.0164,0.0476
 2022-11-10 02:40:32.999753,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.031200000000000002,0.0164,0.0476
 2022-11-10 07:40:41.814758,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.031200000000000002,0.0164,0.0476
-2022-11-10 08:40:35.381515,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.031200000000000002,0.0164,0.0476
 2022-11-10 10:40:42.170862,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.031200000000000002,0.0164,0.0476
 2022-11-10 11:40:30.965475,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.031200000000000002,0.0164,0.0476
+2022-11-10 04:40:31.149468,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.031200000000000002,0.0164,0.0476
 2022-11-10 10:40:42.583469,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Livingston,-0.03179999999999994,0.5238,0.5556
 2022-11-10 09:40:35.948824,Eredivisie - Dutch Eredivisie 2022/23 - Winner,Ajax,-0.032099999999999906,0.5833,0.6154
 2022-11-10 09:40:35.766443,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,VfB Stuttgart,-0.033300000000000024,0.1667,0.2
 2022-11-10 09:40:35.772387,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Hoffenheim,-0.03420000000000001,0.0769,0.1111
 2022-11-10 09:40:35.766443,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Bochum,-0.035699999999999954,0.7143,0.75
 2022-11-10 06:40:32.381070,Round Match-Ups - 1st Round Match-Up - A. Wise vs H. Matsuyama - 1st Round Match-Up,Hideki Matsuyama,-0.035999999999999976,0.4762,0.5122
-2022-11-10 10:40:42.550631,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Aberdeen,-0.044399999999999995,0.4,0.4444
+2022-11-10 13:40:31.962987,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Cleveland Cavaliers,-0.03689999999999999,0.2857,0.3226
+2022-11-10 13:40:33.159626,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Indianapolis Colts,Over 6.5,-0.0378,0.3704,0.4082
+2022-11-10 13:40:31.980040,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Miami Heat,-0.04139999999999999,0.4348,0.4762
 2022-11-10 11:40:32.644966,National League - England National League 2022/23 - Outright,Notts County,-0.044399999999999995,0.4,0.4444
+2022-11-10 10:40:42.550631,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Aberdeen,-0.044399999999999995,0.4,0.4444
 2022-11-10 05:40:31.102746,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Minnesota Vikings,Under 11.5,-0.047099999999999975,0.4651,0.5122
 2022-11-10 10:40:42.566239,Premiership - Scotland Premiership 2022/23 - To Finish Bottom,Ross County,-0.047599999999999976,0.2857,0.3333
 2022-11-10 09:40:35.766443,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Bayer Leverkusen,-0.052399999999999995,0.0385,0.0909
+2022-11-10 13:40:31.968632,2022/23 Divisions - 2022-2023 NBA Northwest Division - Division Winner,Minnesota Timberwolves,-0.0567,0.1538,0.2105
 2022-11-10 09:40:35.772387,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,RB Leipzig,-0.05910000000000004,0.6552,0.7143
 2022-11-10 10:40:42.566239,Premiership - Scotland Premiership 2022/23 - To Finish Bottom,Dundee United,-0.05980000000000002,0.3846,0.4444
 2022-11-10 09:40:35.766443,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Wolfsburg,-0.08170000000000001,0.0294,0.1111
