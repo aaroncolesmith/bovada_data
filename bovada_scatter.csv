@@ -1,8 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2022-11-12 01:40:39.370279,Charles Schwab Cup - Charles Schwab Cup - Outright,Padraig Harrington,0.16359999999999997,0.3636,0.2
 2022-11-12 03:40:33.791075,Pelican Women's Championship - Pelican Women's Championship - Outright,Hyo Joo Kim,0.12919999999999998,0.1818,0.0526
 2022-11-12 13:40:29.748945,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Orlando Magic,Under 26.5,0.11740000000000006,0.6296,0.5122
-2022-11-12 01:40:39.370279,Charles Schwab Cup - Charles Schwab Cup - Outright,Steven Alker,0.11430000000000001,0.4,0.2857
 2022-11-12 03:40:33.791075,Pelican Women's Championship - Pelican Women's Championship - Outright,Lexi Thompson,0.1079,0.1667,0.0588
 2022-11-12 13:40:29.647750,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Atlanta Hawks,Over 46.5,0.06520000000000004,0.5652,0.5
 2022-11-12 13:40:29.770691,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Sacramento Kings,Over 33.5,0.06440000000000001,0.6296,0.5652
@@ -10,7 +8,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-12 12:40:29.824647,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Atlanta Hawks,0.05449999999999999,0.6,0.5455
 2022-11-12 03:40:33.791075,Pelican Women's Championship - Pelican Women's Championship - Outright,Carlota Ciganda,0.0518,0.0667,0.0149
 2022-11-12 13:40:29.756065,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Philadelphia 76ers,Under 47.5,0.05019999999999991,0.6154,0.5652
-2022-11-12 01:40:39.370279,Charles Schwab Cup - Charles Schwab Cup - Outright,Brian Gay,0.04329999999999999,0.0909,0.0476
 2022-11-12 13:40:30.393506,NBA Awards - 2022/23 NBA Awards - 2022/23 The Rookie of the Year,Bennedict Mathurin (IND),0.03889999999999999,0.1818,0.1429
 2022-11-12 12:40:29.803065,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Boston Celtics,0.035699999999999954,0.75,0.7143
 2022-11-12 13:40:29.686424,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Detroit Pistons,Over 28.5,0.03489999999999999,0.5,0.4651
@@ -22,16 +19,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-12 12:40:29.814131,2022/23 Divisions - 2022-2023 NBA Northwest Division - Division Winner,Portland Trail Blazers,0.031399999999999983,0.2667,0.2353
 2022-11-12 10:40:33.746354,FIFA World Cup Futures - FIFA World Cup 2022 - Confederation of The Winner,CONMEBOL (South America),0.030299999999999994,0.3636,0.3333
 2022-11-12 03:40:33.791075,Pelican Women's Championship - Pelican Women's Championship - Outright,Lizette Salas,0.028599999999999997,0.0435,0.0149
-2022-11-12 01:40:39.370279,Charles Schwab Cup - Charles Schwab Cup - Outright,Retief Goosen,0.0282,0.0526,0.0244
 2022-11-12 03:40:33.791075,Pelican Women's Championship - Pelican Women's Championship - Outright,Gaby Lopez,0.028000000000000004,0.0476,0.0196
 2022-11-12 13:40:29.681626,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Denver Nuggets,Under 50.5,0.026499999999999968,0.5917,0.5652
 2022-11-12 13:40:29.738993,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - New York Knicks,Over 39.5,0.023799999999999988,0.5,0.4762
 2022-11-12 03:40:33.791075,Pelican Women's Championship - Pelican Women's Championship - Outright,In Gee Chun,0.023200000000000002,0.0526,0.0294
 2022-11-12 06:40:33.734712,Round Match-Ups - 3rd Round Match-Up - D. Riley vs T. Pendrith - 3rd Round Match-Up,Taylor Pendrith,0.022600000000000064,0.5348,0.5122
-2022-11-12 10:40:33.764609,FIFA World Cup Futures - FIFA World Cup 2022 - Golden Glove Winner,Alisson,0.022199999999999998,0.2222,0.2
 2022-11-12 09:40:33.552558,NFL Weekly Specials - NFL Week 10 Leaders - Lowest Scoring Game - Week 10 (Sunday Only),DEN Broncos @ TEN Titans,0.022199999999999998,0.2222,0.2
-2022-11-12 09:40:33.541325,NFL Weekly Specials - NFL Week 10 Leaders - Highest Scoring Game - Week 10 (Sunday Only),JAX Jaguars @ KC Chiefs,0.022199999999999998,0.2222,0.2
 2022-11-12 13:40:29.638948,2022/23 NBA - Regular Season Wins - Regular Season Wins - Most Wins - NBA 2022/23 Regular Season,BOS Celtics,0.022199999999999998,0.2222,0.2
+2022-11-12 10:40:33.764609,FIFA World Cup Futures - FIFA World Cup 2022 - Golden Glove Winner,Alisson,0.022199999999999998,0.2222,0.2
+2022-11-12 09:40:33.541325,NFL Weekly Specials - NFL Week 10 Leaders - Highest Scoring Game - Week 10 (Sunday Only),JAX Jaguars @ KC Chiefs,0.022199999999999998,0.2222,0.2
+2022-11-12 14:41:13.115931,Round Match-Ups - 3rd Round Match-Up - J. Hahn v S. Piercy - 3rd Round Match-Up,Scott Piercy,0.02169999999999994,0.5455,0.5238
 2022-11-12 07:40:32.467650,Round Match-Ups - 3rd Round Match-Up - A. Smalley vs K. Mitchell - 3rd Round Match-Up,Keith Mitchell,0.02169999999999994,0.5455,0.5238
 2022-11-12 13:40:29.555776,NFL Weekly Specials - Week 10 RedZone Specials - Sunday 13th Nov - Late Games,Each Team Score 1+ Touchdown in the 4:05pm & 4:25pm Matches,0.02100000000000002,0.6364,0.6154
 2022-11-12 06:40:33.741228,Round Match-Ups - 3rd Round Match-Up - G. Woodland vs B. Griffin - 3rd Round Match-Up,Gary Woodland,0.02079999999999993,0.5556,0.5348
@@ -40,96 +37,86 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-12 03:40:34.695936,1. Bundesliga - Germany Bundesliga 2022/23 - Winner,Bayern Munich,0.018900000000000028,0.9804,0.9615
 2022-11-12 03:40:33.791075,Pelican Women's Championship - Pelican Women's Championship - Outright,Pauline Roussin Bouchard,0.0181,0.0345,0.0164
 2022-11-12 03:40:34.736957,Championship - England Championship 2022/23 - Outright,Norwich City,0.0179,0.1429,0.125
-2022-11-12 12:40:30.109887,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Jordan Poole (GSW),0.016699999999999993,0.2667,0.25
 2022-11-12 13:40:30.387010,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Shai Gilgeous-Alexander (OKC),0.016699999999999993,0.2667,0.25
+2022-11-12 12:40:30.109887,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Jordan Poole (GSW),0.016699999999999993,0.2667,0.25
 2022-11-12 09:40:34.636073,Super Lig - Turkey Super League 22/23 - Outright,Galatasaray,0.015100000000000002,0.1818,0.1667
 2022-11-12 12:40:30.116070,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Nate McMillan,0.014899999999999997,0.0625,0.0476
 2022-11-12 10:40:33.716274,FIFA World Cup Futures - FIFA World Cup 2022 - To Reach the Final,Argentina,0.01469999999999999,0.25,0.2353
 2022-11-12 08:40:33.819187,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),Derrick Henry,0.014500000000000013,0.3175,0.303
 2022-11-12 04:40:31.403044,Boxing Lines - Montana Love vs Steve Spark - To Win the Bout,Montana Love,0.013900000000000023,0.8889,0.875
-2022-11-12 01:40:39.202451,Boxing Lines - Zhanibek Alimkhanuly vs Denzel Bentley - To Win the Bout,Zhanibek Alimkhanuly,0.0131,0.9655,0.9524
-2022-11-12 03:40:33.791075,Pelican Women's Championship - Pelican Women's Championship - Outright,Tiffany Chan,0.0129,0.0149,0.002
 2022-11-12 03:40:33.791075,Pelican Women's Championship - Pelican Women's Championship - Outright,Isi Gabsa,0.0129,0.0149,0.002
-2022-11-12 12:40:30.116070,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Will Hardy,0.012899999999999995,0.1667,0.1538
+2022-11-12 03:40:33.791075,Pelican Women's Championship - Pelican Women's Championship - Outright,Tiffany Chan,0.0129,0.0149,0.002
 2022-11-12 04:40:31.386719,Boxing Lines - Raymond Muratalla vs Miguel Contreras - To Win the Bout,Miguel Contreras,0.012899999999999995,0.1379,0.125
+2022-11-12 12:40:30.116070,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Will Hardy,0.012899999999999995,0.1667,0.1538
 2022-11-12 03:40:33.746537,Round Match-Ups - 3rd Round Match-Up - D. Riley vs T. Pendrith - 3rd Round Match-Up,Taylor Pendrith,0.012199999999999989,0.5122,0.5
 2022-11-12 09:40:33.558054,NFL Weekly Specials - NFL Week 10 Leaders - Lowest Scoring Team - Week 10 (Sunday Only),CLE Browns,0.011199999999999995,0.0588,0.0476
+2022-11-12 14:41:12.668006,US Presidential Election 2024 - US Presidential Election 2024 - Republican Ticket: Presidential & Vice Presidential - Proposition,Ron DeSantis & Nikki Haley,0.011199999999999995,0.0588,0.0476
 2022-11-12 12:40:29.850590,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Dallas Mavericks,0.011099999999999999,0.1111,0.1
 2022-11-12 12:40:30.116070,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Joe Mazzulla,0.011099999999999999,0.1111,0.1
+2022-11-12 14:41:12.668006,US Presidential Election 2024 - US Presidential Election 2024 - Republican Ticket: Presidential & Vice Presidential - Proposition,Donald Trump & Ron DeSantis,0.010899999999999993,0.1538,0.1429
 2022-11-12 13:40:28.157384,Boxing Lines - Tyler Denny vs Bradley Rea - To Win the Bout,Tyler Denny,0.010599999999999998,0.2703,0.2597
 2022-11-12 03:40:33.791075,Pelican Women's Championship - Pelican Women's Championship - Outright,Yaeeun Hong,0.0103,0.0123,0.002
 2022-11-12 09:40:33.446361,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Minnesota Vikings,0.010200000000000015,0.1481,0.1379
 2022-11-12 10:40:33.764609,FIFA World Cup Futures - FIFA World Cup 2022 - Golden Glove Winner,Diogo Costa,-0.0102,0.0667,0.0769
 2022-11-12 10:40:33.764609,FIFA World Cup Futures - FIFA World Cup 2022 - Golden Glove Winner,Jordan Pickford,-0.0102,0.0667,0.0769
 2022-11-12 09:40:33.552558,NFL Weekly Specials - NFL Week 10 Leaders - Lowest Scoring Game - Week 10 (Sunday Only),LA Chargers @ SF 49ers,-0.0102,0.0667,0.0769
-2022-11-12 01:40:39.370279,Charles Schwab Cup - Charles Schwab Cup - Outright,Ken Duke,-0.0103,0.002,0.0123
 2022-11-12 03:40:33.791075,Pelican Women's Championship - Pelican Women's Championship - Outright,So Yeon Ryu,-0.0106,0.0017,0.0123
 2022-11-12 03:40:33.746537,Round Match-Ups - 3rd Round Match-Up - D. Riley vs T. Pendrith - 3rd Round Match-Up,Davis Riley,-0.010699999999999932,0.5348,0.5455
-2022-11-12 13:40:29.638948,2022/23 NBA - Regular Season Wins - Regular Season Wins - Most Wins - NBA 2022/23 Regular Season,PHO Suns,-0.010899999999999993,0.1429,0.1538
 2022-11-12 10:40:33.716274,FIFA World Cup Futures - FIFA World Cup 2022 - To Reach the Final,Belgium,-0.010899999999999993,0.1429,0.1538
 2022-11-12 10:40:33.764609,FIFA World Cup Futures - FIFA World Cup 2022 - Golden Glove Winner,Thibaut Courtois,-0.010899999999999993,0.1429,0.1538
-2022-11-12 10:40:33.764609,FIFA World Cup Futures - FIFA World Cup 2022 - Golden Glove Winner,Hugo Lloris,-0.011099999999999999,0.1,0.1111
+2022-11-12 13:40:29.638948,2022/23 NBA - Regular Season Wins - Regular Season Wins - Most Wins - NBA 2022/23 Regular Season,PHO Suns,-0.010899999999999993,0.1429,0.1538
+2022-11-12 14:41:14.560424,Euroleague - Euroleague 2022/23 - Outright,Anadolu Efes,-0.010899999999999993,0.1429,0.1538
 2022-11-12 08:40:33.819187,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),Nick Chubb,-0.011099999999999999,0.2667,0.2778
-2022-11-12 10:40:33.684688,FIFA World Cup Futures - FIFA World Cup 2022 - Golden Boot Winner,Harry Kane,-0.011099999999999999,0.1,0.1111
 2022-11-12 09:40:33.552558,NFL Weekly Specials - NFL Week 10 Leaders - Lowest Scoring Game - Week 10 (Sunday Only),ARI Cardinals @ LA Rams,-0.011099999999999999,0.1,0.1111
+2022-11-12 10:40:33.684688,FIFA World Cup Futures - FIFA World Cup 2022 - Golden Boot Winner,Harry Kane,-0.011099999999999999,0.1,0.1111
+2022-11-12 10:40:33.764609,FIFA World Cup Futures - FIFA World Cup 2022 - Golden Glove Winner,Hugo Lloris,-0.011099999999999999,0.1,0.1111
 2022-11-12 10:40:33.764609,FIFA World Cup Futures - FIFA World Cup 2022 - Golden Glove Winner,Remko Pasveer,-0.011199999999999995,0.0476,0.0588
-2022-11-12 01:40:39.370279,Charles Schwab Cup - Charles Schwab Cup - Outright,Doug Barron,-0.0116,0.0033,0.0149
 2022-11-12 10:40:33.746354,FIFA World Cup Futures - FIFA World Cup 2022 - Confederation of The Winner,AFC (Asia),-0.011699999999999999,0.0079,0.0196
 2022-11-12 03:40:33.791075,Pelican Women's Championship - Pelican Women's Championship - Outright,Jin Young Ko,-0.013,0.0066,0.0196
 2022-11-12 10:40:33.716274,FIFA World Cup Futures - FIFA World Cup 2022 - To Reach the Final,England,-0.0131,0.2222,0.2353
-2022-11-12 01:40:39.370279,Charles Schwab Cup - Charles Schwab Cup - Outright,Gene Sauers,-0.013600000000000001,0.0013,0.0149
 2022-11-12 09:40:34.636073,Super Lig - Turkey Super League 22/23 - Outright,Istanbul Basaksehir,-0.013899999999999996,0.1111,0.125
 2022-11-12 13:40:29.638948,2022/23 NBA - Regular Season Wins - Regular Season Wins - Most Wins - NBA 2022/23 Regular Season,DEN Nuggets,-0.013999999999999999,0.0769,0.0909
 2022-11-12 03:40:33.791075,Pelican Women's Championship - Pelican Women's Championship - Outright,Megan Khang,-0.014499999999999999,0.0149,0.0294
 2022-11-12 10:40:33.716274,FIFA World Cup Futures - FIFA World Cup 2022 - To Reach the Final,Germany,-0.015100000000000002,0.1667,0.1818
 2022-11-12 12:40:30.116070,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Tyronn Lue,-0.015300000000000001,0.0323,0.0476
 2022-11-12 06:40:31.909250,Boxing Lines - Zach Parker vs John Ryder - To Win the Bout,John Ryder,-0.01579999999999998,0.3413,0.3571
-2022-11-12 01:40:39.202451,Boxing Lines - Zhanibek Alimkhanuly vs Denzel Bentley - To Win the Bout,Denzel Bentley,-0.016700000000000007,0.0833,0.1
-2022-11-12 01:40:39.370279,Charles Schwab Cup - Charles Schwab Cup - Outright,Alex Cejka,-0.017099999999999997,0.0123,0.0294
 2022-11-12 03:40:33.791075,Pelican Women's Championship - Pelican Women's Championship - Outright,Cheyenne Knight,-0.0171,0.0025,0.0196
 2022-11-12 09:40:34.636073,Super Lig - Turkey Super League 22/23 - Outright,Adana Demirspor,-0.018200000000000004,0.0294,0.0476
 2022-11-12 13:40:30.387010,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Tyrese Maxey (PHI),-0.01820000000000002,0.1818,0.2
 2022-11-12 10:40:33.716274,FIFA World Cup Futures - FIFA World Cup 2022 - To Reach the Final,Spain,-0.01820000000000002,0.1818,0.2
-2022-11-12 01:40:39.370279,Charles Schwab Cup - Charles Schwab Cup - Outright,David Toms,-0.0183,0.0013,0.0196
 2022-11-12 10:40:33.746354,FIFA World Cup Futures - FIFA World Cup 2022 - Confederation of The Winner,UEFA (Europe),-0.018999999999999906,0.7143,0.7333
 2022-11-12 10:40:33.764609,FIFA World Cup Futures - FIFA World Cup 2022 - Golden Glove Winner,Unai Simon,-0.02020000000000001,0.0909,0.1111
 2022-11-12 03:40:33.791075,Pelican Women's Championship - Pelican Women's Championship - Outright,A Lim Kim,-0.0215,0.0079,0.0294
-2022-11-12 01:40:39.370279,Charles Schwab Cup - Charles Schwab Cup - Outright,Darren Clarke,-0.022400000000000003,0.002,0.0244
 2022-11-12 06:40:33.734712,Round Match-Ups - 3rd Round Match-Up - D. Riley vs T. Pendrith - 3rd Round Match-Up,Davis Riley,-0.022600000000000064,0.5122,0.5348
-2022-11-12 01:40:39.370279,Charles Schwab Cup - Charles Schwab Cup - Outright,Rod Pampling,-0.023100000000000002,0.0013,0.0244
 2022-11-12 09:40:34.636073,Super Lig - Turkey Super League 22/23 - Outright,Trabzonspor,-0.02310000000000001,0.0769,0.1
-2022-11-12 01:40:39.370279,Charles Schwab Cup - Charles Schwab Cup - Outright,Jerry Kelly,-0.0236,0.0149,0.0385
 2022-11-12 03:40:33.791075,Pelican Women's Championship - Pelican Women's Championship - Outright,Madelene Sagstrom,-0.0237,0.0057,0.0294
 2022-11-12 13:40:29.681626,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Denver Nuggets,Over 50.5,-0.023799999999999988,0.4762,0.5
 2022-11-12 07:40:32.467650,Round Match-Ups - 3rd Round Match-Up - A. Smalley vs K. Mitchell - 3rd Round Match-Up,Alex Smalley,-0.023800000000000043,0.5,0.5238
+2022-11-12 14:41:13.115931,Round Match-Ups - 3rd Round Match-Up - J. Hahn v S. Piercy - 3rd Round Match-Up,James Hahn,-0.023800000000000043,0.5,0.5238
 2022-11-12 06:40:33.741228,Round Match-Ups - 3rd Round Match-Up - G. Woodland vs B. Griffin - 3rd Round Match-Up,Ben Griffin,-0.024399999999999977,0.4878,0.5122
 2022-11-12 03:40:33.791075,Pelican Women's Championship - Pelican Women's Championship - Outright,Andrea Lee,-0.0254,0.004,0.0294
 2022-11-12 10:40:33.716274,FIFA World Cup Futures - FIFA World Cup 2022 - To Reach the Final,Brazil,-0.02560000000000001,0.3077,0.3333
-2022-11-12 01:40:39.370279,Charles Schwab Cup - Charles Schwab Cup - Outright,John Huston,-0.026099999999999998,0.0033,0.0294
 2022-11-12 13:40:29.738993,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - New York Knicks,Under 39.5,-0.026499999999999968,0.5652,0.5917
 2022-11-12 13:40:30.387010,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Lauri Markanen,-0.02779999999999999,0.2222,0.25
-2022-11-12 01:40:39.370279,Charles Schwab Cup - Charles Schwab Cup - Outright,Jim Furyk,-0.0281,0.0013,0.0294
-2022-11-12 12:40:30.116070,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Willie Green,-0.028399999999999995,0.0625,0.0909
 2022-11-12 12:40:30.109887,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Christian Wood (DAL),-0.028399999999999995,0.0625,0.0909
+2022-11-12 12:40:30.116070,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Willie Green,-0.028399999999999995,0.0625,0.0909
 2022-11-12 12:40:30.116070,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,JB Bickerstaff,-0.028799999999999992,0.125,0.1538
 2022-11-12 03:40:33.791075,Pelican Women's Championship - Pelican Women's Championship - Outright,Xiyu Lin,-0.0294,0.0294,0.0588
-2022-11-12 13:40:29.734233,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - New Orleans Pelicans,Over 46.5,-0.030399999999999983,0.5348,0.5652
 2022-11-12 13:40:29.724659,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Milwuakee Bucks,Over 55.5,-0.030399999999999983,0.5348,0.5652
+2022-11-12 13:40:29.734233,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - New Orleans Pelicans,Over 46.5,-0.030399999999999983,0.5348,0.5652
 2022-11-12 10:40:33.764609,FIFA World Cup Futures - FIFA World Cup 2022 - Golden Glove Winner,Manuel Neuer,-0.031799999999999995,0.1111,0.1429
 2022-11-12 03:40:33.791075,Pelican Women's Championship - Pelican Women's Championship - Outright,Celine Boutier,-0.032799999999999996,0.0057,0.0385
 2022-11-12 13:40:29.958596,Number 1 Seed - 2022/23 NBA - Western Conference No. 1 Seed,DEN Nuggets,-0.033300000000000024,0.1667,0.2
-2022-11-12 12:40:29.814131,2022/23 Divisions - 2022-2023 NBA Northwest Division - Division Winner,Denver Nuggets,-0.03479999999999994,0.5652,0.6
 2022-11-12 13:40:29.686424,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Detroit Pistons,Under 28.5,-0.03479999999999994,0.5652,0.6
+2022-11-12 12:40:29.814131,2022/23 Divisions - 2022-2023 NBA Northwest Division - Division Winner,Denver Nuggets,-0.03479999999999994,0.5652,0.6
 2022-11-12 03:40:33.791075,Pelican Women's Championship - Pelican Women's Championship - Outright,Ayaka Furue,-0.0352,0.0033,0.0385
 2022-11-12 12:40:29.803065,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Toronto Raptors,-0.036199999999999996,0.1176,0.1538
 2022-11-12 03:40:33.791075,Pelican Women's Championship - Pelican Women's Championship - Outright,Sei Young Kim,-0.041,0.0066,0.0476
 2022-11-12 13:40:30.378835,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Rudy Gobert (MIN),-0.04169999999999999,0.125,0.1667
-2022-11-12 01:40:39.370279,Charles Schwab Cup - Charles Schwab Cup - Outright,Thongchai Jaidee,-0.04239999999999999,0.0345,0.0769
 2022-11-12 13:40:29.756065,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Philadelphia 76ers,Over 47.5,-0.045499999999999985,0.4545,0.5
 2022-11-12 12:40:29.824647,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Miami Heat,-0.05449999999999999,0.4,0.4545
 2022-11-12 03:40:33.791075,Pelican Women's Championship - Pelican Women's Championship - Outright,Brooke Henderson,-0.0617,0.005,0.0667
 2022-11-12 13:40:29.770691,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Sacramento Kings,Under 33.5,-0.06519999999999998,0.4348,0.5
 2022-11-12 13:40:29.647750,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Atlanta Hawks,Under 46.5,-0.06520000000000004,0.5,0.5652
 2022-11-12 03:40:33.791075,Pelican Women's Championship - Pelican Women's Championship - Outright,Lydia Ko,-0.0769,0.0769,0.1538
-2022-11-12 01:40:39.370279,Charles Schwab Cup - Charles Schwab Cup - Outright,Bernhard Langer,-0.09029999999999999,0.0526,0.1429
 2022-11-12 13:40:29.748945,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Orlando Magic,Over 26.5,-0.12079999999999996,0.4348,0.5556
