@@ -24,11 +24,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-11 15:40:32.795247,Boxing Lines - Thomas Essomba vs Marcel Braithwaite - To Win the Bout,Thomas Essomba,0.01880000000000004,0.6552,0.6364
 2022-11-11 17:40:34.680300,Nedbank Golf Challenge - Nedbank Golf Challenge - Outright,Jordan Smith,0.017800000000000003,0.0244,0.0066
 2022-11-11 21:40:30.772876,Boxing Lines - Raymond Muratalla vs Miguel Contreras - To Win the Bout,Raymond Muratalla,0.01660000000000006,0.9333,0.9167
-2022-11-11 20:40:32.835075,Boxing Lines - Willy Hutchinson vs Luca Spadaccini - To Win the Bout,Luca Spadaccini,0.016600000000000004,0.0833,0.0667
 2022-11-11 17:40:34.680300,Nedbank Golf Challenge - Nedbank Golf Challenge - Outright,Guido Migliozzi,0.016600000000000004,0.0833,0.0667
+2022-11-11 20:40:32.835075,Boxing Lines - Willy Hutchinson vs Luca Spadaccini - To Win the Bout,Luca Spadaccini,0.016600000000000004,0.0833,0.0667
 2022-11-11 17:40:37.243403,FIFA World Cup Futures - Group A - Outright,Netherlands,0.015800000000000036,0.6825,0.6667
-2022-11-11 21:40:30.737350,Boxing Lines - Khalil Coe vs Bradley Olmeda - To Win the Bout,Khalil Coe,0.014900000000000024,0.9804,0.9655
 2022-11-11 17:40:36.128834,Boxing Lines - Sean Noakes vs Petar Aleksandrov - To Win the Bout,Sean Noakes,0.014900000000000024,0.9804,0.9655
+2022-11-11 21:40:30.737350,Boxing Lines - Khalil Coe vs Bradley Olmeda - To Win the Bout,Khalil Coe,0.014900000000000024,0.9804,0.9655
 2022-11-11 21:40:30.712711,Boxing Lines - Frazer Clarke vs Kamil Sokolowski - To Win the Bout,Frazer Clarke,0.014100000000000001,0.9615,0.9474
 2022-11-11 18:40:33.248966,Boxing Lines - Umar Khan vs Alexander Taylor - To Win the Bout,Alexander Taylor,0.013999999999999999,0.0909,0.0769
 2022-11-11 18:40:33.282363,Boxing Lines - Nick Ball vs Jesus Ramirez Rubio - To Win the Bout,Jesus Ramirez Rubio,0.013899999999999996,0.125,0.1111
@@ -41,8 +41,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-12 00:40:33.975307,Boxing Lines - Javier Martinez vs Marco Delgado - To Win the Bout,Marco Delgado,0.011099999999999999,0.1111,0.1
 2022-11-11 21:40:30.742927,Boxing Lines - Natasha Jonas vs Marie Eve Dicaire - To Win the Bout,Natasha Jonas,0.01090000000000002,0.8571,0.8462
 2022-11-11 18:40:36.345205,FIFA World Cup Futures - Group A - Group Dual Forecast,Ecuador & Qatar,0.010600000000000002,0.0323,0.0217
-2022-11-11 20:40:32.830444,Boxing Lines - David Adeleye vs Elvis Garcia - To Win the Bout,Elvis Garcia,-0.0102,0.0667,0.0769
 2022-11-11 19:40:33.017541,Boxing Lines - Willy Hutchinson vs Luca Spadaccini - To Win the Bout,Luca Spadaccini,-0.0102,0.0667,0.0769
+2022-11-11 20:40:32.830444,Boxing Lines - David Adeleye vs Elvis Garcia - To Win the Bout,Elvis Garcia,-0.0102,0.0667,0.0769
 2022-11-12 01:40:39.370279,Charles Schwab Cup - Charles Schwab Cup - Outright,Ken Duke,-0.0103,0.002,0.0123
 2022-11-11 16:40:33.287883,World Baseball Classic - 2023 World Baseball Classic - Outright,Mexico,-0.010700000000000001,0.0278,0.0385
 2022-11-11 17:40:34.680300,Nedbank Golf Challenge - Nedbank Golf Challenge - Outright,Matthew Jordan,-0.0109,0.004,0.0149
@@ -58,7 +58,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-11 20:40:32.906398,Boxing Lines - Javier Martinez vs Marco Delgado - To Win the Bout,Marco Delgado,-0.013899999999999996,0.1111,0.125
 2022-11-11 18:40:36.372649,FIFA World Cup Futures - Group A - Not To Advance from Group Stage,Qatar,-0.013900000000000023,0.875,0.8889
 2022-11-11 15:40:32.913557,Boxing Lines - Montana Love vs Steve Spark - To Win the Bout,Montana Love,-0.013900000000000023,0.875,0.8889
-2022-11-11 14:40:28.778647,Boxing Lines - Thomas Essomba vs Marcel Braithwaite - To Win the Bout,Marcel Braithwaite,-0.014000000000000012,0.4115,0.4255
 2022-11-11 18:40:33.282363,Boxing Lines - Nick Ball vs Jesus Ramirez Rubio - To Win the Bout,Nick Ball,-0.014100000000000001,0.9333,0.9474
 2022-11-11 18:40:36.358530,FIFA World Cup Futures - Group A - To Finish Bottom,Ecuador,-0.01469999999999999,0.2353,0.25
 2022-11-11 17:40:34.680300,Nedbank Golf Challenge - Nedbank Golf Challenge - Outright,Fabrizio Zanotti,-0.015300000000000001,0.0435,0.0588
