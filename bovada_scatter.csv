@@ -1,6 +1,9 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2022-11-13 23:40:27.685611,Premier League Futures/Specials - English Premier League 2022/23 - Top London Team,Arsenal,0.7307,0.9412,0.2105
+2022-11-13 23:40:27.696001,Premier League Futures/Specials - English Premier League 2022/23 - Top Promoted Team,Fulham,0.2955,0.75,0.4545
 2022-11-13 11:40:33.024376,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Livingston,0.17769999999999997,0.7333,0.5556
 2022-11-13 11:40:33.028451,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Hibernian,0.16850000000000004,0.4762,0.3077
+2022-11-13 23:40:27.690793,Premier League Futures/Specials - English Premier League 2022/23 - Top Midlands Team,Aston Villa,0.09099999999999997,0.5455,0.4545
 2022-11-13 16:40:31.170188,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,Drake Maye,0.08979999999999999,0.1667,0.0769
 2022-11-13 11:40:33.010474,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Livingston,0.0889,0.2,0.1111
 2022-11-13 19:40:36.829979,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Denver Nuggets,0.0857,0.2857,0.2
@@ -11,8 +14,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-13 19:40:36.769917,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Minnesota Timberwolves,Under 41.5,0.05559999999999998,0.5556,0.5
 2022-11-13 11:40:33.179014,A-League - Australia A-League 2022/23 - Grand Final Winner,Adelaide United,0.048100000000000004,0.125,0.0769
 2022-11-13 11:40:33.028451,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Motherwell,0.04760000000000009,0.7143,0.6667
-2022-11-13 19:40:36.824776,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Washington Wizards,0.04760000000000003,0.5238,0.4762
 2022-11-13 19:40:36.746830,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Denver Nuggets,Over 50.5,0.04760000000000003,0.5238,0.4762
+2022-11-13 19:40:36.824776,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Washington Wizards,0.04760000000000003,0.5238,0.4762
 2022-11-13 19:40:36.829979,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Dallas Mavericks,0.047599999999999976,0.3333,0.2857
 2022-11-13 19:40:36.824776,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Cleveland Cavaliers,0.04620000000000002,0.2,0.1538
 2022-11-13 19:40:36.742274,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Dallas Mavericks,Under 48.5,0.045499999999999985,0.5455,0.5
@@ -33,8 +36,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-13 19:40:36.943418,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Philadelphia 76ers,No,0.031899999999999984,0.2105,0.1786
 2022-11-13 16:40:30.797738,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,Georgia,0.03179999999999994,0.5556,0.5238
 2022-11-13 17:40:37.466491,FIFA World Cup Futures - Morocco Team Specials - Stage of Elimination,Group Stage,0.031400000000000095,0.7647,0.7333
-2022-11-13 17:40:37.818951,FIFA World Cup Futures - Wales Team Specials - Stage of Elimination,Last 16,0.030299999999999994,0.3636,0.3333
 2022-11-13 11:40:33.010474,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Hearts,0.030299999999999994,0.3636,0.3333
+2022-11-13 17:40:37.818951,FIFA World Cup Futures - Wales Team Specials - Stage of Elimination,Last 16,0.030299999999999994,0.3636,0.3333
 2022-11-13 17:40:37.393203,FIFA World Cup Futures - Iran Team Specials - Stage of Elimination,Group Stage,0.028800000000000048,0.875,0.8462
 2022-11-13 18:40:31.772570,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Stephen Curry (GSW),0.028399999999999995,0.0909,0.0625
 2022-11-13 16:40:32.974501,FIFA World Cup Futures - Switzerland Team Specials - Stage of Elimination,Group Stage,0.027700000000000058,0.5833,0.5556
@@ -62,9 +65,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-13 16:40:32.898373,FIFA World Cup Futures - Serbia Team Specials - Stage of Elimination,Last 16,0.017600000000000005,0.3509,0.3333
 2022-11-13 17:40:37.199530,FIFA World Cup Futures - Costa Rica Team Specials - Stage of Elimination,Last 16,0.01759999999999999,0.1176,0.1
 2022-11-13 19:40:36.809112,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Utah Jazz,Over 41.5,0.017299999999999982,0.5917,0.5744
-2022-11-13 19:40:36.899172,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Los Angeles Lakers,Yes,0.016699999999999993,0.2667,0.25
 2022-11-13 17:40:37.665368,FIFA World Cup Futures - South Korea Team Specials - Stage of Elimination,Last 16,0.016699999999999993,0.2667,0.25
 2022-11-13 18:40:31.772570,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Luka Doncic (DAL),0.016699999999999993,0.2667,0.25
+2022-11-13 19:40:36.899172,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Los Angeles Lakers,Yes,0.016699999999999993,0.2667,0.25
 2022-11-13 16:40:32.873091,FIFA World Cup Futures - Senegal Team Specials - Stage of Elimination,Quarter Finals,0.015700000000000006,0.1333,0.1176
 2022-11-13 11:40:33.019342,Premiership - Scotland Premiership 2022/23 - To Finish Bottom,Dundee United,0.015400000000000025,0.4,0.3846
 2022-11-13 16:40:30.797738,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,TCU,0.015300000000000001,0.0476,0.0323
@@ -84,21 +87,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-13 11:40:31.169072,Round Match-Ups - Final Round Match-Up - S. Piercy vs R. Knox - Final Round Match-Up,Russell Knox,0.011600000000000055,0.5238,0.5122
 2022-11-13 19:40:36.938380,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Orlando Magic,Yes,0.011199999999999995,0.0588,0.0476
 2022-11-13 19:40:36.890373,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Indiana Pacers,Yes,0.011199999999999995,0.0588,0.0476
-2022-11-13 19:40:36.875794,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Detroit Pistons,Yes,0.011199999999999995,0.0588,0.0476
 2022-11-13 19:40:36.829979,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Oklahoma City Thunder,0.011199999999999995,0.0588,0.0476
 2022-11-13 11:40:33.024376,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Kilmarnock,0.011199999999999995,0.0588,0.0476
+2022-11-13 19:40:36.875794,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Detroit Pistons,Yes,0.011199999999999995,0.0588,0.0476
 2022-11-13 16:40:32.880500,FIFA World Cup Futures - Senegal Team Specials - Team Exact Group Points,2 Points,0.011099999999999999,0.1111,0.1
 2022-11-13 19:40:36.751183,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Golden State Warriors,Under 48.5,0.01100000000000001,0.5348,0.5238
 2022-11-13 17:40:37.417444,FIFA World Cup Futures - Japan Team Specials - Stage of Elimination,Group Stage,0.01090000000000002,0.8571,0.8462
-2022-11-13 11:40:33.179014,A-League - Australia A-League 2022/23 - Grand Final Winner,Western Sydney Wanderers,0.010899999999999993,0.1538,0.1429
 2022-11-13 17:40:37.417444,FIFA World Cup Futures - Japan Team Specials - Stage of Elimination,Last 16,0.010899999999999993,0.1538,0.1429
+2022-11-13 11:40:33.179014,A-League - Australia A-League 2022/23 - Grand Final Winner,Western Sydney Wanderers,0.010899999999999993,0.1538,0.1429
 2022-11-13 16:40:32.754212,FIFA World Cup Futures - Netherlands Team Specials - Stage of Elimination,Group Stage,0.010899999999999993,0.1538,0.1429
 2022-11-13 19:40:36.719749,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Boston Celtics,Over 54.5,0.010699999999999932,0.5455,0.5348
 2022-11-13 17:40:37.665368,FIFA World Cup Futures - South Korea Team Specials - Stage of Elimination,Quarter Finals,0.0102,0.0769,0.0667
-2022-11-13 17:40:37.368729,FIFA World Cup Futures - Ghana Team Specials - Stage of Elimination,Quarter Finals,0.0102,0.0769,0.0667
 2022-11-13 17:40:37.417444,FIFA World Cup Futures - Japan Team Specials - Stage of Elimination,Quarter Finals,0.0102,0.0769,0.0667
+2022-11-13 17:40:37.368729,FIFA World Cup Futures - Ghana Team Specials - Stage of Elimination,Quarter Finals,0.0102,0.0769,0.0667
 2022-11-13 19:40:36.857277,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Chicago Bulls,Yes,0.010099999999999998,0.5556,0.5455
 2022-11-13 11:40:31.178874,Round Match-Ups - Final Round Match-Up - B. Taylor vs T. Alexander - Final Round Match-Up,Ben Taylor,-0.010099999999999998,0.5455,0.5556
+2022-11-13 23:40:27.690793,Premier League Futures/Specials - English Premier League 2022/23 - Top Midlands Team,Leicester City,-0.010099999999999998,0.4444,0.4545
 2022-11-13 16:40:32.754212,FIFA World Cup Futures - Netherlands Team Specials - Stage of Elimination,Winners,-0.0102,0.0667,0.0769
 2022-11-13 16:40:32.803162,FIFA World Cup Futures - Portugal Team Specials - Stage of Elimination,Winners,-0.0102,0.0667,0.0769
 2022-11-13 11:40:33.028451,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Kilmarnock,-0.010299999999999976,0.9756,0.9859
@@ -107,9 +111,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-13 19:40:36.719749,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Boston Celtics,Under 54.5,-0.01100000000000001,0.5238,0.5348
 2022-11-13 11:40:33.014717,Premiership - Scotland Premiership 2022/23 - Top Goalscorer,Georgios Giakoumakis,-0.011099999999999999,0.1,0.1111
 2022-11-13 11:40:33.179014,A-League - Australia A-League 2022/23 - Grand Final Winner,Sydney FC,-0.011099999999999999,0.1,0.1111
-2022-11-13 11:40:33.010474,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Motherwell,-0.011199999999999995,0.0476,0.0588
 2022-11-13 16:40:30.797738,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,Tennessee,-0.011199999999999995,0.0476,0.0588
+2022-11-13 11:40:33.010474,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Motherwell,-0.011199999999999995,0.0476,0.0588
 2022-11-13 11:40:33.179014,A-League - Australia A-League 2022/23 - Grand Final Winner,Newcastle United Jets,-0.011199999999999995,0.0476,0.0588
+2022-11-13 23:40:27.685611,Premier League Futures/Specials - English Premier League 2022/23 - Top London Team,Crystal Palace,-0.011300000000000001,0.001,0.0123
 2022-11-13 11:40:33.028451,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,St. Mirren,-0.011499999999999955,0.6552,0.6667
 2022-11-13 19:40:36.809112,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Utah Jazz,Under 41.5,-0.0116,0.4762,0.4878
 2022-11-13 19:40:36.857277,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Chicago Bulls,No,-0.011600000000000055,0.5122,0.5238
@@ -127,16 +132,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-13 19:40:36.824776,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Detroit Pistons,-0.014899999999999997,0.0476,0.0625
 2022-11-13 11:40:33.010474,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Aberdeen,-0.015400000000000025,0.3846,0.4
 2022-11-13 16:40:32.880500,FIFA World Cup Futures - Senegal Team Specials - Team Exact Group Points,7 Points,-0.015700000000000006,0.1176,0.1333
-2022-11-13 17:40:37.818951,FIFA World Cup Futures - Wales Team Specials - Stage of Elimination,Group Stage,-0.016699999999999937,0.5833,0.6
 2022-11-13 16:40:32.898373,FIFA World Cup Futures - Serbia Team Specials - Stage of Elimination,Group Stage,-0.016699999999999937,0.5833,0.6
+2022-11-13 17:40:37.818951,FIFA World Cup Futures - Wales Team Specials - Stage of Elimination,Group Stage,-0.016699999999999937,0.5833,0.6
 2022-11-13 18:40:31.772570,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Giannis Antetokounmpo (MIL),-0.016699999999999993,0.25,0.2667
 2022-11-13 19:40:36.966639,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Toronto Raptors,No,-0.016699999999999993,0.25,0.2667
 2022-11-13 19:40:36.908498,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Miami Heat,No,-0.017600000000000005,0.3333,0.3509
 2022-11-13 16:40:32.592613,FIFA World Cup Futures - France Team Specials - Stage of Elimination,Winners,-0.0179,0.125,0.1429
 2022-11-13 11:40:33.024376,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Ross County,-0.018099999999999998,0.0588,0.0769
 2022-11-13 19:40:36.899172,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Los Angeles Lakers,No,-0.018199999999999994,0.8,0.8182
-2022-11-13 19:40:36.829979,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Memphis Grizzlies,-0.01820000000000002,0.1818,0.2
 2022-11-13 16:40:32.880500,FIFA World Cup Futures - Senegal Team Specials - Team Exact Group Points,6 Points,-0.01820000000000002,0.1818,0.2
+2022-11-13 19:40:36.829979,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Memphis Grizzlies,-0.01820000000000002,0.1818,0.2
 2022-11-13 17:40:37.564811,FIFA World Cup Futures - Qatar Team Specials - Stage of Elimination,Last 16,-0.01820000000000002,0.1818,0.2
 2022-11-13 11:40:33.179014,A-League - Australia A-League 2022/23 - Grand Final Winner,Macarthur FC,-0.019099999999999992,0.0476,0.0667
 2022-11-13 11:40:33.024376,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Aberdeen,-0.01980000000000004,0.875,0.8948
@@ -163,9 +168,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-13 16:40:31.170188,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,Stetson Bennett IV,-0.034100000000000005,0.0909,0.125
 2022-11-13 16:40:31.170188,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,Caleb Williams,-0.03420000000000001,0.0769,0.1111
 2022-11-13 16:40:30.797738,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,Oregon,-0.0345,0.004,0.0385
-2022-11-13 11:40:33.024376,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Motherwell,-0.03640000000000004,0.3636,0.4
 2022-11-13 19:40:36.824776,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Atlanta Hawks,-0.03640000000000004,0.3636,0.4
+2022-11-13 11:40:33.024376,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Motherwell,-0.03640000000000004,0.3636,0.4
 2022-11-13 11:40:33.019342,Premiership - Scotland Premiership 2022/23 - To Finish Bottom,Kilmarnock,-0.03710000000000002,0.3077,0.3448
+2022-11-13 23:40:27.696001,Premier League Futures/Specials - English Premier League 2022/23 - Top Promoted Team,Bournemouth,-0.04040000000000002,0.1818,0.2222
 2022-11-13 19:40:36.742274,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Dallas Mavericks,Over 48.5,-0.04139999999999999,0.5238,0.5652
 2022-11-13 16:40:31.170188,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,Jayden Daniels,-0.0427,0.0099,0.0526
 2022-11-13 19:40:36.795167,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Portland Trail Blazers,Under 45.5,-0.043399999999999994,0.5122,0.5556
@@ -182,5 +188,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-13 16:40:32.546236,FIFA World Cup Futures - Ecuador Team Specials - Stage of Elimination,Last 16,-0.067,0.3774,0.4444
 2022-11-13 16:40:32.873091,FIFA World Cup Futures - Senegal Team Specials - Stage of Elimination,Group Stage,-0.06789999999999996,0.5238,0.5917
 2022-11-13 11:40:33.010474,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Hibernian,-0.0889,0.1111,0.2
+2022-11-13 23:40:27.690793,Premier League Futures/Specials - English Premier League 2022/23 - Top Midlands Team,Wolverhampton Wanderers,-0.1049,0.0769,0.1818
 2022-11-13 11:40:33.024376,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Hibernian,-0.15000000000000002,0.6,0.75
 2022-11-13 11:40:33.028451,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Livingston,-0.19050000000000006,0.3333,0.5238
+2022-11-13 23:40:27.696001,Premier League Futures/Specials - English Premier League 2022/23 - Top Promoted Team,Nottingham Forest,-0.2437,0.1818,0.4255
+2022-11-13 23:40:27.685611,Premier League Futures/Specials - English Premier League 2022/23 - Top London Team,Tottenham Hotspur,-0.354,0.1111,0.4651
+2022-11-13 23:40:27.685611,Premier League Futures/Specials - English Premier League 2022/23 - Top London Team,Chelsea,-0.38220000000000004,0.0526,0.4348
