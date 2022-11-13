@@ -5,8 +5,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-13 04:40:33.614782,MLB Specials - Where will Xander Bogaerts Play Game 1 of the 2023 MLB Season - Proposition,Phillies,0.19999999999999998,0.3333,0.1333
 2022-11-12 22:40:34.286702,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Arsenal,0.1458,0.3125,0.1667
 2022-11-13 03:40:35.636170,International Series Egypt - International Series Egypt - Outright,Bernd Wiesberger,0.13130000000000003,0.2222,0.0909
-2022-11-12 21:40:34.087012,Nedbank Golf Challenge - Nedbank Golf Challenge - Outright,Branden Grace,0.11929999999999999,0.1538,0.0345
 2022-11-13 03:40:35.636170,International Series Egypt - International Series Egypt - Outright,Richard T Lee,0.11929999999999999,0.1538,0.0345
+2022-11-12 21:40:34.087012,Nedbank Golf Challenge - Nedbank Golf Challenge - Outright,Branden Grace,0.11929999999999999,0.1538,0.0345
 2022-11-12 21:40:34.087012,Nedbank Golf Challenge - Nedbank Golf Challenge - Outright,Thriston Lawrence,0.1184,0.1333,0.0149
 2022-11-12 21:40:34.087012,Nedbank Golf Challenge - Nedbank Golf Challenge - Outright,Rasmus Hojgaard,0.1071,0.25,0.1429
 2022-11-12 23:40:34.292084,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Everton,0.09689999999999999,0.3636,0.2667
@@ -39,19 +39,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-13 03:40:35.636170,International Series Egypt - International Series Egypt - Outright,Trevor Simsby,0.0145,0.0244,0.0099
 2022-11-13 03:40:35.636170,International Series Egypt - International Series Egypt - Outright,Prom Meesawat,0.014499999999999999,0.0294,0.0149
 2022-11-12 23:40:34.268508,League One - England - League One 2022/23 - Outright,Derby County,0.014099999999999998,0.0385,0.0244
-2022-11-12 23:40:34.298327,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Arsenal,0.014000000000000012,0.9231,0.9091
 2022-11-12 23:40:33.823827,Boxing Lines - Christian Tapia vs Thomas Mattice - To Win the Bout,Thomas Mattice,0.014000000000000012,0.3125,0.2985
+2022-11-12 23:40:34.298327,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Arsenal,0.014000000000000012,0.9231,0.9091
 2022-11-12 23:40:34.163670,Serie A - Italy Serie A 2022/23 - Winner,Juventus,0.013999999999999999,0.0909,0.0769
 2022-11-13 03:40:35.588188,Nedbank Golf Challenge - 2/3 Balls - Final Round 3 Balls - R. Fisher / G. Green / F. Zanotti - Outright,Fabrizio Zanotti,0.013800000000000034,0.3774,0.3636
 2022-11-12 23:40:34.163670,Serie A - Italy Serie A 2022/23 - Winner,Napoli,0.012800000000000034,0.7143,0.7015
 2022-11-13 03:40:35.616498,Nedbank Golf Challenge - 2/3 Balls - Final Round 3 Balls - B. Grace / R. Hojgaard / T. Detry - Outright,Branden Grace,0.012699999999999989,0.3636,0.3509
 2022-11-12 23:40:34.286162,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Darwin Nunez,0.011699999999999999,0.0196,0.0079
-2022-11-12 18:40:29.457226,Boxing Lines - Juan Francisco Estrada vs Roman Gonzalez - To Win the Bout,Roman Gonzalez,0.011499999999999955,0.6667,0.6552
 2022-11-12 21:40:34.087012,Nedbank Golf Challenge - Nedbank Golf Challenge - Outright,Shubhankar Sharma,0.0109,0.0149,0.004
 2022-11-13 01:40:33.685456,League Two - England - League Two 2022/23 - Outright,Northampton Town,0.0102,0.0769,0.0667
 2022-11-13 03:40:35.636170,International Series Egypt - International Series Egypt - Outright,Cole Madey,-0.0103,0.002,0.0123
 2022-11-13 03:40:35.636170,International Series Egypt - International Series Egypt - Outright,Ajeetesh Sandhu,-0.0109,0.004,0.0149
-2022-11-12 18:40:29.390692,Boxing Lines - Christian Tapia vs Thomas Mattice - To Win the Bout,Thomas Mattice,-0.0131,0.2899,0.303
 2022-11-13 01:40:31.884108,Boxing Lines - Montana Love vs Steve Spark - To Win the Bout,Steve Spark,-0.0131,0.1869,0.2
 2022-11-13 04:40:33.614782,MLB Specials - Where will Xander Bogaerts Play Game 1 of the 2023 MLB Season - Proposition,Giants,-0.013899999999999996,0.1111,0.125
 2022-11-12 22:40:31.974206,Boxing Lines - Carlos Balderas vs Esteban Sanchez - To Win the Bout,Esteban Sanchez,-0.01440000000000001,0.0909,0.1053
@@ -96,8 +94,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-12 21:40:34.087012,Nedbank Golf Challenge - Nedbank Golf Challenge - Outright,Lucas Herbert,-0.0375,0.001,0.0385
 2022-11-13 03:40:35.636170,International Series Egypt - International Series Egypt - Outright,Phachara Khongwatmai,-0.0392,0.0196,0.0588
 2022-11-13 04:40:34.141702,Charles Schwab Cup - Charles Schwab Cup - Outright,Retief Goosen,-0.0403,0.0123,0.0526
-2022-11-13 04:40:34.141702,Charles Schwab Cup - Charles Schwab Cup - Outright,Stephen Ames,-0.041,0.0066,0.0476
 2022-11-12 21:40:34.087012,Nedbank Golf Challenge - Nedbank Golf Challenge - Outright,Gavin Green,-0.041,0.0066,0.0476
+2022-11-13 04:40:34.141702,Charles Schwab Cup - Charles Schwab Cup - Outright,Stephen Ames,-0.041,0.0066,0.0476
 2022-11-13 03:40:35.636170,International Series Egypt - International Series Egypt - Outright,Chase Koepka,-0.041499999999999995,0.002,0.0435
 2022-11-12 23:40:34.191341,Championship - England Championship 2022/23 - Outright,Norwich City,-0.042899999999999994,0.1,0.1429
 2022-11-12 23:40:34.268508,League One - England - League One 2022/23 - Outright,Plymouth Argyle,-0.04999999999999999,0.2,0.25
