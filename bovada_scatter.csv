@@ -9,6 +9,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-14 00:40:29.884645,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Aston Villa,0.06209999999999993,0.9852,0.9231
 2022-11-14 07:42:26.369683,AFC West - 2022/2023 AFC West - AFC West Winner,Kansas City Chiefs,0.04810000000000003,0.9231,0.875
 2022-11-14 01:40:31.650241,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Arsenal,0.047799999999999954,0.9709,0.9231
+2022-11-14 08:40:30.572209,Australian Baseball League - Australian Baseball League 2022/23 - Outright,Canberra Cavalry,0.047599999999999976,0.3333,0.2857
 2022-11-14 07:42:26.312852,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Kansas City Chiefs,0.044499999999999984,0.3077,0.2632
 2022-11-14 00:40:29.862475,Premier League Futures/Specials - English Premier League 2022/23 - Winner without 'The Big Six',Newcastle United,0.04169999999999996,0.875,0.8333
 2022-11-14 00:40:29.884645,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Brentford,0.03920000000000001,0.9804,0.9412
@@ -38,6 +39,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-14 05:40:28.935930,FIFA World Cup Futures - FIFA World Cup 2022 - Golden Glove Winner,Emiliano Martinez,0.0179,0.1429,0.125
 2022-11-14 07:42:26.312852,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Miami Dolphins,0.016700000000000007,0.1,0.0833
 2022-11-14 00:40:29.875813,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Bournemouth,0.016599999999999948,0.5999,0.5833
+2022-11-14 08:40:30.572209,Australian Baseball League - Australian Baseball League 2022/23 - Outright,Brisbane Bandits,0.015700000000000006,0.1333,0.1176
 2022-11-14 07:42:26.416648,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Miami Dolphins,0.015300000000000001,0.0588,0.0435
 2022-11-14 07:42:26.337867,AFC East - 2022/2023 AFC East - AFC East Winner,New York Jets,0.014399999999999996,0.0769,0.0625
 2022-11-14 07:42:26.264310,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,New York Giants,0.014099999999999998,0.0435,0.0294
@@ -54,14 +56,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-14 00:40:29.880580,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Aston Villa,-0.012100000000000001,0.0123,0.0244
 2022-11-14 07:42:26.264310,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Philadelphia Eagles,-0.012299999999999978,0.3448,0.3571
 2022-11-14 07:42:26.264310,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Seattle Seahawks,-0.014099999999999994,0.0526,0.0667
+2022-11-14 08:40:30.572209,Australian Baseball League - Australian Baseball League 2022/23 - Outright,Sydney Blue Sox,-0.014099999999999998,0.0244,0.0385
+2022-11-14 08:40:30.572209,Australian Baseball League - Australian Baseball League 2022/23 - Outright,Auckland Tuatara,-0.015100000000000002,0.1667,0.1818
 2022-11-14 07:42:26.369683,AFC West - 2022/2023 AFC West - AFC West Winner,Denver Broncos,-0.015499999999999998,0.0123,0.0278
 2022-11-14 07:42:26.264310,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Los Angeles Rams,-0.0157,0.0278,0.0435
 2022-11-14 07:42:24.657746,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Golden State Warriors,-0.016699999999999993,0.25,0.2667
+2022-11-14 08:40:30.572209,Australian Baseball League - Australian Baseball League 2022/23 - Outright,Adelaide Giants,-0.01759999999999999,0.1,0.1176
 2022-11-14 01:40:31.650241,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Liverpool,-0.01880000000000004,0.6364,0.6552
 2022-11-14 00:40:29.880580,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Bournemouth,-0.019000000000000017,0.2667,0.2857
 2022-11-14 07:42:26.369683,AFC West - 2022/2023 AFC West - AFC West Winner,Las Vegas Raiders,-0.0194,0.005,0.0244
 2022-11-14 07:42:26.277690,AFC South - 2022/202 AFC South - AFC South Winner,Indianapolis Colts,-0.02020000000000001,0.0909,0.1111
 2022-11-14 00:40:29.875813,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Wolverhampton Wanderers,-0.02169999999999994,0.5238,0.5455
+2022-11-14 08:40:30.572209,Australian Baseball League - Australian Baseball League 2022/23 - Outright,Melbourne Aces,-0.021999999999999964,0.2857,0.3077
 2022-11-14 00:40:29.884645,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Southampton,-0.02200000000000002,0.6923,0.7143
 2022-11-14 00:40:29.875813,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leeds United,-0.022199999999999998,0.2,0.2222
 2022-11-14 00:40:29.866436,Premier League Futures/Specials - English Premier League 2022/23 - Winner without Man City & Liverpool,Manchester United,-0.0242,0.0667,0.0909
