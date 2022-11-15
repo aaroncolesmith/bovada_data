@@ -7,8 +7,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-15 13:40:43.695106,Tournament Futures - FIFA World Cup 2022 - To Score 2 or More Goals in the Tournament,Kevin De Bruyne,0.16089999999999993,0.6154,0.4545
 2022-11-15 15:40:50.988145,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Tampa Bay Buccaneers,Yes,0.15080000000000005,0.8333,0.6825
 2022-11-15 15:40:51.006012,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Washington Commanders,Yes,0.1376,0.2857,0.1481
-2022-11-15 13:40:43.706050,Tournament Futures - FIFA World Cup 2022 - To Score 4 or More Goals in the Tournament,Neymar,0.13640000000000002,0.5,0.3636
 2022-11-15 13:40:43.706050,Tournament Futures - FIFA World Cup 2022 - To Score 4 or More Goals in the Tournament,Kylian Mbappe,0.13640000000000002,0.5,0.3636
+2022-11-15 13:40:43.706050,Tournament Futures - FIFA World Cup 2022 - To Score 4 or More Goals in the Tournament,Neymar,0.13640000000000002,0.5,0.3636
 2022-11-15 13:40:43.700607,Tournament Futures - FIFA World Cup 2022 - To Score 3 or More Goals in the Tournament,Alvaro Morata,0.13640000000000002,0.5,0.3636
 2022-11-15 16:40:42.984453,Team Futures - England Team Specials - England Requested Specials,Harry Kane 4+ Goals,0.13180000000000003,0.4651,0.3333
 2022-11-15 13:40:43.700607,Tournament Futures - FIFA World Cup 2022 - To Score 3 or More Goals in the Tournament,Neymar,0.131,0.7143,0.5833
@@ -69,25 +69,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-15 15:40:54.700787,Group Futures - Group A - Group A Winner,Netherlands,0.025600000000000067,0.6923,0.6667
 2022-11-15 12:40:37.937701,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Cleveland Cavaliers,0.02560000000000001,0.3333,0.3077
 2022-11-15 10:40:34.927352,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Matt Ryan,0.025300000000000003,0.1429,0.1176
-2022-11-15 11:40:36.582782,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Jalen Hurts,0.0242,0.0909,0.0667
 2022-11-15 14:42:08.447072,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Neymar Junior,0.0242,0.0909,0.0667
+2022-11-15 11:40:36.582782,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Jalen Hurts,0.0242,0.0909,0.0667
 2022-11-15 15:40:50.836754,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Buffalo Bills,No,0.024,0.0625,0.0385
 2022-11-15 11:40:36.578098,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),Travis Kelce,0.023200000000000002,0.0476,0.0244
 2022-11-15 13:40:41.466389,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Aaron Rodgers,0.023200000000000002,0.0476,0.0244
 2022-11-15 13:40:43.886366,Group Futures - Group D - Group D Winner,Denmark,0.021999999999999964,0.3077,0.2857
 2022-11-15 10:40:36.277993,Tournament Futures - FIFA World Cup 2022 - To Score 2 or More Goals in the Tournament,Robert Lewandowski,0.02169999999999994,0.5455,0.5238
-2022-11-15 09:40:28.279895,Tournament Match-Ups - Tournament Match-Up - A. Noren v R. MacIntyre - Tournament Match-Up,Alex Noren,0.02079999999999993,0.5556,0.5348
-2022-11-15 09:40:28.296850,Tournament Match-Ups - Tournament Match-Up - E. Pepperell vs V. Perez - Tournament Match-Up,Victor Perez,0.02079999999999993,0.5556,0.5348
 2022-11-15 09:40:28.303089,Tournament Match-Ups - Tournament Match-Up - G. Green vs T. Lawrence - Tournament Match-Up,Thriston Lawrence,0.02079999999999993,0.5556,0.5348
+2022-11-15 09:40:28.296850,Tournament Match-Ups - Tournament Match-Up - E. Pepperell vs V. Perez - Tournament Match-Up,Victor Perez,0.02079999999999993,0.5556,0.5348
+2022-11-15 09:40:28.279895,Tournament Match-Ups - Tournament Match-Up - A. Noren v R. MacIntyre - Tournament Match-Up,Alex Noren,0.02079999999999993,0.5556,0.5348
 2022-11-15 11:40:38.660568,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Lionel Messi,0.02020000000000001,0.1111,0.0909
 2022-11-15 11:40:36.578098,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),Terry McLaurin,0.020000000000000004,0.0323,0.0123
 2022-11-15 13:40:43.695106,Tournament Futures - FIFA World Cup 2022 - To Score 2 or More Goals in the Tournament,Raheem Sterling,0.01970000000000005,0.5652,0.5455
 2022-11-15 14:42:08.469578,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Jude Bellingham,0.019099999999999992,0.0667,0.0476
 2022-11-15 15:40:56.227713,Team Futures - Senegal Team Specials - Senegal Top Team Goalscorer,Ismaila Sarr,0.019000000000000017,0.2857,0.2667
 2022-11-15 12:40:37.945934,2022/23 Divisions - 2022-2023 NBA Northwest Division - Division Winner,Portland Trail Blazers,0.019000000000000017,0.2857,0.2667
-2022-11-15 10:40:35.958813,FIFA World Cup Requested Specials - Specials +500 or lower - Requested Specials,30+ penalties to be awarded at the World Cup,0.01820000000000002,0.2,0.1818
 2022-11-15 07:40:31.301135,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,San Francisco 49ers,0.01820000000000002,0.2,0.1818
+2022-11-15 10:40:35.958813,FIFA World Cup Requested Specials - Specials +500 or lower - Requested Specials,30+ penalties to be awarded at the World Cup,0.01820000000000002,0.2,0.1818
+2022-11-15 18:40:38.197442,Boxing Lines - Craig Richards vs Ricards Bolotniks - To Win the Bout,Ricards Bolotniks,0.01820000000000002,0.2,0.1818
 2022-11-15 15:40:50.894171,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Indianapolis Colts,No,0.018100000000000005,0.9412,0.9231
+2022-11-15 18:40:38.245202,Boxing Lines - Adam Azim vs Rylan Charlton - To Win the Bout,Adam Azim,0.018100000000000005,0.9412,0.9231
 2022-11-15 10:40:34.927352,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Davis Mills,0.0179,0.1429,0.125
 2022-11-15 13:40:44.019795,Group Futures - Group H - Group H Winner,Uruguay,0.017600000000000005,0.3509,0.3333
 2022-11-15 10:40:36.334866,Tournament Futures - FIFA World Cup 2022 - Total Tournament Own Goals,Under 6.5,0.017000000000000015,0.5726,0.5556
@@ -100,65 +102,69 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-15 11:40:36.582782,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Kenneth Walker III,0.014899999999999997,0.0625,0.0476
 2022-11-15 10:40:35.958813,FIFA World Cup Requested Specials - Specials +500 or lower - Requested Specials,Christian Pulisic 2+ Goals,0.01469999999999999,0.25,0.2353
 2022-11-15 11:40:36.582782,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),D'Onta Foreman,0.014599999999999998,0.0196,0.005
-2022-11-15 14:42:08.469578,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Giovanni Reyna,0.014099999999999998,0.0385,0.0244
 2022-11-15 14:42:08.469578,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Dani Olmo,0.014099999999999998,0.0385,0.0244
-2022-11-15 07:40:31.357281,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Dallas Cowboys,0.013999999999999999,0.0909,0.0769
+2022-11-15 14:42:08.469578,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Giovanni Reyna,0.014099999999999998,0.0385,0.0244
 2022-11-15 14:42:08.455384,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Neymar,0.013999999999999999,0.0909,0.0769
+2022-11-15 07:40:31.357281,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Dallas Cowboys,0.013999999999999999,0.0909,0.0769
 2022-11-15 14:42:06.326481,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Baltimore Ravens,No,0.013899999999999996,0.125,0.1111
 2022-11-15 15:40:56.216947,Team Futures - Senegal Team Specials - Senegal Exact Group Points,2 Points,0.013899999999999996,0.125,0.1111
 2022-11-15 14:42:08.469578,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Christopher Nkunku,0.0131,0.0476,0.0345
 2022-11-15 07:40:30.590849,MLB - Odds to win 2023 World Series - World Series Winner 2023,Houston Astros,0.012899999999999995,0.1667,0.1538
 2022-11-15 09:40:28.313103,Tournament Match-Ups - Tournament Match-Up - M. Fitzpatrick vs V. Hovland - Tournament Match-Up,Viktor Hovland,0.012199999999999989,0.5122,0.5
 2022-11-15 12:40:38.349028,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Player of the Year,Chris Jones,0.012100000000000001,0.0244,0.0123
-2022-11-15 09:40:27.658539,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Tua Tagovailoa,0.011700000000000016,0.2222,0.2105
 2022-11-15 13:40:41.448411,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Player of the Year,Tyreek Hill,0.011700000000000016,0.2222,0.2105
+2022-11-15 09:40:27.658539,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Tua Tagovailoa,0.011700000000000016,0.2222,0.2105
 2022-11-15 15:40:50.955464,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - New York Jets,Yes,0.011600000000000055,0.5238,0.5122
-2022-11-15 14:42:07.004421,Tournament Match-Ups - Tournament Match-Up - K. Kitayama vs M.W. Lee - Tournament Match-Up,Kurt Kitayama,0.010699999999999932,0.5455,0.5348
+2022-11-15 18:40:39.120539,DP World Tour Championship - 2/3 Balls - 1st Round 2 Balls - R. Cabrera Bello v M. Kieffer - 1st Round 2 Balls,Maximilian Kieffer,0.011600000000000055,0.5238,0.5122
 2022-11-15 14:42:07.030904,Tournament Match-Ups - Tournament Match-Up - S. Lowry vs T. Fleetwood - Tournament Match-Up,Shane Lowry,0.010699999999999932,0.5455,0.5348
+2022-11-15 14:42:07.004421,Tournament Match-Ups - Tournament Match-Up - K. Kitayama vs M.W. Lee - Tournament Match-Up,Kurt Kitayama,0.010699999999999932,0.5455,0.5348
+2022-11-15 18:40:38.235632,Boxing Lines - Regis Prograis vs Jose Zepeda - To Win the Bout,Jose Zepeda,0.010299999999999976,0.2667,0.2564
 2022-11-15 11:40:36.582782,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Miles Sanders,0.0102,0.0769,0.0667
+2022-11-15 18:40:38.214321,Boxing Lines - Dillian Whyte vs Jermaine Franklin - To Win the Bout,Dillian Whyte,0.010199999999999987,0.9333,0.9231
 2022-11-15 15:40:50.955464,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - New York Jets,No,-0.010099999999999998,0.5455,0.5556
 2022-11-15 12:40:38.349028,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Player of the Year,Von Miller,-0.010100000000000001,0.0244,0.0345
 2022-11-15 10:40:34.927352,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Jacoby Brissett,-0.010100000000000001,0.0244,0.0345
 2022-11-15 07:40:31.357281,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Baltimore Ravens,-0.0102,0.0667,0.0769
-2022-11-15 07:40:31.319927,AFC East - 2022/2023 AFC East - AFC East Winner,New England Patriots,-0.0102,0.0667,0.0769
 2022-11-15 11:40:36.573408,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Mark Andrews,-0.0102,0.0667,0.0769
+2022-11-15 07:40:31.319927,AFC East - 2022/2023 AFC East - AFC East Winner,New England Patriots,-0.0102,0.0667,0.0769
 2022-11-15 09:40:27.654085,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Comeback Player of the Year Award,Saquon Barkley,-0.010699999999999932,0.5348,0.5455
 2022-11-15 13:40:43.987601,Group Futures - Group G - Group G Winner,Serbia,-0.010899999999999993,0.1429,0.1538
 2022-11-15 07:40:30.590849,MLB - Odds to win 2023 World Series - World Series Winner 2023,Los Angeles Dodgers,-0.010899999999999993,0.1429,0.1538
-2022-11-15 13:40:43.917359,Group Futures - Group E - Group E Winner,Spain,-0.01100000000000001,0.5238,0.5348
 2022-11-15 09:40:27.654085,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Comeback Player of the Year Award,Geno Smith,-0.01100000000000001,0.5238,0.5348
-2022-11-15 14:42:07.030904,Tournament Match-Ups - Tournament Match-Up - S. Lowry vs T. Fleetwood - Tournament Match-Up,Tommy Fleetwood,-0.01100000000000001,0.5238,0.5348
 2022-11-15 14:42:07.004421,Tournament Match-Ups - Tournament Match-Up - K. Kitayama vs M.W. Lee - Tournament Match-Up,Min Woo Lee,-0.01100000000000001,0.5238,0.5348
-2022-11-15 13:40:43.822542,Group Futures - Group B - Group B Winner,England,-0.011099999999999999,0.7222,0.7333
+2022-11-15 14:42:07.030904,Tournament Match-Ups - Tournament Match-Up - S. Lowry vs T. Fleetwood - Tournament Match-Up,Tommy Fleetwood,-0.01100000000000001,0.5238,0.5348
+2022-11-15 18:40:39.120539,DP World Tour Championship - 2/3 Balls - 1st Round 2 Balls - R. Cabrera Bello v M. Kieffer - 1st Round 2 Balls,Rafa Cabrera Bello,-0.01100000000000001,0.5238,0.5348
+2022-11-15 13:40:43.917359,Group Futures - Group E - Group E Winner,Spain,-0.01100000000000001,0.5238,0.5348
 2022-11-15 12:40:38.303740,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Tyrese Haliburton (IND),-0.011099999999999999,0.1,0.1111
-2022-11-15 14:42:08.469578,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Jamal Musiala,-0.011099999999999999,0.1,0.1111
 2022-11-15 13:40:41.466389,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Joe Burrow,-0.011099999999999999,0.1,0.1111
+2022-11-15 14:42:08.469578,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Jamal Musiala,-0.011099999999999999,0.1,0.1111
+2022-11-15 13:40:43.822542,Group Futures - Group B - Group B Winner,England,-0.011099999999999999,0.7222,0.7333
 2022-11-15 14:42:06.326481,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Baltimore Ravens,Yes,-0.011199999999999988,0.9412,0.9524
 2022-11-15 14:42:08.447072,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Vinicius Jose Junior,-0.011199999999999995,0.0476,0.0588
 2022-11-15 14:42:08.455384,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Cristiano Ronaldo,-0.011199999999999995,0.0476,0.0588
-2022-11-15 12:40:38.349028,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Player of the Year,Khalil Mack,-0.012100000000000001,0.0123,0.0244
-2022-11-15 11:40:36.582782,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Ezekiel Elliott,-0.012100000000000001,0.0123,0.0244
-2022-11-15 13:40:41.443305,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Rookie of the Year,Kaiir Elam,-0.012100000000000001,0.0123,0.0244
 2022-11-15 10:40:34.927352,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Russell Wilson,-0.012100000000000001,0.0123,0.0244
+2022-11-15 13:40:41.443305,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Rookie of the Year,Kaiir Elam,-0.012100000000000001,0.0123,0.0244
+2022-11-15 11:40:36.582782,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Ezekiel Elliott,-0.012100000000000001,0.0123,0.0244
 2022-11-15 13:40:41.443305,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Rookie of the Year,Coby Bryant,-0.012100000000000001,0.0123,0.0244
-2022-11-15 15:40:53.679654,Tournament Match-Ups - Tournament Match-Up - A. Noren v R. MacIntyre - Tournament Match-Up,Robert MacIntyre,-0.012199999999999989,0.5,0.5122
-2022-11-15 14:42:06.989166,Tournament Match-Ups - Tournament Match-Up - E. Pepperell vs V. Perez - Tournament Match-Up,Eddie Pepperell,-0.012199999999999989,0.5,0.5122
+2022-11-15 12:40:38.349028,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Player of the Year,Khalil Mack,-0.012100000000000001,0.0123,0.0244
 2022-11-15 15:40:50.853834,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Cincinnati Bengals,No,-0.012199999999999989,0.5,0.5122
 2022-11-15 14:42:07.022389,Tournament Match-Ups - Tournament Match-Up - R. McIlroy vs J. Rahm - Tournament Match-Up,Jon Rahm,-0.012199999999999989,0.4878,0.5
+2022-11-15 15:40:53.679654,Tournament Match-Ups - Tournament Match-Up - A. Noren v R. MacIntyre - Tournament Match-Up,Robert MacIntyre,-0.012199999999999989,0.5,0.5122
+2022-11-15 14:42:06.989166,Tournament Match-Ups - Tournament Match-Up - E. Pepperell vs V. Perez - Tournament Match-Up,Eddie Pepperell,-0.012199999999999989,0.5,0.5122
 2022-11-15 10:40:34.927352,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Jared Goff,-0.012600000000000007,0.0588,0.0714
 2022-11-15 13:40:41.443305,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Rookie of the Year,George Karlaftis,-0.012700000000000003,0.0196,0.0323
-2022-11-15 07:40:31.319927,AFC East - 2022/2023 AFC East - AFC East Winner,Buffalo Bills,-0.013299999999999979,0.6296,0.6429
 2022-11-15 15:40:50.939229,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - New England Patriots,No,-0.013299999999999979,0.6296,0.6429
-2022-11-15 12:40:37.945934,2022/23 Divisions - 2022-2023 NBA Northwest Division - Division Winner,Minnesota Timberwolves,-0.013899999999999996,0.1111,0.125
+2022-11-15 07:40:31.319927,AFC East - 2022/2023 AFC East - AFC East Winner,Buffalo Bills,-0.013299999999999979,0.6296,0.6429
 2022-11-15 07:40:31.301135,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Tampa Bay Buccaneers,-0.013899999999999996,0.1111,0.125
+2022-11-15 12:40:37.945934,2022/23 Divisions - 2022-2023 NBA Northwest Division - Division Winner,Minnesota Timberwolves,-0.013899999999999996,0.1111,0.125
 2022-11-15 14:42:08.447072,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Kevin De Bruyne,-0.014099999999999994,0.0526,0.0667
 2022-11-15 13:40:43.987601,Group Futures - Group G - Group G Winner,Cameroon,-0.014099999999999994,0.0526,0.0667
-2022-11-15 13:40:41.466389,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Geno Smith,-0.014099999999999998,0.0244,0.0385
 2022-11-15 10:40:34.927352,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Kyler Murray,-0.014099999999999998,0.0244,0.0385
+2022-11-15 13:40:41.466389,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Geno Smith,-0.014099999999999998,0.0244,0.0385
 2022-11-15 14:42:08.447072,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Raphinha,-0.014099999999999998,0.0244,0.0385
 2022-11-15 11:40:36.573408,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Travis Kelce,-0.01469999999999999,0.2353,0.25
-2022-11-15 15:40:50.888384,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Houston Texans,Yes,-0.014900000000000004,0.0196,0.0345
 2022-11-15 13:40:41.443305,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Rookie of the Year,Travon Walker,-0.014900000000000004,0.0196,0.0345
+2022-11-15 15:40:50.888384,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Houston Texans,Yes,-0.014900000000000004,0.0196,0.0345
 2022-11-15 15:40:56.216947,Team Futures - Senegal Team Specials - Senegal Exact Group Points,6 Points,-0.015100000000000002,0.1667,0.1818
 2022-11-15 11:40:36.573408,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Amari Cooper,-0.0157,0.0278,0.0435
 2022-11-15 13:40:43.786346,Group Futures - Group A - Group A Winner,Netherlands,-0.015800000000000036,0.6667,0.6825
@@ -178,9 +184,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-15 13:40:43.917359,Group Futures - Group E - Group E Winner,Germany,-0.021699999999999997,0.4545,0.4762
 2022-11-15 11:40:36.573408,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),A.J. Brown,-0.022199999999999998,0.1111,0.1333
 2022-11-15 15:40:56.195304,Team Futures - Senegal Team Specials - Senegal Stage of Elimination,Last 16,-0.02260000000000001,0.3774,0.4
-2022-11-15 09:40:28.296850,Tournament Match-Ups - Tournament Match-Up - E. Pepperell vs V. Perez - Tournament Match-Up,Eddie Pepperell,-0.022600000000000064,0.5122,0.5348
-2022-11-15 09:40:28.303089,Tournament Match-Ups - Tournament Match-Up - G. Green vs T. Lawrence - Tournament Match-Up,Gavin Green,-0.022600000000000064,0.5122,0.5348
 2022-11-15 09:40:28.279895,Tournament Match-Ups - Tournament Match-Up - A. Noren v R. MacIntyre - Tournament Match-Up,Robert MacIntyre,-0.022600000000000064,0.5122,0.5348
+2022-11-15 09:40:28.303089,Tournament Match-Ups - Tournament Match-Up - G. Green vs T. Lawrence - Tournament Match-Up,Gavin Green,-0.022600000000000064,0.5122,0.5348
+2022-11-15 09:40:28.296850,Tournament Match-Ups - Tournament Match-Up - E. Pepperell vs V. Perez - Tournament Match-Up,Eddie Pepperell,-0.022600000000000064,0.5122,0.5348
 2022-11-15 13:40:41.443305,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Rookie of the Year,Kayvon Thibodeaux,-0.023200000000000002,0.0294,0.0526
 2022-11-15 07:40:31.357281,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Philadelphia Eagles,-0.023799999999999988,0.1429,0.1667
 2022-11-15 13:40:43.822542,Group Futures - Group B - Group B Winner,Wales,-0.023799999999999988,0.1429,0.1667
@@ -188,16 +194,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-15 13:40:41.466389,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Justin Herbert,-0.023899999999999998,0.0196,0.0435
 2022-11-15 11:40:36.578098,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),A.J. Brown,-0.024,0.0385,0.0625
 2022-11-15 14:42:08.469578,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Nicklas Fullkrug,-0.0242,0.0667,0.0909
-2022-11-15 10:40:35.979844,FIFA World Cup Requested Specials - Specials +1001 to +3000 - Requested Specials,4+ hat-tricks scored,-0.024299999999999995,0.0345,0.0588
 2022-11-15 14:42:08.469578,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Andrej Kramaric,-0.024299999999999995,0.0526,0.0769
+2022-11-15 10:40:35.979844,FIFA World Cup Requested Specials - Specials +1001 to +3000 - Requested Specials,4+ hat-tricks scored,-0.024299999999999995,0.0345,0.0588
 2022-11-15 15:40:54.293177,Tournament Futures - FIFA World Cup 2022 - Top French Ligue 1 Goalscorer,Lionel Messi,-0.02560000000000001,0.3077,0.3333
 2022-11-15 15:40:54.293177,Tournament Futures - FIFA World Cup 2022 - Top French Ligue 1 Goalscorer,Neymar,-0.02560000000000001,0.3077,0.3333
 2022-11-15 13:40:43.886366,Group Futures - Group D - Group D Winner,France,-0.025600000000000067,0.6667,0.6923
-2022-11-15 14:42:08.447072,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Cristiano Ronaldo,-0.026499999999999996,0.0323,0.0588
 2022-11-15 13:40:41.466389,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Lamar Jackson,-0.026499999999999996,0.0323,0.0588
-2022-11-15 12:40:38.388071,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),Miles Sanders,-0.027999999999999997,0.0345,0.0625
-2022-11-15 12:40:38.303740,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Tyrese Maxey (PHI),-0.027999999999999997,0.1538,0.1818
+2022-11-15 14:42:08.447072,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Cristiano Ronaldo,-0.026499999999999996,0.0323,0.0588
 2022-11-15 13:40:43.855159,Group Futures - Group C - Group C Winner,Poland,-0.027999999999999997,0.1538,0.1818
+2022-11-15 12:40:38.303740,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Tyrese Maxey (PHI),-0.027999999999999997,0.1538,0.1818
+2022-11-15 12:40:38.388071,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),Miles Sanders,-0.027999999999999997,0.0345,0.0625
 2022-11-15 12:40:38.388071,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),Dameon Pierce,-0.029299999999999993,0.0476,0.0769
 2022-11-15 13:40:41.443305,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Rookie of the Year,Devin Lloyd,-0.031200000000000002,0.0164,0.0476
 2022-11-15 12:40:38.388071,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),Nick Chubb,-0.031399999999999983,0.2353,0.2667
@@ -207,13 +213,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-15 12:40:38.349028,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Player of the Year,Micah Parsons,-0.035699999999999954,0.7143,0.75
 2022-11-15 13:40:41.443305,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Rookie of the Year,Jalen Pitre,-0.038099999999999995,0.0244,0.0625
 2022-11-15 15:40:50.950077,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - New York Giants,No,-0.041800000000000004,0.303,0.3448
-2022-11-15 10:40:34.927352,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Andy Dalton,-0.04329999999999999,0.0476,0.0909
 2022-11-15 10:40:34.927352,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Mac Jones,-0.04329999999999999,0.0476,0.0909
+2022-11-15 10:40:34.927352,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Andy Dalton,-0.04329999999999999,0.0476,0.0909
 2022-11-15 16:40:42.461433,Team Futures - Argentina Team Specials - Argentina Top Team Goalscorer,Lionel Messi,-0.044399999999999995,0.5556,0.6
 2022-11-15 12:40:38.349028,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Player of the Year,Myles Garrett,-0.044599999999999994,0.0323,0.0769
 2022-11-15 15:40:50.971870,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - San Francisco 49ers,No,-0.049199999999999994,0.2105,0.2597
-2022-11-15 10:40:34.927352,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Kenny Pickett,-0.05550000000000002,0.1667,0.2222
 2022-11-15 12:40:38.303740,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Lauri Markanen,-0.05550000000000002,0.1667,0.2222
+2022-11-15 10:40:34.927352,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Kenny Pickett,-0.05550000000000002,0.1667,0.2222
 2022-11-15 15:40:50.882404,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Green Bay Packers,No,-0.056400000000000006,0.8667,0.9231
 2022-11-15 09:40:27.658539,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Jalen Hurts,-0.05710000000000001,0.1429,0.2
 2022-11-15 15:40:50.900621,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Jacksonville Jaguars,Yes,-0.060600000000000015,0.1667,0.2273
