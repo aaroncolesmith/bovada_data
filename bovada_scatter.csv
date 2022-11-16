@@ -22,6 +22,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-16 04:40:32.543377,BKFC 33: Beltran vs Alexander - Drako Rodriguez vs Will Shutt - To Win the Bout,Drako Rodriguez,0.02440000000000009,0.7647,0.7403
 2022-11-16 04:40:31.890587,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Wyoming,0.023800000000000016,0.1905,0.1667
 2022-11-15 22:40:41.250692,Round Match-Ups - 1st Round Match-Up - H. Li vs J. Lagergren - 1st Round Match-Up,Joakim Lagergren,0.02169999999999994,0.5455,0.5238
+2022-11-16 10:40:32.573508,Tournament Match-Ups - Tournament Match-Ups - A. Putnam v H. English - Tournament Match-Ups,Andrew Putnam,0.02169999999999994,0.5455,0.5238
+2022-11-16 10:40:32.379893,Round Match-Ups - 1st Round Match-Up - E. Pepperell vs S. Horsfield - 1st Round Match-Up,Sam Horsfield,0.02169999999999994,0.5455,0.5238
 2022-11-16 09:40:40.072706,Team Futures - England Team Specials - England Top Team Goalscorer,Harry Kane,0.020299999999999985,0.6429,0.6226
 2022-11-16 02:40:30.189873,BKFC 33: Beltran vs Alexander - Carlos Trinidad vs Rynell Riley - To Win the Bout,Carlos Trinidad,0.020199999999999996,0.6923,0.6721
 2022-11-16 06:40:33.950031,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Ron DeSantis,0.018900000000000028,0.4444,0.4255
@@ -48,10 +50,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-16 02:40:30.714057,Tournament Match-Ups - Tournament Match-Ups - M. Hughes v M. NeSmith - Tournament Match-Ups,Matthew NeSmith,0.010699999999999932,0.5455,0.5348
 2022-11-16 04:40:31.826523,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Zach Edey,0.010600000000000002,0.0323,0.0217
 2022-11-16 09:40:35.694981,Boxing Lines - Brad Strand vs Darwin Martinez - To Win the Bout,Darwin Martinez,0.0102,0.0769,0.0667
-2022-11-16 03:40:37.694358,Round Match-Ups - 1st Round Match-Up - T. Hatton vs M.W. Lee - 1st Round Match-Up,Tyrrell Hatton,0.010099999999999998,0.5556,0.5455
 2022-11-16 03:40:37.636366,Round Match-Ups - 1st Round Match-Up - H. Li vs J. Lagergren - 1st Round Match-Up,Joakim Lagergren,0.010099999999999998,0.5556,0.5455
-2022-11-16 02:40:30.222277,BKFC 33: Beltran vs Alexander - Joey Beltran vs Houston Alexander - To Win the Bout,Houston Alexander,0.010099999999999998,0.4545,0.4444
 2022-11-16 02:40:30.209257,BKFC 33: Beltran vs Alexander - Jeff Souder vs Jaquis Williams - To Win the Bout,Jeff Souder,0.010099999999999998,0.6875,0.6774
+2022-11-16 03:40:37.694358,Round Match-Ups - 1st Round Match-Up - T. Hatton vs M.W. Lee - 1st Round Match-Up,Tyrrell Hatton,0.010099999999999998,0.5556,0.5455
+2022-11-16 02:40:30.222277,BKFC 33: Beltran vs Alexander - Joey Beltran vs Houston Alexander - To Win the Bout,Houston Alexander,0.010099999999999998,0.4545,0.4444
 2022-11-16 02:40:30.216075,BKFC 33: Beltran vs Alexander - Sean Wilson vs Kevin Croom - To Win the Bout,Sean Wilson,-0.010099999999999998,0.4444,0.4545
 2022-11-16 02:40:30.171508,BKFC 33: Beltran vs Alexander - Kassius Kayne vs Rome Lindsay - To Win the Bout,Rome Lindsay,-0.010699999999999987,0.3226,0.3333
 2022-11-16 02:40:30.714057,Tournament Match-Ups - Tournament Match-Ups - M. Hughes v M. NeSmith - Tournament Match-Ups,Mackenzie Hughes,-0.01100000000000001,0.5238,0.5348
@@ -60,6 +62,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-16 03:40:37.636366,Round Match-Ups - 1st Round Match-Up - H. Li vs J. Lagergren - 1st Round Match-Up,Haotong Li,-0.011600000000000055,0.5122,0.5238
 2022-11-15 22:40:40.837160,Boxing Lines - Arsen Goulamirian vs Alexey Egorov - To Win the Bout,Alexey Egorov,-0.012799999999999978,0.2857,0.2985
 2022-11-16 06:40:33.936219,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Kamala Harris,-0.012899999999999995,0.1538,0.1667
+2022-11-16 10:40:31.438291,BKFC 33: Beltran vs Alexander - Joey Beltran vs Houston Alexander - To Win the Bout,Houston Alexander,-0.012900000000000023,0.3953,0.4082
 2022-11-16 04:40:31.902072,College Basketball - SEC Regular Season Conference Winner - SEC Regular Season Winner,Tennessee,-0.0131,0.2222,0.2353
 2022-11-16 04:40:31.833735,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Notre Dame,-0.0131,0.0345,0.0476
 2022-11-16 04:40:31.833735,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Louisville,-0.013400000000000002,0.011,0.0244
@@ -75,11 +78,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-16 04:40:31.896211,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Oregon,-0.018599999999999978,0.1481,0.1667
 2022-11-16 02:40:30.222277,BKFC 33: Beltran vs Alexander - Joey Beltran vs Houston Alexander - To Win the Bout,Joey Beltran,-0.019100000000000006,0.6078,0.6269
 2022-11-16 04:40:32.543377,BKFC 33: Beltran vs Alexander - Drako Rodriguez vs Will Shutt - To Win the Bout,Will Shutt,-0.019600000000000006,0.303,0.3226
+2022-11-16 10:40:32.573508,Tournament Match-Ups - Tournament Match-Ups - A. Putnam v H. English - Tournament Match-Ups,Harris English,-0.02169999999999994,0.5238,0.5455
 2022-11-16 02:40:30.189873,BKFC 33: Beltran vs Alexander - Carlos Trinidad vs Rynell Riley - To Win the Bout,Rynell Riley,-0.021799999999999986,0.3704,0.3922
-2022-11-16 04:40:31.851413,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,TCU,-0.02310000000000001,0.0769,0.1
 2022-11-16 09:40:40.072706,Team Futures - England Team Specials - England Top Team Goalscorer,Bukayo Saka,-0.02310000000000001,0.0769,0.1
+2022-11-16 04:40:31.851413,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,TCU,-0.02310000000000001,0.0769,0.1
+2022-11-16 10:40:32.379893,Round Match-Ups - 1st Round Match-Up - E. Pepperell vs S. Horsfield - 1st Round Match-Up,Eddie Pepperell,-0.023800000000000043,0.5,0.5238
 2022-11-16 04:40:31.833735,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Florida State,-0.024299999999999995,0.0345,0.0588
 2022-11-16 09:40:38.210403,Round Match-Ups - 1st Round Match-Up - H. Li vs J. Lagergren - 1st Round Match-Up,Haotong Li,-0.024399999999999977,0.4878,0.5122
+2022-11-16 10:40:32.396367,Round Match-Ups - 1st Round Match-Up - T. Hatton vs M.W. Lee - 1st Round Match-Up,Min Woo Lee,-0.024399999999999977,0.4878,0.5122
 2022-11-16 04:40:32.531851,BKFC 33: Beltran vs Alexander - Carlos Trinidad vs Rynell Riley - To Win the Bout,Rynell Riley,-0.02560000000000001,0.3448,0.3704
 2022-11-16 04:40:31.890587,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Boise State,-0.0267,0.0909,0.1176
 2022-11-16 02:40:30.669682,Tournament Match-Ups - Tournament Match-Ups - A. Putnam v H. English - Tournament Match-Ups,Harris English,-0.028900000000000037,0.5455,0.5744
@@ -90,8 +96,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-16 04:40:32.560270,BKFC 33: Beltran vs Alexander - Joey Beltran vs Houston Alexander - To Win the Bout,Houston Alexander,-0.04630000000000001,0.4082,0.4545
 2022-11-16 02:40:30.675998,Tournament Match-Ups - Tournament Match-Ups - A. Rai v J. Rose - Tournament Match-Ups,Justin Rose,-0.052200000000000024,0.5556,0.6078
 2022-11-16 09:40:40.072706,Team Futures - England Team Specials - England Top Team Goalscorer,Jack Grealish,-0.052399999999999995,0.0385,0.0909
-2022-11-16 02:40:30.720424,Tournament Match-Ups - Tournament Match-Ups - P. Rodgers v S. Theegala - Tournament Match-Ups,Patrick Rodgers,-0.05689999999999995,0.5348,0.5917
 2022-11-16 02:40:30.656909,Tournament Match-Ups - Tournament Match-Ups - A. Smalley v W. Clark - Tournament Match-Ups,Alex Smalley,-0.05689999999999995,0.5348,0.5917
+2022-11-16 02:40:30.720424,Tournament Match-Ups - Tournament Match-Ups - P. Rodgers v S. Theegala - Tournament Match-Ups,Patrick Rodgers,-0.05689999999999995,0.5348,0.5917
 2022-11-16 02:40:30.663301,Tournament Match-Ups - Tournament Match-Ups - B. Harman v S. Power - Tournament Match-Ups,Brian Harman,-0.05740000000000001,0.5652,0.6226
 2022-11-16 09:40:40.072706,Team Futures - England Team Specials - England Top Team Goalscorer,Mason Mount,-0.058300000000000005,0.0667,0.125
 2022-11-16 04:40:32.507601,BKFC 33: Beltran vs Alexander - Justin Grizzard vs Andrew Potter - To Win the Bout,Justin Grizzard,-0.08079999999999998,0.5556,0.6364
