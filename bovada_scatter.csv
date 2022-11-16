@@ -4,10 +4,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-15 20:40:46.398753,NCAAF - 2022 American Conference Championship - American Conference Championship Game Winner,Central Florida,0.2122,0.5455,0.3333
 2022-11-15 20:40:46.417079,NCAAF - 2022 MAC Championship - MAC Championship Game Winner,Ohio,0.18860000000000002,0.3704,0.1818
 2022-11-15 20:40:46.389696,NCAAF - To Make 2022-23 College Football Playoff - To Make CFB Playoff,Tennessee,0.16660000000000008,0.8333,0.6667
-2022-11-15 16:40:42.984453,Team Futures - England Team Specials - England Requested Specials,Harry Kane 4+ Goals,0.13180000000000003,0.4651,0.3333
 2022-11-15 20:40:46.359349,NCAAF - 2022 Big 12 Championship  - 2022 Big 12 Championship Winner,TCU,0.12379999999999997,0.6,0.4762
 2022-11-15 21:40:37.526803,NCAAF - 2022 Pac-12 Championship - 2022 Pac-12 Championship Winner,Utah,0.12259999999999999,0.3226,0.2
-2022-11-15 16:40:42.984453,Team Futures - England Team Specials - England Requested Specials,Bukayo Sako 2+ Goals,0.11359999999999998,0.3636,0.25
 2022-11-15 20:40:46.389696,NCAAF - To Make 2022-23 College Football Playoff - To Make CFB Playoff,Michigan,0.10710000000000003,0.5238,0.4167
 2022-11-15 20:40:46.389696,NCAAF - To Make 2022-23 College Football Playoff - To Make CFB Playoff,Georgia,0.09499999999999997,0.995,0.9
 2022-11-16 04:40:32.507601,BKFC 33: Beltran vs Alexander - Justin Grizzard vs Andrew Potter - To Win the Bout,Andrew Potter,0.0867,0.5122,0.4255
@@ -18,8 +16,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-16 04:40:31.936733,College Basketball - Phil Knight Invitational Winner 2022 - Phil Knight Invitational Winner,Michigan State,0.0629,0.1538,0.0909
 2022-11-15 20:40:46.398753,NCAAF - 2022 American Conference Championship - American Conference Championship Game Winner,Cincinnati,0.062,0.3846,0.3226
 2022-11-15 20:40:46.417079,NCAAF - 2022 MAC Championship - MAC Championship Game Winner,Toledo,0.059599999999999986,0.6429,0.5833
-2022-11-16 02:40:30.720424,Tournament Match-Ups - Tournament Match-Ups - P. Rodgers v S. Theegala - Tournament Match-Ups,Sahith Theegala,0.05860000000000004,0.5348,0.4762
 2022-11-16 02:40:30.656909,Tournament Match-Ups - Tournament Match-Ups - A. Smalley v W. Clark - Tournament Match-Ups,Wyndham Clark,0.05860000000000004,0.5348,0.4762
+2022-11-16 02:40:30.720424,Tournament Match-Ups - Tournament Match-Ups - P. Rodgers v S. Theegala - Tournament Match-Ups,Sahith Theegala,0.05860000000000004,0.5348,0.4762
 2022-11-15 21:40:37.591684,NCAAF - 2022 Sun Belt Championship - Sun Belt Championship Game Winner,Troy,0.057699999999999974,0.5455,0.4878
 2022-11-16 02:40:30.675998,Tournament Match-Ups - Tournament Match-Ups - A. Rai v J. Rose - Tournament Match-Ups,Aaron Rai,0.057699999999999974,0.5122,0.4545
 2022-11-16 02:40:30.663301,Tournament Match-Ups - Tournament Match-Ups - B. Harman v S. Power - Tournament Match-Ups,Seamus Power,0.05559999999999998,0.5,0.4444
@@ -27,8 +25,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-15 20:40:46.426800,NCAAF - 2022 Mountain West Championship - Mountain West Championship Game Winner,Boise State,0.052200000000000024,0.6078,0.5556
 2022-11-16 04:40:31.845640,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Saint Louis,0.0504,0.2857,0.2353
 2022-11-16 04:40:32.560270,BKFC 33: Beltran vs Alexander - Joey Beltran vs Houston Alexander - To Win the Bout,Joey Beltran,0.0474,0.6552,0.6078
+2022-11-16 04:40:31.890587,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,San Diego State,0.04620000000000002,0.5917,0.5455
 2022-11-15 22:40:40.280158,MLB Specials - Where will  Aaron Judge Play Game 1 of the 2023 MLB Season - Proposition,Yankees,0.04409999999999992,0.6667,0.6226
 2022-11-16 02:40:30.669682,Tournament Match-Ups - Tournament Match-Ups - A. Putnam v H. English - Tournament Match-Ups,Andrew Putnam,0.03600000000000003,0.5238,0.4878
+2022-11-16 05:40:30.702143,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Michigan State,0.03420000000000001,0.1111,0.0769
 2022-11-15 20:40:46.389696,NCAAF - To Make 2022-23 College Football Playoff - To Make CFB Playoff,LSU,0.033399999999999985,0.1667,0.1333
 2022-11-16 04:40:32.538124,BKFC 33: Beltran vs Alexander - Dakota Cochrane vs Eduardo Peralta - To Win the Bout,Eduardo Peralta,0.030299999999999994,0.3636,0.3333
 2022-11-16 02:40:30.202283,BKFC 33: Beltran vs Alexander - Drako Rodriguez vs Will Shutt - To Win the Bout,Drako Rodriguez,0.030200000000000005,0.7403,0.7101
@@ -38,18 +38,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-15 20:40:46.368898,NCAAF - 2022 Big Ten Championship  - 2022 Big Ten Championship Winner,Purdue,0.0282,0.0526,0.0244
 2022-11-15 22:40:40.837160,Boxing Lines - Arsen Goulamirian vs Alexey Egorov - To Win the Bout,Arsen Goulamirian,0.027800000000000047,0.7778,0.75
 2022-11-16 04:40:31.890587,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Utah State,0.027800000000000005,0.1111,0.0833
-2022-11-15 16:40:42.461433,Team Futures - Argentina Team Specials - Argentina Top Team Goalscorer,Lautaro Martinez,0.02779999999999999,0.25,0.2222
 2022-11-16 04:40:31.851413,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Texas Tech,0.024999999999999994,0.125,0.1
 2022-11-16 04:40:32.543377,BKFC 33: Beltran vs Alexander - Drako Rodriguez vs Will Shutt - To Win the Bout,Drako Rodriguez,0.02440000000000009,0.7647,0.7403
 2022-11-16 04:40:31.890587,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Wyoming,0.023800000000000016,0.1905,0.1667
 2022-11-15 22:40:41.250692,Round Match-Ups - 1st Round Match-Up - H. Li vs J. Lagergren - 1st Round Match-Up,Joakim Lagergren,0.02169999999999994,0.5455,0.5238
 2022-11-16 02:40:30.189873,BKFC 33: Beltran vs Alexander - Carlos Trinidad vs Rynell Riley - To Win the Bout,Carlos Trinidad,0.020199999999999996,0.6923,0.6721
+2022-11-16 04:40:31.833735,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Duke,0.018400000000000027,0.3125,0.2941
 2022-11-15 18:40:38.197442,Boxing Lines - Craig Richards vs Ricards Bolotniks - To Win the Bout,Ricards Bolotniks,0.01820000000000002,0.2,0.1818
 2022-11-15 18:40:38.245202,Boxing Lines - Adam Azim vs Rylan Charlton - To Win the Bout,Adam Azim,0.018100000000000005,0.9412,0.9231
 2022-11-16 04:40:31.826523,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Marcus Sasser,0.018099999999999998,0.0769,0.0588
+2022-11-16 04:40:31.833735,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Virginia,0.0179,0.1429,0.125
+2022-11-16 04:40:31.851413,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Kansas,0.01579999999999998,0.3333,0.3175
+2022-11-16 04:40:31.857055,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Creighton,0.015400000000000025,0.4,0.3846
 2022-11-16 02:40:29.603914,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Michigan State,0.014399999999999996,0.0769,0.0625
 2022-11-15 20:40:46.368898,NCAAF - 2022 Big Ten Championship  - 2022 Big Ten Championship Winner,Michigan,0.0131,0.2353,0.2222
 2022-11-15 20:40:46.368898,NCAAF - 2022 Big Ten Championship  - 2022 Big Ten Championship Winner,Iowa,0.013,0.0196,0.0066
+2022-11-16 05:40:30.692499,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Michigan State,0.012800000000000002,0.0345,0.0217
+2022-11-16 04:40:31.896211,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,UCLA,0.012299999999999978,0.3571,0.3448
 2022-11-16 03:40:37.694358,Round Match-Ups - 1st Round Match-Up - T. Hatton vs M.W. Lee - 1st Round Match-Up,Min Woo Lee,0.012199999999999989,0.5122,0.5
 2022-11-16 02:40:30.216075,BKFC 33: Beltran vs Alexander - Sean Wilson vs Kevin Croom - To Win the Bout,Kevin Croom,0.011700000000000044,0.6226,0.6109
 2022-11-15 18:40:39.120539,DP World Tour Championship - 2/3 Balls - 1st Round 2 Balls - R. Cabrera Bello v M. Kieffer - 1st Round 2 Balls,Maximilian Kieffer,0.011600000000000055,0.5238,0.5122
@@ -59,36 +64,41 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-16 04:40:31.826523,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Zach Edey,0.010600000000000002,0.0323,0.0217
 2022-11-15 18:40:38.235632,Boxing Lines - Regis Prograis vs Jose Zepeda - To Win the Bout,Jose Zepeda,0.010299999999999976,0.2667,0.2564
 2022-11-15 18:40:38.214321,Boxing Lines - Dillian Whyte vs Jermaine Franklin - To Win the Bout,Dillian Whyte,0.010199999999999987,0.9333,0.9231
-2022-11-16 02:40:30.209257,BKFC 33: Beltran vs Alexander - Jeff Souder vs Jaquis Williams - To Win the Bout,Jeff Souder,0.010099999999999998,0.6875,0.6774
-2022-11-16 03:40:37.694358,Round Match-Ups - 1st Round Match-Up - T. Hatton vs M.W. Lee - 1st Round Match-Up,Tyrrell Hatton,0.010099999999999998,0.5556,0.5455
 2022-11-16 02:40:30.222277,BKFC 33: Beltran vs Alexander - Joey Beltran vs Houston Alexander - To Win the Bout,Houston Alexander,0.010099999999999998,0.4545,0.4444
 2022-11-16 03:40:37.636366,Round Match-Ups - 1st Round Match-Up - H. Li vs J. Lagergren - 1st Round Match-Up,Joakim Lagergren,0.010099999999999998,0.5556,0.5455
+2022-11-16 03:40:37.694358,Round Match-Ups - 1st Round Match-Up - T. Hatton vs M.W. Lee - 1st Round Match-Up,Tyrrell Hatton,0.010099999999999998,0.5556,0.5455
+2022-11-16 02:40:30.209257,BKFC 33: Beltran vs Alexander - Jeff Souder vs Jaquis Williams - To Win the Bout,Jeff Souder,0.010099999999999998,0.6875,0.6774
 2022-11-16 02:40:30.216075,BKFC 33: Beltran vs Alexander - Sean Wilson vs Kevin Croom - To Win the Bout,Sean Wilson,-0.010099999999999998,0.4444,0.4545
 2022-11-15 20:40:46.426800,NCAAF - 2022 Mountain West Championship - Mountain West Championship Game Winner,San Diego State,-0.0103,0.002,0.0123
 2022-11-15 20:40:46.389696,NCAAF - To Make 2022-23 College Football Playoff - To Make CFB Playoff,USC,-0.010399999999999993,0.2222,0.2326
 2022-11-15 20:40:46.368898,NCAAF - 2022 Big Ten Championship  - 2022 Big Ten Championship Winner,Ohio State,-0.010500000000000065,0.7895,0.8
 2022-11-16 02:40:30.171508,BKFC 33: Beltran vs Alexander - Kassius Kayne vs Rome Lindsay - To Win the Bout,Rome Lindsay,-0.010699999999999987,0.3226,0.3333
 2022-11-15 19:40:39.925069,AFC South - 2022/202 AFC South - AFC South Winner,Tennessee Titans,-0.01090000000000002,0.8462,0.8571
-2022-11-15 18:40:39.120539,DP World Tour Championship - 2/3 Balls - 1st Round 2 Balls - R. Cabrera Bello v M. Kieffer - 1st Round 2 Balls,Rafa Cabrera Bello,-0.01100000000000001,0.5238,0.5348
 2022-11-16 02:40:30.714057,Tournament Match-Ups - Tournament Match-Ups - M. Hughes v M. NeSmith - Tournament Match-Ups,Mackenzie Hughes,-0.01100000000000001,0.5238,0.5348
+2022-11-15 18:40:39.120539,DP World Tour Championship - 2/3 Balls - 1st Round 2 Balls - R. Cabrera Bello v M. Kieffer - 1st Round 2 Balls,Rafa Cabrera Bello,-0.01100000000000001,0.5238,0.5348
 2022-11-16 02:40:30.183716,BKFC 33: Beltran vs Alexander - Shaine Moffitt vs Brandon Meyer - To Win the Bout,Brandon Meyer,-0.011099999999999999,0.4651,0.4762
 2022-11-16 02:40:30.195994,BKFC 33: Beltran vs Alexander - Dakota Cochrane vs Eduardo Peralta - To Win the Bout,Eduardo Peralta,-0.01150000000000001,0.3333,0.3448
 2022-11-16 03:40:37.636366,Round Match-Ups - 1st Round Match-Up - H. Li vs J. Lagergren - 1st Round Match-Up,Haotong Li,-0.011600000000000055,0.5122,0.5238
 2022-11-15 20:40:44.503644,Boxing Lines - Toka Kahn Clary vs Jonathan Oquendo - To Win the Bout,Jonathan Oquendo,-0.011899999999999994,0.2381,0.25
 2022-11-15 22:40:40.837160,Boxing Lines - Arsen Goulamirian vs Alexey Egorov - To Win the Bout,Alexey Egorov,-0.012799999999999978,0.2857,0.2985
-2022-11-16 04:40:31.833735,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Notre Dame,-0.0131,0.0345,0.0476
 2022-11-15 20:40:46.398753,NCAAF - 2022 American Conference Championship - American Conference Championship Game Winner,Houston,-0.0131,0.0033,0.0164
+2022-11-16 04:40:31.833735,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Notre Dame,-0.0131,0.0345,0.0476
+2022-11-16 04:40:31.902072,College Basketball - SEC Regular Season Conference Winner - SEC Regular Season Winner,Tennessee,-0.0131,0.2222,0.2353
+2022-11-16 04:40:31.833735,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Louisville,-0.013400000000000002,0.011,0.0244
 2022-11-16 04:40:31.896211,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,USC,-0.01440000000000001,0.0909,0.1053
 2022-11-15 22:40:40.280158,MLB Specials - Where will  Aaron Judge Play Game 1 of the 2023 MLB Season - Proposition,Dodgers,-0.015100000000000002,0.1667,0.1818
 2022-11-16 04:40:31.890587,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Fresno State,-0.015300000000000001,0.0323,0.0476
 2022-11-15 20:40:46.368898,NCAAF - 2022 Big Ten Championship  - 2022 Big Ten Championship Winner,Wisconsin,-0.0163,0.0033,0.0196
+2022-11-16 05:40:30.036398,US Presidential Election 2024 - US Presidential Election 2024 - Sex Of Winner - Proposition,Female,-0.016699999999999993,0.25,0.2667
 2022-11-16 03:40:36.626685,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Ohio State,-0.016700000000000007,0.0833,0.1
 2022-11-16 04:40:31.845640,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Rhode Island,-0.0168,0.0217,0.0385
+2022-11-16 04:40:31.896211,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Oregon,-0.018599999999999978,0.1481,0.1667
 2022-11-16 02:40:30.222277,BKFC 33: Beltran vs Alexander - Joey Beltran vs Houston Alexander - To Win the Bout,Joey Beltran,-0.019100000000000006,0.6078,0.6269
 2022-11-16 04:40:32.543377,BKFC 33: Beltran vs Alexander - Drako Rodriguez vs Will Shutt - To Win the Bout,Will Shutt,-0.019600000000000006,0.303,0.3226
 2022-11-15 21:40:37.591684,NCAAF - 2022 Sun Belt Championship - Sun Belt Championship Game Winner,South Alabama,-0.02020000000000001,0.0909,0.1111
 2022-11-15 20:40:46.407630,NCAAF - 2022 Conference USA - CUSA Championship Game Winner,North Texas,-0.020799999999999985,0.3125,0.3333
 2022-11-16 02:40:30.189873,BKFC 33: Beltran vs Alexander - Carlos Trinidad vs Rynell Riley - To Win the Bout,Rynell Riley,-0.021799999999999986,0.3704,0.3922
+2022-11-16 04:40:31.851413,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,TCU,-0.02310000000000001,0.0769,0.1
 2022-11-15 20:40:46.407630,NCAAF - 2022 Conference USA - CUSA Championship Game Winner,Florida Atlantic,-0.023200000000000002,0.0244,0.0476
 2022-11-16 04:40:31.833735,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Florida State,-0.024299999999999995,0.0345,0.0588
 2022-11-16 04:40:32.531851,BKFC 33: Beltran vs Alexander - Carlos Trinidad vs Rynell Riley - To Win the Bout,Rynell Riley,-0.02560000000000001,0.3448,0.3704
@@ -98,11 +108,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-16 04:40:31.845640,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Loyola Chicago,-0.033299999999999996,0.1,0.1333
 2022-11-16 02:40:30.202283,BKFC 33: Beltran vs Alexander - Drako Rodriguez vs Will Shutt - To Win the Bout,Will Shutt,-0.034499999999999975,0.3226,0.3571
 2022-11-16 04:40:32.538124,BKFC 33: Beltran vs Alexander - Dakota Cochrane vs Eduardo Peralta - To Win the Bout,Dakota Cochrane,-0.0363,0.697,0.7333
-2022-11-15 20:40:46.398753,NCAAF - 2022 American Conference Championship - American Conference Championship Game Winner,SMU,-0.037700000000000004,0.0099,0.0476
 2022-11-15 20:40:46.389696,NCAAF - To Make 2022-23 College Football Playoff - To Make CFB Playoff,Utah,-0.037700000000000004,0.0099,0.0476
+2022-11-15 20:40:46.398753,NCAAF - 2022 American Conference Championship - American Conference Championship Game Winner,SMU,-0.037700000000000004,0.0099,0.0476
 2022-11-15 20:40:46.368898,NCAAF - 2022 Big Ten Championship  - 2022 Big Ten Championship Winner,Illinois,-0.0403,0.0123,0.0526
 2022-11-15 20:40:46.378313,NCAAF - 2022 SEC Championship  - 2022 SEC Championship Winner,LSU,-0.04040000000000002,0.1818,0.2222
-2022-11-15 16:40:42.461433,Team Futures - Argentina Team Specials - Argentina Top Team Goalscorer,Lionel Messi,-0.044399999999999995,0.5556,0.6
 2022-11-15 21:40:37.591684,NCAAF - 2022 Sun Belt Championship - Sun Belt Championship Game Winner,Coastal Carolina,-0.045499999999999985,0.4545,0.5
 2022-11-16 04:40:32.560270,BKFC 33: Beltran vs Alexander - Joey Beltran vs Houston Alexander - To Win the Bout,Houston Alexander,-0.04630000000000001,0.4082,0.4545
 2022-11-16 02:40:30.675998,Tournament Match-Ups - Tournament Match-Ups - A. Rai v J. Rose - Tournament Match-Ups,Justin Rose,-0.052200000000000024,0.5556,0.6078
