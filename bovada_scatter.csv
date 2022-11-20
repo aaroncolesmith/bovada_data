@@ -21,8 +21,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-20 08:40:35.486821,NBL - NBL 2022/23 - Outright,Cairns Taipans,0.044599999999999994,0.0769,0.0323
 2022-11-20 10:40:48.241135,League Two - England - League Two 2022/23 - Top Goalscorer,Kristian Dennis,0.04440000000000001,0.1111,0.0667
 2022-11-20 10:40:48.606290,National League - England National League 2022/23 - Outright,Wrexham,0.044399999999999995,0.6,0.5556
-2022-11-20 10:40:48.190934,League One - England - League One 2022/23 - Top 6 Finish,Derby County,0.044399999999999995,0.6,0.5556
 2022-11-20 10:40:48.164841,League One - England - League One 2022/23 - To Finish Bottom,Morecambe,0.044399999999999995,0.4444,0.4
+2022-11-20 10:40:48.190934,League One - England - League One 2022/23 - Top 6 Finish,Derby County,0.044399999999999995,0.6,0.5556
 2022-11-20 10:40:48.268377,League Two - England - League Two 2022/23 - To Be Relegated,Hartlepool United,0.04409999999999992,0.6667,0.6226
 2022-11-20 12:40:45.658691,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Memphis Depay,0.043800000000000006,0.2105,0.1667
 2022-11-20 08:40:35.486821,NBL - NBL 2022/23 - Outright,New Zealand Breakers,0.04240000000000001,0.1333,0.0909
@@ -30,34 +30,33 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-20 10:40:48.152523,League One - England - League One 2022/23 - To Be Relegated,Burton Albion,0.037800000000000056,0.5833,0.5455
 2022-11-20 10:40:48.190934,League One - England - League One 2022/23 - Top 6 Finish,Barnsley,0.03640000000000004,0.4,0.3636
 2022-11-20 08:40:35.486821,NBL - NBL 2022/23 - Outright,Perth Wildcats,0.036199999999999996,0.1538,0.1176
-2022-11-20 10:40:48.164841,League One - England - League One 2022/23 - To Finish Bottom,Milton Keynes Dons,0.034100000000000005,0.125,0.0909
 2022-11-20 10:40:48.315335,League Two - England - League Two 2022/23 - Top 7 Finish,Sutton Utd,0.034100000000000005,0.125,0.0909
+2022-11-20 10:40:48.164841,League One - England - League One 2022/23 - To Finish Bottom,Milton Keynes Dons,0.034100000000000005,0.125,0.0909
 2022-11-20 10:40:46.115756,Team Futures - France Team Specials - France Requested Specials,Kylian Mbappe To Score 7+ Goals & Olivier Giroud To Score 2+ Goals,0.034100000000000005,0.125,0.0909
 2022-11-20 10:40:48.286303,League Two - England - League Two 2022/23 - To Finish Bottom,Gillingham,0.033399999999999985,0.1667,0.1333
 2022-11-20 06:40:37.545728,NFL Fantasy Specials - Week 11 Fantasy Scoring Leaders - Highest Scoring QB,Justin Fields,0.033300000000000024,0.2,0.1667
 2022-11-20 10:40:48.315335,League Two - England - League Two 2022/23 - Top 7 Finish,Walsall,0.033300000000000024,0.2,0.1667
 2022-11-20 10:40:48.152523,League One - England - League One 2022/23 - To Be Relegated,Morecambe,0.033299999999999996,0.8333,0.8
-2022-11-20 10:40:48.139706,League One - England - League One 2022/23 - To Be Promoted,Bolton Wanderers,0.03259999999999999,0.2326,0.2
 2022-11-20 10:40:48.255680,League Two - England - League Two 2022/23 - To Be Promoted,Barrow FC,0.03259999999999999,0.2326,0.2
+2022-11-20 10:40:48.139706,League One - England - League One 2022/23 - To Be Promoted,Bolton Wanderers,0.03259999999999999,0.2326,0.2
 2022-11-20 10:40:48.268377,League Two - England - League Two 2022/23 - To Be Relegated,Rochdale,0.03259999999999999,0.2326,0.2
 2022-11-20 10:40:48.139706,League One - England - League One 2022/23 - To Be Promoted,Sheffield Wednesday,0.03259999999999996,0.6552,0.6226
 2022-11-20 09:40:36.982548,NFL Weekly Specials - Week 11 RedZone Specials - Sunday 20th Nov,Saquon Barkley & Josh Jacobs 80+ Rushing Yards Each,0.03210000000000002,0.4167,0.3846
 2022-11-20 10:40:46.115756,Team Futures - France Team Specials - France Requested Specials,Mbappe 4+ Goals,0.03210000000000002,0.4167,0.3846
 2022-11-20 09:40:38.815910,Team Futures - France Team Specials - France Top Team Goalscorer,Ousmane Dembele,0.0321,0.0909,0.0588
 2022-11-20 10:40:48.315335,League Two - England - League Two 2022/23 - Top 7 Finish,AFC Wimbledon,0.031799999999999995,0.1429,0.1111
-2022-11-20 11:40:34.310143,NFL Weekly Specials - Week 11 RedZone Specials - Sunday 20th Nov,L.Jackson & J.Fields 150+ Passing Yards & 50+ Rushing Yards Each,0.030299999999999994,0.3636,0.3333
 2022-11-20 12:40:45.201408,NFL Weekly Specials - Week 11 RedZone Specials - Sunday 20th Nov,L.Jackson & J.Fields 150+ Passing Yards & 50+ Rushing Yards Each,0.030299999999999994,0.3636,0.3333
-2022-11-20 13:40:49.297093,NFL Weekly Specials - Week 11 RedZone Specials - Sunday 20th Nov,L.Jackson & J.Fields 150+ Passing Yards & 50+ Rushing Yards Each,0.030299999999999994,0.3636,0.3333
+2022-11-20 14:40:36.505699,NFL Weekly Specials - Week 11 RedZone Specials - Sunday 20th Nov,L.Jackson & J.Fields 150+ Passing Yards & 50+ Rushing Yards Each,0.030299999999999994,0.3636,0.3333
+2022-11-20 11:40:34.310143,NFL Weekly Specials - Week 11 RedZone Specials - Sunday 20th Nov,L.Jackson & J.Fields 150+ Passing Yards & 50+ Rushing Yards Each,0.030299999999999994,0.3636,0.3333
 2022-11-20 10:40:48.315335,League Two - England - League Two 2022/23 - Top 7 Finish,Leyton Orient,0.02969999999999995,0.9709,0.9412
 2022-11-20 10:40:48.606290,National League - England National League 2022/23 - Outright,Chesterfield,0.028799999999999992,0.1538,0.125
 2022-11-20 03:40:37.924357,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,Clemson,0.028000000000000004,0.0476,0.0196
-2022-11-20 10:40:48.268377,League Two - England - League Two 2022/23 - To Be Relegated,Crawley Town,0.027999999999999997,0.1818,0.1538
 2022-11-20 10:40:48.152523,League One - England - League One 2022/23 - To Be Relegated,Fleetwood Town,0.027999999999999997,0.1818,0.1538
+2022-11-20 10:40:48.268377,League Two - England - League Two 2022/23 - To Be Relegated,Crawley Town,0.027999999999999997,0.1818,0.1538
 2022-11-20 10:40:48.139706,League One - England - League One 2022/23 - To Be Promoted,Ipswich Town,0.027999999999999914,0.8462,0.8182
 2022-11-20 10:40:46.115756,Team Futures - France Team Specials - France Requested Specials,Mbappe Most Assists for France,0.02779999999999999,0.25,0.2222
-2022-11-20 11:40:34.310143,NFL Weekly Specials - Week 11 RedZone Specials - Sunday 20th Nov,"T.Higbee, D.Schultz, T.Hockenson, P.Freiermuth & K.Pitts 25+ Receiving Yards Each",0.02560000000000001,0.3333,0.3077
+2022-11-20 15:40:30.829742,NFL Weekly Specials - Week 11 RedZone Specials - Sunday 20th Nov,"T.Higbee, D.Schultz, T.Hockenson, P.Freiermuth & K.Pitts 25+ Receiving Yards Each",0.02560000000000001,0.3333,0.3077
 2022-11-20 10:40:43.653824,NFL Weekly Specials - Week 11 RedZone Specials - Sunday 20th Nov,"T.Higbee, D.Schultz, T.Hockenson, P.Freiermuth & K.Pitts 25+ Receiving Yards Each",0.02560000000000001,0.3333,0.3077
-2022-11-20 14:40:36.505699,NFL Weekly Specials - Week 11 RedZone Specials - Sunday 20th Nov,"T.Higbee, D.Schultz, T.Hockenson, P.Freiermuth & K.Pitts 25+ Receiving Yards Each",0.02560000000000001,0.3333,0.3077
 2022-11-20 13:40:49.297093,NFL Weekly Specials - Week 11 RedZone Specials - Sunday 20th Nov,"T.Higbee, D.Schultz, T.Hockenson, P.Freiermuth & K.Pitts 25+ Receiving Yards Each",0.02560000000000001,0.3333,0.3077
 2022-11-20 10:40:48.255680,League Two - England - League Two 2022/23 - To Be Promoted,Carlisle United,0.024999999999999994,0.125,0.1
 2022-11-20 10:40:48.178043,League One - England - League One 2022/23 - Top 2 Finish,Sheffield Wednesday,0.023800000000000043,0.5238,0.5
@@ -66,12 +65,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-20 10:40:48.190934,League One - England - League One 2022/23 - Top 6 Finish,Port Vale,0.02310000000000001,0.1,0.0769
 2022-11-20 10:40:48.315335,League Two - England - League Two 2022/23 - Top 7 Finish,Crewe Alexandra,0.02310000000000001,0.1,0.0769
 2022-11-20 10:40:48.219001,League Two - England - League Two 2022/23 - Outright,Northampton Town,0.02310000000000001,0.1,0.0769
-2022-11-20 13:40:49.661234,Round Match-Ups - Final Round Match-Up - K. Kisner vs J.J. Spaun - Final Round Match-Up,Kevin Kisner,0.022600000000000064,0.5348,0.5122
 2022-11-20 03:40:37.341793,Round Match-Ups - Final Round Match-Up - T. Fleetwood v T. Hatton - Final Round Match-Up,Tyrrell Hatton,0.022600000000000064,0.5348,0.5122
+2022-11-20 13:40:49.661234,Round Match-Ups - Final Round Match-Up - K. Kisner vs J.J. Spaun - Final Round Match-Up,Kevin Kisner,0.022600000000000064,0.5348,0.5122
 2022-11-20 13:40:49.756079,Round Match-Ups - Final Round Match-Up - A. Svensson v K. Streelman - Final Round Match-Up,Kevin Streelman,0.022600000000000064,0.5348,0.5122
 2022-11-20 12:40:45.201408,NFL Weekly Specials - Week 11 RedZone Specials - Sunday 20th Nov,"L.Jackson, D.Jones & J.Fields 200+ Passing Yards Each",0.022199999999999998,0.1333,0.1111
 2022-11-20 10:40:43.653824,NFL Weekly Specials - Week 11 RedZone Specials - Sunday 20th Nov,"L.Jackson, D.Jones & J.Fields 200+ Passing Yards Each",0.022199999999999998,0.1333,0.1111
-2022-11-20 13:40:49.297093,NFL Weekly Specials - Week 11 RedZone Specials - Sunday 20th Nov,"L.Jackson, D.Jones & J.Fields 200+ Passing Yards Each",0.022199999999999998,0.1333,0.1111
+2022-11-20 14:40:36.505699,NFL Weekly Specials - Week 11 RedZone Specials - Sunday 20th Nov,"L.Jackson, D.Jones & J.Fields 200+ Passing Yards Each",0.022199999999999998,0.1333,0.1111
 2022-11-20 10:40:48.152523,League One - England - League One 2022/23 - To Be Relegated,Forest Green Rovers,0.02200000000000002,0.7143,0.6923
 2022-11-20 13:40:49.762781,Round Match-Ups - Final Round Match-Up - B. Hossler v A. Svensson - Final Round Match-Up,Beau Hossler,0.02169999999999994,0.5455,0.5238
 2022-11-20 13:40:49.676637,Round Match-Ups - Final Round Match-Up - J. Dahmen v S. Theegala - Final Round Match-Up,Joel Dahmen,0.02169999999999994,0.5455,0.5238
@@ -79,16 +78,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-20 10:40:48.300928,League Two - England - League Two 2022/23 - Top 3 Finish,Barrow FC,0.02049999999999999,0.1538,0.1333
 2022-11-20 10:40:48.286303,League Two - England - League Two 2022/23 - To Finish Bottom,Rochdale,0.02020000000000001,0.1111,0.0909
 2022-11-20 10:40:48.190934,League One - England - League One 2022/23 - Top 6 Finish,Sheffield Wednesday,0.019100000000000006,0.9524,0.9333
-2022-11-20 09:40:38.815910,Team Futures - France Team Specials - France Top Team Goalscorer,Kingsley Coman,0.019099999999999992,0.0667,0.0476
 2022-11-20 10:40:48.315335,League Two - England - League Two 2022/23 - Top 7 Finish,Newport County,0.019099999999999992,0.0667,0.0476
+2022-11-20 09:40:38.815910,Team Futures - France Team Specials - France Top Team Goalscorer,Kingsley Coman,0.019099999999999992,0.0667,0.0476
 2022-11-20 13:40:51.938500,Tournament Futures - FIFA World Cup 2022 - Total Tournament Penalty Shootouts,Over 1.5,0.018999999999999906,0.7333,0.7143
 2022-11-20 10:40:48.255680,League Two - England - League Two 2022/23 - To Be Promoted,Swindon Town,0.01820000000000002,0.2,0.1818
 2022-11-20 04:40:32.213428,Round Match-Ups - Final Round Match-Up - B. Harman vs A. Putnam - Final Round Match-Up,Brian Harman,0.018100000000000005,0.5833,0.5652
 2022-11-20 10:40:48.300928,League Two - England - League Two 2022/23 - Top 3 Finish,Carlisle United,0.018099999999999998,0.0769,0.0588
-2022-11-20 12:40:45.605455,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Lionel Messi,0.0179,0.1429,0.125
 2022-11-20 09:40:38.815910,Team Futures - France Team Specials - France Top Team Goalscorer,Antoine Griezmann,0.0179,0.1429,0.125
+2022-11-20 12:40:45.605455,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Lionel Messi,0.0179,0.1429,0.125
 2022-11-20 12:40:45.658691,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Antoine Griezmann,0.01759999999999999,0.1176,0.1
 2022-11-20 12:40:45.201408,NFL Weekly Specials - Week 11 RedZone Specials - Sunday 20th Nov,"L.Jackson, J.Hurts & J.Fields 50+ Rushing Yards Each",0.016699999999999993,0.2667,0.25
+2022-11-20 14:40:36.505699,NFL Weekly Specials - Week 11 RedZone Specials - Sunday 20th Nov,"L.Jackson, J.Hurts & J.Fields 50+ Rushing Yards Each",0.016699999999999993,0.2667,0.25
 2022-11-20 10:40:43.653824,NFL Weekly Specials - Week 11 RedZone Specials - Sunday 20th Nov,"L.Jackson, J.Hurts & J.Fields 50+ Rushing Yards Each",0.016699999999999993,0.2667,0.25
 2022-11-20 13:40:49.297093,NFL Weekly Specials - Week 11 RedZone Specials - Sunday 20th Nov,"L.Jackson, J.Hurts & J.Fields 50+ Rushing Yards Each",0.016699999999999993,0.2667,0.25
 2022-11-20 10:40:42.354579,Boxing Lines - Fabio Wardley vs Nathan Gorman - To Win the Bout,Nathan Gorman,0.01629999999999998,0.2941,0.2778
@@ -133,23 +133,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-20 10:40:48.139706,League One - England - League One 2022/23 - To Be Promoted,Oxford United,-0.011199999999999995,0.0476,0.0588
 2022-11-20 03:40:36.741675,Boxing Lines - Craig Richards vs Ricards Bolotniks - To Win the Bout,Ricards Bolotniks,-0.011300000000000004,0.1739,0.1852
 2022-11-20 03:40:37.318430,Round Match-Ups - Final Round Match-Up - T. Hatton vs R. Hojgaard - Final Round Match-Up,Rasmus Hojgaard,-0.0116,0.4762,0.4878
-2022-11-20 03:40:37.234711,Round Match-Ups - Final Round Match-Up - F. Zanotti vs M. Schneider - Final Round Match-Up,Fabrizio Zanotti,-0.011600000000000055,0.5122,0.5238
-2022-11-20 05:40:30.846024,Round Match-Ups - Final Round Match-Up - A. Arnaus vs G. Migliozzi - Final Round Match-Up,Guido Migliozzi,-0.011600000000000055,0.5122,0.5238
 2022-11-20 04:40:32.220046,Round Match-Ups - Final Round Match-Up - S. Theegala vs P. Rodgers - Final Round Match-Up,Patrick Rodgers,-0.011600000000000055,0.5122,0.5238
+2022-11-20 05:40:30.846024,Round Match-Ups - Final Round Match-Up - A. Arnaus vs G. Migliozzi - Final Round Match-Up,Guido Migliozzi,-0.011600000000000055,0.5122,0.5238
+2022-11-20 03:40:37.234711,Round Match-Ups - Final Round Match-Up - F. Zanotti vs M. Schneider - Final Round Match-Up,Fabrizio Zanotti,-0.011600000000000055,0.5122,0.5238
 2022-11-20 10:40:48.178043,League One - England - League One 2022/23 - Top 2 Finish,Exeter City,-0.011699999999999999,0.0079,0.0196
 2022-11-20 03:40:37.258062,Round Match-Ups - Final Round Match-Up - V. Hovland vs S. Lowry - Final Round Match-Up,Shane Lowry,-0.012199999999999989,0.5,0.5122
 2022-11-20 12:40:45.617121,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Raheem Sterling,-0.012999999999999998,0.0164,0.0294
-2022-11-20 06:40:37.545728,NFL Fantasy Specials - Week 11 Fantasy Scoring Leaders - Highest Scoring QB,Josh Allen,-0.0131,0.2222,0.2353
 2022-11-20 10:40:48.164841,League One - England - League One 2022/23 - To Finish Bottom,Accrington Stanley,-0.0131,0.0345,0.0476
-2022-11-20 11:40:37.086209,Team Futures - France Team Specials - France Stage of Elimination,Winners,-0.013899999999999996,0.1111,0.125
+2022-11-20 06:40:37.545728,NFL Fantasy Specials - Week 11 Fantasy Scoring Leaders - Highest Scoring QB,Josh Allen,-0.0131,0.2222,0.2353
 2022-11-20 12:40:45.658691,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Alvaro Morata,-0.013899999999999996,0.1111,0.125
 2022-11-20 11:40:35.943459,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,France,-0.013899999999999996,0.1111,0.125
+2022-11-20 11:40:37.086209,Team Futures - France Team Specials - France Stage of Elimination,Winners,-0.013899999999999996,0.1111,0.125
 2022-11-20 12:40:45.658691,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Raphinha,-0.013999999999999999,0.0769,0.0909
 2022-11-20 10:40:48.152523,League One - England - League One 2022/23 - To Be Relegated,Lincoln City,-0.013999999999999999,0.0769,0.0909
 2022-11-20 10:40:48.315335,League Two - England - League Two 2022/23 - Top 7 Finish,Stevenage,-0.014000000000000012,0.9091,0.9231
 2022-11-20 10:40:48.286303,League Two - England - League Two 2022/23 - To Finish Bottom,Newport County,-0.014099999999999998,0.0244,0.0385
 2022-11-20 10:40:48.139706,League One - England - League One 2022/23 - To Be Promoted,Wycombe,-0.015300000000000001,0.0435,0.0588
 2022-11-20 03:40:36.749951,Boxing Lines - Fabio Wardley vs Nathan Gorman - To Win the Bout,Nathan Gorman,-0.01629999999999998,0.2778,0.2941
+2022-11-20 14:40:36.505699,NFL Weekly Specials - Week 11 RedZone Specials - Sunday 20th Nov,"L.Jackson, J.Hurts & J.Fields 50+ Rushing Yards Each",-0.016699999999999993,0.25,0.2667
 2022-11-20 11:40:34.310143,NFL Weekly Specials - Week 11 RedZone Specials - Sunday 20th Nov,"L.Jackson, J.Hurts & J.Fields 50+ Rushing Yards Each",-0.016699999999999993,0.25,0.2667
 2022-11-20 13:40:49.297093,NFL Weekly Specials - Week 11 RedZone Specials - Sunday 20th Nov,"L.Jackson, J.Hurts & J.Fields 50+ Rushing Yards Each",-0.016699999999999993,0.25,0.2667
 2022-11-20 10:40:48.139706,League One - England - League One 2022/23 - To Be Promoted,Portsmouth,-0.016699999999999993,0.25,0.2667
@@ -161,41 +162,40 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-20 12:40:47.056917,Team Futures - England Team Specials - England Stage of Elimination,Runner-up,-0.019699999999999995,0.1053,0.125
 2022-11-20 12:40:45.593934,Tournament Futures - FIFA World Cup 2022 - Runner Up,England,-0.019699999999999995,0.1053,0.125
 2022-11-20 10:40:48.178043,League One - England - League One 2022/23 - Top 2 Finish,Derby County,-0.02020000000000001,0.0909,0.1111
-2022-11-20 12:40:45.605455,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Vinicius Jose Junior,-0.0203,0.0385,0.0588
 2022-11-20 08:40:35.486821,NBL - NBL 2022/23 - Outright,Melbourne United,-0.0203,0.0385,0.0588
+2022-11-20 12:40:45.605455,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Vinicius Jose Junior,-0.0203,0.0385,0.0588
 2022-11-20 08:40:35.486821,NBL - NBL 2022/23 - Outright,Sydney Kings,-0.020799999999999985,0.3125,0.3333
 2022-11-20 10:40:48.219001,League Two - England - League Two 2022/23 - Outright,Stevenage,-0.021999999999999964,0.2857,0.3077
-2022-11-20 11:40:34.310143,NFL Weekly Specials - Week 11 RedZone Specials - Sunday 20th Nov,"L.Jackson, D.Jones & J.Fields 200+ Passing Yards Each",-0.022199999999999998,0.1111,0.1333
 2022-11-20 10:40:48.139706,League One - England - League One 2022/23 - To Be Promoted,Peterborough United,-0.022199999999999998,0.2,0.2222
-2022-11-20 12:40:45.201408,NFL Weekly Specials - Week 11 RedZone Specials - Sunday 20th Nov,"L.Jackson, D.Jones & J.Fields 200+ Passing Yards Each",-0.022199999999999998,0.1111,0.1333
+2022-11-20 14:40:36.505699,NFL Weekly Specials - Week 11 RedZone Specials - Sunday 20th Nov,"L.Jackson, D.Jones & J.Fields 200+ Passing Yards Each",-0.022199999999999998,0.1111,0.1333
+2022-11-20 11:40:34.310143,NFL Weekly Specials - Week 11 RedZone Specials - Sunday 20th Nov,"L.Jackson, D.Jones & J.Fields 200+ Passing Yards Each",-0.022199999999999998,0.1111,0.1333
 2022-11-20 03:40:37.341793,Round Match-Ups - Final Round Match-Up - T. Fleetwood v T. Hatton - Final Round Match-Up,Tommy Fleetwood,-0.022600000000000064,0.5122,0.5348
 2022-11-20 13:40:49.756079,Round Match-Ups - Final Round Match-Up - A. Svensson v K. Streelman - Final Round Match-Up,Adam Svensson,-0.022600000000000064,0.5122,0.5348
 2022-11-20 13:40:49.661234,Round Match-Ups - Final Round Match-Up - K. Kisner vs J.J. Spaun - Final Round Match-Up,J.J. Spaun,-0.022600000000000064,0.5122,0.5348
-2022-11-20 13:40:49.762781,Round Match-Ups - Final Round Match-Up - B. Hossler v A. Svensson - Final Round Match-Up,Adam Svensson,-0.023800000000000043,0.5,0.5238
 2022-11-20 13:40:49.676637,Round Match-Ups - Final Round Match-Up - J. Dahmen v S. Theegala - Final Round Match-Up,Sahith Theegala,-0.023800000000000043,0.5,0.5238
+2022-11-20 13:40:49.762781,Round Match-Ups - Final Round Match-Up - B. Hossler v A. Svensson - Final Round Match-Up,Adam Svensson,-0.023800000000000043,0.5,0.5238
+2022-11-20 10:40:48.268377,League Two - England - League Two 2022/23 - To Be Relegated,Newport County,-0.0242,0.0667,0.0909
 2022-11-20 10:40:48.219001,League Two - England - League Two 2022/23 - Outright,Mansfield Town,-0.0242,0.0667,0.0909
 2022-11-20 10:40:48.178043,League One - England - League One 2022/23 - Top 2 Finish,Peterborough United,-0.0242,0.0667,0.0909
-2022-11-20 10:40:48.268377,League Two - England - League Two 2022/23 - To Be Relegated,Newport County,-0.0242,0.0667,0.0909
 2022-11-20 10:40:48.255680,League Two - England - League Two 2022/23 - To Be Promoted,Tranmere Rovers,-0.024999999999999994,0.1,0.125
 2022-11-20 10:40:48.190934,League One - England - League One 2022/23 - Top 6 Finish,Oxford United,-0.025300000000000003,0.1176,0.1429
 2022-11-20 10:40:48.190934,League One - England - League One 2022/23 - Top 6 Finish,Wycombe,-0.025300000000000003,0.1176,0.1429
-2022-11-20 12:40:45.201408,NFL Weekly Specials - Week 11 RedZone Specials - Sunday 20th Nov,"T.Higbee, D.Schultz, T.Hockenson, P.Freiermuth & K.Pitts 25+ Receiving Yards Each",-0.02560000000000001,0.3077,0.3333
-2022-11-20 13:40:49.297093,NFL Weekly Specials - Week 11 RedZone Specials - Sunday 20th Nov,"T.Higbee, D.Schultz, T.Hockenson, P.Freiermuth & K.Pitts 25+ Receiving Yards Each",-0.02560000000000001,0.3077,0.3333
 2022-11-20 11:40:34.310143,NFL Weekly Specials - Week 11 RedZone Specials - Sunday 20th Nov,"T.Higbee, D.Schultz, T.Hockenson, P.Freiermuth & K.Pitts 25+ Receiving Yards Each",-0.02560000000000001,0.3077,0.3333
+2022-11-20 14:40:36.505699,NFL Weekly Specials - Week 11 RedZone Specials - Sunday 20th Nov,"T.Higbee, D.Schultz, T.Hockenson, P.Freiermuth & K.Pitts 25+ Receiving Yards Each",-0.02560000000000001,0.3077,0.3333
 2022-11-20 10:40:48.300928,League Two - England - League Two 2022/23 - Top 3 Finish,Stevenage,-0.025600000000000067,0.6667,0.6923
 2022-11-20 10:40:48.178043,League One - England - League One 2022/23 - Top 2 Finish,Portsmouth,-0.0267,0.0909,0.1176
 2022-11-20 10:40:48.241135,League Two - England - League Two 2022/23 - Top Goalscorer,Sam Hoskins,-0.027999999999999997,0.1538,0.1818
 2022-11-20 10:40:48.152523,League One - England - League One 2022/23 - To Be Relegated,Port Vale,-0.028199999999999996,0.0385,0.0667
 2022-11-20 12:40:45.201408,NFL Weekly Specials - Week 11 RedZone Specials - Sunday 20th Nov,L.Jackson & J.Fields 150+ Passing Yards & 50+ Rushing Yards Each,-0.030299999999999994,0.3333,0.3636
+2022-11-20 13:40:49.297093,NFL Weekly Specials - Week 11 RedZone Specials - Sunday 20th Nov,L.Jackson & J.Fields 150+ Passing Yards & 50+ Rushing Yards Each,-0.030299999999999994,0.3333,0.3636
 2022-11-20 10:40:43.653824,NFL Weekly Specials - Week 11 RedZone Specials - Sunday 20th Nov,L.Jackson & J.Fields 150+ Passing Yards & 50+ Rushing Yards Each,-0.030299999999999994,0.3333,0.3636
 2022-11-20 14:40:36.505699,NFL Weekly Specials - Week 11 RedZone Specials - Sunday 20th Nov,L.Jackson & J.Fields 150+ Passing Yards & 50+ Rushing Yards Each,-0.030299999999999994,0.3333,0.3636
-2022-11-20 13:40:49.297093,NFL Weekly Specials - Week 11 RedZone Specials - Sunday 20th Nov,L.Jackson & J.Fields 150+ Passing Yards & 50+ Rushing Yards Each,-0.030299999999999994,0.3333,0.3636
 2022-11-20 10:40:48.315335,League Two - England - League Two 2022/23 - Top 7 Finish,Doncaster Rovers,-0.031799999999999995,0.1111,0.1429
-2022-11-20 07:40:37.004616,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Kansas City Chiefs,Under 12.5,-0.033299999999999996,0.4545,0.4878
 2022-11-20 10:40:48.300928,League Two - England - League Two 2022/23 - Top 3 Finish,Salford City,-0.033299999999999996,0.1,0.1333
+2022-11-20 07:40:37.004616,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Kansas City Chiefs,Under 12.5,-0.033299999999999996,0.4545,0.4878
 2022-11-20 10:40:48.268377,League Two - England - League Two 2022/23 - To Be Relegated,Colchester United,-0.03370000000000001,0.3509,0.3846
-2022-11-20 10:40:48.219001,League Two - England - League Two 2022/23 - Outright,Bradford City,-0.03420000000000001,0.0769,0.1111
 2022-11-20 10:40:48.190934,League One - England - League One 2022/23 - Top 6 Finish,Exeter City,-0.03420000000000001,0.0769,0.1111
+2022-11-20 10:40:48.219001,League Two - England - League Two 2022/23 - Outright,Bradford City,-0.03420000000000001,0.0769,0.1111
 2022-11-20 03:40:37.924357,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,Michigan,-0.0343,0.0833,0.1176
 2022-11-20 10:40:48.190934,League One - England - League One 2022/23 - Top 6 Finish,Portsmouth,-0.03639999999999999,0.6,0.6364
 2022-11-20 10:40:48.255680,League Two - England - League Two 2022/23 - To Be Promoted,Salford City,-0.04040000000000002,0.1818,0.2222
