@@ -22,7 +22,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-24 06:40:36.667820,Team Futures - Argentina Team Specials - Argentina Top Team Goalscorer,Lionel Messi,0.16809999999999992,0.7333,0.5652
 2022-11-24 05:40:42.601796,Team Futures - Netherlands Team Specials - Netherlands Exact Group Points,9,0.16670000000000001,0.5,0.3333
 2022-11-24 06:40:36.676044,Team Futures - Argentina Team Specials - Argentina Exact Group Points,4,0.16479999999999997,0.3077,0.1429
-2022-11-24 02:40:38.317420,Tournament Futures - FIFA World Cup 2022 - Young Player Award Winner,Pedri Gonzalez,0.16359999999999997,0.3636,0.2
 2022-11-24 07:40:43.692666,Team Futures - Costa Rica Team Specials - Costa Rica Top Team Goalscorer,No Costa Rica Goalscorer,0.16359999999999997,0.3636,0.2
 2022-11-24 06:40:36.676044,Team Futures - Argentina Team Specials - Argentina Exact Group Points,3,0.16340000000000002,0.2222,0.0588
 2022-11-24 10:40:40.287920,Australian PGA Championship - Australian PGA Championship - Outright,Min Woo Lee,0.1453,0.2222,0.0769
@@ -35,12 +34,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-24 08:40:42.977119,Team Futures - Mexico Team Specials - Mexico Exact Group Points,4,0.12970000000000004,0.4,0.2703
 2022-11-24 07:40:43.870802,Team Futures - Germany Team Specials - Germany Exact Group Points,4,0.12739999999999999,0.2941,0.1667
 2022-11-24 06:40:36.181741,Tournament Futures - FIFA World Cup 2022 - Top South American Team,Brazil,0.12529999999999997,0.6491,0.5238
-2022-11-24 02:40:38.317420,Tournament Futures - FIFA World Cup 2022 - Young Player Award Winner,Pablo Gavi,0.1242,0.2353,0.1111
 2022-11-24 07:40:43.745124,Team Futures - Denmark Team Specials - Denmark Exact Group Points,2 Points,0.123,0.1818,0.0588
 2022-11-24 06:40:36.693168,Team Futures - Australia Team Specials - Australia Exact Group Points,1 Point,0.11829999999999999,0.3509,0.2326
 2022-11-24 08:40:42.977119,Team Futures - Mexico Team Specials - Mexico Exact Group Points,2,0.115,0.2326,0.1176
 2022-11-24 05:40:42.619567,Team Futures - Poland Team Specials - Poland Exact Group Points,4 Points,0.11430000000000001,0.4,0.2857
-2022-11-24 03:40:37.902930,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Jude Bellingham,0.1111,0.2222,0.1111
 2022-11-24 08:40:42.977119,Team Futures - Mexico Team Specials - Mexico Exact Group Points,5,0.10910000000000002,0.2,0.0909
 2022-11-24 07:40:43.817658,Team Futures - England Team Specials - England Exact Group Points,9,0.10900000000000004,0.4167,0.3077
 2022-11-24 08:40:42.922429,Team Futures - Japan Team Specials - Japan Stage of Elimination,Quarter Finals,0.1049,0.1818,0.0769
@@ -61,27 +58,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-24 04:40:45.136965,Team Futures - Poland Team Specials - Poland Stage of Elimination,Group Stage,0.06700000000000006,0.6226,0.5556
 2022-11-24 07:40:43.924374,Team Futures - Iran Team Specials - Iran Exact Group Points,0 Points,0.06669999999999998,0.2667,0.2
 2022-11-24 07:40:43.702049,Team Futures - Croatia Team Specials - Croatia Stage of Elimination,Group Stage,0.06519999999999998,0.5,0.4348
-2022-11-24 03:40:37.887072,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Ferran Torres,0.0637,0.0833,0.0196
 2022-11-24 10:40:43.316858,Team Futures - Morocco Team Specials - Morocco Exact Group Points,7 Points,0.0635,0.1111,0.0476
 2022-11-24 07:40:43.720532,Team Futures - Croatia Team Specials - Croatia Top Team Goalscorer,No Croatia Goalscorer,0.06309999999999999,0.0909,0.0278
 2022-11-24 10:40:40.287920,Australian PGA Championship - Australian PGA Championship - Outright,Jason Scrivener,0.0605,0.0769,0.0164
 2022-11-24 08:40:42.957089,Team Futures - Mexico Team Specials - Mexico Stage of Elimination,Group Stage,0.0595,0.5833,0.5238
 2022-11-24 08:40:42.931890,Team Futures - Japan Team Specials - Japan Exact Group Points,9 Points,0.05879999999999999,0.0667,0.0079
 2022-11-24 07:40:43.924374,Team Futures - Iran Team Specials - Iran Exact Group Points,1 Point,0.057699999999999974,0.3077,0.25
-2022-11-24 03:40:37.902930,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Takumu Asano,0.0573,0.0769,0.0196
 2022-11-24 06:40:36.176196,Tournament Futures - FIFA World Cup 2022 - Top North American Team,Canada,0.05710000000000001,0.2,0.1429
 2022-11-24 07:40:43.672463,Team Futures - Costa Rica Team Specials - Costa Rica Stage of Elimination,Group Stage,0.05679999999999996,0.9901,0.9333
 2022-11-24 07:40:43.809129,Team Futures - England Team Specials - England Top Team Goalscorer,Raheem Sterling,0.05559999999999998,0.1667,0.1111
 2022-11-24 07:40:43.753997,Team Futures - Denmark Team Specials - Denmark Top Team Goalscorer,Christian Eriksen,0.05550000000000002,0.2222,0.1667
 2022-11-24 08:40:42.922429,Team Futures - Japan Team Specials - Japan Stage of Elimination,Semi Finals,0.052399999999999995,0.0909,0.0385
 2022-11-24 04:40:44.457803,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Pedri,0.052399999999999995,0.0909,0.0385
-2022-11-24 03:40:37.902930,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Jamal Musiala,0.052000000000000005,0.1429,0.0909
 2022-11-24 07:40:43.836510,Team Futures - France Team Specials - France Top Team Goalscorer,Adrien Rabiot,0.0518,0.0667,0.0149
 2022-11-24 08:40:42.931890,Team Futures - Japan Team Specials - Japan Exact Group Points,4 Points,0.05080000000000001,0.2326,0.1818
 2022-11-24 06:40:36.659920,Team Futures - Argentina Team Specials - Argentina Stage of Elimination,Last 16,0.04999999999999999,0.25,0.2
 2022-11-24 07:40:43.753997,Team Futures - Denmark Team Specials - Denmark Top Team Goalscorer,No Demnark Goalscorer,0.0491,0.0769,0.0278
 2022-11-24 07:40:43.745124,Team Futures - Denmark Team Specials - Denmark Exact Group Points,1 Point,0.0448,0.0833,0.0385
-2022-11-24 02:40:38.028366,NFL Weekly Specials - Thanksgiving Specials - Highest Scoring Thanksgiving Game,Buffalo Bills @ Detroit Lions,0.04469999999999996,0.6364,0.5917
 2022-11-24 06:40:35.379264,NFL Weekly Specials - Thanksgiving Specials - Lowest Scoring Thanksgiving Game,New England Patriots @ Minnesota Vikings,0.044399999999999995,0.6,0.5556
 2022-11-24 07:40:43.710714,Team Futures - Croatia Team Specials - Croatia Team Exact Group Points,1 Point,0.04240000000000001,0.1333,0.0909
 2022-11-24 06:40:36.676044,Team Futures - Argentina Team Specials - Argentina Exact Group Points,2,0.04229999999999999,0.0667,0.0244
@@ -89,12 +82,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-24 08:40:42.966996,Team Futures - Mexico Team Specials - Mexico Top Team Goalscorer,No Mexico Goalscorer,0.0407,0.1176,0.0769
 2022-11-24 06:40:36.170311,Tournament Futures - FIFA World Cup 2022 - Top European Team,France,0.04040000000000002,0.2222,0.1818
 2022-11-24 08:40:42.944111,Team Futures - Japan Team Specials - Japan Top Team Goalscorer,Takefusa Kubo,0.0392,0.0588,0.0196
-2022-11-24 03:40:37.887072,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Kylian Mbappe,0.03889999999999999,0.1818,0.1429
-2022-11-24 07:40:43.809129,Team Futures - England Team Specials - England Top Team Goalscorer,Jack Grealish,0.0384,0.0769,0.0385
 2022-11-24 09:40:40.106931,Team Futures - Morocco Team Specials - Morocco Top Team Goalscorer,Achraf Hakimi,0.0384,0.0769,0.0385
-2022-11-24 02:40:38.088843,NFL Weekly Specials - Thanksgiving Specials - Most Passing Yards,Josh Allen,0.03689999999999999,0.3226,0.2857
+2022-11-24 07:40:43.809129,Team Futures - England Team Specials - England Top Team Goalscorer,Jack Grealish,0.0384,0.0769,0.0385
 2022-11-24 08:40:40.434234,2022/23 Divisions - 2022-2023 NBA Northwest Division - Division Winner,Denver Nuggets,0.03639999999999999,0.6364,0.6
-2022-11-24 03:40:37.894565,Tournament Futures - FIFA World Cup 2022 - Top French Ligue 1 Goalscorer,Neymar,0.03570000000000001,0.2857,0.25
 2022-11-24 07:40:43.659929,Team Futures - Canada Team Specials - Canada Exact Group Points,3,0.03570000000000001,0.2857,0.25
 2022-11-24 07:40:43.809129,Team Futures - England Team Specials - England Top Team Goalscorer,Marcus Rashford,0.035699999999999996,0.0833,0.0476
 2022-11-24 05:40:41.949021,Tournament Futures - FIFA World Cup 2022 - Lowest Scoring Team,Mexico,0.0344,0.0588,0.0244
@@ -112,21 +102,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-24 06:40:36.726874,Team Futures - Belgium Team Specials - Belgium Exact Group Points,4,0.027999999999999997,0.1818,0.1538
 2022-11-24 07:40:43.659929,Team Futures - Canada Team Specials - Canada Exact Group Points,6,0.027800000000000005,0.1111,0.0833
 2022-11-24 07:40:43.801698,Team Futures - England Team Specials - England Stage of Elimination,Last 16,0.02679999999999999,0.3125,0.2857
-2022-11-24 03:40:37.887072,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Olivier Giroud,0.024999999999999994,0.125,0.1
 2022-11-24 07:40:43.801698,Team Futures - England Team Specials - England Stage of Elimination,Runner-up,0.024999999999999994,0.125,0.1
-2022-11-24 03:40:37.902930,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Serge Gnabry,0.023799999999999988,0.1667,0.1429
-2022-11-24 02:40:38.037428,NFL Weekly Specials - Thanksgiving Specials - Highest Scoring Thanksgiving Team,Buffalo Bills,0.023799999999999988,0.5,0.4762
-2022-11-24 02:40:38.037428,NFL Weekly Specials - Thanksgiving Specials - Highest Scoring Thanksgiving Team,Minnesota Vikings,0.023799999999999988,0.1667,0.1429
-2022-11-24 07:40:43.720532,Team Futures - Croatia Team Specials - Croatia Top Team Goalscorer,Ivan Perisic,0.023799999999999988,0.1667,0.1429
 2022-11-24 07:40:43.720532,Team Futures - Croatia Team Specials - Croatia Top Team Goalscorer,Luka Modric,0.023799999999999988,0.1667,0.1429
-2022-11-24 02:40:38.210336,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Pablo Martin Gavi,0.0236,0.0385,0.0149
-2022-11-24 10:40:40.287920,Australian PGA Championship - Australian PGA Championship - Outright,Brad Kennedy,0.023200000000000002,0.0476,0.0244
+2022-11-24 07:40:43.720532,Team Futures - Croatia Team Specials - Croatia Top Team Goalscorer,Ivan Perisic,0.023799999999999988,0.1667,0.1429
 2022-11-24 05:40:41.949021,Tournament Futures - FIFA World Cup 2022 - Lowest Scoring Team,Poland,0.023200000000000002,0.0476,0.0244
+2022-11-24 10:40:40.287920,Australian PGA Championship - Australian PGA Championship - Outright,Brad Kennedy,0.023200000000000002,0.0476,0.0244
 2022-11-24 07:40:43.827237,Team Futures - France Team Specials - France Stage of Elimination,Winners,0.022199999999999998,0.1333,0.1111
 2022-11-24 07:40:43.827237,Team Futures - France Team Specials - France Stage of Elimination,Last 16,0.021999999999999964,0.3077,0.2857
 2022-11-24 05:40:42.580425,Team Futures - Netherlands Team Specials - Netherlands Stage of Elimination,Quarter Final,0.021999999999999964,0.3077,0.2857
 2022-11-24 05:40:42.601796,Team Futures - Netherlands Team Specials - Netherlands Exact Group Points,7,0.020799999999999985,0.3333,0.3125
-2022-11-24 02:40:38.046349,NFL Weekly Specials - Thanksgiving Specials - Lowest Scoring Thanksgiving Game,New England Patriots @ Minnesota Vikings,0.02079999999999993,0.5556,0.5348
 2022-11-24 14:40:32.066139,NFL Weekly Specials - Thanksgiving Specials - Thanksgiving Specials,140+ Combined Points on Thanksgiving,0.02079999999999993,0.5556,0.5348
 2022-11-24 10:40:40.287920,Australian PGA Championship - Australian PGA Championship - Outright,John Lyras,0.0204,0.0244,0.004
 2022-11-24 04:40:44.450849,Tournament Futures - FIFA World Cup 2022 - Top Italian Serie A Goalscorer,Adrien Rabiot,0.0203,0.0588,0.0385
@@ -134,27 +118,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-24 06:40:36.170311,Tournament Futures - FIFA World Cup 2022 - Top European Team,Belgium,0.019699999999999995,0.125,0.1053
 2022-11-24 07:40:43.870802,Team Futures - Germany Team Specials - Germany Exact Group Points,0,0.019499999999999997,0.0294,0.0099
 2022-11-24 10:40:40.287920,Australian PGA Championship - Australian PGA Championship - Outright,Liu Yan Wei,0.0194,0.0244,0.005
-2022-11-24 07:40:43.720532,Team Futures - Croatia Team Specials - Croatia Top Team Goalscorer,Lovro Majer,0.019099999999999992,0.0667,0.0476
 2022-11-24 05:40:41.949021,Tournament Futures - FIFA World Cup 2022 - Lowest Scoring Team,Morocco,0.019099999999999992,0.0667,0.0476
+2022-11-24 07:40:43.720532,Team Futures - Croatia Team Specials - Croatia Top Team Goalscorer,Lovro Majer,0.019099999999999992,0.0667,0.0476
 2022-11-24 09:40:40.098223,Team Futures - Morocco Team Specials - Morocco Stage of Elimination,Group Stage,0.018999999999999906,0.7333,0.7143
-2022-11-24 02:40:38.105095,NFL Weekly Specials - Thanksgiving Specials - Most Rushing Yards ,James Cook,0.0189,0.0385,0.0196
 2022-11-24 05:40:42.580425,Team Futures - Netherlands Team Specials - Netherlands Stage of Elimination,Semi Final,0.01820000000000002,0.2,0.1818
-2022-11-24 02:40:38.210336,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Pedro Gonzalez,0.018200000000000004,0.0476,0.0294
-2022-11-24 03:40:37.887072,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Alvaro Morata,0.018200000000000004,0.0476,0.0294
-2022-11-24 02:40:38.232045,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,France & Netherlands,0.018099999999999998,0.0526,0.0345
-2022-11-24 05:40:42.592567,Team Futures - Netherlands Team Specials - Netherlands Top Team Goalscorer,Steven Bergwijn,0.0179,0.1429,0.125
 2022-11-24 06:40:35.409480,NFL Weekly Specials - Thanksgiving Specials - Touchdown Scorer Parlays,"Jamall Williams (DET), Stefon Diggs (BUF) & Tony Pollard (DAL) All to Score a Touchdown",0.0179,0.1429,0.125
+2022-11-24 05:40:42.592567,Team Futures - Netherlands Team Specials - Netherlands Top Team Goalscorer,Steven Bergwijn,0.0179,0.1429,0.125
 2022-11-24 07:40:43.845043,Team Futures - France Team Specials - France Exact Group Points,7,0.017600000000000005,0.3509,0.3333
 2022-11-24 07:40:43.924374,Team Futures - Iran Team Specials - Iran Exact Group Points,3 Points,0.0174,0.25,0.2326
 2022-11-24 05:40:41.949021,Tournament Futures - FIFA World Cup 2022 - Lowest Scoring Team,Croatia,0.017099999999999997,0.0294,0.0123
-2022-11-24 03:40:37.887072,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Dani Olmo,0.017099999999999997,0.0294,0.0123
 2022-11-24 07:40:43.659929,Team Futures - Canada Team Specials - Canada Exact Group Points,1,0.016699999999999993,0.2667,0.25
 2022-11-24 06:40:36.211094,Tournament Futures - FIFA World Cup 2022 - Tournament Winner and Top Goalscorer Parlay,England & Bukayo Saka,0.0156,0.0196,0.004
 2022-11-24 07:40:43.870802,Team Futures - Germany Team Specials - Germany Exact Group Points,2,0.015300000000000001,0.0476,0.0323
-2022-11-24 09:40:40.106931,Team Futures - Morocco Team Specials - Morocco Top Team Goalscorer,Youssef En-Nesyri,0.015100000000000002,0.1818,0.1667
-2022-11-24 05:40:40.408936,NFL Weekly Specials - Thanksgiving Specials - Touchdown Scorer Parlays,"Dak Prescott, Josh Allen, Daniel Jones & Jared Goff to Combine for 3+ TDs",0.015100000000000002,0.1818,0.1667
-2022-11-24 02:40:38.317420,Tournament Futures - FIFA World Cup 2022 - Young Player Award Winner,Bukayo Saka,0.015100000000000002,0.1818,0.1667
 2022-11-24 08:40:42.966996,Team Futures - Mexico Team Specials - Mexico Top Team Goalscorer,Hirving Lozano,0.015100000000000002,0.1818,0.1667
+2022-11-24 05:40:40.408936,NFL Weekly Specials - Thanksgiving Specials - Touchdown Scorer Parlays,"Dak Prescott, Josh Allen, Daniel Jones & Jared Goff to Combine for 3+ TDs",0.015100000000000002,0.1818,0.1667
+2022-11-24 09:40:40.106931,Team Futures - Morocco Team Specials - Morocco Top Team Goalscorer,Youssef En-Nesyri,0.015100000000000002,0.1818,0.1667
 2022-11-24 06:40:36.211094,Tournament Futures - FIFA World Cup 2022 - Tournament Winner and Top Goalscorer Parlay,Brazil & Kylian Mbappe,0.014900000000000004,0.0345,0.0196
 2022-11-24 13:40:41.452137,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Brazil,0.01469999999999999,0.25,0.2353
 2022-11-24 06:40:36.211094,Tournament Futures - FIFA World Cup 2022 - Tournament Winner and Top Goalscorer Parlay,Spain & Ferran Torres,0.014599999999999998,0.0196,0.005
@@ -162,86 +140,69 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-24 10:40:40.287920,Australian PGA Championship - Australian PGA Championship - Outright,Anthony Quayle,0.0145,0.0244,0.0099
 2022-11-24 08:40:42.966996,Team Futures - Mexico Team Specials - Mexico Top Team Goalscorer,Hector Moreno,0.014199999999999999,0.0294,0.0152
 2022-11-24 07:40:43.845043,Team Futures - France Team Specials - France Exact Group Points,9,0.01419999999999999,0.3846,0.3704
-2022-11-24 06:40:36.211094,Tournament Futures - FIFA World Cup 2022 - Tournament Winner and Top Goalscorer Parlay,France & Kylian Mbappe,0.014100000000000001,0.0526,0.0385
 2022-11-24 08:40:42.957089,Team Futures - Mexico Team Specials - Mexico Stage of Elimination,Semi Final,0.014100000000000001,0.0526,0.0385
+2022-11-24 06:40:36.211094,Tournament Futures - FIFA World Cup 2022 - Tournament Winner and Top Goalscorer Parlay,France & Kylian Mbappe,0.014100000000000001,0.0526,0.0385
 2022-11-24 07:40:43.753997,Team Futures - Denmark Team Specials - Denmark Top Team Goalscorer,Joakim Maehle,0.014099999999999998,0.0385,0.0244
 2022-11-24 06:40:36.726874,Team Futures - Belgium Team Specials - Belgium Exact Group Points,3,0.013999999999999999,0.0909,0.0769
-2022-11-24 05:40:42.580425,Team Futures - Netherlands Team Specials - Netherlands Stage of Elimination,Last 16,0.013800000000000034,0.3774,0.3636
 2022-11-24 07:40:43.735501,Team Futures - Denmark Team Specials - Denmark Stage of Elimination,Group Stage,0.013800000000000034,0.3774,0.3636
+2022-11-24 05:40:42.580425,Team Futures - Netherlands Team Specials - Netherlands Stage of Elimination,Last 16,0.013800000000000034,0.3774,0.3636
 2022-11-24 13:40:40.561619,Boxing Lines - Hamzah Sheeraz vs River Wilson Bent - To Win the Bout,River Wilson Bent,0.012899999999999995,0.1667,0.1538
 2022-11-24 13:40:40.566705,Boxing Lines - Pat McCormack vs Christian Nicolas Andino - To Win the Bout,Christian Nicolas Andino,0.012499999999999997,0.0625,0.05
-2022-11-24 03:40:37.887072,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Bruno Fernandes,0.012100000000000001,0.0244,0.0123
 2022-11-24 08:40:40.425074,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Cleveland Cavaliers,0.01150000000000001,0.3448,0.3333
 2022-11-24 08:40:40.465099,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,New Orleans Pelicans,0.01150000000000001,0.3448,0.3333
 2022-11-24 06:40:36.702417,Team Futures - Australia Team Specials - Australia Top Team Goalscorer,Jackson Irvine,0.011199999999999995,0.0588,0.0476
-2022-11-24 10:40:40.287920,Australian PGA Championship - Australian PGA Championship - Outright,Adrian Meronk,0.011199999999999995,0.0588,0.0476
 2022-11-24 04:40:44.450849,Tournament Futures - FIFA World Cup 2022 - Top Italian Serie A Goalscorer,Angel di Maria,0.011199999999999995,0.0588,0.0476
-2022-11-24 03:40:36.492440,Joburg Open - Joburg Open - Outright,Hennie Du Plessis,0.011199999999999995,0.0588,0.0476
+2022-11-24 10:40:40.287920,Australian PGA Championship - Australian PGA Championship - Outright,Adrian Meronk,0.011199999999999995,0.0588,0.0476
 2022-11-24 06:40:36.170311,Tournament Futures - FIFA World Cup 2022 - Top European Team,Netherlands,0.010899999999999993,0.1538,0.1429
+2022-11-24 15:40:37.012232,NFL Weekly Specials - Thanksgiving Specials - Most Passing Yards,Josh Allen,0.010699999999999987,0.3333,0.3226
 2022-11-24 07:40:43.845043,Team Futures - France Team Specials - France Exact Group Points,6,0.010399999999999993,0.2326,0.2222
+2022-11-24 15:40:37.550132,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Portugal,0.0102,0.0769,0.0667
+2022-11-24 05:40:40.408936,NFL Weekly Specials - Thanksgiving Specials - Touchdown Scorer Parlays,"Dak Prescott, Josh Allen, Daniel Jones & Jared Goff to Combine for 4+ TDs",0.0102,0.0769,0.0667
+2022-11-24 04:40:44.457803,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Raphinha,0.0102,0.0769,0.0667
 2022-11-24 05:40:42.580425,Team Futures - Netherlands Team Specials - Netherlands Stage of Elimination,Winners,0.0102,0.0769,0.0667
 2022-11-24 08:40:42.944111,Team Futures - Japan Team Specials - Japan Top Team Goalscorer,Junya Ito,0.0102,0.0769,0.0667
-2022-11-24 04:40:44.457803,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Raphinha,0.0102,0.0769,0.0667
-2022-11-24 05:40:40.408936,NFL Weekly Specials - Thanksgiving Specials - Touchdown Scorer Parlays,"Dak Prescott, Josh Allen, Daniel Jones & Jared Goff to Combine for 4+ TDs",0.0102,0.0769,0.0667
 2022-11-24 06:40:36.176196,Tournament Futures - FIFA World Cup 2022 - Top North American Team,USA,-0.010099999999999998,0.4444,0.4545
 2022-11-24 08:40:40.465099,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Memphis Grizzlies,-0.010099999999999998,0.4444,0.4545
 2022-11-24 07:40:43.753997,Team Futures - Denmark Team Specials - Denmark Top Team Goalscorer,Andreas Cornelius,-0.0102,0.0667,0.0769
-2022-11-24 06:40:36.667820,Team Futures - Argentina Team Specials - Argentina Top Team Goalscorer,Julian Alvarez,-0.0102,0.0667,0.0769
 2022-11-24 07:40:43.651852,Team Futures - Canada Team Specials - Canada Top Team Goalscorer,Tajon Buchanan,-0.0102,0.0667,0.0769
+2022-11-24 06:40:36.667820,Team Futures - Argentina Team Specials - Argentina Top Team Goalscorer,Julian Alvarez,-0.0102,0.0667,0.0769
 2022-11-24 07:40:43.692666,Team Futures - Costa Rica Team Specials - Costa Rica Top Team Goalscorer,Bryan Ruiz,-0.0102,0.0667,0.0769
-2022-11-24 02:40:38.037428,NFL Weekly Specials - Thanksgiving Specials - Highest Scoring Thanksgiving Team,New York Giants,-0.0102,0.0667,0.0769
 2022-11-24 07:40:43.659929,Team Futures - Canada Team Specials - Canada Exact Group Points,4,-0.010499999999999982,0.2,0.2105
-2022-11-24 02:40:38.088843,NFL Weekly Specials - Thanksgiving Specials - Most Passing Yards,Jared Goff,-0.010499999999999982,0.2,0.2105
-2022-11-24 10:40:40.287920,Australian PGA Championship - Australian PGA Championship - Outright,Travis Smyth,-0.0108,0.0033,0.0141
 2022-11-24 10:40:40.287920,Australian PGA Championship - Australian PGA Championship - Outright,Tom Lewis,-0.0108,0.0033,0.0141
-2022-11-24 07:40:43.702049,Team Futures - Croatia Team Specials - Croatia Stage of Elimination,Quarter Finals,-0.010899999999999993,0.1429,0.1538
+2022-11-24 10:40:40.287920,Australian PGA Championship - Australian PGA Championship - Outright,Travis Smyth,-0.0108,0.0033,0.0141
 2022-11-24 07:40:43.651852,Team Futures - Canada Team Specials - Canada Top Team Goalscorer,Alphonso Davies,-0.010899999999999993,0.1429,0.1538
+2022-11-24 07:40:43.702049,Team Futures - Croatia Team Specials - Croatia Stage of Elimination,Quarter Finals,-0.010899999999999993,0.1429,0.1538
 2022-11-24 06:40:35.373287,NFL Weekly Specials - Thanksgiving Specials - Highest Scoring Thanksgiving Team,Detroit Lions,-0.011099999999999999,0.1,0.1111
-2022-11-24 07:40:43.845043,Team Futures - France Team Specials - France Exact Group Points,4,-0.011099999999999999,0.1,0.1111
 2022-11-24 07:40:43.659929,Team Futures - Canada Team Specials - Canada Exact Group Points,2,-0.011099999999999999,0.1,0.1111
-2022-11-24 03:40:37.902930,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Nicklas Fullkrug,-0.011199999999999995,0.0476,0.0588
-2022-11-24 04:40:44.450849,Tournament Futures - FIFA World Cup 2022 - Top Italian Serie A Goalscorer,Luka Jovic,-0.011199999999999995,0.0476,0.0588
-2022-11-24 07:40:43.692666,Team Futures - Costa Rica Team Specials - Costa Rica Top Team Goalscorer,Gerson Torres,-0.011199999999999995,0.0476,0.0588
-2022-11-24 07:40:43.735501,Team Futures - Denmark Team Specials - Denmark Stage of Elimination,Runner-up,-0.011199999999999995,0.0476,0.0588
+2022-11-24 07:40:43.845043,Team Futures - France Team Specials - France Exact Group Points,4,-0.011099999999999999,0.1,0.1111
 2022-11-24 07:40:43.692666,Team Futures - Costa Rica Team Specials - Costa Rica Top Team Goalscorer,Jewison Bennette,-0.011199999999999995,0.0476,0.0588
+2022-11-24 07:40:43.735501,Team Futures - Denmark Team Specials - Denmark Stage of Elimination,Runner-up,-0.011199999999999995,0.0476,0.0588
+2022-11-24 07:40:43.692666,Team Futures - Costa Rica Team Specials - Costa Rica Top Team Goalscorer,Gerson Torres,-0.011199999999999995,0.0476,0.0588
+2022-11-24 04:40:44.450849,Tournament Futures - FIFA World Cup 2022 - Top Italian Serie A Goalscorer,Luka Jovic,-0.011199999999999995,0.0476,0.0588
 2022-11-24 07:40:43.720532,Team Futures - Croatia Team Specials - Croatia Top Team Goalscorer,Josip Juranovic,-0.0112,0.004,0.0152
-2022-11-24 07:40:43.817658,Team Futures - England Team Specials - England Exact Group Points,6,-0.011700000000000016,0.2105,0.2222
 2022-11-24 06:40:35.373287,NFL Weekly Specials - Thanksgiving Specials - Highest Scoring Thanksgiving Team,Dallas Cowboys,-0.011700000000000016,0.2105,0.2222
+2022-11-24 07:40:43.817658,Team Futures - England Team Specials - England Exact Group Points,6,-0.011700000000000016,0.2105,0.2222
 2022-11-24 05:40:42.601796,Team Futures - Netherlands Team Specials - Netherlands Exact Group Points,6,-0.011700000000000016,0.2105,0.2222
-2022-11-24 06:40:36.685297,Team Futures - Australia Team Specials - Australia Stage of Elimination,Semi Finals,-0.012100000000000001,0.0123,0.0244
-2022-11-24 02:40:38.232045,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Brazil & Denmark,-0.012100000000000001,0.0123,0.0244
 2022-11-24 06:40:36.211094,Tournament Futures - FIFA World Cup 2022 - Tournament Winner and Top Goalscorer Parlay,Brazil & Harry Kane,-0.012100000000000001,0.0123,0.0244
-2022-11-24 02:40:38.210336,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Neymar Junior,-0.012299999999999991,0.1053,0.1176
+2022-11-24 06:40:36.685297,Team Futures - Australia Team Specials - Australia Stage of Elimination,Semi Finals,-0.012100000000000001,0.0123,0.0244
 2022-11-24 05:40:40.648935,Boxing Lines - Pierce O'Leary vs Emmanuel Mungandjela - To Win the Bout,Emmanuel Mungandjela,-0.012600000000000007,0.0588,0.0714
-2022-11-24 07:40:43.692666,Team Futures - Costa Rica Team Specials - Costa Rica Top Team Goalscorer,Anthony Contreras,-0.012899999999999995,0.1538,0.1667
 2022-11-24 07:40:43.710714,Team Futures - Croatia Team Specials - Croatia Team Exact Group Points,7 Points,-0.012899999999999995,0.1538,0.1667
-2022-11-24 03:40:37.887072,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Antione Griezmann,-0.012899999999999998,0.0149,0.0278
+2022-11-24 07:40:43.692666,Team Futures - Costa Rica Team Specials - Costa Rica Top Team Goalscorer,Anthony Contreras,-0.012899999999999995,0.1538,0.1667
 2022-11-24 09:40:40.106931,Team Futures - Morocco Team Specials - Morocco Top Team Goalscorer,Noussair Mazraoui,-0.012899999999999998,0.0149,0.0278
 2022-11-24 07:40:43.862151,Team Futures - Germany Team Specials - Germany Top Team Goalscorer,Matthias Ginter,-0.013,0.0066,0.0196
 2022-11-24 07:40:43.836510,Team Futures - France Team Specials - France Top Team Goalscorer,matteo Guendouzi,-0.013,0.0066,0.0196
-2022-11-24 07:40:43.845043,Team Futures - France Team Specials - France Exact Group Points,3,-0.0131,0.0345,0.0476
 2022-11-24 07:40:43.720532,Team Futures - Croatia Team Specials - Croatia Top Team Goalscorer,Andrej Kramaric,-0.0131,0.2222,0.2353
-2022-11-24 02:40:38.088843,NFL Weekly Specials - Thanksgiving Specials - Most Passing Yards,Kirk Cousins,-0.0131,0.2222,0.2353
+2022-11-24 07:40:43.845043,Team Futures - France Team Specials - France Exact Group Points,3,-0.0131,0.0345,0.0476
 2022-11-24 04:40:45.124499,Team Futures - Iran Team Specials - Iran Top Team Goalscorer,Abolfazl Jalali,-0.0132,0.002,0.0152
-2022-11-24 02:40:38.046349,NFL Weekly Specials - Thanksgiving Specials - Lowest Scoring Thanksgiving Game,New York Giants @ Dallas Cowboys,-0.013300000000000034,0.3571,0.3704
-2022-11-24 02:40:38.037428,NFL Weekly Specials - Thanksgiving Specials - Highest Scoring Thanksgiving Team,Detroit Lions,-0.013899999999999996,0.1111,0.125
 2022-11-24 06:40:36.702417,Team Futures - Australia Team Specials - Australia Top Team Goalscorer,Ajdin Hrustic,-0.014099999999999994,0.0526,0.0667
-2022-11-24 03:40:37.902930,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Dani Olmo,-0.014099999999999998,0.0294,0.0435
 2022-11-24 07:40:43.862151,Team Futures - Germany Team Specials - Germany Top Team Goalscorer,Julian Brandt,-0.014099999999999998,0.0244,0.0385
 2022-11-24 04:40:44.450849,Tournament Futures - FIFA World Cup 2022 - Top Italian Serie A Goalscorer,Krzysztof Piatek,-0.014099999999999998,0.0244,0.0385
-2022-11-24 02:40:38.232045,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Brazil & Portugal,-0.014100000000000001,0.0385,0.0526
 2022-11-24 09:40:40.106931,Team Futures - Morocco Team Specials - Morocco Top Team Goalscorer,Abdelhamid Sabiri,-0.014100000000000001,0.0385,0.0526
 2022-11-24 07:40:43.836510,Team Futures - France Team Specials - France Top Team Goalscorer,Aurelien Tchouameni,-0.014499999999999999,0.0149,0.0294
-2022-11-24 03:40:37.887072,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Romelu Lukaku,-0.014499999999999999,0.0149,0.0294
-2022-11-24 02:40:38.317420,Tournament Futures - FIFA World Cup 2022 - Young Player Award Winner,William Saliba,-0.014499999999999999,0.0149,0.0294
-2022-11-24 02:40:38.232045,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Argentina & Belgium,-0.014499999999999999,0.0149,0.0294
-2022-11-24 08:40:42.944111,Team Futures - Japan Team Specials - Japan Top Team Goalscorer,Hidemasa Morita,-0.0145,0.0099,0.0244
 2022-11-24 06:40:36.211094,Tournament Futures - FIFA World Cup 2022 - Tournament Winner and Top Goalscorer Parlay,Argentina & Lautaro Martinez,-0.0145,0.0099,0.0244
+2022-11-24 08:40:42.944111,Team Futures - Japan Team Specials - Japan Top Team Goalscorer,Hidemasa Morita,-0.0145,0.0099,0.0244
 2022-11-24 06:40:36.211094,Tournament Futures - FIFA World Cup 2022 - Tournament Winner and Top Goalscorer Parlay,Argentina & Harry Kane,-0.014599999999999998,0.005,0.0196
-2022-11-24 02:40:38.317420,Tournament Futures - FIFA World Cup 2022 - Young Player Award Winner,Jude Bellingham,-0.01469999999999999,0.2353,0.25
 2022-11-24 07:40:43.651852,Team Futures - Canada Team Specials - Canada Top Team Goalscorer,Jonathan Osorio,-0.014899999999999997,0.0476,0.0625
-2022-11-24 03:40:37.902930,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Jonas Wind,-0.014900000000000004,0.0196,0.0345
-2022-11-24 02:40:38.317420,Tournament Futures - FIFA World Cup 2022 - Young Player Award Winner,Yeremi Pino,-0.014900000000000004,0.0196,0.0345
 2022-11-24 07:40:43.862151,Team Futures - Germany Team Specials - Germany Top Team Goalscorer,Kai Havertz,-0.015100000000000002,0.1667,0.1818
 2022-11-24 06:40:35.379264,NFL Weekly Specials - Thanksgiving Specials - Lowest Scoring Thanksgiving Game,Buffalo Bills @ Detroit Lions,-0.015100000000000002,0.1667,0.1818
 2022-11-24 09:40:40.106931,Team Futures - Morocco Team Specials - Morocco Top Team Goalscorer,Yahya Jabrane,-0.015499999999999998,0.0123,0.0278
@@ -251,36 +212,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-24 08:40:42.966996,Team Futures - Mexico Team Specials - Mexico Top Team Goalscorer,Hector Herrera,-0.016600000000000004,0.0667,0.0833
 2022-11-24 07:40:43.651852,Team Futures - Canada Team Specials - Canada Top Team Goalscorer,Lucas Cavallini,-0.016600000000000004,0.0667,0.0833
 2022-11-24 08:40:40.425074,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Milwaukee Bucks,-0.016700000000000048,0.7333,0.75
-2022-11-24 02:40:38.232045,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Argentina & Germany,-0.017099999999999997,0.0123,0.0294
-2022-11-24 02:40:38.317420,Tournament Futures - FIFA World Cup 2022 - Young Player Award Winner,Karim Adeyemi,-0.017099999999999997,0.0123,0.0294
-2022-11-24 02:40:38.317420,Tournament Futures - FIFA World Cup 2022 - Young Player Award Winner,Giovanni Reyna,-0.017099999999999997,0.0123,0.0294
 2022-11-24 04:40:45.124499,Team Futures - Iran Team Specials - Iran Top Team Goalscorer,Ramin Rezaeian,-0.0171,0.0025,0.0196
 2022-11-24 04:40:45.149435,Team Futures - Poland Team Specials - Poland Top Team Goalscorer,Sebastian Szymanski,-0.017400000000000002,0.0149,0.0323
-2022-11-24 04:40:45.124499,Team Futures - Iran Team Specials - Iran Top Team Goalscorer,Majid Hosseini,-0.0179,0.0099,0.0278
-2022-11-24 04:40:45.124499,Team Futures - Iran Team Specials - Iran Top Team Goalscorer,Vahid Amiri,-0.0179,0.0099,0.0278
 2022-11-24 04:40:44.450849,Tournament Futures - FIFA World Cup 2022 - Top Italian Serie A Goalscorer,Lautaro Martinez,-0.0179,0.125,0.1429
-2022-11-24 02:40:38.210336,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Kylian Mbappe,-0.0179,0.125,0.1429
-2022-11-24 03:40:37.902930,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Andre Silva,-0.0179,0.125,0.1429
+2022-11-24 04:40:45.124499,Team Futures - Iran Team Specials - Iran Top Team Goalscorer,Vahid Amiri,-0.0179,0.0099,0.0278
+2022-11-24 04:40:45.124499,Team Futures - Iran Team Specials - Iran Top Team Goalscorer,Majid Hosseini,-0.0179,0.0099,0.0278
 2022-11-24 06:40:36.718948,Team Futures - Belgium Team Specials - Belgium Top Team Goalscorer,Leandro Trossard,-0.018099999999999998,0.0588,0.0769
-2022-11-24 04:40:44.457803,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Rodrygo,-0.018200000000000004,0.0294,0.0476
-2022-11-24 04:40:44.457803,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Joao Felix,-0.018200000000000004,0.0294,0.0476
-2022-11-24 07:40:43.862151,Team Futures - Germany Team Specials - Germany Top Team Goalscorer,Jonas Hofmann,-0.018200000000000004,0.0294,0.0476
 2022-11-24 06:40:36.667820,Team Futures - Argentina Team Specials - Argentina Top Team Goalscorer,Paulo Dybala,-0.018200000000000004,0.0294,0.0476
 2022-11-24 04:40:44.457803,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Eden Hazard,-0.018200000000000004,0.0294,0.0476
+2022-11-24 04:40:44.457803,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Rodrygo,-0.018200000000000004,0.0294,0.0476
+2022-11-24 07:40:43.862151,Team Futures - Germany Team Specials - Germany Top Team Goalscorer,Jonas Hofmann,-0.018200000000000004,0.0294,0.0476
+2022-11-24 04:40:44.457803,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Joao Felix,-0.018200000000000004,0.0294,0.0476
 2022-11-24 07:40:43.801698,Team Futures - England Team Specials - England Stage of Elimination,Semi Final,-0.01820000000000002,0.1818,0.2
-2022-11-24 08:40:42.944111,Team Futures - Japan Team Specials - Japan Top Team Goalscorer,Yuki Soma,-0.0189,0.0196,0.0385
-2022-11-24 04:40:45.124499,Team Futures - Iran Team Specials - Iran Top Team Goalscorer,Saeid Ezatolahi,-0.0189,0.0196,0.0385
 2022-11-24 07:40:43.672463,Team Futures - Costa Rica Team Specials - Costa Rica Stage of Elimination,Quarter Finals,-0.0189,0.0196,0.0385
 2022-11-24 06:40:36.211094,Tournament Futures - FIFA World Cup 2022 - Tournament Winner and Top Goalscorer Parlay,England & Harry Kane,-0.0189,0.0196,0.0385
-2022-11-24 02:40:38.232045,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Brazil & Germany,-0.0189,0.0196,0.0385
-2022-11-24 02:40:38.232045,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Argentina & Brazil,-0.0189,0.0196,0.0385
+2022-11-24 04:40:45.124499,Team Futures - Iran Team Specials - Iran Top Team Goalscorer,Saeid Ezatolahi,-0.0189,0.0196,0.0385
+2022-11-24 08:40:42.944111,Team Futures - Japan Team Specials - Japan Top Team Goalscorer,Yuki Soma,-0.0189,0.0196,0.0385
+2022-11-24 05:40:41.949021,Tournament Futures - FIFA World Cup 2022 - Lowest Scoring Team,Australia,-0.019099999999999992,0.0476,0.0667
 2022-11-24 09:40:40.106931,Team Futures - Morocco Team Specials - Morocco Top Team Goalscorer,Zakaria Aboukhlal,-0.019099999999999992,0.0476,0.0667
 2022-11-24 10:40:40.287920,Australian PGA Championship - Australian PGA Championship - Outright,Rasmus Hojgaard,-0.019099999999999992,0.0476,0.0667
-2022-11-24 03:40:37.887072,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Lautaro Martinez,-0.019099999999999992,0.0476,0.0667
-2022-11-24 05:40:41.949021,Tournament Futures - FIFA World Cup 2022 - Lowest Scoring Team,Australia,-0.019099999999999992,0.0476,0.0667
 2022-11-24 04:40:45.124499,Team Futures - Iran Team Specials - Iran Top Team Goalscorer,Shoja Khalilzadeh,-0.0194,0.005,0.0244
 2022-11-24 07:40:43.836510,Team Futures - France Team Specials - France Top Team Goalscorer,Eduardo Camavinga,-0.019499999999999997,0.0099,0.0294
-2022-11-24 02:40:38.232045,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Argentina & Portugal,-0.019600000000000003,0.0149,0.0345
 2022-11-24 05:40:42.619567,Team Futures - Poland Team Specials - Poland Exact Group Points,7 Points,-0.019699999999999995,0.1053,0.125
 2022-11-24 08:40:42.944111,Team Futures - Japan Team Specials - Japan Top Team Goalscorer,Daizen Maeda,-0.02020000000000001,0.0909,0.1111
 2022-11-24 04:40:44.457803,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Robert Lewandowski,-0.02020000000000001,0.0909,0.1111
@@ -293,57 +245,48 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-24 06:40:36.170311,Tournament Futures - FIFA World Cup 2022 - Top European Team,England,-0.022199999999999998,0.2,0.2222
 2022-11-24 04:40:44.457803,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Antoine Griezmann,-0.02310000000000001,0.0769,0.1
 2022-11-24 13:40:40.561619,Boxing Lines - Hamzah Sheeraz vs River Wilson Bent - To Win the Bout,Hamzah Sheeraz,-0.02310000000000001,0.9,0.9231
-2022-11-24 06:40:36.667820,Team Futures - Argentina Team Specials - Argentina Top Team Goalscorer,Alejandro Gomez,-0.023200000000000002,0.0244,0.0476
-2022-11-24 04:40:45.124499,Team Futures - Iran Team Specials - Iran Top Team Goalscorer,Saman Ghoddos,-0.023200000000000002,0.0244,0.0476
 2022-11-24 09:40:40.106931,Team Futures - Morocco Team Specials - Morocco Top Team Goalscorer,Ilias Chair,-0.023200000000000002,0.0294,0.0526
-2022-11-24 04:40:45.124499,Team Futures - Iran Team Specials - Iran Top Team Goalscorer,Mehdi Torabi,-0.0236,0.0149,0.0385
+2022-11-24 04:40:45.124499,Team Futures - Iran Team Specials - Iran Top Team Goalscorer,Saman Ghoddos,-0.023200000000000002,0.0244,0.0476
+2022-11-24 06:40:36.667820,Team Futures - Argentina Team Specials - Argentina Top Team Goalscorer,Alejandro Gomez,-0.023200000000000002,0.0244,0.0476
 2022-11-24 04:40:45.124499,Team Futures - Iran Team Specials - Iran Top Team Goalscorer,Ehsan Hajsafi,-0.0236,0.0149,0.0385
-2022-11-24 02:40:38.317420,Tournament Futures - FIFA World Cup 2022 - Young Player Award Winner,Eduardo Camavinga,-0.0236,0.0149,0.0385
-2022-11-24 06:40:35.379264,NFL Weekly Specials - Thanksgiving Specials - Lowest Scoring Thanksgiving Game,New York Giants @ Dallas Cowboys,-0.023799999999999988,0.3333,0.3571
+2022-11-24 04:40:45.124499,Team Futures - Iran Team Specials - Iran Top Team Goalscorer,Mehdi Torabi,-0.0236,0.0149,0.0385
 2022-11-24 07:40:43.651852,Team Futures - Canada Team Specials - Canada Top Team Goalscorer,Cyle Larin,-0.023799999999999988,0.1429,0.1667
-2022-11-24 02:40:38.210336,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Kevin De Bruyne,-0.0238,0.0476,0.0714
+2022-11-24 06:40:35.379264,NFL Weekly Specials - Thanksgiving Specials - Lowest Scoring Thanksgiving Game,New York Giants @ Dallas Cowboys,-0.023799999999999988,0.3333,0.3571
 2022-11-24 07:40:43.720532,Team Futures - Croatia Team Specials - Croatia Top Team Goalscorer,Bruno Petkovic,-0.024,0.0385,0.0625
 2022-11-24 04:40:44.450849,Tournament Futures - FIFA World Cup 2022 - Top Italian Serie A Goalscorer,Rafael Leao,-0.0242,0.0667,0.0909
 2022-11-24 06:40:36.702417,Team Futures - Australia Team Specials - Australia Top Team Goalscorer,Aaron Mooy,-0.024299999999999995,0.0526,0.0769
 2022-11-24 06:40:36.702417,Team Futures - Australia Team Specials - Australia Top Team Goalscorer,Harry Souttar,-0.024299999999999995,0.0526,0.0769
 2022-11-24 07:40:43.651852,Team Futures - Canada Team Specials - Canada Top Team Goalscorer,Junior Hoilett,-0.0245,0.0588,0.0833
-2022-11-24 03:40:37.894565,Tournament Futures - FIFA World Cup 2022 - Top French Ligue 1 Goalscorer,Adam Buksa,-0.024600000000000004,0.0099,0.0345
 2022-11-24 08:40:42.966996,Team Futures - Mexico Team Specials - Mexico Top Team Goalscorer,Rogelio Funes Mori,-0.024999999999999994,0.1,0.125
 2022-11-24 07:40:43.924374,Team Futures - Iran Team Specials - Iran Exact Group Points,2 Points,-0.024999999999999994,0.1,0.125
 2022-11-24 04:40:44.457803,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Youssef En-Nesyri,-0.0262,0.0123,0.0385
 2022-11-24 04:40:45.149435,Team Futures - Poland Team Specials - Poland Top Team Goalscorer,Robert Lewandowski,-0.026499999999999968,0.6226,0.6491
 2022-11-24 10:40:40.287920,Australian PGA Championship - Australian PGA Championship - Outright,Takumi Kanaya,-0.0274,0.002,0.0294
-2022-11-24 02:40:38.037428,NFL Weekly Specials - Thanksgiving Specials - Highest Scoring Thanksgiving Team,Dallas Cowboys,-0.02779999999999999,0.2222,0.25
 2022-11-24 06:40:36.718948,Team Futures - Belgium Team Specials - Belgium Top Team Goalscorer,Kevin De Bruyne,-0.02779999999999999,0.2222,0.25
 2022-11-24 06:40:36.176196,Tournament Futures - FIFA World Cup 2022 - Top North American Team,Costa Rica,-0.027800000000000005,0.0833,0.1111
 2022-11-24 07:40:43.644612,Team Futures - Canada Team Specials - Canada Stage of Elimination,Group Stage,-0.027800000000000047,0.75,0.7778
 2022-11-24 08:40:42.966996,Team Futures - Mexico Team Specials - Mexico Top Team Goalscorer,Henry Martin,-0.027999999999999997,0.1538,0.1818
-2022-11-24 04:40:45.124499,Team Futures - Iran Team Specials - Iran Top Team Goalscorer,Ahmad Noorollahi,-0.028199999999999996,0.0385,0.0667
-2022-11-24 02:40:38.210336,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Harry Kane,-0.028199999999999996,0.0385,0.0667
 2022-11-24 06:40:36.685297,Team Futures - Australia Team Specials - Australia Stage of Elimination,Quarter Finals,-0.028199999999999996,0.0385,0.0667
+2022-11-24 04:40:45.124499,Team Futures - Iran Team Specials - Iran Top Team Goalscorer,Ahmad Noorollahi,-0.028199999999999996,0.0385,0.0667
 2022-11-24 05:40:41.949021,Tournament Futures - FIFA World Cup 2022 - Lowest Scoring Team,Japan,-0.0282,0.0244,0.0526
-2022-11-24 02:40:38.028366,NFL Weekly Specials - Thanksgiving Specials - Highest Scoring Thanksgiving Game,New England Patriots @ Minnesota Vikings,-0.028700000000000003,0.1818,0.2105
 2022-11-24 09:40:40.106931,Team Futures - Morocco Team Specials - Morocco Top Team Goalscorer,Hakim Ziyech,-0.028700000000000003,0.1818,0.2105
 2022-11-24 07:40:43.862151,Team Futures - Germany Team Specials - Germany Top Team Goalscorer,Serge Gnabry,-0.028799999999999992,0.125,0.1538
-2022-11-24 07:40:43.854740,Team Futures - Germany Team Specials - Germany Stage of Elimination,Winners,-0.029299999999999993,0.0476,0.0769
 2022-11-24 07:40:43.862151,Team Futures - Germany Team Specials - Germany Top Team Goalscorer,Niclas Füllkrug,-0.029299999999999993,0.0476,0.0769
 2022-11-24 08:40:42.944111,Team Futures - Japan Team Specials - Japan Top Team Goalscorer,Kaoru Mitoma,-0.029299999999999993,0.0476,0.0769
+2022-11-24 07:40:43.854740,Team Futures - Germany Team Specials - Germany Stage of Elimination,Winners,-0.029299999999999993,0.0476,0.0769
 2022-11-24 04:40:45.124499,Team Futures - Iran Team Specials - Iran Top Team Goalscorer,Ali Gholizadeh,-0.0294,0.0294,0.0588
-2022-11-24 02:40:38.232045,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Argentina & France,-0.0294,0.0294,0.0588
-2022-11-24 02:40:38.232045,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Brazil & England,-0.030699999999999998,0.0526,0.0833
 2022-11-24 07:40:43.692666,Team Futures - Costa Rica Team Specials - Costa Rica Top Team Goalscorer,Johan Venegas,-0.031799999999999995,0.1111,0.1429
 2022-11-24 06:40:36.702417,Team Futures - Australia Team Specials - Australia Top Team Goalscorer,Mitchell Duke,-0.0321,0.0588,0.0909
 2022-11-24 07:40:43.924374,Team Futures - Iran Team Specials - Iran Exact Group Points,6 Points,-0.0321,0.0588,0.0909
 2022-11-24 06:40:36.718948,Team Futures - Belgium Team Specials - Belgium Top Team Goalscorer,Dries Mertens,-0.03330000000000001,0.0667,0.1
+2022-11-24 08:40:42.966996,Team Futures - Mexico Team Specials - Mexico Top Team Goalscorer,Raul Jimenez,-0.033300000000000024,0.1667,0.2
 2022-11-24 08:40:40.434234,2022/23 Divisions - 2022-2023 NBA Northwest Division - Division Winner,Portland Trail Blazers,-0.033300000000000024,0.1667,0.2
 2022-11-24 07:40:43.692666,Team Futures - Costa Rica Team Specials - Costa Rica Top Team Goalscorer,Joel Campbell,-0.033300000000000024,0.1667,0.2
-2022-11-24 08:40:42.966996,Team Futures - Mexico Team Specials - Mexico Top Team Goalscorer,Raul Jimenez,-0.033300000000000024,0.1667,0.2
 2022-11-24 06:40:36.667820,Team Futures - Argentina Team Specials - Argentina Top Team Goalscorer,Lautaro Martinez,-0.03409999999999999,0.2326,0.2667
 2022-11-24 06:40:36.726874,Team Futures - Belgium Team Specials - Belgium Exact Group Points,5,-0.034100000000000005,0.0909,0.125
 2022-11-24 04:40:44.450849,Tournament Futures - FIFA World Cup 2022 - Top Italian Serie A Goalscorer,Dusan Vlahovic,-0.034100000000000005,0.0909,0.125
-2022-11-24 06:40:36.702417,Team Futures - Australia Team Specials - Australia Top Team Goalscorer,Mathew Leckie,-0.03420000000000001,0.0769,0.1111
 2022-11-24 07:40:43.845043,Team Futures - France Team Specials - France Exact Group Points,5,-0.03420000000000001,0.0769,0.1111
-2022-11-24 02:40:38.232045,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Argentina & England,-0.0344,0.0244,0.0588
+2022-11-24 06:40:36.702417,Team Futures - Australia Team Specials - Australia Top Team Goalscorer,Mathew Leckie,-0.03420000000000001,0.0769,0.1111
 2022-11-24 06:40:36.693168,Team Futures - Australia Team Specials - Australia Exact Group Points,3 Points,-0.03570000000000001,0.25,0.2857
 2022-11-24 07:40:43.817658,Team Futures - England Team Specials - England Exact Group Points,3,-0.0373,0.0294,0.0667
 2022-11-24 10:40:40.287920,Australian PGA Championship - Australian PGA Championship - Outright,Cameron Smith,-0.038099999999999995,0.2,0.2381
@@ -351,40 +294,36 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-24 07:40:43.753997,Team Futures - Denmark Team Specials - Denmark Top Team Goalscorer,Kasper Dolberg,-0.04169999999999999,0.125,0.1667
 2022-11-24 07:40:43.753997,Team Futures - Denmark Team Specials - Denmark Top Team Goalscorer,Jonas Wind,-0.04169999999999999,0.125,0.1667
 2022-11-24 07:40:43.836510,Team Futures - France Team Specials - France Top Team Goalscorer,Kingsley Coman,-0.04229999999999999,0.0244,0.0667
-2022-11-24 02:40:38.210336,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Lionel Messi,-0.042899999999999994,0.1,0.1429
-2022-11-24 04:40:45.124499,Team Futures - Iran Team Specials - Iran Top Team Goalscorer,Karim Ansarifard,-0.04329999999999999,0.0476,0.0909
-2022-11-24 03:40:37.902930,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Karim Adeyemi,-0.04329999999999999,0.0476,0.0909
-2022-11-24 10:40:40.287920,Australian PGA Championship - Australian PGA Championship - Outright,Cameron Davis,-0.04329999999999999,0.0476,0.0909
 2022-11-24 07:40:43.836510,Team Futures - France Team Specials - France Top Team Goalscorer,Ousmane Dembele,-0.04329999999999999,0.0476,0.0909
+2022-11-24 10:40:40.287920,Australian PGA Championship - Australian PGA Championship - Outright,Cameron Davis,-0.04329999999999999,0.0476,0.0909
+2022-11-24 04:40:45.124499,Team Futures - Iran Team Specials - Iran Top Team Goalscorer,Karim Ansarifard,-0.04329999999999999,0.0476,0.0909
 2022-11-24 05:40:42.601796,Team Futures - Netherlands Team Specials - Netherlands Exact Group Points,3,-0.043899999999999995,0.0149,0.0588
 2022-11-24 06:40:36.702417,Team Futures - Australia Team Specials - Australia Top Team Goalscorer,Jason Cummings,-0.04440000000000001,0.0667,0.1111
-2022-11-24 03:40:37.902930,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Leroy Sane,-0.04440000000000001,0.0667,0.1111
 2022-11-24 06:40:36.726874,Team Futures - Belgium Team Specials - Belgium Exact Group Points,7,-0.04580000000000001,0.2667,0.3125
 2022-11-24 07:40:43.854740,Team Futures - Germany Team Specials - Germany Stage of Elimination,Runner-up,-0.047400000000000005,0.0526,0.1
 2022-11-24 07:40:43.702049,Team Futures - Croatia Team Specials - Croatia Stage of Elimination,Last 16,-0.048099999999999976,0.3774,0.4255
 2022-11-24 04:40:45.136965,Team Futures - Poland Team Specials - Poland Stage of Elimination,Last 16,-0.04910000000000003,0.3509,0.4
 2022-11-24 07:40:43.817658,Team Futures - England Team Specials - England Exact Group Points,5,-0.0509,0.0667,0.1176
 2022-11-24 07:40:43.809129,Team Futures - England Team Specials - England Top Team Goalscorer,Mason Mount,-0.0518,0.0149,0.0667
-2022-11-24 06:40:36.702417,Team Futures - Australia Team Specials - Australia Top Team Goalscorer,Jamie Maclaren,-0.052000000000000005,0.0909,0.1429
-2022-11-24 04:40:45.149435,Team Futures - Poland Team Specials - Poland Top Team Goalscorer,Karol Swiderski,-0.052000000000000005,0.0909,0.1429
 2022-11-24 07:40:43.745124,Team Futures - Denmark Team Specials - Denmark Exact Group Points,3 Points,-0.052000000000000005,0.0909,0.1429
+2022-11-24 04:40:45.149435,Team Futures - Poland Team Specials - Poland Top Team Goalscorer,Karol Swiderski,-0.052000000000000005,0.0909,0.1429
+2022-11-24 06:40:36.702417,Team Futures - Australia Team Specials - Australia Top Team Goalscorer,Jamie Maclaren,-0.052000000000000005,0.0909,0.1429
 2022-11-24 08:40:42.944111,Team Futures - Japan Team Specials - Japan Top Team Goalscorer,Ayase Ueda,-0.052300000000000006,0.0588,0.1111
 2022-11-24 04:40:45.124499,Team Futures - Iran Team Specials - Iran Top Team Goalscorer,Alireza Jahanbakhsh,-0.0524,0.0476,0.1
 2022-11-24 06:40:36.726874,Team Futures - Belgium Team Specials - Belgium Exact Group Points,9,-0.05310000000000001,0.2326,0.2857
 2022-11-24 10:40:40.287920,Australian PGA Championship - Australian PGA Championship - Outright,Ryan Fox,-0.0544,0.0123,0.0667
-2022-11-24 06:40:36.659920,Team Futures - Argentina Team Specials - Argentina Stage of Elimination,Winners,-0.05559999999999998,0.1111,0.1667
 2022-11-24 04:40:44.457803,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Memphis Depay,-0.05559999999999998,0.1111,0.1667
+2022-11-24 06:40:36.659920,Team Futures - Argentina Team Specials - Argentina Stage of Elimination,Winners,-0.05559999999999998,0.1111,0.1667
 2022-11-24 07:40:43.659929,Team Futures - Canada Team Specials - Canada Exact Group Points,0,-0.05630000000000002,0.1818,0.2381
 2022-11-24 10:40:40.287920,Australian PGA Championship - Australian PGA Championship - Outright,Lucas Herbert,-0.056799999999999996,0.0099,0.0667
 2022-11-24 07:40:43.809129,Team Futures - England Team Specials - England Top Team Goalscorer,Phil Foden,-0.0615,0.0294,0.0909
 2022-11-24 09:40:40.098223,Team Futures - Morocco Team Specials - Morocco Stage of Elimination,Last 16,-0.0625,0.25,0.3125
 2022-11-24 07:40:43.672463,Team Futures - Costa Rica Team Specials - Costa Rica Stage of Elimination,Last 16,-0.065,0.0526,0.1176
-2022-11-24 04:40:44.450849,Tournament Futures - FIFA World Cup 2022 - Top Italian Serie A Goalscorer,Paulo Dybala,-0.06620000000000001,0.0588,0.125
 2022-11-24 07:40:43.862151,Team Futures - Germany Team Specials - Germany Top Team Goalscorer,Karim Adeyemi,-0.06620000000000001,0.0588,0.125
+2022-11-24 04:40:44.450849,Tournament Futures - FIFA World Cup 2022 - Top Italian Serie A Goalscorer,Paulo Dybala,-0.06620000000000001,0.0588,0.125
 2022-11-24 07:40:43.924374,Team Futures - Iran Team Specials - Iran Exact Group Points,4 Points,-0.0676,0.1429,0.2105
 2022-11-24 05:40:42.601796,Team Futures - Netherlands Team Specials - Netherlands Exact Group Points,5,-0.06760000000000001,0.0435,0.1111
 2022-11-24 06:40:36.659920,Team Futures - Argentina Team Specials - Argentina Stage of Elimination,Semi Final,-0.06860000000000002,0.1667,0.2353
-2022-11-24 02:40:38.317420,Tournament Futures - FIFA World Cup 2022 - Young Player Award Winner,Jamal Musiala,-0.0705,0.0833,0.1538
 2022-11-24 07:40:43.683175,Team Futures - Costa Rica Team Specials - Costa Rica Team Exact Group Points,2 Points,-0.07060000000000001,0.0294,0.1
 2022-11-24 04:40:44.457803,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Vinicius Junior,-0.07069999999999999,0.1111,0.1818
 2022-11-24 06:40:36.693168,Team Futures - Australia Team Specials - Australia Exact Group Points,6 Points,-0.0741,0.0435,0.1176
@@ -406,17 +345,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-24 05:40:42.601796,Team Futures - Netherlands Team Specials - Netherlands Exact Group Points,4,-0.0994,0.0435,0.1429
 2022-11-24 05:40:41.949021,Tournament Futures - FIFA World Cup 2022 - Lowest Scoring Team,Saudi Arabia,-0.1006,0.0244,0.125
 2022-11-24 06:40:36.693168,Team Futures - Australia Team Specials - Australia Exact Group Points,4 Points,-0.10460000000000001,0.1176,0.2222
-2022-11-24 08:40:42.944111,Team Futures - Japan Team Specials - Japan Top Team Goalscorer,Daichi Kamada,-0.1111,0.1111,0.2222
 2022-11-24 06:40:36.685297,Team Futures - Australia Team Specials - Australia Stage of Elimination,Last 16,-0.1111,0.1111,0.2222
+2022-11-24 08:40:42.944111,Team Futures - Japan Team Specials - Japan Top Team Goalscorer,Daichi Kamada,-0.1111,0.1111,0.2222
 2022-11-24 07:40:43.836510,Team Futures - France Team Specials - France Top Team Goalscorer,Kylian Mbappe,-0.11259999999999992,0.5238,0.6364
 2022-11-24 05:40:42.619567,Team Futures - Poland Team Specials - Poland Exact Group Points,3 Points,-0.11670000000000001,0.0833,0.2
 2022-11-24 06:40:36.659920,Team Futures - Argentina Team Specials - Argentina Stage of Elimination,Quarter Final,-0.12589999999999998,0.1818,0.3077
 2022-11-24 07:40:43.827237,Team Futures - France Team Specials - France Stage of Elimination,Group Stage,-0.13419999999999999,0.0476,0.1818
 2022-11-24 08:40:42.977119,Team Futures - Mexico Team Specials - Mexico Exact Group Points,3,-0.13890000000000002,0.0833,0.2222
 2022-11-24 04:40:45.124499,Team Futures - Iran Team Specials - Iran Top Team Goalscorer,Sardar Azmoun,-0.14120000000000002,0.0588,0.2
+2022-11-24 06:40:36.718948,Team Futures - Belgium Team Specials - Belgium Top Team Goalscorer,Romelu Lukaku,-0.1417,0.125,0.2667
 2022-11-24 10:40:43.316858,Team Futures - Morocco Team Specials - Morocco Exact Group Points,3 Points,-0.1417,0.0909,0.2326
 2022-11-24 04:40:45.114687,Team Futures - Iran Team Specials - Iran Stage of Elimination,Last 16,-0.1417,0.125,0.2667
-2022-11-24 06:40:36.718948,Team Futures - Belgium Team Specials - Belgium Top Team Goalscorer,Romelu Lukaku,-0.1417,0.125,0.2667
 2022-11-24 06:40:36.181741,Tournament Futures - FIFA World Cup 2022 - Top South American Team,Argentina,-0.15000000000000002,0.25,0.4
 2022-11-24 08:40:42.931890,Team Futures - Japan Team Specials - Japan Exact Group Points,3 Points,-0.16909999999999997,0.125,0.2941
 2022-11-24 07:40:43.854740,Team Futures - Germany Team Specials - Germany Stage of Elimination,Quarter Finals,-0.1746,0.1111,0.2857
