@@ -10,26 +10,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-24 22:40:42.202749,Tournament Futures - FIFA World Cup 2022 - Lowest Scoring Team,Cameroon,0.123,0.1818,0.0588
 2022-11-24 22:40:42.585640,Group Futures - Group H - To Advance from Group H,Portugal,0.11530000000000007,0.9615,0.8462
 2022-11-24 22:40:42.543560,Group Futures - Group G - Group G - To be Eliminated in Group Stage,Cameroon,0.11509999999999998,0.9901,0.875
+2022-11-24 23:40:40.977715,Tournament Futures - FIFA World Cup 2022 - Most Assists,Bruno Fernandes,0.1135,0.1429,0.0294
 2022-11-24 22:40:42.592135,Group Futures - Group H - Group H - To be Eliminated in Group Stage,Uruguay,0.11260000000000003,0.4762,0.3636
 2022-11-24 22:40:42.543560,Group Futures - Group G - Group G - To be Eliminated in Group Stage,Serbia,0.11109999999999998,0.6667,0.5556
 2022-11-24 22:40:42.563927,Group Futures - Group H - Group H - Teams to Advance from Group Stage,Portugal & South Korea,0.1,0.2667,0.1667
 2022-11-24 22:40:42.171969,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Team,Brazil,0.09720000000000001,0.2222,0.125
 2022-11-24 22:40:42.577561,Group Futures - Group H - Group H - Winner and Runner-up,"1st Portugal, 2nd South Korea",0.09240000000000001,0.2353,0.1429
 2022-11-24 20:40:34.438797,Andalucia Open de Espana - Andalucia Open de Espana - Outright,Carlota Ciganda,0.0909,0.1818,0.0909
+2022-11-24 23:40:40.848045,Tournament Futures - FIFA World Cup 2022 - Top African Team,Tunisia,0.0849,0.2667,0.1818
 2022-11-24 22:40:42.147228,Tournament Futures - FIFA World Cup 2022 - To Reach the Final,Brazil,0.07120000000000004,0.4348,0.3636
 2022-11-24 19:40:38.974756,Joburg Open - Joburg Open - Outright,Romain Langasque,0.0708,0.1053,0.0345
 2022-11-24 22:40:42.534124,Group Futures - Group G - To Advance from Group G,Brazil,0.06699999999999995,0.9901,0.9231
+2022-11-24 23:40:40.867977,Tournament Futures - FIFA World Cup 2022 - Top South American Team,Brazil,0.06520000000000004,0.7143,0.6491
 2022-11-24 19:40:38.974756,Joburg Open - Joburg Open - Outright,Nick Bachem,0.05879999999999999,0.0667,0.0079
 2022-11-24 19:40:38.974756,Joburg Open - Joburg Open - Outright,Thriston Lawrence,0.058300000000000005,0.125,0.0667
 2022-11-24 22:40:42.126460,Tournament Futures - FIFA World Cup 2022 - Top Italian Serie A Goalscorer,Rafael Leao,0.058300000000000005,0.125,0.0667
-2022-11-24 22:40:42.577561,Group Futures - Group H - Group H - Winner and Runner-up,"1st Portugal, 2nd Ghana",0.05679999999999999,0.1818,0.125
+2022-11-24 23:40:40.808208,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Richarlison,0.0573,0.0769,0.0196
 2022-11-24 22:40:42.570607,Group Futures - Group H - Group H - To Place Last in Group,Uruguay,0.05679999999999999,0.1818,0.125
+2022-11-24 22:40:42.577561,Group Futures - Group H - Group H - Winner and Runner-up,"1st Portugal, 2nd Ghana",0.05679999999999999,0.1818,0.125
+2022-11-24 23:40:40.848045,Tournament Futures - FIFA World Cup 2022 - Top African Team,Morocco,0.055499999999999994,0.3333,0.2778
 2022-11-24 19:40:38.974756,Joburg Open - Joburg Open - Outright,Dan Bradbury,0.0548,0.0588,0.004
 2022-11-24 22:40:42.577561,Group Futures - Group H - Group H - Winner and Runner-up,"1st Portugal, 2nd Uruguay",0.05449999999999999,0.4545,0.4
 2022-11-24 20:40:34.438797,Andalucia Open de Espana - Andalucia Open de Espana - Outright,Cara Gainer,0.052199999999999996,0.0588,0.0066
 2022-11-24 22:40:42.133388,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Joao Felix,0.0475,0.0769,0.0294
 2022-11-24 22:40:42.156374,Tournament Futures - FIFA World Cup 2022 - To Reach the Quarter-Final,Brazil,0.044500000000000095,0.7778,0.7333
 2022-11-24 22:40:42.171969,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Team,Netherlands,0.04329999999999999,0.0909,0.0476
+2022-11-24 23:40:40.855541,Tournament Futures - FIFA World Cup 2022 - Top European Team,Portugal,0.04169999999999999,0.1667,0.125
 2022-11-24 22:40:42.592135,Group Futures - Group H - Group H - To be Eliminated in Group Stage,Ghana,0.04169999999999996,0.875,0.8333
 2022-11-24 22:40:42.156374,Tournament Futures - FIFA World Cup 2022 - To Reach the Quarter-Final,Portugal,0.04139999999999999,0.5652,0.5238
 2022-11-24 22:40:42.585640,Group Futures - Group H - To Advance from Group H,South Korea,0.04099999999999998,0.3636,0.3226
@@ -45,19 +51,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-24 20:40:34.438797,Andalucia Open de Espana - Andalucia Open de Espana - Outright,Morgane Metraux,0.03219999999999999,0.0667,0.0345
 2022-11-24 19:40:38.974756,Joburg Open - Joburg Open - Outright,Christian Bezuidenhout,0.031799999999999995,0.1429,0.1111
 2022-11-24 14:40:32.066139,NFL Weekly Specials - Thanksgiving Specials - Thanksgiving Specials,Any Non QB to Throw a TD Pass on Thanksgiving,0.029299999999999993,0.0769,0.0476
+2022-11-24 23:40:40.808208,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Cristiano Ronaldo,0.028199999999999996,0.0667,0.0385
 2022-11-24 21:40:32.644222,Boxing Lines - Sam Gilley vs Sean Robinson - To Win the Bout,Sean Robinson,0.027999999999999997,0.1818,0.1538
 2022-11-24 22:40:42.164403,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,Switzerland,0.027800000000000005,0.1111,0.0833
 2022-11-24 22:40:42.156374,Tournament Futures - FIFA World Cup 2022 - To Reach the Quarter-Final,Switzerland,0.02779999999999999,0.25,0.2222
 2022-11-24 17:40:50.520926,95th Academy Awards - Best Actress - Best Actress,Michelle Yeoh,0.02779999999999999,0.25,0.2222
 2022-11-24 21:40:33.194236,Group Futures - Group G - Group G - Winner and Runner-up,"1st Brazil, 2nd Serbia",0.026500000000000024,0.3774,0.3509
 2022-11-24 19:40:38.974756,Joburg Open - Joburg Open - Outright,Nathan Kimsey,0.0262,0.0385,0.0123
+2022-11-24 23:40:40.977715,Tournament Futures - FIFA World Cup 2022 - Most Assists,Vinicius Junior,0.0242,0.0909,0.0667
 2022-11-24 21:40:33.194236,Group Futures - Group G - Group G - Winner and Runner-up,"1st Switzerland, 2nd Brazil",0.022199999999999998,0.1333,0.1111
 2022-11-24 22:40:42.164403,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,Portugal,0.021999999999999964,0.3077,0.2857
 2022-11-24 22:40:42.133388,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Ferran Torres,0.02169999999999994,0.5455,0.5238
 2022-11-24 14:40:32.066139,NFL Weekly Specials - Thanksgiving Specials - Thanksgiving Specials,140+ Combined Points on Thanksgiving,0.02079999999999993,0.5556,0.5348
 2022-11-24 22:40:42.180238,Tournament Futures - FIFA World Cup 2022 - Confederation of The Winner,CONMEBOL (South America),0.020699999999999996,0.4651,0.4444
+2022-11-24 23:40:40.877406,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Brazil & Portugal,0.0203,0.0588,0.0385
 2022-11-24 19:40:38.974756,Joburg Open - Joburg Open - Outright,Francesco Laporta,0.019899999999999998,0.0278,0.0079
 2022-11-24 22:40:42.202749,Tournament Futures - FIFA World Cup 2022 - Lowest Scoring Team,Poland,0.019099999999999992,0.0667,0.0476
+2022-11-24 23:40:40.877406,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Brazil & France,0.018099999999999998,0.0769,0.0588
+2022-11-24 23:40:40.867977,Tournament Futures - FIFA World Cup 2022 - Top South American Team,Argentina,0.016699999999999993,0.2667,0.25
 2022-11-24 18:40:43.198295,Boxing Lines - Hamzah Sheeraz vs River Wilson Bent - To Win the Bout,Hamzah Sheeraz,0.016699999999999937,0.9167,0.9
 2022-11-24 16:40:41.160304,Boxing Lines - Pierce O'Leary vs Emmanuel Mungandjela - To Win the Bout,Emmanuel Mungandjela,0.016600000000000004,0.0833,0.0667
 2022-11-24 20:40:34.438797,Andalucia Open de Espana - Andalucia Open de Espana - Outright,Anais Meyssonnier,0.0165,0.0244,0.0079
@@ -65,23 +76,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-24 17:40:50.538664,95th Academy Awards - Best Director - Best Director,Baz Luhrmann,0.014899999999999997,0.0625,0.0476
 2022-11-24 22:40:40.470542,Boxing Lines - Fabio Wardley vs Nathan Gorman - To Win the Bout,Fabio Wardley,0.014700000000000046,0.7647,0.75
 2022-11-24 13:40:41.452137,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Brazil,0.01469999999999999,0.25,0.2353
+2022-11-24 23:40:40.988397,Tournament Futures - FIFA World Cup 2022 - Young Player Award Winner,Jude Bellingham,0.01469999999999999,0.25,0.2353
 2022-11-24 17:40:48.820365,Australian PGA Championship - 2/3 Balls - 2nd Round 3 Balls - D. Micheluzzi / B. Windred / T. Kanaya - 2nd Round 3 Balls,Blake Windred,0.014600000000000002,0.2778,0.2632
 2022-11-24 19:40:38.974756,Joburg Open - Joburg Open - Outright,Louis De Jager,0.014099999999999998,0.0435,0.0294
+2022-11-24 23:40:40.855541,Tournament Futures - FIFA World Cup 2022 - Top European Team,Switzerland,0.014099999999999998,0.0435,0.0294
+2022-11-24 23:40:40.808208,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Bruno Fernandes,0.014099999999999998,0.0385,0.0244
+2022-11-24 23:40:40.877406,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Brazil & England,0.014099999999999994,0.0667,0.0526
 2022-11-24 22:40:42.118748,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Takumu Asano,0.013999999999999999,0.0909,0.0769
+2022-11-24 22:40:42.147228,Tournament Futures - FIFA World Cup 2022 - To Reach the Final,Portugal,0.012899999999999995,0.1667,0.1538
 2022-11-24 13:40:40.561619,Boxing Lines - Hamzah Sheeraz vs River Wilson Bent - To Win the Bout,River Wilson Bent,0.012899999999999995,0.1667,0.1538
 2022-11-24 21:40:33.178642,Group Futures - Group G - Group G Winner,Switzerland,0.012899999999999995,0.1667,0.1538
-2022-11-24 22:40:42.147228,Tournament Futures - FIFA World Cup 2022 - To Reach the Final,Portugal,0.012899999999999995,0.1667,0.1538
 2022-11-24 13:40:40.566705,Boxing Lines - Pat McCormack vs Christian Nicolas Andino - To Win the Bout,Christian Nicolas Andino,0.012499999999999997,0.0625,0.05
-2022-11-24 22:40:42.186673,Tournament Futures - FIFA World Cup 2022 - Winners Group,Group H,0.011099999999999999,0.1111,0.1
 2022-11-24 17:40:48.877686,Australian PGA Championship - 2/3 Balls - 2nd Round 3 Balls - R. Fox / C. Smith / A. Scott - 2nd Round 3 Balls,Cameron Smith,0.011099999999999999,0.4762,0.4651
+2022-11-24 22:40:42.186673,Tournament Futures - FIFA World Cup 2022 - Winners Group,Group H,0.011099999999999999,0.1111,0.1
 2022-11-24 17:40:48.864996,Australian PGA Championship - 2/3 Balls - 2nd Round 3 Balls - M. Kawamura / P. Lonard / T. Lewis - 2nd Round 3 Balls,Masahiro Kawamura,0.011099999999999999,0.4762,0.4651
 2022-11-24 15:40:37.012232,NFL Weekly Specials - Thanksgiving Specials - Most Passing Yards,Josh Allen,0.010699999999999987,0.3333,0.3226
 2022-11-24 20:40:34.438797,Andalucia Open de Espana - Andalucia Open de Espana - Outright,Linn Grant,0.010399999999999993,0.2326,0.2222
 2022-11-24 22:40:42.202749,Tournament Futures - FIFA World Cup 2022 - Lowest Scoring Team,Canada,0.0102,0.0769,0.0667
 2022-11-24 22:40:42.202749,Tournament Futures - FIFA World Cup 2022 - Lowest Scoring Team,Morocco,0.0102,0.0769,0.0667
-2022-11-24 15:40:37.550132,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Portugal,0.0102,0.0769,0.0667
 2022-11-24 22:40:42.110563,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Netherlands,0.0102,0.0769,0.0667
+2022-11-24 15:40:37.550132,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Portugal,0.0102,0.0769,0.0667
 2022-11-24 19:40:38.974756,Joburg Open - Joburg Open - Outright,Kristian Krogh Johannessen,0.010100000000000001,0.0345,0.0244
+2022-11-24 23:40:40.877406,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Netherlands & Portugal,0.010100000000000001,0.0345,0.0244
 2022-11-24 17:40:48.793829,Australian PGA Championship - 2/3 Balls - 2nd Round 3 Balls - M. Leishman / M.W. Lee / A. Meronk - 2nd Round 3 Balls,Marc Leishman,0.010099999999999998,0.3226,0.3125
 2022-11-24 20:40:34.568473,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Netherlands,-0.0102,0.0667,0.0769
 2022-11-24 21:40:33.194236,Group Futures - Group G - Group G - Winner and Runner-up,"1st Cameroon, 2nd Switzerland",-0.0103,0.002,0.0123
@@ -89,28 +105,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-24 19:40:38.974756,Joburg Open - Joburg Open - Outright,James Morrison,-0.0103,0.002,0.0123
 2022-11-24 19:40:38.974756,Joburg Open - Joburg Open - Outright,Richard Sterne,-0.0107,0.0025,0.0132
 2022-11-24 22:40:42.186673,Tournament Futures - FIFA World Cup 2022 - Winners Group,Group B,-0.010899999999999993,0.1429,0.1538
-2022-11-24 19:40:38.974756,Joburg Open - Joburg Open - Outright,Deon Germishuys,-0.011,0.0013,0.0123
 2022-11-24 21:40:33.194236,Group Futures - Group G - Group G - Winner and Runner-up,"1st Cameroon, 2nd Serbia",-0.011,0.0013,0.0123
-2022-11-24 22:40:42.577561,Group Futures - Group H - Group H - Winner and Runner-up,"1st South Korea, 2nd Portugal",-0.011199999999999995,0.0476,0.0588
+2022-11-24 19:40:38.974756,Joburg Open - Joburg Open - Outright,Deon Germishuys,-0.011,0.0013,0.0123
 2022-11-24 22:40:42.202749,Tournament Futures - FIFA World Cup 2022 - Lowest Scoring Team,Senegal,-0.011199999999999995,0.0476,0.0588
+2022-11-24 22:40:42.577561,Group Futures - Group H - Group H - Winner and Runner-up,"1st South Korea, 2nd Portugal",-0.011199999999999995,0.0476,0.0588
 2022-11-24 19:40:38.974756,Joburg Open - Joburg Open - Outright,Aaron Cockerill,-0.011300000000000001,0.001,0.0123
 2022-11-24 20:40:34.438797,Andalucia Open de Espana - Andalucia Open de Espana - Outright,Ursula Wikstrom,-0.0116,0.0033,0.0149
 2022-11-24 20:40:34.438797,Andalucia Open de Espana - Andalucia Open de Espana - Outright,Paula Martin,-0.011699999999999999,0.0079,0.0196
 2022-11-24 21:40:33.194236,Group Futures - Group G - Group G - Winner and Runner-up,"1st Serbia, 2nd Cameroon",-0.0121,0.002,0.0141
 2022-11-24 19:40:38.974756,Joburg Open - Joburg Open - Outright,Daniel van Tonder,-0.012100000000000001,0.0123,0.0244
+2022-11-24 16:40:40.184709,NFL Weekly Specials - Thanksgiving Specials - Lowest Scoring Thanksgiving Game,Buffalo Bills @ Detroit Lions,-0.012899999999999995,0.1538,0.1667
 2022-11-24 22:40:42.186673,Tournament Futures - FIFA World Cup 2022 - Winners Group,Group D,-0.012899999999999995,0.1538,0.1667
 2022-11-24 16:40:41.144069,Boxing Lines - Hamzah Sheeraz vs River Wilson Bent - To Win the Bout,River Wilson Bent,-0.012899999999999995,0.1538,0.1667
-2022-11-24 16:40:40.184709,NFL Weekly Specials - Thanksgiving Specials - Lowest Scoring Thanksgiving Game,Buffalo Bills @ Detroit Lions,-0.012899999999999995,0.1538,0.1667
 2022-11-24 19:40:38.974756,Joburg Open - Joburg Open - Outright,Jaco Ahlers,-0.0129,0.002,0.0149
 2022-11-24 22:40:42.164403,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,Uruguay,-0.013899999999999996,0.1111,0.125
-2022-11-24 19:40:38.974756,Joburg Open - Joburg Open - Outright,Marcel Siem,-0.0139,0.0057,0.0196
 2022-11-24 19:40:38.974756,Joburg Open - Joburg Open - Outright,Pieter Moolman,-0.0139,0.001,0.0149
+2022-11-24 19:40:38.974756,Joburg Open - Joburg Open - Outright,Marcel Siem,-0.0139,0.0057,0.0196
 2022-11-24 22:40:42.133388,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Robert Lewandowski,-0.013999999999999999,0.0769,0.0909
 2022-11-24 22:40:42.186673,Tournament Futures - FIFA World Cup 2022 - Winners Group,Group F,-0.013999999999999999,0.0769,0.0909
 2022-11-24 20:40:34.438797,Andalucia Open de Espana - Andalucia Open de Espana - Outright,Johanna Gustavsson,-0.0144,0.0005,0.0149
-2022-11-24 21:40:33.185459,Group Futures - Group G - Group G - Teams to Advance from Group Stage,Switzerland & Cameroon,-0.0145,0.0099,0.0244
+2022-11-24 23:40:40.867977,Tournament Futures - FIFA World Cup 2022 - Top South American Team,Ecuador,-0.01440000000000001,0.0909,0.1053
+2022-11-24 23:40:40.977715,Tournament Futures - FIFA World Cup 2022 - Most Assists,Ansu Fati,-0.014499999999999999,0.0149,0.0294
+2022-11-24 23:40:40.977715,Tournament Futures - FIFA World Cup 2022 - Most Assists,Leroy Sane,-0.014499999999999999,0.0149,0.0294
 2022-11-24 22:40:42.563927,Group Futures - Group H - Group H - Teams to Advance from Group Stage,South Korea & Ghana,-0.0145,0.0099,0.0244
+2022-11-24 21:40:33.185459,Group Futures - Group G - Group G - Teams to Advance from Group Stage,Switzerland & Cameroon,-0.0145,0.0099,0.0244
 2022-11-24 19:40:38.974756,Joburg Open - Joburg Open - Outright,Matthew Baldwin,-0.014599999999999998,0.005,0.0196
+2022-11-24 23:40:40.977715,Tournament Futures - FIFA World Cup 2022 - Most Assists,Thomas Muller,-0.014900000000000004,0.0196,0.0345
 2022-11-24 22:40:42.147228,Tournament Futures - FIFA World Cup 2022 - To Reach the Final,Serbia,-0.014900000000000004,0.0196,0.0345
 2022-11-24 16:40:40.184709,NFL Weekly Specials - Thanksgiving Specials - Lowest Scoring Thanksgiving Game,New York Giants @ Dallas Cowboys,-0.01579999999999998,0.3175,0.3333
 2022-11-24 20:40:34.438797,Andalucia Open de Espana - Andalucia Open de Espana - Outright,Christine Wolf,-0.0163,0.0033,0.0196
@@ -120,6 +140,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-24 22:40:42.592135,Group Futures - Group H - Group H - To be Eliminated in Group Stage,South Korea,-0.016700000000000048,0.7333,0.75
 2022-11-24 19:40:38.974756,Joburg Open - Joburg Open - Outright,Darius van Driel,-0.0183,0.0013,0.0196
 2022-11-24 22:40:42.118748,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Thomas Muller,-0.02020000000000001,0.0909,0.1111
+2022-11-24 23:40:40.977715,Tournament Futures - FIFA World Cup 2022 - Most Assists,Cody Gakpo,-0.0203,0.0385,0.0588
 2022-11-24 21:40:33.185459,Group Futures - Group G - Group G - Teams to Advance from Group Stage,Serbia & Cameroon,-0.0204,0.004,0.0244
 2022-11-24 19:40:38.974756,Joburg Open - Joburg Open - Outright,JC Ritchie,-0.021900000000000003,0.0025,0.0244
 2022-11-24 20:40:34.438797,Andalucia Open de Espana - Andalucia Open de Espana - Outright,Meghan MacLaren,-0.023100000000000002,0.0013,0.0244
@@ -133,9 +154,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-24 21:40:32.644222,Boxing Lines - Sam Gilley vs Sean Robinson - To Win the Bout,Sam Gilley,-0.026700000000000057,0.8824,0.9091
 2022-11-24 22:40:42.577561,Group Futures - Group H - Group H - Winner and Runner-up,"1st Ghana, 2nd Uruguay",-0.0273,0.005,0.0323
 2022-11-24 20:40:34.438797,Andalucia Open de Espana - Andalucia Open de Espana - Outright,Esther Henseleit,-0.0274,0.002,0.0294
+2022-11-24 23:40:40.848045,Tournament Futures - FIFA World Cup 2022 - Top African Team,Ghana,-0.02779999999999999,0.2222,0.25
 2022-11-24 22:40:42.156374,Tournament Futures - FIFA World Cup 2022 - To Reach the Quarter-Final,Serbia,-0.027999999999999997,0.1538,0.1818
 2022-11-24 22:40:42.570607,Group Futures - Group H - Group H - To Place Last in Group,Portugal,-0.028000000000000004,0.0196,0.0476
 2022-11-24 22:40:42.164403,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,Cameroon,-0.0286,0.0099,0.0385
+2022-11-24 23:40:40.855541,Tournament Futures - FIFA World Cup 2022 - Top European Team,Netherlands,-0.028799999999999992,0.125,0.1538
 2022-11-24 20:40:34.438797,Andalucia Open de Espana - Andalucia Open de Espana - Outright,Olivia Cowan,-0.028800000000000003,0.0057,0.0345
 2022-11-24 22:40:42.118748,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Jamal Musiala,-0.031799999999999995,0.1111,0.1429
 2022-11-24 22:40:42.553261,Group Futures - Group H - Group H Winner,Ghana,-0.03219999999999999,0.0345,0.0667
@@ -143,16 +166,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-24 22:40:42.577561,Group Futures - Group H - Group H - Winner and Runner-up,"1st Ghana, 2nd Portugal",-0.033,0.0196,0.0526
 2022-11-24 21:40:33.178642,Group Futures - Group G - Group G Winner,Cameroon,-0.0336,0.0099,0.0435
 2022-11-24 20:40:34.438797,Andalucia Open de Espana - Andalucia Open de Espana - Outright,Maja Stark,-0.034100000000000005,0.0909,0.125
+2022-11-24 23:40:40.977715,Tournament Futures - FIFA World Cup 2022 - Most Assists,Neymar Junior,-0.03420000000000001,0.0769,0.1111
 2022-11-24 19:40:38.974756,Joburg Open - Joburg Open - Outright,Oliver Bekker,-0.03559999999999999,0.0079,0.0435
 2022-11-24 22:40:42.156374,Tournament Futures - FIFA World Cup 2022 - To Reach the Quarter-Final,Uruguay,-0.03570000000000001,0.25,0.2857
+2022-11-24 23:40:40.848045,Tournament Futures - FIFA World Cup 2022 - Top African Team,Senegal,-0.03570000000000001,0.25,0.2857
 2022-11-24 22:40:42.577561,Group Futures - Group H - Group H - Winner and Runner-up,"1st Uruguay, 2nd Ghana",-0.037700000000000004,0.0099,0.0476
 2022-11-24 19:40:38.974756,Joburg Open - Joburg Open - Outright,George Coetzee,-0.0384,0.0385,0.0769
 2022-11-24 20:40:34.438797,Andalucia Open de Espana - Andalucia Open de Espana - Outright,Linnea Strom,-0.0397,0.0079,0.0476
 2022-11-24 22:40:42.171969,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Team,England,-0.04099999999999998,0.2667,0.3077
 2022-11-24 20:40:34.438797,Andalucia Open de Espana - Andalucia Open de Espana - Outright,Pia Babnik,-0.0427,0.0099,0.0526
+2022-11-24 23:40:40.977715,Tournament Futures - FIFA World Cup 2022 - Most Assists,Kevin De Bruyne,-0.042899999999999994,0.1,0.1429
 2022-11-24 21:40:33.194236,Group Futures - Group G - Group G - Winner and Runner-up,"1st Cameroon, 2nd Brazil",-0.0436,0.004,0.0476
 2022-11-24 19:40:38.974756,Joburg Open - Joburg Open - Outright,Hennie Du Plessis,-0.0447,0.0141,0.0588
 2022-11-24 22:40:42.585640,Group Futures - Group H - To Advance from Group H,Uruguay,-0.04760000000000009,0.6667,0.7143
+2022-11-24 23:40:40.867977,Tournament Futures - FIFA World Cup 2022 - Top South American Team,Uruguay,-0.04849999999999999,0.1333,0.1818
 2022-11-24 22:40:42.118748,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Jude Bellingham,-0.05550000000000002,0.1667,0.2222
 2022-11-24 22:40:42.171969,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Team,France,-0.05550000000000002,0.1667,0.2222
 2022-11-24 22:40:42.156374,Tournament Futures - FIFA World Cup 2022 - To Reach the Quarter-Final,Cameroon,-0.05639999999999999,0.0345,0.0909
@@ -165,6 +192,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-24 21:40:33.194236,Group Futures - Group G - Group G - Winner and Runner-up,"1st Brazil, 2nd Cameroon",-0.0953,0.0476,0.1429
 2022-11-24 22:40:42.534124,Group Futures - Group G - To Advance from Group G,Serbia,-0.09830000000000005,0.4255,0.5238
 2022-11-24 22:40:42.570607,Group Futures - Group H - Group H - To Place Last in Group,South Korea,-0.10150000000000003,0.3333,0.4348
+2022-11-24 23:40:40.848045,Tournament Futures - FIFA World Cup 2022 - Top African Team,Cameroon,-0.10910000000000002,0.0909,0.2
 2022-11-24 22:40:42.543560,Group Futures - Group G - Group G - To be Eliminated in Group Stage,Switzerland,-0.11070000000000002,0.4545,0.5652
 2022-11-24 22:40:42.543560,Group Futures - Group G - Group G - To be Eliminated in Group Stage,Brazil,-0.1137,0.0196,0.1333
 2022-11-24 22:40:42.171969,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Team,Spain,-0.11430000000000001,0.2857,0.4
