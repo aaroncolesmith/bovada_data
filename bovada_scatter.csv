@@ -6,13 +6,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-25 07:40:36.631186,Team Futures - Japan Team Specials - Japan Total Goals,6+,0.3116,0.4545,0.1429
 2022-11-25 03:40:40.814381,Team Futures - Wales Team Specials - Wales Top Team Goalscorer,Gareth Bale,0.3031,0.6667,0.3636
 2022-11-25 07:40:36.513597,Team Futures - England Team Specials - England Total Goals,14+,0.30160000000000003,0.5238,0.2222
-2022-11-24 21:40:33.185459,Group Futures - Group G - Group G - Teams to Advance from Group Stage,Brazil & Switzerland,0.29760000000000003,0.7143,0.4167
 2022-11-25 07:40:36.605795,Team Futures - Iran Team Specials - Iran Total Goals,4+,0.2773,0.5999,0.3226
 2022-11-25 03:40:40.302445,Team Futures - Cameroon Team Specials - Cameroon Exact Group Points,0 Points,0.2762,0.4762,0.2
 2022-11-25 07:40:36.513597,Team Futures - England Team Specials - England Total Goals,15+,0.2717,0.4255,0.1538
 2022-11-25 02:40:40.412254,Team Futures - Switzerland Team Specials - Switzerland Top Team Goalscorer,Breel Embolo,0.2699,0.5556,0.2857
 2022-11-25 05:40:39.055227,Team Futures - Saudi Arabia Team Specials - Saudi Arabia Top Team Goalscorer,Salem Al-Dawsari,0.26359999999999995,0.3636,0.1
-2022-11-24 21:40:33.194236,Group Futures - Group G - Group G - Winner and Runner-up,"1st Brazil, 2nd Switzerland",0.2491,0.6,0.3509
 2022-11-25 07:40:36.513597,Team Futures - England Team Specials - England Total Goals,16+,0.22219999999999998,0.3333,0.1111
 2022-11-24 22:40:42.118748,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Dani Olmo,0.2206,0.25,0.0294
 2022-11-24 22:40:42.553261,Group Futures - Group H - Group H Winner,Portugal,0.2167,0.8,0.5833
@@ -26,14 +24,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-25 07:40:36.513597,Team Futures - England Team Specials - England Total Goals,17+,0.1834,0.2667,0.0833
 2022-11-25 05:40:39.055227,Team Futures - Saudi Arabia Team Specials - Saudi Arabia Top Team Goalscorer,Saleh Al-Shehri,0.1818,0.3636,0.1818
 2022-11-25 03:40:40.807424,Team Futures - Wales Team Specials - Wales Exact Group Points,2 Points,0.1746,0.2857,0.1111
-2022-11-24 21:40:33.189774,Group Futures - Group G - Group G - To Place Last in Group,Cameroon,0.16669999999999996,0.75,0.5833
 2022-11-24 22:40:42.534124,Group Futures - Group G - To Advance from Group G,Switzerland,0.15449999999999997,0.6667,0.5122
 2022-11-25 07:40:36.513597,Team Futures - England Team Specials - England Total Goals,18+,0.1524,0.2,0.0476
 2022-11-25 03:40:40.310549,Team Futures - Cameroon Team Specials - Cameroon Top Team Goalscorer,No Cameroon Goalscorer,0.1524,0.2857,0.1333
-2022-11-25 07:40:36.580491,Team Futures - Ghana Team Specials - Ghana Total Goals,5+,0.15089999999999998,0.3509,0.2
 2022-11-25 05:40:38.874767,Team Futures - Ghana Team Specials - Ghana Top Team Goalscorer,Andre Ayew,0.15089999999999998,0.3509,0.2
+2022-11-25 07:40:36.580491,Team Futures - Ghana Team Specials - Ghana Total Goals,5+,0.15089999999999998,0.3509,0.2
 2022-11-25 07:40:36.631186,Team Futures - Japan Team Specials - Japan Total Goals,8+,0.1474,0.2,0.0526
-2022-11-24 21:40:33.178642,Group Futures - Group G - Group G Winner,Brazil,0.14170000000000005,0.875,0.7333
 2022-11-25 01:40:32.825286,Team Futures - South Korea Team Specials - South Korea  Exact Group Points,2 Points,0.1417,0.2667,0.125
 2022-11-24 22:40:42.570607,Group Futures - Group H - Group H - To Place Last in Group,Ghana,0.13639999999999997,0.6364,0.5
 2022-11-25 07:40:36.605795,Team Futures - Iran Team Specials - Iran Total Goals,5+,0.13329999999999997,0.3333,0.2
@@ -51,13 +47,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-24 23:40:40.977715,Tournament Futures - FIFA World Cup 2022 - Most Assists,Bruno Fernandes,0.1135,0.1429,0.0294
 2022-11-24 22:40:42.592135,Group Futures - Group H - Group H - To be Eliminated in Group Stage,Uruguay,0.11260000000000003,0.4762,0.3636
 2022-11-25 07:40:36.537434,Team Futures - France Team Specials - France Total Goals,11+,0.11259999999999992,0.6364,0.5238
-2022-11-24 22:40:42.543560,Group Futures - Group G - Group G - To be Eliminated in Group Stage,Serbia,0.11109999999999998,0.6667,0.5556
 2022-11-25 01:40:32.809621,Team Futures - Serbia Team Specials - Serbia Stage of Elimination,Group Stage,0.11109999999999998,0.6667,0.5556
+2022-11-24 22:40:42.543560,Group Futures - Group G - Group G - To be Eliminated in Group Stage,Serbia,0.11109999999999998,0.6667,0.5556
 2022-11-25 01:40:32.825286,Team Futures - South Korea Team Specials - South Korea  Exact Group Points,4 Points,0.11109999999999998,0.3333,0.2222
 2022-11-25 01:40:32.802326,Team Futures - Senegal Team Specials - Senegal Stage of Elimination,Group Stage,0.10899999999999999,0.6923,0.5833
+2022-11-25 02:40:40.466269,Team Futures - Uruguay Team Specials - Uruguay Exact Group Points,5,0.1071,0.25,0.1429
 2022-11-25 05:40:39.089062,Team Futures - Serbia Team Specials - Serbia Exact Group Points,6 Points,0.1071,0.25,0.1429
 2022-11-25 05:40:38.868506,Team Futures - Ghana Team Specials - Ghana Exact Group Points,0 Points,0.1071,0.25,0.1429
-2022-11-25 02:40:40.466269,Team Futures - Uruguay Team Specials - Uruguay Exact Group Points,5,0.1071,0.25,0.1429
 2022-11-25 05:40:39.068154,Team Futures - Senegal Team Specials - Senegal Exact Group Points,3 Points,0.10390000000000002,0.2857,0.1818
 2022-11-25 07:40:36.537434,Team Futures - France Team Specials - France Total Goals,13+,0.10360000000000003,0.4545,0.3509
 2022-11-25 07:40:36.537434,Team Futures - France Team Specials - France Total Goals,12+,0.10109999999999997,0.5455,0.4444
@@ -97,17 +93,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-25 03:40:40.807424,Team Futures - Wales Team Specials - Wales Exact Group Points,4 Points,0.06659999999999999,0.3333,0.2667
 2022-11-24 23:40:40.867977,Tournament Futures - FIFA World Cup 2022 - Top South American Team,Brazil,0.06520000000000004,0.7143,0.6491
 2022-11-25 07:40:36.537434,Team Futures - France Team Specials - France Total Goals,15+,0.0635,0.2857,0.2222
-2022-11-25 05:40:39.089062,Team Futures - Serbia Team Specials - Serbia Exact Group Points,3 Points,0.0635,0.2857,0.2222
 2022-11-25 05:40:38.868506,Team Futures - Ghana Team Specials - Ghana Exact Group Points,3 Points,0.0635,0.2857,0.2222
 2022-11-25 05:40:38.868506,Team Futures - Ghana Team Specials - Ghana Exact Group Points,1 Point,0.0635,0.2857,0.2222
+2022-11-25 05:40:39.089062,Team Futures - Serbia Team Specials - Serbia Exact Group Points,3 Points,0.0635,0.2857,0.2222
 2022-11-25 07:40:36.537434,Team Futures - France Team Specials - France Total Goals,14+,0.06209999999999999,0.3478,0.2857
 2022-11-25 01:40:32.894112,Team Futures - Uruguay Team Specials - Uruguay Stage of Elimination,Group Stage,0.06190000000000001,0.4255,0.3636
 2022-11-25 06:40:29.929763,Team Futures - Brazil Team Specials - Brazil Total Goals,10+,0.05910000000000004,0.7143,0.6552
 2022-11-24 22:40:42.126460,Tournament Futures - FIFA World Cup 2022 - Top Italian Serie A Goalscorer,Rafael Leao,0.058300000000000005,0.125,0.0667
 2022-11-25 07:40:36.631186,Team Futures - Japan Team Specials - Japan Total Goals,10+,0.0573,0.0769,0.0196
 2022-11-24 23:40:40.808208,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Richarlison,0.0573,0.0769,0.0196
-2022-11-24 22:40:42.570607,Group Futures - Group H - Group H - To Place Last in Group,Uruguay,0.05679999999999999,0.1818,0.125
 2022-11-24 22:40:42.577561,Group Futures - Group H - Group H - Winner and Runner-up,"1st Portugal, 2nd Ghana",0.05679999999999999,0.1818,0.125
+2022-11-24 22:40:42.570607,Group Futures - Group H - Group H - To Place Last in Group,Uruguay,0.05679999999999999,0.1818,0.125
 2022-11-25 01:40:32.832293,Team Futures - South Korea Team Specials - South Korea Top Team Goalscorer,No South Korea Goalscorer,0.05559999999999998,0.1667,0.1111
 2022-11-25 07:40:36.537434,Team Futures - France Team Specials - France Total Goals,16+,0.05550000000000002,0.2222,0.1667
 2022-11-24 23:40:40.848045,Tournament Futures - FIFA World Cup 2022 - Top African Team,Morocco,0.055499999999999994,0.3333,0.2778
@@ -122,9 +118,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-24 22:40:42.156374,Tournament Futures - FIFA World Cup 2022 - To Reach the Quarter-Final,Brazil,0.044500000000000095,0.7778,0.7333
 2022-11-24 22:40:42.171969,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Team,Netherlands,0.04329999999999999,0.0909,0.0476
 2022-11-25 05:40:39.048560,Team Futures - Saudi Arabia Team Specials - Saudi Arabia  Exact Group Points,5 Points,0.04229999999999999,0.0667,0.0244
-2022-11-24 23:40:40.855541,Tournament Futures - FIFA World Cup 2022 - Top European Team,Portugal,0.04169999999999999,0.1667,0.125
-2022-11-25 05:40:39.002665,Team Futures - Portugal Team Specials - Portugal Top Team Goalscorer,Rafael Leao,0.04169999999999999,0.1667,0.125
 2022-11-25 05:40:39.068154,Team Futures - Senegal Team Specials - Senegal Exact Group Points,1 Point,0.04169999999999999,0.1667,0.125
+2022-11-25 05:40:39.002665,Team Futures - Portugal Team Specials - Portugal Top Team Goalscorer,Rafael Leao,0.04169999999999999,0.1667,0.125
+2022-11-24 23:40:40.855541,Tournament Futures - FIFA World Cup 2022 - Top European Team,Portugal,0.04169999999999999,0.1667,0.125
 2022-11-24 22:40:42.592135,Group Futures - Group H - Group H - To be Eliminated in Group Stage,Ghana,0.04169999999999996,0.875,0.8333
 2022-11-24 22:40:42.156374,Tournament Futures - FIFA World Cup 2022 - To Reach the Quarter-Final,Portugal,0.04139999999999999,0.5652,0.5238
 2022-11-24 22:40:42.585640,Group Futures - Group H - To Advance from Group H,South Korea,0.04099999999999998,0.3636,0.3226
@@ -138,7 +134,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-25 06:40:29.929763,Team Futures - Brazil Team Specials - Brazil Total Goals,15+,0.03689999999999999,0.3226,0.2857
 2022-11-25 06:40:29.874169,Team Futures - Australia Team Specials - Australia Total Goals,4+,0.03689999999999999,0.3226,0.2857
 2022-11-25 07:40:36.537434,Team Futures - France Team Specials - France Total Goals,17+,0.036199999999999996,0.1538,0.1176
-2022-11-24 21:40:33.189774,Group Futures - Group G - Group G - To Place Last in Group,Serbia,0.03570000000000001,0.2857,0.25
 2022-11-25 06:40:28.181631,NFC East - 2022/2023 NFC East - NFC East Winner,Dallas Cowboys,0.03570000000000001,0.2857,0.25
 2022-11-24 22:40:42.164403,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,Brazil,0.03479999999999994,0.6,0.5652
 2022-11-25 02:40:40.405356,Team Futures - Switzerland Team Specials - Switzerland  Exact Group Points,7 Points,0.034100000000000005,0.125,0.0909
@@ -151,23 +146,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-25 01:40:32.790625,Team Futures - Saudi Arabia Team Specials - Saudi Arabia Stage of Elimination,Semi Finals,0.0286,0.0385,0.0099
 2022-11-24 23:40:40.808208,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Cristiano Ronaldo,0.028199999999999996,0.0667,0.0385
 2022-11-25 06:40:29.929763,Team Futures - Brazil Team Specials - Brazil Total Goals,17+,0.027999999999999997,0.1818,0.1538
-2022-11-24 21:40:32.644222,Boxing Lines - Sam Gilley vs Sean Robinson - To Win the Bout,Sean Robinson,0.027999999999999997,0.1818,0.1538
 2022-11-25 07:40:36.537434,Team Futures - France Team Specials - France Total Goals,18+,0.027800000000000005,0.1111,0.0833
+2022-11-25 02:40:40.466269,Team Futures - Uruguay Team Specials - Uruguay Exact Group Points,1,0.027800000000000005,0.1111,0.0833
 2022-11-24 22:40:42.164403,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,Switzerland,0.027800000000000005,0.1111,0.0833
 2022-11-25 01:40:32.748505,Team Futures - Portugal Team Specials - Portugal Stage of Elimination,Runner-up,0.027800000000000005,0.1111,0.0833
-2022-11-25 02:40:40.466269,Team Futures - Uruguay Team Specials - Uruguay Exact Group Points,1,0.027800000000000005,0.1111,0.0833
 2022-11-25 06:40:29.929763,Team Futures - Brazil Team Specials - Brazil Total Goals,16+,0.02779999999999999,0.25,0.2222
 2022-11-24 22:40:42.156374,Tournament Futures - FIFA World Cup 2022 - To Reach the Quarter-Final,Switzerland,0.02779999999999999,0.25,0.2222
 2022-11-25 03:40:40.302445,Team Futures - Cameroon Team Specials - Cameroon Exact Group Points,1 Point,0.02679999999999999,0.3125,0.2857
-2022-11-24 21:40:33.194236,Group Futures - Group G - Group G - Winner and Runner-up,"1st Brazil, 2nd Serbia",0.026500000000000024,0.3774,0.3509
 2022-11-25 01:40:32.748505,Team Futures - Portugal Team Specials - Portugal Stage of Elimination,Quarter Final,0.026000000000000023,0.2857,0.2597
 2022-11-25 04:40:34.477386,Tournament Futures - FIFA World Cup 2022 - To Reach the Quarter-Final,Spain,0.025600000000000067,0.6923,0.6667
 2022-11-25 01:40:32.839272,Team Futures - Spain Team Specials - Spain Stage of Elimination,Winners,0.024999999999999994,0.125,0.1
 2022-11-25 07:40:36.537434,Team Futures - France Team Specials - France Total Goals,19+,0.024299999999999995,0.0769,0.0526
-2022-11-25 01:40:32.832293,Team Futures - South Korea Team Specials - South Korea Top Team Goalscorer,Jae-Sung Lee,0.0242,0.0909,0.0667
-2022-11-24 23:40:40.977715,Tournament Futures - FIFA World Cup 2022 - Most Assists,Vinicius Junior,0.0242,0.0909,0.0667
 2022-11-25 07:40:36.605795,Team Futures - Iran Team Specials - Iran Total Goals,7+,0.0242,0.0909,0.0667
-2022-11-24 21:40:33.194236,Group Futures - Group G - Group G - Winner and Runner-up,"1st Switzerland, 2nd Brazil",0.022199999999999998,0.1333,0.1111
+2022-11-24 23:40:40.977715,Tournament Futures - FIFA World Cup 2022 - Most Assists,Vinicius Junior,0.0242,0.0909,0.0667
+2022-11-25 01:40:32.832293,Team Futures - South Korea Team Specials - South Korea Top Team Goalscorer,Jae-Sung Lee,0.0242,0.0909,0.0667
 2022-11-24 22:40:42.164403,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,Portugal,0.021999999999999964,0.3077,0.2857
 2022-11-25 05:40:39.068154,Team Futures - Senegal Team Specials - Senegal Exact Group Points,4 Points,0.021999999999999964,0.3077,0.2857
 2022-11-24 22:40:42.133388,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Ferran Torres,0.02169999999999994,0.5455,0.5238
@@ -187,17 +179,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-25 03:40:39.487173,NBL - NBL 2022/23 - Outright,South East Melbourne Phoenix,0.01820000000000002,0.2,0.1818
 2022-11-25 08:40:39.250341,League Two - England - League Two 2022/23 - To Be Relegated,Crawley Town,0.01820000000000002,0.2,0.1818
 2022-11-25 06:40:28.203115,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Buffalo Bills,0.01820000000000002,0.2,0.1818
-2022-11-25 02:40:40.385292,Team Futures - Spain Team Specials - Spain Top Team Goalscorer,Dani Olmo,0.018099999999999998,0.0769,0.0588
-2022-11-25 05:40:39.074571,Team Futures - Senegal Team Specials - Senegal Top Team Goalscorer,No Senegal Goalscorer,0.018099999999999998,0.0769,0.0588
 2022-11-24 23:40:40.877406,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Brazil & France,0.018099999999999998,0.0769,0.0588
+2022-11-25 05:40:39.074571,Team Futures - Senegal Team Specials - Senegal Top Team Goalscorer,No Senegal Goalscorer,0.018099999999999998,0.0769,0.0588
+2022-11-25 02:40:40.385292,Team Futures - Spain Team Specials - Spain Top Team Goalscorer,Dani Olmo,0.018099999999999998,0.0769,0.0588
 2022-11-25 02:40:40.412254,Team Futures - Switzerland Team Specials - Switzerland Top Team Goalscorer,Ruben Vargas,0.018099999999999998,0.0769,0.0588
 2022-11-25 03:40:38.905911,Joburg Open - Joburg Open - Outright,Thriston Lawrence,0.0179,0.1429,0.125
 2022-11-25 04:40:34.787038,Group Futures - Group F - To Advance from Group F,Morocco,0.017600000000000005,0.3509,0.3333
 2022-11-25 06:40:28.175101,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Tampa Bay Buccaneers,0.01759999999999999,0.1176,0.1
 2022-11-25 03:40:37.641226,Boxing Lines - Harlem Eubank vs Tom Farrell - To Win the Bout,Tom Farrell,0.01759999999999999,0.1176,0.1
-2022-11-24 23:40:40.867977,Tournament Futures - FIFA World Cup 2022 - Top South American Team,Argentina,0.016699999999999993,0.2667,0.25
-2022-11-25 01:40:32.845940,Team Futures - Spain Team Specials - Spain Exact Group Points,6,0.016699999999999993,0.2667,0.25
 2022-11-25 06:40:28.175101,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,San Francisco 49ers,0.016699999999999993,0.2667,0.25
+2022-11-25 01:40:32.845940,Team Futures - Spain Team Specials - Spain Exact Group Points,6,0.016699999999999993,0.2667,0.25
+2022-11-24 23:40:40.867977,Tournament Futures - FIFA World Cup 2022 - Top South American Team,Argentina,0.016699999999999993,0.2667,0.25
 2022-11-25 07:40:36.631186,Team Futures - Japan Team Specials - Japan Total Goals,12+,0.0165,0.0244,0.0079
 2022-11-25 03:40:40.807424,Team Futures - Wales Team Specials - Wales Exact Group Points,1 Point,0.015100000000000002,0.1818,0.1667
 2022-11-25 08:40:39.254799,League Two - England - League Two 2022/23 - To Finish Bottom,Gillingham,0.015100000000000002,0.1818,0.1667
@@ -211,15 +203,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-24 23:40:40.877406,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Brazil & England,0.014099999999999994,0.0667,0.0526
 2022-11-25 01:40:32.809621,Team Futures - Serbia Team Specials - Serbia Stage of Elimination,Semi Finals,0.014099999999999994,0.0667,0.0526
 2022-11-25 01:40:30.636059,Boxing Lines - Fabio Wardley vs Nathan Gorman - To Win the Bout,Nathan Gorman,0.014000000000000012,0.3125,0.2985
-2022-11-25 02:40:40.385292,Team Futures - Spain Team Specials - Spain Top Team Goalscorer,Carlos Soler,0.013999999999999999,0.0909,0.0769
-2022-11-25 08:40:39.254799,League Two - England - League Two 2022/23 - To Finish Bottom,Crawley Town,0.013999999999999999,0.0909,0.0769
 2022-11-25 06:40:28.321628,Boxing Lines - Liam Williams vs Nizar Trimech - To Win the Bout,Nizar Trimech,0.013999999999999999,0.0909,0.0769
 2022-11-24 22:40:42.118748,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Takumu Asano,0.013999999999999999,0.0909,0.0769
+2022-11-25 08:40:39.254799,League Two - England - League Two 2022/23 - To Finish Bottom,Crawley Town,0.013999999999999999,0.0909,0.0769
+2022-11-25 02:40:40.385292,Team Futures - Spain Team Specials - Spain Top Team Goalscorer,Carlos Soler,0.013999999999999999,0.0909,0.0769
 2022-11-25 07:40:36.580491,Team Futures - Ghana Team Specials - Ghana Total Goals,8+,0.0131,0.0476,0.0345
+2022-11-25 05:40:39.089062,Team Futures - Serbia Team Specials - Serbia Exact Group Points,1 Point,0.012899999999999995,0.1667,0.1538
 2022-11-25 06:40:29.874169,Team Futures - Australia Team Specials - Australia Total Goals,5+,0.012899999999999995,0.1667,0.1538
 2022-11-24 22:40:42.147228,Tournament Futures - FIFA World Cup 2022 - To Reach the Final,Portugal,0.012899999999999995,0.1667,0.1538
-2022-11-25 05:40:39.089062,Team Futures - Serbia Team Specials - Serbia Exact Group Points,1 Point,0.012899999999999995,0.1667,0.1538
-2022-11-24 21:40:33.178642,Group Futures - Group G - Group G Winner,Switzerland,0.012899999999999995,0.1667,0.1538
 2022-11-25 08:40:39.250341,League Two - England - League Two 2022/23 - To Be Relegated,Gillingham,0.012699999999999989,0.3636,0.3509
 2022-11-25 05:40:39.074571,Team Futures - Senegal Team Specials - Senegal Top Team Goalscorer,Ismail Jakobs,0.012100000000000001,0.0244,0.0123
 2022-11-25 08:40:33.688333,Boxing Lines - Craig Richards vs Ricards Bolotniks - To Win the Bout,Ricards Bolotniks,0.011900000000000022,0.1786,0.1667
@@ -229,74 +220,70 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-24 22:40:42.186673,Tournament Futures - FIFA World Cup 2022 - Winners Group,Group H,0.011099999999999999,0.1111,0.1
 2022-11-25 08:40:33.563676,Boxing Lines - Sam Noakes vs Calvin McCord - To Win the Bout,Calvin McCord,0.011099999999999999,0.1111,0.1
 2022-11-25 03:40:39.487173,NBL - NBL 2022/23 - Outright,Adelaide 36ers,0.010899999999999993,0.1538,0.1429
-2022-11-25 06:40:28.175101,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Minnesota Vikings,0.010899999999999993,0.1538,0.1429
 2022-11-25 01:40:32.809621,Team Futures - Serbia Team Specials - Serbia Stage of Elimination,Quarter Finals,0.010899999999999993,0.1538,0.1429
+2022-11-25 06:40:28.175101,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Minnesota Vikings,0.010899999999999993,0.1538,0.1429
 2022-11-25 01:40:32.852968,Team Futures - Switzerland Team Specials - Switzerland  Stage of Elimination,Quarter Finals,0.010899999999999993,0.1538,0.1429
 2022-11-25 01:40:32.832293,Team Futures - South Korea Team Specials - South Korea Top Team Goalscorer,Woo-Young Jung,0.010700000000000001,0.0385,0.0278
-2022-11-25 01:40:32.852968,Team Futures - Switzerland Team Specials - Switzerland  Stage of Elimination,Semi Finals,0.0102,0.0769,0.0667
+2022-11-24 22:40:42.202749,Tournament Futures - FIFA World Cup 2022 - Lowest Scoring Team,Canada,0.0102,0.0769,0.0667
 2022-11-24 22:40:42.110563,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Netherlands,0.0102,0.0769,0.0667
 2022-11-25 01:40:32.748505,Team Futures - Portugal Team Specials - Portugal Stage of Elimination,Winners,0.0102,0.0769,0.0667
 2022-11-24 22:40:42.202749,Tournament Futures - FIFA World Cup 2022 - Lowest Scoring Team,Morocco,0.0102,0.0769,0.0667
-2022-11-24 22:40:42.202749,Tournament Futures - FIFA World Cup 2022 - Lowest Scoring Team,Canada,0.0102,0.0769,0.0667
+2022-11-25 01:40:32.852968,Team Futures - Switzerland Team Specials - Switzerland  Stage of Elimination,Semi Finals,0.0102,0.0769,0.0667
 2022-11-25 00:40:37.332628,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Cristiano Ronaldo,0.0102,0.0769,0.0667
 2022-11-25 00:40:37.378327,Tournament Futures - FIFA World Cup 2022 - World Cup Winner and Runner-up,"1st - Brazil, 2nd - Portugal",0.010100000000000001,0.0345,0.0244
-2022-11-25 00:40:37.378327,Tournament Futures - FIFA World Cup 2022 - World Cup Winner and Runner-up,"1st - Brazil, 2nd - Spain",0.010100000000000001,0.0345,0.0244
 2022-11-24 23:40:40.877406,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Netherlands & Portugal,0.010100000000000001,0.0345,0.0244
+2022-11-25 00:40:37.378327,Tournament Futures - FIFA World Cup 2022 - World Cup Winner and Runner-up,"1st - Brazil, 2nd - Spain",0.010100000000000001,0.0345,0.0244
 2022-11-25 03:40:39.487173,NBL - NBL 2022/23 - Outright,Sydney Kings,0.010099999999999998,0.3226,0.3125
 2022-11-25 01:40:30.560210,Boxing Lines - David Papot vs Bilel Jkitou - To Win the Bout,Bilel Jkitou,-0.010099999999999998,0.3125,0.3226
-2022-11-25 02:40:40.412254,Team Futures - Switzerland Team Specials - Switzerland Top Team Goalscorer,Ricardo Rodriguez,-0.0102,0.0667,0.0769
 2022-11-25 05:40:39.095725,Team Futures - Serbia Team Specials - Serbia Top Team Goalscorer,Filip Kostic,-0.0102,0.0667,0.0769
+2022-11-25 02:40:40.412254,Team Futures - Switzerland Team Specials - Switzerland Top Team Goalscorer,Ricardo Rodriguez,-0.0102,0.0667,0.0769
 2022-11-25 02:40:40.432382,Team Futures - Tunisia Team Specials - Tunisia Top Team Goalscorer,Taha Khenissi,-0.0102,0.0667,0.0769
-2022-11-24 21:40:33.194236,Group Futures - Group G - Group G - Winner and Runner-up,"1st Cameroon, 2nd Switzerland",-0.0103,0.002,0.0123
 2022-11-25 08:40:39.250341,League Two - England - League Two 2022/23 - To Be Relegated,Rochdale,-0.010399999999999993,0.2222,0.2326
 2022-11-25 06:40:28.774663,Andalucia Open de Espana - Andalucia Open de Espana - Outright,Linn Grant,-0.010399999999999993,0.2222,0.2326
-2022-11-24 22:40:42.186673,Tournament Futures - FIFA World Cup 2022 - Winners Group,Group B,-0.010899999999999993,0.1429,0.1538
 2022-11-25 01:40:30.601366,Boxing Lines - Hamzah Sheeraz vs River Wilson Bent - To Win the Bout,River Wilson Bent,-0.010899999999999993,0.1429,0.1538
-2022-11-24 21:40:33.194236,Group Futures - Group G - Group G - Winner and Runner-up,"1st Cameroon, 2nd Serbia",-0.011,0.0013,0.0123
+2022-11-24 22:40:42.186673,Tournament Futures - FIFA World Cup 2022 - Winners Group,Group B,-0.010899999999999993,0.1429,0.1538
 2022-11-25 01:40:30.576816,Boxing Lines - Harlem Eubank vs Tom Farrell - To Win the Bout,Tom Farrell,-0.011099999999999999,0.1,0.1111
-2022-11-25 02:40:40.432382,Team Futures - Tunisia Team Specials - Tunisia Top Team Goalscorer,Wahbi Khazri,-0.011099999999999999,0.1,0.1111
 2022-11-25 01:40:30.619079,Boxing Lines - Sam Noakes vs Calvin McCord - To Win the Bout,Calvin McCord,-0.011099999999999999,0.1,0.1111
+2022-11-25 02:40:40.432382,Team Futures - Tunisia Team Specials - Tunisia Top Team Goalscorer,Wahbi Khazri,-0.011099999999999999,0.1,0.1111
 2022-11-24 22:40:42.202749,Tournament Futures - FIFA World Cup 2022 - Lowest Scoring Team,Senegal,-0.011199999999999995,0.0476,0.0588
 2022-11-24 22:40:42.577561,Group Futures - Group H - Group H - Winner and Runner-up,"1st South Korea, 2nd Portugal",-0.011199999999999995,0.0476,0.0588
-2022-11-25 02:40:40.432382,Team Futures - Tunisia Team Specials - Tunisia Top Team Goalscorer,Ghaylen Chaaleli,-0.011199999999999995,0.0476,0.0588
 2022-11-25 02:40:40.385292,Team Futures - Spain Team Specials - Spain Top Team Goalscorer,Nico Williams,-0.011199999999999995,0.0476,0.0588
+2022-11-25 02:40:40.432382,Team Futures - Tunisia Team Specials - Tunisia Top Team Goalscorer,Ghaylen Chaaleli,-0.011199999999999995,0.0476,0.0588
 2022-11-25 03:40:40.814381,Team Futures - Wales Team Specials - Wales Top Team Goalscorer,Harry Wilson,-0.011199999999999995,0.0476,0.0588
 2022-11-25 00:40:37.407507,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Group,Group B,-0.0116,0.4762,0.4878
-2022-11-24 21:40:33.194236,Group Futures - Group G - Group G - Winner and Runner-up,"1st Serbia, 2nd Cameroon",-0.0121,0.002,0.0141
 2022-11-25 00:40:37.332628,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Thomas Muller,-0.012100000000000001,0.0123,0.0244
 2022-11-25 00:40:37.332628,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Bruno Fernandes,-0.012100000000000001,0.0123,0.0244
 2022-11-24 22:40:42.186673,Tournament Futures - FIFA World Cup 2022 - Winners Group,Group D,-0.012899999999999995,0.1538,0.1667
-2022-11-25 02:40:40.473154,Team Futures - Uruguay Team Specials - Uruguay Top Team Goalscorer,Sebastian Coates,-0.012899999999999998,0.0149,0.0278
 2022-11-25 01:40:32.809621,Team Futures - Serbia Team Specials - Serbia Stage of Elimination,Runner-up,-0.012899999999999998,0.0149,0.0278
-2022-11-25 06:40:29.860628,Team Futures - Argentina Team Specials - Argentina Total Goals,21+,-0.013,0.0066,0.0196
+2022-11-25 02:40:40.473154,Team Futures - Uruguay Team Specials - Uruguay Top Team Goalscorer,Sebastian Coates,-0.012899999999999998,0.0149,0.0278
 2022-11-25 06:40:29.911294,Team Futures - Belgium Team Specials - Belgium Total Goals,18+,-0.013,0.0066,0.0196
+2022-11-25 06:40:29.860628,Team Futures - Argentina Team Specials - Argentina Total Goals,21+,-0.013,0.0066,0.0196
 2022-11-25 05:40:39.074571,Team Futures - Senegal Team Specials - Senegal Top Team Goalscorer,Cheikhou Kouyate,-0.0131,0.0345,0.0476
 2022-11-25 02:40:40.432382,Team Futures - Tunisia Team Specials - Tunisia Top Team Goalscorer,Youssef Msakni,-0.013899999999999996,0.1111,0.125
 2022-11-24 22:40:42.164403,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,Uruguay,-0.013899999999999996,0.1111,0.125
-2022-11-25 03:40:40.807424,Team Futures - Wales Team Specials - Wales Exact Group Points,7 Points,-0.013999999999999999,0.0769,0.0909
+2022-11-25 02:40:40.473154,Team Futures - Uruguay Team Specials - Uruguay Top Team Goalscorer,Federico Valverde,-0.013999999999999999,0.0769,0.0909
 2022-11-25 05:40:39.068154,Team Futures - Senegal Team Specials - Senegal Exact Group Points,0 Points,-0.013999999999999999,0.0769,0.0909
+2022-11-25 03:40:40.807424,Team Futures - Wales Team Specials - Wales Exact Group Points,7 Points,-0.013999999999999999,0.0769,0.0909
+2022-11-25 06:40:28.774663,Andalucia Open de Espana - Andalucia Open de Espana - Outright,Maja Stark,-0.013999999999999999,0.0769,0.0909
+2022-11-24 22:40:42.133388,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Robert Lewandowski,-0.013999999999999999,0.0769,0.0909
 2022-11-24 22:40:42.186673,Tournament Futures - FIFA World Cup 2022 - Winners Group,Group F,-0.013999999999999999,0.0769,0.0909
 2022-11-25 05:40:38.868506,Team Futures - Ghana Team Specials - Ghana Exact Group Points,6 Points,-0.013999999999999999,0.0769,0.0909
-2022-11-25 02:40:40.473154,Team Futures - Uruguay Team Specials - Uruguay Top Team Goalscorer,Federico Valverde,-0.013999999999999999,0.0769,0.0909
-2022-11-24 22:40:42.133388,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Robert Lewandowski,-0.013999999999999999,0.0769,0.0909
-2022-11-25 06:40:28.774663,Andalucia Open de Espana - Andalucia Open de Espana - Outright,Maja Stark,-0.013999999999999999,0.0769,0.0909
 2022-11-25 00:40:37.332628,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Harry Kane,-0.014099999999999994,0.0526,0.0667
-2022-11-25 05:40:39.055227,Team Futures - Saudi Arabia Team Specials - Saudi Arabia Top Team Goalscorer,Hattan Bahebri,-0.014099999999999998,0.0244,0.0385
 2022-11-25 02:40:40.385292,Team Futures - Spain Team Specials - Spain Top Team Goalscorer,Marcos LLorente,-0.014099999999999998,0.0244,0.0385
-2022-11-25 02:40:40.473154,Team Futures - Uruguay Team Specials - Uruguay Top Team Goalscorer,Facundo Pellistri,-0.014099999999999998,0.0244,0.0385
-2022-11-25 02:40:40.473154,Team Futures - Uruguay Team Specials - Uruguay Top Team Goalscorer,Giorgian De Arrascaeta,-0.014099999999999998,0.0244,0.0385
 2022-11-25 02:40:40.385292,Team Futures - Spain Team Specials - Spain Top Team Goalscorer,Yeremi Pino,-0.014099999999999998,0.0244,0.0385
+2022-11-25 05:40:39.055227,Team Futures - Saudi Arabia Team Specials - Saudi Arabia Top Team Goalscorer,Hattan Bahebri,-0.014099999999999998,0.0244,0.0385
+2022-11-25 02:40:40.473154,Team Futures - Uruguay Team Specials - Uruguay Top Team Goalscorer,Giorgian De Arrascaeta,-0.014099999999999998,0.0244,0.0385
+2022-11-25 02:40:40.473154,Team Futures - Uruguay Team Specials - Uruguay Top Team Goalscorer,Facundo Pellistri,-0.014099999999999998,0.0244,0.0385
 2022-11-25 05:40:39.074571,Team Futures - Senegal Team Specials - Senegal Top Team Goalscorer,Idrissa Gueye,-0.014100000000000001,0.0385,0.0526
 2022-11-25 01:40:30.582763,Boxing Lines - Sonny Ali vs Georgi Velichkov - To Win the Bout,Georgi Velichkov,-0.014399999999999996,0.0625,0.0769
 2022-11-24 23:40:40.867977,Tournament Futures - FIFA World Cup 2022 - Top South American Team,Ecuador,-0.01440000000000001,0.0909,0.1053
-2022-11-24 23:40:40.977715,Tournament Futures - FIFA World Cup 2022 - Most Assists,Leroy Sane,-0.014499999999999999,0.0149,0.0294
+2022-11-24 23:40:40.977715,Tournament Futures - FIFA World Cup 2022 - Most Assists,Ansu Fati,-0.014499999999999999,0.0149,0.0294
 2022-11-25 00:40:37.332628,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Gabriel Jesus,-0.014499999999999999,0.0149,0.0294
 2022-11-25 00:40:37.332628,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Gareth Bale,-0.014499999999999999,0.0149,0.0294
-2022-11-24 23:40:40.977715,Tournament Futures - FIFA World Cup 2022 - Most Assists,Ansu Fati,-0.014499999999999999,0.0149,0.0294
+2022-11-24 23:40:40.977715,Tournament Futures - FIFA World Cup 2022 - Most Assists,Leroy Sane,-0.014499999999999999,0.0149,0.0294
 2022-11-25 00:40:37.332628,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Aleksandar Mitrovic,-0.0145,0.0099,0.0244
-2022-11-24 22:40:42.563927,Group Futures - Group H - Group H - Teams to Advance from Group Stage,South Korea & Ghana,-0.0145,0.0099,0.0244
 2022-11-25 00:40:37.332628,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Robert Lewandowski,-0.0145,0.0099,0.0244
-2022-11-24 21:40:33.185459,Group Futures - Group G - Group G - Teams to Advance from Group Stage,Switzerland & Cameroon,-0.0145,0.0099,0.0244
+2022-11-24 22:40:42.563927,Group Futures - Group H - Group H - Teams to Advance from Group Stage,South Korea & Ghana,-0.0145,0.0099,0.0244
 2022-11-25 00:40:37.332628,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Kai Havertz,-0.0145,0.0099,0.0244
 2022-11-25 01:40:30.636059,Boxing Lines - Fabio Wardley vs Nathan Gorman - To Win the Bout,Fabio Wardley,-0.014700000000000046,0.75,0.7647
 2022-11-24 22:40:42.147228,Tournament Futures - FIFA World Cup 2022 - To Reach the Final,Serbia,-0.014900000000000004,0.0196,0.0345
@@ -304,7 +291,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-25 05:40:39.074571,Team Futures - Senegal Team Specials - Senegal Top Team Goalscorer,Boulaye Dia,-0.015100000000000002,0.1667,0.1818
 2022-11-25 01:40:30.630410,Boxing Lines - Craig Richards vs Ricards Bolotniks - To Win the Bout,Ricards Bolotniks,-0.015100000000000002,0.1667,0.1818
 2022-11-25 00:40:37.332628,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Ferran Torres,-0.016600000000000004,0.0667,0.0833
-2022-11-24 21:40:33.185459,Group Futures - Group G - Group G - Teams to Advance from Group Stage,Brazil & Serbia,-0.016699999999999993,0.4,0.4167
 2022-11-25 06:40:29.989537,Team Futures - Canada Team Specials - Canada Total Goals,6+,-0.016700000000000007,0.0833,0.1
 2022-11-24 22:40:42.592135,Group Futures - Group H - Group H - To be Eliminated in Group Stage,South Korea,-0.016700000000000048,0.7333,0.75
 2022-11-25 00:40:37.332628,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Luis Suarez,-0.017099999999999997,0.0123,0.0294
@@ -313,24 +299,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-25 05:40:38.874767,Team Futures - Ghana Team Specials - Ghana Top Team Goalscorer,Jordan Ayew,-0.0179,0.125,0.1429
 2022-11-25 01:40:32.845940,Team Futures - Spain Team Specials - Spain Exact Group Points,3,-0.018099999999999998,0.0345,0.0526
 2022-11-25 05:40:39.002665,Team Futures - Portugal Team Specials - Portugal Top Team Goalscorer,Miguel Andre Silva,-0.018099999999999998,0.0588,0.0769
-2022-11-25 02:40:40.385292,Team Futures - Spain Team Specials - Spain Top Team Goalscorer,Pedro Gonzalez,-0.018200000000000004,0.0294,0.0476
-2022-11-25 00:40:37.332628,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Alvaro Morata,-0.018200000000000004,0.0294,0.0476
 2022-11-25 05:40:39.002665,Team Futures - Portugal Team Specials - Portugal Top Team Goalscorer,Ricardo Horta,-0.018200000000000004,0.0294,0.0476
+2022-11-25 00:40:37.332628,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Alvaro Morata,-0.018200000000000004,0.0294,0.0476
+2022-11-25 02:40:40.385292,Team Futures - Spain Team Specials - Spain Top Team Goalscorer,Pedro Gonzalez,-0.018200000000000004,0.0294,0.0476
 2022-11-25 08:40:39.254799,League Two - England - League Two 2022/23 - To Finish Bottom,Colchester United,-0.01820000000000002,0.1818,0.2
 2022-11-25 02:40:40.432382,Team Futures - Tunisia Team Specials - Tunisia Top Team Goalscorer,No Tunisia Goalscorer,-0.01820000000000002,0.1818,0.2
 2022-11-25 00:40:37.332628,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Vinicius Junior,-0.0189,0.0196,0.0385
 2022-11-25 00:40:37.332628,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Memphis Depay,-0.0189,0.0196,0.0385
 2022-11-25 03:40:40.814381,Team Futures - Wales Team Specials - Wales Top Team Goalscorer,Aaron Ramsey,-0.019099999999999992,0.0476,0.0667
-2022-11-25 02:40:40.412254,Team Futures - Switzerland Team Specials - Switzerland Top Team Goalscorer,Noah Okafor,-0.019099999999999992,0.0476,0.0667
 2022-11-25 02:40:40.385292,Team Futures - Spain Team Specials - Spain Top Team Goalscorer,Anssumane Fati,-0.019099999999999992,0.0476,0.0667
-2022-11-25 05:40:39.002665,Team Futures - Portugal Team Specials - Portugal Top Team Goalscorer,Goncalo Ramos,-0.019099999999999992,0.0476,0.0667
+2022-11-25 02:40:40.412254,Team Futures - Switzerland Team Specials - Switzerland Top Team Goalscorer,Noah Okafor,-0.019099999999999992,0.0476,0.0667
 2022-11-25 03:40:40.310549,Team Futures - Cameroon Team Specials - Cameroon Top Team Goalscorer,Christian Bassogog,-0.019099999999999992,0.0476,0.0667
+2022-11-25 05:40:39.002665,Team Futures - Portugal Team Specials - Portugal Top Team Goalscorer,Goncalo Ramos,-0.019099999999999992,0.0476,0.0667
 2022-11-25 00:40:37.332628,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Dani Olmo,-0.019499999999999997,0.0099,0.0294
 2022-11-25 02:40:40.412254,Team Futures - Switzerland Team Specials - Switzerland Top Team Goalscorer,Xherdan Shaqiri,-0.02020000000000001,0.0909,0.1111
-2022-11-24 22:40:42.118748,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Thomas Muller,-0.02020000000000001,0.0909,0.1111
 2022-11-25 07:40:36.988419,Team Futures - Wales Team Specials - Wales Total Goals,8+,-0.02020000000000001,0.0909,0.1111
+2022-11-24 22:40:42.118748,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Thomas Muller,-0.02020000000000001,0.0909,0.1111
 2022-11-24 23:40:40.977715,Tournament Futures - FIFA World Cup 2022 - Most Assists,Cody Gakpo,-0.0203,0.0385,0.0588
-2022-11-24 21:40:33.185459,Group Futures - Group G - Group G - Teams to Advance from Group Stage,Serbia & Cameroon,-0.0204,0.004,0.0244
 2022-11-25 02:40:40.473154,Team Futures - Uruguay Team Specials - Uruguay Top Team Goalscorer,Ronald Araujo,-0.021199999999999997,0.0066,0.0278
 2022-11-25 01:40:32.428703,Team Futures - Cameroon Team Specials - Cameroon Stage of Elimination,Semi Final,-0.021199999999999997,0.0066,0.0278
 2022-11-25 06:40:30.023346,Team Futures - Croatia Team Specials - Croatia Total Goals,14+,-0.0215,0.0079,0.0294
@@ -342,35 +327,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-25 03:40:39.487173,NBL - NBL 2022/23 - Outright,Brisbane Bullets,-0.02310000000000001,0.0769,0.1
 2022-11-25 05:40:39.055227,Team Futures - Saudi Arabia Team Specials - Saudi Arabia Top Team Goalscorer,Abdulrahman Al-Aboud,-0.0236,0.0149,0.0385
 2022-11-25 00:40:37.332628,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Darwin Nunez,-0.0236,0.0149,0.0385
-2022-11-25 02:40:40.466269,Team Futures - Uruguay Team Specials - Uruguay Exact Group Points,7,-0.023799999999999988,0.1429,0.1667
 2022-11-25 05:40:38.874767,Team Futures - Ghana Team Specials - Ghana Top Team Goalscorer,Inaki Williams,-0.023799999999999988,0.1429,0.1667
+2022-11-25 02:40:40.466269,Team Futures - Uruguay Team Specials - Uruguay Exact Group Points,7,-0.023799999999999988,0.1429,0.1667
 2022-11-25 03:40:40.310549,Team Futures - Cameroon Team Specials - Cameroon Top Team Goalscorer,Eric Maxim Choupo-Moting,-0.023799999999999988,0.1429,0.1667
 2022-11-24 22:40:42.118748,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Serge Gnabry,-0.023799999999999988,0.1429,0.1667
 2022-11-25 07:40:36.988419,Team Futures - Wales Team Specials - Wales Total Goals,4+,-0.023800000000000043,0.5,0.5238
-2022-11-25 02:40:40.405356,Team Futures - Switzerland Team Specials - Switzerland  Exact Group Points,5 Points,-0.0242,0.0667,0.0909
 2022-11-25 05:40:39.074571,Team Futures - Senegal Team Specials - Senegal Top Team Goalscorer,Bamba Dieng,-0.0242,0.0667,0.0909
+2022-11-25 02:40:40.405356,Team Futures - Switzerland Team Specials - Switzerland  Exact Group Points,5 Points,-0.0242,0.0667,0.0909
 2022-11-25 07:40:36.988419,Team Futures - Wales Team Specials - Wales Total Goals,9+,-0.024299999999999995,0.0526,0.0769
 2022-11-24 22:40:42.164403,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,Serbia,-0.0245,0.0588,0.0833
-2022-11-24 21:40:33.194236,Group Futures - Group G - Group G - Winner and Runner-up,"1st Serbia, 2nd Switzerland",-0.024600000000000004,0.0099,0.0345
 2022-11-25 06:40:29.911294,Team Futures - Belgium Team Specials - Belgium Total Goals,17+,-0.024600000000000004,0.0099,0.0345
-2022-11-24 21:40:33.194236,Group Futures - Group G - Group G - Winner and Runner-up,"1st Switzerland, 2nd Serbia",-0.024600000000000004,0.0099,0.0345
 2022-11-25 06:40:28.181631,NFC East - 2022/2023 NFC East - NFC East Winner,Philadelphia Eagles,-0.024799999999999933,0.7647,0.7895
 2022-11-25 01:40:30.624930,Boxing Lines - Sandy Ryan vs Anahi Esther Sanchez - To Win the Bout,Anahi Esther Sanchez,-0.024800000000000016,0.1538,0.1786
 2022-11-25 05:40:39.068154,Team Futures - Senegal Team Specials - Senegal Exact Group Points,2 Points,-0.024999999999999994,0.1,0.125
-2022-11-25 08:40:39.250341,League Two - England - League Two 2022/23 - To Be Relegated,Harrogate Town,-0.02560000000000001,0.3077,0.3333
-2022-11-25 02:40:40.473154,Team Futures - Uruguay Team Specials - Uruguay Top Team Goalscorer,Luis Suarez,-0.02560000000000001,0.3077,0.3333
 2022-11-25 01:40:32.845940,Team Futures - Spain Team Specials - Spain Exact Group Points,7,-0.02560000000000001,0.3077,0.3333
 2022-11-25 01:40:32.839272,Team Futures - Spain Team Specials - Spain Stage of Elimination,Quarter Final,-0.02560000000000001,0.3077,0.3333
+2022-11-25 08:40:39.250341,League Two - England - League Two 2022/23 - To Be Relegated,Harrogate Town,-0.02560000000000001,0.3077,0.3333
+2022-11-25 02:40:40.473154,Team Futures - Uruguay Team Specials - Uruguay Top Team Goalscorer,Luis Suarez,-0.02560000000000001,0.3077,0.3333
 2022-11-25 01:40:30.569751,Boxing Lines - Liam Williams vs Nizar Trimech - To Win the Bout,Nizar Trimech,-0.0257,0.0769,0.1026
-2022-11-24 21:40:32.644222,Boxing Lines - Sam Gilley vs Sean Robinson - To Win the Bout,Sam Gilley,-0.026700000000000057,0.8824,0.9091
 2022-11-24 22:40:42.577561,Group Futures - Group H - Group H - Winner and Runner-up,"1st Ghana, 2nd Uruguay",-0.0273,0.005,0.0323
 2022-11-25 07:40:36.448549,Team Futures - Denmark Team Specials - Denmark Total Goals,15+,-0.0275,0.011,0.0385
 2022-11-24 23:40:40.848045,Tournament Futures - FIFA World Cup 2022 - Top African Team,Ghana,-0.02779999999999999,0.2222,0.25
 2022-11-25 06:40:29.860628,Team Futures - Argentina Team Specials - Argentina Total Goals,20+,-0.0279,0.0066,0.0345
 2022-11-24 22:40:42.156374,Tournament Futures - FIFA World Cup 2022 - To Reach the Quarter-Final,Serbia,-0.027999999999999997,0.1538,0.1818
-2022-11-25 00:40:37.407507,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Group,Group G,-0.028000000000000004,0.0196,0.0476
-2022-11-25 00:40:37.332628,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Lautaro Martinez,-0.028000000000000004,0.0196,0.0476
 2022-11-24 22:40:42.570607,Group Futures - Group H - Group H - To Place Last in Group,Portugal,-0.028000000000000004,0.0196,0.0476
+2022-11-25 00:40:37.332628,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Lautaro Martinez,-0.028000000000000004,0.0196,0.0476
+2022-11-25 00:40:37.407507,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Group,Group G,-0.028000000000000004,0.0196,0.0476
 2022-11-25 01:40:32.832293,Team Futures - South Korea Team Specials - South Korea Top Team Goalscorer,Woo-Yeong Jeong,-0.028199999999999996,0.0385,0.0667
 2022-11-25 07:40:36.988419,Team Futures - Wales Team Specials - Wales Total Goals,5+,-0.028299999999999992,0.3226,0.3509
 2022-11-24 22:40:42.164403,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,Cameroon,-0.0286,0.0099,0.0385
@@ -381,19 +363,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-24 22:40:42.118748,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Jamal Musiala,-0.031799999999999995,0.1111,0.1429
 2022-11-25 05:40:39.002665,Team Futures - Portugal Team Specials - Portugal Top Team Goalscorer,Bernardo Silva,-0.0321,0.0588,0.0909
 2022-11-24 22:40:42.553261,Group Futures - Group H - Group H Winner,Ghana,-0.03219999999999999,0.0345,0.0667
-2022-11-25 03:40:40.302445,Team Futures - Cameroon Team Specials - Cameroon Exact Group Points,6 Points,-0.03270000000000001,0.0149,0.0476
 2022-11-25 06:40:29.911294,Team Futures - Belgium Team Specials - Belgium Total Goals,16+,-0.03270000000000001,0.0149,0.0476
+2022-11-25 03:40:40.302445,Team Futures - Cameroon Team Specials - Cameroon Exact Group Points,6 Points,-0.03270000000000001,0.0149,0.0476
 2022-11-24 22:40:42.577561,Group Futures - Group H - Group H - Winner and Runner-up,"1st Ghana, 2nd Portugal",-0.033,0.0196,0.0526
 2022-11-25 02:40:40.473154,Team Futures - Uruguay Team Specials - Uruguay Top Team Goalscorer,Maximiliano Gomez,-0.033100000000000004,0.0294,0.0625
 2022-11-25 01:40:32.894112,Team Futures - Uruguay Team Specials - Uruguay Stage of Elimination,Quarter Final,-0.033300000000000024,0.1667,0.2
 2022-11-25 05:40:39.010210,Team Futures - Portugal Team Specials - Portugal Exact Group Points,3,-0.0334,0.0435,0.0769
 2022-11-25 05:40:39.055227,Team Futures - Saudi Arabia Team Specials - Saudi Arabia Top Team Goalscorer,Abdulelah Al-Malki,-0.0335,0.005,0.0385
-2022-11-24 21:40:33.178642,Group Futures - Group G - Group G Winner,Cameroon,-0.0336,0.0099,0.0435
 2022-11-25 00:40:37.332628,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Olivier Giroud,-0.034100000000000005,0.0909,0.125
 2022-11-25 05:40:38.868506,Team Futures - Ghana Team Specials - Ghana Exact Group Points,2 Points,-0.034100000000000005,0.0909,0.125
 2022-11-24 23:40:40.977715,Tournament Futures - FIFA World Cup 2022 - Most Assists,Neymar Junior,-0.03420000000000001,0.0769,0.1111
-2022-11-25 05:40:38.874767,Team Futures - Ghana Team Specials - Ghana Top Team Goalscorer,Thomas Partey,-0.03420000000000001,0.0769,0.1111
 2022-11-25 00:40:37.332628,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Lionel Messi,-0.03420000000000001,0.0769,0.1111
+2022-11-25 05:40:38.874767,Team Futures - Ghana Team Specials - Ghana Top Team Goalscorer,Thomas Partey,-0.03420000000000001,0.0769,0.1111
 2022-11-25 05:40:39.089062,Team Futures - Serbia Team Specials - Serbia Exact Group Points,2 Points,-0.0343,0.0833,0.1176
 2022-11-25 06:40:29.860628,Team Futures - Argentina Team Specials - Argentina Total Goals,19+,-0.0344,0.0132,0.0476
 2022-11-25 05:40:39.055227,Team Futures - Saudi Arabia Team Specials - Saudi Arabia Top Team Goalscorer,Abdullah Otayf,-0.0345,0.004,0.0385
@@ -412,10 +393,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-25 02:40:40.432382,Team Futures - Tunisia Team Specials - Tunisia Top Team Goalscorer,Seifeddine Jaziri,-0.0417,0.0833,0.125
 2022-11-25 01:40:32.818254,Team Futures - South Korea Team Specials - South Korea Stage of Elimination,Group Stage,-0.04179999999999995,0.7143,0.7561
 2022-11-25 07:40:36.448549,Team Futures - Denmark Team Specials - Denmark Total Goals,14+,-0.04239999999999999,0.0164,0.0588
-2022-11-25 01:40:32.845940,Team Futures - Spain Team Specials - Spain Exact Group Points,4,-0.042899999999999994,0.1,0.1429
 2022-11-24 23:40:40.977715,Tournament Futures - FIFA World Cup 2022 - Most Assists,Kevin De Bruyne,-0.042899999999999994,0.1,0.1429
+2022-11-25 01:40:32.845940,Team Futures - Spain Team Specials - Spain Exact Group Points,4,-0.042899999999999994,0.1,0.1429
 2022-11-25 05:40:39.055227,Team Futures - Saudi Arabia Team Specials - Saudi Arabia Top Team Goalscorer,Salman Al-Faraj,-0.04329999999999999,0.0476,0.0909
-2022-11-24 21:40:33.194236,Group Futures - Group G - Group G - Winner and Runner-up,"1st Cameroon, 2nd Brazil",-0.0436,0.004,0.0476
 2022-11-25 03:40:40.281886,Team Futures - Brazil Team Specials - Brazil Exact Group Points,6,-0.043800000000000006,0.1667,0.2105
 2022-11-25 05:40:39.074571,Team Futures - Senegal Team Specials - Senegal Top Team Goalscorer,Krepin Diatta,-0.04440000000000001,0.0667,0.1111
 2022-11-25 01:40:32.845940,Team Futures - Spain Team Specials - Spain Exact Group Points,5,-0.04440000000000001,0.0667,0.1111
@@ -425,25 +405,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-24 22:40:42.585640,Group Futures - Group H - To Advance from Group H,Uruguay,-0.04760000000000009,0.6667,0.7143
 2022-11-25 05:40:39.095725,Team Futures - Serbia Team Specials - Serbia Top Team Goalscorer,Aleksandar Mitrovic,-0.048099999999999976,0.3774,0.4255
 2022-11-25 05:40:39.074571,Team Futures - Senegal Team Specials - Senegal Top Team Goalscorer,Famara Diedhiou,-0.048100000000000004,0.0769,0.125
-2022-11-25 07:40:36.988419,Team Futures - Wales Team Specials - Wales Total Goals,7+,-0.04849999999999999,0.1333,0.1818
 2022-11-24 23:40:40.867977,Tournament Futures - FIFA World Cup 2022 - Top South American Team,Uruguay,-0.04849999999999999,0.1333,0.1818
+2022-11-25 07:40:36.988419,Team Futures - Wales Team Specials - Wales Total Goals,7+,-0.04849999999999999,0.1333,0.1818
 2022-11-25 07:40:36.988419,Team Futures - Wales Team Specials - Wales Total Goals,6+,-0.04999999999999999,0.2,0.25
 2022-11-25 01:40:32.894112,Team Futures - Uruguay Team Specials - Uruguay Stage of Elimination,Last 16,-0.05070000000000002,0.4255,0.4762
-2022-11-25 01:40:32.802326,Team Futures - Senegal Team Specials - Senegal Stage of Elimination,Quarter Finals,-0.052000000000000005,0.0909,0.1429
 2022-11-25 05:40:39.095725,Team Futures - Serbia Team Specials - Serbia Top Team Goalscorer,Luka Jovic,-0.052000000000000005,0.0909,0.1429
+2022-11-25 01:40:32.802326,Team Futures - Senegal Team Specials - Senegal Stage of Elimination,Quarter Finals,-0.052000000000000005,0.0909,0.1429
 2022-11-25 01:40:32.832293,Team Futures - South Korea Team Specials - South Korea Top Team Goalscorer,Kang-In Lee,-0.052399999999999995,0.0385,0.0909
 2022-11-25 03:40:40.814381,Team Futures - Wales Team Specials - Wales Top Team Goalscorer,Daniel James,-0.0524,0.0476,0.1
 2022-11-25 03:40:40.814381,Team Futures - Wales Team Specials - Wales Top Team Goalscorer,Brennan Johnson,-0.0524,0.0476,0.1
 2022-11-25 06:40:30.023346,Team Futures - Croatia Team Specials - Croatia Total Goals,12+,-0.05249999999999999,0.0244,0.0769
 2022-11-25 06:40:29.911294,Team Futures - Belgium Team Specials - Belgium Total Goals,15+,-0.0539,0.0294,0.0833
+2022-11-24 22:40:42.118748,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Jude Bellingham,-0.05550000000000002,0.1667,0.2222
 2022-11-24 22:40:42.171969,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Team,France,-0.05550000000000002,0.1667,0.2222
 2022-11-25 05:40:38.868506,Team Futures - Ghana Team Specials - Ghana Exact Group Points,4 Points,-0.05550000000000002,0.1667,0.2222
-2022-11-24 22:40:42.118748,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Jude Bellingham,-0.05550000000000002,0.1667,0.2222
 2022-11-25 03:40:40.310549,Team Futures - Cameroon Team Specials - Cameroon Top Team Goalscorer,Karl Toto Ekambi,-0.05559999999999998,0.1111,0.1667
 2022-11-24 22:40:42.156374,Tournament Futures - FIFA World Cup 2022 - To Reach the Quarter-Final,Cameroon,-0.05639999999999999,0.0345,0.0909
 2022-11-25 05:40:39.010210,Team Futures - Portugal Team Specials - Portugal Exact Group Points,4,-0.05679999999999999,0.125,0.1818
 2022-11-25 02:40:40.473154,Team Futures - Uruguay Team Specials - Uruguay Top Team Goalscorer,Edinson Cavani,-0.057200000000000015,0.0909,0.1481
-2022-11-24 21:40:33.185459,Group Futures - Group G - Group G - Teams to Advance from Group Stage,Serbia & Switzerland,-0.0573,0.0196,0.0769
 2022-11-25 05:40:39.002665,Team Futures - Portugal Team Specials - Portugal Top Team Goalscorer,Bruno Fernandes,-0.058300000000000005,0.0667,0.125
 2022-11-25 06:40:29.860628,Team Futures - Argentina Team Specials - Argentina Total Goals,18+,-0.058899999999999994,0.0244,0.0833
 2022-11-25 03:40:40.281886,Team Futures - Brazil Team Specials - Brazil Exact Group Points,7,-0.059099999999999986,0.2857,0.3448
@@ -456,8 +435,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-25 02:40:40.385292,Team Futures - Spain Team Specials - Spain Top Team Goalscorer,Alvaro Morata,-0.06659999999999999,0.2667,0.3333
 2022-11-25 03:40:40.814381,Team Futures - Wales Team Specials - Wales Top Team Goalscorer,Kieffer Moore,-0.06669999999999998,0.1,0.1667
 2022-11-25 07:40:36.448549,Team Futures - Denmark Team Specials - Denmark Total Goals,12+,-0.06999999999999999,0.0476,0.1176
-2022-11-25 02:40:40.412254,Team Futures - Switzerland Team Specials - Switzerland Top Team Goalscorer,Haris Seferovic,-0.07069999999999999,0.1111,0.1818
 2022-11-25 00:40:37.332628,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Kylian Mbappe,-0.07069999999999999,0.1111,0.1818
+2022-11-25 02:40:40.412254,Team Futures - Switzerland Team Specials - Switzerland Top Team Goalscorer,Haris Seferovic,-0.07069999999999999,0.1111,0.1818
 2022-11-25 06:40:29.989537,Team Futures - Canada Team Specials - Canada Total Goals,4+,-0.0726,0.25,0.3226
 2022-11-25 06:40:29.860628,Team Futures - Argentina Team Specials - Argentina Total Goals,17+,-0.0741,0.0435,0.1176
 2022-11-25 06:40:29.944959,Team Futures - Cameroon Team Specials - Cameroon Total Goals,6+,-0.0745,0.0164,0.0909
@@ -465,7 +444,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-25 05:40:38.874767,Team Futures - Ghana Team Specials - Ghana Top Team Goalscorer,Mohammed Kudus,-0.07579999999999999,0.0909,0.1667
 2022-11-25 02:40:40.466269,Team Futures - Uruguay Team Specials - Uruguay Exact Group Points,3,-0.07579999999999999,0.0909,0.1667
 2022-11-25 06:40:29.911294,Team Futures - Belgium Team Specials - Belgium Total Goals,13+,-0.0769,0.0769,0.1538
-2022-11-24 21:40:33.178642,Group Futures - Group G - Group G Winner,Serbia,-0.0769,0.0769,0.1538
 2022-11-25 05:40:39.074571,Team Futures - Senegal Team Specials - Senegal Top Team Goalscorer,Ismaila Sarr,-0.07789999999999997,0.2857,0.3636
 2022-11-25 01:40:32.832293,Team Futures - South Korea Team Specials - South Korea Top Team Goalscorer,Eui-Jo Hwang,-0.07930000000000001,0.1429,0.2222
 2022-11-25 06:40:29.989537,Team Futures - Canada Team Specials - Canada Total Goals,3+,-0.07940000000000003,0.4444,0.5238
@@ -475,13 +453,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-25 02:40:40.426043,Team Futures - Tunisia Team Specials - Tunisia Exact Group Points,1 Point,-0.08549999999999996,0.2222,0.3077
 2022-11-25 03:40:40.302445,Team Futures - Cameroon Team Specials - Cameroon Exact Group Points,2 Points,-0.0857,0.0476,0.1333
 2022-11-25 03:40:40.281886,Team Futures - Brazil Team Specials - Brazil Exact Group Points,5,-0.0865,0.0385,0.125
-2022-11-24 21:40:33.194236,Group Futures - Group G - Group G - Winner and Runner-up,"1st Serbia, 2nd Brazil",-0.0867,0.0244,0.1111
 2022-11-25 06:40:29.860628,Team Futures - Argentina Team Specials - Argentina Total Goals,16+,-0.0871,0.0667,0.1538
 2022-11-25 06:40:29.911294,Team Futures - Belgium Team Specials - Belgium Total Goals,12+,-0.0889,0.1111,0.2
-2022-11-25 05:40:39.010210,Team Futures - Portugal Team Specials - Portugal Exact Group Points,5,-0.08979999999999999,0.0769,0.1667
 2022-11-25 07:40:36.448549,Team Futures - Denmark Team Specials - Denmark Total Goals,11+,-0.08979999999999999,0.0769,0.1667
+2022-11-25 05:40:39.010210,Team Futures - Portugal Team Specials - Portugal Exact Group Points,5,-0.08979999999999999,0.0769,0.1667
 2022-11-24 22:40:42.577561,Group Futures - Group H - Group H - Winner and Runner-up,"1st Uruguay, 2nd Portugal",-0.0928,0.1739,0.2667
-2022-11-24 21:40:33.194236,Group Futures - Group G - Group G - Winner and Runner-up,"1st Brazil, 2nd Cameroon",-0.0953,0.0476,0.1429
 2022-11-25 06:40:29.911294,Team Futures - Belgium Team Specials - Belgium Total Goals,11+,-0.09620000000000001,0.1538,0.25
 2022-11-24 22:40:42.534124,Group Futures - Group G - To Advance from Group G,Serbia,-0.09830000000000005,0.4255,0.5238
 2022-11-25 00:40:37.875307,Team Futures - Brazil Team Specials - Brazil Stage of Elimination,Group Stage,-0.10119999999999998,0.0526,0.1538
@@ -500,14 +476,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-25 01:40:32.610427,Team Futures - Ghana Team Specials - Ghana Stage of Elimination,Last 16,-0.1238,0.1429,0.2667
 2022-11-24 22:40:42.592135,Group Futures - Group H - Group H - To be Eliminated in Group Stage,Portugal,-0.13,0.1053,0.2353
 2022-11-25 03:40:40.807424,Team Futures - Wales Team Specials - Wales Exact Group Points,3 Points,-0.13130000000000003,0.0909,0.2222
-2022-11-24 21:40:33.185459,Group Futures - Group G - Group G - Teams to Advance from Group Stage,Brazil & Cameroon,-0.1317,0.0588,0.1905
 2022-11-25 07:40:36.448549,Team Futures - Denmark Team Specials - Denmark Total Goals,9+,-0.13190000000000002,0.1538,0.2857
 2022-11-25 03:40:40.302445,Team Futures - Cameroon Team Specials - Cameroon Exact Group Points,4 Points,-0.13330000000000003,0.0667,0.2
 2022-11-25 06:40:29.911294,Team Futures - Belgium Team Specials - Belgium Total Goals,9+,-0.13330000000000003,0.2667,0.4
 2022-11-25 01:40:32.825286,Team Futures - South Korea Team Specials - South Korea  Exact Group Points,3 Points,-0.13890000000000002,0.0833,0.2222
 2022-11-25 01:40:32.852968,Team Futures - Switzerland Team Specials - Switzerland  Stage of Elimination,Group Stage,-0.13970000000000005,0.4255,0.5652
-2022-11-24 22:40:42.534124,Group Futures - Group G - To Advance from Group G,Cameroon,-0.1474,0.0526,0.2
 2022-11-25 01:40:32.832293,Team Futures - South Korea Team Specials - South Korea Top Team Goalscorer,Hee-Chan Hwang,-0.1474,0.0526,0.2
+2022-11-24 22:40:42.534124,Group Futures - Group G - To Advance from Group G,Cameroon,-0.1474,0.0526,0.2
 2022-11-25 01:40:32.809621,Team Futures - Serbia Team Specials - Serbia Stage of Elimination,Last 16,-0.1482,0.2222,0.3704
 2022-11-25 06:40:30.023346,Team Futures - Croatia Team Specials - Croatia Total Goals,8+,-0.1491,0.1176,0.2667
 2022-11-25 06:40:29.860628,Team Futures - Argentina Team Specials - Argentina Total Goals,13+,-0.1515,0.1818,0.3333
@@ -521,14 +496,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-25 06:40:29.944959,Team Futures - Cameroon Team Specials - Cameroon Total Goals,4+,-0.1834,0.0833,0.2667
 2022-11-25 06:40:30.023346,Team Futures - Croatia Team Specials - Croatia Total Goals,7+,-0.1842,0.1667,0.3509
 2022-11-25 06:40:29.911294,Team Futures - Belgium Team Specials - Belgium Total Goals,8+,-0.19050000000000006,0.3333,0.5238
-2022-11-24 21:40:33.189774,Group Futures - Group G - Group G - To Place Last in Group,Switzerland,-0.1912,0.0588,0.25
 2022-11-25 06:40:29.860628,Team Futures - Argentina Team Specials - Argentina Total Goals,12+,-0.19469999999999998,0.2308,0.4255
 2022-11-25 07:40:36.448549,Team Futures - Denmark Team Specials - Denmark Total Goals,7+,-0.20950000000000002,0.2667,0.4762
 2022-11-25 06:40:29.860628,Team Futures - Argentina Team Specials - Argentina Total Goals,11+,-0.2143,0.2857,0.5
 2022-11-25 07:40:36.448549,Team Futures - Denmark Team Specials - Denmark Total Goals,6+,-0.23550000000000004,0.3478,0.5833
+2022-11-25 06:40:29.860628,Team Futures - Argentina Team Specials - Argentina Total Goals,8+,-0.23810000000000003,0.4762,0.7143
 2022-11-25 06:40:30.023346,Team Futures - Croatia Team Specials - Croatia Total Goals,4+,-0.23810000000000003,0.4762,0.7143
 2022-11-25 07:40:36.448549,Team Futures - Denmark Team Specials - Denmark Total Goals,5+,-0.23810000000000003,0.4762,0.7143
-2022-11-25 06:40:29.860628,Team Futures - Argentina Team Specials - Argentina Total Goals,8+,-0.23810000000000003,0.4762,0.7143
 2022-11-25 06:40:29.860628,Team Futures - Argentina Team Specials - Argentina Total Goals,10+,-0.25000000000000006,0.3333,0.5833
 2022-11-25 06:40:29.860628,Team Futures - Argentina Team Specials - Argentina Total Goals,9+,-0.2552,0.4,0.6552
 2022-11-25 06:40:30.023346,Team Futures - Croatia Team Specials - Croatia Total Goals,6+,-0.2692,0.2308,0.5
