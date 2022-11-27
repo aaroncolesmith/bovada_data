@@ -24,6 +24,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-26 22:40:32.287143,Group Futures - Group C - Group C - To Place Last in Group,Mexico,0.14140000000000003,0.4444,0.303
 2022-11-26 23:40:35.240127,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Kylian Mbappe,0.1389,0.25,0.1111
 2022-11-26 22:40:32.297336,Group Futures - Group D - Group D Winner,France,0.124,0.999,0.875
+2022-11-27 05:40:30.316994,Team Futures - Argentina Team Specials - Argentina Total Goals,9+,0.12380000000000002,0.5238,0.4
+2022-11-27 05:40:30.316994,Team Futures - Argentina Team Specials - Argentina Total Goals,8+,0.12369999999999998,0.5999,0.4762
+2022-11-27 05:40:30.316994,Team Futures - Argentina Team Specials - Argentina Total Goals,10+,0.12120000000000003,0.4545,0.3333
 2022-11-27 02:40:37.914032,Tournament Futures - FIFA World Cup 2022 - Top African Team,Senegal,0.12040000000000001,0.3704,0.25
 2022-11-26 22:40:32.230606,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Kylian Mbappe,0.1167,0.25,0.1333
 2022-11-26 22:40:32.282426,Group Futures - Group C - Group C Winner,Poland,0.10069999999999998,0.3333,0.2326
@@ -33,11 +36,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-27 02:40:37.898306,Tournament Futures - FIFA World Cup 2022 - Top French Ligue 1 Goalscorer,Kylian Mbappe,0.08550000000000002,0.7778,0.6923
 2022-11-27 01:40:32.638693,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Team,France,0.08330000000000001,0.25,0.1667
 2022-11-27 02:40:37.979017,Tournament Futures - FIFA World Cup 2022 - Lowest Scoring Group ,Group C,0.07930000000000001,0.2222,0.1429
-2022-11-26 17:40:31.735840,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,Caleb Williams,0.06929999999999997,0.5455,0.4762
+2022-11-27 05:40:30.316994,Team Futures - Argentina Team Specials - Argentina Total Goals,11+,0.07789999999999997,0.3636,0.2857
+2022-11-27 05:40:30.316994,Team Futures - Argentina Team Specials - Argentina Total Goals,12+,0.07689999999999997,0.3077,0.2308
 2022-11-27 01:40:32.656673,Tournament Futures - FIFA World Cup 2022 - To Lose All Group Matches,Ghana,0.06820000000000001,0.25,0.1818
 2022-11-27 02:40:37.914032,Tournament Futures - FIFA World Cup 2022 - Top African Team,Morocco,0.06670000000000004,0.4,0.3333
-2022-11-26 22:40:32.245143,Tournament Futures - FIFA World Cup 2022 - To Reach the Quarter-Final,France,0.06659999999999999,0.7333,0.6667
 2022-11-26 18:40:38.062827,Andalucia Open de Espana - Andalucia Open de Espana - Outright,Leona Maguire,0.06659999999999999,0.3333,0.2667
+2022-11-26 22:40:32.245143,Tournament Futures - FIFA World Cup 2022 - To Reach the Quarter-Final,France,0.06659999999999999,0.7333,0.6667
 2022-11-27 01:40:32.669964,Tournament Futures - FIFA World Cup 2022 - Young Player Award Winner,Enzo Fernandez,0.06649999999999999,0.0909,0.0244
 2022-11-26 18:40:38.062827,Andalucia Open de Espana - Andalucia Open de Espana - Outright,Caroline Hedwall,0.06620000000000001,0.125,0.0588
 2022-11-26 18:40:37.043266,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,Michigan,0.066,0.1429,0.0769
@@ -48,17 +52,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-26 22:40:32.249756,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,Argentina,0.055900000000000005,0.3636,0.3077
 2022-11-26 22:40:32.249756,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,France,0.05449999999999999,0.4545,0.4
 2022-11-26 18:40:38.735888,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Rick Carlisle,0.0524,0.1,0.0476
+2022-11-27 05:40:29.932976,Tournament Futures - FIFA World Cup 2022 - Tournament Winner and Top Goalscorer Parlay,Brazil & Kylian Mbappe,0.052399999999999995,0.0909,0.0385
 2022-11-26 18:40:36.924449,BKFC Fight Night: Newcastle - Agi Faulkner vs Daniel Robson - To Win the Bout,Agi Faulkner,0.0504,0.7647,0.7143
+2022-11-27 05:40:30.316994,Team Futures - Argentina Team Specials - Argentina Total Goals,13+,0.049000000000000016,0.2308,0.1818
 2022-11-26 23:40:35.637054,Team Futures - Denmark Team Specials - Denmark Stage of Elimination,Group Stage,0.048099999999999976,0.4255,0.3774
 2022-11-27 01:40:32.633098,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Group,Group E,0.04760000000000009,0.7143,0.6667
 2022-11-27 01:40:32.638693,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Team,Spain,0.047599999999999976,0.3333,0.2857
-2022-11-26 17:40:31.648328,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,Ohio State,0.047599999999999976,0.3333,0.2857
 2022-11-26 18:40:37.176671,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,CJ Stroud,0.043399999999999994,0.5556,0.5122
 2022-11-26 22:40:32.245143,Tournament Futures - FIFA World Cup 2022 - To Reach the Quarter-Final,Australia,0.04329999999999999,0.0909,0.0476
 2022-11-26 22:40:30.963392,Boxing Lines - Yokasta Valle vs Evelin Nazarena Bermudez - To Win the Bout,Yokasta Valle,0.042200000000000015,0.7143,0.6721
 2022-11-27 04:40:34.260575,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Robert Lewandowski,0.0407,0.1176,0.0769
-2022-11-27 01:40:32.633098,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Group,Group B,0.04040000000000002,0.2222,0.1818
 2022-11-26 23:40:35.472916,Team Futures - Argentina Team Specials - Argentina Stage of Elimination,Quarter Final,0.04040000000000002,0.2222,0.1818
+2022-11-27 01:40:32.633098,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Group,Group B,0.04040000000000002,0.2222,0.1818
+2022-11-27 05:40:29.932976,Tournament Futures - FIFA World Cup 2022 - Tournament Winner and Top Goalscorer Parlay,France & Kylian Mbappe,0.0384,0.0769,0.0385
 2022-11-26 23:40:35.478871,Team Futures - Australia Team Specials - Australia Stage of Elimination,Quarter Finals,0.0384,0.0769,0.0385
 2022-11-27 01:40:32.651502,Tournament Futures - FIFA World Cup 2022 - Golden Glove Winner,Jordan Pickford,0.038299999999999994,0.0909,0.0526
 2022-11-27 03:40:29.489005,Boxing Lines - Yokasta Valle vs Evelin Nazarena Bermudez - To Win the Bout,Yokasta Valle,0.036900000000000044,0.7143,0.6774
@@ -68,28 +74,31 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-27 03:40:31.039960,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Brazil & France,0.03420000000000001,0.1111,0.0769
 2022-11-26 22:40:31.518829,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,Max Duggan,0.034100000000000005,0.125,0.0909
 2022-11-27 01:40:31.158784,Boxing Lines - Yokasta Valle vs Evelin Nazarena Bermudez - To Win the Bout,Evelin Nazarena Bermudez,0.03370000000000001,0.3846,0.3509
+2022-11-27 05:40:30.316994,Team Futures - Argentina Team Specials - Argentina Total Goals,14+,0.033399999999999985,0.1667,0.1333
 2022-11-26 20:40:32.501735,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,Georgia,0.033399999999999985,0.6078,0.5744
 2022-11-26 22:40:32.239866,Tournament Futures - FIFA World Cup 2022 - To Reach the Final,Argentina,0.031700000000000006,0.2222,0.1905
 2022-11-27 01:40:32.651502,Tournament Futures - FIFA World Cup 2022 - Golden Glove Winner,Alisson,0.031700000000000006,0.2222,0.1905
+2022-11-27 05:40:29.309669,Round Match-Ups - Final Round Match-Up - C. Bezuidenhout vs O. Bekker - Final Round Match-Up,Oliver Bekker,0.030299999999999994,0.4651,0.4348
 2022-11-27 03:40:31.039960,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Argentina & France,0.0294,0.0588,0.0294
 2022-11-26 23:40:35.865652,Team Futures - Poland Team Specials - Poland Stage of Elimination,Semi Finals,0.029299999999999993,0.0769,0.0476
 2022-11-27 01:40:32.662131,Tournament Futures - FIFA World Cup 2022 - To Win All Group Matches,Switzerland,0.028199999999999996,0.0667,0.0385
 2022-11-27 03:40:31.039960,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,France & Spain,0.028199999999999996,0.0667,0.0385
-2022-11-27 02:40:37.918611,Tournament Futures - FIFA World Cup 2022 - Top European Team,France,0.02779999999999999,0.25,0.2222
 2022-11-26 18:40:38.757112,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Lauri Markanen,0.02779999999999999,0.25,0.2222
+2022-11-27 02:40:37.918611,Tournament Futures - FIFA World Cup 2022 - Top European Team,France,0.02779999999999999,0.25,0.2222
 2022-11-26 19:40:33.360258,Round Match-Ups - Final Round Match-Up - H. du Plessis vs J. Schaper - Final Round Match-Up,Hennie Du Plessis,0.026499999999999968,0.5917,0.5652
+2022-11-27 05:40:29.932976,Tournament Futures - FIFA World Cup 2022 - Tournament Winner and Top Goalscorer Parlay,Argentina & Kylian Mbappe,0.0262,0.0385,0.0123
 2022-11-26 23:40:35.689912,Team Futures - France Team Specials - France Stage of Elimination,Last 16,0.02560000000000001,0.3333,0.3077
 2022-11-26 23:40:35.689912,Team Futures - France Team Specials - France Stage of Elimination,Quarter Final,0.02560000000000001,0.3333,0.3077
 2022-11-27 02:40:37.918611,Tournament Futures - FIFA World Cup 2022 - Top European Team,Belgium,0.025300000000000003,0.1429,0.1176
 2022-11-26 23:40:35.240127,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Lionel Messi,0.024999999999999994,0.125,0.1
+2022-11-27 05:40:29.331683,Hero World Challenge 2022 - Hero World Challenge 2022 - Outright,Matt Fitzpatrick,0.0242,0.0909,0.0667
 2022-11-26 21:40:30.337157,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,USC,0.0242,0.0909,0.0667
-2022-11-27 03:40:31.039960,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Argentina & England,0.023200000000000002,0.0476,0.0244
 2022-11-26 21:40:30.337157,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,Alabama,0.023200000000000002,0.0476,0.0244
-2022-11-26 17:40:32.618133,Boxing Lines - Dean Sutherland vs Louis Greene - To Win the Bout,Louis Greene,0.02250000000000002,0.2857,0.2632
+2022-11-27 03:40:31.039960,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Argentina & England,0.023200000000000002,0.0476,0.0244
 2022-11-26 21:40:30.438614,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,Bo Nix,0.022400000000000003,0.0323,0.0099
 2022-11-26 18:40:38.735888,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Joe Mazzulla,0.022199999999999998,0.2222,0.2
-2022-11-27 02:40:37.918611,Tournament Futures - FIFA World Cup 2022 - Top European Team,England,0.022199999999999998,0.2222,0.2
 2022-11-26 22:40:32.302218,Group Futures - Group D - Group D - To Place Last in Group,Denmark,0.022199999999999998,0.1333,0.1111
+2022-11-27 02:40:37.918611,Tournament Futures - FIFA World Cup 2022 - Top European Team,England,0.022199999999999998,0.2222,0.2
 2022-11-27 01:40:32.677321,Tournament Futures - FIFA World Cup 2022 - Lowest Scoring Team,Wales,0.0203,0.0588,0.0385
 2022-11-26 18:40:38.757112,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Tyrese Haliburton (IND),0.02020000000000001,0.1111,0.0909
 2022-11-27 01:40:32.656673,Tournament Futures - FIFA World Cup 2022 - To Lose All Group Matches,Germany,0.019499999999999997,0.0294,0.0099
@@ -109,22 +118,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-27 01:40:32.677321,Tournament Futures - FIFA World Cup 2022 - Lowest Scoring Team,Costa Rica,0.016699999999999993,0.2667,0.25
 2022-11-26 22:40:32.239866,Tournament Futures - FIFA World Cup 2022 - To Reach the Final,France,0.016699999999999993,0.2667,0.25
 2022-11-26 23:40:35.472916,Team Futures - Argentina Team Specials - Argentina Stage of Elimination,Semi Final,0.015100000000000002,0.1818,0.1667
+2022-11-27 01:40:32.651502,Tournament Futures - FIFA World Cup 2022 - Golden Glove Winner,Yan Sommer,0.0145,0.0244,0.0099
 2022-11-26 22:40:32.230606,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Robert Lewandowski,0.0145,0.0244,0.0099
 2022-11-27 03:40:31.113031,Tournament Futures - FIFA World Cup 2022 - Name The Semi-Finalists,"Argentina, France, Portugal & Spain",0.0145,0.0244,0.0099
-2022-11-27 01:40:32.651502,Tournament Futures - FIFA World Cup 2022 - Golden Glove Winner,Yan Sommer,0.0145,0.0244,0.0099
 2022-11-26 19:40:32.249864,Boxing Lines - Fabio Wardley vs Nathan Gorman - To Win the Bout,Nathan Gorman,0.01419999999999999,0.3846,0.3704
 2022-11-26 23:40:33.889016,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,Alabama,0.014100000000000001,0.0526,0.0385
-2022-11-26 23:40:33.889016,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,Ohio State,0.014099999999999998,0.0385,0.0244
+2022-11-27 05:40:29.932976,Tournament Futures - FIFA World Cup 2022 - Tournament Winner and Top Goalscorer Parlay,Argentina & Lionel Messi,0.014099999999999998,0.0385,0.0244
 2022-11-27 03:40:31.104933,Tournament Futures - FIFA World Cup 2022 - Most Assists,Antoine Griezmann,0.014099999999999998,0.0385,0.0244
-2022-11-27 01:40:32.633098,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Group,Group A,0.013999999999999999,0.0909,0.0769
+2022-11-26 23:40:33.889016,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,Ohio State,0.014099999999999998,0.0385,0.0244
+2022-11-27 03:40:30.983417,Tournament Futures - FIFA World Cup 2022 - Runner Up,Portugal,0.013999999999999999,0.0909,0.0769
 2022-11-26 22:40:31.417954,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,TCU,0.013999999999999999,0.0909,0.0769
 2022-11-27 01:40:32.656673,Tournament Futures - FIFA World Cup 2022 - To Lose All Group Matches,Serbia,0.013999999999999999,0.0909,0.0769
-2022-11-27 03:40:30.983417,Tournament Futures - FIFA World Cup 2022 - Runner Up,Portugal,0.013999999999999999,0.0909,0.0769
+2022-11-27 01:40:32.633098,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Group,Group A,0.013999999999999999,0.0909,0.0769
 2022-11-27 01:40:32.651502,Tournament Futures - FIFA World Cup 2022 - Golden Glove Winner,Mathew Ryan,0.0139,0.0149,0.001
 2022-11-26 18:40:36.702931,Boxing Lines - Fabio Wardley vs Nathan Gorman - To Win the Bout,Nathan Gorman,0.013300000000000034,0.3704,0.3571
 2022-11-27 01:40:32.638693,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Team,Argentina,0.0131,0.0476,0.0345
-2022-11-27 03:40:31.113031,Tournament Futures - FIFA World Cup 2022 - Name The Semi-Finalists,"France, Netherlands, Portugal & Spain",0.013,0.0196,0.0066
 2022-11-27 03:40:30.983417,Tournament Futures - FIFA World Cup 2022 - Runner Up,Japan,0.013,0.0196,0.0066
+2022-11-27 03:40:31.113031,Tournament Futures - FIFA World Cup 2022 - Name The Semi-Finalists,"France, Netherlands, Portugal & Spain",0.013,0.0196,0.0066
 2022-11-26 23:40:35.271303,Tournament Futures - FIFA World Cup 2022 - Winners Group,Group D,0.012899999999999995,0.1667,0.1538
 2022-11-26 23:40:35.478871,Team Futures - Australia Team Specials - Australia Stage of Elimination,Semi Finals,0.012100000000000001,0.0244,0.0123
 2022-11-27 03:40:29.498430,Boxing Lines - Regis Prograis vs Jose Zepeda - To Win the Bout,Jose Zepeda,0.011899999999999994,0.25,0.2381
@@ -132,18 +142,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-26 21:40:29.319656,Boxing Lines - Zach Parker vs John Ryder - To Win the Bout,John Ryder,0.01150000000000001,0.3448,0.3333
 2022-11-27 03:40:31.104933,Tournament Futures - FIFA World Cup 2022 - Most Assists,Lionel Messi,0.011099999999999999,0.1111,0.1
 2022-11-27 00:40:40.771289,Group Futures - Group F - Group F Winner,Morocco,0.011099999999999999,0.1111,0.1
+2022-11-27 05:40:30.316994,Team Futures - Argentina Team Specials - Argentina Total Goals,15+,0.011099999999999999,0.1111,0.1
 2022-11-26 19:40:32.254601,Boxing Lines - Dillian Whyte vs Jermaine Franklin - To Win the Bout,Jermaine Franklin,0.010899999999999993,0.1538,0.1429
 2022-11-26 20:40:31.056645,Boxing Lines - Zach Parker vs John Ryder - To Win the Bout,John Ryder,0.010699999999999987,0.3333,0.3226
-2022-11-26 20:40:32.501735,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,TCU,0.0102,0.0769,0.0667
 2022-11-26 22:40:32.249756,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,Poland,0.0102,0.0769,0.0667
+2022-11-27 05:40:30.316994,Team Futures - Argentina Team Specials - Argentina Total Goals,16+,0.0102,0.0769,0.0667
 2022-11-27 01:40:32.638693,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Team,Portugal,0.0102,0.0769,0.0667
+2022-11-26 20:40:32.501735,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,TCU,0.0102,0.0769,0.0667
+2022-11-27 05:40:29.932976,Tournament Futures - FIFA World Cup 2022 - Tournament Winner and Top Goalscorer Parlay,Brazil & Messi,0.010100000000000001,0.0345,0.0244
 2022-11-26 23:40:35.240127,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Cody Gakpo,-0.010100000000000001,0.0244,0.0345
-2022-11-27 01:40:32.677321,Tournament Futures - FIFA World Cup 2022 - Lowest Scoring Team,Morocco,-0.0102,0.0667,0.0769
-2022-11-26 22:40:32.230606,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Ferran Torres,-0.0102,0.0667,0.0769
-2022-11-26 23:40:35.240127,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Richarlison,-0.0102,0.0667,0.0769
-2022-11-26 22:40:32.219534,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Portugal,-0.0102,0.0667,0.0769
-2022-11-26 23:40:35.271303,Tournament Futures - FIFA World Cup 2022 - Winners Group,Group F,-0.0102,0.0667,0.0769
 2022-11-27 04:40:34.260575,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Joao Felix,-0.0102,0.0667,0.0769
+2022-11-26 23:40:35.271303,Tournament Futures - FIFA World Cup 2022 - Winners Group,Group F,-0.0102,0.0667,0.0769
+2022-11-26 23:40:35.240127,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Richarlison,-0.0102,0.0667,0.0769
+2022-11-26 22:40:32.230606,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Ferran Torres,-0.0102,0.0667,0.0769
+2022-11-26 22:40:32.219534,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Portugal,-0.0102,0.0667,0.0769
+2022-11-27 01:40:32.677321,Tournament Futures - FIFA World Cup 2022 - Lowest Scoring Team,Morocco,-0.0102,0.0667,0.0769
 2022-11-26 19:40:32.269791,Boxing Lines - Zach Parker vs John Ryder - To Win the Bout,John Ryder,-0.010699999999999987,0.3226,0.3333
 2022-11-26 18:40:38.746634,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Mikal Bridges (PHX),-0.010700000000000001,0.0278,0.0385
 2022-11-26 22:40:32.239866,Tournament Futures - FIFA World Cup 2022 - To Reach the Final,Netherlands,-0.010899999999999993,0.1429,0.1538
@@ -151,7 +164,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-26 21:40:29.319656,Boxing Lines - Zach Parker vs John Ryder - To Win the Bout,Zach Parker,-0.011099999999999999,0.7222,0.7333
 2022-11-26 18:40:38.746634,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Rudy Gobert (MIN),-0.011099999999999999,0.1,0.1111
 2022-11-27 02:40:37.918611,Tournament Futures - FIFA World Cup 2022 - Top European Team,Switzerland,-0.011199999999999995,0.0323,0.0435
-2022-11-26 17:40:32.577003,Boxing Lines - Dennis McCann vs Joe Ham - To Win the Bout,Joe Ham,-0.011899999999999994,0.0714,0.0833
+2022-11-27 05:40:29.932976,Tournament Futures - FIFA World Cup 2022 - Tournament Winner and Top Goalscorer Parlay,England & Harry Kane,-0.011699999999999999,0.0079,0.0196
 2022-11-26 23:40:35.240127,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Lautaro Martinez,-0.012100000000000001,0.0123,0.0244
 2022-11-26 19:40:33.671208,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,Caleb Williams,-0.012199999999999989,0.5,0.5122
 2022-11-26 18:40:38.062827,Andalucia Open de Espana - Andalucia Open de Espana - Outright,Paula Martin,-0.012199999999999999,0.001,0.0132
@@ -161,29 +174,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-27 03:40:31.104933,Tournament Futures - FIFA World Cup 2022 - Most Assists,Raheem Sterling,-0.0131,0.0345,0.0476
 2022-11-26 18:40:36.702931,Boxing Lines - Fabio Wardley vs Nathan Gorman - To Win the Bout,Fabio Wardley,-0.013599999999999945,0.6923,0.7059
 2022-11-26 23:40:35.472916,Team Futures - Argentina Team Specials - Argentina Stage of Elimination,Runner-up,-0.013899999999999996,0.1111,0.125
-2022-11-26 17:40:31.648328,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,Michigan,-0.013999999999999999,0.0769,0.0909
-2022-11-27 04:40:34.260575,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Pedri,-0.013999999999999999,0.0769,0.0909
 2022-11-27 01:40:32.677321,Tournament Futures - FIFA World Cup 2022 - Lowest Scoring Team,Canada,-0.013999999999999999,0.0769,0.0909
+2022-11-27 04:40:34.260575,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Pedri,-0.013999999999999999,0.0769,0.0909
 2022-11-27 03:40:31.039960,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Germany & Spain,-0.014099999999999998,0.0244,0.0385
-2022-11-27 03:40:30.983417,Tournament Futures - FIFA World Cup 2022 - Runner Up,Croatia,-0.014099999999999998,0.0244,0.0385
-2022-11-26 23:40:35.240127,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Bruno Fernandes,-0.014099999999999998,0.0244,0.0385
-2022-11-26 22:40:32.230606,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Harry Kane,-0.014099999999999998,0.0244,0.0385
 2022-11-26 23:40:35.240127,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Jude Bellingham,-0.014099999999999998,0.0244,0.0385
-2022-11-27 02:40:37.918611,Tournament Futures - FIFA World Cup 2022 - Top European Team,Serbia,-0.014499999999999999,0.0149,0.0294
+2022-11-26 23:40:35.240127,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Bruno Fernandes,-0.014099999999999998,0.0244,0.0385
+2022-11-27 03:40:30.983417,Tournament Futures - FIFA World Cup 2022 - Runner Up,Croatia,-0.014099999999999998,0.0244,0.0385
+2022-11-26 22:40:32.230606,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Harry Kane,-0.014099999999999998,0.0244,0.0385
 2022-11-27 01:40:32.651502,Tournament Futures - FIFA World Cup 2022 - Golden Glove Winner,Remko Pasveer,-0.014499999999999999,0.0149,0.0294
-2022-11-27 03:40:31.104933,Tournament Futures - FIFA World Cup 2022 - Most Assists,Pablo Sarabia,-0.0145,0.0099,0.0244
+2022-11-27 02:40:37.918611,Tournament Futures - FIFA World Cup 2022 - Top European Team,Serbia,-0.014499999999999999,0.0149,0.0294
 2022-11-27 03:40:31.104933,Tournament Futures - FIFA World Cup 2022 - Most Assists,Phil Foden,-0.0145,0.0099,0.0244
+2022-11-27 03:40:31.104933,Tournament Futures - FIFA World Cup 2022 - Most Assists,Pablo Sarabia,-0.0145,0.0099,0.0244
 2022-11-27 03:40:31.039960,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,France & Germany,-0.014599999999999998,0.005,0.0196
 2022-11-27 01:40:32.669964,Tournament Futures - FIFA World Cup 2022 - Young Player Award Winner,Jude Bellingham,-0.01469999999999999,0.2353,0.25
 2022-11-26 19:40:32.249864,Boxing Lines - Fabio Wardley vs Nathan Gorman - To Win the Bout,Fabio Wardley,-0.014900000000000024,0.6774,0.6923
+2022-11-27 05:40:29.309669,Round Match-Ups - Final Round Match-Up - C. Bezuidenhout vs O. Bekker - Final Round Match-Up,Christiaan Bezuidenhout,-0.01539999999999997,0.6,0.6154
 2022-11-26 23:40:33.889016,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,Georgia,-0.01539999999999997,0.6,0.6154
 2022-11-26 19:40:32.259974,Boxing Lines - Dean Sutherland vs Louis Greene - To Win the Bout,Louis Greene,-0.015400000000000025,0.2703,0.2857
 2022-11-26 23:40:36.063420,Team Futures - Tunisia Team Specials - Tunisia Stage of Elimination,Semi Finals,-0.0156,0.004,0.0196
 2022-11-26 19:40:32.419804,BKFC Fight Night: Newcastle - Mick Terrill vs Steven Banks - To Win the Bout,Steven Banks,-0.016000000000000014,0.3922,0.4082
 2022-11-27 02:40:37.918611,Tournament Futures - FIFA World Cup 2022 - Top European Team,Denmark,-0.016699999999999993,0.05,0.0667
 2022-11-26 18:40:38.746634,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Giannis Antetokounmpo (MIL),-0.016699999999999993,0.25,0.2667
-2022-11-27 03:40:31.104933,Tournament Futures - FIFA World Cup 2022 - Most Assists,Kylian Mbappe,-0.016700000000000007,0.0833,0.1
 2022-11-26 18:40:38.735888,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,JB Bickerstaff,-0.016700000000000007,0.0833,0.1
+2022-11-27 03:40:31.104933,Tournament Futures - FIFA World Cup 2022 - Most Assists,Kylian Mbappe,-0.016700000000000007,0.0833,0.1
 2022-11-26 22:40:32.239866,Tournament Futures - FIFA World Cup 2022 - To Reach the Final,Mexico,-0.017099999999999997,0.0123,0.0294
 2022-11-27 03:40:31.080841,Tournament Futures - FIFA World Cup 2022 - First Time Winner?,Yes,-0.017299999999999982,0.2857,0.303
 2022-11-27 01:40:32.677321,Tournament Futures - FIFA World Cup 2022 - Lowest Scoring Team,Australia,-0.017599999999999998,0.002,0.0196
@@ -192,47 +205,45 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-26 22:40:32.249756,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,Denmark,-0.0179,0.125,0.1429
 2022-11-26 23:40:35.240127,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Vinicius Jose Junior,-0.018099999999999998,0.0588,0.0769
 2022-11-27 04:40:34.260575,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Antoine Griezmann,-0.018099999999999998,0.0588,0.0769
-2022-11-26 17:40:31.648328,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,Georgia,-0.018100000000000005,0.5652,0.5833
-2022-11-27 01:40:32.633098,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Group,Group G,-0.018200000000000004,0.0294,0.0476
 2022-11-27 02:40:37.898306,Tournament Futures - FIFA World Cup 2022 - Top French Ligue 1 Goalscorer,Timothy Weah,-0.018200000000000004,0.0294,0.0476
+2022-11-27 01:40:32.633098,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Group,Group G,-0.018200000000000004,0.0294,0.0476
 2022-11-26 22:40:32.249756,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,Saudi Arabia,-0.018200000000000004,0.0294,0.0476
 2022-11-26 18:40:38.735888,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Will Hardy,-0.01820000000000002,0.1818,0.2
 2022-11-27 02:40:37.979017,Tournament Futures - FIFA World Cup 2022 - Lowest Scoring Group ,Group G,-0.018599999999999978,0.1481,0.1667
-2022-11-27 03:40:31.104933,Tournament Futures - FIFA World Cup 2022 - Most Assists,Cody Gakpo,-0.0189,0.0196,0.0385
 2022-11-26 23:40:35.914112,Team Futures - Saudi Arabia Team Specials - Saudi Arabia Stage of Elimination,Semi Finals,-0.0189,0.0196,0.0385
+2022-11-27 03:40:31.104933,Tournament Futures - FIFA World Cup 2022 - Most Assists,Cody Gakpo,-0.0189,0.0196,0.0385
 2022-11-27 01:40:32.677321,Tournament Futures - FIFA World Cup 2022 - Lowest Scoring Team,Uruguay,-0.019099999999999992,0.0476,0.0667
-2022-11-26 23:40:35.240127,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Cristiano Ronaldo,-0.019099999999999992,0.0476,0.0667
 2022-11-26 22:40:32.239866,Tournament Futures - FIFA World Cup 2022 - To Reach the Final,Denmark,-0.019099999999999992,0.0476,0.0667
+2022-11-26 23:40:35.240127,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Cristiano Ronaldo,-0.019099999999999992,0.0476,0.0667
 2022-11-26 23:40:35.808045,Team Futures - Mexico Team Specials - Mexico Stage of Elimination,Runner-up,-0.0194,0.005,0.0244
-2022-11-27 01:40:32.633098,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Group,Group C,-0.019499999999999997,0.0099,0.0294
 2022-11-27 03:40:31.039960,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,France & Portugal,-0.019499999999999997,0.0099,0.0294
-2022-11-27 04:40:34.260575,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Memphis Depay,-0.02020000000000001,0.0909,0.1111
+2022-11-27 01:40:32.633098,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Group,Group C,-0.019499999999999997,0.0099,0.0294
 2022-11-27 01:40:32.677321,Tournament Futures - FIFA World Cup 2022 - Lowest Scoring Team,South Korea,-0.02020000000000001,0.0909,0.1111
+2022-11-27 04:40:34.260575,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Memphis Depay,-0.02020000000000001,0.0909,0.1111
 2022-11-27 04:40:34.260575,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Vinicius Junior,-0.02020000000000001,0.0909,0.1111
-2022-11-27 02:40:37.898306,Tournament Futures - FIFA World Cup 2022 - Top French Ligue 1 Goalscorer,Breel Embolo,-0.0203,0.0385,0.0588
 2022-11-27 01:40:32.677321,Tournament Futures - FIFA World Cup 2022 - Lowest Scoring Team,Croatia,-0.0203,0.0385,0.0588
+2022-11-27 02:40:37.898306,Tournament Futures - FIFA World Cup 2022 - Top French Ligue 1 Goalscorer,Breel Embolo,-0.0203,0.0385,0.0588
 2022-11-26 18:40:38.062827,Andalucia Open de Espana - Andalucia Open de Espana - Outright,Anais Meyssonnier,-0.0211,0.0033,0.0244
 2022-11-26 18:40:36.980563,BKFC Fight Night: Newcastle - Lewis Keen vs Lewy Sherriff - To Win the Bout,Lewy Sherriff,-0.021299999999999986,0.2817,0.303
 2022-11-27 02:40:32.584919,Boxing Lines - Regis Prograis vs Jose Zepeda - To Win the Bout,Jose Zepeda,-0.02159999999999998,0.2381,0.2597
 2022-11-27 04:40:34.260575,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Ferran Torres,-0.02169999999999994,0.5238,0.5455
-2022-11-27 03:40:31.104933,Tournament Futures - FIFA World Cup 2022 - Most Assists,Kevin De Bruyne,-0.02310000000000001,0.0769,0.1
 2022-11-27 01:40:32.651502,Tournament Futures - FIFA World Cup 2022 - Golden Glove Winner,Manuel Neuer,-0.02310000000000001,0.0769,0.1
+2022-11-27 03:40:31.104933,Tournament Futures - FIFA World Cup 2022 - Most Assists,Kevin De Bruyne,-0.02310000000000001,0.0769,0.1
 2022-11-27 01:40:32.651502,Tournament Futures - FIFA World Cup 2022 - Golden Glove Winner,Diogo Costa,-0.0232,0.0435,0.0667
 2022-11-27 03:40:31.039960,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Brazil & Spain,-0.023200000000000002,0.0294,0.0526
+2022-11-27 02:40:37.918611,Tournament Futures - FIFA World Cup 2022 - Top European Team,Spain,-0.023799999999999988,0.1429,0.1667
 2022-11-27 02:40:37.918611,Tournament Futures - FIFA World Cup 2022 - Top European Team,Portugal,-0.023799999999999988,0.1429,0.1667
 2022-11-27 01:40:32.677321,Tournament Futures - FIFA World Cup 2022 - Lowest Scoring Team,Cameroon,-0.023799999999999988,0.1429,0.1667
-2022-11-27 02:40:37.918611,Tournament Futures - FIFA World Cup 2022 - Top European Team,Spain,-0.023799999999999988,0.1429,0.1667
 2022-11-26 23:40:35.240127,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Neymar Junior,-0.024299999999999995,0.0345,0.0588
 2022-11-26 23:40:35.637054,Team Futures - Denmark Team Specials - Denmark Stage of Elimination,Semi Final,-0.024999999999999994,0.1,0.125
 2022-11-27 03:40:30.983417,Tournament Futures - FIFA World Cup 2022 - Runner Up,Argentina,-0.024999999999999994,0.1,0.125
 2022-11-26 23:40:35.271303,Tournament Futures - FIFA World Cup 2022 - Winners Group,Group G,-0.02560000000000001,0.3077,0.3333
-2022-11-26 17:40:32.618133,Boxing Lines - Dean Sutherland vs Louis Greene - To Win the Bout,Dean Sutherland,-0.0260999999999999,0.7778,0.8039
 2022-11-26 19:40:33.671208,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,Blake Corum,-0.027099999999999996,0.0164,0.0435
+2022-11-27 05:40:29.932976,Tournament Futures - FIFA World Cup 2022 - Tournament Winner and Top Goalscorer Parlay,Brazil & Neymar Junior,-0.028000000000000004,0.0196,0.0476
 2022-11-27 03:40:30.983417,Tournament Futures - FIFA World Cup 2022 - Runner Up,Denmark,-0.0294,0.0294,0.0588
 2022-11-26 23:40:35.271303,Tournament Futures - FIFA World Cup 2022 - Winners Group,Group B,-0.031799999999999995,0.1111,0.1429
 2022-11-27 02:40:37.898306,Tournament Futures - FIFA World Cup 2022 - Top French Ligue 1 Goalscorer,Neymar,-0.0321,0.0588,0.0909
 2022-11-26 23:40:35.808045,Team Futures - Mexico Team Specials - Mexico Stage of Elimination,Semi Final,-0.033,0.0196,0.0526
-2022-11-26 17:40:31.735840,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,CJ Stroud,-0.033299999999999996,0.5122,0.5455
 2022-11-26 18:40:37.176671,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,Caleb Williams,-0.033299999999999996,0.5122,0.5455
 2022-11-26 18:40:38.062827,Andalucia Open de Espana - Andalucia Open de Espana - Outright,Cayetana Fernandez,-0.033300000000000024,0.1667,0.2
 2022-11-26 23:40:35.637054,Team Futures - Denmark Team Specials - Denmark Stage of Elimination,Quarter Finals,-0.033300000000000024,0.1667,0.2
@@ -248,10 +259,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-27 01:40:32.638693,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Team,Netherlands,-0.04329999999999999,0.0476,0.0909
 2022-11-27 01:40:32.677321,Tournament Futures - FIFA World Cup 2022 - Lowest Scoring Team,Denmark,-0.043899999999999995,0.0149,0.0588
 2022-11-26 23:40:36.063420,Team Futures - Tunisia Team Specials - Tunisia Stage of Elimination,Quarter Finals,-0.0465,0.0123,0.0588
-2022-11-27 01:40:32.633098,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Group,Group D,-0.0474,0.0435,0.0909
 2022-11-27 03:40:30.983417,Tournament Futures - FIFA World Cup 2022 - Runner Up,Germany,-0.0474,0.0435,0.0909
+2022-11-27 01:40:32.633098,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Group,Group D,-0.0474,0.0435,0.0909
 2022-11-26 21:40:30.337157,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,Michigan,-0.047599999999999976,0.2857,0.3333
 2022-11-26 18:40:36.924449,BKFC Fight Night: Newcastle - Agi Faulkner vs Daniel Robson - To Win the Bout,Daniel Robson,-0.0479,0.303,0.3509
+2022-11-27 05:40:29.932976,Tournament Futures - FIFA World Cup 2022 - Tournament Winner and Top Goalscorer Parlay,Brazil & Richarlison,-0.048100000000000004,0.0769,0.125
 2022-11-26 22:40:31.417954,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,Ohio State,-0.05249999999999999,0.0244,0.0769
 2022-11-26 22:40:32.249756,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,Brazil,-0.05449999999999999,0.5455,0.6
 2022-11-27 01:40:32.638693,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Team,Brazil,-0.05550000000000002,0.1667,0.2222
