@@ -24,8 +24,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-28 13:40:47.034288,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Philadelphia Eagles,Under 14.5,0.08779999999999999,0.6,0.5122
 2022-11-28 08:40:33.704363,NFC West - 2022/2023 NFC West - NFC West Winner,San Francisco 49ers,0.08550000000000002,0.875,0.7895
 2022-11-28 10:40:32.112348,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Jacksonville Jaguars,Yes,0.0794,0.1905,0.1111
-2022-11-28 18:40:35.345786,95th Academy Awards - Best Actress - Best Actress,Viola Davis,0.0769,0.1538,0.0769
 2022-11-28 07:40:38.763516,Team Futures - Morocco Team Specials - Morocco Total Goals,7+,0.0769,0.1538,0.0769
+2022-11-28 18:40:35.345786,95th Academy Awards - Best Actress - Best Actress,Viola Davis,0.0769,0.1538,0.0769
 2022-11-28 13:40:47.015371,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  New York Giants,Under 9.5,0.07619999999999993,0.6,0.5238
 2022-11-28 13:40:47.060918,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Seattle Seahawks,Under 9.5,0.07400000000000007,0.6296,0.5556
 2022-11-28 18:40:35.357127,95th Academy Awards - Best Director - Best Director,Sarah Polley,0.0705,0.1538,0.0833
@@ -39,8 +39,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-28 18:40:35.357127,95th Academy Awards - Best Director - Best Director,Daniel Kwan and Daniel Scheinert,0.0509,0.1176,0.0667
 2022-11-28 10:40:32.103436,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Cleveland Browns,Yes,0.048100000000000004,0.125,0.0769
 2022-11-28 17:40:27.428209,Team Futures - Iran Team Specials - Iran Total Goals,6+,0.048099999999999976,0.4255,0.3774
-2022-11-28 13:40:46.980003,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Miami Dolphins,Over 10.5,0.0474,0.6552,0.6078
 2022-11-28 07:40:38.763516,Team Futures - Morocco Team Specials - Morocco Total Goals,8+,0.0474,0.0909,0.0435
+2022-11-28 13:40:46.980003,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Miami Dolphins,Over 10.5,0.0474,0.6552,0.6078
 2022-11-28 08:40:33.594200,NFC East - 2022/2023 NFC East - NFC East Winner,Philadelphia Eagles,0.04479999999999995,0.8095,0.7647
 2022-11-28 10:40:32.157865,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Tampa Bay Buccaneers,No,0.044499999999999984,0.2667,0.2222
 2022-11-28 08:40:33.451740,AFC East - 2022/2023 AFC East - AFC East Winner,New York Jets,0.04329999999999999,0.0909,0.0476
@@ -63,22 +63,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-28 18:40:35.331613,95th Academy Awards - Best Actor - Best Actor,Hugh Jackman,0.024299999999999995,0.0769,0.0526
 2022-11-28 18:40:35.357127,95th Academy Awards - Best Director - Best Director,James Cameron,0.024299999999999995,0.0769,0.0526
 2022-11-28 08:40:33.355478,AFC South - 2022/202 AFC South - AFC South Winner,Indianapolis Colts,0.024299999999999995,0.0769,0.0526
+2022-11-28 19:40:32.817347,Group Futures - Group B - Group B Winner,USA,0.0242,0.0909,0.0667
 2022-11-28 18:40:35.367441,95th Academy Awards - Best Picture - Best Picture,Amsterdam,0.024,0.0625,0.0385
 2022-11-28 17:40:27.428209,Team Futures - Iran Team Specials - Iran Total Goals,5+,0.02200000000000002,0.7143,0.6923
-2022-11-28 14:40:41.385677,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Brazil,0.021999999999999964,0.3077,0.2857
 2022-11-28 18:40:36.316869,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Brazil,0.021999999999999964,0.3077,0.2857
+2022-11-28 14:40:41.385677,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Brazil,0.021999999999999964,0.3077,0.2857
 2022-11-28 14:40:41.210677,Super Ligi - Turkey BSL 2022/23 - Outright,Fenerbahce,0.02100000000000002,0.3846,0.3636
 2022-11-28 13:40:46.989458,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Minnesota Vikings,Over 12.5,0.02079999999999993,0.5556,0.5348
 2022-11-28 13:40:46.928797,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Detroit Lions,Under 6.5,0.020699999999999996,0.4651,0.4444
 2022-11-28 15:40:38.523452,Hero World Challenge - Hero World Challenge - Outright,Jon Rahm,0.02049999999999999,0.1538,0.1333
-2022-11-28 12:40:52.685181,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Connecticut,0.0203,0.0526,0.0323
 2022-11-28 07:40:37.282457,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Cincinnati Bengals,0.0203,0.0588,0.0385
+2022-11-28 12:40:52.685181,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Connecticut,0.0203,0.0526,0.0323
 2022-11-28 07:40:38.763516,Team Futures - Morocco Team Specials - Morocco Total Goals,10+,0.019600000000000003,0.0345,0.0149
 2022-11-28 08:40:33.543685,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,San Francisco 49ers,0.019000000000000017,0.2857,0.2667
-2022-11-28 18:40:35.367441,95th Academy Awards - Best Picture - Best Picture,Bardo,0.018200000000000004,0.0476,0.0294
-2022-11-28 18:40:35.331613,95th Academy Awards - Best Actor - Best Actor,Harry Styles,0.018200000000000004,0.0476,0.0294
 2022-11-28 07:40:38.973784,Team Futures - Spain Team Specials - Spain Top Team Goalscorer,Pablo Gavi,0.018200000000000004,0.0476,0.0294
+2022-11-28 18:40:35.331613,95th Academy Awards - Best Actor - Best Actor,Harry Styles,0.018200000000000004,0.0476,0.0294
 2022-11-28 07:40:38.763516,Team Futures - Morocco Team Specials - Morocco Total Goals,9+,0.018200000000000004,0.0476,0.0294
+2022-11-28 18:40:35.367441,95th Academy Awards - Best Picture - Best Picture,Bardo,0.018200000000000004,0.0476,0.0294
 2022-11-28 18:40:35.345786,95th Academy Awards - Best Actress - Best Actress,Ana de Armas,0.018099999999999998,0.0769,0.0588
 2022-11-28 10:40:32.117047,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Las Vegas Raiders,Yes,0.018099999999999998,0.0769,0.0588
 2022-11-28 17:40:27.428209,Team Futures - Iran Team Specials - Iran Total Goals,9+,0.016600000000000004,0.0833,0.0667
@@ -86,22 +87,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-28 13:40:47.042764,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Pittsburgh Steelers,Over 5.5,0.01539999999999997,0.6154,0.6
 2022-11-28 18:40:35.331613,95th Academy Awards - Best Actor - Best Actor,Austin Butler,0.015100000000000002,0.1818,0.1667
 2022-11-28 13:40:46.710820,Boxing Lines - Juan Francisco Estrada vs Roman Gonzalez - To Win the Bout,Roman Gonzalez,0.014900000000000024,0.6923,0.6774
-2022-11-28 18:40:35.345786,95th Academy Awards - Best Actress - Best Actress,Naomi Ackie,0.014899999999999997,0.0625,0.0476
-2022-11-28 18:40:35.357127,95th Academy Awards - Best Director - Best Director,Alejandro G Inarritu,0.014899999999999997,0.0625,0.0476
-2022-11-28 18:40:35.357127,95th Academy Awards - Best Director - Best Director,Gina Prince-Blythewood,0.014899999999999997,0.0625,0.0476
 2022-11-28 18:40:35.367441,95th Academy Awards - Best Picture - Best Picture,The Woman King,0.014899999999999997,0.0625,0.0476
+2022-11-28 18:40:35.357127,95th Academy Awards - Best Director - Best Director,Gina Prince-Blythewood,0.014899999999999997,0.0625,0.0476
 2022-11-28 18:40:35.357127,95th Academy Awards - Best Director - Best Director,Florian Zeller,0.014899999999999997,0.0625,0.0476
+2022-11-28 18:40:35.357127,95th Academy Awards - Best Director - Best Director,Alejandro G Inarritu,0.014899999999999997,0.0625,0.0476
+2022-11-28 18:40:35.345786,95th Academy Awards - Best Actress - Best Actress,Naomi Ackie,0.014899999999999997,0.0625,0.0476
 2022-11-28 18:40:35.357127,95th Academy Awards - Best Director - Best Director,Baz Luhrmann,0.014399999999999996,0.0769,0.0625
 2022-11-28 18:40:35.357127,95th Academy Awards - Best Director - Best Director,Noah Baumbach,0.014099999999999998,0.0385,0.0244
 2022-11-28 07:40:38.973784,Team Futures - Spain Team Specials - Spain Top Team Goalscorer,Dani Olmo,0.013999999999999999,0.0909,0.0769
 2022-11-28 14:40:41.165465,LNB Pro A - LNB Pro A 2022/23 - Outright,Boulogne-Levallois,0.013999999999999999,0.0909,0.0769
 2022-11-28 17:40:27.428209,Team Futures - Iran Team Specials - Iran Total Goals,7+,0.0131,0.2353,0.2222
 2022-11-28 08:40:33.416870,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Miami Dolphins,0.012299999999999991,0.1176,0.1053
+2022-11-28 19:40:32.817347,Group Futures - Group B - Group B Winner,Iran,0.011899999999999994,0.0833,0.0714
 2022-11-28 13:40:46.958187,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Las Vegas Raiders,Under 6.5,0.011600000000000055,0.5238,0.5122
 2022-11-28 18:40:35.357127,95th Academy Awards - Best Director - Best Director,Damien Chazelle,0.011099999999999999,0.1111,0.1
 2022-11-28 07:40:37.282457,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Philadelphia Eagles,0.010899999999999993,0.1538,0.1429
 2022-11-28 12:40:52.127118,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Buffalo Bills,Over 12.5,0.010699999999999932,0.5455,0.5348
-2022-11-28 06:40:45.448908,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Boston Celtics,0.010499999999999982,0.2105,0.2
+2022-11-28 19:40:32.632606,South African Open - South African Open - Outright,Dean Burmester,0.0102,0.0769,0.0667
 2022-11-28 16:40:28.356244,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Germany,0.0102,0.0769,0.0667
 2022-11-28 13:40:46.958187,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Las Vegas Raiders,Over 6.5,-0.010099999999999998,0.5455,0.5556
 2022-11-28 14:40:41.385677,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Germany,-0.0102,0.0667,0.0769
@@ -109,8 +111,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-28 12:40:52.600138,Boxing Lines - Juan Francisco Estrada vs Roman Gonzalez - To Win the Bout,Juan Francisco Estrada,-0.01050000000000001,0.3817,0.3922
 2022-11-28 13:40:47.042764,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Pittsburgh Steelers,Under 5.5,-0.010599999999999998,0.4545,0.4651
 2022-11-28 12:40:52.127118,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Buffalo Bills,Under 12.5,-0.01100000000000001,0.5238,0.5348
-2022-11-28 07:40:38.729424,Team Futures - Japan Team Specials - Japan Top Team Goalscorer,Takefusa Kubo,-0.011199999999999995,0.0476,0.0588
 2022-11-28 07:40:38.638297,Team Futures - Germany Team Specials - Germany Top Team Goalscorer,Karim Adeyemi,-0.011199999999999995,0.0476,0.0588
+2022-11-28 07:40:38.729424,Team Futures - Japan Team Specials - Japan Top Team Goalscorer,Takefusa Kubo,-0.011199999999999995,0.0476,0.0588
 2022-11-28 13:40:46.710820,Boxing Lines - Juan Francisco Estrada vs Roman Gonzalez - To Win the Bout,Juan Francisco Estrada,-0.011299999999999977,0.3704,0.3817
 2022-11-28 13:40:47.741537,Group Futures - Group B - To Advance from Group B,Iran,-0.011600000000000055,0.5122,0.5238
 2022-11-28 07:40:38.648020,Team Futures - Germany Team Specials - Germany Total Goals,19+,-0.012100000000000001,0.0123,0.0244
@@ -118,8 +120,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-28 18:40:35.367441,95th Academy Awards - Best Picture - Best Picture,The Greatest Beer Run Ever,-0.012999999999999998,0.0164,0.0294
 2022-11-28 07:40:38.980810,Team Futures - Spain Team Specials - Spain Total Goals,16+,-0.013800000000000034,0.3636,0.3774
 2022-11-28 07:40:38.980810,Team Futures - Spain Team Specials - Spain Total Goals,20+,-0.013899999999999996,0.1111,0.125
-2022-11-28 07:40:38.729424,Team Futures - Japan Team Specials - Japan Top Team Goalscorer,Daizen Maeda,-0.013999999999999999,0.0769,0.0909
 2022-11-28 07:40:38.980810,Team Futures - Spain Team Specials - Spain Total Goals,21+,-0.013999999999999999,0.0769,0.0909
+2022-11-28 07:40:38.729424,Team Futures - Japan Team Specials - Japan Top Team Goalscorer,Daizen Maeda,-0.013999999999999999,0.0769,0.0909
 2022-11-28 07:40:38.729424,Team Futures - Japan Team Specials - Japan Top Team Goalscorer,Gaku Shibasaki,-0.014499999999999999,0.0149,0.0294
 2022-11-28 12:40:52.094937,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Lamar Jackson,-0.016600000000000004,0.0179,0.0345
 2022-11-28 07:40:38.638297,Team Futures - Germany Team Specials - Germany Top Team Goalscorer,Ilkay Gundogan,-0.017600000000000005,0.3333,0.3509
@@ -127,25 +129,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-28 07:40:38.718911,Team Futures - Japan Team Specials - Japan Total Goals,12+,-0.017800000000000003,0.0066,0.0244
 2022-11-28 07:40:38.729424,Team Futures - Japan Team Specials - Japan Top Team Goalscorer,Junya Ito,-0.018099999999999998,0.0588,0.0769
 2022-11-28 07:40:37.282457,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Baltimore Ravens,-0.018099999999999998,0.0588,0.0769
+2022-11-28 19:40:32.817347,Group Futures - Group B - Group B Winner,England,-0.018100000000000005,0.9231,0.9412
 2022-11-28 07:40:38.729424,Team Futures - Japan Team Specials - Japan Top Team Goalscorer,Kaoru Mitoma,-0.018200000000000004,0.0294,0.0476
 2022-11-28 08:40:33.488826,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Kansas City Chiefs,-0.01820000000000002,0.1818,0.2
 2022-11-28 07:40:37.282457,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Buffalo Bills,-0.01820000000000002,0.1818,0.2
+2022-11-28 07:40:38.648020,Team Futures - Germany Team Specials - Germany Total Goals,18+,-0.0189,0.0196,0.0385
 2022-11-28 07:40:38.770558,Team Futures - Morocco Team Specials - Morocco Top Team Goalscorer,Abdessamad Ezzalzouli,-0.0189,0.0196,0.0385
 2022-11-28 07:40:38.770558,Team Futures - Morocco Team Specials - Morocco Top Team Goalscorer,Abdelhamid Sabiri,-0.0189,0.0196,0.0385
-2022-11-28 07:40:38.648020,Team Futures - Germany Team Specials - Germany Total Goals,18+,-0.0189,0.0196,0.0385
 2022-11-28 08:40:33.416870,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Tennessee Titans,-0.019000000000000003,0.0435,0.0625
 2022-11-28 07:40:38.729424,Team Futures - Japan Team Specials - Japan Top Team Goalscorer,Takumi Minamino,-0.019099999999999992,0.0476,0.0667
 2022-11-28 08:40:33.628464,NFC North - 2022/2023 NFC North - NFC North Winner,Green Bay Packers,-0.019100000000000002,0.0132,0.0323
 2022-11-28 07:40:38.729424,Team Futures - Japan Team Specials - Japan Top Team Goalscorer,Daichi Kamada,-0.02020000000000001,0.0909,0.1111
 2022-11-28 14:40:41.210677,Super Ligi - Turkey BSL 2022/23 - Outright,Anadolu Efes,-0.020299999999999985,0.6226,0.6429
-2022-11-28 07:40:38.770558,Team Futures - Morocco Team Specials - Morocco Top Team Goalscorer,Selim Amallah,-0.0203,0.0385,0.0588
 2022-11-28 07:40:38.648020,Team Futures - Germany Team Specials - Germany Total Goals,17+,-0.0203,0.0385,0.0588
+2022-11-28 07:40:38.770558,Team Futures - Morocco Team Specials - Morocco Top Team Goalscorer,Selim Amallah,-0.0203,0.0385,0.0588
 2022-11-28 08:40:33.543685,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Minnesota Vikings,-0.02049999999999999,0.1333,0.1538
-2022-11-28 16:40:28.356244,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Brazil,-0.021999999999999964,0.2857,0.3077
 2022-11-28 07:40:38.980810,Team Futures - Spain Team Specials - Spain Total Goals,17+,-0.021999999999999964,0.2857,0.3077
+2022-11-28 16:40:28.356244,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Brazil,-0.021999999999999964,0.2857,0.3077
 2022-11-28 08:40:33.451740,AFC East - 2022/2023 AFC East - AFC East Winner,Buffalo Bills,-0.02200000000000002,0.6923,0.7143
-2022-11-28 13:40:46.928797,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Detroit Lions,Over 6.5,-0.022600000000000064,0.6,0.6226
 2022-11-28 13:40:46.989458,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Minnesota Vikings,Under 12.5,-0.022600000000000064,0.5122,0.5348
+2022-11-28 13:40:46.928797,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Detroit Lions,Over 6.5,-0.022600000000000064,0.6,0.6226
 2022-11-28 07:40:38.973784,Team Futures - Spain Team Specials - Spain Top Team Goalscorer,Anssumane Fati,-0.023200000000000002,0.0244,0.0476
 2022-11-28 18:40:35.367441,95th Academy Awards - Best Picture - Best Picture,Everything Everywhere All At Once,-0.023799999999999988,0.1429,0.1667
 2022-11-28 10:40:32.125730,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Miami Dolphins,No,-0.023800000000000016,0.1667,0.1905
@@ -160,11 +163,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-28 12:40:52.169403,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Seattle Seahawks,Over 9.5,-0.033299999999999996,0.5122,0.5455
 2022-11-28 13:40:46.997992,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  New England Patriots,Over 8.5,-0.033299999999999996,0.5122,0.5455
 2022-11-28 07:40:38.648020,Team Futures - Germany Team Specials - Germany Total Goals,15+,-0.034100000000000005,0.0909,0.125
-2022-11-28 10:40:32.164224,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Tennessee Titans,Yes,-0.03420000000000001,0.8889,0.9231
 2022-11-28 18:40:35.357127,95th Academy Awards - Best Director - Best Director,Todd Field,-0.03420000000000001,0.0769,0.1111
+2022-11-28 10:40:32.164224,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Tennessee Titans,Yes,-0.03420000000000001,0.8889,0.9231
 2022-11-28 10:40:32.095202,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Baltimore Ravens,Yes,-0.03479999999999994,0.9333,0.9681
-2022-11-28 07:40:38.648020,Team Futures - Germany Team Specials - Germany Total Goals,12+,-0.03570000000000001,0.25,0.2857
 2022-11-28 08:40:33.594200,NFC East - 2022/2023 NFC East - NFC East Winner,Dallas Cowboys,-0.03570000000000001,0.25,0.2857
+2022-11-28 07:40:38.648020,Team Futures - Germany Team Specials - Germany Total Goals,12+,-0.03570000000000001,0.25,0.2857
 2022-11-28 08:40:33.666100,NFC South - 2022/2023 NFC South - NFC South Winner,Atlanta Falcons,-0.036199999999999996,0.1176,0.1538
 2022-11-28 13:40:46.980003,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Miami Dolphins,Under 10.5,-0.03620000000000001,0.4082,0.4444
 2022-11-28 07:40:38.718911,Team Futures - Japan Team Specials - Japan Total Goals,11+,-0.036899999999999995,0.0066,0.0435
