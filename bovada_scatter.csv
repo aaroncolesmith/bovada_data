@@ -18,8 +18,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-29 13:40:26.773271,2022/23 NBA - Regular Season Wins - Regular Season Wins - Most Wins - NBA 2022/23 Regular Season,BOS Celtics,0.07619999999999993,0.6,0.5238
 2022-11-29 09:40:30.124945,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Patrick Mahomes,0.07579999999999998,0.9091,0.8333
 2022-11-29 08:40:35.165065,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Player of the Year,Jalen Hurts,0.06840000000000002,0.2222,0.1538
-2022-11-29 13:40:26.872693,Number 1 Seed - 2022/23 NBA - Western Conference No. 1 Seed,DEN Nuggets,0.06820000000000001,0.25,0.1818
 2022-11-29 13:40:26.341143,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),Nick Chubb,0.06820000000000001,0.25,0.1818
+2022-11-29 13:40:26.872693,Number 1 Seed - 2022/23 NBA - Western Conference No. 1 Seed,DEN Nuggets,0.06820000000000001,0.25,0.1818
 2022-11-29 13:40:26.901681,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Milwaukee Bucks,0.06670000000000009,0.8,0.7333
 2022-11-29 13:40:26.835644,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - New York Knicks,No,0.06659999999999999,0.7333,0.6667
 2022-11-29 14:40:28.416507,Hero World Challenge - 2/3 Balls - 1st Round 2 Balls - S. Im v B. Horschel - 1st Round 2 Balls ,Sung-Jae Im,0.0595,0.5833,0.5238
@@ -69,8 +69,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-29 13:40:27.178888,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Christian Wood (DAL),0.023799999999999988,0.1667,0.1429
 2022-11-29 13:40:26.782793,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Indiana Pacers,0.023799999999999988,0.3571,0.3333
 2022-11-29 14:40:27.367886,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  New England Patriots,Over 8.5,0.022600000000000064,0.5348,0.5122
+2022-11-29 17:40:28.802636,Hero World Challenge - 2/3 Balls - 1st Round 2 Balls - M. Fitzpatrick v T. Fleetwood - 1st Round 2 Balls ,Tommy Fleetwood,0.022600000000000064,0.5348,0.5122
+2022-11-29 17:40:28.867875,Round Match-Ups - 1st Round Match-Ups - V. Hovland vs T. Fleetwood - 1st Round Match-Ups,Tommy Fleetwood,0.022600000000000064,0.5348,0.5122
 2022-11-29 08:40:35.165065,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Player of the Year,Justin Jefferson,0.021999999999999964,0.3077,0.2857
+2022-11-29 17:40:28.874143,Round Match-Ups - 1st Round Match-Ups - M. Homa vs S. Lowry - 1st Round Match-Ups,Shane Lowry,0.02169999999999994,0.5455,0.5238
 2022-11-29 13:40:26.787363,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Minnesota Timberwolves,0.02169999999999994,0.5455,0.5238
+2022-11-29 17:40:28.861530,Round Match-Ups - 1st Round Match-Ups - J. Thomas vs M. Fitzpatrick - 1st Round Match-Ups,Justin Thomas,0.02169999999999994,0.5455,0.5238
 2022-11-29 15:40:28.883788,Tournament Match-Ups - Tournament Match-Up - S. Im vs V. Hovland - Tournament Match-Up,Sung-Jae Im,0.02079999999999993,0.5556,0.5348
 2022-11-29 10:40:37.690999,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs C. Young - Tournament Match-Up,Collin Morikawa,0.02079999999999993,0.5556,0.5348
 2022-11-29 15:40:28.672915,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Los Angeles Chargers,No,0.020699999999999996,0.4651,0.4444
@@ -97,8 +101,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-29 11:40:32.387691,Australian Open - Australian Open - Outright,Cameron Davis,0.013999999999999999,0.0909,0.0769
 2022-11-29 07:40:30.347887,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Player of the Year,Micah Parsons,0.013900000000000023,0.8889,0.875
 2022-11-29 09:40:30.120791,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Dak Prescott,0.0139,0.0196,0.0057
-2022-11-29 09:40:30.517722,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.012199999999999989,0.5,0.4878
 2022-11-29 14:40:27.312983,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Carolina Panthers,Under 5.5,0.012199999999999989,0.5122,0.5
+2022-11-29 09:40:30.517722,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.012199999999999989,0.5,0.4878
 2022-11-29 15:40:28.677344,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Miami Dolphins,No,0.011900000000000022,0.1786,0.1667
 2022-11-29 15:40:28.700056,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Seattle Seahawks,Yes,0.011900000000000022,0.7619,0.75
 2022-11-29 13:40:26.929303,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Boston Celtics,0.011700000000000016,0.2222,0.2105
@@ -112,22 +116,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-29 13:40:26.346628,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Sacks (Regular Season),Maxx Crosby,0.0102,0.0769,0.0667
 2022-11-29 08:40:34.842543,Boxing Lines - Josh Warrington vs Luis Alberto Lopez - To Win the Bout,Luis Alberto Lopez,0.010099999999999998,0.4545,0.4444
 2022-11-29 14:40:27.338145,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Kansas City,Over 13.5,-0.010099999999999998,0.5455,0.5556
-2022-11-29 13:40:26.336903,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Justin Fields,-0.010100000000000001,0.0244,0.0345
-2022-11-29 08:40:35.160606,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Rookie of the Year,Jack Jones,-0.010100000000000001,0.0244,0.0345
 2022-11-29 13:40:26.308488,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Mac Jones,-0.010100000000000001,0.0244,0.0345
+2022-11-29 08:40:35.160606,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Rookie of the Year,Jack Jones,-0.010100000000000001,0.0244,0.0345
+2022-11-29 13:40:26.336903,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Justin Fields,-0.010100000000000001,0.0244,0.0345
 2022-11-29 13:40:26.346628,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Sacks (Regular Season),Myles Garrett,-0.0102,0.0667,0.0769
 2022-11-29 13:40:26.941624,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Clippers,-0.010499999999999982,0.2,0.2105
 2022-11-29 14:40:27.329700,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Detroit Lions,Under 6.5,-0.010599999999999998,0.4545,0.4651
 2022-11-29 14:40:27.348128,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Las Vegas Raiders,Over 6.5,-0.010699999999999932,0.5348,0.5455
-2022-11-29 14:40:27.304532,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Baltimore Ravens,Over 10.5,-0.010700000000000043,0.6667,0.6774
 2022-11-29 14:40:27.325385,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Dallas Cowboys,Under 12.5,-0.010700000000000043,0.6667,0.6774
+2022-11-29 14:40:27.304532,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Baltimore Ravens,Over 10.5,-0.010700000000000043,0.6667,0.6774
 2022-11-29 07:40:30.588500,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Philadelphia Eagles,-0.010899999999999993,0.1429,0.1538
-2022-11-29 15:40:28.677344,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Miami Dolphins,Yes,-0.011099999999999999,0.8889,0.9
 2022-11-29 13:40:26.936185,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Cleveland Cavaliers,-0.011099999999999999,0.1,0.1111
+2022-11-29 15:40:28.677344,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Miami Dolphins,Yes,-0.011099999999999999,0.8889,0.9
 2022-11-29 09:40:30.524540,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Gretchen Whitmer,-0.011199999999999995,0.0476,0.0588
-2022-11-29 13:40:26.782793,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Orlando Magic,-0.011199999999999995,0.0476,0.0588
 2022-11-29 13:40:26.346628,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Sacks (Regular Season),Chris Jones,-0.011199999999999995,0.0476,0.0588
 2022-11-29 10:40:37.250248,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Jaylen Waddle,-0.011199999999999995,0.0323,0.0435
+2022-11-29 13:40:26.782793,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Orlando Magic,-0.011199999999999995,0.0476,0.0588
 2022-11-29 13:40:26.308488,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Lamar Jackson,-0.011399999999999997,0.0164,0.0278
 2022-11-29 13:40:26.773271,2022/23 NBA - Regular Season Wins - Regular Season Wins - Most Wins - NBA 2022/23 Regular Season,BKN Nets,-0.011399999999999997,0.0164,0.0278
 2022-11-29 13:40:26.921746,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,New Orleans Pelicans,-0.01150000000000001,0.3333,0.3448
@@ -137,79 +141,84 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-29 14:40:27.425486,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Buffalo Bills,Yes,-0.012199999999999989,0.9848,0.997
 2022-11-29 14:40:27.358730,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Miami Dolphins,Over 10.5,-0.012299999999999978,0.6429,0.6552
 2022-11-29 09:40:30.524540,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Bernie Sanders,-0.012599999999999998,0.0152,0.0278
-2022-11-29 13:40:26.872693,Number 1 Seed - 2022/23 NBA - Western Conference No. 1 Seed,MIN Timberwolves,-0.013,0.0066,0.0196
 2022-11-29 13:40:26.773271,2022/23 NBA - Regular Season Wins - Regular Season Wins - Most Wins - NBA 2022/23 Regular Season,DAL Mavericks,-0.013,0.0066,0.0196
 2022-11-29 09:40:30.129232,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Yards (Regular Season),Jared Goff,-0.013,0.0066,0.0196
-2022-11-29 16:40:29.324320,Boxing Lines - Brandon Glanton vs David Light - To Win the Bout,Brandon Glanton,-0.0131,0.8,0.8131
+2022-11-29 13:40:26.872693,Number 1 Seed - 2022/23 NBA - Western Conference No. 1 Seed,MIN Timberwolves,-0.013,0.0066,0.0196
 2022-11-29 08:40:35.165065,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Player of the Year,Lamar Jackson,-0.0131,0.0345,0.0476
-2022-11-29 14:40:27.437516,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Cleveland Browns,Yes,-0.013899999999999996,0.1111,0.125
+2022-11-29 16:40:29.324320,Boxing Lines - Brandon Glanton vs David Light - To Win the Bout,Brandon Glanton,-0.0131,0.8,0.8131
 2022-11-29 13:40:26.308488,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Kenny Pickett,-0.013899999999999996,0.1111,0.125
+2022-11-29 14:40:27.437516,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Cleveland Browns,Yes,-0.013899999999999996,0.1111,0.125
 2022-11-29 12:40:30.278481,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),Austin Ekeler,-0.013999999999999999,0.0769,0.0909
 2022-11-29 07:40:30.347887,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Player of the Year,Nick Bosa,-0.013999999999999999,0.0769,0.0909
-2022-11-29 10:40:37.257486,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),Travis Kelce,-0.014099999999999998,0.0244,0.0385
-2022-11-29 08:40:35.165065,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Player of the Year,Josh Allen,-0.014099999999999998,0.0244,0.0385
+2022-11-29 17:40:28.728363,Hero World Challenge - Hero World Challenge - Outright,Viktor Hovland,-0.014099999999999994,0.0526,0.0667
 2022-11-29 13:40:27.197779,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Tyrese Maxey (PHI),-0.014099999999999998,0.0244,0.0385
 2022-11-29 08:40:35.160606,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Rookie of the Year,Jaquan Brisker,-0.014099999999999998,0.0244,0.0385
+2022-11-29 08:40:35.165065,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Player of the Year,Josh Allen,-0.014099999999999998,0.0244,0.0385
+2022-11-29 10:40:37.257486,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),Travis Kelce,-0.014099999999999998,0.0244,0.0385
 2022-11-29 13:40:26.336903,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Dalvin Cook,-0.014199999999999999,0.0152,0.0294
+2022-11-29 13:40:26.773271,2022/23 NBA - Regular Season Wins - Regular Season Wins - Most Wins - NBA 2022/23 Regular Season,CLE Cavaliers,-0.014399999999999996,0.0625,0.0769
+2022-11-29 13:40:27.190666,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Bam Adebayo (MIA),-0.014399999999999996,0.0625,0.0769
+2022-11-29 13:40:27.171691,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Joel Embiid (PHI),-0.014399999999999996,0.0625,0.0769
 2022-11-29 14:40:27.413769,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Arizona Cardinals,Yes,-0.014399999999999996,0.0625,0.0769
 2022-11-29 13:40:26.941624,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,New Orleans Pelicans,-0.014399999999999996,0.0625,0.0769
-2022-11-29 13:40:27.171691,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Joel Embiid (PHI),-0.014399999999999996,0.0625,0.0769
-2022-11-29 13:40:26.773271,2022/23 NBA - Regular Season Wins - Regular Season Wins - Most Wins - NBA 2022/23 Regular Season,CLE Cavaliers,-0.014399999999999996,0.0625,0.0769
 2022-11-29 13:40:26.336903,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Jalen Hurts,-0.014399999999999996,0.0625,0.0769
 2022-11-29 13:40:26.929303,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Brooklyn Nets,-0.014399999999999996,0.0625,0.0769
-2022-11-29 13:40:27.190666,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Bam Adebayo (MIA),-0.014399999999999996,0.0625,0.0769
-2022-11-29 12:40:30.278481,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),Christian McCaffrey,-0.0145,0.0099,0.0244
-2022-11-29 13:40:26.341143,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),Dameon Pierce,-0.0145,0.0099,0.0244
 2022-11-29 09:40:30.129232,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Yards (Regular Season),Geno Smith,-0.0145,0.0099,0.0244
 2022-11-29 10:40:37.257486,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),A.J. Brown,-0.0145,0.0099,0.0244
 2022-11-29 10:40:37.257486,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),Terry McLaurin,-0.0145,0.0099,0.0244
 2022-11-29 09:40:30.124945,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Geno Smith,-0.0145,0.0099,0.0244
+2022-11-29 13:40:26.341143,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),Dameon Pierce,-0.0145,0.0099,0.0244
+2022-11-29 12:40:30.278481,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),Christian McCaffrey,-0.0145,0.0099,0.0244
 2022-11-29 13:40:26.336903,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Jamaal Williams,-0.01469999999999999,0.2353,0.25
+2022-11-29 13:40:26.936185,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Atlanta Hawks,-0.014899999999999997,0.0476,0.0625
 2022-11-29 13:40:26.308488,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Justin Fields,-0.014899999999999997,0.0476,0.0625
 2022-11-29 13:40:26.346628,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Sacks (Regular Season),Alex Highsmith,-0.014899999999999997,0.0476,0.0625
 2022-11-29 10:40:37.250248,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Amari Cooper,-0.014899999999999997,0.0476,0.0625
-2022-11-29 13:40:26.936185,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Atlanta Hawks,-0.014899999999999997,0.0476,0.0625
 2022-11-29 10:40:37.250248,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Mark Andrews,-0.014900000000000004,0.0196,0.0345
 2022-11-29 08:40:35.147461,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Mike McDaniel,-0.015100000000000002,0.1667,0.1818
-2022-11-29 13:40:27.178888,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Bobby Portis (MIL),-0.015300000000000001,0.0323,0.0476
-2022-11-29 11:40:32.758477,NFL Specials - Miami Dolphins Undefeated - Miami Dolphins Unbeaten,Dolphins To Remain Undefeated,-0.015300000000000001,0.0323,0.0476
 2022-11-29 13:40:26.855960,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - San Antonio Spurs,Yes,-0.015300000000000001,0.0323,0.0476
+2022-11-29 11:40:32.758477,NFL Specials - Miami Dolphins Undefeated - Miami Dolphins Unbeaten,Dolphins To Remain Undefeated,-0.015300000000000001,0.0323,0.0476
 2022-11-29 13:40:26.798196,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Boston Celtics,No,-0.015300000000000001,0.0323,0.0476
+2022-11-29 13:40:27.178888,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Bobby Portis (MIL),-0.015300000000000001,0.0323,0.0476
 2022-11-29 14:40:27.286250,Regular Season Wins - NFL 2022/23 Regular Season Win Totals - Green Bay Packers,Over 6.5,-0.01539999999999997,0.6,0.6154
 2022-11-29 10:40:37.257486,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),Tyreek Hill,-0.015400000000000025,0.3846,0.4
 2022-11-29 08:40:34.842543,Boxing Lines - Josh Warrington vs Luis Alberto Lopez - To Win the Bout,Josh Warrington,-0.016000000000000014,0.6109,0.6269
 2022-11-29 13:40:26.336903,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Joe Mixon,-0.017099999999999997,0.0123,0.0294
-2022-11-29 08:40:35.151697,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Comeback Player of the Year Award,Geno Smith,-0.01739999999999997,0.75,0.7674
 2022-11-29 14:40:27.429398,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Carolina Panthers,No,-0.01739999999999997,0.9756,0.993
-2022-11-29 08:40:35.165065,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Player of the Year,Nick Chubb,-0.0179,0.0099,0.0278
-2022-11-29 13:40:26.936185,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Brooklyn Nets,-0.0179,0.125,0.1429
+2022-11-29 08:40:35.151697,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Comeback Player of the Year Award,Geno Smith,-0.01739999999999997,0.75,0.7674
 2022-11-29 13:40:26.929303,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Golden State Warriors,-0.0179,0.125,0.1429
-2022-11-29 13:40:26.336903,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Cordarrelle Patterson,-0.0179,0.0099,0.0278
 2022-11-29 09:40:30.524540,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Kamala Harris,-0.0179,0.125,0.1429
+2022-11-29 08:40:35.165065,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Player of the Year,Nick Chubb,-0.0179,0.0099,0.0278
+2022-11-29 13:40:26.336903,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Cordarrelle Patterson,-0.0179,0.0099,0.0278
+2022-11-29 13:40:26.936185,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Brooklyn Nets,-0.0179,0.125,0.1429
 2022-11-29 10:40:37.257486,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),Davante Adams,-0.018099999999999998,0.0588,0.0769
 2022-11-29 13:40:26.872693,Number 1 Seed - 2022/23 NBA - Western Conference No. 1 Seed,MEM Grizzlies,-0.01820000000000002,0.1818,0.2
 2022-11-29 13:40:26.868001,Number 1 Seed - 2022/23 NBA - Eastern Conference No. 1 Seed,TOR Raptors,-0.0189,0.0196,0.0385
 2022-11-29 12:40:29.841501,Boxing Lines - Jhonny Gonzalez vs Takuya Watanabe - To Win the Bout,Takuya Watanabe,-0.018999999999999906,0.7143,0.7333
 2022-11-29 13:40:27.171691,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Luka Doncic (DAL),-0.019000000000000017,0.2667,0.2857
-2022-11-29 13:40:26.941624,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Dallas Mavericks,-0.02020000000000001,0.0909,0.1111
-2022-11-29 09:40:30.124945,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Joe Burrow,-0.02020000000000001,0.0909,0.1111
 2022-11-29 09:40:30.124945,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Josh Allen,-0.02020000000000001,0.0909,0.1111
+2022-11-29 09:40:30.124945,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Touchdowns (Regular Season),Joe Burrow,-0.02020000000000001,0.0909,0.1111
 2022-11-29 13:40:26.872693,Number 1 Seed - 2022/23 NBA - Western Conference No. 1 Seed,NO Pelicans,-0.02020000000000001,0.0909,0.1111
-2022-11-29 13:40:27.171691,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Donovan Mitchell (CLE),-0.0203,0.0323,0.0526
+2022-11-29 13:40:26.941624,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Dallas Mavericks,-0.02020000000000001,0.0909,0.1111
 2022-11-29 09:40:30.524540,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Michelle Obama,-0.0203,0.0385,0.0588
+2022-11-29 13:40:27.171691,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Donovan Mitchell (CLE),-0.0203,0.0323,0.0526
 2022-11-29 14:40:27.367886,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  New England Patriots,Under 8.5,-0.02079999999999993,0.5348,0.5556
 2022-11-29 06:40:33.159108,AFC North - 2022/2023 AFC North - AFC North Winner,Cincinnati Bengals,-0.020799999999999985,0.3125,0.3333
 2022-11-29 11:40:31.961960,Boxing Lines - Lyndon Arthur vs Joel Mcintyre - To Win the Bout,Joel Mcintyre,-0.0208,0.0625,0.0833
 2022-11-29 13:40:26.773271,2022/23 NBA - Regular Season Wins - Regular Season Wins - Most Wins - NBA 2022/23 Regular Season,ATL Hawks,-0.021199999999999997,0.0066,0.0278
 2022-11-29 13:40:26.773271,2022/23 NBA - Regular Season Wins - Regular Season Wins - Most Wins - NBA 2022/23 Regular Season,LA Clippers,-0.022099999999999998,0.0164,0.0385
-2022-11-29 07:40:30.619266,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Dallas Cowboys,-0.022199999999999998,0.2,0.2222
 2022-11-29 13:40:27.178888,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Jordan Poole (GSW),-0.022199999999999998,0.2,0.2222
-2022-11-29 15:40:28.672915,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Los Angeles Chargers,Yes,-0.022600000000000064,0.6,0.6226
-2022-11-29 10:40:37.690999,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs C. Young - Tournament Match-Up,Cameron Young,-0.022600000000000064,0.5122,0.5348
+2022-11-29 07:40:30.619266,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Dallas Cowboys,-0.022199999999999998,0.2,0.2222
+2022-11-29 17:40:28.802636,Hero World Challenge - 2/3 Balls - 1st Round 2 Balls - M. Fitzpatrick v T. Fleetwood - 1st Round 2 Balls ,Matthew Fitzpatrick,-0.022600000000000064,0.5122,0.5348
 2022-11-29 15:40:28.883788,Tournament Match-Ups - Tournament Match-Up - S. Im vs V. Hovland - Tournament Match-Up,Viktor Hovland,-0.022600000000000064,0.5122,0.5348
+2022-11-29 10:40:37.690999,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs C. Young - Tournament Match-Up,Cameron Young,-0.022600000000000064,0.5122,0.5348
+2022-11-29 15:40:28.672915,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Los Angeles Chargers,Yes,-0.022600000000000064,0.6,0.6226
+2022-11-29 17:40:28.867875,Round Match-Ups - 1st Round Match-Ups - V. Hovland vs T. Fleetwood - 1st Round Match-Ups,Viktor Hovland,-0.022600000000000064,0.5122,0.5348
 2022-11-29 13:40:27.190666,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Rudy Gobert (MIN),-0.02310000000000001,0.0769,0.1
 2022-11-29 13:40:27.203550,NBA Awards - 2022/23 NBA Awards - 2022/23 The Rookie of the Year,Paolo Banchero (ORL),-0.023799999999999932,0.8333,0.8571
 2022-11-29 14:40:27.372085,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  New Orleans Saints,Over 6.5,-0.023799999999999988,0.4762,0.5
+2022-11-29 17:40:28.861530,Round Match-Ups - 1st Round Match-Ups - J. Thomas vs M. Fitzpatrick - 1st Round Match-Ups,Matthew Fitzpatrick,-0.023800000000000043,0.5,0.5238
+2022-11-29 17:40:28.874143,Round Match-Ups - 1st Round Match-Ups - M. Homa vs S. Lowry - 1st Round Match-Ups,Max Homa,-0.023800000000000043,0.5,0.5238
 2022-11-29 08:40:35.165065,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Player of the Year,Derrick Henry,-0.024,0.0385,0.0625
 2022-11-29 14:40:27.363901,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Minnesota Vikings,Under 12.5,-0.024399999999999977,0.4878,0.5122
 2022-11-29 13:40:26.872693,Number 1 Seed - 2022/23 NBA - Western Conference No. 1 Seed,UTA Jazz,-0.024399999999999998,0.005,0.0294
@@ -239,11 +248,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-29 14:40:27.333634,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Jacksonville Jaguars,Over 6.5,-0.03980000000000006,0.6154,0.6552
 2022-11-29 13:40:26.782793,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Miami Heat,-0.04139999999999999,0.5238,0.5652
 2022-11-29 08:40:35.147461,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Pete Carroll,-0.04239999999999999,0.0345,0.0769
-2022-11-29 08:40:35.147461,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Nick Sirianni,-0.044399999999999995,0.5556,0.6
 2022-11-29 15:40:27.564919,95th Academy Awards - Best Actress - Best Actress,Cate Blanchett,-0.044399999999999995,0.4,0.4444
+2022-11-29 08:40:35.147461,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Nick Sirianni,-0.044399999999999995,0.5556,0.6
 2022-11-29 13:40:26.827347,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Los Angeles Lakers,Yes,-0.044499999999999984,0.2222,0.2667
-2022-11-29 13:40:26.851289,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Sacramento Kings,Yes,-0.045499999999999985,0.4545,0.5
 2022-11-29 13:40:27.178888,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Russell Westbrook (LAL),-0.045499999999999985,0.4545,0.5
+2022-11-29 13:40:26.851289,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Sacramento Kings,Yes,-0.045499999999999985,0.4545,0.5
 2022-11-29 13:40:26.346628,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Sacks (Regular Season),Za'Darius Smith,-0.0474,0.0435,0.0909
 2022-11-29 13:40:26.346628,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Sacks (Regular Season),Justin Houston,-0.0474,0.0435,0.0909
 2022-11-29 10:40:36.297997,US Midterm Elections 2022 - Senate Races -  Georgia,Herschel Walker (Republican),-0.0476,0.1429,0.1905
@@ -259,14 +268,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-29 13:40:26.901681,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Cleveland Cavaliers,-0.059099999999999986,0.2857,0.3448
 2022-11-29 13:40:26.782793,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,New York Knicks,-0.06520000000000004,0.5,0.5652
 2022-11-29 13:40:26.341143,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),Derrick Henry,-0.06659999999999999,0.2667,0.3333
-2022-11-29 13:40:26.787363,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Memphis Grizzlies,-0.06669999999999998,0.2,0.2667
 2022-11-29 09:40:30.120791,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Patrick Mahomes,-0.06669999999999998,0.6,0.6667
-2022-11-29 12:40:30.278481,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),Tyreek Hill,-0.06670000000000004,0.3333,0.4
+2022-11-29 13:40:26.787363,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Memphis Grizzlies,-0.06669999999999998,0.2,0.2667
 2022-11-29 13:40:26.835644,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - New York Knicks,Yes,-0.06670000000000004,0.3333,0.4
+2022-11-29 12:40:30.278481,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),Tyreek Hill,-0.06670000000000004,0.3333,0.4
 2022-11-29 09:40:30.129232,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Yards (Regular Season),Josh Allen,-0.0708,0.0625,0.1333
 2022-11-29 13:40:26.872693,Number 1 Seed - 2022/23 NBA - Western Conference No. 1 Seed,DAL Mavericks,-0.0726,0.0385,0.1111
-2022-11-29 13:40:26.868001,Number 1 Seed - 2022/23 NBA - Eastern Conference No. 1 Seed,MIL Bucks,-0.07789999999999997,0.2857,0.3636
 2022-11-29 13:40:26.346628,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Sacks (Regular Season),Matthew Judon,-0.07789999999999997,0.2857,0.3636
+2022-11-29 13:40:26.868001,Number 1 Seed - 2022/23 NBA - Eastern Conference No. 1 Seed,MIL Bucks,-0.07789999999999997,0.2857,0.3636
 2022-11-29 10:40:37.257486,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),Stefon Diggs,-0.07930000000000001,0.1429,0.2222
 2022-11-29 13:40:26.872693,Number 1 Seed - 2022/23 NBA - Western Conference No. 1 Seed,LA Clippers,-0.0804,0.0625,0.1429
 2022-11-29 13:40:26.823175,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Indiana Pacers,No,-0.08410000000000006,0.7826,0.8667
