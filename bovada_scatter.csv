@@ -26,6 +26,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-30 18:40:33.261099,Group Futures - Group C - To Advance from Group C,Saudi Arabia,0.019000000000000017,0.2857,0.2667
 2022-11-30 13:40:32.892320,Number 1 Seed - 2022/23 NBA - Western Conference No. 1 Seed,MEM Grizzlies,0.01820000000000002,0.2,0.1818
 2022-11-30 09:40:28.177266,Requested Specials - Regular Season Specials - Season Specials,"Most Rec Yds: Tyreek Hill, DROY: Aidan Hutchinson",0.018099999999999998,0.0526,0.0345
+2022-11-30 20:40:31.313792,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Argentina,0.0179,0.1429,0.125
 2022-11-30 12:40:29.273061,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Number 1 Seed,Minnesota Vikings,0.0179,0.1429,0.125
 2022-11-30 11:40:30.166316,US Presidential Election 2024 - US Presidential Election 2024 -Democratic Vice Presidential Candidate - Democrat VP,Pete Buttigieg,0.0179,0.1429,0.125
 2022-11-30 19:40:32.487877,Tournament Match-Ups - Tournament Match-Up - C. Davis vs M. Leishman - Tournament Match-Up,Cameron Davis,0.016699999999999937,0.6,0.5833
@@ -34,6 +35,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-30 19:40:32.722840,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Denver Nuggets,0.015100000000000002,0.1818,0.1667
 2022-11-30 10:40:31.169013,Nippon Series JT Cup - Nippon Series JT Cup - Outright,Shugo Imahira,0.014099999999999994,0.0667,0.0526
 2022-11-30 17:40:31.171860,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Argentina,0.013899999999999996,0.125,0.1111
+2022-11-30 20:40:31.313792,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,France,0.012899999999999995,0.1667,0.1538
 2022-11-30 11:40:30.160614,US Presidential Election 2024 - US Presidential Election 2024 - Sex Of Winner - Sex of Winner,Male,0.012899999999999912,0.8462,0.8333
 2022-11-30 09:40:28.177266,Requested Specials - Regular Season Specials - Season Specials,"Most Pass Yds: Joe Burrow, Most Rec Yds: Justin Jefferson, Most Rush Yds: Derrick Henry",0.012100000000000001,0.0244,0.0123
 2022-11-30 13:40:33.299348,Boxing Lines - Kim Clavel vs Jessica Nery Plata - To Win the Bout,Jessica Nery Plata,0.011700000000000016,0.2222,0.2105
@@ -44,17 +46,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-30 09:40:28.177266,Requested Specials - Regular Season Specials - Season Specials,"Superbowl 57 Winner: Buffalo Bills, DROY: Aidan Hutchinson",0.010600000000000002,0.0323,0.0217
 2022-11-30 14:40:31.806145,Boxing Lines - Diego Pacheco vs Ricardo Adrian Luna - To Win the Bout,Ricardo Adrian Luna,0.0102,0.0769,0.0667
 2022-11-30 18:40:33.255884,Group Futures - Group C - Group C - To Place Last in Group,Mexico,0.010099999999999998,0.4545,0.4444
-2022-11-30 09:40:27.206702,Boxing Lines - Troy Williamson vs Josh Kelly - To Win the Bout,Troy Williamson,-0.010099999999999998,0.5455,0.5556
 2022-11-30 15:40:42.879718,The Match 7 - The Match 7 - Outright,Justin Thomas / Jordan Spieth,-0.010099999999999998,0.5455,0.5556
+2022-11-30 09:40:27.206702,Boxing Lines - Troy Williamson vs Josh Kelly - To Win the Bout,Troy Williamson,-0.010099999999999998,0.5455,0.5556
+2022-11-30 20:40:31.313792,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Germany,-0.0102,0.0667,0.0769
 2022-11-30 11:40:30.160614,US Presidential Election 2024 - US Presidential Election 2024 - Sex Of Winner - Sex of Winner,Female,-0.010399999999999993,0.2222,0.2326
-2022-11-30 16:40:33.699389,Boxing Lines - Brandon Glanton vs David Light - To Win the Bout,Brandon Glanton,-0.010500000000000065,0.7895,0.8
 2022-11-30 14:40:31.771003,Boxing Lines - Jon Fernandez vs Samuel Molina - To Win the Bout,Jon Fernandez,-0.010500000000000065,0.7895,0.8
+2022-11-30 16:40:33.699389,Boxing Lines - Brandon Glanton vs David Light - To Win the Bout,Brandon Glanton,-0.010500000000000065,0.7895,0.8
 2022-11-30 18:40:33.250032,Group Futures - Group C - Group C Winner,Poland,-0.010699999999999987,0.3226,0.3333
-2022-11-30 13:40:32.930631,2022/23 Divisions - 2022-2023 NBA Northwest Division - Division Winner,Minnesota Timberwolves,-0.011099999999999999,0.1,0.1111
 2022-11-30 19:40:32.487877,Tournament Match-Ups - Tournament Match-Up - C. Davis vs M. Leishman - Tournament Match-Up,Marc Leishman,-0.011099999999999999,0.4651,0.4762
 2022-11-30 18:40:33.261099,Group Futures - Group C - To Advance from Group C,Mexico,-0.011099999999999999,0.2667,0.2778
+2022-11-30 13:40:32.930631,2022/23 Divisions - 2022-2023 NBA Northwest Division - Division Winner,Minnesota Timberwolves,-0.011099999999999999,0.1,0.1111
 2022-11-30 18:40:31.172970,Hero World Challenge - 2/3 Balls - 1st Round 2 Balls - M. Fitzpatrick v T. Fleetwood - 1st Round 2 Balls ,Tommy Fleetwood,-0.011600000000000055,0.5122,0.5238
 2022-11-30 09:40:28.177266,Requested Specials - Regular Season Specials - Season Specials,Regular Season MVP: Josh Allen & Buffalo Bills v Tampa Bay Buccaneers in Super Bowl,-0.012400000000000001,0.004,0.0164
+2022-11-30 20:40:30.552542,Boxing Lines - Lyndon Arthur vs Joel Mcintyre - To Win the Bout,Joel Mcintyre,-0.012600000000000007,0.0588,0.0714
 2022-11-30 13:40:32.938055,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Los Angeles Clippers,-0.012899999999999995,0.1538,0.1667
 2022-11-30 11:40:30.130857,US Midterm Elections 2022 - Senate Races -  Georgia,Herschel Walker (Republican),-0.012899999999999995,0.1538,0.1667
 2022-11-30 11:40:30.154567,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Donald Trump,-0.015400000000000025,0.3846,0.4
@@ -68,8 +72,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-30 18:40:31.111747,South African Open - 2/3 Balls - 1st Round 3 Balls - A. Wu / S. Norris / W. Nienaber - 1st Round 3 Balls,Wilco Nienaber,-0.018100000000000005,0.4167,0.4348
 2022-11-30 19:40:32.722840,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Memphis Grizzlies,-0.01820000000000002,0.1818,0.2
 2022-11-30 13:40:33.220166,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Giannis Antetokounmpo (MIL),-0.019000000000000017,0.2667,0.2857
-2022-11-30 11:40:30.178853,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.019099999999999992,0.0476,0.0667
 2022-11-30 11:40:30.178853,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Gavin Newsom,-0.019099999999999992,0.0476,0.0667
+2022-11-30 11:40:30.178853,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.019099999999999992,0.0476,0.0667
 2022-11-30 13:40:32.930631,2022/23 Divisions - 2022-2023 NBA Northwest Division - Division Winner,Portland Trail Blazers,-0.027999999999999997,0.1538,0.1818
 2022-11-30 12:40:29.225324,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Number 1 Seed,Cincinnati Bengals,-0.0282,0.0244,0.0526
 2022-11-30 09:40:28.177266,Requested Specials - Regular Season Specials - Season Specials,"Regular Season MVP: Josh Allen, DPOY: Micah Parsons & DROY: Ahmad Gardner",-0.028399999999999995,0.0625,0.0909
