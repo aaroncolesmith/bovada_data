@@ -26,7 +26,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-30 09:40:28.177266,Requested Specials - Regular Season Specials - Season Specials,"Most Rec Yds: Tyreek Hill, DROY: Aidan Hutchinson",0.018099999999999998,0.0526,0.0345
 2022-11-30 12:40:29.273061,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Number 1 Seed,Minnesota Vikings,0.0179,0.1429,0.125
 2022-11-30 11:40:30.166316,US Presidential Election 2024 - US Presidential Election 2024 -Democratic Vice Presidential Candidate - Democrat VP,Pete Buttigieg,0.0179,0.1429,0.125
-2022-11-30 03:40:34.449186,Team Futures - Croatia Team Specials - Croatia Total Goals,5+,0.01759999999999995,0.6667,0.6491
 2022-11-30 12:40:29.273061,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Number 1 Seed,San Francisco 49ers,0.0159,0.0323,0.0164
 2022-11-30 11:40:31.687344,Boxing Lines - Jhonny Gonzalez vs Takuya Watanabe - To Win the Bout,Jhonny Gonzalez,0.015500000000000014,0.4237,0.4082
 2022-11-30 05:40:32.553262,Boxing Lines - Jon Fernandez vs Samuel Molina - To Win the Bout,Jon Fernandez,0.014700000000000046,0.7647,0.75
@@ -35,11 +34,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-30 11:40:30.160614,US Presidential Election 2024 - US Presidential Election 2024 - Sex Of Winner - Sex of Winner,Male,0.012899999999999912,0.8462,0.8333
 2022-11-30 09:40:28.177266,Requested Specials - Regular Season Specials - Season Specials,"Most Pass Yds: Joe Burrow, Most Rec Yds: Justin Jefferson, Most Rush Yds: Derrick Henry",0.012100000000000001,0.0244,0.0123
 2022-11-30 13:40:33.299348,Boxing Lines - Kim Clavel vs Jessica Nery Plata - To Win the Bout,Jessica Nery Plata,0.011700000000000016,0.2222,0.2105
+2022-11-30 15:40:42.879718,The Match 7 - The Match 7 - Outright,Tiger Woods / Rory McIlroy,0.011600000000000055,0.5238,0.5122
+2022-11-30 15:40:41.759640,Boxing Lines - Isaac Lowe vs Sandeep Singh Bhatti - To Win the Bout,Isaac Lowe,0.011199999999999988,0.9524,0.9412
 2022-11-30 12:40:29.273061,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Number 1 Seed,Dallas Cowboys,0.010899999999999993,0.1538,0.1429
 2022-11-30 09:40:28.177266,Requested Specials - Regular Season Specials - Season Specials,"Superbowl 57 Winner: Buffalo Bills, DROY: Aidan Hutchinson",0.010600000000000002,0.0323,0.0217
 2022-11-30 14:40:31.806145,Boxing Lines - Diego Pacheco vs Ricardo Adrian Luna - To Win the Bout,Ricardo Adrian Luna,0.0102,0.0769,0.0667
 2022-11-30 06:40:28.412765,Boxing Lines - Troy Williamson vs Josh Kelly - To Win the Bout,Troy Williamson,0.010099999999999998,0.5556,0.5455
 2022-11-30 09:40:27.206702,Boxing Lines - Troy Williamson vs Josh Kelly - To Win the Bout,Troy Williamson,-0.010099999999999998,0.5455,0.5556
+2022-11-30 15:40:42.879718,The Match 7 - The Match 7 - Outright,Justin Thomas / Jordan Spieth,-0.010099999999999998,0.5455,0.5556
 2022-11-30 11:40:30.160614,US Presidential Election 2024 - US Presidential Election 2024 - Sex Of Winner - Sex of Winner,Female,-0.010399999999999993,0.2222,0.2326
 2022-11-30 14:40:31.771003,Boxing Lines - Jon Fernandez vs Samuel Molina - To Win the Bout,Jon Fernandez,-0.010500000000000065,0.7895,0.8
 2022-11-30 13:40:32.930631,2022/23 Divisions - 2022-2023 NBA Northwest Division - Division Winner,Minnesota Timberwolves,-0.011099999999999999,0.1,0.1111
@@ -56,8 +58,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-11-30 09:40:27.270675,Boxing Lines - Juan Francisco Estrada vs Roman Gonzalez - To Win the Bout,Juan Francisco Estrada,-0.017699999999999994,0.3597,0.3774
 2022-11-30 12:40:29.225324,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Number 1 Seed,Los Angeles Chargers,-0.017800000000000003,0.0066,0.0244
 2022-11-30 13:40:33.220166,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Giannis Antetokounmpo (MIL),-0.019000000000000017,0.2667,0.2857
-2022-11-30 11:40:30.178853,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Gavin Newsom,-0.019099999999999992,0.0476,0.0667
 2022-11-30 11:40:30.178853,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.019099999999999992,0.0476,0.0667
+2022-11-30 11:40:30.178853,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Gavin Newsom,-0.019099999999999992,0.0476,0.0667
 2022-11-30 04:40:35.928905,Tournament Match-Ups - Tournament Match-Up - D. Micheluzzi vs M. Kawamura - Tournament Match-Up,Masahiro Kawamura,-0.022600000000000064,0.5122,0.5348
 2022-11-30 07:40:28.975842,US Midterm Elections 2022 - Senate Races -  Georgia,Raphael Warnock (Democratic),-0.02310000000000001,0.9,0.9231
 2022-11-30 04:40:35.892299,Tournament Match-Ups - Tournament Match-Up - A. Garcia-Heredia vs A. Canizares - Tournament Match-Up,Alejandro Canizares,-0.024399999999999977,0.4878,0.5122
