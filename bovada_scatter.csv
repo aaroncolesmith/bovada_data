@@ -1,18 +1,29 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-02 02:40:36.676700,Team Futures - Australia Team Specials - Australia Stage of Elimination,Last 16,0.5722,0.9231,0.3509
 2022-12-02 02:40:36.742249,Team Futures - Japan Team Specials - Japan Stage of Elimination,Last 16,0.5334,0.6667,0.1333
+2022-12-02 03:40:36.047117,Team Futures - England Team Specials - England Top Team Goalscorer,Marcus Rashford,0.5231,0.6,0.0769
 2022-12-02 01:40:37.947697,Tournament Futures - FIFA World Cup 2022 - To Reach the Quarter-Final,Argentina,0.4469,0.9231,0.4762
 2022-12-02 01:40:37.947697,Tournament Futures - FIFA World Cup 2022 - To Reach the Quarter-Final,Croatia,0.38460000000000005,0.6923,0.3077
 2022-12-02 02:40:36.762075,Team Futures - Poland Team Specials - Poland Stage of Elimination,Last 16,0.3762,0.9,0.5238
+2022-12-02 03:40:36.027933,Team Futures - Croatia Team Specials - Croatia Top Team Goalscorer,Andrej Kramaric,0.30600000000000005,0.8182,0.5122
 2022-12-02 01:40:37.947697,Tournament Futures - FIFA World Cup 2022 - To Reach the Quarter-Final,Japan,0.30479999999999996,0.3636,0.0588
+2022-12-02 03:40:36.009599,Team Futures - Cameroon Team Specials - Cameroon Top Team Goalscorer,Vincent Aboubakar,0.2571,0.4,0.1429
 2022-12-02 02:40:36.742249,Team Futures - Japan Team Specials - Japan Stage of Elimination,Quarter Finals,0.25639999999999996,0.3333,0.0769
 2022-12-02 02:40:36.707846,Team Futures - Croatia Team Specials - Croatia Stage of Elimination,Quarter Finals,0.2436,0.4762,0.2326
+2022-12-02 03:40:35.823572,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Alvaro Morata,0.2364,0.6,0.3636
+2022-12-02 03:40:36.168726,Team Futures - Spain Team Specials - Spain Top Team Goalscorer,Alvaro Morata,0.2364,0.6,0.3636
+2022-12-02 03:40:36.009599,Team Futures - Cameroon Team Specials - Cameroon Top Team Goalscorer,Eric Maxim Choupo-Moting,0.22069999999999998,0.3636,0.1429
+2022-12-02 03:40:36.188114,Team Futures - USA Team Specials - USA Top Team Goalscorer,Christian Pulisic,0.2104,0.3922,0.1818
 2022-12-01 22:40:31.101739,South African Open - South African Open - Outright,Thriston Lawrence,0.1877,0.2353,0.0476
+2022-12-02 03:40:36.009599,Team Futures - Cameroon Team Specials - Cameroon Top Team Goalscorer,Jean-Charles Castelletto,0.1804,0.2,0.0196
 2022-12-01 16:40:30.795788,College Specials - Next Team to Be Ranked in the AP Top 25 - Proposition,Iowa,0.1731,0.25,0.0769
 2022-12-02 01:40:37.947697,Tournament Futures - FIFA World Cup 2022 - To Reach the Quarter-Final,France,0.16670000000000007,0.9,0.7333
+2022-12-02 03:40:35.984253,Team Futures - Australia Team Specials - Australia Top Team Goalscorer,Mathew Leckie,0.16340000000000002,0.2222,0.0588
 2022-12-02 01:40:37.954381,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,Spain,0.15340000000000004,0.5238,0.3704
 2022-12-01 15:40:36.880536,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Saint Louis,0.11430000000000001,0.4,0.2857
 2022-12-02 01:40:37.932908,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Brazil & Spain,0.1135,0.1429,0.0294
+2022-12-02 03:40:35.883044,Tournament Futures - FIFA World Cup 2022 - Name The Semi-Finalists,"Argentina, Brazil, France & Spain",0.1054,0.125,0.0196
+2022-12-02 03:40:35.883044,Tournament Futures - FIFA World Cup 2022 - Name The Semi-Finalists,"Argentina, Brazil, England & Spain",0.09620000000000001,0.1111,0.0149
 2022-12-02 00:40:31.744869,College Basketball - Missouri Valley Conference Regular Season Conference Winner - Missouri Valley Regular Season Winner,Indiana State,0.0909,0.1818,0.0909
 2022-12-02 01:40:37.947697,Tournament Futures - FIFA World Cup 2022 - To Reach the Quarter-Final,Spain,0.0857,0.8,0.7143
 2022-12-01 21:40:28.842281,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Indiana,0.08179999999999998,0.1818,0.1
@@ -20,31 +31,35 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-02 02:40:36.707846,Team Futures - Croatia Team Specials - Croatia Stage of Elimination,Semi Final,0.0762,0.1429,0.0667
 2022-12-02 01:40:37.932908,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Argentina & Spain,0.076,0.0909,0.0149
 2022-12-01 23:40:38.255568,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Team,Brazil,0.07069999999999999,0.1818,0.1111
+2022-12-02 01:40:36.729465,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.06779999999999997,0.5556,0.4878
+2022-12-02 02:40:36.391378,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.06779999999999997,0.5556,0.4878
+2022-12-02 03:40:34.526474,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.06779999999999997,0.5556,0.4878
 2022-12-02 00:40:32.628115,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.06779999999999997,0.5556,0.4878
 2022-12-01 23:40:38.087847,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.06779999999999997,0.5556,0.4878
-2022-12-02 02:40:36.391378,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.06779999999999997,0.5556,0.4878
-2022-12-01 22:40:31.986697,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.06779999999999997,0.5556,0.4878
-2022-12-01 19:40:30.484833,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.06779999999999997,0.5556,0.4878
-2022-12-01 21:40:30.097966,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.06779999999999997,0.5556,0.4878
-2022-12-01 17:40:45.546665,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.06779999999999997,0.5556,0.4878
-2022-12-01 16:40:32.172150,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.06779999999999997,0.5556,0.4878
-2022-12-02 01:40:36.729465,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.06779999999999997,0.5556,0.4878
-2022-12-01 18:40:30.980976,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.06779999999999997,0.5556,0.4878
 2022-12-01 20:40:35.515261,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.06779999999999997,0.5556,0.4878
+2022-12-01 22:40:31.986697,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.06779999999999997,0.5556,0.4878
+2022-12-01 21:40:30.097966,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.06779999999999997,0.5556,0.4878
+2022-12-01 16:40:32.172150,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.06779999999999997,0.5556,0.4878
+2022-12-01 18:40:30.980976,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.06779999999999997,0.5556,0.4878
+2022-12-01 17:40:45.546665,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.06779999999999997,0.5556,0.4878
+2022-12-01 19:40:30.484833,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.06779999999999997,0.5556,0.4878
 2022-12-02 02:40:35.711836,NBL - NBL 2022/23 - Outright,New Zealand Breakers,0.0673,0.2778,0.2105
 2022-12-02 02:40:36.749546,Team Futures - Morocco Team Specials - Morocco Stage of Elimination,Last 16,0.06670000000000009,0.8,0.7333
 2022-12-02 02:40:36.721033,Team Futures - France Team Specials - France Stage of Elimination,Quarter Final,0.06670000000000004,0.4,0.3333
 2022-12-01 17:40:44.722975,College Basketball - Summit League Regular Season Conference Winner - Summit League Regular Season Winner,St. Thomas (MN),0.06649999999999999,0.0909,0.0244
 2022-12-02 01:40:37.954381,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,Brazil,0.06520000000000004,0.7143,0.6491
-2022-12-01 15:40:36.394686,NCAA Football Specials - Early College Football Playoff Lines - Proposition,Michigan Wolverines -12.5,0.06519999999999992,0.6,0.5348
-2022-12-01 15:40:36.444927,NCAA Football Specials - Early College Football Playoff Lines - Proposition,Georgia Bulldogs -10,0.06519999999999992,0.6,0.5348
+2022-12-02 03:40:35.984253,Team Futures - Australia Team Specials - Australia Top Team Goalscorer,Jason Cummings,0.0635,0.1111,0.0476
 2022-12-02 01:40:37.954381,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,Japan,0.0573,0.0769,0.0196
+2022-12-02 03:40:35.883044,Tournament Futures - FIFA World Cup 2022 - Name The Semi-Finalists,"Brazil, France, Netherlands & Spain",0.056799999999999996,0.0667,0.0099
 2022-12-02 02:40:36.812051,Team Futures - Spain Team Specials - Spain Stage of Elimination,Quarter Final,0.055900000000000005,0.3636,0.3077
 2022-12-01 22:40:31.101739,South African Open - South African Open - Outright,Scott Jamieson,0.05249999999999999,0.0769,0.0244
+2022-12-02 03:40:36.047117,Team Futures - England Team Specials - England Top Team Goalscorer,Phil Foden,0.05249999999999999,0.0769,0.0244
 2022-12-01 23:40:38.278109,Tournament Futures - FIFA World Cup 2022 - Golden Glove Winner,Diogo Costa,0.052399999999999995,0.0909,0.0385
 2022-12-01 22:40:30.219137,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Loyola Chicago,0.052399999999999995,0.0909,0.0385
-2022-12-02 02:40:36.721033,Team Futures - France Team Specials - France Stage of Elimination,Semi Final,0.04999999999999999,0.25,0.2
 2022-12-02 02:40:36.812051,Team Futures - Spain Team Specials - Spain Stage of Elimination,Semi Final,0.04999999999999999,0.25,0.2
+2022-12-02 03:40:35.810137,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Dani Olmo,0.04999999999999999,0.25,0.2
+2022-12-02 02:40:36.721033,Team Futures - France Team Specials - France Stage of Elimination,Semi Final,0.04999999999999999,0.25,0.2
+2022-12-02 03:40:35.883044,Tournament Futures - FIFA World Cup 2022 - Name The Semi-Finalists,"Brazil, England, Netherlands & Spain",0.0489,0.0588,0.0099
 2022-12-01 15:40:36.880536,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Richmond,0.048600000000000004,0.1111,0.0625
 2022-12-02 01:40:37.940915,Tournament Futures - FIFA World Cup 2022 - To Reach the Final,Spain,0.0476,0.2857,0.2381
 2022-12-01 22:40:30.219137,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Dayton,0.047599999999999976,0.3333,0.2857
@@ -54,17 +69,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-01 22:40:31.101739,South African Open - South African Open - Outright,Matti Schmid,0.0465,0.0588,0.0123
 2022-12-01 23:40:36.272877,College Basketball - Big South Conference Regular Season Conference Winner - Big South Regular Season Winner,High Point,0.04329999999999999,0.0909,0.0476
 2022-12-01 21:40:28.842281,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Purdue,0.04169999999999999,0.1667,0.125
-2022-12-01 15:40:36.400473,NCAA Football Specials - Early College Football Playoff Lines - Proposition,Michigan Wolverines -9.5,0.03959999999999997,0.5744,0.5348
+2022-12-02 03:40:34.688360,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,New Orleans Pelicans,0.0398,0.3846,0.3448
 2022-12-01 16:40:30.644051,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Zach Edey,0.03889999999999999,0.1818,0.1429
 2022-12-01 22:40:31.101739,South African Open - South African Open - Outright,Wilco Nienaber,0.0373,0.0667,0.0294
 2022-12-01 23:40:37.110424,Boxing Lines - Jon Fernandez vs Samuel Molina - To Win the Bout,Samuel Molina,0.03589999999999999,0.2632,0.2273
-2022-12-02 01:40:37.947697,Tournament Futures - FIFA World Cup 2022 - To Reach the Quarter-Final,Australia,0.034100000000000005,0.125,0.0909
 2022-12-02 00:40:31.751280,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Wyoming,0.034100000000000005,0.125,0.0909
+2022-12-02 01:40:37.947697,Tournament Futures - FIFA World Cup 2022 - To Reach the Quarter-Final,Australia,0.034100000000000005,0.125,0.0909
 2022-12-01 19:40:31.523829,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Germany,0.03330000000000001,0.1,0.0667
+2022-12-02 03:40:35.815492,Tournament Futures - FIFA World Cup 2022 - Top Italian Serie A Goalscorer,Boulaye Dia,0.0321,0.0909,0.0588
 2022-12-02 01:40:37.932908,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Netherlands & Spain,0.0319,0.0385,0.0066
 2022-12-01 22:40:30.207148,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Virginia,0.030299999999999994,0.3636,0.3333
 2022-12-01 23:40:38.278109,Tournament Futures - FIFA World Cup 2022 - Golden Glove Winner,Dominik Livakovic,0.0294,0.0588,0.0294
 2022-12-02 02:40:36.721033,Team Futures - France Team Specials - France Stage of Elimination,Runner-up,0.028799999999999992,0.1538,0.125
+2022-12-02 03:40:35.823572,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Youssef En-Nesyri,0.0286,0.0385,0.0099
 2022-12-01 22:40:31.101739,South African Open - South African Open - Outright,Dan Bradbury,0.028599999999999997,0.0435,0.0149
 2022-12-01 23:40:38.271898,Tournament Futures - FIFA World Cup 2022 - Winners Group,Group C,0.027999999999999997,0.1818,0.1538
 2022-12-02 01:40:37.947697,Tournament Futures - FIFA World Cup 2022 - To Reach the Quarter-Final,Morocco,0.02779999999999999,0.25,0.2222
@@ -74,13 +91,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-02 02:40:35.705304,Euro Cup - Euro Cup 2022/23 - Outright,Türk Telekom,0.0242,0.0909,0.0667
 2022-12-01 22:40:31.101739,South African Open - South African Open - Outright,Edoardo Molinari,0.023899999999999998,0.0435,0.0196
 2022-12-01 21:40:28.842281,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Connecticut,0.023799999999999988,0.1667,0.1429
+2022-12-02 03:40:35.883044,Tournament Futures - FIFA World Cup 2022 - Name The Semi-Finalists,"Argentina, Croatia, France & Spain",0.0236,0.0385,0.0149
 2022-12-01 17:40:44.722975,College Basketball - Summit League Regular Season Conference Winner - Summit League Regular Season Winner,UMKC,0.023200000000000002,0.0476,0.0244
 2022-12-01 20:40:34.637701,BKFC 34 - Jocelyn Jones-Lybarger vs Christine Vicens - To Win the Bout,Jocelyn Jones-Lybarger,0.02300000000000002,0.6721,0.6491
 2022-12-01 22:40:31.101739,South African Open - South African Open - Outright,Tom McKibbin,0.022200000000000004,0.0345,0.0123
+2022-12-02 03:40:35.805364,Tournament Futures - FIFA World Cup 2022 - Top French Ligue 1 Goalscorer,Kylian Mbappe,0.022199999999999998,0.8,0.7778
 2022-12-02 01:40:37.940915,Tournament Futures - FIFA World Cup 2022 - To Reach the Final,Brazil,0.021699999999999997,0.4762,0.4545
+2022-12-02 03:40:35.851089,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,France,0.02169999999999994,0.5455,0.5238
 2022-12-01 22:40:31.101739,South African Open - South African Open - Outright,Jens Fahrbring,0.0211,0.0244,0.0033
-2022-12-01 15:40:36.406213,NCAA Football Specials - Early College Football Playoff Lines - Proposition,Ohio State Buckeyes + 1,0.02079999999999993,0.5556,0.5348
-2022-12-01 15:40:36.388153,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.02079999999999993,0.5556,0.5348
 2022-12-01 20:40:34.028112,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Alabama,0.0206,0.0385,0.0179
 2022-12-02 02:40:36.707846,Team Futures - Croatia Team Specials - Croatia Stage of Elimination,Runner-up,0.0203,0.0588,0.0385
 2022-12-02 02:40:36.742249,Team Futures - Japan Team Specials - Japan Stage of Elimination,Semi Finals,0.0203,0.0588,0.0385
@@ -92,6 +110,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-01 21:40:28.842281,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Arizona,0.01820000000000002,0.2,0.1818
 2022-12-02 01:40:37.940915,Tournament Futures - FIFA World Cup 2022 - To Reach the Final,Croatia,0.018099999999999998,0.0769,0.0588
 2022-12-01 21:40:30.227688,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Spain,0.0179,0.1429,0.125
+2022-12-02 03:40:35.815492,Tournament Futures - FIFA World Cup 2022 - Top Italian Serie A Goalscorer,Lautaro Martinez,0.0179,0.1429,0.125
 2022-12-02 01:40:37.021636,South African Open - 2/3 Balls - 2nd Round 3 Balls - A. Wu / S. Norris / W. Nienaber - 2nd Round 3 Balls,Ashun Wu,0.017600000000000005,0.3509,0.3333
 2022-12-01 18:40:29.841170,BKFC 34 - Howard Davis vs Louie Lopez - To Win the Bout,Louie Lopez,0.0174,0.2174,0.2
 2022-12-02 01:40:37.954381,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,Uruguay,0.016600000000000004,0.0833,0.0667
@@ -100,70 +119,86 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-01 18:40:29.833858,BKFC 34 - Freddy Masabo vs Shawn Moffett - To Win the Bout,Shawn Moffett,0.015699999999999992,0.2062,0.1905
 2022-12-02 01:40:37.072154,South African Open - 2/3 Balls - 2nd Round 3 Balls - D. Whitnell / K. Davidse / Z. Lombard - 2nd Round 3 Balls,Dale Whitnell,0.015400000000000025,0.4,0.3846
 2022-12-01 22:40:30.219137,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,George Mason,0.015300000000000001,0.0476,0.0323
-2022-12-01 17:40:46.105198,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Argentina,0.015100000000000002,0.1818,0.1667
 2022-12-02 00:40:33.002999,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Lionel Messi,0.015100000000000002,0.1818,0.1667
-2022-12-01 14:40:37.700402,Boxing Lines - Brandon Glanton vs David Light - To Win the Bout,Brandon Glanton,0.014700000000000046,0.7647,0.75
-2022-12-02 01:40:37.932908,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Croatia & France,0.014599999999999998,0.0196,0.005
+2022-12-01 17:40:46.105198,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Argentina,0.015100000000000002,0.1818,0.1667
 2022-12-02 01:40:37.932908,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Argentina & Brazil,0.014599999999999998,0.0196,0.005
-2022-12-01 19:40:31.093060,Boxing Lines - Jon Fernandez vs Samuel Molina - To Win the Bout,Jon Fernandez,0.014200000000000101,0.8403,0.8261
+2022-12-02 01:40:37.932908,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Croatia & France,0.014599999999999998,0.0196,0.005
 2022-12-01 22:40:30.862262,Boxing Lines - Jon Fernandez vs Samuel Molina - To Win the Bout,Jon Fernandez,0.014200000000000101,0.8403,0.8261
+2022-12-01 19:40:31.093060,Boxing Lines - Jon Fernandez vs Samuel Molina - To Win the Bout,Jon Fernandez,0.014200000000000101,0.8403,0.8261
 2022-12-01 16:40:30.644051,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Kris Murray,0.014099999999999998,0.0385,0.0244
 2022-12-01 22:40:30.201016,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Terrance Shannon,0.014099999999999998,0.0435,0.0294
+2022-12-02 03:40:35.810137,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Jude Bellingham,0.013999999999999999,0.0909,0.0769
 2022-12-02 00:40:31.784248,College Basketball - West Coast Regular Season Conference Winner - West Coast Conference Regular Season Winner,Saint Mary's CA,0.013999999999999999,0.0909,0.0769
 2022-12-01 19:40:31.221144,BKFC 34 - Brian Duran vs Kobe Bowen - To Win the Bout,Brian Duran,0.013900000000000023,0.8889,0.875
 2022-12-02 01:40:37.947697,Tournament Futures - FIFA World Cup 2022 - To Reach the Quarter-Final,Senegal,0.0131,0.2353,0.2222
+2022-12-02 03:40:36.188114,Team Futures - USA Team Specials - USA Top Team Goalscorer,Giovanni Reyna,0.0131,0.0476,0.0345
+2022-12-02 03:40:35.883044,Tournament Futures - FIFA World Cup 2022 - Name The Semi-Finalists,"Argentina, France, Spain & Uruguay",0.0129,0.0149,0.002
 2022-12-01 20:40:34.674820,BKFC 34 - Blake Davis vs Will Dunkle - To Win the Bout,Will Dunkle,0.012899999999999995,0.1667,0.1538
 2022-12-01 23:40:36.272877,College Basketball - Big South Conference Regular Season Conference Winner - Big South Regular Season Winner,Longwood,0.012799999999999978,0.2985,0.2857
 2022-12-02 02:40:34.988275,Boxing Lines - Lyndon Arthur vs Joel Mcintyre - To Win the Bout,Joel Mcintyre,0.011899999999999994,0.0833,0.0714
 2022-12-02 00:40:31.765806,College Basketball - SEC Regular Season Conference Winner - SEC Regular Season Winner,Alabama,0.010899999999999993,0.1538,0.1429
 2022-12-02 02:40:36.721033,Team Futures - France Team Specials - France Stage of Elimination,Winners,0.010899999999999993,0.1538,0.1429
 2022-12-01 20:40:34.513041,Boxing Lines - Jon Fernandez vs Samuel Molina - To Win the Bout,Samuel Molina,0.010800000000000004,0.2381,0.2273
-2022-12-01 14:40:37.721323,Boxing Lines - Jon Fernandez vs Samuel Molina - To Win the Bout,Samuel Molina,0.010800000000000004,0.2381,0.2273
 2022-12-01 22:40:30.201016,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Adama Sanogo,0.010600000000000002,0.0323,0.0217
+2022-12-02 03:40:35.883044,Tournament Futures - FIFA World Cup 2022 - Name The Semi-Finalists,"Argentina, England, Spain & Uruguay",0.0103,0.0123,0.002
+2022-12-02 03:40:35.810137,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Takumu Asano,0.0102,0.0769,0.0667
+2022-12-02 03:40:36.188114,Team Futures - USA Team Specials - USA Top Team Goalscorer,Josh Sargent,0.0102,0.0769,0.0667
+2022-12-02 03:40:35.329411,South African Open - South African Open - Outright,Wilco Nienaber,0.0102,0.0769,0.0667
+2022-12-02 03:40:35.883044,Tournament Futures - FIFA World Cup 2022 - Name The Semi-Finalists,"Argentina, Brazil, England & Portugal",0.0102,0.0769,0.0667
 2022-12-02 00:40:31.784248,College Basketball - West Coast Regular Season Conference Winner - West Coast Conference Regular Season Winner,Gonzaga,0.010199999999999987,0.9333,0.9231
 2022-12-02 02:40:34.998463,Boxing Lines - Brandon Glanton vs David Light - To Win the Bout,David Light,-0.010099999999999998,0.3125,0.3226
-2022-12-02 00:40:33.032377,Tournament Futures - FIFA World Cup 2022 - Most Assists,Kylian Mbappe,-0.0102,0.0667,0.0769
 2022-12-02 01:40:37.954381,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,Poland,-0.0102,0.0667,0.0769
-2022-12-01 16:40:30.644051,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Jalen Wilson,-0.0102,0.0667,0.0769
 2022-12-01 16:40:30.644051,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Marcus Sasser,-0.0102,0.0667,0.0769
-2022-12-01 15:40:36.507016,MLB - Odds to win 2023 World Series - World Series Winner 2023,San Diego Padres,-0.0102,0.0667,0.0769
+2022-12-02 00:40:33.032377,Tournament Futures - FIFA World Cup 2022 - Most Assists,Kylian Mbappe,-0.0102,0.0667,0.0769
+2022-12-01 16:40:30.644051,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Jalen Wilson,-0.0102,0.0667,0.0769
+2022-12-02 03:40:36.027933,Team Futures - Croatia Team Specials - Croatia Top Team Goalscorer,Ivan Perisic,-0.0102,0.0667,0.0769
 2022-12-01 22:40:31.101739,South African Open - South African Open - Outright,Darius van Driel,-0.0103,0.002,0.0123
+2022-12-02 03:40:36.027933,Team Futures - Croatia Team Specials - Croatia Top Team Goalscorer,Borna Barisic,-0.0103,0.002,0.0123
 2022-12-01 16:40:30.644051,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Adama Sanogo,-0.010600000000000002,0.0217,0.0323
 2022-12-02 00:40:31.765806,College Basketball - SEC Regular Season Conference Winner - SEC Regular Season Winner,Kentucky,-0.010699999999999987,0.3226,0.3333
 2022-12-02 01:40:37.932908,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Brazil & France,-0.010899999999999993,0.1429,0.1538
+2022-12-02 03:40:36.027933,Team Futures - Croatia Team Specials - Croatia Top Team Goalscorer,Dejan Lovren,-0.0109,0.004,0.0149
 2022-12-01 22:40:31.101739,South African Open - South African Open - Outright,Shaun Norris,-0.011,0.0013,0.0123
 2022-12-01 16:40:30.644051,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Drew Timme,-0.011099999999999999,0.1,0.1111
 2022-12-02 01:40:37.021636,South African Open - 2/3 Balls - 2nd Round 3 Balls - A. Wu / S. Norris / W. Nienaber - 2nd Round 3 Balls,Wilco Nienaber,-0.011099999999999999,0.4651,0.4762
+2022-12-02 03:40:36.168726,Team Futures - Spain Team Specials - Spain Top Team Goalscorer,Carlos Soler,-0.011199999999999995,0.0476,0.0588
+2022-12-02 03:40:35.984253,Team Futures - Australia Team Specials - Australia Top Team Goalscorer,Jamie Maclaren,-0.011199999999999995,0.0476,0.0588
 2022-12-02 00:40:33.002999,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Pedro Gonzalez,-0.011199999999999995,0.0476,0.0588
 2022-12-02 00:40:33.002999,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Richarlison,-0.011199999999999995,0.0476,0.0588
 2022-12-02 01:40:37.954381,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,Serbia,-0.011199999999999995,0.0476,0.0588
 2022-12-01 22:40:31.101739,South African Open - South African Open - Outright,Brandon Stone,-0.0116,0.0033,0.0149
-2022-12-02 02:40:36.550646,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Dani Olmo,-0.011699999999999999,0.0079,0.0196
 2022-12-01 16:40:30.644051,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Carson Wallace,-0.011699999999999999,0.0079,0.0196
+2022-12-02 02:40:36.550646,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Dani Olmo,-0.011699999999999999,0.0079,0.0196
 2022-12-01 21:40:28.842281,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Gonzaga,-0.011700000000000016,0.2105,0.2222
+2022-12-02 03:40:34.688360,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Memphis Grizzlies,-0.012199999999999989,0.4878,0.5
+2022-12-02 03:40:35.984253,Team Futures - Australia Team Specials - Australia Top Team Goalscorer,Mitchell Duke,-0.012699999999999989,0.3509,0.3636
 2022-12-02 01:40:37.947697,Tournament Futures - FIFA World Cup 2022 - To Reach the Quarter-Final,Uruguay,-0.012899999999999995,0.1538,0.1667
 2022-12-02 02:40:35.711836,NBL - NBL 2022/23 - Outright,Adelaide 36ers,-0.012899999999999995,0.1538,0.1667
+2022-12-02 03:40:36.027933,Team Futures - Croatia Team Specials - Croatia Top Team Goalscorer,Josip Juranovic,-0.0129,0.002,0.0149
 2022-12-01 22:40:31.101739,South African Open - South African Open - Outright,Grant Forrest,-0.0129,0.002,0.0149
 2022-12-02 02:40:35.053728,Boxing Lines - Tyson Fury vs Dereck Chisora - To Win the Bout,Tyson Fury,-0.0131,0.9524,0.9655
 2022-12-01 21:40:28.842281,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,North Carolina,-0.0131,0.2222,0.2353
 2022-12-02 02:40:36.550646,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Cristiano Ronaldo,-0.0131,0.0345,0.0476
 2022-12-01 22:40:31.101739,South African Open - South African Open - Outright,JC Ritchie,-0.013600000000000001,0.0013,0.0149
-2022-12-01 22:40:30.862262,Boxing Lines - Jon Fernandez vs Samuel Molina - To Win the Bout,Samuel Molina,-0.01369999999999999,0.2273,0.241
 2022-12-01 19:40:31.093060,Boxing Lines - Jon Fernandez vs Samuel Molina - To Win the Bout,Samuel Molina,-0.01369999999999999,0.2273,0.241
+2022-12-01 22:40:30.862262,Boxing Lines - Jon Fernandez vs Samuel Molina - To Win the Bout,Samuel Molina,-0.01369999999999999,0.2273,0.241
 2022-12-01 23:40:38.278109,Tournament Futures - FIFA World Cup 2022 - Golden Glove Winner,Jordan Pickford,-0.013899999999999996,0.1111,0.125
+2022-12-02 03:40:36.027933,Team Futures - Croatia Team Specials - Croatia Top Team Goalscorer,Luka Modric,-0.013999999999999999,0.0769,0.0909
 2022-12-02 01:40:37.932908,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Brazil & Portugal,-0.013999999999999999,0.0769,0.0909
-2022-12-01 15:40:36.507016,MLB - Odds to win 2023 World Series - World Series Winner 2023,Milwaukee Brewers,-0.014099999999999998,0.0244,0.0385
-2022-12-01 15:40:36.579083,Boxing Lines - Jon Fernandez vs Samuel Molina - To Win the Bout,Jon Fernandez,-0.014200000000000101,0.8261,0.8403
+2022-12-02 03:40:36.009599,Team Futures - Cameroon Team Specials - Cameroon Top Team Goalscorer,Collins Fai,-0.014099999999999998,0.0244,0.0385
 2022-12-01 21:40:29.231332,Boxing Lines - Jon Fernandez vs Samuel Molina - To Win the Bout,Jon Fernandez,-0.014200000000000101,0.8261,0.8403
 2022-12-02 01:40:37.954381,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,Argentina,-0.01429999999999998,0.6226,0.6369
-2022-12-01 22:40:31.101739,South African Open - South African Open - Outright,MJ Daffue,-0.0145,0.0099,0.0244
+2022-12-02 03:40:36.009599,Team Futures - Cameroon Team Specials - Cameroon Top Team Goalscorer,Nicolas Nkoulou,-0.014499999999999999,0.0149,0.0294
 2022-12-01 16:40:30.644051,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Kevin McCullar,-0.0145,0.0099,0.0244
+2022-12-02 03:40:36.027933,Team Futures - Croatia Team Specials - Croatia Top Team Goalscorer,Mislav Orsic,-0.0145,0.0099,0.0244
+2022-12-01 22:40:31.101739,South African Open - South African Open - Outright,MJ Daffue,-0.0145,0.0099,0.0244
 2022-12-02 00:40:33.032377,Tournament Futures - FIFA World Cup 2022 - Most Assists,Cody Gakpo,-0.0145,0.0099,0.0244
 2022-12-01 22:40:31.101739,South African Open - South African Open - Outright,Matthew Southgate,-0.014599999999999998,0.005,0.0196
-2022-12-01 22:40:31.101739,South African Open - South African Open - Outright,Hennie Du Plessis,-0.014900000000000004,0.0196,0.0345
 2022-12-01 22:40:31.101739,South African Open - South African Open - Outright,Adrian Otaegui,-0.014900000000000004,0.0196,0.0345
-2022-12-01 23:40:38.266097,Tournament Futures - FIFA World Cup 2022 - First Time Winner?,No,-0.015100000000000002,0.8182,0.8333
+2022-12-01 22:40:31.101739,South African Open - South African Open - Outright,Hennie Du Plessis,-0.014900000000000004,0.0196,0.0345
 2022-12-02 02:40:35.705304,Euro Cup - Euro Cup 2022/23 - Outright,Gran Canaria,-0.015100000000000002,0.1667,0.1818
+2022-12-01 23:40:38.266097,Tournament Futures - FIFA World Cup 2022 - First Time Winner?,No,-0.015100000000000002,0.8182,0.8333
+2022-12-02 03:40:36.061446,Team Futures - France Team Specials - France Top Team Goalscorer,Olivier Giroud,-0.015100000000000002,0.1667,0.1818
 2022-12-01 23:40:38.255568,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Team,Netherlands,-0.015300000000000001,0.0435,0.0588
 2022-12-02 00:40:31.784248,College Basketball - West Coast Regular Season Conference Winner - West Coast Conference Regular Season Winner,San Francisco,-0.015300000000000001,0.0323,0.0476
 2022-12-01 21:40:28.842281,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Notre Dame,-0.015499999999999998,0.0123,0.0278
@@ -171,60 +206,77 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-01 19:40:31.272014,BKFC 34 - Freddy Masabo vs Shawn Moffett - To Win the Bout,Shawn Moffett,-0.015699999999999992,0.1905,0.2062
 2022-12-02 01:40:37.954381,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,USA,-0.015700000000000006,0.1176,0.1333
 2022-12-01 23:40:36.272877,College Basketball - Big South Conference Regular Season Conference Winner - Big South Regular Season Winner,NC Asheville,-0.01629999999999998,0.2778,0.2941
-2022-12-01 19:40:31.221144,BKFC 34 - Brian Duran vs Kobe Bowen - To Win the Bout,Kobe Bowen,-0.016600000000000004,0.1739,0.1905
 2022-12-01 22:40:31.101739,South African Open - South African Open - Outright,Dylan Frittelli,-0.016600000000000004,0.0179,0.0345
-2022-12-01 17:40:44.722975,College Basketball - Summit League Regular Season Conference Winner - Summit League Regular Season Winner,Oral Roberts,-0.016699999999999993,0.4,0.4167
+2022-12-01 19:40:31.221144,BKFC 34 - Brian Duran vs Kobe Bowen - To Win the Bout,Kobe Bowen,-0.016600000000000004,0.1739,0.1905
 2022-12-01 17:40:44.722975,College Basketball - Summit League Regular Season Conference Winner - Summit League Regular Season Winner,South Dakota State,-0.016699999999999993,0.4,0.4167
+2022-12-02 03:40:35.805364,Tournament Futures - FIFA World Cup 2022 - Top French Ligue 1 Goalscorer,Lionel Messi,-0.016699999999999993,0.25,0.2667
+2022-12-01 17:40:44.722975,College Basketball - Summit League Regular Season Conference Winner - Summit League Regular Season Winner,Oral Roberts,-0.016699999999999993,0.4,0.4167
 2022-12-01 22:40:31.101739,South African Open - South African Open - Outright,Oliver Bekker,-0.017099999999999997,0.0123,0.0294
 2022-12-01 22:40:31.101739,South African Open - South African Open - Outright,Lukas Nemecz,-0.017599999999999998,0.002,0.0196
 2022-12-01 23:40:38.271898,Tournament Futures - FIFA World Cup 2022 - Winners Group,Group A,-0.018099999999999998,0.0588,0.0769
 2022-12-01 22:40:30.207148,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Virginia Tech,-0.018099999999999998,0.0588,0.0769
+2022-12-02 03:40:36.168726,Team Futures - Spain Team Specials - Spain Top Team Goalscorer,Pablo Gavi,-0.018200000000000004,0.0294,0.0476
+2022-12-02 03:40:35.810137,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Andre Silva,-0.018200000000000004,0.0294,0.0476
+2022-12-02 03:40:35.984253,Team Futures - Australia Team Specials - Australia Top Team Goalscorer,Harry Souttar,-0.018200000000000004,0.0294,0.0476
+2022-12-02 03:40:35.984253,Team Futures - Australia Team Specials - Australia Top Team Goalscorer,Jackson Irvine,-0.018200000000000004,0.0294,0.0476
 2022-12-02 02:40:35.711836,NBL - NBL 2022/23 - Outright,South East Melbourne Phoenix,-0.01820000000000002,0.1818,0.2
 2022-12-02 02:40:35.705304,Euro Cup - Euro Cup 2022/23 - Outright,Joventut,-0.01820000000000002,0.1818,0.2
 2022-12-01 22:40:31.101739,South African Open - South African Open - Outright,Marcus Armitage,-0.0186,0.001,0.0196
+2022-12-02 03:40:36.168726,Team Futures - Spain Team Specials - Spain Top Team Goalscorer,Nico Williams,-0.0189,0.0196,0.0385
 2022-12-01 17:40:44.722975,College Basketball - Summit League Regular Season Conference Winner - Summit League Regular Season Winner,North Dakota State,-0.019000000000000003,0.0435,0.0625
 2022-12-02 00:40:31.765806,College Basketball - SEC Regular Season Conference Winner - SEC Regular Season Winner,Arkansas,-0.019000000000000017,0.2667,0.2857
 2022-12-02 02:40:36.550646,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Kylian Mbappe,-0.019000000000000017,0.2667,0.2857
+2022-12-02 03:40:35.823572,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Joao Felix,-0.019099999999999992,0.0476,0.0667
 2022-12-01 23:40:38.255568,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Team,Croatia,-0.019499999999999997,0.0099,0.0294
+2022-12-02 03:40:36.027933,Team Futures - Croatia Team Specials - Croatia Top Team Goalscorer,Ante Budimir,-0.019499999999999997,0.0099,0.0294
 2022-12-01 16:40:30.644051,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Tyger Campbell,-0.019899999999999998,0.0079,0.0278
 2022-12-02 01:40:37.932908,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Argentina & France,-0.02020000000000001,0.0909,0.1111
 2022-12-02 00:40:33.032377,Tournament Futures - FIFA World Cup 2022 - Most Assists,Lionel Messi,-0.02020000000000001,0.0909,0.1111
+2022-12-02 03:40:35.823572,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Raphinha,-0.0203,0.0385,0.0588
 2022-12-01 15:40:36.880536,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,George Mason,-0.0203,0.0323,0.0526
 2022-12-01 20:40:34.691374,BKFC 34 - Howard Davis vs Louie Lopez - To Win the Bout,Howard Davis,-0.020500000000000074,0.8462,0.8667
-2022-12-01 22:40:31.101739,South African Open - South African Open - Outright,Joost Luiten,-0.0211,0.0033,0.0244
 2022-12-01 22:40:31.101739,South African Open - South African Open - Outright,Louis De Jager,-0.0211,0.0033,0.0244
+2022-12-01 22:40:31.101739,South African Open - South African Open - Outright,Joost Luiten,-0.0211,0.0033,0.0244
 2022-12-02 02:40:34.988275,Boxing Lines - Lyndon Arthur vs Joel Mcintyre - To Win the Bout,Lyndon Arthur,-0.021299999999999986,0.9655,0.9868
 2022-12-01 22:40:31.101739,South African Open - South African Open - Outright,Jorge Campillo,-0.021900000000000003,0.0025,0.0244
 2022-12-01 15:40:36.880536,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Dayton,-0.021999999999999964,0.2857,0.3077
-2022-12-01 15:40:36.406213,NCAA Football Specials - Early College Football Playoff Lines - Proposition,Michigan Wolverines -1,-0.022600000000000064,0.5122,0.5348
-2022-12-01 15:40:36.388153,NCAA Football Specials - Early College Football Playoff Lines - Proposition,Ohio State Buckeyes -9.5,-0.022600000000000064,0.5122,0.5348
-2022-12-01 22:40:31.101739,South African Open - South African Open - Outright,Sami Valimaki,-0.0228,0.0066,0.0294
+2022-12-02 03:40:36.168726,Team Futures - Spain Team Specials - Spain Top Team Goalscorer,Marco Asensio,-0.022199999999999998,0.1111,0.1333
 2022-12-01 23:40:38.278109,Tournament Futures - FIFA World Cup 2022 - Golden Glove Winner,Rui Patricio,-0.0228,0.0066,0.0294
+2022-12-01 22:40:31.101739,South African Open - South African Open - Outright,Sami Valimaki,-0.0228,0.0066,0.0294
 2022-12-02 01:40:37.932908,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Argentina & Portugal,-0.0232,0.0435,0.0667
-2022-12-01 16:40:30.644051,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Jaime Jaquez Jr.,-0.023200000000000002,0.0244,0.0476
 2022-12-01 16:40:30.644051,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Terrance Shannon,-0.023200000000000002,0.0294,0.0526
+2022-12-01 16:40:30.644051,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Jaime Jaquez Jr.,-0.023200000000000002,0.0244,0.0476
+2022-12-02 03:40:36.009599,Team Futures - Cameroon Team Specials - Cameroon Top Team Goalscorer,Andre-Franck Zambo,-0.023200000000000002,0.0244,0.0476
+2022-12-02 03:40:36.027933,Team Futures - Croatia Team Specials - Croatia Top Team Goalscorer,Marko Livaja,-0.023799999999999988,0.1429,0.1667
 2022-12-01 23:40:38.255568,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Team,France,-0.023799999999999988,0.1429,0.1667
 2022-12-01 16:40:30.644051,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Hunter Dickinson,-0.024,0.0385,0.0625
 2022-12-02 01:40:37.940915,Tournament Futures - FIFA World Cup 2022 - To Reach the Final,England,-0.02400000000000002,0.25,0.274
-2022-12-02 02:40:36.550646,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Cody Gakpo,-0.0242,0.0667,0.0909
-2022-12-02 00:40:31.751280,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,UNLV,-0.0242,0.0667,0.0909
 2022-12-02 02:40:36.550646,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Marcus Rashford,-0.0242,0.0667,0.0909
-2022-12-02 01:40:37.954381,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,Australia,-0.024299999999999995,0.0345,0.0588
+2022-12-02 02:40:36.550646,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Cody Gakpo,-0.0242,0.0667,0.0909
+2022-12-02 03:40:35.823572,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Vinicius Junior,-0.0242,0.0667,0.0909
+2022-12-02 00:40:31.751280,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,UNLV,-0.0242,0.0667,0.0909
+2022-12-02 03:40:36.168726,Team Futures - Spain Team Specials - Spain Top Team Goalscorer,Dani Olmo,-0.0242,0.0667,0.0909
 2022-12-02 02:40:36.762075,Team Futures - Poland Team Specials - Poland Stage of Elimination,Semi Finals,-0.024299999999999995,0.0526,0.0769
+2022-12-02 01:40:37.954381,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,Australia,-0.024299999999999995,0.0345,0.0588
 2022-12-01 22:40:31.101739,South African Open - South African Open - Outright,Romain Langasque,-0.024399999999999998,0.0141,0.0385
 2022-12-01 16:40:30.644051,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Emoni Bates,-0.0244,0.0079,0.0323
 2022-12-01 19:40:31.064299,Boxing Lines - Brandon Glanton vs David Light - To Win the Bout,Brandon Glanton,-0.02440000000000009,0.7403,0.7647
 2022-12-01 20:40:34.637701,BKFC 34 - Jocelyn Jones-Lybarger vs Christine Vicens - To Win the Bout,Christine Vicens,-0.024500000000000022,0.3922,0.4167
-2022-12-02 01:40:37.940915,Tournament Futures - FIFA World Cup 2022 - To Reach the Final,France,-0.02560000000000001,0.3077,0.3333
 2022-12-01 23:40:38.255568,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Team,England,-0.02560000000000001,0.3077,0.3333
+2022-12-02 01:40:37.940915,Tournament Futures - FIFA World Cup 2022 - To Reach the Final,France,-0.02560000000000001,0.3077,0.3333
 2022-12-02 01:40:37.947697,Tournament Futures - FIFA World Cup 2022 - To Reach the Quarter-Final,Ghana,-0.0267,0.0909,0.1176
 2022-12-01 21:40:28.842281,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Kentucky,-0.02739999999999998,0.2667,0.2941
 2022-12-01 22:40:31.101739,South African Open - South African Open - Outright,Daniel van Tonder,-0.0274,0.002,0.0294
 2022-12-02 01:40:37.947697,Tournament Futures - FIFA World Cup 2022 - To Reach the Quarter-Final,Switzerland,-0.02779999999999999,0.2222,0.25
+2022-12-02 03:40:36.009599,Team Futures - Cameroon Team Specials - Cameroon Top Team Goalscorer,Christian Bassogog,-0.028000000000000004,0.0196,0.0476
+2022-12-02 03:40:36.188114,Team Futures - USA Team Specials - USA Top Team Goalscorer,Brenden Aaronson,-0.028199999999999996,0.0385,0.0667
+2022-12-02 03:40:35.823572,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Pedri,-0.028199999999999996,0.0385,0.0667
 2022-12-01 16:40:30.644051,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Julian Strawther,-0.0283,0.0152,0.0435
 2022-12-01 23:40:36.280534,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Michigan State,-0.028799999999999992,0.125,0.1538
-2022-12-01 16:40:30.644051,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Armando Bacot,-0.029299999999999993,0.0476,0.0769
+2022-12-02 03:40:35.823572,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Memphis Depay,-0.029299999999999993,0.0476,0.0769
 2022-12-01 20:40:34.028112,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Baylor,-0.029299999999999993,0.0476,0.0769
+2022-12-01 16:40:30.644051,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Armando Bacot,-0.029299999999999993,0.0476,0.0769
+2022-12-02 03:40:36.027933,Team Futures - Croatia Team Specials - Croatia Top Team Goalscorer,Nikola Vlasic,-0.0294,0.0294,0.0588
 2022-12-01 22:40:31.101739,South African Open - South African Open - Outright,Erik Van Rooyen,-0.029500000000000002,0.005,0.0345
 2022-12-01 23:40:38.278109,Tournament Futures - FIFA World Cup 2022 - Golden Glove Winner,Alisson,-0.031399999999999983,0.2353,0.2667
 2022-12-02 02:40:35.711836,NBL - NBL 2022/23 - Outright,Perth Wildcats,-0.0321,0.0588,0.0909
@@ -236,15 +288,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-02 01:40:37.940915,Tournament Futures - FIFA World Cup 2022 - To Reach the Final,Netherlands,-0.033399999999999985,0.1333,0.1667
 2022-12-02 01:40:37.932908,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Brazil & England,-0.034100000000000005,0.0909,0.125
 2022-12-02 00:40:31.744869,College Basketball - Missouri Valley Conference Regular Season Conference Winner - Missouri Valley Regular Season Winner,Northern Iowa,-0.0347,0.0278,0.0625
+2022-12-02 03:40:35.984253,Team Futures - Australia Team Specials - Australia Top Team Goalscorer,Craig Goodwin,-0.03570000000000001,0.25,0.2857
 2022-12-01 23:40:37.110424,Boxing Lines - Jon Fernandez vs Samuel Molina - To Win the Bout,Jon Fernandez,-0.0364000000000001,0.8039,0.8403
 2022-12-02 01:40:37.954381,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,Netherlands,-0.03710000000000002,0.3333,0.3704
+2022-12-02 03:40:36.027933,Team Futures - Croatia Team Specials - Croatia Top Team Goalscorer,Mario Pasalic,-0.0392,0.0196,0.0588
+2022-12-02 03:40:36.009599,Team Futures - Cameroon Team Specials - Cameroon Top Team Goalscorer,Moumi Ngamaleu,-0.0392,0.0196,0.0588
 2022-12-01 22:40:31.101739,South African Open - South African Open - Outright,Dean Burmester,-0.0398,0.0435,0.0833
-2022-12-01 21:40:28.842281,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Duke,-0.04040000000000002,0.1818,0.2222
 2022-12-02 01:40:37.940915,Tournament Futures - FIFA World Cup 2022 - To Reach the Final,Portugal,-0.04040000000000002,0.1818,0.2222
+2022-12-01 21:40:28.842281,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Duke,-0.04040000000000002,0.1818,0.2222
 2022-12-02 01:40:37.932908,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Portugal & Spain,-0.041,0.0066,0.0476
 2022-12-01 16:40:30.789888,College Specials - Next Team to Be Ranked in the AP Top 10 - Proposition,Auburn,-0.0417,0.0833,0.125
 2022-12-01 22:40:30.219137,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Duquesne,-0.04229999999999999,0.0244,0.0667
 2022-12-01 17:40:44.722975,College Basketball - Summit League Regular Season Conference Winner - Summit League Regular Season Winner,South Dakota,-0.04240000000000001,0.0909,0.1333
+2022-12-02 03:40:36.188114,Team Futures - USA Team Specials - USA Top Team Goalscorer,Jesus Ferreira,-0.04440000000000001,0.0667,0.1111
 2022-12-02 01:40:37.947697,Tournament Futures - FIFA World Cup 2022 - To Reach the Quarter-Final,Poland,-0.04620000000000002,0.1538,0.2
 2022-12-01 23:40:38.271898,Tournament Futures - FIFA World Cup 2022 - Winners Group,Group E,-0.04620000000000002,0.1538,0.2
 2022-12-01 15:40:36.880536,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Davidson,-0.0474,0.0435,0.0909
@@ -256,28 +312,36 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-01 15:40:36.880536,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Loyola Chicago,-0.052399999999999995,0.0385,0.0909
 2022-12-01 22:40:31.101739,South African Open - South African Open - Outright,Branden Grace,-0.05249999999999999,0.0244,0.0769
 2022-12-02 01:40:37.954381,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,England,-0.05449999999999999,0.4,0.4545
+2022-12-02 03:40:36.168726,Team Futures - Spain Team Specials - Spain Top Team Goalscorer,Ferran Torres,-0.055900000000000005,0.3077,0.3636
+2022-12-02 03:40:36.027933,Team Futures - Croatia Team Specials - Croatia Top Team Goalscorer,Lovro Majer,-0.058300000000000005,0.0667,0.125
+2022-12-02 03:40:35.823572,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Robert Lewandowski,-0.0588,0.0588,0.1176
 2022-12-01 16:40:30.644051,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Caleb Love,-0.058899999999999994,0.0244,0.0833
 2022-12-01 23:40:36.272877,College Basketball - Big South Conference Regular Season Conference Winner - Big South Regular Season Winner,Winthrop,-0.06140000000000001,0.1739,0.2353
 2022-12-01 20:40:35.644963,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Germany,-0.061500000000000006,0.0385,0.1
+2022-12-02 03:40:36.009599,Team Futures - Cameroon Team Specials - Cameroon Top Team Goalscorer,Karl Toto Ekambi,-0.0635,0.0476,0.1111
 2022-12-02 01:40:37.954381,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,Portugal,-0.06580000000000003,0.3509,0.4167
-2022-12-01 18:40:30.995954,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,-0.06779999999999997,0.4878,0.5556
-2022-12-01 15:40:36.400473,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,-0.06779999999999997,0.4878,0.5556
-2022-12-01 16:40:32.186223,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,-0.06779999999999997,0.4878,0.5556
+2022-12-02 03:40:36.009599,Team Futures - Cameroon Team Specials - Cameroon Top Team Goalscorer,Bryan Mbeumo,-0.06760000000000001,0.0435,0.1111
 2022-12-01 17:40:45.557940,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,-0.06779999999999997,0.4878,0.5556
+2022-12-01 23:40:38.103107,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,-0.06779999999999997,0.4878,0.5556
+2022-12-02 00:40:32.640884,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,-0.06779999999999997,0.4878,0.5556
+2022-12-02 03:40:34.544973,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,-0.06779999999999997,0.4878,0.5556
+2022-12-02 02:40:36.403445,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,-0.06779999999999997,0.4878,0.5556
+2022-12-01 16:40:32.186223,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,-0.06779999999999997,0.4878,0.5556
+2022-12-02 01:40:36.745652,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,-0.06779999999999997,0.4878,0.5556
+2022-12-01 18:40:30.995954,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,-0.06779999999999997,0.4878,0.5556
 2022-12-01 19:40:30.500832,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,-0.06779999999999997,0.4878,0.5556
 2022-12-01 20:40:35.529330,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,-0.06779999999999997,0.4878,0.5556
-2022-12-02 01:40:36.745652,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,-0.06779999999999997,0.4878,0.5556
-2022-12-02 00:40:32.640884,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,-0.06779999999999997,0.4878,0.5556
-2022-12-01 23:40:38.103107,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,-0.06779999999999997,0.4878,0.5556
-2022-12-01 22:40:32.001409,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,-0.06779999999999997,0.4878,0.5556
 2022-12-01 21:40:30.109817,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,-0.06779999999999997,0.4878,0.5556
-2022-12-02 02:40:36.403445,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,-0.06779999999999997,0.4878,0.5556
-2022-12-01 15:40:36.444927,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +10,-0.06970000000000004,0.4651,0.5348
-2022-12-01 15:40:36.394686,NCAA Football Specials - Early College Football Playoff Lines - Proposition,USC Trojans  +12.5,-0.06970000000000004,0.4651,0.5348
+2022-12-01 22:40:32.001409,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,-0.06779999999999997,0.4878,0.5556
 2022-12-02 01:40:37.954381,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,France,-0.07619999999999993,0.5238,0.6
+2022-12-02 03:40:36.188114,Team Futures - USA Team Specials - USA Top Team Goalscorer,Timothy Weah,-0.07619999999999999,0.4,0.4762
 2022-12-02 00:40:31.744869,College Basketball - Missouri Valley Conference Regular Season Conference Winner - Missouri Valley Regular Season Winner,Drake,-0.07940000000000003,0.4444,0.5238
 2022-12-02 02:40:36.812051,Team Futures - Spain Team Specials - Spain Stage of Elimination,Last 16,-0.08329999999999999,0.25,0.3333
+2022-12-02 03:40:36.047117,Team Futures - England Team Specials - England Top Team Goalscorer,Raheem Sterling,-0.08979999999999999,0.0769,0.1667
 2022-12-01 22:40:30.219137,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Saint Louis,-0.09230000000000005,0.3077,0.4
 2022-12-02 02:40:36.707846,Team Futures - Croatia Team Specials - Croatia Stage of Elimination,Last 16,-0.09999999999999998,0.4,0.5
+2022-12-02 03:40:36.047117,Team Futures - England Team Specials - England Top Team Goalscorer,Harry Kane,-0.10910000000000002,0.0909,0.2
+2022-12-02 03:40:35.823572,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Ferran Torres,-0.12869999999999998,0.2222,0.3509
 2022-12-02 02:40:36.721033,Team Futures - France Team Specials - France Stage of Elimination,Last 16,-0.1795,0.1538,0.3333
+2022-12-02 03:40:36.047117,Team Futures - England Team Specials - England Top Team Goalscorer,Bukayo Saka,-0.2545,0.2,0.4545
 2022-12-01 16:40:30.789888,College Specials - Next Team to Be Ranked in the AP Top 10 - Proposition,Tennessee,-0.2752,0.0952,0.3704
