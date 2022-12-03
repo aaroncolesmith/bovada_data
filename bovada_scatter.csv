@@ -4,7 +4,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-02 17:40:27.148526,South African Open - South African Open - Outright,Thriston Lawrence,0.2409,0.4762,0.2353
 2022-12-02 23:40:27.514810,Tournament Futures - FIFA World Cup 2022 - To Reach the Quarter-Final,Switzerland,0.14139999999999997,0.3636,0.2222
 2022-12-02 20:40:27.445994,NCAA Football Specials - Early College Football Playoff Lines - Proposition,USC Trojans  +12.5,0.13489999999999996,0.6,0.4651
-2022-12-02 15:40:27.054438,Requested Specials - Regular Season Specials - Season Specials,"Regular Season MVP: Josh Allen, Coach of the Year: Nick Sirianni, DROY: Ahmad Gardner, CPOY: Saquon Barkley",0.1277,0.1429,0.0152
 2022-12-02 23:40:27.514810,Tournament Futures - FIFA World Cup 2022 - To Reach the Quarter-Final,South Korea,0.1244,0.1538,0.0294
 2022-12-02 23:40:27.494408,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Andrej Kramaric,0.11359999999999998,0.3636,0.25
 2022-12-02 23:40:27.697190,Team Futures - South Korea Team Specials - South Korea Stage of Elimination,Quarter Finals,0.1084,0.1429,0.0345
@@ -16,18 +15,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-03 00:40:28.630062,BKFC 34 - Jake Young vs Rene Rodriguez - To Win the Bout,Rene Rodriguez,0.07620000000000005,0.8095,0.7333
 2022-12-03 01:40:31.921616,Team Futures - South Korea Team Specials - South Korea Top Team Goalscorer,Hee-Chan Hwang,0.0713,0.0909,0.0196
 2022-12-02 20:40:26.957354,NCAAF - To Make 2022-23 College Football Playoff - To Make CFB Playoff,TCU,0.07050000000000001,0.9167,0.8462
-2022-12-02 18:40:29.742198,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.06779999999999997,0.5556,0.4878
-2022-12-02 20:40:27.438342,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.06779999999999997,0.5556,0.4878
-2022-12-02 15:40:27.157498,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.06779999999999997,0.5556,0.4878
-2022-12-02 16:40:27.109983,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.06779999999999997,0.5556,0.4878
-2022-12-02 17:40:27.691871,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.06779999999999997,0.5556,0.4878
 2022-12-02 19:40:29.757395,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.06779999999999997,0.5556,0.4878
-2022-12-02 21:40:29.514511,NCAAF - To Make 2022-23 College Football Playoff - To Make CFB Playoff,Ohio State,0.06700000000000006,0.6226,0.5556
+2022-12-02 18:40:29.742198,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.06779999999999997,0.5556,0.4878
+2022-12-02 17:40:27.691871,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.06779999999999997,0.5556,0.4878
+2022-12-02 16:40:27.109983,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.06779999999999997,0.5556,0.4878
+2022-12-02 20:40:27.438342,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.06779999999999997,0.5556,0.4878
 2022-12-02 20:40:27.458204,NCAA Football Specials - Early College Football Playoff Lines - Proposition,Ohio State Buckeyes + 1,0.06700000000000006,0.6226,0.5556
+2022-12-02 21:40:29.514511,NCAAF - To Make 2022-23 College Football Playoff - To Make CFB Playoff,Ohio State,0.06700000000000006,0.6226,0.5556
 2022-12-02 23:40:27.678246,Team Futures - Portugal Team Specials - Portugal Stage of Elimination,Quarter Final,0.06670000000000004,0.4,0.3333
 2022-12-02 23:40:27.586169,Team Futures - Brazil Team Specials - Brazil Stage of Elimination,Runner-up,0.06670000000000001,0.2,0.1333
-2022-12-02 20:40:27.476941,NCAA Football Specials - Early College Football Playoff Lines - Proposition,Georgia Bulldogs -10,0.06669999999999998,0.6667,0.6
 2022-12-02 23:40:27.514810,Tournament Futures - FIFA World Cup 2022 - To Reach the Quarter-Final,Brazil,0.06669999999999998,0.9,0.8333
+2022-12-02 20:40:27.476941,NCAA Football Specials - Early College Football Playoff Lines - Proposition,Georgia Bulldogs -10,0.06669999999999998,0.6667,0.6
 2022-12-03 02:40:28.281508,NCAA Football Specials - Next Full Time Cincinnati Bearcats Head Coach - Proposition,Alex Golash,0.0629,0.1538,0.0909
 2022-12-02 23:40:27.518724,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,Switzerland,0.052000000000000005,0.1429,0.0909
 2022-12-02 17:40:27.148526,South African Open - South African Open - Outright,Clement Sordet,0.0518,0.0667,0.0149
@@ -51,54 +49,55 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-02 23:40:27.697190,Team Futures - South Korea Team Specials - South Korea Stage of Elimination,Semi Finals,0.0236,0.0385,0.0149
 2022-12-02 23:40:27.715110,Team Futures - Switzerland Team Specials - Switzerland  Stage of Elimination,Semi Finals,0.02310000000000001,0.1,0.0769
 2022-12-02 23:40:27.544259,Tournament Futures - FIFA World Cup 2022 - Young Player Award Winner,Enzo Fernandez,0.02310000000000001,0.1,0.0769
-2022-12-02 17:40:28.171860,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Brazil,0.021999999999999964,0.3077,0.2857
 2022-12-02 23:40:27.586169,Team Futures - Brazil Team Specials - Brazil Stage of Elimination,Winners,0.021999999999999964,0.3077,0.2857
+2022-12-02 17:40:28.171860,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Brazil,0.021999999999999964,0.3077,0.2857
 2022-12-02 20:40:27.464498,NCAA Football Specials - Early College Football Playoff Lines - Proposition,Georgia Bulldogs -13.5,0.02079999999999993,0.5556,0.5348
 2022-12-03 01:40:31.631008,Tournament Futures - FIFA World Cup 2022 - Runner Up,Japan,0.0204,0.0244,0.004
+2022-12-03 03:40:29.594580,Japan B League - Japan League B1 2022/23 - Outright,Gunma Crane Thunders,0.0203,0.0588,0.0385
 2022-12-02 23:40:27.522644,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Team,Argentina,0.02020000000000001,0.1111,0.0909
 2022-12-03 02:40:27.060637,Boxing Lines - Tyson Fury vs Dereck Chisora - To Win the Bout,Tyson Fury,0.01979999999999993,0.9722,0.9524
 2022-12-03 01:40:31.894471,Team Futures - Portugal Team Specials - Portugal Top Team Goalscorer,Ricardo Horta,0.019099999999999995,0.0435,0.0244
 2022-12-03 01:40:31.676334,Tournament Futures - FIFA World Cup 2022 - Tournament Winner and Top Goalscorer Parlay,Spain & Alvaro Morata,0.0189,0.0385,0.0196
 2022-12-03 01:40:31.670470,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Croatia & France,0.0189,0.0385,0.0196
-2022-12-03 02:40:28.245840,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.01880000000000004,0.5744,0.5556
-2022-12-02 23:40:26.516215,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.01880000000000004,0.5744,0.5556
-2022-12-02 22:40:26.192729,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.01880000000000004,0.5744,0.5556
-2022-12-03 00:40:29.313464,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.01880000000000004,0.5744,0.5556
-2022-12-02 21:40:29.951292,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.01880000000000004,0.5744,0.5556
 2022-12-02 20:40:27.452019,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.01880000000000004,0.5744,0.5556
+2022-12-02 21:40:29.951292,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.01880000000000004,0.5744,0.5556
+2022-12-02 22:40:26.192729,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.01880000000000004,0.5744,0.5556
+2022-12-03 02:40:28.245840,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.01880000000000004,0.5744,0.5556
 2022-12-03 01:40:30.569893,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.01880000000000004,0.5744,0.5556
+2022-12-02 23:40:26.516215,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.01880000000000004,0.5744,0.5556
+2022-12-03 00:40:29.313464,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,0.01880000000000004,0.5744,0.5556
+2022-12-03 03:40:29.634167,A1 - Greece A1 2022/23 - Outright,Panathinaikos,0.01820000000000002,0.2,0.1818
 2022-12-03 01:40:31.676334,Tournament Futures - FIFA World Cup 2022 - Tournament Winner and Top Goalscorer Parlay,Brazil & Messi,0.018200000000000004,0.0476,0.0294
 2022-12-03 01:40:31.670470,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Argentina & England,0.018099999999999998,0.0769,0.0588
 2022-12-02 23:40:27.510297,Tournament Futures - FIFA World Cup 2022 - To Reach the Final,South Korea,0.0168,0.0196,0.0028
 2022-12-02 23:40:27.484780,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Marcus Rashford,0.016600000000000004,0.0833,0.0667
 2022-12-03 02:40:28.494534,Team Futures - Argentina Team Specials - Argentina Stage of Elimination,Winners,0.015100000000000002,0.1818,0.1667
-2022-12-03 02:40:28.539798,Team Futures - Croatia Team Specials - Croatia Stage of Elimination,Winners,0.014499999999999999,0.0294,0.0149
 2022-12-02 17:40:27.148526,South African Open - South African Open - Outright,Tapio Pulkkanen,0.014499999999999999,0.0294,0.0149
+2022-12-03 02:40:28.539798,Team Futures - Croatia Team Specials - Croatia Stage of Elimination,Winners,0.014499999999999999,0.0294,0.0149
 2022-12-03 01:40:31.670470,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Brazil & Switzerland,0.014499999999999999,0.0294,0.0149
-2022-12-02 15:40:27.054438,Requested Specials - Regular Season Specials - Season Specials,"Regular Season MVP: Josh Allen, DPOY: Micah Parsons & DROY: Ahmad Gardner",0.014399999999999996,0.0769,0.0625
 2022-12-02 23:40:27.510297,Tournament Futures - FIFA World Cup 2022 - To Reach the Final,Japan,0.014099999999999998,0.0435,0.0294
+2022-12-03 03:40:29.594580,Japan B League - Japan League B1 2022/23 - Outright,Hiroshima Dragonflies,0.014099999999999994,0.0667,0.0526
 2022-12-03 01:40:31.670470,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Brazil & Portugal,0.013999999999999999,0.0909,0.0769
 2022-12-02 23:40:26.889206,BKFC 34 - Freddy Masabo vs Shawn Moffett - To Win the Bout,Freddy Masabo,0.013900000000000023,0.8889,0.875
 2022-12-02 23:40:27.518724,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,Argentina,0.013799999999999923,0.6364,0.6226
-2022-12-02 15:40:27.899186,Euroleague - Euroleague 2022/23 - Outright,Anadolu Efes,0.012899999999999995,0.1667,0.1538
 2022-12-03 02:40:28.564298,Team Futures - France Team Specials - France Stage of Elimination,Runner-up,0.012899999999999995,0.1667,0.1538
-2022-12-02 23:40:27.518724,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,Portugal,0.012699999999999989,0.3636,0.3509
 2022-12-02 23:40:27.522644,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Team,Spain,0.012699999999999989,0.3636,0.3509
+2022-12-02 23:40:27.518724,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,Portugal,0.012699999999999989,0.3636,0.3509
 2022-12-03 01:40:31.670470,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,France & Netherlands,0.011199999999999995,0.0588,0.0476
-2022-12-02 15:40:27.054438,Requested Specials - Regular Season Specials - Season Specials,Josh Allen Or Patrick Mahomes Regular Season MVP,0.011099999999999999,0.7333,0.7222
+2022-12-03 03:40:29.610933,LKL - LKL 2022/23 - Outright,Zalgiris,0.011199999999999988,0.9524,0.9412
 2022-12-02 23:40:27.522644,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Team,France,0.010899999999999993,0.1538,0.1429
-2022-12-02 15:40:27.899186,Euroleague - Euroleague 2022/23 - Outright,Fenerbahce,0.010899999999999993,0.1538,0.1429
 2022-12-03 01:40:31.670470,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Brazil & France,0.010899999999999993,0.1538,0.1429
-2022-12-02 23:40:27.484780,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Cody Gakpo,0.0102,0.0769,0.0667
 2022-12-02 17:40:27.055032,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Marcus Sasser,0.0102,0.0769,0.0667
+2022-12-02 23:40:27.484780,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Cody Gakpo,0.0102,0.0769,0.0667
+2022-12-03 03:40:29.594580,Japan B League - Japan League B1 2022/23 - Outright,Shibuya Sun Rockers,0.0102,0.0769,0.0667
 2022-12-02 20:40:26.082590,Boxing Lines - Jhonny Gonzalez vs Takuya Watanabe - To Win the Bout,Jhonny Gonzalez,0.010099999999999998,0.4545,0.4444
 2022-12-02 21:40:29.332071,Boxing Lines - Troy Williamson vs Josh Kelly - To Win the Bout,Troy Williamson,-0.010099999999999998,0.5455,0.5556
 2022-12-02 23:40:27.484780,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Cristiano Ronaldo,-0.010100000000000001,0.0244,0.0345
 2022-12-02 17:40:27.148526,South African Open - South African Open - Outright,Wilco Nienaber,-0.0102,0.0667,0.0769
 2022-12-02 23:40:27.678246,Team Futures - Portugal Team Specials - Portugal Stage of Elimination,Runner-up,-0.011099999999999999,0.1,0.1111
+2022-12-02 23:40:27.489016,Tournament Futures - FIFA World Cup 2022 - Top French Ligue 1 Goalscorer,Neymar,-0.011199999999999995,0.0476,0.0588
 2022-12-03 01:40:31.921616,Team Futures - South Korea Team Specials - South Korea Top Team Goalscorer,Heung-Min Son,-0.011199999999999995,0.0476,0.0588
 2022-12-03 02:40:28.539798,Team Futures - Croatia Team Specials - Croatia Stage of Elimination,Runner-up,-0.011199999999999995,0.0476,0.0588
-2022-12-02 23:40:27.489016,Tournament Futures - FIFA World Cup 2022 - Top French Ligue 1 Goalscorer,Neymar,-0.011199999999999995,0.0476,0.0588
 2022-12-03 00:40:28.624292,BKFC 34 - Howard Davis vs Louie Lopez - To Win the Bout,Louie Lopez,-0.011700000000000016,0.2105,0.2222
 2022-12-02 17:40:27.148526,South African Open - South African Open - Outright,Romain Langasque,-0.0121,0.002,0.0141
 2022-12-02 17:40:27.148526,South African Open - South African Open - Outright,Nathan Kimsey,-0.012899999999999998,0.005,0.0179
@@ -107,22 +106,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-03 02:40:28.281508,NCAA Football Specials - Next Full Time Cincinnati Bearcats Head Coach - Proposition,Jason Candle,-0.013999999999999999,0.0769,0.0909
 2022-12-02 23:40:27.489016,Tournament Futures - FIFA World Cup 2022 - Top French Ligue 1 Goalscorer,Timothy Weah,-0.014099999999999998,0.0244,0.0385
 2022-12-02 17:40:27.148526,South African Open - South African Open - Outright,Edoardo Molinari,-0.014099999999999998,0.0294,0.0435
-2022-12-02 14:40:29.171611,Boxing Lines - Karol Itauma vs Vladimir Belujsky - To Win the Bout,Vladimir Belujsky,-0.014399999999999996,0.0625,0.0769
 2022-12-02 17:40:27.148526,South African Open - South African Open - Outright,Santiago Tarrio,-0.0145,0.0099,0.0244
 2022-12-02 17:40:27.148526,South African Open - South African Open - Outright,Hennie Du Plessis,-0.014599999999999998,0.005,0.0196
 2022-12-02 20:40:26.082590,Boxing Lines - Jhonny Gonzalez vs Takuya Watanabe - To Win the Bout,Takuya Watanabe,-0.014800000000000035,0.6078,0.6226
+2022-12-03 03:40:29.594580,Japan B League - Japan League B1 2022/23 - Outright,Alvark Tokyo,-0.015100000000000002,0.1667,0.1818
 2022-12-02 17:40:27.148526,South African Open - South African Open - Outright,Branden Grace,-0.0165,0.0079,0.0244
 2022-12-02 23:40:26.889206,BKFC 34 - Freddy Masabo vs Shawn Moffett - To Win the Bout,Shawn Moffett,-0.016600000000000004,0.1739,0.1905
 2022-12-03 00:40:29.526516,Tournament Futures - FIFA World Cup 2022 - Winners Group,Group H,-0.016700000000000007,0.0833,0.1
+2022-12-03 03:40:29.634167,A1 - Greece A1 2022/23 - Outright,Olympiakos,-0.017900000000000027,0.8571,0.875
 2022-12-03 01:40:31.894471,Team Futures - Portugal Team Specials - Portugal Top Team Goalscorer,Bernardo Silva,-0.018200000000000004,0.0294,0.0476
 2022-12-03 01:40:31.921616,Team Futures - South Korea Team Specials - South Korea Top Team Goalscorer,Eui-Jo Hwang,-0.018200000000000004,0.0294,0.0476
 2022-12-03 01:40:31.894471,Team Futures - Portugal Team Specials - Portugal Top Team Goalscorer,Miguel Andre Silva,-0.018200000000000004,0.0294,0.0476
-2022-12-02 21:40:29.939463,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,-0.01880000000000004,0.5556,0.5744
-2022-12-02 23:40:26.505655,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,-0.01880000000000004,0.5556,0.5744
-2022-12-03 00:40:29.300896,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,-0.01880000000000004,0.5556,0.5744
 2022-12-02 22:40:26.180317,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,-0.01880000000000004,0.5556,0.5744
+2022-12-02 21:40:29.939463,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,-0.01880000000000004,0.5556,0.5744
 2022-12-03 01:40:30.559190,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,-0.01880000000000004,0.5556,0.5744
+2022-12-02 23:40:26.505655,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,-0.01880000000000004,0.5556,0.5744
 2022-12-03 02:40:28.234082,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,-0.01880000000000004,0.5556,0.5744
+2022-12-03 00:40:29.300896,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,-0.01880000000000004,0.5556,0.5744
 2022-12-02 23:40:27.510297,Tournament Futures - FIFA World Cup 2022 - To Reach the Final,Argentina,-0.019000000000000017,0.2667,0.2857
 2022-12-03 01:40:31.894471,Team Futures - Portugal Team Specials - Portugal Top Team Goalscorer,Rafael Leao,-0.02020000000000001,0.0909,0.1111
 2022-12-03 01:40:31.631008,Tournament Futures - FIFA World Cup 2022 - Runner Up,England,-0.02049999999999999,0.1333,0.1538
@@ -130,7 +130,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-02 17:40:27.148526,South African Open - South African Open - Outright,Tom McKibbin,-0.022200000000000004,0.0123,0.0345
 2022-12-02 20:40:27.464498,NCAA Football Specials - Early College Football Playoff Lines - Proposition,USC Trojans +13.5,-0.022600000000000064,0.5122,0.5348
 2022-12-02 17:40:27.148526,South African Open - South African Open - Outright,Jayden Schaper,-0.0228,0.0066,0.0294
-2022-12-02 15:40:27.899186,Euroleague - Euroleague 2022/23 - Outright,Milano,-0.0242,0.0667,0.0909
 2022-12-03 01:40:31.631008,Tournament Futures - FIFA World Cup 2022 - Runner Up,Netherlands,-0.0242,0.0667,0.0909
 2022-12-02 17:40:27.148526,South African Open - South African Open - Outright,Kristian Krogh Johannessen,-0.026799999999999997,0.001,0.0278
 2022-12-02 23:40:27.489016,Tournament Futures - FIFA World Cup 2022 - Top French Ligue 1 Goalscorer,Lionel Messi,-0.02779999999999999,0.2222,0.25
@@ -148,11 +147,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-03 00:40:28.630062,BKFC 34 - Jake Young vs Rene Rodriguez - To Win the Bout,Jake Young,-0.052800000000000014,0.2597,0.3125
 2022-12-02 17:40:27.148526,South African Open - South African Open - Outright,Charl Schwartzel,-0.0642,0.0025,0.0667
 2022-12-02 20:40:27.476941,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +10,-0.06509999999999999,0.4,0.4651
+2022-12-02 19:40:29.769688,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,-0.06779999999999997,0.4878,0.5556
 2022-12-02 20:40:27.458204,NCAA Football Specials - Early College Football Playoff Lines - Proposition,Michigan Wolverines -1,-0.06779999999999997,0.4444,0.5122
-2022-12-02 15:40:27.169770,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,-0.06779999999999997,0.4878,0.5556
 2022-12-02 17:40:27.703145,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,-0.06779999999999997,0.4878,0.5556
 2022-12-02 18:40:29.754236,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,-0.06779999999999997,0.4878,0.5556
-2022-12-02 19:40:29.769688,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,-0.06779999999999997,0.4878,0.5556
 2022-12-02 16:40:27.122948,NCAA Football Specials - Early College Football Playoff Lines - Proposition,TCU Horned Frogs +9.5,-0.06779999999999997,0.4878,0.5556
 2022-12-02 20:40:26.256913,BKFC 34 - Jake Young vs Rene Rodriguez - To Win the Bout,Jake Young,-0.07490000000000002,0.3333,0.4082
 2022-12-02 20:40:27.452019,NCAA Football Specials - Early College Football Playoff Lines - Proposition,Michigan Wolverines -9.5,-0.08660000000000001,0.4878,0.5744
