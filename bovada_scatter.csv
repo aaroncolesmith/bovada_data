@@ -11,6 +11,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-03 15:40:24.901079,Round Match-Ups - 3rd Round Match-Up - C. Morikawa vs V. Hovland - 3rd Round Match-Up,Collin Morikawa,0.02169999999999994,0.5455,0.5238
 2022-12-03 13:40:26.747801,Celebrity Specials - Amy Robach & T.J. Holmes Specials - Amy Robach & T.J. Holmes Specials,To get a permanent co-hosting slot at a different network by the end of the year,0.02020000000000001,0.1111,0.0909
 2022-12-03 15:40:24.886418,Round Match-Ups - 3rd Round Match-Up - T. Fleetwood vs M. Homa - 3rd Round Match-Up,Tommy Fleetwood,0.01970000000000005,0.5652,0.5455
+2022-12-03 20:40:27.250487,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Argentina,0.01820000000000002,0.2,0.1818
 2022-12-03 13:40:26.747801,Celebrity Specials - Amy Robach & T.J. Holmes Specials - Amy Robach & T.J. Holmes Specials,A film about the scandal to be released by the end of 2023,0.018200000000000004,0.0476,0.0294
 2022-12-03 18:40:25.364805,Boxing Lines - Teofimo Lopez vs Sandor Martin - To Win the Bout,Teofimo Lopez,0.01760000000000006,0.9,0.8824
 2022-12-03 18:40:25.278837,MLB - Odds to win 2023 World Series - World Series Winner 2023,Texas Rangers,0.0159,0.0323,0.0164
@@ -21,12 +22,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-03 15:40:26.010255,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Netherlands,0.014099999999999994,0.0667,0.0526
 2022-12-03 12:40:25.663483,Boxing Lines - Jon Fernandez vs Samuel Molina - To Win the Bout,Jon Fernandez,0.0131,0.7778,0.7647
 2022-12-03 15:40:25.409833,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,Stetson Bennett IV,0.012100000000000001,0.0244,0.0123
-2022-12-03 08:40:25.881476,Boxing Lines - Jon Fernandez vs Samuel Molina - To Win the Bout,Samuel Molina,0.011699999999999988,0.2857,0.274
 2022-12-03 16:40:26.410837,BKFC 34 - Jake Young vs Rene Rodriguez - To Win the Bout,Jake Young,0.010800000000000032,0.274,0.2632
 2022-12-03 16:40:26.289079,Boxing Lines - Jon Fernandez vs Samuel Molina - To Win the Bout,Jon Fernandez,0.010499999999999954,0.7752,0.7647
 2022-12-03 16:40:27.585869,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Netherlands,0.0102,0.0769,0.0667
-2022-12-03 09:40:25.271819,Australian Open - Australian Open - Outright,Takumi Kanaya,-0.0103,0.002,0.0123
 2022-12-03 09:40:25.271819,Australian Open - Australian Open - Outright,Velten Meyer,-0.0103,0.002,0.0123
+2022-12-03 09:40:25.271819,Australian Open - Australian Open - Outright,Takumi Kanaya,-0.0103,0.002,0.0123
 2022-12-03 17:40:27.302636,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,Caleb Williams,-0.01100000000000001,0.9333,0.9443
 2022-12-03 19:40:26.697760,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,Max Duggan,-0.011199999999999995,0.0476,0.0588
 2022-12-03 10:40:26.217434,Boxing Lines - Jon Fernandez vs Samuel Molina - To Win the Bout,Jon Fernandez,-0.0131,0.7647,0.7778
@@ -35,13 +35,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-03 15:40:25.140065,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,TCU,-0.013999999999999999,0.0769,0.0909
 2022-12-03 17:40:27.000391,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,Alabama,-0.015300000000000001,0.0323,0.0476
 2022-12-03 16:40:26.410837,BKFC 34 - Jake Young vs Rene Rodriguez - To Win the Bout,Rene Rodriguez,-0.015800000000000036,0.7937,0.8095
-2022-12-03 08:40:25.881476,Boxing Lines - Jon Fernandez vs Samuel Molina - To Win the Bout,Jon Fernandez,-0.015899999999999914,0.7778,0.7937
 2022-12-03 16:40:26.382438,BKFC 34 - Jocelyn Jones-Lybarger vs Christine Vicens - To Win the Bout,Jocelyn Jones-Lybarger,-0.016900000000000026,0.6552,0.6721
 2022-12-03 09:40:25.271819,Australian Open - Australian Open - Outright,Josh Geary,-0.017099999999999997,0.0123,0.0294
 2022-12-03 15:40:25.409833,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,Caleb Williams,-0.017199999999999993,0.9443,0.9615
+2022-12-03 19:40:26.410899,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,Ohio State,-0.01820000000000002,0.1818,0.2
 2022-12-03 18:40:25.364805,Boxing Lines - Teofimo Lopez vs Sandor Martin - To Win the Bout,Sandor Martin,-0.018500000000000016,0.1667,0.1852
 2022-12-03 09:40:25.271819,Australian Open - Australian Open - Outright,Gunner Wiebe,-0.0194,0.005,0.0244
 2022-12-03 14:40:25.249538,Boxing Lines - Tyson Fury vs Dereck Chisora - To Win the Bout,Tyson Fury,-0.01979999999999993,0.9524,0.9722
+2022-12-03 20:40:27.250487,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Brazil,-0.021999999999999964,0.2857,0.3077
 2022-12-03 15:40:24.891421,Round Match-Ups - 3rd Round Match-Up - M. Fitzpatrick vs S. Im - 3rd Round Match-Up,Matt Fitzpatrick,-0.022600000000000064,0.5122,0.5348
 2022-12-03 15:40:24.886418,Round Match-Ups - 3rd Round Match-Up - T. Fleetwood vs M. Homa - 3rd Round Match-Up,Max Homa,-0.023799999999999988,0.4762,0.5
 2022-12-03 15:40:24.901079,Round Match-Ups - 3rd Round Match-Up - C. Morikawa vs V. Hovland - 3rd Round Match-Up,Viktor Hovland,-0.023800000000000043,0.5,0.5238
