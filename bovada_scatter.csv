@@ -4,6 +4,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-04 22:40:32.737720,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Kylian Mbappe,0.2262,0.4762,0.25
 2022-12-04 22:40:32.888146,Team Futures - England Team Specials - England Stage of Elimination,Quarter Final,0.15780000000000005,0.5833,0.4255
 2022-12-04 22:40:32.748093,Tournament Futures - FIFA World Cup 2022 - Top French Ligue 1 Goalscorer,Kylian Mbappe,0.14279999999999993,0.8571,0.7143
+2022-12-05 01:40:30.904229,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Memphis Grizzlies,0.1296,0.5,0.3704
 2022-12-04 22:40:32.786744,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Team,England,0.12710000000000005,0.4348,0.3077
 2022-12-05 00:40:35.298735,Tournament Futures - FIFA World Cup 2022 - Tournament Winner and Top Goalscorer Parlay,Brazil & Kylian Mbappe,0.0909,0.1818,0.0909
 2022-12-04 23:40:26.198215,Team Futures - France Team Specials - France Stage of Elimination,Quarter Final,0.07619999999999999,0.4762,0.4
@@ -30,9 +31,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-05 00:40:35.298735,Tournament Futures - FIFA World Cup 2022 - Tournament Winner and Top Goalscorer Parlay,France & Kylian Mbappe,0.033299999999999996,0.1333,0.1
 2022-12-04 19:40:27.370473,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Notre Dame,0.033100000000000004,0.0625,0.0294
 2022-12-04 22:40:32.888146,Team Futures - England Team Specials - England Stage of Elimination,Semi Final,0.03259999999999999,0.2326,0.2
+2022-12-05 01:40:31.076016,NBL - NBL 2022/23 - Outright,Perth Wildcats,0.0321,0.0909,0.0588
 2022-12-04 22:40:32.819723,Tournament Futures - FIFA World Cup 2022 - Name The Semi-Finalists,"Argentina, Brazil, England & Spain",0.031799999999999995,0.1429,0.1111
 2022-12-04 21:40:27.465528,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Olivier Giroud,0.0294,0.0588,0.0294
-2022-12-04 13:40:28.692651,US Midterm Elections 2022 - Senate Races -  Georgia,Raphael Warnock (Democratic),0.029299999999999993,0.9524,0.9231
 2022-12-04 22:40:32.731739,Tournament Futures - FIFA World Cup 2022 - Runner Up,England,0.028799999999999992,0.1538,0.125
 2022-12-04 19:40:27.411717,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,UNLV,0.028399999999999995,0.0909,0.0625
 2022-12-04 19:40:27.411717,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Colorado State,0.028399999999999995,0.0909,0.0625
@@ -43,28 +44,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-04 19:40:27.376363,College Basketball - American Regular Season Conference Winner - AAC Regular Season Winner,Memphis U,0.025300000000000003,0.1429,0.1176
 2022-12-04 19:40:27.388290,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Texas Tech,0.0242,0.0909,0.0667
 2022-12-04 19:40:27.394201,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,St. John's,0.024,0.0625,0.0385
-2022-12-04 22:40:32.737720,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Olivier Giroud,0.023899999999999998,0.0435,0.0196
 2022-12-04 22:40:32.737720,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Jude Bellingham,0.023899999999999998,0.0435,0.0196
+2022-12-04 22:40:32.737720,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Olivier Giroud,0.023899999999999998,0.0435,0.0196
 2022-12-04 16:40:26.232105,Boxing Lines - Teofimo Lopez vs Sandor Martin - To Win the Bout,Sandor Martin,0.023800000000000016,0.1905,0.1667
 2022-12-04 22:40:32.819723,Tournament Futures - FIFA World Cup 2022 - Name The Semi-Finalists,"Argentina, Brazil, France & Spain",0.023799999999999988,0.1667,0.1429
 2022-12-04 23:40:26.072449,Tournament Futures - FIFA World Cup 2022 - Top South American Team,Brazil,0.022600000000000064,0.6226,0.6
 2022-12-04 22:40:32.731739,Tournament Futures - FIFA World Cup 2022 - Runner Up,Brazil,0.022199999999999998,0.2222,0.2
 2022-12-04 22:40:32.808461,Tournament Futures - FIFA World Cup 2022 - Golden Glove Winner,Alisson,0.021999999999999964,0.3077,0.2857
+2022-12-04 22:40:32.888146,Team Futures - England Team Specials - England Stage of Elimination,Runner-up,0.02049999999999999,0.1538,0.1333
 2022-12-04 22:40:32.767253,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Argentina & France,0.02049999999999999,0.1538,0.1333
 2022-12-04 22:40:32.767253,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Brazil & England,0.02049999999999999,0.1538,0.1333
-2022-12-04 22:40:32.888146,Team Futures - England Team Specials - England Stage of Elimination,Runner-up,0.02049999999999999,0.1538,0.1333
 2022-12-04 22:40:32.813795,Tournament Futures - FIFA World Cup 2022 - Most Assists,Jordi Alba,0.0203,0.0588,0.0385
 2022-12-04 22:40:32.767253,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Argentina & England,0.02020000000000001,0.1111,0.0909
+2022-12-05 01:40:31.076016,NBL - NBL 2022/23 - Outright,Tasmania JackJumpers,0.019099999999999995,0.0435,0.0244
 2022-12-04 22:40:32.808461,Tournament Futures - FIFA World Cup 2022 - Golden Glove Winner,Emiliano Martinez,0.01820000000000002,0.2,0.1818
 2022-12-04 22:40:32.767253,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Brazil & France,0.01820000000000002,0.2,0.1818
 2022-12-04 21:40:27.465528,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Harry Kane,0.017400000000000002,0.0323,0.0149
 2022-12-04 22:40:32.819723,Tournament Futures - FIFA World Cup 2022 - Name The Semi-Finalists,"Argentina, Brazil, England & Portugal",0.016700000000000007,0.1,0.0833
 2022-12-04 19:40:27.388290,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Kansas,0.016699999999999993,0.2667,0.25
-2022-12-04 23:40:26.198215,Team Futures - France Team Specials - France Stage of Elimination,Runner-up,0.015100000000000002,0.1818,0.1667
 2022-12-04 14:40:33.946137,Tournament Futures - FIFA World Cup 2022 - Runner Up,Argentina,0.015100000000000002,0.1818,0.1667
-2022-12-04 19:40:27.370473,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Virginia Tech,0.014899999999999997,0.0625,0.0476
+2022-12-04 23:40:26.198215,Team Futures - France Team Specials - France Stage of Elimination,Runner-up,0.015100000000000002,0.1818,0.1667
+2022-12-05 01:40:31.076016,NBL - NBL 2022/23 - Outright,Sydney Kings,0.014900000000000024,0.3226,0.3077
 2022-12-04 19:40:27.376363,College Basketball - American Regular Season Conference Winner - AAC Regular Season Winner,Cincinnati,0.014899999999999997,0.0625,0.0476
 2022-12-04 19:40:27.347352,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Gonzaga,0.014899999999999997,0.0625,0.0476
+2022-12-04 19:40:27.370473,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Virginia Tech,0.014899999999999997,0.0625,0.0476
 2022-12-04 14:40:34.046410,Tournament Futures - FIFA World Cup 2022 - Confederation of The Winner,AFC (Asia),0.014599999999999998,0.0196,0.005
 2022-12-04 21:40:27.465528,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Bukayo Saka,0.014099999999999998,0.0385,0.0244
 2022-12-04 19:40:27.376363,College Basketball - American Regular Season Conference Winner - AAC Regular Season Winner,Central Florida,0.014099999999999998,0.0385,0.0244
@@ -74,17 +77,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-04 22:40:32.786744,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Team,France,0.0131,0.2353,0.2222
 2022-12-04 21:40:27.471110,Tournament Futures - FIFA World Cup 2022 - To Reach the Final,England,0.011899999999999994,0.25,0.2381
 2022-12-04 19:40:27.388290,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Baylor,0.011699999999999988,0.2857,0.274
-2022-12-04 22:40:32.813795,Tournament Futures - FIFA World Cup 2022 - Most Assists,Theo Hernandez,0.011199999999999995,0.0588,0.0476
 2022-12-04 22:40:32.737720,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Neymar Junior,0.011199999999999995,0.0435,0.0323
-2022-12-04 19:40:27.411717,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Boise State,0.011099999999999999,0.1111,0.1
+2022-12-04 22:40:32.813795,Tournament Futures - FIFA World Cup 2022 - Most Assists,Theo Hernandez,0.011199999999999995,0.0588,0.0476
 2022-12-04 22:40:32.767253,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Brazil & Portugal,0.011099999999999999,0.1111,0.1
+2022-12-04 19:40:27.411717,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Boise State,0.011099999999999999,0.1111,0.1
 2022-12-04 17:40:29.505121,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,France,0.010499999999999982,0.2105,0.2
-2022-12-04 22:40:32.761986,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Memphis Depay,0.0102,0.0769,0.0667
 2022-12-04 22:40:32.767253,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,France & Netherlands,0.0102,0.0769,0.0667
 2022-12-04 22:40:32.819723,Tournament Futures - FIFA World Cup 2022 - Name The Semi-Finalists,"Brazil, England, Netherlands & Spain",0.0102,0.0769,0.0667
-2022-12-04 21:40:27.489149,Tournament Futures - FIFA World Cup 2022 - Winners Group,Group A,-0.0102,0.0667,0.0769
-2022-12-04 18:40:29.198608,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Netherlands,-0.0102,0.0667,0.0769
+2022-12-04 22:40:32.761986,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Memphis Depay,0.0102,0.0769,0.0667
 2022-12-04 22:40:32.808461,Tournament Futures - FIFA World Cup 2022 - Golden Glove Winner,Diogo Costa,-0.0102,0.0667,0.0769
+2022-12-04 18:40:29.198608,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Netherlands,-0.0102,0.0667,0.0769
+2022-12-04 21:40:27.489149,Tournament Futures - FIFA World Cup 2022 - Winners Group,Group A,-0.0102,0.0667,0.0769
 2022-12-04 20:40:28.112282,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,France,-0.010499999999999982,0.2,0.2105
 2022-12-04 19:40:27.347352,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Purdue,-0.011199999999999995,0.0476,0.0588
 2022-12-04 21:40:27.471110,Tournament Futures - FIFA World Cup 2022 - To Reach the Final,Switzerland,-0.011500000000000003,0.0385,0.05
@@ -93,12 +96,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-04 21:40:27.477840,Tournament Futures - FIFA World Cup 2022 - Confederation of The Winner,CAF (Africa),-0.012100000000000001,0.0123,0.0244
 2022-12-04 21:40:27.471110,Tournament Futures - FIFA World Cup 2022 - To Reach the Final,Netherlands,-0.012899999999999995,0.1538,0.1667
 2022-12-04 22:40:32.808461,Tournament Futures - FIFA World Cup 2022 - Golden Glove Winner,Unai Simon,-0.013899999999999996,0.1111,0.125
-2022-12-04 22:40:32.752665,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Jude Bellingham,-0.013999999999999999,0.0769,0.0909
 2022-12-04 22:40:32.808461,Tournament Futures - FIFA World Cup 2022 - Golden Glove Winner,Andries Noppert,-0.013999999999999999,0.0769,0.0909
+2022-12-04 22:40:32.752665,Tournament Futures - FIFA World Cup 2022 - Top German Bundesliga Goalscorer,Jude Bellingham,-0.013999999999999999,0.0769,0.0909
 2022-12-04 21:40:27.471110,Tournament Futures - FIFA World Cup 2022 - To Reach the Final,Croatia,-0.013999999999999999,0.0769,0.0909
+2022-12-04 22:40:32.737720,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Pablo Martin Gavi,-0.014099999999999998,0.0244,0.0385
 2022-12-04 19:40:27.394201,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Marquette,-0.014099999999999998,0.0244,0.0385
 2022-12-04 22:40:32.761986,Tournament Futures - FIFA World Cup 2022 - Top Spanish La Liga Goalscorer,Antoine Griezmann,-0.014099999999999998,0.0244,0.0385
-2022-12-04 22:40:32.737720,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Pablo Martin Gavi,-0.014099999999999998,0.0244,0.0385
 2022-12-04 22:40:32.813795,Tournament Futures - FIFA World Cup 2022 - Most Assists,Raheem Sterling,-0.014199999999999999,0.0152,0.0294
 2022-12-04 19:40:27.370473,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Miami (FL),-0.014399999999999996,0.0625,0.0769
 2022-12-05 00:40:35.298735,Tournament Futures - FIFA World Cup 2022 - Tournament Winner and Top Goalscorer Parlay,England & Marcus Rashford,-0.0145,0.0099,0.0244
@@ -110,14 +113,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-04 21:40:27.465528,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Richarlison,-0.016600000000000004,0.0667,0.0833
 2022-12-04 19:40:27.347352,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Alabama,-0.0168,0.0217,0.0385
 2022-12-04 21:40:27.465528,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Alvaro Morata,-0.018099999999999998,0.0588,0.0769
+2022-12-05 01:40:31.076016,NBL - NBL 2022/23 - Outright,Brisbane Bullets,-0.018200000000000004,0.0294,0.0476
 2022-12-04 17:40:29.505121,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Argentina,-0.01820000000000002,0.1818,0.2
 2022-12-04 22:40:32.748093,Tournament Futures - FIFA World Cup 2022 - Top French Ligue 1 Goalscorer,Neymar,-0.0189,0.0196,0.0385
 2022-12-04 22:40:32.781697,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,Netherlands,-0.018900000000000028,0.4255,0.4444
 2022-12-04 21:40:27.465528,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Cody Gakpo,-0.019099999999999992,0.0476,0.0667
 2022-12-05 00:40:35.298735,Tournament Futures - FIFA World Cup 2022 - Tournament Winner and Top Goalscorer Parlay,Spain & Alvaro Morata,-0.019499999999999997,0.0099,0.0294
 2022-12-04 22:40:32.781697,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,Portugal,-0.019500000000000017,0.3509,0.3704
-2022-12-04 21:40:27.465528,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Julian Alvarez,-0.019800000000000005,0.0278,0.0476
 2022-12-04 19:40:27.370473,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Syracuse,-0.019800000000000005,0.0278,0.0476
+2022-12-04 21:40:27.465528,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Julian Alvarez,-0.019800000000000005,0.0278,0.0476
 2022-12-04 22:40:32.737720,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Bruno Fernandes,-0.0203,0.0385,0.0588
 2022-12-04 22:40:32.781697,Tournament Futures - FIFA World Cup 2022 - To Reach the Semi-Final,Brazil,-0.022800000000000042,0.7333,0.7561
 2022-12-04 22:40:32.757264,Tournament Futures - FIFA World Cup 2022 - Top Italian Serie A Goalscorer,Angel di Maria,-0.023200000000000002,0.0244,0.0476
@@ -128,10 +132,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-04 21:40:27.489149,Tournament Futures - FIFA World Cup 2022 - Winners Group,Group E,-0.02479999999999999,0.129,0.1538
 2022-12-04 21:40:27.489149,Tournament Futures - FIFA World Cup 2022 - Winners Group,Group G,-0.02560000000000001,0.3077,0.3333
 2022-12-05 00:40:35.298735,Tournament Futures - FIFA World Cup 2022 - Tournament Winner and Top Goalscorer Parlay,Brazil & Messi,-0.026499999999999996,0.0323,0.0588
+2022-12-05 01:40:31.076016,NBL - NBL 2022/23 - Outright,New Zealand Breakers,-0.02779999999999999,0.25,0.2778
 2022-12-04 22:40:32.776832,Tournament Futures - FIFA World Cup 2022 - To Reach the Quarter-Final,South Korea,-0.027999999999999997,0.1538,0.1818
+2022-12-05 01:40:31.076016,NBL - NBL 2022/23 - Outright,Adelaide 36ers,-0.028799999999999992,0.125,0.1538
 2022-12-04 22:40:32.757264,Tournament Futures - FIFA World Cup 2022 - Top Italian Serie A Goalscorer,Adrien Rabiot,-0.0294,0.0294,0.0588
 2022-12-04 22:40:32.786744,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Team,Spain,-0.030299999999999994,0.3333,0.3636
-2022-12-04 13:40:28.692651,US Midterm Elections 2022 - Senate Races -  Georgia,Herschel Walker (Republican),-0.031799999999999995,0.1111,0.1429
 2022-12-04 22:40:32.748093,Tournament Futures - FIFA World Cup 2022 - Top French Ligue 1 Goalscorer,Breel Embolo,-0.03270000000000001,0.0149,0.0476
 2022-12-05 00:40:35.298735,Tournament Futures - FIFA World Cup 2022 - Tournament Winner and Top Goalscorer Parlay,Brazil & Richarlison,-0.0344,0.0244,0.0588
 2022-12-04 21:40:27.465528,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Marcus Rashford,-0.035699999999999996,0.0476,0.0833
@@ -153,5 +158,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-04 22:40:32.813795,Tournament Futures - FIFA World Cup 2022 - Most Assists,Harry Kane,-0.07239999999999996,0.2353,0.3077
 2022-12-04 14:40:34.046410,Tournament Futures - FIFA World Cup 2022 - Confederation of The Winner,UEFA (Europe),-0.08079999999999998,0.5744,0.6552
 2022-12-04 21:40:27.465528,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Lionel Messi,-0.0889,0.1111,0.2
+2022-12-05 01:40:30.904229,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Dallas Mavericks,-0.0953,0.2273,0.3226
 2022-12-04 19:40:27.382442,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Saint Louis,-0.14680000000000004,0.3077,0.4545
 2022-12-04 22:40:32.748093,Tournament Futures - FIFA World Cup 2022 - Top French Ligue 1 Goalscorer,Lionel Messi,-0.16359999999999997,0.2,0.3636
