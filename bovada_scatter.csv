@@ -20,6 +20,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-05 13:40:30.079726,Team Futures - France Team Specials - France Total Goals,14+,0.06659999999999999,0.3333,0.2667
 2022-12-05 13:40:30.054476,Team Futures - England Team Specials - England Top Team Goalscorer,Harry Kane,0.0629,0.1538,0.0909
 2022-12-05 09:40:27.374808,League One - England - League One 2022/23 - To Be Relegated,Accrington Stanley,0.057699999999999974,0.3077,0.25
+2022-12-05 15:40:26.817999,AFC North - 2022/2023 AFC North - AFC North Winner,Cincinnati Bengals,0.05559999999999998,0.5,0.4444
 2022-12-05 07:40:33.467345,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Philadelphia Eagles,0.055499999999999994,0.3333,0.2778
 2022-12-05 09:40:27.374808,League One - England - League One 2022/23 - To Be Relegated,Cambridge United,0.05449999999999999,0.4545,0.4
 2022-12-05 09:40:27.387468,League One - England - League One 2022/23 - Top 6 Finish,Port Vale,0.05379999999999999,0.1538,0.1
@@ -36,6 +37,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-05 10:40:32.001015,Australian Baseball League - Australian Baseball League 2022/23 - Outright,Adelaide Giants,0.031799999999999995,0.1429,0.1111
 2022-12-05 14:40:26.613161,Team Futures - Brazil Team Specials - Brazil Top Team Goalscorer,Richarlison,0.031400000000000095,0.7647,0.7333
 2022-12-05 07:40:33.451583,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Philadelphia Eagles,0.028799999999999992,0.1538,0.125
+2022-12-05 15:40:26.781513,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Cincinnati Bengals,0.028399999999999995,0.0909,0.0625
 2022-12-05 07:40:33.435664,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Buffalo Bills,0.028299999999999992,0.3509,0.3226
 2022-12-05 04:40:33.917435,Team Futures - Croatia Team Specials - Croatia Total Goals,6+,0.026499999999999968,0.6491,0.6226
 2022-12-05 07:40:33.451583,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Buffalo Bills,0.026100000000000012,0.2,0.1739
@@ -55,6 +57,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-05 04:40:33.917435,Team Futures - Croatia Team Specials - Croatia Total Goals,5+,0.01759999999999995,0.6667,0.6491
 2022-12-05 07:40:33.451583,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Dallas Cowboys,0.015899999999999997,0.1111,0.0952
 2022-12-05 08:40:33.093859,League One - England - League One 2022/23 - To Be Promoted,Wycombe,0.015300000000000001,0.0588,0.0435
+2022-12-05 15:40:26.495508,Boxing Lines - Josh Warrington vs Luis Alberto Lopez - To Win the Bout,Josh Warrington,0.014800000000000035,0.6226,0.6078
 2022-12-05 10:40:31.808920,US Midterm Elections 2022 - Senate Races -  Georgia,Raphael Warnock (Democratic),0.014699999999999935,0.9671,0.9524
 2022-12-05 07:40:34.133248,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Cody Gakpo,0.014099999999999998,0.0385,0.0244
 2022-12-05 09:40:27.374808,League One - England - League One 2022/23 - To Be Relegated,Lincoln City,0.013999999999999999,0.0909,0.0769
@@ -63,14 +66,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-05 09:40:27.387468,League One - England - League One 2022/23 - Top 6 Finish,Cheltenham Town,0.012100000000000001,0.0244,0.0123
 2022-12-05 08:40:33.093859,League One - England - League One 2022/23 - To Be Promoted,Ipswich Town,0.01090000000000002,0.8571,0.8462
 2022-12-05 09:40:25.979770,Boxing Lines - Josh Warrington vs Luis Alberto Lopez - To Win the Bout,Luis Alberto Lopez,0.010099999999999998,0.4545,0.4444
+2022-12-05 15:40:26.495508,Boxing Lines - Josh Warrington vs Luis Alberto Lopez - To Win the Bout,Luis Alberto Lopez,-0.010099999999999998,0.4444,0.4545
 2022-12-05 09:40:27.374808,League One - England - League One 2022/23 - To Be Relegated,Wycombe,-0.010100000000000001,0.0244,0.0345
 2022-12-05 07:40:33.458851,AFC West - 2022/2023 AFC West - AFC West Winner,Los Angeles Chargers,-0.010100000000000001,0.0244,0.0345
 2022-12-05 14:40:26.448365,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Portugal,-0.0102,0.0667,0.0769
 2022-12-05 13:40:30.054476,Team Futures - England Team Specials - England Top Team Goalscorer,Mason Mount,-0.0103,0.002,0.0123
 2022-12-05 08:40:33.088517,League One - England - League One 2022/23 - Top Goalscorer,Colby Bishop,-0.010899999999999993,0.1429,0.1538
 2022-12-05 09:40:27.374808,League One - England - League One 2022/23 - To Be Relegated,Shrewsbury Town,-0.011099999999999999,0.1,0.1111
-2022-12-05 07:40:33.435664,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Baltimore Ravens,-0.011099999999999999,0.1,0.1111
 2022-12-05 10:40:31.808920,US Midterm Elections 2022 - Senate Races -  Georgia,Herschel Walker (Republican),-0.011099999999999999,0.1,0.1111
+2022-12-05 07:40:33.435664,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Baltimore Ravens,-0.011099999999999999,0.1,0.1111
 2022-12-05 07:40:33.499609,NFC East - 2022/2023 NFC East - NFC East Winner,New York Giants,-0.011699999999999999,0.0079,0.0196
 2022-12-05 13:40:30.071812,Team Futures - France Team Specials - France Top Team Goalscorer,Kingsley Coman,-0.0129,0.002,0.0149
 2022-12-05 07:40:33.435664,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Los Angeles Chargers,-0.0131,0.0345,0.0476
@@ -96,11 +100,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-05 07:40:33.435664,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Kansas City Chiefs,-0.02560000000000001,0.3077,0.3333
 2022-12-05 09:40:27.374808,League One - England - League One 2022/23 - To Be Relegated,Burton Albion,-0.027700000000000058,0.5556,0.5833
 2022-12-05 13:40:30.054476,Team Futures - England Team Specials - England Top Team Goalscorer,Phil Foden,-0.029299999999999993,0.0476,0.0769
-2022-12-05 08:40:33.093859,League One - England - League One 2022/23 - To Be Promoted,Bolton Wanderers,-0.03259999999999999,0.2,0.2326
+2022-12-05 15:40:26.781513,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,San Francisco 49ers,-0.029799999999999993,0.0952,0.125
 2022-12-05 08:40:33.093859,League One - England - League One 2022/23 - To Be Promoted,Derby County,-0.03259999999999999,0.2,0.2326
+2022-12-05 08:40:33.093859,League One - England - League One 2022/23 - To Be Promoted,Bolton Wanderers,-0.03259999999999999,0.2,0.2326
 2022-12-05 08:40:33.093859,League One - England - League One 2022/23 - To Be Promoted,Peterborough United,-0.033300000000000024,0.1667,0.2
 2022-12-05 09:40:27.387468,League One - England - League One 2022/23 - Top 6 Finish,Plymouth Argyle,-0.03420000000000001,0.8889,0.9231
 2022-12-05 13:40:30.054476,Team Futures - England Team Specials - England Top Team Goalscorer,Jack Grealish,-0.0344,0.0244,0.0588
+2022-12-05 15:40:26.817999,AFC North - 2022/2023 AFC North - AFC North Winner,Baltimore Ravens,-0.03479999999999994,0.5652,0.6
 2022-12-05 08:40:33.093859,League One - England - League One 2022/23 - To Be Promoted,Charlton Athletic,-0.035699999999999996,0.0476,0.0833
 2022-12-05 07:40:33.442103,NFC South - 2022/2023 NFC South - NFC South Winner,Atlanta Falcons,-0.0407,0.0769,0.1176
 2022-12-05 07:40:33.493282,AFC South - 2022/2023 AFC South - AFC South Winner,Jacksonville Jaguars,-0.042899999999999994,0.1,0.1429
@@ -111,8 +117,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-05 09:40:27.387468,League One - England - League One 2022/23 - Top 6 Finish,Peterborough United,-0.057699999999999974,0.4545,0.5122
 2022-12-05 07:40:33.473793,NFC West - 2022/2023 NFC West - NFC West Winner,San Francisco 49ers,-0.07499999999999996,0.8,0.875
 2022-12-05 13:40:30.071812,Team Futures - France Team Specials - France Top Team Goalscorer,Olivier Giroud,-0.07579999999999999,0.0909,0.1667
-2022-12-05 09:40:27.387468,League One - England - League One 2022/23 - Top 6 Finish,Bolton Wanderers,-0.07619999999999993,0.5238,0.6
 2022-12-05 09:40:27.387468,League One - England - League One 2022/23 - Top 6 Finish,Derby County,-0.07619999999999993,0.5238,0.6
+2022-12-05 09:40:27.387468,League One - England - League One 2022/23 - Top 6 Finish,Bolton Wanderers,-0.07619999999999993,0.5238,0.6
 2022-12-05 10:40:32.001015,Australian Baseball League - Australian Baseball League 2022/23 - Outright,Melbourne Aces,-0.09620000000000001,0.1538,0.25
 2022-12-05 08:40:33.093859,League One - England - League One 2022/23 - To Be Promoted,Plymouth Argyle,-0.09830000000000005,0.4255,0.5238
 2022-12-05 07:40:33.467345,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,San Francisco 49ers,-0.10390000000000002,0.1818,0.2857
