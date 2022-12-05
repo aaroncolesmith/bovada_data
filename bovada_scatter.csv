@@ -30,6 +30,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-05 09:40:27.374808,League One - England - League One 2022/23 - To Be Relegated,Morecambe,0.04169999999999996,0.875,0.8333
 2022-12-05 09:40:27.383203,League One - England - League One 2022/23 - Top 2 Finish,Barnsley,0.04120000000000001,0.1,0.0588
 2022-12-05 13:40:30.079726,Team Futures - France Team Specials - France Total Goals,15+,0.04040000000000002,0.2222,0.1818
+2022-12-05 19:40:28.145932,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Brazil,0.03839999999999999,0.3509,0.3125
 2022-12-05 09:40:27.387468,League One - England - League One 2022/23 - Top 6 Finish,Wycombe,0.036199999999999996,0.1538,0.1176
 2022-12-05 07:40:33.493282,AFC South - 2022/2023 AFC South - AFC South Winner,Tennessee Titans,0.03420000000000001,0.9231,0.8889
 2022-12-05 07:40:33.442103,NFC South - 2022/2023 NFC South - NFC South Winner,New Orleans Saints,0.034100000000000005,0.125,0.0909
@@ -41,8 +42,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-05 07:40:33.435664,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Buffalo Bills,0.028299999999999992,0.3509,0.3226
 2022-12-05 07:40:33.451583,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Buffalo Bills,0.026100000000000012,0.2,0.1739
 2022-12-05 10:40:32.001015,Australian Baseball League - Australian Baseball League 2022/23 - Outright,Perth Heat,0.024999999999999994,0.125,0.1
-2022-12-05 13:40:30.060303,Team Futures - England Team Specials - England Total Goals,19+,0.024299999999999995,0.0769,0.0526
 2022-12-05 08:40:33.093859,League One - England - League One 2022/23 - To Be Promoted,Port Vale,0.024299999999999995,0.0588,0.0345
+2022-12-05 13:40:30.060303,Team Futures - England Team Specials - England Total Goals,19+,0.024299999999999995,0.0769,0.0526
 2022-12-05 09:40:27.374808,League One - England - League One 2022/23 - To Be Relegated,Milton Keynes Dons,0.023799999999999988,0.5,0.4762
 2022-12-05 10:40:32.001015,Australian Baseball League - Australian Baseball League 2022/23 - Outright,Auckland Tuatara,0.022199999999999998,0.2222,0.2
 2022-12-05 14:40:26.448365,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Brazil,0.021999999999999964,0.3077,0.2857
@@ -66,20 +67,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-05 16:40:27.945466,Boxing Lines - Josh Warrington vs Luis Alberto Lopez - To Win the Bout,Luis Alberto Lopez,0.010099999999999998,0.4545,0.4444
 2022-12-05 09:40:25.979770,Boxing Lines - Josh Warrington vs Luis Alberto Lopez - To Win the Bout,Luis Alberto Lopez,0.010099999999999998,0.4545,0.4444
 2022-12-05 15:40:26.495508,Boxing Lines - Josh Warrington vs Luis Alberto Lopez - To Win the Bout,Luis Alberto Lopez,-0.010099999999999998,0.4444,0.4545
-2022-12-05 07:40:33.458851,AFC West - 2022/2023 AFC West - AFC West Winner,Los Angeles Chargers,-0.010100000000000001,0.0244,0.0345
 2022-12-05 09:40:27.374808,League One - England - League One 2022/23 - To Be Relegated,Wycombe,-0.010100000000000001,0.0244,0.0345
+2022-12-05 07:40:33.458851,AFC West - 2022/2023 AFC West - AFC West Winner,Los Angeles Chargers,-0.010100000000000001,0.0244,0.0345
 2022-12-05 14:40:26.448365,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Portugal,-0.0102,0.0667,0.0769
 2022-12-05 13:40:30.054476,Team Futures - England Team Specials - England Top Team Goalscorer,Mason Mount,-0.0103,0.002,0.0123
 2022-12-05 08:40:33.088517,League One - England - League One 2022/23 - Top Goalscorer,Colby Bishop,-0.010899999999999993,0.1429,0.1538
 2022-12-05 09:40:27.374808,League One - England - League One 2022/23 - To Be Relegated,Shrewsbury Town,-0.011099999999999999,0.1,0.1111
 2022-12-05 07:40:33.435664,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Baltimore Ravens,-0.011099999999999999,0.1,0.1111
 2022-12-05 10:40:31.808920,US Midterm Elections 2022 - Senate Races -  Georgia,Herschel Walker (Republican),-0.011099999999999999,0.1,0.1111
+2022-12-05 19:40:28.145932,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Croatia,-0.011199999999999995,0.0323,0.0435
 2022-12-05 07:40:33.499609,NFC East - 2022/2023 NFC East - NFC East Winner,New York Giants,-0.011699999999999999,0.0079,0.0196
 2022-12-05 13:40:30.071812,Team Futures - France Team Specials - France Top Team Goalscorer,Kingsley Coman,-0.0129,0.002,0.0149
 2022-12-05 07:40:33.435664,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Los Angeles Chargers,-0.0131,0.0345,0.0476
+2022-12-05 19:40:28.145932,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Argentina,-0.013899999999999996,0.16,0.1739
 2022-12-05 09:40:27.379096,League One - England - League One 2022/23 - To Finish Bottom,Milton Keynes Dons,-0.013899999999999996,0.1111,0.125
-2022-12-05 09:40:27.383203,League One - England - League One 2022/23 - Top 2 Finish,Bolton Wanderers,-0.013999999999999999,0.0769,0.0909
 2022-12-05 09:40:27.383203,League One - England - League One 2022/23 - Top 2 Finish,Derby County,-0.013999999999999999,0.0769,0.0909
+2022-12-05 09:40:27.383203,League One - England - League One 2022/23 - Top 2 Finish,Bolton Wanderers,-0.013999999999999999,0.0769,0.0909
 2022-12-05 09:40:27.387468,League One - England - League One 2022/23 - Top 6 Finish,Lincoln City,-0.014100000000000001,0.0385,0.0526
 2022-12-05 07:40:33.451583,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Los Angeles Chargers,-0.014400000000000003,0.0179,0.0323
 2022-12-05 07:40:33.499609,NFC East - 2022/2023 NFC East - NFC East Winner,Dallas Cowboys,-0.01469999999999999,0.2353,0.25
