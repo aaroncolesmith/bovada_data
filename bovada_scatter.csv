@@ -38,6 +38,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-05 21:40:27.600320,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Carlos Casemiro,0.012700000000000003,0.0323,0.0196
 2022-12-05 20:40:33.142019,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Brazil,0.012699999999999989,0.3636,0.3509
 2022-12-06 01:40:29.552362,Boxing Lines - Terence Crawford vs David Avanesyan - To Win the Bout,David Avanesyan,0.011400000000000007,0.129,0.1176
+2022-12-06 05:40:24.108585,Boxing Lines - Josh Warrington vs Luis Alberto Lopez - To Win the Bout,Luis Alberto Lopez,0.010599999999999998,0.4651,0.4545
 2022-12-05 21:40:27.606895,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Neymar,0.010300000000000002,0.0244,0.0141
 2022-12-05 17:40:26.793902,Alfred Dunhill Championship - Alfred Dunhill Championship - Outright,Louis Oosthuizen,0.0102,0.0769,0.0667
 2022-12-06 01:40:30.363176,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Brazil & Switzerland,-0.010100000000000001,0.0244,0.0345
@@ -45,10 +46,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-05 22:40:28.375681,Tournament Futures - FIFA World Cup 2022 - Golden Glove Winner,Andries Noppert,-0.0102,0.0667,0.0769
 2022-12-06 01:40:30.363176,Tournament Futures - FIFA World Cup 2022 - Name The Finalists,Brazil & Spain,-0.010899999999999993,0.1429,0.1538
 2022-12-05 19:40:28.145932,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Croatia,-0.011199999999999995,0.0323,0.0435
-2022-12-05 21:40:27.606895,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Olivier Giroud,-0.011199999999999995,0.0476,0.0588
 2022-12-05 22:40:28.380678,Tournament Futures - FIFA World Cup 2022 - Young Player Award Winner,Josko Gvardiol,-0.011199999999999995,0.0476,0.0588
-2022-12-06 00:40:32.630768,Boxing Lines - Terence Crawford vs David Avanesyan - To Win the Bout,David Avanesyan,-0.011400000000000007,0.1176,0.129
+2022-12-05 21:40:27.606895,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Olivier Giroud,-0.011199999999999995,0.0476,0.0588
 2022-12-05 22:40:28.369702,Tournament Futures - FIFA World Cup 2022 - Winners Group,Group E,-0.011400000000000007,0.1176,0.129
+2022-12-06 00:40:32.630768,Boxing Lines - Terence Crawford vs David Avanesyan - To Win the Bout,David Avanesyan,-0.011400000000000007,0.1176,0.129
 2022-12-05 19:40:28.145932,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Argentina,-0.013899999999999996,0.16,0.1739
 2022-12-05 21:40:27.600320,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Cody Gakpo,-0.014099999999999998,0.0244,0.0385
 2022-12-05 22:40:28.337616,Tournament Futures - FIFA World Cup 2022 - Runner Up,Argentina,-0.015100000000000002,0.1667,0.1818
@@ -57,8 +58,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-05 21:40:27.600320,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Olivier Giroud,-0.019099999999999995,0.0244,0.0435
 2022-12-05 22:40:28.369702,Tournament Futures - FIFA World Cup 2022 - Winners Group,Group C,-0.020100000000000007,0.1538,0.1739
 2022-12-06 00:40:33.438287,Tournament Futures - FIFA World Cup 2022 - To Reach the Final,Argentina,-0.020799999999999985,0.3125,0.3333
-2022-12-05 21:40:27.600320,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Kylian Mbappe,-0.021699999999999997,0.4545,0.4762
 2022-12-06 01:40:30.356632,Tournament Futures - FIFA World Cup 2022 - Top South American Team,Argentina,-0.021699999999999997,0.4545,0.4762
+2022-12-05 21:40:27.600320,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Kylian Mbappe,-0.021699999999999997,0.4545,0.4762
 2022-12-06 01:40:30.008683,LNB Pro A - LNB Pro A 2022/23 - Outright,ASVEL Basket,-0.022199999999999998,0.2,0.2222
 2022-12-06 01:40:30.042160,Liga ACB - Liga ACB 2022/23 - Outright,Barcelona,-0.023799999999999988,0.4762,0.5
 2022-12-06 00:40:32.625506,Boxing Lines - Teofimo Lopez vs Sandor Martin - To Win the Bout,Sandor Martin,-0.02410000000000001,0.1739,0.198
