@@ -26,15 +26,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-08 13:40:29.005197,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Los Angeles Lakers,Over 40.5,0.06970000000000004,0.5348,0.4651
 2022-12-08 13:40:29.074478,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Toronto Raptors,Under 45.5,0.06970000000000004,0.5348,0.4651
 2022-12-08 13:40:29.096766,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Denver Nuggets,0.06820000000000001,0.25,0.1818
-2022-12-08 13:40:29.096766,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Los Angeles Lakers,0.06670000000000004,0.4,0.3333
 2022-12-08 13:40:29.411059,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Joe Mazzulla,0.06670000000000004,0.4,0.3333
+2022-12-08 13:40:29.096766,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Los Angeles Lakers,0.06670000000000004,0.4,0.3333
 2022-12-08 19:40:37.354181,NCAA Football Specials - How Many Bowl Games Will Go to Overtime? - How Many Bowl Games Will Go to Overtime?,Under 4,0.06669999999999998,0.6667,0.6
 2022-12-08 13:40:29.417516,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,OG Anunoby (TOR),0.06669999999999998,0.1667,0.1
-2022-12-08 13:40:29.092073,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,New York Knicks,0.06520000000000004,0.5652,0.5
-2022-12-08 13:40:29.060958,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Portland Trail Blazers,Over 41.5,0.06520000000000004,0.5652,0.5
 2022-12-08 13:40:28.973486,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Cleveland Cavaliers,Under 50.5,0.06520000000000004,0.5652,0.5
-2022-12-08 13:40:28.951339,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Atlanta Hawks,Under 46.5,0.06520000000000004,0.5652,0.5
 2022-12-08 13:40:28.960205,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Brooklyn Nets,Over 45.5,0.06520000000000004,0.5652,0.5
+2022-12-08 13:40:28.951339,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Atlanta Hawks,Under 46.5,0.06520000000000004,0.5652,0.5
+2022-12-08 13:40:29.060958,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Portland Trail Blazers,Over 41.5,0.06520000000000004,0.5652,0.5
+2022-12-08 13:40:29.092073,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,New York Knicks,0.06520000000000004,0.5652,0.5
 2022-12-08 13:40:29.069997,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - San Antonio Spurs,Under 22.5,0.06440000000000001,0.6296,0.5652
 2022-12-08 13:40:29.112033,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Dallas Mavericks,Yes,0.0635,0.7778,0.7143
 2022-12-08 13:40:29.168799,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Milwaukee Bucks,0.055499999999999994,0.8333,0.7778
@@ -51,8 +51,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-08 13:40:29.026403,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Minnesota Timberwolves,Under 41.5,0.044399999999999995,0.6,0.5556
 2022-12-08 13:40:29.424913,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Tyrese Haliburton (IND),0.04040000000000002,0.2222,0.1818
 2022-12-08 15:40:31.721510,QBE Shootout - 2/3 Balls - 1st Round 2 Balls - C. Conners / K.H. Lee v T. Hoge / S. Theegala - 1st Round 2 Balls,Tom Hoge / Sahith Theegala,0.03959999999999997,0.5744,0.5348
-2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Jalen Wilson,0.037500000000000006,0.1,0.0625
 2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Trayce Jackson-Davis,0.037500000000000006,0.1,0.0625
+2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Jalen Wilson,0.037500000000000006,0.1,0.0625
 2022-12-08 13:40:29.189364,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,New Orleans Pelicans,0.03640000000000004,0.4,0.3636
 2022-12-08 13:40:29.096766,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Los Angeles Clippers,0.03640000000000004,0.4,0.3636
 2022-12-08 13:40:28.942998,2022/23 NBA - Regular Season Wins - Regular Season Wins - Most Wins - NBA 2022/23 Regular Season,BOS Celtics,0.035699999999999954,0.75,0.7143
@@ -66,11 +66,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-08 13:40:29.433198,NBA Awards - 2022/23 NBA Awards - 2022/23 The Rookie of the Year,Paolo Banchero (ORL),0.023799999999999932,0.8571,0.8333
 2022-12-08 19:40:38.290008,Team Futures - Brazil Team Specials - Brazil Total Goals,18+,0.0228,0.0294,0.0066
 2022-12-08 13:40:29.204266,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Boston Celtics,0.02260000000000001,0.4,0.3774
-2022-12-08 13:40:29.173941,2022/23 Divisions - 2022-2023 NBA Northwest Division - Division Winner,Portland Trail Blazers,0.022199999999999998,0.2222,0.2
 2022-12-08 13:40:29.424913,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Lauri Markanen,0.022199999999999998,0.2222,0.2
-2022-12-08 16:40:28.793769,A1 - Greece A1 2022/23 - Outright,Panathinaikos,0.022199999999999998,0.2222,0.2
+2022-12-08 13:40:29.173941,2022/23 Divisions - 2022-2023 NBA Northwest Division - Division Winner,Portland Trail Blazers,0.022199999999999998,0.2222,0.2
 2022-12-08 12:40:30.641659,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Malcolm Brogdon (BOS),0.022199999999999998,0.2222,0.2
 2022-12-08 12:40:30.641659,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Jordan Poole (GSW),0.022199999999999998,0.2222,0.2
+2022-12-08 16:40:28.793769,A1 - Greece A1 2022/23 - Outright,Panathinaikos,0.022199999999999998,0.2222,0.2
 2022-12-08 13:40:29.138267,Number 1 Seed - 2022/23 NBA - Western Conference No. 1 Seed,MEM Grizzlies,0.022199999999999998,0.2222,0.2
 2022-12-08 12:40:30.641659,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Norman Powell (LAC),0.022099999999999998,0.0385,0.0164
 2022-12-08 16:40:28.752770,LNB Pro A - LNB Pro A 2022/23 - Outright,AS Monaco,0.02180000000000004,0.6296,0.6078
@@ -84,6 +84,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-08 16:40:28.745940,Japan B League - Japan League B1 2022/23 - Outright,Chiba Jets,0.01820000000000002,0.2,0.1818
 2022-12-08 17:40:28.919430,Alfred Dunhill Championship - Alfred Dunhill Championship - Outright,Jaco Ahlers,0.017800000000000003,0.0244,0.0066
 2022-12-08 11:40:25.641838,Boxing Lines - Michel Rivera vs Frank Martin - To Win the Bout,Frank Martin,0.01759999999999995,0.6667,0.6491
+2022-12-08 20:40:27.692010,Alfred Dunhill Championship - Alfred Dunhill Championship - Outright,Dean Burmester,0.0174,0.25,0.2326
 2022-12-08 13:40:29.120883,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Miami Heat,Yes,0.016700000000000048,0.75,0.7333
 2022-12-08 17:40:28.919430,Alfred Dunhill Championship - Alfred Dunhill Championship - Outright,David Ravetto,0.0156,0.0196,0.004
 2022-12-08 13:40:29.424913,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Anfernee Simons (POR),0.015499999999999998,0.0278,0.0123
@@ -97,8 +98,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-08 11:40:25.467947,Boxing Lines - Osleys Iglesias vs Andrii Velikovskyi - To Win the Bout,Osleys Iglesias,0.014100000000000001,0.9474,0.9333
 2022-12-08 17:40:28.919430,Alfred Dunhill Championship - Alfred Dunhill Championship - Outright,Scott Jamieson,0.014099999999999998,0.0435,0.0294
 2022-12-08 17:40:28.919430,Alfred Dunhill Championship - Alfred Dunhill Championship - Outright,Laurie Canter,0.014099999999999998,0.0385,0.0244
-2022-12-08 10:40:29.985117,QBE Shootout - QBE Shootout - Outright,Steve Stricker / Cameron Young,0.013999999999999999,0.0909,0.0769
 2022-12-08 08:40:30.876283,Boxing Lines - Xander Zayas vs Alexis Salazar - To Win the Bout,Alexis Salazar,0.013999999999999999,0.0909,0.0769
+2022-12-08 10:40:29.985117,QBE Shootout - QBE Shootout - Outright,Steve Stricker / Cameron Young,0.013999999999999999,0.0909,0.0769
 2022-12-08 17:40:28.919430,Alfred Dunhill Championship - Alfred Dunhill Championship - Outright,Deon Germishuys,0.012899999999999998,0.0179,0.005
 2022-12-08 13:40:29.035234,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - New York Knicks,Over 38.5,0.012199999999999989,0.5122,0.5
 2022-12-08 13:40:28.942998,2022/23 NBA - Regular Season Wins - Regular Season Wins - Most Wins - NBA 2022/23 Regular Season,MIL Bucks,0.011700000000000016,0.2222,0.2105
@@ -124,15 +125,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Brandon Miller,-0.012700000000000003,0.0196,0.0323
 2022-12-08 13:40:29.179088,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Los Angeles Lakers,-0.012700000000000003,0.0196,0.0323
 2022-12-08 16:40:28.745940,Japan B League - Japan League B1 2022/23 - Outright,Alvark Tokyo,-0.012899999999999995,0.1538,0.1667
-2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Kendric Davis,-0.013,0.0066,0.0196
 2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Nick Smith,-0.013,0.0066,0.0196
+2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Kendric Davis,-0.013,0.0066,0.0196
 2022-12-08 17:40:28.919430,Alfred Dunhill Championship - Alfred Dunhill Championship - Outright,Daniel van Tonder,-0.013,0.0066,0.0196
 2022-12-08 13:40:29.189364,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Dallas Mavericks,-0.0131,0.2222,0.2353
 2022-12-08 17:40:28.919430,Alfred Dunhill Championship - Alfred Dunhill Championship - Outright,Louis De Jager,-0.013600000000000001,0.0013,0.0149
 2022-12-08 12:40:30.641659,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Christian Wood (DAL),-0.013899999999999996,0.1111,0.125
 2022-12-08 13:40:29.204266,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Philadelphia 76ers,-0.013999999999999999,0.0769,0.0909
-2022-12-08 17:40:28.919430,Alfred Dunhill Championship - Alfred Dunhill Championship - Outright,Adrian Otaegui,-0.014099999999999998,0.0294,0.0435
 2022-12-08 13:40:29.424913,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Desmond Bane (MEM),-0.014099999999999998,0.0244,0.0385
+2022-12-08 17:40:28.919430,Alfred Dunhill Championship - Alfred Dunhill Championship - Outright,Adrian Otaegui,-0.014099999999999998,0.0294,0.0435
 2022-12-08 13:40:29.092073,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Orlando Magic,-0.014100000000000001,0.0385,0.0526
 2022-12-08 13:40:29.133373,Number 1 Seed - 2022/23 NBA - Eastern Conference No. 1 Seed,CLE Cavaliers,-0.014399999999999996,0.0625,0.0769
 2022-12-08 17:40:28.919430,Alfred Dunhill Championship - Alfred Dunhill Championship - Outright,Antoine Rozner,-0.014499999999999999,0.0149,0.0294
@@ -140,15 +141,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-08 17:40:28.919430,Alfred Dunhill Championship - Alfred Dunhill Championship - Outright,Marcus Armitage,-0.0145,0.0004,0.0149
 2022-12-08 13:40:29.417516,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Joel Embiid (PHI),-0.014899999999999997,0.0476,0.0625
 2022-12-08 13:40:29.096766,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Memphis Grizzlies,-0.015100000000000002,0.1667,0.1818
-2022-12-08 13:40:28.942998,2022/23 NBA - Regular Season Wins - Regular Season Wins - Most Wins - NBA 2022/23 Regular Season,CLE Cavaliers,-0.015300000000000001,0.0323,0.0476
-2022-12-08 13:40:29.433198,NBA Awards - 2022/23 NBA Awards - 2022/23 The Rookie of the Year,Jaden Ivey (DET),-0.015300000000000001,0.0323,0.0476
 2022-12-08 12:40:30.634306,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Nikola Jokic (DEN),-0.015300000000000001,0.0323,0.0476
+2022-12-08 13:40:29.433198,NBA Awards - 2022/23 NBA Awards - 2022/23 The Rookie of the Year,Jaden Ivey (DET),-0.015300000000000001,0.0323,0.0476
+2022-12-08 13:40:28.942998,2022/23 NBA - Regular Season Wins - Regular Season Wins - Most Wins - NBA 2022/23 Regular Season,CLE Cavaliers,-0.015300000000000001,0.0323,0.0476
 2022-12-08 12:40:30.634306,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Donovan Mitchell (CLE),-0.015300000000000001,0.0323,0.0476
 2022-12-08 13:40:29.138267,Number 1 Seed - 2022/23 NBA - Western Conference No. 1 Seed,PHO Suns,-0.015400000000000025,0.3846,0.4
+2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Jordan Walker,-0.0156,0.004,0.0196
+2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Julian Strawther,-0.0156,0.004,0.0196
 2022-12-08 17:40:28.919430,Alfred Dunhill Championship - Alfred Dunhill Championship - Outright,Edoardo Molinari,-0.0156,0.004,0.0196
 2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Mike Miles,-0.0156,0.004,0.0196
-2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Julian Strawther,-0.0156,0.004,0.0196
-2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Jordan Walker,-0.0156,0.004,0.0196
 2022-12-08 13:40:29.150529,2022/23 NBA - The NBA Finals Props - 2022/23 NBA Season - Winner Specials - Winning Division,Southwest,-0.015700000000000006,0.1176,0.1333
 2022-12-08 12:40:30.634306,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Giannis Antetokounmpo (MIL),-0.016699999999999993,0.25,0.2667
 2022-12-08 11:40:25.641838,Boxing Lines - Michel Rivera vs Frank Martin - To Win the Bout,Michel Rivera,-0.016699999999999993,0.4,0.4167
@@ -171,14 +172,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-08 13:40:29.092073,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Cleveland Cavaliers,-0.023799999999999988,0.1429,0.1667
 2022-12-08 13:40:29.189364,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Memphis Grizzlies,-0.023799999999999988,0.4762,0.5
 2022-12-08 17:40:28.919430,Alfred Dunhill Championship - Alfred Dunhill Championship - Outright,Matthieu Pavon,-0.024,0.0004,0.0244
-2022-12-08 17:40:28.919430,Alfred Dunhill Championship - Alfred Dunhill Championship - Outright,Christiaan Bezuidenhout,-0.0242,0.0667,0.0909
 2022-12-08 17:40:28.919430,Alfred Dunhill Championship - Alfred Dunhill Championship - Outright,Louis Oosthuizen,-0.0242,0.0667,0.0909
+2022-12-08 17:40:28.919430,Alfred Dunhill Championship - Alfred Dunhill Championship - Outright,Christiaan Bezuidenhout,-0.0242,0.0667,0.0909
 2022-12-08 15:40:31.721510,QBE Shootout - 2/3 Balls - 1st Round 2 Balls - C. Conners / K.H. Lee v T. Hoge / S. Theegala - 1st Round 2 Balls,Corey Conners / K.H. Lee,-0.024399999999999977,0.4878,0.5122
 2022-12-08 13:40:29.155359,2022/23 NBA - The NBA Finals Props - 2022/23 NBA Season - Winner Specials - Winning State,Texas,-0.026499999999999996,0.0323,0.0588
 2022-12-08 13:40:29.411059,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Nate McMillan,-0.026499999999999996,0.0323,0.0588
 2022-12-08 11:40:25.579148,Boxing Lines - Teofimo Lopez vs Sandor Martin - To Win the Bout,Teofimo Lopez,-0.026800000000000046,0.8621,0.8889
-2022-12-08 13:40:29.155359,2022/23 NBA - The NBA Finals Props - 2022/23 NBA Season - Winner Specials - Winning State,California,-0.02779999999999999,0.25,0.2778
 2022-12-08 13:40:29.209934,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Golden State Warriors,-0.02779999999999999,0.2222,0.25
+2022-12-08 13:40:29.155359,2022/23 NBA - The NBA Finals Props - 2022/23 NBA Season - Winner Specials - Winning State,California,-0.02779999999999999,0.25,0.2778
 2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Marcus Sasser,-0.028199999999999996,0.0385,0.0667
 2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Terrance Shannon,-0.0282,0.0244,0.0526
 2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Kris Murray,-0.0282,0.0244,0.0526
@@ -189,8 +190,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Hunter Dickinson,-0.0336,0.0099,0.0435
 2022-12-08 13:40:28.942998,2022/23 NBA - Regular Season Wins - Regular Season Wins - Most Wins - NBA 2022/23 Regular Season,PHO Suns,-0.034100000000000005,0.0909,0.125
 2022-12-08 10:40:30.069736,Tournament Match-Ups - Tournament Match-Up - H. English / M. Kuchar vs M. Homa / K. Kisner - Tournament Match-Up,Max Homa / Kevin Kisner,-0.03480000000000005,0.5,0.5348
-2022-12-08 13:40:29.133373,Number 1 Seed - 2022/23 NBA - Eastern Conference No. 1 Seed,MIL Bucks,-0.03570000000000001,0.25,0.2857
 2022-12-08 13:40:29.433198,NBA Awards - 2022/23 NBA Awards - 2022/23 The Rookie of the Year,Bennedict Mathurin (IND),-0.03570000000000001,0.25,0.2857
+2022-12-08 13:40:29.133373,Number 1 Seed - 2022/23 NBA - Eastern Conference No. 1 Seed,MIL Bucks,-0.03570000000000001,0.25,0.2857
 2022-12-08 09:40:30.151314,The Match 7 - The Match 7 - Outright,Tiger Woods / Rory McIlroy,-0.03600000000000003,0.4878,0.5238
 2022-12-08 13:40:29.150529,2022/23 NBA - The NBA Finals Props - 2022/23 NBA Season - Winner Specials - Winning Division,Pacific,-0.03839999999999999,0.3125,0.3509
 2022-12-08 13:40:29.417516,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Rudy Gobert (MIN),-0.0384,0.0385,0.0769
@@ -215,11 +216,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-08 13:40:29.074478,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Toronto Raptors,Over 45.5,-0.06519999999999992,0.5348,0.6
 2022-12-08 13:40:29.069997,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - San Antonio Spurs,Over 22.5,-0.06519999999999998,0.4348,0.5
 2022-12-08 13:40:28.951339,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Atlanta Hawks,Over 46.5,-0.06520000000000004,0.5,0.5652
-2022-12-08 13:40:29.092073,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Chicago Bulls,-0.06520000000000004,0.5,0.5652
 2022-12-08 13:40:28.973486,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Cleveland Cavaliers,Over 50.5,-0.06520000000000004,0.5,0.5652
-2022-12-08 13:40:28.960205,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Brooklyn Nets,Under 45.5,-0.06520000000000004,0.5,0.5652
 2022-12-08 13:40:29.096766,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Sacramento Kings,-0.06520000000000004,0.5,0.5652
 2022-12-08 13:40:29.060958,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Portland Trail Blazers,Under 41.5,-0.06520000000000004,0.5,0.5652
+2022-12-08 13:40:28.960205,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Brooklyn Nets,Under 45.5,-0.06520000000000004,0.5,0.5652
+2022-12-08 13:40:29.092073,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Chicago Bulls,-0.06520000000000004,0.5,0.5652
 2022-12-08 17:40:28.919430,Alfred Dunhill Championship - Alfred Dunhill Championship - Outright,Charl Schwartzel,-0.06699999999999999,0.0099,0.0769
 2022-12-08 13:40:29.096766,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Minnesota Timberwolves,-0.07739999999999997,0.4348,0.5122
 2022-12-08 13:40:29.092073,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Brooklyn Nets,-0.07789999999999997,0.2857,0.3636
