@@ -1,5 +1,4 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Zach Edey,0.3334,0.5556,0.2222
 2022-12-08 19:40:38.290008,Team Futures - Brazil Team Specials - Brazil Total Goals,12+,0.3326,0.6552,0.3226
 2022-12-08 19:40:38.290008,Team Futures - Brazil Team Specials - Brazil Total Goals,13+,0.3,0.5,0.2
 2022-12-08 19:40:38.290008,Team Futures - Brazil Team Specials - Brazil Total Goals,11+,0.22969999999999996,0.7059,0.4762
@@ -10,8 +9,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-08 19:40:38.290008,Team Futures - Brazil Team Specials - Brazil Total Goals,16+,0.1006,0.125,0.0244
 2022-12-08 19:40:37.354181,NCAA Football Specials - How Many Bowl Games Will Go to Overtime? - How Many Bowl Games Will Go to Overtime?,Under 4,0.06669999999999998,0.6667,0.6
 2022-12-08 19:40:38.290008,Team Futures - Brazil Team Specials - Brazil Total Goals,17+,0.051500000000000004,0.0625,0.011
-2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Trayce Jackson-Davis,0.037500000000000006,0.1,0.0625
-2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Jalen Wilson,0.037500000000000006,0.1,0.0625
 2022-12-09 04:40:27.938620,NBL - NBL 2022/23 - Outright,Sydney Kings,0.028299999999999992,0.3509,0.3226
 2022-12-09 03:40:30.161853,Alfred Dunhill Championship - Alfred Dunhill Championship - Outright,Louis Oosthuizen,0.0242,0.0909,0.0667
 2022-12-08 21:40:28.011018,MCB Tour Championship - MCB Tour Championship - Outright,Adilson Da Silva,0.023799999999999988,0.1667,0.1429
@@ -19,66 +16,44 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-08 19:40:38.290008,Team Futures - Brazil Team Specials - Brazil Total Goals,18+,0.0228,0.0294,0.0066
 2022-12-09 02:40:27.647178,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Hunter Dickinson,0.022400000000000003,0.0323,0.0099
 2022-12-09 02:40:27.647178,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Julian Strawther,0.0204,0.0244,0.004
-2022-12-08 18:40:29.784796,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,St. John's,0.0203,0.0588,0.0385
 2022-12-09 01:40:39.600833,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Maryland,0.02020000000000001,0.1111,0.0909
 2022-12-08 23:40:26.193001,Boxing Lines - Ivan Hope Price vs Jonathan Santana - To Win the Bout,Jonathan Santana,0.01949999999999999,0.0909,0.0714
 2022-12-08 21:40:28.411196,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Atlanta Hawks,Yes,0.018999999999999906,0.7333,0.7143
-2022-12-08 18:40:29.784796,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Creighton,0.018799999999999983,0.3636,0.3448
 2022-12-09 04:40:27.938620,NBL - NBL 2022/23 - Outright,South East Melbourne Phoenix,0.01820000000000002,0.2,0.1818
 2022-12-09 02:40:27.647178,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Oumar Ballo,0.0182,0.0323,0.0141
 2022-12-09 05:40:27.446525,Alfred Dunhill Championship - 2/3 Balls - 2nd Round 3 Balls - D. Bradbury / G. Coetzee / O. Strydom - 2nd Round 3 Balls,Dan Bradbury,0.017600000000000005,0.3509,0.3333
 2022-12-08 20:40:27.692010,Alfred Dunhill Championship - Alfred Dunhill Championship - Outright,Dean Burmester,0.0174,0.25,0.2326
 2022-12-09 05:40:27.463666,Alfred Dunhill Championship - 2/3 Balls - 2nd Round 3 Balls - A. Rozner / J. Walters / O. Bekker - 2nd Round 3 Balls,Antoine Rozner,0.016699999999999993,0.4167,0.4
-2022-12-09 05:40:28.144374,Euro Cup - Euro Cup 2022/23 - Outright,Reyer Venezia,0.016600000000000004,0.0833,0.0667
 2022-12-09 05:40:26.556314,MLB - Odds to win 2023 World Series - World Series Winner 2023,San Diego Padres,0.016600000000000004,0.0833,0.0667
+2022-12-09 05:40:28.144374,Euro Cup - Euro Cup 2022/23 - Outright,Reyer Venezia,0.016600000000000004,0.0833,0.0667
 2022-12-09 02:40:27.647178,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Posh Alexander,0.0156,0.0196,0.004
-2022-12-09 02:40:27.647178,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Mike Miles,0.0156,0.0196,0.004
 2022-12-09 02:40:27.647178,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Cason Wallace,0.0156,0.0196,0.004
+2022-12-09 02:40:27.647178,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Mike Miles,0.0156,0.0196,0.004
 2022-12-09 02:40:27.647178,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Jordan Walker,0.0156,0.0196,0.004
 2022-12-09 05:40:28.144374,Euro Cup - Euro Cup 2022/23 - Outright,Gran Canaria,0.015100000000000002,0.1818,0.1667
 2022-12-09 02:40:27.639702,College Basketball - West Coast Regular Season Conference Winner - West Coast Conference Regular Season Winner,Saint Mary's CA,0.014399999999999996,0.0769,0.0625
-2022-12-09 05:40:27.482373,QBE Shootout - QBE Shootout - Outright,Trey Mullinax / Scott Stallings,0.013999999999999999,0.0909,0.0769
 2022-12-09 02:40:27.647178,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Oscar Tshiebwe,0.013999999999999999,0.0909,0.0769
+2022-12-09 05:40:27.482373,QBE Shootout - QBE Shootout - Outright,Trey Mullinax / Scott Stallings,0.013999999999999999,0.0909,0.0769
 2022-12-09 02:40:27.647178,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Brandon Miller,0.012700000000000003,0.0323,0.0196
 2022-12-09 02:40:27.647178,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Baylor Scheierman,0.012400000000000001,0.0164,0.004
-2022-12-09 02:40:27.647178,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Kevin McCullar,0.012400000000000001,0.0164,0.004
-2022-12-09 02:40:27.647178,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Matt Bradley,0.012400000000000001,0.0164,0.004
 2022-12-09 02:40:27.647178,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Jordan Josiah-James,0.012400000000000001,0.0164,0.004
+2022-12-09 02:40:27.647178,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Matt Bradley,0.012400000000000001,0.0164,0.004
+2022-12-09 02:40:27.647178,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Kevin McCullar,0.012400000000000001,0.0164,0.004
 2022-12-09 02:40:27.647178,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Isaiah Wong,0.012400000000000001,0.0164,0.004
 2022-12-09 02:40:27.647178,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Matthew Mayer,0.0112,0.0152,0.004
-2022-12-09 05:40:28.144374,Euro Cup - Euro Cup 2022/23 - Outright,Paris,0.011199999999999995,0.0588,0.0476
 2022-12-09 01:40:39.600833,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Ohio State,0.011199999999999995,0.0435,0.0323
+2022-12-09 05:40:28.144374,Euro Cup - Euro Cup 2022/23 - Outright,Paris,0.011199999999999995,0.0588,0.0476
 2022-12-08 21:40:28.225544,Singapore Women's Open - Singapore Women's Open - Outright,Min Ji Park,0.011099999999999999,0.1111,0.1
-2022-12-08 18:40:29.784796,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Villanova,0.010899999999999993,0.1538,0.1429
-2022-12-08 18:40:29.784796,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Xavier,0.010899999999999993,0.1538,0.1429
+2022-12-09 06:40:38.374998,The Match 7 - Hole 1 - Hole 1 Winner,Justin Thomas / Jordan Spieth,0.010800000000000032,0.274,0.2632
 2022-12-09 02:40:27.639702,College Basketball - West Coast Regular Season Conference Winner - West Coast Conference Regular Season Winner,Gonzaga,0.010199999999999987,0.9333,0.9231
 2022-12-09 01:40:39.677743,Euroleague - Euroleague 2022/23 - Outright,Panathinaikos,0.010100000000000001,0.0345,0.0244
-2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Baylor Scheierman,-0.012400000000000001,0.004,0.0164
-2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Isaiah Wong,-0.012400000000000001,0.004,0.0164
-2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Jordan Josiah-James,-0.012400000000000001,0.004,0.0164
-2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Matt Bradley,-0.012400000000000001,0.004,0.0164
-2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Brandon Miller,-0.012700000000000003,0.0196,0.0323
-2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Kendric Davis,-0.013,0.0066,0.0196
-2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Nick Smith,-0.013,0.0066,0.0196
+2022-12-09 06:40:38.374998,The Match 7 - Hole 1 - Hole 1 Winner,Tiger Woods / Rory McIlroy,-0.010399999999999993,0.2222,0.2326
 2022-12-09 05:40:28.144374,Euro Cup - Euro Cup 2022/23 - Outright,Promitheas Patras,-0.014100000000000001,0.0385,0.0526
-2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Tyrese Hunter,-0.0145,0.0099,0.0244
 2022-12-09 04:40:27.938620,NBL - NBL 2022/23 - Outright,New Zealand Breakers,-0.01469999999999999,0.2353,0.25
 2022-12-09 05:40:28.144374,Euro Cup - Euro Cup 2022/23 - Outright,Joventut,-0.015100000000000002,0.1667,0.1818
 2022-12-09 01:40:39.677743,Euroleague - Euroleague 2022/23 - Outright,Milano,-0.015300000000000001,0.0435,0.0588
-2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Jordan Walker,-0.0156,0.004,0.0196
-2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Julian Strawther,-0.0156,0.004,0.0196
-2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Mike Miles,-0.0156,0.004,0.0196
 2022-12-09 05:40:28.144374,Euro Cup - Euro Cup 2022/23 - Outright,Bursaspor,-0.016600000000000004,0.0667,0.0833
 2022-12-08 21:40:28.411196,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Atlanta Hawks,No,-0.017600000000000005,0.3333,0.3509
-2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Jaime Jaquez Jr.,-0.0182,0.0141,0.0323
-2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Posh Alexander,-0.0204,0.004,0.0244
-2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Caleb Love,-0.021199999999999997,0.0066,0.0278
-2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Marcus Sasser,-0.028199999999999996,0.0385,0.0667
-2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Terrance Shannon,-0.0282,0.0244,0.0526
-2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Kris Murray,-0.0282,0.0244,0.0526
-2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Armando Bacot,-0.0286,0.0099,0.0385
-2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Hunter Dickinson,-0.0336,0.0099,0.0435
-2022-12-08 17:40:29.608644,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Oscar Tshiebwe,-0.0407,0.0769,0.1176
 2022-12-09 02:40:27.578442,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Dayton,-0.04099999999999998,0.2667,0.3077
 2022-12-08 19:40:38.290008,Team Futures - Brazil Team Specials - Brazil Total Goals,20+,-0.046,0.0066,0.0526
 2022-12-08 19:40:37.354181,NCAA Football Specials - How Many Bowl Games Will Go to Overtime? - How Many Bowl Games Will Go to Overtime?,Over 4,-0.06509999999999999,0.4,0.4651
