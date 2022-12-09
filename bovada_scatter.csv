@@ -26,26 +26,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-09 05:40:27.463666,Alfred Dunhill Championship - 2/3 Balls - 2nd Round 3 Balls - A. Rozner / J. Walters / O. Bekker - 2nd Round 3 Balls,Antoine Rozner,0.016699999999999993,0.4167,0.4
 2022-12-09 05:40:28.144374,Euro Cup - Euro Cup 2022/23 - Outright,Reyer Venezia,0.016600000000000004,0.0833,0.0667
 2022-12-09 05:40:26.556314,MLB - Odds to win 2023 World Series - World Series Winner 2023,San Diego Padres,0.016600000000000004,0.0833,0.0667
-2022-12-09 02:40:27.647178,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Posh Alexander,0.0156,0.0196,0.004
 2022-12-09 02:40:27.647178,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Jordan Walker,0.0156,0.0196,0.004
 2022-12-09 02:40:27.647178,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Mike Miles,0.0156,0.0196,0.004
+2022-12-09 02:40:27.647178,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Posh Alexander,0.0156,0.0196,0.004
 2022-12-09 02:40:27.647178,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Cason Wallace,0.0156,0.0196,0.004
 2022-12-09 05:40:28.144374,Euro Cup - Euro Cup 2022/23 - Outright,Gran Canaria,0.015100000000000002,0.1818,0.1667
 2022-12-09 02:40:27.639702,College Basketball - West Coast Regular Season Conference Winner - West Coast Conference Regular Season Winner,Saint Mary's CA,0.014399999999999996,0.0769,0.0625
 2022-12-09 09:40:27.327688,Boxing Lines - Mary Spencer vs Femke Hermans - To Win the Bout,Femke Hermans,0.014299999999999993,0.1143,0.1
 2022-12-09 08:40:35.407095,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,TCU,0.014099999999999994,0.0667,0.0526
-2022-12-09 09:40:27.203394,Boxing Lines - Ivan Hope Price vs Jonathan Santana - To Win the Bout,Jonathan Santana,0.013999999999999999,0.0909,0.0769
 2022-12-09 05:40:27.482373,QBE Shootout - QBE Shootout - Outright,Trey Mullinax / Scott Stallings,0.013999999999999999,0.0909,0.0769
+2022-12-09 09:40:27.203394,Boxing Lines - Ivan Hope Price vs Jonathan Santana - To Win the Bout,Jonathan Santana,0.013999999999999999,0.0909,0.0769
 2022-12-09 02:40:27.647178,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Oscar Tshiebwe,0.013999999999999999,0.0909,0.0769
 2022-12-09 02:40:27.647178,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Brandon Miller,0.012700000000000003,0.0323,0.0196
-2022-12-09 02:40:27.647178,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Baylor Scheierman,0.012400000000000001,0.0164,0.004
 2022-12-09 02:40:27.647178,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Jordan Josiah-James,0.012400000000000001,0.0164,0.004
 2022-12-09 02:40:27.647178,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Kevin McCullar,0.012400000000000001,0.0164,0.004
 2022-12-09 02:40:27.647178,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Isaiah Wong,0.012400000000000001,0.0164,0.004
 2022-12-09 02:40:27.647178,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Matt Bradley,0.012400000000000001,0.0164,0.004
+2022-12-09 02:40:27.647178,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Baylor Scheierman,0.012400000000000001,0.0164,0.004
 2022-12-09 02:40:27.647178,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Matthew Mayer,0.0112,0.0152,0.004
-2022-12-09 08:40:35.412977,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Marquette,0.011199999999999995,0.0435,0.0323
 2022-12-09 05:40:28.144374,Euro Cup - Euro Cup 2022/23 - Outright,Paris,0.011199999999999995,0.0588,0.0476
+2022-12-09 08:40:35.412977,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Marquette,0.011199999999999995,0.0435,0.0323
 2022-12-09 01:40:39.600833,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Ohio State,0.011199999999999995,0.0435,0.0323
 2022-12-09 06:40:38.374998,The Match 7 - Hole 1 - Hole 1 Winner,Justin Thomas / Jordan Spieth,0.010800000000000032,0.274,0.2632
 2022-12-09 12:40:31.565749,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Golden State Warriors,0.010499999999999982,0.2105,0.2
@@ -56,6 +56,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-09 08:40:35.412977,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,St. John's,-0.011199999999999995,0.0476,0.0588
 2022-12-09 10:40:29.511397,QBE Shootout - QBE Shootout - Outright,Jason Day / Billy Horschel,-0.012899999999999995,0.1538,0.1667
 2022-12-09 08:40:35.079932,Boxing Lines - Ivan Hope Price vs Jonathan Santana - To Win the Bout,Jonathan Santana,-0.013999999999999999,0.0769,0.0909
+2022-12-09 13:40:32.398338,Boxing Lines - Ivan Hope Price vs Jonathan Santana - To Win the Bout,Jonathan Santana,-0.013999999999999999,0.0769,0.0909
 2022-12-09 08:40:35.182448,Boxing Lines - Andy Hiraoka vs Min Ho Jung - To Win the Bout,Min Ho Jung,-0.013999999999999999,0.0769,0.0909
 2022-12-09 05:40:28.144374,Euro Cup - Euro Cup 2022/23 - Outright,Promitheas Patras,-0.014100000000000001,0.0385,0.0526
 2022-12-09 04:40:27.938620,NBL - NBL 2022/23 - Outright,New Zealand Breakers,-0.01469999999999999,0.2353,0.25
@@ -69,8 +70,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-09 12:40:30.487769,QBE Shootout - 2/3 Balls - 1st Round 2 Balls - C. Conners / K.H. Lee v T. Hoge / S. Theegala - 1st Round 2 Balls,Tom Hoge / Sahith Theegala,-0.01880000000000004,0.5556,0.5744
 2022-12-09 08:40:35.173120,Boxing Lines - Hironor Miyake vs Peter McGrail - To Win the Bout,Hironor Miyake,-0.01949999999999999,0.0714,0.0909
 2022-12-09 11:40:25.847991,Boxing Lines - Hironor Miyake vs Peter McGrail - To Win the Bout,Hironor Miyake,-0.01949999999999999,0.0714,0.0909
+2022-12-09 13:40:32.520944,Boxing Lines - Hironor Miyake vs Peter McGrail - To Win the Bout,Hironor Miyake,-0.01949999999999999,0.0714,0.0909
 2022-12-09 11:40:26.195822,Round Match-Ups - 1st Round Match-Up - J. Day / B. Horschel v H. English / M. Kuchar - 1st Round Match-Up,Jason Day / Billy Horschel,-0.02169999999999994,0.5238,0.5455
 2022-12-09 12:40:31.570718,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Atlanta Hawks,-0.021699999999999997,0.4545,0.4762
+2022-12-09 13:40:32.508674,Boxing Lines - Teofimo Lopez vs Sandor Martin - To Win the Bout,Teofimo Lopez,-0.022199999999999998,0.8667,0.8889
 2022-12-09 12:40:31.565749,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Los Angeles Clippers,-0.023799999999999988,0.1429,0.1667
 2022-12-09 08:40:35.407095,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Kansas,-0.02779999999999999,0.25,0.2778
 2022-12-09 08:40:35.412977,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Xavier,-0.036199999999999996,0.1176,0.1538
