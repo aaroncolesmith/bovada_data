@@ -34,8 +34,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-11 06:41:08.024842,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Denver Nuggets,Over 50.5,0.023799999999999988,0.5,0.4762
 2022-12-11 03:40:29.879591,QBE Shootout - 2/3 Balls - Final Round 2 Balls - T. Mullinax / S. Stallings v M. Mcnealy / L. Thompson - Final Round 2 Balls,Trey Mullinax / Scott Stallings,0.022600000000000064,0.6226,0.6
 2022-12-11 03:40:29.884462,QBE Shootout - 2/3 Balls - Final Round 2 Balls - C. Conners / K.H. Lee v N. Korda / D. McCarthy - Final Round 2 Balls,Corey Conners / K.H. Lee,0.02200000000000002,0.7143,0.6923
-2022-12-11 06:41:08.084659,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Phoenix Suns,Over 52.5,0.021699999999999997,0.4762,0.4545
 2022-12-11 03:40:31.398335,League One - England - League One 2022/23 - To Be Relegated,Cambridge United,0.021699999999999997,0.4762,0.4545
+2022-12-11 06:41:08.084659,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Phoenix Suns,Over 52.5,0.021699999999999997,0.4762,0.4545
 2022-12-11 06:41:08.075635,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Orlando Magic,Over 23.5,0.02169999999999994,0.5455,0.5238
 2022-12-11 00:40:36.066333,Team Futures - Croatia Team Specials - Croatia Top Team Goalscorer,Ivan Perisic,0.02049999999999999,0.1538,0.1333
 2022-12-11 03:40:31.407829,League One - England - League One 2022/23 - Top 6 Finish,Shrewsbury Town,0.0203,0.0588,0.0385
@@ -62,14 +62,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-11 03:40:31.407829,League One - England - League One 2022/23 - Top 6 Finish,Peterborough United,-0.010099999999999998,0.4444,0.4545
 2022-12-11 05:40:32.108617,Boxing Lines - Kosei Tanaka vs Yanga Sigqibo - To Win the Bout,Yanga Sigqibo,-0.010099999999999998,0.1786,0.1887
 2022-12-11 04:40:28.535554,League Two - England - League Two 2022/23 - Top 7 Finish,Tranmere Rovers,-0.010399999999999993,0.2222,0.2326
-2022-12-11 03:40:31.407829,League One - England - League One 2022/23 - Top 6 Finish,Port Vale,-0.010899999999999993,0.1429,0.1538
 2022-12-11 03:40:31.407829,League One - England - League One 2022/23 - Top 6 Finish,Wycombe,-0.010899999999999993,0.1429,0.1538
+2022-12-11 03:40:31.407829,League One - England - League One 2022/23 - Top 6 Finish,Port Vale,-0.010899999999999993,0.1429,0.1538
 2022-12-11 09:40:29.846283,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Los Angeles Clippers,-0.011099999999999999,0.1,0.1111
-2022-12-11 04:40:28.501888,League Two - England - League Two 2022/23 - Outright,Mansfield Town,-0.011199999999999995,0.0476,0.0588
 2022-12-11 03:40:31.402685,League One - England - League One 2022/23 - Top 2 Finish,Peterborough United,-0.011199999999999995,0.0476,0.0588
+2022-12-11 04:40:28.501888,League Two - England - League Two 2022/23 - Outright,Mansfield Town,-0.011199999999999995,0.0476,0.0588
 2022-12-11 04:40:28.334355,Championship - England Championship 2022/23 - Outright,Coventry City,-0.012100000000000001,0.0123,0.0244
-2022-12-11 06:41:08.093657,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Sacramento Kings,Under 42.5,-0.012199999999999989,0.5,0.5122
 2022-12-11 06:41:08.053050,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Miami Heat,Over 44.5,-0.012199999999999989,0.4878,0.5
+2022-12-11 06:41:08.093657,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Sacramento Kings,Under 42.5,-0.012199999999999989,0.5,0.5122
 2022-12-11 04:40:28.535554,League Two - England - League Two 2022/23 - Top 7 Finish,Carlisle United,-0.012699999999999989,0.3509,0.3636
 2022-12-11 04:40:28.339239,Championship - England Championship 2022/23 - To Be Promoted,Blackburn Rovers,-0.012899999999999995,0.1538,0.1667
 2022-12-11 03:40:29.899233,QBE Shootout - 2/3 Balls - Final Round 2 Balls - T. Hoge / S. Theegala v C. Hoffman / R. Palmer - Final Round 2 Balls,Tom Hoge / Sahith Theegala,-0.013799999999999923,0.6226,0.6364
@@ -79,10 +79,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-11 04:40:28.513036,League Two - England - League Two 2022/23 - To Be Promoted,Tranmere Rovers,-0.016700000000000007,0.0833,0.1
 2022-12-11 03:40:29.884462,QBE Shootout - 2/3 Balls - Final Round 2 Balls - C. Conners / K.H. Lee v N. Korda / D. McCarthy - Final Round 2 Balls,Nelly Korda / Denny McCarthy,-0.017600000000000005,0.3333,0.3509
 2022-12-11 04:40:28.523298,League Two - England - League Two 2022/23 - To Finish Bottom,Rochdale,-0.0179,0.125,0.1429
-2022-12-11 04:40:28.535554,League Two - England - League Two 2022/23 - Top 7 Finish,Newport County,-0.018099999999999998,0.0588,0.0769
+2022-12-11 11:40:26.826102,NFL Weekly Specials - NFL Week 14 Leaders - Lowest Scoring Team - Week 14 (Sunday Only),TB Buccaneers,-0.0179,0.125,0.1429
 2022-12-11 03:40:31.402685,League One - England - League One 2022/23 - Top 2 Finish,Bolton Wanderers,-0.018099999999999998,0.0588,0.0769
+2022-12-11 04:40:28.535554,League Two - England - League Two 2022/23 - Top 7 Finish,Newport County,-0.018099999999999998,0.0588,0.0769
 2022-12-11 04:40:28.334355,Championship - England Championship 2022/23 - Outright,Blackburn Rovers,-0.018200000000000004,0.0294,0.0476
 2022-12-11 04:40:28.523298,League Two - England - League Two 2022/23 - To Finish Bottom,Gillingham,-0.01820000000000002,0.1818,0.2
+2022-12-11 11:40:26.826102,NFL Weekly Specials - NFL Week 14 Leaders - Lowest Scoring Team - Week 14 (Sunday Only),HOU Texans,-0.01820000000000002,0.1818,0.2
 2022-12-11 03:40:29.879591,QBE Shootout - 2/3 Balls - Final Round 2 Balls - T. Mullinax / S. Stallings v M. Mcnealy / L. Thompson - Final Round 2 Balls,Maverick McNealy / Lexi Thompson,-0.018900000000000028,0.4255,0.4444
 2022-12-11 00:40:35.286884,Boxing Lines - Hironor Miyake vs Peter McGrail - To Win the Bout,Hironor Miyake,-0.01949999999999999,0.0714,0.0909
 2022-12-11 00:40:36.047336,Team Futures - Argentina Team Specials - Argentina Top Team Goalscorer,Lautaro Martinez,-0.019499999999999997,0.0099,0.0294
@@ -95,8 +97,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-11 09:40:29.533619,QBE Shootout - 2/3 Balls - Final Round 2 Balls - T. Hoge / S. Theegala v C. Hoffman / R. Palmer - Final Round 2 Balls,Tom Hoge / Sahith Theegala,-0.022600000000000064,0.6,0.6226
 2022-12-11 06:41:08.084659,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Phoenix Suns,Under 52.5,-0.023699999999999943,0.5917,0.6154
 2022-12-11 04:40:28.513036,League Two - England - League Two 2022/23 - To Be Promoted,Swindon Town,-0.023799999999999988,0.1429,0.1667
-2022-12-11 03:40:31.407829,League One - England - League One 2022/23 - Top 6 Finish,Derby County,-0.023800000000000043,0.5,0.5238
 2022-12-11 03:40:31.407829,League One - England - League One 2022/23 - Top 6 Finish,Bolton Wanderers,-0.023800000000000043,0.5,0.5238
+2022-12-11 03:40:31.407829,League One - England - League One 2022/23 - Top 6 Finish,Derby County,-0.023800000000000043,0.5,0.5238
 2022-12-11 00:40:36.066333,Team Futures - Croatia Team Specials - Croatia Top Team Goalscorer,Lovro Majer,-0.0242,0.0667,0.0909
 2022-12-11 06:41:08.024842,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Denver Nuggets,Under 50.5,-0.026499999999999968,0.5652,0.5917
 2022-12-11 09:40:29.515993,QBE Shootout - 2/3 Balls - Final Round 2 Balls - C. Conners / K.H. Lee v N. Korda / D. McCarthy - Final Round 2 Balls,Corey Conners / K.H. Lee,-0.026800000000000046,0.6875,0.7143
