@@ -13,7 +13,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-10 22:40:31.604070,Tournament Futures - FIFA World Cup 2022 - Runner Up,France,0.1666,0.3333,0.1667
 2022-12-11 02:40:30.803726,Team Futures - Morocco Team Specials - Morocco Total Goals,8+,0.16479999999999997,0.3077,0.1429
 2022-12-11 00:40:36.047336,Team Futures - Argentina Team Specials - Argentina Top Team Goalscorer,Lionel Messi,0.133,0.9901,0.8571
-2022-12-10 20:40:31.310422,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,England,0.1238,0.2667,0.1429
 2022-12-11 02:40:30.791514,Team Futures - France Team Specials - France Total Goals,16+,0.11900000000000002,0.2857,0.1667
 2022-12-10 22:40:31.604070,Tournament Futures - FIFA World Cup 2022 - Runner Up,Morocco,0.1151,0.1818,0.0667
 2022-12-10 22:40:31.633887,Tournament Futures - FIFA World Cup 2022 - Winners Group,Group F,0.10200000000000001,0.2353,0.1333
@@ -41,6 +40,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-11 04:40:28.517995,League Two - England - League Two 2022/23 - To Be Relegated,Colchester United,0.045499999999999985,0.5,0.4545
 2022-12-11 04:40:28.339239,Championship - England Championship 2022/23 - To Be Promoted,Burnley,0.044500000000000095,0.7778,0.7333
 2022-12-11 04:40:28.523298,League Two - England - League Two 2022/23 - To Finish Bottom,Colchester United,0.044499999999999984,0.2667,0.2222
+2022-12-11 09:40:29.521870,QBE Shootout - 2/3 Balls - Final Round 2 Balls - M. Homa / K. Kisner v S. Stricker / C. Young - Final Round 2 Balls,Steve Stricker / Cameron Young,0.043399999999999994,0.4878,0.4444
 2022-12-11 02:40:30.461593,95th Academy Awards - Best Picture - Best Picture,Avatar : The Way of Water,0.04329999999999999,0.0909,0.0476
 2022-12-11 02:40:30.791514,Team Futures - France Team Specials - France Total Goals,17+,0.04240000000000001,0.1333,0.0909
 2022-12-11 02:40:30.803726,Team Futures - Morocco Team Specials - Morocco Total Goals,9+,0.0417,0.125,0.0833
@@ -55,16 +55,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-11 04:40:28.535554,League Two - England - League Two 2022/23 - Top 7 Finish,Doncaster Rovers,0.024999999999999994,0.125,0.1
 2022-12-11 07:40:30.419456,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - San Antonio Spurs,Over 22.5,0.023800000000000043,0.5238,0.5
 2022-12-11 06:41:08.024842,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Denver Nuggets,Over 50.5,0.023799999999999988,0.5,0.4762
+2022-12-11 09:40:29.515993,QBE Shootout - 2/3 Balls - Final Round 2 Balls - C. Conners / K.H. Lee v N. Korda / D. McCarthy - Final Round 2 Balls,Nelly Korda / Denny McCarthy,0.023799999999999988,0.3571,0.3333
 2022-12-11 03:40:29.879591,QBE Shootout - 2/3 Balls - Final Round 2 Balls - T. Mullinax / S. Stallings v M. Mcnealy / L. Thompson - Final Round 2 Balls,Trey Mullinax / Scott Stallings,0.022600000000000064,0.6226,0.6
 2022-12-11 03:40:29.884462,QBE Shootout - 2/3 Balls - Final Round 2 Balls - C. Conners / K.H. Lee v N. Korda / D. McCarthy - Final Round 2 Balls,Corey Conners / K.H. Lee,0.02200000000000002,0.7143,0.6923
 2022-12-11 03:40:31.398335,League One - England - League One 2022/23 - To Be Relegated,Cambridge United,0.021699999999999997,0.4762,0.4545
-2022-12-10 22:40:31.608386,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Lionel Messi,0.021699999999999997,0.4762,0.4545
 2022-12-11 06:41:08.084659,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Phoenix Suns,Over 52.5,0.021699999999999997,0.4762,0.4545
+2022-12-10 22:40:31.608386,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Lionel Messi,0.021699999999999997,0.4762,0.4545
 2022-12-11 06:41:08.075635,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Orlando Magic,Over 23.5,0.02169999999999994,0.5455,0.5238
 2022-12-10 22:40:31.652364,Team Futures - Argentina Team Specials - Argentina Stage of Elimination,Winners,0.02100000000000002,0.3846,0.3636
 2022-12-11 00:40:36.066333,Team Futures - Croatia Team Specials - Croatia Top Team Goalscorer,Ivan Perisic,0.02049999999999999,0.1538,0.1333
 2022-12-11 03:40:31.407829,League One - England - League One 2022/23 - Top 6 Finish,Shrewsbury Town,0.0203,0.0588,0.0385
 2022-12-11 04:40:28.513036,League Two - England - League Two 2022/23 - To Be Promoted,Leyton Orient,0.020199999999999996,0.9091,0.8889
+2022-12-11 09:40:29.533619,QBE Shootout - 2/3 Balls - Final Round 2 Balls - T. Hoge / S. Theegala v C. Hoffman / R. Palmer - Final Round 2 Balls,Charley Hoffman / Ryan Palmer,0.018900000000000028,0.4444,0.4255
 2022-12-11 04:40:28.535554,League Two - England - League Two 2022/23 - Top 7 Finish,Crawley Town,0.018200000000000004,0.0476,0.0294
 2022-12-11 03:40:29.899233,QBE Shootout - 2/3 Balls - Final Round 2 Balls - T. Hoge / S. Theegala v C. Hoffman / R. Palmer - Final Round 2 Balls,Charley Hoffman / Ryan Palmer,0.017299999999999982,0.4255,0.4082
 2022-12-10 22:40:31.608386,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Antoine Griezmann,0.017099999999999997,0.0294,0.0123
@@ -75,11 +77,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-10 22:40:30.275421,Alfred Dunhill Championship - 2/3 Balls - Final Round 3 Balls - A. Canizares / N. Norgaard Moller / C. Maas - Final Round 3 Balls,Christian Maas,0.014900000000000024,0.3226,0.3077
 2022-12-11 05:40:32.415633,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Sacramento Kings,0.014399999999999996,0.0769,0.0625
 2022-12-10 22:40:31.608386,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Hakim Ziyech,0.014199999999999999,0.0294,0.0152
-2022-12-10 22:40:30.028666,Boxing Lines - Xander Zayas vs Alexis Salazar - To Win the Bout,Alexis Salazar,0.013999999999999999,0.0909,0.0769
 2022-12-11 03:40:31.402685,League One - England - League One 2022/23 - Top 2 Finish,Derby County,0.013999999999999999,0.0909,0.0769
+2022-12-10 22:40:30.028666,Boxing Lines - Xander Zayas vs Alexis Salazar - To Win the Bout,Alexis Salazar,0.013999999999999999,0.0909,0.0769
+2022-12-11 04:40:28.535554,League Two - England - League Two 2022/23 - Top 7 Finish,Sutton Utd,0.013899999999999996,0.125,0.1111
 2022-12-10 22:40:31.658576,Team Futures - Croatia Team Specials - Croatia Stage of Elimination,Winners,0.013899999999999996,0.125,0.1111
 2022-12-10 22:40:31.480920,Euroleague - Euroleague 2022/23 - Outright,AS Monaco,0.013899999999999996,0.125,0.1111
-2022-12-11 04:40:28.535554,League Two - England - League Two 2022/23 - Top 7 Finish,Sutton Utd,0.013899999999999996,0.125,0.1111
 2022-12-11 03:40:29.814530,Alfred Dunhill Championship - 2/3 Balls - Final Round 3 Balls - D. Whitnell / S. Jamieson / O. Strydom - Final Round 3 Balls,Dale Whitnell,0.013800000000000034,0.3774,0.3636
 2022-12-10 21:40:35.332371,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Argentina,0.013800000000000034,0.3774,0.3636
 2022-12-11 03:40:31.407829,League One - England - League One 2022/23 - Top 6 Finish,Barnsley,0.013799999999999923,0.6364,0.6226
@@ -91,27 +93,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-10 22:40:31.604070,Tournament Futures - FIFA World Cup 2022 - Runner Up,Croatia,0.011899999999999994,0.25,0.2381
 2022-12-10 22:40:31.613203,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Youssef En-Nesyri,0.0116,0.0141,0.0025
 2022-12-11 04:40:28.002893,NFL Weekly Specials - NFL Week 14 Leaders - Most Rushing Yards - Week 14 (Sunday Only),D'Onta Foreman,0.011199999999999995,0.0435,0.0323
-2022-12-11 04:40:28.637263,National League - England National League 2022/23 - Outright,Chesterfield,0.011099999999999999,0.1111,0.1
-2022-12-11 03:40:31.402685,League One - England - League One 2022/23 - Top 2 Finish,Barnsley,0.011099999999999999,0.1111,0.1
 2022-12-11 03:40:31.402685,League One - England - League One 2022/23 - Top 2 Finish,Portsmouth,0.011099999999999999,0.1111,0.1
+2022-12-11 03:40:31.402685,League One - England - League One 2022/23 - Top 2 Finish,Barnsley,0.011099999999999999,0.1111,0.1
+2022-12-11 04:40:28.637263,National League - England National League 2022/23 - Outright,Chesterfield,0.011099999999999999,0.1111,0.1
 2022-12-11 03:40:31.407829,League One - England - League One 2022/23 - Top 6 Finish,Charlton Athletic,0.010899999999999993,0.1538,0.1429
 2022-12-11 02:40:30.494676,Boxing Lines - Kosei Tanaka vs Yanga Sigqibo - To Win the Bout,Yanga Sigqibo,0.010099999999999998,0.1887,0.1786
 2022-12-11 03:40:31.407829,League One - England - League One 2022/23 - Top 6 Finish,Peterborough United,-0.010099999999999998,0.4444,0.4545
 2022-12-11 05:40:32.108617,Boxing Lines - Kosei Tanaka vs Yanga Sigqibo - To Win the Bout,Yanga Sigqibo,-0.010099999999999998,0.1786,0.1887
 2022-12-10 21:40:33.854265,Boxing Lines - Michael Conlan vs Karim Guerfi - To Win the Bout,Karim Guerfi,-0.0102,0.0667,0.0769
 2022-12-11 04:40:28.535554,League Two - England - League Two 2022/23 - Top 7 Finish,Tranmere Rovers,-0.010399999999999993,0.2222,0.2326
-2022-12-11 03:40:31.407829,League One - England - League One 2022/23 - Top 6 Finish,Port Vale,-0.010899999999999993,0.1429,0.1538
 2022-12-11 03:40:31.407829,League One - England - League One 2022/23 - Top 6 Finish,Wycombe,-0.010899999999999993,0.1429,0.1538
+2022-12-11 03:40:31.407829,League One - England - League One 2022/23 - Top 6 Finish,Port Vale,-0.010899999999999993,0.1429,0.1538
 2022-12-10 22:40:31.509376,A1 - Greece A1 2022/23 - Outright,Olympiakos,-0.01090000000000002,0.8462,0.8571
+2022-12-11 09:40:29.846283,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Los Angeles Clippers,-0.011099999999999999,0.1,0.1111
 2022-12-11 04:40:28.501888,League Two - England - League Two 2022/23 - Outright,Mansfield Town,-0.011199999999999995,0.0476,0.0588
 2022-12-11 03:40:31.402685,League One - England - League One 2022/23 - Top 2 Finish,Peterborough United,-0.011199999999999995,0.0476,0.0588
 2022-12-11 04:40:28.334355,Championship - England Championship 2022/23 - Outright,Coventry City,-0.012100000000000001,0.0123,0.0244
-2022-12-11 06:41:08.093657,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Sacramento Kings,Under 42.5,-0.012199999999999989,0.5,0.5122
 2022-12-11 06:41:08.053050,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Miami Heat,Over 44.5,-0.012199999999999989,0.4878,0.5
+2022-12-11 06:41:08.093657,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Sacramento Kings,Under 42.5,-0.012199999999999989,0.5,0.5122
 2022-12-11 04:40:28.535554,League Two - England - League Two 2022/23 - Top 7 Finish,Carlisle United,-0.012699999999999989,0.3509,0.3636
 2022-12-11 04:40:28.339239,Championship - England Championship 2022/23 - To Be Promoted,Blackburn Rovers,-0.012899999999999995,0.1538,0.1667
 2022-12-11 03:40:29.899233,QBE Shootout - 2/3 Balls - Final Round 2 Balls - T. Hoge / S. Theegala v C. Hoffman / R. Palmer - Final Round 2 Balls,Tom Hoge / Sahith Theegala,-0.013799999999999923,0.6226,0.6364
-2022-12-10 20:40:31.310422,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Argentina,-0.013800000000000034,0.3636,0.3774
 2022-12-10 21:40:33.870401,Boxing Lines - Xander Zayas vs Alexis Salazar - To Win the Bout,Alexis Salazar,-0.013999999999999999,0.0769,0.0909
 2022-12-10 23:40:33.146546,Boxing Lines - Xander Zayas vs Alexis Salazar - To Win the Bout,Alexis Salazar,-0.013999999999999999,0.0769,0.0909
 2022-12-11 04:40:28.513036,League Two - England - League Two 2022/23 - To Be Promoted,Newport County,-0.014099999999999998,0.0244,0.0385
@@ -119,8 +121,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-11 04:40:28.513036,League Two - England - League Two 2022/23 - To Be Promoted,Tranmere Rovers,-0.016700000000000007,0.0833,0.1
 2022-12-11 03:40:29.884462,QBE Shootout - 2/3 Balls - Final Round 2 Balls - C. Conners / K.H. Lee v N. Korda / D. McCarthy - Final Round 2 Balls,Nelly Korda / Denny McCarthy,-0.017600000000000005,0.3333,0.3509
 2022-12-11 04:40:28.523298,League Two - England - League Two 2022/23 - To Finish Bottom,Rochdale,-0.0179,0.125,0.1429
-2022-12-11 03:40:31.402685,League One - England - League One 2022/23 - Top 2 Finish,Bolton Wanderers,-0.018099999999999998,0.0588,0.0769
 2022-12-11 04:40:28.535554,League Two - England - League Two 2022/23 - Top 7 Finish,Newport County,-0.018099999999999998,0.0588,0.0769
+2022-12-11 03:40:31.402685,League One - England - League One 2022/23 - Top 2 Finish,Bolton Wanderers,-0.018099999999999998,0.0588,0.0769
 2022-12-11 04:40:28.334355,Championship - England Championship 2022/23 - Outright,Blackburn Rovers,-0.018200000000000004,0.0294,0.0476
 2022-12-10 22:40:31.480920,Euroleague - Euroleague 2022/23 - Outright,Real Madrid BC,-0.01820000000000002,0.1818,0.2
 2022-12-11 04:40:28.523298,League Two - England - League Two 2022/23 - To Finish Bottom,Gillingham,-0.01820000000000002,0.1818,0.2
@@ -134,18 +136,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-11 04:40:28.535554,League Two - England - League Two 2022/23 - Top 7 Finish,Barrow FC,-0.021699999999999997,0.4545,0.4762
 2022-12-11 04:40:28.501888,League Two - England - League Two 2022/23 - Outright,Stevenage,-0.021999999999999964,0.2857,0.3077
 2022-12-11 03:40:31.398335,League One - England - League One 2022/23 - To Be Relegated,Forest Green Rovers,-0.022199999999999998,0.7778,0.8
+2022-12-11 09:40:29.533619,QBE Shootout - 2/3 Balls - Final Round 2 Balls - T. Hoge / S. Theegala v C. Hoffman / R. Palmer - Final Round 2 Balls,Tom Hoge / Sahith Theegala,-0.022600000000000064,0.6,0.6226
 2022-12-11 06:41:08.084659,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Phoenix Suns,Under 52.5,-0.023699999999999943,0.5917,0.6154
 2022-12-11 04:40:28.513036,League Two - England - League Two 2022/23 - To Be Promoted,Swindon Town,-0.023799999999999988,0.1429,0.1667
-2022-12-11 03:40:31.407829,League One - England - League One 2022/23 - Top 6 Finish,Bolton Wanderers,-0.023800000000000043,0.5,0.5238
 2022-12-11 03:40:31.407829,League One - England - League One 2022/23 - Top 6 Finish,Derby County,-0.023800000000000043,0.5,0.5238
+2022-12-11 03:40:31.407829,League One - England - League One 2022/23 - Top 6 Finish,Bolton Wanderers,-0.023800000000000043,0.5,0.5238
 2022-12-11 00:40:36.066333,Team Futures - Croatia Team Specials - Croatia Top Team Goalscorer,Lovro Majer,-0.0242,0.0667,0.0909
 2022-12-11 06:41:08.024842,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Denver Nuggets,Under 50.5,-0.026499999999999968,0.5652,0.5917
+2022-12-11 09:40:29.515993,QBE Shootout - 2/3 Balls - Final Round 2 Balls - C. Conners / K.H. Lee v N. Korda / D. McCarthy - Final Round 2 Balls,Corey Conners / K.H. Lee,-0.026800000000000046,0.6875,0.7143
 2022-12-11 04:40:28.637263,National League - England National League 2022/23 - Outright,Wrexham,-0.03179999999999994,0.5238,0.5556
 2022-12-11 06:41:08.062089,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Minnesota Timberwolves,Under 41.5,-0.03479999999999994,0.5652,0.6
 2022-12-11 06:41:08.043141,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Los Angeles Clippers,Under 43.5,-0.03600000000000003,0.4878,0.5238
 2022-12-11 04:40:28.529018,League Two - England - League Two 2022/23 - Top 3 Finish,Stevenage,-0.040999999999999925,0.6923,0.7333
 2022-12-11 03:40:31.393779,League One - England - League One 2022/23 - Outright,Sheffield Wednesday,-0.04099999999999998,0.2667,0.3077
 2022-12-11 03:40:31.398335,League One - England - League One 2022/23 - To Be Relegated,Shrewsbury Town,-0.04120000000000001,0.0588,0.1
+2022-12-11 09:40:29.521870,QBE Shootout - 2/3 Balls - Final Round 2 Balls - M. Homa / K. Kisner v S. Stricker / C. Young - Final Round 2 Balls,Max Homa / Kevin Kisner,-0.044399999999999995,0.5556,0.6
 2022-12-11 03:40:31.402685,League One - England - League One 2022/23 - Top 2 Finish,Plymouth Argyle,-0.047599999999999976,0.2857,0.3333
 2022-12-10 22:40:31.658576,Team Futures - Croatia Team Specials - Croatia Stage of Elimination,Runner-up,-0.048100000000000004,0.1818,0.2299
 2022-12-11 04:40:28.535554,League Two - England - League Two 2022/23 - Top 7 Finish,Swindon Town,-0.04910000000000003,0.3509,0.4
@@ -157,7 +162,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-11 00:40:36.047336,Team Futures - Argentina Team Specials - Argentina Top Team Goalscorer,Julian Alvarez,-0.08410000000000001,0.0588,0.1429
 2022-12-10 22:40:31.639990,Tournament Futures - FIFA World Cup 2022 - Golden Glove Winner,Emiliano Martinez,-0.09230000000000005,0.3077,0.4
 2022-12-10 22:40:31.628989,Tournament Futures - FIFA World Cup 2022 - First Time Winner?,Yes,-0.09409999999999996,0.2,0.2941
-2022-12-10 20:40:31.310422,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,France,-0.10370000000000001,0.2667,0.3704
 2022-12-10 22:40:31.624847,Tournament Futures - FIFA World Cup 2022 - Confederation of The Winner,CONMEBOL (South America),-0.1276,0.3846,0.5122
 2022-12-10 22:40:31.639990,Tournament Futures - FIFA World Cup 2022 - Golden Glove Winner,Dominik Livakovic,-0.13640000000000002,0.3636,0.5
 2022-12-10 22:40:31.509376,A1 - Greece A1 2022/23 - Outright,PAOK BC,-0.14709999999999998,0.0196,0.1667
