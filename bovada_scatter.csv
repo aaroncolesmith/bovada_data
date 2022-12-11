@@ -18,18 +18,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-10 22:40:31.604070,Tournament Futures - FIFA World Cup 2022 - Runner Up,Morocco,0.1151,0.1818,0.0667
 2022-12-10 19:40:29.893570,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,France,0.10370000000000001,0.3704,0.2667
 2022-12-10 22:40:31.633887,Tournament Futures - FIFA World Cup 2022 - Winners Group,Group F,0.10200000000000001,0.2353,0.1333
+2022-12-11 03:40:31.398335,League One - England - League One 2022/23 - To Be Relegated,Milton Keynes Dons,0.09999999999999998,0.6,0.5
 2022-12-11 00:40:36.066333,Team Futures - Croatia Team Specials - Croatia Top Team Goalscorer,Bruno Petkovic,0.0988,0.1111,0.0123
 2022-12-10 22:40:31.619074,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Team,Argentina,0.0953,0.1429,0.0476
 2022-12-10 22:40:31.628989,Tournament Futures - FIFA World Cup 2022 - First Time Winner?,No,0.09150000000000003,0.8667,0.7752
 2022-12-10 22:40:31.613203,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Olivier Giroud,0.09029999999999999,0.1429,0.0526
 2022-12-10 22:40:31.639990,Tournament Futures - FIFA World Cup 2022 - Golden Glove Winner,Hugo Lloris,0.0871,0.1538,0.0667
+2022-12-11 03:40:31.393779,League One - England - League One 2022/23 - Outright,Ipswich Town,0.08079999999999998,0.6364,0.5556
 2022-12-10 22:40:31.608386,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Kylian Mbappe,0.07619999999999999,0.4762,0.4
 2022-12-10 22:40:31.624847,Tournament Futures - FIFA World Cup 2022 - Confederation of The Winner,CAF (Africa),0.06309999999999999,0.0909,0.0278
 2022-12-10 22:40:31.624847,Tournament Futures - FIFA World Cup 2022 - Confederation of The Winner,UEFA (Europe),0.05740000000000001,0.6226,0.5652
+2022-12-11 03:40:31.402685,League One - England - League One 2022/23 - Top 2 Finish,Ipswich Town,0.05709999999999993,0.8571,0.8
 2022-12-10 22:40:31.672435,Team Futures - Morocco Team Specials - Morocco Stage of Elimination,Winners,0.05639999999999999,0.0909,0.0345
 2022-12-10 22:40:31.652364,Team Futures - Argentina Team Specials - Argentina Stage of Elimination,Runner-up,0.05520000000000003,0.4,0.3448
 2022-12-11 02:40:30.773042,Team Futures - Croatia Team Specials - Croatia Total Goals,8+,0.053099999999999925,0.6364,0.5833
 2022-12-10 22:40:31.672435,Team Futures - Morocco Team Specials - Morocco Stage of Elimination,Runner-up,0.052000000000000005,0.1429,0.0909
+2022-12-11 03:40:31.398335,League One - England - League One 2022/23 - To Be Relegated,Cheltenham Town,0.04999999999999999,0.25,0.2
 2022-12-10 17:40:35.861233,Team Futures - England Team Specials - England Stage of Elimination,Winners,0.04830000000000001,0.2222,0.1739
 2022-12-11 02:40:30.773042,Team Futures - Croatia Team Specials - Croatia Total Goals,9+,0.047599999999999976,0.3333,0.2857
 2022-12-10 16:40:29.521378,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Morocco,0.044599999999999994,0.0769,0.0323
@@ -45,52 +49,81 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-11 02:40:30.773042,Team Futures - Croatia Team Specials - Croatia Total Goals,10+,0.025300000000000003,0.1429,0.1176
 2022-12-10 17:40:35.872584,Team Futures - England Team Specials - England Total Goals,15+,0.023799999999999988,0.5,0.4762
 2022-12-10 17:40:35.838927,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Morocco,0.02310000000000001,0.1,0.0769
+2022-12-11 03:40:29.879591,QBE Shootout - 2/3 Balls - Final Round 2 Balls - T. Mullinax / S. Stallings v M. Mcnealy / L. Thompson - Final Round 2 Balls,Trey Mullinax / Scott Stallings,0.022600000000000064,0.6226,0.6
 2022-12-10 17:40:35.872584,Team Futures - England Team Specials - England Total Goals,16+,0.02260000000000001,0.4,0.3774
-2022-12-10 17:40:35.838927,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Croatia,0.022199999999999998,0.1333,0.1111
 2022-12-10 17:40:35.838927,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,England,0.022199999999999998,0.2222,0.2
 2022-12-10 17:40:35.872584,Team Futures - England Team Specials - England Total Goals,18+,0.022199999999999998,0.2222,0.2
+2022-12-10 17:40:35.838927,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Croatia,0.022199999999999998,0.1333,0.1111
+2022-12-11 03:40:29.884462,QBE Shootout - 2/3 Balls - Final Round 2 Balls - C. Conners / K.H. Lee v N. Korda / D. McCarthy - Final Round 2 Balls,Corey Conners / K.H. Lee,0.02200000000000002,0.7143,0.6923
+2022-12-11 03:40:31.398335,League One - England - League One 2022/23 - To Be Relegated,Cambridge United,0.021699999999999997,0.4762,0.4545
 2022-12-10 22:40:31.608386,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Lionel Messi,0.021699999999999997,0.4762,0.4545
 2022-12-10 22:40:31.652364,Team Futures - Argentina Team Specials - Argentina Stage of Elimination,Winners,0.02100000000000002,0.3846,0.3636
 2022-12-11 00:40:36.066333,Team Futures - Croatia Team Specials - Croatia Top Team Goalscorer,Ivan Perisic,0.02049999999999999,0.1538,0.1333
+2022-12-11 03:40:31.407829,League One - England - League One 2022/23 - Top 6 Finish,Shrewsbury Town,0.0203,0.0588,0.0385
 2022-12-10 17:40:35.872584,Team Futures - England Team Specials - England Total Goals,14+,0.018100000000000005,0.5833,0.5652
 2022-12-10 17:40:35.872584,Team Futures - England Team Specials - England Total Goals,20+,0.018099999999999998,0.0769,0.0588
+2022-12-11 03:40:29.899233,QBE Shootout - 2/3 Balls - Final Round 2 Balls - T. Hoge / S. Theegala v C. Hoffman / R. Palmer - Final Round 2 Balls,Charley Hoffman / Ryan Palmer,0.017299999999999982,0.4255,0.4082
 2022-12-10 22:40:31.608386,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Antoine Griezmann,0.017099999999999997,0.0294,0.0123
 2022-12-10 22:40:31.658576,Team Futures - Croatia Team Specials - Croatia Stage of Elimination,Semi Final,0.016700000000000048,0.75,0.7333
+2022-12-11 03:40:31.407829,League One - England - League One 2022/23 - Top 6 Finish,Portsmouth,0.01539999999999997,0.6154,0.6
 2022-12-10 22:40:31.666211,Team Futures - France Team Specials - France Stage of Elimination,Semi Final,0.015199999999999991,0.2326,0.2174
-2022-12-10 17:40:35.879445,Team Futures - France Team Specials - France Stage of Elimination,Runner-up,0.015100000000000002,0.1818,0.1667
 2022-12-10 17:40:35.861233,Team Futures - England Team Specials - England Stage of Elimination,Runner-up,0.015100000000000002,0.1818,0.1667
+2022-12-10 17:40:35.879445,Team Futures - France Team Specials - France Stage of Elimination,Runner-up,0.015100000000000002,0.1818,0.1667
 2022-12-10 22:40:30.275421,Alfred Dunhill Championship - 2/3 Balls - Final Round 3 Balls - A. Canizares / N. Norgaard Moller / C. Maas - Final Round 3 Balls,Christian Maas,0.014900000000000024,0.3226,0.3077
 2022-12-10 16:40:29.521378,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,France,0.01469999999999999,0.25,0.2353
 2022-12-10 22:40:31.608386,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Hakim Ziyech,0.014199999999999999,0.0294,0.0152
 2022-12-10 22:40:30.028666,Boxing Lines - Xander Zayas vs Alexis Salazar - To Win the Bout,Alexis Salazar,0.013999999999999999,0.0909,0.0769
+2022-12-11 03:40:31.402685,League One - England - League One 2022/23 - Top 2 Finish,Derby County,0.013999999999999999,0.0909,0.0769
 2022-12-10 22:40:31.480920,Euroleague - Euroleague 2022/23 - Outright,AS Monaco,0.013899999999999996,0.125,0.1111
 2022-12-10 22:40:31.658576,Team Futures - Croatia Team Specials - Croatia Stage of Elimination,Winners,0.013899999999999996,0.125,0.1111
+2022-12-11 03:40:29.814530,Alfred Dunhill Championship - 2/3 Balls - Final Round 3 Balls - D. Whitnell / S. Jamieson / O. Strydom - Final Round 3 Balls,Dale Whitnell,0.013800000000000034,0.3774,0.3636
 2022-12-10 21:40:35.332371,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Argentina,0.013800000000000034,0.3774,0.3636
 2022-12-10 17:40:35.838927,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Argentina,0.013800000000000034,0.3774,0.3636
+2022-12-11 03:40:31.407829,League One - England - League One 2022/23 - Top 6 Finish,Barnsley,0.013799999999999923,0.6364,0.6226
 2022-12-10 22:40:31.644872,Tournament Futures - FIFA World Cup 2022 - Young Player Award Winner,Luka Sucic,0.013,0.0196,0.0066
 2022-12-10 22:40:31.608386,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Olivier Giroud,0.012999999999999998,0.0294,0.0164
+2022-12-11 03:40:31.402685,League One - England - League One 2022/23 - Top 2 Finish,Sheffield Wednesday,0.012700000000000045,0.6491,0.6364
+2022-12-11 03:40:29.808795,Alfred Dunhill Championship - 2/3 Balls - Final Round 3 Balls - A. Otaegui / D. Burmester / O. Bekker - Final Round 3 Balls,Adrian Otaegui,0.012699999999999989,0.3636,0.3509
 2022-12-10 19:40:28.404441,Boxing Lines - Josh Warrington vs Luis Alberto Lopez - To Win the Bout,Luis Alberto Lopez,0.012199999999999989,0.5,0.4878
 2022-12-10 22:40:31.604070,Tournament Futures - FIFA World Cup 2022 - Runner Up,Croatia,0.011899999999999994,0.25,0.2381
 2022-12-10 22:40:31.613203,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Youssef En-Nesyri,0.0116,0.0141,0.0025
-2022-12-10 15:40:27.216060,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Philadelphia Eagles,0.01150000000000001,0.3448,0.3333
+2022-12-11 03:40:31.402685,League One - England - League One 2022/23 - Top 2 Finish,Portsmouth,0.011099999999999999,0.1111,0.1
+2022-12-11 03:40:31.402685,League One - England - League One 2022/23 - Top 2 Finish,Barnsley,0.011099999999999999,0.1111,0.1
+2022-12-11 03:40:31.407829,League One - England - League One 2022/23 - Top 6 Finish,Charlton Athletic,0.010899999999999993,0.1538,0.1429
 2022-12-11 02:40:30.494676,Boxing Lines - Kosei Tanaka vs Yanga Sigqibo - To Win the Bout,Yanga Sigqibo,0.010099999999999998,0.1887,0.1786
+2022-12-11 03:40:31.407829,League One - England - League One 2022/23 - Top 6 Finish,Peterborough United,-0.010099999999999998,0.4444,0.4545
 2022-12-10 21:40:33.854265,Boxing Lines - Michael Conlan vs Karim Guerfi - To Win the Bout,Karim Guerfi,-0.0102,0.0667,0.0769
+2022-12-11 03:40:31.407829,League One - England - League One 2022/23 - Top 6 Finish,Wycombe,-0.010899999999999993,0.1429,0.1538
+2022-12-11 03:40:31.407829,League One - England - League One 2022/23 - Top 6 Finish,Port Vale,-0.010899999999999993,0.1429,0.1538
 2022-12-10 22:40:31.509376,A1 - Greece A1 2022/23 - Outright,Olympiakos,-0.01090000000000002,0.8462,0.8571
+2022-12-11 03:40:31.402685,League One - England - League One 2022/23 - Top 2 Finish,Peterborough United,-0.011199999999999995,0.0476,0.0588
+2022-12-11 03:40:29.899233,QBE Shootout - 2/3 Balls - Final Round 2 Balls - T. Hoge / S. Theegala v C. Hoffman / R. Palmer - Final Round 2 Balls,Tom Hoge / Sahith Theegala,-0.013799999999999923,0.6226,0.6364
 2022-12-10 20:40:31.310422,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Argentina,-0.013800000000000034,0.3636,0.3774
 2022-12-10 17:40:34.942736,Boxing Lines - Ebanie Bridges vs Shannon O'Connell - To Win the Bout,Ebanie Bridges,-0.013900000000000023,0.6364,0.6503
 2022-12-10 21:40:33.870401,Boxing Lines - Xander Zayas vs Alexis Salazar - To Win the Bout,Alexis Salazar,-0.013999999999999999,0.0769,0.0909
 2022-12-10 23:40:33.146546,Boxing Lines - Xander Zayas vs Alexis Salazar - To Win the Bout,Alexis Salazar,-0.013999999999999999,0.0769,0.0909
 2022-12-11 00:40:36.047336,Team Futures - Argentina Team Specials - Argentina Top Team Goalscorer,Angel Di Maria,-0.0156,0.004,0.0196
+2022-12-11 03:40:29.884462,QBE Shootout - 2/3 Balls - Final Round 2 Balls - C. Conners / K.H. Lee v N. Korda / D. McCarthy - Final Round 2 Balls,Nelly Korda / Denny McCarthy,-0.017600000000000005,0.3333,0.3509
+2022-12-11 03:40:31.402685,League One - England - League One 2022/23 - Top 2 Finish,Bolton Wanderers,-0.018099999999999998,0.0588,0.0769
 2022-12-10 22:40:31.480920,Euroleague - Euroleague 2022/23 - Outright,Real Madrid BC,-0.01820000000000002,0.1818,0.2
 2022-12-10 22:40:31.652364,Team Futures - Argentina Team Specials - Argentina Stage of Elimination,Semi Final,-0.018400000000000027,0.2941,0.3125
+2022-12-11 03:40:29.879591,QBE Shootout - 2/3 Balls - Final Round 2 Balls - T. Mullinax / S. Stallings v M. Mcnealy / L. Thompson - Final Round 2 Balls,Maverick McNealy / Lexi Thompson,-0.018900000000000028,0.4255,0.4444
 2022-12-10 18:40:29.331794,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,France,-0.019000000000000017,0.2667,0.2857
 2022-12-11 00:40:35.286884,Boxing Lines - Hironor Miyake vs Peter McGrail - To Win the Bout,Hironor Miyake,-0.01949999999999999,0.0714,0.0909
 2022-12-11 00:40:36.047336,Team Futures - Argentina Team Specials - Argentina Top Team Goalscorer,Lautaro Martinez,-0.019499999999999997,0.0099,0.0294
 2022-12-11 00:40:36.047336,Team Futures - Argentina Team Specials - Argentina Top Team Goalscorer,Alexis Mac Allister,-0.019600000000000003,0.0149,0.0345
+2022-12-11 03:40:31.398335,League One - England - League One 2022/23 - To Be Relegated,Forest Green Rovers,-0.022199999999999998,0.7778,0.8
 2022-12-10 17:40:35.879445,Team Futures - France Team Specials - France Stage of Elimination,Quarter Final,-0.023799999999999988,0.4762,0.5
+2022-12-11 03:40:31.407829,League One - England - League One 2022/23 - Top 6 Finish,Bolton Wanderers,-0.023800000000000043,0.5,0.5238
+2022-12-11 03:40:31.407829,League One - England - League One 2022/23 - Top 6 Finish,Derby County,-0.023800000000000043,0.5,0.5238
 2022-12-11 00:40:36.066333,Team Futures - Croatia Team Specials - Croatia Top Team Goalscorer,Lovro Majer,-0.0242,0.0667,0.0909
+2022-12-11 03:40:31.393779,League One - England - League One 2022/23 - Outright,Sheffield Wednesday,-0.04099999999999998,0.2667,0.3077
+2022-12-11 03:40:31.398335,League One - England - League One 2022/23 - To Be Relegated,Shrewsbury Town,-0.04120000000000001,0.0588,0.1
+2022-12-11 03:40:31.402685,League One - England - League One 2022/23 - Top 2 Finish,Plymouth Argyle,-0.047599999999999976,0.2857,0.3333
 2022-12-10 22:40:31.658576,Team Futures - Croatia Team Specials - Croatia Stage of Elimination,Runner-up,-0.048100000000000004,0.1818,0.2299
+2022-12-11 03:40:31.393779,League One - England - League One 2022/23 - Outright,Plymouth Argyle,-0.052000000000000005,0.0909,0.1429
 2022-12-11 00:40:36.066333,Team Futures - Croatia Team Specials - Croatia Top Team Goalscorer,Andrej Kramaric,-0.05709999999999993,0.8,0.8571
+2022-12-11 03:40:31.398335,League One - England - League One 2022/23 - To Be Relegated,Fleetwood Town,-0.05710000000000001,0.1429,0.2
 2022-12-10 22:40:31.619074,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Team,England,-0.07789999999999997,0.2857,0.3636
 2022-12-10 16:40:29.521378,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Portugal,-0.083,0.0909,0.1739
 2022-12-11 00:40:36.047336,Team Futures - Argentina Team Specials - Argentina Top Team Goalscorer,Julian Alvarez,-0.08410000000000001,0.0588,0.1429
