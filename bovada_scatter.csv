@@ -33,18 +33,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-12 12:40:27.510299,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Patrick Mahomes,0.0502,0.0625,0.0123
 2022-12-12 10:40:34.497938,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Minnesota Timberwolves,Under 41.5,0.05019999999999991,0.6154,0.5652
 2022-12-12 13:40:29.592875,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Washington Commanders,Yes,0.0494,0.6923,0.6429
-2022-12-12 12:40:27.754691,NCAA Football Specials - Odds to win 2023 Heisman Trophy - Proposition,Chandler Morris,0.0491,0.0769,0.0278
 2022-12-12 14:40:29.575673,NCAA Football Specials - Odds to win 2023 Heisman Trophy - Proposition,Chandler Morris,0.0491,0.0769,0.0278
-2022-12-12 16:40:37.286263,NCAA Football Specials - Odds to win 2023 Heisman Trophy - Proposition,Chandler Morris,0.0491,0.0769,0.0278
 2022-12-12 10:40:34.380957,NCAA Football Specials - Odds to win 2023 Heisman Trophy - Proposition,Chandler Morris,0.0491,0.0769,0.0278
+2022-12-12 12:40:27.754691,NCAA Football Specials - Odds to win 2023 Heisman Trophy - Proposition,Chandler Morris,0.0491,0.0769,0.0278
+2022-12-12 16:40:37.286263,NCAA Football Specials - Odds to win 2023 Heisman Trophy - Proposition,Chandler Morris,0.0491,0.0769,0.0278
 2022-12-12 12:40:27.518149,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Passing Yards (Regular Season),Patrick Mahomes,0.04909999999999992,0.8824,0.8333
 2022-12-12 13:40:29.532670,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Cleveland Browns,No,0.04710000000000003,0.9804,0.9333
 2022-12-12 13:40:29.584306,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Tampa Bay Buccaneers,No,0.04580000000000001,0.3125,0.2667
 2022-12-12 07:40:28.554972,AFC South - 2022/2023 AFC South - AFC South Winner,Jacksonville Jaguars,0.042899999999999994,0.1429,0.1
 2022-12-12 15:40:29.286618,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Joe Biden,0.03950000000000001,0.25,0.2105
 2022-12-12 07:40:28.577569,NFC East - 2022/2023 NFC East - NFC East Winner,Philadelphia Eagles,0.038899999999999935,0.8571,0.8182
-2022-12-12 10:40:34.485523,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Los Angeles Lakers,Over 40.5,0.03480000000000005,0.5348,0.5
 2022-12-12 10:40:34.522775,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Sacramento Kings,Under 42.5,0.03480000000000005,0.5348,0.5
+2022-12-12 10:40:34.485523,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Los Angeles Lakers,Over 40.5,0.03480000000000005,0.5348,0.5
 2022-12-12 07:40:28.515615,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Cincinnati Bengals,0.033399999999999985,0.1667,0.1333
 2022-12-12 12:40:27.522263,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Derrick Henry,0.033399999999999985,0.1667,0.1333
 2022-12-12 12:40:27.522263,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Touchdowns (Regular Season),Josh Jacobs,0.033300000000000024,0.2,0.1667
@@ -63,8 +63,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-12 10:40:34.510307,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Philadelphia 76ers,Over 45.5,0.01880000000000004,0.5744,0.5556
 2022-12-12 09:40:28.152675,College Basketball - American Regular Season Conference Winner - AAC Regular Season Winner,Houston,0.018199999999999994,0.8182,0.8
 2022-12-12 13:40:29.567558,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - New England Patriots,No,0.017400000000000082,0.8,0.7826
-2022-12-12 10:40:34.481382,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Los Angeles Clippers,Over 43.5,0.017299999999999982,0.5917,0.5744
 2022-12-12 10:40:34.489671,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Miami Heat,Under 44.5,0.017299999999999982,0.5917,0.5744
+2022-12-12 10:40:34.481382,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Los Angeles Clippers,Over 43.5,0.017299999999999982,0.5917,0.5744
 2022-12-12 10:40:34.473167,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Golden State Warriors,Under 48.5,0.01539999999999997,0.6154,0.6
 2022-12-12 09:40:28.183626,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Illinois,0.015100000000000002,0.1818,0.1667
 2022-12-12 12:40:27.510299,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Geno Smith,0.0145,0.0244,0.0099
@@ -72,46 +72,45 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-12 10:40:33.945256,Boxing Lines - Christian Mbilli vs Vaughn Alexander - To Win the Bout,Vaughn Alexander,0.01440000000000001,0.1053,0.0909
 2022-12-12 10:40:33.936004,Boxing Lines - Mary Spencer vs Femke Hermans - To Win the Bout,Femke Hermans,0.014299999999999993,0.1143,0.1
 2022-12-12 07:40:28.159591,Boxing Lines - Chris Billam-Smith vs Armend Xhoxhaj - To Win the Bout,Chris Billam-Smith,0.014100000000000001,0.9474,0.9333
-2022-12-12 08:40:30.012138,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Philadelphia 76ers,0.013999999999999999,0.0909,0.0769
 2022-12-12 13:40:29.542115,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Green Bay Packers,Yes,0.013999999999999999,0.0909,0.0769
+2022-12-12 08:40:30.012138,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Philadelphia 76ers,0.013999999999999999,0.0909,0.0769
 2022-12-12 09:40:28.146566,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Virginia,0.013300000000000034,0.3704,0.3571
 2022-12-12 10:40:34.447721,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Charlotte Hornets,Under 30.5,0.013299999999999979,0.6429,0.6296
 2022-12-12 07:40:28.548073,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Philadelphia Eagles,0.012299999999999978,0.3571,0.3448
-2022-12-12 07:40:28.570797,AFC North - 2022/2023 AFC North - AFC North Winner,Cincinnati Bengals,0.012199999999999989,0.5,0.4878
 2022-12-12 10:40:34.493803,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Milwuakee Bucks,Under 55.5,0.012199999999999989,0.5122,0.5
+2022-12-12 07:40:28.570797,AFC North - 2022/2023 AFC North - AFC North Winner,Cincinnati Bengals,0.012199999999999989,0.5,0.4878
 2022-12-12 10:40:34.514515,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Phoenix Suns,Over 52.5,0.0116,0.4878,0.4762
 2022-12-12 15:40:29.249448,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Kamala Harris,0.011099999999999999,0.1111,0.1
-2022-12-12 13:40:29.571710,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - New York Giants,No,0.01100000000000001,0.5348,0.5238
 2022-12-12 10:40:34.198892,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Atlanta Falcons,Over 6.5,0.01100000000000001,0.5348,0.5238
 2022-12-12 10:40:34.526887,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - San Antonio Spurs,Over 22.5,0.01100000000000001,0.5348,0.5238
+2022-12-12 13:40:29.571710,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - New York Giants,No,0.01100000000000001,0.5348,0.5238
 2022-12-12 15:40:29.267050,US Presidential Election 2024 - US Presidential Election 2024 - Sex Of Winner - Sex of Winner,Male,0.01090000000000002,0.8571,0.8462
 2022-12-12 11:40:28.976591,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  New England Patriots,Under 8.5,0.010700000000000043,0.6774,0.6667
+2022-12-12 10:40:34.451877,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Chicago Bulls,Under 38.5,0.010699999999999932,0.5455,0.5348
 2022-12-12 10:40:34.455993,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Cleveland Cavaliers,Over 50.5,0.010699999999999932,0.5455,0.5348
 2022-12-12 10:40:34.477269,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Indiana Pacers,Under 35.5,0.010699999999999932,0.5455,0.5348
-2022-12-12 10:40:34.451877,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Chicago Bulls,Under 38.5,0.010699999999999932,0.5455,0.5348
-2022-12-12 10:40:33.977581,Boxing Lines - Chris Billam-Smith vs Armend Xhoxhaj - To Win the Bout,Armend Xhoxhaj,0.010099999999999998,0.1212,0.1111
 2022-12-12 10:40:34.460143,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Dallas Mavericks,Over 45.5,0.010099999999999998,0.5556,0.5455
+2022-12-12 10:40:33.977581,Boxing Lines - Chris Billam-Smith vs Armend Xhoxhaj - To Win the Bout,Armend Xhoxhaj,0.010099999999999998,0.1212,0.1111
 2022-12-12 14:40:28.881684,Boxing Lines - Caroline Dubois vs Sofia Alejandra Rodriguez - To Win the Bout,Sofia Alejandra Rodriguez,-0.0102,0.0667,0.0769
 2022-12-12 10:40:34.473167,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Golden State Warriors,Over 48.5,-0.010599999999999998,0.4545,0.4651
 2022-12-12 13:40:29.571710,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - New York Giants,Yes,-0.010699999999999932,0.5348,0.5455
 2022-12-12 10:40:34.198892,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Atlanta Falcons,Under 6.5,-0.010699999999999932,0.5348,0.5455
 2022-12-12 10:40:34.526887,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - San Antonio Spurs,Under 22.5,-0.010699999999999932,0.5348,0.5455
-2022-12-12 10:40:34.455993,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Cleveland Cavaliers,Under 50.5,-0.01100000000000001,0.5238,0.5348
 2022-12-12 10:40:34.477269,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Indiana Pacers,Over 35.5,-0.01100000000000001,0.5238,0.5348
+2022-12-12 10:40:34.455993,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Cleveland Cavaliers,Under 50.5,-0.01100000000000001,0.5238,0.5348
 2022-12-12 10:40:34.451877,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Chicago Bulls,Over 38.5,-0.01100000000000001,0.5238,0.5348
 2022-12-12 14:40:28.992429,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Mike Pence,-0.011199999999999995,0.0476,0.0588
-2022-12-12 06:40:29.974063,Boxing Lines - Chris Billam-Smith vs Armend Xhoxhaj - To Win the Bout,Armend Xhoxhaj,-0.011400000000000007,0.1176,0.129
-2022-12-12 11:40:28.641841,Boxing Lines - Michel Rivera vs Frank Martin - To Win the Bout,Frank Martin,-0.011499999999999955,0.6552,0.6667
 2022-12-12 10:40:34.193071,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Arizona Cardinals,Under 6.5,-0.011499999999999955,0.6552,0.6667
-2022-12-12 10:40:34.489671,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Miami Heat,Over 44.5,-0.0116,0.4762,0.4878
+2022-12-12 11:40:28.641841,Boxing Lines - Michel Rivera vs Frank Martin - To Win the Bout,Frank Martin,-0.011499999999999955,0.6552,0.6667
 2022-12-12 10:40:34.481382,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Los Angeles Clippers,Under 43.5,-0.0116,0.4762,0.4878
+2022-12-12 10:40:34.489671,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Miami Heat,Over 44.5,-0.0116,0.4762,0.4878
 2022-12-12 10:40:34.460143,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Dallas Mavericks,Under 45.5,-0.011600000000000055,0.5122,0.5238
 2022-12-12 15:40:29.267050,US Presidential Election 2024 - US Presidential Election 2024 - Sex Of Winner - Sex of Winner,Female,-0.011700000000000016,0.2105,0.2222
 2022-12-12 12:40:27.510299,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Interceptions Thrown (Regular Season),Joe Burrow,-0.012100000000000001,0.0123,0.0244
 2022-12-12 10:40:34.469020,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Detroit Pistons,Under 22.5,-0.012199999999999989,0.4878,0.5
 2022-12-12 08:40:29.969318,2022/23 Divisions - 2022-2023 NBA Northwest Division - Division Winner,Denver Nuggets,-0.0131,0.7647,0.7778
-2022-12-12 14:40:28.872221,Boxing Lines - Viddal Riley vs Amine Boucetta - To Win the Bout,Amine Boucetta,-0.013999999999999999,0.0769,0.0909
 2022-12-12 12:40:27.501958,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Robert Saleh,-0.013999999999999999,0.0769,0.0909
+2022-12-12 14:40:28.872221,Boxing Lines - Viddal Riley vs Amine Boucetta - To Win the Bout,Amine Boucetta,-0.013999999999999999,0.0769,0.0909
 2022-12-12 13:40:29.160989,Boxing Lines - Christian Mbilli vs Vaughn Alexander - To Win the Bout,Vaughn Alexander,-0.01440000000000001,0.0909,0.1053
 2022-12-12 08:40:30.012138,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Milwaukee Bucks,-0.01469999999999999,0.2353,0.25
 2022-12-12 08:40:29.964219,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Milwaukee Bucks,-0.015100000000000002,0.8182,0.8333
