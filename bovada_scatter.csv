@@ -7,17 +7,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-12 15:40:29.242811,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.11109999999999998,0.6667,0.5556
 2022-12-12 20:40:35.000107,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),Justin Jefferson,0.09689999999999999,0.3636,0.2667
 2022-12-12 15:40:29.273142,US Presidential Election 2024 - US Presidential Election 2024 -Democratic Vice Presidential Candidate - Democrat VP,Kamala Harris,0.07940000000000003,0.5238,0.4444
-2022-12-12 14:40:28.992429,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Ron DeSantis,0.07940000000000003,0.5238,0.4444
 2022-12-12 20:40:35.000107,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),Austin Ekeler,0.0762,0.1429,0.0667
 2022-12-12 19:40:30.571858,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Comeback Player of the Year Award,Christian McCaffrey,0.07220000000000001,0.1,0.0278
 2022-12-12 20:40:34.957312,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Christian Watson,0.0635,0.2857,0.2222
 2022-12-12 19:40:30.586712,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Rookie of the Year,Aidan Hutchinson,0.05379999999999999,0.1538,0.1
-2022-12-12 23:40:34.933221,NCAA Football Specials - Odds to win 2023 Heisman Trophy - Proposition,Chandler Morris,0.0491,0.0769,0.0278
 2022-12-13 00:40:32.697582,NCAA Football Specials - Odds to win 2023 Heisman Trophy - Proposition,Chandler Morris,0.0491,0.0769,0.0278
-2022-12-12 14:40:29.575673,NCAA Football Specials - Odds to win 2023 Heisman Trophy - Proposition,Chandler Morris,0.0491,0.0769,0.0278
-2022-12-12 18:40:32.049098,NCAA Football Specials - Odds to win 2023 Heisman Trophy - Proposition,Chandler Morris,0.0491,0.0769,0.0278
 2022-12-12 21:40:29.802162,NCAA Football Specials - Odds to win 2023 Heisman Trophy - Proposition,Chandler Morris,0.0491,0.0769,0.0278
 2022-12-12 16:40:37.286263,NCAA Football Specials - Odds to win 2023 Heisman Trophy - Proposition,Chandler Morris,0.0491,0.0769,0.0278
+2022-12-12 18:40:32.049098,NCAA Football Specials - Odds to win 2023 Heisman Trophy - Proposition,Chandler Morris,0.0491,0.0769,0.0278
+2022-12-12 23:40:34.933221,NCAA Football Specials - Odds to win 2023 Heisman Trophy - Proposition,Chandler Morris,0.0491,0.0769,0.0278
 2022-12-12 21:40:29.520229,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Atlanta Falcons,No,0.0464,0.9412,0.8948
 2022-12-12 15:40:29.286618,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Joe Biden,0.03950000000000001,0.25,0.2105
 2022-12-12 23:40:33.692627,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Detroit Pistons,Under 22.5,0.03600000000000003,0.5238,0.4878
@@ -44,24 +42,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-12 22:40:30.996159,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Outright,Renato Paratore,0.010100000000000001,0.0345,0.0244
 2022-12-12 19:40:31.080137,Boxing Lines - Michel Rivera vs Frank Martin - To Win the Bout,Frank Martin,0.010099999999999998,0.6875,0.6774
 2022-12-12 20:40:35.009023,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),Dalvin Cook,-0.010100000000000001,0.0244,0.0345
-2022-12-12 14:40:28.881684,Boxing Lines - Caroline Dubois vs Sofia Alejandra Rodriguez - To Win the Bout,Sofia Alejandra Rodriguez,-0.0102,0.0667,0.0769
 2022-12-12 20:40:34.995610,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),Davante Adams,-0.0102,0.0667,0.0769
 2022-12-12 19:40:31.068918,Boxing Lines - Dan Azeez vs Rocky Fielding - To Win the Bout,Dan Azeez,-0.01089999999999991,0.8182,0.8291
-2022-12-12 14:40:28.992429,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Mike Pence,-0.011199999999999995,0.0476,0.0588
+2022-12-13 02:40:28.837911,Boxing Lines - Steve Robinson vs Nick Campbell - To Win the Bout,Steve Robinson,-0.011099999999999999,0.1,0.1111
 2022-12-12 15:40:29.267050,US Presidential Election 2024 - US Presidential Election 2024 - Sex Of Winner - Sex of Winner,Female,-0.011700000000000016,0.2105,0.2222
 2022-12-12 19:40:30.591316,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Player of the Year,Stefon Diggs,-0.0131,0.0345,0.0476
-2022-12-12 14:40:28.872221,Boxing Lines - Viddal Riley vs Amine Boucetta - To Win the Bout,Amine Boucetta,-0.013999999999999999,0.0769,0.0909
 2022-12-12 20:40:34.991113,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Davante Adams,-0.016699999999999993,0.4,0.4167
 2022-12-12 23:40:34.336054,Boxing Lines - Mary Spencer vs Femke Hermans - To Win the Bout,Femke Hermans,-0.016700000000000007,0.0833,0.1
 2022-12-12 19:40:30.591316,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Player of the Year,Patrick Mahomes,-0.016700000000000007,0.0833,0.1
-2022-12-12 14:40:28.846313,Boxing Lines - Mary Spencer vs Femke Hermans - To Win the Bout,Femke Hermans,-0.017200000000000007,0.0909,0.1081
 2022-12-12 19:40:30.591316,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Player of the Year,Travis Kelce,-0.0203,0.0385,0.0588
 2022-12-12 15:40:29.249448,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Gavin Newsom,-0.02310000000000001,0.0769,0.1
 2022-12-12 20:40:34.957312,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Kenny Pickett,-0.0236,0.0149,0.0385
 2022-12-12 19:40:30.586712,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Rookie of the Year,Tariq Woolen,-0.023799999999999988,0.1429,0.1667
 2022-12-12 20:40:35.009023,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),Saquon Barkley,-0.024299999999999995,0.0526,0.0769
 2022-12-12 20:40:35.000107,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),Travis Kelce,-0.028000000000000004,0.0196,0.0476
-2022-12-12 14:40:28.841101,Boxing Lines - Arslanbek Makhmudov vs Michael Wallisch - To Win the Bout,Michael Wallisch,-0.028399999999999995,0.0625,0.0909
 2022-12-12 15:40:29.227549,Boxing Lines - Michel Rivera vs Frank Martin - To Win the Bout,Frank Martin,-0.02849999999999997,0.6774,0.7059
 2022-12-12 23:40:33.692627,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Detroit Pistons,Over 22.5,-0.028900000000000037,0.5455,0.5744
 2022-12-12 15:40:29.273142,US Presidential Election 2024 - US Presidential Election 2024 -Democratic Vice Presidential Candidate - Democrat VP,Pete Buttigieg,-0.031799999999999995,0.1111,0.1429
@@ -69,18 +63,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-13 00:40:32.240369,Boxing Lines - Michel Rivera vs Frank Martin - To Win the Bout,Michel Rivera,-0.03520000000000001,0.3509,0.3861
 2022-12-12 20:40:35.000107,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),Tyreek Hill,-0.044399999999999995,0.4,0.4444
 2022-12-12 21:40:29.520229,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Atlanta Falcons,Yes,-0.0489,0.125,0.1739
+2022-12-13 01:40:31.518148,NCAA Football Specials - Odds to win 2023 Heisman Trophy - Proposition,Chandler Morris,-0.0491,0.0278,0.0769
+2022-12-12 17:40:36.225964,NCAA Football Specials - Odds to win 2023 Heisman Trophy - Proposition,Chandler Morris,-0.0491,0.0278,0.0769
 2022-12-12 15:40:29.871111,NCAA Football Specials - Odds to win 2023 Heisman Trophy - Proposition,Chandler Morris,-0.0491,0.0278,0.0769
+2022-12-12 23:40:34.933221,NCAA Football Specials - Odds to win 2023 Heisman Trophy - Proposition,Chandler Morris,-0.0491,0.0278,0.0769
 2022-12-12 22:40:31.447159,NCAA Football Specials - Odds to win 2023 Heisman Trophy - Proposition,Chandler Morris,-0.0491,0.0278,0.0769
 2022-12-12 20:40:35.380085,NCAA Football Specials - Odds to win 2023 Heisman Trophy - Proposition,Chandler Morris,-0.0491,0.0278,0.0769
-2022-12-12 17:40:36.225964,NCAA Football Specials - Odds to win 2023 Heisman Trophy - Proposition,Chandler Morris,-0.0491,0.0278,0.0769
-2022-12-13 00:40:32.697582,NCAA Football Specials - Odds to win 2023 Heisman Trophy - Proposition,Chandler Morris,-0.0491,0.0278,0.0769
-2022-12-12 23:40:34.933221,NCAA Football Specials - Odds to win 2023 Heisman Trophy - Proposition,Chandler Morris,-0.0491,0.0278,0.0769
 2022-12-12 20:40:34.995610,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),Stefon Diggs,-0.052300000000000006,0.0588,0.1111
 2022-12-12 20:40:34.995610,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),Tyreek Hill,-0.05300000000000005,0.5122,0.5652
 2022-12-12 15:40:29.286618,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,-0.0567,0.1538,0.2105
 2022-12-12 19:40:30.571858,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Comeback Player of the Year Award,Saquon Barkley,-0.06669999999999998,0.1,0.1667
 2022-12-12 19:40:30.595517,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Patrick Mahomes,-0.08340000000000003,0.3333,0.4167
-2022-12-12 14:40:28.992429,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Donald Trump,-0.0847,0.2857,0.3704
 2022-12-12 20:40:35.000107,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receptions (Regular Season),Stefon Diggs,-0.08989999999999998,0.2,0.2899
 2022-12-12 20:40:35.009023,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Rushing Yards (Regular Season),Nick Chubb,-0.10460000000000001,0.1176,0.2222
 2022-12-12 15:40:29.242811,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Field,-0.11219999999999997,0.4,0.5122
