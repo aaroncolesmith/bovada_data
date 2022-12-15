@@ -1,19 +1,19 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-14 22:40:27.135009,Tournament Futures - FIFA World Cup 2022 - Golden Boot Winner,Lionel Messi,0.1744,0.5744,0.4
 2022-12-14 22:40:27.124159,Tournament Futures - FIFA World Cup 2022 - Runner Up,France,0.13920000000000005,0.5238,0.3846
-2022-12-14 19:40:32.010962,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,France,0.07940000000000003,0.5238,0.4444
 2022-12-14 21:40:32.326946,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Antoine Griezmann,0.0615,0.0909,0.0294
 2022-12-14 21:40:32.326946,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Lionel Messi,0.05709999999999993,0.8571,0.8
 2022-12-15 01:40:30.018539,95th Academy Awards - Best Picture - Best Picture,Everything Everywhere All At Once,0.04999999999999999,0.25,0.2
-2022-12-15 05:40:29.591610,NCAA Football Specials - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Chandler Morris,0.0491,0.0769,0.0278
-2022-12-15 00:40:28.388587,NCAA Football Specials - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Chandler Morris,0.0491,0.0769,0.0278
-2022-12-14 22:40:26.357266,NCAA Football Specials - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Chandler Morris,0.0491,0.0769,0.0278
 2022-12-15 04:40:30.210907,NCAA Football Specials - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Chandler Morris,0.0491,0.0769,0.0278
 2022-12-15 03:40:29.169379,NCAA Football Specials - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Chandler Morris,0.0491,0.0769,0.0278
+2022-12-15 00:40:28.388587,NCAA Football Specials - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Chandler Morris,0.0491,0.0769,0.0278
+2022-12-14 22:40:26.357266,NCAA Football Specials - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Chandler Morris,0.0491,0.0769,0.0278
+2022-12-15 06:40:31.313496,NCAA Football Specials - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Chandler Morris,0.0491,0.0769,0.0278
 2022-12-15 02:40:27.746382,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Texas Tech,0.0448,0.0833,0.0385
 2022-12-14 21:40:32.333386,Tournament Futures - FIFA World Cup 2022 - Golden Glove Winner,Hugo Lloris,0.04040000000000002,0.2222,0.1818
 2022-12-15 01:40:30.001837,95th Academy Awards - Best Actress - Best Actress,Cate Blanchett,0.033299999999999996,0.4878,0.4545
 2022-12-15 01:40:30.527869,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Miami Dolphins,No,0.03270000000000001,0.3226,0.2899
+2022-12-15 07:40:33.240308,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Colorado,0.0286,0.0385,0.0099
 2022-12-15 06:40:31.175941,NFC West - 2022/2023 NFC West - NFC West Winner,San Francisco 49ers,0.028200000000000003,0.9615,0.9333
 2022-12-15 05:40:28.780736,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Miami Heat,0.024399999999999977,0.5122,0.4878
 2022-12-14 21:40:32.333386,Tournament Futures - FIFA World Cup 2022 - Golden Glove Winner,Dominik Livakovic,0.023799999999999988,0.1667,0.1429
@@ -23,19 +23,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-15 05:40:29.727548,PNC Championship - PNC Championship - Outright,Team Langer,0.02020000000000001,0.1111,0.0909
 2022-12-15 05:40:29.748848,Chile Open - Chile Open  - Outright,Felipe Aguilar,0.018099999999999998,0.0769,0.0588
 2022-12-15 01:40:30.473128,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Las Vegas Raiders,Under 7.5,0.017299999999999982,0.5917,0.5744
+2022-12-15 07:40:33.219638,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Virginia Commonwealth,0.015700000000000006,0.1333,0.1176
 2022-12-15 05:40:28.775777,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Los Angeles Clippers,0.015100000000000002,0.1818,0.1667
+2022-12-15 07:40:33.240308,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Stanford,0.014900000000000004,0.0345,0.0196
+2022-12-15 07:40:33.235139,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Colorado State,0.014899999999999997,0.0625,0.0476
 2022-12-14 22:40:27.145623,Tournament Futures - FIFA World Cup 2022 - Young Player Award Winner,Enzo Fernandez,0.014700000000000046,0.7647,0.75
-2022-12-15 02:40:28.528656,PNC Championship - PNC Championship - Outright,Team Langer,0.013999999999999999,0.0909,0.0769
+2022-12-15 07:40:33.235139,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Wyoming,0.013999999999999999,0.0909,0.0769
 2022-12-14 21:40:31.905943,Boxing Lines - Viddal Riley vs Amine Boucetta - To Win the Bout,Amine Boucetta,0.013999999999999999,0.0909,0.0769
+2022-12-15 02:40:28.528656,PNC Championship - PNC Championship - Outright,Team Langer,0.013999999999999999,0.0909,0.0769
 2022-12-14 22:40:27.145623,Tournament Futures - FIFA World Cup 2022 - Young Player Award Winner,Jude Bellingham,0.012899999999999995,0.1667,0.1538
 2022-12-15 06:40:30.562408,Boxing Lines - Harvey Lambert vs Sebastian Wojtan - To Win the Bout,Sebastian Wojtan,0.011899999999999994,0.0833,0.0714
 2022-12-14 22:40:27.130006,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Kylian Mbappe,0.011700000000000016,0.2222,0.2105
 2022-12-14 21:40:32.320299,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Argentina,0.011600000000000055,0.5238,0.5122
 2022-12-14 22:40:26.047267,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Garrett Wilson,0.01150000000000001,0.3448,0.3333
 2022-12-15 05:40:29.748848,Chile Open - Chile Open  - Outright,Benjamin Saiz-Wenz,0.011199999999999995,0.0588,0.0476
+2022-12-15 07:40:33.922588,PNC Championship - PNC Championship - Outright,Team Singh,0.011199999999999995,0.0588,0.0476
+2022-12-15 07:40:33.214387,College Basketball - American Regular Season Conference Winner - AAC Regular Season Winner,Cincinnati,0.011199999999999995,0.0588,0.0476
 2022-12-14 20:40:31.695815,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,France,0.01100000000000001,0.5348,0.5238
-2022-12-15 05:40:29.748848,Chile Open - Chile Open  - Outright,Martin Contini,0.010100000000000001,0.0345,0.0244
 2022-12-15 02:40:28.608603,Pacific Rings Korea Championship - Pacific Rings Korea Championship - Outright,Min Ju Kim,0.010100000000000001,0.0345,0.0244
+2022-12-15 05:40:29.748848,Chile Open - Chile Open  - Outright,Martin Contini,0.010100000000000001,0.0345,0.0244
 2022-12-15 05:40:29.727548,PNC Championship - PNC Championship - Outright,Team Cink,-0.0102,0.0667,0.0769
 2022-12-14 21:40:32.320299,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,France,-0.01100000000000001,0.5238,0.5348
 2022-12-15 06:40:30.781587,AfrAsia Bank Mauritius Open - 2/3 Balls - 1st Round 3 Balls - T. Detry / L. De Jager / T. Bjorn - 1st Round 3 Balls,Louis De Jager,-0.01150000000000001,0.3333,0.3448
@@ -44,10 +50,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-15 05:40:29.727548,PNC Championship - PNC Championship - Outright,Team Thomas,-0.011899999999999994,0.2381,0.25
 2022-12-15 05:40:28.780736,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Atlanta Hawks,-0.012199999999999989,0.5,0.5122
 2022-12-14 22:40:27.159303,Team Futures - Argentina Team Specials - Argentina Total Goals,16+,-0.0131,0.0345,0.0476
+2022-12-15 07:40:33.235139,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,UNLV,-0.013999999999999999,0.0769,0.0909
+2022-12-15 07:40:33.240308,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Arizona State,-0.013999999999999999,0.0769,0.0909
 2022-12-14 22:40:27.130006,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Antoine Griezmann,-0.013999999999999999,0.0769,0.0909
 2022-12-14 21:40:32.326946,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Enzo Fernandez,-0.0145,0.0099,0.0244
 2022-12-14 21:40:32.354746,Team Futures - France Team Specials - France Top Team Goalscorer,Kylian Mbappe,-0.020199999999999996,0.8889,0.9091
-2022-12-14 19:40:32.010962,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Argentina,-0.02169999999999994,0.5238,0.5455
 2022-12-14 22:40:27.124159,Tournament Futures - FIFA World Cup 2022 - Runner Up,Argentina,-0.02169999999999994,0.5238,0.5455
 2022-12-14 20:40:31.695815,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Morocco,-0.022200000000000004,0.0123,0.0345
 2022-12-15 04:40:30.011277,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - New York Giants,Yes,-0.022600000000000064,0.5122,0.5348
@@ -56,14 +63,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-14 22:40:27.159303,Team Futures - Argentina Team Specials - Argentina Total Goals,15+,-0.033399999999999985,0.1333,0.1667
 2022-12-15 01:40:30.527869,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Miami Dolphins,Yes,-0.03420000000000001,0.7436,0.7778
 2022-12-14 22:40:27.172296,Team Futures - France Team Specials - France Total Goals,18+,-0.0397,0.0079,0.0476
-2022-12-14 21:40:31.502787,NCAA Football Specials - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Chandler Morris,-0.0491,0.0278,0.0769
 2022-12-15 01:40:30.744070,NCAA Football Specials - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Chandler Morris,-0.0491,0.0278,0.0769
-2022-12-14 23:40:32.462428,NCAA Football Specials - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Chandler Morris,-0.0491,0.0278,0.0769
-2022-12-15 04:40:30.210907,NCAA Football Specials - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Chandler Morris,-0.0491,0.0278,0.0769
-2022-12-15 05:40:29.591610,NCAA Football Specials - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Chandler Morris,-0.0491,0.0278,0.0769
 2022-12-15 06:40:31.313496,NCAA Football Specials - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Chandler Morris,-0.0491,0.0278,0.0769
+2022-12-15 05:40:29.591610,NCAA Football Specials - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Chandler Morris,-0.0491,0.0278,0.0769
+2022-12-15 04:40:30.210907,NCAA Football Specials - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Chandler Morris,-0.0491,0.0278,0.0769
+2022-12-14 21:40:31.502787,NCAA Football Specials - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Chandler Morris,-0.0491,0.0278,0.0769
+2022-12-14 23:40:32.462428,NCAA Football Specials - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Chandler Morris,-0.0491,0.0278,0.0769
 2022-12-15 06:40:31.175941,NFC West - 2022/2023 NFC West - NFC West Winner,Seattle Seahawks,-0.0509,0.0667,0.1176
-2022-12-14 19:40:32.010962,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,Morocco,-0.05639999999999999,0.0345,0.0909
 2022-12-14 22:40:27.159303,Team Futures - Argentina Team Specials - Argentina Total Goals,14+,-0.06190000000000001,0.3636,0.4255
 2022-12-14 21:40:32.326946,Tournament Futures - FIFA World Cup 2022 - Golden Ball Winner,Kylian Mbappe,-0.07520000000000002,0.2105,0.2857
 2022-12-14 22:40:27.172296,Team Futures - France Team Specials - France Total Goals,17+,-0.0791,0.0385,0.1176
