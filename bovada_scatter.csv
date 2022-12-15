@@ -14,15 +14,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-15 12:40:27.298469,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Team,France,0.05910000000000004,0.7143,0.6552
 2022-12-15 07:40:33.224706,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Texas,0.05449999999999999,0.4545,0.4
 2022-12-15 13:40:35.462529,Number 1 Seed - 2022/23 NBA - Western Conference No. 1 Seed,NO Pelicans,0.04999999999999999,0.25,0.2
+2022-12-15 14:40:29.284377,NCAA Football Specials - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Chandler Morris,0.0491,0.0769,0.0278
 2022-12-15 12:40:27.110465,NCAA Football Specials - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Chandler Morris,0.0491,0.0769,0.0278
 2022-12-15 10:40:27.343905,NCAA Football Specials - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Chandler Morris,0.0491,0.0769,0.0278
 2022-12-15 06:40:31.313496,NCAA Football Specials - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Chandler Morris,0.0491,0.0769,0.0278
-2022-12-15 14:40:29.284377,NCAA Football Specials - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Chandler Morris,0.0491,0.0769,0.0278
+2022-12-15 16:41:04.309932,NCAA Football Specials - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Chandler Morris,0.0491,0.0769,0.0278
 2022-12-15 13:40:35.339866,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Brooklyn Nets,Yes,0.04909999999999992,0.8824,0.8333
 2022-12-15 13:40:35.344330,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Charlotte Hornets,No,0.048899999999999944,0.9901,0.9412
 2022-12-15 07:40:33.230002,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Creighton,0.04780000000000001,0.3704,0.3226
-2022-12-15 13:40:35.326965,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Toronto Raptors,0.045499999999999985,0.5455,0.5
 2022-12-15 13:40:35.436663,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Sacramento Kings,Yes,0.045499999999999985,0.5,0.4545
+2022-12-15 13:40:35.326965,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Toronto Raptors,0.045499999999999985,0.5455,0.5
 2022-12-15 13:40:35.414771,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Oklahoma City Thunder,Yes,0.03860000000000001,0.1053,0.0667
 2022-12-15 15:40:31.459352,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Outright,Pierre Pineau,0.036899999999999995,0.0435,0.0066
 2022-12-15 13:40:35.760183,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Shai Gilgeous-Alexander (OKC),0.03639999999999999,0.6364,0.6
@@ -34,25 +35,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-15 06:40:31.175941,NFC West - 2022/2023 NFC West - NFC West Winner,San Francisco 49ers,0.028200000000000003,0.9615,0.9333
 2022-12-15 13:40:35.317790,2022/23 NBA - Regular Season Wins - Regular Season Wins - Most Wins - NBA 2022/23 Regular Season,MIL Bucks,0.02779999999999999,0.25,0.2222
 2022-12-15 15:40:31.459352,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Outright,Jeong Weon Ko,0.0262,0.0385,0.0123
-2022-12-15 05:40:28.780736,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Miami Heat,0.024399999999999977,0.5122,0.4878
 2022-12-15 13:40:35.317790,2022/23 NBA - Regular Season Wins - Regular Season Wins - Most Wins - NBA 2022/23 Regular Season,MEM Grizzlies,0.024,0.0625,0.0385
 2022-12-15 13:40:35.317790,2022/23 NBA - Regular Season Wins - Regular Season Wins - Most Wins - NBA 2022/23 Regular Season,NO Pelicans,0.023200000000000002,0.0476,0.0244
 2022-12-15 13:40:35.462529,Number 1 Seed - 2022/23 NBA - Western Conference No. 1 Seed,PHO Suns,0.022199999999999998,0.2222,0.2
 2022-12-15 16:41:04.555852,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Outright,Sami Valimaki,0.021999999999999964,0.3077,0.2857
 2022-12-15 13:40:35.752807,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.02169999999999994,0.5455,0.5238
 2022-12-15 06:40:30.781587,AfrAsia Bank Mauritius Open - 2/3 Balls - 1st Round 3 Balls - T. Detry / L. De Jager / T. Bjorn - 1st Round 3 Balls,Thomas Detry,0.02169999999999994,0.5455,0.5238
-2022-12-15 05:40:29.727548,PNC Championship - PNC Championship - Outright,Team Langer,0.02020000000000001,0.1111,0.0909
 2022-12-15 07:40:33.219638,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Duquesne,0.019099999999999992,0.0667,0.0476
 2022-12-15 07:40:33.214387,College Basketball - American Regular Season Conference Winner - AAC Regular Season Winner,Houston,0.018199999999999994,0.8182,0.8
-2022-12-15 05:40:29.748848,Chile Open - Chile Open  - Outright,Felipe Aguilar,0.018099999999999998,0.0769,0.0588
 2022-12-15 15:40:31.459352,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Outright,Alfredo Garcia-Heredia,0.017099999999999997,0.0294,0.0123
 2022-12-15 13:40:35.441040,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Toronto Raptors,No,0.016699999999999993,0.2667,0.25
-2022-12-15 13:40:35.765823,NBA Awards - 2022/23 NBA Awards - 2022/23 The Rookie of the Year,Bennedict Mathurin (IND),0.016699999999999993,0.2667,0.25
 2022-12-15 07:40:33.219638,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Dayton,0.016699999999999993,0.2667,0.25
+2022-12-15 13:40:35.765823,NBA Awards - 2022/23 NBA Awards - 2022/23 The Rookie of the Year,Bennedict Mathurin (IND),0.016699999999999993,0.2667,0.25
 2022-12-15 13:40:35.317790,2022/23 NBA - Regular Season Wins - Regular Season Wins - Most Wins - NBA 2022/23 Regular Season,BKN Nets,0.0159,0.0323,0.0164
 2022-12-15 07:40:33.219638,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Virginia Commonwealth,0.015700000000000006,0.1333,0.1176
 2022-12-15 07:40:33.240308,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Arizona,0.015400000000000025,0.4,0.3846
-2022-12-15 05:40:28.775777,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Los Angeles Clippers,0.015100000000000002,0.1818,0.1667
 2022-12-15 07:40:33.240308,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Stanford,0.014900000000000004,0.0345,0.0196
 2022-12-15 13:40:35.317790,2022/23 NBA - Regular Season Wins - Regular Season Wins - Most Wins - NBA 2022/23 Regular Season,DEN Nuggets,0.014899999999999997,0.0625,0.0476
 2022-12-15 07:40:33.235139,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Colorado State,0.014899999999999997,0.0625,0.0476
@@ -63,16 +60,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-15 16:41:04.633587,PNC Championship - PNC Championship - Outright,Team Spieth,0.012899999999999995,0.1667,0.1538
 2022-12-15 06:40:30.562408,Boxing Lines - Harvey Lambert vs Sebastian Wojtan - To Win the Bout,Sebastian Wojtan,0.011899999999999994,0.0833,0.0714
 2022-12-15 15:40:31.459352,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Outright,Alejandro Del Rey,0.0118,0.0217,0.0099
-2022-12-15 13:40:35.489778,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,New Orleans Pelicans,0.011199999999999995,0.0588,0.0476
 2022-12-15 07:40:33.214387,College Basketball - American Regular Season Conference Winner - AAC Regular Season Winner,Cincinnati,0.011199999999999995,0.0588,0.0476
 2022-12-15 07:40:33.922588,PNC Championship - PNC Championship - Outright,Team Singh,0.011199999999999995,0.0588,0.0476
-2022-12-15 05:40:29.748848,Chile Open - Chile Open  - Outright,Benjamin Saiz-Wenz,0.011199999999999995,0.0588,0.0476
+2022-12-15 13:40:35.489778,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,New Orleans Pelicans,0.011199999999999995,0.0588,0.0476
 2022-12-15 09:40:31.365857,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Duquesne,0.0102,0.0769,0.0667
 2022-12-15 09:40:31.417187,PNC Championship - PNC Championship - Outright,Team Cink,0.0102,0.0769,0.0667
-2022-12-15 05:40:29.748848,Chile Open - Chile Open  - Outright,Martin Contini,0.010100000000000001,0.0345,0.0244
-2022-12-15 09:40:31.432095,Chile Open - Chile Open  - Outright,Felipe Aguilar,-0.0102,0.0667,0.0769
-2022-12-15 05:40:29.727548,PNC Championship - PNC Championship - Outright,Team Cink,-0.0102,0.0667,0.0769
 2022-12-15 16:41:04.633587,PNC Championship - PNC Championship - Outright,Team Cink,-0.0102,0.0667,0.0769
+2022-12-15 09:40:31.432095,Chile Open - Chile Open  - Outright,Felipe Aguilar,-0.0102,0.0667,0.0769
 2022-12-15 15:40:31.459352,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Outright,Ian Snyman,-0.0103,0.002,0.0123
 2022-12-15 15:40:31.459352,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Outright,Lucas Bjerregaard,-0.0103,0.002,0.0123
 2022-12-15 15:40:31.459352,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Outright,Alejandro Canizares,-0.0109,0.004,0.0149
@@ -80,20 +74,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-15 13:40:35.366281,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Detroit Pistons,Yes,-0.011199999999999995,0.0476,0.0588
 2022-12-15 15:40:31.459352,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Outright,Jaco Prinsloo,-0.011300000000000001,0.001,0.0123
 2022-12-15 06:40:30.781587,AfrAsia Bank Mauritius Open - 2/3 Balls - 1st Round 3 Balls - T. Detry / L. De Jager / T. Bjorn - 1st Round 3 Balls,Louis De Jager,-0.01150000000000001,0.3333,0.3448
-2022-12-15 15:40:31.459352,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Outright,Richard Sterne,-0.0116,0.0033,0.0149
 2022-12-15 15:40:31.459352,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Outright,Brandon Stone,-0.0116,0.0033,0.0149
+2022-12-15 15:40:31.459352,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Outright,Richard Sterne,-0.0116,0.0033,0.0149
 2022-12-15 13:40:35.740569,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Malcolm Brogdon (BOS),-0.011700000000000016,0.2105,0.2222
 2022-12-15 13:40:34.516715,Boxing Lines - Harvey Lambert vs Sebastian Wojtan - To Win the Bout,Sebastian Wojtan,-0.011899999999999994,0.0714,0.0833
-2022-12-15 05:40:29.727548,PNC Championship - PNC Championship - Outright,Team Thomas,-0.011899999999999994,0.2381,0.25
-2022-12-15 05:40:28.780736,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Atlanta Hawks,-0.012199999999999989,0.5,0.5122
 2022-12-15 09:40:31.417187,PNC Championship - PNC Championship - Outright,Team Spieth,-0.012899999999999995,0.1538,0.1667
 2022-12-15 08:40:30.704778,Team Futures - Morocco Team Specials - Morocco Top Team Goalscorer,Hakim Ziyech,-0.013899999999999996,0.1111,0.125
 2022-12-15 07:40:33.235139,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,UNLV,-0.013999999999999999,0.0769,0.0909
 2022-12-15 07:40:33.240308,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Arizona State,-0.013999999999999999,0.0769,0.0909
 2022-12-15 13:40:35.752807,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Evan Mobley (CLE),-0.013999999999999999,0.0769,0.0909
 2022-12-15 15:40:31.459352,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Outright,Tom McKibbin,-0.014099999999999998,0.0244,0.0385
-2022-12-15 13:40:35.746564,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Taylor Jenkins,-0.014399999999999996,0.0625,0.0769
 2022-12-15 09:40:31.365857,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Richmond,-0.014399999999999996,0.0625,0.0769
+2022-12-15 13:40:35.746564,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Taylor Jenkins,-0.014399999999999996,0.0625,0.0769
 2022-12-15 13:40:35.746564,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,JB Bickerstaff,-0.014399999999999996,0.0625,0.0769
 2022-12-15 13:40:35.752807,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Jaren Jackson Jr. (MEM),-0.01440000000000001,0.0909,0.1053
 2022-12-15 15:40:31.459352,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Outright,Liu Yan Wei,-0.0145,0.0004,0.0149
@@ -121,9 +113,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-15 15:40:31.459352,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Outright,Laurie Canter,-0.024299999999999995,0.0345,0.0588
 2022-12-15 15:40:31.459352,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Outright,Matthieu Pavon,-0.026099999999999998,0.0033,0.0294
 2022-12-15 07:40:33.224706,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Kansas,-0.02739999999999998,0.2667,0.2941
-2022-12-15 13:40:35.746564,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Willie Green,-0.02779999999999999,0.2222,0.25
 2022-12-15 13:40:35.740569,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Jordan Poole (GSW),-0.02779999999999999,0.2222,0.25
 2022-12-15 13:40:35.733015,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Luka Doncic (DAL),-0.02779999999999999,0.2222,0.25
+2022-12-15 13:40:35.746564,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Willie Green,-0.02779999999999999,0.2222,0.25
 2022-12-15 13:40:35.462529,Number 1 Seed - 2022/23 NBA - Western Conference No. 1 Seed,MEM Grizzlies,-0.02779999999999999,0.2222,0.25
 2022-12-15 15:40:31.459352,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Outright,Antoine Rozner,-0.028199999999999996,0.0385,0.0667
 2022-12-15 13:40:35.361929,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Denver Nuggets,No,-0.028799999999999992,0.125,0.1538
@@ -141,8 +133,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-15 13:40:35.339866,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Brooklyn Nets,No,-0.0474,0.1852,0.2326
 2022-12-15 12:40:27.298469,Tournament Futures - FIFA World Cup 2022 - Highest Scoring Team,Argentina,-0.047599999999999976,0.2857,0.3333
 2022-12-15 08:40:30.686249,Team Futures - Croatia Team Specials - Croatia Top Team Goalscorer,Bruno Petkovic,-0.048100000000000004,0.0769,0.125
-2022-12-15 13:40:35.020266,NCAA Football Specials - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Chandler Morris,-0.0491,0.0278,0.0769
 2022-12-15 15:40:30.839981,NCAA Football Specials - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Chandler Morris,-0.0491,0.0278,0.0769
+2022-12-15 16:41:04.309932,NCAA Football Specials - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Chandler Morris,-0.0491,0.0278,0.0769
+2022-12-15 13:40:35.020266,NCAA Football Specials - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Chandler Morris,-0.0491,0.0278,0.0769
 2022-12-15 08:40:30.245318,NCAA Football Specials - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Chandler Morris,-0.0491,0.0278,0.0769
 2022-12-15 11:40:31.839634,NCAA Football Specials - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Chandler Morris,-0.0491,0.0278,0.0769
 2022-12-15 13:40:35.436663,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Sacramento Kings,No,-0.05019999999999991,0.5652,0.6154
