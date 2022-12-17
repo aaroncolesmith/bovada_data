@@ -10,11 +10,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-17 14:40:30.174801,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Baylor,0.055499999999999994,0.3333,0.2778
 2022-12-17 15:40:33.946849,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Toronto Raptors,0.05449999999999999,0.6,0.5455
 2022-12-17 14:40:31.150097,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Sacramento Kings,Yes,0.045499999999999985,0.5455,0.5
-2022-12-17 09:40:30.068578,NFL Fantasy Specials - Week 15 Fantasy Scoring Leaders - Highest Scoring RB (Non-PPR),Derrick Henry,0.044499999999999984,0.2667,0.2222
-2022-12-17 08:40:36.022275,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Atlanta Hawks,0.044399999999999995,0.4444,0.4
 2022-12-17 16:40:29.087266,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Utah Jazz,Yes,0.044399999999999995,0.4444,0.4
-2022-12-17 14:40:30.174801,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Kansas,0.04099999999999998,0.3077,0.2667
 2022-12-17 16:40:29.100167,Number 1 Seed - 2022/23 NBA - Eastern Conference No. 1 Seed,MIL Bucks,0.04099999999999998,0.3077,0.2667
+2022-12-17 14:40:30.174801,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Kansas,0.04099999999999998,0.3077,0.2667
 2022-12-17 15:40:33.965225,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Brooklyn Nets,Yes,0.04070000000000007,0.9231,0.8824
 2022-12-17 16:40:29.105145,Number 1 Seed - 2022/23 NBA - Western Conference No. 1 Seed,MEM Grizzlies,0.03689999999999999,0.3226,0.2857
 2022-12-17 15:40:33.946849,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,New York Knicks,0.03639999999999999,0.6364,0.6
@@ -35,10 +33,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-17 15:40:33.951845,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Portland Trail Blazers,0.021699999999999997,0.4762,0.4545
 2022-12-17 15:40:33.946849,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Washington Wizards,0.020799999999999985,0.3333,0.3125
 2022-12-17 11:40:31.742325,FIFA World Cup Matches - World Cup Final Requested Specials - Requested Specials 2: +501 to +1000,Each Team 2+ Shots on Target in Each Half,0.02049999999999999,0.1538,0.1333
-2022-12-17 16:40:28.855820,NFL Weekly Specials - NFL Week 15 Leaders - Most Rushing Yards - Week 15 (Sunday Only),Kevin Harris,0.0203,0.0588,0.0385
 2022-12-17 15:40:34.042502,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Orlando Magic,Yes,0.0203,0.0526,0.0323
-2022-12-17 11:40:31.735863,FIFA World Cup Matches - World Cup Final Requested Specials - Requested Specials 1: +500 or lower,Each Team 1+ Shots on Target in Each Half,0.01970000000000005,0.5652,0.5455
+2022-12-17 16:40:28.855820,NFL Weekly Specials - NFL Week 15 Leaders - Most Rushing Yards - Week 15 (Sunday Only),Kevin Harris,0.0203,0.0588,0.0385
 2022-12-17 11:40:31.735863,FIFA World Cup Matches - World Cup Final Requested Specials - Requested Specials 1: +500 or lower,Lionel Messi & Kylian Mbappe to combine for 3 or more shots on target,0.01970000000000005,0.5652,0.5455
+2022-12-17 11:40:31.735863,FIFA World Cup Matches - World Cup Final Requested Specials - Requested Specials 1: +500 or lower,Each Team 1+ Shots on Target in Each Half,0.01970000000000005,0.5652,0.5455
 2022-12-17 10:40:33.466491,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Russell Westbrook (LAL),0.019699999999999995,0.4545,0.4348
 2022-12-17 15:40:34.066258,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Toronto Raptors,No,0.019000000000000017,0.2857,0.2667
 2022-12-17 15:40:34.007468,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Los Angeles Clippers,No,0.019000000000000017,0.2857,0.2667
@@ -48,14 +46,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-17 14:40:30.223633,College Basketball - SEC Regular Season Conference Winner - SEC Regular Season Winner,Tennessee,0.016699999999999993,0.2667,0.25
 2022-12-17 11:40:31.735863,FIFA World Cup Matches - World Cup Final Requested Specials - Requested Specials 1: +500 or lower,Each Team to Have 1+ Corners in Each Half & Each Team to Have 1+ Shots On Target in Each Half,0.015400000000000025,0.4,0.3846
 2022-12-17 16:40:29.144104,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Lakers,0.015300000000000001,0.0476,0.0323
-2022-12-17 19:40:26.947583,Euro Cup - Euro Cup 2022/23 - Outright,Joventut,0.015100000000000002,0.1818,0.1667
 2022-12-17 14:40:30.192794,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Illinois,0.015100000000000002,0.1818,0.1667
+2022-12-17 19:40:26.947583,Euro Cup - Euro Cup 2022/23 - Outright,Joventut,0.015100000000000002,0.1818,0.1667
 2022-12-17 15:40:33.937423,2022/23 NBA - Regular Season Wins - Regular Season Wins - Most Wins - NBA 2022/23 Regular Season,CLE Cavaliers,0.014099999999999998,0.0385,0.0244
 2022-12-17 15:40:33.946849,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Orlando Magic,0.014099999999999994,0.0667,0.0526
 2022-12-17 16:40:29.100167,Number 1 Seed - 2022/23 NBA - Eastern Conference No. 1 Seed,CLE Cavaliers,0.014099999999999994,0.0667,0.0526
-2022-12-17 16:40:29.138423,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Cleveland Cavaliers,0.013999999999999999,0.0909,0.0769
-2022-12-17 14:40:30.217462,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Arizona State,0.013999999999999999,0.0909,0.0769
 2022-12-17 14:40:30.180839,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Marquette,0.013999999999999999,0.0909,0.0769
+2022-12-17 14:40:30.217462,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Arizona State,0.013999999999999999,0.0909,0.0769
+2022-12-17 16:40:29.138423,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Cleveland Cavaliers,0.013999999999999999,0.0909,0.0769
 2022-12-17 11:40:31.735863,FIFA World Cup Matches - World Cup Final Requested Specials - Requested Specials 1: +500 or lower,Argentina 2+ Shots On Target in Each Half,0.013800000000000034,0.3774,0.3636
 2022-12-17 14:40:30.223633,College Basketball - SEC Regular Season Conference Winner - SEC Regular Season Winner,Alabama,0.0131,0.2353,0.2222
 2022-12-17 16:40:29.105145,Number 1 Seed - 2022/23 NBA - Western Conference No. 1 Seed,SAC Kings,0.012700000000000003,0.0323,0.0196
@@ -68,21 +66,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-17 14:40:30.174801,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,TCU,0.0102,0.0769,0.0667
 2022-12-17 15:40:33.951845,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Minnesota Timberwolves,-0.010099999999999998,0.4444,0.4545
 2022-12-17 15:40:34.051965,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Phoenix Suns,No,-0.010099999999999998,0.0952,0.1053
-2022-12-17 09:40:30.068578,NFL Fantasy Specials - Week 15 Fantasy Scoring Leaders - Highest Scoring RB (Non-PPR),Aaron Jones,-0.0102,0.0667,0.0769
-2022-12-17 09:40:30.068578,NFL Fantasy Specials - Week 15 Fantasy Scoring Leaders - Highest Scoring RB (Non-PPR),Miles Sanders,-0.0102,0.0667,0.0769
 2022-12-17 19:40:26.939713,Euroleague - Euroleague 2022/23 - Outright,Olympiakos,-0.010899999999999993,0.1429,0.1538
 2022-12-17 16:40:29.166187,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Golden State Warriors,-0.011099999999999999,0.1,0.1111
 2022-12-17 11:40:31.787571,Tournament Futures - FIFA World Cup 2022 - FIFA World Cup 2022 Winner,France,-0.011600000000000055,0.5122,0.5238
 2022-12-17 12:40:35.227053,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Outright,Thomas Detry,-0.0119,0.0004,0.0123
 2022-12-17 12:40:35.227053,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Outright,Jeong Weon Ko,-0.012100000000000001,0.0123,0.0244
+2022-12-17 21:40:30.330000,Boxing Lines - Michel Rivera vs Frank Martin - To Win the Bout,Michel Rivera,-0.012299999999999978,0.3448,0.3571
 2022-12-17 19:40:26.939713,Euroleague - Euroleague 2022/23 - Outright,Fenerbahce,-0.012899999999999995,0.1538,0.1667
 2022-12-17 16:40:29.171267,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Washington Wizards,-0.014899999999999997,0.0476,0.0625
 2022-12-17 14:40:30.942917,PNC Championship - PNC Championship - Outright,Team Spieth,-0.015100000000000002,0.1667,0.1818
 2022-12-17 16:40:29.150796,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Boston Celtics,-0.015699999999999936,0.9524,0.9681
 2022-12-17 14:40:30.217462,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Stanford,-0.016600000000000004,0.0179,0.0345
 2022-12-17 16:40:28.890943,Boxing Lines - Michael McKinson vs Roberto Arriaza - To Win the Bout,Roberto Arriaza,-0.017200000000000007,0.0909,0.1081
-2022-12-17 15:40:34.007468,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Los Angeles Clippers,Yes,-0.017400000000000082,0.7826,0.8
 2022-12-17 15:40:34.066258,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Toronto Raptors,Yes,-0.017400000000000082,0.7826,0.8
+2022-12-17 15:40:34.007468,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Los Angeles Clippers,Yes,-0.017400000000000082,0.7826,0.8
 2022-12-17 12:40:35.227053,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Outright,Ricardo Gouveia,-0.017800000000000003,0.0066,0.0244
 2022-12-17 16:40:29.155933,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Milwaukee Bucks,-0.017900000000000027,0.8571,0.875
 2022-12-17 12:40:35.227053,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Outright,Matthew Southgate,-0.0192,0.0004,0.0196
