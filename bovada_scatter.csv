@@ -1,17 +1,10 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2022-12-19 17:40:30.104314,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Carolina Panthers,Under 6.5,0.22229999999999994,0.6667,0.4444
-2022-12-19 17:40:30.169126,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Tampa Bay Buccaneers,Under 8.5,0.14479999999999993,0.7674,0.6226
-2022-12-19 17:40:30.095866,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Atlanta Falcons,Under 6.5,0.13690000000000002,0.6491,0.5122
-2022-12-19 17:40:30.152224,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  New York Giants,Under 9.5,0.09450000000000003,0.7436,0.6491
-2022-12-19 17:40:30.128896,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Las Vegas Raiders,Under 7.5,0.09079999999999999,0.6825,0.5917
 2022-12-19 19:40:28.526938,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Toronto Raptors,0.06669999999999998,0.6667,0.6
-2022-12-19 17:40:30.173343,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Tennessee Titans,Over 8.5,0.05300000000000005,0.5652,0.5122
 2022-12-19 19:40:28.526938,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Orlando Magic,0.04440000000000001,0.1111,0.0667
 2022-12-19 19:40:28.531638,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Utah Jazz,0.03179999999999994,0.5556,0.5238
 2022-12-19 21:40:33.666965,Serie A - Serie A 2022/23 - Outright,Virtus Bologna,0.029600000000000015,0.4,0.3704
 2022-12-19 19:40:28.531638,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Memphis Grizzlies,0.028799999999999992,0.1538,0.125
 2022-12-19 19:40:28.526938,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Indiana Pacers,0.023800000000000043,0.5238,0.5
-2022-12-19 17:40:30.160689,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Pittsburgh Steelers,Over 7.5,0.023799999999999988,0.5,0.4762
 2022-12-19 20:40:45.283289,Tournament Futures - FIFA World Cup 2026 - Winner,USA,0.0189,0.0385,0.0196
 2022-12-19 21:40:33.652885,LNB Pro A - LNB Pro A 2022/23 - Outright,ASVEL Basket,0.01820000000000002,0.2,0.1818
 2022-12-19 19:40:28.445690,Tata Steel Tour Championship - Tata Steel Tour Championship - Outright,Manu Gandas,0.01759999999999999,0.1176,0.1
@@ -20,24 +13,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-19 21:40:33.775320,Tournament Futures - FIFA World Cup 2026 - Winner,Uruguay,0.012700000000000003,0.0323,0.0196
 2022-12-19 19:40:28.531638,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Portland Trail Blazers,0.0116,0.4878,0.4762
 2022-12-19 19:40:28.526938,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Washington Wizards,0.01150000000000001,0.3448,0.3333
-2022-12-19 17:40:30.139514,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Miami Dolphins,Over 9.5,0.010700000000000043,0.6774,0.6667
-2022-12-19 17:40:30.108538,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Cleveland Browns,Under 7.5,0.010599999999999998,0.4651,0.4545
-2022-12-19 17:40:30.143771,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Minnesota Vikings,Under 12.5,0.010099999999999998,0.4545,0.4444
 2022-12-19 19:40:28.531638,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Phoenix Suns,-0.012899999999999995,0.1538,0.1667
 2022-12-19 21:40:33.775320,Tournament Futures - FIFA World Cup 2026 - Winner,Sweden,-0.013,0.0066,0.0196
 2022-12-19 21:40:33.652885,LNB Pro A - LNB Pro A 2022/23 - Outright,JDA Dijon,-0.015300000000000001,0.0435,0.0588
-2022-12-19 17:40:30.108538,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Cleveland Browns,Over 7.5,-0.01539999999999997,0.6,0.6154
 2022-12-19 22:40:29.540999,Super Ligi - Turkey BSL 2022/23 - Outright,Fenerbahce,-0.015400000000000025,0.3846,0.4
 2022-12-19 21:40:33.666965,Serie A - Serie A 2022/23 - Outright,Olimpia Milano,-0.016100000000000003,0.5917,0.6078
 2022-12-19 21:40:33.775320,Tournament Futures - FIFA World Cup 2026 - Winner,Colombia,-0.017800000000000003,0.0066,0.0244
 2022-12-19 19:40:28.526938,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,New York Knicks,-0.02100000000000002,0.6154,0.6364
-2022-12-19 17:40:30.160689,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Pittsburgh Steelers,Under 7.5,-0.026499999999999968,0.5652,0.5917
 2022-12-19 19:40:28.526938,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Miami Heat,-0.035999999999999976,0.4762,0.5122
 2022-12-19 19:40:28.526938,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Chicago Bulls,-0.04760000000000003,0.4762,0.5238
-2022-12-19 17:40:30.173343,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Tennessee Titans,Under 8.5,-0.05559999999999998,0.5,0.5556
 2022-12-19 19:40:28.531638,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Los Angeles Lakers,-0.07740000000000002,0.3226,0.4
-2022-12-19 17:40:30.128896,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Las Vegas Raiders,Over 7.5,-0.09160000000000001,0.3846,0.4762
-2022-12-19 17:40:30.152224,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  New York Giants,Over 9.5,-0.09410000000000002,0.3226,0.4167
-2022-12-19 17:40:30.095866,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Atlanta Falcons,Over 6.5,-0.13889999999999997,0.4167,0.5556
-2022-12-19 17:40:30.169126,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Tampa Bay Buccaneers,Over 8.5,-0.14590000000000003,0.2985,0.4444
-2022-12-19 17:40:30.104314,Regular Season Wins - NFL 2022/23 Regular Season Win Totals -  Carolina Panthers,Over 6.5,-0.22260000000000002,0.4,0.6226
