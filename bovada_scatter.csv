@@ -1,4 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2022-12-22 14:40:30.861634,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Los Angeles Clippers,Yes,0.06820000000000004,0.8182,0.75
 2022-12-22 06:40:27.582369,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Cleveland Cavaliers,0.0635,0.2857,0.2222
 2022-12-22 09:40:31.598851,League Two - England - League Two 2022/23 - To Be Promoted,Northampton Town,0.0595,0.4762,0.4167
 2022-12-22 07:40:30.499997,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,New Mexico,0.055099999999999996,0.1176,0.0625
@@ -14,7 +15,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-22 09:40:31.617642,League Two - England - League Two 2022/23 - Top 7 Finish,Northampton Town,0.033299999999999996,0.8333,0.8
 2022-12-22 09:40:31.446609,Championship - England Championship 2022/23 - Top 6 Finish,Sheffield United,0.029299999999999993,0.9524,0.9231
 2022-12-22 09:40:31.423639,Championship - England Championship 2022/23 - Top Goalscorer,Viktor Gyokeres,0.028799999999999992,0.1538,0.125
-2022-12-22 02:40:29.662824,AFC South - 2022/2023 AFC South - AFC South Winner,Jacksonville Jaguars,0.026499999999999968,0.5917,0.5652
 2022-12-22 13:40:30.631790,Boxing Lines - Gervonta Davis vs Hector Garcia - To Win the Bout,Hector Garcia,0.024999999999999994,0.125,0.1
 2022-12-22 07:40:30.488157,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Villanova,0.0242,0.0909,0.0667
 2022-12-22 09:40:31.423639,Championship - England Championship 2022/23 - Top Goalscorer,Zian Fleming,0.0236,0.0385,0.0149
@@ -58,9 +58,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-22 09:40:31.446609,Championship - England Championship 2022/23 - Top 6 Finish,Sunderland,-0.012899999999999995,0.1538,0.1667
 2022-12-22 09:40:31.428888,Championship - England Championship 2022/23 - To Be Promoted,Blackburn Rovers,-0.012899999999999995,0.1538,0.1667
 2022-12-22 07:40:31.628070,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Boston Celtics,-0.013300000000000034,0.3571,0.3704
-2022-12-22 05:40:27.365834,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Joe Burrow,-0.013899999999999996,0.1111,0.125
 2022-12-22 09:40:31.617642,League Two - England - League Two 2022/23 - Top 7 Finish,Sutton Utd,-0.013899999999999996,0.1111,0.125
 2022-12-22 09:40:31.617642,League Two - England - League Two 2022/23 - Top 7 Finish,Doncaster Rovers,-0.013899999999999996,0.1111,0.125
+2022-12-22 05:40:27.365834,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Joe Burrow,-0.013899999999999996,0.1111,0.125
 2022-12-22 09:40:31.423639,Championship - England Championship 2022/23 - Top Goalscorer,Ben Brereton Díaz,-0.013999999999999999,0.0769,0.0909
 2022-12-22 09:40:31.598851,League Two - England - League Two 2022/23 - To Be Promoted,Barrow FC,-0.015100000000000002,0.1667,0.1818
 2022-12-22 07:40:30.499997,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,San Diego State,-0.01539999999999997,0.6,0.6154
@@ -70,21 +70,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-22 09:40:31.428888,Championship - England Championship 2022/23 - To Be Promoted,Norwich City,-0.017600000000000005,0.3333,0.3509
 2022-12-22 09:40:31.617642,League Two - England - League Two 2022/23 - Top 7 Finish,AFC Wimbledon,-0.0179,0.125,0.1429
 2022-12-22 09:40:31.433919,Championship - England Championship 2022/23 - To Be Relegated,Coventry City,-0.018099999999999998,0.0588,0.0769
-2022-12-22 06:40:27.600106,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Washington Wizards,-0.018200000000000004,0.0294,0.0476
 2022-12-22 10:40:30.911307,Premiership - Scotland Premiership 2022/23 - To Finish Bottom,St. Johnstone,-0.018200000000000004,0.0294,0.0476
+2022-12-22 06:40:27.600106,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Washington Wizards,-0.018200000000000004,0.0294,0.0476
 2022-12-22 09:40:31.446609,Championship - England Championship 2022/23 - Top 6 Finish,Swansea City,-0.01820000000000002,0.1818,0.2
 2022-12-22 09:40:31.442364,Championship - England Championship 2022/23 - Top 2 Finish,West Bromwich Albion,-0.019099999999999992,0.0476,0.0667
+2022-12-22 10:40:30.902520,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Hibernian,-0.02020000000000001,0.0909,0.1111
 2022-12-22 09:40:31.612225,League Two - England - League Two 2022/23 - Top 3 Finish,Barrow FC,-0.02020000000000001,0.0909,0.1111
 2022-12-22 10:40:30.898356,Premiership - Scotland Premiership 2022/23 - Outright,Rangers,-0.02020000000000001,0.0909,0.1111
 2022-12-22 12:40:28.302674,Boxing Lines - Demetrius Andrade vs Demond Nicholson - To Win the Bout,Demond Nicholson,-0.02020000000000001,0.0909,0.1111
-2022-12-22 10:40:30.902520,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Hibernian,-0.02020000000000001,0.0909,0.1111
 2022-12-22 09:40:31.428888,Championship - England Championship 2022/23 - To Be Promoted,West Bromwich Albion,-0.02049999999999999,0.1333,0.1538
 2022-12-22 09:40:31.446609,Championship - England Championship 2022/23 - Top 6 Finish,West Bromwich Albion,-0.02100000000000002,0.3636,0.3846
 2022-12-22 09:40:31.446609,Championship - England Championship 2022/23 - Top 6 Finish,Watford,-0.02200000000000002,0.6923,0.7143
 2022-12-22 10:40:30.920090,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,St. Johnstone,-0.022199999999999998,0.7778,0.8
 2022-12-22 09:40:31.617642,League Two - England - League Two 2022/23 - Top 7 Finish,Tranmere Rovers,-0.022199999999999998,0.2,0.2222
 2022-12-22 09:40:31.617642,League Two - England - League Two 2022/23 - Top 7 Finish,Crawley Town,-0.023200000000000002,0.0244,0.0476
-2022-12-22 02:40:29.662824,AFC South - 2022/2023 AFC South - AFC South Winner,Tennessee Titans,-0.023799999999999988,0.4762,0.5
 2022-12-22 09:40:31.433919,Championship - England Championship 2022/23 - To Be Relegated,Blackpool,-0.025499999999999967,0.4,0.4255
 2022-12-22 07:40:30.476407,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Saint Louis,-0.031799999999999995,0.4444,0.4762
 2022-12-22 09:40:31.612225,League Two - England - League Two 2022/23 - Top 3 Finish,Carlisle United,-0.03420000000000001,0.0769,0.1111
@@ -97,4 +96,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-22 09:40:31.617642,League Two - England - League Two 2022/23 - Top 7 Finish,Barrow FC,-0.05449999999999999,0.4,0.4545
 2022-12-22 07:40:30.488157,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Connecticut,-0.05520000000000003,0.6,0.6552
 2022-12-22 09:40:31.603740,League Two - England - League Two 2022/23 - To Be Relegated,Hartlepool United,-0.05590000000000006,0.6364,0.6923
+2022-12-22 14:40:30.861634,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Los Angeles Clippers,No,-0.0625,0.25,0.3125
 2022-12-22 06:40:27.582369,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Milwaukee Bucks,-0.06590000000000007,0.7674,0.8333
