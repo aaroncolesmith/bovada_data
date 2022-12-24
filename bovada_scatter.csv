@@ -29,8 +29,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-24 05:40:28.561099,NFL Weekly Specials - NFL Week 16 Touchdown Scorer Parlays - TD Parlays,"Ja'Marr Chase (CIN), Stefon Diggs (BUF), Justin Jefferson (MIN), Travis Kelce (KC), DK Metcalf (SEA) all to Score a TD",0.0168,0.0385,0.0217
 2022-12-24 08:40:29.956754,2022/23 Divisions - 2022-2023 NBA Northwest Division - Division Winner,Utah Jazz,0.016700000000000007,0.1,0.0833
 2022-12-24 08:40:29.974120,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,New Orleans Pelicans,0.016699999999999993,0.4167,0.4
-2022-12-24 07:40:27.152861,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Utah State,0.015100000000000002,0.1818,0.1667
+2022-12-24 15:40:30.534395,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Field,0.016699999999999993,0.4167,0.4
 2022-12-24 07:40:27.119565,College Basketball - American Regular Season Conference Winner - AAC Regular Season Winner,Houston,0.015100000000000002,0.8333,0.8182
+2022-12-24 07:40:27.152861,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Utah State,0.015100000000000002,0.1818,0.1667
 2022-12-24 07:40:27.152861,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Wyoming,0.014899999999999997,0.0625,0.0476
 2022-12-24 08:40:30.214677,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Jarrett Allen (CLE),0.014100000000000001,0.0526,0.0385
 2022-12-24 08:40:29.962125,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Sacramento Kings,0.013899999999999996,0.125,0.1111
@@ -42,8 +43,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-24 08:40:29.939915,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Clippers,-0.010499999999999982,0.2,0.2105
 2022-12-24 08:40:29.800858,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Cleveland Cavaliers,Yes,-0.010599999999999943,0.9565,0.9671
 2022-12-24 07:40:27.130839,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Kansas,-0.010699999999999987,0.3226,0.3333
-2022-12-24 08:40:29.939915,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,-0.010899999999999993,0.1429,0.1538
 2022-12-24 08:40:29.925706,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Milwaukee Bucks,-0.010899999999999993,0.1429,0.1538
+2022-12-24 08:40:29.939915,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,-0.010899999999999993,0.1429,0.1538
 2022-12-24 08:40:29.956754,2022/23 Divisions - 2022-2023 NBA Northwest Division - Division Winner,Minnesota Timberwolves,-0.011199999999999995,0.0476,0.0588
 2022-12-24 08:40:29.890536,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Utah Jazz,No,-0.011499999999999955,0.6552,0.6667
 2022-12-24 08:40:29.933949,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Boston Celtics,-0.012299999999999978,0.3448,0.3571
@@ -54,6 +55,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-24 07:40:27.158771,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Arizona,-0.015400000000000025,0.3846,0.4
 2022-12-24 07:40:27.125196,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,St. Bonaventure,-0.0159,0.0164,0.0323
 2022-12-24 08:40:29.933949,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Milwaukee Bucks,-0.016699999999999993,0.25,0.2667
+2022-12-24 15:40:30.534395,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.01759999999999995,0.6491,0.6667
 2022-12-24 10:40:33.998072,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Shai Gilgeous-Alexander (OKC),-0.01759999999999995,0.6491,0.6667
 2022-12-24 08:40:29.956754,2022/23 Divisions - 2022-2023 NBA Northwest Division - Division Winner,Portland Trail Blazers,-0.0179,0.125,0.1429
 2022-12-24 07:40:27.169709,College Basketball - West Coast Regular Season Conference Winner - West Coast Conference Regular Season Winner,Gonzaga,-0.020199999999999996,0.8889,0.9091
