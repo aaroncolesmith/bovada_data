@@ -1,5 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-24 07:40:27.130839,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Texas,0.12259999999999999,0.3448,0.2222
+2022-12-24 09:40:30.027359,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Player of the Year,Nick Bosa,0.10060000000000002,0.6923,0.5917
 2022-12-24 07:40:27.147460,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Indiana,0.07500000000000001,0.2,0.125
 2022-12-24 05:40:28.540263,NFL Weekly Specials - NFL Week 16 RedZone Specials - Saturday 24th Dec,Justin Jefferson & Ja'Marr Chase 100+ Receiving Yards Each,0.058300000000000005,0.125,0.0667
 2022-12-24 07:40:27.158771,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,UCLA,0.05559999999999998,0.5,0.4444
@@ -15,9 +16,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-24 08:40:29.788709,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Brooklyn Nets,No,0.028999999999999998,0.129,0.1
 2022-12-24 08:40:30.198658,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Kevin Durant (BKN),0.028399999999999995,0.0909,0.0625
 2022-12-24 07:40:27.125196,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Richmond,0.027800000000000005,0.1111,0.0833
+2022-12-24 09:40:30.019472,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Kyle Shanahan,0.0267,0.1176,0.0909
 2022-12-24 08:40:29.967165,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Atlanta Hawks,0.023799999999999988,0.5,0.4762
 2022-12-24 07:40:27.125196,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,George Mason,0.0233,0.0385,0.0152
 2022-12-24 08:40:30.221632,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Tyrese Haliburton (IND),0.022199999999999998,0.2222,0.2
+2022-12-24 09:40:30.019472,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Brian Daboll,0.0203,0.0588,0.0385
 2022-12-24 08:40:29.925706,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Brooklyn Nets,0.02020000000000001,0.1111,0.0909
 2022-12-24 07:40:27.152861,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,UNLV,0.01949999999999999,0.0909,0.0714
 2022-12-24 07:40:27.169709,College Basketball - West Coast Regular Season Conference Winner - West Coast Conference Regular Season Winner,San Francisco,0.0189,0.0385,0.0196
@@ -35,8 +38,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-24 08:40:29.974120,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,San Antonio Spurs,0.011300000000000001,0.0123,0.001
 2022-12-24 08:40:29.974120,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Houston Rockets,0.011300000000000001,0.0123,0.001
 2022-12-24 08:40:29.951741,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Milwaukee Bucks,0.010400000000000076,0.7778,0.7674
-2022-12-24 08:40:29.939915,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Dallas Mavericks,0.0102,0.0769,0.0667
 2022-12-24 02:40:29.589849,FIBA Champions League - FIBA Champions League 2022/23 - Outright,Galatasaray SK,0.0102,0.0769,0.0667
+2022-12-24 08:40:29.939915,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Dallas Mavericks,0.0102,0.0769,0.0667
 2022-12-24 02:40:29.589849,FIBA Champions League - FIBA Champions League 2022/23 - Outright,Darüssafaka Tekfen,-0.010100000000000001,0.0244,0.0345
 2022-12-24 07:40:27.125196,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Duquesne,-0.0102,0.0667,0.0769
 2022-12-24 08:40:29.939915,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Clippers,-0.010499999999999982,0.2,0.2105
@@ -49,6 +52,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-24 08:40:29.933949,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Boston Celtics,-0.012299999999999978,0.3448,0.3571
 2022-12-24 08:40:29.974120,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Dallas Mavericks,-0.012299999999999991,0.1053,0.1176
 2022-12-24 08:40:29.925706,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Phoenix Suns,-0.013999999999999999,0.0769,0.0909
+2022-12-24 09:40:30.019472,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Kevin O'Connell,-0.014099999999999998,0.0244,0.0385
 2022-12-24 08:40:29.946691,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Boston Celtics,-0.015100000000000002,0.8182,0.8333
 2022-12-24 07:40:27.158771,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Arizona,-0.015400000000000025,0.3846,0.4
 2022-12-24 07:40:27.125196,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,St. Bonaventure,-0.0159,0.0164,0.0323
@@ -69,5 +73,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-24 07:40:27.125196,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Saint Louis,-0.04290000000000005,0.3571,0.4
 2022-12-24 07:40:27.158771,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,USC,-0.04329999999999999,0.0476,0.0909
 2022-12-24 08:40:29.878316,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Sacramento Kings,No,-0.045499999999999985,0.4545,0.5
+2022-12-24 09:40:30.019472,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Nick Sirianni,-0.05130000000000001,0.6154,0.6667
+2022-12-24 09:40:30.027359,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Player of the Year,Micah Parsons,-0.05559999999999998,0.4444,0.5
 2022-12-24 07:40:27.130839,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,West Virginia,-0.07239999999999999,0.0526,0.125
 2022-12-24 07:40:27.147460,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Illinois,-0.0729,0.1176,0.1905
+2022-12-24 09:40:30.019472,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Dan Campbell,-0.07789999999999997,0.2857,0.3636
