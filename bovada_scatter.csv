@@ -10,7 +10,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-26 11:40:31.281323,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Doug Pederson,0.098,0.1176,0.0196
 2022-12-26 13:40:29.995022,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - New York Giants,Yes,0.09089999999999998,0.9091,0.8182
 2022-12-26 10:40:28.269898,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Patrick Mahomes,0.08330000000000004,0.8333,0.75
-2022-12-26 07:40:29.108993,NFC South - 2022/2023 NFC South - NFC South Winner,Tampa Bay Buccaneers,0.07929999999999993,0.8571,0.7778
 2022-12-26 09:40:31.190347,Super Lig - Turkey Super League 22/23 - Outright,Galatasaray,0.06519999999999998,0.3509,0.2857
 2022-12-26 15:40:29.587853,College Basketball - Missouri Valley Conference Regular Season Conference Winner - Missouri Valley Regular Season Winner,Drake,0.06270000000000003,0.3704,0.3077
 2022-12-26 08:40:28.038273,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Connecticut,0.062000000000000055,0.6774,0.6154
@@ -21,31 +20,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-26 09:40:31.181798,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Aberdeen,0.04040000000000002,0.2222,0.1818
 2022-12-26 09:40:31.181798,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Motherwell,0.035699999999999954,0.75,0.7143
 2022-12-26 09:40:31.190347,Super Lig - Turkey Super League 22/23 - Outright,Trabzonspor,0.03420000000000001,0.1111,0.0769
-2022-12-26 07:40:29.082596,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Minnesota Vikings,0.034100000000000005,0.125,0.0909
 2022-12-26 11:40:31.350518,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Green Bay Packers,0.028000000000000004,0.0476,0.0196
 2022-12-26 11:40:31.281323,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Nick Sirianni,0.02750000000000008,0.6429,0.6154
 2022-12-26 13:40:29.987123,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - New England Patriots,No,0.023399999999999976,0.9091,0.8857
 2022-12-26 15:40:29.574736,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Rutgers,0.023200000000000002,0.0476,0.0244
-2022-12-26 07:40:29.095999,AFC South - 2022/2023 AFC South - AFC South Winner,Jacksonville Jaguars,0.02200000000000002,0.7143,0.6923
 2022-12-26 11:40:31.350518,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,San Francisco 49ers,0.021999999999999964,0.3077,0.2857
 2022-12-26 15:40:29.574736,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Wisconsin,0.019000000000000003,0.0625,0.0435
 2022-12-26 17:40:33.385215,College Football - 2022-2023 NCAA Championship Winner - FBS National Championship Game Exact Result,Georgia beats Michigan,0.016699999999999993,0.4167,0.4
 2022-12-26 17:40:33.381024,College Football - 2022-2023 NCAA Championship Winner - FBS Finalists - FBS National Championship Game Matchup,Georgia v TCU,0.016000000000000014,0.2222,0.2062
 2022-12-26 14:40:30.324489,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Green Bay Packers,No,0.015800000000000036,0.6825,0.6667
 2022-12-26 17:40:33.385215,College Football - 2022-2023 NCAA Championship Winner - FBS National Championship Game Exact Result,Georgia beats TCU,0.015100000000000002,0.1818,0.1667
-2022-12-26 07:40:29.075633,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Cincinnati Bengals,0.015100000000000002,0.1818,0.1667
 2022-12-26 15:40:29.613615,College Basketball - Southern Conference Regular Season Conference Winner - Southern Conference Regular Season Winner,Mercer,0.014899999999999997,0.0625,0.0476
 2022-12-26 17:40:33.381024,College Football - 2022-2023 NCAA Championship Winner - FBS Finalists - FBS National Championship Game Matchup,Michigan v Ohio State,0.01469999999999999,0.25,0.2353
 2022-12-26 10:40:28.269898,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Joe Burrow,0.013899999999999996,0.125,0.1111
 2022-12-26 16:40:32.682010,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Alabama,0.0131,0.0476,0.0345
-2022-12-26 07:40:29.101979,AFC North - 2022/2023 AFC North - AFC North Winner,Cincinnati Bengals,0.012800000000000034,0.7143,0.7015
 2022-12-26 17:40:33.385215,College Football - 2022-2023 NCAA Championship Winner - FBS National Championship Game Exact Result,Michigan beats Ohio State,0.012299999999999991,0.1176,0.1053
 2022-12-26 15:40:29.567104,College Basketball - Big South Conference Regular Season Conference Winner - Big South Regular Season Winner,NC Asheville,0.011700000000000016,0.2222,0.2105
 2022-12-26 17:40:32.248343,MLB Specials - Will Justin Verlander  Win 2023  Cy Young Award - Proposition,Yes,0.011200000000000015,0.2174,0.2062
 2022-12-26 17:40:32.135613,MLB Specials - Will  Walker Buehler Win 2023  Cy Young Award - Proposition,Yes,0.0102,0.0769,0.0667
 2022-12-26 17:40:33.381024,College Football - 2022-2023 NCAA Championship Winner - FBS Finalists - FBS National Championship Game Matchup,Georgia v Michigan,0.010099999999999998,0.5556,0.5455
-2022-12-26 15:40:29.554508,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Baylor,-0.010099999999999998,0.3125,0.3226
 2022-12-26 15:40:29.554508,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Kansas,-0.010099999999999998,0.3125,0.3226
+2022-12-26 15:40:29.554508,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Baylor,-0.010099999999999998,0.3125,0.3226
 2022-12-26 16:40:32.682010,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Illinois,-0.010100000000000001,0.0244,0.0345
 2022-12-26 17:40:32.248343,MLB Specials - Will Justin Verlander  Win 2023  Cy Young Award - Proposition,No,-0.010199999999999987,0.8519,0.8621
 2022-12-26 16:40:32.682010,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,UCLA,-0.0102,0.0667,0.0769
@@ -71,10 +66,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-26 15:40:29.587853,College Basketball - Missouri Valley Conference Regular Season Conference Winner - Missouri Valley Regular Season Winner,Murray State,-0.023200000000000002,0.0244,0.0476
 2022-12-26 11:40:31.350518,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Minnesota Vikings,-0.024999999999999994,0.1,0.125
 2022-12-26 15:40:29.581464,College Basketball - Conference USA Regular Season Conference Winner - Conference USA Regular Season Winner,UAB,-0.025599999999999956,0.5744,0.6
-2022-12-26 07:40:29.108993,NFC South - 2022/2023 NFC South - NFC South Winner,Carolina Panthers,-0.026100000000000012,0.1739,0.2
 2022-12-26 13:40:29.987123,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - New England Patriots,Yes,-0.027999999999999997,0.1538,0.1818
-2022-12-26 07:40:29.095999,AFC South - 2022/2023 AFC South - AFC South Winner,Tennessee Titans,-0.028299999999999992,0.3226,0.3509
-2022-12-26 07:40:29.101979,AFC North - 2022/2023 AFC North - AFC North Winner,Baltimore Ravens,-0.028299999999999992,0.3226,0.3509
 2022-12-26 16:40:32.682010,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Texas,-0.029299999999999993,0.0476,0.0769
 2022-12-26 15:40:29.581464,College Basketball - Conference USA Regular Season Conference Winner - Conference USA Regular Season Winner,Middle Tenn St,-0.030199999999999998,0.0323,0.0625
 2022-12-26 15:40:29.535472,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Virginia,-0.030299999999999994,0.3333,0.3636
@@ -87,7 +79,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-26 15:40:29.581464,College Basketball - Conference USA Regular Season Conference Winner - Conference USA Regular Season Winner,Western Kentucky,-0.0524,0.0476,0.1
 2022-12-26 15:40:29.574736,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Purdue,-0.05449999999999999,0.4,0.4545
 2022-12-26 11:40:31.297280,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Player of the Year,Patrick Mahomes,-0.0588,0.0588,0.1176
-2022-12-26 07:40:29.108993,NFC South - 2022/2023 NFC South - NFC South Winner,New Orleans Saints,-0.06770000000000001,0.0323,0.1
 2022-12-26 15:40:29.587853,College Basketball - Missouri Valley Conference Regular Season Conference Winner - Missouri Valley Regular Season Winner,Indiana State,-0.0726,0.25,0.3226
 2022-12-26 09:40:31.190347,Super Lig - Turkey Super League 22/23 - Outright,Fenerbahce,-0.09099999999999997,0.4545,0.5455
 2022-12-26 13:40:29.995022,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - New York Giants,No,-0.09620000000000001,0.1538,0.25
