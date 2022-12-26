@@ -12,11 +12,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-26 10:40:28.269898,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Patrick Mahomes,0.08330000000000004,0.8333,0.75
 2022-12-26 09:40:31.190347,Super Lig - Turkey Super League 22/23 - Outright,Galatasaray,0.06519999999999998,0.3509,0.2857
 2022-12-26 15:40:29.587853,College Basketball - Missouri Valley Conference Regular Season Conference Winner - Missouri Valley Regular Season Winner,Drake,0.06270000000000003,0.3704,0.3077
-2022-12-26 08:40:28.038273,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Connecticut,0.062000000000000055,0.6774,0.6154
 2022-12-26 13:40:29.999410,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Pittsburgh Steelers,Yes,0.061500000000000006,0.1,0.0385
 2022-12-26 15:40:29.581464,College Basketball - Conference USA Regular Season Conference Winner - Conference USA Regular Season Winner,Florida Atlantic,0.056400000000000006,0.2564,0.2
 2022-12-26 15:40:29.581464,College Basketball - Conference USA Regular Season Conference Winner - Conference USA Regular Season Winner,North Texas,0.04620000000000002,0.2,0.1538
-2022-12-26 08:40:28.038273,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Xavier,0.042899999999999994,0.1429,0.1
 2022-12-26 09:40:31.181798,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Aberdeen,0.04040000000000002,0.2222,0.1818
 2022-12-26 09:40:31.181798,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Motherwell,0.035699999999999954,0.75,0.7143
 2022-12-26 09:40:31.190347,Super Lig - Turkey Super League 22/23 - Outright,Trabzonspor,0.03420000000000001,0.1111,0.0769
@@ -46,10 +44,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-26 16:40:32.682010,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,UCLA,-0.0102,0.0667,0.0769
 2022-12-26 15:40:29.613615,College Basketball - Southern Conference Regular Season Conference Winner - Southern Conference Regular Season Winner,Samford,-0.010499999999999982,0.2,0.2105
 2022-12-26 15:40:29.560763,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Connecticut,-0.010700000000000043,0.6667,0.6774
-2022-12-26 17:40:32.082538,MLB - Odds to win 2023 World Series - World Series Winner 2023,Houston Astros,-0.010899999999999993,0.1429,0.1538
 2022-12-26 15:40:29.620126,College Basketball - West Coast Regular Season Conference Winner - West Coast Conference Regular Season Winner,Saint Mary's CA,-0.010899999999999993,0.1429,0.1538
+2022-12-26 17:40:32.082538,MLB - Odds to win 2023 World Series - World Series Winner 2023,Houston Astros,-0.010899999999999993,0.1429,0.1538
 2022-12-26 15:40:29.567104,College Basketball - Big South Conference Regular Season Conference Winner - Big South Regular Season Winner,High Point,-0.010899999999999993,0.1429,0.1538
-2022-12-26 08:40:28.038273,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Marquette,-0.011099999999999999,0.1,0.1111
 2022-12-26 15:40:29.581464,College Basketball - Conference USA Regular Season Conference Winner - Conference USA Regular Season Winner,Louisiana Tech,-0.011399999999999997,0.0164,0.0278
 2022-12-26 15:40:29.554508,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Texas,-0.01150000000000001,0.3333,0.3448
 2022-12-26 11:40:31.297280,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Player of the Year,Travis Kelce,-0.012700000000000003,0.0196,0.0323
@@ -82,7 +79,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-26 15:40:29.587853,College Basketball - Missouri Valley Conference Regular Season Conference Winner - Missouri Valley Regular Season Winner,Indiana State,-0.0726,0.25,0.3226
 2022-12-26 09:40:31.190347,Super Lig - Turkey Super League 22/23 - Outright,Fenerbahce,-0.09099999999999997,0.4545,0.5455
 2022-12-26 13:40:29.995022,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - New York Giants,No,-0.09620000000000001,0.1538,0.25
-2022-12-26 08:40:28.038273,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Creighton,-0.09720000000000001,0.125,0.2222
 2022-12-26 11:40:31.297280,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Player of the Year,Tyreek Hill,-0.1049,0.0769,0.1818
 2022-12-26 09:40:31.181798,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,St. Johnstone,-0.11110000000000009,0.6667,0.7778
 2022-12-26 10:40:28.269898,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Jalen Hurts,-0.12719999999999998,0.0833,0.2105
