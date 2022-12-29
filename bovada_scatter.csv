@@ -33,6 +33,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-29 05:40:32.009261,Boxing Lines - Kazuto Ioka vs Joshua Franco - To Win the Bout,Kazuto Ioka,0.014800000000000035,0.6226,0.6078
 2022-12-29 06:40:31.967823,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Washington Wizards,0.014100000000000001,0.0526,0.0385
 2022-12-29 09:40:32.712377,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Monaco,0.013899999999999996,0.125,0.1111
+2022-12-29 15:40:32.564614,Boxing Lines - Kazuto Ioka vs Joshua Franco - To Win the Bout,Kazuto Ioka,0.013399999999999967,0.6212,0.6078
 2022-12-29 07:40:31.885597,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Milwaukee Bucks,0.0131,0.2353,0.2222
 2022-12-29 13:40:35.439330,95th Academy Awards - Best Actor - Best Actor,Austin Butler,0.012899999999999995,0.1667,0.1538
 2022-12-29 09:40:33.110582,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Leeds United,0.011199999999999995,0.0588,0.0476
@@ -45,9 +46,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-29 09:40:33.110582,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Wolverhampton Wanderers,-0.010899999999999993,0.1429,0.1538
 2022-12-29 10:40:31.506355,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Hibernian,-0.010899999999999993,0.1429,0.1538
 2022-12-29 14:43:37.065845,Space Exploration - First Woman To Walk On The Moon - First Woman To Walk On The Moon,Anne McClain,-0.011099999999999999,0.1,0.1111
-2022-12-29 13:40:34.811404,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Philadelphia 76ers,-0.011199999999999995,0.0476,0.0588
-2022-12-29 10:40:31.493665,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,Sporting CP,-0.011199999999999995,0.0476,0.0588
 2022-12-29 13:40:33.911342,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Hillary Clinton,-0.011199999999999995,0.0323,0.0435
+2022-12-29 10:40:31.493665,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,Sporting CP,-0.011199999999999995,0.0476,0.0588
+2022-12-29 13:40:34.811404,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Philadelphia 76ers,-0.011199999999999995,0.0476,0.0588
 2022-12-29 10:40:31.519080,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Aberdeen,-0.012899999999999912,0.8333,0.8462
 2022-12-29 09:40:33.126710,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Leeds United,-0.012899999999999912,0.8333,0.8462
 2022-12-29 10:40:31.519080,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Motherwell,-0.013600000000000001,0.2941,0.3077
@@ -78,15 +79,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-29 14:43:37.065845,Space Exploration - First Woman To Walk On The Moon - First Woman To Walk On The Moon,Stephanie Wilson,-0.023799999999999988,0.1429,0.1667
 2022-12-29 09:40:33.118532,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Brighton & Hove Albion,-0.0242,0.0667,0.0909
 2022-12-29 14:43:36.955297,Celebrity Specials 2023 - To Announce A New Pregnancy In 2023 - To Announce A New Pregnancy In 2023,Beyonce,-0.02560000000000001,0.3077,0.3333
+2022-12-29 09:40:32.716459,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Neymar,-0.02560000000000001,0.3077,0.3333
 2022-12-29 14:43:36.955297,Celebrity Specials 2023 - To Announce A New Pregnancy In 2023 - To Announce A New Pregnancy In 2023,Blake Lively,-0.02560000000000001,0.3077,0.3333
 2022-12-29 10:40:31.506355,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Aberdeen,-0.02560000000000001,0.3077,0.3333
-2022-12-29 09:40:32.716459,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Neymar,-0.02560000000000001,0.3077,0.3333
 2022-12-29 06:40:31.951526,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Milwaukee Bucks,-0.027800000000000047,0.75,0.7778
 2022-12-29 09:40:32.721130,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Reims,-0.027999999999999997,0.1538,0.1818
 2022-12-29 09:40:33.096108,Premier League Futures/Specials - English Premier League 2022/23 - Winner without Man City & Liverpool,Tottenham Hotspur,-0.028199999999999996,0.0385,0.0667
 2022-12-29 13:40:34.323755,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Stefon Diggs,-0.029299999999999993,0.0476,0.0769
 2022-12-29 13:40:34.323755,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),A.J. Brown,-0.029299999999999993,0.0476,0.0769
 2022-12-29 14:43:36.955297,Celebrity Specials 2023 - To Announce A New Pregnancy In 2023 - To Announce A New Pregnancy In 2023,Kim Kardashian,-0.030299999999999994,0.3333,0.3636
+2022-12-29 14:43:36.955297,Celebrity Specials 2023 - To Announce A New Pregnancy In 2023 - To Announce A New Pregnancy In 2023,Rihanna,-0.030299999999999994,0.3333,0.3636
 2022-12-29 13:40:35.439330,95th Academy Awards - Best Actor - Best Actor,Hugh Jackman,-0.033100000000000004,0.0294,0.0625
 2022-12-29 14:43:36.955297,Celebrity Specials 2023 - To Announce A New Pregnancy In 2023 - To Announce A New Pregnancy In 2023,Ivanka Trump,-0.03640000000000004,0.3636,0.4
 2022-12-29 10:40:31.523073,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,St. Mirren,-0.0393,0.5833,0.6226
