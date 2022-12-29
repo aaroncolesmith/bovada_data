@@ -1,10 +1,8 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-28 15:40:30.048385,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Orlando Magic,Over 26.5,0.23189999999999994,0.6667,0.4348
-2022-12-28 13:40:30.897366,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Boston Celtics,Under 59.5,0.10010000000000002,0.5652,0.4651
 2022-12-28 15:40:30.059340,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Phoenix Suns,Under 52.5,0.09229999999999994,0.6667,0.5744
 2022-12-28 20:40:29.591333,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Los Angeles Clippers,0.08750000000000002,0.4,0.3125
 2022-12-28 20:40:29.596425,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Miami Heat,0.07619999999999993,0.6,0.5238
-2022-12-28 13:40:30.893145,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Atlanta Hawks,Under 45.5,0.05689999999999995,0.5917,0.5348
 2022-12-28 14:40:29.609215,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Los Angeles Lakers,Over 34.5,0.05300000000000005,0.5652,0.5122
 2022-12-28 17:40:30.019181,NFC South - 2022/2023 NFC South - NFC South Winner,Carolina Panthers,0.04999999999999999,0.25,0.2
 2022-12-28 15:40:30.073258,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - San Antonio Spurs,Over 23.5,0.04760000000000003,0.5238,0.4762
@@ -12,17 +10,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-28 20:40:29.573570,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Boston Celtics,0.033299999999999996,0.8333,0.8
 2022-12-28 15:40:30.037885,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - New York Knicks,Over 39.5,0.030399999999999983,0.5652,0.5348
 2022-12-28 20:40:29.580927,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Milwaukee Bucks,0.027800000000000047,0.7778,0.75
-2022-12-28 13:40:30.918390,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Dallas Mavericks,Over 45.5,0.023800000000000043,0.5238,0.5
 2022-12-28 23:40:28.394686,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester City,0.02200000000000002,0.7143,0.6923
 2022-12-28 20:40:29.601810,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Dallas Mavericks,0.0179,0.1429,0.125
 2022-12-28 19:40:31.001867,Boxing Lines - Kazuto Ioka vs Joshua Franco - To Win the Bout,Kazuto Ioka,0.014800000000000035,0.6226,0.6078
-2022-12-28 22:40:29.972702,Boxing Lines - Kazuto Ioka vs Joshua Franco - To Win the Bout,Joshua Franco,0.010099999999999998,0.4545,0.4444
 2022-12-28 18:40:29.444678,Boxing Lines - Kazuto Ioka vs Joshua Franco - To Win the Bout,Joshua Franco,0.010099999999999998,0.4545,0.4444
+2022-12-28 22:40:29.972702,Boxing Lines - Kazuto Ioka vs Joshua Franco - To Win the Bout,Joshua Franco,0.010099999999999998,0.4545,0.4444
 2022-12-28 19:40:31.001867,Boxing Lines - Kazuto Ioka vs Joshua Franco - To Win the Bout,Joshua Franco,-0.010099999999999998,0.4444,0.4545
 2022-12-28 18:40:29.444678,Boxing Lines - Kazuto Ioka vs Joshua Franco - To Win the Bout,Kazuto Ioka,-0.014800000000000035,0.6078,0.6226
 2022-12-28 22:40:29.972702,Boxing Lines - Kazuto Ioka vs Joshua Franco - To Win the Bout,Kazuto Ioka,-0.014800000000000035,0.6078,0.6226
 2022-12-28 20:40:29.601810,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,New Orleans Pelicans,-0.016699999999999993,0.4,0.4167
-2022-12-28 13:40:30.918390,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Dallas Mavericks,Under 45.5,-0.01970000000000005,0.5455,0.5652
 2022-12-28 20:40:29.591333,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Golden State Warriors,-0.02020000000000001,0.0909,0.1111
 2022-12-28 23:40:28.394686,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Arsenal,-0.021999999999999964,0.2857,0.3077
 2022-12-28 20:40:29.573570,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Brooklyn Nets,-0.022199999999999998,0.2,0.2222
@@ -33,8 +29,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-28 15:40:30.073258,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - San Antonio Spurs,Under 23.5,-0.04620000000000002,0.5455,0.5917
 2022-12-28 20:40:29.591333,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Phoenix Suns,-0.05300000000000005,0.5122,0.5652
 2022-12-28 14:40:29.609215,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Los Angeles Lakers,Under 34.5,-0.05559999999999998,0.5,0.5556
-2022-12-28 13:40:30.893145,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Atlanta Hawks,Over 45.5,-0.05860000000000004,0.4762,0.5348
 2022-12-28 15:40:30.059340,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Phoenix Suns,Over 52.5,-0.08779999999999999,0.4,0.4878
 2022-12-28 20:40:29.596425,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Atlanta Hawks,-0.08900000000000002,0.4348,0.5238
-2022-12-28 13:40:30.897366,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Boston Celtics,Over 59.5,-0.09999999999999998,0.5,0.6
 2022-12-28 15:40:30.048385,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Orlando Magic,Under 26.5,-0.22960000000000003,0.4,0.6296
