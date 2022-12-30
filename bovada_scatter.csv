@@ -1,5 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-30 07:40:30.022834,College Basketball - SEC Regular Season Conference Winner - SEC Regular Season Winner,Alabama,0.11109999999999998,0.3333,0.2222
+2022-12-30 11:40:31.107437,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Jacque Vaughn,0.0857,0.2857,0.2
 2022-12-30 07:40:30.010400,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Utah State,0.08330000000000001,0.25,0.1667
 2022-12-30 07:40:29.977411,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Saint Louis,0.07770000000000005,0.4348,0.3571
 2022-12-30 06:41:31.713360,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Golden State Warriors,0.07579999999999999,0.1667,0.0909
@@ -7,8 +8,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-30 07:40:30.010400,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,New Mexico,0.05559999999999998,0.1667,0.1111
 2022-12-30 07:40:30.022834,College Basketball - SEC Regular Season Conference Winner - SEC Regular Season Winner,Tennessee,0.05109999999999998,0.3636,0.3125
 2022-12-30 07:40:30.036547,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Trayce Jackson-Davis,0.044599999999999994,0.0769,0.0323
+2022-12-30 11:40:31.102061,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Norman Powell (LAC),0.0429,0.0625,0.0196
 2022-12-30 07:40:29.990189,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Xavier,0.042899999999999994,0.1429,0.1
 2022-12-30 07:40:29.997089,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Illinois,0.04269999999999999,0.1538,0.1111
+2022-12-30 11:40:31.118011,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Lauri Markanen,0.04169999999999999,0.1667,0.125
 2022-12-30 07:40:30.022834,College Basketball - SEC Regular Season Conference Winner - SEC Regular Season Winner,Missouri,0.0392,0.0588,0.0196
 2022-12-30 07:40:30.022834,College Basketball - SEC Regular Season Conference Winner - SEC Regular Season Winner,LSU,0.038099999999999995,0.0625,0.0244
 2022-12-30 03:40:30.938519,Boxing Lines - Maira Moneo vs Erica Anabella Farias - To Win the Bout,Erica Anabella Farias,0.036900000000000044,0.7143,0.6774
@@ -22,25 +25,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-30 07:40:30.036547,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Kris Murray,0.024600000000000004,0.0345,0.0099
 2022-12-30 07:40:30.016536,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Utah U,0.024299999999999995,0.0769,0.0526
 2022-12-30 08:40:29.194195,NFL Weekly Specials - NFL Week 17 Leaders - Highest Scoring Game - Week 17 (Sunday Only),LA Rams @ LA Chargers,0.0242,0.0909,0.0667
+2022-12-30 11:40:29.843918,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Sacks (Regular Season),Nick Bosa,0.0242,0.9333,0.9091
 2022-12-30 00:40:29.496831,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Missouri,0.023899999999999998,0.0435,0.0196
 2022-12-30 07:40:30.028930,College Basketball - West Coast Regular Season Conference Winner - West Coast Conference Regular Season Winner,Saint Mary's CA,0.023799999999999988,0.1667,0.1429
 2022-12-30 07:40:29.965594,College Basketball - American Regular Season Conference Winner - AAC Regular Season Winner,Houston,0.023799999999999932,0.8571,0.8333
+2022-12-30 11:40:31.112750,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Giannis Antetokounmpo (MIL),0.02310000000000001,0.1,0.0769
 2022-12-30 07:40:30.036547,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Terrance Shannon,0.022400000000000003,0.0323,0.0099
-2022-12-30 08:40:29.203092,NFL Weekly Specials - NFL Week 17 Leaders - Lowest Scoring Game - Week 17 (Sunday Only),PIT Steelers @ BAL Ravens,0.022199999999999998,0.2222,0.2
 2022-12-30 06:41:31.698419,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Brooklyn Nets,0.022199999999999998,0.2222,0.2
 2022-12-29 23:40:38.872500,Championship - England Championship 2022/23 - To Be Promoted,Middlesbrough,0.022199999999999998,0.1333,0.1111
 2022-12-30 07:40:29.990189,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Connecticut,0.022199999999999998,0.6774,0.6552
+2022-12-30 08:40:29.203092,NFL Weekly Specials - NFL Week 17 Leaders - Lowest Scoring Game - Week 17 (Sunday Only),PIT Steelers @ BAL Ravens,0.022199999999999998,0.2222,0.2
+2022-12-30 11:40:31.112750,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Anthony Davis (LAL),0.022099999999999998,0.0385,0.0164
 2022-12-29 23:40:38.878197,Championship - England Championship 2022/23 - To Be Relegated,Wigan Athletic,0.021699999999999997,0.4762,0.4545
+2022-12-30 11:40:31.102061,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Russell Westbrook (LAL),0.021699999999999997,0.4762,0.4545
 2022-12-30 07:40:30.036547,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Drew Timme,0.0208,0.0833,0.0625
 2022-12-30 04:40:32.115315,LNB Pro A - LNB Pro A 2022/23 - Outright,Boulogne-Levallois,0.02020000000000001,0.1111,0.0909
 2022-12-30 07:40:29.990189,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Marquette,0.02020000000000001,0.1111,0.0909
+2022-12-30 11:40:31.107437,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Mike Brown,0.02020000000000001,0.1111,0.0909
 2022-12-30 07:40:30.036547,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Armando Bacot,0.020000000000000004,0.0323,0.0123
 2022-12-30 06:41:31.718420,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Miami Heat,0.01970000000000005,0.5652,0.5455
 2022-12-30 06:41:30.603645,Boxing Lines - Kazuto Ioka vs Joshua Franco - To Win the Bout,Joshua Franco,0.019699999999999995,0.4545,0.4348
 2022-12-30 07:40:30.010400,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Nevada,0.019099999999999995,0.0435,0.0244
 2022-12-29 23:40:38.996733,League One - England - League One 2022/23 - Outright,Sheffield Wednesday,0.019000000000000017,0.2857,0.2667
 2022-12-29 23:40:38.872500,Championship - England Championship 2022/23 - To Be Promoted,Sheffield United,0.018999999999999906,0.7333,0.7143
+2022-12-30 11:40:29.809623,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Comeback Player of the Year Award,Geno Smith,0.018799999999999983,0.3636,0.3448
 2022-12-30 06:41:31.691786,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Golden State Warriors,0.01820000000000002,0.2,0.1818
+2022-12-30 11:40:31.118011,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Bol Bol (ORL),0.018200000000000004,0.0476,0.0294
 2022-12-30 06:41:30.593083,Boxing Lines - Agustin Ezequiel Quintana vs Juan Javier Carrasco - To Win the Bout,Agustin Ezequiel Quintana,0.017900000000000027,0.875,0.8571
 2022-12-30 07:40:30.036547,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Adam Flagler,0.0179,0.0278,0.0099
 2022-12-30 07:40:30.036547,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Tyrese Hunter,0.017800000000000003,0.0244,0.0066
@@ -48,17 +58,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-30 06:41:31.703401,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Milwaukee Bucks,0.01739999999999997,0.7674,0.75
 2022-12-30 10:40:31.025506,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Luka Doncic (DAL),0.016699999999999993,0.2667,0.25
 2022-12-30 06:41:30.630694,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Chris Eubank Jr,0.01629999999999998,0.7222,0.7059
-2022-12-30 07:40:30.036547,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Jordan Walker,0.0156,0.0196,0.004
 2022-12-30 07:40:30.036547,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Julian Strawther,0.0156,0.0196,0.004
+2022-12-30 07:40:30.036547,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Jordan Walker,0.0156,0.0196,0.004
 2022-12-30 08:40:29.198824,NFL Weekly Specials - NFL Week 17 Leaders - Highest Scoring Team - Week 17 (Sunday Only),DET Lions,0.015100000000000002,0.1818,0.1667
+2022-12-30 11:40:29.822415,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Kenneth Walker III,0.015100000000000002,0.1818,0.1667
 2022-12-30 08:40:29.079202,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Patrick Mahomes,0.015100000000000002,0.8333,0.8182
 2022-12-30 07:40:29.472456,Boxing Lines - Kazuto Ioka vs Joshua Franco - To Win the Bout,Kazuto Ioka,0.014800000000000035,0.6226,0.6078
 2022-12-30 10:40:31.025506,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Anthony Davis (LAL),0.014599999999999998,0.0196,0.005
 2022-12-30 07:40:30.036547,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Hunter Dickinson,0.0145,0.0244,0.0099
 2022-12-30 07:40:30.036547,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Nick Smith,0.0145,0.0244,0.0099
 2022-12-30 07:40:29.997089,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Wisconsin,0.014399999999999996,0.0769,0.0625
-2022-12-30 07:40:30.036547,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Mike Miles,0.012400000000000001,0.0164,0.004
+2022-12-30 11:40:29.809623,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Comeback Player of the Year Award,Saquon Barkley,0.01419999999999999,0.3846,0.3704
+2022-12-30 11:40:31.118011,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Anfernee Simons (POR),0.014100000000000001,0.0526,0.0385
+2022-12-30 11:40:29.838870,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Yards (Regular Season),Justin Jefferson,0.014100000000000001,0.9756,0.9615
+2022-12-30 11:40:29.822415,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Brock Purdy,0.013899999999999996,0.125,0.1111
+2022-12-30 11:40:29.809623,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Comeback Player of the Year Award,Christian McCaffrey,0.013600000000000001,0.3077,0.2941
+2022-12-30 11:40:31.107437,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Willie Green,0.0131,0.2353,0.2222
+2022-12-30 11:40:31.118011,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Desmond Bane (MEM),0.012700000000000003,0.0323,0.0196
 2022-12-30 07:40:30.036547,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Posh Alexander,0.012400000000000001,0.0164,0.004
+2022-12-30 07:40:30.036547,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Mike Miles,0.012400000000000001,0.0164,0.004
 2022-12-30 07:40:30.036547,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Matt Bradley,0.012400000000000001,0.0164,0.004
 2022-12-30 07:40:30.036547,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Kevin McCullar,0.012400000000000001,0.0164,0.004
 2022-12-30 07:40:30.036547,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Jordan Josiah-James,0.012400000000000001,0.0164,0.004
@@ -66,36 +84,48 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-30 07:40:30.036547,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Baylor Scheierman,0.012400000000000001,0.0164,0.004
 2022-12-30 05:40:29.825880,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Liam Smith,0.012299999999999978,0.3571,0.3448
 2022-12-30 09:40:28.294602,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Liam Smith,0.01150000000000001,0.3448,0.3333
-2022-12-30 04:40:30.790145,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Liam Smith,0.01150000000000001,0.3448,0.3333
 2022-12-30 01:40:29.373960,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Liam Smith,0.01150000000000001,0.3448,0.3333
-2022-12-30 08:40:28.671837,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Chris Eubank Jr,0.011099999999999999,0.7333,0.7222
+2022-12-30 04:40:30.790145,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Liam Smith,0.01150000000000001,0.3448,0.3333
+2022-12-30 11:40:29.834822,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Travis Kelce,0.011499999999999955,0.6667,0.6552
 2022-12-30 00:40:29.402194,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Chris Eubank Jr,0.011099999999999999,0.7333,0.7222
 2022-12-30 03:40:30.976280,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Chris Eubank Jr,0.011099999999999999,0.7333,0.7222
+2022-12-30 08:40:28.671837,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Chris Eubank Jr,0.011099999999999999,0.7333,0.7222
 2022-12-30 07:40:29.965594,College Basketball - American Regular Season Conference Winner - AAC Regular Season Winner,Memphis U,0.010899999999999993,0.1538,0.1429
+2022-12-30 11:40:29.813816,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Defensive Rookie of the Year,Ahmad Gardner,0.010199999999999987,0.9333,0.9231
 2022-12-30 07:40:30.036547,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Matthew Mayer,0.0101,0.0141,0.004
 2022-12-30 07:40:29.472456,Boxing Lines - Kazuto Ioka vs Joshua Franco - To Win the Bout,Joshua Franco,-0.010099999999999998,0.4444,0.4545
-2022-12-30 08:40:29.194195,NFL Weekly Specials - NFL Week 17 Leaders - Highest Scoring Game - Week 17 (Sunday Only),NY Jets @ SEA Seahawks,-0.0102,0.0667,0.0769
 2022-12-30 08:40:29.207658,NFL Weekly Specials - NFL Week 17 Leaders - Lowest Scoring Team - Week 17 (Sunday Only),ARI Cardinals,-0.0102,0.0667,0.0769
-2022-12-30 04:40:30.790145,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Chris Eubank Jr,-0.011099999999999999,0.7222,0.7333
+2022-12-30 11:40:31.107437,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Mike Budenholzer,-0.0102,0.0667,0.0769
+2022-12-30 08:40:29.194195,NFL Weekly Specials - NFL Week 17 Leaders - Highest Scoring Game - Week 17 (Sunday Only),NY Jets @ SEA Seahawks,-0.0102,0.0667,0.0769
+2022-12-30 11:40:31.096111,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Jayson Tatum (BOS),-0.010299999999999976,0.2564,0.2667
+2022-12-30 11:40:31.096111,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Giannis Antetokounmpo (MIL),-0.010499999999999982,0.2,0.2105
 2022-12-30 09:40:28.294602,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Chris Eubank Jr,-0.011099999999999999,0.7222,0.7333
 2022-12-30 01:40:29.373960,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Chris Eubank Jr,-0.011099999999999999,0.7222,0.7333
+2022-12-30 04:40:30.790145,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Chris Eubank Jr,-0.011099999999999999,0.7222,0.7333
 2022-12-30 07:40:29.977411,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Fordham,-0.0114,0.005,0.0164
 2022-12-29 23:40:38.878197,Championship - England Championship 2022/23 - To Be Relegated,Huddersfield Town,-0.011499999999999955,0.6552,0.6667
-2022-12-30 00:40:29.402194,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Liam Smith,-0.01150000000000001,0.3333,0.3448
 2022-12-30 03:40:30.976280,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Liam Smith,-0.01150000000000001,0.3333,0.3448
+2022-12-30 00:40:29.402194,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Liam Smith,-0.01150000000000001,0.3333,0.3448
+2022-12-30 11:40:31.107437,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Joe Mazzulla,-0.01150000000000001,0.3333,0.3448
 2022-12-30 08:40:28.671837,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Liam Smith,-0.01150000000000001,0.3333,0.3448
 2022-12-30 07:40:29.965594,College Basketball - American Regular Season Conference Winner - AAC Regular Season Winner,Wichita State,-0.011699999999999999,0.0079,0.0196
 2022-12-29 23:40:38.878197,Championship - England Championship 2022/23 - To Be Relegated,Bristol City,-0.011700000000000016,0.2105,0.2222
 2022-12-30 06:41:30.630694,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Liam Smith,-0.012299999999999978,0.3448,0.3571
 2022-12-30 07:40:30.022834,College Basketball - SEC Regular Season Conference Winner - SEC Regular Season Winner,Florida,-0.012700000000000003,0.0196,0.0323
 2022-12-30 08:40:29.107622,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - New York Giants,No,-0.012899999999999995,0.1538,0.1667
+2022-12-30 11:40:31.107437,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Will Hardy,-0.013899999999999996,0.1111,0.125
+2022-12-30 11:40:31.122826,NBA Awards - 2022/23 NBA Awards - 2022/23 The Rookie of the Year,Paolo Banchero (ORL),-0.013900000000000023,0.875,0.8889
+2022-12-30 11:40:31.102061,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Bennedict Mathurin (IND),-0.013999999999999999,0.0769,0.0909
 2022-12-29 23:40:38.872500,Championship - England Championship 2022/23 - To Be Promoted,Queens Park Rangers,-0.013999999999999999,0.0769,0.0909
 2022-12-30 07:40:30.016536,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Stanford,-0.014599999999999998,0.005,0.0196
 2022-12-30 06:41:31.703401,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Cleveland Cavaliers,-0.014900000000000024,0.3077,0.3226
 2022-12-30 07:40:30.010400,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Colorado State,-0.015300000000000001,0.0323,0.0476
+2022-12-30 11:40:29.834822,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - Most Receiving Touchdowns (Regular Season),Davante Adams,-0.015400000000000025,0.3846,0.4
 2022-12-30 10:40:31.025506,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Devin Booker (PHX),-0.015499999999999998,0.0123,0.0278
 2022-12-30 05:40:29.825880,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Chris Eubank Jr,-0.01629999999999998,0.7059,0.7222
+2022-12-30 11:40:31.096111,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Luka Doncic (DAL),-0.016699999999999993,0.25,0.2667
 2022-12-30 07:40:29.965594,College Basketball - American Regular Season Conference Winner - AAC Regular Season Winner,Tulane,-0.017100000000000004,0.0152,0.0323
+2022-12-30 11:40:31.102061,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Bobby Portis (MIL),-0.018099999999999998,0.0345,0.0526
 2022-12-30 06:41:31.691786,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Clippers,-0.01820000000000002,0.1818,0.2
 2022-12-30 07:40:29.977411,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,George Mason,-0.0189,0.0196,0.0385
 2022-12-30 07:40:30.028930,College Basketball - West Coast Regular Season Conference Winner - West Coast Conference Regular Season Winner,San Francisco,-0.0189,0.0196,0.0385
@@ -106,16 +136,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-30 07:40:30.036547,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Adama Sanogo,-0.024,0.0385,0.0625
 2022-12-30 08:40:29.094788,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Miami Dolphins,Yes,-0.026000000000000023,0.6923,0.7183
 2022-12-30 07:40:29.977411,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Duquesne,-0.026499999999999996,0.0323,0.0588
+2022-12-30 11:40:31.118011,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Tyrese Haliburton (IND),-0.031399999999999983,0.2353,0.2667
 2022-12-30 06:41:31.718420,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Atlanta Hawks,-0.031799999999999995,0.4444,0.4762
 2022-12-30 08:40:29.087056,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Detroit Lions,No,-0.033299999999999996,0.8,0.8333
 2022-12-30 07:40:30.004291,College Basketball - Conference USA Regular Season Conference Winner - Conference USA Regular Season Winner,North Texas,-0.033300000000000024,0.1667,0.2
+2022-12-30 11:40:31.102061,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Malcolm Brogdon (BOS),-0.033300000000000024,0.1667,0.2
 2022-12-30 03:40:30.938519,Boxing Lines - Maira Moneo vs Erica Anabella Farias - To Win the Bout,Maira Moneo,-0.03370000000000001,0.3509,0.3846
 2022-12-30 02:40:26.016135,Boxing Lines - Maira Moneo vs Erica Anabella Farias - To Win the Bout,Erica Anabella Farias,-0.036900000000000044,0.6774,0.7143
 2022-12-30 07:40:30.010400,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Wyoming,-0.038099999999999995,0.0244,0.0625
 2022-12-30 07:40:29.997089,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Ohio State,-0.0397,0.0714,0.1111
+2022-12-30 11:40:31.107437,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Taylor Jenkins,-0.04169999999999999,0.125,0.1667
 2022-12-30 06:41:31.713360,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Los Angeles Clippers,-0.04290000000000005,0.3571,0.4
-2022-12-30 07:40:30.010400,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Boise State,-0.048600000000000004,0.0625,0.1111
 2022-12-30 07:40:29.977411,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Richmond,-0.048600000000000004,0.0625,0.1111
+2022-12-30 07:40:30.010400,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Boise State,-0.048600000000000004,0.0625,0.1111
+2022-12-30 11:40:31.102061,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Jordan Poole (GSW),-0.04999999999999999,0.2,0.25
 2022-12-30 07:40:29.990189,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Creighton,-0.05679999999999999,0.125,0.1818
 2022-12-30 06:41:31.713360,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Phoenix Suns,-0.057699999999999974,0.4545,0.5122
 2022-12-30 07:40:30.010400,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,UNLV,-0.05859999999999999,0.0323,0.0909
