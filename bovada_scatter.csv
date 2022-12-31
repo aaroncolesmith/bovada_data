@@ -1,15 +1,18 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-31 21:40:27.269991,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Arsenal,0.1587,0.4444,0.2857
+2022-12-31 22:40:31.007820,College Football - 2022-2023 NCAA Championship Winner - NCAA Champion,TCU,0.095,0.1538,0.0588
 2022-12-31 21:40:27.088505,La Liga - Spain La Liga 2022/23 - Winner,Real Madrid,0.07619999999999999,0.4762,0.4
 2022-12-31 12:40:31.010147,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Miami Heat,0.06519999999999992,0.6,0.5348
 2022-12-31 12:40:30.989892,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Brooklyn Nets,0.04999999999999999,0.25,0.2
+2022-12-31 22:40:31.007820,College Football - 2022-2023 NCAA Championship Winner - NCAA Champion,Ohio State,0.044499999999999984,0.2667,0.2222
 2022-12-31 12:40:31.010147,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Washington Wizards,0.04329999999999999,0.0909,0.0476
+2022-12-31 22:40:31.007820,College Football - 2022-2023 NCAA Championship Winner - NCAA Champion,Georgia,0.03610000000000002,0.5917,0.5556
 2022-12-31 12:40:31.168625,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Nikola Jokic (DEN),0.031700000000000006,0.2222,0.1905
 2022-12-31 12:40:31.005029,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Golden State Warriors,0.028799999999999992,0.1538,0.125
 2022-12-31 20:40:31.132469,Transfer Specials - Jude Bellingham - To Sign for in January Transfer Window - Outright,Real Madrid,0.022199999999999998,0.2222,0.2
 2022-12-31 13:40:29.173808,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Chris Eubank Jr,0.01629999999999998,0.7222,0.7059
-2022-12-31 11:40:32.988182,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Liam Smith,0.012299999999999978,0.3571,0.3448
 2022-12-31 14:40:29.346446,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Liam Smith,0.012299999999999978,0.3571,0.3448
+2022-12-31 11:40:32.988182,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Liam Smith,0.012299999999999978,0.3571,0.3448
 2022-12-31 21:40:26.701460,College Football - 2022-2023 NCAA Championship Winner - NCAA Champion,Ohio State,0.011700000000000016,0.2222,0.2105
 2022-12-31 12:40:30.839827,PGA Money List 2022/2023 - PGA Money List 2022/2023 - Outright,Tony Finau,0.011199999999999995,0.0588,0.0476
 2022-12-31 13:40:29.173808,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Liam Smith,-0.012299999999999978,0.3448,0.3571
@@ -28,3 +31,4 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-31 12:40:31.010147,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Atlanta Hawks,-0.06509999999999999,0.4,0.4651
 2022-12-31 21:40:27.088505,La Liga - Spain La Liga 2022/23 - Winner,FC Barcelona,-0.06669999999999998,0.6,0.6667
 2022-12-31 21:40:27.269991,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester City,-0.15870000000000006,0.5556,0.7143
+2022-12-31 22:40:31.007820,College Football - 2022-2023 NCAA Championship Winner - NCAA Champion,Michigan,-0.15910000000000002,0.0909,0.25
