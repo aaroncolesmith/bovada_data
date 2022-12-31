@@ -5,8 +5,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-30 23:40:31.660250,Championship - England Championship 2022/23 - To Be Relegated,Wigan Athletic,0.06929999999999997,0.5455,0.4762
 2022-12-30 23:40:31.654799,Championship - England Championship 2022/23 - To Be Promoted,Middlesbrough,0.06670000000000001,0.2,0.1333
 2022-12-30 22:40:37.105059,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Connecticut,0.0635,0.2857,0.2222
-2022-12-30 22:40:37.105059,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Arizona,0.0595,0.25,0.1905
 2022-12-30 22:40:37.105059,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,UCLA,0.0595,0.25,0.1905
+2022-12-30 22:40:37.105059,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Arizona,0.0595,0.25,0.1905
 2022-12-30 23:40:31.798295,League One - England - League One 2022/23 - Outright,Sheffield Wednesday,0.047599999999999976,0.3333,0.2857
 2022-12-30 22:40:37.105059,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Baylor,0.044800000000000006,0.2353,0.1905
 2022-12-30 22:40:37.105059,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Houston,0.04099999999999998,0.3636,0.3226
@@ -15,22 +15,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-12-30 23:40:31.648807,Championship - England Championship 2022/23 - Top Goalscorer,Carlton Morris,0.0392,0.0588,0.0196
 2022-12-30 23:40:31.660250,Championship - England Championship 2022/23 - To Be Relegated,Cardiff City,0.02779999999999999,0.25,0.2222
 2022-12-30 23:40:31.654799,Championship - England Championship 2022/23 - To Be Promoted,Luton Town,0.02020000000000001,0.1111,0.0909
+2022-12-31 01:40:30.344929,League Two - England - League Two 2022/23 - Outright,Stevenage,0.016699999999999993,0.2667,0.25
 2022-12-30 16:40:28.540387,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Chris Eubank Jr,0.01629999999999998,0.7222,0.7059
+2022-12-31 01:40:28.615628,Boxing Lines - Kazuto Ioka vs Joshua Franco - To Win the Bout,Kazuto Ioka,0.014800000000000035,0.6226,0.6078
 2022-12-30 15:40:36.875088,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Liam Smith,0.012299999999999978,0.3571,0.3448
 2022-12-30 23:40:31.660250,Championship - England Championship 2022/23 - To Be Relegated,Bristol City,0.011700000000000016,0.2222,0.2105
 2022-12-30 14:40:36.680723,Boxing Lines - Agustin Ezequiel Quintana vs Juan Javier Carrasco - To Win the Bout,Juan Javier Carrasco,0.010499999999999982,0.2105,0.2
 2022-12-30 23:40:31.648807,Championship - England Championship 2022/23 - Top Goalscorer,Ross Stewart,0.010100000000000001,0.0345,0.0244
+2022-12-31 01:40:28.615628,Boxing Lines - Kazuto Ioka vs Joshua Franco - To Win the Bout,Joshua Franco,-0.010099999999999998,0.4444,0.4545
 2022-12-30 23:40:31.654799,Championship - England Championship 2022/23 - To Be Promoted,Queens Park Rangers,-0.0102,0.0667,0.0769
 2022-12-30 23:40:31.654799,Championship - England Championship 2022/23 - To Be Promoted,Blackburn Rovers,-0.011099999999999999,0.1,0.1111
 2022-12-30 16:40:28.540387,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Liam Smith,-0.012299999999999978,0.3448,0.3571
 2022-12-30 23:40:31.660250,Championship - England Championship 2022/23 - To Be Relegated,Middlesbrough,-0.013,0.0066,0.0196
 2022-12-31 00:40:31.380920,Boxing Lines - Kazuto Ioka vs Joshua Franco - To Win the Bout,Kazuto Ioka,-0.013399999999999967,0.6078,0.6212
+2022-12-31 01:40:30.344929,League Two - England - League Two 2022/23 - Outright,Leyton Orient,-0.013799999999999923,0.6226,0.6364
 2022-12-30 23:40:31.660250,Championship - England Championship 2022/23 - To Be Relegated,Luton Town,-0.014900000000000004,0.0196,0.0345
 2022-12-30 23:40:31.660250,Championship - England Championship 2022/23 - To Be Relegated,Hull City,-0.015400000000000025,0.3846,0.4
 2022-12-30 15:40:36.875088,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Chris Eubank Jr,-0.01629999999999998,0.7059,0.7222
 2022-12-30 23:40:31.660250,Championship - England Championship 2022/23 - To Be Relegated,Coventry City,-0.018200000000000004,0.0294,0.0476
 2022-12-30 22:40:37.105059,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Alabama,-0.023800000000000016,0.1667,0.1905
 2022-12-30 22:40:37.105059,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Purdue,-0.023800000000000016,0.1667,0.1905
+2022-12-31 01:40:30.344929,League Two - England - League Two 2022/23 - Outright,Northampton Town,-0.0245,0.0588,0.0833
 2022-12-30 23:40:31.654799,Championship - England Championship 2022/23 - To Be Promoted,Norwich City,-0.02679999999999999,0.2857,0.3125
 2022-12-30 23:40:31.660250,Championship - England Championship 2022/23 - To Be Relegated,Sunderland,-0.028000000000000004,0.0196,0.0476
 2022-12-30 23:40:31.654799,Championship - England Championship 2022/23 - To Be Promoted,Preston North End,-0.028199999999999996,0.0385,0.0667
