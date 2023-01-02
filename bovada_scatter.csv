@@ -14,9 +14,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-02 09:40:32.353437,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Leeds United,0.04169999999999996,0.875,0.8333
 2023-01-02 11:40:30.608011,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Trayce Jackson-Davis,0.03439999999999999,0.0667,0.0323
 2023-01-02 09:40:32.323240,Premier League Futures/Specials - English Premier League 2022/23 - Winner without Man City & Liverpool,Manchester United,0.034100000000000005,0.125,0.0909
+2023-01-02 09:40:32.353437,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Aston Villa,0.02859999999999996,0.9901,0.9615
 2023-01-02 10:40:39.280470,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Southampton,0.02859999999999996,0.9901,0.9615
 2023-01-02 09:40:32.353437,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Fulham,0.02859999999999996,0.9901,0.9615
-2023-01-02 09:40:32.353437,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Aston Villa,0.02859999999999996,0.9901,0.9615
 2023-01-02 09:40:32.349483,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Newcastle United,0.027999999999999914,0.8462,0.8182
 2023-01-02 12:40:28.283518,College Basketball - Conference USA Regular Season Conference Winner - Conference USA Regular Season Winner,Florida Atlantic,0.027700000000000002,0.4444,0.4167
 2023-01-02 09:40:32.332451,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Bournemouth,0.025600000000000067,0.6923,0.6667
@@ -45,8 +45,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-02 10:40:39.263746,Premier League Futures/Specials - English Premier League 2022/23 - Not To Finish in Top 4,Brighton & Hove Albion,0.01429999999999998,0.9852,0.9709
 2023-01-02 11:40:30.608011,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Oscar Tshiebwe,0.013999999999999999,0.0909,0.0769
 2023-01-02 09:40:32.323240,Premier League Futures/Specials - English Premier League 2022/23 - Winner without Man City & Liverpool,Newcastle United,0.013999999999999999,0.0909,0.0769
-2023-01-02 11:40:30.608011,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Armando Bacot,0.012700000000000003,0.0323,0.0196
 2023-01-02 11:40:30.608011,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Kris Murray,0.012700000000000003,0.0323,0.0196
+2023-01-02 11:40:30.608011,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Armando Bacot,0.012700000000000003,0.0323,0.0196
 2023-01-02 09:40:32.353437,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Everton,0.011499999999999955,0.6667,0.6552
 2023-01-02 09:40:32.341271,Premier League Futures/Specials - English Premier League 2022/23 - Top 2 Finish,Liverpool,0.010899999999999993,0.1538,0.1429
 2023-01-02 09:40:30.999606,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Lauri Markanen,0.010499999999999982,0.2105,0.2
@@ -63,6 +63,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-02 10:40:39.280470,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Leeds United,-0.013900000000000023,0.875,0.8889
 2023-01-02 09:40:32.323240,Premier League Futures/Specials - English Premier League 2022/23 - Winner without Man City & Liverpool,Chelsea,-0.014099999999999998,0.0244,0.0385
 2023-01-02 19:40:27.915508,Sentry Tournament of Champions - Sentry Tournament of Champions - Outright,Matt Fitzpatrick,-0.014100000000000001,0.0385,0.0526
+2023-01-02 21:40:29.812326,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Liverpool,-0.014499999999999999,0.0149,0.0294
 2023-01-02 09:40:32.323240,Premier League Futures/Specials - English Premier League 2022/23 - Winner without Man City & Liverpool,Brighton & Hove Albion,-0.0145,0.0099,0.0244
 2023-01-02 09:40:30.999606,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Bol Bol (ORL),-0.014900000000000004,0.0196,0.0345
 2023-01-02 11:40:30.608011,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Azoulas Tubelis,-0.015300000000000001,0.0435,0.0588
