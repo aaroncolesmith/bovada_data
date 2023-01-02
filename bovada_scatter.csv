@@ -1,4 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2023-01-02 09:40:32.353437,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Brentford,0.3185,0.9852,0.6667
 2023-01-02 06:40:31.115577,AFC North - 2022/2023 AFC North - AFC North Winner,Cincinnati Bengals,0.19479999999999997,0.9091,0.7143
 2023-01-01 23:40:30.184181,Championship - England Championship 2022/23 - To Be Relegated,Rotherham Utd,0.16669999999999996,0.6667,0.5
 2023-01-01 23:40:30.189445,Championship - England Championship 2022/23 - To Finish Bottom,Rotherham Utd,0.13329999999999997,0.3333,0.2
@@ -7,6 +8,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-02 06:40:31.137957,NFC East - 2022/2023 NFC East - NFC East Winner,Dallas Cowboys,0.0774,0.125,0.0476
 2023-01-02 07:40:31.172242,College Basketball - Missouri Valley Conference Regular Season Conference Winner - Missouri Valley Regular Season Winner,Indiana State,0.06669999999999998,0.2667,0.2
 2023-01-01 22:40:27.181015,National League - England National League 2022/23 - Outright,Wrexham,0.0595,0.5833,0.5238
+2023-01-02 09:40:32.345398,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Liverpool,0.05910000000000004,0.7143,0.6552
 2023-01-02 07:40:31.183155,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Utah U,0.0577,0.1053,0.0476
 2023-01-01 22:40:27.166150,League One - England - League One 2022/23 - Outright,Plymouth Argyle,0.05710000000000001,0.2,0.1429
 2023-01-02 07:40:31.024432,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Patrick Mahomes,0.05559999999999998,0.8889,0.8333
@@ -16,79 +18,120 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-02 04:40:30.065749,2023 Specials - Ronaldo to announce his retirement in 2023 - Proposition,No,0.04810000000000003,0.9231,0.875
 2023-01-02 04:40:30.039097,2023 Specials - Will Rivian declare bankruptcy in 2023 - Proposition,No,0.04619999999999991,0.8462,0.8
 2023-01-02 07:40:31.142998,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Dayton,0.045499999999999985,0.5455,0.5
+2023-01-02 09:40:32.345398,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Manchester United,0.044399999999999995,0.6,0.5556
+2023-01-02 09:40:32.353437,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Leeds United,0.04169999999999996,0.875,0.8333
 2023-01-01 23:40:30.178827,Championship - England Championship 2022/23 - To Be Promoted,Sheffield United,0.04169999999999996,0.875,0.8333
 2023-01-02 07:40:31.172242,College Basketball - Missouri Valley Conference Regular Season Conference Winner - Missouri Valley Regular Season Winner,Bradley,0.03920000000000001,0.3333,0.2941
 2023-01-02 07:40:31.183155,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,UCLA,0.03489999999999999,0.5,0.4651
 2023-01-01 23:40:30.178827,Championship - England Championship 2022/23 - To Be Promoted,Burnley,0.03420000000000001,0.9231,0.8889
+2023-01-02 09:40:32.323240,Premier League Futures/Specials - English Premier League 2022/23 - Winner without Man City & Liverpool,Manchester United,0.034100000000000005,0.125,0.0909
 2023-01-02 07:40:31.160297,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Ohio State,0.034100000000000005,0.125,0.0909
 2023-01-02 06:40:31.131633,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Tampa Bay Buccaneers,0.03330000000000001,0.1,0.0667
 2023-01-02 04:40:30.022498,"2023 Specials - Will Bitcoin fall below $10,000 USD  in 2023 - Proposition",Yes,0.030299999999999994,0.3636,0.3333
+2023-01-02 09:40:32.353437,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Aston Villa,0.02859999999999996,0.9901,0.9615
+2023-01-02 09:40:32.353437,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Fulham,0.02859999999999996,0.9901,0.9615
+2023-01-02 09:40:32.349483,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Newcastle United,0.027999999999999914,0.8462,0.8182
 2023-01-01 23:40:30.384935,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester City,0.027700000000000058,0.5833,0.5556
+2023-01-02 09:40:32.332451,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Bournemouth,0.025600000000000067,0.6923,0.6667
+2023-01-02 09:40:32.337250,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Bournemouth,0.02560000000000001,0.3333,0.3077
 2023-01-02 06:40:31.108782,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Kansas City Chiefs,0.02560000000000001,0.3333,0.3077
+2023-01-02 09:40:32.332451,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Wolverhampton Wanderers,0.025499999999999967,0.4255,0.4
 2023-01-01 23:40:30.178827,Championship - England Championship 2022/23 - To Be Promoted,Blackburn Rovers,0.024999999999999994,0.125,0.1
 2023-01-02 06:40:31.122938,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,San Francisco 49ers,0.023799999999999988,0.1667,0.1429
+2023-01-02 09:40:32.353437,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Crystal Palace,0.023699999999999943,0.9852,0.9615
 2023-01-02 06:40:31.131633,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Green Bay Packers,0.0232,0.0667,0.0435
 2023-01-01 23:40:30.178827,Championship - England Championship 2022/23 - To Be Promoted,Millwall,0.02310000000000001,0.1,0.0769
 2023-01-01 23:40:30.178827,Championship - England Championship 2022/23 - To Be Promoted,Middlesbrough,0.022199999999999998,0.2222,0.2
+2023-01-02 09:40:30.994855,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Jaren Jackson Jr. (MEM),0.02100000000000002,0.3846,0.3636
+2023-01-02 09:40:32.341271,Premier League Futures/Specials - English Premier League 2022/23 - Top 2 Finish,Manchester United,0.02020000000000001,0.1111,0.0909
 2023-01-02 07:40:31.117052,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Arkansas,0.019800000000000005,0.0476,0.0278
 2023-01-02 06:40:31.131633,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,New York Giants,0.019300000000000005,0.0345,0.0152
+2023-01-02 09:40:32.349483,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Liverpool,0.019100000000000006,0.9524,0.9333
 2023-01-01 22:40:27.173553,League Two - England - League Two 2022/23 - Outright,Stevenage,0.019000000000000017,0.2857,0.2667
+2023-01-02 09:40:32.349483,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Aston Villa,0.0189,0.0385,0.0196
 2023-01-02 03:40:29.654632,Euroleague - Euroleague 2022/23 - Outright,Barcelona,0.01820000000000002,0.2,0.1818
 2023-01-02 07:40:31.160297,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Iowa,0.018200000000000004,0.0476,0.0294
 2023-01-02 07:40:31.650518,2022/23 Divisions - 2022-2023 NBA Northwest Division - Division Winner,Denver Nuggets,0.018100000000000005,0.9412,0.9231
+2023-01-02 09:40:32.349483,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Manchester United,0.017900000000000027,0.875,0.8571
+2023-01-02 09:40:32.332451,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,West Ham United,0.0179,0.1429,0.125
 2023-01-02 07:40:31.177815,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,San Diego State,0.016699999999999937,0.6,0.5833
 2023-01-02 06:40:31.122938,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Green Bay Packers,0.014900000000000004,0.0345,0.0196
 2023-01-02 07:40:31.183155,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Arizona State,0.014899999999999997,0.0625,0.0476
 2023-01-02 07:40:31.183155,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Oregon,0.014899999999999997,0.0625,0.0476
+2023-01-02 09:40:30.999606,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Tyrese Haliburton (IND),0.01469999999999999,0.25,0.2353
 2023-01-02 07:40:31.117052,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Kentucky,0.014100000000000001,0.0526,0.0385
 2023-01-02 03:40:29.654632,Euroleague - Euroleague 2022/23 - Outright,Baskonia,0.014099999999999994,0.0667,0.0526
 2023-01-02 06:40:31.131633,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Minnesota Vikings,0.013999999999999999,0.0909,0.0769
+2023-01-02 09:40:32.323240,Premier League Futures/Specials - English Premier League 2022/23 - Winner without Man City & Liverpool,Newcastle United,0.013999999999999999,0.0909,0.0769
 2023-01-01 23:40:30.178827,Championship - England Championship 2022/23 - To Be Promoted,Luton Town,0.013899999999999996,0.125,0.1111
 2023-01-01 23:40:30.036569,Ligue 1 - France Ligue 1 2022/23 - Winner,Lens,0.0131,0.0476,0.0345
 2023-01-02 07:40:31.154803,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Xavier,0.011700000000000016,0.2222,0.2105
 2023-01-02 06:40:31.122938,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,New York Giants,0.011699999999999999,0.0196,0.0079
+2023-01-02 09:40:32.353437,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Everton,0.011499999999999955,0.6667,0.6552
 2023-01-02 07:40:31.142998,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Massachusetts,0.011199999999999995,0.0435,0.0323
 2023-01-02 03:40:29.739623,A1 - Greece A1 2022/23 - Outright,Olympiakos,0.01090000000000002,0.8571,0.8462
 2023-01-01 23:40:30.178827,Championship - England Championship 2022/23 - To Be Promoted,West Bromwich Albion,0.010899999999999993,0.1538,0.1429
+2023-01-02 09:40:32.341271,Premier League Futures/Specials - English Premier League 2022/23 - Top 2 Finish,Liverpool,0.010899999999999993,0.1538,0.1429
+2023-01-02 09:40:30.999606,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Lauri Markanen,0.010499999999999982,0.2105,0.2
+2023-01-02 09:40:32.353437,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Nottingham Forest,0.010099999999999998,0.4545,0.4444
+2023-01-02 09:40:32.345398,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Newcastle United,0.010099999999999998,0.4545,0.4444
 2023-01-02 07:40:31.172242,College Basketball - Missouri Valley Conference Regular Season Conference Winner - Missouri Valley Regular Season Winner,Missouri State,-0.010100000000000001,0.0244,0.0345
+2023-01-02 09:40:32.327732,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Harry Kane,-0.0102,0.0667,0.0769
 2023-01-02 06:40:31.122938,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Buffalo Bills,-0.010499999999999982,0.2,0.2105
 2023-01-02 07:40:31.142998,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Duquesne,-0.010600000000000002,0.0217,0.0323
+2023-01-02 09:40:32.353437,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Wolverhampton Wanderers,-0.011499999999999955,0.6552,0.6667
 2023-01-02 07:40:31.117052,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Wisconsin,-0.011699999999999999,0.0079,0.0196
 2023-01-01 23:40:30.036569,Ligue 1 - France Ligue 1 2022/23 - Winner,Paris Saint-Germain,-0.0121,0.9756,0.9877
 2023-01-02 07:40:31.142998,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,St. Bonaventure,-0.012700000000000003,0.0196,0.0323
 2023-01-02 07:40:31.142998,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Davidson,-0.012700000000000003,0.0196,0.0323
 2023-01-02 07:40:31.142998,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,George Mason,-0.012700000000000003,0.0196,0.0323
+2023-01-02 09:40:32.323240,Premier League Futures/Specials - English Premier League 2022/23 - Winner without Man City & Liverpool,Chelsea,-0.014099999999999998,0.0244,0.0385
 2023-01-02 07:40:31.137355,College Basketball - American Regular Season Conference Winner - AAC Regular Season Winner,Temple,-0.014400000000000003,0.0179,0.0323
-2023-01-02 07:40:31.183155,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,USC,-0.014899999999999997,0.0476,0.0625
+2023-01-02 09:40:32.323240,Premier League Futures/Specials - English Premier League 2022/23 - Winner without Man City & Liverpool,Brighton & Hove Albion,-0.0145,0.0099,0.0244
 2023-01-02 07:40:31.117052,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Baylor,-0.014899999999999997,0.0476,0.0625
+2023-01-02 07:40:31.183155,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,USC,-0.014899999999999997,0.0476,0.0625
+2023-01-02 09:40:30.999606,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Bol Bol (ORL),-0.014900000000000004,0.0196,0.0345
 2023-01-02 06:40:31.122938,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Philadelphia Eagles,-0.015100000000000002,0.1667,0.1818
 2023-01-02 03:40:29.654632,Euroleague - Euroleague 2022/23 - Outright,Real Madrid BC,-0.015100000000000002,0.1667,0.1818
 2023-01-02 07:40:31.183155,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Colorado,-0.0163,0.0033,0.0196
 2023-01-02 03:40:29.654632,Euroleague - Euroleague 2022/23 - Outright,Fenerbahce,-0.0179,0.125,0.1429
 2023-01-02 06:40:31.131633,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Dallas Cowboys,-0.01820000000000002,0.1818,0.2
+2023-01-02 09:40:32.337250,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Nottingham Forest,-0.021999999999999964,0.2857,0.3077
 2023-01-02 03:40:29.739623,A1 - Greece A1 2022/23 - Outright,Panathinaikos,-0.022199999999999998,0.2,0.2222
+2023-01-02 09:40:32.341271,Premier League Futures/Specials - English Premier League 2022/23 - Top 2 Finish,Tottenham Hotspur,-0.023200000000000002,0.0244,0.0476
 2023-01-02 07:40:31.160297,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Purdue,-0.023799999999999988,0.4762,0.5
 2023-01-02 07:40:31.117052,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Kansas,-0.0242,0.0667,0.0909
 2023-01-02 06:40:31.108782,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Cincinnati Bengals,-0.024800000000000016,0.2105,0.2353
 2023-01-02 07:40:31.160297,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Illinois,-0.025300000000000003,0.1176,0.1429
 2023-01-02 04:40:30.022498,"2023 Specials - Will Bitcoin fall below $10,000 USD  in 2023 - Proposition",No,-0.027800000000000047,0.7222,0.75
 2023-01-01 22:40:27.173553,League Two - England - League Two 2022/23 - Outright,Stockport County,-0.028000000000000004,0.0196,0.0476
+2023-01-02 09:40:32.332451,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Aston Villa,-0.028199999999999996,0.0385,0.0667
 2023-01-02 07:40:31.024432,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Jalen Hurts,-0.028399999999999995,0.0625,0.0909
 2023-01-02 07:40:31.160297,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Maryland,-0.028399999999999995,0.0625,0.0909
+2023-01-02 09:40:32.353437,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,West Ham United,-0.03210000000000002,0.9091,0.9412
+2023-01-02 09:40:32.332451,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Nottingham Forest,-0.03259999999999996,0.6226,0.6552
 2023-01-02 07:40:31.160297,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Wisconsin,-0.03330000000000001,0.0667,0.1
+2023-01-02 09:40:32.323240,Premier League Futures/Specials - English Premier League 2022/23 - Winner without Man City & Liverpool,Tottenham Hotspur,-0.0344,0.0244,0.0588
 2023-01-02 07:40:31.137355,College Basketball - American Regular Season Conference Winner - AAC Regular Season Winner,Cincinnati,-0.038099999999999995,0.0244,0.0625
-2023-01-01 23:40:30.184181,Championship - England Championship 2022/23 - To Be Relegated,Wigan Athletic,-0.045499999999999985,0.5,0.5455
+2023-01-02 09:40:32.349483,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Chelsea,-0.0393,0.5833,0.6226
+2023-01-02 09:40:30.994855,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.0398,0.3448,0.3846
 2023-01-01 22:40:27.181015,National League - England National League 2022/23 - Outright,Notts County,-0.045499999999999985,0.5,0.5455
+2023-01-01 23:40:30.184181,Championship - England Championship 2022/23 - To Be Relegated,Wigan Athletic,-0.045499999999999985,0.5,0.5455
 2023-01-01 23:40:30.189445,Championship - England Championship 2022/23 - To Finish Bottom,Wigan Athletic,-0.04999999999999999,0.2,0.25
 2023-01-02 04:40:30.039097,2023 Specials - Will Rivian declare bankruptcy in 2023 - Proposition,Yes,-0.0504,0.2353,0.2857
 2023-01-02 06:40:31.131633,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Philadelphia Eagles,-0.053100000000000036,0.3636,0.4167
 2023-01-01 23:40:30.184181,Championship - England Championship 2022/23 - To Be Relegated,Huddersfield Town,-0.05599999999999994,0.5238,0.5798
 2023-01-02 04:40:30.065749,2023 Specials - Ronaldo to announce his retirement in 2023 - Proposition,Yes,-0.05710000000000001,0.1429,0.2
+2023-01-02 09:40:32.319124,Premier League Futures/Specials - English Premier League 2022/23 - Winner without 'The Big Six',Newcastle United,-0.05830000000000002,0.875,0.9333
 2023-01-02 06:40:31.137957,NFC East - 2022/2023 NFC East - NFC East Winner,Philadelphia Eagles,-0.06169999999999998,0.9333,0.995
 2023-01-01 23:40:30.178827,Championship - England Championship 2022/23 - To Be Promoted,Norwich City,-0.0635,0.2222,0.2857
 2023-01-02 07:40:31.183155,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Arizona,-0.06509999999999999,0.4,0.4651
+2023-01-02 09:40:32.353437,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Bournemouth,-0.06990000000000002,0.3846,0.4545
 2023-01-02 07:40:31.142998,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Saint Louis,-0.07120000000000004,0.3636,0.4348
+2023-01-02 09:40:32.353437,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Southampton,-0.07619999999999993,0.5238,0.6
+2023-01-02 09:40:32.349483,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Tottenham Hotspur,-0.09689999999999999,0.6364,0.7333
 2023-01-01 23:40:30.184181,Championship - England Championship 2022/23 - To Be Relegated,Hull City,-0.09889999999999999,0.2857,0.3846
 2023-01-01 23:40:30.178827,Championship - England Championship 2022/23 - To Be Promoted,Watford,-0.1071,0.1429,0.25
+2023-01-02 09:40:32.345398,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Tottenham Hotspur,-0.11109999999999998,0.2222,0.3333
 2023-01-02 07:40:31.172242,College Basketball - Missouri Valley Conference Regular Season Conference Winner - Missouri Valley Regular Season Winner,Drake,-0.15000000000000002,0.2667,0.4167
 2023-01-02 06:40:31.115577,AFC North - 2022/2023 AFC North - AFC North Winner,Baltimore Ravens,-0.1797,0.1429,0.3226
