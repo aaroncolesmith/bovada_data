@@ -1,83 +1,46 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2023-01-03 13:40:36.606148,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Jacksonville Jaguars,Yes,0.31289999999999996,0.7674,0.4545
-2023-01-03 13:40:36.609992,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Miami Dolphins,No,0.23799999999999993,0.6154,0.3774
-2023-01-03 13:40:36.613929,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - New England Patriots,Yes,0.2098,0.3636,0.1538
-2023-01-03 13:40:36.602330,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Detroit Lions,No,0.16809999999999992,0.9681,0.8
-2023-01-03 14:40:34.281958,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Ohio State,0.125,0.25,0.125
-2023-01-03 14:40:34.269839,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Kansas,0.0922,0.4255,0.3333
-2023-01-03 13:40:36.617734,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Pittsburgh Steelers,Yes,0.0909,0.1818,0.0909
-2023-01-03 14:40:34.287820,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Arizona,0.08779999999999999,0.4878,0.4
 2023-01-03 19:40:29.736044,NBL - NBL 2022/23 - Outright,Cairns Taipans,0.0596,0.1429,0.0833
 2023-01-03 23:40:32.074971,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Pittsburgh Steelers,Yes,0.05080000000000001,0.2326,0.1818
-2023-01-03 14:40:34.281958,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Illinois,0.04909999999999999,0.1667,0.1176
 2023-01-03 16:40:36.705270,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.04409999999999992,0.6667,0.6226
 2023-01-03 23:40:33.844742,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester City,0.0393,0.6226,0.5833
 2023-01-03 19:40:29.776171,Liga ACB - Liga ACB 2022/23 - Outright,Barcelona,0.035999999999999976,0.5122,0.4762
 2023-01-03 19:40:29.760477,Serie A - Serie A 2022/23 - Outright,Olimpia Milano,0.03090000000000004,0.6226,0.5917
-2023-01-03 14:40:34.269839,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,TCU,0.027800000000000005,0.1111,0.0833
-2023-01-03 14:40:34.269839,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Iowa State,0.024,0.0625,0.0385
 2023-01-03 18:40:37.486516,Sentry Tournament of Champions - 2/3 Balls - 1st Round 2 Balls - S. Stallings v C. Reavie - 1st Round 2 Balls,Scott Stallings,0.022600000000000064,0.6226,0.6
 2023-01-03 15:40:36.299406,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs S. Im - Tournament Match-Up,Sungjae Im,0.02079999999999993,0.5556,0.5348
-2023-01-03 14:40:34.269839,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Kansas State,0.0206,0.0385,0.0179
 2023-01-03 19:40:29.752523,LNB Pro A - LNB Pro A 2022/23 - Outright,AS Monaco,0.019499999999999962,0.6491,0.6296
 2023-01-03 23:40:33.844742,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester United,0.019099999999999995,0.0435,0.0244
-2023-01-03 14:40:34.275785,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Creighton,0.0179,0.1429,0.125
-2023-01-03 14:40:34.245456,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Virginia,0.016699999999999993,0.4167,0.4
-2023-01-03 14:40:34.281958,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Wisconsin,0.016600000000000004,0.0833,0.0667
+2023-01-04 02:40:34.520929,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Chris Eubank Jr,0.01629999999999998,0.7222,0.7059
 2023-01-03 19:40:29.784111,Super Ligi - Turkey BSL 2022/23 - Outright,Fenerbahce,0.015400000000000025,0.4,0.3846
-2023-01-03 14:40:34.275785,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Providence,0.015300000000000001,0.0588,0.0435
 2023-01-04 01:40:30.564867,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Liam Smith,0.012299999999999978,0.3571,0.3448
 2023-01-04 01:40:30.550896,Boxing Lines - Efe Ajagba vs Stephan Shaw - To Win the Bout,Stephan Shaw,0.012199999999999989,0.5,0.4878
 2023-01-03 19:40:29.791850,A1 - Greece A1 2022/23 - Outright,Aris Thesalonikis,0.012100000000000001,0.0244,0.0123
-2023-01-03 13:40:37.046569,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Liam Smith,0.01150000000000001,0.3448,0.3333
 2023-01-03 21:40:34.754759,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Liam Smith,0.01150000000000001,0.3448,0.3333
 2023-01-03 17:40:31.386469,Championship - England Championship 2022/23 - Top Goalscorer,Oscar Estupinan,0.011199999999999995,0.0588,0.0476
 2023-01-03 23:40:32.160409,Boxing Lines - Gervonta Davis vs Hector Garcia - To Win the Bout,Gervonta Davis,0.011199999999999988,0.9524,0.9412
-2023-01-03 20:40:35.411871,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Chris Eubank Jr,0.011099999999999999,0.7333,0.7222
 2023-01-04 00:40:28.831486,Boxing Lines - Gervonta Davis vs Hector Garcia - To Win the Bout,Hector Garcia,0.011099999999999999,0.1111,0.1
+2023-01-03 20:40:35.411871,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Chris Eubank Jr,0.011099999999999999,0.7333,0.7222
 2023-01-04 01:40:30.569512,Boxing Lines - Artur Beterbiev vs Anthony Yarde - To Win the Bout,Anthony Yarde,0.010899999999999993,0.1538,0.1429
-2023-01-03 13:40:36.681309,NFC East - 2022/2023 NFC East - NFC East Winner,Philadelphia Eagles,-0.010199999999999987,0.9231,0.9333
-2023-01-03 13:40:36.656809,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Cincinnati Bengals,-0.010499999999999982,0.2,0.2105
 2023-01-03 15:40:36.310935,Tournament Match-Ups - Tournament Match-Up - J. Spieth vs A. Scott - Tournament Match-Up,Adam Scott,-0.010599999999999998,0.4545,0.4651
 2023-01-03 23:40:32.198617,Boxing Lines - Artur Beterbiev vs Anthony Yarde - To Win the Bout,Anthony Yarde,-0.010899999999999993,0.1429,0.1538
-2023-01-03 13:40:37.046569,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Chris Eubank Jr,-0.011099999999999999,0.7222,0.7333
 2023-01-03 21:40:34.754759,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Chris Eubank Jr,-0.011099999999999999,0.7222,0.7333
-2023-01-03 23:40:32.160409,Boxing Lines - Gervonta Davis vs Hector Garcia - To Win the Bout,Hector Garcia,-0.011099999999999999,0.1,0.1111
 2023-01-03 19:40:29.752523,LNB Pro A - LNB Pro A 2022/23 - Outright,Boulogne-Levallois,-0.011099999999999999,0.1,0.1111
+2023-01-03 23:40:32.160409,Boxing Lines - Gervonta Davis vs Hector Garcia - To Win the Bout,Hector Garcia,-0.011099999999999999,0.1,0.1111
 2023-01-04 00:40:28.831486,Boxing Lines - Gervonta Davis vs Hector Garcia - To Win the Bout,Gervonta Davis,-0.011199999999999988,0.9412,0.9524
 2023-01-03 20:40:35.411871,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Liam Smith,-0.01150000000000001,0.3333,0.3448
-2023-01-03 15:40:36.331776,Tournament Match-Ups - Tournament Match-Up - T. Finau vs V. Hovland - Tournament Match-Up,Viktor Hovland,-0.012199999999999989,0.4878,0.5
 2023-01-03 18:40:36.705601,Boxing Lines - Efe Ajagba vs Stephan Shaw - To Win the Bout,Stephan Shaw,-0.012199999999999989,0.4878,0.5
-2023-01-03 14:40:34.287820,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,UCLA,-0.012199999999999989,0.4878,0.5
+2023-01-03 15:40:36.331776,Tournament Match-Ups - Tournament Match-Up - T. Finau vs V. Hovland - Tournament Match-Up,Viktor Hovland,-0.012199999999999989,0.4878,0.5
+2023-01-04 02:40:34.520929,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Liam Smith,-0.012299999999999978,0.3448,0.3571
 2023-01-03 19:40:29.736044,NBL - NBL 2022/23 - Outright,Tasmania JackJumpers,-0.0131,0.0345,0.0476
-2023-01-03 13:40:36.656809,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Buffalo Bills,-0.013300000000000034,0.3571,0.3704
-2023-01-03 14:40:34.254764,College Basketball - American Regular Season Conference Winner - AAC Regular Season Winner,Memphis U,-0.013899999999999996,0.1111,0.125
-2023-01-03 13:40:36.681309,NFC East - 2022/2023 NFC East - NFC East Winner,Dallas Cowboys,-0.013899999999999996,0.1111,0.125
-2023-01-03 14:40:34.287820,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Utah U,-0.01440000000000001,0.0909,0.1053
-2023-01-03 14:40:34.281958,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Maryland,-0.014899999999999997,0.0476,0.0625
 2023-01-03 19:40:29.791850,A1 - Greece A1 2022/23 - Outright,Promitheas Patras,-0.014900000000000004,0.0196,0.0345
 2023-01-03 19:40:29.736044,NBL - NBL 2022/23 - Outright,South East Melbourne Phoenix,-0.015100000000000002,0.1667,0.1818
 2023-01-04 01:40:30.564867,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Chris Eubank Jr,-0.01629999999999998,0.7059,0.7222
-2023-01-03 14:40:34.281958,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Iowa,-0.018200000000000004,0.0294,0.0476
 2023-01-03 19:40:29.791850,A1 - Greece A1 2022/23 - Outright,Panathinaikos,-0.01820000000000002,0.1818,0.2
-2023-01-03 18:40:37.486516,Sentry Tournament of Champions - 2/3 Balls - 1st Round 2 Balls - S. Stallings v C. Reavie - 1st Round 2 Balls,Chez Reavie,-0.018900000000000028,0.4255,0.4444
 2023-01-03 23:40:33.844742,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Arsenal,-0.018900000000000028,0.4255,0.4444
-2023-01-03 14:40:34.263855,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Dayton,-0.02169999999999994,0.5238,0.5455
+2023-01-03 18:40:37.486516,Sentry Tournament of Champions - 2/3 Balls - 1st Round 2 Balls - S. Stallings v C. Reavie - 1st Round 2 Balls,Chez Reavie,-0.018900000000000028,0.4255,0.4444
 2023-01-03 15:40:36.299406,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs S. Im - Tournament Match-Up,Collin Morikawa,-0.022600000000000064,0.5122,0.5348
 2023-01-03 19:40:29.720340,Euroleague - Euroleague 2022/23 - Outright,Anadolu Efes,-0.023799999999999988,0.1429,0.1667
-2023-01-03 14:40:34.287820,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Arizona State,-0.024,0.0385,0.0625
-2023-01-03 14:40:34.287820,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Oregon,-0.024,0.0385,0.0625
 2023-01-03 19:40:29.776171,Liga ACB - Liga ACB 2022/23 - Outright,Real Madrid BC,-0.024399999999999977,0.4878,0.5122
-2023-01-03 14:40:34.269839,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Texas,-0.02679999999999999,0.2857,0.3125
 2023-01-03 19:40:29.760477,Serie A - Serie A 2022/23 - Outright,Virtus Bologna,-0.03640000000000004,0.3636,0.4
 2023-01-03 23:40:32.074971,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Pittsburgh Steelers,No,-0.04169999999999996,0.8333,0.875
 2023-01-03 16:40:36.705270,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Field,-0.044399999999999995,0.4,0.4444
 2023-01-03 19:40:29.736044,NBL - NBL 2022/23 - Outright,Adelaide 36ers,-0.052000000000000005,0.0909,0.1429
-2023-01-03 13:40:36.617734,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Pittsburgh Steelers,No,-0.07740000000000002,0.875,0.9524
-2023-01-03 14:40:34.281958,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Indiana,-0.0889,0.1111,0.2
-2023-01-03 14:40:34.269839,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Baylor,-0.09620000000000001,0.1538,0.25
-2023-01-03 14:40:34.281958,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Purdue,-0.14290000000000003,0.3333,0.4762
-2023-01-03 13:40:36.602330,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Detroit Lions,Yes,-0.1667,0.1,0.2667
-2023-01-03 13:40:36.613929,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - New England Patriots,No,-0.20320000000000005,0.7059,0.9091
-2023-01-03 13:40:36.609992,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Miami Dolphins,Yes,-0.2378,0.4545,0.6923
-2023-01-03 13:40:36.606148,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Jacksonville Jaguars,No,-0.31689999999999996,0.2985,0.6154
