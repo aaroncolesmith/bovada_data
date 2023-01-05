@@ -3,6 +3,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-05 09:40:38.618014,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Nottingham Forest,0.10710000000000003,0.5833,0.4762
 2023-01-05 07:40:37.819379,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,TCU,0.07069999999999999,0.1818,0.1111
 2023-01-05 00:40:29.138531,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Southampton,0.06700000000000006,0.6226,0.5556
+2023-01-05 11:40:33.599091,Grammy Awards 2023 - Album of the Year - Grammys Album of the Year,Brandi Carlile - In These Silent Days,0.0635,0.1111,0.0476
 2023-01-05 08:40:35.110147,Boxing Lines - Yoshimitsu Kimura vs Masanori Rikiishi - To Win the Bout,Yoshimitsu Kimura,0.057699999999999974,0.5122,0.4545
 2023-01-05 06:40:34.357318,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Memphis Grizzlies,0.05590000000000006,0.6923,0.6364
 2023-01-05 05:40:36.183099,80th Golden Globe Awards - Best Motion Picture: Drama - Best Motion Picture: Drama,Elvis,0.048600000000000004,0.1111,0.0625
@@ -11,26 +12,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-05 00:40:29.143937,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Tottenham Hotspur,0.02779999999999999,0.25,0.2222
 2023-01-05 06:40:34.341699,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Cleveland Cavaliers,0.02560000000000001,0.3333,0.3077
 2023-01-05 09:40:38.618014,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Everton,0.025599999999999956,0.6,0.5744
-2023-01-05 00:40:29.132805,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Harry Kane,0.0242,0.0909,0.0667
 2023-01-05 00:40:28.850379,Copa del Rey - Copa Del Rey 2022/2023 - Winner,Villarreal,0.0242,0.0909,0.0667
+2023-01-05 00:40:29.132805,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Harry Kane,0.0242,0.0909,0.0667
 2023-01-05 00:40:28.810110,Serie A - Italy Serie A 2022/23 - Winner,AC Milan,0.023799999999999988,0.1667,0.1429
 2023-01-05 08:40:35.359795,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Kansas City Chiefs,0.023799999999999988,0.3571,0.3333
 2023-01-05 10:40:29.887723,Tournament Match-Ups - Tournament Match-Up - C. Young vs M. Fitzpatrick - Tournament Match-Up,Cameron Young,0.02169999999999994,0.5455,0.5238
 2023-01-05 10:40:30.024111,Sentry Tournament of Champions - 2/3 Balls - 1st Round 2 Balls - J. Thomas v X. Schauffele - 1st Round 2 Balls,Justin Thomas,0.02079999999999993,0.5556,0.5348
 2023-01-05 02:40:35.390881,Sentry Tournament of Champions - 2/3 Balls - 1st Round 2 Balls - J. Rahm v M. Fitzpatrick - 1st Round 2 Balls,Matt Fitzpatrick,0.020699999999999996,0.4651,0.4444
 2023-01-05 00:40:28.850379,Copa del Rey - Copa Del Rey 2022/2023 - Winner,Athletic Bilbao,0.0203,0.0588,0.0385
-2023-01-05 10:40:29.808253,Round Match-Ups - Parlays - 1st Round Match-Up - T. Finau vs C. Young - 1st Round Match-Up,Tony Finau,0.01970000000000005,0.5652,0.5455
 2023-01-05 10:40:29.831099,Round Match-Ups - Parlays - 1st Round Match-Up - M. Homa vs R. Henley - 1st Round Match-Up,Max Homa,0.01970000000000005,0.5652,0.5455
+2023-01-05 10:40:29.808253,Round Match-Ups - Parlays - 1st Round Match-Up - T. Finau vs C. Young - 1st Round Match-Up,Tony Finau,0.01970000000000005,0.5652,0.5455
 2023-01-05 00:40:29.138531,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leeds United,0.01820000000000002,0.2,0.1818
 2023-01-05 02:40:35.317957,Sentry Tournament of Champions - 2/3 Balls - 1st Round 2 Balls - T. Finau v C. Morikawa - 1st Round 2 Balls,Tony Finau,0.018100000000000005,0.5833,0.5652
 2023-01-05 10:40:29.802781,Round Match-Ups - Parlays - 1st Round Match-Up - P. Cantlay vs C. Morikawa - 1st Round Match-Up,Patrick Cantlay,0.018100000000000005,0.5833,0.5652
 2023-01-05 09:40:38.573584,Premier League Futures/Specials - English Premier League 2022/23 - Winner without Man City & Liverpool,Arsenal,0.017900000000000027,0.875,0.8571
 2023-01-05 09:40:38.603052,Premier League Futures/Specials - English Premier League 2022/23 - Not To Finish in Top 4,Chelsea,0.017900000000000027,0.875,0.8571
+2023-01-05 00:40:29.138531,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leicester City,0.0179,0.1429,0.125
 2023-01-05 04:40:37.839008,Sentry Tournament of Champions - Sentry Tournament of Champions - Outright,Jon Rahm,0.0179,0.1429,0.125
 2023-01-05 00:40:28.810110,Serie A - Italy Serie A 2022/23 - Winner,Inter Milan,0.0179,0.1429,0.125
-2023-01-05 00:40:29.138531,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leicester City,0.0179,0.1429,0.125
 2023-01-05 05:40:35.100840,Boxing Lines - Yoshimitsu Kimura vs Masanori Rikiishi - To Win the Bout,Masanori Rikiishi,0.017299999999999982,0.5917,0.5744
-2023-01-04 23:40:32.842082,Tournament Match-Ups - Tournament Match-Up - M. Homa vs R. Henley - Tournament Match-Up,Max Homa,0.017299999999999982,0.5917,0.5744
 2023-01-05 06:40:32.963958,Boxing Lines - Yoshimitsu Kimura vs Masanori Rikiishi - To Win the Bout,Masanori Rikiishi,0.016100000000000003,0.6078,0.5917
 2023-01-05 06:40:34.369980,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Brooklyn Nets,0.015400000000000025,0.2564,0.241
 2023-01-05 06:40:34.357318,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Dallas Mavericks,0.015100000000000002,0.1818,0.1667
@@ -40,35 +40,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-05 02:40:34.099581,Boxing Lines - Yoshimitsu Kimura vs Masanori Rikiishi - To Win the Bout,Masanori Rikiishi,0.013000000000000012,0.5744,0.5614
 2023-01-05 07:40:37.813360,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,North Carolina,0.012899999999999995,0.1667,0.1538
 2023-01-05 02:40:35.313128,Sentry Tournament of Champions - 2/3 Balls - 1st Round 2 Balls - S. Stallings v C. Reavie - 1st Round 2 Balls,Scott Stallings,0.012700000000000045,0.6491,0.6364
-2023-01-04 23:40:33.028985,Round Match-Ups - 1st Round Match-Up - W. Zalatoris v M. Homa - 1st Round Match-Up,Max Homa,0.011600000000000055,0.5238,0.5122
-2023-01-04 23:40:32.977445,Round Match-Ups - 1st Round Match-Up - C. Morikawa v S. Burns - 1st Round Match-Up,Sam Burns,0.011600000000000055,0.5238,0.5122
 2023-01-05 09:40:37.574810,Round Match-Ups - 1st Round Match-Up - X. Schauffele v M. Fitzpatrick - 1st Round Match-Up,Matt Fitzpatrick,0.0116,0.4878,0.4762
 2023-01-05 07:40:37.813360,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Clemson,0.011199999999999995,0.0435,0.0323
 2023-01-05 09:40:38.596634,Premier League Futures/Specials - English Premier League 2022/23 - Top 2 Finish,Manchester City,0.011199999999999988,0.9524,0.9412
 2023-01-05 07:40:37.813360,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Virginia,0.011099999999999999,0.2778,0.2667
 2023-01-05 02:40:35.395678,Sentry Tournament of Champions - 2/3 Balls - 1st Round 2 Balls - J. Thomas v X. Schauffele - 1st Round 2 Balls,Justin Thomas,0.01100000000000001,0.5348,0.5238
-2023-01-05 00:40:29.138531,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,West Ham United,0.010899999999999993,0.1538,0.1429
 2023-01-05 06:40:34.331235,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Sacramento Kings,0.010899999999999993,0.1538,0.1429
+2023-01-05 00:40:29.138531,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,West Ham United,0.010899999999999993,0.1538,0.1429
 2023-01-05 01:40:33.890605,Boxing Lines - Efe Ajagba vs Stephan Shaw - To Win the Bout,Efe Ajagba,0.010699999999999932,0.5455,0.5348
-2023-01-05 09:40:37.372161,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs X. Schauffele - Tournament Match-Up,Patrick Cantlay,0.010699999999999932,0.5455,0.5348
-2023-01-04 23:40:32.778877,Round Match-Ups - Parlays - 1st Round Match-Up - M. Homa vs R. Henley - 1st Round Match-Up,Max Homa,0.010699999999999932,0.5455,0.5348
 2023-01-05 09:40:37.343730,Tournament Match-Ups - Tournament Match-Up - B. Harman vs S. Power - Tournament Match-Up,Brian Harman,0.010699999999999932,0.5455,0.5348
+2023-01-05 09:40:37.372161,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs X. Schauffele - Tournament Match-Up,Patrick Cantlay,0.010699999999999932,0.5455,0.5348
 2023-01-05 06:40:34.364427,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Golden State Warriors,0.010499999999999982,0.2105,0.2
 2023-01-05 05:40:35.069110,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Dallas Cowboys,0.0102,0.0769,0.0667
 2023-01-05 09:40:38.591096,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Wolverhampton Wanderers,-0.010899999999999993,0.1429,0.1538
 2023-01-05 09:40:37.343730,Tournament Match-Ups - Tournament Match-Up - B. Harman vs S. Power - Tournament Match-Up,Seamus Power,-0.01100000000000001,0.5238,0.5348
 2023-01-05 09:40:37.372161,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs X. Schauffele - Tournament Match-Up,Xander Schauffele,-0.01100000000000001,0.5238,0.5348
-2023-01-04 23:40:33.028985,Round Match-Ups - 1st Round Match-Up - W. Zalatoris v M. Homa - 1st Round Match-Up,Will Zalatoris,-0.01100000000000001,0.5238,0.5348
 2023-01-05 01:40:33.890605,Boxing Lines - Efe Ajagba vs Stephan Shaw - To Win the Bout,Stephan Shaw,-0.01100000000000001,0.5238,0.5348
-2023-01-04 23:40:32.977445,Round Match-Ups - 1st Round Match-Up - C. Morikawa v S. Burns - 1st Round Match-Up,Collin Morikawa,-0.01100000000000001,0.5238,0.5348
-2023-01-05 02:40:35.317957,Sentry Tournament of Champions - 2/3 Balls - 1st Round 2 Balls - T. Finau v C. Morikawa - 1st Round 2 Balls,Collin Morikawa,-0.011099999999999999,0.4651,0.4762
 2023-01-05 10:40:29.802781,Round Match-Ups - Parlays - 1st Round Match-Up - P. Cantlay vs C. Morikawa - 1st Round Match-Up,Collin Morikawa,-0.011099999999999999,0.4651,0.4762
+2023-01-05 02:40:35.317957,Sentry Tournament of Champions - 2/3 Balls - 1st Round 2 Balls - T. Finau v C. Morikawa - 1st Round 2 Balls,Collin Morikawa,-0.011099999999999999,0.4651,0.4762
 2023-01-05 06:40:34.369980,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Boston Celtics,-0.01150000000000001,0.3333,0.3448
-2023-01-04 23:40:32.842082,Tournament Match-Ups - Tournament Match-Up - M. Homa vs R. Henley - Tournament Match-Up,Russell Henley,-0.0116,0.4762,0.4878
 2023-01-05 05:40:35.100840,Boxing Lines - Yoshimitsu Kimura vs Masanori Rikiishi - To Win the Bout,Yoshimitsu Kimura,-0.0116,0.4762,0.4878
 2023-01-05 02:40:35.395678,Sentry Tournament of Champions - 2/3 Balls - 1st Round 2 Balls - J. Thomas v X. Schauffele - 1st Round 2 Balls,Xander Schauffele,-0.011600000000000055,0.5122,0.5238
 2023-01-05 02:40:34.099581,Boxing Lines - Yoshimitsu Kimura vs Masanori Rikiishi - To Win the Bout,Yoshimitsu Kimura,-0.012199999999999989,0.4878,0.5
-2023-01-04 23:40:32.778877,Round Match-Ups - Parlays - 1st Round Match-Up - M. Homa vs R. Henley - 1st Round Match-Up,Russell Henley,-0.012199999999999989,0.5,0.5122
 2023-01-05 06:40:34.364427,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Memphis Grizzlies,-0.012899999999999995,0.1538,0.1667
 2023-01-05 00:40:29.138531,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Wolverhampton Wanderers,-0.013800000000000034,0.3636,0.3774
 2023-01-05 09:40:38.567971,Premier League Futures/Specials - English Premier League 2022/23 - Winner without 'The Big Six',Newcastle United,-0.013900000000000023,0.875,0.8889
@@ -83,9 +76,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-05 06:40:34.347172,2022/23 Divisions - 2022-2023 NBA Northwest Division - Division Winner,Portland Trail Blazers,-0.0208,0.0625,0.0833
 2023-01-05 10:40:29.887723,Tournament Match-Ups - Tournament Match-Up - C. Young vs M. Fitzpatrick - Tournament Match-Up,Matt Fitzpatrick,-0.02169999999999994,0.5238,0.5455
 2023-01-05 06:40:32.963958,Boxing Lines - Yoshimitsu Kimura vs Masanori Rikiishi - To Win the Bout,Yoshimitsu Kimura,-0.021699999999999997,0.4545,0.4762
+2023-01-05 05:40:36.183099,80th Golden Globe Awards - Best Motion Picture: Drama - Best Motion Picture: Drama,Avatar: The Way of Water,-0.023799999999999988,0.1429,0.1667
 2023-01-05 10:40:29.808253,Round Match-Ups - Parlays - 1st Round Match-Up - T. Finau vs C. Young - 1st Round Match-Up,Cameron Young,-0.023799999999999988,0.4762,0.5
 2023-01-05 10:40:29.831099,Round Match-Ups - Parlays - 1st Round Match-Up - M. Homa vs R. Henley - 1st Round Match-Up,Russell Henley,-0.023799999999999988,0.4762,0.5
-2023-01-05 05:40:36.183099,80th Golden Globe Awards - Best Motion Picture: Drama - Best Motion Picture: Drama,Avatar: The Way of Water,-0.023799999999999988,0.1429,0.1667
 2023-01-05 09:40:38.573584,Premier League Futures/Specials - English Premier League 2022/23 - Winner without Man City & Liverpool,Manchester United,-0.023799999999999988,0.1429,0.1667
 2023-01-05 09:40:38.618014,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Leicester City,-0.0242,0.9091,0.9333
 2023-01-05 10:40:30.024111,Sentry Tournament of Champions - 2/3 Balls - 1st Round 2 Balls - J. Thomas v X. Schauffele - 1st Round 2 Balls,Xander Schauffele,-0.024399999999999977,0.4878,0.5122
