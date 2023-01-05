@@ -1,8 +1,8 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-04 22:40:28.872917,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Rutgers,0.10619999999999999,0.1538,0.0476
-2023-01-04 19:40:40.880435,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Sean McDermott,0.10529999999999999,0.1176,0.0123
-2023-01-04 19:40:41.435814,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Golden State Warriors,0.06820000000000001,0.25,0.1818
+2023-01-05 07:40:37.819379,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,TCU,0.07069999999999999,0.1818,0.1111
 2023-01-05 00:40:29.138531,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Southampton,0.06700000000000006,0.6226,0.5556
+2023-01-05 08:40:35.110147,Boxing Lines - Yoshimitsu Kimura vs Masanori Rikiishi - To Win the Bout,Yoshimitsu Kimura,0.057699999999999974,0.5122,0.4545
 2023-01-04 22:40:28.890974,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Utah State,0.057699999999999974,0.3077,0.25
 2023-01-05 06:40:34.357318,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Memphis Grizzlies,0.05590000000000006,0.6923,0.6364
 2023-01-05 05:40:36.183099,80th Golden Globe Awards - Best Motion Picture: Drama - Best Motion Picture: Drama,Elvis,0.048600000000000004,0.1111,0.0625
@@ -11,17 +11,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-04 22:40:28.849241,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Duke,0.042200000000000015,0.3125,0.2703
 2023-01-04 22:40:28.861057,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Kansas State,0.0384,0.0769,0.0385
 2023-01-05 06:40:34.352259,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Miami Heat,0.03709999999999991,0.6667,0.6296
-2023-01-04 22:40:28.849241,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Miami (FL),0.03570000000000001,0.2857,0.25
 2023-01-05 06:40:34.331235,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Golden State Warriors,0.03570000000000001,0.2857,0.25
+2023-01-04 22:40:28.849241,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Miami (FL),0.03570000000000001,0.2857,0.25
 2023-01-04 22:40:28.861057,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Kansas,0.029000000000000026,0.4545,0.4255
 2023-01-05 00:40:29.143937,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Tottenham Hotspur,0.02779999999999999,0.25,0.2222
 2023-01-05 06:40:34.341699,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Cleveland Cavaliers,0.02560000000000001,0.3333,0.3077
 2023-01-04 22:40:28.903172,College Basketball - SEC Regular Season Conference Winner - SEC Regular Season Winner,Alabama,0.02560000000000001,0.3333,0.3077
-2023-01-05 00:40:29.132805,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Harry Kane,0.0242,0.0909,0.0667
 2023-01-05 00:40:28.850379,Copa del Rey - Copa Del Rey 2022/2023 - Winner,Villarreal,0.0242,0.0909,0.0667
+2023-01-05 00:40:29.132805,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Harry Kane,0.0242,0.0909,0.0667
 2023-01-04 22:40:28.897087,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Oregon,0.024,0.0625,0.0385
 2023-01-04 22:40:28.897087,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Arizona State,0.024,0.0625,0.0385
 2023-01-04 22:40:28.903172,College Basketball - SEC Regular Season Conference Winner - SEC Regular Season Winner,Kentucky,0.023800000000000016,0.1905,0.1667
+2023-01-05 08:40:35.359795,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Kansas City Chiefs,0.023799999999999988,0.3571,0.3333
 2023-01-05 00:40:28.810110,Serie A - Italy Serie A 2022/23 - Winner,AC Milan,0.023799999999999988,0.1667,0.1429
 2023-01-04 22:40:28.872917,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Michigan State,0.023200000000000002,0.0476,0.0244
 2023-01-05 02:40:35.390881,Sentry Tournament of Champions - 2/3 Balls - 1st Round 2 Balls - J. Rahm v M. Fitzpatrick - 1st Round 2 Balls,Matt Fitzpatrick,0.020699999999999996,0.4651,0.4444
@@ -29,12 +30,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-04 22:40:29.029997,Boxing Lines - Yoshimitsu Kimura vs Masanori Rikiishi - To Win the Bout,Masanori Rikiishi,0.01970000000000005,0.5652,0.5455
 2023-01-05 00:40:29.138531,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leeds United,0.01820000000000002,0.2,0.1818
 2023-01-05 02:40:35.317957,Sentry Tournament of Champions - 2/3 Balls - 1st Round 2 Balls - T. Finau v C. Morikawa - 1st Round 2 Balls,Tony Finau,0.018100000000000005,0.5833,0.5652
-2023-01-05 04:40:37.839008,Sentry Tournament of Champions - Sentry Tournament of Champions - Outright,Jon Rahm,0.0179,0.1429,0.125
-2023-01-04 19:40:41.435814,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Sacramento Kings,0.0179,0.1429,0.125
-2023-01-05 00:40:28.810110,Serie A - Italy Serie A 2022/23 - Winner,Inter Milan,0.0179,0.1429,0.125
 2023-01-05 00:40:29.138531,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leicester City,0.0179,0.1429,0.125
-2023-01-05 05:40:35.100840,Boxing Lines - Yoshimitsu Kimura vs Masanori Rikiishi - To Win the Bout,Masanori Rikiishi,0.017299999999999982,0.5917,0.5744
+2023-01-05 04:40:37.839008,Sentry Tournament of Champions - Sentry Tournament of Champions - Outright,Jon Rahm,0.0179,0.1429,0.125
+2023-01-05 00:40:28.810110,Serie A - Italy Serie A 2022/23 - Winner,Inter Milan,0.0179,0.1429,0.125
 2023-01-04 23:40:32.842082,Tournament Match-Ups - Tournament Match-Up - M. Homa vs R. Henley - Tournament Match-Up,Max Homa,0.017299999999999982,0.5917,0.5744
+2023-01-05 05:40:35.100840,Boxing Lines - Yoshimitsu Kimura vs Masanori Rikiishi - To Win the Bout,Masanori Rikiishi,0.017299999999999982,0.5917,0.5744
 2023-01-05 06:40:32.963958,Boxing Lines - Yoshimitsu Kimura vs Masanori Rikiishi - To Win the Bout,Masanori Rikiishi,0.016100000000000003,0.6078,0.5917
 2023-01-05 06:40:34.369980,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Brooklyn Nets,0.015400000000000025,0.2564,0.241
 2023-01-05 06:40:34.357318,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Dallas Mavericks,0.015100000000000002,0.1818,0.1667
@@ -48,25 +48,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-04 23:40:32.977445,Round Match-Ups - 1st Round Match-Up - C. Morikawa v S. Burns - 1st Round Match-Up,Sam Burns,0.011600000000000055,0.5238,0.5122
 2023-01-05 07:40:37.813360,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Clemson,0.011199999999999995,0.0435,0.0323
 2023-01-04 22:40:28.903172,College Basketball - SEC Regular Season Conference Winner - SEC Regular Season Winner,LSU,0.011199999999999995,0.0588,0.0476
+2023-01-05 07:40:37.813360,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Virginia,0.011099999999999999,0.2778,0.2667
 2023-01-05 02:40:35.395678,Sentry Tournament of Champions - 2/3 Balls - 1st Round 2 Balls - J. Thomas v X. Schauffele - 1st Round 2 Balls,Justin Thomas,0.01100000000000001,0.5348,0.5238
 2023-01-04 21:40:29.257046,Boxing Lines - Rashidi Ellis vs Roiman Villa - To Win the Bout,Rashidi Ellis,0.01090000000000002,0.8571,0.8462
 2023-01-05 00:40:29.138531,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,West Ham United,0.010899999999999993,0.1538,0.1429
-2023-01-04 22:40:28.849241,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,North Carolina,0.010899999999999993,0.1538,0.1429
 2023-01-05 06:40:34.331235,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Sacramento Kings,0.010899999999999993,0.1538,0.1429
+2023-01-04 22:40:28.849241,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,North Carolina,0.010899999999999993,0.1538,0.1429
 2023-01-04 22:40:28.872917,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Penn State,0.010700000000000001,0.0385,0.0278
 2023-01-05 01:40:33.890605,Boxing Lines - Efe Ajagba vs Stephan Shaw - To Win the Bout,Efe Ajagba,0.010699999999999932,0.5455,0.5348
 2023-01-04 23:40:32.778877,Round Match-Ups - Parlays - 1st Round Match-Up - M. Homa vs R. Henley - 1st Round Match-Up,Max Homa,0.010699999999999932,0.5455,0.5348
 2023-01-05 06:40:34.364427,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Golden State Warriors,0.010499999999999982,0.2105,0.2
 2023-01-05 05:40:35.069110,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Dallas Cowboys,0.0102,0.0769,0.0667
+2023-01-04 23:40:32.977445,Round Match-Ups - 1st Round Match-Up - C. Morikawa v S. Burns - 1st Round Match-Up,Collin Morikawa,-0.01100000000000001,0.5238,0.5348
 2023-01-05 01:40:33.890605,Boxing Lines - Efe Ajagba vs Stephan Shaw - To Win the Bout,Stephan Shaw,-0.01100000000000001,0.5238,0.5348
 2023-01-04 23:40:33.028985,Round Match-Ups - 1st Round Match-Up - W. Zalatoris v M. Homa - 1st Round Match-Up,Will Zalatoris,-0.01100000000000001,0.5238,0.5348
-2023-01-04 23:40:32.977445,Round Match-Ups - 1st Round Match-Up - C. Morikawa v S. Burns - 1st Round Match-Up,Collin Morikawa,-0.01100000000000001,0.5238,0.5348
 2023-01-05 02:40:35.317957,Sentry Tournament of Champions - 2/3 Balls - 1st Round 2 Balls - T. Finau v C. Morikawa - 1st Round 2 Balls,Collin Morikawa,-0.011099999999999999,0.4651,0.4762
 2023-01-05 06:40:34.369980,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Boston Celtics,-0.01150000000000001,0.3333,0.3448
 2023-01-04 23:40:32.842082,Tournament Match-Ups - Tournament Match-Up - M. Homa vs R. Henley - Tournament Match-Up,Russell Henley,-0.0116,0.4762,0.4878
 2023-01-05 05:40:35.100840,Boxing Lines - Yoshimitsu Kimura vs Masanori Rikiishi - To Win the Bout,Yoshimitsu Kimura,-0.0116,0.4762,0.4878
 2023-01-05 02:40:35.395678,Sentry Tournament of Champions - 2/3 Balls - 1st Round 2 Balls - J. Thomas v X. Schauffele - 1st Round 2 Balls,Xander Schauffele,-0.011600000000000055,0.5122,0.5238
-2023-01-04 20:40:34.913357,Boxing Lines - Rashidi Ellis vs Roiman Villa - To Win the Bout,Roiman Villa,-0.011700000000000016,0.2105,0.2222
 2023-01-04 23:40:32.778877,Round Match-Ups - Parlays - 1st Round Match-Up - M. Homa vs R. Henley - 1st Round Match-Up,Russell Henley,-0.012199999999999989,0.5,0.5122
 2023-01-05 02:40:34.099581,Boxing Lines - Yoshimitsu Kimura vs Masanori Rikiishi - To Win the Bout,Yoshimitsu Kimura,-0.012199999999999989,0.4878,0.5
 2023-01-05 06:40:34.364427,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Memphis Grizzlies,-0.012899999999999995,0.1538,0.1667
@@ -74,10 +74,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-04 22:40:28.866864,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Connecticut,-0.014200000000000101,0.6154,0.6296
 2023-01-04 22:40:28.909073,College Basketball - West Coast Regular Season Conference Winner - West Coast Conference Regular Season Winner,Saint Mary's CA,-0.015100000000000002,0.1667,0.1818
 2023-01-04 21:40:29.327531,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Trayce Jackson-Davis,-0.015300000000000001,0.0323,0.0476
-2023-01-04 19:40:41.435814,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Phoenix Suns,-0.015400000000000025,0.3846,0.4
 2023-01-05 02:40:35.390881,Sentry Tournament of Champions - 2/3 Balls - 1st Round 2 Balls - J. Rahm v M. Fitzpatrick - 1st Round 2 Balls,Jon Rahm,-0.016699999999999937,0.5833,0.6
 2023-01-05 06:40:34.369980,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Milwaukee Bucks,-0.0174,0.2326,0.25
 2023-01-04 22:40:28.866864,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Creighton,-0.0179,0.125,0.1429
+2023-01-05 08:40:35.359795,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Buffalo Bills,-0.01809999999999995,0.339,0.3571
 2023-01-05 00:40:29.143937,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Chelsea,-0.01820000000000002,0.1818,0.2
 2023-01-04 22:40:28.903172,College Basketball - SEC Regular Season Conference Winner - SEC Regular Season Winner,Florida,-0.019100000000000002,0.0132,0.0323
 2023-01-05 06:40:34.352259,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Atlanta Hawks,-0.019600000000000006,0.303,0.3226
@@ -89,14 +89,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-04 22:40:29.029997,Boxing Lines - Yoshimitsu Kimura vs Masanori Rikiishi - To Win the Bout,Yoshimitsu Kimura,-0.023800000000000043,0.5,0.5238
 2023-01-04 22:40:28.861057,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,West Virginia,-0.024800000000000003,0.0278,0.0526
 2023-01-05 00:40:28.810110,Serie A - Italy Serie A 2022/23 - Winner,Napoli,-0.025600000000000067,0.6667,0.6923
+2023-01-05 07:40:37.813360,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Duke,-0.02679999999999999,0.2857,0.3125
 2023-01-05 07:40:37.813360,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Miami (FL),-0.03570000000000001,0.25,0.2857
 2023-01-04 22:40:28.878871,College Basketball - Conference USA Regular Season Conference Winner - Conference USA Regular Season Winner,Florida Atlantic,-0.044399999999999995,0.4,0.4444
 2023-01-05 00:40:28.850379,Copa del Rey - Copa Del Rey 2022/2023 - Winner,Sevilla,-0.047400000000000005,0.0526,0.1
 2023-01-04 22:40:28.872917,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Illinois,-0.04909999999999999,0.1176,0.1667
 2023-01-04 22:40:28.890974,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,New Mexico,-0.04909999999999999,0.1176,0.1667
-2023-01-04 19:40:41.435814,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Los Angeles Clippers,-0.0494,0.3077,0.3571
 2023-01-04 22:40:28.872917,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Ohio State,-0.04999999999999999,0.2,0.25
 2023-01-05 06:40:34.331235,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Phoenix Suns,-0.05130000000000001,0.3333,0.3846
+2023-01-05 08:40:35.110147,Boxing Lines - Yoshimitsu Kimura vs Masanori Rikiishi - To Win the Bout,Masanori Rikiishi,-0.052200000000000024,0.5556,0.6078
+2023-01-05 07:40:37.819379,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Baylor,-0.06670000000000001,0.1333,0.2
 2023-01-05 06:40:34.357318,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,New Orleans Pelicans,-0.07719999999999999,0.2353,0.3125
 2023-01-04 22:40:28.897087,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Arizona,-0.08779999999999999,0.4,0.4878
 2023-01-04 22:40:28.861057,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Texas,-0.10390000000000002,0.1818,0.2857
