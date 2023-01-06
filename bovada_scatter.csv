@@ -1,5 +1,11 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2023-01-06 11:40:32.299169,Tournament Match-Ups - Tournament Match-Up - C. Young vs M. Fitzpatrick - Tournament Match-Up,Matt Fitzpatrick,0.22619999999999996,0.75,0.5238
+2023-01-06 11:40:32.281180,Tournament Match-Ups - Tournament Match-Up - S. Scheffler vs J. Thomas - Tournament Match-Up,Scottie Scheffler,0.22560000000000002,0.8,0.5744
+2023-01-06 11:40:32.293350,Tournament Match-Ups - Tournament Match-Up - J. Spieth vs A. Scott - Tournament Match-Up,Jordan Spieth,0.19220000000000004,0.8,0.6078
+2023-01-06 11:40:32.323517,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs S. Im - Tournament Match-Up,Collin Morikawa,0.1613,0.6491,0.4878
+2023-01-06 11:40:32.305117,Tournament Match-Ups - Tournament Match-Up - A. Wise vs C. Conners - Tournament Match-Up,Aaron Wise,0.12229999999999996,0.6875,0.5652
 2023-01-06 08:40:28.815587,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Providence,0.10439999999999999,0.1429,0.0385
+2023-01-06 11:40:32.287341,Tournament Match-Ups - Tournament Match-Up - M. Homa vs R. Henley - Tournament Match-Up,Russell Henley,0.08900000000000002,0.5652,0.4762
 2023-01-06 07:40:30.936305,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Brian Daboll,0.08329999999999999,0.3333,0.25
 2023-01-06 09:40:32.443283,Time Person of the Year - Time Person Of The Year 2023 - Time Person Of The Year 2023,Volodymyr Zelenskyy,0.06820000000000001,0.25,0.1818
 2023-01-06 07:40:30.630762,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Dayton,0.05889999999999995,0.6667,0.6078
@@ -20,9 +26,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-06 09:40:31.905513,College Basketball - American Athletic Regular Season Conference Winner - AAC Regular Season Winner,Temple,0.025599999999999998,0.0435,0.0179
 2023-01-06 09:40:33.722382,Premier League Futures/Specials - English Premier League 2022/23 - Not To Finish in Top 4,Chelsea,0.025000000000000022,0.9,0.875
 2023-01-06 10:40:33.780248,Copa del Rey - Copa Del Rey 2022/2023 - Winner,Real Sociedad,0.0242,0.0909,0.0667
+2023-01-06 11:40:32.317709,Tournament Match-Ups - Tournament Match-Up - T. Finau vs V. Hovland - Tournament Match-Up,Viktor Hovland,0.023799999999999988,0.5,0.4762
 2023-01-06 07:40:31.774497,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Memphis Grizzlies,0.02200000000000002,0.7143,0.6923
 2023-01-06 08:40:28.820891,College Basketball - SEC Regular Season Conference Winner - SEC Regular Season Winner,Tennessee,0.02100000000000002,0.3846,0.3636
 2023-01-06 09:40:33.123695,Sentry Tournament of Champions - 2/3 Balls - 2nd Round 2 Balls - B. Harman v C. Conners - 2nd Round 2 Balls,Brian Harman,0.02079999999999993,0.5556,0.5348
+2023-01-06 11:40:32.102282,Sentry Tournament of Champions - 2/3 Balls - 2nd Round 2 Balls - P. Cantlay v W. Zalatoris - 2nd Round 2 Balls,Will Zalatoris,0.020699999999999996,0.4651,0.4444
+2023-01-06 11:40:32.108009,Sentry Tournament of Champions - 2/3 Balls - 2nd Round 2 Balls - R. Henley v T. Mullinax - 2nd Round 2 Balls,Trey Mullinax,0.020699999999999996,0.4651,0.4444
 2023-01-06 09:40:33.098638,Sentry Tournament of Champions - 2/3 Balls - 2nd Round 2 Balls - X. Schauffele v M. Homa - 2nd Round 2 Balls,Max Homa,0.020699999999999996,0.4651,0.4444
 2023-01-06 09:40:33.556561,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,Braga,0.02020000000000001,0.1111,0.0909
 2023-01-06 09:40:31.942977,College Basketball - West Coast Regular Season Conference Winner - West Coast Conference Regular Season Winner,Gonzaga,0.020199999999999996,0.9091,0.8889
@@ -30,11 +39,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-06 03:40:33.276637,Boxing Lines - Rashidi Ellis vs Roiman Villa - To Win the Bout,Roiman Villa,0.01999999999999999,0.2105,0.1905
 2023-01-06 09:40:33.717298,Premier League Futures/Specials - English Premier League 2022/23 - Top 2 Finish,Manchester City,0.01849999999999996,0.9709,0.9524
 2023-01-06 10:40:33.780248,Copa del Rey - Copa Del Rey 2022/2023 - Winner,Athletic Bilbao,0.018099999999999998,0.0769,0.0588
+2023-01-06 11:40:32.142517,Sentry Tournament of Champions - 2/3 Balls - 2nd Round 2 Balls - T. Finau v S. Stallings - 2nd Round 2 Balls,Tony Finau,0.01759999999999995,0.6667,0.6491
 2023-01-06 10:40:33.780248,Copa del Rey - Copa Del Rey 2022/2023 - Winner,Real Madrid,0.0174,0.25,0.2326
 2023-01-06 09:40:31.633178,Boxing Lines - Ekow Essuman vs Chris Kongo - To Win the Bout,Ekow Essuman,0.017299999999999982,0.5917,0.5744
 2023-01-06 09:40:33.556561,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,Benfica,0.016700000000000048,0.75,0.7333
-2023-01-05 23:40:34.162882,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Tottenham Hotspur,0.016699999999999993,0.2667,0.25
 2023-01-06 07:40:30.967980,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - New England Patriots,Yes,0.016699999999999993,0.4167,0.4
+2023-01-05 23:40:34.162882,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Tottenham Hotspur,0.016699999999999993,0.2667,0.25
 2023-01-06 04:40:36.559795,Boxing Lines - Yoshimitsu Kimura vs Masanori Rikiishi - To Win the Bout,Yoshimitsu Kimura,0.01639999999999997,0.4608,0.4444
 2023-01-06 09:40:31.926816,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,New Mexico,0.015700000000000006,0.1333,0.1176
 2023-01-06 09:40:31.950083,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Trayce Jackson-Davis,0.015300000000000001,0.0476,0.0323
@@ -49,23 +59,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-06 02:40:29.922950,Boxing Lines - Kim Clavel vs Jessica Nery Plata - To Win the Bout,Kim Clavel,0.013900000000000023,0.8889,0.875
 2023-01-06 04:40:36.553828,Boxing Lines - Masataka Taniguchi vs Melvin Jerusalem - To Win the Bout,Masataka Taniguchi,0.013900000000000023,0.871,0.8571
 2023-01-06 07:40:30.956241,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Detroit Lions,Yes,0.013899999999999996,0.125,0.1111
-2023-01-05 23:40:34.140118,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester City,0.013799999999999923,0.6364,0.6226
 2023-01-05 23:40:34.156038,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Southampton,0.013799999999999923,0.6364,0.6226
+2023-01-05 23:40:34.140118,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester City,0.013799999999999923,0.6364,0.6226
 2023-01-06 07:40:30.630762,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,George Mason,0.012700000000000003,0.0323,0.0196
 2023-01-06 06:40:30.191754,Boxing Lines - Ekow Essuman vs Chris Kongo - To Win the Bout,Chris Kongo,0.0116,0.4878,0.4762
-2023-01-06 04:40:35.670470,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Patrick Mahomes,0.011099999999999999,0.9,0.8889
 2023-01-06 01:40:33.285548,Boxing Lines - Daniel Valladares vs Ginjiro Shigeoka - To Win the Bout,Ginjiro Shigeoka,0.011099999999999999,0.9,0.8889
+2023-01-06 11:40:32.085146,Sentry Tournament of Champions - 2/3 Balls - 2nd Round 2 Balls - X. Schauffele v M. Homa - 2nd Round 2 Balls,Max Homa,0.011099999999999999,0.4762,0.4651
+2023-01-06 11:40:31.447707,Boxing Lines - Kim Clavel vs Jessica Nery Plata - To Win the Bout,Kim Clavel,0.011099999999999999,0.9,0.8889
+2023-01-06 04:40:35.670470,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Patrick Mahomes,0.011099999999999999,0.9,0.8889
 2023-01-06 06:40:30.186793,Boxing Lines - Efe Ajagba vs Stephan Shaw - To Win the Bout,Stephan Shaw,0.01100000000000001,0.5348,0.5238
+2023-01-06 11:40:32.310876,Tournament Match-Ups - Tournament Match-Up - B. Harman vs S. Power - Tournament Match-Up,Seamus Power,0.01100000000000001,0.5348,0.5238
 2023-01-06 09:40:33.730692,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Newcastle United,0.01090000000000002,0.8571,0.8462
 2023-01-06 10:40:33.964021,Super Lig - Turkey Super League 22/23 - Outright,Galatasaray,0.010699999999999987,0.3333,0.3226
 2023-01-06 09:40:31.905513,College Basketball - American Athletic Regular Season Conference Winner - AAC Regular Season Winner,Tulane,0.010600000000000002,0.0323,0.0217
 2023-01-06 00:40:30.568542,Boxing Lines - Masataka Taniguchi vs Melvin Jerusalem - To Win the Bout,Melvin Jerusalem,0.010499999999999982,0.2105,0.2
 2023-01-06 01:40:33.292816,Boxing Lines - Yoshimitsu Kimura vs Masanori Rikiishi - To Win the Bout,Yoshimitsu Kimura,-0.010099999999999998,0.4444,0.4545
 2023-01-06 06:40:30.587022,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Jalen Hurts,-0.0102,0.0667,0.0769
-2023-01-05 23:40:31.745947,Boxing Lines - Masataka Taniguchi vs Melvin Jerusalem - To Win the Bout,Melvin Jerusalem,-0.010499999999999982,0.2,0.2105
-2023-01-05 23:40:31.751389,Boxing Lines - Yoshimitsu Kimura vs Masanori Rikiishi - To Win the Bout,Yoshimitsu Kimura,-0.010599999999999998,0.4545,0.4651
-2023-01-06 06:40:31.443338,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Brooklyn Nets,-0.010699999999999987,0.3226,0.3333
+2023-01-06 11:40:32.310876,Tournament Match-Ups - Tournament Match-Up - B. Harman vs S. Power - Tournament Match-Up,Brian Harman,-0.010699999999999932,0.5348,0.5455
 2023-01-06 07:40:31.762337,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Phoenix Suns,-0.010699999999999987,0.3226,0.3333
+2023-01-06 06:40:31.443338,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Brooklyn Nets,-0.010699999999999987,0.3226,0.3333
 2023-01-06 09:40:31.905513,College Basketball - American Athletic Regular Season Conference Winner - AAC Regular Season Winner,Memphis U,-0.011099999999999999,0.1,0.1111
 2023-01-06 07:40:30.956241,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Detroit Lions,No,-0.011199999999999988,0.9412,0.9524
 2023-01-06 08:40:28.820891,College Basketball - SEC Regular Season Conference Winner - SEC Regular Season Winner,LSU,-0.011199999999999995,0.0476,0.0588
@@ -82,26 +94,31 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-06 09:40:33.730692,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Aston Villa,-0.014900000000000004,0.0196,0.0345
 2023-01-06 07:40:31.774497,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Dallas Mavericks,-0.015100000000000002,0.1667,0.1818
 2023-01-05 23:40:34.162882,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Chelsea,-0.015100000000000002,0.1667,0.1818
-2023-01-06 07:40:30.936305,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Zac Taylor,-0.015300000000000001,0.0323,0.0476
 2023-01-06 09:40:31.942977,College Basketball - West Coast Regular Season Conference Winner - West Coast Conference Regular Season Winner,BYU,-0.015300000000000001,0.0323,0.0476
+2023-01-06 07:40:30.936305,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Zac Taylor,-0.015300000000000001,0.0323,0.0476
 2023-01-06 07:40:30.630762,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Davidson,-0.015300000000000001,0.0323,0.0476
 2023-01-06 09:40:31.926816,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Colorado State,-0.015899999999999997,0.002,0.0179
+2023-01-06 11:40:32.108009,Sentry Tournament of Champions - 2/3 Balls - 2nd Round 2 Balls - R. Henley v T. Mullinax - 2nd Round 2 Balls,Russell Henley,-0.016699999999999937,0.5833,0.6
 2023-01-06 09:40:33.098638,Sentry Tournament of Champions - 2/3 Balls - 2nd Round 2 Balls - X. Schauffele v M. Homa - 2nd Round 2 Balls,Xander Schauffele,-0.016699999999999937,0.5833,0.6
+2023-01-06 11:40:32.102282,Sentry Tournament of Champions - 2/3 Balls - 2nd Round 2 Balls - P. Cantlay v W. Zalatoris - 2nd Round 2 Balls,Patrick Cantlay,-0.016699999999999937,0.5833,0.6
 2023-01-06 06:40:30.191754,Boxing Lines - Ekow Essuman vs Chris Kongo - To Win the Bout,Ekow Essuman,-0.017299999999999982,0.5744,0.5917
 2023-01-06 07:40:30.967980,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - New England Patriots,No,-0.01759999999999995,0.6491,0.6667
 2023-01-06 03:40:33.276637,Boxing Lines - Rashidi Ellis vs Roiman Villa - To Win the Bout,Rashidi Ellis,-0.017900000000000027,0.8571,0.875
-2023-01-06 08:40:28.820891,College Basketball - SEC Regular Season Conference Winner - SEC Regular Season Winner,Auburn,-0.018099999999999998,0.0345,0.0526
 2023-01-06 10:40:33.964021,Super Lig - Turkey Super League 22/23 - Outright,Istanbul Basaksehir,-0.018099999999999998,0.0588,0.0769
+2023-01-06 08:40:28.820891,College Basketball - SEC Regular Season Conference Winner - SEC Regular Season Winner,Auburn,-0.018099999999999998,0.0345,0.0526
+2023-01-06 11:40:32.317709,Tournament Match-Ups - Tournament Match-Up - T. Finau vs V. Hovland - Tournament Match-Up,Tony Finau,-0.018100000000000005,0.5652,0.5833
+2023-01-06 11:40:32.085146,Sentry Tournament of Champions - 2/3 Balls - 2nd Round 2 Balls - X. Schauffele v M. Homa - 2nd Round 2 Balls,Xander Schauffele,-0.018100000000000005,0.5652,0.5833
 2023-01-06 09:40:33.722382,Premier League Futures/Specials - English Premier League 2022/23 - Not To Finish in Top 4,Tottenham Hotspur,-0.018199999999999994,0.8,0.8182
 2023-01-06 09:40:33.556561,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,Sporting CP,-0.018200000000000004,0.0294,0.0476
 2023-01-06 07:40:30.960187,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Jacksonville Jaguars,No,-0.020699999999999996,0.2778,0.2985
-2023-01-06 09:40:31.926816,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Utah State,-0.021999999999999964,0.2857,0.3077
 2023-01-06 07:40:31.762337,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Los Angeles Clippers,-0.021999999999999964,0.2857,0.3077
+2023-01-06 09:40:31.926816,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Utah State,-0.021999999999999964,0.2857,0.3077
+2023-01-06 11:40:32.142517,Sentry Tournament of Champions - 2/3 Balls - 2nd Round 2 Balls - T. Finau v S. Stallings - 2nd Round 2 Balls,Scott Stallings,-0.02260000000000001,0.3774,0.4
 2023-01-06 04:40:36.559795,Boxing Lines - Yoshimitsu Kimura vs Masanori Rikiishi - To Win the Bout,Masanori Rikiishi,-0.022600000000000064,0.6,0.6226
 2023-01-06 09:40:31.932225,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,UCLA,-0.023799999999999988,0.4762,0.5
 2023-01-05 23:40:34.156038,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Everton,-0.023799999999999988,0.4762,0.5
-2023-01-06 10:40:33.780248,Copa del Rey - Copa Del Rey 2022/2023 - Winner,Villarreal,-0.0242,0.0667,0.0909
 2023-01-06 06:40:30.587022,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Regular Season MVP,Josh Allen,-0.0242,0.0667,0.0909
+2023-01-06 10:40:33.780248,Copa del Rey - Copa Del Rey 2022/2023 - Winner,Villarreal,-0.0242,0.0667,0.0909
 2023-01-06 09:40:33.123695,Sentry Tournament of Champions - 2/3 Balls - 2nd Round 2 Balls - B. Harman v C. Conners - 2nd Round 2 Balls,Corey Conners,-0.024399999999999977,0.4878,0.5122
 2023-01-05 23:40:34.140118,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Arsenal,-0.024500000000000022,0.3922,0.4167
 2023-01-06 07:40:30.976609,To Make the Playoffs - NFL 2022/23 To Make the Playoffs - Seattle Seahawks,No,-0.0260999999999999,0.7778,0.8039
@@ -112,5 +129,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-06 07:40:30.630762,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Massachusetts,-0.052399999999999995,0.0385,0.0909
 2023-01-06 09:40:32.443283,Time Person of the Year - Time Person Of The Year 2023 - Time Person Of The Year 2023,Elon Musk,-0.057699999999999974,0.25,0.3077
 2023-01-06 07:40:30.936305,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Coach of the Year Winner,Nick Sirianni,-0.08340000000000003,0.3333,0.4167
+2023-01-06 11:40:32.287341,Tournament Match-Ups - Tournament Match-Up - M. Homa vs R. Henley - Tournament Match-Up,Max Homa,-0.0917,0.5,0.5917
 2023-01-06 09:40:33.730692,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Chelsea,-0.10710000000000003,0.4762,0.5833
 2023-01-06 08:40:28.815587,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Connecticut,-0.11539999999999995,0.5,0.6154
+2023-01-06 11:40:32.305117,Tournament Match-Ups - Tournament Match-Up - A. Wise vs C. Conners - Tournament Match-Up,Corey Conners,-0.12259999999999999,0.3774,0.5
+2023-01-06 11:40:32.323517,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs S. Im - Tournament Match-Up,Sungjae Im,-0.1577,0.4167,0.5744
+2023-01-06 11:40:32.293350,Tournament Match-Ups - Tournament Match-Up - J. Spieth vs A. Scott - Tournament Match-Up,Adam Scott,-0.18780000000000002,0.2667,0.4545
+2023-01-06 11:40:32.281180,Tournament Match-Ups - Tournament Match-Up - S. Scheffler vs J. Thomas - Tournament Match-Up,Justin Thomas,-0.22110000000000002,0.2667,0.4878
+2023-01-06 11:40:32.299169,Tournament Match-Ups - Tournament Match-Up - C. Young vs M. Fitzpatrick - Tournament Match-Up,Cameron Young,-0.23299999999999998,0.3125,0.5455
