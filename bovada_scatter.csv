@@ -1,9 +1,10 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-07 08:40:29.732654,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Jordan Poole (GSW),0.08330000000000001,0.25,0.1667
 2023-01-07 14:40:32.497672,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.06659999999999999,0.3333,0.2667
-2023-01-07 11:40:41.407069,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Virginia Commonwealth,0.0635,0.1111,0.0476
-2023-01-07 14:40:31.868373,80th Golden Globe Awards - Best Supporting Actor - Best Supporting Actor,Ke Huy Quan - Everything Everywhere All At Once,0.0635,0.7778,0.7143
+2023-01-07 18:40:31.151562,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Toronto Raptors,Under 41.5,0.06519999999999992,0.6,0.5348
 2023-01-07 11:40:41.407069,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Saint Louis,0.0635,0.2857,0.2222
+2023-01-07 14:40:31.868373,80th Golden Globe Awards - Best Supporting Actor - Best Supporting Actor,Ke Huy Quan - Everything Everywhere All At Once,0.0635,0.7778,0.7143
+2023-01-07 11:40:41.407069,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Virginia Commonwealth,0.0635,0.1111,0.0476
 2023-01-07 15:40:33.563145,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Indinana Pacers,Over 41.5,0.05860000000000004,0.5348,0.4762
 2023-01-07 11:40:41.433316,College Basketball - West Coast Regular Season Conference Winner - West Coast Conference Regular Season Winner,Saint Mary's CA,0.05350000000000002,0.2353,0.1818
 2023-01-07 15:40:33.540429,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Brooklyn Nets,Over 54.5,0.05300000000000005,0.5652,0.5122
@@ -33,8 +34,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-07 14:40:32.093370,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Detroit Pistons,Yes,0.0203,0.0526,0.0323
 2023-01-07 12:40:27.971825,Sentry Tournament of Champions - 2/3 Balls - 3rd Round 2 Balls - C. Morikawa v S. Scheffler - 3rd Round 2 Balls,Scottie Scheffler,0.01970000000000005,0.5652,0.5455
 2023-01-07 08:40:29.738052,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Jacque Vaughn,0.019000000000000017,0.2857,0.2667
-2023-01-07 11:40:41.396189,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Virginia,0.019000000000000017,0.2857,0.2667
 2023-01-07 08:40:29.738052,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Joe Mazzulla,0.019000000000000017,0.2857,0.2667
+2023-01-07 11:40:41.396189,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Virginia,0.019000000000000017,0.2857,0.2667
 2023-01-07 08:40:29.609539,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Boston Celtics,0.018999999999999906,0.7333,0.7143
 2023-01-07 13:40:30.186342,Sentry Tournament of Champions - 2/3 Balls - 3rd Round 2 Balls - J. Rahm v L. List - 3rd Round 2 Balls,Jon Rahm,0.018999999999999906,0.7333,0.7143
 2023-01-07 13:40:30.136317,Sentry Tournament of Champions - 2/3 Balls - 3rd Round 2 Balls - J. Thomas v M. Homa - 3rd Round 2 Balls,Max Homa,0.018900000000000028,0.4444,0.4255
@@ -46,8 +47,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-07 08:40:29.727987,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Luka Doncic (DAL),0.016699999999999993,0.2667,0.25
 2023-01-07 17:40:36.536969,Sentry Tournament of Champions - 2/3 Balls - 3rd Round 2 Balls - C. Morikawa v S. Scheffler - 3rd Round 2 Balls,Scottie Scheffler,0.016100000000000003,0.6078,0.5917
 2023-01-07 14:40:32.341902,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Dallas Mavericks,0.015100000000000002,0.1818,0.1667
-2023-01-07 14:40:32.497672,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,OG Anunoby (TOR),0.014399999999999996,0.0769,0.0625
 2023-01-07 14:40:32.497672,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Evan Mobley (CLE),0.014399999999999996,0.0769,0.0625
+2023-01-07 14:40:32.497672,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,OG Anunoby (TOR),0.014399999999999996,0.0769,0.0625
 2023-01-07 14:40:32.061587,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Boston Celtics,No,0.014100000000000001,0.0526,0.0385
 2023-01-07 08:40:29.609539,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Philadelphia 76ers,0.014099999999999994,0.0667,0.0526
 2023-01-07 14:40:32.497672,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Giannis Antetokounmpo (MIL),0.013999999999999999,0.0909,0.0769
@@ -59,16 +60,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-07 14:40:32.341902,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,New Orleans Pelicans,0.011700000000000016,0.2222,0.2105
 2023-01-07 14:40:32.321405,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Cleveland Cavaliers,0.01150000000000001,0.3448,0.3333
 2023-01-07 11:40:41.412206,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Oklahoma,0.011200000000000002,0.0244,0.0132
-2023-01-07 14:40:32.070624,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Charlotte Hornets,Yes,0.011199999999999995,0.0588,0.0476
 2023-01-07 15:40:33.470462,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Orlando Magic,Yes,0.011199999999999995,0.0588,0.0476
-2023-01-07 14:40:32.303870,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Philadelphia 76ers,0.011099999999999999,0.1111,0.1
+2023-01-07 14:40:32.070624,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Charlotte Hornets,Yes,0.011199999999999995,0.0588,0.0476
 2023-01-07 11:40:41.401716,College Basketball - American Athletic Regular Season Conference Winner - AAC Regular Season Winner,Memphis U,0.011099999999999999,0.1111,0.1
+2023-01-07 14:40:32.303870,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Philadelphia 76ers,0.011099999999999999,0.1111,0.1
 2023-01-07 15:40:33.534079,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Atlanta Hawks,Under 41.5,0.010699999999999932,0.5455,0.5348
 2023-01-07 11:40:41.038821,Boxing Lines - Rashidi Ellis vs Roiman Villa - To Win the Bout,Roiman Villa,0.010499999999999982,0.2105,0.2
 2023-01-07 11:40:41.422747,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Ohio State,0.010499999999999982,0.2105,0.2
 2023-01-07 14:40:32.075132,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Chicago Bulls,No,0.010300000000000087,0.7436,0.7333
-2023-01-07 14:40:32.326534,2022/23 Divisions - 2022-2023 NBA Northwest Division - Division Winner,Portland Trail Blazers,0.0102,0.0769,0.0667
 2023-01-07 14:40:32.296357,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Memphis Grizzlies,0.0102,0.0769,0.0667
+2023-01-07 14:40:32.326534,2022/23 Divisions - 2022-2023 NBA Northwest Division - Division Winner,Portland Trail Blazers,0.0102,0.0769,0.0667
 2023-01-07 15:40:33.578992,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - New Orleans Pelicans,Over 47.5,0.010099999999999998,0.5556,0.5455
 2023-01-07 14:40:32.497672,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Jaren Jackson Jr. (MEM),-0.010099999999999998,0.4444,0.4545
 2023-01-07 08:40:29.727987,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Giannis Antetokounmpo (MIL),-0.010499999999999982,0.2,0.2105
@@ -91,8 +92,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-07 11:40:41.439094,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Jalen Wilson,-0.013999999999999999,0.0769,0.0909
 2023-01-07 11:40:41.381642,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,UCLA,-0.014099999999999994,0.0526,0.0667
 2023-01-07 13:40:30.136317,Sentry Tournament of Champions - 2/3 Balls - 3rd Round 2 Balls - J. Thomas v M. Homa - 3rd Round 2 Balls,Justin Thomas,-0.014800000000000035,0.6078,0.6226
-2023-01-07 11:40:41.412206,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,TCU,-0.015100000000000002,0.1667,0.1818
 2023-01-07 10:40:30.031917,NFL Fantasy Specials - Week 18 Fantasy Scoring Leaders - Highest Scoring WR (NON-ppr),Amon-Ra St.Brown,-0.015100000000000002,0.1667,0.1818
+2023-01-07 11:40:41.412206,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,TCU,-0.015100000000000002,0.1667,0.1818
 2023-01-07 14:40:32.321405,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Milwaukee Bucks,-0.016700000000000048,0.7333,0.75
 2023-01-07 08:40:29.738052,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Taylor Jenkins,-0.0179,0.125,0.1429
 2023-01-07 07:40:30.724245,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Buffalo Bills,-0.01820000000000002,0.1818,0.2
@@ -101,9 +102,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-07 14:40:32.056925,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Atlanta Hawks,Yes,-0.01970000000000005,0.5455,0.5652
 2023-01-07 16:40:32.383281,Sentry Tournament of Champions - 2/3 Balls - 3rd Round 2 Balls - A. Scott v T. Hoge - 3rd Round 2 Balls,Adam Scott,-0.01970000000000005,0.5455,0.5652
 2023-01-07 08:40:28.586172,Awards & League Leaders - NFL 2022/23 Awards & League Leaders - 2022/23 - Offensive Rookie of the Year,Garrett Wilson,-0.020799999999999985,0.3125,0.3333
-2023-01-07 16:40:32.398111,Sentry Tournament of Champions - 2/3 Balls - 3rd Round 2 Balls - A. Wise v B. Harman - 3rd Round 2 Balls,Aaron Wise,-0.02169999999999994,0.5238,0.5455
 2023-01-07 15:40:32.516549,Sentry Tournament of Champions - 2/3 Balls - 3rd Round 2 Balls - J.T. Poston v K.H. Lee - 3rd Round 2 Balls,K H Lee,-0.02169999999999994,0.5238,0.5455
 2023-01-07 16:40:32.413732,Sentry Tournament of Champions - 2/3 Balls - 3rd Round 2 Balls - M. Fitzpatrick v T. Kim - 3rd Round 2 Balls,Matt Fitzpatrick,-0.02169999999999994,0.5238,0.5455
+2023-01-07 16:40:32.398111,Sentry Tournament of Champions - 2/3 Balls - 3rd Round 2 Balls - A. Wise v B. Harman - 3rd Round 2 Balls,Aaron Wise,-0.02169999999999994,0.5238,0.5455
 2023-01-07 11:40:41.428033,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,UCLA,-0.021699999999999997,0.4545,0.4762
 2023-01-07 11:40:41.433316,College Basketball - West Coast Regular Season Conference Winner - West Coast Conference Regular Season Winner,Santa Clara,-0.022200000000000004,0.0123,0.0345
 2023-01-07 16:40:32.418547,Sentry Tournament of Champions - 2/3 Balls - 3rd Round 2 Balls - J.J. Spaun v J. Spieth - 3rd Round 2 Balls,Jordan Spieth,-0.023799999999999932,0.6429,0.6667
@@ -134,5 +135,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-07 15:40:33.540429,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Brooklyn Nets,Under 54.5,-0.05559999999999998,0.5,0.5556
 2023-01-07 15:40:33.563145,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Indinana Pacers,Under 41.5,-0.05689999999999995,0.5348,0.5917
 2023-01-07 11:40:41.407069,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Dayton,-0.06669999999999998,0.6,0.6667
+2023-01-07 18:40:31.151562,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Toronto Raptors,Over 41.5,-0.06970000000000004,0.4651,0.5348
 2023-01-07 11:40:41.433316,College Basketball - West Coast Regular Season Conference Winner - West Coast Conference Regular Season Winner,Gonzaga,-0.07579999999999998,0.8333,0.9091
 2023-01-07 14:40:32.331663,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Golden State Warriors,-0.09,0.2326,0.3226
