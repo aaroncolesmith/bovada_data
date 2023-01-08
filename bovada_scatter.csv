@@ -22,10 +22,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-08 11:40:30.803072,Copa del Rey - Copa Del Rey 2022/2023 - Winner,Barcelona,0.03570000000000001,0.2857,0.25
 2023-01-08 08:40:30.862274,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Arizona State,0.0334,0.0769,0.0435
 2023-01-08 08:40:30.826960,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,North Carolina,0.033300000000000024,0.2,0.1667
-2023-01-08 08:40:30.826960,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Pittsburgh,0.03330000000000001,0.1,0.0667
 2023-01-08 08:40:30.853874,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Nevada,0.03330000000000001,0.1,0.0667
-2023-01-08 12:40:37.257600,Sentry Tournament of Champions - 2/3 Balls - Final Round 2 Balls - A. Svensson v C. Ramey - Final Round 2 Balls,Chad Ramey,0.031799999999999995,0.4762,0.4444
+2023-01-08 08:40:30.826960,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Pittsburgh,0.03330000000000001,0.1,0.0667
 2023-01-08 13:40:34.981796,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Michael Malone,0.031799999999999995,0.1429,0.1111
+2023-01-08 12:40:37.257600,Sentry Tournament of Champions - 2/3 Balls - Final Round 2 Balls - A. Svensson v C. Ramey - Final Round 2 Balls,Chad Ramey,0.031799999999999995,0.4762,0.4444
 2023-01-08 12:40:37.286408,Sentry Tournament of Champions - 2/3 Balls - Final Round 2 Balls - C. Young v S. Straka - Final Round 2 Balls,Cameron Young,0.030299999999999994,0.6667,0.6364
 2023-01-08 13:40:34.986524,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Nicolas Claxton (BKN),0.028399999999999995,0.0909,0.0625
 2023-01-08 06:40:29.507885,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,San Francisco 49ers,0.027999999999999997,0.1818,0.1538
@@ -36,8 +36,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-08 07:40:31.314520,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Los Angeles Lakers,0.024800000000000003,0.0526,0.0278
 2023-01-08 07:40:31.287620,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Boston Celtics,0.023799999999999988,0.3571,0.3333
 2023-01-08 07:40:31.314520,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Sacramento Kings,0.023799999999999988,0.1667,0.1429
-2023-01-08 11:40:30.803072,Copa del Rey - Copa Del Rey 2022/2023 - Winner,Atletico Madrid,0.022199999999999998,0.1333,0.1111
 2023-01-08 06:40:29.507885,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Kansas City Chiefs,0.022199999999999998,0.2222,0.2
+2023-01-08 11:40:30.803072,Copa del Rey - Copa Del Rey 2022/2023 - Winner,Atletico Madrid,0.022199999999999998,0.1333,0.1111
 2023-01-08 08:40:30.826960,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Virginia,0.021999999999999964,0.3077,0.2857
 2023-01-08 06:40:28.111281,Boxing Lines - Efe Ajagba vs Stephan Shaw - To Win the Bout,Stephan Shaw,0.02079999999999993,0.5556,0.5348
 2023-01-08 13:40:34.981796,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Rick Carlisle,0.02020000000000001,0.1111,0.0909
@@ -53,62 +53,59 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-08 08:40:30.847316,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Michigan,0.0157,0.0435,0.0278
 2023-01-08 08:40:30.847316,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Michigan State,0.015300000000000001,0.0588,0.0435
 2023-01-08 08:40:30.840885,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Marquette,0.015100000000000002,0.1818,0.1667
-2023-01-08 01:40:37.075568,Boxing Lines - Demetrius Andrade vs Demond Nicholson - To Win the Bout,Demetrius Andrade,0.014900000000000024,0.9804,0.9655
 2023-01-08 13:40:34.863146,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Los Angeles Clippers,0.01469999999999999,0.25,0.2353
 2023-01-08 08:40:30.834412,College Basketball - American Athletic Regular Season Conference Winner - AAC Regular Season Winner,Central Florida,0.014099999999999998,0.0435,0.0294
 2023-01-08 11:40:30.803072,Copa del Rey - Copa Del Rey 2022/2023 - Winner,Athletic Bilbao,0.013999999999999999,0.0909,0.0769
 2023-01-08 07:40:31.309559,2022/23 Divisions - 2022-2023 NBA Northwest Division - Division Winner,Denver Nuggets,0.012300000000000089,0.9804,0.9681
-2023-01-08 13:40:35.449316,Round Match-Ups - Final Round Match-Up - J. Rahm vs S. Scheffler - Final Round Match-Up,Scottie Scheffler,0.012199999999999989,0.5122,0.5
 2023-01-08 12:40:37.316491,Sentry Tournament of Champions - 2/3 Balls - Final Round 2 Balls - J.T. Poston v T. Hoge - Final Round 2 Balls,J.T. Poston,0.012199999999999989,0.5122,0.5
+2023-01-08 13:40:35.449316,Round Match-Ups - Final Round Match-Up - J. Rahm vs S. Scheffler - Final Round Match-Up,Scottie Scheffler,0.012199999999999989,0.5122,0.5
 2023-01-08 08:40:30.826960,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,NC State,0.0118,0.0217,0.0099
 2023-01-08 12:40:37.272156,Sentry Tournament of Champions - 2/3 Balls - Final Round 2 Balls - A. Scott v B. Horschel - Final Round 2 Balls,Billy Horschel,0.011600000000000055,0.5238,0.5122
 2023-01-08 07:40:30.561641,Futures - The Open Championship 2023 - Outright,Collin Morikawa,0.011199999999999995,0.0588,0.0476
 2023-01-08 11:40:30.803072,Copa del Rey - Copa Del Rey 2022/2023 - Winner,Valencia,0.011199999999999995,0.0588,0.0476
-2023-01-08 01:40:37.089774,Boxing Lines - Gervonta Davis vs Hector Garcia - To Win the Bout,Hector Garcia,0.011099999999999999,0.1111,0.1
 2023-01-08 12:40:37.321255,Sentry Tournament of Champions - 2/3 Balls - Final Round 2 Balls - B. Harman v J. Spieth - Final Round 2 Balls,Brian Harman,0.011099999999999999,0.4762,0.4651
 2023-01-08 05:40:29.654745,Boxing Lines - Efe Ajagba vs Stephan Shaw - To Win the Bout,Efe Ajagba,0.01100000000000001,0.5348,0.5238
 2023-01-08 06:40:29.507885,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Philadelphia Eagles,0.010899999999999993,0.1538,0.1429
 2023-01-08 08:40:30.880777,College Basketball - West Coast Regular Season Conference Winner - West Coast Conference Regular Season Winner,BYU,0.010700000000000001,0.0385,0.0278
 2023-01-08 13:40:34.875082,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Memphis Grizzlies,0.010400000000000076,0.7778,0.7674
 2023-01-08 11:40:30.990503,League Two - England - League Two 2022/23 - Top Goalscorer,Omari Patrick,-0.0103,0.002,0.0123
-2023-01-08 11:40:30.990503,League Two - England - League Two 2022/23 - Top Goalscorer,Mikael Mandron,-0.0103,0.002,0.0123
 2023-01-08 11:40:30.990503,League Two - England - League Two 2022/23 - Top Goalscorer,Aaron Drinan,-0.0103,0.002,0.0123
+2023-01-08 11:40:30.990503,League Two - England - League Two 2022/23 - Top Goalscorer,Mikael Mandron,-0.0103,0.002,0.0123
 2023-01-08 13:40:34.814585,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Boston Celtics,-0.010499999999999982,0.2,0.2105
 2023-01-08 07:40:31.309559,2022/23 Divisions - 2022-2023 NBA Northwest Division - Division Winner,Utah Jazz,-0.010600000000000002,0.0217,0.0323
-2023-01-08 13:40:35.449316,Round Match-Ups - Final Round Match-Up - J. Rahm vs S. Scheffler - Final Round Match-Up,Jon Rahm,-0.010699999999999932,0.5348,0.5455
 2023-01-08 12:40:37.316491,Sentry Tournament of Champions - 2/3 Balls - Final Round 2 Balls - J.T. Poston v T. Hoge - Final Round 2 Balls,Tom Hoge,-0.010699999999999932,0.5348,0.5455
+2023-01-08 13:40:35.449316,Round Match-Ups - Final Round Match-Up - J. Rahm vs S. Scheffler - Final Round Match-Up,Jon Rahm,-0.010699999999999932,0.5348,0.5455
 2023-01-08 13:40:34.875082,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Dallas Mavericks,-0.010899999999999993,0.1429,0.1538
 2023-01-08 12:40:37.272156,Sentry Tournament of Champions - 2/3 Balls - Final Round 2 Balls - A. Scott v B. Horschel - Final Round 2 Balls,Adam Scott,-0.01100000000000001,0.5238,0.5348
+2023-01-08 13:40:34.869067,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Atlanta Hawks,-0.011099999999999999,0.2667,0.2778
+2023-01-08 13:40:34.863146,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Phoenix Suns,-0.011099999999999999,0.2667,0.2778
+2023-01-08 07:40:31.319503,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Washington Wizards,-0.011099999999999999,0.1,0.1111
 2023-01-08 07:40:31.287620,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Philadelphia 76ers,-0.011099999999999999,0.1,0.1111
 2023-01-08 13:40:34.814585,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Golden State Warriors,-0.011099999999999999,0.1,0.1111
-2023-01-08 13:40:34.869067,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Atlanta Hawks,-0.011099999999999999,0.2667,0.2778
-2023-01-08 07:40:31.319503,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Washington Wizards,-0.011099999999999999,0.1,0.1111
-2023-01-08 13:40:34.863146,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Phoenix Suns,-0.011099999999999999,0.2667,0.2778
 2023-01-08 08:40:30.862274,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Oregon,-0.011199999999999995,0.0323,0.0435
 2023-01-08 08:40:30.862274,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,USC,-0.011199999999999995,0.0476,0.0588
 2023-01-08 13:40:34.822764,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Boston Celtics,-0.012299999999999978,0.3448,0.3571
-2023-01-08 13:40:34.822764,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Milwaukee Bucks,-0.0131,0.2222,0.2353
 2023-01-08 06:40:29.507885,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Tampa Bay Buccaneers,-0.0131,0.0345,0.0476
+2023-01-08 13:40:34.822764,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Milwaukee Bucks,-0.0131,0.2222,0.2353
 2023-01-08 09:40:38.868242,Sentry Tournament of Champions - 2/3 Balls - Final Round 2 Balls - C. Reavie v K. Bradley - Final Round 2 Balls,Chez Reavie,-0.013800000000000034,0.3636,0.3774
 2023-01-08 11:40:30.990503,League Two - England - League Two 2022/23 - Top Goalscorer,Danny Johnson,-0.013999999999999999,0.0769,0.0909
 2023-01-08 11:40:30.803072,Copa del Rey - Copa Del Rey 2022/2023 - Winner,Espanyol,-0.014099999999999998,0.0244,0.0385
-2023-01-08 13:40:34.986524,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Evan Mobley (CLE),-0.014399999999999996,0.0625,0.0769
-2023-01-08 13:40:34.986524,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,OG Anunoby (TOR),-0.014399999999999996,0.0625,0.0769
 2023-01-08 13:40:34.981796,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Will Hardy,-0.014399999999999996,0.0625,0.0769
-2023-01-08 08:40:30.853874,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Fresno State,-0.0145,0.0099,0.0244
+2023-01-08 13:40:34.986524,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,OG Anunoby (TOR),-0.014399999999999996,0.0625,0.0769
+2023-01-08 13:40:34.986524,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Evan Mobley (CLE),-0.014399999999999996,0.0625,0.0769
 2023-01-08 08:40:30.847316,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Iowa,-0.0145,0.0099,0.0244
 2023-01-08 08:40:30.853874,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Wyoming,-0.0145,0.0099,0.0244
+2023-01-08 08:40:30.853874,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Fresno State,-0.0145,0.0099,0.0244
 2023-01-08 07:40:31.287620,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Milwaukee Bucks,-0.01469999999999999,0.2353,0.25
 2023-01-08 12:40:37.267331,Sentry Tournament of Champions - 2/3 Balls - Final Round 2 Balls - M. Hughes v S. Burns - Final Round 2 Balls,Sam Burns,-0.014800000000000035,0.6078,0.6226
 2023-01-08 13:40:34.830452,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Clippers,-0.015100000000000002,0.1667,0.1818
 2023-01-08 13:40:34.875082,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,New Orleans Pelicans,-0.015100000000000002,0.1667,0.1818
-2023-01-08 01:40:37.075568,Boxing Lines - Demetrius Andrade vs Demond Nicholson - To Win the Bout,Demond Nicholson,-0.016600000000000004,0.0667,0.0833
 2023-01-08 13:40:34.822764,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Philadelphia 76ers,-0.016700000000000007,0.0833,0.1
 2023-01-08 11:40:30.803072,Copa del Rey - Copa Del Rey 2022/2023 - Winner,Real Madrid,-0.0174,0.2326,0.25
 2023-01-08 12:40:37.321255,Sentry Tournament of Champions - 2/3 Balls - Final Round 2 Balls - B. Harman v J. Spieth - Final Round 2 Balls,Jordan Spieth,-0.018100000000000005,0.5652,0.5833
 2023-01-08 09:40:38.802127,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Duke,-0.018200000000000004,0.0294,0.0476
-2023-01-08 06:40:29.491434,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Dallas Cowboys,-0.01820000000000002,0.1818,0.2
 2023-01-08 13:40:34.976515,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Malcolm Brogdon (BOS),-0.01820000000000002,0.1818,0.2
+2023-01-08 06:40:29.491434,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Dallas Cowboys,-0.01820000000000002,0.1818,0.2
 2023-01-08 08:40:30.840885,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Villanova,-0.0189,0.0196,0.0385
 2023-01-08 07:40:31.299581,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Boston Celtics,-0.018999999999999906,0.7143,0.7333
 2023-01-08 11:40:30.803072,Copa del Rey - Copa Del Rey 2022/2023 - Winner,Villarreal,-0.019099999999999992,0.0476,0.0667
@@ -134,8 +131,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-08 08:40:30.853874,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,New Mexico,-0.033299999999999996,0.1,0.1333
 2023-01-08 13:40:34.991357,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Tyrese Haliburton (IND),-0.033300000000000024,0.1667,0.2
 2023-01-08 08:40:30.834412,College Basketball - American Athletic Regular Season Conference Winner - AAC Regular Season Winner,Memphis U,-0.03420000000000001,0.0769,0.1111
-2023-01-08 13:40:34.991357,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Shai Gilgeous-Alexander (OKC),-0.03479999999999994,0.5652,0.6
 2023-01-08 12:40:37.257600,Sentry Tournament of Champions - 2/3 Balls - Final Round 2 Balls - A. Svensson v C. Ramey - Final Round 2 Balls,Adam Svensson,-0.03479999999999994,0.5652,0.6
+2023-01-08 13:40:34.991357,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Shai Gilgeous-Alexander (OKC),-0.03479999999999994,0.5652,0.6
 2023-01-08 08:40:30.862274,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Utah U,-0.037599999999999995,0.1053,0.1429
 2023-01-08 08:40:30.872341,College Basketball - SEC Regular Season Conference Winner - SEC Regular Season Winner,LSU,-0.037700000000000004,0.0099,0.0476
 2023-01-08 07:40:31.324466,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,New Orleans Pelicans,-0.04040000000000002,0.1818,0.2222
@@ -143,8 +140,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-08 13:40:34.830452,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Phoenix Suns,-0.04269999999999999,0.1111,0.1538
 2023-01-08 08:40:30.847316,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Wisconsin,-0.047400000000000005,0.0526,0.1
 2023-01-08 13:40:34.986524,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.047599999999999976,0.2857,0.3333
-2023-01-08 08:40:30.826960,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Miami (FL),-0.04999999999999999,0.2,0.25
 2023-01-08 13:40:34.981796,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Willie Green,-0.04999999999999999,0.2,0.25
+2023-01-08 08:40:30.826960,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Miami (FL),-0.04999999999999999,0.2,0.25
 2023-01-08 08:40:30.872341,College Basketball - SEC Regular Season Conference Winner - SEC Regular Season Winner,Arkansas,-0.052000000000000005,0.0909,0.1429
 2023-01-08 07:40:31.319503,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Atlanta Hawks,-0.055499999999999994,0.2778,0.3333
 2023-01-08 07:40:31.304553,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Milwaukee Bucks,-0.06659999999999999,0.6667,0.7333
