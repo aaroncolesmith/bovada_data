@@ -15,7 +15,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-11 15:40:39.240935,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Sacramento Kings,Over 42.5,0.06519999999999992,0.6,0.5348
 2023-01-11 14:40:31.818661,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Indinana Pacers,Over 41.5,0.06519999999999992,0.6,0.5348
 2023-01-11 09:40:30.474558,League Two - England - League Two 2022/23 - Top 3 Finish,Leyton Orient,0.0635,0.9524,0.8889
-2023-01-11 07:40:33.101099,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Dayton,0.06059999999999999,0.697,0.6364
 2023-01-11 13:40:30.836237,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Los Angeles Clippers,Yes,0.05679999999999996,0.875,0.8182
 2023-01-11 09:40:30.461818,League Two - England - League Two 2022/23 - To Be Relegated,Harrogate Town,0.05559999999999998,0.1667,0.1111
 2023-01-11 15:40:39.232727,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Portland Trail Blazers,Under 41.5,0.05559999999999998,0.5556,0.5
@@ -23,9 +22,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-11 11:40:33.573039,95th Academy Awards - Best Actor - Best Actor,Austin Butler,0.05550000000000002,0.2222,0.1667
 2023-01-11 13:40:30.969533,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Charlotte Hornets,Over 25.5,0.05449999999999999,0.6,0.5455
 2023-01-11 09:40:30.454202,League Two - England - League Two 2022/23 - To Be Promoted,Leyton Orient,0.0524,0.9615,0.9091
-2023-01-11 09:40:30.482694,League Two - England - League Two 2022/23 - Top 7 Finish,Carlisle United,0.045499999999999985,0.5,0.4545
 2023-01-11 15:40:38.280088,Sony Open - 2/3 Balls - 1st Round 3 Balls - A. Putnam / K.J. Choi / M. Hubbard - 1st Round 3 Balls,Andrew Putnam,0.045499999999999985,0.5455,0.5
 2023-01-11 14:40:31.813755,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Houston Rockets,Over 22.5,0.045499999999999985,0.5,0.4545
+2023-01-11 09:40:30.482694,League Two - England - League Two 2022/23 - Top 7 Finish,Carlisle United,0.045499999999999985,0.5,0.4545
 2023-01-11 09:40:30.474558,League Two - England - League Two 2022/23 - Top 3 Finish,Stockport County,0.044499999999999984,0.2667,0.2222
 2023-01-11 09:40:30.454202,League Two - England - League Two 2022/23 - To Be Promoted,Stockport County,0.044399999999999995,0.4444,0.4
 2023-01-11 09:40:30.585661,National League - England National League 2022/23 - Outright,Wrexham,0.04409999999999992,0.6667,0.6226
@@ -38,8 +37,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-11 15:40:38.381486,Sony Open - 2/3 Balls - 1st Round 3 Balls - T. Montgomery / C. Yuan / T. Semikawa - 1st Round 3 Balls,Taylor Montgomery,0.03480000000000005,0.5348,0.5
 2023-01-11 14:40:32.160494,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Russell Westbrook (LAL),0.03479999999999994,0.6,0.5652
 2023-01-11 12:40:29.559715,NFL Playoffs Specials - 2023 Playoffs - Most Rushing Yards - Proposition,Christian McCaffrey,0.033300000000000024,0.2,0.1667
-2023-01-11 13:40:31.053016,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Boston Celtics,0.033299999999999996,0.8333,0.8
 2023-01-11 14:40:31.852434,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - New Orleans Pelicans,Under 47.5,0.033299999999999996,0.5455,0.5122
+2023-01-11 13:40:31.053016,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Boston Celtics,0.033299999999999996,0.8333,0.8
 2023-01-11 09:40:30.454202,League Two - England - League Two 2022/23 - To Be Promoted,Stevenage,0.03180000000000005,0.8889,0.8571
 2023-01-11 15:40:39.236839,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Sacramento Kings,Under 43.5,0.030399999999999983,0.5652,0.5348
 2023-01-11 09:40:30.482694,League Two - England - League Two 2022/23 - Top 7 Finish,Swindon Town,0.030299999999999994,0.3636,0.3333
@@ -53,18 +52,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-11 15:40:38.290931,Sony Open - 2/3 Balls - 1st Round 3 Balls - C. Ramey / L. Glover / C. Davis - 1st Round 3 Balls,Cameron Davis,0.024399999999999977,0.5122,0.4878
 2023-01-11 14:40:31.837933,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Miami Heat,Under 42.5,0.023800000000000043,0.5238,0.5
 2023-01-11 14:40:31.823505,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Los Angeles Clippers,Under 43.5,0.023799999999999988,0.5,0.4762
-2023-01-11 09:40:30.474558,League Two - England - League Two 2022/23 - Top 3 Finish,Stevenage,0.023799999999999932,0.8571,0.8333
 2023-01-11 15:40:39.125712,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,New York Knicks,0.023799999999999932,0.6667,0.6429
+2023-01-11 09:40:30.474558,League Two - England - League Two 2022/23 - Top 3 Finish,Stevenage,0.023799999999999932,0.8571,0.8333
 2023-01-11 18:40:31.156113,Sony Open - 2/3 Balls - 1st Round 3 Balls - C. Conners / R. Sabbatini / J. Kelly - 1st Round 3 Balls,Corey Conners,0.022600000000000064,0.6226,0.6
-2023-01-11 13:40:30.048700,Sony Open - 2/3 Balls - 1st Round 3 Balls - E. Barnes / S. Stevens / C. Hammer - 1st Round 3 Balls,Sam Stevens,0.022199999999999998,0.3448,0.3226
 2023-01-11 09:40:30.482694,League Two - England - League Two 2022/23 - Top 7 Finish,Tranmere Rovers,0.022199999999999998,0.2222,0.2
-2023-01-11 07:40:33.088994,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Virginia,0.022199999999999998,0.3448,0.3226
+2023-01-11 13:40:30.048700,Sony Open - 2/3 Balls - 1st Round 3 Balls - E. Barnes / S. Stevens / C. Hammer - 1st Round 3 Balls,Sam Stevens,0.022199999999999998,0.3448,0.3226
 2023-01-11 13:40:31.078244,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Miami Heat,0.02200000000000002,0.7143,0.6923
-2023-01-11 18:40:31.170949,Sony Open - 2/3 Balls - 1st Round 3 Balls - H. Higgs / W. Gordon / K. Higa - 1st Round 3 Balls,Will Gordon,0.021699999999999997,0.4762,0.4545
 2023-01-11 16:40:33.525415,Sony Open - 2/3 Balls - 1st Round 3 Balls - J.J. Spaun / R. Brehm / W. Simpson - 1st Round 3 Balls,J J Spaun,0.021699999999999997,0.4762,0.4545
+2023-01-11 18:40:31.170949,Sony Open - 2/3 Balls - 1st Round 3 Balls - H. Higgs / W. Gordon / K. Higa - 1st Round 3 Balls,Will Gordon,0.021699999999999997,0.4762,0.4545
 2023-01-11 13:40:30.149928,Round Match-Ups - 1st Round Match-Up - R. Henley vs T. Hoge - 1st Round Match-Up,Russell Henley,0.02169999999999994,0.5455,0.5238
-2023-01-11 15:40:39.257744,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Washington Wizards,Over 35.5,0.02079999999999993,0.5556,0.5348
 2023-01-11 18:40:31.355256,Tournament Match-Ups - Tournament Match-Up - A. Putnam vs E. Grillo - Tournament Match-Up ,Andrew Putnam,0.02079999999999993,0.5556,0.5348
+2023-01-11 15:40:39.257744,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Washington Wizards,Over 35.5,0.02079999999999993,0.5556,0.5348
 2023-01-11 14:40:31.864499,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Oklahoma City Thunder,Under 31.5,0.02079999999999993,0.5556,0.5348
 2023-01-11 09:40:30.468267,League Two - England - League Two 2022/23 - To Finish Bottom,Harrogate Town,0.0203,0.0588,0.0385
 2023-01-11 11:40:33.837282,Number 1 Seed - 2022/23 NBA - Western Conference No. 1 Seed,LA Lakers,0.0186,0.0196,0.001
@@ -72,57 +70,54 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-11 08:40:33.968864,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Kansas State,0.01759999999999999,0.1176,0.1
 2023-01-11 16:40:34.012980,Boxing Lines - Joseph Parker vs Jack Massey - To Win the Bout,Joseph Parker,0.016699999999999937,0.9167,0.9
 2023-01-11 10:40:28.541515,Boxing Lines - Efe Ajagba vs Stephan Shaw - To Win the Bout,Efe Ajagba,0.015400000000000025,0.4762,0.4608
-2023-01-11 08:40:33.911249,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Clippers,0.015100000000000002,0.1818,0.1667
-2023-01-11 09:40:29.792134,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,New Orleans Pelicans,0.015100000000000002,0.1818,0.1667
 2023-01-11 08:40:33.968864,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,TCU,0.015100000000000002,0.1818,0.1667
+2023-01-11 08:40:33.911249,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Clippers,0.015100000000000002,0.1818,0.1667
 2023-01-11 08:40:35.673782,EFL Cup - EFL Cup 2022/23 - Winner,Newcastle United,0.015100000000000002,0.1818,0.1667
+2023-01-11 09:40:29.792134,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,New Orleans Pelicans,0.015100000000000002,0.1818,0.1667
 2023-01-11 16:40:34.076960,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Iowa State,0.0145,0.0244,0.0099
 2023-01-11 13:40:30.869245,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - New Orleans Pelicans,No,0.014399999999999996,0.0769,0.0625
-2023-01-11 07:40:32.880079,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Exact Finalists,CIN Bengals vs SF 49ers,0.014399999999999996,0.0769,0.0625
 2023-01-11 15:40:38.190954,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Michelle Obama,0.014100000000000001,0.0526,0.0385
 2023-01-11 09:40:30.454202,League Two - England - League Two 2022/23 - To Be Promoted,Walsall,0.013899999999999996,0.125,0.1111
 2023-01-11 09:40:30.474558,League Two - England - League Two 2022/23 - Top 3 Finish,Carlisle United,0.013899999999999996,0.125,0.1111
-2023-01-11 07:40:32.855990,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Kansas City Chiefs,0.0131,0.2353,0.2222
 2023-01-11 13:40:30.881827,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Oklahoma City Thunder,Yes,0.012600000000000007,0.0714,0.0588
 2023-01-11 08:40:35.050037,NFL Specials - NFL Draft 2023 - How Many QBs selected in Round 1,Under 4.5,0.012499999999999956,0.7561,0.7436
 2023-01-11 13:40:31.072622,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Sacramento Kings,0.011700000000000016,0.2222,0.2105
-2023-01-11 07:40:33.088994,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Miami (FL),0.011700000000000016,0.2222,0.2105
 2023-01-11 13:40:31.030320,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Boston Celtics,0.011700000000000016,0.2222,0.2105
 2023-01-11 08:40:33.917416,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Brooklyn Nets,0.011700000000000016,0.2222,0.2105
 2023-01-11 13:40:31.083862,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Memphis Grizzlies,0.011699999999999933,0.7895,0.7778
 2023-01-11 14:40:31.402177,Round Match-Ups - 1st Round Match-Up - H. Matsuyama vs C. Conners - 1st Round Match-Up,Corey Conners,0.011600000000000055,0.5238,0.5122
 2023-01-11 08:40:33.905825,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Philadelphia 76ers,0.011099999999999999,0.1111,0.1
-2023-01-11 08:40:33.899002,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Golden State Warriors,0.011099999999999999,0.1111,0.1
 2023-01-11 15:40:38.190954,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Kamala Harris,0.011099999999999999,0.1111,0.1
+2023-01-11 08:40:33.899002,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Golden State Warriors,0.011099999999999999,0.1111,0.1
+2023-01-11 08:40:33.974066,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Connecticut,0.011099999999999999,0.4762,0.4651
 2023-01-11 08:40:33.984635,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,New Mexico,0.011099999999999999,0.1111,0.1
 2023-01-11 13:40:31.030320,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Denver Nuggets,0.011099999999999999,0.1111,0.1
-2023-01-11 08:40:33.974066,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Connecticut,0.011099999999999999,0.4762,0.4651
 2023-01-11 14:40:31.288397,Round Match-Ups - 1st Round Match-Up - H. English vs S.W. Kim - 1st Round Match-Up,Si Woo Kim,0.01100000000000001,0.5348,0.5238
+2023-01-11 19:40:35.409416,Boxing Lines - Adam Lopez vs Abraham Nova - To Win the Bout,Adam Lopez,0.01100000000000001,0.5348,0.5238
+2023-01-11 18:40:31.379870,Tournament Match-Ups - Tournament Match-Up - H. English vs D. McCarthy - Tournament Match-Up,Denny McCarthy,0.010699999999999932,0.5455,0.5348
 2023-01-11 14:40:31.808162,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Golden State Warriors,Over 44.5,0.010699999999999932,0.5455,0.5348
 2023-01-11 16:40:33.995914,Boxing Lines - Adam Lopez vs Abraham Nova - To Win the Bout,Abraham Nova,0.010699999999999932,0.5455,0.5348
-2023-01-11 18:40:31.379870,Tournament Match-Ups - Tournament Match-Up - H. English vs D. McCarthy - Tournament Match-Up,Denny McCarthy,0.010699999999999932,0.5455,0.5348
-2023-01-11 09:40:29.778591,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Sacramento Kings,0.010499999999999982,0.2105,0.2
-2023-01-11 08:40:33.911249,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Golden State Warriors,0.010499999999999982,0.2105,0.2
 2023-01-11 09:40:29.778591,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Phoenix Suns,0.010499999999999982,0.2105,0.2
-2023-01-11 15:40:38.196896,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Ron DeSantis,0.010099999999999998,0.5556,0.5455
+2023-01-11 08:40:33.911249,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Golden State Warriors,0.010499999999999982,0.2105,0.2
+2023-01-11 09:40:29.778591,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Sacramento Kings,0.010499999999999982,0.2105,0.2
 2023-01-11 16:40:33.978842,Boxing Lines - Floyd Diaz vs Edwin Rodriguez - To Win the Bout,Edwin Rodriguez,0.010099999999999998,0.2062,0.1961
+2023-01-11 15:40:38.196896,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Ron DeSantis,0.010099999999999998,0.5556,0.5455
 2023-01-11 08:40:35.673782,EFL Cup - EFL Cup 2022/23 - Winner,Manchester City,-0.010099999999999998,0.5455,0.5556
 2023-01-11 13:40:31.045680,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Golden State Warriors,-0.010499999999999982,0.2,0.2105
+2023-01-11 19:40:35.409416,Boxing Lines - Adam Lopez vs Abraham Nova - To Win the Bout,Abraham Nova,-0.010699999999999932,0.5348,0.5455
 2023-01-11 15:40:38.387048,Sony Open - 2/3 Balls - 1st Round 3 Balls - H. Higgs / W. Gordon / K. Higa - 1st Round 3 Balls,Harry Higgs,-0.010699999999999987,0.3226,0.3333
 2023-01-11 15:40:38.290931,Sony Open - 2/3 Balls - 1st Round 3 Balls - C. Ramey / L. Glover / C. Davis - 1st Round 3 Balls,Lucas Glover,-0.010699999999999987,0.3226,0.3333
-2023-01-11 17:40:27.690037,Boxing Lines - Richard Riakporhe vs Krzysztof Glowacki - To Win the Bout,Krzysztof Glowacki,-0.010899999999999993,0.1429,0.1538
 2023-01-11 09:40:30.482694,League Two - England - League Two 2022/23 - Top 7 Finish,Sutton Utd,-0.010899999999999993,0.1429,0.1538
-2023-01-11 14:40:31.402177,Round Match-Ups - 1st Round Match-Up - H. Matsuyama vs C. Conners - 1st Round Match-Up,Hideki Matsuyama,-0.01100000000000001,0.5238,0.5348
+2023-01-11 17:40:27.690037,Boxing Lines - Richard Riakporhe vs Krzysztof Glowacki - To Win the Bout,Krzysztof Glowacki,-0.010899999999999993,0.1429,0.1538
 2023-01-11 16:40:33.995914,Boxing Lines - Adam Lopez vs Abraham Nova - To Win the Bout,Adam Lopez,-0.01100000000000001,0.5238,0.5348
 2023-01-11 18:40:31.379870,Tournament Match-Ups - Tournament Match-Up - H. English vs D. McCarthy - Tournament Match-Up,Harris English,-0.01100000000000001,0.5238,0.5348
+2023-01-11 14:40:31.402177,Round Match-Ups - 1st Round Match-Up - H. Matsuyama vs C. Conners - 1st Round Match-Up,Hideki Matsuyama,-0.01100000000000001,0.5238,0.5348
 2023-01-11 14:40:31.808162,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Golden State Warriors,Under 44.5,-0.01100000000000001,0.5238,0.5348
-2023-01-11 07:40:33.101099,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Virginia Commonwealth,-0.011099999999999999,0.1,0.1111
 2023-01-11 13:40:31.038812,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Philadelphia 76ers,-0.011099999999999999,0.1,0.1111
 2023-01-11 13:40:31.030320,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Golden State Warriors,-0.011099999999999999,0.1,0.1111
-2023-01-11 07:40:32.855990,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Cincinnati Bengals,-0.011099999999999999,0.1,0.1111
-2023-01-11 09:40:30.454202,League Two - England - League Two 2022/23 - To Be Promoted,AFC Wimbledon,-0.011199999999999995,0.0476,0.0588
-2023-01-11 11:40:33.573039,95th Academy Awards - Best Actor - Best Actor,Bill Nighy,-0.011199999999999995,0.0323,0.0435
 2023-01-11 10:40:29.064622,95th Academy Awards - Odds to win 2023 Academy Award for Best Picture - Proposition,Women Talking,-0.011199999999999995,0.0323,0.0435
+2023-01-11 11:40:33.573039,95th Academy Awards - Best Actor - Best Actor,Bill Nighy,-0.011199999999999995,0.0323,0.0435
+2023-01-11 09:40:30.454202,League Two - England - League Two 2022/23 - To Be Promoted,AFC Wimbledon,-0.011199999999999995,0.0476,0.0588
 2023-01-11 08:40:33.968864,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,West Virginia,-0.011200000000000002,0.0132,0.0244
 2023-01-11 14:40:31.288397,Round Match-Ups - 1st Round Match-Up - H. English vs S.W. Kim - 1st Round Match-Up,Harris English,-0.011600000000000055,0.5122,0.5238
 2023-01-11 13:40:31.053016,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Brooklyn Nets,-0.011700000000000016,0.2105,0.2222
@@ -131,12 +126,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-11 08:40:33.968864,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Texas Tech,-0.012800000000000002,0.0116,0.0244
 2023-01-11 13:40:30.048700,Sony Open - 2/3 Balls - 1st Round 3 Balls - E. Barnes / S. Stevens / C. Hammer - 1st Round 3 Balls,Cole Hammer,-0.013300000000000034,0.3571,0.3704
 2023-01-11 15:40:38.368458,Sony Open - 2/3 Balls - 1st Round 3 Balls - C. Conners / R. Sabbatini / J. Kelly - 1st Round 3 Balls,Rory Sabbatini,-0.013899999999999968,0.2564,0.2703
-2023-01-11 09:40:30.454202,League Two - England - League Two 2022/23 - To Be Promoted,Tranmere Rovers,-0.013999999999999999,0.0769,0.0909
 2023-01-11 09:40:30.474558,League Two - England - League Two 2022/23 - Top 3 Finish,Salford City,-0.013999999999999999,0.0769,0.0909
+2023-01-11 09:40:30.454202,League Two - England - League Two 2022/23 - To Be Promoted,Tranmere Rovers,-0.013999999999999999,0.0769,0.0909
 2023-01-11 10:40:29.064622,95th Academy Awards - Odds to win 2023 Academy Award for Best Picture - Proposition,Tar,-0.014099999999999994,0.0526,0.0667
-2023-01-11 07:40:33.095289,College Basketball - American Athletic Regular Season Conference Winner - AAC Regular Season Winner,Tulane,-0.014099999999999998,0.0244,0.0385
 2023-01-11 09:40:29.778591,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Los Angeles Lakers,-0.014399999999999996,0.0625,0.0769
-2023-01-11 07:40:33.095289,College Basketball - American Athletic Regular Season Conference Winner - AAC Regular Season Winner,Memphis U,-0.014399999999999996,0.0625,0.0769
 2023-01-11 11:40:33.579929,95th Academy Awards - Best Actress - Best Actress,Danielle Deadwyler,-0.014899999999999997,0.0476,0.0625
 2023-01-11 18:40:31.170949,Sony Open - 2/3 Balls - 1st Round 3 Balls - H. Higgs / W. Gordon / K. Higa - 1st Round 3 Balls,Harry Higgs,-0.014900000000000024,0.3077,0.3226
 2023-01-11 18:40:31.170949,Sony Open - 2/3 Balls - 1st Round 3 Balls - H. Higgs / W. Gordon / K. Higa - 1st Round 3 Balls,Kazuki Higa,-0.014900000000000024,0.3077,0.3226
@@ -152,11 +145,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-11 13:40:31.038812,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Brooklyn Nets,-0.016699999999999993,0.25,0.2667
 2023-01-11 08:40:35.050037,NFL Specials - NFL Draft 2023 - How Many QBs selected in Round 1,Over 4.5,-0.01689999999999997,0.3279,0.3448
 2023-01-11 16:40:34.036204,Boxing Lines - Arnold Barboza Jr vs Jose Pedraza - To Win the Bout,Jose Pedraza,-0.017000000000000015,0.2299,0.2469
-2023-01-11 09:40:29.792134,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Dallas Mavericks,-0.0179,0.125,0.1429
 2023-01-11 09:40:30.482694,League Two - England - League Two 2022/23 - Top 7 Finish,AFC Wimbledon,-0.0179,0.125,0.1429
-2023-01-11 11:40:33.573039,95th Academy Awards - Best Actor - Best Actor,Harry Styles,-0.0189,0.0196,0.0385
-2023-01-11 11:40:33.573039,95th Academy Awards - Best Actor - Best Actor,Jalyn Hall,-0.0189,0.0196,0.0385
+2023-01-11 09:40:29.792134,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Dallas Mavericks,-0.0179,0.125,0.1429
 2023-01-11 11:40:33.573039,95th Academy Awards - Best Actor - Best Actor,Viggo Mortensen,-0.0189,0.0196,0.0385
+2023-01-11 11:40:33.573039,95th Academy Awards - Best Actor - Best Actor,Jalyn Hall,-0.0189,0.0196,0.0385
+2023-01-11 11:40:33.573039,95th Academy Awards - Best Actor - Best Actor,Harry Styles,-0.0189,0.0196,0.0385
 2023-01-11 09:40:30.482694,League Two - England - League Two 2022/23 - Top 7 Finish,Salford City,-0.018900000000000028,0.4255,0.4444
 2023-01-11 10:40:29.064622,95th Academy Awards - Odds to win 2023 Academy Award for Best Picture - Proposition,She Said,-0.019000000000000003,0.0435,0.0625
 2023-01-11 15:40:38.280088,Sony Open - 2/3 Balls - 1st Round 3 Balls - A. Putnam / K.J. Choi / M. Hubbard - 1st Round 3 Balls,Mark Hubbard,-0.019500000000000017,0.3509,0.3704
@@ -174,12 +167,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-11 18:40:31.355256,Tournament Match-Ups - Tournament Match-Up - A. Putnam vs E. Grillo - Tournament Match-Up ,Emiliano Grillo,-0.022600000000000064,0.5122,0.5348
 2023-01-11 15:40:39.257744,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Washington Wizards,Under 35.5,-0.022600000000000064,0.5122,0.5348
 2023-01-11 16:40:34.012980,Boxing Lines - Joseph Parker vs Jack Massey - To Win the Bout,Jack Massey,-0.023799999999999988,0.1429,0.1667
-2023-01-11 09:40:30.454202,League Two - England - League Two 2022/23 - To Be Promoted,Northampton Town,-0.023799999999999988,0.4762,0.5
 2023-01-11 09:40:30.468267,League Two - England - League Two 2022/23 - To Finish Bottom,Rochdale,-0.023799999999999988,0.1429,0.1667
+2023-01-11 09:40:30.454202,League Two - England - League Two 2022/23 - To Be Promoted,Northampton Town,-0.023799999999999988,0.4762,0.5
 2023-01-11 13:40:30.149928,Round Match-Ups - 1st Round Match-Up - R. Henley vs T. Hoge - 1st Round Match-Up,Tom Hoge,-0.023800000000000043,0.5,0.5238
 2023-01-11 11:40:33.573039,95th Academy Awards - Best Actor - Best Actor,Christian Bale,-0.023899999999999998,0.0196,0.0435
 2023-01-11 14:40:31.823505,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Los Angeles Clippers,Over 43.5,-0.026499999999999968,0.5652,0.5917
-2023-01-11 07:40:33.088994,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Duke,-0.027999999999999997,0.1538,0.1818
 2023-01-11 09:40:30.454202,League Two - England - League Two 2022/23 - To Be Promoted,Salford City,-0.027999999999999997,0.1538,0.1818
 2023-01-11 13:40:30.893236,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Philadelphia 76ers,No,-0.028399999999999995,0.0625,0.0909
 2023-01-11 09:40:30.482694,League Two - England - League Two 2022/23 - Top 7 Finish,Doncaster Rovers,-0.028799999999999992,0.125,0.1538
@@ -188,8 +180,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-11 11:40:33.579929,95th Academy Awards - Best Actress - Best Actress,Michelle Williams,-0.0321,0.0588,0.0909
 2023-01-11 08:40:33.917416,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Boston Celtics,-0.033299999999999996,0.8,0.8333
 2023-01-11 09:40:30.482694,League Two - England - League Two 2022/23 - Top 7 Finish,Northampton Town,-0.033299999999999996,0.8,0.8333
-2023-01-11 10:40:29.064622,95th Academy Awards - Odds to win 2023 Academy Award for Best Picture - Proposition,The Woman King,-0.03439999999999999,0.0323,0.0667
 2023-01-11 11:40:33.573039,95th Academy Awards - Best Actor - Best Actor,Hugh Jackman,-0.03439999999999999,0.0323,0.0667
+2023-01-11 10:40:29.064622,95th Academy Awards - Odds to win 2023 Academy Award for Best Picture - Proposition,The Woman King,-0.03439999999999999,0.0323,0.0667
 2023-01-11 15:40:39.236839,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Sacramento Kings,Over 43.5,-0.03480000000000005,0.5,0.5348
 2023-01-11 14:40:32.179694,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Lauri Markanen,-0.03640000000000004,0.3636,0.4
 2023-01-11 09:40:30.474558,League Two - England - League Two 2022/23 - Top 3 Finish,Northampton Town,-0.04089999999999999,0.3846,0.4255
@@ -197,12 +189,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-11 11:40:33.579929,95th Academy Awards - Best Actress - Best Actress,Carey Mulligan,-0.0429,0.0196,0.0625
 2023-01-11 10:40:29.064622,95th Academy Awards - Odds to win 2023 Academy Award for Best Picture - Proposition,Avatar: The Way of Water,-0.047400000000000005,0.0526,0.1
 2023-01-11 09:40:30.461818,League Two - England - League Two 2022/23 - To Be Relegated,Rochdale,-0.047599999999999976,0.2857,0.3333
-2023-01-11 07:40:33.088994,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,North Carolina,-0.04849999999999999,0.1333,0.1818
-2023-01-11 07:40:33.101099,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Saint Louis,-0.04999999999999999,0.2,0.25
 2023-01-11 14:40:31.813755,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Houston Rockets,Under 22.5,-0.05019999999999991,0.5652,0.6154
 2023-01-11 09:40:30.468267,League Two - England - League Two 2022/23 - To Finish Bottom,Colchester United,-0.052000000000000005,0.0909,0.1429
-2023-01-11 15:40:39.245050,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - San Antonio Spurs,Over 22.5,-0.05300000000000005,0.5122,0.5652
 2023-01-11 15:40:39.232727,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Portland Trail Blazers,Over 41.5,-0.05300000000000005,0.5122,0.5652
+2023-01-11 15:40:39.245050,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - San Antonio Spurs,Over 22.5,-0.05300000000000005,0.5122,0.5652
 2023-01-11 10:40:29.064622,95th Academy Awards - Odds to win 2023 Academy Award for Best Picture - Proposition,Amsterdam,-0.05349999999999999,0.0132,0.0667
 2023-01-11 09:40:30.454202,League Two - England - League Two 2022/23 - To Be Promoted,Mansfield Town,-0.055800000000000016,0.2299,0.2857
 2023-01-11 11:40:33.579929,95th Academy Awards - Best Actress - Best Actress,Florence Pugh,-0.0573,0.0196,0.0769
@@ -210,8 +200,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-11 13:40:30.836237,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Los Angeles Clippers,No,-0.0595,0.1905,0.25
 2023-01-11 09:40:30.585661,National League - England National League 2022/23 - Outright,Notts County,-0.05980000000000002,0.3846,0.4444
 2023-01-11 11:40:33.573039,95th Academy Awards - Best Actor - Best Actor,Brendan Fraser,-0.06669999999999998,0.6,0.6667
-2023-01-11 15:40:39.240935,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Sacramento Kings,Under 42.5,-0.06970000000000004,0.4651,0.5348
 2023-01-11 14:40:31.818661,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Indinana Pacers,Under 41.5,-0.06970000000000004,0.4651,0.5348
+2023-01-11 15:40:39.240935,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Sacramento Kings,Under 42.5,-0.06970000000000004,0.4651,0.5348
 2023-01-11 08:40:33.968864,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Texas,-0.07500000000000001,0.125,0.2
 2023-01-11 14:40:31.828317,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Los Angeles Lakers,Over 40.5,-0.08030000000000004,0.4545,0.5348
 2023-01-11 09:40:30.482694,League Two - England - League Two 2022/23 - Top 7 Finish,Mansfield Town,-0.08330000000000004,0.5,0.5833
