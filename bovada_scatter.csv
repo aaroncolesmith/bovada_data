@@ -22,12 +22,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-10 23:40:28.926953,80th Golden Globe Awards - Best Actress: Drama - Best Actress: Drama,Cate Blanchett - Tar,0.04169999999999996,0.875,0.8333
 2023-01-10 23:40:28.914645,80th Golden Globe Awards - Best Actor: Drama - Best Actor: Drama,Austin Butler - Elvis Presley,0.03620000000000001,0.8824,0.8462
 2023-01-10 21:40:27.856834,World Baseball Classic - 2023 World Baseball Classic - Outright,United States,0.03570000000000001,0.2857,0.25
+2023-01-11 05:40:27.705866,Boxing Lines - Adam Lopez vs Abraham Nova - To Win the Bout,Adam Lopez,0.03480000000000005,0.5348,0.5
 2023-01-10 19:40:28.285708,80th Golden Globe Awards - Best Actress: Drama - Best Actress: Drama,Cate Blanchett - Tar,0.033299999999999996,0.8333,0.8
 2023-01-10 19:40:28.635372,NFL Specials - NFL Draft 2023 - First RB Selected,Bijan Robinson,0.033299999999999996,0.8333,0.8
 2023-01-10 17:40:34.116874,95th Academy Awards - Best Actor - Best Actor,Hugh Jackman,0.03219999999999999,0.0667,0.0345
 2023-01-10 21:40:28.054578,80th Golden Globe Awards - Best Screenplay - Best Screenplay,Daniel Kwan & Daniel Scheinart - Everything Everywhere All At Once,0.031399999999999983,0.2667,0.2353
-2023-01-10 23:40:28.829549,95th Academy Awards - Odds to win 2023 Academy Award for Best Picture - Proposition,Everything Everywhere All at Once,0.030299999999999994,0.3636,0.3333
 2023-01-10 19:40:28.625970,NFL Specials - NFL Draft 2023 -  First Overall Pick,CJ Stroud,0.030299999999999994,0.3636,0.3333
+2023-01-10 23:40:28.829549,95th Academy Awards - Odds to win 2023 Academy Award for Best Picture - Proposition,Everything Everywhere All at Once,0.030299999999999994,0.3636,0.3333
 2023-01-10 20:40:30.528156,80th Golden Globe Awards - Best Actor: Musical or Comedy - Best Actor: Musical or Comedy,Colin Farrell - The Banshees of Inisherin,0.02839999999999998,0.9375,0.9091
 2023-01-10 17:40:34.122945,95th Academy Awards - Best Actress - Best Actress,Carey Mulligan,0.027999999999999997,0.0625,0.0345
 2023-01-10 22:40:33.249715,80th Golden Globe Awards - Best Screenplay - Best Screenplay,Daniel Kwan & Daniel Scheinart - Everything Everywhere All At Once,0.02739999999999998,0.2941,0.2667
@@ -37,8 +38,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-10 17:40:34.116874,95th Academy Awards - Best Actor - Best Actor,Colin Farrell,0.021999999999999964,0.3077,0.2857
 2023-01-10 23:40:28.945089,80th Golden Globe Awards - Best Director - Best Director,Steven Spielberg – The Fabelmans,0.02079999999999993,0.5556,0.5348
 2023-01-10 17:40:34.442107,Tournament Match-Ups - Tournament Match-Up - G. Woodland vs K. Kitayama - Tournament Match-Up,Gary Woodland,0.02079999999999993,0.5556,0.5348
-2023-01-10 20:40:30.559541,80th Golden Globe Awards - Best Motion Picture: Musical or Comedy - Best Motion Picture: Musical or Comedy,Everything Everywhere All At Once,0.018999999999999906,0.7333,0.7143
 2023-01-10 20:40:30.564422,80th Golden Globe Awards - Best Screenplay - Best Screenplay,Martin McDonagh - The Banshees of Inisherin,0.018999999999999906,0.7333,0.7143
+2023-01-10 20:40:30.559541,80th Golden Globe Awards - Best Motion Picture: Musical or Comedy - Best Motion Picture: Musical or Comedy,Everything Everywhere All At Once,0.018999999999999906,0.7333,0.7143
 2023-01-10 19:40:28.625970,NFL Specials - NFL Draft 2023 -  First Overall Pick,Will Anderson,0.0179,0.1429,0.125
 2023-01-10 20:40:30.559541,80th Golden Globe Awards - Best Motion Picture: Musical or Comedy - Best Motion Picture: Musical or Comedy,Glass Onion: A Knives Out Mystery,0.017099999999999997,0.0556,0.0385
 2023-01-10 22:40:32.320700,Boxing Lines - Efe Ajagba vs Stephan Shaw - To Win the Bout,Stephan Shaw,0.016100000000000003,0.6078,0.5917
@@ -46,8 +47,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-10 17:40:34.116874,95th Academy Awards - Best Actor - Best Actor,Adam Driver,0.015300000000000001,0.0476,0.0323
 2023-01-10 21:40:29.152726,NBA Specials - Where will Pascal Siakam Play after the 2023 NBA Trade Deadline - Proposition,Toronto Raptors,0.014700000000000046,0.7647,0.75
 2023-01-10 17:40:34.116874,95th Academy Awards - Best Actor - Best Actor,Viggo Mortensen,0.014099999999999998,0.0385,0.0244
-2023-01-10 17:40:34.116874,95th Academy Awards - Best Actor - Best Actor,Jalyn Hall,0.014099999999999998,0.0385,0.0244
 2023-01-10 17:40:34.116874,95th Academy Awards - Best Actor - Best Actor,Harry Styles,0.014099999999999998,0.0385,0.0244
+2023-01-10 17:40:34.116874,95th Academy Awards - Best Actor - Best Actor,Jalyn Hall,0.014099999999999998,0.0385,0.0244
 2023-01-10 17:40:34.122945,95th Academy Awards - Best Actress - Best Actress,Michelle Yeoh,0.01150000000000001,0.3448,0.3333
 2023-01-11 04:40:28.540005,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Liam Smith,0.01150000000000001,0.3448,0.3333
 2023-01-10 19:40:28.644941,NFL Specials - NFL Draft 2023 - How Many QBs selected in Round 1,Over 4.5,0.01150000000000001,0.3448,0.3333
