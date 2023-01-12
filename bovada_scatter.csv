@@ -4,7 +4,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-12 17:40:34.687158,95th Academy Awards - Best Director - Best Director,Daniel Kwan and Daniel Scheinert,0.10460000000000001,0.2222,0.1176
 2023-01-12 08:40:34.613649,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Marseille,0.09889999999999999,0.3846,0.2857
 2023-01-12 08:40:34.622408,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,AC Ajaccio,0.08079999999999998,0.6364,0.5556
-2023-01-12 06:40:31.427459,Sony Open - 2/3 Balls - 1st Round 3 Balls - B. Harman / R. Knox / A. Smotherman - 1st Round 3 Balls,Brian Harman,0.0805999999999999,0.6154,0.5348
 2023-01-12 13:40:27.074191,Number 1 Seed - 2022/23 NBA - Eastern Conference No. 1 Seed,BOS Celtics,0.06820000000000004,0.8182,0.75
 2023-01-12 08:40:34.265098,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Oklahoma City Thunder,Over 31.5,0.06220000000000003,0.5744,0.5122
 2023-01-12 13:40:27.002184,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Utah Jazz,0.057699999999999974,0.5122,0.4545
@@ -20,7 +19,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-12 07:40:30.337183,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Arizona,0.047599999999999976,0.3333,0.2857
 2023-01-12 09:40:29.745548,Boxing Lines - Ekow Essuman vs Chris Kongo - To Win the Bout,Chris Kongo,0.04520000000000002,0.4762,0.431
 2023-01-12 08:40:34.622408,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Troyes,0.044499999999999984,0.2667,0.2222
-2023-01-12 06:40:31.396424,Sony Open - 2/3 Balls - 1st Round 3 Balls - C. Ramey / L. Glover / C. Davis - 1st Round 3 Balls,Cameron Davis,0.043399999999999994,0.5556,0.5122
 2023-01-12 08:40:34.274565,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Philadelphia 76ers,Over 48.5,0.043399999999999994,0.5556,0.5122
 2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Iowa State,0.04239999999999999,0.0769,0.0345
 2023-01-12 13:40:26.914846,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Indiana Pacers,No,0.03489999999999999,0.5,0.4651
@@ -29,96 +27,94 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-12 08:40:34.622408,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,AJ Auxerre,0.033299999999999996,0.8333,0.8
 2023-01-12 08:40:34.751935,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,Lazio,0.0321,0.0909,0.0588
 2023-01-12 07:40:30.337183,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,UCLA,0.030299999999999994,0.6667,0.6364
+2023-01-12 18:40:30.749432,Royal Family - Harry & Meghan Specials - Harry & Meghan Specials,'Spare' to be the US 2023 bestselling book according to NPD Bookscan,0.028000000000000025,0.9804,0.9524
 2023-01-12 08:40:34.751935,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,Torino,0.028000000000000004,0.0476,0.0196
 2023-01-12 13:40:26.991341,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Washington Wizards,No,0.027999999999999914,0.8462,0.8182
 2023-01-12 13:40:27.002184,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Dallas Mavericks,0.02779999999999999,0.25,0.2222
 2023-01-12 08:40:32.563459,College Basketball - SEC Regular Season Conference Winner - SEC Regular Season Winner,Alabama,0.027700000000000002,0.4444,0.4167
 2023-01-12 13:40:26.964478,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Phoenix Suns,No,0.02679999999999999,0.3125,0.2857
 2023-01-12 13:40:27.074191,Number 1 Seed - 2022/23 NBA - Eastern Conference No. 1 Seed,PHI 76ers,0.024800000000000003,0.0526,0.0278
+2023-01-12 18:40:30.680366,95th Academy Awards - Best Picture - Best Picture,Everything Everywhere All At Once,0.023799999999999988,0.3571,0.3333
 2023-01-12 13:40:26.997782,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Washington Wizards,0.023799999999999988,0.3571,0.3333
 2023-01-12 13:40:27.002184,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Golden State Warriors,0.023799999999999988,0.3571,0.3333
 2023-01-12 08:40:34.751935,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,AS Roma,0.02310000000000001,0.1,0.0769
 2023-01-12 17:40:34.948834,Sony Open - 2/3 Balls - 1st Round 3 Balls - A. Schenk / Z. Blair / K. Hickok - 1st Round 3 Balls,Zac Blair,0.022199999999999998,0.3448,0.3226
 2023-01-12 13:40:27.002184,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Sacramento Kings,0.021699999999999997,0.4762,0.4545
-2023-01-12 13:40:26.869896,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Atlanta Hawks,No,0.02169999999999994,0.5455,0.5238
 2023-01-12 09:40:31.175472,Round Match-Ups - 1st Round Match-Up - B. Horschel vs C. Davis - 1st Round Match-Up,Cameron Davis,0.02169999999999994,0.5455,0.5238
+2023-01-12 13:40:26.869896,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Atlanta Hawks,No,0.02169999999999994,0.5455,0.5238
 2023-01-12 07:40:30.299663,College Basketball - American Athletic Regular Season Conference Winner - AAC Regular Season Winner,Memphis U,0.0208,0.0833,0.0625
 2023-01-12 08:40:34.241296,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Dallas Mavericks,Under 46.5,0.02079999999999993,0.5556,0.5348
 2023-01-12 08:40:34.269884,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Orland Magic,Over 29.5,0.02079999999999993,0.5556,0.5348
-2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,St. Marys,0.0203,0.0526,0.0323
 2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Michigan,0.0203,0.0526,0.0323
+2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,St. Marys,0.0203,0.0526,0.0323
 2023-01-12 08:40:34.751935,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,Atalanta,0.02020000000000001,0.1111,0.0909
-2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Oklahoma State,0.0189,0.0385,0.0196
+2023-01-12 18:40:30.358987,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Chris Eubank Jr,0.018999999999999906,0.7333,0.7143
 2023-01-12 17:40:34.619707,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Markquis Nowell,0.0189,0.0385,0.0196
+2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Oklahoma State,0.0189,0.0385,0.0196
 2023-01-12 08:40:32.511354,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Kentucky,0.018200000000000004,0.0476,0.0294
 2023-01-12 17:40:34.243724,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Liam Smith,0.017600000000000005,0.3509,0.3333
-2023-01-12 06:40:31.376545,Sony Open - 2/3 Balls - 1st Round 3 Balls - T. Merritt / K. Stanley / C. Bezuidenhout - 1st Round 3 Balls,Troy Merritt,0.015400000000000025,0.4,0.3846
 2023-01-12 13:40:27.078632,Number 1 Seed - 2022/23 NBA - Western Conference No. 1 Seed,DEN Nuggets,0.01539999999999997,0.6154,0.6
 2023-01-12 09:40:29.735223,Boxing Lines - Efe Ajagba vs Stephan Shaw - To Win the Bout,Stephan Shaw,0.014800000000000035,0.6226,0.6078
 2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Utah State,0.014400000000000003,0.0323,0.0179
-2023-01-12 08:40:32.511354,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Duke,0.014099999999999998,0.0435,0.0294
 2023-01-12 08:40:32.511354,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Baylor,0.014099999999999998,0.0435,0.0294
-2023-01-12 07:40:30.299663,College Basketball - American Athletic Regular Season Conference Winner - AAC Regular Season Winner,Tulane,0.014099999999999998,0.0385,0.0244
-2023-01-12 08:40:34.751935,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,Fiorentina,0.014099999999999998,0.0385,0.0244
 2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Oklahoma,0.014099999999999998,0.0385,0.0244
+2023-01-12 08:40:32.511354,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Duke,0.014099999999999998,0.0435,0.0294
+2023-01-12 08:40:34.751935,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,Fiorentina,0.014099999999999998,0.0385,0.0244
+2023-01-12 07:40:30.299663,College Basketball - American Athletic Regular Season Conference Winner - AAC Regular Season Winner,Tulane,0.014099999999999998,0.0385,0.0244
 2023-01-12 08:40:34.617872,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Lionel Messi,0.013999999999999999,0.0909,0.0769
 2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,TCU,0.013899999999999996,0.125,0.1111
 2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Houston,0.013800000000000034,0.3774,0.3636
-2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Kansas,0.0131,0.2353,0.2222
 2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Tennessee,0.0131,0.2353,0.2222
+2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Kansas,0.0131,0.2353,0.2222
 2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Utah U,0.012899999999999998,0.0278,0.0149
 2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,NC State,0.012700000000000003,0.0323,0.0196
-2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Mississippi State,0.012599999999999998,0.0278,0.0152
 2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Penn State,0.012599999999999998,0.0278,0.0152
-2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Texas,0.011700000000000016,0.2222,0.2105
+2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Mississippi State,0.012599999999999998,0.0278,0.0152
 2023-01-12 10:40:28.502503,Boxing Lines - Floyd Diaz vs Edwin Rodriguez - To Win the Bout,Edwin Rodriguez,0.011700000000000016,0.2222,0.2105
-2023-01-12 06:40:31.416103,Sony Open - 2/3 Balls - 1st Round 3 Balls - B. Horschel / J. Spieth / Z. Johnson - 1st Round 3 Balls,Jordan Spieth,0.0116,0.4878,0.4762
+2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Texas,0.011700000000000016,0.2222,0.2105
 2023-01-12 07:40:30.324739,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Illinois,0.011099999999999999,0.1111,0.1
-2023-01-12 16:40:30.099214,Round Match-Ups - 1st Round Match-Up - A. Smalley vs E. Grillo - 1st Round Match-Up,Emiliano Grillo,0.01100000000000001,0.5348,0.5238
 2023-01-12 15:40:29.614177,Round Match-Ups - 1st Round Match-Up - B. Wu v Z. Blair - 1st Round Match-Up,Brandon Wu,0.01100000000000001,0.5348,0.5238
-2023-01-12 16:40:30.138745,Round Match-Ups - 1st Round Match-Up - J. Spieth vs B. Harman - 1st Round Match-Up,Jordan Spieth,0.010699999999999932,0.5455,0.5348
+2023-01-12 16:40:30.099214,Round Match-Ups - 1st Round Match-Up - A. Smalley vs E. Grillo - 1st Round Match-Up,Emiliano Grillo,0.01100000000000001,0.5348,0.5238
 2023-01-12 12:40:29.775553,Boxing Lines - Adam Lopez vs Abraham Nova - To Win the Bout,Adam Lopez,0.010699999999999932,0.5455,0.5348
+2023-01-12 16:40:30.138745,Round Match-Ups - 1st Round Match-Up - J. Spieth vs B. Harman - 1st Round Match-Up,Jordan Spieth,0.010699999999999932,0.5455,0.5348
 2023-01-12 07:40:30.299663,College Basketball - American Athletic Regular Season Conference Winner - AAC Regular Season Winner,Cincinnati,0.010100000000000001,0.0345,0.0244
 2023-01-12 10:40:28.528777,Boxing Lines - Ekow Essuman vs Chris Kongo - To Win the Bout,Ekow Essuman,-0.010099999999999998,0.5816,0.5917
 2023-01-12 09:40:29.735223,Boxing Lines - Efe Ajagba vs Stephan Shaw - To Win the Bout,Efe Ajagba,-0.010099999999999998,0.4444,0.4545
 2023-01-12 08:40:34.622408,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Nice,-0.010100000000000001,0.0244,0.0345
-2023-01-12 06:40:31.416103,Sony Open - 2/3 Balls - 1st Round 3 Balls - B. Horschel / J. Spieth / Z. Johnson - 1st Round 3 Balls,Zach Johnson,-0.010399999999999993,0.2222,0.2326
 2023-01-12 07:40:30.351115,College Basketball - West Coast Regular Season Conference Winner - West Coast Conference Regular Season Winner,Saint Mary's CA,-0.010499999999999982,0.2,0.2105
 2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Duke,-0.010899999999999993,0.1429,0.1538
 2023-01-12 10:40:28.502503,Boxing Lines - Floyd Diaz vs Edwin Rodriguez - To Win the Bout,Floyd Diaz,-0.01090000000000002,0.8462,0.8571
 2023-01-12 12:40:29.775553,Boxing Lines - Adam Lopez vs Abraham Nova - To Win the Bout,Abraham Nova,-0.01100000000000001,0.5238,0.5348
-2023-01-12 06:40:31.376545,Sony Open - 2/3 Balls - 1st Round 3 Balls - T. Merritt / K. Stanley / C. Bezuidenhout - 1st Round 3 Balls,Christiaan Bezuidenhout,-0.011099999999999999,0.4651,0.4762
 2023-01-12 08:40:34.613649,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Lille,-0.011199999999999995,0.0476,0.0588
 2023-01-12 17:40:34.693852,95th Academy Awards - Best Picture - Best Picture,Thirteen Lives,-0.011399999999999997,0.0164,0.0278
-2023-01-12 15:40:29.614177,Round Match-Ups - 1st Round Match-Up - B. Wu v Z. Blair - 1st Round Match-Up,Zac Blair,-0.011600000000000055,0.5122,0.5238
 2023-01-12 16:40:30.099214,Round Match-Ups - 1st Round Match-Up - A. Smalley vs E. Grillo - 1st Round Match-Up,Alex Smalley,-0.011600000000000055,0.5122,0.5238
-2023-01-12 06:40:31.427459,Sony Open - 2/3 Balls - 1st Round 3 Balls - B. Harman / R. Knox / A. Smotherman - 1st Round 3 Balls,Austin Smotherman,-0.011700000000000016,0.2105,0.2222
+2023-01-12 15:40:29.614177,Round Match-Ups - 1st Round Match-Up - B. Wu v Z. Blair - 1st Round Match-Up,Zac Blair,-0.011600000000000055,0.5122,0.5238
 2023-01-12 10:40:28.508065,Boxing Lines - Guido Vianello vs Jonathan Rice - To Win the Bout,Guido Vianello,-0.011900000000000022,0.4831,0.495
 2023-01-12 16:40:30.138745,Round Match-Ups - 1st Round Match-Up - J. Spieth vs B. Harman - 1st Round Match-Up,Brian Harman,-0.012199999999999989,0.5,0.5122
 2023-01-12 14:40:35.654330,Boxing Lines - Floyd Diaz vs Edwin Rodriguez - To Win the Bout,Floyd Diaz,-0.012899999999999912,0.8333,0.8462
-2023-01-12 06:40:31.396424,Sony Open - 2/3 Balls - 1st Round 3 Balls - C. Ramey / L. Glover / C. Davis - 1st Round 3 Balls,Chad Ramey,-0.01319999999999999,0.25,0.2632
 2023-01-12 08:40:34.613649,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Monaco,-0.013899999999999996,0.1111,0.125
 2023-01-12 17:40:34.687158,95th Academy Awards - Best Director - Best Director,Sarah Polley,-0.013999999999999999,0.0769,0.0909
 2023-01-12 17:40:34.948834,Sony Open - 2/3 Balls - 1st Round 3 Balls - A. Schenk / Z. Blair / K. Hickok - 1st Round 3 Balls,Kramer Hickok,-0.01419999999999999,0.3704,0.3846
 2023-01-12 08:40:34.751935,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,Monza,-0.0145,0.0099,0.0244
 2023-01-12 13:40:27.078632,Number 1 Seed - 2022/23 NBA - Western Conference No. 1 Seed,LA Lakers,-0.0163,0.0033,0.0196
-2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Alabama,-0.01820000000000002,0.1818,0.2
+2023-01-12 18:40:30.358987,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Liam Smith,-0.017600000000000005,0.3333,0.3509
 2023-01-12 08:40:34.622408,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Nantes,-0.01820000000000002,0.1818,0.2
-2023-01-12 17:40:34.693852,95th Academy Awards - Best Picture - Best Picture,Empire of Light,-0.0189,0.0196,0.0385
+2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Alabama,-0.01820000000000002,0.1818,0.2
 2023-01-12 17:40:34.693852,95th Academy Awards - Best Picture - Best Picture,Amsterdam,-0.0189,0.0196,0.0385
+2023-01-12 17:40:34.693852,95th Academy Awards - Best Picture - Best Picture,Empire of Light,-0.0189,0.0196,0.0385
 2023-01-12 10:40:28.518742,Boxing Lines - Efe Ajagba vs Stephan Shaw - To Win the Bout,Efe Ajagba,-0.018900000000000028,0.4255,0.4444
 2023-01-12 17:40:34.243724,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Chris Eubank Jr,-0.018999999999999906,0.7143,0.7333
 2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Baylor,-0.02049999999999999,0.1333,0.1538
 2023-01-12 13:40:26.869896,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Atlanta Hawks,Yes,-0.02169999999999994,0.5238,0.5455
 2023-01-12 08:40:34.617872,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Neymar,-0.021999999999999964,0.2857,0.3077
-2023-01-12 08:40:34.269884,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Orland Magic,Under 29.5,-0.022600000000000064,0.5122,0.5348
 2023-01-12 08:40:34.241296,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Dallas Mavericks,Over 46.5,-0.022600000000000064,0.5122,0.5348
+2023-01-12 08:40:34.269884,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Orland Magic,Under 29.5,-0.022600000000000064,0.5122,0.5348
 2023-01-12 17:40:34.687158,95th Academy Awards - Best Director - Best Director,Damien Chazelle,-0.02310000000000001,0.0769,0.1
 2023-01-12 17:40:34.693852,95th Academy Awards - Best Picture - Best Picture,Women Talking,-0.023200000000000002,0.0294,0.0526
 2023-01-12 17:40:34.693852,95th Academy Awards - Best Picture - Best Picture,The Woman King,-0.023200000000000002,0.0294,0.0526
+2023-01-12 13:40:27.002184,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Los Angeles Lakers,-0.023799999999999988,0.4762,0.5
 2023-01-12 08:40:34.622408,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Strasbourg,-0.023799999999999988,0.4762,0.5
 2023-01-12 13:40:27.002184,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Los Angeles Clippers,-0.023799999999999988,0.4762,0.5
-2023-01-12 13:40:27.002184,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Los Angeles Lakers,-0.023799999999999988,0.4762,0.5
 2023-01-12 09:40:31.175472,Round Match-Ups - 1st Round Match-Up - B. Horschel vs C. Davis - 1st Round Match-Up,Billy Horschel,-0.023800000000000043,0.5,0.5238
 2023-01-12 13:40:27.074191,Number 1 Seed - 2022/23 NBA - Eastern Conference No. 1 Seed,CLE Cavaliers,-0.024299999999999995,0.0526,0.0769
 2023-01-12 13:40:27.078632,Number 1 Seed - 2022/23 NBA - Western Conference No. 1 Seed,DAL Mavericks,-0.024800000000000003,0.0278,0.0526
@@ -129,13 +125,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-12 08:40:34.283922,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Toronto Raptors,Under 39.5,-0.030399999999999983,0.5348,0.5652
 2023-01-12 13:40:26.964478,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Phoenix Suns,Yes,-0.03259999999999996,0.75,0.7826
 2023-01-12 17:40:34.693852,95th Academy Awards - Best Picture - Best Picture,She Said,-0.033100000000000004,0.0294,0.0625
-2023-01-12 08:40:34.613649,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Rennes,-0.033299999999999996,0.1,0.1333
 2023-01-12 09:40:32.434989,EFL Cup - EFL Cup 2022/23 - Winner,Manchester United,-0.033299999999999996,0.5122,0.5455
+2023-01-12 08:40:34.613649,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Rennes,-0.033299999999999996,0.1,0.1333
 2023-01-12 07:40:30.324739,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Ohio State,-0.033300000000000024,0.1667,0.2
-2023-01-12 13:40:26.997782,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Chicago Bulls,-0.03479999999999994,0.5652,0.6
 2023-01-12 13:40:26.914846,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Indiana Pacers,Yes,-0.03479999999999994,0.5652,0.6
+2023-01-12 13:40:26.997782,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Chicago Bulls,-0.03479999999999994,0.5652,0.6
 2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Kentucky,-0.035,0.125,0.16
-2023-01-12 06:40:31.396424,Sony Open - 2/3 Balls - 1st Round 3 Balls - C. Ramey / L. Glover / C. Davis - 1st Round 3 Balls,Lucas Glover,-0.03689999999999999,0.2857,0.3226
 2023-01-12 17:40:34.693852,95th Academy Awards - Best Picture - Best Picture,Babylon,-0.0384,0.0385,0.0769
 2023-01-12 08:40:34.627128,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Lille,-0.03889999999999999,0.1429,0.1818
 2023-01-12 13:40:27.074191,Number 1 Seed - 2022/23 NBA - Eastern Conference No. 1 Seed,BKN Nets,-0.04169999999999999,0.125,0.1667
@@ -146,7 +141,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-12 17:40:34.693852,95th Academy Awards - Best Picture - Best Picture,Tar,-0.052399999999999995,0.0385,0.0909
 2023-01-12 13:40:26.974073,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Sacramento Kings,Yes,-0.05520000000000003,0.6,0.6552
 2023-01-12 13:40:26.997782,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Philadelphia 76ers,-0.05710000000000001,0.1429,0.2
-2023-01-12 06:40:31.427459,Sony Open - 2/3 Balls - 1st Round 3 Balls - B. Harman / R. Knox / A. Smotherman - 1st Round 3 Balls,Russell Knox,-0.063,0.2703,0.3333
 2023-01-12 08:40:34.622408,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Reims,-0.0635,0.0476,0.1111
 2023-01-12 17:40:34.675856,95th Academy Awards - Best Actor - Best Actor,Colin Farrell,-0.0635,0.2222,0.2857
 2023-01-12 08:40:34.622408,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Clermont Foot,-0.0666,0.0667,0.1333
