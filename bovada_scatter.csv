@@ -1,15 +1,11 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-12 05:40:30.062999,Sony Open - 2/3 Balls - 1st Round 3 Balls - K. Mitchell / B. Hun An / J. Walker - 1st Round 3 Balls,Keith Mitchell,0.33330000000000004,0.5833,0.25
-2023-01-12 03:40:31.153721,EFL Cup - EFL Cup 2022/23 - Winner,Manchester United,0.2598,0.5455,0.2857
 2023-01-12 08:40:34.627128,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Marseille,0.22229999999999994,0.6667,0.4444
-2023-01-12 03:40:31.153721,EFL Cup - EFL Cup 2022/23 - Winner,Newcastle United,0.19560000000000002,0.3774,0.1818
-2023-01-12 03:40:29.580519,Time Person of the Year - Time Person Of The Year 2023 - Time Person Of The Year 2023,Volodymyr Zelenskyy,0.11359999999999998,0.3636,0.25
 2023-01-12 08:40:34.613649,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Marseille,0.09889999999999999,0.3846,0.2857
 2023-01-12 04:40:29.976386,Sony Open - 2/3 Balls - 1st Round 3 Balls - H. Matsuyama / S. Im / A. Scott - 1st Round 3 Balls,Sungjae Im,0.08329999999999999,0.5,0.4167
 2023-01-12 08:40:34.622408,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,AC Ajaccio,0.08079999999999998,0.6364,0.5556
 2023-01-12 06:40:31.427459,Sony Open - 2/3 Balls - 1st Round 3 Balls - B. Harman / R. Knox / A. Smotherman - 1st Round 3 Balls,Brian Harman,0.0805999999999999,0.6154,0.5348
 2023-01-12 13:40:27.074191,Number 1 Seed - 2022/23 NBA - Eastern Conference No. 1 Seed,BOS Celtics,0.06820000000000004,0.8182,0.75
-2023-01-12 03:40:31.153721,EFL Cup - EFL Cup 2022/23 - Winner,Southampton,0.06649999999999999,0.0909,0.0244
 2023-01-12 08:40:34.265098,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Oklahoma City Thunder,Over 31.5,0.06220000000000003,0.5744,0.5122
 2023-01-12 13:40:27.002184,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Utah Jazz,0.057699999999999974,0.5122,0.4545
 2023-01-12 09:40:32.434989,EFL Cup - EFL Cup 2022/23 - Winner,Newcastle United,0.05740000000000001,0.4348,0.3774
@@ -21,14 +17,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-12 08:40:34.751935,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,Inter Milan,0.04999999999999999,0.25,0.2
 2023-01-12 07:40:30.312650,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Kansas State,0.04909999999999999,0.1667,0.1176
 2023-01-12 07:40:30.324739,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Michigan State,0.048600000000000004,0.1111,0.0625
-2023-01-12 03:40:29.832586,NFL Specials - Will Bears Trade #1 Overall Pick?  - Proposition,Yes,0.047900000000000054,0.7778,0.7299
 2023-01-12 07:40:30.337183,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Arizona,0.047599999999999976,0.3333,0.2857
 2023-01-12 09:40:29.745548,Boxing Lines - Ekow Essuman vs Chris Kongo - To Win the Bout,Chris Kongo,0.04520000000000002,0.4762,0.431
 2023-01-12 08:40:34.622408,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Troyes,0.044499999999999984,0.2667,0.2222
 2023-01-12 08:40:34.274565,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Philadelphia 76ers,Over 48.5,0.043399999999999994,0.5556,0.5122
 2023-01-12 06:40:31.396424,Sony Open - 2/3 Balls - 1st Round 3 Balls - C. Ramey / L. Glover / C. Davis - 1st Round 3 Balls,Cameron Davis,0.043399999999999994,0.5556,0.5122
 2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Iowa State,0.04239999999999999,0.0769,0.0345
-2023-01-12 03:40:31.153721,EFL Cup - EFL Cup 2022/23 - Winner,Nottingham Forest,0.0384,0.0769,0.0385
 2023-01-12 13:40:26.914846,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Indiana Pacers,No,0.03489999999999999,0.5,0.4651
 2023-01-12 08:40:34.283922,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Toronto Raptors,Over 39.5,0.03480000000000005,0.5348,0.5
 2023-01-12 13:40:26.997782,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Brooklyn Nets,0.034100000000000005,0.125,0.0909
@@ -61,24 +55,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-12 09:40:29.735223,Boxing Lines - Efe Ajagba vs Stephan Shaw - To Win the Bout,Stephan Shaw,0.014800000000000035,0.6226,0.6078
 2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Utah State,0.014400000000000003,0.0323,0.0179
 2023-01-12 04:40:29.845095,Sony Open - 2/3 Balls - 1st Round 3 Balls - T. Merritt / K. Stanley / C. Bezuidenhout - 1st Round 3 Balls,Troy Merritt,0.01419999999999999,0.3846,0.3704
+2023-01-12 07:40:30.299663,College Basketball - American Athletic Regular Season Conference Winner - AAC Regular Season Winner,Tulane,0.014099999999999998,0.0385,0.0244
 2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Oklahoma,0.014099999999999998,0.0385,0.0244
 2023-01-12 08:40:32.511354,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Baylor,0.014099999999999998,0.0435,0.0294
 2023-01-12 08:40:32.511354,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Duke,0.014099999999999998,0.0435,0.0294
 2023-01-12 08:40:34.751935,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,Fiorentina,0.014099999999999998,0.0385,0.0244
-2023-01-12 07:40:30.299663,College Basketball - American Athletic Regular Season Conference Winner - AAC Regular Season Winner,Tulane,0.014099999999999998,0.0385,0.0244
 2023-01-12 08:40:34.617872,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Lionel Messi,0.013999999999999999,0.0909,0.0769
 2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,TCU,0.013899999999999996,0.125,0.1111
 2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Houston,0.013800000000000034,0.3774,0.3636
-2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Tennessee,0.0131,0.2353,0.2222
 2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Kansas,0.0131,0.2353,0.2222
+2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Tennessee,0.0131,0.2353,0.2222
 2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Utah U,0.012899999999999998,0.0278,0.0149
 2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,NC State,0.012700000000000003,0.0323,0.0196
-2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Penn State,0.012599999999999998,0.0278,0.0152
 2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Mississippi State,0.012599999999999998,0.0278,0.0152
+2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Penn State,0.012599999999999998,0.0278,0.0152
 2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Texas,0.011700000000000016,0.2222,0.2105
 2023-01-12 10:40:28.502503,Boxing Lines - Floyd Diaz vs Edwin Rodriguez - To Win the Bout,Edwin Rodriguez,0.011700000000000016,0.2222,0.2105
 2023-01-12 06:40:31.416103,Sony Open - 2/3 Balls - 1st Round 3 Balls - B. Horschel / J. Spieth / Z. Johnson - 1st Round 3 Balls,Jordan Spieth,0.0116,0.4878,0.4762
 2023-01-12 07:40:30.324739,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Illinois,0.011099999999999999,0.1111,0.1
+2023-01-12 15:40:29.614177,Round Match-Ups - 1st Round Match-Up - B. Wu v Z. Blair - 1st Round Match-Up,Brandon Wu,0.01100000000000001,0.5348,0.5238
 2023-01-12 12:40:29.775553,Boxing Lines - Adam Lopez vs Abraham Nova - To Win the Bout,Adam Lopez,0.010699999999999932,0.5455,0.5348
 2023-01-12 07:40:30.299663,College Basketball - American Athletic Regular Season Conference Winner - AAC Regular Season Winner,Cincinnati,0.010100000000000001,0.0345,0.0244
 2023-01-12 09:40:29.735223,Boxing Lines - Efe Ajagba vs Stephan Shaw - To Win the Bout,Efe Ajagba,-0.010099999999999998,0.4444,0.4545
@@ -93,12 +88,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-12 08:40:34.613649,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Lille,-0.011199999999999995,0.0476,0.0588
 2023-01-12 04:40:29.854924,Sony Open - 2/3 Balls - 1st Round 3 Balls - A. Putnam / K.J. Choi / M. Hubbard - 1st Round 3 Balls,K J Choi,-0.011300000000000004,0.1887,0.2
 2023-01-12 04:40:29.845095,Sony Open - 2/3 Balls - 1st Round 3 Balls - T. Merritt / K. Stanley / C. Bezuidenhout - 1st Round 3 Balls,Christiaan Bezuidenhout,-0.0116,0.4762,0.4878
+2023-01-12 15:40:29.614177,Round Match-Ups - 1st Round Match-Up - B. Wu v Z. Blair - 1st Round Match-Up,Zac Blair,-0.011600000000000055,0.5122,0.5238
 2023-01-12 06:40:31.427459,Sony Open - 2/3 Balls - 1st Round 3 Balls - B. Harman / R. Knox / A. Smotherman - 1st Round 3 Balls,Austin Smotherman,-0.011700000000000016,0.2105,0.2222
 2023-01-12 10:40:28.508065,Boxing Lines - Guido Vianello vs Jonathan Rice - To Win the Bout,Guido Vianello,-0.011900000000000022,0.4831,0.495
 2023-01-12 14:40:35.654330,Boxing Lines - Floyd Diaz vs Edwin Rodriguez - To Win the Bout,Floyd Diaz,-0.012899999999999912,0.8333,0.8462
-2023-01-12 03:40:29.580519,Time Person of the Year - Time Person Of The Year 2023 - Time Person Of The Year 2023,Joe Biden,-0.012899999999999995,0.1538,0.1667
 2023-01-12 06:40:31.396424,Sony Open - 2/3 Balls - 1st Round 3 Balls - C. Ramey / L. Glover / C. Davis - 1st Round 3 Balls,Chad Ramey,-0.01319999999999999,0.25,0.2632
-2023-01-12 03:40:29.580519,Time Person of the Year - Time Person Of The Year 2023 - Time Person Of The Year 2023,Janet Yellen,-0.013899999999999996,0.1111,0.125
 2023-01-12 08:40:34.613649,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Monaco,-0.013899999999999996,0.1111,0.125
 2023-01-12 08:40:34.751935,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,Monza,-0.0145,0.0099,0.0244
 2023-01-12 13:40:27.078632,Number 1 Seed - 2022/23 NBA - Western Conference No. 1 Seed,LA Lakers,-0.0163,0.0033,0.0196
@@ -111,16 +105,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-12 08:40:34.617872,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Neymar,-0.021999999999999964,0.2857,0.3077
 2023-01-12 08:40:34.269884,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Orland Magic,Under 29.5,-0.022600000000000064,0.5122,0.5348
 2023-01-12 08:40:34.241296,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Dallas Mavericks,Over 46.5,-0.022600000000000064,0.5122,0.5348
+2023-01-12 08:40:34.622408,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Strasbourg,-0.023799999999999988,0.4762,0.5
 2023-01-12 13:40:27.002184,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Los Angeles Lakers,-0.023799999999999988,0.4762,0.5
 2023-01-12 13:40:27.002184,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Los Angeles Clippers,-0.023799999999999988,0.4762,0.5
-2023-01-12 08:40:34.622408,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Strasbourg,-0.023799999999999988,0.4762,0.5
 2023-01-12 09:40:31.175472,Round Match-Ups - 1st Round Match-Up - B. Horschel vs C. Davis - 1st Round Match-Up,Billy Horschel,-0.023800000000000043,0.5,0.5238
 2023-01-12 13:40:27.074191,Number 1 Seed - 2022/23 NBA - Eastern Conference No. 1 Seed,CLE Cavaliers,-0.024299999999999995,0.0526,0.0769
 2023-01-12 13:40:27.078632,Number 1 Seed - 2022/23 NBA - Western Conference No. 1 Seed,DAL Mavericks,-0.024800000000000003,0.0278,0.0526
 2023-01-12 08:40:34.627128,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Monaco,-0.02560000000000001,0.3077,0.3333
 2023-01-12 09:40:29.745548,Boxing Lines - Ekow Essuman vs Chris Kongo - To Win the Bout,Ekow Essuman,-0.026599999999999957,0.5917,0.6183
 2023-01-12 13:40:26.991341,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Washington Wizards,Yes,-0.02779999999999999,0.2222,0.25
-2023-01-12 03:40:29.580519,Time Person of the Year - Time Person Of The Year 2023 - Time Person Of The Year 2023,Elon Musk,-0.02779999999999999,0.2222,0.25
 2023-01-12 08:40:34.283922,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Toronto Raptors,Under 39.5,-0.030399999999999983,0.5348,0.5652
 2023-01-12 13:40:26.964478,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Phoenix Suns,Yes,-0.03259999999999996,0.75,0.7826
 2023-01-12 08:40:34.613649,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Rennes,-0.033299999999999996,0.1,0.1333
@@ -131,10 +124,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-12 07:40:30.292386,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Kentucky,-0.035,0.125,0.16
 2023-01-12 06:40:31.396424,Sony Open - 2/3 Balls - 1st Round 3 Balls - C. Ramey / L. Glover / C. Davis - 1st Round 3 Balls,Lucas Glover,-0.03689999999999999,0.2857,0.3226
 2023-01-12 08:40:34.627128,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Lille,-0.03889999999999999,0.1429,0.1818
-2023-01-12 08:40:34.751935,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,Juventus,-0.04169999999999999,0.125,0.1667
 2023-01-12 13:40:27.074191,Number 1 Seed - 2022/23 NBA - Eastern Conference No. 1 Seed,BKN Nets,-0.04169999999999999,0.125,0.1667
+2023-01-12 08:40:34.751935,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,Juventus,-0.04169999999999999,0.125,0.1667
 2023-01-12 08:40:34.274565,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Philadelphia 76ers,Under 48.5,-0.043399999999999994,0.5122,0.5556
-2023-01-12 03:40:29.832586,NFL Specials - Will Bears Trade #1 Overall Pick?  - Proposition,No,-0.0494,0.3077,0.3571
 2023-01-12 08:40:34.622408,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Toulouse,-0.052300000000000006,0.0588,0.1111
 2023-01-12 13:40:26.974073,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Sacramento Kings,Yes,-0.05520000000000003,0.6,0.6552
 2023-01-12 13:40:26.997782,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Philadelphia 76ers,-0.05710000000000001,0.1429,0.2
