@@ -17,54 +17,59 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-13 00:40:27.115813,Grammy Awards 2023 - Record of the Year - Grammys Record of the Year,Easy On Me - Adele,0.020699999999999996,0.4651,0.4444
 2023-01-12 21:40:29.431975,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Chris Eubank Jr,0.018999999999999906,0.7333,0.7143
 2023-01-13 07:40:30.782348,Sony Open - 2/3 Balls - 2nd Round 3 Balls - C. Bezuidenhout / T. Merritt / K. Stanley - 2nd Round 3 Balls,Troy Merritt,0.018100000000000005,0.4348,0.4167
-2023-01-12 20:40:30.452289,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Liam Smith,0.017600000000000005,0.3509,0.3333
 2023-01-12 22:40:30.200524,NFL Specials - NFL Draft 2023 - How Many QBs selected in Round 1,Over 4.5,0.01689999999999997,0.3448,0.3279
 2023-01-13 05:40:31.923243,Japan B League - Japan League B1 2022/23 - Outright,Shimane Susanoo Magic,0.016700000000000007,0.1,0.0833
 2023-01-13 06:40:32.898806,Sony Open - 2/3 Balls - 2nd Round 3 Balls - C. Bezuidenhout / T. Merritt / K. Stanley - 2nd Round 3 Balls,Troy Merritt,0.016699999999999993,0.4167,0.4
+2023-01-13 08:40:29.287783,Boxing Lines - Richard Riakporhe vs Krzysztof Glowacki - To Win the Bout,Krzysztof Glowacki,0.015899999999999997,0.1538,0.1379
 2023-01-12 21:40:30.883702,Sony Open - 2/3 Balls - 1st Round 3 Balls - K.H. Lee / G. Woodland / T. Duncan - 1st Round 3 Balls,Gary Woodland,0.015400000000000025,0.4,0.3846
 2023-01-13 05:40:31.902124,Euroleague - Euroleague 2022/23 - Outright,Real Madrid BC,0.015100000000000002,0.1818,0.1667
 2023-01-13 00:40:27.115813,Grammy Awards 2023 - Record of the Year - Grammys Record of the Year,Bad Habit - Steve Lacy,0.014899999999999997,0.0625,0.0476
+2023-01-13 08:40:30.334987,NFL Specials - NFL Draft 2023 -  First Overall Pick,Will Levis,0.014399999999999996,0.0769,0.0625
 2023-01-13 00:40:27.109785,Grammy Awards 2023 - Best New Artist - Grammys Best New Artist,Tobe Nwigwe,0.013999999999999999,0.0909,0.0769
 2023-01-12 22:40:30.191911,NFL Specials - NFL Draft 2023 - How Many Defensive Linemen selected in Round 1,Over 2.5,0.013799999999999923,0.6364,0.6226
-2023-01-12 20:40:30.392528,Boxing Lines - Floyd Diaz vs Edwin Rodriguez - To Win the Bout,Edwin Rodriguez,0.0131,0.2353,0.2222
+2023-01-13 08:40:29.246508,Boxing Lines - Floyd Diaz vs Edwin Rodriguez - To Win the Bout,Floyd Diaz,0.012899999999999912,0.8462,0.8333
 2023-01-13 01:40:31.968299,NFL Playoffs Specials - 2023 Playoffs - Most Passing Yards - Proposition,Dak Prescott,0.011199999999999995,0.0588,0.0476
 2023-01-13 04:40:28.258568,Boxing Lines - Richard Riakporhe vs Krzysztof Glowacki - To Win the Bout,Krzysztof Glowacki,0.010200000000000015,0.1481,0.1379
 2023-01-13 05:40:30.335595,Boxing Lines - Mazlum Akdeniz vs Cristian Bielma - To Win the Bout,Mazlum Akdeniz,0.010199999999999987,0.9333,0.9231
-2023-01-12 20:40:30.405603,Boxing Lines - Adam Lopez vs Abraham Nova - To Win the Bout,Adam Lopez,-0.010099999999999998,0.5455,0.5556
 2023-01-13 07:40:31.794359,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Washington Wizards,-0.010099999999999998,0.0952,0.1053
 2023-01-13 05:40:31.902124,Euroleague - Euroleague 2022/23 - Outright,Virtus Bologna,-0.010100000000000001,0.0244,0.0345
 2023-01-13 05:40:30.394037,Boxing Lines - Richard Riakporhe vs Krzysztof Glowacki - To Win the Bout,Krzysztof Glowacki,-0.010200000000000015,0.1379,0.1481
 2023-01-13 05:40:31.909725,Euro Cup - Euro Cup 2022/23 - Outright,Türk Telekom,-0.011099999999999999,0.1,0.1111
-2023-01-13 00:40:27.121816,Grammy Awards 2023 - Song of the Year - Grammys Song of the Year,Kendrick Lamar - The Heart Part 5,-0.011199999999999995,0.0476,0.0588
 2023-01-13 00:40:27.109785,Grammy Awards 2023 - Best New Artist - Grammys Best New Artist,Molly Tuttle,-0.011199999999999995,0.0476,0.0588
+2023-01-13 00:40:27.121816,Grammy Awards 2023 - Song of the Year - Grammys Song of the Year,Kendrick Lamar - The Heart Part 5,-0.011199999999999995,0.0476,0.0588
 2023-01-13 05:40:31.923243,Japan B League - Japan League B1 2022/23 - Outright,Gunma Crane Thunders,-0.011199999999999995,0.0476,0.0588
+2023-01-13 07:40:30.434310,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Virginia,-0.01150000000000001,0.3333,0.3448
 2023-01-13 03:40:27.640771,Boxing Lines - Adam Lopez vs Abraham Nova - To Win the Bout,Abraham Nova,-0.011600000000000055,0.5122,0.5238
 2023-01-13 07:40:30.434310,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Miami (FL),-0.011700000000000016,0.2105,0.2222
 2023-01-12 22:40:30.146816,NFL Specials - Who will be Head Coach of the Carolina Panthers For Game 1 of the 2023 Regular Season - Proposition,Dan Quinn,-0.011900000000000008,0.0833,0.0952
 2023-01-12 22:40:30.200524,NFL Specials - NFL Draft 2023 - How Many QBs selected in Round 1,Under 4.5,-0.012499999999999956,0.7436,0.7561
+2023-01-13 08:40:29.246508,Boxing Lines - Floyd Diaz vs Edwin Rodriguez - To Win the Bout,Edwin Rodriguez,-0.0131,0.2222,0.2353
 2023-01-13 07:40:31.794359,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Atlanta Hawks,-0.01319999999999999,0.25,0.2632
 2023-01-13 00:40:27.103747,Grammy Awards 2023 - Album of the Year - Grammys Album of the Year,Kendrick Lamar - Mr. Morale and the Big Steppers,-0.013899999999999996,0.1111,0.125
-2023-01-12 22:40:30.146816,NFL Specials - Who will be Head Coach of the Carolina Panthers For Game 1 of the 2023 Regular Season - Proposition,Sean Payton,-0.013999999999999999,0.0769,0.0909
 2023-01-12 22:40:30.146816,NFL Specials - Who will be Head Coach of the Carolina Panthers For Game 1 of the 2023 Regular Season - Proposition,Jim Harbaugh,-0.013999999999999999,0.0769,0.0909
+2023-01-12 22:40:30.146816,NFL Specials - Who will be Head Coach of the Carolina Panthers For Game 1 of the 2023 Regular Season - Proposition,Sean Payton,-0.013999999999999999,0.0769,0.0909
 2023-01-13 00:40:27.115813,Grammy Awards 2023 - Record of the Year - Grammys Record of the Year,Good Morning Gorgeous - Mary J Blige,-0.014099999999999998,0.0244,0.0385
+2023-01-13 08:40:29.383813,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Indiana,-0.014399999999999996,0.0625,0.0769
 2023-01-13 05:40:31.909725,Euro Cup - Euro Cup 2022/23 - Outright,Joventut,-0.015100000000000002,0.1667,0.1818
 2023-01-12 22:40:30.204847,NFL Specials - NFL Draft 2023 - How Many RBs selected in Round 1,Over 1.5,-0.016100000000000003,0.5917,0.6078
 2023-01-12 22:40:30.233173,NFL Specials - Where Will Jim Harbaugh Coaching Week 1 2023  - Proposition,Cardinals,-0.016600000000000004,0.0667,0.0833
 2023-01-12 21:40:29.431975,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Liam Smith,-0.017600000000000005,0.3333,0.3509
+2023-01-13 08:40:29.260618,Boxing Lines - Efe Ajagba vs Stephan Shaw - To Win the Bout,Stephan Shaw,-0.01870000000000005,0.6109,0.6296
 2023-01-12 22:40:30.191911,NFL Specials - NFL Draft 2023 - How Many Defensive Linemen selected in Round 1,Under 2.5,-0.018900000000000028,0.4255,0.4444
-2023-01-12 20:40:30.452289,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Chris Eubank Jr,-0.018999999999999906,0.7143,0.7333
 2023-01-12 22:40:30.146816,NFL Specials - Who will be Head Coach of the Carolina Panthers For Game 1 of the 2023 Regular Season - Proposition,Frank Reich,-0.02049999999999999,0.1333,0.1538
 2023-01-13 00:40:27.103747,Grammy Awards 2023 - Album of the Year - Grammys Album of the Year,Beyonce - Renaissance,-0.02260000000000001,0.3774,0.4
+2023-01-13 08:40:29.383813,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Ohio State,-0.023799999999999988,0.1429,0.1667
 2023-01-12 22:40:30.233173,NFL Specials - Where Will Jim Harbaugh Coaching Week 1 2023  - Proposition,Panthers,-0.0242,0.0667,0.0909
+2023-01-13 08:40:29.395705,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Arizona State,-0.024299999999999995,0.0526,0.0769
 2023-01-13 07:40:30.782348,Sony Open - 2/3 Balls - 2nd Round 3 Balls - C. Bezuidenhout / T. Merritt / K. Stanley - 2nd Round 3 Balls,Kyle Stanley,-0.02779999999999999,0.2222,0.25
-2023-01-12 22:40:30.146816,NFL Specials - Who will be Head Coach of the Carolina Panthers For Game 1 of the 2023 Regular Season - Proposition,Jim Caldwell,-0.027999999999999997,0.1538,0.1818
 2023-01-13 07:40:31.800957,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,New Orleans Pelicans,-0.027999999999999997,0.1538,0.1818
+2023-01-12 22:40:30.146816,NFL Specials - Who will be Head Coach of the Carolina Panthers For Game 1 of the 2023 Regular Season - Proposition,Jim Caldwell,-0.027999999999999997,0.1538,0.1818
 2023-01-13 05:40:31.923243,Japan B League - Japan League B1 2022/23 - Outright,Ryukyu Golden Kings,-0.028799999999999992,0.125,0.1538
 2023-01-13 00:40:27.115813,Grammy Awards 2023 - Record of the Year - Grammys Record of the Year,You And Me On The Rock - Brandi Carlile featuring Lucius,-0.034100000000000005,0.0909,0.125
 2023-01-12 22:40:30.159064,NFL Specials - What Team will Make the #1 Overall Pick?  - Proposition,Chicago Bears,-0.0494,0.3077,0.3571
-2023-01-13 00:40:27.121816,Grammy Awards 2023 - Song of the Year - Grammys Song of the Year,Harry Styles - As It Was,-0.04999999999999999,0.2,0.25
 2023-01-12 22:40:30.146816,NFL Specials - Who will be Head Coach of the Carolina Panthers For Game 1 of the 2023 Regular Season - Proposition,DeMeco Ryans,-0.04999999999999999,0.2,0.25
+2023-01-13 00:40:27.121816,Grammy Awards 2023 - Song of the Year - Grammys Song of the Year,Harry Styles - As It Was,-0.04999999999999999,0.2,0.25
 2023-01-13 00:40:27.115813,Grammy Awards 2023 - Record of the Year - Grammys Record of the Year,As It Was - Harry Styles,-0.05740000000000001,0.3774,0.4348
-2023-01-13 00:40:27.109785,Grammy Awards 2023 - Best New Artist - Grammys Best New Artist,Muni Long,-0.06840000000000002,0.1538,0.2222
 2023-01-13 00:40:27.109785,Grammy Awards 2023 - Best New Artist - Grammys Best New Artist,Wet Leg,-0.06840000000000002,0.1538,0.2222
+2023-01-13 00:40:27.109785,Grammy Awards 2023 - Best New Artist - Grammys Best New Artist,Muni Long,-0.06840000000000002,0.1538,0.2222
 2023-01-12 22:40:30.233173,NFL Specials - Where Will Jim Harbaugh Coaching Week 1 2023  - Proposition,Broncos,-0.11109999999999998,0.2222,0.3333
