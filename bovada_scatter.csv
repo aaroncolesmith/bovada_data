@@ -16,14 +16,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-15 12:40:27.311056,Grammy Awards 2023 - Song of the Year - Grammys Song of the Year,Adele - Easy on Me,0.07939999999999997,0.5556,0.4762
 2023-01-15 11:40:35.294076,A-League - Australia A-League 2022/23 - Grand Final Winner,Melbourne City,0.05980000000000002,0.4444,0.3846
 2023-01-15 08:40:32.691077,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,West Ham United,0.04620000000000002,0.2,0.1538
-2023-01-15 11:40:35.294076,A-League - Australia A-League 2022/23 - Grand Final Winner,Wellington Phoenix,0.038099999999999995,0.0625,0.0244
 2023-01-15 08:40:32.691077,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leeds United,0.038099999999999995,0.2381,0.2
+2023-01-15 11:40:35.294076,A-League - Australia A-League 2022/23 - Grand Final Winner,Wellington Phoenix,0.038099999999999995,0.0625,0.0244
 2023-01-15 08:40:32.691077,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Bournemouth,0.035699999999999954,0.75,0.7143
 2023-01-15 08:40:32.711450,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Wolverhampton Wanderers,0.035699999999999954,0.75,0.7143
 2023-01-15 15:40:29.339070,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.03479999999999994,0.6,0.5652
 2023-01-15 08:40:32.707622,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Brighton & Hove Albion,0.03330000000000001,0.1,0.0667
 2023-01-15 09:40:30.616057,Sony Open - 2/3 Balls - Final Round 3 Balls - C. Conners / K. Nakajima / C. Hammer - Final Round 3 Balls,Corey Conners,0.033299999999999996,0.5455,0.5122
 2023-01-15 15:40:29.369562,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Ron DeSantis,0.032299999999999995,0.3448,0.3125
+2023-01-15 20:40:32.038500,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,CF Monterrey,0.031799999999999995,0.1429,0.1111
 2023-01-15 14:40:28.123038,Round Match-Ups - Final Round Match-Up - C. Conners vs A. Scott - Final Round Match-Up,Corey Conners,0.027700000000000058,0.5833,0.5556
 2023-01-15 14:40:28.191376,Round Match-Ups - Final Round Match-Up - K.H. Lee vs A. Putnam - Final Round Match-Up,K.H. Lee,0.027700000000000058,0.5833,0.5556
 2023-01-15 14:40:27.419311,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Philadelphia 76ers,0.024999999999999994,0.125,0.1
@@ -42,6 +43,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-15 08:40:32.695838,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,West Ham United,0.018200000000000004,0.0476,0.0294
 2023-01-15 08:40:32.695838,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Leicester City,0.018200000000000004,0.0476,0.0294
 2023-01-15 09:40:30.643951,Sony Open - 2/3 Balls - Final Round 3 Balls - H. Matsuyama / A. Baddeley / D. Redman - Final Round 3 Balls,Hideki Matsuyama,0.018100000000000005,0.5833,0.5652
+2023-01-15 20:40:32.038500,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Santos Laguna,0.018099999999999998,0.0769,0.0588
 2023-01-15 13:40:37.471377,Boxing Lines - Joseph Parker vs Jack Massey - To Win the Bout,Jack Massey,0.017100000000000004,0.16,0.1429
 2023-01-15 15:40:29.369562,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Joe Biden,0.01469999999999999,0.25,0.2353
 2023-01-15 11:40:35.294076,A-League - Australia A-League 2022/23 - Grand Final Winner,Macarthur FC,0.014100000000000001,0.0526,0.0385
@@ -53,21 +55,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-15 15:40:31.081234,EFL Cup - EFL Cup 2022/23 - Winner,Manchester United,0.011600000000000055,0.5238,0.5122
 2023-01-15 17:40:32.868347,Round Match-Ups - Final Round Match-Up - T. Merritt v C. Reavie - Final Round Match-Up,Chez Reavie,0.011600000000000055,0.5238,0.5122
 2023-01-15 19:40:37.287195,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Liam Smith,0.01150000000000001,0.3448,0.3333
+2023-01-15 20:40:32.038500,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Atlas FC,0.011199999999999995,0.0588,0.0476
 2023-01-15 08:40:32.691077,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Crystal Palace,0.011199999999999995,0.0588,0.0476
 2023-01-15 14:40:27.419311,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Cleveland Cavaliers,0.011099999999999999,0.1111,0.1
-2023-01-15 08:40:32.100317,Round Match-Ups - Final Round Match-Up - H. Buckley vs C. Kirk - Final Round Match-Up,Chris Kirk,0.01100000000000001,0.5348,0.5238
+2023-01-15 20:40:31.151407,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Chris Eubank Jr,0.011099999999999999,0.7333,0.7222
+2023-01-15 20:40:31.134676,Boxing Lines - Ekow Essuman vs Chris Kongo - To Win the Bout,Chris Kongo,0.011099999999999999,0.4762,0.4651
 2023-01-15 17:40:32.863554,Round Match-Ups - Final Round Match-Up - K. Nakajima v T. Alexander - Final Round Match-Up,Keita Nakajima,0.01100000000000001,0.5348,0.5238
-2023-01-15 15:40:30.187952,Round Match-Ups - Final Round Match-Up - H. Buckley vs C. Kirk - Final Round Match-Up,Chris Kirk,0.010699999999999932,0.5455,0.5348
 2023-01-15 12:40:27.668261,Round Match-Ups - Final Round Match-Up - M. Kuchar vs D. McCarthy - Final Round Match-Up,Matt Kuchar,0.010699999999999932,0.5455,0.5348
+2023-01-15 15:40:30.187952,Round Match-Ups - Final Round Match-Up - H. Buckley vs C. Kirk - Final Round Match-Up,Chris Kirk,0.010699999999999932,0.5455,0.5348
 2023-01-15 15:40:29.351813,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Ron DeSantis,0.010599999999999998,0.4651,0.4545
 2023-01-15 14:40:27.424786,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Golden State Warriors,0.010499999999999982,0.2105,0.2
 2023-01-15 08:40:32.684439,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Erling Haaland,-0.010199999999999987,0.9231,0.9333
 2023-01-15 17:40:32.868347,Round Match-Ups - Final Round Match-Up - T. Merritt v C. Reavie - Final Round Match-Up,Troy Merritt,-0.01100000000000001,0.5238,0.5348
 2023-01-15 19:40:37.287195,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Chris Eubank Jr,-0.011099999999999999,0.7222,0.7333
 2023-01-15 11:40:33.520835,Boxing Lines - Ekow Essuman vs Chris Kongo - To Win the Bout,Chris Kongo,-0.011099999999999999,0.4651,0.4762
-2023-01-15 08:40:32.100317,Round Match-Ups - Final Round Match-Up - H. Buckley vs C. Kirk - Final Round Match-Up,Hayden Buckley,-0.011600000000000055,0.5122,0.5238
+2023-01-15 20:40:31.151407,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Liam Smith,-0.01150000000000001,0.3333,0.3448
 2023-01-15 17:40:32.863554,Round Match-Ups - Final Round Match-Up - K. Nakajima v T. Alexander - Final Round Match-Up,Tyson Alexander,-0.011600000000000055,0.5122,0.5238
 2023-01-15 09:40:30.643951,Sony Open - 2/3 Balls - Final Round 3 Balls - H. Matsuyama / A. Baddeley / D. Redman - Final Round 3 Balls,Doc Redman,-0.011899999999999994,0.2381,0.25
+2023-01-15 20:40:31.134676,Boxing Lines - Ekow Essuman vs Chris Kongo - To Win the Bout,Ekow Essuman,-0.011900000000000022,0.5798,0.5917
 2023-01-15 15:40:30.187952,Round Match-Ups - Final Round Match-Up - H. Buckley vs C. Kirk - Final Round Match-Up,Hayden Buckley,-0.012199999999999989,0.5,0.5122
 2023-01-15 12:40:27.668261,Round Match-Ups - Final Round Match-Up - M. Kuchar vs D. McCarthy - Final Round Match-Up,Denny McCarthy,-0.012199999999999989,0.5,0.5122
 2023-01-15 08:40:32.691077,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Aston Villa,-0.014099999999999998,0.0244,0.0385
@@ -75,14 +80,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-15 09:40:30.616057,Sony Open - 2/3 Balls - Final Round 3 Balls - C. Conners / K. Nakajima / C. Hammer - Final Round 3 Balls,Cole Hammer,-0.014600000000000002,0.2632,0.2778
 2023-01-15 12:40:26.756166,Boxing Lines - Ekow Essuman vs Chris Kongo - To Win the Bout,Ekow Essuman,-0.014900000000000024,0.5851,0.6
 2023-01-15 09:40:30.643951,Sony Open - 2/3 Balls - Final Round 3 Balls - H. Matsuyama / A. Baddeley / D. Redman - Final Round 3 Balls,Aaron Baddeley,-0.015400000000000025,0.2703,0.2857
-2023-01-15 08:40:32.231885,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Brooklyn Nets,-0.015700000000000006,0.1176,0.1333
-2023-01-15 08:40:32.231885,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Denver Nuggets,-0.015899999999999997,0.0952,0.1111
 2023-01-15 14:40:27.456803,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Miami Heat,-0.016700000000000048,0.7333,0.75
 2023-01-15 14:40:27.461766,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Dallas Mavericks,-0.01759999999999999,0.1,0.1176
 2023-01-15 13:40:37.480604,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Liam Smith,-0.017600000000000005,0.3333,0.3509
 2023-01-15 11:40:35.294076,A-League - Australia A-League 2022/23 - Grand Final Winner,Western Sydney Wanderers,-0.0179,0.125,0.1429
 2023-01-15 14:40:27.431251,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Boston Celtics,-0.017900000000000027,0.8571,0.875
+2023-01-15 20:40:32.038500,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Cruz Azul,-0.018099999999999998,0.0588,0.0769
 2023-01-15 15:40:31.081234,EFL Cup - EFL Cup 2022/23 - Winner,Newcastle United,-0.018100000000000005,0.4167,0.4348
+2023-01-15 20:40:32.038500,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Atletico San Luis,-0.0189,0.0196,0.0385
+2023-01-15 20:40:32.038500,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Pumas UNAM,-0.0203,0.0385,0.0588
 2023-01-15 12:40:26.766762,Boxing Lines - Richard Riakporhe vs Krzysztof Glowacki - To Win the Bout,Krzysztof Glowacki,-0.02049999999999999,0.1333,0.1538
 2023-01-15 11:40:34.136658,Round Match-Ups - Final Round Match-Up - W. Gordon vs N. Hardy - Final Round Match-Up,Will Gordon,-0.02169999999999994,0.5238,0.5455
 2023-01-15 09:40:30.616057,Sony Open - 2/3 Balls - Final Round 3 Balls - C. Conners / K. Nakajima / C. Hammer - Final Round 3 Balls,Keita Nakajima,-0.021999999999999964,0.2857,0.3077
