@@ -1,6 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-16 07:40:28.921641,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Boise State,0.10460000000000001,0.2222,0.1176
-2023-01-15 21:40:38.001872,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Arsenal,0.09099999999999997,0.5455,0.4545
 2023-01-16 07:40:28.927048,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,UCLA,0.0857,0.8,0.7143
 2023-01-16 03:40:37.457044,95th Academy Awards - Best Director - Best Director,Daniel Kwan and Daniel Scheinert,0.08549999999999996,0.3077,0.2222
 2023-01-16 07:40:28.900362,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Virginia Commonwealth,0.07649999999999998,0.1818,0.1053
@@ -17,7 +16,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-16 07:40:28.921641,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Nevada,0.02020000000000001,0.1111,0.0909
 2023-01-16 08:40:30.390767,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Cincinnati Bengals,0.019699999999999995,0.125,0.1053
 2023-01-16 08:40:30.390767,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Philadelphia Eagles,0.018599999999999978,0.1667,0.1481
-2023-01-15 21:40:36.665612,Critic's Choice Awards - Critic's Choice Best Director - Proposition,SS Rajamouli - RRR,0.018200000000000004,0.0476,0.0294
 2023-01-16 08:40:30.555885,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,UCLA,0.018199999999999994,0.8182,0.8
 2023-01-16 08:40:30.390767,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,New York Giants,0.0181,0.0345,0.0164
 2023-01-16 08:40:30.541065,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Rutgers,0.0179,0.1429,0.125
@@ -29,8 +27,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-16 06:40:28.714835,Boxing Lines - Arnold Barboza Jr vs Jose Pedraza - To Win the Bout,Arnold Barboza Jr,0.011200000000000099,0.8403,0.8291
 2023-01-16 07:40:28.889482,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Virginia,0.010699999999999987,0.3333,0.3226
 2023-01-16 07:40:28.432142,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Jacksonville Jaguars,0.0102,0.0769,0.0667
-2023-01-16 03:40:37.457044,95th Academy Awards - Best Director - Best Director,Sarah Polley,-0.0102,0.0667,0.0769
 2023-01-16 03:40:37.457044,95th Academy Awards - Best Director - Best Director,Damien Chazelle,-0.0102,0.0667,0.0769
+2023-01-16 03:40:37.457044,95th Academy Awards - Best Director - Best Director,Sarah Polley,-0.0102,0.0667,0.0769
 2023-01-16 07:40:28.432142,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Cincinnati Bengals,-0.010499999999999982,0.2,0.2105
 2023-01-15 22:40:36.270671,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Liam Smith,-0.010699999999999987,0.3226,0.3333
 2023-01-16 06:40:28.714835,Boxing Lines - Arnold Barboza Jr vs Jose Pedraza - To Win the Bout,Jose Pedraza,-0.010800000000000004,0.2273,0.2381
@@ -42,5 +40,4 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-16 07:40:28.927048,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Arizona,-0.02779999999999999,0.25,0.2778
 2023-01-16 07:40:28.932489,College Basketball - West Coast Regular Season Conference Winner - West Coast Conference Regular Season Winner,Gonzaga,-0.06820000000000004,0.75,0.8182
 2023-01-16 07:40:28.921641,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,San Diego State,-0.08419999999999994,0.6491,0.7333
-2023-01-15 21:40:38.001872,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester City,-0.09830000000000005,0.4255,0.5238
 2023-01-16 07:40:28.900362,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Dayton,-0.10089999999999999,0.6491,0.75
