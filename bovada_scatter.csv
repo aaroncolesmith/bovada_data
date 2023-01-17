@@ -25,8 +25,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-17 19:40:31.116274,Joe Biden Specials - Location Of Next Cache Of Classified Biden Documents - Where will the next classified Biden documents be found?,Biden Family Holiday Home,0.05559999999999998,0.8889,0.8333
 2023-01-17 21:40:30.219169,Space Exploration - When will the Artemis Mission walk astronauts on the moon? - When will the Artemis Mission walk astronauts on the moon?,2026,0.04999999999999999,0.25,0.2
 2023-01-17 21:40:30.201484,Space Exploration - First Woman To Walk On The Moon - First Woman To Walk On The Moon,Jessica Meir,0.04849999999999999,0.1818,0.1333
-2023-01-17 19:40:32.533032,NFL Specials - Where will Aaron Rodgers Play Game 1 of the 2023 NFL Regular Season - Proposition,Las Vegas Raiders,0.04620000000000002,0.2,0.1538
 2023-01-17 15:40:28.623293,NFL Playoffs Specials - Bengals Stage of Elimination - Proposition,To Lose in Conference Championship Game,0.04620000000000002,0.2,0.1538
+2023-01-17 19:40:32.533032,NFL Specials - Where will Aaron Rodgers Play Game 1 of the 2023 NFL Regular Season - Proposition,Las Vegas Raiders,0.04620000000000002,0.2,0.1538
 2023-01-17 19:40:32.963033,Next Pope Betting - Papal Name Of Next Pope - Papal Name Of Next Pope After Francis I,Francis,0.044399999999999995,0.4444,0.4
 2023-01-17 12:40:28.433884,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - MVP,Dak Prescott,0.04329999999999999,0.0909,0.0476
 2023-01-17 19:40:32.805724,Big Brother Brazil - Big Brother Brazil 2023 - Big Brother Brazil 2023 Outright Winner,Fred,0.04169999999999999,0.1667,0.125
@@ -36,13 +36,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-17 17:40:29.637756,Tournament Match-Ups - Tournament Match-Ups - V. Perez vs L. Westwood - Tournament Match-Ups,Lee Westwood,0.03480000000000005,0.5348,0.5
 2023-01-17 19:40:32.177641,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Xavier,0.0343,0.1176,0.0833
 2023-01-17 19:40:32.938836,Nobel Prizes - Nobel Peace Prize - Nobel Peace Prize Winner 2023,Volodymyr Zelenskyy,0.03420000000000001,0.1111,0.0769
+2023-01-17 22:40:30.303425,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Peter Erdo (Hungary),0.034100000000000005,0.125,0.0909
 2023-01-17 15:40:28.606651,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Exact Finalists,KC Chiefs vs PHI Eagles,0.033399999999999985,0.1667,0.1333
 2023-01-17 15:40:28.628757,NFL Playoffs Specials - Bills Stage of Elimination - Proposition,To Lose in Super Bowl,0.033399999999999985,0.1667,0.1333
 2023-01-17 15:40:28.606651,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Exact Finalists,KC Chiefs vs DAL Cowboys,0.03270000000000001,0.0952,0.0625
 2023-01-17 21:40:30.053626,Grammy Awards 2023 - Song of the Year - Grammys Song of the Year,Harry Styles - As It Was,0.031799999999999995,0.1429,0.1111
 2023-01-17 21:40:30.213176,Space Exploration - When will astronauts first walk on Mars? - When will astronauts first walk on Mars?,2031 to 2040,0.030299999999999994,0.3636,0.3333
 2023-01-17 12:40:28.407610,NFC Championship - 2022/2023 NFC Championship - Odds to win - NFC Conference Winning Division,NFC West,0.029600000000000015,0.4,0.3704
-2023-01-17 10:40:28.427768,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Brandon Miller,0.029299999999999993,0.0769,0.0476
 2023-01-17 11:40:35.555784,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Alabama,0.02779999999999999,0.25,0.2222
 2023-01-17 15:40:28.623293,NFL Playoffs Specials - Bengals Stage of Elimination - Proposition,To Lose in Super Bowl,0.0267,0.1176,0.0909
 2023-01-17 18:40:30.874923,Tournament Match-Ups - Tournament Match-Ups - M.W. Lee vs T. Pieters - Tournament Match-Ups,Thomas Pieters,0.026499999999999968,0.5917,0.5652
@@ -53,11 +53,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-17 12:40:28.433884,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - MVP,Josh Allen,0.023799999999999988,0.1667,0.1429
 2023-01-17 11:40:35.562077,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Virginia,0.023799999999999988,0.3571,0.3333
 2023-01-17 15:40:28.645024,NFL Playoffs Specials - Giants Stage of Elimination - Proposition,To Win Super Bowl,0.0233,0.0385,0.0152
+2023-01-17 22:40:29.459669,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Tommy Fury,0.02300000000000002,0.4167,0.3937
+2023-01-17 22:40:30.388716,Round Match-Ups - 1st Round Match-Up - T. Montgomery v T. Hoge - 1st Round Match-Up,Taylor Montgomery,0.022600000000000064,0.5348,0.5122
+2023-01-17 15:40:28.628757,NFL Playoffs Specials - Bills Stage of Elimination - Proposition,To Win Super Bowl,0.022199999999999998,0.2222,0.2
 2023-01-17 15:40:28.606651,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Exact Finalists,BUF Bills vs SF 49ers,0.022199999999999998,0.1333,0.1111
 2023-01-17 21:40:30.207225,Space Exploration - Next to have astronauts walk on the moon - Next To Walk On The Moon,China,0.022199999999999998,0.2222,0.2
-2023-01-17 15:40:28.628757,NFL Playoffs Specials - Bills Stage of Elimination - Proposition,To Win Super Bowl,0.022199999999999998,0.2222,0.2
+2023-01-17 22:40:30.734122,Tournament Match-Ups - Tournament Match-Ups - R. MacIntyre vs J. Smith - Tournament Match-Ups,Jordan Smith,0.02169999999999994,0.5455,0.5238
+2023-01-17 22:40:30.359064,Round Match-Ups - 1st Round Match-Up - A. Hadwin v A. Putnam - 1st Round Match-Up,Adam Hadwin,0.02079999999999993,0.5556,0.5348
+2023-01-17 22:40:30.368997,Round Match-Ups - 1st Round Match-Up - B. Harman v S. Burns - 1st Round Match-Up,Brian Harman,0.02079999999999993,0.5556,0.5348
 2023-01-17 15:40:28.606651,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Exact Finalists,KC Chiefs vs SF 49ers,0.02049999999999999,0.1538,0.1333
 2023-01-17 21:40:30.133401,Economy Specials - United States Real GDP Growth Rate 2023 - US Real GDP Growth Rate 2023,2.01 - 3%,0.02020000000000001,0.1111,0.0909
+2023-01-17 22:40:30.303425,Next Pope Betting - Next Pope - Next Pope After Francis I,Archbishop Angelo Scola (Italy),0.02020000000000001,0.1111,0.0909
 2023-01-17 11:40:35.555784,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Rutgers,0.019800000000000005,0.0476,0.0278
 2023-01-17 17:40:28.489353,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Jake Paul,0.01970000000000005,0.5652,0.5455
 2023-01-17 15:40:28.623293,NFL Playoffs Specials - Bengals Stage of Elimination - Proposition,To Win Super Bowl,0.019699999999999995,0.125,0.1053
@@ -69,122 +75,114 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-17 21:40:30.193653,Twitter Specials - Next Twitter CEO - Next Twitter CEO After Elon Musk,Sarah Friar,0.018099999999999998,0.0769,0.0588
 2023-01-17 12:40:28.429253,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - Super Bowl Winning Division,AFC East,0.0179,0.2353,0.2174
 2023-01-17 15:40:28.634172,NFL Playoffs Specials - Chiefs Stage of Elimination - Proposition,To Lose in Conference Championship Game,0.016699999999999993,0.4167,0.4
-2023-01-17 09:40:32.701361,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Alabama,0.016600000000000004,0.0833,0.0667
 2023-01-17 20:40:29.521379,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Chris Eubank Jr,0.015800000000000036,0.7561,0.7403
 2023-01-17 12:40:28.433884,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - MVP,Jalen Hurts,0.015700000000000006,0.1333,0.1176
-2023-01-17 21:40:30.119721,Box Office Specials - Highest Worldwide Box Office 2023 - Highest Worldwide Box Office Ranking For 2023,Mission: Impossible - Dead Reckoning Part One,0.015300000000000001,0.0476,0.0323
 2023-01-17 15:40:28.606651,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Exact Finalists,CIN Bengals vs DAL Cowboys,0.015300000000000001,0.0476,0.0323
+2023-01-17 21:40:30.119721,Box Office Specials - Highest Worldwide Box Office 2023 - Highest Worldwide Box Office Ranking For 2023,Mission: Impossible - Dead Reckoning Part One,0.015300000000000001,0.0476,0.0323
 2023-01-17 16:40:30.511484,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Jayson Tatum (BOS),0.015100000000000002,0.1818,0.1667
 2023-01-17 21:40:30.193653,Twitter Specials - Next Twitter CEO - Next Twitter CEO After Elon Musk,Jared Kushner,0.014899999999999997,0.0625,0.0476
-2023-01-17 15:40:28.639557,NFL Playoffs Specials - Eagles Stage of Elimination - Proposition,To Lose in Super Bowl,0.01469999999999999,0.25,0.2353
 2023-01-17 21:40:30.133401,Economy Specials - United States Real GDP Growth Rate 2023 - US Real GDP Growth Rate 2023,1.01 - 2%,0.01469999999999999,0.25,0.2353
 2023-01-17 15:40:28.634172,NFL Playoffs Specials - Chiefs Stage of Elimination - Proposition,To Win Super Bowl,0.01469999999999999,0.25,0.2353
-2023-01-17 09:40:32.701361,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Marquette,0.0145,0.0244,0.0099
+2023-01-17 15:40:28.639557,NFL Playoffs Specials - Eagles Stage of Elimination - Proposition,To Lose in Super Bowl,0.01469999999999999,0.25,0.2353
 2023-01-17 15:40:28.606651,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Exact Finalists,KC Chiefs vs NY Giants,0.014400000000000003,0.0323,0.0179
 2023-01-17 21:40:30.080730,95th Academy Awards - Best Picture - Best Picture,Top Gun: Maverick,0.013999999999999999,0.0909,0.0769
 2023-01-17 13:40:29.827939,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Dallas Cowboys,0.013999999999999999,0.0909,0.0769
 2023-01-17 12:40:28.433884,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - MVP,Brock Purdy,0.013899999999999996,0.125,0.1111
 2023-01-17 12:40:28.851786,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Texas,0.012899999999999995,0.1667,0.1538
 2023-01-17 15:40:28.650423,NFL Playoffs Specials - Jaguars Stage of Elimination - Proposition,To Win Super Bowl,0.012700000000000003,0.0323,0.0196
-2023-01-17 09:40:32.723716,Boxing Lines - Ekow Essuman vs Chris Kongo - To Win the Bout,Ekow Essuman,0.011900000000000022,0.5614,0.5495
+2023-01-17 22:40:30.729063,Tournament Match-Ups - Tournament Match-Ups - S. Lowry vs A. Noren - Tournament Match-Ups,Alex Noren,0.012199999999999989,0.5122,0.5
 2023-01-17 19:40:31.125741,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,No,0.011899999999999994,0.25,0.2381
 2023-01-17 15:40:28.616329,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - MVP,Patrick Mahomes,0.011700000000000016,0.2222,0.2105
 2023-01-17 11:40:35.143762,Boxing Lines - Ekow Essuman vs Chris Kongo - To Win the Bout,Chris Kongo,0.011600000000000055,0.5238,0.5122
 2023-01-17 15:40:28.606651,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Exact Finalists,BUF Bills vs NY Giants,0.011399999999999997,0.0278,0.0164
-2023-01-17 19:40:31.116274,Joe Biden Specials - Location Of Next Cache Of Classified Biden Documents - Where will the next classified Biden documents be found?,Washington Metro,0.011199999999999995,0.0588,0.0476
-2023-01-17 19:40:31.116274,Joe Biden Specials - Location Of Next Cache Of Classified Biden Documents - Where will the next classified Biden documents be found?,"Waldorf Astoria, NYC",0.011199999999999995,0.0588,0.0476
 2023-01-17 15:40:28.650423,NFL Playoffs Specials - Jaguars Stage of Elimination - Proposition,To Lose in Super Bowl,0.011199999999999995,0.0588,0.0476
-2023-01-17 13:40:29.348487,Boxing Lines - Ekow Essuman vs Chris Kongo - To Win the Bout,Chris Kongo,0.01100000000000001,0.5348,0.5238
+2023-01-17 19:40:31.116274,Joe Biden Specials - Location Of Next Cache Of Classified Biden Documents - Where will the next classified Biden documents be found?,"Waldorf Astoria, NYC",0.011199999999999995,0.0588,0.0476
+2023-01-17 19:40:31.116274,Joe Biden Specials - Location Of Next Cache Of Classified Biden Documents - Where will the next classified Biden documents be found?,Washington Metro,0.011199999999999995,0.0588,0.0476
 2023-01-17 16:40:30.894726,Tournament Match-Ups - Tournament Match-Ups - F. Molinari vs A. Otaegui - Tournament Match-Ups,Adrian Otaegui,0.01100000000000001,0.5348,0.5238
+2023-01-17 13:40:29.348487,Boxing Lines - Ekow Essuman vs Chris Kongo - To Win the Bout,Chris Kongo,0.01100000000000001,0.5348,0.5238
 2023-01-17 17:40:29.276273,Tournament Match-Ups - Tournament Match-Up - C. Young vs W. Zalatoris - Tournament Match-Up,Cameron Young,0.010699999999999932,0.5455,0.5348
 2023-01-17 11:40:35.555784,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Connecticut,0.010499999999999982,0.2105,0.2
-2023-01-17 09:40:32.701361,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Xavier,0.010300000000000002,0.0244,0.0141
 2023-01-17 15:40:28.606651,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Exact Finalists,CIN Bengals vs PHI Eagles,0.0102,0.0769,0.0667
 2023-01-17 21:40:30.086533,95th Academy Awards - Will any Host or Award Presenter be Slapped During the Show - Proposition,Yes,0.0102,0.0769,0.0667
-2023-01-17 10:40:28.771044,Tournament of Champions - Tournament of Champions - Outright,Maja Stark,-0.0102,0.0667,0.0769
-2023-01-17 10:40:28.427768,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Drew Timme,-0.0102,0.0667,0.0769
-2023-01-17 19:40:32.805724,Big Brother Brazil - Big Brother Brazil 2023 - Big Brother Brazil 2023 Outright Winner,Paula Freitas,-0.0102,0.0667,0.0769
-2023-01-17 09:40:32.701361,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,UCLA,-0.0102,0.0667,0.0769
 2023-01-17 19:40:32.805724,Big Brother Brazil - Big Brother Brazil 2023 - Big Brother Brazil 2023 Outright Winner,Marília,-0.0102,0.0667,0.0769
 2023-01-17 19:40:32.805724,Big Brother Brazil - Big Brother Brazil 2023 - Big Brother Brazil 2023 Outright Winner,Gabriel Santana,-0.0102,0.0667,0.0769
+2023-01-17 19:40:32.805724,Big Brother Brazil - Big Brother Brazil 2023 - Big Brother Brazil 2023 Outright Winner,Paula Freitas,-0.0102,0.0667,0.0769
 2023-01-17 13:40:29.348487,Boxing Lines - Ekow Essuman vs Chris Kongo - To Win the Bout,Ekow Essuman,-0.010699999999999932,0.5348,0.5455
 2023-01-17 16:40:30.894726,Tournament Match-Ups - Tournament Match-Ups - F. Molinari vs A. Otaegui - Tournament Match-Ups,Francesco Molinari,-0.010699999999999932,0.5348,0.5455
 2023-01-17 20:40:30.703897,Grammy Awards 2023 - Album of the Year - Grammys Album of the Year,Brandi Carlile - In These Silent Days,-0.010899999999999993,0.1429,0.1538
+2023-01-17 22:40:30.303425,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Luis Tagle (Philippines),-0.010899999999999993,0.1429,0.1538
 2023-01-17 17:40:29.276273,Tournament Match-Ups - Tournament Match-Up - C. Young vs W. Zalatoris - Tournament Match-Up,Will Zalatoris,-0.01100000000000001,0.5238,0.5348
 2023-01-17 19:40:32.805724,Big Brother Brazil - Big Brother Brazil 2023 - Big Brother Brazil 2023 Outright Winner,Bruna Griphao,-0.011099999999999999,0.1,0.1111
 2023-01-17 12:40:28.870599,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Boise State,-0.011700000000000016,0.2105,0.2222
 2023-01-17 11:40:35.562077,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Pittsburgh,-0.011899999999999994,0.0714,0.0833
-2023-01-17 21:40:29.541791,NFL Specials - Who will be Head Coach of the Los Angeles Chargers For Game 1 of the 2023 Regular Season - Head Coach of the Los Angeles Chargers ,DeMeco Ryans,-0.011900000000000008,0.0833,0.0952
 2023-01-17 21:40:29.541791,NFL Specials - Who will be Head Coach of the Los Angeles Chargers For Game 1 of the 2023 Regular Season - Head Coach of the Los Angeles Chargers ,Jonathan Gannon,-0.011900000000000008,0.0833,0.0952
-2023-01-17 10:40:28.298831,Boxing Lines - Ekow Essuman vs Chris Kongo - To Win the Bout,Ekow Essuman,-0.011900000000000022,0.5495,0.5614
-2023-01-17 10:40:28.427768,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Oumar Ballo,-0.012599999999999998,0.0152,0.0278
+2023-01-17 21:40:29.541791,NFL Specials - Who will be Head Coach of the Los Angeles Chargers For Game 1 of the 2023 Regular Season - Head Coach of the Los Angeles Chargers ,DeMeco Ryans,-0.011900000000000008,0.0833,0.0952
 2023-01-17 12:40:28.870599,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,San Diego State,-0.012700000000000045,0.6364,0.6491
 2023-01-17 16:40:29.272210,Boxing Lines - Richard Riakporhe vs Krzysztof Glowacki - To Win the Bout,Krzysztof Glowacki,-0.012899999999999995,0.125,0.1379
-2023-01-17 21:40:30.046903,Grammy Awards 2023 - Record of the Year - Grammys Record of the Year,Break My Soul - Beyonce,-0.012899999999999995,0.1538,0.1667
 2023-01-17 12:40:28.851786,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Kansas State,-0.012899999999999995,0.1538,0.1667
-2023-01-17 10:40:28.427768,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Oscar Tshiebwe,-0.0131,0.0345,0.0476
+2023-01-17 21:40:30.046903,Grammy Awards 2023 - Record of the Year - Grammys Record of the Year,Break My Soul - Beyonce,-0.012899999999999995,0.1538,0.1667
 2023-01-17 21:40:30.080730,95th Academy Awards - Best Picture - Best Picture,The Banshees of Inisherin,-0.013800000000000034,0.3636,0.3774
 2023-01-17 12:40:28.429253,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - Super Bowl Winning Division,AFC North,-0.013899999999999996,0.1111,0.125
-2023-01-17 20:40:30.710498,Grammy Awards 2023 - Best New Artist - Grammys Best New Artist,Tobe Nwigwe,-0.013999999999999999,0.0769,0.0909
 2023-01-17 19:40:32.805724,Big Brother Brazil - Big Brother Brazil 2023 - Big Brother Brazil 2023 Outright Winner,Gabriel Tavares,-0.013999999999999999,0.0769,0.0909
-2023-01-17 19:40:32.842465,Time Person of the Year - Time Person Of The Year 2023 - Time Person Of The Year 2023,Iran Protesters,-0.013999999999999999,0.0769,0.0909
 2023-01-17 19:40:32.842465,Time Person of the Year - Time Person Of The Year 2023 - Time Person Of The Year 2023,Xi Jinping,-0.013999999999999999,0.0769,0.0909
+2023-01-17 19:40:32.842465,Time Person of the Year - Time Person Of The Year 2023 - Time Person Of The Year 2023,Iran Protesters,-0.013999999999999999,0.0769,0.0909
+2023-01-17 20:40:30.710498,Grammy Awards 2023 - Best New Artist - Grammys Best New Artist,Tobe Nwigwe,-0.013999999999999999,0.0769,0.0909
 2023-01-17 19:40:32.728370,NFL Weekly Specials - Divisional Round Weekend - Most Rushing Yards - Proposition,Isiah Pacheco KC,-0.014099999999999994,0.0526,0.0667
 2023-01-17 19:40:32.728370,NFL Weekly Specials - Divisional Round Weekend - Most Rushing Yards - Proposition,Samaje Perine CIN,-0.014099999999999998,0.0244,0.0385
 2023-01-17 20:40:29.554336,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Tommy Fury,-0.014500000000000013,0.3937,0.4082
-2023-01-17 19:40:32.728370,NFL Weekly Specials - Divisional Round Weekend - Most Rushing Yards - Proposition,Ezekiel Elliott DAL,-0.014899999999999997,0.0476,0.0625
 2023-01-17 19:40:32.728370,NFL Weekly Specials - Divisional Round Weekend - Most Rushing Yards - Proposition,Devin Singletary BUF,-0.014899999999999997,0.0476,0.0625
+2023-01-17 19:40:32.728370,NFL Weekly Specials - Divisional Round Weekend - Most Rushing Yards - Proposition,Ezekiel Elliott DAL,-0.014899999999999997,0.0476,0.0625
 2023-01-17 19:40:32.728370,NFL Weekly Specials - Divisional Round Weekend - Most Rushing Yards - Proposition,Josh Allen BUF,-0.014899999999999997,0.0476,0.0625
 2023-01-17 21:40:30.080730,95th Academy Awards - Best Picture - Best Picture,Avatar : The Way of Water,-0.014899999999999997,0.0476,0.0625
 2023-01-17 16:40:30.511484,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Luka Doncic (DAL),-0.014900000000000024,0.3077,0.3226
+2023-01-17 11:40:35.555784,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,West Virginia,-0.015300000000000001,0.0435,0.0588
 2023-01-17 11:40:35.555784,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Memphis,-0.015300000000000001,0.0435,0.0588
 2023-01-17 12:40:28.864562,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Wisconsin,-0.015300000000000001,0.0323,0.0476
-2023-01-17 11:40:35.555784,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,West Virginia,-0.015300000000000001,0.0435,0.0588
 2023-01-17 12:40:28.851786,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Kansas,-0.016699999999999937,0.5833,0.6
 2023-01-17 12:40:28.888887,College Basketball - West Coast Regular Season Conference Winner - West Coast Conference Regular Season Winner,Gonzaga,-0.016700000000000048,0.7333,0.75
 2023-01-17 12:40:28.888887,College Basketball - West Coast Regular Season Conference Winner - West Coast Conference Regular Season Winner,Saint Mary's CA,-0.017600000000000005,0.3333,0.3509
 2023-01-17 12:40:28.864562,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Rutgers,-0.0179,0.125,0.1429
 2023-01-17 21:40:30.207225,Space Exploration - Next to have astronauts walk on the moon - Next To Walk On The Moon,United States,-0.017900000000000027,0.8571,0.875
-2023-01-17 19:40:32.805724,Big Brother Brazil - Big Brother Brazil 2023 - Big Brother Brazil 2023 Outright Winner,Cristian,-0.018099999999999998,0.0588,0.0769
 2023-01-17 11:40:35.555784,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Maryland,-0.018099999999999998,0.0345,0.0526
-2023-01-17 10:40:28.427768,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Azoulas Tubelis,-0.018099999999999998,0.0588,0.0769
-2023-01-17 11:40:35.555784,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Virginia Tech,-0.018099999999999998,0.0345,0.0526
 2023-01-17 11:40:35.555784,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Texas Tech,-0.018099999999999998,0.0345,0.0526
+2023-01-17 19:40:32.805724,Big Brother Brazil - Big Brother Brazil 2023 - Big Brother Brazil 2023 Outright Winner,Cristian,-0.018099999999999998,0.0588,0.0769
+2023-01-17 11:40:35.555784,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Virginia Tech,-0.018099999999999998,0.0345,0.0526
 2023-01-17 11:40:35.567322,College Basketball - American Athletic Regular Season Conference Winner - AAC Regular Season Winner,Memphis U,-0.018099999999999998,0.0588,0.0769
 2023-01-17 12:40:28.876700,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,UCLA,-0.018199999999999994,0.8,0.8182
-2023-01-17 21:40:30.219169,Space Exploration - When will the Artemis Mission walk astronauts on the moon? - When will the Artemis Mission walk astronauts on the moon?,2027,-0.01820000000000002,0.1818,0.2
 2023-01-17 21:40:30.046903,Grammy Awards 2023 - Record of the Year - Grammys Record of the Year,About Damn Time - Lizzo,-0.01820000000000002,0.1818,0.2
-2023-01-17 21:40:30.193653,Twitter Specials - Next Twitter CEO - Next Twitter CEO After Elon Musk,David Sacks,-0.019000000000000017,0.2667,0.2857
+2023-01-17 21:40:30.219169,Space Exploration - When will the Artemis Mission walk astronauts on the moon? - When will the Artemis Mission walk astronauts on the moon?,2027,-0.01820000000000002,0.1818,0.2
 2023-01-17 12:40:28.858349,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Connecticut,-0.019000000000000017,0.2667,0.2857
 2023-01-17 21:40:30.193653,Twitter Specials - Next Twitter CEO - Next Twitter CEO After Elon Musk,Jason Calacanis,-0.019000000000000017,0.2667,0.2857
+2023-01-17 21:40:30.193653,Twitter Specials - Next Twitter CEO - Next Twitter CEO After Elon Musk,David Sacks,-0.019000000000000017,0.2667,0.2857
 2023-01-17 11:40:35.572706,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Dayton,-0.019499999999999962,0.6296,0.6491
 2023-01-17 16:40:30.874894,Tournament Match-Ups - Tournament Match-Ups - R. MacIntyre vs J. Smith - Tournament Match-Ups,Robert MacIntyre,-0.01970000000000005,0.5455,0.5652
 2023-01-17 19:40:32.842465,Time Person of the Year - Time Person Of The Year 2023 - Time Person Of The Year 2023,Janet Yellen,-0.02020000000000001,0.0909,0.1111
-2023-01-17 09:40:33.705158,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Shai Gilgeous-Alexander (OKC),-0.02079999999999993,0.5348,0.5556
+2023-01-17 22:40:30.388716,Round Match-Ups - 1st Round Match-Up - T. Montgomery v T. Hoge - 1st Round Match-Up,Tom Hoge,-0.02079999999999993,0.5348,0.5556
 2023-01-17 21:40:29.541791,NFL Specials - Who will be Head Coach of the Los Angeles Chargers For Game 1 of the 2023 Regular Season - Head Coach of the Los Angeles Chargers ,Dan Quinn,-0.0208,0.0625,0.0833
 2023-01-17 11:40:35.555784,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Kansas,-0.02100000000000002,0.3636,0.3846
 2023-01-17 12:40:28.864562,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Purdue,-0.02100000000000002,0.6154,0.6364
+2023-01-17 22:40:30.734122,Tournament Match-Ups - Tournament Match-Ups - R. MacIntyre vs J. Smith - Tournament Match-Ups,Robert MacIntyre,-0.02169999999999994,0.5238,0.5455
 2023-01-17 11:40:35.555784,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Houston,-0.021699999999999997,0.4545,0.4762
-2023-01-17 10:40:28.427768,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Zach Edey,-0.02200000000000002,0.6923,0.7143
+2023-01-17 22:40:30.368997,Round Match-Ups - 1st Round Match-Up - B. Harman v S. Burns - 1st Round Match-Up,Sam Burns,-0.022600000000000064,0.5122,0.5348
+2023-01-17 22:40:30.359064,Round Match-Ups - 1st Round Match-Up - A. Hadwin v A. Putnam - 1st Round Match-Up,Andrew Putnam,-0.022600000000000064,0.5122,0.5348
 2023-01-17 12:40:28.882876,College Basketball - SEC Regular Season Conference Winner - SEC Regular Season Winner,Kentucky,-0.023200000000000002,0.0244,0.0476
 2023-01-17 16:40:30.787960,Abu Dhabi HSBC Championship - 2/3 Balls - 1st Round 3 Balls - N. Hojgaard / A. Arnaus / N. Colsaerts - 1st Round 3 Balls,Adri Arnaus,-0.02360000000000001,0.3846,0.4082
-2023-01-17 18:40:30.874923,Tournament Match-Ups - Tournament Match-Ups - M.W. Lee vs T. Pieters - Tournament Match-Ups,Min Woo Lee,-0.023799999999999988,0.4762,0.5
-2023-01-17 12:40:28.858349,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Providence,-0.023799999999999988,0.1429,0.1667
-2023-01-17 21:40:30.133401,Economy Specials - United States Real GDP Growth Rate 2023 - US Real GDP Growth Rate 2023,Over 4%,-0.023799999999999988,0.1429,0.1667
 2023-01-17 19:40:31.116274,Joe Biden Specials - Location Of Next Cache Of Classified Biden Documents - Where will the next classified Biden documents be found?,On A Private Yacht,-0.023799999999999988,0.1429,0.1667
+2023-01-17 12:40:28.858349,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Providence,-0.023799999999999988,0.1429,0.1667
+2023-01-17 18:40:30.874923,Tournament Match-Ups - Tournament Match-Ups - M.W. Lee vs T. Pieters - Tournament Match-Ups,Min Woo Lee,-0.023799999999999988,0.4762,0.5
+2023-01-17 21:40:30.133401,Economy Specials - United States Real GDP Growth Rate 2023 - US Real GDP Growth Rate 2023,Over 4%,-0.023799999999999988,0.1429,0.1667
 2023-01-17 17:40:28.489353,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Tommy Fury,-0.023800000000000043,0.5,0.5238
 2023-01-17 12:40:28.882876,College Basketball - SEC Regular Season Conference Winner - SEC Regular Season Winner,Missouri,-0.023899999999999998,0.0196,0.0435
-2023-01-17 21:40:30.046903,Grammy Awards 2023 - Record of the Year - Grammys Record of the Year,You And Me On The Rock - Brandi Carlile featuring Lucius,-0.0242,0.0667,0.0909
 2023-01-17 19:40:32.805724,Big Brother Brazil - Big Brother Brazil 2023 - Big Brother Brazil 2023 Outright Winner,Gustavo Benedeti,-0.0242,0.0667,0.0909
+2023-01-17 21:40:30.046903,Grammy Awards 2023 - Record of the Year - Grammys Record of the Year,You And Me On The Rock - Brandi Carlile featuring Lucius,-0.0242,0.0667,0.0909
 2023-01-17 19:40:32.728370,NFL Weekly Specials - Divisional Round Weekend - Most Rushing Yards - Proposition,Joe Mixon CIN,-0.0242,0.0667,0.0909
 2023-01-17 11:40:35.555784,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Kentucky,-0.0242,0.0667,0.0909
 2023-01-17 20:40:30.703897,Grammy Awards 2023 - Album of the Year - Grammys Album of the Year,Harry Styles - Harry's House,-0.024800000000000016,0.2105,0.2353
 2023-01-17 12:40:28.851786,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,TCU,-0.024999999999999994,0.1,0.125
 2023-01-17 19:40:32.728370,NFL Weekly Specials - Divisional Round Weekend - Most Rushing Yards - Proposition,Saquon Barkley NYG,-0.02779999999999999,0.2222,0.25
-2023-01-17 09:40:32.701361,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Kentucky,-0.028000000000000004,0.0196,0.0476
 2023-01-17 12:40:28.433884,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - MVP,Devin Singletary,-0.028000000000000004,0.0196,0.0476
-2023-01-17 19:40:32.728370,NFL Weekly Specials - Divisional Round Weekend - Most Rushing Yards - Proposition,Tony Pollard DAL,-0.028399999999999995,0.0625,0.0909
 2023-01-17 21:40:29.541791,NFL Specials - Who will be Head Coach of the Los Angeles Chargers For Game 1 of the 2023 Regular Season - Head Coach of the Los Angeles Chargers ,Eric Bieniemy,-0.028399999999999995,0.0625,0.0909
+2023-01-17 19:40:32.728370,NFL Weekly Specials - Divisional Round Weekend - Most Rushing Yards - Proposition,Tony Pollard DAL,-0.028399999999999995,0.0625,0.0909
 2023-01-17 20:40:30.710498,Grammy Awards 2023 - Best New Artist - Grammys Best New Artist,Muni Long,-0.028799999999999992,0.125,0.1538
 2023-01-17 19:40:32.728370,NFL Weekly Specials - Divisional Round Weekend - Most Rushing Yards - Proposition,Daniel Jones NYG,-0.029299999999999993,0.0476,0.0769
 2023-01-17 21:40:30.193653,Twitter Specials - Next Twitter CEO - Next Twitter CEO After Elon Musk,Sriram Krishnan,-0.030299999999999994,0.3333,0.3636
@@ -197,11 +195,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-17 12:40:28.858349,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Xavier,-0.03640000000000004,0.3636,0.4
 2023-01-17 19:40:32.728370,NFL Weekly Specials - Divisional Round Weekend - Most Rushing Yards - Proposition,Travis Etienne Jr. JAC,-0.03889999999999999,0.1429,0.1818
 2023-01-17 12:40:28.876700,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Arizona,-0.03950000000000001,0.2105,0.25
-2023-01-17 20:40:30.710498,Grammy Awards 2023 - Best New Artist - Grammys Best New Artist,Wet Leg,-0.04269999999999999,0.1111,0.1538
 2023-01-17 12:40:28.864562,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Michigan State,-0.04269999999999999,0.1111,0.1538
+2023-01-17 20:40:30.710498,Grammy Awards 2023 - Best New Artist - Grammys Best New Artist,Wet Leg,-0.04269999999999999,0.1111,0.1538
 2023-01-17 19:40:32.533032,NFL Specials - Where will Aaron Rodgers Play Game 1 of the 2023 NFL Regular Season - Proposition,Green Bay Packers,-0.04290000000000005,0.6,0.6429
-2023-01-17 21:40:30.147948,Royal Family - Harry & Meghan Specials - Harry & Meghan Specials,Harry to attend the Westminster Abbey coronation of Charles III,-0.044399999999999995,0.5556,0.6
 2023-01-17 21:40:30.119721,Box Office Specials - Highest Worldwide Box Office 2023 - Highest Worldwide Box Office Ranking For 2023,Guardians of the Galaxy Vol. 3,-0.044399999999999995,0.4,0.4444
+2023-01-17 21:40:30.147948,Royal Family - Harry & Meghan Specials - Harry & Meghan Specials,Harry to attend the Westminster Abbey coronation of Charles III,-0.044399999999999995,0.5556,0.6
 2023-01-17 20:40:30.710498,Grammy Awards 2023 - Best New Artist - Grammys Best New Artist,Anitta,-0.044499999999999984,0.2222,0.2667
 2023-01-17 12:40:28.392224,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winning Division,AFC North,-0.044800000000000006,0.1905,0.2353
 2023-01-17 21:40:30.119721,Box Office Specials - Highest Worldwide Box Office 2023 - Highest Worldwide Box Office Ranking For 2023,Fast X,-0.04999999999999999,0.2,0.25
