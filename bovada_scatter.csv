@@ -1,84 +1,43 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-18 02:40:28.298509,NFL Specials - Where will Sean Payton  Coach Game 1 of the 2023 NFL Regular Season - Proposition,Carolina Panthers,0.1,0.2,0.1
-2023-01-17 21:40:30.080730,95th Academy Awards - Best Picture - Best Picture,Everything Everywhere All At Once,0.07940000000000003,0.5238,0.4444
-2023-01-17 21:40:29.541791,NFL Specials - Who will be Head Coach of the Los Angeles Chargers For Game 1 of the 2023 Regular Season - Head Coach of the Los Angeles Chargers ,Brandon Staley,0.07499999999999996,0.875,0.8
-2023-01-17 21:40:30.201484,Space Exploration - First Woman To Walk On The Moon - First Woman To Walk On The Moon,Jessica Watkins,0.06820000000000001,0.25,0.1818
-2023-01-17 21:40:30.119721,Box Office Specials - Highest Worldwide Box Office 2023 - Highest Worldwide Box Office Ranking For 2023,The Super Mario Bros. Movie,0.0635,0.1111,0.0476
 2023-01-18 06:40:33.968318,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Kansas State,0.0596,0.1429,0.0833
-2023-01-17 21:40:30.046903,Grammy Awards 2023 - Record of the Year - Grammys Record of the Year,Easy On Me - Adele,0.05870000000000003,0.5238,0.4651
-2023-01-17 21:40:30.219169,Space Exploration - When will the Artemis Mission walk astronauts on the moon? - When will the Artemis Mission walk astronauts on the moon?,2026,0.04999999999999999,0.25,0.2
-2023-01-17 21:40:30.201484,Space Exploration - First Woman To Walk On The Moon - First Woman To Walk On The Moon,Jessica Meir,0.04849999999999999,0.1818,0.1333
-2023-01-17 21:40:30.046903,Grammy Awards 2023 - Record of the Year - Grammys Record of the Year,Bad Habit - Steve Lacy,0.037500000000000006,0.1,0.0625
 2023-01-18 03:40:28.365462,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Jake Paul,0.03710000000000002,0.6923,0.6552
 2023-01-17 22:40:30.303425,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Peter Erdo (Hungary),0.034100000000000005,0.125,0.0909
-2023-01-17 21:40:30.053626,Grammy Awards 2023 - Song of the Year - Grammys Song of the Year,Harry Styles - As It Was,0.031799999999999995,0.1429,0.1111
-2023-01-17 21:40:30.213176,Space Exploration - When will astronauts first walk on Mars? - When will astronauts first walk on Mars?,2031 to 2040,0.030299999999999994,0.3636,0.3333
 2023-01-18 07:40:36.551851,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Nikola Jokic (DEN),0.029600000000000015,0.4,0.3704
 2023-01-17 23:40:32.914765,Tournament Match-Ups - Tournament Match-Up - A. Wise vs C. Davis - Tournament Match-Up,Aaron Wise,0.028900000000000037,0.5744,0.5455
-2023-01-17 21:40:30.133401,Economy Specials - United States Real GDP Growth Rate 2023 - US Real GDP Growth Rate 2023,0.01 - 1%,0.02560000000000001,0.3333,0.3077
 2023-01-18 08:40:34.458456,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Exact Result,BUF Bills to beat PHI Eagles,0.02310000000000001,0.1,0.0769
 2023-01-17 22:40:29.459669,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Tommy Fury,0.02300000000000002,0.4167,0.3937
 2023-01-17 22:40:30.388716,Round Match-Ups - 1st Round Match-Up - T. Montgomery v T. Hoge - 1st Round Match-Up,Taylor Montgomery,0.022600000000000064,0.5348,0.5122
-2023-01-17 21:40:30.207225,Space Exploration - Next to have astronauts walk on the moon - Next To Walk On The Moon,China,0.022199999999999998,0.2222,0.2
 2023-01-17 22:40:30.734122,Tournament Match-Ups - Tournament Match-Ups - R. MacIntyre vs J. Smith - Tournament Match-Ups,Jordan Smith,0.02169999999999994,0.5455,0.5238
 2023-01-17 22:40:30.368997,Round Match-Ups - 1st Round Match-Up - B. Harman v S. Burns - 1st Round Match-Up,Brian Harman,0.02079999999999993,0.5556,0.5348
 2023-01-17 22:40:30.359064,Round Match-Ups - 1st Round Match-Up - A. Hadwin v A. Putnam - 1st Round Match-Up,Adam Hadwin,0.02079999999999993,0.5556,0.5348
 2023-01-17 22:40:30.303425,Next Pope Betting - Next Pope - Next Pope After Francis I,Archbishop Angelo Scola (Italy),0.02020000000000001,0.1111,0.0909
-2023-01-17 21:40:30.133401,Economy Specials - United States Real GDP Growth Rate 2023 - US Real GDP Growth Rate 2023,2.01 - 3%,0.02020000000000001,0.1111,0.0909
 2023-01-18 06:40:33.959917,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Kansas State,0.0189,0.0385,0.0196
-2023-01-17 21:40:30.193653,Twitter Specials - Next Twitter CEO - Next Twitter CEO After Elon Musk,Sarah Friar,0.018099999999999998,0.0769,0.0588
 2023-01-18 07:40:36.568329,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Jaren Jackson Jr. (MEM),0.016699999999999937,0.6,0.5833
-2023-01-17 21:40:30.119721,Box Office Specials - Highest Worldwide Box Office 2023 - Highest Worldwide Box Office Ranking For 2023,Mission: Impossible - Dead Reckoning Part One,0.015300000000000001,0.0476,0.0323
-2023-01-17 21:40:30.193653,Twitter Specials - Next Twitter CEO - Next Twitter CEO After Elon Musk,Jared Kushner,0.014899999999999997,0.0625,0.0476
-2023-01-17 21:40:30.133401,Economy Specials - United States Real GDP Growth Rate 2023 - US Real GDP Growth Rate 2023,1.01 - 2%,0.01469999999999999,0.25,0.2353
 2023-01-18 08:40:34.458456,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Exact Result,KC Chiefs to beat SF 49ers,0.013999999999999999,0.0909,0.0769
-2023-01-17 21:40:30.080730,95th Academy Awards - Best Picture - Best Picture,Top Gun: Maverick,0.013999999999999999,0.0909,0.0769
 2023-01-18 07:40:36.580825,NBA Awards - 2022/23 NBA Awards - 2022/23 The Rookie of the Year,Bennedict Mathurin (IND),0.013899999999999996,0.125,0.1111
 2023-01-17 22:40:30.729063,Tournament Match-Ups - Tournament Match-Ups - S. Lowry vs A. Noren - Tournament Match-Ups,Alex Noren,0.012199999999999989,0.5122,0.5
 2023-01-18 08:40:32.506257,Boxing Lines - Arnold Barboza Jr vs Jose Pedraza - To Win the Bout,Arnold Barboza Jr,0.011599999999999944,0.8519,0.8403
 2023-01-18 07:40:36.562090,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Joe Mazzulla,0.01150000000000001,0.3448,0.3333
-2023-01-18 00:40:31.854894,FA Cup - FA Cup 2022/2023 - Winner,Liverpool,0.011099999999999999,0.1111,0.1
 2023-01-18 07:40:36.575544,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Lauri Markanen,0.011099999999999999,0.4762,0.4651
+2023-01-18 00:40:31.854894,FA Cup - FA Cup 2022/2023 - Winner,Liverpool,0.011099999999999999,0.1111,0.1
 2023-01-18 04:40:35.120791,Tournament Match-Ups - Tournament Match-Up - B. Harman vs S. Burns - Tournament Match-Up,Brian Harman,0.010699999999999932,0.5455,0.5348
 2023-01-18 04:40:35.130382,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs S. Scheffler - Tournament Match-Up,Scottie Scheffler,0.010699999999999932,0.5455,0.5348
 2023-01-18 04:40:35.111152,Tournament Match-Ups - Tournament Match-Up - A. Hadwin vs A. Putnam - Tournament Match-Up,Adam Hadwin,0.010699999999999932,0.5455,0.5348
-2023-01-17 21:40:30.086533,95th Academy Awards - Will any Host or Award Presenter be Slapped During the Show - Proposition,Yes,0.0102,0.0769,0.0667
 2023-01-18 08:40:33.288182,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Denver Nuggets,0.010099999999999998,0.1053,0.0952
 2023-01-18 07:40:36.580825,NBA Awards - 2022/23 NBA Awards - 2022/23 The Rookie of the Year,Paolo Banchero (ORL),-0.010199999999999987,0.9231,0.9333
-2023-01-17 22:40:30.303425,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Luis Tagle (Philippines),-0.010899999999999993,0.1429,0.1538
 2023-01-18 07:40:36.551851,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Giannis Antetokounmpo (MIL),-0.010899999999999993,0.1429,0.1538
-2023-01-18 04:40:35.130382,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs S. Scheffler - Tournament Match-Up,Patrick Cantlay,-0.01100000000000001,0.5238,0.5348
-2023-01-18 04:40:35.120791,Tournament Match-Ups - Tournament Match-Up - B. Harman vs S. Burns - Tournament Match-Up,Sam Burns,-0.01100000000000001,0.5238,0.5348
+2023-01-17 22:40:30.303425,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Luis Tagle (Philippines),-0.010899999999999993,0.1429,0.1538
 2023-01-18 07:40:36.575544,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Shai Gilgeous-Alexander (OKC),-0.01100000000000001,0.5238,0.5348
 2023-01-18 04:40:35.111152,Tournament Match-Ups - Tournament Match-Up - A. Hadwin vs A. Putnam - Tournament Match-Up,Andrew Putnam,-0.01100000000000001,0.5238,0.5348
+2023-01-18 04:40:35.120791,Tournament Match-Ups - Tournament Match-Up - B. Harman vs S. Burns - Tournament Match-Up,Sam Burns,-0.01100000000000001,0.5238,0.5348
+2023-01-18 04:40:35.130382,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs S. Scheffler - Tournament Match-Up,Patrick Cantlay,-0.01100000000000001,0.5238,0.5348
 2023-01-18 07:40:36.556872,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Collin Sexton (UTA),-0.011699999999999999,0.0079,0.0196
-2023-01-17 21:40:29.541791,NFL Specials - Who will be Head Coach of the Los Angeles Chargers For Game 1 of the 2023 Regular Season - Head Coach of the Los Angeles Chargers ,DeMeco Ryans,-0.011900000000000008,0.0833,0.0952
-2023-01-17 21:40:29.541791,NFL Specials - Who will be Head Coach of the Los Angeles Chargers For Game 1 of the 2023 Regular Season - Head Coach of the Los Angeles Chargers ,Jonathan Gannon,-0.011900000000000008,0.0833,0.0952
-2023-01-17 21:40:30.046903,Grammy Awards 2023 - Record of the Year - Grammys Record of the Year,Break My Soul - Beyonce,-0.012899999999999995,0.1538,0.1667
 2023-01-18 08:40:32.510883,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Tommy Fury,-0.013300000000000034,0.3571,0.3704
-2023-01-17 21:40:30.080730,95th Academy Awards - Best Picture - Best Picture,The Banshees of Inisherin,-0.013800000000000034,0.3636,0.3774
-2023-01-17 21:40:30.080730,95th Academy Awards - Best Picture - Best Picture,Avatar : The Way of Water,-0.014899999999999997,0.0476,0.0625
-2023-01-17 21:40:30.207225,Space Exploration - Next to have astronauts walk on the moon - Next To Walk On The Moon,United States,-0.017900000000000027,0.8571,0.875
-2023-01-17 21:40:30.046903,Grammy Awards 2023 - Record of the Year - Grammys Record of the Year,About Damn Time - Lizzo,-0.01820000000000002,0.1818,0.2
-2023-01-17 21:40:30.219169,Space Exploration - When will the Artemis Mission walk astronauts on the moon? - When will the Artemis Mission walk astronauts on the moon?,2027,-0.01820000000000002,0.1818,0.2
-2023-01-17 21:40:30.193653,Twitter Specials - Next Twitter CEO - Next Twitter CEO After Elon Musk,Jason Calacanis,-0.019000000000000017,0.2667,0.2857
-2023-01-17 21:40:30.193653,Twitter Specials - Next Twitter CEO - Next Twitter CEO After Elon Musk,David Sacks,-0.019000000000000017,0.2667,0.2857
 2023-01-17 22:40:30.388716,Round Match-Ups - 1st Round Match-Up - T. Montgomery v T. Hoge - 1st Round Match-Up,Tom Hoge,-0.02079999999999993,0.5348,0.5556
-2023-01-17 21:40:29.541791,NFL Specials - Who will be Head Coach of the Los Angeles Chargers For Game 1 of the 2023 Regular Season - Head Coach of the Los Angeles Chargers ,Dan Quinn,-0.0208,0.0625,0.0833
 2023-01-17 22:40:30.734122,Tournament Match-Ups - Tournament Match-Ups - R. MacIntyre vs J. Smith - Tournament Match-Ups,Robert MacIntyre,-0.02169999999999994,0.5238,0.5455
-2023-01-17 22:40:30.359064,Round Match-Ups - 1st Round Match-Up - A. Hadwin v A. Putnam - 1st Round Match-Up,Andrew Putnam,-0.022600000000000064,0.5122,0.5348
 2023-01-17 22:40:30.368997,Round Match-Ups - 1st Round Match-Up - B. Harman v S. Burns - 1st Round Match-Up,Sam Burns,-0.022600000000000064,0.5122,0.5348
-2023-01-17 21:40:30.133401,Economy Specials - United States Real GDP Growth Rate 2023 - US Real GDP Growth Rate 2023,Over 4%,-0.023799999999999988,0.1429,0.1667
+2023-01-17 22:40:30.359064,Round Match-Ups - 1st Round Match-Up - A. Hadwin v A. Putnam - 1st Round Match-Up,Andrew Putnam,-0.022600000000000064,0.5122,0.5348
 2023-01-17 23:40:32.914765,Tournament Match-Ups - Tournament Match-Up - A. Wise vs C. Davis - Tournament Match-Up,Cameron Davis,-0.023800000000000043,0.5,0.5238
-2023-01-17 21:40:30.046903,Grammy Awards 2023 - Record of the Year - Grammys Record of the Year,You And Me On The Rock - Brandi Carlile featuring Lucius,-0.0242,0.0667,0.0909
 2023-01-18 07:40:36.556872,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Gary Trent Jr.,-0.0257,0.0066,0.0323
-2023-01-17 21:40:29.541791,NFL Specials - Who will be Head Coach of the Los Angeles Chargers For Game 1 of the 2023 Regular Season - Head Coach of the Los Angeles Chargers ,Eric Bieniemy,-0.028399999999999995,0.0625,0.0909
-2023-01-17 21:40:30.133401,Economy Specials - United States Real GDP Growth Rate 2023 - US Real GDP Growth Rate 2023,Negative Growth,-0.030299999999999994,0.3333,0.3636
-2023-01-17 21:40:30.193653,Twitter Specials - Next Twitter CEO - Next Twitter CEO After Elon Musk,Sriram Krishnan,-0.030299999999999994,0.3333,0.3636
 2023-01-18 03:40:28.365462,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Tommy Fury,-0.0378,0.3704,0.4082
-2023-01-17 21:40:30.119721,Box Office Specials - Highest Worldwide Box Office 2023 - Highest Worldwide Box Office Ranking For 2023,Guardians of the Galaxy Vol. 3,-0.044399999999999995,0.4,0.4444
-2023-01-17 21:40:30.147948,Royal Family - Harry & Meghan Specials - Harry & Meghan Specials,Harry to attend the Westminster Abbey coronation of Charles III,-0.044399999999999995,0.5556,0.6
-2023-01-17 21:40:30.119721,Box Office Specials - Highest Worldwide Box Office 2023 - Highest Worldwide Box Office Ranking For 2023,Fast X,-0.04999999999999999,0.2,0.25
-2023-01-17 21:40:30.080730,95th Academy Awards - Best Picture - Best Picture,The Fabelmans,-0.0504,0.2353,0.2857
-2023-01-17 21:40:30.046903,Grammy Awards 2023 - Record of the Year - Grammys Record of the Year,As It Was - Harry Styles,-0.06970000000000004,0.3077,0.3774
-2023-01-17 21:40:29.545988,NFL Specials - Who will be Head Coach of the Los Angeles Chargers For Game 1 of the 2023 Regular Season - Head Coach of the Los Angeles Chargers ,Any Other Coach,-0.0857,0.2,0.2857
