@@ -1,7 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-17 19:40:32.842465,Time Person of the Year - Time Person Of The Year 2023 - Time Person Of The Year 2023,Volodymyr Zelenskyy,0.10150000000000003,0.4651,0.3636
 2023-01-18 02:40:28.298509,NFL Specials - Where will Sean Payton  Coach Game 1 of the 2023 NFL Regular Season - Proposition,Carolina Panthers,0.1,0.2,0.1
-2023-01-17 18:40:29.180692,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Jake Paul,0.08999999999999997,0.6552,0.5652
 2023-01-17 21:40:30.080730,95th Academy Awards - Best Picture - Best Picture,Everything Everywhere All At Once,0.07940000000000003,0.5238,0.4444
 2023-01-17 20:40:30.710498,Grammy Awards 2023 - Best New Artist - Grammys Best New Artist,Latto,0.07939999999999997,0.5556,0.4762
 2023-01-17 21:40:29.541791,NFL Specials - Who will be Head Coach of the Los Angeles Chargers For Game 1 of the 2023 Regular Season - Head Coach of the Los Angeles Chargers ,Brandon Staley,0.07499999999999996,0.875,0.8
@@ -22,14 +21,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-17 21:40:30.053626,Grammy Awards 2023 - Song of the Year - Grammys Song of the Year,Harry Styles - As It Was,0.031799999999999995,0.1429,0.1111
 2023-01-17 21:40:30.213176,Space Exploration - When will astronauts first walk on Mars? - When will astronauts first walk on Mars?,2031 to 2040,0.030299999999999994,0.3636,0.3333
 2023-01-17 23:40:32.914765,Tournament Match-Ups - Tournament Match-Up - A. Wise vs C. Davis - Tournament Match-Up,Aaron Wise,0.028900000000000037,0.5744,0.5455
-2023-01-17 18:40:30.874923,Tournament Match-Ups - Tournament Match-Ups - M.W. Lee vs T. Pieters - Tournament Match-Ups,Thomas Pieters,0.026499999999999968,0.5917,0.5652
 2023-01-17 21:40:30.133401,Economy Specials - United States Real GDP Growth Rate 2023 - US Real GDP Growth Rate 2023,0.01 - 1%,0.02560000000000001,0.3333,0.3077
 2023-01-17 22:40:29.459669,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Tommy Fury,0.02300000000000002,0.4167,0.3937
 2023-01-17 22:40:30.388716,Round Match-Ups - 1st Round Match-Up - T. Montgomery v T. Hoge - 1st Round Match-Up,Taylor Montgomery,0.022600000000000064,0.5348,0.5122
 2023-01-17 21:40:30.207225,Space Exploration - Next to have astronauts walk on the moon - Next To Walk On The Moon,China,0.022199999999999998,0.2222,0.2
 2023-01-17 22:40:30.734122,Tournament Match-Ups - Tournament Match-Ups - R. MacIntyre vs J. Smith - Tournament Match-Ups,Jordan Smith,0.02169999999999994,0.5455,0.5238
-2023-01-17 22:40:30.359064,Round Match-Ups - 1st Round Match-Up - A. Hadwin v A. Putnam - 1st Round Match-Up,Adam Hadwin,0.02079999999999993,0.5556,0.5348
 2023-01-17 22:40:30.368997,Round Match-Ups - 1st Round Match-Up - B. Harman v S. Burns - 1st Round Match-Up,Brian Harman,0.02079999999999993,0.5556,0.5348
+2023-01-17 22:40:30.359064,Round Match-Ups - 1st Round Match-Up - A. Hadwin v A. Putnam - 1st Round Match-Up,Adam Hadwin,0.02079999999999993,0.5556,0.5348
 2023-01-17 22:40:30.303425,Next Pope Betting - Next Pope - Next Pope After Francis I,Archbishop Angelo Scola (Italy),0.02020000000000001,0.1111,0.0909
 2023-01-17 21:40:30.133401,Economy Specials - United States Real GDP Growth Rate 2023 - US Real GDP Growth Rate 2023,2.01 - 3%,0.02020000000000001,0.1111,0.0909
 2023-01-17 21:40:30.193653,Twitter Specials - Next Twitter CEO - Next Twitter CEO After Elon Musk,Sarah Friar,0.018099999999999998,0.0769,0.0588
@@ -40,30 +38,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-17 21:40:30.080730,95th Academy Awards - Best Picture - Best Picture,Top Gun: Maverick,0.013999999999999999,0.0909,0.0769
 2023-01-17 22:40:30.729063,Tournament Match-Ups - Tournament Match-Ups - S. Lowry vs A. Noren - Tournament Match-Ups,Alex Noren,0.012199999999999989,0.5122,0.5
 2023-01-17 19:40:31.125741,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,No,0.011899999999999994,0.25,0.2381
-2023-01-17 19:40:31.116274,Joe Biden Specials - Location Of Next Cache Of Classified Biden Documents - Where will the next classified Biden documents be found?,"Waldorf Astoria, NYC",0.011199999999999995,0.0588,0.0476
 2023-01-17 19:40:31.116274,Joe Biden Specials - Location Of Next Cache Of Classified Biden Documents - Where will the next classified Biden documents be found?,Washington Metro,0.011199999999999995,0.0588,0.0476
+2023-01-17 19:40:31.116274,Joe Biden Specials - Location Of Next Cache Of Classified Biden Documents - Where will the next classified Biden documents be found?,"Waldorf Astoria, NYC",0.011199999999999995,0.0588,0.0476
 2023-01-18 00:40:31.854894,FA Cup - FA Cup 2022/2023 - Winner,Liverpool,0.011099999999999999,0.1111,0.1
-2023-01-18 04:40:35.120791,Tournament Match-Ups - Tournament Match-Up - B. Harman vs S. Burns - Tournament Match-Up,Brian Harman,0.010699999999999932,0.5455,0.5348
-2023-01-18 04:40:35.130382,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs S. Scheffler - Tournament Match-Up,Scottie Scheffler,0.010699999999999932,0.5455,0.5348
 2023-01-18 04:40:35.111152,Tournament Match-Ups - Tournament Match-Up - A. Hadwin vs A. Putnam - Tournament Match-Up,Adam Hadwin,0.010699999999999932,0.5455,0.5348
+2023-01-18 04:40:35.130382,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs S. Scheffler - Tournament Match-Up,Scottie Scheffler,0.010699999999999932,0.5455,0.5348
+2023-01-18 04:40:35.120791,Tournament Match-Ups - Tournament Match-Up - B. Harman vs S. Burns - Tournament Match-Up,Brian Harman,0.010699999999999932,0.5455,0.5348
 2023-01-17 21:40:30.086533,95th Academy Awards - Will any Host or Award Presenter be Slapped During the Show - Proposition,Yes,0.0102,0.0769,0.0667
-2023-01-17 19:40:32.805724,Big Brother Brazil - Big Brother Brazil 2023 - Big Brother Brazil 2023 Outright Winner,Paula Freitas,-0.0102,0.0667,0.0769
 2023-01-17 19:40:32.805724,Big Brother Brazil - Big Brother Brazil 2023 - Big Brother Brazil 2023 Outright Winner,Marília,-0.0102,0.0667,0.0769
+2023-01-17 19:40:32.805724,Big Brother Brazil - Big Brother Brazil 2023 - Big Brother Brazil 2023 Outright Winner,Paula Freitas,-0.0102,0.0667,0.0769
 2023-01-17 19:40:32.805724,Big Brother Brazil - Big Brother Brazil 2023 - Big Brother Brazil 2023 Outright Winner,Gabriel Santana,-0.0102,0.0667,0.0769
-2023-01-17 22:40:30.303425,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Luis Tagle (Philippines),-0.010899999999999993,0.1429,0.1538
 2023-01-17 20:40:30.703897,Grammy Awards 2023 - Album of the Year - Grammys Album of the Year,Brandi Carlile - In These Silent Days,-0.010899999999999993,0.1429,0.1538
-2023-01-18 04:40:35.111152,Tournament Match-Ups - Tournament Match-Up - A. Hadwin vs A. Putnam - Tournament Match-Up,Andrew Putnam,-0.01100000000000001,0.5238,0.5348
+2023-01-17 22:40:30.303425,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Luis Tagle (Philippines),-0.010899999999999993,0.1429,0.1538
 2023-01-18 04:40:35.120791,Tournament Match-Ups - Tournament Match-Up - B. Harman vs S. Burns - Tournament Match-Up,Sam Burns,-0.01100000000000001,0.5238,0.5348
 2023-01-18 04:40:35.130382,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs S. Scheffler - Tournament Match-Up,Patrick Cantlay,-0.01100000000000001,0.5238,0.5348
+2023-01-18 04:40:35.111152,Tournament Match-Ups - Tournament Match-Up - A. Hadwin vs A. Putnam - Tournament Match-Up,Andrew Putnam,-0.01100000000000001,0.5238,0.5348
 2023-01-17 19:40:32.805724,Big Brother Brazil - Big Brother Brazil 2023 - Big Brother Brazil 2023 Outright Winner,Bruna Griphao,-0.011099999999999999,0.1,0.1111
-2023-01-17 21:40:29.541791,NFL Specials - Who will be Head Coach of the Los Angeles Chargers For Game 1 of the 2023 Regular Season - Head Coach of the Los Angeles Chargers ,DeMeco Ryans,-0.011900000000000008,0.0833,0.0952
 2023-01-17 21:40:29.541791,NFL Specials - Who will be Head Coach of the Los Angeles Chargers For Game 1 of the 2023 Regular Season - Head Coach of the Los Angeles Chargers ,Jonathan Gannon,-0.011900000000000008,0.0833,0.0952
+2023-01-17 21:40:29.541791,NFL Specials - Who will be Head Coach of the Los Angeles Chargers For Game 1 of the 2023 Regular Season - Head Coach of the Los Angeles Chargers ,DeMeco Ryans,-0.011900000000000008,0.0833,0.0952
 2023-01-17 21:40:30.046903,Grammy Awards 2023 - Record of the Year - Grammys Record of the Year,Break My Soul - Beyonce,-0.012899999999999995,0.1538,0.1667
 2023-01-17 21:40:30.080730,95th Academy Awards - Best Picture - Best Picture,The Banshees of Inisherin,-0.013800000000000034,0.3636,0.3774
-2023-01-17 19:40:32.842465,Time Person of the Year - Time Person Of The Year 2023 - Time Person Of The Year 2023,Xi Jinping,-0.013999999999999999,0.0769,0.0909
 2023-01-17 19:40:32.842465,Time Person of the Year - Time Person Of The Year 2023 - Time Person Of The Year 2023,Iran Protesters,-0.013999999999999999,0.0769,0.0909
-2023-01-17 20:40:30.710498,Grammy Awards 2023 - Best New Artist - Grammys Best New Artist,Tobe Nwigwe,-0.013999999999999999,0.0769,0.0909
 2023-01-17 19:40:32.805724,Big Brother Brazil - Big Brother Brazil 2023 - Big Brother Brazil 2023 Outright Winner,Gabriel Tavares,-0.013999999999999999,0.0769,0.0909
+2023-01-17 19:40:32.842465,Time Person of the Year - Time Person Of The Year 2023 - Time Person Of The Year 2023,Xi Jinping,-0.013999999999999999,0.0769,0.0909
+2023-01-17 20:40:30.710498,Grammy Awards 2023 - Best New Artist - Grammys Best New Artist,Tobe Nwigwe,-0.013999999999999999,0.0769,0.0909
 2023-01-17 19:40:32.728370,NFL Weekly Specials - Divisional Round Weekend - Most Rushing Yards - Proposition,Isiah Pacheco KC,-0.014099999999999994,0.0526,0.0667
 2023-01-17 19:40:32.728370,NFL Weekly Specials - Divisional Round Weekend - Most Rushing Yards - Proposition,Samaje Perine CIN,-0.014099999999999998,0.0244,0.0385
 2023-01-17 20:40:29.554336,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Tommy Fury,-0.014500000000000013,0.3937,0.4082
@@ -83,13 +81,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-17 22:40:30.734122,Tournament Match-Ups - Tournament Match-Ups - R. MacIntyre vs J. Smith - Tournament Match-Ups,Robert MacIntyre,-0.02169999999999994,0.5238,0.5455
 2023-01-17 22:40:30.368997,Round Match-Ups - 1st Round Match-Up - B. Harman v S. Burns - 1st Round Match-Up,Sam Burns,-0.022600000000000064,0.5122,0.5348
 2023-01-17 22:40:30.359064,Round Match-Ups - 1st Round Match-Up - A. Hadwin v A. Putnam - 1st Round Match-Up,Andrew Putnam,-0.022600000000000064,0.5122,0.5348
-2023-01-17 18:40:30.874923,Tournament Match-Ups - Tournament Match-Ups - M.W. Lee vs T. Pieters - Tournament Match-Ups,Min Woo Lee,-0.023799999999999988,0.4762,0.5
 2023-01-17 21:40:30.133401,Economy Specials - United States Real GDP Growth Rate 2023 - US Real GDP Growth Rate 2023,Over 4%,-0.023799999999999988,0.1429,0.1667
 2023-01-17 19:40:31.116274,Joe Biden Specials - Location Of Next Cache Of Classified Biden Documents - Where will the next classified Biden documents be found?,On A Private Yacht,-0.023799999999999988,0.1429,0.1667
 2023-01-17 23:40:32.914765,Tournament Match-Ups - Tournament Match-Up - A. Wise vs C. Davis - Tournament Match-Up,Cameron Davis,-0.023800000000000043,0.5,0.5238
-2023-01-17 21:40:30.046903,Grammy Awards 2023 - Record of the Year - Grammys Record of the Year,You And Me On The Rock - Brandi Carlile featuring Lucius,-0.0242,0.0667,0.0909
 2023-01-17 19:40:32.805724,Big Brother Brazil - Big Brother Brazil 2023 - Big Brother Brazil 2023 Outright Winner,Gustavo Benedeti,-0.0242,0.0667,0.0909
 2023-01-17 19:40:32.728370,NFL Weekly Specials - Divisional Round Weekend - Most Rushing Yards - Proposition,Joe Mixon CIN,-0.0242,0.0667,0.0909
+2023-01-17 21:40:30.046903,Grammy Awards 2023 - Record of the Year - Grammys Record of the Year,You And Me On The Rock - Brandi Carlile featuring Lucius,-0.0242,0.0667,0.0909
 2023-01-17 20:40:30.703897,Grammy Awards 2023 - Album of the Year - Grammys Album of the Year,Harry Styles - Harry's House,-0.024800000000000016,0.2105,0.2353
 2023-01-17 19:40:32.728370,NFL Weekly Specials - Divisional Round Weekend - Most Rushing Yards - Proposition,Saquon Barkley NYG,-0.02779999999999999,0.2222,0.25
 2023-01-17 19:40:32.728370,NFL Weekly Specials - Divisional Round Weekend - Most Rushing Yards - Proposition,Tony Pollard DAL,-0.028399999999999995,0.0625,0.0909
@@ -111,4 +108,3 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-17 19:40:32.728370,NFL Weekly Specials - Divisional Round Weekend - Most Rushing Yards - Proposition,Miles Sanders PHI,-0.055900000000000005,0.3077,0.3636
 2023-01-17 21:40:30.046903,Grammy Awards 2023 - Record of the Year - Grammys Record of the Year,As It Was - Harry Styles,-0.06970000000000004,0.3077,0.3774
 2023-01-17 21:40:29.545988,NFL Specials - Who will be Head Coach of the Los Angeles Chargers For Game 1 of the 2023 Regular Season - Head Coach of the Los Angeles Chargers ,Any Other Coach,-0.0857,0.2,0.2857
-2023-01-17 18:40:29.180692,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Tommy Fury,-0.09179999999999999,0.4082,0.5
