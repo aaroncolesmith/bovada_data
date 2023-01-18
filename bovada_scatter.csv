@@ -5,7 +5,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-18 10:40:34.419349,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,AS Roma,0.1389,0.25,0.1111
 2023-01-18 10:40:34.419349,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,Juventus,0.07500000000000001,0.2,0.125
 2023-01-18 12:40:33.811709,NFL Playoffs Specials - Bills Stage of Elimination - Proposition,To Lose in Divisional Round,0.07139999999999996,0.3571,0.2857
-2023-01-18 06:40:33.968318,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Kansas State,0.0596,0.1429,0.0833
 2023-01-18 17:40:29.572752,NFL Playoffs Specials - Cowboys Stage of Elimination - Proposition,To Lose in Conference Championship Game,0.05550000000000002,0.2222,0.1667
 2023-01-18 10:40:34.419349,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,Fiorentina,0.0524,0.1,0.0476
 2023-01-18 17:40:29.572752,NFL Playoffs Specials - Cowboys Stage of Elimination - Proposition,To Win Super Bowl,0.03420000000000001,0.1111,0.0769
@@ -15,8 +14,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-18 17:40:30.557954,Abu Dhabi HSBC Championship - 2/3 Balls - 1st Round 3 Balls - N. Hojgaard / A. Arnaus / N. Colsaerts - 1st Round 3 Balls,Adri Arnaus,0.02360000000000001,0.4082,0.3846
 2023-01-18 08:40:34.458456,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Exact Result,BUF Bills to beat PHI Eagles,0.02310000000000001,0.1,0.0769
 2023-01-18 12:40:34.790604,The American Express - 2/3 Balls - 1st Round 2 Balls - D. Riley vs B. Hossler - 1st Round 2 Balls,Beau Hossler,0.022699999999999998,0.4878,0.4651
-2023-01-18 11:40:30.032050,Tournament Match-Ups - Tournament Match-Ups - S. Lowry vs A. Noren - Tournament Match-Ups,Alex Noren,0.022600000000000064,0.5348,0.5122
 2023-01-18 17:40:30.324282,Round Match-Ups - 1st Round Match-Up - JT Poston vs J. Day - 1st Round Match-Up,JT Poston,0.022600000000000064,0.5348,0.5122
+2023-01-18 11:40:30.032050,Tournament Match-Ups - Tournament Match-Ups - S. Lowry vs A. Noren - Tournament Match-Ups,Alex Noren,0.022600000000000064,0.5348,0.5122
 2023-01-18 12:40:33.830689,NFL Weekly Specials - Divisional Round Weekend - Highest Scoring Team - Proposition,Philadelphia Eagles,0.022199999999999998,0.2222,0.2
 2023-01-18 12:40:33.830689,NFL Weekly Specials - Divisional Round Weekend - Highest Scoring Team - Proposition,Kansas City Chiefs,0.021999999999999964,0.3077,0.2857
 2023-01-18 11:40:29.641867,Tournament Match-Ups - Tournament Match-Up - T. Hoge vs T. Montgomery - Tournament Match-Up,Taylor Montgomery,0.02169999999999994,0.5455,0.5238
@@ -25,9 +24,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-18 17:40:29.454393,NFL Specials - Where will Sean Payton  Coach Game 1 of the 2023 NFL Regular Season - Proposition,Houston Texans,0.02020000000000001,0.1111,0.0909
 2023-01-18 13:40:28.179138,Tournament Match-Ups - Tournament Match-Ups - R. MacIntyre vs J. Smith - Tournament Match-Ups,Jordan Smith,0.01970000000000005,0.5652,0.5455
 2023-01-18 10:40:34.419349,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,Torino,0.019099999999999992,0.0667,0.0476
-2023-01-18 06:40:33.959917,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Kansas State,0.0189,0.0385,0.0196
-2023-01-18 17:40:30.271230,Round Match-Ups - 1st Round Match-Up - C. Davis vs H. English - 1st Round Match-Up,Cameron Davis,0.018100000000000005,0.5833,0.5652
 2023-01-18 13:40:28.215342,Tournament Match-Ups - Tournament Match-Ups - S. Straka vs T. Lawrence - Tournament Match-Ups,Sepp Straka,0.018100000000000005,0.5833,0.5652
+2023-01-18 17:40:30.271230,Round Match-Ups - 1st Round Match-Up - C. Davis vs H. English - 1st Round Match-Up,Cameron Davis,0.018100000000000005,0.5833,0.5652
 2023-01-18 10:40:34.419349,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,Inter Milan,0.0174,0.25,0.2326
 2023-01-18 07:40:36.568329,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Jaren Jackson Jr. (MEM),0.016699999999999937,0.6,0.5833
 2023-01-18 13:40:28.166364,Tournament Match-Ups - Tournament Match-Ups - M.W. Lee vs T. Pieters - Tournament Match-Ups,Thomas Pieters,0.016100000000000003,0.6078,0.5917
@@ -39,11 +37,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-18 17:40:30.605304,Round Match-Ups - 1st Round Match-Ups - T. Fleetwood vs S. Lowry - Outright,Shane Lowry,0.012199999999999989,0.5122,0.5
 2023-01-18 08:40:32.506257,Boxing Lines - Arnold Barboza Jr vs Jose Pedraza - To Win the Bout,Arnold Barboza Jr,0.011599999999999944,0.8519,0.8403
 2023-01-18 07:40:36.562090,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Joe Mazzulla,0.01150000000000001,0.3448,0.3333
-2023-01-18 10:40:34.352774,Copa del Rey - Copa Del Rey 2022/2023 - Winner,Real Sociedad,0.011099999999999999,0.1111,0.1
 2023-01-18 07:40:36.575544,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Lauri Markanen,0.011099999999999999,0.4762,0.4651
-2023-01-18 08:40:33.288182,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Denver Nuggets,0.010099999999999998,0.1053,0.0952
+2023-01-18 10:40:34.352774,Copa del Rey - Copa Del Rey 2022/2023 - Winner,Real Sociedad,0.011099999999999999,0.1111,0.1
 2023-01-18 11:40:29.622006,Tournament Match-Ups - Tournament Match-Up - B. Harman vs S. Burns - Tournament Match-Up,Brian Harman,0.010099999999999998,0.5556,0.5455
 2023-01-18 11:40:29.631956,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs S. Scheffler - Tournament Match-Up,Scottie Scheffler,0.010099999999999998,0.5556,0.5455
+2023-01-18 08:40:33.288182,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Denver Nuggets,0.010099999999999998,0.1053,0.0952
 2023-01-18 14:40:44.231030,Round Match-Ups - 1st Round Match-Up - K.H. Lee vs S. Burns - 1st Round Match-Up,Sam Burns,-0.010099999999999998,0.5455,0.5556
 2023-01-18 14:40:44.213761,Round Match-Ups - 1st Round Match-Up - S.W. Kim vs T. Kim - 1st Round Match-Up,Tom Kim,-0.010099999999999998,0.5455,0.5556
 2023-01-18 07:40:36.580825,NBA Awards - 2022/23 NBA Awards - 2022/23 The Rookie of the Year,Paolo Banchero (ORL),-0.010199999999999987,0.9231,0.9333
@@ -53,8 +51,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-18 07:40:36.551851,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Giannis Antetokounmpo (MIL),-0.010899999999999993,0.1429,0.1538
 2023-01-18 14:40:44.155854,Round Match-Ups - 1st Round Match-Up - R. Fowler vs T. Pendrith - 1st Round Match-Up,Taylor Pendrith,-0.01100000000000001,0.5238,0.5348
 2023-01-18 14:40:44.155854,Round Match-Ups - 1st Round Match-Up - R. Fowler vs T. Pendrith - 1st Round Match-Up,Rickie Fowler,-0.01100000000000001,0.5238,0.5348
-2023-01-18 14:40:44.175371,Round Match-Ups - 1st Round Match-Up - A. Wise vs T. Hoge - 1st Round Match-Up,Aaron Wise,-0.01100000000000001,0.5238,0.5348
 2023-01-18 14:40:44.175371,Round Match-Ups - 1st Round Match-Up - A. Wise vs T. Hoge - 1st Round Match-Up,Tom Hoge,-0.01100000000000001,0.5238,0.5348
+2023-01-18 14:40:44.175371,Round Match-Ups - 1st Round Match-Up - A. Wise vs T. Hoge - 1st Round Match-Up,Aaron Wise,-0.01100000000000001,0.5238,0.5348
 2023-01-18 07:40:36.575544,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Shai Gilgeous-Alexander (OKC),-0.01100000000000001,0.5238,0.5348
 2023-01-18 17:40:30.271230,Round Match-Ups - 1st Round Match-Up - C. Davis vs H. English - 1st Round Match-Up,Harris English,-0.011099999999999999,0.4651,0.4762
 2023-01-18 14:40:44.185102,Round Match-Ups - 1st Round Match-Up - C. Davis vs H. English - 1st Round Match-Up,Harris English,-0.0116,0.4762,0.4878
