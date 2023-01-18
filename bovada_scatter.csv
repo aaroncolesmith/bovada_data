@@ -9,6 +9,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-17 23:40:32.914765,Tournament Match-Ups - Tournament Match-Up - A. Wise vs C. Davis - Tournament Match-Up,Aaron Wise,0.028900000000000037,0.5744,0.5455
 2023-01-18 10:40:34.419349,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,Cremonese,0.0286,0.0385,0.0099
 2023-01-18 08:40:34.458456,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Exact Result,BUF Bills to beat PHI Eagles,0.02310000000000001,0.1,0.0769
+2023-01-18 11:40:30.032050,Tournament Match-Ups - Tournament Match-Ups - S. Lowry vs A. Noren - Tournament Match-Ups,Alex Noren,0.022600000000000064,0.5348,0.5122
+2023-01-18 11:40:29.641867,Tournament Match-Ups - Tournament Match-Up - T. Hoge vs T. Montgomery - Tournament Match-Up,Taylor Montgomery,0.02169999999999994,0.5455,0.5238
+2023-01-18 11:40:30.051886,Tournament Match-Ups - Tournament Match-Ups - F. Molinari vs A. Otaegui - Tournament Match-Ups,Adrian Otaegui,0.02079999999999993,0.5556,0.5348
 2023-01-18 10:40:34.419349,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,Torino,0.019099999999999992,0.0667,0.0476
 2023-01-18 06:40:33.959917,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Kansas State,0.0189,0.0385,0.0196
 2023-01-18 10:40:34.419349,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,Inter Milan,0.0174,0.25,0.2326
@@ -22,18 +25,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-18 10:40:34.352774,Copa del Rey - Copa Del Rey 2022/2023 - Winner,Real Sociedad,0.011099999999999999,0.1111,0.1
 2023-01-18 07:40:36.575544,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Lauri Markanen,0.011099999999999999,0.4762,0.4651
 2023-01-18 04:40:35.111152,Tournament Match-Ups - Tournament Match-Up - A. Hadwin vs A. Putnam - Tournament Match-Up,Adam Hadwin,0.010699999999999932,0.5455,0.5348
-2023-01-18 04:40:35.120791,Tournament Match-Ups - Tournament Match-Up - B. Harman vs S. Burns - Tournament Match-Up,Brian Harman,0.010699999999999932,0.5455,0.5348
 2023-01-18 04:40:35.130382,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs S. Scheffler - Tournament Match-Up,Scottie Scheffler,0.010699999999999932,0.5455,0.5348
+2023-01-18 04:40:35.120791,Tournament Match-Ups - Tournament Match-Up - B. Harman vs S. Burns - Tournament Match-Up,Brian Harman,0.010699999999999932,0.5455,0.5348
 2023-01-18 08:40:33.288182,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Denver Nuggets,0.010099999999999998,0.1053,0.0952
+2023-01-18 11:40:29.631956,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs S. Scheffler - Tournament Match-Up,Scottie Scheffler,0.010099999999999998,0.5556,0.5455
+2023-01-18 11:40:29.622006,Tournament Match-Ups - Tournament Match-Up - B. Harman vs S. Burns - Tournament Match-Up,Brian Harman,0.010099999999999998,0.5556,0.5455
 2023-01-18 07:40:36.580825,NBA Awards - 2022/23 NBA Awards - 2022/23 The Rookie of the Year,Paolo Banchero (ORL),-0.010199999999999987,0.9231,0.9333
 2023-01-18 07:40:36.551851,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Giannis Antetokounmpo (MIL),-0.010899999999999993,0.1429,0.1538
+2023-01-18 04:40:35.130382,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs S. Scheffler - Tournament Match-Up,Patrick Cantlay,-0.01100000000000001,0.5238,0.5348
+2023-01-18 04:40:35.120791,Tournament Match-Ups - Tournament Match-Up - B. Harman vs S. Burns - Tournament Match-Up,Sam Burns,-0.01100000000000001,0.5238,0.5348
 2023-01-18 07:40:36.575544,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Shai Gilgeous-Alexander (OKC),-0.01100000000000001,0.5238,0.5348
 2023-01-18 04:40:35.111152,Tournament Match-Ups - Tournament Match-Up - A. Hadwin vs A. Putnam - Tournament Match-Up,Andrew Putnam,-0.01100000000000001,0.5238,0.5348
-2023-01-18 04:40:35.120791,Tournament Match-Ups - Tournament Match-Up - B. Harman vs S. Burns - Tournament Match-Up,Sam Burns,-0.01100000000000001,0.5238,0.5348
-2023-01-18 04:40:35.130382,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs S. Scheffler - Tournament Match-Up,Patrick Cantlay,-0.01100000000000001,0.5238,0.5348
+2023-01-18 11:40:29.622006,Tournament Match-Ups - Tournament Match-Up - B. Harman vs S. Burns - Tournament Match-Up,Sam Burns,-0.011600000000000055,0.5122,0.5238
+2023-01-18 11:40:29.631956,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs S. Scheffler - Tournament Match-Up,Patrick Cantlay,-0.011600000000000055,0.5122,0.5238
 2023-01-18 07:40:36.556872,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Collin Sexton (UTA),-0.011699999999999999,0.0079,0.0196
 2023-01-18 08:40:32.510883,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Tommy Fury,-0.013300000000000034,0.3571,0.3704
 2023-01-18 10:40:34.419349,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,Atalanta,-0.02020000000000001,0.0909,0.1111
+2023-01-18 11:40:30.032050,Tournament Match-Ups - Tournament Match-Ups - S. Lowry vs A. Noren - Tournament Match-Ups,Shane Lowry,-0.02079999999999993,0.5348,0.5556
+2023-01-18 11:40:29.641867,Tournament Match-Ups - Tournament Match-Up - T. Hoge vs T. Montgomery - Tournament Match-Up,Tom Hoge,-0.02169999999999994,0.5238,0.5455
+2023-01-18 11:40:30.051886,Tournament Match-Ups - Tournament Match-Ups - F. Molinari vs A. Otaegui - Tournament Match-Ups,Francesco Molinari,-0.022600000000000064,0.5122,0.5348
 2023-01-17 23:40:32.914765,Tournament Match-Ups - Tournament Match-Up - A. Wise vs C. Davis - Tournament Match-Up,Cameron Davis,-0.023800000000000043,0.5,0.5238
 2023-01-18 07:40:36.556872,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Gary Trent Jr.,-0.0257,0.0066,0.0323
 2023-01-18 03:40:28.365462,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Tommy Fury,-0.0378,0.3704,0.4082
