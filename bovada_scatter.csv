@@ -1,8 +1,8 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-19 14:42:41.032361,NFL Playoffs Specials - 2023 Playoffs - Most Rushing Yards - Proposition,Christian McCaffrey,0.16359999999999997,0.3636,0.2
 2023-01-19 14:42:42.118782,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Nikola Jokic (DEN),0.12380000000000002,0.5238,0.4
-2023-01-19 14:42:41.771977,Big Brother Brazil - Big Brother Brazil 2023 - BBB23: Outright Winner,Fred,0.11900000000000002,0.2857,0.1667
 2023-01-19 14:42:41.857313,Twitter Specials - Next Twitter CEO - Next Twitter CEO After Elon Musk,Jack Dorsey,0.11900000000000002,0.2857,0.1667
+2023-01-19 14:42:41.771977,Big Brother Brazil - Big Brother Brazil 2023 - BBB23: Outright Winner,Fred,0.11900000000000002,0.2857,0.1667
 2023-01-19 14:42:41.019750,NFL Playoffs Specials - 2023 Playoffs - Most Passing Yards - Proposition,Josh Allen,0.10900000000000004,0.4167,0.3077
 2023-01-19 14:42:41.026345,NFL Playoffs Specials - 2023 Playoffs - Most Receiving Yards - Proposition,Stefon Diggs,0.1071,0.25,0.1429
 2023-01-19 14:42:41.019750,NFL Playoffs Specials - 2023 Playoffs - Most Passing Yards - Proposition,Dak Prescott,0.095,0.1538,0.0588
@@ -35,17 +35,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-19 14:42:41.026345,NFL Playoffs Specials - 2023 Playoffs - Most Receiving Yards - Proposition,Isaiah Hodgins,0.0286,0.0385,0.0099
 2023-01-19 08:40:35.036795,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,St. Marys,0.028399999999999995,0.0909,0.0625
 2023-01-19 05:40:32.297419,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Memphis Grizzlies,0.027999999999999914,0.8462,0.8182
+2023-01-19 16:40:28.127870,Abu Dhabi HSBC Championship - 2/3 Balls - 2nd Round 3 Balls - M. Kawamura / J. Campillo / G. Migliozzi - 2nd Round 3 Balls,Jorge Campillo,0.02560000000000001,0.3333,0.3077
 2023-01-19 14:42:41.026345,NFL Playoffs Specials - 2023 Playoffs - Most Receiving Yards - Proposition,Ja'Marr Chase,0.024999999999999994,0.125,0.1
-2023-01-19 14:42:40.899090,CFL - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Ottawa Redblacks,0.0242,0.0909,0.0667
 2023-01-19 14:42:41.771977,Big Brother Brazil - Big Brother Brazil 2023 - BBB23: Outright Winner,Gustavo Benedeti,0.0242,0.0909,0.0667
+2023-01-19 14:42:40.899090,CFL - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Ottawa Redblacks,0.0242,0.0909,0.0667
 2023-01-19 07:40:33.199107,Tournament Match-Ups - Tournament Match-Ups - S. Straka vs T. Lawrence - Tournament Match-Ups,Thriston Lawrence,0.023799999999999988,0.5,0.4762
 2023-01-19 08:40:35.710618,The American Express - 2/3 Balls - 1st Round 2 Balls - P. Rodgers vs M. NeSmith - 1st Round 2 Balls,Matthew NeSmith,0.023799999999999988,0.5,0.4762
-2023-01-19 08:40:35.775961,Tournament Match-Ups - Tournament Match-Up - A. Wise vs C. Davis - Tournament Match-Up,Cameron Davis,0.022600000000000064,0.5348,0.5122
 2023-01-19 08:40:35.873297,Round Match-Ups - 1st Round Match-Up - S. Munoz v C. Bezuidenhout - 1st Round Match-Up,Christiaan Bezuidenhout,0.022600000000000064,0.5348,0.5122
 2023-01-19 08:40:35.622447,The American Express - 2/3 Balls - 1st Round 2 Balls - K. Mitchell vs L. Glover - 1st Round 2 Balls,Keith Mitchell,0.022600000000000064,0.6226,0.6
+2023-01-19 08:40:35.775961,Tournament Match-Ups - Tournament Match-Up - A. Wise vs C. Davis - Tournament Match-Up,Cameron Davis,0.022600000000000064,0.5348,0.5122
 2023-01-19 15:42:31.057608,Abu Dhabi HSBC Championship - Abu Dhabi HSBC Championship - Outright,Sami Valimaki,0.0215,0.0294,0.0079
-2023-01-19 14:42:41.019750,NFL Playoffs Specials - 2023 Playoffs - Most Passing Yards - Proposition,Trevor Lawrence,0.0203,0.0526,0.0323
 2023-01-19 15:42:31.057608,Abu Dhabi HSBC Championship - Abu Dhabi HSBC Championship - Outright,Min Woo Lee,0.0203,0.0588,0.0385
+2023-01-19 14:42:41.019750,NFL Playoffs Specials - 2023 Playoffs - Most Passing Yards - Proposition,Trevor Lawrence,0.0203,0.0526,0.0323
 2023-01-19 08:40:35.823669,Round Match-Ups - 1st Round Match-Up - W. Zalatoris v S. Im - 1st Round Match-Up,Will Zalatoris,0.01970000000000005,0.5652,0.5455
 2023-01-19 08:40:35.843411,Round Match-Ups - 1st Round Match-Up - B. Todd v M. Hubbard - 1st Round Match-Up,Brendon Todd,0.01880000000000004,0.5744,0.5556
 2023-01-19 14:42:40.956840,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Kansas City Chiefs,0.018100000000000005,0.4348,0.4167
@@ -56,19 +57,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-19 14:42:40.899090,CFL - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Montreal Alouettes,0.015700000000000006,0.1333,0.1176
 2023-01-19 14:42:40.956840,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Buffalo Bills,0.015400000000000025,0.4,0.3846
 2023-01-19 14:42:41.796739,Box Office Specials - Highest Worldwide Box Office 2023 - Highest Worldwide Box Office Ranking For 2023,Mission: Impossible - Dead Reckoning Part One,0.014899999999999997,0.0625,0.0476
-2023-01-19 14:42:41.026345,NFL Playoffs Specials - 2023 Playoffs - Most Receiving Yards - Proposition,Darius Slayton,0.0145,0.0244,0.0099
 2023-01-19 14:42:41.026345,NFL Playoffs Specials - 2023 Playoffs - Most Receiving Yards - Proposition,Evan Engram,0.0145,0.0244,0.0099
+2023-01-19 14:42:41.026345,NFL Playoffs Specials - 2023 Playoffs - Most Receiving Yards - Proposition,Darius Slayton,0.0145,0.0244,0.0099
 2023-01-19 14:42:41.857313,Twitter Specials - Next Twitter CEO - Next Twitter CEO After Elon Musk,Jared Kushner,0.014399999999999996,0.0769,0.0625
 2023-01-19 15:42:31.794647,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Russell Westbrook (LAL),0.014200000000000101,0.6296,0.6154
 2023-01-19 14:42:41.026345,NFL Playoffs Specials - 2023 Playoffs - Most Receiving Yards - Proposition,Zay Jones,0.014000000000000002,0.0244,0.0104
 2023-01-19 15:42:31.057608,Abu Dhabi HSBC Championship - Abu Dhabi HSBC Championship - Outright,Tommy Fleetwood,0.013999999999999999,0.0909,0.0769
-2023-01-19 14:42:41.771977,Big Brother Brazil - Big Brother Brazil 2023 - BBB23: Outright Winner,Gabriel Tavares,0.013999999999999999,0.0909,0.0769
 2023-01-19 14:42:41.032361,NFL Playoffs Specials - 2023 Playoffs - Most Rushing Yards - Proposition,Jalen Hurts,0.013999999999999999,0.0909,0.0769
+2023-01-19 14:42:41.771977,Big Brother Brazil - Big Brother Brazil 2023 - BBB23: Outright Winner,Gabriel Tavares,0.013999999999999999,0.0909,0.0769
 2023-01-19 07:40:32.053003,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Boston Celtics,0.013900000000000023,0.8889,0.875
 2023-01-19 15:42:31.057608,Abu Dhabi HSBC Championship - Abu Dhabi HSBC Championship - Outright,Dale Whitnell,0.013,0.0196,0.0066
 2023-01-19 15:42:31.057608,Abu Dhabi HSBC Championship - Abu Dhabi HSBC Championship - Outright,Shubhankar Sharma,0.011699999999999999,0.0196,0.0079
-2023-01-19 14:42:41.771977,Big Brother Brazil - Big Brother Brazil 2023 - BBB23: Outright Winner,Bruna Griphao,0.011099999999999999,0.1111,0.1
 2023-01-19 14:42:40.899090,CFL - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Hamilton Tiger-Cats,0.011099999999999999,0.1111,0.1
+2023-01-19 14:42:41.771977,Big Brother Brazil - Big Brother Brazil 2023 - BBB23: Outright Winner,Bruna Griphao,0.011099999999999999,0.1111,0.1
 2023-01-19 07:40:32.079294,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Memphis Grizzlies,0.01090000000000002,0.8571,0.8462
 2023-01-19 08:40:35.838390,Round Match-Ups - 1st Round Match-Up - S. Theegala vs T. Montgomery - 1st Round Match-Up,Taylor Montgomery,0.010099999999999998,0.5556,0.5455
 2023-01-19 14:42:40.956840,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Jacksonville Jaguars,-0.0102,0.0667,0.0769
@@ -92,6 +93,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-19 06:40:30.099545,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Milwaukee Bucks,-0.015700000000000006,0.1176,0.1333
 2023-01-19 07:40:32.079294,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Dallas Mavericks,-0.016700000000000007,0.0833,0.1
 2023-01-19 15:42:31.057608,Abu Dhabi HSBC Championship - Abu Dhabi HSBC Championship - Outright,Victor Perez,-0.017099999999999997,0.0123,0.0294
+2023-01-19 16:40:28.127870,Abu Dhabi HSBC Championship - 2/3 Balls - 2nd Round 3 Balls - M. Kawamura / J. Campillo / G. Migliozzi - 2nd Round 3 Balls,Guido Migliozzi,-0.017299999999999982,0.4082,0.4255
 2023-01-19 07:40:33.199107,Tournament Match-Ups - Tournament Match-Ups - S. Straka vs T. Lawrence - Tournament Match-Ups,Sepp Straka,-0.018100000000000005,0.5652,0.5833
 2023-01-19 15:42:31.057608,Abu Dhabi HSBC Championship - Abu Dhabi HSBC Championship - Outright,Sepp Straka,-0.0186,0.001,0.0196
 2023-01-19 08:40:35.622447,The American Express - 2/3 Balls - 1st Round 2 Balls - K. Mitchell vs L. Glover - 1st Round 2 Balls,Lucas Glover,-0.018900000000000028,0.4255,0.4444
