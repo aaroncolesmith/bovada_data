@@ -35,8 +35,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-20 07:40:31.922325,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Outright,Justin Leonard,0.024600000000000004,0.0345,0.0099
 2023-01-20 13:40:36.204179,NFL Weekly Specials - Divisional Round Weekend - Most Rushing Yards - Divisional Round Weekend - Most Rushing Yards,Jalen Hurts PHI,0.024299999999999995,0.0769,0.0526
 2023-01-20 13:40:36.204179,NFL Weekly Specials - Divisional Round Weekend - Most Rushing Yards - Divisional Round Weekend - Most Rushing Yards,Isiah Pacheco KC,0.024299999999999995,0.0769,0.0526
-2023-01-20 16:42:37.058825,Round Match-Ups - 3rd Round Match-Up - G. Migliozzi vs J. Scrivener - 3rd Round Match-Up,Jason Scrivener,0.023800000000000043,0.5238,0.5
 2023-01-20 12:40:30.082794,Round Match-Ups - 2nd Round Match-Up - T. Montgomery v S. Theegala - 2nd Round Match-Up ,Sahith Theegala,0.023800000000000043,0.5238,0.5
+2023-01-20 16:42:37.058825,Round Match-Ups - 3rd Round Match-Up - G. Migliozzi vs J. Scrivener - 3rd Round Match-Up,Jason Scrivener,0.023800000000000043,0.5238,0.5
 2023-01-20 15:40:29.312576,The American Express - 2/3 Balls - 2nd Round 2 Balls - B. Harman v J.T. Poston - 2nd Round 2 Balls,JT Poston,0.023799999999999988,0.5,0.4762
 2023-01-20 06:40:30.557201,Euro Cup - Euro Cup 2022/23 - Outright,Prometey,0.0232,0.0667,0.0435
 2023-01-20 13:40:35.563747,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Field,0.022699999999999998,0.4878,0.4651
@@ -44,21 +44,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-20 08:40:29.186508,The American Express - 2/3 Balls - 2nd Round 2 Balls - W. Zalatoris v C. Young - 2nd Round 2 Balls,Cameron Young,0.022600000000000064,0.5348,0.5122
 2023-01-20 13:40:36.197782,NFL Weekly Specials - Divisional Round Weekend - Most Receiving Yards - Divisional Round Weekend - Most Receiving Yards,CeeDee Lamb DAL,0.02239999999999999,0.1176,0.0952
 2023-01-20 12:40:30.354954,Big Brother Brazil - Big Brother Brazil 2023 - BBB23: Outright Winner,Bruna Griphao,0.022199999999999998,0.1333,0.1111
-2023-01-20 16:42:36.980066,Round Match-Ups - 2nd Round Match-Up - H. English v S. Jaeger - 2nd Round Match-Up,Harris English,0.02169999999999994,0.5455,0.5238
-2023-01-20 15:40:29.487210,Round Match-Ups - 2nd Round Match-Up - T. Montgomery v S. Theegala - 2nd Round Match-Up ,Taylor Montgomery,0.02169999999999994,0.5455,0.5238
-2023-01-20 06:40:30.685746,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Nikola Jokic (DEN),0.02169999999999994,0.5455,0.5238
 2023-01-20 16:42:36.936602,Round Match-Ups - 2nd Round Match-Up - A. Smalley v W. Clark - 2nd Round Match-Up,Alex Smalley,0.02169999999999994,0.5455,0.5238
-2023-01-20 16:42:36.989551,Round Match-Ups - 2nd Round Match-Up - C. Young v S. Im - 2nd Round Match-Up,Sungjae Im,0.02169999999999994,0.5455,0.5238
-2023-01-20 16:42:36.927229,Round Match-Ups - 2nd Round Match-Up - B. Hossler v D. Riley - 2nd Round Match-Up,Davis Riley,0.02169999999999994,0.5455,0.5238
 2023-01-20 16:42:37.039884,Round Match-Ups - 3rd Round Match-Up - A. Rozner vs N. Hojgaard - 3rd Round Match-Up,Antoine Rozner,0.02169999999999994,0.5455,0.5238
+2023-01-20 16:42:36.980066,Round Match-Ups - 2nd Round Match-Up - H. English v S. Jaeger - 2nd Round Match-Up,Harris English,0.02169999999999994,0.5455,0.5238
+2023-01-20 16:42:36.989551,Round Match-Ups - 2nd Round Match-Up - C. Young v S. Im - 2nd Round Match-Up,Sungjae Im,0.02169999999999994,0.5455,0.5238
+2023-01-20 06:40:30.685746,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Nikola Jokic (DEN),0.02169999999999994,0.5455,0.5238
+2023-01-20 15:40:29.487210,Round Match-Ups - 2nd Round Match-Up - T. Montgomery v S. Theegala - 2nd Round Match-Up ,Taylor Montgomery,0.02169999999999994,0.5455,0.5238
+2023-01-20 16:42:36.927229,Round Match-Ups - 2nd Round Match-Up - B. Hossler v D. Riley - 2nd Round Match-Up,Davis Riley,0.02169999999999994,0.5455,0.5238
 2023-01-20 10:40:30.512607,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Brighton & Hove Albion,0.02100000000000002,0.3846,0.3636
-2023-01-20 08:40:29.060424,The American Express - 2/3 Balls - 2nd Round 2 Balls - T. Kim v S. Theegala - 2nd Round 2 Balls,Sahith Theegala,0.020699999999999996,0.4651,0.4444
 2023-01-20 16:42:37.049376,Round Match-Ups - 3rd Round Match-Up - F. Molinari vs A. Bjork - 3rd Round Match-Up,Alexander Bjork,0.020699999999999996,0.4651,0.4444
+2023-01-20 08:40:29.060424,The American Express - 2/3 Balls - 2nd Round 2 Balls - T. Kim v S. Theegala - 2nd Round 2 Balls,Sahith Theegala,0.020699999999999996,0.4651,0.4444
 2023-01-20 10:40:30.524910,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Everton,0.020399999999999974,0.996,0.9756
 2023-01-20 10:40:30.291228,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,Atalanta,0.02020000000000001,0.1111,0.0909
 2023-01-20 10:40:30.291228,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,Lazio,0.02020000000000001,0.1111,0.0909
-2023-01-20 16:42:36.946147,Round Match-Ups - 2nd Round Match-Up - T. Kim v S. W. Kim - 2nd Round Match-Up,Tom Kim,0.01970000000000005,0.5652,0.5455
 2023-01-20 16:42:36.975336,Round Match-Ups - 2nd Round Match-Up - G. Sigg v J. Bramlett - 2nd Round Match-Up,Greyson Sigg,0.01970000000000005,0.5652,0.5455
+2023-01-20 16:42:36.946147,Round Match-Ups - 2nd Round Match-Up - T. Kim v S. W. Kim - 2nd Round Match-Up,Tom Kim,0.01970000000000005,0.5652,0.5455
 2023-01-20 13:40:35.110215,The American Express - 2/3 Balls - 2nd Round 2 Balls - J. Rahm v R. Fowler - 2nd Round 2 Balls,Jon Rahm,0.018999999999999906,0.7333,0.7143
 2023-01-20 06:40:30.507981,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Golden State Warriors,0.018799999999999983,0.3636,0.3448
 2023-01-20 05:40:29.250514,NFL Playoffs Specials - 49ers Stage of Elimination - Proposition,To Win Super Bowl,0.01820000000000002,0.2,0.1818
@@ -74,34 +74,35 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-20 07:40:30.466970,Boxing Lines - Joseph Parker vs Jack Massey - To Win the Bout,Jack Massey,0.014800000000000008,0.1481,0.1333
 2023-01-20 13:40:36.197782,NFL Weekly Specials - Divisional Round Weekend - Most Receiving Yards - Divisional Round Weekend - Most Receiving Yards,DeVonta Smith PHI,0.014099999999999994,0.0667,0.0526
 2023-01-20 13:40:36.190520,NFL Weekly Specials - Divisional Round Weekend - Most Passing Yards - Divisional Round Weekend - Most Passing Yards,Brock Purdy (SF),0.013999999999999999,0.0909,0.0769
+2023-01-20 06:40:30.564971,FIBA Champions League - FIBA Champions League 2022/23 - Outright,Limoges CSP,0.0131,0.0476,0.0345
 2023-01-20 07:40:30.477459,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Liam Smith,0.0131,0.303,0.2899
 2023-01-20 13:40:36.166905,NFL Weekly Specials - Divisional Round Weekend - Highest Scoring Game - Divisional Round Weekend - Highest Scoring Game,Bengals vs Bills,0.0131,0.2353,0.2222
 2023-01-20 07:40:31.922325,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Outright,Retief Goosen,0.0131,0.0476,0.0345
-2023-01-20 06:40:30.564971,FIBA Champions League - FIBA Champions League 2022/23 - Outright,Limoges CSP,0.0131,0.0476,0.0345
 2023-01-20 13:40:36.197782,NFL Weekly Specials - Divisional Round Weekend - Most Receiving Yards - Divisional Round Weekend - Most Receiving Yards,Ja'Marr Chase CIN,0.012899999999999995,0.1667,0.1538
 2023-01-20 10:40:30.530532,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Leeds United,0.012899999999999912,0.8462,0.8333
+2023-01-20 17:40:27.293937,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Tommy Fury,0.012699999999999989,0.3636,0.3509
 2023-01-20 07:40:31.922325,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Outright,Corey Pavin,0.0124,0.0149,0.0025
 2023-01-20 13:40:36.204179,NFL Weekly Specials - Divisional Round Weekend - Most Rushing Yards - Divisional Round Weekend - Most Rushing Yards,Josh Allen BUF,0.011199999999999995,0.0588,0.0476
 2023-01-20 13:40:36.204179,NFL Weekly Specials - Divisional Round Weekend - Most Rushing Yards - Divisional Round Weekend - Most Rushing Yards,Daniel Jones NYG,0.011199999999999995,0.0588,0.0476
 2023-01-20 16:42:36.799814,The American Express - 2/3 Balls - 2nd Round 2 Balls - T. Kim v S. Theegala - 2nd Round 2 Balls,Sahith Theegala,0.011099999999999999,0.4762,0.4651
 2023-01-20 06:40:30.557201,Euro Cup - Euro Cup 2022/23 - Outright,Türk Telekom,0.011099999999999999,0.1111,0.1
+2023-01-20 16:42:37.054152,Round Match-Ups - 3rd Round Match-Up - G. Coetzee vs S. Jamieson - 3rd Round Match-Up ,Scott Jamieson,0.01100000000000001,0.5348,0.5238
 2023-01-20 16:42:37.063646,Round Match-Ups - 3rd Round Match-Up - R. Fox vs V. Perez - 3rd Round Match-Up ,Ryan Fox,0.01100000000000001,0.5348,0.5238
 2023-01-20 16:42:36.961133,Round Match-Ups - 2nd Round Match-Up - J. Rose v P. Rodgers - 2nd Round Match-Up,Patrick Rodgers,0.01100000000000001,0.5348,0.5238
-2023-01-20 16:42:37.054152,Round Match-Ups - 3rd Round Match-Up - G. Coetzee vs S. Jamieson - 3rd Round Match-Up ,Scott Jamieson,0.01100000000000001,0.5348,0.5238
+2023-01-20 11:40:30.115173,Round Match-Ups - 2nd Round Match-Up - B. Taylor v R. Shelton - 2nd Round Match-Up,Ben Taylor,0.01100000000000001,0.5348,0.5238
 2023-01-20 11:40:30.098891,Round Match-Ups - 2nd Round Match-Up - A. Hadwin v R. Fowler - 2nd Round Match-Up,Adam Hadwin,0.01100000000000001,0.5348,0.5238
 2023-01-20 16:42:36.965933,Round Match-Ups - 2nd Round Match-Up - K. H. Lee v T. Hoge - 2nd Round Match-Up,Tom Hoge,0.01100000000000001,0.5348,0.5238
-2023-01-20 11:40:30.115173,Round Match-Ups - 2nd Round Match-Up - B. Taylor v R. Shelton - 2nd Round Match-Up,Ben Taylor,0.01100000000000001,0.5348,0.5238
+2023-01-20 16:42:36.941262,Round Match-Ups - 2nd Round Match-Up - N. Taylor v T. Moore - 2nd Round Match-Up,Nick Taylor,0.010699999999999932,0.5455,0.5348
 2023-01-20 07:40:31.096387,NFL Weekly Specials - Divisional Weekend - Total Points Scored - Total Points Scored,Over 196.5,0.010699999999999932,0.5455,0.5348
 2023-01-20 11:40:30.082619,Round Match-Ups - 2nd Round Match-Up - D. McCarthy v C. Kirk - 2nd Round Match-Up ,Denny McCarthy,0.010699999999999932,0.5455,0.5348
-2023-01-20 16:42:36.941262,Round Match-Ups - 2nd Round Match-Up - N. Taylor v T. Moore - 2nd Round Match-Up,Nick Taylor,0.010699999999999932,0.5455,0.5348
 2023-01-20 16:42:36.956462,Round Match-Ups - 2nd Round Match-Up - B. Harman v J.T. Poston - 2nd Round Match-Up,Brian Harman,0.010699999999999932,0.5455,0.5348
 2023-01-20 05:40:29.174159,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winning Division,AFC South,0.0102,0.0769,0.0667
 2023-01-20 10:40:30.475894,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Erling Haaland,0.010199999999999987,0.9333,0.9231
 2023-01-20 12:40:30.360728,Big Brother Brazil - Winning Group - Winning Group,Pipoca,0.010099999999999998,0.4545,0.4444
 2023-01-20 16:42:37.073034,Round Match-Ups - 3rd Round Match-Up - S. Lowry vs M. W. Lee - 3rd Round Match-Up,Shane Lowry,0.010099999999999998,0.5556,0.5455
-2023-01-20 13:40:36.197782,NFL Weekly Specials - Divisional Round Weekend - Most Receiving Yards - Divisional Round Weekend - Most Receiving Yards,Christian Kirk JAC,-0.0102,0.0667,0.0769
 2023-01-20 13:40:36.197782,NFL Weekly Specials - Divisional Round Weekend - Most Receiving Yards - Divisional Round Weekend - Most Receiving Yards,Tee Higgins CIN,-0.0102,0.0667,0.0769
 2023-01-20 06:40:30.564971,FIBA Champions League - FIBA Champions League 2022/23 - Outright,Galatasaray SK,-0.0102,0.0667,0.0769
+2023-01-20 13:40:36.197782,NFL Weekly Specials - Divisional Round Weekend - Most Receiving Yards - Divisional Round Weekend - Most Receiving Yards,Christian Kirk JAC,-0.0102,0.0667,0.0769
 2023-01-20 13:40:36.197782,NFL Weekly Specials - Divisional Round Weekend - Most Receiving Yards - Divisional Round Weekend - Most Receiving Yards,Tyler Boyd CIN,-0.010300000000000002,0.0141,0.0244
 2023-01-20 13:40:36.197782,NFL Weekly Specials - Divisional Round Weekend - Most Receiving Yards - Divisional Round Weekend - Most Receiving Yards,Saquon Barkley NYG,-0.010300000000000002,0.0141,0.0244
 2023-01-20 13:40:36.197782,NFL Weekly Specials - Divisional Round Weekend - Most Receiving Yards - Divisional Round Weekend - Most Receiving Yards,Joe Mixon CIN,-0.010300000000000002,0.0141,0.0244
