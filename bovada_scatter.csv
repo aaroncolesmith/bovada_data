@@ -1,14 +1,27 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2023-01-21 00:40:28.395813,BAFTA Awards - Leading Actor - BAFTA: Leading Actor,Colin Farrell - The Banshees of Inisherin,0.15559999999999996,0.6,0.4444
+2023-01-21 00:40:28.406714,BAFTA Awards - Outstanding British Film - BAFTA: Outstanding British Film,The Banshees of Inisherin,0.10709999999999997,0.8571,0.75
+2023-01-21 00:40:28.660124,NBL - NBL 2022/23 - Outright,Cairns Taipans,0.09620000000000001,0.25,0.1538
+2023-01-21 00:40:28.401171,BAFTA Awards - Leading Actress - BAFTA: Leading Actress,Cate Blanchett - TÁR,0.0915999999999999,0.6154,0.5238
+2023-01-21 00:40:28.450369,Time Person of the Year - Time Person Of The Year 2023 - Time Person Of The Year 2023,Volodymyr Zelenskyy,0.09049999999999997,0.5556,0.4651
 2023-01-20 12:40:30.335030,BAFTA Awards - Leading Actor - BAFTA: Leading Actor,Colin Farrell - The Banshees of Inisherin,0.08080000000000004,0.4444,0.3636
+2023-01-21 00:40:28.524149,Nobel Prizes - Nobel Literature Prize - Nobel Literature Prize Winner 2023,Haruki Murakami,0.05559999999999998,0.1667,0.1111
+2023-01-21 00:40:28.660124,NBL - NBL 2022/23 - Outright,Perth Wildcats,0.052300000000000006,0.1111,0.0588
 2023-01-20 13:40:35.576847,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Donald Trump,0.0474,0.3922,0.3448
 2023-01-20 12:40:30.354954,Big Brother Brazil - Big Brother Brazil 2023 - BBB23: Outright Winner,Larissa Santos,0.04329999999999999,0.0909,0.0476
+2023-01-21 00:40:28.390464,BAFTA Awards - Director - BAFTA: Director,Martin McDonagh - The Banshees of Inisherin,0.03640000000000004,0.4,0.3636
 2023-01-20 14:40:32.799855,The American Express - 2/3 Balls - 2nd Round 2 Balls - B. Steele v S. Cink - 2nd Round 2 Balls,Stewart Cink,0.035999999999999976,0.5122,0.4762
 2023-01-20 12:40:30.366508,Big Brother Brazil - Winning Sex - BBB23: Winning Sex,Female,0.03480000000000005,0.5348,0.5
 2023-01-20 23:40:30.067195,Boxing Lines - Atif Oberlton vs Artem Brusov - To Win the Bout,Atif Oberlton,0.03420000000000001,0.9231,0.8889
 2023-01-20 13:40:36.197782,NFL Weekly Specials - Divisional Round Weekend - Most Receiving Yards - Divisional Round Weekend - Most Receiving Yards,Travis Kelce KC,0.03420000000000001,0.1111,0.0769
+2023-01-21 00:40:28.660124,NBL - NBL 2022/23 - Outright,Tasmania JackJumpers,0.03219999999999999,0.0667,0.0345
+2023-01-21 00:40:28.660124,NBL - NBL 2022/23 - Outright,Sydney Kings,0.031799999999999995,0.4762,0.4444
+2023-01-21 00:40:28.530449,Nobel Prizes - Nobel Peace Prize - Nobel Peace Prize Winner 2023,Alexei Navalny,0.031799999999999995,0.1429,0.1111
+2023-01-21 00:40:28.456905,Royal Family - Harry & Meghan Specials - Harry & Meghan Specials,Harry & Meghan to divorce in 2023,0.030199999999999998,0.0625,0.0323
 2023-01-20 13:40:35.595862,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.027999999999999997,0.1818,0.1538
 2023-01-20 13:40:36.184610,NFL Weekly Specials - Divisional Round Weekend - Lowest Scoring Team - Divisional Round Weekend - Lowest Scoring Team,New York Giants,0.02779999999999999,0.25,0.2222
 2023-01-20 23:40:30.072529,Boxing Lines - Julian Gonzalez vs Rosalindo Morales - To Win the Bout,Julian Gonzalez,0.026800000000000046,0.7143,0.6875
+2023-01-21 00:40:28.660124,NBL - NBL 2022/23 - Outright,Melbourne United,0.024299999999999995,0.0588,0.0345
 2023-01-20 13:40:36.204179,NFL Weekly Specials - Divisional Round Weekend - Most Rushing Yards - Divisional Round Weekend - Most Rushing Yards,Jalen Hurts PHI,0.024299999999999995,0.0769,0.0526
 2023-01-20 13:40:36.204179,NFL Weekly Specials - Divisional Round Weekend - Most Rushing Yards - Divisional Round Weekend - Most Rushing Yards,Isiah Pacheco KC,0.024299999999999995,0.0769,0.0526
 2023-01-20 16:42:37.058825,Round Match-Ups - 3rd Round Match-Up - G. Migliozzi vs J. Scrivener - 3rd Round Match-Up,Jason Scrivener,0.023800000000000043,0.5238,0.5
@@ -18,108 +31,137 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-20 13:40:36.197782,NFL Weekly Specials - Divisional Round Weekend - Most Receiving Yards - Divisional Round Weekend - Most Receiving Yards,CeeDee Lamb DAL,0.02239999999999999,0.1176,0.0952
 2023-01-20 12:40:30.354954,Big Brother Brazil - Big Brother Brazil 2023 - BBB23: Outright Winner,Bruna Griphao,0.022199999999999998,0.1333,0.1111
 2023-01-20 16:42:36.936602,Round Match-Ups - 2nd Round Match-Up - A. Smalley v W. Clark - 2nd Round Match-Up,Alex Smalley,0.02169999999999994,0.5455,0.5238
-2023-01-20 16:42:36.980066,Round Match-Ups - 2nd Round Match-Up - H. English v S. Jaeger - 2nd Round Match-Up,Harris English,0.02169999999999994,0.5455,0.5238
-2023-01-20 16:42:36.989551,Round Match-Ups - 2nd Round Match-Up - C. Young v S. Im - 2nd Round Match-Up,Sungjae Im,0.02169999999999994,0.5455,0.5238
-2023-01-20 16:42:36.927229,Round Match-Ups - 2nd Round Match-Up - B. Hossler v D. Riley - 2nd Round Match-Up,Davis Riley,0.02169999999999994,0.5455,0.5238
 2023-01-20 15:40:29.487210,Round Match-Ups - 2nd Round Match-Up - T. Montgomery v S. Theegala - 2nd Round Match-Up ,Taylor Montgomery,0.02169999999999994,0.5455,0.5238
+2023-01-20 16:42:36.927229,Round Match-Ups - 2nd Round Match-Up - B. Hossler v D. Riley - 2nd Round Match-Up,Davis Riley,0.02169999999999994,0.5455,0.5238
 2023-01-20 16:42:37.039884,Round Match-Ups - 3rd Round Match-Up - A. Rozner vs N. Hojgaard - 3rd Round Match-Up,Antoine Rozner,0.02169999999999994,0.5455,0.5238
+2023-01-20 16:42:36.989551,Round Match-Ups - 2nd Round Match-Up - C. Young v S. Im - 2nd Round Match-Up,Sungjae Im,0.02169999999999994,0.5455,0.5238
+2023-01-20 16:42:36.980066,Round Match-Ups - 2nd Round Match-Up - H. English v S. Jaeger - 2nd Round Match-Up,Harris English,0.02169999999999994,0.5455,0.5238
+2023-01-21 00:40:29.706736,Super Lig - Turkey Super League 22/23 - Outright,Fenerbahce,0.02100000000000002,0.3846,0.3636
 2023-01-20 16:42:37.049376,Round Match-Ups - 3rd Round Match-Up - F. Molinari vs A. Bjork - 3rd Round Match-Up,Alexander Bjork,0.020699999999999996,0.4651,0.4444
 2023-01-20 16:42:36.975336,Round Match-Ups - 2nd Round Match-Up - G. Sigg v J. Bramlett - 2nd Round Match-Up,Greyson Sigg,0.01970000000000005,0.5652,0.5455
 2023-01-20 16:42:36.946147,Round Match-Ups - 2nd Round Match-Up - T. Kim v S. W. Kim - 2nd Round Match-Up,Tom Kim,0.01970000000000005,0.5652,0.5455
 2023-01-20 13:40:35.110215,The American Express - 2/3 Balls - 2nd Round 2 Balls - J. Rahm v R. Fowler - 2nd Round 2 Balls,Jon Rahm,0.018999999999999906,0.7333,0.7143
+2023-01-21 00:40:29.706736,Super Lig - Turkey Super League 22/23 - Outright,Galatasaray,0.01880000000000004,0.5744,0.5556
 2023-01-20 13:40:36.184610,NFL Weekly Specials - Divisional Round Weekend - Lowest Scoring Team - Divisional Round Weekend - Lowest Scoring Team,Dallas Cowboys,0.01820000000000002,0.2,0.1818
+2023-01-21 00:40:28.456905,Royal Family - Harry & Meghan Specials - Harry & Meghan Specials,'Spare' to win a Pulitzer prize,0.018200000000000004,0.0476,0.0294
 2023-01-20 13:40:35.570222,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Kamala Harris,0.0179,0.1429,0.125
+2023-01-21 00:40:28.673778,LNB Pro A - LNB Pro A 2022/23 - Outright,AS Monaco,0.01759999999999995,0.6667,0.6491
 2023-01-20 23:40:30.077431,Boxing Lines - Sean Hemphill vs David Stevens - To Win the Bout,Sean Hemphill,0.017100000000000004,0.5049,0.4878
 2023-01-20 23:40:30.596194,Championship - England Championship 2022/23 - Outright,Burnley,0.016700000000000048,0.75,0.7333
 2023-01-20 13:40:36.190520,NFL Weekly Specials - Divisional Round Weekend - Most Passing Yards - Divisional Round Weekend - Most Passing Yards,Patrick Mahomes (KC),0.016699999999999993,0.2667,0.25
+2023-01-21 00:40:28.385096,BAFTA Awards - Best Film - BAFTA: Best Film,All Quiet On The Western Front,0.016600000000000004,0.0833,0.0667
 2023-01-20 13:40:36.178597,NFL Weekly Specials - Divisional Round Weekend - Lowest Scoring Game - Divisional Round Weekend - Lowest Scoring Game,Jaguars vs Chiefs,0.015700000000000006,0.1333,0.1176
+2023-01-21 00:40:28.456905,Royal Family - Harry & Meghan Specials - Harry & Meghan Specials,Harry & Meghan to receive a Buckingham Palace issued apology in 2023,0.014899999999999997,0.0625,0.0476
 2023-01-20 13:40:36.197782,NFL Weekly Specials - Divisional Round Weekend - Most Receiving Yards - Divisional Round Weekend - Most Receiving Yards,DeVonta Smith PHI,0.014099999999999994,0.0667,0.0526
 2023-01-20 22:40:34.739216,Boxing Lines - Joseph Parker vs Jack Massey - To Win the Bout,Joseph Parker,0.014000000000000012,0.9231,0.9091
 2023-01-20 13:40:36.190520,NFL Weekly Specials - Divisional Round Weekend - Most Passing Yards - Divisional Round Weekend - Most Passing Yards,Brock Purdy (SF),0.013999999999999999,0.0909,0.0769
 2023-01-20 23:40:30.596194,Championship - England Championship 2022/23 - Outright,Sheffield United,0.013600000000000001,0.3077,0.2941
-2023-01-20 13:40:36.166905,NFL Weekly Specials - Divisional Round Weekend - Highest Scoring Game - Divisional Round Weekend - Highest Scoring Game,Bengals vs Bills,0.0131,0.2353,0.2222
 2023-01-20 22:40:34.748582,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Chris Eubank Jr,0.0131,0.7778,0.7647
+2023-01-20 13:40:36.166905,NFL Weekly Specials - Divisional Round Weekend - Highest Scoring Game - Divisional Round Weekend - Highest Scoring Game,Bengals vs Bills,0.0131,0.2353,0.2222
 2023-01-20 13:40:36.197782,NFL Weekly Specials - Divisional Round Weekend - Most Receiving Yards - Divisional Round Weekend - Most Receiving Yards,Ja'Marr Chase CIN,0.012899999999999995,0.1667,0.1538
 2023-01-20 17:40:27.293937,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Tommy Fury,0.012699999999999989,0.3636,0.3509
-2023-01-20 13:40:36.204179,NFL Weekly Specials - Divisional Round Weekend - Most Rushing Yards - Divisional Round Weekend - Most Rushing Yards,Daniel Jones NYG,0.011199999999999995,0.0588,0.0476
+2023-01-21 00:40:28.524149,Nobel Prizes - Nobel Literature Prize - Nobel Literature Prize Winner 2023,Annie Proulx,0.012100000000000001,0.0244,0.0123
 2023-01-20 13:40:36.204179,NFL Weekly Specials - Divisional Round Weekend - Most Rushing Yards - Divisional Round Weekend - Most Rushing Yards,Josh Allen BUF,0.011199999999999995,0.0588,0.0476
+2023-01-20 13:40:36.204179,NFL Weekly Specials - Divisional Round Weekend - Most Rushing Yards - Divisional Round Weekend - Most Rushing Yards,Daniel Jones NYG,0.011199999999999995,0.0588,0.0476
 2023-01-20 16:42:36.799814,The American Express - 2/3 Balls - 2nd Round 2 Balls - T. Kim v S. Theegala - 2nd Round 2 Balls,Sahith Theegala,0.011099999999999999,0.4762,0.4651
+2023-01-21 00:40:29.706736,Super Lig - Turkey Super League 22/23 - Outright,Besiktas,0.011099999999999999,0.1111,0.1
 2023-01-20 16:42:36.961133,Round Match-Ups - 2nd Round Match-Up - J. Rose v P. Rodgers - 2nd Round Match-Up,Patrick Rodgers,0.01100000000000001,0.5348,0.5238
-2023-01-20 16:42:37.063646,Round Match-Ups - 3rd Round Match-Up - R. Fox vs V. Perez - 3rd Round Match-Up ,Ryan Fox,0.01100000000000001,0.5348,0.5238
 2023-01-20 16:42:37.054152,Round Match-Ups - 3rd Round Match-Up - G. Coetzee vs S. Jamieson - 3rd Round Match-Up ,Scott Jamieson,0.01100000000000001,0.5348,0.5238
+2023-01-20 16:42:37.063646,Round Match-Ups - 3rd Round Match-Up - R. Fox vs V. Perez - 3rd Round Match-Up ,Ryan Fox,0.01100000000000001,0.5348,0.5238
 2023-01-20 16:42:36.965933,Round Match-Ups - 2nd Round Match-Up - K. H. Lee v T. Hoge - 2nd Round Match-Up,Tom Hoge,0.01100000000000001,0.5348,0.5238
-2023-01-20 16:42:36.956462,Round Match-Ups - 2nd Round Match-Up - B. Harman v J.T. Poston - 2nd Round Match-Up,Brian Harman,0.010699999999999932,0.5455,0.5348
 2023-01-20 16:42:36.941262,Round Match-Ups - 2nd Round Match-Up - N. Taylor v T. Moore - 2nd Round Match-Up,Nick Taylor,0.010699999999999932,0.5455,0.5348
+2023-01-20 16:42:36.956462,Round Match-Ups - 2nd Round Match-Up - B. Harman v J.T. Poston - 2nd Round Match-Up,Brian Harman,0.010699999999999932,0.5455,0.5348
 2023-01-20 12:40:30.360728,Big Brother Brazil - Winning Group - Winning Group,Pipoca,0.010099999999999998,0.4545,0.4444
 2023-01-20 16:42:37.073034,Round Match-Ups - 3rd Round Match-Up - S. Lowry vs M. W. Lee - 3rd Round Match-Up,Shane Lowry,0.010099999999999998,0.5556,0.5455
 2023-01-20 13:40:36.197782,NFL Weekly Specials - Divisional Round Weekend - Most Receiving Yards - Divisional Round Weekend - Most Receiving Yards,Tee Higgins CIN,-0.0102,0.0667,0.0769
+2023-01-21 00:40:28.395813,BAFTA Awards - Leading Actor - BAFTA: Leading Actor,Bill Nighy - Living,-0.0102,0.0667,0.0769
 2023-01-20 13:40:36.197782,NFL Weekly Specials - Divisional Round Weekend - Most Receiving Yards - Divisional Round Weekend - Most Receiving Yards,Christian Kirk JAC,-0.0102,0.0667,0.0769
-2023-01-20 13:40:36.197782,NFL Weekly Specials - Divisional Round Weekend - Most Receiving Yards - Divisional Round Weekend - Most Receiving Yards,Saquon Barkley NYG,-0.010300000000000002,0.0141,0.0244
+2023-01-21 00:40:28.450369,Time Person of the Year - Time Person Of The Year 2023 - Time Person Of The Year 2023,Iran Protesters,-0.0102,0.0667,0.0769
 2023-01-20 13:40:36.197782,NFL Weekly Specials - Divisional Round Weekend - Most Receiving Yards - Divisional Round Weekend - Most Receiving Yards,Tyler Boyd CIN,-0.010300000000000002,0.0141,0.0244
 2023-01-20 13:40:36.197782,NFL Weekly Specials - Divisional Round Weekend - Most Receiving Yards - Divisional Round Weekend - Most Receiving Yards,Joe Mixon CIN,-0.010300000000000002,0.0141,0.0244
+2023-01-20 13:40:36.197782,NFL Weekly Specials - Divisional Round Weekend - Most Receiving Yards - Divisional Round Weekend - Most Receiving Yards,Saquon Barkley NYG,-0.010300000000000002,0.0141,0.0244
 2023-01-20 13:40:36.204179,NFL Weekly Specials - Divisional Round Weekend - Most Rushing Yards - Divisional Round Weekend - Most Rushing Yards,Elijah Mitchell SF,-0.010700000000000001,0.0278,0.0385
 2023-01-20 13:40:36.197782,NFL Weekly Specials - Divisional Round Weekend - Most Receiving Yards - Divisional Round Weekend - Most Receiving Yards,Marquez Valdes-Scantling KC,-0.010700000000000001,0.0278,0.0385
 2023-01-20 13:40:36.190520,NFL Weekly Specials - Divisional Round Weekend - Most Passing Yards - Divisional Round Weekend - Most Passing Yards,Daniel Jones (NYG),-0.011099999999999999,0.1,0.1111
-2023-01-20 16:42:37.063646,Round Match-Ups - 3rd Round Match-Up - R. Fox vs V. Perez - 3rd Round Match-Up ,Victor Perez,-0.011600000000000055,0.5122,0.5238
-2023-01-20 16:42:37.054152,Round Match-Ups - 3rd Round Match-Up - G. Coetzee vs S. Jamieson - 3rd Round Match-Up ,George Coetzee,-0.011600000000000055,0.5122,0.5238
-2023-01-20 16:42:36.965933,Round Match-Ups - 2nd Round Match-Up - K. H. Lee v T. Hoge - 2nd Round Match-Up,K.H. Lee,-0.011600000000000055,0.5122,0.5238
+2023-01-21 00:40:28.390464,BAFTA Awards - Director - BAFTA: Director,Gina Prince-Blythewood - The Woman King,-0.011199999999999995,0.0476,0.0588
+2023-01-21 00:40:28.390464,BAFTA Awards - Director - BAFTA: Director,Park Chan-wook - Decision To Leave,-0.011199999999999995,0.0476,0.0588
 2023-01-20 16:42:36.961133,Round Match-Ups - 2nd Round Match-Up - J. Rose v P. Rodgers - 2nd Round Match-Up,Justin Rose,-0.011600000000000055,0.5122,0.5238
-2023-01-20 16:42:37.073034,Round Match-Ups - 3rd Round Match-Up - S. Lowry vs M. W. Lee - 3rd Round Match-Up,Min Woo Lee,-0.012199999999999989,0.4878,0.5
+2023-01-20 16:42:36.965933,Round Match-Ups - 2nd Round Match-Up - K. H. Lee v T. Hoge - 2nd Round Match-Up,K.H. Lee,-0.011600000000000055,0.5122,0.5238
+2023-01-20 16:42:37.054152,Round Match-Ups - 3rd Round Match-Up - G. Coetzee vs S. Jamieson - 3rd Round Match-Up ,George Coetzee,-0.011600000000000055,0.5122,0.5238
+2023-01-20 16:42:37.063646,Round Match-Ups - 3rd Round Match-Up - R. Fox vs V. Perez - 3rd Round Match-Up ,Victor Perez,-0.011600000000000055,0.5122,0.5238
 2023-01-20 16:42:36.941262,Round Match-Ups - 2nd Round Match-Up - N. Taylor v T. Moore - 2nd Round Match-Up,Taylor Moore,-0.012199999999999989,0.5,0.5122
 2023-01-20 16:42:36.956462,Round Match-Ups - 2nd Round Match-Up - B. Harman v J.T. Poston - 2nd Round Match-Up,J.T. Poston,-0.012199999999999989,0.5,0.5122
+2023-01-20 16:42:37.073034,Round Match-Ups - 3rd Round Match-Up - S. Lowry vs M. W. Lee - 3rd Round Match-Up,Min Woo Lee,-0.012199999999999989,0.4878,0.5
 2023-01-20 13:40:36.204179,NFL Weekly Specials - Divisional Round Weekend - Most Rushing Yards - Divisional Round Weekend - Most Rushing Yards,Patrick Mahomes KC,-0.012700000000000003,0.0196,0.0323
 2023-01-20 12:40:30.335030,BAFTA Awards - Leading Actor - BAFTA: Leading Actor,Austin Butler - Elvis,-0.0131,0.2222,0.2353
 2023-01-20 13:40:36.190520,NFL Weekly Specials - Divisional Round Weekend - Most Passing Yards - Divisional Round Weekend - Most Passing Yards,Trevor Lawrence (JAC),-0.013899999999999996,0.1111,0.125
-2023-01-20 12:40:30.354954,Big Brother Brazil - Big Brother Brazil 2023 - BBB23: Outright Winner,Aline Wirley,-0.013999999999999999,0.0769,0.0909
-2023-01-20 13:40:36.184610,NFL Weekly Specials - Divisional Round Weekend - Lowest Scoring Team - Divisional Round Weekend - Lowest Scoring Team,Philadelphia Eagles,-0.013999999999999999,0.0769,0.0909
+2023-01-21 00:40:28.450369,Time Person of the Year - Time Person Of The Year 2023 - Time Person Of The Year 2023,Merrick Garland,-0.013999999999999999,0.0769,0.0909
 2023-01-20 13:40:36.172837,NFL Weekly Specials - Divisional Round Weekend - Highest Scoring Team - Divisional Round Weekend - Highest Scoring Team,New York Giants,-0.013999999999999999,0.0769,0.0909
-2023-01-20 13:40:36.197782,NFL Weekly Specials - Divisional Round Weekend - Most Receiving Yards - Divisional Round Weekend - Most Receiving Yards,Darius Slayton NYG,-0.014099999999999998,0.0244,0.0385
+2023-01-20 13:40:36.184610,NFL Weekly Specials - Divisional Round Weekend - Lowest Scoring Team - Divisional Round Weekend - Lowest Scoring Team,Philadelphia Eagles,-0.013999999999999999,0.0769,0.0909
+2023-01-20 12:40:30.354954,Big Brother Brazil - Big Brother Brazil 2023 - BBB23: Outright Winner,Aline Wirley,-0.013999999999999999,0.0769,0.0909
 2023-01-20 13:40:36.197782,NFL Weekly Specials - Divisional Round Weekend - Most Receiving Yards - Divisional Round Weekend - Most Receiving Yards,Dalton Schultz DAL,-0.014099999999999998,0.0244,0.0385
+2023-01-20 13:40:36.197782,NFL Weekly Specials - Divisional Round Weekend - Most Receiving Yards - Divisional Round Weekend - Most Receiving Yards,Darius Slayton NYG,-0.014099999999999998,0.0244,0.0385
+2023-01-21 00:40:28.450369,Time Person of the Year - Time Person Of The Year 2023 - Time Person Of The Year 2023,Xi Jinping,-0.014399999999999996,0.0625,0.0769
 2023-01-20 13:40:36.184610,NFL Weekly Specials - Divisional Round Weekend - Lowest Scoring Team - Divisional Round Weekend - Lowest Scoring Team,San Francisco 49ers,-0.014800000000000008,0.1333,0.1481
 2023-01-20 22:40:34.739216,Boxing Lines - Joseph Parker vs Jack Massey - To Win the Bout,Jack Massey,-0.014800000000000008,0.1333,0.1481
 2023-01-20 13:40:36.197782,NFL Weekly Specials - Divisional Round Weekend - Most Receiving Yards - Divisional Round Weekend - Most Receiving Yards,JuJu Smith-Schuster KC,-0.014899999999999997,0.0476,0.0625
 2023-01-20 13:40:36.172837,NFL Weekly Specials - Divisional Round Weekend - Highest Scoring Team - Divisional Round Weekend - Highest Scoring Team,Buffalo Bills,-0.015100000000000002,0.1667,0.1818
 2023-01-20 12:40:30.335030,BAFTA Awards - Leading Actor - BAFTA: Leading Actor,Brendan Fraser - The Whale,-0.015400000000000025,0.3846,0.4
 2023-01-20 16:42:37.049376,Round Match-Ups - 3rd Round Match-Up - F. Molinari vs A. Bjork - 3rd Round Match-Up,Francesco Molinari,-0.016699999999999937,0.5833,0.6
+2023-01-21 00:40:28.450369,Time Person of the Year - Time Person Of The Year 2023 - Time Person Of The Year 2023,Joe Biden,-0.01759999999999999,0.1,0.1176
 2023-01-20 13:40:36.178597,NFL Weekly Specials - Divisional Round Weekend - Lowest Scoring Game - Divisional Round Weekend - Lowest Scoring Game,Bengals vs Bills,-0.017600000000000005,0.3333,0.3509
 2023-01-20 13:40:36.184610,NFL Weekly Specials - Divisional Round Weekend - Lowest Scoring Team - Divisional Round Weekend - Lowest Scoring Team,Buffalo Bills,-0.0179,0.1111,0.129
+2023-01-21 00:40:28.406714,BAFTA Awards - Outstanding British Film - BAFTA: Outstanding British Film,Brian & Charles,-0.018099999999999998,0.0588,0.0769
 2023-01-20 16:42:36.799814,The American Express - 2/3 Balls - 2nd Round 2 Balls - T. Kim v S. Theegala - 2nd Round 2 Balls,Tom Kim,-0.018100000000000005,0.5652,0.5833
+2023-01-21 00:40:28.673778,LNB Pro A - LNB Pro A 2022/23 - Outright,ASVEL Basket,-0.01820000000000002,0.1818,0.2
 2023-01-20 23:40:30.077431,Boxing Lines - Sean Hemphill vs David Stevens - To Win the Bout,David Stevens,-0.01880000000000004,0.5556,0.5744
-2023-01-20 13:40:36.197782,NFL Weekly Specials - Divisional Round Weekend - Most Receiving Yards - Divisional Round Weekend - Most Receiving Yards,Michael Gallup DAL,-0.0189,0.0196,0.0385
-2023-01-20 13:40:36.197782,NFL Weekly Specials - Divisional Round Weekend - Most Receiving Yards - Divisional Round Weekend - Most Receiving Yards,Dawson Knox BUF,-0.0189,0.0196,0.0385
 2023-01-20 13:40:36.197782,NFL Weekly Specials - Divisional Round Weekend - Most Receiving Yards - Divisional Round Weekend - Most Receiving Yards,Kadarius Toney KC,-0.0189,0.0196,0.0385
+2023-01-20 13:40:36.197782,NFL Weekly Specials - Divisional Round Weekend - Most Receiving Yards - Divisional Round Weekend - Most Receiving Yards,Dawson Knox BUF,-0.0189,0.0196,0.0385
+2023-01-20 13:40:36.197782,NFL Weekly Specials - Divisional Round Weekend - Most Receiving Yards - Divisional Round Weekend - Most Receiving Yards,Michael Gallup DAL,-0.0189,0.0196,0.0385
 2023-01-20 15:40:29.312576,The American Express - 2/3 Balls - 2nd Round 2 Balls - B. Harman v J.T. Poston - 2nd Round 2 Balls,Brian Harman,-0.01970000000000005,0.5455,0.5652
+2023-01-21 00:40:28.390464,BAFTA Awards - Director - BAFTA: Director,Todd Field - TÁR,-0.02020000000000001,0.0909,0.1111
 2023-01-20 12:40:30.354954,Big Brother Brazil - Big Brother Brazil 2023 - BBB23: Outright Winner,MC Guime,-0.02020000000000001,0.0909,0.1111
+2023-01-21 00:40:28.401171,BAFTA Awards - Leading Actress - BAFTA: Leading Actress,Danielle Deadwyler - Till,-0.02020000000000001,0.0909,0.1111
 2023-01-20 13:40:35.110215,The American Express - 2/3 Balls - 2nd Round 2 Balls - J. Rahm v R. Fowler - 2nd Round 2 Balls,Rickie Fowler,-0.020799999999999985,0.3125,0.3333
 2023-01-20 16:42:37.058825,Round Match-Ups - 3rd Round Match-Up - G. Migliozzi vs J. Scrivener - 3rd Round Match-Up,Guido Migliozzi,-0.02169999999999994,0.5238,0.5455
 2023-01-20 12:40:30.082794,Round Match-Ups - 2nd Round Match-Up - T. Montgomery v S. Theegala - 2nd Round Match-Up ,Taylor Montgomery,-0.02169999999999994,0.5238,0.5455
 2023-01-20 13:40:36.172837,NFL Weekly Specials - Divisional Round Weekend - Highest Scoring Team - Divisional Round Weekend - Highest Scoring Team,Cincinnati Bengals,-0.022199999999999998,0.1111,0.1333
-2023-01-20 13:40:36.190520,NFL Weekly Specials - Divisional Round Weekend - Most Passing Yards - Divisional Round Weekend - Most Passing Yards,Josh Allen (BUF),-0.022199999999999998,0.2,0.2222
 2023-01-20 13:40:36.197782,NFL Weekly Specials - Divisional Round Weekend - Most Receiving Yards - Divisional Round Weekend - Most Receiving Yards,A.J. Brown PHI,-0.022199999999999998,0.1111,0.1333
-2023-01-20 16:42:36.975336,Round Match-Ups - 2nd Round Match-Up - G. Sigg v J. Bramlett - 2nd Round Match-Up,Joseph Bramlett,-0.023799999999999988,0.4762,0.5
+2023-01-20 13:40:36.190520,NFL Weekly Specials - Divisional Round Weekend - Most Passing Yards - Divisional Round Weekend - Most Passing Yards,Josh Allen (BUF),-0.022199999999999998,0.2,0.2222
 2023-01-20 16:42:36.946147,Round Match-Ups - 2nd Round Match-Up - T. Kim v S. W. Kim - 2nd Round Match-Up,Si Woo Kim,-0.023799999999999988,0.4762,0.5
+2023-01-20 16:42:36.975336,Round Match-Ups - 2nd Round Match-Up - G. Sigg v J. Bramlett - 2nd Round Match-Up,Joseph Bramlett,-0.023799999999999988,0.4762,0.5
+2023-01-20 16:42:36.936602,Round Match-Ups - 2nd Round Match-Up - A. Smalley v W. Clark - 2nd Round Match-Up,Wyndham Clark,-0.023800000000000043,0.5,0.5238
 2023-01-20 16:42:37.039884,Round Match-Ups - 3rd Round Match-Up - A. Rozner vs N. Hojgaard - 3rd Round Match-Up,Nicolai Hojgaard,-0.023800000000000043,0.5,0.5238
-2023-01-20 15:40:29.487210,Round Match-Ups - 2nd Round Match-Up - T. Montgomery v S. Theegala - 2nd Round Match-Up ,Sahith Theegala,-0.023800000000000043,0.5,0.5238
-2023-01-20 16:42:36.980066,Round Match-Ups - 2nd Round Match-Up - H. English v S. Jaeger - 2nd Round Match-Up,Stephan Jaeger,-0.023800000000000043,0.5,0.5238
 2023-01-20 16:42:36.989551,Round Match-Ups - 2nd Round Match-Up - C. Young v S. Im - 2nd Round Match-Up,Cameron Young,-0.023800000000000043,0.5,0.5238
 2023-01-20 16:42:36.927229,Round Match-Ups - 2nd Round Match-Up - B. Hossler v D. Riley - 2nd Round Match-Up,Beau Hossler,-0.023800000000000043,0.5,0.5238
-2023-01-20 16:42:36.936602,Round Match-Ups - 2nd Round Match-Up - A. Smalley v W. Clark - 2nd Round Match-Up,Wyndham Clark,-0.023800000000000043,0.5,0.5238
+2023-01-20 16:42:36.980066,Round Match-Ups - 2nd Round Match-Up - H. English v S. Jaeger - 2nd Round Match-Up,Stephan Jaeger,-0.023800000000000043,0.5,0.5238
+2023-01-20 15:40:29.487210,Round Match-Ups - 2nd Round Match-Up - T. Montgomery v S. Theegala - 2nd Round Match-Up ,Sahith Theegala,-0.023800000000000043,0.5,0.5238
 2023-01-20 13:40:35.595862,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Joe Biden,-0.024399999999999977,0.2353,0.2597
 2023-01-20 13:40:36.172837,NFL Weekly Specials - Divisional Round Weekend - Highest Scoring Team - Divisional Round Weekend - Highest Scoring Team,Dallas Cowboys,-0.024999999999999994,0.1,0.125
 2023-01-20 13:40:35.563747,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.025599999999999956,0.5744,0.6
 2023-01-20 23:40:30.072529,Boxing Lines - Julian Gonzalez vs Rosalindo Morales - To Win the Bout,Rosalindo Morales,-0.026500000000000024,0.3509,0.3774
 2023-01-20 12:40:30.366508,Big Brother Brazil - Winning Sex - BBB23: Winning Sex,Male,-0.027700000000000058,0.5556,0.5833
 2023-01-20 13:40:36.197782,NFL Weekly Specials - Divisional Round Weekend - Most Receiving Yards - Divisional Round Weekend - Most Receiving Yards,Christian McCaffrey SF,-0.028000000000000004,0.0196,0.0476
+2023-01-21 00:40:28.450369,Time Person of the Year - Time Person Of The Year 2023 - Time Person Of The Year 2023,Janet Yellen,-0.028399999999999995,0.0625,0.0909
 2023-01-20 13:40:36.190520,NFL Weekly Specials - Divisional Round Weekend - Most Passing Yards - Divisional Round Weekend - Most Passing Yards,Jalen Hurts (PHI),-0.028799999999999992,0.125,0.1538
 2023-01-20 13:40:35.576847,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Ron DeSantis,-0.030299999999999994,0.4348,0.4651
 2023-01-20 14:40:32.799855,The American Express - 2/3 Balls - 2nd Round 2 Balls - B. Steele v S. Cink - 2nd Round 2 Balls,Brendan Steele,-0.030399999999999983,0.5348,0.5652
+2023-01-21 00:40:28.401171,BAFTA Awards - Leading Actress - BAFTA: Leading Actress,Viola Davis - The Woman King,-0.0321,0.0588,0.0909
 2023-01-20 13:40:36.178597,NFL Weekly Specials - Divisional Round Weekend - Lowest Scoring Game - Divisional Round Weekend - Lowest Scoring Game,Cowboys vs 49ers,-0.03640000000000004,0.3636,0.4
 2023-01-20 13:40:36.184610,NFL Weekly Specials - Divisional Round Weekend - Lowest Scoring Team - Divisional Round Weekend - Lowest Scoring Team,Kansas City Chiefs,-0.038299999999999994,0.0526,0.0909
 2023-01-20 13:40:36.190520,NFL Weekly Specials - Divisional Round Weekend - Most Passing Yards - Divisional Round Weekend - Most Passing Yards,Dak Prescott (DAL),-0.03889999999999999,0.1429,0.1818
 2023-01-20 23:40:30.067195,Boxing Lines - Atif Oberlton vs Artem Brusov - To Win the Bout,Artem Brusov,-0.0406,0.1333,0.1739
 2023-01-20 13:40:35.595862,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Ron DeSantis,-0.043200000000000016,0.3077,0.3509
 2023-01-20 13:40:36.184610,NFL Weekly Specials - Divisional Round Weekend - Lowest Scoring Team - Divisional Round Weekend - Lowest Scoring Team,Jacksonville Jaquars,-0.044499999999999984,0.2222,0.2667
-2023-01-20 13:40:36.204179,NFL Weekly Specials - Divisional Round Weekend - Most Rushing Yards - Divisional Round Weekend - Most Rushing Yards,Saquon Barkley NYG,-0.05550000000000002,0.1667,0.2222
+2023-01-21 00:40:28.660124,NBL - NBL 2022/23 - Outright,South East Melbourne Phoenix,-0.052000000000000005,0.0909,0.1429
 2023-01-20 12:40:30.335030,BAFTA Awards - Leading Actor - BAFTA: Leading Actor,Paul Mescal - Aftersun,-0.05550000000000002,0.1667,0.2222
+2023-01-20 13:40:36.204179,NFL Weekly Specials - Divisional Round Weekend - Most Rushing Yards - Divisional Round Weekend - Most Rushing Yards,Saquon Barkley NYG,-0.05550000000000002,0.1667,0.2222
+2023-01-21 00:40:28.450369,Time Person of the Year - Time Person Of The Year 2023 - Time Person Of The Year 2023,Elon Musk,-0.05550000000000002,0.1667,0.2222
 2023-01-20 13:40:36.166905,NFL Weekly Specials - Divisional Round Weekend - Highest Scoring Game - Divisional Round Weekend - Highest Scoring Game,Jaguars vs Chiefs,-0.05559999999999998,0.4444,0.5
+2023-01-21 00:40:28.395813,BAFTA Awards - Leading Actor - BAFTA: Leading Actor,Paul Mescal - Aftersun,-0.07579999999999999,0.0909,0.1667
+2023-01-21 00:40:28.660124,NBL - NBL 2022/23 - Outright,Adelaide 36ers,-0.076,0.0149,0.0909
+2023-01-21 00:40:28.401171,BAFTA Awards - Leading Actress - BAFTA: Leading Actress,Michelle Yeoh - Everything Everywhere All At Once,-0.07619999999999999,0.4,0.4762
+2023-01-21 00:40:28.395813,BAFTA Awards - Leading Actor - BAFTA: Leading Actor,Brendan Fraser - The Whale,-0.09889999999999999,0.2857,0.3846
+2023-01-21 00:40:28.660124,NBL - NBL 2022/23 - Outright,New Zealand Breakers,-0.13130000000000003,0.0909,0.2222
 2023-01-20 13:40:36.204179,NFL Weekly Specials - Divisional Round Weekend - Most Rushing Yards - Divisional Round Weekend - Most Rushing Yards,Miles Sanders PHI,-0.141,0.1667,0.3077
+2023-01-21 00:40:28.406714,BAFTA Awards - Outstanding British Film - BAFTA: Outstanding British Film,Aftersun,-0.1746,0.1111,0.2857
