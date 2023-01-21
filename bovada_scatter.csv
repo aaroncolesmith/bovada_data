@@ -2,8 +2,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-21 10:40:31.609937,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Outright,Steve Stricker,0.6071,0.75,0.1429
 2023-01-21 10:40:31.609937,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Outright,Alex Cejka,0.1049,0.1818,0.0769
 2023-01-21 09:40:38.746906,NBA Specials - Where will Draymond Green Play after the 2023 NBA Trade Deadline - Proposition,Golden State Warriors,0.055499999999999994,0.8333,0.7778
-2023-01-21 08:40:31.612435,The American Express - 2/3 Balls - 3rd Round 2 Balls - S. Im v J. Day - 3rd Round 2 Balls,Jason Day,0.043399999999999994,0.4878,0.4444
-2023-01-21 08:40:31.566390,The American Express - 2/3 Balls - 3rd Round 2 Balls - S.W. Kim v J. Rose - 3rd Round 2 Balls,Justin Rose,0.043399999999999994,0.4878,0.4444
 2023-01-21 14:40:32.220870,Big Brother Brazil - Big Brother Brazil 2023 - BBB23: Outright Winner,Larissa Santos,0.04240000000000001,0.1333,0.0909
 2023-01-21 16:40:38.691717,Round Match-Ups - 3rd Round Match-Up - S. Burns vs A. Wise - 3rd Round Match-Up,Sam Burns,0.03959999999999997,0.5744,0.5348
 2023-01-21 10:40:32.011272,Copa del Rey - Copa Del Rey 2022/2023 - Winner,Real Madrid,0.02779999999999999,0.2778,0.25
@@ -20,8 +18,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-21 17:40:32.187678,The American Express - 2/3 Balls - 3rd Round 2 Balls - R. Knox v Z. Johnson - 3rd Round 2 Balls,Russell Knox,0.01880000000000004,0.5744,0.5556
 2023-01-21 16:40:38.515723,The American Express - 2/3 Balls - 3rd Round 2 Balls - A. Long v C. Reavie - 3rd Round 2 Balls,Adam Long,0.018100000000000005,0.5833,0.5652
 2023-01-21 10:40:30.167608,Boxing Lines - Ekow Essuman vs Chris Kongo - To Win the Bout,Chris Kongo,0.017900000000000027,0.5348,0.5169
-2023-01-21 15:40:31.120663,Round Match-Ups - 3rd Round Match-Up - K. Mitchell vs R. Knox - 3rd Round Match-Up,Keith Mitchell,0.017299999999999982,0.5917,0.5744
 2023-01-21 10:40:32.011272,Copa del Rey - Copa Del Rey 2022/2023 - Winner,Barcelona,0.017299999999999982,0.303,0.2857
+2023-01-21 15:40:31.120663,Round Match-Ups - 3rd Round Match-Up - K. Mitchell vs R. Knox - 3rd Round Match-Up,Keith Mitchell,0.017299999999999982,0.5917,0.5744
+2023-01-21 21:40:32.507608,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Santos Laguna,0.013999999999999999,0.0909,0.0769
 2023-01-21 18:40:31.131881,Boxing Lines - Ekow Essuman vs Chris Kongo - To Win the Bout,Ekow Essuman,0.01100000000000001,0.5348,0.5238
 2023-01-21 14:40:32.232802,Big Brother Brazil - Winning Sex - BBB23: Winning Sex,Female,0.010699999999999932,0.5455,0.5348
 2023-01-21 10:40:31.578844,Round Match-Ups - 3rd Round Match-Up - W. Gordon v J. Suh - 3rd Round Match-Up,Will Gordon,0.010699999999999932,0.5455,0.5348
@@ -30,8 +29,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-21 13:40:31.408869,Boxing Lines - Ekow Essuman vs Chris Kongo - To Win the Bout,Chris Kongo,-0.01100000000000001,0.5238,0.5348
 2023-01-21 16:40:38.515723,The American Express - 2/3 Balls - 3rd Round 2 Balls - A. Long v C. Reavie - 3rd Round 2 Balls,Chez Reavie,-0.011099999999999999,0.4651,0.4762
 2023-01-21 13:40:33.029151,Round Match-Ups - 3rd Round Match-Up - K. Mitchell vs R. Knox - 3rd Round Match-Up,Russell Knox,-0.0116,0.4762,0.4878
-2023-01-21 09:40:38.746906,NBA Specials - Where will Draymond Green Play after the 2023 NBA Trade Deadline - Proposition,Miami Heat,-0.011900000000000008,0.0833,0.0952
 2023-01-21 09:40:38.746906,NBA Specials - Where will Draymond Green Play after the 2023 NBA Trade Deadline - Proposition,Washington Wizards,-0.011900000000000008,0.0833,0.0952
+2023-01-21 09:40:38.746906,NBA Specials - Where will Draymond Green Play after the 2023 NBA Trade Deadline - Proposition,Miami Heat,-0.011900000000000008,0.0833,0.0952
 2023-01-21 10:40:31.578844,Round Match-Ups - 3rd Round Match-Up - W. Gordon v J. Suh - 3rd Round Match-Up,Justin Suh,-0.012199999999999989,0.5,0.5122
 2023-01-21 10:40:31.609937,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Outright,Corey Pavin,-0.0129,0.002,0.0149
 2023-01-21 10:40:31.609937,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Outright,Stephen Ames,-0.013,0.0066,0.0196
@@ -49,8 +48,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-21 15:40:31.120663,Round Match-Ups - 3rd Round Match-Up - K. Mitchell vs R. Knox - 3rd Round Match-Up,Russell Knox,-0.021699999999999997,0.4545,0.4762
 2023-01-21 15:40:31.042388,Round Match-Ups - 3rd Round Match-Up - T. Finau v T. Kim - 3rd Round Match-Up,Tom Kim,-0.023799999999999988,0.4762,0.5
 2023-01-21 14:40:32.666548,Round Match-Ups - 3rd Round Match-Up - T. Montgomery vs J. Rose - 3rd Round Match-Up,Justin Rose,-0.024399999999999977,0.4878,0.5122
-2023-01-21 08:40:31.612435,The American Express - 2/3 Balls - 3rd Round 2 Balls - S. Im v J. Day - 3rd Round 2 Balls,Sungjae Im,-0.025599999999999956,0.5744,0.6
-2023-01-21 08:40:31.566390,The American Express - 2/3 Balls - 3rd Round 2 Balls - S.W. Kim v J. Rose - 3rd Round 2 Balls,Si Woo Kim,-0.025599999999999956,0.5744,0.6
 2023-01-21 14:40:32.220870,Big Brother Brazil - Big Brother Brazil 2023 - BBB23: Outright Winner,Gabriel Santana,-0.031799999999999995,0.1111,0.1429
 2023-01-21 10:40:32.011272,Copa del Rey - Copa Del Rey 2022/2023 - Winner,Sevilla,-0.0321,0.0588,0.0909
 2023-01-21 10:40:32.011272,Copa del Rey - Copa Del Rey 2022/2023 - Winner,Valencia,-0.0321,0.0588,0.0909
