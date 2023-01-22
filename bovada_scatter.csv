@@ -33,7 +33,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-22 00:40:36.957967,League One - England - League One 2022/23 - Top 2 Finish,Derby County,0.031799999999999995,0.1429,0.1111
 2023-01-21 23:40:31.982376,Championship - England Championship 2022/23 - To Be Relegated,Blackpool,0.03179999999999994,0.5556,0.5238
 2023-01-22 00:40:36.982094,League Two - England - League Two 2022/23 - Top Goalscorer,Sam Hoskins,0.030299999999999994,0.3636,0.3333
+2023-01-22 04:40:36.242694,Round Match-Ups - Final Round Match-Up - H. Higgs vs D. Wu - Final Round Match-Up,Dylan Wu,0.024399999999999977,0.5122,0.4878
 2023-01-22 00:40:36.963229,League One - England - League One 2022/23 - Top 6 Finish,Derby County,0.023799999999999932,0.8571,0.8333
+2023-01-22 04:40:36.226013,Round Match-Ups - Final Round Match-Up - J. Rahm vs S. Scheffler - Final Round Match-Up,Scottie Scheffler,0.022699999999999998,0.4878,0.4651
+2023-01-22 04:40:36.183818,Round Match-Ups - Final Round Match-Up - T. Montgomery vs C. Young - Final Round Match-Up,Cameron Young,0.022600000000000064,0.5348,0.5122
 2023-01-21 16:40:38.509694,The American Express - 2/3 Balls - 3rd Round 2 Balls - T. Detry v A. Eckroat - 3rd Round 2 Balls,Thomas Detry,0.022600000000000064,0.6226,0.6
 2023-01-22 02:40:37.888496,Round Match-Ups - Final Round Match-Up - N. Hojgaard vs A. Otaegui - Final Round Match-Up,Adrian Otaegui,0.02079999999999993,0.5556,0.5348
 2023-01-21 23:40:31.982376,Championship - England Championship 2022/23 - To Be Relegated,Hull City,0.02049999999999999,0.1538,0.1333
@@ -64,18 +67,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-21 22:40:33.362163,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Chris Eubank Jr,-0.0131,0.7647,0.7778
 2023-01-21 23:40:31.990324,Championship - England Championship 2022/23 - Top 2 Finish,Blackburn Rovers,-0.014099999999999998,0.0244,0.0385
 2023-01-22 00:40:36.963229,League One - England - League One 2022/23 - Top 6 Finish,Fleetwood Town,-0.0145,0.0099,0.0244
-2023-01-22 00:40:36.952692,League One - England - League One 2022/23 - To Be Promoted,Wycombe,-0.018099999999999998,0.0588,0.0769
 2023-01-21 23:40:31.994334,Championship - England Championship 2022/23 - Top 6 Finish,Reading,-0.018099999999999998,0.0588,0.0769
+2023-01-22 00:40:36.952692,League One - England - League One 2022/23 - To Be Promoted,Wycombe,-0.018099999999999998,0.0588,0.0769
 2023-01-22 00:40:36.952692,League One - England - League One 2022/23 - To Be Promoted,Exeter City,-0.0189,0.0196,0.0385
 2023-01-21 16:40:38.509694,The American Express - 2/3 Balls - 3rd Round 2 Balls - T. Detry v A. Eckroat - 3rd Round 2 Balls,Austin Eckroat,-0.018900000000000028,0.4255,0.4444
 2023-01-22 00:40:36.963229,League One - England - League One 2022/23 - Top 6 Finish,Bristol Rovers,-0.019099999999999992,0.0476,0.0667
 2023-01-21 23:40:31.982376,Championship - England Championship 2022/23 - To Be Relegated,Swansea City,-0.019600000000000003,0.0149,0.0345
 2023-01-21 23:40:31.990324,Championship - England Championship 2022/23 - Top 2 Finish,West Bromwich Albion,-0.0203,0.0385,0.0588
+2023-01-22 04:40:36.242694,Round Match-Ups - Final Round Match-Up - H. Higgs vs D. Wu - Final Round Match-Up,Harry Higgs,-0.02079999999999993,0.5348,0.5556
 2023-01-22 02:40:37.888496,Round Match-Ups - Final Round Match-Up - N. Hojgaard vs A. Otaegui - Final Round Match-Up,Nicolai Hojgaard,-0.022600000000000064,0.5122,0.5348
+2023-01-22 04:40:36.183818,Round Match-Ups - Final Round Match-Up - T. Montgomery vs C. Young - Final Round Match-Up,Taylor Montgomery,-0.022600000000000064,0.5122,0.5348
 2023-01-22 00:40:36.952692,League One - England - League One 2022/23 - To Be Promoted,Port Vale,-0.023200000000000002,0.0244,0.0476
 2023-01-21 23:40:31.994334,Championship - England Championship 2022/23 - Top 6 Finish,Watford,-0.027700000000000058,0.5556,0.5833
-2023-01-21 22:40:33.750357,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Kansas City Chiefs,-0.02779999999999999,0.2222,0.25
+2023-01-22 04:40:36.226013,Round Match-Ups - Final Round Match-Up - J. Rahm vs S. Scheffler - Final Round Match-Up,Jon Rahm,-0.027700000000000058,0.5556,0.5833
 2023-01-22 00:40:36.963229,League One - England - League One 2022/23 - Top 6 Finish,Wycombe,-0.02779999999999999,0.2222,0.25
+2023-01-21 22:40:33.750357,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Kansas City Chiefs,-0.02779999999999999,0.2222,0.25
 2023-01-21 23:40:31.990324,Championship - England Championship 2022/23 - Top 2 Finish,Watford,-0.030699999999999998,0.0526,0.0833
 2023-01-22 00:40:36.952692,League One - England - League One 2022/23 - To Be Promoted,Portsmouth,-0.03330000000000001,0.0667,0.1
 2023-01-21 23:40:31.994334,Championship - England Championship 2022/23 - Top 6 Finish,Queens Park Rangers,-0.033300000000000024,0.1667,0.2
