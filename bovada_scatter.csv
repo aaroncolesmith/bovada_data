@@ -55,8 +55,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-22 16:40:35.723959,Round Match-Ups - Final Round Match-Up - J.T. Poston vs J. Day - Final Round Match-Up,JT Poston,-0.01100000000000001,0.5238,0.5348
 2023-01-22 14:40:34.979796,Big Brother Brazil - Big Brother Brazil 2023 - BBB23: Outright Winner,Bruno,-0.011199999999999995,0.0476,0.0588
 2023-01-22 14:40:35.264018,The American Express - 2/3 Balls - Final Round 3 Balls - T. Finau / J. Day / M. Schmid - Final Round 3 Balls,Jason Day,-0.01150000000000001,0.3333,0.3448
-2023-01-22 14:40:35.173837,Round Match-Ups - Final Round Match-Up - A. Hadwin vs S. Theegala - Final Round Match-Up,Adam Hadwin,-0.011600000000000055,0.5122,0.5238
 2023-01-22 14:40:35.232014,Round Match-Ups - Final Round Match-Up - H. Higgs vs D. Wu - Final Round Match-Up,Harry Higgs,-0.011600000000000055,0.5122,0.5238
+2023-01-22 14:40:35.173837,Round Match-Ups - Final Round Match-Up - A. Hadwin vs S. Theegala - Final Round Match-Up,Adam Hadwin,-0.011600000000000055,0.5122,0.5238
 2023-01-22 20:40:30.292559,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Newcastle United,-0.012100000000000001,0.0123,0.0244
 2023-01-22 14:40:35.205878,Round Match-Ups - Final Round Match-Up - T. Finau vs P. Cantlay - Final Round Match-Up,Patrick Cantlay,-0.012199999999999989,0.5,0.5122
 2023-01-22 18:40:42.692821,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Kansas City Chiefs,-0.012199999999999989,0.4878,0.5
@@ -64,14 +64,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-22 15:40:33.656695,Round Match-Ups - Final Round Match-Up - H. Higgs vs D. Wu - Final Round Match-Up,Harry Higgs,-0.012199999999999989,0.5,0.5122
 2023-01-22 14:40:35.179314,Round Match-Ups - Final Round Match-Up - T. Montgomery vs C. Young - Final Round Match-Up,Taylor Montgomery,-0.012199999999999989,0.4878,0.5
 2023-01-22 21:40:30.203221,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Buffalo Bills,-0.012899999999999995,0.1538,0.1667
-2023-01-22 14:40:35.273808,The American Express - 2/3 Balls - Final Round 3 Balls - S. Im / C. Kirk / P. Kizzire - Final Round 3 Balls,Patton Kizzire,-0.013600000000000001,0.2941,0.3077
 2023-01-22 14:40:35.268932,The American Express - 2/3 Balls - Final Round 3 Balls - S. Scheffler / S. Munoz / R. Shelton - Final Round 3 Balls,Sebastian Munoz,-0.013600000000000001,0.2941,0.3077
+2023-01-22 14:40:35.273808,The American Express - 2/3 Balls - Final Round 3 Balls - S. Im / C. Kirk / P. Kizzire - Final Round 3 Balls,Patton Kizzire,-0.013600000000000001,0.2941,0.3077
 2023-01-22 14:40:34.979796,Big Brother Brazil - Big Brother Brazil 2023 - BBB23: Outright Winner,Gustavo Benedeti,-0.013999999999999999,0.0769,0.0909
 2023-01-22 14:40:34.979796,Big Brother Brazil - Big Brother Brazil 2023 - BBB23: Outright Winner,Gabriel Tavares,-0.013999999999999999,0.0769,0.0909
 2023-01-22 14:40:34.979796,Big Brother Brazil - Big Brother Brazil 2023 - BBB23: Outright Winner,Sarah Aline,-0.013999999999999999,0.0769,0.0909
 2023-01-22 19:40:29.162140,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Atlanta Hawks,-0.01419999999999999,0.3704,0.3846
-2023-01-22 14:40:34.979796,Big Brother Brazil - Big Brother Brazil 2023 - BBB23: Outright Winner,Aline Wirley,-0.014399999999999996,0.0625,0.0769
 2023-01-22 14:40:34.979796,Big Brother Brazil - Big Brother Brazil 2023 - BBB23: Outright Winner,MC Guime,-0.014399999999999996,0.0625,0.0769
+2023-01-22 14:40:34.979796,Big Brother Brazil - Big Brother Brazil 2023 - BBB23: Outright Winner,Aline Wirley,-0.014399999999999996,0.0625,0.0769
 2023-01-22 15:40:33.672712,The American Express - 2/3 Balls - Final Round 3 Balls - A. Putnam / K. Mitchell / T. Duncan - Final Round 3 Balls,Andrew Putnam,-0.015400000000000025,0.3846,0.4
 2023-01-22 20:40:29.702652,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Kansas City Chiefs,-0.016699999999999993,0.25,0.2667
 2023-01-22 18:40:42.702879,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Dallas Cowboys,-0.01830000000000001,0.0769,0.0952
@@ -86,6 +86,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-22 18:40:42.711098,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Exact Finalists,CIN Bengals vs SF 49ers,-0.024299999999999995,0.0526,0.0769
 2023-01-22 18:40:42.692821,AFC Championship - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Cincinnati Bengals,-0.033300000000000024,0.1667,0.2
 2023-01-22 20:40:30.292559,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester United,-0.0344,0.0244,0.0588
+2023-01-22 23:40:31.280402,Serie A - Italy Serie A 2022/23 - Winner,Juventus,-0.0373,0.0294,0.0667
 2023-01-22 18:40:42.702879,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Cincinnati Bengals,-0.0417,0.0833,0.125
 2023-01-22 20:40:29.702652,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Buffalo Bills,-0.1,0.1667,0.2667
 2023-01-22 22:40:29.600342,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Buffalo Bills,-0.1415,0.0123,0.1538
