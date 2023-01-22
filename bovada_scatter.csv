@@ -3,8 +3,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-22 00:40:36.976113,League Two - England - League Two 2022/23 - Outright,Stevenage,0.12259999999999999,0.5,0.3774
 2023-01-21 23:40:32.070203,League One - England - League One 2022/23 - Outright,Sheffield Wednesday,0.10109999999999997,0.5556,0.4545
 2023-01-22 00:40:36.997376,League Two - England - League Two 2022/23 - To Be Relegated,Rochdale,0.09999999999999998,0.5,0.4
-2023-01-22 00:40:37.002390,League Two - England - League Two 2022/23 - To Finish Bottom,Rochdale,0.0857,0.2857,0.2
 2023-01-22 00:40:36.957967,League One - England - League One 2022/23 - Top 2 Finish,Sheffield Wednesday,0.0857,0.8,0.7143
+2023-01-22 00:40:37.002390,League Two - England - League Two 2022/23 - To Finish Bottom,Rochdale,0.0857,0.2857,0.2
 2023-01-21 23:40:31.982376,Championship - England Championship 2022/23 - To Be Relegated,Cardiff City,0.08549999999999996,0.3077,0.2222
 2023-01-22 00:40:36.963229,League One - England - League One 2022/23 - Top 6 Finish,Peterborough United,0.08340000000000003,0.4167,0.3333
 2023-01-21 23:40:31.994334,Championship - England Championship 2022/23 - Top 6 Finish,Middlesbrough,0.07690000000000008,0.6923,0.6154
@@ -16,8 +16,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-22 00:40:36.963229,League One - England - League One 2022/23 - Top 6 Finish,Oxford United,0.056400000000000006,0.1333,0.0769
 2023-01-21 23:40:31.978422,Championship - England Championship 2022/23 - To Be Promoted,Norwich City,0.04999999999999999,0.25,0.2
 2023-01-22 00:40:36.957967,League One - England - League One 2022/23 - Top 2 Finish,Plymouth Argyle,0.04760000000000003,0.5238,0.4762
-2023-01-22 00:40:36.952692,League One - England - League One 2022/23 - To Be Promoted,Plymouth Argyle,0.044399999999999995,0.6,0.5556
 2023-01-22 00:40:36.963229,League One - England - League One 2022/23 - Top 6 Finish,Barnsley,0.044399999999999995,0.6,0.5556
+2023-01-22 00:40:36.952692,League One - England - League One 2022/23 - To Be Promoted,Plymouth Argyle,0.044399999999999995,0.6,0.5556
 2023-01-22 00:40:37.007601,League Two - England - League Two 2022/23 - Top 3 Finish,Stevenage,0.04290000000000005,0.9,0.8571
 2023-01-21 14:40:32.220870,Big Brother Brazil - Big Brother Brazil 2023 - BBB23: Outright Winner,Larissa Santos,0.04240000000000001,0.1333,0.0909
 2023-01-21 23:40:31.990324,Championship - England Championship 2022/23 - Top 2 Finish,Sheffield United,0.04169999999999996,0.875,0.8333
@@ -33,7 +33,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-22 00:40:36.957967,League One - England - League One 2022/23 - Top 2 Finish,Derby County,0.031799999999999995,0.1429,0.1111
 2023-01-21 23:40:31.982376,Championship - England Championship 2022/23 - To Be Relegated,Blackpool,0.03179999999999994,0.5556,0.5238
 2023-01-22 00:40:36.982094,League Two - England - League Two 2022/23 - Top Goalscorer,Sam Hoskins,0.030299999999999994,0.3636,0.3333
-2023-01-21 13:40:33.023044,Round Match-Ups - 3rd Round Match-Up - S. Im vs W. Zalatoris - 3rd Round Match-Up,Will Zalatoris,0.024399999999999977,0.5122,0.4878
 2023-01-22 00:40:36.963229,League One - England - League One 2022/23 - Top 6 Finish,Derby County,0.023799999999999932,0.8571,0.8333
 2023-01-21 16:40:38.509694,The American Express - 2/3 Balls - 3rd Round 2 Balls - T. Detry v A. Eckroat - 3rd Round 2 Balls,Thomas Detry,0.022600000000000064,0.6226,0.6
 2023-01-21 15:40:31.665043,NFL Specials - Where will Sean Payton  Coach Game 1 of the 2023 NFL Regular Season - Proposition,Carolina Panthers,0.022199999999999998,0.2222,0.2
@@ -45,7 +44,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-22 00:40:36.963229,League One - England - League One 2022/23 - Top 6 Finish,Charlton Athletic,0.019099999999999992,0.0667,0.0476
 2023-01-21 15:40:30.871836,The American Express - 2/3 Balls - 3rd Round 2 Balls - T. Kim v S. Theegala - 3rd Round 2 Balls,Sahith Theegala,0.018900000000000028,0.4444,0.4255
 2023-01-21 17:40:32.187678,The American Express - 2/3 Balls - 3rd Round 2 Balls - R. Knox v Z. Johnson - 3rd Round 2 Balls,Russell Knox,0.01880000000000004,0.5744,0.5556
-2023-01-21 13:40:33.029151,Round Match-Ups - 3rd Round Match-Up - K. Mitchell vs R. Knox - 3rd Round Match-Up,Keith Mitchell,0.01880000000000004,0.5744,0.5556
 2023-01-22 00:40:36.963229,League One - England - League One 2022/23 - Top 6 Finish,Portsmouth,0.01820000000000002,0.2,0.1818
 2023-01-21 16:40:38.515723,The American Express - 2/3 Balls - 3rd Round 2 Balls - A. Long v C. Reavie - 3rd Round 2 Balls,Adam Long,0.018100000000000005,0.5833,0.5652
 2023-01-21 23:40:31.986325,Championship - England Championship 2022/23 - To Finish Bottom,Cardiff City,0.018099999999999998,0.0769,0.0588
@@ -60,14 +58,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-21 18:40:31.131881,Boxing Lines - Ekow Essuman vs Chris Kongo - To Win the Bout,Ekow Essuman,0.01100000000000001,0.5348,0.5238
 2023-01-21 14:40:32.232802,Big Brother Brazil - Winning Sex - BBB23: Winning Sex,Female,0.010699999999999932,0.5455,0.5348
 2023-01-21 14:40:32.232802,Big Brother Brazil - Winning Sex - BBB23: Winning Sex,Male,-0.010099999999999998,0.5455,0.5556
-2023-01-21 23:40:31.994334,Championship - England Championship 2022/23 - Top 6 Finish,Bristol City,-0.010100000000000001,0.0244,0.0345
 2023-01-21 23:40:31.994334,Championship - England Championship 2022/23 - Top 6 Finish,Hull City,-0.010100000000000001,0.0244,0.0345
+2023-01-21 23:40:31.994334,Championship - England Championship 2022/23 - Top 6 Finish,Bristol City,-0.010100000000000001,0.0244,0.0345
 2023-01-21 23:40:31.986325,Championship - England Championship 2022/23 - To Finish Bottom,Bristol City,-0.010100000000000001,0.0244,0.0345
-2023-01-21 13:40:31.408869,Boxing Lines - Ekow Essuman vs Chris Kongo - To Win the Bout,Chris Kongo,-0.01100000000000001,0.5238,0.5348
 2023-01-21 22:40:34.723177,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Arsenal,-0.01100000000000001,0.5238,0.5348
 2023-01-21 16:40:38.515723,The American Express - 2/3 Balls - 3rd Round 2 Balls - A. Long v C. Reavie - 3rd Round 2 Balls,Chez Reavie,-0.011099999999999999,0.4651,0.4762
 2023-01-22 00:40:36.957967,League One - England - League One 2022/23 - Top 2 Finish,Barnsley,-0.011199999999999995,0.0476,0.0588
-2023-01-21 13:40:33.029151,Round Match-Ups - 3rd Round Match-Up - K. Mitchell vs R. Knox - 3rd Round Match-Up,Russell Knox,-0.0116,0.4762,0.4878
 2023-01-21 23:40:31.994334,Championship - England Championship 2022/23 - Top 6 Finish,Cardiff City,-0.012100000000000001,0.0123,0.0244
 2023-01-22 00:40:36.997376,League Two - England - League Two 2022/23 - To Be Relegated,Harrogate Town,-0.012899999999999995,0.1538,0.1667
 2023-01-21 22:40:33.362163,Boxing Lines - Chris Eubank Jr vs Liam Smith - To Win the Bout,Chris Eubank Jr,-0.0131,0.7647,0.7778
@@ -83,7 +79,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-22 00:40:36.963229,League One - England - League One 2022/23 - Top 6 Finish,Bristol Rovers,-0.019099999999999992,0.0476,0.0667
 2023-01-21 23:40:31.982376,Championship - England Championship 2022/23 - To Be Relegated,Swansea City,-0.019600000000000003,0.0149,0.0345
 2023-01-21 23:40:31.990324,Championship - England Championship 2022/23 - Top 2 Finish,West Bromwich Albion,-0.0203,0.0385,0.0588
-2023-01-21 13:40:33.023044,Round Match-Ups - 3rd Round Match-Up - S. Im vs W. Zalatoris - 3rd Round Match-Up,Sungjae Im,-0.02079999999999993,0.5348,0.5556
 2023-01-21 15:40:31.120663,Round Match-Ups - 3rd Round Match-Up - K. Mitchell vs R. Knox - 3rd Round Match-Up,Russell Knox,-0.021699999999999997,0.4545,0.4762
 2023-01-22 00:40:36.952692,League One - England - League One 2022/23 - To Be Promoted,Port Vale,-0.023200000000000002,0.0244,0.0476
 2023-01-21 15:40:31.042388,Round Match-Ups - 3rd Round Match-Up - T. Finau v T. Kim - 3rd Round Match-Up,Tom Kim,-0.023799999999999988,0.4762,0.5
