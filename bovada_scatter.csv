@@ -12,7 +12,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-24 16:40:31.630689,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Los Angeles Clippers,No,0.11899999999999997,0.3571,0.2381
 2023-01-24 10:40:29.505726,La Liga - Spain La Liga 2022/23 - To Be Relegated,Getafe,0.11780000000000002,0.4255,0.3077
 2023-01-24 10:40:29.510305,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Villarreal,0.09830000000000005,0.5238,0.4255
-2023-01-24 07:40:28.753909,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Dayton,0.09090000000000004,0.4545,0.3636
 2023-01-24 09:40:30.688206,Premier League Futures/Specials - English Premier League 2022/23 - Winner without Man City & Liverpool,Arsenal,0.08650000000000002,0.9615,0.875
 2023-01-24 16:40:31.642941,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Portland Trail Blazers,No,0.08330000000000004,0.75,0.6667
 2023-01-24 09:40:30.735650,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Aston Villa,0.08330000000000004,0.5833,0.5
@@ -26,6 +25,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-24 16:40:31.852665,NBA Specials - Where will Draymond Green Play after the 2023 NBA Trade Deadline - Proposition,Golden State Warriors,0.06669999999999998,0.9,0.8333
 2023-01-24 18:40:32.069836,NFL Playoffs Specials - 2023 Playoffs - Most Rushing Yards - Proposition,Isiah Pacheco,0.0666,0.1333,0.0667
 2023-01-24 10:40:29.496983,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Villarreal,0.0635,0.2857,0.2222
+2023-01-24 18:40:32.064099,NFL Playoffs Specials - 2023 Playoffs - Most Receiving Yards - Proposition,George Kittle,0.06309999999999999,0.0909,0.0278
 2023-01-24 15:40:41.311324,95th Academy Awards - Best Actress - Best Actress,Michelle Yeoh,0.0595,0.4762,0.4167
 2023-01-24 09:40:30.741307,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Fulham,0.05559999999999998,0.5556,0.5
 2023-01-24 09:40:30.746958,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,West Ham United,0.052000000000000046,0.9091,0.8571
@@ -38,38 +38,34 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-24 17:40:36.694179,NFL Specials - NFL Draft 2023 -  First Overall Pick,Jalen Carter,0.04269999999999999,0.1538,0.1111
 2023-01-24 16:40:31.626720,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Golden State Warriors,No,0.0421,0.2326,0.1905
 2023-01-24 16:40:31.638557,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Philadelphia 76ers,Yes,0.04059999999999997,0.993,0.9524
-2023-01-24 09:40:30.735650,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Brentford,0.0393,0.6226,0.5833
 2023-01-24 09:40:30.701241,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Everton,0.0393,0.6226,0.5833
+2023-01-24 09:40:30.735650,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Brentford,0.0393,0.6226,0.5833
 2023-01-24 10:40:29.501155,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Mato Joselu (Espanyol),0.0384,0.0769,0.0385
 2023-01-24 12:40:29.252958,NFL Weekly Specials - Conference Finals - Total Points Scored - Proposition,Under 93.5,0.037800000000000056,0.5833,0.5455
-2023-01-24 07:40:28.753909,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Virginia Commonwealth,0.03640000000000004,0.4,0.3636
 2023-01-24 09:40:30.729959,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Tottenham Hotspur,0.03639999999999999,0.6364,0.6
 2023-01-24 09:40:30.718391,Premier League Futures/Specials - English Premier League 2022/23 - Not To Finish in Top 4,Manchester United,0.03570000000000001,0.2857,0.25
 2023-01-24 17:40:36.969469,Farmers Insurance Open - 2/3 Balls - 1st Round 3 Balls - G. Higgo / R. Streb / L. Griffin - 1st Round 3 Balls,Robert Streb,0.03570000000000001,0.2857,0.25
 2023-01-24 09:40:30.718391,Premier League Futures/Specials - English Premier League 2022/23 - Not To Finish in Top 4,Liverpool,0.035699999999999954,0.75,0.7143
 2023-01-24 08:40:29.714745,Premier League Futures/Specials - English Premier League 2022/23 - Winner without 'The Big Six',Brighton & Hove Albion,0.033300000000000024,0.2,0.1667
-2023-01-24 18:40:32.064099,NFL Playoffs Specials - 2023 Playoffs - Most Receiving Yards - Proposition,Travis Kelce,0.033299999999999996,0.1333,0.1
 2023-01-24 09:40:30.746958,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Leicester City,0.033299999999999996,0.8333,0.8
+2023-01-24 18:40:32.064099,NFL Playoffs Specials - 2023 Playoffs - Most Receiving Yards - Proposition,Travis Kelce,0.033299999999999996,0.1333,0.1
 2023-01-24 12:40:29.229907,NFL Weekly Specials - Conference Finals - Most Passing Yards - Proposition,Joe Burrow CIN,0.030299999999999994,0.4651,0.4348
 2023-01-24 09:40:30.713004,Premier League Futures/Specials - English Premier League 2022/23 - Top 2 Finish,Arsenal,0.02969999999999995,0.9709,0.9412
 2023-01-24 10:40:29.505726,La Liga - Spain La Liga 2022/23 - To Be Relegated,Elche,0.02859999999999996,0.9901,0.9615
 2023-01-24 09:40:30.741307,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Leicester City,0.028200000000000003,0.9615,0.9333
 2023-01-24 12:40:29.218973,NFL Weekly Specials - Conference Finals - Highest Scoring Team - Proposition,San Francisco 49ers,0.027999999999999997,0.1818,0.1538
 2023-01-24 09:40:30.724205,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Brighton & Hove Albion,0.024999999999999994,0.125,0.1
-2023-01-24 09:40:30.701241,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Bournemouth,0.022700000000000053,0.7727,0.75
 2023-01-24 09:40:30.746958,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Wolverhampton Wanderers,0.022700000000000053,0.7727,0.75
+2023-01-24 09:40:30.701241,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Bournemouth,0.022700000000000053,0.7727,0.75
 2023-01-24 15:40:41.323583,95th Academy Awards - Best Picture - Best Picture,Everything Everywhere All At Once,0.022600000000000064,0.6226,0.6
 2023-01-24 09:40:30.741307,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Crystal Palace,0.022199999999999998,0.8,0.7778
 2023-01-24 18:40:32.603314,Tournament Match-Ups - Tournament Match-Ups - R. Cabrera-Bello vs S. Straka - Tournament Match-Ups,Sepp Straka,0.02079999999999993,0.5556,0.5348
-2023-01-24 07:40:28.741616,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Pittsburgh,0.0203,0.0588,0.0385
 2023-01-24 09:40:30.713004,Premier League Futures/Specials - English Premier League 2022/23 - Top 2 Finish,Manchester City,0.020299999999999985,0.9615,0.9412
 2023-01-24 08:40:29.719239,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Erling Haaland,0.019100000000000006,0.9524,0.9333
 2023-01-24 17:40:36.694179,NFL Specials - NFL Draft 2023 -  First Overall Pick,Bryce Young,0.01880000000000004,0.5744,0.5556
 2023-01-24 09:40:30.545035,Super Lig - Turkey Super League 22/23 - Outright,Fenerbahce,0.018799999999999983,0.3636,0.3448
-2023-01-24 07:40:28.778303,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Utah State,0.0179,0.1429,0.125
-2023-01-24 15:40:41.118811,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Exact Result,Cincinnati Bengals to beat San Francisco 49ers,0.0179,0.1429,0.125
 2023-01-24 09:40:30.735650,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,West Ham United,0.0179,0.1429,0.125
-2023-01-24 07:40:28.778303,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Nevada,0.01759999999999999,0.1176,0.1
+2023-01-24 15:40:41.118811,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Exact Result,Cincinnati Bengals to beat San Francisco 49ers,0.0179,0.1429,0.125
 2023-01-24 09:40:30.707223,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Everton,0.0174,0.25,0.2326
 2023-01-24 09:40:30.729959,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Brighton & Hove Albion,0.015400000000000025,0.4,0.3846
 2023-01-24 10:40:29.505726,La Liga - Spain La Liga 2022/23 - To Be Relegated,Valencia,0.015300000000000001,0.0476,0.0323
@@ -77,27 +73,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-24 09:40:30.729959,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Aston Villa,0.014099999999999998,0.0385,0.0244
 2023-01-24 09:40:30.741307,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Brighton & Hove Albion,0.013999999999999999,0.0909,0.0769
 2023-01-24 09:40:30.724205,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Chelsea,0.013899999999999996,0.125,0.1111
-2023-01-24 07:40:28.778303,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,New Mexico,0.013899999999999996,0.125,0.1111
 2023-01-24 13:40:33.981405,NFL Weekly Specials - Conference Finals - Highest Scoring Team - Proposition,Cincinnati Bengals,0.012299999999999978,0.3571,0.3448
-2023-01-24 09:40:30.707223,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Leicester City,0.011199999999999995,0.0588,0.0476
 2023-01-24 12:40:29.247383,NFL Weekly Specials - Conference Finals - Most Rushing Yards - Proposition,Jalen Hurts PH,0.011199999999999995,0.0435,0.0323
+2023-01-24 09:40:30.707223,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Leicester City,0.011199999999999995,0.0588,0.0476
 2023-01-24 15:40:41.118811,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Exact Result,Philadelphia Eagles to beat Kansas City Chiefs,0.010899999999999993,0.1538,0.1429
-2023-01-24 10:40:28.621575,Tournament Match-Ups - Tournament Match-Ups - D. Thompson vs L. List - Tournament Match-Ups,Luke List,0.010699999999999932,0.5455,0.5348
 2023-01-24 10:40:28.631310,Tournament Match-Ups - Tournament Match-Ups - J. Day vs M. Homa - Tournament Match-Ups,Max Homa,0.010699999999999932,0.5455,0.5348
+2023-01-24 10:40:28.621575,Tournament Match-Ups - Tournament Match-Ups - D. Thompson vs L. List - Tournament Match-Ups,Luke List,0.010699999999999932,0.5455,0.5348
 2023-01-24 18:40:32.573989,Tournament Match-Ups - Tournament Match-Ups - J. Smith vs P. Reed - Tournament Match-Ups,Jordan Smith,0.010099999999999998,0.5556,0.5455
 2023-01-24 09:40:30.718391,Premier League Futures/Specials - English Premier League 2022/23 - Not To Finish in Top 4,Chelsea,-0.010199999999999987,0.9231,0.9333
 2023-01-24 10:40:29.510305,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Rayo Vallecano,-0.010700000000000001,0.0278,0.0385
 2023-01-24 12:40:29.927432,Big Brother Brazil - Big Brother Brazil 2023 - BBB23: Outright Winner,Larissa Santos,-0.010899999999999993,0.1429,0.1538
 2023-01-24 12:40:29.927432,Big Brother Brazil - Big Brother Brazil 2023 - BBB23: Outright Winner,Bruna Griphao,-0.010899999999999993,0.1429,0.1538
-2023-01-24 10:40:28.621575,Tournament Match-Ups - Tournament Match-Ups - D. Thompson vs L. List - Tournament Match-Ups,Davis Thompson,-0.01100000000000001,0.5238,0.5348
 2023-01-24 10:40:28.631310,Tournament Match-Ups - Tournament Match-Ups - J. Day vs M. Homa - Tournament Match-Ups,Jason Day,-0.01100000000000001,0.5238,0.5348
+2023-01-24 10:40:28.621575,Tournament Match-Ups - Tournament Match-Ups - D. Thompson vs L. List - Tournament Match-Ups,Davis Thompson,-0.01100000000000001,0.5238,0.5348
 2023-01-24 09:40:30.735650,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Crystal Palace,-0.011099999999999999,0.2667,0.2778
+2023-01-24 18:40:32.064099,NFL Playoffs Specials - 2023 Playoffs - Most Receiving Yards - Proposition,Brandon Aiyuk,-0.011199999999999995,0.0476,0.0588
 2023-01-24 09:40:30.707223,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Leeds United,-0.011199999999999995,0.0476,0.0588
 2023-01-24 09:40:30.735650,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Nottingham Forest,-0.011199999999999995,0.0476,0.0588
 2023-01-24 17:40:36.056216,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Jake Paul,-0.011499999999999955,0.6552,0.6667
 2023-01-24 18:40:32.573989,Tournament Match-Ups - Tournament Match-Ups - J. Smith vs P. Reed - Tournament Match-Ups,Patrick Reed,-0.011600000000000055,0.5122,0.5238
-2023-01-24 10:40:29.505726,La Liga - Spain La Liga 2022/23 - To Be Relegated,Osasuna,-0.012100000000000001,0.0123,0.0244
 2023-01-24 09:40:30.701241,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Aston Villa,-0.012100000000000001,0.0123,0.0244
+2023-01-24 10:40:29.505726,La Liga - Spain La Liga 2022/23 - To Be Relegated,Osasuna,-0.012100000000000001,0.0123,0.0244
 2023-01-24 12:40:29.218973,NFL Weekly Specials - Conference Finals - Highest Scoring Team - Proposition,Kansas City Chiefs,-0.012699999999999989,0.3509,0.3636
 2023-01-24 15:40:40.380960,Boxing Lines - Artem Dalakian vs David Jimenez - To Win the Bout,Artem Dalakian,-0.012700000000000045,0.6364,0.6491
 2023-01-24 08:40:29.719239,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Mohamed Salah,-0.013,0.0066,0.0196
@@ -105,24 +101,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-24 09:40:30.701241,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Wolverhampton Wanderers,-0.013600000000000001,0.2941,0.3077
 2023-01-24 09:40:30.746958,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Bournemouth,-0.013600000000000001,0.2941,0.3077
 2023-01-24 15:40:41.311324,95th Academy Awards - Best Actress - Best Actress,Cate Blanchett,-0.013799999999999923,0.6226,0.6364
-2023-01-24 12:40:29.247383,NFL Weekly Specials - Conference Finals - Most Rushing Yards - Proposition,Elijah Mitchell SF,-0.013999999999999999,0.0769,0.0909
 2023-01-24 15:40:41.317312,95th Academy Awards - Best Director - Best Director,Martin McDonagh,-0.013999999999999999,0.0769,0.0909
 2023-01-24 11:40:30.867926,MLS - MLS 2023 - Winner,Nashville SC,-0.013999999999999999,0.0769,0.0909
+2023-01-24 12:40:29.247383,NFL Weekly Specials - Conference Finals - Most Rushing Yards - Proposition,Elijah Mitchell SF,-0.013999999999999999,0.0769,0.0909
 2023-01-24 09:40:30.741307,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,West Ham United,-0.014000000000000012,0.9091,0.9231
 2023-01-24 09:40:30.729959,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Fulham,-0.014099999999999998,0.0244,0.0385
 2023-01-24 09:40:30.735650,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Everton,-0.0145,0.0099,0.0244
 2023-01-24 10:40:29.496983,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Valencia,-0.014599999999999998,0.005,0.0196
 2023-01-24 16:40:31.634602,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Oklahoma City Thunder,Yes,-0.0174,0.2326,0.25
-2023-01-24 07:40:28.741616,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,North Carolina,-0.0179,0.125,0.1429
 2023-01-24 08:40:29.714745,Premier League Futures/Specials - English Premier League 2022/23 - Winner without 'The Big Six',Newcastle United,-0.017900000000000027,0.8571,0.875
 2023-01-24 09:40:30.718391,Premier League Futures/Specials - English Premier League 2022/23 - Not To Finish in Top 4,Brighton & Hove Albion,-0.018100000000000005,0.9231,0.9412
-2023-01-24 15:40:41.323583,95th Academy Awards - Best Picture - Best Picture,TÁR,-0.018200000000000004,0.0294,0.0476
 2023-01-24 09:40:30.707223,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,West Ham United,-0.018200000000000004,0.0294,0.0476
 2023-01-24 10:40:29.501155,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Iago Aspas (Celta de Vigo),-0.018200000000000004,0.0294,0.0476
+2023-01-24 15:40:41.323583,95th Academy Awards - Best Picture - Best Picture,TÁR,-0.018200000000000004,0.0294,0.0476
 2023-01-24 12:40:29.218973,NFL Weekly Specials - Conference Finals - Highest Scoring Team - Proposition,Cincinnati Bengals,-0.018799999999999983,0.3448,0.3636
 2023-01-24 10:40:29.501155,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Vinicius Jr (Real Madrid),-0.0189,0.0196,0.0385
-2023-01-24 09:40:30.713004,Premier League Futures/Specials - English Premier League 2022/23 - Top 2 Finish,Newcastle United,-0.019099999999999992,0.0476,0.0667
 2023-01-24 10:40:29.496983,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Real Betis,-0.019099999999999992,0.0476,0.0667
+2023-01-24 09:40:30.713004,Premier League Futures/Specials - English Premier League 2022/23 - Top 2 Finish,Newcastle United,-0.019099999999999992,0.0476,0.0667
 2023-01-24 18:40:32.064099,NFL Playoffs Specials - 2023 Playoffs - Most Receiving Yards - Proposition,JuJu Smith-Schuster,-0.019099999999999995,0.0244,0.0435
 2023-01-24 15:40:41.323583,95th Academy Awards - Best Picture - Best Picture,Top Gun: Maverick,-0.02020000000000001,0.0909,0.1111
 2023-01-24 09:40:29.355157,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Kansas City Chiefs,-0.021399999999999975,0.2564,0.2778
@@ -132,8 +127,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-24 09:40:30.729959,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Liverpool,-0.022199999999999998,0.7778,0.8
 2023-01-24 09:40:30.545035,Super Lig - Turkey Super League 22/23 - Outright,Besiktas,-0.022199999999999998,0.1111,0.1333
 2023-01-24 18:40:32.603314,Tournament Match-Ups - Tournament Match-Ups - R. Cabrera-Bello vs S. Straka - Tournament Match-Ups,Rafa Cabrera Bello,-0.022600000000000064,0.5122,0.5348
-2023-01-24 07:40:28.753909,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,George Mason,-0.023200000000000002,0.0244,0.0476
-2023-01-24 07:40:28.759955,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Iowa State,-0.023799999999999988,0.1429,0.1667
 2023-01-24 08:40:29.719239,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Harry Kane,-0.0242,0.0667,0.0909
 2023-01-24 17:40:36.694179,NFL Specials - NFL Draft 2023 -  First Overall Pick,Will Anderson,-0.025300000000000003,0.1176,0.1429
 2023-01-24 17:40:36.969469,Farmers Insurance Open - 2/3 Balls - 1st Round 3 Balls - G. Higgo / R. Streb / L. Griffin - 1st Round 3 Balls,Lanto Griffin,-0.026600000000000013,0.4082,0.4348
@@ -142,38 +135,35 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-24 10:40:29.510305,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Real Betis,-0.028799999999999992,0.125,0.1538
 2023-01-24 18:40:32.064099,NFL Playoffs Specials - 2023 Playoffs - Most Receiving Yards - Proposition,Devonta Smith,-0.029299999999999993,0.0476,0.0769
 2023-01-24 12:40:29.229907,NFL Weekly Specials - Conference Finals - Most Passing Yards - Proposition,Jalen Hurts PH,-0.030299999999999994,0.303,0.3333
-2023-01-24 07:40:28.753909,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,George Washington,-0.032400000000000005,0.0152,0.0476
 2023-01-24 10:40:29.505726,La Liga - Spain La Liga 2022/23 - To Be Relegated,Sevilla,-0.03330000000000001,0.0667,0.1
 2023-01-24 09:40:30.707223,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Nottingham Forest,-0.03330000000000001,0.0667,0.1
 2023-01-24 09:40:30.701241,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leicester City,-0.03409999999999999,0.2326,0.2667
 2023-01-24 18:40:32.054767,NFL Playoffs Specials - 2023 Playoffs - Most Passing Yards - Proposition,Jalen Hurts,-0.03420000000000001,0.0769,0.1111
 2023-01-24 09:40:30.735650,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Leicester City,-0.03420000000000001,0.0769,0.1111
-2023-01-24 07:40:28.753909,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Saint Louis,-0.03570000000000001,0.25,0.2857
+2023-01-24 18:40:32.064099,NFL Playoffs Specials - 2023 Playoffs - Most Receiving Yards - Proposition,A.J. Brown,-0.035699999999999996,0.0476,0.0833
 2023-01-24 08:40:28.237220,College Basketball - West Coast Regular Season Conference Winner - West Coast Conference Regular Season Winner,Saint Mary's CA,-0.03639999999999999,0.6,0.6364
 2023-01-24 09:40:30.713004,Premier League Futures/Specials - English Premier League 2022/23 - Top 2 Finish,Manchester United,-0.03889999999999999,0.1429,0.1818
 2023-01-24 18:40:32.069836,NFL Playoffs Specials - 2023 Playoffs - Most Rushing Yards - Proposition,Travis Etienne,-0.0402,0.0033,0.0435
 2023-01-24 09:40:30.724205,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Manchester United,-0.04039999999999999,0.7778,0.8182
-2023-01-24 07:40:28.759955,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Texas,-0.04040000000000002,0.1818,0.2222
 2023-01-24 16:40:31.626720,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Golden State Warriors,Yes,-0.04169999999999996,0.8333,0.875
 2023-01-24 10:40:29.505726,La Liga - Spain La Liga 2022/23 - To Be Relegated,Cádiz,-0.043200000000000016,0.6491,0.6923
-2023-01-24 09:40:30.688206,Premier League Futures/Specials - English Premier League 2022/23 - Winner without Man City & Liverpool,Newcastle United,-0.04329999999999999,0.0476,0.0909
-2023-01-24 18:40:32.069836,NFL Playoffs Specials - 2023 Playoffs - Most Rushing Yards - Proposition,Jalen Hurts,-0.04329999999999999,0.0476,0.0909
 2023-01-24 15:40:41.311324,95th Academy Awards - Best Actress - Best Actress,Ana de Armas,-0.04329999999999999,0.0476,0.0909
+2023-01-24 18:40:32.069836,NFL Playoffs Specials - 2023 Playoffs - Most Rushing Yards - Proposition,Jalen Hurts,-0.04329999999999999,0.0476,0.0909
+2023-01-24 09:40:30.688206,Premier League Futures/Specials - English Premier League 2022/23 - Winner without Man City & Liverpool,Newcastle United,-0.04329999999999999,0.0476,0.0909
+2023-01-24 17:40:37.065549,Round Match-Ups - 1st Round Match-Ups - X. Schauffele vs C. Morikawa - 1st Round Match-Ups,Collin Morikawa,-0.045499999999999985,0.5,0.5455
+2023-01-24 12:40:29.252958,NFL Weekly Specials - Conference Finals - Total Points Scored - Proposition,Over 93.5,-0.045499999999999985,0.5,0.5455
 2023-01-24 09:40:30.746958,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Everton,-0.045499999999999985,0.4545,0.5
 2023-01-24 09:40:30.741307,Premier League Futures/Specials - English Premier League 2022/23 - Bottom 10 Finish,Brentford,-0.045499999999999985,0.4545,0.5
-2023-01-24 12:40:29.252958,NFL Weekly Specials - Conference Finals - Total Points Scored - Proposition,Over 93.5,-0.045499999999999985,0.5,0.5455
-2023-01-24 17:40:37.065549,Round Match-Ups - 1st Round Match-Ups - X. Schauffele vs C. Morikawa - 1st Round Match-Ups,Collin Morikawa,-0.045499999999999985,0.5,0.5455
 2023-01-24 14:40:29.278168,Boxing Lines - Leigh Wood vs Mauricio Lara - To Win the Bout,Leigh Wood,-0.04570000000000002,0.3077,0.3534
 2023-01-24 16:40:31.622807,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Chicago Bulls,No,-0.04579999999999995,0.6875,0.7333
 2023-01-24 09:40:30.718391,Premier League Futures/Specials - English Premier League 2022/23 - Not To Finish in Top 4,Tottenham Hotspur,-0.04619999999999991,0.8,0.8462
 2023-01-24 15:40:41.118811,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Exact Result,Kansas City Chiefs to beat Philadelphia Eagles,-0.04620000000000002,0.1538,0.2
 2023-01-24 14:40:29.448145,95th Academy Awards - Best Actor - Best Actor,Colin Farrell,-0.047599999999999976,0.2857,0.3333
 2023-01-24 15:40:41.118811,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Exact Result,Kansas City Chiefs to beat San Francisco 49ers,-0.04909999999999999,0.1176,0.1667
-2023-01-24 07:40:28.778303,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Boise State,-0.0504,0.2353,0.2857
 2023-01-24 15:40:41.317312,95th Academy Awards - Best Director - Best Director,Todd Field,-0.0524,0.0476,0.1
 2023-01-24 10:40:29.505726,La Liga - Spain La Liga 2022/23 - To Be Relegated,Mallorca,-0.0539,0.0294,0.0833
-2023-01-24 09:40:30.724205,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Liverpool,-0.055900000000000005,0.3077,0.3636
 2023-01-24 10:40:29.505726,La Liga - Spain La Liga 2022/23 - To Be Relegated,Almería,-0.055900000000000005,0.3077,0.3636
+2023-01-24 09:40:30.724205,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Liverpool,-0.055900000000000005,0.3077,0.3636
 2023-01-24 09:40:30.701241,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,West Ham United,-0.05710000000000001,0.1429,0.2
 2023-01-24 15:40:41.317312,95th Academy Awards - Best Director - Best Director,Steven Spielberg,-0.05860000000000004,0.4762,0.5348
 2023-01-24 09:40:30.735650,Premier League Futures/Specials - English Premier League 2022/23 - Top 10 Finish,Fulham,-0.0595,0.5238,0.5833
