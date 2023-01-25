@@ -10,15 +10,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-24 16:40:31.642941,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Portland Trail Blazers,No,0.08330000000000004,0.75,0.6667
 2023-01-24 18:40:32.069836,NFL Playoffs Specials - 2023 Playoffs - Most Rushing Yards - Proposition,Christian McCaffrey,0.08080000000000004,0.4444,0.3636
 2023-01-24 17:40:36.694179,NFL Specials - NFL Draft 2023 -  First Overall Pick,Will Levis,0.0769,0.1538,0.0769
-2023-01-24 15:40:41.317312,95th Academy Awards - Best Director - Best Director,Daniel Kwan and Daniel Scheinert,0.07110000000000005,0.5833,0.5122
-2023-01-24 16:40:31.343390,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Tommy Fury,0.06670000000000004,0.4,0.3333
-2023-01-24 18:40:32.069836,NFL Playoffs Specials - 2023 Playoffs - Most Rushing Yards - Proposition,Miles Sanders,0.06669999999999998,0.1667,0.1
 2023-01-24 16:40:31.852665,NBA Specials - Where will Draymond Green Play after the 2023 NBA Trade Deadline - Proposition,Golden State Warriors,0.06669999999999998,0.9,0.8333
+2023-01-24 18:40:32.069836,NFL Playoffs Specials - 2023 Playoffs - Most Rushing Yards - Proposition,Miles Sanders,0.06669999999999998,0.1667,0.1
 2023-01-24 18:40:32.069836,NFL Playoffs Specials - 2023 Playoffs - Most Rushing Yards - Proposition,Isiah Pacheco,0.0666,0.1333,0.0667
 2023-01-24 18:40:32.064099,NFL Playoffs Specials - 2023 Playoffs - Most Receiving Yards - Proposition,George Kittle,0.06309999999999999,0.0909,0.0278
 2023-01-24 22:40:34.923619,EFL Cup - EFL Cup 2022/23 - Winner,Newcastle United,0.0595,0.4762,0.4167
-2023-01-24 15:40:41.311324,95th Academy Awards - Best Actress - Best Actress,Michelle Yeoh,0.0595,0.4762,0.4167
-2023-01-24 15:40:41.118811,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Exact Result,Cincinnati Bengals to beat Philadelphia Eagles,0.0476,0.1905,0.1429
 2023-01-24 17:40:37.065549,Round Match-Ups - 1st Round Match-Ups - X. Schauffele vs C. Morikawa - 1st Round Match-Ups,Xander Schauffele,0.045499999999999985,0.5455,0.5
 2023-01-24 16:40:31.622807,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Chicago Bulls,Yes,0.04410000000000003,0.3774,0.3333
 2023-01-24 17:40:36.694179,NFL Specials - NFL Draft 2023 -  First Overall Pick,Jalen Carter,0.04269999999999999,0.1538,0.1111
@@ -31,39 +27,41 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-25 01:40:32.849986,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Baylor,0.025300000000000003,0.1429,0.1176
 2023-01-25 02:40:34.414556,Boxing Lines - Wulan Tuolehazi vs sho kimura - To Win the Bout,Wulan Tuolehazi,0.024500000000000022,0.4167,0.3922
 2023-01-24 22:40:33.713404,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Iowa State,0.023799999999999988,0.1667,0.1429
-2023-01-24 15:40:41.323583,95th Academy Awards - Best Picture - Best Picture,Everything Everywhere All At Once,0.022600000000000064,0.6226,0.6
-2023-01-24 23:40:31.996181,Farmers Insurance Open - 2/3 Balls - 1st Round 3 Balls - G. Higgo / R. Streb / L. Griffin - 1st Round 3 Balls,Robert Streb,0.021999999999999964,0.3077,0.2857
 2023-01-24 22:40:34.917367,League One - England - League One 2022/23 - Outright,Ipswich Town,0.021999999999999964,0.3077,0.2857
-2023-01-24 22:40:34.923619,EFL Cup - EFL Cup 2022/23 - Winner,Manchester United,0.02169999999999994,0.5455,0.5238
+2023-01-24 23:40:31.996181,Farmers Insurance Open - 2/3 Balls - 1st Round 3 Balls - G. Higgo / R. Streb / L. Griffin - 1st Round 3 Balls,Robert Streb,0.021999999999999964,0.3077,0.2857
 2023-01-24 23:40:32.079274,Round Match-Ups - 1st Round Match-Ups - H. English vs K. Bradley - 1st Round Match-Ups,Keegan Bradley,0.02169999999999994,0.5455,0.5238
 2023-01-24 23:40:32.022749,Tournament Match-Ups - Tournament Match-Ups - C. Davis vs S. Theegala - Tournament Match-Ups,Sahith Theegala,0.02169999999999994,0.5455,0.5238
+2023-01-24 22:40:34.923619,EFL Cup - EFL Cup 2022/23 - Winner,Manchester United,0.02169999999999994,0.5455,0.5238
 2023-01-24 18:40:32.603314,Tournament Match-Ups - Tournament Match-Ups - R. Cabrera-Bello vs S. Straka - Tournament Match-Ups,Sepp Straka,0.02079999999999993,0.5556,0.5348
 2023-01-25 03:40:32.767095,NFL Specials - NFL Draft 2023 - Draft Position - Anthony Richardson,Under 16.5,0.01970000000000005,0.5652,0.5455
 2023-01-25 03:40:32.771540,NFL Specials - NFL Draft 2023 - Draft Position - Bijan Robinson,Over 16.5,0.01970000000000005,0.5652,0.5455
 2023-01-25 03:40:32.780505,NFL Specials - NFL Draft 2023 - How Many QBs selected in Round 1,Under 4.5,0.019299999999999984,0.7561,0.7368
 2023-01-24 17:40:36.694179,NFL Specials - NFL Draft 2023 -  First Overall Pick,Bryce Young,0.01880000000000004,0.5744,0.5556
-2023-01-24 15:40:41.118811,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Exact Result,Cincinnati Bengals to beat San Francisco 49ers,0.0179,0.1429,0.125
+2023-01-25 04:40:29.287352,Boxing Lines - Wulan Tuolehazi vs sho kimura - To Win the Bout,Sho Kimura,0.01759999999999995,0.6667,0.6491
 2023-01-24 16:40:31.634602,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Oklahoma City Thunder,No,0.015100000000000002,0.8333,0.8182
 2023-01-24 23:40:31.945688,Farmers Insurance Open - 2/3 Balls - 1st Round 3 Balls - A. Svensson / L. List / J. Day - 1st Round 3 Balls,Luke List,0.013600000000000001,0.3077,0.2941
+2023-01-25 04:40:30.703192,Round Match-Ups - 1st Round Match-Ups - H. Matsuyama vs J.J. Spaun - 1st Round Match-Ups,JJ Spaun,0.012199999999999989,0.5122,0.5
+2023-01-25 04:40:30.724211,Round Match-Ups - 1st Round Match-Ups - T. Finau vs S. Im - 1st Round Match-Ups,Sungjae Im,0.012199999999999989,0.5,0.4878
 2023-01-24 22:40:34.917367,League One - England - League One 2022/23 - Outright,Derby County,0.011199999999999995,0.0588,0.0476
-2023-01-24 15:40:41.118811,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Exact Result,Philadelphia Eagles to beat Kansas City Chiefs,0.010899999999999993,0.1538,0.1429
+2023-01-25 04:40:30.703192,Round Match-Ups - 1st Round Match-Ups - H. Matsuyama vs J.J. Spaun - 1st Round Match-Ups,Hideki Matsuyama,0.010099999999999998,0.5556,0.5455
 2023-01-24 23:40:32.094327,Round Match-Ups - 1st Round Match-Ups - X. Schauffele vs C. Morikawa - 1st Round Match-Ups,Xander Schauffele,0.010099999999999998,0.5556,0.5455
+2023-01-25 04:40:30.617188,Tournament Match-Ups - Tournament Match-Ups - C. Davis vs S. Theegala - Tournament Match-Ups,Sahith Theegala,0.010099999999999998,0.5556,0.5455
+2023-01-25 04:40:30.638839,Tournament Match-Ups - Tournament Match-Ups - J. Day vs M. Homa - Tournament Match-Ups,Max Homa,0.010099999999999998,0.5556,0.5455
 2023-01-24 18:40:32.573989,Tournament Match-Ups - Tournament Match-Ups - J. Smith vs P. Reed - Tournament Match-Ups,Jordan Smith,0.010099999999999998,0.5556,0.5455
 2023-01-24 18:40:32.064099,NFL Playoffs Specials - 2023 Playoffs - Most Receiving Yards - Proposition,Brandon Aiyuk,-0.011199999999999995,0.0476,0.0588
 2023-01-24 20:40:32.838521,Boxing Lines - Artem Dalakian vs David Jimenez - To Win the Bout,Artem Dalakian,-0.011300000000000088,0.6183,0.6296
 2023-01-24 17:40:36.056216,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Jake Paul,-0.011499999999999955,0.6552,0.6667
 2023-01-24 18:40:32.573989,Tournament Match-Ups - Tournament Match-Ups - J. Smith vs P. Reed - Tournament Match-Ups,Patrick Reed,-0.011600000000000055,0.5122,0.5238
+2023-01-25 04:40:30.638839,Tournament Match-Ups - Tournament Match-Ups - J. Day vs M. Homa - Tournament Match-Ups,Jason Day,-0.011600000000000055,0.5122,0.5238
+2023-01-25 04:40:30.617188,Tournament Match-Ups - Tournament Match-Ups - C. Davis vs S. Theegala - Tournament Match-Ups,Cameron Davis,-0.011600000000000055,0.5122,0.5238
 2023-01-24 22:40:34.917367,League One - England - League One 2022/23 - Outright,Plymouth Argyle,-0.011700000000000016,0.2105,0.2222
-2023-01-24 15:40:40.380960,Boxing Lines - Artem Dalakian vs David Jimenez - To Win the Bout,Artem Dalakian,-0.012700000000000045,0.6364,0.6491
-2023-01-24 15:40:41.311324,95th Academy Awards - Best Actress - Best Actress,Cate Blanchett,-0.013799999999999923,0.6226,0.6364
-2023-01-24 15:40:41.317312,95th Academy Awards - Best Director - Best Director,Martin McDonagh,-0.013999999999999999,0.0769,0.0909
+2023-01-25 04:40:30.942460,Tournament Match-Ups - Tournament Match-Ups - J. Smith vs P. Reed - Tournament Match-Ups,Patrick Reed,-0.012199999999999989,0.5,0.5122
 2023-01-24 21:40:36.404800,Farmers Insurance Open - Farmers Insurance Open - Outright,Justin Thomas,-0.014099999999999994,0.0526,0.0667
 2023-01-24 22:40:34.760604,1. Bundesliga - Germany Bundesliga 2022/23 - Winner,Bayern Munich,-0.014399999999999968,0.9565,0.9709
+2023-01-25 04:40:29.287352,Boxing Lines - Wulan Tuolehazi vs sho kimura - To Win the Bout,Wulan Tuolehazi,-0.016699999999999993,0.4,0.4167
 2023-01-24 16:40:31.634602,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Oklahoma City Thunder,Yes,-0.0174,0.2326,0.25
 2023-01-24 22:40:34.923619,EFL Cup - EFL Cup 2022/23 - Winner,Nottingham Forest,-0.018099999999999998,0.0588,0.0769
-2023-01-24 15:40:41.323583,95th Academy Awards - Best Picture - Best Picture,TÁR,-0.018200000000000004,0.0294,0.0476
 2023-01-24 18:40:32.064099,NFL Playoffs Specials - 2023 Playoffs - Most Receiving Yards - Proposition,JuJu Smith-Schuster,-0.019099999999999995,0.0244,0.0435
-2023-01-24 15:40:41.323583,95th Academy Awards - Best Picture - Best Picture,Top Gun: Maverick,-0.02020000000000001,0.0909,0.1111
 2023-01-24 22:40:34.917367,League One - England - League One 2022/23 - Outright,Sheffield Wednesday,-0.02079999999999993,0.5348,0.5556
 2023-01-25 03:40:32.767095,NFL Specials - NFL Draft 2023 - Draft Position - Anthony Richardson,Over 16.5,-0.02169999999999994,0.5238,0.5455
 2023-01-24 23:40:32.022749,Tournament Match-Ups - Tournament Match-Ups - C. Davis vs S. Theegala - Tournament Match-Ups,Cameron Davis,-0.02169999999999994,0.5238,0.5455
@@ -73,27 +71,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-25 02:40:34.414556,Boxing Lines - Wulan Tuolehazi vs sho kimura - To Win the Bout,Sho Kimura,-0.02300000000000002,0.6491,0.6721
 2023-01-24 17:40:36.694179,NFL Specials - NFL Draft 2023 -  First Overall Pick,Will Anderson,-0.025300000000000003,0.1176,0.1429
 2023-01-24 17:40:36.969469,Farmers Insurance Open - 2/3 Balls - 1st Round 3 Balls - G. Higgo / R. Streb / L. Griffin - 1st Round 3 Balls,Lanto Griffin,-0.026600000000000013,0.4082,0.4348
-2023-01-24 15:40:41.323583,95th Academy Awards - Best Picture - Best Picture,Avatar : The Way of Water,-0.0286,0.0099,0.0385
 2023-01-24 18:40:32.064099,NFL Playoffs Specials - 2023 Playoffs - Most Receiving Yards - Proposition,Devonta Smith,-0.029299999999999993,0.0476,0.0769
 2023-01-25 03:40:32.776041,NFL Specials - NFL Draft 2023 - Draft Position - Quentin Johnson,Under 11.5,-0.033299999999999996,0.5122,0.5455
 2023-01-24 18:40:32.054767,NFL Playoffs Specials - 2023 Playoffs - Most Passing Yards - Proposition,Jalen Hurts,-0.03420000000000001,0.0769,0.1111
 2023-01-24 18:40:32.064099,NFL Playoffs Specials - 2023 Playoffs - Most Receiving Yards - Proposition,A.J. Brown,-0.035699999999999996,0.0476,0.0833
 2023-01-24 18:40:32.069836,NFL Playoffs Specials - 2023 Playoffs - Most Rushing Yards - Proposition,Travis Etienne,-0.0402,0.0033,0.0435
 2023-01-24 16:40:31.626720,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Golden State Warriors,Yes,-0.04169999999999996,0.8333,0.875
-2023-01-24 15:40:41.311324,95th Academy Awards - Best Actress - Best Actress,Ana de Armas,-0.04329999999999999,0.0476,0.0909
 2023-01-24 18:40:32.069836,NFL Playoffs Specials - 2023 Playoffs - Most Rushing Yards - Proposition,Jalen Hurts,-0.04329999999999999,0.0476,0.0909
 2023-01-24 17:40:37.065549,Round Match-Ups - 1st Round Match-Ups - X. Schauffele vs C. Morikawa - 1st Round Match-Ups,Collin Morikawa,-0.045499999999999985,0.5,0.5455
 2023-01-24 16:40:31.622807,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Chicago Bulls,No,-0.04579999999999995,0.6875,0.7333
-2023-01-24 15:40:41.118811,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Exact Result,Kansas City Chiefs to beat Philadelphia Eagles,-0.04620000000000002,0.1538,0.2
-2023-01-24 15:40:41.118811,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Exact Result,Kansas City Chiefs to beat San Francisco 49ers,-0.04909999999999999,0.1176,0.1667
 2023-01-24 22:40:34.923619,EFL Cup - EFL Cup 2022/23 - Winner,Southampton,-0.052399999999999995,0.0385,0.0909
-2023-01-24 15:40:41.317312,95th Academy Awards - Best Director - Best Director,Todd Field,-0.0524,0.0476,0.1
-2023-01-24 15:40:41.317312,95th Academy Awards - Best Director - Best Director,Steven Spielberg,-0.05860000000000004,0.4762,0.5348
-2023-01-24 16:40:31.343390,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Jake Paul,-0.06659999999999999,0.6667,0.7333
 2023-01-24 17:40:36.694179,NFL Specials - NFL Draft 2023 -  First Overall Pick,CJ Stroud,-0.07789999999999997,0.2857,0.3636
 2023-01-24 18:40:32.054767,NFL Playoffs Specials - 2023 Playoffs - Most Passing Yards - Proposition,Patrick Mahomes,-0.08179999999999998,0.1,0.1818
 2023-01-24 16:40:31.642941,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Portland Trail Blazers,Yes,-0.08750000000000002,0.3125,0.4
 2023-01-24 16:40:31.630689,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Los Angeles Clippers,Yes,-0.11599999999999999,0.7101,0.8261
-2023-01-24 15:40:41.323583,95th Academy Awards - Best Picture - Best Picture,The Fabelmans,-0.11670000000000001,0.0833,0.2
 2023-01-24 16:40:31.647508,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Sacramento Kings,No,-0.1778,0.2222,0.4
 2023-01-24 16:40:31.618901,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Atlanta Hawks,No,-0.19179999999999997,0.4082,0.6
