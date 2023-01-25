@@ -1,4 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2023-01-25 08:40:36.110205,National League - England National League 2022/23 - Outright,Wrexham,0.06659999999999999,0.7333,0.6667
 2023-01-24 22:40:34.923619,EFL Cup - EFL Cup 2022/23 - Winner,Newcastle United,0.0595,0.4762,0.4167
 2023-01-25 07:40:27.828892,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Miami Heat,0.04410000000000003,0.75,0.7059
 2023-01-25 03:40:32.776041,NFL Specials - NFL Draft 2023 - Draft Position - Quentin Johnson,Over 11.5,0.028900000000000037,0.5744,0.5455
@@ -9,8 +10,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-24 22:40:34.917367,League One - England - League One 2022/23 - Outright,Ipswich Town,0.021999999999999964,0.3077,0.2857
 2023-01-24 23:40:31.996181,Farmers Insurance Open - 2/3 Balls - 1st Round 3 Balls - G. Higgo / R. Streb / L. Griffin - 1st Round 3 Balls,Robert Streb,0.021999999999999964,0.3077,0.2857
 2023-01-24 23:40:32.079274,Round Match-Ups - 1st Round Match-Ups - H. English vs K. Bradley - 1st Round Match-Ups,Keegan Bradley,0.02169999999999994,0.5455,0.5238
-2023-01-24 22:40:34.923619,EFL Cup - EFL Cup 2022/23 - Winner,Manchester United,0.02169999999999994,0.5455,0.5238
 2023-01-24 23:40:32.022749,Tournament Match-Ups - Tournament Match-Ups - C. Davis vs S. Theegala - Tournament Match-Ups,Sahith Theegala,0.02169999999999994,0.5455,0.5238
+2023-01-24 22:40:34.923619,EFL Cup - EFL Cup 2022/23 - Winner,Manchester United,0.02169999999999994,0.5455,0.5238
 2023-01-25 03:40:32.771540,NFL Specials - NFL Draft 2023 - Draft Position - Bijan Robinson,Over 16.5,0.01970000000000005,0.5652,0.5455
 2023-01-25 03:40:32.767095,NFL Specials - NFL Draft 2023 - Draft Position - Anthony Richardson,Under 16.5,0.01970000000000005,0.5652,0.5455
 2023-01-25 03:40:32.780505,NFL Specials - NFL Draft 2023 - How Many QBs selected in Round 1,Under 4.5,0.019299999999999984,0.7561,0.7368
@@ -20,13 +21,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-25 04:40:30.724211,Round Match-Ups - 1st Round Match-Ups - T. Finau vs S. Im - 1st Round Match-Ups,Sungjae Im,0.012199999999999989,0.5,0.4878
 2023-01-25 05:40:29.215256,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Jake Paul,0.011499999999999955,0.6667,0.6552
 2023-01-24 22:40:34.917367,League One - England - League One 2022/23 - Outright,Derby County,0.011199999999999995,0.0588,0.0476
-2023-01-24 23:40:32.094327,Round Match-Ups - 1st Round Match-Ups - X. Schauffele vs C. Morikawa - 1st Round Match-Ups,Xander Schauffele,0.010099999999999998,0.5556,0.5455
+2023-01-25 04:40:30.617188,Tournament Match-Ups - Tournament Match-Ups - C. Davis vs S. Theegala - Tournament Match-Ups,Sahith Theegala,0.010099999999999998,0.5556,0.5455
 2023-01-25 04:40:30.703192,Round Match-Ups - 1st Round Match-Ups - H. Matsuyama vs J.J. Spaun - 1st Round Match-Ups,Hideki Matsuyama,0.010099999999999998,0.5556,0.5455
 2023-01-25 04:40:30.638839,Tournament Match-Ups - Tournament Match-Ups - J. Day vs M. Homa - Tournament Match-Ups,Max Homa,0.010099999999999998,0.5556,0.5455
-2023-01-25 04:40:30.617188,Tournament Match-Ups - Tournament Match-Ups - C. Davis vs S. Theegala - Tournament Match-Ups,Sahith Theegala,0.010099999999999998,0.5556,0.5455
-2023-01-24 20:40:32.838521,Boxing Lines - Artem Dalakian vs David Jimenez - To Win the Bout,Artem Dalakian,-0.011300000000000088,0.6183,0.6296
-2023-01-25 04:40:30.638839,Tournament Match-Ups - Tournament Match-Ups - J. Day vs M. Homa - Tournament Match-Ups,Jason Day,-0.011600000000000055,0.5122,0.5238
+2023-01-24 23:40:32.094327,Round Match-Ups - 1st Round Match-Ups - X. Schauffele vs C. Morikawa - 1st Round Match-Ups,Xander Schauffele,0.010099999999999998,0.5556,0.5455
 2023-01-25 04:40:30.617188,Tournament Match-Ups - Tournament Match-Ups - C. Davis vs S. Theegala - Tournament Match-Ups,Cameron Davis,-0.011600000000000055,0.5122,0.5238
+2023-01-25 04:40:30.638839,Tournament Match-Ups - Tournament Match-Ups - J. Day vs M. Homa - Tournament Match-Ups,Jason Day,-0.011600000000000055,0.5122,0.5238
 2023-01-24 22:40:34.917367,League One - England - League One 2022/23 - Outright,Plymouth Argyle,-0.011700000000000016,0.2105,0.2222
 2023-01-25 04:40:30.942460,Tournament Match-Ups - Tournament Match-Ups - J. Smith vs P. Reed - Tournament Match-Ups,Patrick Reed,-0.012199999999999989,0.5,0.5122
 2023-01-25 06:40:29.031138,Boxing Lines - Artur Beterbiev vs Anthony Yarde - To Win the Bout,Anthony Yarde,-0.012899999999999995,0.1538,0.1667
@@ -43,4 +43,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-25 02:40:34.414556,Boxing Lines - Wulan Tuolehazi vs sho kimura - To Win the Bout,Sho Kimura,-0.02300000000000002,0.6491,0.6721
 2023-01-25 03:40:32.776041,NFL Specials - NFL Draft 2023 - Draft Position - Quentin Johnson,Under 11.5,-0.033299999999999996,0.5122,0.5455
 2023-01-25 07:40:27.828892,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Atlanta Hawks,-0.047599999999999976,0.2857,0.3333
+2023-01-25 08:40:36.110205,National League - England National League 2022/23 - Outright,Notts County,-0.05130000000000001,0.3333,0.3846
 2023-01-24 22:40:34.923619,EFL Cup - EFL Cup 2022/23 - Winner,Southampton,-0.052399999999999995,0.0385,0.0909
