@@ -5,7 +5,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-25 16:40:31.393573,Super Bowl LVII Halftime Specials - Rihanna Halftime Show - First Song,Don't Stop The Music,0.08330000000000001,0.25,0.1667
 2023-01-25 09:40:34.019669,Eredivisie - Dutch Eredivisie 2022/23 - Winner,Feyenoord,0.06990000000000002,0.4545,0.3846
 2023-01-25 08:40:36.110205,National League - England National League 2022/23 - Outright,Wrexham,0.06659999999999999,0.7333,0.6667
+2023-01-25 18:40:38.503271,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Nikola Jokic (DEN),0.0595,0.5833,0.5238
 2023-01-25 13:40:33.714254,Economy Specials - United States Real GDP Growth Rate 2023 - US Real GDP Growth Rate 2023,1.01 - 2%,0.057699999999999974,0.3077,0.25
+2023-01-25 18:40:37.722658,NFL Specials - NFL Draft 2023 - Draft Position - Bijan Robinson,Over 16.5,0.05019999999999991,0.6154,0.5652
 2023-01-25 13:40:33.714254,Economy Specials - United States Real GDP Growth Rate 2023 - US Real GDP Growth Rate 2023,3.01 - 4%,0.047,0.1379,0.0909
 2023-01-25 07:40:27.828892,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Miami Heat,0.04410000000000003,0.75,0.7059
 2023-01-25 16:40:31.393573,Super Bowl LVII Halftime Specials - Rihanna Halftime Show - First Song,We Found Love,0.04269999999999999,0.1538,0.1111
@@ -19,6 +21,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-25 14:40:31.572346,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,TCU,0.021799999999999996,0.0435,0.0217
 2023-01-25 11:40:31.153495,Boxing Lines - Rey Vargas vs O'Shaquie Foster - To Win the Bout,Rey Vargas,0.021700000000000053,0.7778,0.7561
 2023-01-25 14:40:32.853433,Tournament Match-Ups - Tournament Match-Ups - K. Bradley vs W. Clark - Tournament Match-Ups,Wyndham Clark,0.02169999999999994,0.5455,0.5238
+2023-01-25 18:40:38.508355,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Malcolm Brogdon (BOS),0.020799999999999985,0.3333,0.3125
 2023-01-25 16:40:31.401541,Super Bowl LVII Halftime Specials - Rihanna Halftime Show - Number Of Songs In Set,Over 9.5,0.01970000000000005,0.5652,0.5455
 2023-01-25 12:40:31.369506,Tournament Match-Ups - Tournament Match-Ups - K. Bradley vs W. Clark - Tournament Match-Ups,Keegan Bradley,0.01970000000000005,0.5652,0.5455
 2023-01-25 14:40:31.415936,Boxing Lines - Artem Dalakian vs David Jimenez - To Win the Bout,David Jimenez,0.019699999999999995,0.4545,0.4348
@@ -26,23 +29,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-25 09:40:34.019669,Eredivisie - Dutch Eredivisie 2022/23 - Winner,AZ Alkmaar,0.018099999999999998,0.0769,0.0588
 2023-01-25 13:40:31.912420,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Gavin Newsom,0.0179,0.1429,0.125
 2023-01-25 12:40:31.075408,Farmers Insurance Open - 2/3 Balls - 1st Round 3 Balls - M. Laird / T. Duncan / S. Stallings - 1st Round 3 Balls,Scott Stallings,0.017299999999999982,0.4255,0.4082
-2023-01-25 12:40:31.105561,Farmers Insurance Open - 2/3 Balls - 1st Round 3 Balls - R. Fowler / J. Rose / T. Montgomery - 1st Round 3 Balls,Taylor Montgomery,0.016699999999999993,0.4167,0.4
 2023-01-25 11:40:29.761348,BAFTA Awards - Director - BAFTA: Director,Martin McDonagh - The Banshees of Inisherin,0.016699999999999993,0.4167,0.4
+2023-01-25 12:40:31.105561,Farmers Insurance Open - 2/3 Balls - 1st Round 3 Balls - R. Fowler / J. Rose / T. Montgomery - 1st Round 3 Balls,Taylor Montgomery,0.016699999999999993,0.4167,0.4
 2023-01-25 10:40:31.147066,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Philadelphia Eagles,0.01629999999999998,0.2941,0.2778
 2023-01-25 12:40:31.051049,Farmers Insurance Open - 2/3 Balls - 1st Round 3 Balls - A. Svensson / L. List / J. Day - 1st Round 3 Balls,Luke List,0.014900000000000024,0.3226,0.3077
 2023-01-25 17:40:30.172905,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Nikki Haley,0.014899999999999997,0.0625,0.0476
 2023-01-25 09:40:34.019669,Eredivisie - Dutch Eredivisie 2022/23 - Winner,FC Twente,0.014099999999999998,0.0385,0.0244
 2023-01-25 11:40:29.777376,BAFTA Awards - Outstanding British Film - BAFTA: Outstanding British Film,Aftersun,0.013899999999999996,0.125,0.1111
 2023-01-25 10:40:30.525918,Boxing Lines - Artur Beterbiev vs Anthony Yarde - To Win the Bout,Anthony Yarde,0.012899999999999995,0.1667,0.1538
-2023-01-25 13:40:31.935096,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Gavin Newsom,0.011199999999999995,0.0588,0.0476
 2023-01-25 12:40:31.429346,Dubai Desert Classic - Dubai Desert Classic - Outright,Tommy Fleetwood,0.011199999999999995,0.0588,0.0476
+2023-01-25 13:40:31.935096,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Gavin Newsom,0.011199999999999995,0.0588,0.0476
 2023-01-25 13:40:32.014288,Boxing Lines - Artur Beterbiev vs Anthony Yarde - To Win the Bout,Artur Beterbiev,0.011099999999999999,0.9,0.8889
-2023-01-25 16:40:31.659864,Round Match-Ups - 1st Round Match-Ups - D. Thompson v S. Jaeger - 1st Round Match-Ups,Davis Thompson,0.01100000000000001,0.5348,0.5238
-2023-01-25 16:40:31.664623,Round Match-Ups - 1st Round Match-Ups - E. Grillo v B. Hossler - 1st Round Match-Ups,Beau Hossler,0.01100000000000001,0.5348,0.5238
+2023-01-25 18:40:38.508355,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Norman Powell (LAC),0.011099999999999999,0.1111,0.1
 2023-01-25 11:40:30.381385,Round Match-Ups - 1st Round Match-Ups - A. Hadwin vs C. Davis - 1st Round Match-Ups,Cameron Davis,0.01100000000000001,0.5348,0.5238
 2023-01-25 12:40:31.326209,Round Match-Ups - 1st Round Match-Ups - W. Clark vs T. Detry - 1st Round Match-Ups,Wyndham Clark,0.01100000000000001,0.5348,0.5238
-2023-01-25 15:40:31.936627,Round Match-Ups - 1st Round Match-Ups - B. An v A. Rai - 1st Round Match-Ups,Byeong Hun An,0.010699999999999932,0.5455,0.5348
+2023-01-25 16:40:31.664623,Round Match-Ups - 1st Round Match-Ups - E. Grillo v B. Hossler - 1st Round Match-Ups,Beau Hossler,0.01100000000000001,0.5348,0.5238
+2023-01-25 16:40:31.659864,Round Match-Ups - 1st Round Match-Ups - D. Thompson v S. Jaeger - 1st Round Match-Ups,Davis Thompson,0.01100000000000001,0.5348,0.5238
 2023-01-25 14:40:32.656363,Round Match-Ups - 1st Round Match-Ups - A. Hadwin vs C. Davis - 1st Round Match-Ups,Cameron Davis,0.010699999999999932,0.5455,0.5348
+2023-01-25 15:40:31.936627,Round Match-Ups - 1st Round Match-Ups - B. An v A. Rai - 1st Round Match-Ups,Byeong Hun An,0.010699999999999932,0.5455,0.5348
 2023-01-25 12:40:31.429346,Dubai Desert Classic - Dubai Desert Classic - Outright,Tyrrell Hatton,0.0102,0.0769,0.0667
 2023-01-25 11:40:29.756577,BAFTA Awards - Best Film - BAFTA: Best Film,TÁR,0.0102,0.0769,0.0667
 2023-01-25 14:40:32.637922,Round Match-Ups - 1st Round Match-Ups - J. Suh v S. Ryder - 1st Round Match-Ups,Justin Suh,0.010099999999999998,0.5556,0.5455
@@ -53,40 +57,43 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-25 11:40:30.398126,Round Match-Ups - 1st Round Match-Ups - H. English vs K. Bradley - 1st Round Match-Ups,Keegan Bradley,-0.010699999999999932,0.5348,0.5455
 2023-01-25 12:40:31.105561,Farmers Insurance Open - 2/3 Balls - 1st Round 3 Balls - R. Fowler / J. Rose / T. Montgomery - 1st Round 3 Balls,Rickie Fowler,-0.010699999999999987,0.3226,0.3333
 2023-01-25 15:40:31.642494,NFL Weekly Specials - Conference Finals - Highest Scoring Game - Conference Finals - Highest Scoring Game,San Francisco 49ers / Philadelphia Eagles,-0.011099999999999999,0.4651,0.4762
-2023-01-25 11:40:29.770875,BAFTA Awards - Leading Actress - BAFTA: Leading Actress,Viola Davis - The Woman King,-0.011199999999999995,0.0476,0.0588
-2023-01-25 11:40:29.777376,BAFTA Awards - Outstanding British Film - BAFTA: Outstanding British Film,Brian & Charles,-0.011199999999999995,0.0476,0.0588
 2023-01-25 11:40:29.777376,BAFTA Awards - Outstanding British Film - BAFTA: Outstanding British Film,Empire of Light,-0.011199999999999995,0.0476,0.0588
+2023-01-25 11:40:29.777376,BAFTA Awards - Outstanding British Film - BAFTA: Outstanding British Film,Brian & Charles,-0.011199999999999995,0.0476,0.0588
+2023-01-25 11:40:29.770875,BAFTA Awards - Leading Actress - BAFTA: Leading Actress,Viola Davis - The Woman King,-0.011199999999999995,0.0476,0.0588
+2023-01-25 14:40:32.712701,Round Match-Ups - 1st Round Match-Ups - X. Schauffele vs C. Morikawa - 1st Round Match-Ups,Collin Morikawa,-0.0116,0.4762,0.4878
 2023-01-25 14:40:32.644158,Round Match-Ups - 1st Round Match-Ups - M. McNealy vs S. Theegala - 1st Round Match-Ups,Sahith Theegala,-0.0116,0.4762,0.4878
 2023-01-25 10:40:31.426575,Round Match-Ups - 1st Round Match-Ups - T. Montgomery vs J. Rose - 1st Round Match-Ups,Justin Rose,-0.0116,0.4762,0.4878
-2023-01-25 14:40:32.712701,Round Match-Ups - 1st Round Match-Ups - X. Schauffele vs C. Morikawa - 1st Round Match-Ups,Collin Morikawa,-0.0116,0.4762,0.4878
-2023-01-25 16:40:31.659864,Round Match-Ups - 1st Round Match-Ups - D. Thompson v S. Jaeger - 1st Round Match-Ups,Stephan Jaeger,-0.011600000000000055,0.5122,0.5238
-2023-01-25 12:40:31.326209,Round Match-Ups - 1st Round Match-Ups - W. Clark vs T. Detry - 1st Round Match-Ups,Thomas Detry,-0.011600000000000055,0.5122,0.5238
 2023-01-25 11:40:30.381385,Round Match-Ups - 1st Round Match-Ups - A. Hadwin vs C. Davis - 1st Round Match-Ups,Adam Hadwin,-0.011600000000000055,0.5122,0.5238
-2023-01-25 11:40:30.398126,Round Match-Ups - 1st Round Match-Ups - H. English vs K. Bradley - 1st Round Match-Ups,Harris English,-0.011600000000000055,0.5122,0.5238
+2023-01-25 16:40:31.659864,Round Match-Ups - 1st Round Match-Ups - D. Thompson v S. Jaeger - 1st Round Match-Ups,Stephan Jaeger,-0.011600000000000055,0.5122,0.5238
 2023-01-25 16:40:31.664623,Round Match-Ups - 1st Round Match-Ups - E. Grillo v B. Hossler - 1st Round Match-Ups,Emiliano Grillo,-0.011600000000000055,0.5122,0.5238
-2023-01-25 15:40:31.936627,Round Match-Ups - 1st Round Match-Ups - B. An v A. Rai - 1st Round Match-Ups,Aaron Rai,-0.012199999999999989,0.5,0.5122
-2023-01-25 15:40:32.044710,Tournament Match-Ups - Tournament Match-Ups - S. Im vs W. Zalatoris - Tournament Match-Ups,Sungjae Im,-0.012199999999999989,0.5,0.5122
-2023-01-25 14:40:32.656363,Round Match-Ups - 1st Round Match-Ups - A. Hadwin vs C. Davis - 1st Round Match-Ups,Adam Hadwin,-0.012199999999999989,0.5,0.5122
-2023-01-25 10:40:31.409222,Round Match-Ups - 1st Round Match-Ups - X. Schauffele vs C. Morikawa - 1st Round Match-Ups,Collin Morikawa,-0.012199999999999989,0.4878,0.5
+2023-01-25 12:40:31.326209,Round Match-Ups - 1st Round Match-Ups - W. Clark vs T. Detry - 1st Round Match-Ups,Thomas Detry,-0.011600000000000055,0.5122,0.5238
+2023-01-25 11:40:30.398126,Round Match-Ups - 1st Round Match-Ups - H. English vs K. Bradley - 1st Round Match-Ups,Harris English,-0.011600000000000055,0.5122,0.5238
+2023-01-25 18:40:38.508355,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Bobby Portis (MIL),-0.0118,0.0099,0.0217
 2023-01-25 14:40:32.637922,Round Match-Ups - 1st Round Match-Ups - J. Suh v S. Ryder - 1st Round Match-Ups,Sam Ryder,-0.012199999999999989,0.4878,0.5
+2023-01-25 14:40:32.656363,Round Match-Ups - 1st Round Match-Ups - A. Hadwin vs C. Davis - 1st Round Match-Ups,Adam Hadwin,-0.012199999999999989,0.5,0.5122
+2023-01-25 15:40:31.936627,Round Match-Ups - 1st Round Match-Ups - B. An v A. Rai - 1st Round Match-Ups,Aaron Rai,-0.012199999999999989,0.5,0.5122
+2023-01-25 10:40:31.409222,Round Match-Ups - 1st Round Match-Ups - X. Schauffele vs C. Morikawa - 1st Round Match-Ups,Collin Morikawa,-0.012199999999999989,0.4878,0.5
+2023-01-25 15:40:32.044710,Tournament Match-Ups - Tournament Match-Ups - S. Im vs W. Zalatoris - Tournament Match-Ups,Sungjae Im,-0.012199999999999989,0.5,0.5122
 2023-01-25 12:40:31.105561,Farmers Insurance Open - 2/3 Balls - 1st Round 3 Balls - R. Fowler / J. Rose / T. Montgomery - 1st Round 3 Balls,Justin Rose,-0.012699999999999989,0.3509,0.3636
+2023-01-25 18:40:38.513749,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Jason Kidd,-0.012700000000000003,0.0196,0.0323
 2023-01-25 16:40:31.393573,Super Bowl LVII Halftime Specials - Rihanna Halftime Show - First Song,Umbrella,-0.012899999999999995,0.1538,0.1667
-2023-01-25 06:40:29.031138,Boxing Lines - Artur Beterbiev vs Anthony Yarde - To Win the Bout,Anthony Yarde,-0.012899999999999995,0.1538,0.1667
 2023-01-25 13:40:33.537928,Grammy Awards 2023 - Album of the Year - Grammys Album of the Year,Beyonce - Renaissance,-0.013800000000000034,0.3636,0.3774
 2023-01-25 11:40:29.766107,BAFTA Awards - Leading Actor - BAFTA: Leading Actor,Paul Mescal - Aftersun,-0.013999999999999999,0.0769,0.0909
 2023-01-25 10:40:31.147066,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,San Francisco 49ers,-0.01469999999999999,0.2353,0.25
 2023-01-25 16:40:31.393573,Super Bowl LVII Halftime Specials - Rihanna Halftime Show - First Song,Lift Me Up,-0.015100000000000002,0.1667,0.1818
 2023-01-25 12:40:31.069371,Farmers Insurance Open - 2/3 Balls - 1st Round 3 Balls - M. Homa / W. Zalatoris / C. Morikawa - 1st Round 3 Balls,Collin Morikawa,-0.015400000000000025,0.3846,0.4
 2023-01-25 12:40:31.111648,Farmers Insurance Open - 2/3 Balls - 1st Round 3 Balls - G. Higgo / R. Streb / L. Griffin - 1st Round 3 Balls,Garrick Higgo,-0.015400000000000025,0.3846,0.4
+2023-01-25 18:40:38.503271,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Giannis Antetokounmpo (MIL),-0.016600000000000004,0.0667,0.0833
 2023-01-25 15:40:31.607438,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Kansas City Chiefs,-0.0174,0.2326,0.25
+2023-01-25 18:40:38.503271,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Jayson Tatum (BOS),-0.0179,0.125,0.1429
 2023-01-25 11:40:29.777376,BAFTA Awards - Outstanding British Film - BAFTA: Outstanding British Film,Living,-0.018099999999999998,0.0588,0.0769
 2023-01-25 11:40:29.766107,BAFTA Awards - Leading Actor - BAFTA: Leading Actor,Bill Nighy - Living,-0.019099999999999992,0.0476,0.0667
 2023-01-25 13:40:33.049657,Tournament Match-Ups - Tournament Match-Ups - K. Bradley vs W. Clark - Tournament Match-Ups,Keegan Bradley,-0.01970000000000005,0.5455,0.5652
 2023-01-25 11:40:31.050157,Boxing Lines - Artur Beterbiev vs Anthony Yarde - To Win the Bout,Artur Beterbiev,-0.020199999999999996,0.8889,0.9091
 2023-01-25 11:40:29.777376,BAFTA Awards - Outstanding British Film - BAFTA: Outstanding British Film,"Good Luck To You, Leo Grande",-0.0203,0.0385,0.0588
 2023-01-25 12:40:31.075408,Farmers Insurance Open - 2/3 Balls - 1st Round 3 Balls - M. Laird / T. Duncan / S. Stallings - 1st Round 3 Balls,Tyler Duncan,-0.020799999999999985,0.3125,0.3333
-2023-01-25 16:40:31.401541,Super Bowl LVII Halftime Specials - Rihanna Halftime Show - Number Of Songs In Set,Under 9.5,-0.02169999999999994,0.5238,0.5455
 2023-01-25 14:40:32.853433,Tournament Match-Ups - Tournament Match-Ups - K. Bradley vs W. Clark - Tournament Match-Ups,Keegan Bradley,-0.02169999999999994,0.5238,0.5455
+2023-01-25 16:40:31.401541,Super Bowl LVII Halftime Specials - Rihanna Halftime Show - Number Of Songs In Set,Under 9.5,-0.02169999999999994,0.5238,0.5455
 2023-01-25 12:40:31.284586,Round Match-Ups - 1st Round Match-Ups - T. Montgomery vs J. Rose - 1st Round Match-Ups,Justin Rose,-0.021699999999999997,0.4545,0.4762
 2023-01-25 11:40:31.153495,Boxing Lines - Rey Vargas vs O'Shaquie Foster - To Win the Bout,O'Shaquie Foster,-0.021999999999999964,0.2857,0.3077
 2023-01-25 14:40:32.725293,Round Match-Ups - 1st Round Match-Ups - H. Matsuyama vs J.J. Spaun - 1st Round Match-Ups,JJ Spaun,-0.022699999999999998,0.4651,0.4878
@@ -94,6 +101,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-25 10:40:31.438892,Round Match-Ups - 1st Round Match-Ups - T. Finau vs S. Im - 1st Round Match-Ups,Sungjae Im,-0.023799999999999988,0.4762,0.5
 2023-01-25 12:40:31.369506,Tournament Match-Ups - Tournament Match-Ups - K. Bradley vs W. Clark - Tournament Match-Ups,Wyndham Clark,-0.023800000000000043,0.5,0.5238
 2023-01-25 10:40:31.414998,Round Match-Ups - 1st Round Match-Ups - H. Matsuyama vs J.J. Spaun - 1st Round Match-Ups,JJ Spaun,-0.024399999999999977,0.4878,0.5122
+2023-01-25 18:40:38.513749,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Willie Green,-0.024999999999999994,0.1,0.125
 2023-01-25 17:40:30.193548,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Ron DeSantis,-0.029899999999999982,0.2778,0.3077
 2023-01-25 12:40:31.051049,Farmers Insurance Open - 2/3 Balls - 1st Round 3 Balls - A. Svensson / L. List / J. Day - 1st Round 3 Balls,Jason Day,-0.033299999999999996,0.5122,0.5455
 2023-01-25 12:40:31.087454,Farmers Insurance Open - 2/3 Balls - 1st Round 3 Balls - X. Schauffele / J.J. Spaun / H. Matsuyama - 1st Round 3 Balls,Xander Schauffele,-0.033299999999999996,0.5122,0.5455
@@ -103,6 +111,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-25 16:40:32.291464,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Ron DeSantis,-0.05740000000000001,0.3774,0.4348
 2023-01-25 13:40:33.714254,Economy Specials - United States Real GDP Growth Rate 2023 - US Real GDP Growth Rate 2023,Negative Growth,-0.06659999999999999,0.2667,0.3333
 2023-01-25 13:40:33.714254,Economy Specials - United States Real GDP Growth Rate 2023 - US Real GDP Growth Rate 2023,0.01 - 1%,-0.06659999999999999,0.2667,0.3333
+2023-01-25 18:40:37.722658,NFL Specials - NFL Draft 2023 - Draft Position - Bijan Robinson,Under 16.5,-0.06930000000000003,0.4545,0.5238
 2023-01-25 11:40:29.756577,BAFTA Awards - Best Film - BAFTA: Best Film,Everything Everywhere All At Once,-0.07619999999999999,0.4,0.4762
 2023-01-25 09:40:34.019669,Eredivisie - Dutch Eredivisie 2022/23 - Winner,PSV Eindhoven,-0.11359999999999998,0.25,0.3636
 2023-01-25 11:40:29.770875,BAFTA Awards - Leading Actress - BAFTA: Leading Actress,Michelle Yeoh - Everything Everywhere All At Once,-0.11430000000000001,0.2857,0.4
