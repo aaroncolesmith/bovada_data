@@ -1,23 +1,22 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2023-01-25 16:40:31.393573,Super Bowl LVII Halftime Specials - Rihanna Halftime Show - First Song,Don't Stop The Music,0.08330000000000001,0.25,0.1667
 2023-01-25 23:40:40.019025,EFL Cup - EFL Cup 2022/23 - Winner,Manchester United,0.07710000000000006,0.6226,0.5455
 2023-01-25 18:40:38.503271,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Nikola Jokic (DEN),0.0595,0.5833,0.5238
 2023-01-25 18:40:37.722658,NFL Specials - NFL Draft 2023 - Draft Position - Bijan Robinson,Over 16.5,0.05019999999999991,0.6154,0.5652
 2023-01-26 00:40:35.588864,95th Academy Awards - Best Picture - Best Picture,Everything Everywhere All At Once,0.0494,0.6923,0.6429
 2023-01-25 19:40:38.931876,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Lauri Markanen,0.044399999999999995,0.6,0.5556
-2023-01-25 16:40:31.393573,Super Bowl LVII Halftime Specials - Rihanna Halftime Show - First Song,We Found Love,0.04269999999999999,0.1538,0.1111
+2023-01-26 05:40:38.547568,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Kansas City Chiefs,0.03409999999999999,0.2667,0.2326
 2023-01-25 19:40:38.155909,NFL Specials - NFL Draft 2023 - Draft Position - Quentin Johnson,Over 11.5,0.033399999999999985,0.6078,0.5744
 2023-01-26 02:40:37.646523,Tournament Match-Ups - Tournament Match-Ups - J. Smith vs P. Reed - Tournament Match-Ups,Jordan Smith,0.026499999999999968,0.5917,0.5652
 2023-01-26 01:40:37.280502,Boxing Lines - Artem Dalakian vs David Jimenez - To Win the Bout,David Jimenez,0.023799999999999988,0.5,0.4762
+2023-01-26 05:40:39.130525,Japan B League - Japan League B1 2022/23 - Outright,Chiba Jets,0.022199999999999998,0.2222,0.2
 2023-01-25 19:40:38.925474,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Jaren Jackson Jr. (MEM),0.02200000000000002,0.7143,0.6923
 2023-01-25 23:40:38.301965,Boxing Lines - Artem Dalakian vs David Jimenez - To Win the Bout,David Jimenez,0.021699999999999997,0.4762,0.4545
 2023-01-25 18:40:38.508355,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Malcolm Brogdon (BOS),0.020799999999999985,0.3333,0.3125
 2023-01-26 02:40:37.572433,Round Match-Ups - 1st Round Match-Ups - N. Hojgaard vs N. Hojgaard - 1st Round Match-Ups,Padraig Harrington,0.02079999999999993,0.5556,0.5348
-2023-01-26 02:40:37.631244,Tournament Match-Ups - Tournament Match-Ups - A. Rozner vs N. Hojgaard - Tournament Match-Ups,Antoine Rozner,0.02079999999999993,0.5556,0.5348
 2023-01-26 02:40:37.567563,Round Match-Ups - 1st Round Match-Ups - V. Perez vs T. Pieters - 1st Round Match-Ups,Thomas Pieters,0.02079999999999993,0.5556,0.5348
+2023-01-26 02:40:37.631244,Tournament Match-Ups - Tournament Match-Ups - A. Rozner vs N. Hojgaard - Tournament Match-Ups,Antoine Rozner,0.02079999999999993,0.5556,0.5348
 2023-01-25 20:40:34.403035,95th Academy Awards - Best Picture - Best Picture,Everything Everywhere All At Once,0.020299999999999985,0.6429,0.6226
 2023-01-26 02:40:37.486810,Dubai Desert Classic - 2/3 Balls - 1st Round 3 Balls - R. McIlroy / R. Fox / T. Fleetwood - 1st Round 3 Balls,Rory McIlroy,0.01970000000000005,0.5652,0.5455
-2023-01-25 16:40:31.401541,Super Bowl LVII Halftime Specials - Rihanna Halftime Show - Number Of Songs In Set,Over 9.5,0.01970000000000005,0.5652,0.5455
 2023-01-25 19:40:38.925474,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Bam Adebayo (MIA),0.019099999999999992,0.0667,0.0476
 2023-01-26 02:40:37.676402,Tournament Match-Ups - Tournament Match-Ups - R. Cabrera-Bello vs S. Straka - Tournament Match-Ups,Sepp Straka,0.01880000000000004,0.5744,0.5556
 2023-01-26 02:40:37.526576,Dubai Desert Classic - 2/3 Balls - 1st Round 3 Balls - T. Hatton / F. Molinari / S. Lowry - 1st Round 3 Balls,Tyrrell Hatton,0.018100000000000005,0.4348,0.4167
@@ -25,52 +24,46 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-25 22:40:36.313394,95th Academy Awards - Best Picture - Best Picture,The Fabelmans,0.016700000000000007,0.1,0.0833
 2023-01-26 02:40:37.536417,Dubai Desert Classic - 2/3 Balls - 1st Round 3 Balls - J. Smith / S. Sharma / T. Olesen - 1st Round 3 Balls,Jordan Smith,0.016699999999999993,0.4167,0.4
 2023-01-25 21:40:39.799829,95th Academy Awards - Best Director - Best Director,Daniel Kwan and Daniel Scheinert - Everything Everywhere All At Once,0.016699999999999937,0.6,0.5833
-2023-01-25 17:40:30.172905,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Nikki Haley,0.014899999999999997,0.0625,0.0476
-2023-01-26 02:40:37.521654,Dubai Desert Classic - 2/3 Balls - 1st Round 3 Balls - L. Donald / J. Campillo / S. Soderberg - 1st Round 3 Balls,Jorge Campillo,0.013800000000000034,0.3774,0.3636
+2023-01-26 05:40:39.130525,Japan B League - Japan League B1 2022/23 - Outright,Alvark Tokyo,0.015100000000000002,0.1818,0.1667
+2023-01-26 05:40:39.130525,Japan B League - Japan League B1 2022/23 - Outright,Yokohama B-Corsairs,0.014099999999999998,0.0435,0.0294
 2023-01-26 02:40:37.541325,Dubai Desert Classic - 2/3 Balls - 1st Round 3 Balls - R. Hojgaard / R. Cabrera-Bello / L. Herbert - 1st Round 3 Balls,Rasmus Hojgaard,0.013800000000000034,0.3774,0.3636
+2023-01-26 02:40:37.521654,Dubai Desert Classic - 2/3 Balls - 1st Round 3 Balls - L. Donald / J. Campillo / S. Soderberg - 1st Round 3 Balls,Jorge Campillo,0.013800000000000034,0.3774,0.3636
 2023-01-26 02:40:37.491833,Dubai Desert Classic - 2/3 Balls - 1st Round 3 Balls - V. Perez / T. Pieters / M.W. Lee - 1st Round 3 Balls,Thomas Pieters,0.012699999999999989,0.3636,0.3509
-2023-01-25 23:40:39.190337,Futures - THE PLAYERS Championship 2023 - Outright,Jon Rahm,0.011099999999999999,0.1111,0.1
+2023-01-26 05:40:39.130525,Japan B League - Japan League B1 2022/23 - Outright,Shimane Susanoo Magic,0.011099999999999999,0.1111,0.1
 2023-01-25 18:40:38.508355,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Norman Powell (LAC),0.011099999999999999,0.1111,0.1
-2023-01-25 16:40:31.664623,Round Match-Ups - 1st Round Match-Ups - E. Grillo v B. Hossler - 1st Round Match-Ups,Beau Hossler,0.01100000000000001,0.5348,0.5238
-2023-01-25 16:40:31.659864,Round Match-Ups - 1st Round Match-Ups - D. Thompson v S. Jaeger - 1st Round Match-Ups,Davis Thompson,0.01100000000000001,0.5348,0.5238
+2023-01-25 23:40:39.190337,Futures - THE PLAYERS Championship 2023 - Outright,Jon Rahm,0.011099999999999999,0.1111,0.1
 2023-01-25 23:40:39.190337,Futures - THE PLAYERS Championship 2023 - Outright,Justin Thomas,0.0102,0.0769,0.0667
 2023-01-25 23:40:39.113126,Dubai Desert Classic - Dubai Desert Classic - Outright,Francesco Molinari,0.010100000000000001,0.0345,0.0244
 2023-01-26 02:40:37.609865,Round Match-Ups - 1st Round Match-Ups - J. Walters vs J. Morrison - 1st Round Match-Ups,Justin Walters,0.010099999999999998,0.5556,0.5455
-2023-01-26 02:40:37.598326,Round Match-Ups - 1st Round Match-Ups - J. Smith vs T. Olesen - 1st Round Match-Ups,Jordan Smith,0.010099999999999998,0.5556,0.5455
 2023-01-26 02:40:37.661670,Tournament Match-Ups - Tournament Match-Ups - M. Wallace vs P. Harrington - Tournament Match-Ups,Padraig Harrington,0.010099999999999998,0.5556,0.5455
+2023-01-26 02:40:37.598326,Round Match-Ups - 1st Round Match-Ups - J. Smith vs T. Olesen - 1st Round Match-Ups,Jordan Smith,0.010099999999999998,0.5556,0.5455
 2023-01-26 02:40:37.546237,Dubai Desert Classic - 2/3 Balls - 1st Round 3 Balls - D. Bradbury / T. Lawrence / G. Forrest - 1st Round 3 Balls,Dan Bradbury,-0.010699999999999987,0.3226,0.3333
-2023-01-25 16:40:31.664623,Round Match-Ups - 1st Round Match-Ups - E. Grillo v B. Hossler - 1st Round Match-Ups,Emiliano Grillo,-0.011600000000000055,0.5122,0.5238
-2023-01-25 16:40:31.659864,Round Match-Ups - 1st Round Match-Ups - D. Thompson v S. Jaeger - 1st Round Match-Ups,Stephan Jaeger,-0.011600000000000055,0.5122,0.5238
 2023-01-26 02:40:37.609865,Round Match-Ups - 1st Round Match-Ups - J. Walters vs J. Morrison - 1st Round Match-Ups,James Morrison,-0.011600000000000055,0.5122,0.5238
-2023-01-26 02:40:37.661670,Tournament Match-Ups - Tournament Match-Ups - M. Wallace vs P. Harrington - Tournament Match-Ups,Matt Wallace,-0.011600000000000055,0.5122,0.5238
 2023-01-26 02:40:37.598326,Round Match-Ups - 1st Round Match-Ups - J. Smith vs T. Olesen - 1st Round Match-Ups,Thorbjorn Olesen,-0.011600000000000055,0.5122,0.5238
+2023-01-26 02:40:37.661670,Tournament Match-Ups - Tournament Match-Ups - M. Wallace vs P. Harrington - Tournament Match-Ups,Matt Wallace,-0.011600000000000055,0.5122,0.5238
 2023-01-25 18:40:38.508355,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Bobby Portis (MIL),-0.0118,0.0099,0.0217
-2023-01-26 02:40:37.526576,Dubai Desert Classic - 2/3 Balls - 1st Round 3 Balls - T. Hatton / F. Molinari / S. Lowry - 1st Round 3 Balls,Shane Lowry,-0.012699999999999989,0.3509,0.3636
 2023-01-26 02:40:37.536417,Dubai Desert Classic - 2/3 Balls - 1st Round 3 Balls - J. Smith / S. Sharma / T. Olesen - 1st Round 3 Balls,Thorbjorn Olesen,-0.012699999999999989,0.3509,0.3636
+2023-01-26 02:40:37.526576,Dubai Desert Classic - 2/3 Balls - 1st Round 3 Balls - T. Hatton / F. Molinari / S. Lowry - 1st Round 3 Balls,Shane Lowry,-0.012699999999999989,0.3509,0.3636
 2023-01-25 18:40:38.513749,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Jason Kidd,-0.012700000000000003,0.0196,0.0323
-2023-01-25 16:40:31.393573,Super Bowl LVII Halftime Specials - Rihanna Halftime Show - First Song,Umbrella,-0.012899999999999995,0.1538,0.1667
 2023-01-25 23:40:40.019025,EFL Cup - EFL Cup 2022/23 - Winner,Southampton,-0.014099999999999998,0.0244,0.0385
 2023-01-26 02:40:37.486810,Dubai Desert Classic - 2/3 Balls - 1st Round 3 Balls - R. McIlroy / R. Fox / T. Fleetwood - 1st Round 3 Balls,Tommy Fleetwood,-0.014900000000000024,0.3077,0.3226
-2023-01-25 16:40:31.393573,Super Bowl LVII Halftime Specials - Rihanna Halftime Show - First Song,Lift Me Up,-0.015100000000000002,0.1667,0.1818
 2023-01-26 02:40:37.541325,Dubai Desert Classic - 2/3 Balls - 1st Round 3 Balls - R. Hojgaard / R. Cabrera-Bello / L. Herbert - 1st Round 3 Balls,Lucas Herbert,-0.015400000000000025,0.3846,0.4
 2023-01-26 02:40:37.521654,Dubai Desert Classic - 2/3 Balls - 1st Round 3 Balls - L. Donald / J. Campillo / S. Soderberg - 1st Round 3 Balls,Sebastian Soderberg,-0.015400000000000025,0.3846,0.4
 2023-01-25 23:40:38.301965,Boxing Lines - Artem Dalakian vs David Jimenez - To Win the Bout,Artem Dalakian,-0.016100000000000003,0.5917,0.6078
 2023-01-25 18:40:38.503271,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Giannis Antetokounmpo (MIL),-0.016600000000000004,0.0667,0.0833
 2023-01-26 02:40:37.624011,Dubai Desert Classic - Dubai Desert Classic - Outright,Rory McIlroy,-0.0174,0.2326,0.25
 2023-01-25 18:40:38.503271,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Jayson Tatum (BOS),-0.0179,0.125,0.1429
-2023-01-25 16:40:31.401541,Super Bowl LVII Halftime Specials - Rihanna Halftime Show - Number Of Songs In Set,Under 9.5,-0.02169999999999994,0.5238,0.5455
+2023-01-26 05:40:39.130525,Japan B League - Japan League B1 2022/23 - Outright,Hiroshima Dragonflies,-0.0179,0.125,0.1429
 2023-01-25 23:40:40.019025,EFL Cup - EFL Cup 2022/23 - Winner,Newcastle United,-0.021699999999999997,0.4545,0.4762
 2023-01-25 19:40:38.931876,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Shai Gilgeous-Alexander (OKC),-0.021699999999999997,0.4545,0.4762
 2023-01-26 02:40:37.491833,Dubai Desert Classic - 2/3 Balls - 1st Round 3 Balls - V. Perez / T. Pieters / M.W. Lee - 1st Round 3 Balls,Min Woo Lee,-0.02260000000000001,0.3774,0.4
-2023-01-26 02:40:37.567563,Round Match-Ups - 1st Round Match-Ups - V. Perez vs T. Pieters - 1st Round Match-Ups,Victor Perez,-0.022600000000000064,0.5122,0.5348
 2023-01-26 02:40:37.572433,Round Match-Ups - 1st Round Match-Ups - N. Hojgaard vs N. Hojgaard - 1st Round Match-Ups,Nicolai Hojgaard,-0.022600000000000064,0.5122,0.5348
+2023-01-26 02:40:37.567563,Round Match-Ups - 1st Round Match-Ups - V. Perez vs T. Pieters - 1st Round Match-Ups,Victor Perez,-0.022600000000000064,0.5122,0.5348
 2023-01-26 02:40:37.631244,Tournament Match-Ups - Tournament Match-Ups - A. Rozner vs N. Hojgaard - Tournament Match-Ups,Nicolai Hojgaard,-0.022600000000000064,0.5122,0.5348
 2023-01-26 02:40:37.646523,Tournament Match-Ups - Tournament Match-Ups - J. Smith vs P. Reed - Tournament Match-Ups,Patrick Reed,-0.023799999999999988,0.4762,0.5
 2023-01-26 02:40:37.676402,Tournament Match-Ups - Tournament Match-Ups - R. Cabrera-Bello vs S. Straka - Tournament Match-Ups,Rafa Cabrera Bello,-0.024399999999999977,0.4878,0.5122
 2023-01-25 18:40:38.513749,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Willie Green,-0.024999999999999994,0.1,0.125
 2023-01-26 01:40:37.280502,Boxing Lines - Artem Dalakian vs David Jimenez - To Win the Bout,Artem Dalakian,-0.026499999999999968,0.5652,0.5917
-2023-01-25 17:40:30.193548,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Ron DeSantis,-0.029899999999999982,0.2778,0.3077
 2023-01-25 19:40:38.155909,NFL Specials - NFL Draft 2023 - Draft Position - Quentin Johnson,Under 11.5,-0.047099999999999975,0.4651,0.5122
 2023-01-25 23:40:40.019025,EFL Cup - EFL Cup 2022/23 - Winner,Nottingham Forest,-0.0489,0.0099,0.0588
-2023-01-25 16:40:32.291464,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Ron DeSantis,-0.05740000000000001,0.3774,0.4348
 2023-01-25 18:40:37.722658,NFL Specials - NFL Draft 2023 - Draft Position - Bijan Robinson,Under 16.5,-0.06930000000000003,0.4545,0.5238
