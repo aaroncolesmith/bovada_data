@@ -26,13 +26,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-28 09:40:29.816715,Round Match-Ups - Final Round Match-Up - R. Palmer vs L. Griffin - Final Round Match-Up,Ryan Palmer,0.01970000000000005,0.5652,0.5455
 2023-01-28 11:40:30.004962,Round Match-Ups - Final Round Match-Up - M. Homa vs S. Theegala - Final Round Match-Up,Max Homa,0.01880000000000004,0.5744,0.5556
 2023-01-28 14:40:38.306019,Round Match-Ups - Final Round Match-Up - R. Palmer vs L. Griffin - Final Round Match-Up,Ryan Palmer,0.018100000000000005,0.5833,0.5652
-2023-01-28 08:40:37.098436,Farmers Insurance Open - 2/3 Balls - Final Round 3 Balls - C. Tarren / T. Moore / J. Walker - Final Round 3 Balls,Callum Tarren,0.017299999999999982,0.4255,0.4082
 2023-01-28 08:40:37.078901,Farmers Insurance Open - 2/3 Balls - Final Round 3 Balls - M. McNealy / T. Montgomery / J. Suh - Final Round 3 Balls,Taylor Montgomery,0.017299999999999982,0.4255,0.4082
+2023-01-28 08:40:37.098436,Farmers Insurance Open - 2/3 Balls - Final Round 3 Balls - C. Tarren / T. Moore / J. Walker - Final Round 3 Balls,Callum Tarren,0.017299999999999982,0.4255,0.4082
 2023-01-28 11:40:29.465241,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Donald Trump,0.016699999999999993,0.4167,0.4
 2023-01-28 12:40:27.626220,Round Match-Ups - Final Round Match-Up - J. Rahm vs T. Finau - Final Round Match-Up,Jon Rahm,0.016699999999999937,0.6,0.5833
 2023-01-28 09:40:28.821484,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Outright Winner 2023,Israel,0.015300000000000001,0.0476,0.0323
-2023-01-28 08:40:38.037206,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Michael Malone,0.015100000000000002,0.1818,0.1667
 2023-01-28 08:40:38.037206,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Taylor Jenkins,0.015100000000000002,0.1818,0.1667
+2023-01-28 08:40:38.037206,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Michael Malone,0.015100000000000002,0.1818,0.1667
 2023-01-28 10:40:29.348643,Boxing Lines - Rey Vargas vs O'Shaquie Foster - To Win the Bout,O'Shaquie Foster,0.014900000000000024,0.3226,0.3077
 2023-01-28 17:40:34.905181,Boxing Lines - Artem Dalakian vs David Jimenez - To Win the Bout,David Jimenez,0.014600000000000002,0.5,0.4854
 2023-01-28 14:40:37.551524,NFL Specials - NFL Draft 2023 - Draft Position - Anthony Richardson,Under 16.5,0.014200000000000101,0.6296,0.6154
@@ -47,9 +47,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-28 12:40:27.932119,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,Villarreal,0.010499999999999982,0.2105,0.2
 2023-01-28 08:40:38.047660,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Shai Gilgeous-Alexander (OKC),0.010099999999999998,0.4545,0.4444
 2023-01-28 11:40:29.476108,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Republican,-0.010099999999999998,0.5455,0.5556
+2023-01-28 20:40:28.801359,Boxing Lines - Alexis Rocha vs George Ashie - To Win the Bout,George Ashie,-0.0102,0.0667,0.0769
 2023-01-28 10:40:29.635982,NFL Weekly Specials - Conference Finals - Most Receiving Yards - Conference Finals - Most Receiving Yards,Christian McCaffrey SF,-0.010700000000000001,0.0278,0.0385
-2023-01-28 14:40:38.306019,Round Match-Ups - Final Round Match-Up - R. Palmer vs L. Griffin - Final Round Match-Up,Lanto Griffin,-0.011099999999999999,0.4651,0.4762
 2023-01-28 11:40:29.476108,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,-0.011099999999999999,0.4651,0.4762
+2023-01-28 14:40:38.306019,Round Match-Ups - Final Round Match-Up - R. Palmer vs L. Griffin - Final Round Match-Up,Lanto Griffin,-0.011099999999999999,0.4651,0.4762
 2023-01-28 12:40:26.188689,Boxing Lines - Zak Chelli vs Anthony Sims Jr - To Win the Bout,Anthony Sims Jr,-0.011499999999999955,0.6855,0.697
 2023-01-28 11:40:30.004962,Round Match-Ups - Final Round Match-Up - M. Homa vs S. Theegala - Final Round Match-Up,Sahith Theegala,-0.0116,0.4762,0.4878
 2023-01-28 12:40:27.932119,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,Lazio,-0.012899999999999995,0.1538,0.1667
@@ -87,15 +88,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-28 09:40:28.821484,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Outright Winner 2023,Belgium,-0.0262,0.0123,0.0385
 2023-01-28 11:40:29.484108,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Ron DeSantis,-0.02779999999999999,0.25,0.2778
 2023-01-28 10:40:30.868332,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Nantes,-0.031799999999999995,0.1111,0.1429
-2023-01-28 10:40:30.863867,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Neymar,-0.03570000000000001,0.25,0.2857
 2023-01-28 08:40:37.351883,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Outright Winner 2023,Ukraine,-0.03570000000000001,0.25,0.2857
+2023-01-28 10:40:30.863867,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Neymar,-0.03570000000000001,0.25,0.2857
 2023-01-28 10:40:30.920351,1. Bundesliga - Germany Bundesliga 2022/23 - Winner without Bayern Munich,Union Berlin,-0.03889999999999999,0.1429,0.1818
 2023-01-28 10:40:30.872708,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Rennes,-0.04099999999999998,0.2667,0.3077
 2023-01-28 12:40:27.521367,Round Match-Ups - Final Round Match-Up - S.W. Kim vs A. Hadwin - Final Round Match-Up,Adam Hadwin,-0.047099999999999975,0.4651,0.5122
 2023-01-28 10:40:29.635982,NFL Weekly Specials - Conference Finals - Most Receiving Yards - Conference Finals - Most Receiving Yards,George Kittle SF,-0.0524,0.0476,0.1
 2023-01-28 14:40:37.559965,NFL Specials - NFL Draft 2023 - Draft Position - Quentin Johnson,Under 11.5,-0.06190000000000001,0.3636,0.4255
-2023-01-28 10:40:29.635982,NFL Weekly Specials - Conference Finals - Most Receiving Yards - Conference Finals - Most Receiving Yards,Ja'Marr Chase CIN,-0.0635,0.2222,0.2857
 2023-01-28 09:40:28.821484,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Outright Winner 2023,Norway,-0.0635,0.0476,0.1111
+2023-01-28 10:40:29.635982,NFL Weekly Specials - Conference Finals - Most Receiving Yards - Conference Finals - Most Receiving Yards,Ja'Marr Chase CIN,-0.0635,0.2222,0.2857
 2023-01-28 14:40:37.555765,NFL Specials - NFL Draft 2023 - Draft Position - Bijan Robinson,Under 16.5,-0.06440000000000001,0.3704,0.4348
 2023-01-28 10:40:30.863867,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Kylian Mbappe,-0.07189999999999996,0.5833,0.6552
 2023-01-28 10:40:29.635982,NFL Weekly Specials - Conference Finals - Most Receiving Yards - Conference Finals - Most Receiving Yards,Deebo Samuel SF,-0.21900000000000003,0.0667,0.2857
