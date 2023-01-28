@@ -11,7 +11,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-28 02:40:29.475167,NBL - NBL 2022/23 - Outright,South East Melbourne Phoenix,0.034100000000000005,0.125,0.0909
 2023-01-28 01:40:26.628685,Boxing Lines - Rey Vargas vs O'Shaquie Foster - To Win the Bout,Rey Vargas,0.03390000000000004,0.7561,0.7222
 2023-01-27 15:40:30.601731,Euroleague - Euroleague 2022/23 - Outright,Olympiakos,0.033399999999999985,0.1667,0.1333
-2023-01-27 14:40:33.482512,NBA Awards - 2022/23 NBA Awards - 2022/23 The Rookie of the Year,Walker Kessler (UTA),0.0303,0.0323,0.002
 2023-01-27 18:40:28.023494,BKFC 35 - Marcus Brimage vs Trevor Loken - To Win the Bout,Marcus Brimage,0.029000000000000026,0.4545,0.4255
 2023-01-27 17:40:31.882095,BKFC 35 - Jakobi Lowery vs Robert Armas - To Win the Bout,Jakobi Lowery,0.027700000000000002,0.4444,0.4167
 2023-01-27 20:40:31.610292,BKFC 35 - Doug Coltrane vs Brian Jackson - To Win the Bout,Doug Coltrane,0.02529999999999999,0.8824,0.8571
@@ -19,13 +18,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-27 16:40:30.167269,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Clippers,0.023799999999999988,0.1667,0.1429
 2023-01-27 18:40:28.057753,BKFC 35 - Keith Richardson vs Justin Scoggins - To Win the Bout,Keith Richardson,0.02360000000000001,0.4082,0.3846
 2023-01-27 20:40:31.640146,BKFC 35 - Tony Soto vs Wayna Reid - To Win the Bout,Wayna Reid,0.022199999999999998,0.2222,0.2
-2023-01-27 14:40:32.284371,Round Match-Ups - 3rd Round Match-Up - A. Rai v K. Streelman - 3rd Round Match-Up ,Aaron Rai,0.02169999999999994,0.5455,0.5238
-2023-01-27 14:40:32.337059,Round Match-Ups - 3rd Round Match-Up - G. Higgo v L. Griffin - 3rd Round Match-Up,Lanto Griffin,0.02169999999999994,0.5455,0.5238
 2023-01-27 20:40:31.658117,BKFC 35 - Andy Nguyen vs Veronika Dmitriyeva - To Win the Bout,Andy Nguyen,0.020500000000000074,0.8667,0.8462
 2023-01-27 18:40:28.034894,BKFC 35 - Tony Soto vs Wayna Reid - To Win the Bout,Tony Soto,0.020500000000000074,0.8667,0.8462
 2023-01-27 17:40:31.893355,BKFC 35 - Marcus Brimage vs Trevor Loken - To Win the Bout,Marcus Brimage,0.017299999999999982,0.4255,0.4082
-2023-01-28 02:40:29.496252,Serie A - Serie A 2022/23 - Outright,Virtus Bologna,0.015400000000000025,0.4,0.3846
 2023-01-28 01:40:26.640159,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Tommy Fury,0.015400000000000025,0.4,0.3846
+2023-01-28 02:40:29.496252,Serie A - Serie A 2022/23 - Outright,Virtus Bologna,0.015400000000000025,0.4,0.3846
 2023-01-27 22:40:32.657685,BKFC 35 - Tomar Washington vs Willie Sears - To Win the Bout,Tomar Washington,0.014000000000000012,0.9231,0.9091
 2023-01-27 23:40:28.472029,Boxing Lines - Umar Khan vs Sandeep Singh Bhatti - To Win the Bout,Sandeep Singh Bhatti,0.013999999999999999,0.0909,0.0769
 2023-01-27 20:40:31.676144,BKFC 35 - Yosdenis Cedeno vs Gorjan Slaveski - To Win the Bout,Gorjan Slaveski,0.0131,0.7778,0.7647
@@ -34,11 +31,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-27 20:40:31.646145,BKFC 35 - Jordan Weeks vs Murat Kazgan - To Win the Bout,Murat Kazgan,0.012800000000000034,0.7143,0.7015
 2023-01-27 17:40:32.724076,Round Match-Ups - 3rd Round Match-Up - G. Higgo v L. Griffin - 3rd Round Match-Up,Garrick Higgo,0.012199999999999989,0.5122,0.5
 2023-01-27 17:40:32.791437,Round Match-Ups - 3rd Round Match-Up - T. Montgomery vs S. Theegala - 3rd Round Match-Up,Sahith Theegala,0.0116,0.4878,0.4762
-2023-01-27 17:40:32.785575,Round Match-Ups - 3rd Round Match-Up - S. Stevens vs T. Gayo - 3rd Round Match-Up,Sam Stevens,0.01100000000000001,0.5348,0.5238
 2023-01-27 15:40:30.775614,Round Match-Ups - 3rd Round Match-Up - D. Burmester vs E. Grillo - 3rd Round Match-Up,Dean Burmester,0.01100000000000001,0.5348,0.5238
 2023-01-27 15:40:30.785331,Round Match-Ups - 3rd Round Match-Up - M. McNealy v S. W. Kim - 3rd Round Match-Up,Maverick McNealy,0.01100000000000001,0.5348,0.5238
-2023-01-27 16:40:30.488761,Round Match-Ups - 3rd Round Match-Up - A. Smalley v R. Fowler - 3rd Round Match-Up,Alex Smalley,0.01100000000000001,0.5348,0.5238
 2023-01-27 15:40:30.831220,Round Match-Ups - 3rd Round Match-Up - C. Morikawa vs T. Finau - 3rd Round Match-Up,Collin Morikawa,0.01100000000000001,0.5348,0.5238
+2023-01-27 17:40:32.785575,Round Match-Ups - 3rd Round Match-Up - S. Stevens vs T. Gayo - 3rd Round Match-Up,Sam Stevens,0.01100000000000001,0.5348,0.5238
+2023-01-27 16:40:30.488761,Round Match-Ups - 3rd Round Match-Up - A. Smalley v R. Fowler - 3rd Round Match-Up,Alex Smalley,0.01100000000000001,0.5348,0.5238
 2023-01-27 21:40:26.875350,BKFC 35 - Tony Soto vs Wayna Reid - To Win the Bout,Tony Soto,0.01090000000000002,0.8571,0.8462
 2023-01-27 22:40:32.598454,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Jake Paul,0.010700000000000043,0.6774,0.6667
 2023-01-27 15:40:30.765896,Round Match-Ups - 3rd Round Match-Up - J. Rose vs W. Clark - 3rd Round Match-Up,Justin Rose,0.010699999999999932,0.5455,0.5348
@@ -51,22 +48,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-27 21:40:26.864793,BKFC 35 - Marcus Brimage vs Trevor Loken - To Win the Bout,Marcus Brimage,-0.010599999999999998,0.4545,0.4651
 2023-01-27 17:40:32.724076,Round Match-Ups - 3rd Round Match-Up - G. Higgo v L. Griffin - 3rd Round Match-Up,Lanto Griffin,-0.010699999999999932,0.5348,0.5455
 2023-01-28 01:40:26.640159,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Jake Paul,-0.010700000000000043,0.6667,0.6774
-2023-01-27 16:40:30.205625,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Memphis Grizzlies,-0.011099999999999999,0.8889,0.9
 2023-01-28 02:40:29.475167,NBL - NBL 2022/23 - Outright,Perth Wildcats,-0.011099999999999999,0.1,0.1111
+2023-01-27 16:40:30.205625,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Memphis Grizzlies,-0.011099999999999999,0.8889,0.9
 2023-01-28 02:40:29.475167,NBL - NBL 2022/23 - Outright,Melbourne United,-0.011199999999999995,0.0476,0.0588
 2023-01-27 16:40:30.468999,Round Match-Ups - 3rd Round Match-Up - X. Schauffele vs S. Im - 3rd Round Match-Up,Sungjae Im,-0.0116,0.4762,0.4878
 2023-01-27 15:40:30.831220,Round Match-Ups - 3rd Round Match-Up - C. Morikawa vs T. Finau - 3rd Round Match-Up,Tony Finau,-0.011600000000000055,0.5122,0.5238
-2023-01-27 17:40:32.785575,Round Match-Ups - 3rd Round Match-Up - S. Stevens vs T. Gayo - 3rd Round Match-Up,Tano Goya,-0.011600000000000055,0.5122,0.5238
+2023-01-27 15:40:30.775614,Round Match-Ups - 3rd Round Match-Up - D. Burmester vs E. Grillo - 3rd Round Match-Up,Emiliano Grillo,-0.011600000000000055,0.5122,0.5238
 2023-01-27 16:40:30.488761,Round Match-Ups - 3rd Round Match-Up - A. Smalley v R. Fowler - 3rd Round Match-Up,Rickie Fowler,-0.011600000000000055,0.5122,0.5238
 2023-01-27 15:40:30.785331,Round Match-Ups - 3rd Round Match-Up - M. McNealy v S. W. Kim - 3rd Round Match-Up,Si Woo Kim,-0.011600000000000055,0.5122,0.5238
-2023-01-27 15:40:30.775614,Round Match-Ups - 3rd Round Match-Up - D. Burmester vs E. Grillo - 3rd Round Match-Up,Emiliano Grillo,-0.011600000000000055,0.5122,0.5238
+2023-01-27 17:40:32.785575,Round Match-Ups - 3rd Round Match-Up - S. Stevens vs T. Gayo - 3rd Round Match-Up,Tano Goya,-0.011600000000000055,0.5122,0.5238
 2023-01-27 22:40:32.615922,BKFC 35 - James Brown vs Stevo Morris - To Win the Bout,James Brown,-0.011699999999999933,0.7778,0.7895
 2023-01-27 21:40:26.875350,BKFC 35 - Tony Soto vs Wayna Reid - To Win the Bout,Wayna Reid,-0.011700000000000016,0.2105,0.2222
-2023-01-27 15:40:30.765896,Round Match-Ups - 3rd Round Match-Up - J. Rose vs W. Clark - 3rd Round Match-Up,Wyndham Clark,-0.012199999999999989,0.5,0.5122
 2023-01-27 15:40:30.761061,Round Match-Ups - 3rd Round Match-Up - G. Woodland v T. Mullinax - 3rd Round Match-Up ,Trey Mullinax,-0.012199999999999989,0.4878,0.5
+2023-01-27 15:40:30.765896,Round Match-Ups - 3rd Round Match-Up - J. Rose vs W. Clark - 3rd Round Match-Up,Wyndham Clark,-0.012199999999999989,0.5,0.5122
 2023-01-27 17:40:32.741934,Round Match-Ups - 3rd Round Match-Up - B. Griffin vs S.H. Kim - 3rd Round Match-Up,S.H. Kim,-0.012199999999999989,0.4878,0.5
 2023-01-27 20:40:31.670083,BKFC 35 - Tomar Washington vs Willie Sears - To Win the Bout,Willie Sears,-0.012899999999999995,0.1538,0.1667
-2023-01-27 14:40:33.482512,NBA Awards - 2022/23 NBA Awards - 2022/23 The Rookie of the Year,Paolo Banchero (ORL),-0.014000000000000012,0.9091,0.9231
 2023-01-27 16:40:30.951343,NFL Specials - Where will Aaron Rodgers Play Game 1 of the 2023 NFL Regular Season - Proposition,Tennessee Titans,-0.014399999999999996,0.0625,0.0769
 2023-01-27 16:40:30.951343,NFL Specials - Where will Aaron Rodgers Play Game 1 of the 2023 NFL Regular Season - Proposition,Indianapolis Colts,-0.014899999999999997,0.0476,0.0625
 2023-01-27 17:40:32.639442,Farmers Insurance Open - 2/3 Balls - 3rd Round 3 Balls - J. Thomas / W. Clark / A. Rai - 3rd Round 3 Balls,Aaron Rai,-0.015400000000000025,0.2703,0.2857
@@ -83,12 +79,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-28 00:40:32.395747,Boxing Lines - Artur Beterbiev vs Anthony Yarde - To Win the Bout,Artur Beterbiev,-0.020199999999999996,0.8889,0.9091
 2023-01-27 22:40:32.657685,BKFC 35 - Tomar Washington vs Willie Sears - To Win the Bout,Willie Sears,-0.02049999999999999,0.1333,0.1538
 2023-01-27 20:40:31.640146,BKFC 35 - Tony Soto vs Wayna Reid - To Win the Bout,Tony Soto,-0.020500000000000074,0.8462,0.8667
-2023-01-27 17:40:32.639442,Farmers Insurance Open - 2/3 Balls - 3rd Round 3 Balls - J. Thomas / W. Clark / A. Rai - 3rd Round 3 Balls,Wyndham Clark,-0.022199999999999998,0.3226,0.3448
-2023-01-27 18:40:28.034894,BKFC 35 - Tony Soto vs Wayna Reid - To Win the Bout,Wayna Reid,-0.022199999999999998,0.2,0.2222
 2023-01-27 18:40:28.057753,BKFC 35 - Keith Richardson vs Justin Scoggins - To Win the Bout,Justin Scoggins,-0.022199999999999998,0.6552,0.6774
 2023-01-27 20:40:31.658117,BKFC 35 - Andy Nguyen vs Veronika Dmitriyeva - To Win the Bout,Veronika Dmitriyeva,-0.022199999999999998,0.2,0.2222
-2023-01-27 14:40:32.337059,Round Match-Ups - 3rd Round Match-Up - G. Higgo v L. Griffin - 3rd Round Match-Up,Garrick Higgo,-0.023800000000000043,0.5,0.5238
-2023-01-27 14:40:32.284371,Round Match-Ups - 3rd Round Match-Up - A. Rai v K. Streelman - 3rd Round Match-Up ,Kevin Streelman,-0.023800000000000043,0.5,0.5238
+2023-01-27 18:40:28.034894,BKFC 35 - Tony Soto vs Wayna Reid - To Win the Bout,Wayna Reid,-0.022199999999999998,0.2,0.2222
+2023-01-27 17:40:32.639442,Farmers Insurance Open - 2/3 Balls - 3rd Round 3 Balls - J. Thomas / W. Clark / A. Rai - 3rd Round 3 Balls,Wyndham Clark,-0.022199999999999998,0.3226,0.3448
 2023-01-27 17:40:31.882095,BKFC 35 - Jakobi Lowery vs Robert Armas - To Win the Bout,Robert Armas,-0.026499999999999968,0.6226,0.6491
 2023-01-27 16:40:30.951343,NFL Specials - Where will Aaron Rodgers Play Game 1 of the 2023 NFL Regular Season - Proposition,San Francisco 49ers,-0.027999999999999997,0.1538,0.1818
 2023-01-27 18:40:28.023494,BKFC 35 - Marcus Brimage vs Trevor Loken - To Win the Bout,Trevor Loken,-0.02859999999999996,0.6078,0.6364
