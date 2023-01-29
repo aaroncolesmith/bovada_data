@@ -9,11 +9,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-29 08:40:27.120661,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Clemson,0.07789999999999997,0.3636,0.2857
 2023-01-29 08:40:27.120661,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Virginia,0.07619999999999993,0.6,0.5238
 2023-01-29 08:40:27.126716,College Basketball - American Athletic Regular Season Conference Winner - AAC Regular Season Winner,Memphis U,0.07590000000000001,0.1053,0.0294
-2023-01-29 06:40:27.205653,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Los Angeles Clippers,0.05550000000000002,0.2222,0.1667
 2023-01-29 11:40:29.728978,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Bam Adebayo (MIA),0.04909999999999999,0.1667,0.1176
 2023-01-29 08:40:27.145042,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,USC,0.0474,0.0909,0.0435
 2023-01-29 09:40:30.319780,Eredivisie - Dutch Eredivisie 2022/23 - Winner,Feyenoord,0.045499999999999985,0.5,0.4545
-2023-01-29 06:40:27.194580,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Milwaukee Bucks,0.044500000000000095,0.7778,0.7333
 2023-01-29 16:40:29.423399,NFL Weekly Specials - Conference Finals - Most Rushing Yards - Conference Finals - Most Rushing Yards,Elijah Mitchell SF,0.0429,0.0625,0.0196
 2023-01-29 16:40:29.423399,NFL Weekly Specials - Conference Finals - Most Rushing Yards - Conference Finals - Most Rushing Yards,Isiah Pacheco KC,0.03889999999999999,0.1818,0.1429
 2023-01-29 11:40:29.728978,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.037599999999999995,0.1429,0.1053
@@ -46,9 +44,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-29 08:40:27.126716,College Basketball - American Athletic Regular Season Conference Winner - AAC Regular Season Winner,Central Florida,-0.012100000000000001,0.0123,0.0244
 2023-01-29 08:40:27.126716,College Basketball - American Athletic Regular Season Conference Winner - AAC Regular Season Winner,Tulane,-0.012100000000000001,0.0123,0.0244
 2023-01-29 08:40:27.132913,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,George Mason,-0.012800000000000002,0.0116,0.0244
-2023-01-29 11:40:29.723506,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Jacque Vaughn,-0.012899999999999995,0.1538,0.1667
-2023-01-29 06:40:26.078165,Boxing Lines - Richardson Hitchins vs John Bauza - To Win the Bout,John Bauza,-0.012899999999999995,0.1538,0.1667
 2023-01-29 07:40:29.846262,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Clippers,-0.012899999999999995,0.1538,0.1667
+2023-01-29 11:40:29.723506,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Jacque Vaughn,-0.012899999999999995,0.1538,0.1667
 2023-01-29 08:40:27.120661,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Wake Forest,-0.012999999999999998,0.0164,0.0294
 2023-01-29 07:40:29.828732,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Dallas Mavericks,-0.014099999999999998,0.0294,0.0435
 2023-01-29 16:40:29.423399,NFL Weekly Specials - Conference Finals - Most Rushing Yards - Conference Finals - Most Rushing Yards,Jalen Hurts PH,-0.014399999999999996,0.0625,0.0769
@@ -58,10 +55,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-29 07:40:29.839741,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Brooklyn Nets,-0.016699999999999993,0.25,0.2667
 2023-01-29 08:40:27.126716,College Basketball - American Athletic Regular Season Conference Winner - AAC Regular Season Winner,Cincinnati,-0.017099999999999997,0.0123,0.0294
 2023-01-29 07:40:29.839741,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Cleveland Cavaliers,-0.01759999999999999,0.1,0.1176
-2023-01-29 07:40:29.846262,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Memphis Grizzlies,-0.01820000000000002,0.1818,0.2
 2023-01-29 07:40:29.846262,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Golden State Warriors,-0.01820000000000002,0.1818,0.2
+2023-01-29 07:40:29.846262,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Memphis Grizzlies,-0.01820000000000002,0.1818,0.2
 2023-01-29 07:40:29.828732,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Memphis Grizzlies,-0.01830000000000001,0.0769,0.0952
-2023-01-29 06:40:27.205653,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Golden State Warriors,-0.019000000000000017,0.2667,0.2857
 2023-01-29 08:40:27.120661,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Pittsburgh,-0.0203,0.0385,0.0588
 2023-01-29 07:40:29.839741,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Milwaukee Bucks,-0.022199999999999998,0.2,0.2222
 2023-01-29 08:40:27.138967,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Connecticut,-0.022900000000000004,0.0116,0.0345
@@ -75,13 +71,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-29 08:40:27.132913,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Virginia Commonwealth,-0.03640000000000004,0.3636,0.4
 2023-01-29 11:40:29.712709,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Luka Doncic (DAL),-0.03889999999999999,0.1429,0.1818
 2023-01-29 11:40:29.718292,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Russell Westbrook (LAL),-0.045499999999999985,0.5,0.5455
-2023-01-29 06:40:27.194580,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Cleveland Cavaliers,-0.047599999999999976,0.2857,0.3333
 2023-01-29 08:40:27.126716,College Basketball - American Athletic Regular Season Conference Winner - AAC Regular Season Winner,Houston,-0.04909999999999992,0.9231,0.9722
 2023-01-29 09:40:30.319780,Eredivisie - Dutch Eredivisie 2022/23 - Winner,Ajax,-0.0494,0.3077,0.3571
-2023-01-29 06:40:27.205653,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Sacramento Kings,-0.053100000000000036,0.3636,0.4167
 2023-01-29 07:40:29.878960,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Atlanta Hawks,-0.055900000000000005,0.2667,0.3226
 2023-01-29 08:40:27.120661,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Miami (FL),-0.0585,0.0526,0.1111
 2023-01-29 11:40:29.718292,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Collin Sexton (UTA),-0.05879999999999999,0.0079,0.0667
+2023-01-29 18:40:42.744729,NFL Specials - Where will Aaron Rodgers Play Game 1 of the 2023 NFL Regular Season - Proposition,Green Bay Packers,-0.06519999999999992,0.5348,0.6
 2023-01-29 11:40:29.712709,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Nikola Jokic (DEN),-0.06520000000000004,0.5,0.5652
 2023-01-29 16:40:29.423399,NFL Weekly Specials - Conference Finals - Most Rushing Yards - Conference Finals - Most Rushing Yards,Kenneth Gainwell PHI,-0.06649999999999999,0.0244,0.0909
 2023-01-29 08:40:27.120661,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Duke,-0.0882,0.0294,0.1176
