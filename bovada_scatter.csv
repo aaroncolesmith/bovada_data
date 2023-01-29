@@ -32,24 +32,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-29 11:40:29.712709,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,LeBron James (LAL),0.0145,0.0244,0.0099
 2023-01-29 05:40:30.268414,Boxing Lines - Richardson Hitchins vs John Bauza - To Win the Bout,John Bauza,0.012899999999999995,0.1667,0.1538
 2023-01-29 07:40:29.885040,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Memphis Grizzlies,0.011099999999999999,0.9,0.8889
-2023-01-29 02:40:29.200265,Round Match-Ups - 3rd Round Match-Up - C. Syme v M. Kinhult - 3rd Round Match-Up,Connor Syme,0.01100000000000001,0.5348,0.5238
-2023-01-29 02:40:29.143059,Round Match-Ups - 3rd Round Match-Up - P. Larrazabal v R. Langasque - 3rd Round Match-Up,Romain Langasque,0.01100000000000001,0.5348,0.5238
 2023-01-29 07:40:29.231267,Dubai Desert Classic - 2/3 Balls - 3rd Round 3 Balls - T. Pieters / R. Bland / M. Thorbjornsen - 3rd Round 3 Balls ,Thomas Pieters,-0.010099999999999998,0.4444,0.4545
 2023-01-29 08:40:26.985780,NFL Weekly Specials - Conference Finals - Highest Scoring Game - Conference Finals - Highest Scoring Game,San Francisco 49ers / Philadelphia Eagles,-0.010599999999999998,0.4545,0.4651
-2023-01-29 02:40:29.205888,Round Match-Ups - 3rd Round Match-Up - T. Pieters v A. Arnaus - 3rd Round Match-Up,Adri Arnaus,-0.010599999999999998,0.4545,0.4651
 2023-01-29 07:40:29.839741,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Toronto Raptors,-0.010600000000000002,0.0217,0.0323
 2023-01-29 07:40:29.231267,Dubai Desert Classic - 2/3 Balls - 3rd Round 3 Balls - T. Pieters / R. Bland / M. Thorbjornsen - 3rd Round 3 Balls ,Richard Bland,-0.010699999999999987,0.3226,0.3333
 2023-01-29 07:40:29.846262,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Phoenix Suns,-0.011099999999999999,0.1,0.1111
 2023-01-29 04:40:29.096331,NFL Specials - Where will Aaron Rodgers Play Game 1 of the 2023 NFL Regular Season - Proposition,Seattle Seahawks,-0.011199999999999995,0.0476,0.0588
 2023-01-29 07:40:29.213560,Dubai Desert Classic - 2/3 Balls - 3rd Round 3 Balls - R. McIlroy / B. Wiesberger / D. Bradbury - 3rd Round 3 Balls ,Rory McIlroy,-0.011499999999999955,0.6552,0.6667
-2023-01-29 02:40:29.200265,Round Match-Ups - 3rd Round Match-Up - C. Syme v M. Kinhult - 3rd Round Match-Up,Marcus Kinhult,-0.011600000000000055,0.5122,0.5238
-2023-01-29 02:40:29.143059,Round Match-Ups - 3rd Round Match-Up - P. Larrazabal v R. Langasque - 3rd Round Match-Up,Pablo Larrazabal,-0.011600000000000055,0.5122,0.5238
 2023-01-29 08:40:27.126716,College Basketball - American Athletic Regular Season Conference Winner - AAC Regular Season Winner,Central Florida,-0.012100000000000001,0.0123,0.0244
 2023-01-29 08:40:27.126716,College Basketball - American Athletic Regular Season Conference Winner - AAC Regular Season Winner,Tulane,-0.012100000000000001,0.0123,0.0244
 2023-01-29 08:40:27.132913,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,George Mason,-0.012800000000000002,0.0116,0.0244
-2023-01-29 06:40:26.078165,Boxing Lines - Richardson Hitchins vs John Bauza - To Win the Bout,John Bauza,-0.012899999999999995,0.1538,0.1667
 2023-01-29 11:40:29.723506,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Jacque Vaughn,-0.012899999999999995,0.1538,0.1667
 2023-01-29 07:40:29.846262,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Clippers,-0.012899999999999995,0.1538,0.1667
+2023-01-29 06:40:26.078165,Boxing Lines - Richardson Hitchins vs John Bauza - To Win the Bout,John Bauza,-0.012899999999999995,0.1538,0.1667
 2023-01-29 08:40:27.120661,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Wake Forest,-0.012999999999999998,0.0164,0.0294
 2023-01-29 07:40:29.828732,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Dallas Mavericks,-0.014099999999999998,0.0294,0.0435
 2023-01-29 11:40:29.712709,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Jayson Tatum (BOS),-0.01440000000000001,0.0909,0.1053
@@ -58,8 +53,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-29 07:40:29.839741,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Brooklyn Nets,-0.016699999999999993,0.25,0.2667
 2023-01-29 08:40:27.126716,College Basketball - American Athletic Regular Season Conference Winner - AAC Regular Season Winner,Cincinnati,-0.017099999999999997,0.0123,0.0294
 2023-01-29 07:40:29.839741,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Cleveland Cavaliers,-0.01759999999999999,0.1,0.1176
-2023-01-29 07:40:29.846262,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Memphis Grizzlies,-0.01820000000000002,0.1818,0.2
 2023-01-29 07:40:29.846262,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Golden State Warriors,-0.01820000000000002,0.1818,0.2
+2023-01-29 07:40:29.846262,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Memphis Grizzlies,-0.01820000000000002,0.1818,0.2
 2023-01-29 07:40:29.828732,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Memphis Grizzlies,-0.01830000000000001,0.0769,0.0952
 2023-01-29 06:40:27.205653,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Golden State Warriors,-0.019000000000000017,0.2667,0.2857
 2023-01-29 08:40:27.120661,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Pittsburgh,-0.0203,0.0385,0.0588
