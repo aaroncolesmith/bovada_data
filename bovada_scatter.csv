@@ -18,11 +18,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-29 23:40:37.183591,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Livingston,0.027800000000000047,0.7778,0.75
 2023-01-29 16:40:29.423399,NFL Weekly Specials - Conference Finals - Most Rushing Yards - Conference Finals - Most Rushing Yards,Joe Mixon CIN,0.02560000000000001,0.3333,0.3077
 2023-01-29 18:40:42.744729,NFL Specials - Where will Aaron Rodgers Play Game 1 of the 2023 NFL Regular Season - Proposition,Tennessee Titans,0.024299999999999995,0.0769,0.0526
+2023-01-30 03:40:28.266087,Euro Cup - Euro Cup 2022/23 - Outright,Hapoel Tel Aviv,0.0242,0.0909,0.0667
 2023-01-29 23:40:37.179795,Premiership - Scotland Premiership 2022/23 - To Finish Bottom,Motherwell,0.0242,0.0909,0.0667
 2023-01-29 22:40:34.882565,FA Cup - FA Cup 2022/2023 - Winner,Manchester United,0.022199999999999998,0.2222,0.2
 2023-01-29 22:40:34.305417,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Philadelphia Eagles,0.02169999999999994,0.5455,0.5238
 2023-01-29 23:40:37.028562,La Liga - Spain La Liga 2022/23 - Winner,FC Barcelona,0.018999999999999906,0.7333,0.7143
+2023-01-30 03:40:28.272967,FIBA Champions League - FIBA Champions League 2022/23 - Outright,JDA Dijon,0.018099999999999998,0.0769,0.0588
 2023-01-29 23:40:37.183591,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Hearts,0.01759999999999995,0.998,0.9804
+2023-01-30 03:40:28.272967,FIBA Champions League - FIBA Champions League 2022/23 - Outright,Galatasaray SK,0.016600000000000004,0.0833,0.0667
+2023-01-30 03:40:28.272967,FIBA Champions League - FIBA Champions League 2022/23 - Outright,Manresa,0.016600000000000004,0.0833,0.0667
+2023-01-30 03:40:28.266087,Euro Cup - Euro Cup 2022/23 - Outright,Prometey,0.016600000000000004,0.0833,0.0667
+2023-01-30 03:40:28.266087,Euro Cup - Euro Cup 2022/23 - Outright,Paris,0.016600000000000004,0.0833,0.0667
 2023-01-29 22:40:34.882565,FA Cup - FA Cup 2022/2023 - Winner,Manchester City,0.015400000000000025,0.4,0.3846
 2023-01-29 16:40:29.423399,NFL Weekly Specials - Conference Finals - Most Rushing Yards - Conference Finals - Most Rushing Yards,Jerick McKinnon KC,0.012100000000000001,0.0244,0.0123
 2023-01-30 01:40:37.914050,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Milwaukee Bucks,0.011699999999999933,0.7895,0.7778
@@ -35,9 +41,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-29 19:40:35.463347,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Xavier,0.010600000000000002,0.0323,0.0217
 2023-01-29 19:40:35.463347,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Tennessee,0.0102,0.0769,0.0667
 2023-01-30 00:40:33.906456,Round Match-Ups - Final Round Match-Up - R. MacIntyre vs M.W. Lee - Final Round Match-Up,Robert MacIntyre,0.010099999999999998,0.5556,0.5455
+2023-01-30 03:40:28.272967,FIBA Champions League - FIBA Champions League 2022/23 - Outright,Hapoel Jerusalem,-0.0102,0.0667,0.0769
+2023-01-30 03:40:28.266087,Euro Cup - Euro Cup 2022/23 - Outright,Türk Telekom,-0.011099999999999999,0.1,0.1111
 2023-01-30 00:40:33.906456,Round Match-Ups - Final Round Match-Up - R. MacIntyre vs M.W. Lee - Final Round Match-Up,Min Woo Lee,-0.011600000000000055,0.5122,0.5238
 2023-01-29 16:40:29.423399,NFL Weekly Specials - Conference Finals - Most Rushing Yards - Conference Finals - Most Rushing Yards,Jalen Hurts PH,-0.014399999999999996,0.0625,0.0769
 2023-01-29 22:40:34.868992,Serie A - Italy Serie A 2022/23 - Winner,Juventus,-0.014499999999999999,0.0149,0.0294
+2023-01-30 03:40:28.272967,FIBA Champions League - FIBA Champions League 2022/23 - Outright,Lietuvos Rytas,-0.015300000000000001,0.0435,0.0588
 2023-01-29 18:40:42.744729,NFL Specials - Where will Aaron Rodgers Play Game 1 of the 2023 NFL Regular Season - Proposition,San Francisco 49ers,-0.015700000000000006,0.1176,0.1333
 2023-01-29 23:40:37.028562,La Liga - Spain La Liga 2022/23 - Winner,Real Madrid,-0.017600000000000005,0.3333,0.3509
 2023-01-29 18:40:42.744729,NFL Specials - Where will Aaron Rodgers Play Game 1 of the 2023 NFL Regular Season - Proposition,Las Vegas Raiders,-0.0179,0.125,0.1429
@@ -48,8 +57,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-01-30 02:40:30.463692,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Cincinnati Bengals,-0.03340000000000001,0.2105,0.2439
 2023-01-30 01:40:38.461134,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Cincinnati Bengals,-0.033899999999999986,0.2439,0.2778
 2023-01-29 22:40:34.305417,Superbowl - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,San Francisco 49ers,-0.036899999999999995,0.0066,0.0435
-2023-01-29 23:40:37.183591,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,St. Johnstone,-0.04169999999999999,0.125,0.1667
 2023-01-29 23:40:37.183591,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Motherwell,-0.04169999999999999,0.125,0.1667
+2023-01-29 23:40:37.183591,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,St. Johnstone,-0.04169999999999999,0.125,0.1667
 2023-01-29 18:40:42.744729,NFL Specials - Where will Aaron Rodgers Play Game 1 of the 2023 NFL Regular Season - Proposition,Green Bay Packers,-0.06519999999999992,0.5348,0.6
 2023-01-29 16:40:29.423399,NFL Weekly Specials - Conference Finals - Most Rushing Yards - Conference Finals - Most Rushing Yards,Kenneth Gainwell PHI,-0.06649999999999999,0.0244,0.0909
 2023-01-29 23:40:37.183591,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Aberdeen,-0.14279999999999993,0.7143,0.8571
