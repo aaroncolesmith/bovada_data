@@ -4,7 +4,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-02 10:40:34.816085,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Motherwell,0.14150000000000007,0.9877,0.8462
 2023-02-02 09:40:29.010647,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Marseille,0.13640000000000002,0.5,0.3636
 2023-02-02 07:40:37.389677,Super Bowl 57 Specials - Super Bowl Specials  - How Many Players will have a passing attempt?,Under 2.5,0.12180000000000002,0.6774,0.5556
-2023-02-01 23:40:33.708445,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Saint Louis,0.11109999999999998,0.3333,0.2222
 2023-02-02 00:41:00.600111,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,Fiorentina,0.1076,0.2326,0.125
 2023-02-02 10:40:34.613316,La Liga - Spain La Liga 2022/23 - To Be Relegated,Getafe,0.09830000000000005,0.5238,0.4255
 2023-02-02 10:40:34.812284,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,St. Mirren,0.09689999999999999,0.7333,0.6364
@@ -17,9 +16,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-02 10:40:34.812284,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,St. Johnstone,0.07500000000000001,0.2,0.125
 2023-02-02 09:40:29.023606,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Marseille,0.07240000000000002,0.7647,0.6923
 2023-02-02 10:40:34.617921,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Atlético Madrid,0.07210000000000005,0.6875,0.6154
-2023-02-01 23:40:36.094434,La Liga - Spain La Liga 2022/23 - Winner,FC Barcelona,0.06670000000000009,0.8,0.7333
-2023-02-02 09:40:27.811435,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - First Song,Diamonds,0.06670000000000004,0.4,0.3333
 2023-02-02 10:40:34.604721,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Atlético Madrid,0.06670000000000004,0.4,0.3333
+2023-02-02 09:40:27.811435,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - First Song,Diamonds,0.06670000000000004,0.4,0.3333
 2023-02-02 09:40:27.017425,95th Academy Awards - Best Costume Design - Best Costume Design,Shirley Kurata - Everything Everywhere All At Once,0.066,0.1429,0.0769
 2023-02-02 10:40:34.613316,La Liga - Spain La Liga 2022/23 - To Be Relegated,Espanyol,0.05679999999999999,0.1818,0.125
 2023-02-02 10:40:34.858838,League One - England - League One 2022/23 - To Be Promoted,Bolton Wanderers,0.04999999999999999,0.25,0.2
@@ -27,8 +25,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-02 09:40:27.074817,95th Academy Awards - Best Production Design - Best Production Design,All Quiet On The Western Front,0.04169999999999999,0.1667,0.125
 2023-02-02 10:40:34.608849,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Robert Lewandowski (Barcelona),0.04169999999999996,0.875,0.8333
 2023-02-02 09:40:29.023606,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Rennes,0.04099999999999998,0.3077,0.2667
-2023-02-02 10:40:34.808380,Premiership - Scotland Premiership 2022/23 - To Finish Bottom,Dundee United,0.04040000000000002,0.2222,0.1818
 2023-02-02 11:40:32.599924,FIBA Champions League - FIBA Champions League 2022/23 - Outright,Unicaja Málaga,0.04040000000000002,0.2222,0.1818
+2023-02-02 10:40:34.808380,Premiership - Scotland Premiership 2022/23 - To Finish Bottom,Dundee United,0.04040000000000002,0.2222,0.1818
 2023-02-02 10:40:34.812284,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Livingston,0.04039999999999999,0.8182,0.7778
 2023-02-02 02:41:10.395514,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Jake Paul,0.03979999999999995,0.6667,0.6269
 2023-02-02 10:40:34.604721,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Real Sociedad,0.039600000000000024,0.4651,0.4255
@@ -36,17 +34,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-02 10:40:34.998253,National League - England National League 2022/23 - Outright,Notts County,0.03640000000000004,0.4,0.3636
 2023-02-02 10:40:34.876096,League One - England - League One 2022/23 - Top 6 Finish,Barnsley,0.03639999999999999,0.6364,0.6
 2023-02-02 09:40:27.777274,Super Bowl 57 Specials - Super Bowl Specials  - First TV Advertisement - Doritos vs M&Ms,Doritos,0.03600000000000003,0.5238,0.4878
+2023-02-02 08:40:38.462074,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - First Song,Don't Stop The Music,0.03570000000000001,0.2857,0.25
 2023-02-02 11:40:32.599924,FIBA Champions League - FIBA Champions League 2022/23 - Outright,Tenerife,0.03570000000000001,0.2857,0.25
 2023-02-02 08:40:38.457480,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - Color Of Rihanna's Hair,Bright Red,0.03570000000000001,0.2857,0.25
-2023-02-02 08:40:38.462074,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - First Song,Don't Stop The Music,0.03570000000000001,0.2857,0.25
-2023-02-02 09:40:29.014559,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Lionel Messi,0.03420000000000001,0.1111,0.0769
 2023-02-02 09:40:27.091456,95th Academy Awards - Best Visual Effects - Best Visual Effects,Avatar: The Way Of Water,0.03420000000000001,0.9231,0.8889
+2023-02-02 09:40:29.014559,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Lionel Messi,0.03420000000000001,0.1111,0.0769
 2023-02-02 10:40:34.613316,La Liga - Spain La Liga 2022/23 - To Be Relegated,Girona,0.034100000000000005,0.125,0.0909
 2023-02-02 09:40:29.044051,EFL Cup - EFL Cup 2022/23 - Winner,Newcastle United,0.033299999999999996,0.4878,0.4545
 2023-02-02 10:40:34.613316,La Liga - Spain La Liga 2022/23 - To Be Relegated,Mallorca,0.033100000000000004,0.0625,0.0294
 2023-02-02 09:40:27.033876,95th Academy Awards - Best Film Editing - Best Film Editing,Everything Everywhere All At Once,0.03179999999999994,0.5556,0.5238
-2023-02-02 10:40:34.858838,League One - England - League One 2022/23 - To Be Promoted,Derby County,0.030299999999999994,0.3636,0.3333
 2023-02-02 08:40:39.796128,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Jaren Jackson Jr. (MEM),0.030299999999999994,0.6667,0.6364
+2023-02-02 10:40:34.858838,League One - England - League One 2022/23 - To Be Promoted,Derby County,0.030299999999999994,0.3636,0.3333
 2023-02-02 10:40:34.792719,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,Benfica,0.029900000000000038,0.8,0.7701
 2023-02-02 09:40:27.781459,Super Bowl 57 Specials - Super Bowl Specials  - First TV Advertisement - Doritos vs Pringles,Doritos,0.029899999999999927,0.7222,0.6923
 2023-02-02 07:40:37.870008,NFL Specials - Tom Brady Retirement Announcement - Will Tom Brady really retire this time?,No,0.028799999999999992,0.1538,0.125
@@ -56,14 +54,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-02 00:41:00.600111,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,Inter Milan,0.027700000000000002,0.4444,0.4167
 2023-02-02 09:40:26.995600,95th Academy Awards - Best Actress - Best Actress,Cate Blanchett - TÁR,0.025600000000000067,0.6923,0.6667
 2023-02-02 09:40:29.010647,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Rennes,0.024999999999999994,0.125,0.1
-2023-02-02 06:40:30.818179,NBA Specials - LeBron James Specials - When will the record be broken?,2/4/23 at Pelicans,0.024,0.0625,0.0385
 2023-02-02 09:40:29.006808,Ligue 1 - France Ligue 1 2022/23 - Winner,Marseille,0.024,0.0625,0.0385
+2023-02-02 06:40:30.818179,NBA Specials - LeBron James Specials - When will the record be broken?,2/4/23 at Pelicans,0.024,0.0625,0.0385
 2023-02-02 10:40:34.871981,League One - England - League One 2022/23 - Top 2 Finish,Derby County,0.023799999999999988,0.1667,0.1429
 2023-02-02 10:40:34.816085,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,St. Johnstone,0.023799999999999932,0.8571,0.8333
 2023-02-02 11:40:32.613593,Japan B League - Japan League B1 2022/23 - Outright,Yokohama B-Corsairs,0.0232,0.0667,0.0435
+2023-02-02 12:40:34.622300,AT&T Pebble Beach Pro-Am - 2/3 Balls - 1st Round 2-Balls - K. Streelman v W. Simpson - 1st Round 2-Balls,Webb Simpson,0.022600000000000064,0.5348,0.5122
 2023-02-02 01:40:39.855415,AT&T Pebble Beach Pro-Am - 2/3 Balls - 1st Round 2-Balls - D. Lipsky v G. Murray - 1st Round 2-Balls ,David Lipsky,0.022600000000000064,0.6226,0.6
-2023-02-02 08:40:38.128191,Box Office Specials - Highest Worldwide Box Office 2023 - Highest Worldwide Box Office Ranking For 2023,The Super Mario Bros. Movie,0.022199999999999998,0.2222,0.2
 2023-02-02 00:41:00.600111,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,Juventus,0.022199999999999998,0.2222,0.2
+2023-02-02 08:40:38.128191,Box Office Specials - Highest Worldwide Box Office 2023 - Highest Worldwide Box Office Ranking For 2023,The Super Mario Bros. Movie,0.022199999999999998,0.2222,0.2
 2023-02-02 09:40:27.069354,95th Academy Awards - Best Picture - Best Picture,Everything Everywhere All At Once,0.02200000000000002,0.7143,0.6923
 2023-02-02 09:40:27.011961,95th Academy Awards - Best Cinematography - Best Cinematography,James Friend - All Quiet On The Western Front,0.02200000000000002,0.7143,0.6923
 2023-02-02 07:40:38.560678,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Jayson Tatum (BOS),0.022000000000000006,0.1053,0.0833
@@ -71,13 +70,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-02 08:40:37.516572,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Tommy Fury,0.021899999999999975,0.4219,0.4
 2023-02-02 01:40:38.983660,Boxing Lines - Yves Ulysse Jr vs Gabriel Gollaz Valenzuela - To Win the Bout,Yves Ulysse Jr,0.02180000000000004,0.6296,0.6078
 2023-02-02 04:40:31.503324,Tournament Match-Ups - Tournament Match-Up - A. Putnam vs M. Kuchar - Tournament Match-Up,Matt Kuchar,0.02169999999999994,0.5455,0.5238
-2023-02-02 05:40:29.253698,Round Match-Ups - 1st Round Match-Up - B. Wiesberger v M. Leishman - 1st Round Match-Up,Marc Leishman,0.02079999999999993,0.5556,0.5348
 2023-02-02 05:40:29.217758,Round Match-Ups - 1st Round Match-Up - B. Grace v M. Pereira - 1st Round Match-Up,Mito Pereira,0.02079999999999993,0.5556,0.5348
-2023-02-02 00:41:00.081849,Round Match-Ups - 1st Round Match-Up - C. Smith v D. Johnson - 1st Round Match-Up,Dustin Johnson,0.02079999999999993,0.5556,0.5348
 2023-02-02 01:40:40.375739,Round Match-Ups - 1st Round Match-Up - C. Schwartzel v L. Westwood - 1st Round Match-Up,Lee Westwood,0.02079999999999993,0.5556,0.5348
+2023-02-02 00:41:00.081849,Round Match-Ups - 1st Round Match-Up - C. Smith v D. Johnson - 1st Round Match-Up,Dustin Johnson,0.02079999999999993,0.5556,0.5348
+2023-02-02 04:40:31.534044,Tournament Match-Ups - Tournament Match-Up - B. Todd v R. Shelton - Tournament Match-Up,Brendon Todd,0.02079999999999993,0.5556,0.5348
+2023-02-02 05:40:29.253698,Round Match-Ups - 1st Round Match-Up - B. Wiesberger v M. Leishman - 1st Round Match-Up,Marc Leishman,0.02079999999999993,0.5556,0.5348
 2023-02-02 04:40:31.553722,Tournament Match-Ups - Tournament Match-Up - D. Burmester v S. Stallings - Tournament Match-Up,Scott Stallings,0.02079999999999993,0.5556,0.5348
 2023-02-02 09:40:27.057679,95th Academy Awards - Best Original Screenplay - Best Original Screenplay,The Banshees of Inisherin - Martin McDonagh,0.02079999999999993,0.5556,0.5348
-2023-02-02 04:40:31.534044,Tournament Match-Ups - Tournament Match-Up - B. Todd v R. Shelton - Tournament Match-Up,Brendon Todd,0.02079999999999993,0.5556,0.5348
 2023-02-02 09:40:27.802604,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - Color Of Rihanna's First Outfit,Black,0.020699999999999996,0.4651,0.4444
 2023-02-02 10:40:34.871981,League One - England - League One 2022/23 - Top 2 Finish,Bolton Wanderers,0.0203,0.0588,0.0385
 2023-02-02 08:40:39.801290,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Tyrese Haliburton (IND),0.0203,0.0526,0.0323
@@ -85,14 +84,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-02 01:40:40.579248,Saudi International - Saudi International - Outright,Cameron Young,0.02020000000000001,0.1111,0.0909
 2023-02-02 08:40:39.801290,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Shai Gilgeous-Alexander (OKC),0.019699999999999995,0.4545,0.4348
 2023-02-02 02:41:10.210950,Boxing Lines - Erik Bazinyan vs Alantez Fox - To Win the Bout,Erik Bazinyan,0.019100000000000006,0.9524,0.9333
-2023-02-01 23:40:36.076635,Ligue 1 - France Ligue 1 2022/23 - Winner,Paris Saint-Germain,0.018900000000000028,0.9804,0.9615
-2023-02-02 09:40:27.923295,Super Bowl 57 Specials - Super Bowl Specials  - Ratings - Super Bowl 57 Average Audience,114 million or under,0.01880000000000004,0.5744,0.5556
 2023-02-02 09:40:29.213086,Super Lig - Turkey Super League 22/23 - Outright,Galatasaray,0.01880000000000004,0.6552,0.6364
+2023-02-02 09:40:27.923295,Super Bowl 57 Specials - Super Bowl Specials  - Ratings - Super Bowl 57 Average Audience,114 million or under,0.01880000000000004,0.5744,0.5556
 2023-02-02 07:40:38.424691,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Golden State Warriors,0.01820000000000002,0.2,0.1818
 2023-02-02 10:40:34.876096,League One - England - League One 2022/23 - Top 6 Finish,Shrewsbury Town,0.018200000000000004,0.0476,0.0294
+2023-02-02 12:40:34.684792,Round Match-Ups - 1st Round Match-Up - S. Power v A. Smalley - 1st Round Match-Up,Seamus Power,0.018100000000000005,0.5833,0.5652
+2023-02-02 10:40:34.617921,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Real Betis,0.0179,0.1429,0.125
 2023-02-02 10:40:34.858838,League One - England - League One 2022/23 - To Be Promoted,Peterborough United,0.0179,0.1429,0.125
 2023-02-02 09:40:29.010647,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Monaco,0.0179,0.1429,0.125
-2023-02-02 10:40:34.617921,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Real Betis,0.0179,0.1429,0.125
 2023-02-02 05:40:29.258750,Round Match-Ups - 1st Round Match-Up - J. Niemann v P. Reed - 1st Round Match-Up,Joaquin Niemann,0.017299999999999982,0.5917,0.5744
 2023-02-02 09:40:27.789819,Super Bowl 57 Specials - Super Bowl Specials  - First TV Advertisement - Heineken vs Budweiser,Budweiser,0.017299999999999982,0.5917,0.5744
 2023-02-02 08:40:39.635030,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Atlanta Hawks,0.016699999999999993,0.2667,0.25
@@ -100,9 +99,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-02 07:40:38.560678,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Joel Embiid (PHI),0.016400000000000026,0.339,0.3226
 2023-02-02 05:40:29.195780,Saudi International - 2/3 Balls - 1st Round 3 Balls - B. Watson / H. Varner / J. Janewattananond - 1st Round 3 Balls,Jazz Janewattananond,0.01629999999999998,0.2941,0.2778
 2023-02-02 09:40:27.001043,95th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,All Quiet On The Western Front,0.015400000000000025,0.4,0.3846
-2023-02-02 08:40:39.806417,NBA Awards - 2022/23 NBA Awards - 2022/23 The Rookie of the Year,Walker Kessler (UTA),0.015300000000000001,0.0476,0.0323
-2023-02-02 11:40:32.599924,FIBA Champions League - FIBA Champions League 2022/23 - Outright,AEK Athens,0.015300000000000001,0.0588,0.0435
 2023-02-02 11:40:32.599924,FIBA Champions League - FIBA Champions League 2022/23 - Outright,Lietuvos Rytas,0.015300000000000001,0.0588,0.0435
+2023-02-02 11:40:32.599924,FIBA Champions League - FIBA Champions League 2022/23 - Outright,AEK Athens,0.015300000000000001,0.0588,0.0435
+2023-02-02 08:40:39.806417,NBA Awards - 2022/23 NBA Awards - 2022/23 The Rookie of the Year,Walker Kessler (UTA),0.015300000000000001,0.0476,0.0323
 2023-02-02 10:40:34.858838,League One - England - League One 2022/23 - To Be Promoted,Barnsley,0.015100000000000002,0.1818,0.1667
 2023-02-02 10:40:34.613316,La Liga - Spain La Liga 2022/23 - To Be Relegated,Valencia,0.014899999999999997,0.0625,0.0476
 2023-02-02 07:40:38.449883,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Atlanta Hawks,0.01469999999999999,0.25,0.2353
@@ -111,8 +110,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-02 08:40:39.785203,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Jordan Poole (GSW),0.014099999999999998,0.0385,0.0244
 2023-02-02 03:40:29.929427,Boxing Lines - Richardson Hitchins vs John Bauza - To Win the Bout,Richardson Hitchins,0.014000000000000012,0.9231,0.9091
 2023-02-02 07:40:38.424691,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Dallas Mavericks,0.013999999999999999,0.0909,0.0769
-2023-02-02 08:40:39.641961,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,New Orleans Pelicans,0.013999999999999999,0.0909,0.0769
 2023-02-02 07:40:36.814796,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Creighton,0.013999999999999999,0.0909,0.0769
+2023-02-02 08:40:39.641961,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,New Orleans Pelicans,0.013999999999999999,0.0909,0.0769
 2023-02-02 08:40:38.128191,Box Office Specials - Highest Worldwide Box Office 2023 - Highest Worldwide Box Office Ranking For 2023,Mission: Impossible - Dead Reckoning Part One,0.013899999999999996,0.125,0.1111
 2023-02-02 05:40:29.211077,Saudi International - 2/3 Balls - 1st Round 3 Balls - A. Lahiri / H. Stenson / P. Casey - 1st Round 3 Balls,Anirban Lahiri,0.013300000000000034,0.3704,0.3571
 2023-02-02 08:40:39.796128,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Bam Adebayo (MIA),0.012899999999999995,0.1667,0.1538
@@ -123,51 +122,52 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-02 03:40:31.662700,Round Match-Ups - 1st Round Match-Up - D. Burmester v T. Detry - 1st Round Match-Up,Thomas Detry,0.011600000000000055,0.5238,0.5122
 2023-02-02 11:40:32.674454,NBA Specials - LeBron James Specials - When will the record be broken?,2/9/23 vs Bucks,0.0116,0.4878,0.4762
 2023-02-02 09:40:29.023606,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Monaco,0.01150000000000001,0.3448,0.3333
-2023-02-02 06:40:30.630941,Panama Championship - Panama Championship - Outright,Ben Kohles,0.011199999999999995,0.0435,0.0323
-2023-02-02 10:40:34.871981,League One - England - League One 2022/23 - Top 2 Finish,Barnsley,0.011199999999999995,0.0588,0.0476
 2023-02-02 06:40:30.630941,Panama Championship - Panama Championship - Outright,Zach Fischer,0.011199999999999995,0.0435,0.0323
+2023-02-02 10:40:34.871981,League One - England - League One 2022/23 - Top 2 Finish,Barnsley,0.011199999999999995,0.0588,0.0476
+2023-02-02 06:40:30.630941,Panama Championship - Panama Championship - Outright,Ben Kohles,0.011199999999999995,0.0435,0.0323
+2023-02-02 12:40:34.637722,AT&T Pebble Beach Pro-Am - 2/3 Balls - 1st Round 2-Balls - J. Dahmen v K. Kisner - 1st Round 2-Balls ,Kevin Kisner,0.011099999999999999,0.4762,0.4651
 2023-02-02 07:40:38.419103,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Cleveland Cavaliers,0.011099999999999999,0.1111,0.1
 2023-02-02 11:40:32.631336,Bundesliga - Bundesliga 2022/23 - Outright,Telekom Baskets Bonn,0.011099999999999999,0.1111,0.1
 2023-02-02 11:40:32.585822,Euroleague - Euroleague 2022/23 - Outright,AS Monaco,0.011099999999999999,0.1111,0.1
 2023-02-02 05:40:29.228015,Round Match-Ups - 1st Round Match-Up - I. Poulter v K. Na - 1st Round Match-Up,Kevin Na,0.01100000000000001,0.5348,0.5238
 2023-02-02 08:40:39.806417,NBA Awards - 2022/23 NBA Awards - 2022/23 The Rookie of the Year,Bennedict Mathurin (IND),0.010899999999999993,0.1538,0.1429
 2023-02-02 10:40:34.617921,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Rayo Vallecano,0.010700000000000001,0.0385,0.0278
-2023-02-02 09:40:29.019054,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Angers,0.010699999999999932,0.9722,0.9615
-2023-02-02 05:40:29.113304,Tournament Match-Ups - Tournament Match-Up - K. Yu v S. Piercy - Tournament Match-Up,Kevin Yu,0.010699999999999932,0.5455,0.5348
 2023-02-02 01:40:40.387612,Round Match-Ups - 1st Round Match-Up - C. Ortiz v J. Kokrak - 1st Round Match-Up,Jason Kokrak,0.010699999999999932,0.5455,0.5348
+2023-02-02 05:40:29.113304,Tournament Match-Ups - Tournament Match-Up - K. Yu v S. Piercy - Tournament Match-Up,Kevin Yu,0.010699999999999932,0.5455,0.5348
+2023-02-02 09:40:29.019054,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Angers,0.010699999999999932,0.9722,0.9615
 2023-02-02 05:40:29.043454,Tournament Match-Ups - Tournament Match-Up - B. Wu v T. Merrrit - Tournament Match-Up,Brandon Wu,0.010699999999999932,0.5455,0.5348
 2023-02-02 07:40:38.419103,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Toronto Raptors,0.010600000000000002,0.0323,0.0217
 2023-02-02 07:40:38.419103,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Milwaukee Bucks,0.010499999999999982,0.2105,0.2
 2023-02-02 11:40:32.639001,Serie A - Serie A 2022/23 - Outright,Pesaro,0.010100000000000001,0.0345,0.0244
 2023-02-02 06:40:30.630941,Panama Championship - Panama Championship - Outright,Max Greyserman,0.010100000000000001,0.0345,0.0244
-2023-02-01 23:40:33.457669,Boxing Lines - Yves Ulysse Jr vs Gabriel Gollaz Valenzuela - To Win the Bout,Gabriel Gollaz Valenzuela,0.010099999999999998,0.4545,0.4444
 2023-02-02 09:40:29.019054,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Strasbourg,0.010099999999999998,0.4545,0.4444
 2023-02-02 03:40:31.647961,Round Match-Ups - 1st Round Match-Up - T. Hoge v J. Rose - 1st Round Match-Up,Tom Hoge,0.010099999999999998,0.5556,0.5455
-2023-02-01 23:40:33.708445,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Virginia Commonwealth,-0.010099999999999998,0.4444,0.4545
 2023-02-02 11:40:32.599924,FIBA Champions League - FIBA Champions League 2022/23 - Outright,JDA Dijon,-0.0102,0.0667,0.0769
-2023-02-02 07:40:36.340922,Boxing Lines - Viddal Riley vs Anees Taj - To Win the Bout,Anees Taj,-0.0102,0.0667,0.0769
 2023-02-02 09:40:27.057679,95th Academy Awards - Best Original Screenplay - Best Original Screenplay,The Fabelmans - Steven Spielberg & Tony Kushner,-0.0102,0.0667,0.0769
+2023-02-02 07:40:36.340922,Boxing Lines - Viddal Riley vs Anees Taj - To Win the Bout,Anees Taj,-0.0102,0.0667,0.0769
 2023-02-02 09:40:29.019054,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Nice,-0.0103,0.002,0.0123
 2023-02-02 08:40:38.457480,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - Color Of Rihanna's Hair,Brown/Black,-0.010500000000000065,0.7895,0.8
 2023-02-02 05:40:29.228015,Round Match-Ups - 1st Round Match-Up - I. Poulter v K. Na - 1st Round Match-Up,Ian Poulter,-0.010699999999999932,0.5348,0.5455
 2023-02-02 03:40:29.936544,Boxing Lines - Alycia Baumgardner vs Elhem Mekhaled - To Win the Bout,Elhem Mekhaled,-0.010899999999999993,0.1429,0.1538
 2023-02-02 02:41:10.249409,Boxing Lines - Andres Cortes vs Luis Melendez - To Win the Bout,Andres Cortes,-0.01090000000000002,0.8462,0.8571
-2023-02-02 05:40:29.043454,Tournament Match-Ups - Tournament Match-Up - B. Wu v T. Merrrit - Tournament Match-Up,Troy Merritt,-0.01100000000000001,0.5238,0.5348
-2023-02-02 01:40:40.387612,Round Match-Ups - 1st Round Match-Up - C. Ortiz v J. Kokrak - 1st Round Match-Up,Carlos Ortiz,-0.01100000000000001,0.5238,0.5348
-2023-02-02 03:40:31.662700,Round Match-Ups - 1st Round Match-Up - D. Burmester v T. Detry - 1st Round Match-Up,Dean Burmester,-0.01100000000000001,0.5238,0.5348
 2023-02-02 05:40:29.113304,Tournament Match-Ups - Tournament Match-Up - K. Yu v S. Piercy - Tournament Match-Up,Scott Piercy,-0.01100000000000001,0.5238,0.5348
-2023-02-02 07:40:38.449883,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Washington Wizards,-0.011099999999999999,0.1,0.1111
-2023-02-02 09:40:26.989828,95th Academy Awards - Best Actor - Best Actor,Colin Farrell - The Banshees of Inisherin,-0.011099999999999999,0.2667,0.2778
-2023-02-02 08:40:38.462074,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - First Song,Stay,-0.011099999999999999,0.1,0.1111
-2023-02-02 02:41:10.210950,Boxing Lines - Erik Bazinyan vs Alantez Fox - To Win the Bout,Alantez Fox,-0.011099999999999999,0.1,0.1111
+2023-02-02 01:40:40.387612,Round Match-Ups - 1st Round Match-Up - C. Ortiz v J. Kokrak - 1st Round Match-Up,Carlos Ortiz,-0.01100000000000001,0.5238,0.5348
+2023-02-02 05:40:29.043454,Tournament Match-Ups - Tournament Match-Up - B. Wu v T. Merrrit - Tournament Match-Up,Troy Merritt,-0.01100000000000001,0.5238,0.5348
+2023-02-02 03:40:31.662700,Round Match-Ups - 1st Round Match-Up - D. Burmester v T. Detry - 1st Round Match-Up,Dean Burmester,-0.01100000000000001,0.5238,0.5348
 2023-02-02 10:40:34.804530,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Hearts,-0.011099999999999999,0.8889,0.9
+2023-02-02 12:40:34.684792,Round Match-Ups - 1st Round Match-Up - S. Power v A. Smalley - 1st Round Match-Up,Alex Smalley,-0.011099999999999999,0.4651,0.4762
+2023-02-02 02:41:10.210950,Boxing Lines - Erik Bazinyan vs Alantez Fox - To Win the Bout,Alantez Fox,-0.011099999999999999,0.1,0.1111
+2023-02-02 08:40:38.462074,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - First Song,Stay,-0.011099999999999999,0.1,0.1111
+2023-02-02 09:40:26.989828,95th Academy Awards - Best Actor - Best Actor,Colin Farrell - The Banshees of Inisherin,-0.011099999999999999,0.2667,0.2778
+2023-02-02 07:40:38.449883,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Washington Wizards,-0.011099999999999999,0.1,0.1111
 2023-02-02 09:40:27.057679,95th Academy Awards - Best Original Screenplay - Best Original Screenplay,Triangle of Sadness - Ruben Ostlund,-0.011199999999999995,0.0476,0.0588
 2023-02-02 10:40:34.617921,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Celta de Vigo,-0.0114,0.005,0.0164
+2023-02-02 12:40:34.447611,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Jake Paul,-0.011499999999999955,0.6552,0.6667
 2023-02-02 07:40:38.419103,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Boston Celtics,-0.01150000000000001,0.3333,0.3448
-2023-02-02 05:40:29.258750,Round Match-Ups - 1st Round Match-Up - J. Niemann v P. Reed - 1st Round Match-Up,Patrick Reed,-0.0116,0.4762,0.4878
-2023-02-02 09:40:28.509979,Round Match-Ups - 1st Round Match-Up - J. Spieth v M. McNealy - 1st Round Match-Up,Maverick McNealy,-0.0116,0.4762,0.4878
 2023-02-02 03:40:31.643085,Round Match-Ups - 1st Round Match-Up - S. Power v A. Smalley - 1st Round Match-Up,Alex Smalley,-0.0116,0.4762,0.4878
 2023-02-02 09:40:27.789819,Super Bowl 57 Specials - Super Bowl Specials  - First TV Advertisement - Heineken vs Budweiser,Heineken,-0.0116,0.4762,0.4878
+2023-02-02 09:40:28.509979,Round Match-Ups - 1st Round Match-Up - J. Spieth v M. McNealy - 1st Round Match-Up,Maverick McNealy,-0.0116,0.4762,0.4878
+2023-02-02 05:40:29.258750,Round Match-Ups - 1st Round Match-Up - J. Niemann v P. Reed - 1st Round Match-Up,Patrick Reed,-0.0116,0.4762,0.4878
 2023-02-02 08:40:39.806417,NBA Awards - 2022/23 NBA Awards - 2022/23 The Rookie of the Year,Paolo Banchero (ORL),-0.011600000000000055,0.9259,0.9375
 2023-02-02 10:40:34.792719,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,FC Porto,-0.011700000000000016,0.2105,0.2222
 2023-02-02 10:40:34.858838,League One - England - League One 2022/23 - To Be Promoted,Charlton Athletic,-0.012100000000000001,0.0123,0.0244
@@ -178,25 +178,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-02 10:40:34.858838,League One - England - League One 2022/23 - To Be Promoted,Bristol Rovers,-0.013,0.0066,0.0196
 2023-02-02 09:40:27.011961,95th Academy Awards - Best Cinematography - Best Cinematography,Roger Deakins - Empire Of Light,-0.0131,0.2222,0.2353
 2023-02-02 08:40:39.790849,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Michael Malone,-0.0131,0.2222,0.2353
-2023-02-02 11:40:32.684147,NBA Specials - LeBron James Specials - How will he break the scoring record? - Exact Method,3-PT FG,-0.013600000000000001,0.2941,0.3077
 2023-02-02 11:40:32.678514,NBA Specials - LeBron James Specials - Where will the record be broken?,Away,-0.013600000000000001,0.2941,0.3077
+2023-02-02 11:40:32.684147,NBA Specials - LeBron James Specials - How will he break the scoring record? - Exact Method,3-PT FG,-0.013600000000000001,0.2941,0.3077
+2023-02-02 12:40:34.447611,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Tommy Fury,-0.01369999999999999,0.4082,0.4219
 2023-02-02 08:40:39.796128,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.013899999999999996,0.1111,0.125
-2023-02-02 08:40:39.790849,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Willie Green,-0.013899999999999996,0.1111,0.125
 2023-02-02 08:40:38.462074,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - First Song,Umbrella,-0.013899999999999996,0.1111,0.125
+2023-02-02 08:40:39.790849,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Willie Green,-0.013899999999999996,0.1111,0.125
 2023-02-02 08:40:39.615259,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Boston Celtics,-0.013900000000000023,0.875,0.8889
-2023-02-02 09:40:27.017425,95th Academy Awards - Best Costume Design - Best Costume Design,Jenny Beavan - Mrs Harris Goes To Paris,-0.013999999999999999,0.0769,0.0909
-2023-02-02 09:40:27.114311,Grammy Awards 2023 - Album of the Year - Grammys Album of the Year,Kendrick Lamar - Mr. Morale and the Big Steppers,-0.013999999999999999,0.0769,0.0909
 2023-02-02 09:40:27.069354,95th Academy Awards - Best Picture - Best Picture,The Fabelmans,-0.013999999999999999,0.0769,0.0909
+2023-02-02 09:40:27.114311,Grammy Awards 2023 - Album of the Year - Grammys Album of the Year,Kendrick Lamar - Mr. Morale and the Big Steppers,-0.013999999999999999,0.0769,0.0909
+2023-02-02 09:40:27.017425,95th Academy Awards - Best Costume Design - Best Costume Design,Jenny Beavan - Mrs Harris Goes To Paris,-0.013999999999999999,0.0769,0.0909
 2023-02-02 08:40:38.462074,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - First Song,Where Have You Been,-0.013999999999999999,0.0769,0.0909
 2023-02-02 10:40:34.613316,La Liga - Spain La Liga 2022/23 - To Be Relegated,Sevilla,-0.014099999999999994,0.0526,0.0667
 2023-02-02 10:40:34.617921,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Osasuna,-0.014099999999999998,0.0244,0.0385
 2023-02-02 11:40:32.613593,Japan B League - Japan League B1 2022/23 - Outright,Utsunomiya Brex,-0.014100000000000001,0.0385,0.0526
 2023-02-02 10:40:34.608849,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Mato Joselu (Espanyol),-0.014399999999999996,0.0625,0.0769
+2023-02-02 07:40:38.424691,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,-0.01469999999999999,0.2353,0.25
 2023-02-02 11:40:32.674454,NBA Specials - LeBron James Specials - When will the record be broken?,2/11/23 at Warriors,-0.01469999999999999,0.2353,0.25
 2023-02-02 07:40:38.419103,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Brooklyn Nets,-0.01469999999999999,0.2353,0.25
-2023-02-02 07:40:38.424691,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,-0.01469999999999999,0.2353,0.25
 2023-02-02 08:40:39.796128,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Nicolas Claxton (BKN),-0.01469999999999999,0.2353,0.25
-2023-02-01 23:40:33.457669,Boxing Lines - Yves Ulysse Jr vs Gabriel Gollaz Valenzuela - To Win the Bout,Yves Ulysse Jr,-0.014800000000000035,0.6078,0.6226
 2023-02-02 11:40:32.674454,NBA Specials - LeBron James Specials - When will the record be broken?,2/4/23 at Pelicans,-0.014899999999999997,0.0476,0.0625
 2023-02-02 09:40:27.052157,95th Academy Awards - Best Original Score - Best Original Score,Carter Burwell - The Banshees of Inisherin,-0.015100000000000002,0.1667,0.1818
 2023-02-02 09:40:27.069354,95th Academy Awards - Best Picture - Best Picture,All Quiet On The Western Front,-0.015300000000000001,0.0323,0.0476
@@ -206,40 +206,41 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-02 11:40:32.593106,Euro Cup - Euro Cup 2022/23 - Outright,Bursaspor,-0.018099999999999998,0.0345,0.0526
 2023-02-02 09:40:26.995600,95th Academy Awards - Best Actress - Best Actress,Michelle Yeoh - Everything Everywhere All At Once,-0.018100000000000005,0.4167,0.4348
 2023-02-02 11:40:32.599924,FIBA Champions League - FIBA Champions League 2022/23 - Outright,Bahçeşehir Koleji,-0.018200000000000004,0.0294,0.0476
-2023-02-02 01:40:38.929738,MLB Specials - Where will Shohei Ohtani Play Game 1 of the 2024 MLB Season - Proposition,New York Mets,-0.01820000000000002,0.1818,0.2
 2023-02-02 10:40:34.608849,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Karim Benzema (Real Madrid),-0.01820000000000002,0.1818,0.2
+2023-02-02 01:40:38.929738,MLB Specials - Where will Shohei Ohtani Play Game 1 of the 2024 MLB Season - Proposition,New York Mets,-0.01820000000000002,0.1818,0.2
 2023-02-02 07:40:38.560678,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Luka Doncic (DAL),-0.01820000000000002,0.1818,0.2
 2023-02-02 11:40:32.599924,FIBA Champions League - FIBA Champions League 2022/23 - Outright,Darüssafaka Tekfen,-0.0189,0.0196,0.0385
 2023-02-02 09:40:29.019054,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Reims,-0.0189,0.0196,0.0385
 2023-02-02 11:40:32.599924,FIBA Champions League - FIBA Champions League 2022/23 - Outright,Limoges CSP,-0.0189,0.0196,0.0385
 2023-02-02 01:40:39.855415,AT&T Pebble Beach Pro-Am - 2/3 Balls - 1st Round 2-Balls - D. Lipsky v G. Murray - 1st Round 2-Balls ,Grayson Murray,-0.018900000000000028,0.4255,0.4444
 2023-02-02 08:40:39.649012,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Golden State Warriors,-0.019000000000000017,0.2667,0.2857
-2023-02-02 10:40:34.812284,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Dundee United,-0.019099999999999992,0.0476,0.0667
-2023-02-02 10:40:34.858838,League One - England - League One 2022/23 - To Be Promoted,Portsmouth,-0.019099999999999992,0.0476,0.0667
 2023-02-02 10:40:34.808380,Premiership - Scotland Premiership 2022/23 - To Finish Bottom,St. Johnstone,-0.019099999999999992,0.0476,0.0667
+2023-02-02 10:40:34.858838,League One - England - League One 2022/23 - To Be Promoted,Portsmouth,-0.019099999999999992,0.0476,0.0667
+2023-02-02 10:40:34.812284,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Dundee United,-0.019099999999999992,0.0476,0.0667
 2023-02-02 11:40:32.674454,NBA Specials - LeBron James Specials - When will the record be broken?,2/7/23 vs Thunder,-0.019699999999999995,0.4348,0.4545
 2023-02-02 01:40:38.983660,Boxing Lines - Yves Ulysse Jr vs Gabriel Gollaz Valenzuela - To Win the Bout,Gabriel Gollaz Valenzuela,-0.019699999999999995,0.4348,0.4545
 2023-02-02 09:40:27.006523,95th Academy Awards - Best Animated Feature - Best Animated Feature,Guillermo del Toro's Pinocchio,-0.020199999999999996,0.8889,0.9091
 2023-02-02 09:40:27.006523,95th Academy Awards - Best Animated Feature - Best Animated Feature,Turning Red,-0.02020000000000001,0.0909,0.1111
-2023-02-02 09:40:27.114311,Grammy Awards 2023 - Album of the Year - Grammys Album of the Year,Brandi Carlile - In These Silent Days,-0.02020000000000001,0.0909,0.1111
 2023-02-02 09:40:27.033876,95th Academy Awards - Best Film Editing - Best Film Editing,Elvis,-0.02020000000000001,0.0909,0.1111
+2023-02-02 09:40:27.114311,Grammy Awards 2023 - Album of the Year - Grammys Album of the Year,Brandi Carlile - In These Silent Days,-0.02020000000000001,0.0909,0.1111
 2023-02-02 09:40:27.802604,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - Color Of Rihanna's First Outfit,Yellow,-0.02020000000000001,0.0909,0.1111
 2023-02-02 03:40:29.929427,Boxing Lines - Richardson Hitchins vs John Bauza - To Win the Bout,John Bauza,-0.02049999999999999,0.1333,0.1538
-2023-02-02 04:40:31.503324,Tournament Match-Ups - Tournament Match-Up - A. Putnam vs M. Kuchar - Tournament Match-Up,Andrew Putnam,-0.02169999999999994,0.5238,0.5455
 2023-02-02 07:40:38.560678,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Nikola Jokic (DEN),-0.02169999999999994,0.5238,0.5455
+2023-02-02 04:40:31.503324,Tournament Match-Ups - Tournament Match-Up - A. Putnam vs M. Kuchar - Tournament Match-Up,Andrew Putnam,-0.02169999999999994,0.5238,0.5455
 2023-02-02 09:40:27.063128,95th Academy Awards - Best Original Song - Best Original Song,Lift Me Up - Black Panther: Wakanda Forever,-0.021999999999999964,0.2857,0.3077
-2023-02-02 10:40:34.871981,League One - England - League One 2022/23 - Top 2 Finish,Sheffield Wednesday,-0.022199999999999998,0.7778,0.8
 2023-02-02 08:40:39.649012,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Phoenix Suns,-0.022199999999999998,0.2,0.2222
-2023-02-02 05:40:29.217758,Round Match-Ups - 1st Round Match-Up - B. Grace v M. Pereira - 1st Round Match-Up,Branden Grace,-0.022600000000000064,0.5122,0.5348
-2023-02-02 04:40:31.553722,Tournament Match-Ups - Tournament Match-Up - D. Burmester v S. Stallings - Tournament Match-Up,Dean Burmester,-0.022600000000000064,0.5122,0.5348
+2023-02-02 10:40:34.871981,League One - England - League One 2022/23 - Top 2 Finish,Sheffield Wednesday,-0.022199999999999998,0.7778,0.8
+2023-02-02 05:40:29.253698,Round Match-Ups - 1st Round Match-Up - B. Wiesberger v M. Leishman - 1st Round Match-Up,Bernd Wiesberger,-0.022600000000000064,0.5122,0.5348
 2023-02-02 00:41:00.081849,Round Match-Ups - 1st Round Match-Up - C. Smith v D. Johnson - 1st Round Match-Up,Cameron Smith,-0.022600000000000064,0.5122,0.5348
 2023-02-02 01:40:40.375739,Round Match-Ups - 1st Round Match-Up - C. Schwartzel v L. Westwood - 1st Round Match-Up,Charl Schwartzel,-0.022600000000000064,0.5122,0.5348
+2023-02-02 05:40:29.217758,Round Match-Ups - 1st Round Match-Up - B. Grace v M. Pereira - 1st Round Match-Up,Branden Grace,-0.022600000000000064,0.5122,0.5348
+2023-02-02 12:40:34.622300,AT&T Pebble Beach Pro-Am - 2/3 Balls - 1st Round 2-Balls - K. Streelman v W. Simpson - 1st Round 2-Balls,Kevin Streelman,-0.022600000000000064,0.5122,0.5348
+2023-02-02 04:40:31.553722,Tournament Match-Ups - Tournament Match-Up - D. Burmester v S. Stallings - Tournament Match-Up,Dean Burmester,-0.022600000000000064,0.5122,0.5348
 2023-02-02 04:40:31.534044,Tournament Match-Ups - Tournament Match-Up - B. Todd v R. Shelton - Tournament Match-Up,Robby Shelton,-0.022600000000000064,0.5122,0.5348
-2023-02-02 05:40:29.253698,Round Match-Ups - 1st Round Match-Up - B. Wiesberger v M. Leishman - 1st Round Match-Up,Bernd Wiesberger,-0.022600000000000064,0.5122,0.5348
 2023-02-02 10:40:34.876096,League One - England - League One 2022/23 - Top 6 Finish,Bristol Rovers,-0.023200000000000002,0.0244,0.0476
 2023-02-02 10:40:34.858838,League One - England - League One 2022/23 - To Be Promoted,Sheffield Wednesday,-0.023799999999999932,0.8333,0.8571
-2023-02-02 09:40:27.074817,95th Academy Awards - Best Production Design - Best Production Design,Babylon,-0.023799999999999988,0.4762,0.5
 2023-02-02 01:40:38.929738,MLB Specials - Where will Shohei Ohtani Play Game 1 of the 2024 MLB Season - Proposition,St. Louis Cardinals,-0.023799999999999988,0.1429,0.1667
+2023-02-02 09:40:27.074817,95th Academy Awards - Best Production Design - Best Production Design,Babylon,-0.023799999999999988,0.4762,0.5
 2023-02-02 09:40:27.923295,Super Bowl 57 Specials - Super Bowl Specials  - Ratings - Super Bowl 57 Average Audience,Over 114 million,-0.024399999999999977,0.4878,0.5122
 2023-02-02 11:40:32.593106,Euro Cup - Euro Cup 2022/23 - Outright,JL Bourg,-0.0245,0.0588,0.0833
 2023-02-02 11:40:32.599924,FIBA Champions League - FIBA Champions League 2022/23 - Outright,Manresa,-0.0245,0.0588,0.0833
@@ -259,11 +260,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-02 11:40:32.593106,Euro Cup - Euro Cup 2022/23 - Outright,Paris,-0.030699999999999998,0.0526,0.0833
 2023-02-02 10:40:34.617921,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Athletic Bilbao,-0.031799999999999995,0.1111,0.1429
 2023-02-02 10:40:34.876096,League One - England - League One 2022/23 - Top 6 Finish,Peterborough United,-0.031799999999999995,0.4444,0.4762
-2023-02-01 23:40:36.076635,Ligue 1 - France Ligue 1 2022/23 - Winner,Lens,-0.033100000000000004,0.0294,0.0625
 2023-02-02 10:40:34.876096,League One - England - League One 2022/23 - Top 6 Finish,Portsmouth,-0.033300000000000024,0.1667,0.2
+2023-02-02 10:40:34.792719,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,Braga,-0.034100000000000005,0.0909,0.125
 2023-02-02 01:40:38.929738,MLB Specials - Where will Shohei Ohtani Play Game 1 of the 2024 MLB Season - Proposition,Toronto Blue Jays,-0.034100000000000005,0.0909,0.125
 2023-02-02 09:40:29.213086,Super Lig - Turkey Super League 22/23 - Outright,Besiktas,-0.034100000000000005,0.0909,0.125
-2023-02-02 10:40:34.792719,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,Braga,-0.034100000000000005,0.0909,0.125
 2023-02-02 10:40:34.613316,La Liga - Spain La Liga 2022/23 - To Be Relegated,Celta de Vigo,-0.03420000000000001,0.0769,0.1111
 2023-02-02 09:40:27.057679,95th Academy Awards - Best Original Screenplay - Best Original Screenplay,Everything Everywhere All At Once - Daniel Kwan & Daniel Scheinert,-0.03480000000000005,0.5,0.5348
 2023-02-02 09:40:27.069354,95th Academy Awards - Best Picture - Best Picture,The Banshees of Inisherin,-0.03570000000000001,0.25,0.2857
@@ -282,8 +282,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-02 10:40:34.812284,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Motherwell,-0.0625,0.0625,0.125
 2023-02-02 08:40:39.801290,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Lauri Markkanen (UTA),-0.06519999999999992,0.5348,0.6
 2023-02-02 10:40:34.613316,La Liga - Spain La Liga 2022/23 - To Be Relegated,Cádiz,-0.06579999999999997,0.5833,0.6491
-2023-02-01 23:40:33.708445,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Dayton,-0.067,0.3774,0.4444
-2023-02-01 23:40:36.094434,La Liga - Spain La Liga 2022/23 - Winner,Real Madrid,-0.0701,0.2632,0.3333
 2023-02-02 10:40:34.613316,La Liga - Spain La Liga 2022/23 - To Be Relegated,Real Valladolid,-0.07690000000000002,0.3077,0.3846
 2023-02-02 08:40:39.785203,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Russell Westbrook (LAL),-0.08900000000000002,0.4762,0.5652
 2023-02-02 10:40:34.876096,League One - England - League One 2022/23 - Top 6 Finish,Oxford United,-0.0948,0.0385,0.1333
