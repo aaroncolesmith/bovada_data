@@ -30,6 +30,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-03 08:40:36.739327,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Jaren Jackson Jr. (MEM),0.025600000000000067,0.6923,0.6667
 2023-02-02 23:40:45.083729,95th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,Women Talking,0.025600000000000067,0.6923,0.6667
 2023-02-02 22:40:36.408876,Super Bowl 57 Specials - Super Bowl Specials  - Will there be a penalty for Roughing the Passer?,No,0.025599999999999956,0.6,0.5744
+2023-02-03 10:40:30.802259,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Atlético Madrid,0.025499999999999967,0.4255,0.4
 2023-02-03 07:40:28.062007,Grammy Awards 2023 - Song of the Year - Grammys Song of the Year,Lizzo - About Damn Time,0.0242,0.0909,0.0667
 2023-02-03 02:41:13.125328,Saudi International - Saudi International - Outright,Cameron Young,0.023800000000000016,0.1905,0.1667
 2023-02-02 23:40:45.209283,Grammy Awards 2023 - Record of the Year - Grammys Record of the Year,As It Was - Harry Styles,0.023799999999999988,0.3571,0.3333
@@ -38,26 +39,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-02 22:40:37.137836,La Liga - Spain La Liga 2022/23 - Winner,Real Madrid,0.02250000000000002,0.2857,0.2632
 2023-02-03 07:40:29.189541,AT&T Pebble Beach Pro-Am - 2nd Round - 2nd Round Six Shooter -B - D. Lipsky / D. McCarthy / J. Rose / S. Stallings / T. Moore / T. Hoge - 2nd Round Six Shooter,Scott Stallings,0.022199999999999998,0.2222,0.2
 2023-02-03 09:40:42.832186,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - Color Of Rihanna's Hair,Bright Red,0.021999999999999964,0.3077,0.2857
-2023-02-03 08:40:36.714288,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Nikola Jokic (DEN),0.02169999999999994,0.5455,0.5238
 2023-02-03 07:40:29.300588,Round Match-Ups - 2nd Round Match-Up - M. Wolff vs T. Gooch - 2nd Round Match-Up,Talor Gooch,0.02169999999999994,0.5455,0.5238
-2023-02-03 05:40:30.863033,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - H. Higgs v D. Wu - 2nd Round 2 Balls,Harry Higgs,0.02079999999999993,0.5556,0.5348
-2023-02-03 05:40:30.785815,Round Match-Ups - 2nd Round Match-Up - W. Simpson vs B. Taylor - 2nd Round Match-Up,Webb Simpson,0.02079999999999993,0.5556,0.5348
+2023-02-03 08:40:36.714288,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Nikola Jokic (DEN),0.02169999999999994,0.5455,0.5238
 2023-02-03 05:40:30.872568,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - S. Power v T. Detry - 2nd Round 2 Balls,Seamus Power,0.02079999999999993,0.5556,0.5348
 2023-02-03 08:40:34.823777,Round Match-Ups - 2nd Round Match-Up - A. Putnam vs K. Kitayama - 2nd Round Match-Up,Andrew Putnam,0.02079999999999993,0.5556,0.5348
-2023-02-03 07:40:29.055223,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - H. Norlander v D. Frittelli - 2nd Round 2 Balls,Dylan Frittelli,0.020699999999999996,0.4651,0.4444
+2023-02-03 05:40:30.863033,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - H. Higgs v D. Wu - 2nd Round 2 Balls,Harry Higgs,0.02079999999999993,0.5556,0.5348
+2023-02-03 05:40:30.785815,Round Match-Ups - 2nd Round Match-Up - W. Simpson vs B. Taylor - 2nd Round Match-Up,Webb Simpson,0.02079999999999993,0.5556,0.5348
 2023-02-03 07:40:29.280975,Round Match-Ups - 2nd Round Match-Up - C. Young vs L. Oosthuizen - 2nd Round Match-Up,Louis Oosthuizen,0.020699999999999996,0.4651,0.4444
 2023-02-02 23:40:45.203528,Grammy Awards 2023 - Best New Artist - Grammys Best New Artist,Anitta,0.020699999999999996,0.4651,0.4444
+2023-02-03 07:40:29.055223,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - H. Norlander v D. Frittelli - 2nd Round 2 Balls,Dylan Frittelli,0.020699999999999996,0.4651,0.4444
 2023-02-03 02:41:11.162155,Fame MMA - Amadeusz Roslik vs Kamil Laszczyk - To Win the Bout,Kamil Laszczyk,0.020399999999999974,0.6416,0.6212
-2023-02-03 08:40:35.143650,Round Match-Ups - 2nd Round Match-Up - M. Wolff vs T. Gooch - 2nd Round Match-Up,Talor Gooch,0.01970000000000005,0.5652,0.5455
 2023-02-03 05:40:30.790522,Round Match-Ups - 2nd Round Match-Up - T. Pendrith vs J. Bramlett - 2nd Round Match-Up,Taylor Pendrith,0.01970000000000005,0.5652,0.5455
 2023-02-03 07:40:29.285880,Round Match-Ups - 2nd Round Match-Up - A. Ancer vs S. Garcia - 2nd Round Match-Up,Abraham Ancer,0.01970000000000005,0.5652,0.5455
+2023-02-03 08:40:35.143650,Round Match-Ups - 2nd Round Match-Up - M. Wolff vs T. Gooch - 2nd Round Match-Up,Talor Gooch,0.01970000000000005,0.5652,0.5455
 2023-02-03 09:40:44.118010,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Cleveland Cavaliers,0.019000000000000017,0.2857,0.2667
 2023-02-03 05:40:30.802493,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - K. Kitayama v D. Ghim - 2nd Round 2 Balls,Doug Ghim,0.018900000000000028,0.4444,0.4255
-2023-02-03 08:40:34.999321,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - S. Power v T. Detry - 2nd Round 2 Balls,Seamus Power,0.01880000000000004,0.5744,0.5556
 2023-02-02 22:40:36.295195,Super Bowl 57 Specials - Super Bowl Specials  - Which team will call for a Fair Catch First in Game?,Philadelphia Eagles,0.01880000000000004,0.5744,0.5556
+2023-02-03 08:40:34.999321,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - S. Power v T. Detry - 2nd Round 2 Balls,Seamus Power,0.01880000000000004,0.5744,0.5556
 2023-02-03 00:40:32.904209,Saudi International - Saudi International - Outright,Sebastian Munoz,0.018099999999999998,0.0769,0.0588
 2023-02-02 22:40:36.422511,Super Bowl 57 Specials - Super Bowl Specials  - Will there be offsetting penalties called?,No,0.015800000000000036,0.6825,0.6667
 2023-02-03 07:40:29.064843,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - J. Spieth v R. Palmer - 2nd Round 2 Balls,Jordan Spieth,0.014900000000000024,0.6923,0.6774
+2023-02-03 10:40:30.806181,La Liga - Spain La Liga 2022/23 - To Be Relegated,Valencia,0.014399999999999996,0.0769,0.0625
 2023-02-03 03:40:30.305532,Boxing Lines - Emanuel Navarrete vs Liam Wilson - To Win the Bout,Liam Wilson,0.013899999999999996,0.125,0.1111
 2023-02-03 08:40:36.724582,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Tyrese Maxey (PHI),0.013899999999999996,0.125,0.1111
 2023-02-02 23:40:45.477340,Boxing Lines - Erik Bazinyan vs Alantez Fox - To Win the Bout,Erik Bazinyan,0.0131,0.9655,0.9524
@@ -79,9 +81,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-02 22:40:36.395334,Super Bowl 57 Specials - Super Bowl Specials  - Will there be a flea flicker attempt in the game?,No,0.010300000000000087,0.7436,0.7333
 2023-02-03 07:40:28.487678,Super Bowl 57 Specials - Super Bowl Specials  - How Many Players will have a passing attempt?,Under 2.5,0.010099999999999998,0.6875,0.6774
 2023-02-03 03:40:31.956869,Super Bowl 57 Specials - Super Bowl Specials  - How Many TickTok Videos Will jacksonmahomes Post During the Super Bowl,Over 1.5,0.010099999999999998,0.3226,0.3125
-2023-02-03 09:40:42.841827,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - Number Of Songs In Rihanna's Set,Over 9.5,-0.010099999999999998,0.5455,0.5556
-2023-02-03 08:40:36.744203,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Shai Gilgeous-Alexander (OKC),-0.010099999999999998,0.4444,0.4545
 2023-02-02 23:40:45.515942,Boxing Lines - Emanuel Navarrete vs Liam Wilson - To Win the Bout,Liam Wilson,-0.010099999999999998,0.1111,0.1212
+2023-02-03 08:40:36.744203,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Shai Gilgeous-Alexander (OKC),-0.010099999999999998,0.4444,0.4545
+2023-02-03 09:40:42.841827,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - Number Of Songs In Rihanna's Set,Over 9.5,-0.010099999999999998,0.5455,0.5556
 2023-02-03 07:40:28.334936,Super Bowl 57 Specials - Super Bowl Specials  - Super Bowl LVII MVP,A.J. Brown,-0.0102,0.0667,0.0769
 2023-02-03 04:40:30.307058,Super Bowl 57 Specials - Super Bowl Specials  - How Many TickTok Videos Will jacksonmahomes Post During the Super Bowl,Under 1.5,-0.010300000000000087,0.7333,0.7436
 2023-02-03 02:41:13.019644,Saudi International - 2/3 Balls - 2nd Round 3 Balls - S. Garcia / S. Munoz / S. Vincent - 2nd Round 3 Balls,Sergio Garcia,-0.010599999999999998,0.4545,0.4651
@@ -100,9 +102,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-02 22:40:35.189589,NBA Specials - LeBron James Specials - When will the record be broken?,2/11/23 at Warriors,-0.0131,0.2222,0.2353
 2023-02-03 05:40:30.812295,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - J. Spieth v R. Palmer - 2nd Round 2 Balls,Ryan Palmer,-0.013800000000000034,0.3636,0.3774
 2023-02-03 09:40:42.836939,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - First Song,We Found Love,-0.013999999999999999,0.0769,0.0909
-2023-02-03 08:40:35.908954,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - Color Of Rihanna's First Outfit,Yellow,-0.013999999999999999,0.0769,0.0909
-2023-02-02 22:40:35.189589,NBA Specials - LeBron James Specials - When will the record be broken?,2/13/23 at Blazers,-0.013999999999999999,0.0769,0.0909
 2023-02-03 02:41:13.125328,Saudi International - Saudi International - Outright,Joaquin Niemann,-0.013999999999999999,0.0769,0.0909
+2023-02-02 22:40:35.189589,NBA Specials - LeBron James Specials - When will the record be broken?,2/13/23 at Blazers,-0.013999999999999999,0.0769,0.0909
+2023-02-03 08:40:35.908954,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - Color Of Rihanna's First Outfit,Yellow,-0.013999999999999999,0.0769,0.0909
 2023-02-03 08:40:35.908954,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - Color Of Rihanna's First Outfit,Brown,-0.013999999999999999,0.0769,0.0909
 2023-02-03 08:40:36.714288,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Jayson Tatum (BOS),-0.01440000000000001,0.0909,0.1053
 2023-02-03 00:40:30.978789,Fame MMA - Marcin Krasucki vs Mikolaj Magdziarz - To Win the Bout,Marcin Krasucki,-0.014700000000000046,0.75,0.7647
@@ -111,10 +113,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-02 23:40:45.083729,95th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,All Quiet On The Western Front,-0.015400000000000025,0.3846,0.4
 2023-02-02 22:40:36.422511,Super Bowl 57 Specials - Super Bowl Specials  - Will there be offsetting penalties called?,Yes,-0.015400000000000025,0.3846,0.4
 2023-02-02 23:40:45.477340,Boxing Lines - Erik Bazinyan vs Alantez Fox - To Win the Bout,Alantez Fox,-0.016700000000000007,0.0833,0.1
+2023-02-03 10:40:30.810173,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Real Sociedad,-0.016700000000000048,0.7333,0.75
 2023-02-03 09:40:42.836939,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - First Song,Don't Stop The Music,-0.019000000000000017,0.2667,0.2857
 2023-02-03 08:40:36.739327,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.02020000000000001,0.0909,0.1111
-2023-02-03 09:40:43.009442,Super Bowl 57 Specials - Super Bowl Specials  - State Farm Stadium - Number Of Hotdogs Sold,"Over 17,000",-0.020699999999999996,0.4444,0.4651
+2023-02-03 10:40:30.802259,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Real Sociedad,-0.020699999999999996,0.4444,0.4651
 2023-02-03 07:40:28.334936,Super Bowl 57 Specials - Super Bowl Specials  - Super Bowl LVII MVP,Jalen Hurts,-0.020699999999999996,0.4444,0.4651
+2023-02-03 09:40:43.009442,Super Bowl 57 Specials - Super Bowl Specials  - State Farm Stadium - Number Of Hotdogs Sold,"Over 17,000",-0.020699999999999996,0.4444,0.4651
 2023-02-03 03:40:30.973151,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - J. Bramlett v D. Lingmerth - 2nd Round 2 Balls,Joseph Bramlett,-0.02080000000000004,0.6667,0.6875
 2023-02-03 07:40:29.300588,Round Match-Ups - 2nd Round Match-Up - M. Wolff vs T. Gooch - 2nd Round Match-Up,Matthew Wolff,-0.02169999999999994,0.5238,0.5455
 2023-02-03 09:40:42.814300,Super Bowl 57 Specials - Super Bowl Specials  - First TV Advertisement - Heineken vs Budweiser,Heineken,-0.021699999999999997,0.4545,0.4762
@@ -131,14 +135,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-03 05:40:30.872568,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - S. Power v T. Detry - 2nd Round 2 Balls,Thomas Detry,-0.024399999999999977,0.4878,0.5122
 2023-02-03 08:40:34.823777,Round Match-Ups - 2nd Round Match-Up - A. Putnam vs K. Kitayama - 2nd Round Match-Up,Kurt Kitayama,-0.024399999999999977,0.4878,0.5122
 2023-02-02 22:40:36.295195,Super Bowl 57 Specials - Super Bowl Specials  - Which team will call for a Fair Catch First in Game?,Kansas City Chiefs,-0.024399999999999977,0.4878,0.5122
-2023-02-03 05:40:30.863033,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - H. Higgs v D. Wu - 2nd Round 2 Balls,Dylan Wu,-0.024399999999999977,0.4878,0.5122
 2023-02-03 05:40:30.785815,Round Match-Ups - 2nd Round Match-Up - W. Simpson vs B. Taylor - 2nd Round Match-Up,Ben Taylor,-0.024399999999999977,0.4878,0.5122
+2023-02-03 05:40:30.863033,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - H. Higgs v D. Wu - 2nd Round 2 Balls,Dylan Wu,-0.024399999999999977,0.4878,0.5122
 2023-02-03 07:40:29.055223,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - H. Norlander v D. Frittelli - 2nd Round 2 Balls,Henrik Norlander,-0.025599999999999956,0.5744,0.6
 2023-02-02 23:40:47.805542,Coppa Italia - Italy Coppa Italia 2022/23 - Winner,Inter Milan,-0.027700000000000002,0.4167,0.4444
 2023-02-03 08:40:34.985053,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - A. Putnam v A. Long - 2nd Round 2 Balls,Adam Long,-0.030799999999999994,0.3774,0.4082
 2023-02-02 23:40:45.203528,Grammy Awards 2023 - Best New Artist - Grammys Best New Artist,Latto,-0.03179999999999994,0.5238,0.5556
-2023-02-03 09:40:42.682622,Super Bowl 57 Specials - Super Bowl Specials  - National Anthem - How Long Will It Take Chris Stapleton To Sing The US National Anthem?,Under 2 minutes and 05 seconds,-0.031799999999999995,0.4444,0.4762
 2023-02-03 05:40:30.807518,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - H. Norlander v D. Frittelli - 2nd Round 2 Balls,Dylan Frittelli,-0.031799999999999995,0.4444,0.4762
+2023-02-03 09:40:42.682622,Super Bowl 57 Specials - Super Bowl Specials  - National Anthem - How Long Will It Take Chris Stapleton To Sing The US National Anthem?,Under 2 minutes and 05 seconds,-0.031799999999999995,0.4444,0.4762
 2023-02-03 09:40:42.805605,Super Bowl 57 Specials - Super Bowl Specials  - First TV Advertisement - Doritos vs Pringles,Pringles,-0.032299999999999995,0.3125,0.3448
 2023-02-03 09:40:42.801129,Super Bowl 57 Specials - Super Bowl Specials  - First TV Advertisement - Doritos vs M&Ms,M&Ms,-0.033299999999999996,0.5122,0.5455
 2023-02-03 08:40:36.724582,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Malcolm Brogdon (BOS),-0.0348,0.4,0.4348
