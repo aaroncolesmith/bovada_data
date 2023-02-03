@@ -2,15 +2,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-03 15:40:32.265161,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Outright,Adrian Meronk,0.1731,0.25,0.0769
 2023-02-03 13:40:32.247251,World Baseball Classic - 2023 World Baseball Classic - Outright,Chinese Taipei,0.14229999999999998,0.1667,0.0244
 2023-02-03 09:40:42.847103,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - To Occur During Rihanna's Performance On Stage,Drake to appear on stage,0.11359999999999998,0.3636,0.25
+2023-02-03 16:40:37.011903,Saudi International - Saudi International - Outright,Abraham Ancer,0.1071,0.25,0.1429
 2023-02-03 15:40:32.265161,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Outright,Rasmus Hojgaard,0.1,0.2667,0.1667
 2023-02-03 15:40:32.265161,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Outright,David Law,0.0988,0.1111,0.0123
 2023-02-03 09:40:42.836939,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - First Song,This Is What You Came For,0.09720000000000001,0.2222,0.125
+2023-02-03 16:40:37.011903,Saudi International - Saudi International - Outright,Cameron Young,0.0952,0.2857,0.1905
 2023-02-03 07:40:28.347024,Super Bowl 57 Specials - Super Bowl Specials  -  What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 57?,Blue,0.06930000000000003,0.5238,0.4545
 2023-02-03 08:40:36.744203,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Lauri Markkanen (UTA),0.06519999999999992,0.6,0.5348
 2023-02-03 09:40:42.818668,Super Bowl 57 Specials - Super Bowl Specials  - First TV Advertisement - M&Ms vs Pepsi Zero Sugar,Pepsi Zero Sugar,0.06509999999999999,0.4651,0.4
 2023-02-03 08:40:36.724582,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Norman Powell (LAC),0.05559999999999998,0.1667,0.1111
 2023-02-03 15:40:32.265161,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Outright,Dale Whitnell,0.0548,0.0588,0.004
+2023-02-03 16:40:37.011903,Saudi International - Saudi International - Outright,Marc Leishman,0.047099999999999996,0.0667,0.0196
 2023-02-03 09:40:42.847103,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - To Occur During Rihanna's Performance On Stage,Rihanna to open an umbrella,0.04099999999999998,0.3077,0.2667
+2023-02-03 16:40:37.011903,Saudi International - Saudi International - Outright,Lucas Herbert,0.038299999999999994,0.0909,0.0526
 2023-02-03 09:40:43.004934,Super Bowl 57 Specials - Super Bowl Specials  - State Farm Stadium - Number Of Beers Sold,"120,000 or under",0.037800000000000056,0.5833,0.5455
 2023-02-03 08:40:36.714288,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Giannis Antetokounmpo (MIL),0.037000000000000005,0.1111,0.0741
 2023-02-03 09:40:43.009442,Super Bowl 57 Specials - Super Bowl Specials  - State Farm Stadium - Number Of Hotdogs Sold,"17,000 or under",0.03639999999999999,0.6364,0.6
@@ -25,6 +29,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-03 08:40:34.985053,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - A. Putnam v A. Long - 2nd Round 2 Balls,Andrew Putnam,0.030299999999999994,0.6667,0.6364
 2023-02-03 09:40:44.144425,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Sacramento Kings,0.029600000000000015,0.4,0.3704
 2023-02-03 15:40:32.265161,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Outright,Wil Besseling,0.0286,0.0385,0.0099
+2023-02-03 16:40:37.011903,Saudi International - Saudi International - Outright,Sadom Kaewkanjana,0.028599999999999997,0.0435,0.0149
 2023-02-03 09:40:42.805605,Super Bowl 57 Specials - Super Bowl Specials  - First TV Advertisement - Doritos vs Pringles,Doritos,0.027800000000000047,0.75,0.7222
 2023-02-03 15:40:32.265161,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Outright,Matthew Jordan,0.026600000000000002,0.0345,0.0079
 2023-02-03 15:40:32.265161,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Outright,George Coetzee,0.026600000000000002,0.0345,0.0079
@@ -40,25 +45,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-03 15:40:32.265161,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Outright,Nicolai Hojgaard,0.023200000000000002,0.0476,0.0244
 2023-02-03 15:40:31.983578,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - J. Rose v C. Ramey - 2nd Round 2 Balls,Chad Ramey,0.02260000000000001,0.4,0.3774
 2023-02-03 07:40:29.189541,AT&T Pebble Beach Pro-Am - 2nd Round - 2nd Round Six Shooter -B - D. Lipsky / D. McCarthy / J. Rose / S. Stallings / T. Moore / T. Hoge - 2nd Round Six Shooter,Scott Stallings,0.022199999999999998,0.2222,0.2
-2023-02-03 13:40:32.247251,World Baseball Classic - 2023 World Baseball Classic - Outright,Dominican Republic,0.021999999999999964,0.3077,0.2857
 2023-02-03 09:40:42.832186,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - Color Of Rihanna's Hair,Bright Red,0.021999999999999964,0.3077,0.2857
+2023-02-03 13:40:32.247251,World Baseball Classic - 2023 World Baseball Classic - Outright,Dominican Republic,0.021999999999999964,0.3077,0.2857
 2023-02-03 07:40:29.300588,Round Match-Ups - 2nd Round Match-Up - M. Wolff vs T. Gooch - 2nd Round Match-Up,Talor Gooch,0.02169999999999994,0.5455,0.5238
 2023-02-03 08:40:36.714288,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Nikola Jokic (DEN),0.02169999999999994,0.5455,0.5238
-2023-02-03 13:40:30.827774,Round Match-Ups - 2nd Round Match-Up - J. Spieth vs M. Fitzpatrick - 2nd Round Match-Up,Jordan Spieth,0.02079999999999993,0.5556,0.5348
-2023-02-03 08:40:34.823777,Round Match-Ups - 2nd Round Match-Up - A. Putnam vs K. Kitayama - 2nd Round Match-Up,Andrew Putnam,0.02079999999999993,0.5556,0.5348
-2023-02-03 05:40:30.785815,Round Match-Ups - 2nd Round Match-Up - W. Simpson vs B. Taylor - 2nd Round Match-Up,Webb Simpson,0.02079999999999993,0.5556,0.5348
-2023-02-03 05:40:30.872568,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - S. Power v T. Detry - 2nd Round 2 Balls,Seamus Power,0.02079999999999993,0.5556,0.5348
 2023-02-03 05:40:30.863033,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - H. Higgs v D. Wu - 2nd Round 2 Balls,Harry Higgs,0.02079999999999993,0.5556,0.5348
+2023-02-03 05:40:30.872568,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - S. Power v T. Detry - 2nd Round 2 Balls,Seamus Power,0.02079999999999993,0.5556,0.5348
+2023-02-03 08:40:34.823777,Round Match-Ups - 2nd Round Match-Up - A. Putnam vs K. Kitayama - 2nd Round Match-Up,Andrew Putnam,0.02079999999999993,0.5556,0.5348
+2023-02-03 13:40:30.827774,Round Match-Ups - 2nd Round Match-Up - J. Spieth vs M. Fitzpatrick - 2nd Round Match-Up,Jordan Spieth,0.02079999999999993,0.5556,0.5348
+2023-02-03 05:40:30.785815,Round Match-Ups - 2nd Round Match-Up - W. Simpson vs B. Taylor - 2nd Round Match-Up,Webb Simpson,0.02079999999999993,0.5556,0.5348
 2023-02-03 07:40:29.280975,Round Match-Ups - 2nd Round Match-Up - C. Young vs L. Oosthuizen - 2nd Round Match-Up,Louis Oosthuizen,0.020699999999999996,0.4651,0.4444
 2023-02-03 07:40:29.055223,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - H. Norlander v D. Frittelli - 2nd Round 2 Balls,Dylan Frittelli,0.020699999999999996,0.4651,0.4444
-2023-02-03 05:40:30.790522,Round Match-Ups - 2nd Round Match-Up - T. Pendrith vs J. Bramlett - 2nd Round Match-Up,Taylor Pendrith,0.01970000000000005,0.5652,0.5455
-2023-02-03 12:40:29.842460,Round Match-Ups - 2nd Round Match-Up - C. Tarren v B. Griffin - 2nd Round Match-Up,Callum Tarren,0.01970000000000005,0.5652,0.5455
+2023-02-03 16:40:36.790851,Round Match-Ups - 2nd Round Match-Up - A. Baddeley v E. Cole - 2nd Round Match-Up,Aaron Baddeley,0.01970000000000005,0.5652,0.5455
 2023-02-03 07:40:29.285880,Round Match-Ups - 2nd Round Match-Up - A. Ancer vs S. Garcia - 2nd Round Match-Up,Abraham Ancer,0.01970000000000005,0.5652,0.5455
 2023-02-03 08:40:35.143650,Round Match-Ups - 2nd Round Match-Up - M. Wolff vs T. Gooch - 2nd Round Match-Up,Talor Gooch,0.01970000000000005,0.5652,0.5455
+2023-02-03 12:40:29.842460,Round Match-Ups - 2nd Round Match-Up - C. Tarren v B. Griffin - 2nd Round Match-Up,Callum Tarren,0.01970000000000005,0.5652,0.5455
 2023-02-03 12:40:29.868748,Round Match-Ups - 2nd Round Match-Up - S. Power vs T. Detry - 2nd Round Match-Up,Seamus Power,0.01970000000000005,0.5652,0.5455
+2023-02-03 05:40:30.790522,Round Match-Ups - 2nd Round Match-Up - T. Pendrith vs J. Bramlett - 2nd Round Match-Up,Taylor Pendrith,0.01970000000000005,0.5652,0.5455
 2023-02-03 09:40:44.118010,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Cleveland Cavaliers,0.019000000000000017,0.2857,0.2667
 2023-02-03 05:40:30.802493,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - K. Kitayama v D. Ghim - 2nd Round 2 Balls,Doug Ghim,0.018900000000000028,0.4444,0.4255
 2023-02-03 08:40:34.999321,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - S. Power v T. Detry - 2nd Round 2 Balls,Seamus Power,0.01880000000000004,0.5744,0.5556
+2023-02-03 16:40:37.011903,Saudi International - Saudi International - Outright,Ratchanon Chantananuwat,0.0187,0.0244,0.0057
 2023-02-03 15:40:32.265161,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Outright,Matthieu Pavon,0.0187,0.0244,0.0057
 2023-02-03 15:40:32.065650,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - J. Dahmen v K. Kisner - 2nd Round 2 Balls,Joel Dahmen,0.018100000000000005,0.5833,0.5652
 2023-02-03 15:40:32.265161,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Outright,Marcus Helligkilde,0.017099999999999997,0.0294,0.0123
@@ -66,26 +73,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-03 10:40:30.806181,La Liga - Spain La Liga 2022/23 - To Be Relegated,Valencia,0.014399999999999996,0.0769,0.0625
 2023-02-03 08:40:36.724582,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Tyrese Maxey (PHI),0.013899999999999996,0.125,0.1111
 2023-02-03 08:40:36.734108,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Jacque Vaughn,0.012899999999999995,0.1667,0.1538
+2023-02-03 16:40:36.802001,Round Match-Ups - 2nd Round Match-Up - J. Spieth vs M. Fitzpatrick - 2nd Round Match-Up,Matt Fitzpatrick,0.012199999999999989,0.5,0.4878
 2023-02-03 11:40:33.202148,Round Match-Ups - 2nd Round Match-Up - J. Spieth vs vs M. Fitzpatrick - 2nd Round Match-Up,Matt Fitzpatrick,0.012199999999999989,0.5122,0.5
 2023-02-03 09:40:44.098949,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Milwaukee Bucks,0.011700000000000016,0.2222,0.2105
 2023-02-03 05:40:30.771367,Round Match-Ups - 2nd Round Match-Up - S. Stallings vs J. Rose - 2nd Round Match-Up,Scott Stallings,0.011600000000000055,0.5238,0.5122
-2023-02-03 14:40:32.453021,Round Match-Ups - 2nd Round Match-Up - W. Simpson vs B. Taylor - 2nd Round Match-Up,Ben Taylor,0.011600000000000055,0.5238,0.5122
 2023-02-03 09:40:42.841827,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - Number Of Songs In Rihanna's Set,Under 9.5,0.011600000000000055,0.5238,0.5122
+2023-02-03 14:40:32.453021,Round Match-Ups - 2nd Round Match-Up - W. Simpson vs B. Taylor - 2nd Round Match-Up,Ben Taylor,0.011600000000000055,0.5238,0.5122
+2023-02-03 16:40:36.983868,Ras Al Khaimah Championship - 2/3 Balls - 3rd Round 2 Balls - D. Whitnell v M. Baldwin - 3rd Round 2 Balls,Matthew Baldwin,0.0116,0.4878,0.4762
 2023-02-03 08:40:36.567858,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Golden State Warriors,0.011099999999999999,0.2778,0.2667
 2023-02-03 05:40:30.766424,Round Match-Ups - 2nd Round Match-Up - J. Spieth vs vs M. Fitzpatrick - 2nd Round Match-Up,Matt Fitzpatrick,0.01100000000000001,0.5348,0.5238
 2023-02-03 05:40:30.812295,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - J. Spieth v R. Palmer - 2nd Round 2 Balls,Jordan Spieth,0.010700000000000043,0.6774,0.6667
 2023-02-03 07:40:28.334936,Super Bowl 57 Specials - Super Bowl Specials  - Super Bowl LVII MVP,Haason Reddick,0.010700000000000001,0.0385,0.0278
-2023-02-03 04:40:30.307058,Super Bowl 57 Specials - Super Bowl Specials  - How Many TickTok Videos Will jacksonmahomes Post During the Super Bowl,Over 1.5,0.010699999999999987,0.3333,0.3226
 2023-02-03 11:40:33.166745,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - M. NeSmith v G. Sigg - 2nd Round 2 Balls,Matthew NeSmith,0.010699999999999932,0.5455,0.5348
 2023-02-03 13:40:32.247251,World Baseball Classic - 2023 World Baseball Classic - Outright,Mexico,0.010100000000000001,0.0345,0.0244
 2023-02-03 07:40:28.487678,Super Bowl 57 Specials - Super Bowl Specials  - How Many Players will have a passing attempt?,Under 2.5,0.010099999999999998,0.6875,0.6774
-2023-02-03 08:40:36.744203,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Shai Gilgeous-Alexander (OKC),-0.010099999999999998,0.4444,0.4545
 2023-02-03 09:40:42.841827,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - Number Of Songs In Rihanna's Set,Over 9.5,-0.010099999999999998,0.5455,0.5556
+2023-02-03 16:40:36.802001,Round Match-Ups - 2nd Round Match-Up - J. Spieth vs M. Fitzpatrick - 2nd Round Match-Up,Jordan Spieth,-0.010099999999999998,0.5455,0.5556
+2023-02-03 08:40:36.744203,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Shai Gilgeous-Alexander (OKC),-0.010099999999999998,0.4444,0.4545
 2023-02-03 07:40:28.334936,Super Bowl 57 Specials - Super Bowl Specials  - Super Bowl LVII MVP,A.J. Brown,-0.0102,0.0667,0.0769
-2023-02-03 04:40:30.307058,Super Bowl 57 Specials - Super Bowl Specials  - How Many TickTok Videos Will jacksonmahomes Post During the Super Bowl,Under 1.5,-0.010300000000000087,0.7333,0.7436
 2023-02-03 11:40:33.202148,Round Match-Ups - 2nd Round Match-Up - J. Spieth vs vs M. Fitzpatrick - 2nd Round Match-Up,Jordan Spieth,-0.010699999999999932,0.5348,0.5455
-2023-02-03 14:40:32.453021,Round Match-Ups - 2nd Round Match-Up - W. Simpson vs B. Taylor - 2nd Round Match-Up,Webb Simpson,-0.01100000000000001,0.5238,0.5348
 2023-02-03 05:40:30.771367,Round Match-Ups - 2nd Round Match-Up - S. Stallings vs J. Rose - 2nd Round Match-Up,Justin Rose,-0.01100000000000001,0.5238,0.5348
+2023-02-03 14:40:32.453021,Round Match-Ups - 2nd Round Match-Up - W. Simpson vs B. Taylor - 2nd Round Match-Up,Webb Simpson,-0.01100000000000001,0.5238,0.5348
 2023-02-03 15:40:32.065650,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - J. Dahmen v K. Kisner - 2nd Round 2 Balls,Kevin Kisner,-0.011099999999999999,0.4651,0.4762
 2023-02-03 09:40:42.836939,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - First Song,Needed Me,-0.011199999999999995,0.0476,0.0588
 2023-02-03 11:40:33.113601,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - W. Gordon v T. Mullinax - 2nd Round 2 Balls,Trey Mullinax,-0.0116,0.4762,0.4878
@@ -101,21 +109,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-03 15:40:32.265161,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Outright,Alexander Bjork,-0.0131,0.0345,0.0476
 2023-02-03 05:40:30.812295,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - J. Spieth v R. Palmer - 2nd Round 2 Balls,Ryan Palmer,-0.013800000000000034,0.3636,0.3774
 2023-02-03 15:40:32.265161,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Outright,Jorge Campillo,-0.0139,0.001,0.0149
+2023-02-03 16:40:37.011903,Saudi International - Saudi International - Outright,Lee Westwood,-0.013900000000000001,0.0025,0.0164
 2023-02-03 08:40:35.908954,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - Color Of Rihanna's First Outfit,Brown,-0.013999999999999999,0.0769,0.0909
 2023-02-03 08:40:35.908954,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - Color Of Rihanna's First Outfit,Yellow,-0.013999999999999999,0.0769,0.0909
 2023-02-03 09:40:42.836939,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - First Song,We Found Love,-0.013999999999999999,0.0769,0.0909
+2023-02-03 16:40:37.011903,Saudi International - Saudi International - Outright,Jason Kokrak,-0.014100000000000001,0.0385,0.0526
 2023-02-03 08:40:36.714288,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Jayson Tatum (BOS),-0.01440000000000001,0.0909,0.1053
 2023-02-03 07:40:28.487678,Super Bowl 57 Specials - Super Bowl Specials  - How Many Players will have a passing attempt?,Over 2.5,-0.01479999999999998,0.3774,0.3922
 2023-02-03 15:40:32.265161,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Outright,Adri Arnaus,-0.014900000000000004,0.0196,0.0345
 2023-02-03 07:40:29.280975,Round Match-Ups - 2nd Round Match-Up - C. Young vs L. Oosthuizen - 2nd Round Match-Up,Cameron Young,-0.01539999999999997,0.6,0.6154
 2023-02-03 10:40:30.810173,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Real Sociedad,-0.016700000000000048,0.7333,0.75
+2023-02-03 16:40:37.011903,Saudi International - Saudi International - Outright,Brooks Koepka,-0.0189,0.0196,0.0385
 2023-02-03 09:40:42.836939,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - First Song,Don't Stop The Music,-0.019000000000000017,0.2667,0.2857
 2023-02-03 15:40:32.265161,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Outright,Johannes Veerman,-0.019499999999999997,0.0099,0.0294
 2023-02-03 12:40:29.863490,Round Match-Ups - 2nd Round Match-Up - T. Pendrith vs J. Bramlett - 2nd Round Match-Up,Taylor Pendrith,-0.01970000000000005,0.5455,0.5652
 2023-02-03 08:40:36.739327,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),-0.02020000000000001,0.0909,0.1111
+2023-02-03 10:40:30.802259,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Real Sociedad,-0.020699999999999996,0.4444,0.4651
 2023-02-03 09:40:43.009442,Super Bowl 57 Specials - Super Bowl Specials  - State Farm Stadium - Number Of Hotdogs Sold,"Over 17,000",-0.020699999999999996,0.4444,0.4651
 2023-02-03 07:40:28.334936,Super Bowl 57 Specials - Super Bowl Specials  - Super Bowl LVII MVP,Jalen Hurts,-0.020699999999999996,0.4444,0.4651
-2023-02-03 10:40:30.802259,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Real Sociedad,-0.020699999999999996,0.4444,0.4651
 2023-02-03 12:40:29.857816,Round Match-Ups - 2nd Round Match-Up - W. Simpson vs B. Taylor - 2nd Round Match-Up,Webb Simpson,-0.02079999999999993,0.5348,0.5556
 2023-02-03 15:40:32.265161,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Outright,Louis De Jager,-0.0211,0.0033,0.0244
 2023-02-03 07:40:29.300588,Round Match-Ups - 2nd Round Match-Up - M. Wolff vs T. Gooch - 2nd Round Match-Up,Matthew Wolff,-0.02169999999999994,0.5238,0.5455
@@ -125,25 +136,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-03 08:40:34.999321,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - S. Power v T. Detry - 2nd Round 2 Balls,Thomas Detry,-0.022699999999999998,0.4651,0.4878
 2023-02-03 15:40:32.265161,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Outright,Padraig Harrington,-0.0228,0.0066,0.0294
 2023-02-03 15:40:31.983578,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - J. Rose v C. Ramey - 2nd Round 2 Balls,Justin Rose,-0.023799999999999932,0.6429,0.6667
-2023-02-03 05:40:30.790522,Round Match-Ups - 2nd Round Match-Up - T. Pendrith vs J. Bramlett - 2nd Round Match-Up,Joseph Bramlett,-0.023799999999999988,0.4762,0.5
 2023-02-03 12:40:29.842460,Round Match-Ups - 2nd Round Match-Up - C. Tarren v B. Griffin - 2nd Round Match-Up,Ben Griffin,-0.023799999999999988,0.4762,0.5
+2023-02-03 16:40:36.790851,Round Match-Ups - 2nd Round Match-Up - A. Baddeley v E. Cole - 2nd Round Match-Up,Eric Cole,-0.023799999999999988,0.4762,0.5
 2023-02-03 12:40:29.868748,Round Match-Ups - 2nd Round Match-Up - S. Power vs T. Detry - 2nd Round Match-Up,Thomas Detry,-0.023799999999999988,0.4762,0.5
-2023-02-03 08:40:35.143650,Round Match-Ups - 2nd Round Match-Up - M. Wolff vs T. Gooch - 2nd Round Match-Up,Matthew Wolff,-0.023800000000000043,0.5,0.5238
+2023-02-03 05:40:30.790522,Round Match-Ups - 2nd Round Match-Up - T. Pendrith vs J. Bramlett - 2nd Round Match-Up,Joseph Bramlett,-0.023799999999999988,0.4762,0.5
 2023-02-03 07:40:29.285880,Round Match-Ups - 2nd Round Match-Up - A. Ancer vs S. Garcia - 2nd Round Match-Up,Sergio Garcia,-0.023800000000000043,0.5,0.5238
+2023-02-03 08:40:35.143650,Round Match-Ups - 2nd Round Match-Up - M. Wolff vs T. Gooch - 2nd Round Match-Up,Matthew Wolff,-0.023800000000000043,0.5,0.5238
+2023-02-03 16:40:37.011903,Saudi International - Saudi International - Outright,Patrick Reed,-0.0242,0.0667,0.0909
+2023-02-03 16:40:37.011903,Saudi International - Saudi International - Outright,Louis Oosthuizen,-0.0242,0.0667,0.0909
 2023-02-03 08:40:34.541822,Boxing Lines - Emanuel Navarrete vs Liam Wilson - To Win the Bout,Emanuel Navarrete,-0.02429999999999999,0.9231,0.9474
-2023-02-03 08:40:34.823777,Round Match-Ups - 2nd Round Match-Up - A. Putnam vs K. Kitayama - 2nd Round Match-Up,Kurt Kitayama,-0.024399999999999977,0.4878,0.5122
-2023-02-03 13:40:30.827774,Round Match-Ups - 2nd Round Match-Up - J. Spieth vs M. Fitzpatrick - 2nd Round Match-Up,Matt Fitzpatrick,-0.024399999999999977,0.4878,0.5122
-2023-02-03 05:40:30.785815,Round Match-Ups - 2nd Round Match-Up - W. Simpson vs B. Taylor - 2nd Round Match-Up,Ben Taylor,-0.024399999999999977,0.4878,0.5122
-2023-02-03 05:40:30.872568,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - S. Power v T. Detry - 2nd Round 2 Balls,Thomas Detry,-0.024399999999999977,0.4878,0.5122
 2023-02-03 05:40:30.863033,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - H. Higgs v D. Wu - 2nd Round 2 Balls,Dylan Wu,-0.024399999999999977,0.4878,0.5122
+2023-02-03 05:40:30.785815,Round Match-Ups - 2nd Round Match-Up - W. Simpson vs B. Taylor - 2nd Round Match-Up,Ben Taylor,-0.024399999999999977,0.4878,0.5122
+2023-02-03 13:40:30.827774,Round Match-Ups - 2nd Round Match-Up - J. Spieth vs M. Fitzpatrick - 2nd Round Match-Up,Matt Fitzpatrick,-0.024399999999999977,0.4878,0.5122
+2023-02-03 05:40:30.872568,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - S. Power v T. Detry - 2nd Round 2 Balls,Thomas Detry,-0.024399999999999977,0.4878,0.5122
+2023-02-03 08:40:34.823777,Round Match-Ups - 2nd Round Match-Up - A. Putnam vs K. Kitayama - 2nd Round Match-Up,Kurt Kitayama,-0.024399999999999977,0.4878,0.5122
 2023-02-03 15:40:32.265161,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Outright,Pablo Larrazabal,-0.024399999999999998,0.005,0.0294
 2023-02-03 07:40:29.055223,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - H. Norlander v D. Frittelli - 2nd Round 2 Balls,Henrik Norlander,-0.025599999999999956,0.5744,0.6
 2023-02-03 15:40:32.265161,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Outright,Kazuki Higa,-0.0287,0.0007,0.0294
 2023-02-03 15:40:32.265161,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Outright,Ryo Hisatsune,-0.029299999999999993,0.0476,0.0769
 2023-02-03 12:40:28.873992,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Jake Paul,-0.030299999999999994,0.6364,0.6667
 2023-02-03 08:40:34.985053,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - A. Putnam v A. Long - 2nd Round 2 Balls,Adam Long,-0.030799999999999994,0.3774,0.4082
-2023-02-03 05:40:30.807518,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - H. Norlander v D. Frittelli - 2nd Round 2 Balls,Dylan Frittelli,-0.031799999999999995,0.4444,0.4762
 2023-02-03 09:40:42.682622,Super Bowl 57 Specials - Super Bowl Specials  - National Anthem - How Long Will It Take Chris Stapleton To Sing The US National Anthem?,Under 2 minutes and 05 seconds,-0.031799999999999995,0.4444,0.4762
+2023-02-03 05:40:30.807518,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2 Balls - H. Norlander v D. Frittelli - 2nd Round 2 Balls,Dylan Frittelli,-0.031799999999999995,0.4444,0.4762
 2023-02-03 15:40:32.265161,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Outright,Callum Shinkwin,-0.0321,0.0588,0.0909
 2023-02-03 09:40:42.805605,Super Bowl 57 Specials - Super Bowl Specials  - First TV Advertisement - Doritos vs Pringles,Pringles,-0.032299999999999995,0.3125,0.3448
 2023-02-03 09:40:42.801129,Super Bowl 57 Specials - Super Bowl Specials  - First TV Advertisement - Doritos vs M&Ms,M&Ms,-0.033299999999999996,0.5122,0.5455
@@ -157,7 +171,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-03 08:40:36.714288,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Luka Doncic (DAL),-0.03889999999999999,0.1429,0.1818
 2023-02-03 15:40:32.265161,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Outright,Oliver Bekker,-0.046,0.0066,0.0526
 2023-02-03 15:40:32.265161,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Outright,Edoardo Molinari,-0.052199999999999996,0.0066,0.0588
+2023-02-03 16:40:37.011903,Saudi International - Saudi International - Outright,Sergio Garcia,-0.0539,0.0294,0.0833
+2023-02-03 16:40:37.011903,Saudi International - Saudi International - Outright,Joaquin Niemann,-0.062,0.0149,0.0769
 2023-02-03 09:40:42.818668,Super Bowl 57 Specials - Super Bowl Specials  - First TV Advertisement - M&Ms vs Pepsi Zero Sugar,M&Ms,-0.06669999999999998,0.6,0.6667
+2023-02-03 16:40:37.011903,Saudi International - Saudi International - Outright,Sebastian Munoz,-0.06699999999999999,0.0099,0.0769
 2023-02-03 08:40:36.714288,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Joel Embiid (PHI),-0.07230000000000003,0.2667,0.339
 2023-02-03 08:40:36.739327,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Nicolas Claxton (BKN),-0.08150000000000002,0.1538,0.2353
 2023-02-03 07:40:28.347024,Super Bowl 57 Specials - Super Bowl Specials  -  What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 57?,Lime/Green/Yellow,-0.08329999999999999,0.25,0.3333
