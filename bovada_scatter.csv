@@ -24,7 +24,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-04 02:40:33.690267,Ras Al Khaimah Championship - 2/3 Balls - 3rd Round 2 Balls - D. Bradbury v A. Wu - 3rd Round 2 Balls,Ashun Wu,0.02169999999999994,0.5455,0.5238
 2023-02-03 18:40:31.539486,95th Academy Awards - Best Production Design - Best Production Design,Elvis,0.02020000000000005,0.3279,0.3077
 2023-02-04 05:40:31.137936,Super Bowl 57 Specials - Super Bowl Specials  - Andy Reid Special - Will they mention or show clip/picture of Andy Reid competing in Punt/Pass/Kick Contest,Yes,0.018900000000000028,0.4444,0.4255
-2023-02-03 18:40:30.754536,Boxing Lines - Andres Cortes vs Luis Melendez - To Win the Bout,Luis Melendez,0.018100000000000005,0.2222,0.2041
 2023-02-04 01:40:28.177102,Saudi International - Saudi International - Outright,Abraham Ancer,0.016699999999999993,0.2667,0.25
 2023-02-03 19:40:33.418676,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Lauri Markkanen (UTA),0.01539999999999997,0.6154,0.6
 2023-02-04 04:40:30.094924,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Philadelphia 76ers,0.015100000000000002,0.1818,0.1667
@@ -46,12 +45,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-03 21:40:30.695051,NBA Specials - Where will Kyrie Irving play after Trade Deadline? - Trade Special,Miami Heat,-0.011099999999999999,0.1,0.1111
 2023-02-04 00:40:29.604821,Boxing Lines - Andres Cortes vs Luis Melendez - To Win the Bout,Andres Cortes,-0.011200000000000099,0.8291,0.8403
 2023-02-03 20:40:30.824177,Boxing Lines - Andres Cortes vs Luis Melendez - To Win the Bout,Luis Melendez,-0.011700000000000016,0.2105,0.2222
-2023-02-04 00:40:29.472051,Round Match-Ups - 3rd Round Match-Up - C. Young vs L. Herbert - 3rd Round Match-Up,Lucas Herbert,-0.012199999999999989,0.4878,0.5
 2023-02-03 21:40:28.983624,Boxing Lines - Shadasia Green vs Elin Cederroos - To Win the Bout,Elin Cederroos,-0.012199999999999989,0.2151,0.2273
+2023-02-04 00:40:29.472051,Round Match-Ups - 3rd Round Match-Up - C. Young vs L. Herbert - 3rd Round Match-Up,Lucas Herbert,-0.012199999999999989,0.4878,0.5
 2023-02-03 18:40:31.539486,95th Academy Awards - Best Production Design - Best Production Design,All Quiet On The Western Front,-0.012899999999999995,0.1538,0.1667
 2023-02-03 20:40:33.111782,NBA Specials - LeBron James Specials - When will the record be broken?,2/23/23 vs Warriors,-0.013,0.0066,0.0196
-2023-02-04 02:40:34.974892,NBA Specials - Where will Kyrie Irving play after Trade Deadline? - Trade Special,Miami Heat,-0.013999999999999999,0.0769,0.0909
 2023-02-03 18:40:31.408565,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Jayson Tatum (BOS),-0.013999999999999999,0.0769,0.0909
+2023-02-04 02:40:34.974892,NBA Specials - Where will Kyrie Irving play after Trade Deadline? - Trade Special,Miami Heat,-0.013999999999999999,0.0769,0.0909
 2023-02-03 21:40:30.695051,NBA Specials - Where will Kyrie Irving play after Trade Deadline? - Trade Special,Los Angeles Clippers,-0.013999999999999999,0.0769,0.0909
 2023-02-03 21:40:30.695051,NBA Specials - Where will Kyrie Irving play after Trade Deadline? - Trade Special,Chicago Bulls,-0.014099999999999994,0.0526,0.0667
 2023-02-03 18:40:31.412786,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Jordan Poole (GSW),-0.014099999999999998,0.0244,0.0385
@@ -65,7 +64,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-03 19:40:33.418676,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Shai Gilgeous-Alexander (OKC),-0.018900000000000028,0.4255,0.4444
 2023-02-04 02:40:34.974892,NBA Specials - Where will Kyrie Irving play after Trade Deadline? - Trade Special,Brooklyn Nets,-0.01970000000000005,0.5455,0.5652
 2023-02-04 05:40:31.137936,Super Bowl 57 Specials - Super Bowl Specials  - Andy Reid Special - Will they mention or show clip/picture of Andy Reid competing in Punt/Pass/Kick Contest,No,-0.020299999999999985,0.6226,0.6429
-2023-02-03 18:40:30.754536,Boxing Lines - Andres Cortes vs Luis Melendez - To Win the Bout,Andres Cortes,-0.020500000000000074,0.8462,0.8667
 2023-02-03 18:40:31.408565,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Nikola Jokic (DEN),-0.02169999999999994,0.5238,0.5455
 2023-02-03 20:40:33.111782,NBA Specials - LeBron James Specials - When will the record be broken?,2/11/23 at Warriors,-0.022199999999999998,0.2,0.2222
 2023-02-03 20:40:33.111782,NBA Specials - LeBron James Specials - When will the record be broken?,2/15/23 vs Pelicans,-0.022200000000000004,0.0123,0.0345
