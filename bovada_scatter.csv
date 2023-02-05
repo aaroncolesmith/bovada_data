@@ -40,6 +40,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-05 08:40:28.840362,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - Number Of Songs In Rihanna's Set,Under 9.5,0.02169999999999994,0.5455,0.5238
 2023-02-05 16:40:29.534240,Grammy Awards 2023 - Album of the Year - Grammys Album of the Year,Brandi Carlile - In These Silent Days,0.019099999999999992,0.0667,0.0476
 2023-02-05 08:40:28.360046,Grammy Awards 2023 - Album of the Year - Grammys Album of the Year,Harry Styles - Harry's House,0.01820000000000002,0.2,0.1818
+2023-02-05 17:40:28.560194,Grammy Awards 2023 - Record of the Year - Grammys Record of the Year,As It Was - Harry Styles,0.018100000000000005,0.4348,0.4167
 2023-02-05 06:40:29.157535,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Brooklyn Nets,0.0179,0.1429,0.125
 2023-02-05 08:40:28.977580,Super Bowl 57 Specials - Super Bowl Specials  - State Farm Stadium - Number Of Beers Sold,"120,000 or under",0.01539999999999997,0.6154,0.6
 2023-02-05 08:40:28.964233,Super Bowl 57 Specials - Super Bowl Specials  - Ratings - Super Bowl 57 Average Audience,114 million or under,0.01539999999999997,0.6154,0.6
@@ -47,37 +48,36 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-05 14:40:26.985058,Boxing Lines - Rey Vargas vs O'Shaquie Foster - To Win the Bout,O'Shaquie Foster,0.01419999999999999,0.3846,0.3704
 2023-02-05 08:40:27.959141,College Basketball - American Athletic Regular Season Conference Winner - AAC Regular Season Winner,Houston,0.014100000000000001,0.9615,0.9474
 2023-02-05 08:40:28.825969,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - Color Of Rihanna's First Outfit,Blue,0.013999999999999999,0.0909,0.0769
-2023-02-05 05:40:29.747435,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Outright,Nicolai Hojgaard,0.013999999999999999,0.0909,0.0769
 2023-02-05 09:40:26.963795,Grammy Awards 2023 - Beyonce vs Adele Parlays - Grammys Beyonce vs Adele Parlays,Beyonce to win both Album of the Year and Record of the Year,0.012999999999999998,0.093,0.08
 2023-02-05 09:40:26.963795,Grammy Awards 2023 - Beyonce vs Adele Parlays - Grammys Beyonce vs Adele Parlays,Adele to win both Album of the Year and Record of the Year,0.011899999999999994,0.16,0.1481
 2023-02-05 08:40:27.969469,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Rutgers,0.011199999999999995,0.0588,0.0476
 2023-02-05 08:40:28.448210,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Aline Wirley,0.0102,0.0769,0.0667
 2023-02-05 09:40:27.653429,National League - England National League 2022/23 - Outright,Chesterfield,-0.0101,0.004,0.0141
-2023-02-05 08:40:28.825969,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - Color Of Rihanna's First Outfit,Brown,-0.0102,0.0667,0.0769
-2023-02-05 08:40:28.825969,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - Color Of Rihanna's First Outfit,Yellow,-0.0102,0.0667,0.0769
 2023-02-05 08:40:28.380113,Grammy Awards 2023 - Best New Artist - Grammys Best New Artist,Molly Tuttle,-0.0102,0.0667,0.0769
 2023-02-05 08:40:28.835803,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - First Song,Where Have You Been,-0.0102,0.0667,0.0769
 2023-02-05 08:40:28.380113,Grammy Awards 2023 - Best New Artist - Grammys Best New Artist,Omar Apollo,-0.0102,0.0667,0.0769
+2023-02-05 08:40:28.825969,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - Color Of Rihanna's First Outfit,Brown,-0.0102,0.0667,0.0769
+2023-02-05 08:40:28.825969,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - Color Of Rihanna's First Outfit,Yellow,-0.0102,0.0667,0.0769
 2023-02-05 09:40:27.565874,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,FC Porto,-0.010499999999999982,0.2,0.2105
-2023-02-05 08:40:28.964233,Super Bowl 57 Specials - Super Bowl Specials  - Ratings - Super Bowl 57 Average Audience,Over 114 million,-0.010599999999999998,0.4545,0.4651
 2023-02-05 08:40:28.977580,Super Bowl 57 Specials - Super Bowl Specials  - State Farm Stadium - Number Of Beers Sold,"Over 120,000",-0.010599999999999998,0.4545,0.4651
+2023-02-05 08:40:28.964233,Super Bowl 57 Specials - Super Bowl Specials  - Ratings - Super Bowl 57 Average Audience,Over 114 million,-0.010599999999999998,0.4545,0.4651
 2023-02-05 08:40:29.509616,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Jaren Jackson Jr. (MEM),-0.010700000000000043,0.6667,0.6774
 2023-02-05 08:40:28.825969,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - Color Of Rihanna's First Outfit,Gold,-0.010899999999999993,0.1429,0.1538
 2023-02-05 08:40:28.835803,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - First Song,Rude Boy,-0.011199999999999995,0.0476,0.0588
-2023-02-05 06:40:29.157535,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Miami Heat,-0.011199999999999995,0.0476,0.0588
 2023-02-05 08:40:28.448210,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Ricardo Camargo,-0.011199999999999995,0.0476,0.0588
 2023-02-05 08:40:29.514443,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Tyrese Haliburton (IND),-0.011199999999999995,0.0476,0.0588
+2023-02-05 06:40:29.157535,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Miami Heat,-0.011199999999999995,0.0476,0.0588
 2023-02-05 08:40:28.407959,Grammy Awards 2023 - Beyonce vs Adele Parlays - Grammys Beyonce vs Adele Parlays,Adele to win both Album of the Year and Record of the Year,-0.011899999999999994,0.1481,0.16
 2023-02-05 08:40:27.980357,College Basketball - SEC Regular Season Conference Winner - SEC Regular Season Winner,Texas A&M,-0.012700000000000003,0.0196,0.0323
 2023-02-05 06:40:29.164113,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,-0.0131,0.2222,0.2353
 2023-02-05 08:40:29.493830,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Luka Doncic (DAL),-0.013899999999999996,0.1111,0.125
+2023-02-05 06:40:29.164113,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Dallas Mavericks,-0.013999999999999999,0.0769,0.0909
 2023-02-05 09:40:27.565874,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,Braga,-0.013999999999999999,0.0769,0.0909
-2023-02-05 08:40:28.448210,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,MC Guime,-0.013999999999999999,0.0769,0.0909
 2023-02-05 08:40:28.448210,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Cezar Black,-0.013999999999999999,0.0769,0.0909
-2023-02-05 08:40:28.448210,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Paula Freitas,-0.013999999999999999,0.0769,0.0909
 2023-02-05 08:40:28.399728,Grammy Awards 2023 - Song of the Year - Grammys Song of the Year,Beyonce - Break My Soul,-0.013999999999999999,0.0769,0.0909
 2023-02-05 08:40:28.399728,Grammy Awards 2023 - Song of the Year - Grammys Song of the Year,Lizzo - About Damn Time,-0.013999999999999999,0.0769,0.0909
-2023-02-05 06:40:29.164113,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Dallas Mavericks,-0.013999999999999999,0.0769,0.0909
+2023-02-05 08:40:28.448210,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,MC Guime,-0.013999999999999999,0.0769,0.0909
+2023-02-05 08:40:28.448210,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Paula Freitas,-0.013999999999999999,0.0769,0.0909
 2023-02-05 08:40:28.390391,Grammy Awards 2023 - Record of the Year - Grammys Record of the Year,You And Me On The Rock - Brandi Carlile featuring Lucius,-0.014099999999999994,0.0526,0.0667
 2023-02-05 06:40:29.202119,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Golden State Warriors,-0.01469999999999999,0.2353,0.25
 2023-02-05 08:40:28.360046,Grammy Awards 2023 - Album of the Year - Grammys Album of the Year,Brandi Carlile - In These Silent Days,-0.014899999999999997,0.0476,0.0625
@@ -93,8 +93,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-05 08:40:28.448210,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Fred,-0.020799999999999985,0.3125,0.3333
 2023-02-05 09:40:27.653429,National League - England National League 2022/23 - Outright,Wrexham,-0.02080000000000004,0.6667,0.6875
 2023-02-05 08:40:28.840362,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - Number Of Songs In Rihanna's Set,Over 9.5,-0.02169999999999994,0.5238,0.5455
-2023-02-05 08:40:28.835803,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - First Song,Umbrella,-0.02310000000000001,0.0769,0.1
 2023-02-05 06:40:29.164113,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,New Orleans Pelicans,-0.02310000000000001,0.0769,0.1
+2023-02-05 08:40:28.835803,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - First Song,Umbrella,-0.02310000000000001,0.0769,0.1
 2023-02-05 06:40:29.189955,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Washington Wizards,-0.02310000000000001,0.0769,0.1
 2023-02-05 08:40:27.959141,College Basketball - American Athletic Regular Season Conference Winner - AAC Regular Season Winner,Memphis U,-0.02310000000000001,0.0769,0.1
 2023-02-05 08:40:27.974595,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,New Mexico,-0.0232,0.0435,0.0667
