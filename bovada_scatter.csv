@@ -4,14 +4,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-04 23:40:30.155416,Championship - England Championship 2022/23 - Top 6 Finish,Luton Town,0.19999999999999996,0.6,0.4
 2023-02-04 17:40:32.961852,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Outright,Rasmus Hojgaard,0.1588,0.4255,0.2667
 2023-02-04 23:40:30.139622,Championship - England Championship 2022/23 - To Be Relegated,Cardiff City,0.13670000000000004,0.4444,0.3077
+2023-02-05 01:40:48.582686,League Two - England - League Two 2022/23 - To Finish Bottom,Rochdale,0.13670000000000004,0.4444,0.3077
 2023-02-04 21:40:37.919375,Championship - England Championship 2022/23 - Outright,Burnley,0.125,0.875,0.75
 2023-02-05 00:40:28.856454,League One - England - League One 2022/23 - Outright,Sheffield Wednesday,0.12260000000000004,0.6226,0.5
 2023-02-04 18:40:33.743928,NBA Specials - LeBron James Specials - Where will the record be broken?,Home,0.10909999999999997,0.9091,0.8
 2023-02-04 23:40:30.155416,Championship - England Championship 2022/23 - Top 6 Finish,Middlesbrough,0.08550000000000002,0.7778,0.6923
+2023-02-05 01:40:48.578728,League Two - England - League Two 2022/23 - To Be Relegated,Rochdale,0.08339999999999992,0.6667,0.5833
 2023-02-04 23:40:30.155416,Championship - England Championship 2022/23 - Top 6 Finish,West Bromwich Albion,0.08330000000000004,0.5833,0.5
 2023-02-04 15:40:43.316349,Super Bowl 57 Specials - Super Bowl Specials  - Celebrity Specials - To Be Show During the Super Bowl Broadcast,Miles Teller,0.08329999999999999,0.3333,0.25
 2023-02-05 00:40:28.873881,League One - England - League One 2022/23 - Top 6 Finish,Peterborough United,0.07940000000000003,0.5238,0.4444
 2023-02-05 00:40:28.889843,League Two - England - League Two 2022/23 - Top 7 Finish,Stockport County,0.07790000000000008,0.7143,0.6364
+2023-02-05 01:40:48.578728,League Two - England - League Two 2022/23 - To Be Relegated,Crawley Town,0.07789999999999997,0.3636,0.2857
 2023-02-04 23:40:30.134333,Championship - England Championship 2022/23 - To Be Promoted,Luton Town,0.07069999999999999,0.1818,0.1111
 2023-02-04 21:40:37.990202,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester City,0.06930000000000003,0.5238,0.4545
 2023-02-04 23:40:30.139622,Championship - England Championship 2022/23 - To Be Relegated,Blackpool,0.06700000000000006,0.6226,0.5556
@@ -21,6 +24,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-04 23:40:30.144772,Championship - England Championship 2022/23 - To Finish Bottom,Blackpool,0.0635,0.2857,0.2222
 2023-02-05 00:40:28.883422,League Two - England - League Two 2022/23 - Outright,Leyton Orient,0.05980000000000002,0.4444,0.3846
 2023-02-05 00:40:28.867066,League One - England - League One 2022/23 - Top 2 Finish,Sheffield Wednesday,0.055499999999999994,0.8333,0.7778
+2023-02-05 01:40:48.574710,League Two - England - League Two 2022/23 - To Be Promoted,Stockport County,0.05520000000000003,0.4,0.3448
 2023-02-05 00:40:28.861833,League One - England - League One 2022/23 - To Be Promoted,Derby County,0.053100000000000036,0.4167,0.3636
 2023-02-04 23:40:30.139622,Championship - England Championship 2022/23 - To Be Relegated,Huddersfield Town,0.053099999999999925,0.6364,0.5833
 2023-02-04 17:40:32.961852,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Outright,Matthieu Pavon,0.05249999999999999,0.0769,0.0244
@@ -28,35 +32,31 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-05 00:40:28.889843,League Two - England - League Two 2022/23 - Top 7 Finish,Salford City,0.045499999999999985,0.5,0.4545
 2023-02-04 19:40:35.472328,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Malcolm Brogdon (BOS),0.04460000000000003,0.4082,0.3636
 2023-02-04 19:40:34.801598,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - To Occur During Rihanna's Performance On Stage,Jay Z to appear on stage,0.044399999999999995,0.4444,0.4
+2023-02-05 01:40:48.574710,League Two - England - League Two 2022/23 - To Be Promoted,Leyton Orient,0.044399999999999995,0.9333,0.8889
 2023-02-04 15:40:44.320988,Saudi International - Saudi International - Outright,Cameron Young,0.04410000000000003,0.3774,0.3333
 2023-02-05 00:40:28.861833,League One - England - League One 2022/23 - To Be Promoted,Sheffield Wednesday,0.04169999999999996,0.875,0.8333
 2023-02-04 22:40:31.468533,NBA Specials - LeBron James Specials - How will he break the scoring record? - Exact Method,Free Throw,0.04040000000000002,0.2222,0.1818
 2023-02-05 00:40:28.873881,League One - England - League One 2022/23 - Top 6 Finish,Wycombe,0.03570000000000001,0.2857,0.25
+2023-02-05 01:40:48.586770,League Two - England - League Two 2022/23 - Top 3 Finish,Leyton Orient,0.03420000000000001,0.9231,0.8889
 2023-02-05 00:40:28.873881,League One - England - League One 2022/23 - Top 6 Finish,Derby County,0.03420000000000001,0.9231,0.8889
 2023-02-04 23:40:30.144772,Championship - England Championship 2022/23 - To Finish Bottom,Cardiff City,0.034100000000000005,0.125,0.0909
 2023-02-04 23:40:30.134333,Championship - England Championship 2022/23 - To Be Promoted,Middlesbrough,0.03409999999999999,0.2667,0.2326
+2023-02-05 01:40:48.582686,League Two - England - League Two 2022/23 - To Finish Bottom,Crawley Town,0.033399999999999985,0.1667,0.1333
+2023-02-05 01:40:48.586770,League Two - England - League Two 2022/23 - Top 3 Finish,Stockport County,0.033300000000000024,0.2,0.1667
 2023-02-04 23:40:30.134333,Championship - England Championship 2022/23 - To Be Promoted,West Bromwich Albion,0.033300000000000024,0.2,0.1667
 2023-02-04 17:40:32.961852,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Outright,Nicolai Hojgaard,0.029299999999999993,0.0769,0.0476
 2023-02-04 15:40:43.382613,Super Bowl 57 Specials - Super Bowl Specials  - First TV Advertisement - Heineken vs Budweiser,Budweiser,0.028299999999999992,0.6774,0.6491
-2023-02-04 13:40:33.488681,AT&T Pebble Beach Pro-Am - 2/3 Balls - 3rd Round 2 Balls - K. Mitchell v K. Chappell - 3rd Round 2 Balls,Keith Mitchell,0.027800000000000047,0.7778,0.75
+2023-02-05 01:40:48.574710,League Two - England - League Two 2022/23 - To Be Promoted,Salford City,0.027999999999999997,0.1818,0.1538
 2023-02-04 23:40:30.139622,Championship - England Championship 2022/23 - To Be Relegated,Stoke City,0.0267,0.1176,0.0909
 2023-02-04 15:40:44.320988,Saudi International - Saudi International - Outright,Matthew Wolff,0.0262,0.0385,0.0123
-2023-02-04 12:40:33.813161,Boxing Lines - Timo Schwarzkopf vs Miguel Vazquez - To Win the Bout,Miguel Vazquez,0.024500000000000022,0.4167,0.3922
 2023-02-04 23:40:30.150069,Championship - England Championship 2022/23 - Top 2 Finish,Luton Town,0.024299999999999995,0.0588,0.0345
 2023-02-05 00:40:28.856454,League One - England - League One 2022/23 - Outright,Derby County,0.0242,0.0909,0.0667
-2023-02-04 13:40:33.711880,Round Match-Ups - 3rd Round Match-Up - N. Hardy v R. Shelton - 3rd Round Match-Up,Nick Hardy,0.023800000000000043,0.5238,0.5
 2023-02-04 14:40:35.413826,Round Match-Ups - 3rd Round Match-Up - M. Fitzpatrick vs S. Power - 3rd Round Match-Up,Seamus Power,0.023800000000000043,0.5238,0.5
-2023-02-04 13:40:33.623788,Round Match-Ups - 3rd Round Match-Up - B.H. An vs B. Taylor - 3rd Round Match-Up,Ben Taylor,0.023799999999999988,0.5,0.4762
-2023-02-04 13:40:33.536670,Round Match-Ups - 3rd Round Match-Up - B. Hossler vs K. Streelman - 3rd Round Match-Up,Beau Hossler,0.022600000000000064,0.6226,0.6
 2023-02-04 23:40:30.116352,A-League - Australia A-League 2022/23 - Grand Final Winner,Melbourne City,0.021699999999999997,0.4762,0.4545
-2023-02-04 12:40:35.807489,Round Match-Ups - 3rd Round Match-Up - G. Sigg vs R. Knox - 3rd Round Match-Up,Greyson Sigg,0.02169999999999994,0.5455,0.5238
-2023-02-04 13:40:33.647510,Round Match-Ups - 3rd Round Match-Up - M. Kim v L. Glover - 3rd Round Match-Up,Michael Kim,0.02169999999999994,0.5455,0.5238
-2023-02-04 13:40:33.592735,Round Match-Ups - 3rd Round Match-Up - S.H. Kim v W. Simpson - 3rd Round Match-Up ,S.H. Kim,0.02169999999999994,0.5455,0.5238
 2023-02-04 23:40:30.150069,Championship - England Championship 2022/23 - Top 2 Finish,Burnley,0.019199999999999995,0.9901,0.9709
 2023-02-05 00:40:28.873881,League One - England - League One 2022/23 - Top 6 Finish,Shrewsbury Town,0.019099999999999992,0.0667,0.0476
 2023-02-05 00:40:27.725595,Saudi International - 2/3 Balls - Final Round 3-Balls - P. Reed / R. Bland / H. D. Plessis - Final Round 3-Balls,Hennie Du Plessis,0.019000000000000017,0.2857,0.2667
 2023-02-04 17:40:32.961852,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Outright,Adri Arnaus,0.0189,0.0385,0.0196
-2023-02-04 13:40:33.607184,Round Match-Ups - 3rd Round Match-Up - J. Dahmen v L. Griffin - 3rd Round Match-Up,Joel Dahmen,0.01880000000000004,0.5744,0.5556
 2023-02-04 16:40:30.707468,Round Match-Ups - 3rd Round Match-Up - J. Dahmen v L. Griffin - 3rd Round Match-Up,Joel Dahmen,0.017299999999999982,0.5917,0.5744
 2023-02-05 00:40:28.861833,League One - England - League One 2022/23 - To Be Promoted,Bolton Wanderers,0.016699999999999993,0.2667,0.25
 2023-02-04 15:40:43.132528,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Nikki Haley,0.016600000000000004,0.0833,0.0667
@@ -64,24 +64,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-04 15:40:43.434514,Super Bowl 57 Specials - Super Bowl Specials  - How Many TickTok Videos Will jacksonmahomes Post During the Super Bowl,Over 1.5,0.01479999999999998,0.3922,0.3774
 2023-02-04 15:40:43.272332,Super Bowl 57 Specials - Super Bowl Specials  - America the Beautiful - Who Will be Shown first,Patrick Mahomes,0.014200000000000101,0.6296,0.6154
 2023-02-04 23:40:30.155416,Championship - England Championship 2022/23 - Top 6 Finish,Hull City,0.014099999999999998,0.0385,0.0244
-2023-02-04 23:40:30.139622,Championship - England Championship 2022/23 - To Be Relegated,Reading,0.014099999999999994,0.0667,0.0526
 2023-02-05 00:40:28.861833,League One - England - League One 2022/23 - To Be Promoted,Wycombe,0.014099999999999994,0.0667,0.0526
+2023-02-04 23:40:30.139622,Championship - England Championship 2022/23 - To Be Relegated,Reading,0.014099999999999994,0.0667,0.0526
 2023-02-04 23:40:30.116352,A-League - Australia A-League 2022/23 - Grand Final Winner,Sydney FC,0.013999999999999999,0.0909,0.0769
+2023-02-05 01:40:48.586770,League Two - England - League Two 2022/23 - Top 3 Finish,Salford City,0.013999999999999999,0.0909,0.0769
 2023-02-04 23:40:30.150069,Championship - England Championship 2022/23 - Top 2 Finish,Sheffield United,0.013900000000000023,0.8889,0.875
 2023-02-04 23:40:30.155416,Championship - England Championship 2022/23 - Top 6 Finish,Millwall,0.013600000000000001,0.3077,0.2941
 2023-02-04 17:40:32.961852,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Outright,Alexander Bjork,0.0131,0.0476,0.0345
 2023-02-04 17:40:32.961852,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Outright,Julien Guerrier,0.0116,0.0149,0.0033
+2023-02-05 01:40:48.574710,League Two - England - League Two 2022/23 - To Be Promoted,Grimsby Town,0.011199999999999995,0.0588,0.0476
 2023-02-04 22:40:30.803722,Boxing Lines - Ramla Ali vs Avril Mathie - To Win the Bout,Avril Mathie,0.011099999999999999,0.0667,0.0556
-2023-02-04 19:40:35.472328,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Norman Powell (LAC),0.010899999999999993,0.1538,0.1429
 2023-02-05 00:40:28.861833,League One - England - League One 2022/23 - To Be Promoted,Peterborough United,0.010899999999999993,0.1538,0.1429
+2023-02-04 19:40:35.472328,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Norman Powell (LAC),0.010899999999999993,0.1538,0.1429
+2023-02-05 01:40:48.389083,Serie A - Italy Serie A 2022/23 - Winner,Napoli,0.010199999999999987,0.9333,0.9231
 2023-02-04 21:40:37.990202,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester United,0.010100000000000001,0.0345,0.0244
 2023-02-04 15:40:43.434514,Super Bowl 57 Specials - Super Bowl Specials  - How Many TickTok Videos Will jacksonmahomes Post During the Super Bowl,Under 1.5,-0.010099999999999998,0.6774,0.6875
+2023-02-05 01:40:48.574710,League Two - England - League Two 2022/23 - To Be Promoted,Doncaster Rovers,-0.010100000000000001,0.0244,0.0345
+2023-02-05 01:40:48.389083,Serie A - Italy Serie A 2022/23 - Winner,Inter Milan,-0.0102,0.0667,0.0769
 2023-02-04 21:40:37.919375,Championship - England Championship 2022/23 - Outright,Watford,-0.0103,0.002,0.0123
 2023-02-05 00:40:27.184768,Boxing Lines - Alycia Baumgardner vs Elhem Mekhaled - To Win the Bout,Elhem Mekhaled,-0.010899999999999993,0.1429,0.1538
 2023-02-05 00:40:27.725595,Saudi International - 2/3 Balls - Final Round 3-Balls - P. Reed / R. Bland / H. D. Plessis - Final Round 3-Balls,Patrick Reed,-0.011099999999999999,0.4651,0.4762
-2023-02-04 23:40:30.116352,A-League - Australia A-League 2022/23 - Grand Final Winner,Macarthur FC,-0.011199999999999995,0.0476,0.0588
 2023-02-05 00:40:28.867066,League One - England - League One 2022/23 - Top 2 Finish,Barnsley,-0.011199999999999995,0.0476,0.0588
+2023-02-04 23:40:30.116352,A-League - Australia A-League 2022/23 - Grand Final Winner,Macarthur FC,-0.011199999999999995,0.0476,0.0588
+2023-02-05 01:40:48.586770,League Two - England - League Two 2022/23 - Top 3 Finish,Swindon Town,-0.011199999999999995,0.0476,0.0588
 2023-02-04 23:40:30.155416,Championship - England Championship 2022/23 - Top 6 Finish,Reading,-0.011199999999999995,0.0476,0.0588
+2023-02-05 01:40:48.574710,League Two - England - League Two 2022/23 - To Be Promoted,Sutton Utd,-0.011199999999999995,0.0476,0.0588
+2023-02-05 01:40:48.574710,League Two - England - League Two 2022/23 - To Be Promoted,Tranmere Rovers,-0.011199999999999995,0.0476,0.0588
 2023-02-05 00:40:28.861833,League One - England - League One 2022/23 - To Be Promoted,Port Vale,-0.0112,0.004,0.0152
 2023-02-04 15:40:44.320988,Saudi International - Saudi International - Outright,Talor Gooch,-0.0116,0.0033,0.0149
 2023-02-05 00:40:28.873881,League One - England - League One 2022/23 - Top 6 Finish,Bristol Rovers,-0.012100000000000001,0.0123,0.0244
@@ -91,37 +99,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-05 00:40:28.861833,League One - England - League One 2022/23 - To Be Promoted,Exeter City,-0.013,0.0066,0.0196
 2023-02-04 15:40:43.122018,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Kamala Harris,-0.013899999999999996,0.1111,0.125
 2023-02-04 15:40:44.320988,Saudi International - Saudi International - Outright,Jason Kokrak,-0.014099999999999998,0.0244,0.0385
+2023-02-05 01:40:48.574710,League Two - England - League Two 2022/23 - To Be Promoted,AFC Wimbledon,-0.014100000000000001,0.0385,0.0526
 2023-02-04 15:40:43.122018,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Pete Buttigieg,-0.014899999999999997,0.0476,0.0625
-2023-02-04 23:40:30.150069,Championship - England Championship 2022/23 - Top 2 Finish,Millwall,-0.014900000000000004,0.0196,0.0345
 2023-02-04 23:40:30.139622,Championship - England Championship 2022/23 - To Be Relegated,Coventry City,-0.014900000000000004,0.0196,0.0345
+2023-02-04 23:40:30.150069,Championship - England Championship 2022/23 - Top 2 Finish,Millwall,-0.014900000000000004,0.0196,0.0345
 2023-02-04 18:40:33.739174,NBA Specials - LeBron James Specials - When will the record be broken?,2/13/23 at Blazers,-0.015300000000000001,0.0323,0.0476
-2023-02-04 23:40:30.134333,Championship - England Championship 2022/23 - To Be Promoted,Preston North End,-0.018200000000000004,0.0294,0.0476
-2023-02-05 00:40:28.861833,League One - England - League One 2022/23 - To Be Promoted,Portsmouth,-0.018200000000000004,0.0294,0.0476
-2023-02-05 00:40:28.883422,League Two - England - League Two 2022/23 - Outright,Carlisle United,-0.018200000000000004,0.0294,0.0476
+2023-02-05 01:40:48.574710,League Two - England - League Two 2022/23 - To Be Promoted,Bradford City,-0.0174,0.2326,0.25
+2023-02-05 01:40:48.582686,League Two - England - League Two 2022/23 - To Finish Bottom,Harrogate Town,-0.018099999999999998,0.0588,0.0769
 2023-02-04 23:40:30.155416,Championship - England Championship 2022/23 - Top 6 Finish,Stoke City,-0.018200000000000004,0.0294,0.0476
-2023-02-04 13:40:33.536670,Round Match-Ups - 3rd Round Match-Up - B. Hossler vs K. Streelman - 3rd Round Match-Up,Kevin Streelman,-0.018900000000000028,0.4255,0.4444
+2023-02-05 00:40:28.861833,League One - England - League One 2022/23 - To Be Promoted,Portsmouth,-0.018200000000000004,0.0294,0.0476
+2023-02-04 23:40:30.134333,Championship - England Championship 2022/23 - To Be Promoted,Preston North End,-0.018200000000000004,0.0294,0.0476
+2023-02-05 00:40:28.883422,League Two - England - League Two 2022/23 - Outright,Carlisle United,-0.018200000000000004,0.0294,0.0476
 2023-02-04 15:40:43.272332,Super Bowl 57 Specials - Super Bowl Specials  - America the Beautiful - Who Will be Shown first,Jalen Hurts,-0.019699999999999995,0.4348,0.4545
-2023-02-04 13:40:33.623788,Round Match-Ups - 3rd Round Match-Up - B.H. An vs B. Taylor - 3rd Round Match-Up,Byeong Hun An,-0.01970000000000005,0.5455,0.5652
 2023-02-04 21:40:37.888975,1. Bundesliga - Germany Bundesliga 2022/23 - Winner,Bayern Munich,-0.020199999999999996,0.8889,0.9091
 2023-02-04 23:40:30.155416,Championship - England Championship 2022/23 - Top 6 Finish,Coventry City,-0.02020000000000001,0.0909,0.1111
 2023-02-04 16:40:30.707468,Round Match-Ups - 3rd Round Match-Up - J. Dahmen v L. Griffin - 3rd Round Match-Up,Lanto Griffin,-0.020699999999999996,0.4444,0.4651
-2023-02-04 13:40:33.711880,Round Match-Ups - 3rd Round Match-Up - N. Hardy v R. Shelton - 3rd Round Match-Up,Robby Shelton,-0.02169999999999994,0.5238,0.5455
 2023-02-04 14:40:35.413826,Round Match-Ups - 3rd Round Match-Up - M. Fitzpatrick vs S. Power - 3rd Round Match-Up,Matt Fitzpatrick,-0.02169999999999994,0.5238,0.5455
-2023-02-04 13:40:33.607184,Round Match-Ups - 3rd Round Match-Up - J. Dahmen v L. Griffin - 3rd Round Match-Up,Lanto Griffin,-0.022699999999999998,0.4651,0.4878
-2023-02-04 12:40:33.813161,Boxing Lines - Timo Schwarzkopf vs Miguel Vazquez - To Win the Bout,Timo Schwarzkopf,-0.02300000000000002,0.6491,0.6721
 2023-02-05 00:40:28.873881,League One - England - League One 2022/23 - Top 6 Finish,Exeter City,-0.023200000000000002,0.0244,0.0476
 2023-02-05 00:40:28.873881,League One - England - League One 2022/23 - Top 6 Finish,Oxford United,-0.0236,0.0149,0.0385
 2023-02-04 15:40:44.320988,Saudi International - Saudi International - Outright,Paul Casey,-0.0236,0.0149,0.0385
-2023-02-04 12:40:35.807489,Round Match-Ups - 3rd Round Match-Up - G. Sigg vs R. Knox - 3rd Round Match-Up,Russell Knox,-0.023800000000000043,0.5,0.5238
 2023-02-04 23:40:30.139622,Championship - England Championship 2022/23 - To Be Relegated,Rotherham Utd,-0.023800000000000043,0.5,0.5238
-2023-02-04 13:40:33.592735,Round Match-Ups - 3rd Round Match-Up - S.H. Kim v W. Simpson - 3rd Round Match-Up ,Webb Simpson,-0.023800000000000043,0.5,0.5238
-2023-02-04 13:40:33.647510,Round Match-Ups - 3rd Round Match-Up - M. Kim v L. Glover - 3rd Round Match-Up,Lucas Glover,-0.023800000000000043,0.5,0.5238
+2023-02-05 01:40:48.380657,Ligue 1 - France Ligue 1 2022/23 - Winner,Marseille,-0.024,0.0385,0.0625
 2023-02-04 15:40:43.382613,Super Bowl 57 Specials - Super Bowl Specials  - First TV Advertisement - Heineken vs Budweiser,Heineken,-0.024500000000000022,0.3922,0.4167
 2023-02-04 15:40:43.122018,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Gavin Newsom,-0.024999999999999994,0.1,0.125
 2023-02-04 23:40:30.155416,Championship - England Championship 2022/23 - Top 6 Finish,Blackburn Rovers,-0.02560000000000001,0.3077,0.3333
 2023-02-04 18:40:33.739174,NBA Specials - LeBron James Specials - When will the record be broken?,2/7/23 vs Thunder,-0.026500000000000024,0.3509,0.3774
 2023-02-04 18:40:33.739174,NBA Specials - LeBron James Specials - When will the record be broken?,2/28/23 at Grizzlies or Later,-0.0273,0.005,0.0323
-2023-02-04 13:40:33.488681,AT&T Pebble Beach Pro-Am - 2/3 Balls - 3rd Round 2 Balls - K. Mitchell v K. Chappell - 3rd Round 2 Balls,Kevin Chappell,-0.02739999999999998,0.2667,0.2941
 2023-02-05 00:40:28.873881,League One - England - League One 2022/23 - Top 6 Finish,Port Vale,-0.028000000000000004,0.0196,0.0476
 2023-02-04 23:40:30.150069,Championship - England Championship 2022/23 - Top 2 Finish,Watford,-0.0282,0.0244,0.0526
 2023-02-04 23:40:30.134333,Championship - England Championship 2022/23 - To Be Promoted,Norwich City,-0.03259999999999999,0.2,0.2326
@@ -133,6 +136,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-04 23:40:30.134333,Championship - England Championship 2022/23 - To Be Promoted,Watford,-0.04169999999999999,0.125,0.1667
 2023-02-04 15:40:44.320988,Saudi International - Saudi International - Outright,Lucas Herbert,-0.04329999999999999,0.0476,0.0909
 2023-02-04 23:40:30.155416,Championship - England Championship 2022/23 - Top 6 Finish,Norwich City,-0.044399999999999995,0.5556,0.6
+2023-02-05 01:40:48.578728,League Two - England - League Two 2022/23 - To Be Relegated,Hartlepool United,-0.04760000000000009,0.6667,0.7143
 2023-02-04 23:40:30.139622,Championship - England Championship 2022/23 - To Be Relegated,Bristol City,-0.048100000000000004,0.0769,0.125
 2023-02-04 23:40:30.155416,Championship - England Championship 2022/23 - Top 6 Finish,Swansea City,-0.04849999999999999,0.1333,0.1818
 2023-02-05 00:40:28.861833,League One - England - League One 2022/23 - To Be Promoted,Plymouth Argyle,-0.05449999999999999,0.5455,0.6
@@ -140,9 +144,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-05 00:40:28.883422,League Two - England - League Two 2022/23 - Outright,Stevenage,-0.05559999999999998,0.5,0.5556
 2023-02-05 00:40:28.873881,League One - England - League One 2022/23 - Top 6 Finish,Portsmouth,-0.05559999999999998,0.1111,0.1667
 2023-02-04 15:40:44.320988,Saudi International - Saudi International - Outright,Marc Leishman,-0.056799999999999996,0.0099,0.0667
+2023-02-05 01:40:48.586770,League Two - England - League Two 2022/23 - Top 3 Finish,Carlisle United,-0.0635,0.2222,0.2857
 2023-02-04 15:40:43.114020,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Field,-0.06519999999999998,0.4348,0.5
+2023-02-05 01:40:48.574710,League Two - England - League Two 2022/23 - To Be Promoted,Carlisle United,-0.06670000000000004,0.3333,0.4
 2023-02-05 00:40:28.889843,League Two - England - League Two 2022/23 - Top 7 Finish,Carlisle United,-0.06670000000000009,0.7333,0.8
 2023-02-05 00:40:28.867066,League One - England - League One 2022/23 - Top 2 Finish,Plymouth Argyle,-0.06930000000000003,0.4545,0.5238
+2023-02-05 01:40:48.578728,League Two - England - League Two 2022/23 - To Be Relegated,Harrogate Town,-0.07500000000000001,0.125,0.2
 2023-02-05 00:40:28.867066,League One - England - League One 2022/23 - Top 2 Finish,Ipswich Town,-0.07619999999999993,0.5238,0.6
 2023-02-04 23:40:30.155416,Championship - England Championship 2022/23 - Top 6 Finish,Preston North End,-0.08179999999999998,0.1,0.1818
 2023-02-04 23:40:30.155416,Championship - England Championship 2022/23 - Top 6 Finish,Queens Park Rangers,-0.08339999999999999,0.0833,0.1667
@@ -153,5 +160,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-04 21:40:37.919375,Championship - England Championship 2022/23 - Outright,Sheffield United,-0.10769999999999996,0.2,0.3077
 2023-02-04 18:40:33.743928,NBA Specials - LeBron James Specials - Where will the record be broken?,Away,-0.11900000000000002,0.1667,0.2857
 2023-02-04 23:40:30.139622,Championship - England Championship 2022/23 - To Be Relegated,Birmingham City,-0.1428,0.1429,0.2857
+2023-02-05 01:40:48.582686,League Two - England - League Two 2022/23 - To Finish Bottom,Hartlepool United,-0.1552,0.3448,0.5
 2023-02-04 23:40:30.155416,Championship - England Championship 2022/23 - Top 6 Finish,Watford,-0.15559999999999996,0.4,0.5556
 2023-02-04 17:40:32.961852,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Outright,Adrian Meronk,-0.2467,0.0033,0.25
