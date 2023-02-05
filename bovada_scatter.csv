@@ -1,8 +1,14 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2023-02-05 21:40:33.058937,Super Bowl 57 Specials - Super Bowl Specials  - Celebrity Specials - To Be Show During the Super Bowl Broadcast,Miles Teller,0.19050000000000006,0.5238,0.3333
 2023-02-05 19:40:30.213161,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Arsenal,0.07939999999999997,0.5556,0.4762
+2023-02-05 22:40:28.165057,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Los Angeles Clippers,0.0781,0.3448,0.2667
+2023-02-05 22:40:28.131436,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Dallas Mavericks,0.0769,0.1538,0.0769
+2023-02-05 22:40:28.159062,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Dallas Mavericks,0.07579999999999999,0.1667,0.0909
 2023-02-05 20:40:31.049154,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,No,0.06659999999999999,0.3333,0.2667
+2023-02-05 22:40:28.165057,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Phoenix Suns,0.057699999999999974,0.3077,0.25
 2023-02-05 18:40:28.603484,Grammy Awards 2023 - Album of the Year - Grammys Album of the Year,Beyonce - Renaissance,0.055499999999999994,0.8333,0.7778
 2023-02-05 19:40:28.996736,Grammy Awards 2023 - Album of the Year - Grammys Album of the Year,Adele - 30,0.04999999999999999,0.25,0.2
+2023-02-05 22:40:28.474485,Grammy Awards 2023 - Best New Artist - Grammys Best New Artist,Wet Leg,0.04999999999999999,0.25,0.2
 2023-02-05 21:40:33.058937,Super Bowl 57 Specials - Super Bowl Specials  - Celebrity Specials - To Be Show During the Super Bowl Broadcast,Mike Trout,0.04620000000000002,0.5917,0.5455
 2023-02-05 16:40:29.551494,Grammy Awards 2023 - Record of the Year - Grammys Record of the Year,As It Was - Harry Styles,0.0393,0.4167,0.3774
 2023-02-05 18:40:28.628875,Grammy Awards 2023 - Song of the Year - Grammys Song of the Year,Harry Styles - As It Was,0.03640000000000004,0.4,0.3636
@@ -13,6 +19,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-05 21:40:33.748037,Grammy Awards 2023 - Best Music Video - Grammys Best Music Video,Kendrick Lamar - The Heart Part 5,0.028799999999999992,0.1538,0.125
 2023-02-05 21:40:33.767233,Grammy Awards 2023 - Song of the Year - Grammys Song of the Year,Adele - Easy On Me,0.023800000000000043,0.5238,0.5
 2023-02-05 21:40:33.761286,Grammy Awards 2023 - Record of the Year - Grammys Record of the Year,Bad Habit - Steve Lacy,0.02020000000000001,0.1111,0.0909
+2023-02-05 22:40:28.481180,Grammy Awards 2023 - Record of the Year - Grammys Record of the Year,Easy On Me - Adele,0.01970000000000005,0.5652,0.5455
 2023-02-05 16:40:29.534240,Grammy Awards 2023 - Album of the Year - Grammys Album of the Year,Brandi Carlile - In These Silent Days,0.019099999999999992,0.0667,0.0476
 2023-02-05 17:40:28.560194,Grammy Awards 2023 - Record of the Year - Grammys Record of the Year,As It Was - Harry Styles,0.018100000000000005,0.4348,0.4167
 2023-02-05 21:40:33.761286,Grammy Awards 2023 - Record of the Year - Grammys Record of the Year,About Damn Time - Lizzo,0.0179,0.1429,0.125
@@ -20,21 +27,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-05 18:40:28.116362,MLB - Odds to win 2023 World Series - World Series Winner 2023,Toronto Blue Jays,0.014399999999999996,0.0769,0.0625
 2023-02-05 14:40:26.985058,Boxing Lines - Rey Vargas vs O'Shaquie Foster - To Win the Bout,O'Shaquie Foster,0.01419999999999999,0.3846,0.3704
 2023-02-05 21:40:33.767233,Grammy Awards 2023 - Song of the Year - Grammys Song of the Year,Lizzo - About Damn Time,0.013999999999999999,0.0909,0.0769
-2023-02-05 21:40:33.767233,Grammy Awards 2023 - Song of the Year - Grammys Song of the Year,Steve Lacy - Bad Habit,0.013899999999999996,0.125,0.1111
 2023-02-05 18:40:28.116362,MLB - Odds to win 2023 World Series - World Series Winner 2023,Los Angeles Dodgers,0.013899999999999996,0.125,0.1111
-2023-02-05 19:40:30.213161,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester United,0.0131,0.0476,0.0345
+2023-02-05 21:40:33.767233,Grammy Awards 2023 - Song of the Year - Grammys Song of the Year,Steve Lacy - Bad Habit,0.013899999999999996,0.125,0.1111
 2023-02-05 18:40:28.628875,Grammy Awards 2023 - Song of the Year - Grammys Song of the Year,"Taylor Swift - All Too Well (10 Minute Version, Taylor's Version)",0.0131,0.2353,0.2222
+2023-02-05 19:40:30.213161,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester United,0.0131,0.0476,0.0345
 2023-02-05 18:40:28.116362,MLB - Odds to win 2023 World Series - World Series Winner 2023,Milwaukee Brewers,0.010600000000000002,0.0323,0.0217
 2023-02-05 21:40:33.754789,Grammy Awards 2023 - Best New Artist - Grammys Best New Artist,Maneskin,0.010499999999999982,0.2105,0.2
 2023-02-05 21:40:33.761286,Grammy Awards 2023 - Record of the Year - Grammys Record of the Year,Easy On Me - Adele,-0.010099999999999998,0.5455,0.5556
-2023-02-05 18:40:28.628875,Grammy Awards 2023 - Song of the Year - Grammys Song of the Year,Adele - Easy On Me,-0.012199999999999989,0.5,0.5122
+2023-02-05 22:40:28.131436,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,New Orleans Pelicans,-0.0102,0.0667,0.0769
+2023-02-05 22:40:28.474485,Grammy Awards 2023 - Best New Artist - Grammys Best New Artist,Latto,-0.0116,0.4762,0.4878
 2023-02-05 21:40:33.754789,Grammy Awards 2023 - Best New Artist - Grammys Best New Artist,Latto,-0.012199999999999989,0.4878,0.5
+2023-02-05 18:40:28.628875,Grammy Awards 2023 - Song of the Year - Grammys Song of the Year,Adele - Easy On Me,-0.012199999999999989,0.5,0.5122
 2023-02-05 14:40:26.985058,Boxing Lines - Rey Vargas vs O'Shaquie Foster - To Win the Bout,Rey Vargas,-0.014900000000000024,0.6774,0.6923
+2023-02-05 22:40:28.131436,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Lakers,-0.016600000000000004,0.0667,0.0833
 2023-02-05 16:40:29.551494,Grammy Awards 2023 - Record of the Year - Grammys Record of the Year,Easy On Me - Adele,-0.018100000000000005,0.5652,0.5833
 2023-02-05 18:40:28.603484,Grammy Awards 2023 - Album of the Year - Grammys Album of the Year,Harry Styles - Harry's House,-0.01820000000000002,0.1818,0.2
+2023-02-05 22:40:28.131436,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Clippers,-0.01820000000000002,0.1818,0.2
+2023-02-05 22:40:28.131436,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Golden State Warriors,-0.01820000000000002,0.1818,0.2
+2023-02-05 22:40:28.474485,Grammy Awards 2023 - Best New Artist - Grammys Best New Artist,Maneskin,-0.01999999999999999,0.1905,0.2105
 2023-02-05 18:40:28.603484,Grammy Awards 2023 - Album of the Year - Grammys Album of the Year,Adele - 30,-0.022199999999999998,0.2,0.2222
 2023-02-05 21:40:34.011943,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Brooklyn Nets,-0.024,0.0385,0.0625
 2023-02-05 21:40:34.571970,1. Bundesliga - Germany Bundesliga 2022/23 - Winner,RB Leipzig,-0.03330000000000001,0.0667,0.1
+2023-02-05 22:40:28.474485,Grammy Awards 2023 - Best New Artist - Grammys Best New Artist,Anitta,-0.044399999999999995,0.4,0.4444
+2023-02-05 22:40:28.159062,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Memphis Grizzlies,-0.04810000000000003,0.875,0.9231
 2023-02-05 21:40:33.767233,Grammy Awards 2023 - Song of the Year - Grammys Song of the Year,Harry Styles - As It Was,-0.06670000000000004,0.3333,0.4
 2023-02-05 20:40:31.049154,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,Yes,-0.06670000000000009,0.7333,0.8
 2023-02-05 19:40:30.213161,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester City,-0.08900000000000002,0.4348,0.5238
+2023-02-05 22:40:28.165057,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Golden State Warriors,-0.09240000000000001,0.1429,0.2353
