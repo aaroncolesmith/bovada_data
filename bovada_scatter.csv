@@ -1,8 +1,9 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2023-02-06 08:40:28.031090,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Virginia Commonwealth,0.25259999999999994,0.697,0.4444
 2023-02-05 21:40:33.058937,Super Bowl 57 Specials - Super Bowl Specials  - Celebrity Specials - To Be Show During the Super Bowl Broadcast,Miles Teller,0.19050000000000006,0.5238,0.3333
+2023-02-06 08:40:28.020719,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Pittsburgh,0.1524,0.2,0.0476
 2023-02-06 01:40:30.877281,La Liga - Spain La Liga 2022/23 - Winner,FC Barcelona,0.13129999999999997,0.9091,0.7778
 2023-02-06 01:40:31.050903,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Hibernian,0.08330000000000004,0.8333,0.75
-2023-02-05 19:40:30.213161,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Arsenal,0.07939999999999997,0.5556,0.4762
 2023-02-05 22:40:28.165057,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Los Angeles Clippers,0.0781,0.3448,0.2667
 2023-02-05 22:40:28.131436,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Dallas Mavericks,0.0769,0.1538,0.0769
 2023-02-05 22:40:28.159062,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Dallas Mavericks,0.07579999999999999,0.1667,0.0909
@@ -10,8 +11,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-05 20:40:31.049154,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,No,0.06659999999999999,0.3333,0.2667
 2023-02-05 22:40:28.165057,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Phoenix Suns,0.057699999999999974,0.3077,0.25
 2023-02-05 22:40:28.474485,Grammy Awards 2023 - Best New Artist - Grammys Best New Artist,Wet Leg,0.04999999999999999,0.25,0.2
+2023-02-06 08:40:27.822361,State Of The Union - Length Of Address - Length Of State Of The Union Address 2023,63 minutes or under,0.04849999999999999,0.5833,0.5348
 2023-02-06 07:40:27.766655,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Milwaukee Bucks,0.04810000000000003,0.9,0.8519
 2023-02-05 21:40:33.058937,Super Bowl 57 Specials - Super Bowl Specials  - Celebrity Specials - To Be Show During the Super Bowl Broadcast,Mike Trout,0.04620000000000002,0.5917,0.5455
+2023-02-06 08:40:28.020719,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Duke,0.044599999999999994,0.0769,0.0323
+2023-02-06 08:40:28.020719,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Miami (FL),0.04329999999999999,0.0909,0.0476
 2023-02-05 23:40:31.038081,Grammy Awards 2023 - Song of the Year - Grammys Song of the Year,Adele - Easy On Me,0.04139999999999999,0.5652,0.5238
 2023-02-06 01:40:31.044567,Premiership - Scotland Premiership 2022/23 - To Finish Bottom,Motherwell,0.04040000000000002,0.2222,0.1818
 2023-02-06 07:40:27.786086,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Los Angeles Clippers,0.0398,0.3846,0.3448
@@ -28,9 +32,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-05 23:40:30.945202,95th Academy Awards - Best Original Score - Best Original Score,Justin Hurwitz - Babylon,0.025600000000000067,0.6923,0.6667
 2023-02-06 07:40:27.786086,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Phoenix Suns,0.02560000000000001,0.3333,0.3077
 2023-02-05 23:40:32.540380,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Hibernian,0.0242,0.0909,0.0667
-2023-02-06 07:40:27.755376,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,New Orleans Pelicans,0.0242,0.0909,0.0667
 2023-02-06 07:40:27.781217,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,New Orleans Pelicans,0.0242,0.0909,0.0667
+2023-02-06 07:40:27.755376,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,New Orleans Pelicans,0.0242,0.0909,0.0667
 2023-02-05 21:40:33.767233,Grammy Awards 2023 - Song of the Year - Grammys Song of the Year,Adele - Easy On Me,0.023800000000000043,0.5238,0.5
+2023-02-06 08:40:27.958898,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Philadelphia 76ers,0.02310000000000001,0.1,0.0769
+2023-02-06 08:40:28.020719,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,NC State,0.022099999999999998,0.0385,0.0164
 2023-02-05 21:40:33.761286,Grammy Awards 2023 - Record of the Year - Grammys Record of the Year,Bad Habit - Steve Lacy,0.02020000000000001,0.1111,0.0909
 2023-02-05 23:40:32.540380,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Hearts,0.020199999999999996,0.9091,0.8889
 2023-02-05 22:40:28.481180,Grammy Awards 2023 - Record of the Year - Grammys Record of the Year,Easy On Me - Adele,0.01970000000000005,0.5652,0.5455
@@ -39,32 +45,36 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-05 21:40:33.761286,Grammy Awards 2023 - Record of the Year - Grammys Record of the Year,About Damn Time - Lizzo,0.0179,0.1429,0.125
 2023-02-06 03:40:30.010903,Japan B League - Japan League B1 2022/23 - Outright,Kawasaki Brave Thunders,0.016600000000000004,0.0833,0.0667
 2023-02-05 21:40:33.767233,Grammy Awards 2023 - Song of the Year - Grammys Song of the Year,"Taylor Swift - All Too Well (10 Minute Version, Taylor's Version)",0.01469999999999999,0.25,0.2353
+2023-02-06 08:40:27.958898,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Los Angeles Clippers,0.01440000000000001,0.1053,0.0909
 2023-02-06 07:40:27.749987,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Boston Celtics,0.01419999999999999,0.3846,0.3704
 2023-02-05 21:40:33.767233,Grammy Awards 2023 - Song of the Year - Grammys Song of the Year,Lizzo - About Damn Time,0.013999999999999999,0.0909,0.0769
 2023-02-05 21:40:33.767233,Grammy Awards 2023 - Song of the Year - Grammys Song of the Year,Steve Lacy - Bad Habit,0.013899999999999996,0.125,0.1111
-2023-02-05 19:40:30.213161,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester United,0.0131,0.0476,0.0345
 2023-02-06 07:40:27.749987,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Miami Heat,0.011199999999999995,0.0588,0.0476
 2023-02-06 07:40:27.749987,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Milwaukee Bucks,0.011099999999999999,0.2778,0.2667
 2023-02-05 23:40:32.428457,A-League - Australia A-League 2022/23 - Grand Final Winner,Western Sydney Wanderers,0.010899999999999993,0.1538,0.1429
 2023-02-05 21:40:33.754789,Grammy Awards 2023 - Best New Artist - Grammys Best New Artist,Maneskin,0.010499999999999982,0.2105,0.2
+2023-02-06 08:40:27.958898,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Boston Celtics,0.010399999999999993,0.2326,0.2222
 2023-02-05 21:40:33.761286,Grammy Awards 2023 - Record of the Year - Grammys Record of the Year,Easy On Me - Adele,-0.010099999999999998,0.5455,0.5556
+2023-02-06 08:40:27.958898,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Dallas Mavericks,-0.0102,0.0667,0.0769
 2023-02-05 22:40:28.131436,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,New Orleans Pelicans,-0.0102,0.0667,0.0769
 2023-02-06 07:40:27.755376,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Dallas Mavericks,-0.010899999999999993,0.1429,0.1538
+2023-02-06 08:40:27.958898,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Los Angeles Lakers,-0.011199999999999995,0.0323,0.0435
 2023-02-06 07:40:27.710710,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Jake Paul,-0.011499999999999955,0.6552,0.6667
 2023-02-05 22:40:28.474485,Grammy Awards 2023 - Best New Artist - Grammys Best New Artist,Latto,-0.0116,0.4762,0.4878
 2023-02-05 21:40:33.754789,Grammy Awards 2023 - Best New Artist - Grammys Best New Artist,Latto,-0.012199999999999989,0.4878,0.5
 2023-02-06 07:40:27.781217,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Dallas Mavericks,-0.012899999999999995,0.1538,0.1667
-2023-02-06 03:40:30.010903,Japan B League - Japan League B1 2022/23 - Outright,Hiroshima Dragonflies,-0.013899999999999996,0.1111,0.125
+2023-02-06 08:40:28.025746,College Basketball - American Athletic Regular Season Conference Winner - AAC Regular Season Winner,Central Florida,-0.013,0.0066,0.0196
 2023-02-06 03:40:30.010903,Japan B League - Japan League B1 2022/23 - Outright,Ryukyu Golden Kings,-0.013899999999999996,0.1111,0.125
+2023-02-06 03:40:30.010903,Japan B League - Japan League B1 2022/23 - Outright,Hiroshima Dragonflies,-0.013899999999999996,0.1111,0.125
 2023-02-05 23:40:32.540380,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Livingston,-0.013999999999999999,0.0769,0.0909
 2023-02-05 22:40:28.131436,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Lakers,-0.016600000000000004,0.0667,0.0833
 2023-02-06 07:40:27.781217,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Memphis Grizzlies,-0.017900000000000027,0.8571,0.875
 2023-02-05 23:40:32.540380,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,St. Mirren,-0.018099999999999998,0.0588,0.0769
-2023-02-06 01:40:31.050903,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Dundee United,-0.018200000000000004,0.0294,0.0476
 2023-02-06 01:40:31.044567,Premiership - Scotland Premiership 2022/23 - To Finish Bottom,St. Johnstone,-0.018200000000000004,0.0294,0.0476
-2023-02-05 22:40:28.131436,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Golden State Warriors,-0.01820000000000002,0.1818,0.2
+2023-02-06 01:40:31.050903,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Dundee United,-0.018200000000000004,0.0294,0.0476
 2023-02-05 22:40:28.131436,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Clippers,-0.01820000000000002,0.1818,0.2
 2023-02-06 01:40:31.050903,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,St. Johnstone,-0.01820000000000002,0.1818,0.2
+2023-02-05 22:40:28.131436,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Golden State Warriors,-0.01820000000000002,0.1818,0.2
 2023-02-05 22:40:28.474485,Grammy Awards 2023 - Best New Artist - Grammys Best New Artist,Maneskin,-0.01999999999999999,0.1905,0.2105
 2023-02-05 21:40:34.011943,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Brooklyn Nets,-0.024,0.0385,0.0625
 2023-02-06 07:40:27.786086,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Golden State Warriors,-0.025300000000000003,0.1176,0.1429
@@ -73,12 +83,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-06 01:40:31.050903,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Motherwell,-0.033100000000000004,0.0294,0.0625
 2023-02-05 21:40:34.571970,1. Bundesliga - Germany Bundesliga 2022/23 - Winner,RB Leipzig,-0.03330000000000001,0.0667,0.1
 2023-02-06 07:40:27.761812,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Philadelphia 76ers,-0.03670000000000001,0.1538,0.1905
+2023-02-06 08:40:28.020719,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,North Carolina,-0.0384,0.0385,0.0769
 2023-02-06 07:40:27.766655,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Cleveland Cavaliers,-0.04040000000000002,0.1818,0.2222
 2023-02-06 01:40:31.050903,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,St. Mirren,-0.040999999999999925,0.6923,0.7333
 2023-02-05 22:40:28.474485,Grammy Awards 2023 - Best New Artist - Grammys Best New Artist,Anitta,-0.044399999999999995,0.4,0.4444
 2023-02-05 22:40:28.159062,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Memphis Grizzlies,-0.04810000000000003,0.875,0.9231
 2023-02-05 21:40:33.767233,Grammy Awards 2023 - Song of the Year - Grammys Song of the Year,Harry Styles - As It Was,-0.06670000000000004,0.3333,0.4
 2023-02-05 20:40:31.049154,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,Yes,-0.06670000000000009,0.7333,0.8
-2023-02-05 19:40:30.213161,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester City,-0.08900000000000002,0.4348,0.5238
 2023-02-05 22:40:28.165057,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Golden State Warriors,-0.09240000000000001,0.1429,0.2353
 2023-02-06 01:40:30.877281,La Liga - Spain La Liga 2022/23 - Winner,Real Madrid,-0.11900000000000002,0.1667,0.2857
+2023-02-06 08:40:28.031090,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Saint Louis,-0.12279999999999999,0.2105,0.3333
