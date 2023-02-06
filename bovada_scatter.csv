@@ -1,15 +1,17 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-06 13:40:30.292629,State Of The Union - To Be Said By Biden In The State of The Union Address 2023 - To Be Said During Address,National security,0.20830000000000004,0.875,0.6667
-2023-02-06 19:40:34.303079,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,China,0.20160000000000006,0.5652,0.3636
-2023-02-06 20:40:31.310744,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,China,0.20160000000000006,0.5652,0.3636
-2023-02-06 21:40:35.454156,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,China,0.20160000000000006,0.5652,0.3636
+2023-02-06 22:40:27.581071,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,China,0.20160000000000006,0.5652,0.3636
 2023-02-06 18:40:35.360167,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,China,0.20160000000000006,0.5652,0.3636
+2023-02-06 21:40:35.454156,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,China,0.20160000000000006,0.5652,0.3636
+2023-02-06 20:40:31.310744,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,China,0.20160000000000006,0.5652,0.3636
+2023-02-06 19:40:34.303079,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,China,0.20160000000000006,0.5652,0.3636
 2023-02-06 18:40:35.559735,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Washington Wizards,0.17820000000000003,0.6226,0.4444
 2023-02-06 20:40:33.611198,NBA Specials - LeBron James Specials - How will he break the scoring record? - Exact Method,2-PT FG,0.1499999999999999,0.7333,0.5833
 2023-02-06 18:40:35.559735,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Brooklyn Nets,0.1447,0.25,0.1053
-2023-02-06 18:40:35.360167,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,Russia,0.13640000000000002,0.5,0.3636
-2023-02-06 19:40:34.303079,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,Russia,0.13640000000000002,0.5,0.3636
 2023-02-06 20:40:31.310744,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,Russia,0.13640000000000002,0.5,0.3636
+2023-02-06 22:40:27.581071,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,Russia,0.13640000000000002,0.5,0.3636
+2023-02-06 19:40:34.303079,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,Russia,0.13640000000000002,0.5,0.3636
+2023-02-06 18:40:35.360167,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,Russia,0.13640000000000002,0.5,0.3636
 2023-02-06 21:40:35.454156,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,Russia,0.13640000000000002,0.5,0.3636
 2023-02-06 20:40:33.589676,NBA Specials - LeBron James Specials - In Which Quarter will the record be broken?,2nd Q,0.11359999999999998,0.3636,0.25
 2023-02-06 12:40:26.588846,State Of The Union - To Be Said By Biden In The State of The Union Address 2023 - To Be Said During Address,National security,0.11109999999999998,0.6667,0.5556
@@ -17,50 +19,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-06 20:40:33.595062,NBA Specials - LeBron James Specials - When will the record be broken?,2/9/23 vs Bucks,0.08330000000000004,0.75,0.6667
 2023-02-06 14:40:38.301658,State Of The Union - To Be Said By Biden In The State of The Union Address 2023 - To Be Said During Address,Dreamers,0.08330000000000004,0.75,0.6667
 2023-02-06 18:40:35.559735,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Toronto Raptors,0.06700000000000006,0.6226,0.5556
-2023-02-06 10:40:29.386163,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - To Occur During Rihanna's Performance On Stage,Drake to appear on stage,0.05559999999999998,0.5,0.4444
-2023-02-06 10:40:29.386163,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - To Occur During Rihanna's Performance On Stage,A$AP Rocky to appear on stage,0.053100000000000036,0.4167,0.3636
 2023-02-06 21:40:36.795124,NBA Specials - LeBron James Specials - Record Parlays,Breaks Record in the 2nd Quarter with a Layup (Any Game),0.04849999999999999,0.1538,0.1053
-2023-02-06 10:40:29.237277,Super Bowl 57 Specials - Super Bowl Specials  -  What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 57?,Lime/Green/Yellow,0.047599999999999976,0.3333,0.2857
-2023-02-06 10:40:29.237277,Super Bowl 57 Specials - Super Bowl Specials  -  What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 57?,Orange,0.044499999999999984,0.2667,0.2222
-2023-02-06 10:40:28.887396,95th Academy Awards - Best Live Action Short Film - Best Live Action Short Film,Le Pupille,0.044399999999999995,0.4444,0.4
 2023-02-06 19:40:34.298985,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,European Union,0.04409999999999992,0.6667,0.6226
 2023-02-06 21:40:37.824316,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Arsenal,0.0393,0.6226,0.5833
 2023-02-06 15:40:35.584043,State Of The Union - To Be Said By Biden In The State of The Union Address 2023 - To Be Said During Address,Reach across party lines,0.03639999999999999,0.6364,0.6
 2023-02-06 21:40:37.824316,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester United,0.035699999999999996,0.0833,0.0476
 2023-02-06 19:40:34.264706,State Of The Union - Chinese Balloon Specials - Number Of Times China Is Said,3,0.033399999999999985,0.1667,0.1333
-2023-02-06 10:40:28.875908,95th Academy Awards - Best Film Editing - Best Film Editing,Top Gun: Maverick,0.031799999999999995,0.4762,0.4444
-2023-02-06 10:40:28.827627,95th Academy Awards - Best Actor - Best Actor,Colin Farrell - The Banshees of Inisherin,0.031399999999999983,0.2667,0.2353
 2023-02-06 19:40:34.264706,State Of The Union - Chinese Balloon Specials - Number Of Times China Is Said,2,0.030299999999999994,0.3636,0.3333
-2023-02-06 10:40:28.850954,95th Academy Awards - Best Cinematography - Best Cinematography,Mandy Walker - Elvis,0.028700000000000003,0.2105,0.1818
 2023-02-06 10:40:30.318730,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Arsenal,0.027700000000000058,0.5833,0.5556
 2023-02-06 15:40:36.746936,Super Bowl 57 Specials - Super Bowl Specials  -  What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 57?,Blue,0.025499999999999967,0.4255,0.4
-2023-02-06 21:40:36.795124,NBA Specials - LeBron James Specials - Record Parlays,Breaks Record in the 2nd Quarter with a 3-PT Field Goal (Any Game),0.0245,0.0833,0.0588
 2023-02-06 21:40:36.795124,NBA Specials - LeBron James Specials - Record Parlays,Breaks Record in the 2nd Quarter by Any Other Method (Any Game),0.0245,0.0833,0.0588
+2023-02-06 21:40:36.795124,NBA Specials - LeBron James Specials - Record Parlays,Breaks Record in the 2nd Quarter with a 3-PT Field Goal (Any Game),0.0245,0.0833,0.0588
 2023-02-06 11:40:37.875362,Twitter Specials - Next Twitter CEO - Next Twitter CEO After Elon Musk,Sheryl Sandberg,0.0242,0.0909,0.0667
 2023-02-06 15:40:35.584043,State Of The Union - To Be Said By Biden In The State of The Union Address 2023 - To Be Said During Address,American airspace,0.023800000000000043,0.5238,0.5
-2023-02-06 10:40:28.858029,95th Academy Awards - Best Costume Design - Best Costume Design,Shirley Kurata - Everything Everywhere All At Once,0.023799999999999988,0.1667,0.1429
-2023-02-06 10:40:29.353452,Super Bowl 57 Specials - Super Bowl Specials  - First TV Advertisement - Heineken vs Budweiser,Budweiser,0.0232,0.7333,0.7101
-2023-02-06 10:40:29.386163,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - To Occur During Rihanna's Performance On Stage,Cardi B to appear on stage,0.022199999999999998,0.2222,0.2
-2023-02-06 10:40:29.377167,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - First Song,Don't Stop The Music,0.021999999999999964,0.3077,0.2857
-2023-02-06 10:40:28.833364,95th Academy Awards - Best Actress - Best Actress,Michelle Yeoh - Everything Everywhere All At Once,0.021699999999999997,0.4762,0.4545
-2023-02-06 10:40:29.514891,Super Bowl 57 Specials - Super Bowl Specials  - State Farm Stadium - Number Of Beers Sold,"120,000 or under",0.02100000000000002,0.6364,0.6154
 2023-02-06 18:40:35.559735,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Atlanta Hawks,0.02080000000000004,0.6875,0.6667
 2023-02-06 19:40:34.288653,State Of The Union - Viewing Figures - Television Audience Figure,40 million or under,0.02079999999999993,0.5556,0.5348
-2023-02-06 10:40:29.237277,Super Bowl 57 Specials - Super Bowl Specials  -  What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 57?,Purple,0.02020000000000001,0.1111,0.0909
-2023-02-06 10:40:28.881648,95th Academy Awards - Best International Feature Film - Best International Feature Film,EO,0.02020000000000001,0.1111,0.0909
 2023-02-06 21:40:36.795124,NBA Specials - LeBron James Specials - Record Parlays,Breaks Record in the 2nd Quarter with a Free Throw (Any Game),0.019099999999999992,0.0667,0.0476
 2023-02-06 19:40:34.199474,Super Bowl 57 Specials - Super Bowl Specials  - Will there be an onside kick attempt in the game?,No,0.018999999999999906,0.7333,0.7143
-2023-02-06 10:40:29.520338,Super Bowl 57 Specials - Super Bowl Specials  - State Farm Stadium - Number Of Hotdogs Sold,"17,000 or under",0.01880000000000004,0.6552,0.6364
-2023-02-06 10:40:28.864317,95th Academy Awards - Best Director - Best Director,Steven Spielberg - The Fabelmans,0.018100000000000005,0.4348,0.4167
-2023-02-06 10:40:28.839052,95th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,Living,0.018099999999999998,0.0769,0.0588
 2023-02-06 19:40:34.270270,State Of The Union - Length Of Address - Length Of State Of The Union Address 2023,63 minutes or under,0.016699999999999937,0.6,0.5833
 2023-02-06 19:40:33.831549,Super Bowl 57 Specials - Super Bowl Specials  - How Many TickTok Videos Will jacksonmahomes Post During the Super Bowl,Over 1.5,0.016000000000000014,0.4082,0.3922
-2023-02-06 10:40:28.371836,Boxing Lines - Rey Vargas vs O'Shaquie Foster - To Win the Bout,O'Shaquie Foster,0.01579999999999998,0.4049,0.3891
 2023-02-06 19:40:34.191531,Super Bowl 57 Specials - Super Bowl Specials  - Will there be a penalty for Roughing the Passer?,No,0.01539999999999997,0.6154,0.6
 2023-02-06 19:40:33.827633,Super Bowl 57 Specials - Super Bowl Specials  - How Many Players will have a passing attempt?,Over 2.5,0.01479999999999998,0.3922,0.3774
-2023-02-06 10:40:28.827627,95th Academy Awards - Best Actor - Best Actor,Austin Butler - Elvis,0.01469999999999999,0.25,0.2353
 2023-02-06 11:40:38.123853,LNB Pro A - LNB Pro A 2022/23 - Outright,Chorale Roanne,0.014499999999999999,0.0294,0.0149
-2023-02-06 10:40:28.833364,95th Academy Awards - Best Actress - Best Actress,Andrea Riseborough - To Leslie,0.014399999999999996,0.0769,0.0625
 2023-02-06 11:40:37.875362,Twitter Specials - Next Twitter CEO - Next Twitter CEO After Elon Musk,Jared Kushner,0.013999999999999999,0.0909,0.0769
 2023-02-06 11:40:37.875362,Twitter Specials - Next Twitter CEO - Next Twitter CEO After Elon Musk,Sarah Friar,0.013999999999999999,0.0909,0.0769
 2023-02-06 11:40:38.133481,Bundesliga - Bundesliga 2022/23 - Outright,Telekom Baskets Bonn,0.013899999999999996,0.125,0.1111
@@ -71,93 +51,66 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-06 15:40:36.756400,Super Bowl 57 Specials - Super Bowl Specials  - America the Beautiful - Who Will be Shown first,Travis Kelce,0.010099999999999998,0.6875,0.6774
 2023-02-06 20:40:32.527109,Super Bowl 57 Specials - Super Bowl Specials  - Team to Score Last Wins,Yes,0.010099999999999998,0.6875,0.6774
 2023-02-06 19:40:33.827633,Super Bowl 57 Specials - Super Bowl Specials  - How Many Players will have a passing attempt?,Under 2.5,-0.010099999999999998,0.6774,0.6875
-2023-02-06 10:40:28.875908,95th Academy Awards - Best Film Editing - Best Film Editing,Everything Everywhere All At Once,-0.010099999999999998,0.5455,0.5556
-2023-02-06 10:40:28.864317,95th Academy Awards - Best Director - Best Director,Martin McDonagh - The Banshees of Inisherin,-0.0102,0.0667,0.0769
-2023-02-06 10:40:28.927824,95th Academy Awards - Best Supporting Actress - Best Supporting Actress ,Stephanie Hsu - Everything Everywhere All at Once,-0.0102,0.0667,0.0769
-2023-02-06 10:40:28.858029,95th Academy Awards - Best Costume Design - Best Costume Design,Jenny Beavan - Mrs Harris Goes To Paris,-0.0102,0.0667,0.0769
 2023-02-06 18:40:35.559735,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Orlando Magic,-0.0102,0.0667,0.0769
-2023-02-06 10:40:28.858029,95th Academy Awards - Best Costume Design - Best Costume Design,Mary Zophres - Babylon,-0.0102,0.0667,0.0769
-2023-02-06 10:40:29.377167,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - First Song,Umbrella,-0.0102,0.0667,0.0769
 2023-02-06 19:40:34.191531,Super Bowl 57 Specials - Super Bowl Specials  - Will there be a penalty for Roughing the Passer?,Yes,-0.010599999999999998,0.4545,0.4651
 2023-02-06 15:40:36.746936,Super Bowl 57 Specials - Super Bowl Specials  -  What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 57?,Lime/Green/Yellow,-0.010699999999999987,0.3226,0.3333
 2023-02-06 19:40:34.270270,State Of The Union - Length Of Address - Length Of State Of The Union Address 2023,Over 63 minutes,-0.011099999999999999,0.4651,0.4762
-2023-02-06 21:40:36.795124,NBA Specials - LeBron James Specials - Record Parlays,Breaks Record in the 4th Quarter with a Free Throw (Any Game),-0.011199999999999995,0.0476,0.0588
 2023-02-06 11:40:37.875362,Twitter Specials - Next Twitter CEO - Next Twitter CEO After Elon Musk,David Marcus,-0.011199999999999995,0.0476,0.0588
+2023-02-06 21:40:36.795124,NBA Specials - LeBron James Specials - Record Parlays,Breaks Record in the 4th Quarter with a Free Throw (Any Game),-0.011199999999999995,0.0476,0.0588
 2023-02-06 14:40:38.551190,Boxing Lines - Rey Vargas vs O'Shaquie Foster - To Win the Bout,Rey Vargas,-0.011499999999999955,0.6552,0.6667
-2023-02-06 10:40:29.372346,Super Bowl 57 Specials - Super Bowl Specials  - Halftime Show - Color Of Rihanna's Hair,Brown/Black,-0.011699999999999933,0.7778,0.7895
-2023-02-06 10:40:28.850954,95th Academy Awards - Best Cinematography - Best Cinematography,Roger Deakins - Empire Of Light,-0.011700000000000016,0.2105,0.2222
 2023-02-06 11:40:36.378051,Boxing Lines - Rey Vargas vs O'Shaquie Foster - To Win the Bout,O'Shaquie Foster,-0.012699999999999989,0.3922,0.4049
 2023-02-06 12:40:26.363498,Boxing Lines - Tyler Denny vs Brad Pauls - To Win the Bout,Tyler Denny,-0.0129999999999999,0.8131,0.8261
-2023-02-06 21:40:36.795124,NBA Specials - LeBron James Specials - Record Parlays,Breaks Record in the 4th Quarter with a Dunk (Any Game),-0.0131,0.0345,0.0476
 2023-02-06 21:40:36.795124,NBA Specials - LeBron James Specials - Record Parlays,Breaks Record with a Layup and Scores 30+ Points in the Same Game,-0.0131,0.2222,0.2353
-2023-02-06 10:40:28.844974,95th Academy Awards - Best Animated Feature - Best Animated Feature,Marcel The Shell With Shoes On,-0.013899999999999996,0.1111,0.125
-2023-02-06 10:40:28.875908,95th Academy Awards - Best Film Editing - Best Film Editing,Elvis,-0.013899999999999996,0.1111,0.125
-2023-02-06 10:40:29.225406,Super Bowl 57 Specials - Super Bowl Specials  - Super Bowl LVII MVP,Travis Kelce,-0.013999999999999999,0.0769,0.0909
-2023-02-06 10:40:28.844974,95th Academy Awards - Best Animated Feature - Best Animated Feature,Turning Red,-0.013999999999999999,0.0769,0.0909
-2023-02-06 10:40:28.850954,95th Academy Awards - Best Cinematography - Best Cinematography,Florian Hoffmeister - Tár,-0.013999999999999999,0.0769,0.0909
-2023-02-06 10:40:28.910619,95th Academy Awards - Best Picture - Best Picture,Top Gun: Maverick,-0.013999999999999999,0.0769,0.0909
-2023-02-06 10:40:28.893132,95th Academy Awards - Best Original Score - Best Original Score,Son Lux - Everything Everywhere All At Once,-0.013999999999999999,0.0769,0.0909
+2023-02-06 21:40:36.795124,NBA Specials - LeBron James Specials - Record Parlays,Breaks Record in the 4th Quarter with a Dunk (Any Game),-0.0131,0.0345,0.0476
 2023-02-06 21:40:36.795124,NBA Specials - LeBron James Specials - Record Parlays,Breaks Record in the 4th Quarter by Any Other Method (Any Game),-0.014399999999999996,0.0625,0.0769
 2023-02-06 21:40:36.795124,NBA Specials - LeBron James Specials - Record Parlays,Breaks Record in the 4th Quarter with a 3-PT Field Goal (Any Game),-0.014399999999999996,0.0625,0.0769
 2023-02-06 15:40:36.756400,Super Bowl 57 Specials - Super Bowl Specials  - America the Beautiful - Who Will be Shown first,A.J. Brown,-0.01479999999999998,0.3774,0.3922
 2023-02-06 20:40:32.527109,Super Bowl 57 Specials - Super Bowl Specials  - Team to Score Last Wins,No,-0.01479999999999998,0.3774,0.3922
-2023-02-06 21:40:36.795124,NBA Specials - LeBron James Specials - Record Parlays,Breaks Record in the 1st Quarter by Any Other Method (Any Game),-0.016600000000000004,0.0667,0.0833
 2023-02-06 21:40:36.795124,NBA Specials - LeBron James Specials - Record Parlays,Breaks Record in the 1st Quarter with a 3-PT Field Goal (Any Game),-0.016600000000000004,0.0667,0.0833
+2023-02-06 21:40:36.795124,NBA Specials - LeBron James Specials - Record Parlays,Breaks Record in the 1st Quarter by Any Other Method (Any Game),-0.016600000000000004,0.0667,0.0833
 2023-02-06 15:40:36.746936,Super Bowl 57 Specials - Super Bowl Specials  -  What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 57?,Orange,-0.016699999999999993,0.25,0.2667
 2023-02-06 19:40:34.199474,Super Bowl 57 Specials - Super Bowl Specials  - Will there be an onside kick attempt in the game?,Yes,-0.017600000000000005,0.3333,0.3509
-2023-02-06 10:40:28.881648,95th Academy Awards - Best International Feature Film - Best International Feature Film,All Quiet On The Western Front,-0.018100000000000005,0.9231,0.9412
 2023-02-06 15:40:36.788925,Super Bowl 57 Specials - Super Bowl Specials  - Andy Reid Special - Will the Words Burger or Cheeseburger be be said by Andy Reid during the postgame interview,No,-0.018399999999999972,0.6875,0.7059
-2023-02-06 10:40:28.904659,95th Academy Awards - Best Original Song - Best Original Song,Lift Me Up - Black Panther: Wakanda Forever,-0.019000000000000017,0.2667,0.2857
-2023-02-06 10:40:29.514891,Super Bowl 57 Specials - Super Bowl Specials  - State Farm Stadium - Number Of Beers Sold,"Over 120,000",-0.019699999999999995,0.4348,0.4545
 2023-02-06 21:40:36.795124,NBA Specials - LeBron James Specials - Record Parlays,Breaks Record in the 1st Quarter with a Layup (Any Game),-0.02049999999999999,0.1333,0.1538
-2023-02-06 10:40:28.858029,95th Academy Awards - Best Costume Design - Best Costume Design,Catherine Martin - Elvis,-0.021699999999999997,0.4545,0.4762
 2023-02-06 11:40:37.875362,Twitter Specials - Next Twitter CEO - Next Twitter CEO After Elon Musk,Sriram Krishnan,-0.021999999999999964,0.2857,0.3077
-2023-02-06 10:40:28.827627,95th Academy Awards - Best Actor - Best Actor,Brendan Fraser - The Whale,-0.02200000000000002,0.6923,0.7143
-2023-02-06 12:40:27.491596,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Corbin Carroll,-0.022199999999999998,0.2,0.2222
-2023-02-06 19:40:33.831549,Super Bowl 57 Specials - Super Bowl Specials  - How Many TickTok Videos Will jacksonmahomes Post During the Super Bowl,Under 1.5,-0.022199999999999998,0.6552,0.6774
 2023-02-06 21:40:36.795124,NBA Specials - LeBron James Specials - Record Parlays,Breaks Record in the 4th Quarter with a Layup (Any Game),-0.022199999999999998,0.1111,0.1333
+2023-02-06 19:40:33.831549,Super Bowl 57 Specials - Super Bowl Specials  - How Many TickTok Videos Will jacksonmahomes Post During the Super Bowl,Under 1.5,-0.022199999999999998,0.6552,0.6774
+2023-02-06 12:40:27.491596,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Corbin Carroll,-0.022199999999999998,0.2,0.2222
 2023-02-06 19:40:34.288653,State Of The Union - Viewing Figures - Television Audience Figure,Over 40 million,-0.022600000000000064,0.5122,0.5348
-2023-02-06 10:40:28.916355,95th Academy Awards - Best Production Design - Best Production Design,Babylon,-0.023799999999999988,0.4762,0.5
-2023-02-06 10:40:29.353452,Super Bowl 57 Specials - Super Bowl Specials  - First TV Advertisement - Heineken vs Budweiser,Heineken,-0.023799999999999988,0.3333,0.3571
 2023-02-06 20:40:33.589676,NBA Specials - LeBron James Specials - In Which Quarter will the record be broken?,3rd Q,-0.024800000000000016,0.2105,0.2353
 2023-02-06 15:40:35.584043,State Of The Union - To Be Said By Biden In The State of The Union Address 2023 - To Be Said During Address,Democracy is at stake,-0.02560000000000001,0.3077,0.3333
 2023-02-06 20:40:33.595062,NBA Specials - LeBron James Specials - When will the record be broken?,2/13/23 at Blazers,-0.0273,0.005,0.0323
-2023-02-06 10:40:28.864317,95th Academy Awards - Best Director - Best Director,Daniel Kwan and Daniel Scheinert - Everything Everywhere All At Once,-0.02750000000000008,0.6154,0.6429
-2023-02-06 10:40:28.927824,95th Academy Awards - Best Supporting Actress - Best Supporting Actress ,Angela Bassett - Black Panther: Wakanda Forever,-0.027800000000000047,0.7222,0.75
-2023-02-06 10:40:28.839052,95th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,All Quiet On The Western Front,-0.030299999999999994,0.3333,0.3636
 2023-02-06 15:40:35.584043,State Of The Union - To Be Said By Biden In The State of The Union Address 2023 - To Be Said During Address,That balloon went pop,-0.031799999999999995,0.1111,0.1429
 2023-02-06 18:40:35.559735,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Boston Celtics,-0.0336,0.0099,0.0435
 2023-02-06 18:40:35.559735,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Milwaukee Bucks,-0.0344,0.0244,0.0588
 2023-02-06 11:40:38.133481,Bundesliga - Bundesliga 2022/23 - Outright,Bayern Munich,-0.0348,0.4,0.4348
 2023-02-06 18:40:35.559735,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Detroit Pistons,-0.03559999999999999,0.0079,0.0435
 2023-02-06 18:40:35.559735,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Charlotte Hornets,-0.03559999999999999,0.0079,0.0435
-2023-02-06 10:40:29.520338,Super Bowl 57 Specials - Super Bowl Specials  - State Farm Stadium - Number Of Hotdogs Sold,"Over 17,000",-0.03620000000000001,0.4082,0.4444
 2023-02-06 20:40:33.585027,NBA Specials - LeBron James Specials - How will he break the scoring record? - Exact Method,Free Throw,-0.04040000000000002,0.1818,0.2222
 2023-02-06 20:40:33.589676,NBA Specials - LeBron James Specials - In Which Quarter will the record be broken?,4th Q,-0.04099999999999998,0.2667,0.3077
 2023-02-06 18:40:35.559735,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Cleveland Cavaliers,-0.04329999999999999,0.0476,0.0909
-2023-02-06 19:40:34.298985,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,Canada,-0.044399999999999995,0.4,0.4444
 2023-02-06 15:40:35.584043,State Of The Union - To Be Said By Biden In The State of The Union Address 2023 - To Be Said During Address,Threat to democracy,-0.044399999999999995,0.4,0.4444
+2023-02-06 19:40:34.298985,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,Canada,-0.044399999999999995,0.4,0.4444
 2023-02-06 15:40:35.584043,State Of The Union - To Be Said By Biden In The State of The Union Address 2023 - To Be Said During Address,Chinese spy balloon,-0.047599999999999976,0.2857,0.3333
 2023-02-06 20:40:33.589676,NBA Specials - LeBron James Specials - In Which Quarter will the record be broken?,1st Q,-0.05109999999999998,0.3125,0.3636
-2023-02-06 10:40:28.833364,95th Academy Awards - Best Actress - Best Actress,Cate Blanchett - TÁR,-0.05590000000000006,0.6364,0.6923
 2023-02-06 20:40:33.595062,NBA Specials - LeBron James Specials - When will the record be broken?,2/7/23 vs Thunder,-0.05680000000000002,0.2941,0.3509
 2023-02-06 16:40:33.096005,State Of The Union - Length Of Address - Length Of State Of The Union Address 2023,Over 63 minutes,-0.05860000000000004,0.4762,0.5348
 2023-02-06 21:40:37.824316,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester City,-0.06190000000000001,0.3636,0.4255
 2023-02-06 18:40:35.559735,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Chicago Bulls,-0.061999999999999944,0.5744,0.6364
-2023-02-06 10:40:28.887396,95th Academy Awards - Best Live Action Short Film - Best Live Action Short Film,An Irish Goodbye,-0.06670000000000004,0.3333,0.4
 2023-02-06 19:40:34.264706,State Of The Union - Chinese Balloon Specials - Number Of Times China Is Said,0,-0.06840000000000002,0.1538,0.2222
 2023-02-06 20:40:33.611198,NBA Specials - LeBron James Specials - How will he break the scoring record? - Exact Method,3-PT FG,-0.07189999999999996,0.2222,0.2941
 2023-02-06 18:40:35.559735,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Indiana Pacers,-0.08079999999999998,0.5556,0.6364
 2023-02-06 20:40:33.595062,NBA Specials - LeBron James Specials - When will the record be broken?,2/11/23 at Warriors,-0.09999999999999999,0.0667,0.1667
-2023-02-06 10:40:29.237277,Super Bowl 57 Specials - Super Bowl Specials  -  What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 57?,Blue,-0.12380000000000002,0.4,0.5238
 2023-02-06 20:40:31.335934,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,Russia,-0.13640000000000002,0.3636,0.5
-2023-02-06 19:40:34.327425,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,Russia,-0.13640000000000002,0.3636,0.5
-2023-02-06 18:40:35.385578,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,Russia,-0.13640000000000002,0.3636,0.5
-2023-02-06 17:40:34.833912,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,Russia,-0.13640000000000002,0.3636,0.5
 2023-02-06 21:40:35.480008,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,Russia,-0.13640000000000002,0.3636,0.5
+2023-02-06 17:40:34.833912,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,Russia,-0.13640000000000002,0.3636,0.5
+2023-02-06 18:40:35.385578,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,Russia,-0.13640000000000002,0.3636,0.5
+2023-02-06 22:40:27.604218,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,Russia,-0.13640000000000002,0.3636,0.5
+2023-02-06 19:40:34.327425,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,Russia,-0.13640000000000002,0.3636,0.5
 2023-02-06 18:40:35.559735,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Philadelphia 76ers,-0.14329999999999998,0.0385,0.1818
 2023-02-06 17:40:34.833912,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,China,-0.20160000000000006,0.3636,0.5652
 2023-02-06 19:40:34.327425,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,China,-0.20160000000000006,0.3636,0.5652
-2023-02-06 18:40:35.385578,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,China,-0.20160000000000006,0.3636,0.5652
-2023-02-06 21:40:35.480008,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,China,-0.20160000000000006,0.3636,0.5652
 2023-02-06 20:40:31.335934,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,China,-0.20160000000000006,0.3636,0.5652
+2023-02-06 21:40:35.480008,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,China,-0.20160000000000006,0.3636,0.5652
+2023-02-06 22:40:27.604218,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,China,-0.20160000000000006,0.3636,0.5652
+2023-02-06 18:40:35.385578,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,China,-0.20160000000000006,0.3636,0.5652
