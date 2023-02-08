@@ -5,6 +5,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-08 10:40:31.740317,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Doc Rivers,0.052300000000000006,0.1111,0.0588
 2023-02-08 10:40:31.733835,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Malcolm Brogdon (BOS),0.044399999999999995,0.4444,0.4
 2023-02-08 07:40:29.367607,Super Bowl 57 Specials - Super Bowl Specials  -  What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 57?,Red,0.037599999999999995,0.1429,0.1053
+2023-02-08 17:40:36.643713,Phoenix Open - 2/3 Balls - 1st Round 3 Balls - C. Champ / R. Streb / A. Landry - 1st Round 3 Balls,Robert Streb,0.03710000000000002,0.3448,0.3077
 2023-02-08 10:40:31.745452,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Jaren Jackson Jr. (MEM),0.028299999999999992,0.6774,0.6491
 2023-02-08 08:40:29.311219,Boxing Lines - Jeamie Tshikeva vs Harry Armstrong - To Win the Bout,Harry Armstrong,0.0267,0.1176,0.0909
 2023-02-08 14:40:44.895633,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Phoenix Suns,0.02560000000000001,0.3333,0.3077
@@ -20,8 +21,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-08 12:40:29.293952,Tournament Match-Ups - Tournament Match-Up - S. Im vs T. Kim - Tournament Match-Up,Sungjae Im,0.01880000000000004,0.5744,0.5556
 2023-02-08 12:40:29.263534,Tournament Match-Ups - Tournament Match-Up - H. Matsuyama vs J. Spieth - Tournament Match-Up,Hideki Matsuyama,0.018100000000000005,0.5833,0.5652
 2023-02-08 12:40:29.273404,Tournament Match-Ups - Tournament Match-Up - J. Rahm vs R. McIlroy - Tournament Match-Up,Jon Rahm,0.018100000000000005,0.5833,0.5652
-2023-02-08 10:40:31.750609,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Cam Thomas (BKN),0.0179,0.0278,0.0099
 2023-02-08 10:40:31.460144,Social Media Specials - MrBeast Specials - MrBeast YouTube Subscribers Total On 28th February 2023,134m,0.0179,0.1429,0.125
+2023-02-08 10:40:31.750609,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Cam Thomas (BKN),0.0179,0.0278,0.0099
 2023-02-08 10:40:31.740317,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Joe Mazzulla,0.017600000000000005,0.3509,0.3333
 2023-02-08 08:40:29.399799,Boxing Lines - Brandon Figueroa vs Mark Magsayo - To Win the Bout,Mark Magsayo,0.017600000000000005,0.3509,0.3333
 2023-02-08 10:40:31.750609,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Lauri Markkanen (UTA),0.016699999999999937,0.6,0.5833
@@ -35,9 +36,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-08 09:40:28.171433,Boxing Lines - Rey Vargas vs O'Shaquie Foster - To Win the Bout,O'Shaquie Foster,0.010599999999999998,0.4651,0.4545
 2023-02-08 07:40:28.496175,Boxing Lines - Viddal Riley vs Anees Taj - To Win the Bout,Anees Taj,0.0102,0.0769,0.0667
 2023-02-08 05:53:46.131128,Boxing Lines - Rey Vargas vs O'Shaquie Foster - To Win the Bout,O'Shaquie Foster,0.010099999999999998,0.4545,0.4444
+2023-02-08 17:40:36.643713,Phoenix Open - 2/3 Balls - 1st Round 3 Balls - C. Champ / R. Streb / A. Landry - 1st Round 3 Balls,Cameron Champ,-0.010099999999999998,0.4444,0.4545
 2023-02-08 09:40:28.195443,Boxing Lines - Leigh Wood vs Mauricio Lara - To Win the Bout,Leigh Wood,-0.010099999999999998,0.3125,0.3226
-2023-02-08 10:40:31.460144,Social Media Specials - MrBeast Specials - MrBeast YouTube Subscribers Total On 28th February 2023,143m,-0.0102,0.0667,0.0769
 2023-02-08 10:40:31.460144,Social Media Specials - MrBeast Specials - MrBeast YouTube Subscribers Total On 28th February 2023,132m,-0.0102,0.0667,0.0769
+2023-02-08 10:40:31.460144,Social Media Specials - MrBeast Specials - MrBeast YouTube Subscribers Total On 28th February 2023,143m,-0.0102,0.0667,0.0769
 2023-02-08 10:40:31.460144,Social Media Specials - MrBeast Specials - MrBeast YouTube Subscribers Total On 28th February 2023,144m,-0.0102,0.0667,0.0769
 2023-02-08 09:40:28.165905,Boxing Lines - Mario Barrios vs Jovanie Santiago - To Win the Bout,Jovanie Santiago,-0.010499999999999982,0.2,0.2105
 2023-02-08 06:42:15.442652,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Clippers,-0.010499999999999982,0.2,0.2105
@@ -62,11 +64,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-08 05:53:50.069865,LKL - LKL 2022/23 - Outright,Zalgiris,-0.019100000000000006,0.9333,0.9524
 2023-02-08 14:40:45.014064,NBA Specials - Where will Russell Westbrook play after Trade Deadline? - Proposition,Utah Jazz,-0.02020000000000001,0.0909,0.1111
 2023-02-08 08:40:29.311219,Boxing Lines - Jeamie Tshikeva vs Harry Armstrong - To Win the Bout,Jeamie Tshikeva,-0.020299999999999985,0.9412,0.9615
+2023-02-08 17:40:36.643713,Phoenix Open - 2/3 Balls - 1st Round 3 Balls - C. Champ / R. Streb / A. Landry - 1st Round 3 Balls,Andrew Landry,-0.020799999999999985,0.3125,0.3333
 2023-02-08 12:40:29.278354,Tournament Match-Ups - Tournament Match-Up - M. Homa vs C. Young - Tournament Match-Up,Cameron Young,-0.022600000000000064,0.5122,0.5348
 2023-02-08 08:40:29.355514,Boxing Lines - Lenier Pero vs Viktor Vykhryst - To Win the Bout,Lenier Pero,-0.022699999999999998,0.4651,0.4878
 2023-02-08 08:40:29.440356,MLB Futures - MLB 2023 American League West - MLB 2023 American League West,Houston Astros,-0.023799999999999932,0.6429,0.6667
-2023-02-08 12:40:29.273404,Tournament Match-Ups - Tournament Match-Up - J. Rahm vs R. McIlroy - Tournament Match-Up,Rory McIlroy,-0.023799999999999988,0.4762,0.5
 2023-02-08 12:40:29.263534,Tournament Match-Ups - Tournament Match-Up - H. Matsuyama vs J. Spieth - Tournament Match-Up,Jordan Spieth,-0.023799999999999988,0.4762,0.5
+2023-02-08 12:40:29.273404,Tournament Match-Ups - Tournament Match-Up - J. Rahm vs R. McIlroy - Tournament Match-Up,Rory McIlroy,-0.023799999999999988,0.4762,0.5
 2023-02-08 07:40:29.367607,Super Bowl 57 Specials - Super Bowl Specials  -  What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 57?,Orange,-0.023800000000000043,0.5,0.5238
 2023-02-08 12:40:29.293952,Tournament Match-Ups - Tournament Match-Up - S. Im vs T. Kim - Tournament Match-Up,Tom Kim,-0.024399999999999977,0.4878,0.5122
 2023-02-08 10:40:31.111096,US Presidential Election 2024 - US Presidential Election 2024 - Sex Of Winner - Sex of Winner,Female,-0.024800000000000016,0.1538,0.1786
