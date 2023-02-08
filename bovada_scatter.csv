@@ -1,50 +1,31 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2023-02-08 01:41:14.309056,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,China,0.25270000000000004,0.5652,0.3125
-2023-02-08 01:41:14.309056,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,Russia,0.16670000000000001,0.5,0.3333
-2023-02-08 01:41:14.153578,State Of The Union - Buzzword Bingo - To Be Said During Address,Virus,0.15870000000000006,0.7143,0.5556
-2023-02-08 01:41:14.153578,State Of The Union - Buzzword Bingo - To Be Said During Address,Xi Jinping,0.131,0.4167,0.2857
-2023-02-08 01:41:14.247996,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,Ukraine,0.07939999999999997,0.5556,0.4762
-2023-02-08 01:41:14.153578,State Of The Union - Buzzword Bingo - To Be Said During Address,Tennessee,0.07119999999999993,0.6364,0.5652
-2023-02-08 01:41:14.219681,State Of The Union - Viewing Figures - Television Audience Figure,40 million or under,0.06669999999999998,0.6667,0.6
 2023-02-08 09:40:29.976351,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Nikola Jokic (DEN),0.06519999999999992,0.6,0.5348
-2023-02-08 01:41:14.153578,State Of The Union - Buzzword Bingo - To Be Said During Address,Predecessor,0.06509999999999999,0.4651,0.4
 2023-02-08 10:40:31.740317,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Doc Rivers,0.052300000000000006,0.1111,0.0588
-2023-02-08 01:41:14.153578,State Of The Union - Buzzword Bingo - To Be Said During Address,Allies,0.050899999999999945,0.9259,0.875
 2023-02-08 02:50:36.878296,NBA Specials - LeBron James Specials - When will the record be broken?,2/11/23 at Warriors,0.04650000000000001,0.1053,0.0588
-2023-02-08 01:41:19.658827,Championship - England Championship 2022/23 - To Be Relegated,Rotherham Utd,0.045499999999999985,0.5455,0.5
 2023-02-08 10:40:31.733835,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Malcolm Brogdon (BOS),0.044399999999999995,0.4444,0.4
 2023-02-08 07:40:29.367607,Super Bowl 57 Specials - Super Bowl Specials  -  What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 57?,Red,0.037599999999999995,0.1429,0.1053
-2023-02-08 01:41:19.658827,Championship - England Championship 2022/23 - To Be Relegated,Wigan Athletic,0.03710000000000002,0.6923,0.6552
-2023-02-08 01:41:15.923757,NBA Specials - LeBron James Specials - Record Parlays,Breaks Record in the 1st Quarter by Any Other Method (Any Game),0.03420000000000001,0.1111,0.0769
-2023-02-08 01:41:19.658827,Championship - England Championship 2022/23 - To Be Relegated,Cardiff City,0.031799999999999995,0.4762,0.4444
 2023-02-08 10:40:31.745452,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Jaren Jackson Jr. (MEM),0.028299999999999992,0.6774,0.6491
-2023-02-08 01:41:14.171677,State Of The Union - Chinese Balloon Specials - Number Of Times Balloon/Balloons Is Said,2,0.027999999999999997,0.1818,0.1538
-2023-02-08 01:41:15.965329,NBA Specials - Where will Kevin Durant play after Trade Deadline? - Proposition,Brooklyn Nets,0.027999999999999914,0.8462,0.8182
-2023-02-08 01:41:16.947294,Super Bowl 57 Specials - Super Bowl Specials  - National Anthem - How Long Will It Take Chris Stapleton To Sing The US National Anthem?,Over 2 minutes and 07 seconds,0.02750000000000008,0.6429,0.6154
 2023-02-08 08:40:29.311219,Boxing Lines - Jeamie Tshikeva vs Harry Armstrong - To Win the Bout,Harry Armstrong,0.0267,0.1176,0.0909
-2023-02-08 01:41:15.896593,NBA Specials - LeBron James Specials - When will the record be broken?,2/7/23 vs Thunder,0.026600000000000013,0.4348,0.4082
-2023-02-08 01:41:15.885879,NBA Specials - LeBron James Specials - In Which Quarter will the record be broken?,4th Q,0.02560000000000001,0.3333,0.3077
 2023-02-08 08:40:29.355514,Boxing Lines - Lenier Pero vs Viktor Vykhryst - To Win the Bout,Viktor Vykhryst,0.025599999999999956,0.6,0.5744
-2023-02-08 01:41:14.202177,State Of The Union - Length Of Address - Length Of State Of The Union Address 2023,Over 63 minutes,0.024399999999999977,0.5122,0.4878
 2023-02-08 10:40:31.740317,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Mike Budenholzer,0.024,0.0625,0.0385
 2023-02-08 10:40:31.740317,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Taylor Jenkins,0.023799999999999988,0.1667,0.1429
 2023-02-08 02:50:36.878296,NBA Specials - LeBron James Specials - When will the record be broken?,2/13/23 at Blazers,0.022799999999999997,0.0278,0.005
 2023-02-08 06:42:15.426734,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Philadelphia 76ers,0.022199999999999998,0.2222,0.2
-2023-02-08 02:50:36.248289,Tournament Match-Ups - Tournament Match-Up - S. Im vs T. Kim - Tournament Match-Up,Sungjae Im,0.02079999999999993,0.5556,0.5348
+2023-02-08 03:53:17.207780,Tournament Match-Ups - Tournament Match-Ups - G. Coetzee vs R. Langasque - Tournament Match-Ups,Romain Langasque,0.02079999999999993,0.5556,0.5348
 2023-02-08 02:50:36.254236,Tournament Match-Ups - Tournament Match-Up - S. Lowry vs T. Hatton - Tournament Match-Up,Tyrrell Hatton,0.02079999999999993,0.5556,0.5348
 2023-02-08 12:40:29.278354,Tournament Match-Ups - Tournament Match-Up - M. Homa vs C. Young - Tournament Match-Up,Max Homa,0.02079999999999993,0.5556,0.5348
-2023-02-08 03:53:17.207780,Tournament Match-Ups - Tournament Match-Ups - G. Coetzee vs R. Langasque - Tournament Match-Ups,Romain Langasque,0.02079999999999993,0.5556,0.5348
+2023-02-08 02:50:36.248289,Tournament Match-Ups - Tournament Match-Up - S. Im vs T. Kim - Tournament Match-Up,Sungjae Im,0.02079999999999993,0.5556,0.5348
 2023-02-08 10:40:31.460144,Social Media Specials - MrBeast Specials - MrBeast YouTube Subscribers Total On 28th February 2023,133m,0.02020000000000001,0.1111,0.0909
 2023-02-08 10:40:31.111096,US Presidential Election 2024 - US Presidential Election 2024 - Sex Of Winner - Sex of Winner,Male,0.020199999999999996,0.9091,0.8889
-2023-02-08 02:50:36.224369,Tournament Match-Ups - Tournament Match-Up - J. Rahm vs R. McIlroy - Tournament Match-Up,Jon Rahm,0.01970000000000005,0.5652,0.5455
 2023-02-08 02:50:36.211455,Tournament Match-Ups - Tournament Match-Up - H. Matsuyama vs J. Spieth - Tournament Match-Up,Hideki Matsuyama,0.01970000000000005,0.5652,0.5455
+2023-02-08 02:50:36.224369,Tournament Match-Ups - Tournament Match-Up - J. Rahm vs R. McIlroy - Tournament Match-Up,Jon Rahm,0.01970000000000005,0.5652,0.5455
 2023-02-08 12:40:29.293952,Tournament Match-Ups - Tournament Match-Up - S. Im vs T. Kim - Tournament Match-Up,Sungjae Im,0.01880000000000004,0.5744,0.5556
 2023-02-08 12:40:29.273404,Tournament Match-Ups - Tournament Match-Up - J. Rahm vs R. McIlroy - Tournament Match-Up,Jon Rahm,0.018100000000000005,0.5833,0.5652
 2023-02-08 12:40:29.263534,Tournament Match-Ups - Tournament Match-Up - H. Matsuyama vs J. Spieth - Tournament Match-Up,Hideki Matsuyama,0.018100000000000005,0.5833,0.5652
 2023-02-08 10:40:31.460144,Social Media Specials - MrBeast Specials - MrBeast YouTube Subscribers Total On 28th February 2023,134m,0.0179,0.1429,0.125
 2023-02-08 10:40:31.750609,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Cam Thomas (BKN),0.0179,0.0278,0.0099
-2023-02-08 10:40:31.740317,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Joe Mazzulla,0.017600000000000005,0.3509,0.3333
 2023-02-08 08:40:29.399799,Boxing Lines - Brandon Figueroa vs Mark Magsayo - To Win the Bout,Mark Magsayo,0.017600000000000005,0.3509,0.3333
+2023-02-08 10:40:31.740317,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Joe Mazzulla,0.017600000000000005,0.3509,0.3333
 2023-02-08 10:40:31.750609,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Lauri Markkanen (UTA),0.016699999999999937,0.6,0.5833
 2023-02-08 10:40:31.733835,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Russell Westbrook (LAL),0.016000000000000014,0.4082,0.3922
 2023-02-08 06:42:15.514507,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Dallas Mavericks,0.015100000000000002,0.1818,0.1667
@@ -53,8 +34,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-08 10:40:31.090924,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.013799999999999923,0.6364,0.6226
 2023-02-08 02:50:34.681531,Super Bowl 57 Specials - Super Bowl Specials  - National Anthem - How Long Will It Take Chris Stapleton To Sing The US National Anthem?,Over 2 minutes and 07 seconds,0.012299999999999978,0.6552,0.6429
 2023-02-08 09:40:28.110401,Boxing Lines - Jeamie Tshikeva vs Harry Armstrong - To Win the Bout,Jeamie Tshikeva,0.011199999999999988,0.9524,0.9412
-2023-02-08 09:40:28.160399,Boxing Lines - Lenier Pero vs Viktor Vykhryst - To Win the Bout,Lenier Pero,0.011099999999999999,0.4762,0.4651
 2023-02-08 11:40:28.762329,Boxing Lines - Rey Vargas vs O'Shaquie Foster - To Win the Bout,O'Shaquie Foster,0.011099999999999999,0.4762,0.4651
+2023-02-08 09:40:28.160399,Boxing Lines - Lenier Pero vs Viktor Vykhryst - To Win the Bout,Lenier Pero,0.011099999999999999,0.4762,0.4651
 2023-02-08 09:40:28.171433,Boxing Lines - Rey Vargas vs O'Shaquie Foster - To Win the Bout,O'Shaquie Foster,0.010599999999999998,0.4651,0.4545
 2023-02-08 07:40:28.496175,Boxing Lines - Viddal Riley vs Anees Taj - To Win the Bout,Anees Taj,0.0102,0.0769,0.0667
 2023-02-08 05:53:46.131128,Boxing Lines - Rey Vargas vs O'Shaquie Foster - To Win the Bout,O'Shaquie Foster,0.010099999999999998,0.4545,0.4444
@@ -62,49 +43,38 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-08 10:40:31.460144,Social Media Specials - MrBeast Specials - MrBeast YouTube Subscribers Total On 28th February 2023,132m,-0.0102,0.0667,0.0769
 2023-02-08 10:40:31.460144,Social Media Specials - MrBeast Specials - MrBeast YouTube Subscribers Total On 28th February 2023,143m,-0.0102,0.0667,0.0769
 2023-02-08 10:40:31.460144,Social Media Specials - MrBeast Specials - MrBeast YouTube Subscribers Total On 28th February 2023,144m,-0.0102,0.0667,0.0769
-2023-02-08 01:41:15.965329,NBA Specials - Where will Kevin Durant play after Trade Deadline? - Proposition,Boston Celtics,-0.0102,0.0667,0.0769
-2023-02-08 06:42:15.442652,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Clippers,-0.010499999999999982,0.2,0.2105
 2023-02-08 09:40:28.165905,Boxing Lines - Mario Barrios vs Jovanie Santiago - To Win the Bout,Jovanie Santiago,-0.010499999999999982,0.2,0.2105
-2023-02-08 10:40:31.460144,Social Media Specials - MrBeast Specials - MrBeast YouTube Subscribers Total On 28th February 2023,139m,-0.010899999999999993,0.1429,0.1538
+2023-02-08 06:42:15.442652,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Clippers,-0.010499999999999982,0.2,0.2105
 2023-02-08 10:40:31.745452,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Nicolas Claxton (BKN),-0.010899999999999993,0.1429,0.1538
-2023-02-08 01:41:15.965329,NBA Specials - Where will Kevin Durant play after Trade Deadline? - Proposition,New York Knicks,-0.011199999999999995,0.0476,0.0588
+2023-02-08 10:40:31.460144,Social Media Specials - MrBeast Specials - MrBeast YouTube Subscribers Total On 28th February 2023,139m,-0.010899999999999993,0.1429,0.1538
 2023-02-08 08:40:29.433733,MLB Futures - MLB 2023 American League East - MLB 2023 American League East,Tampa Bay Rays,-0.011700000000000016,0.2105,0.2222
 2023-02-08 08:40:29.433733,MLB Futures - MLB 2023 American League East - MLB 2023 American League East,New York Yankees,-0.012199999999999989,0.4878,0.5
 2023-02-08 03:53:17.029218,Singapore Classic - 2/3 Balls - 1st Round 3 Balls - G. Green / R. Ramsay / K. Samooja - 1st Round 3 Balls,Gavin Green,-0.013800000000000034,0.3636,0.3774
 2023-02-08 08:40:29.417162,MLB - Odds to win 2023 World Series - World Series Winner 2023,New York Yankees,-0.013899999999999996,0.1111,0.125
 2023-02-08 06:42:15.426734,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Boston Celtics,-0.01419999999999999,0.3704,0.3846
 2023-02-08 05:53:46.131128,Boxing Lines - Rey Vargas vs O'Shaquie Foster - To Win the Bout,Rey Vargas,-0.014800000000000035,0.6078,0.6226
-2023-02-08 01:41:15.896593,NBA Specials - LeBron James Specials - When will the record be broken?,2/9/23 vs Bucks,-0.014900000000000024,0.6774,0.6923
 2023-02-08 10:40:31.460144,Social Media Specials - MrBeast Specials - MrBeast YouTube Subscribers Total On 28th February 2023,145m or over,-0.015100000000000002,0.1667,0.1818
-2023-02-08 08:40:29.427913,MLB Futures - MLB 2023 American League Central - MLB 2023 American League Central,Minnesota Twins,-0.016699999999999993,0.25,0.2667
 2023-02-08 08:40:29.427913,MLB Futures - MLB 2023 American League Central - MLB 2023 American League Central,Cleveland Guardians,-0.016699999999999993,0.4,0.4167
+2023-02-08 08:40:29.427913,MLB Futures - MLB 2023 American League Central - MLB 2023 American League Central,Minnesota Twins,-0.016699999999999993,0.25,0.2667
 2023-02-08 02:50:34.681531,Super Bowl 57 Specials - Super Bowl Specials  - National Anthem - How Long Will It Take Chris Stapleton To Sing The US National Anthem?,Under 2 minutes and 07 seconds,-0.017299999999999982,0.4082,0.4255
 2023-02-08 09:40:28.110401,Boxing Lines - Jeamie Tshikeva vs Harry Armstrong - To Win the Bout,Harry Armstrong,-0.01759999999999999,0.1,0.1176
-2023-02-08 01:41:14.202177,State Of The Union - Length Of Address - Length Of State Of The Union Address 2023,63 minutes or under,-0.01880000000000004,0.5556,0.5744
 2023-02-08 10:40:31.750609,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Shai Gilgeous-Alexander (OKC),-0.018900000000000028,0.4255,0.4444
 2023-02-08 08:40:29.399799,Boxing Lines - Brandon Figueroa vs Mark Magsayo - To Win the Bout,Brandon Figueroa,-0.018999999999999906,0.7143,0.7333
 2023-02-08 08:40:29.440356,MLB Futures - MLB 2023 American League West - MLB 2023 American League West,Seattle Mariners,-0.019000000000000017,0.2667,0.2857
 2023-02-08 05:53:50.069865,LKL - LKL 2022/23 - Outright,Zalgiris,-0.019100000000000006,0.9333,0.9524
 2023-02-08 08:40:29.311219,Boxing Lines - Jeamie Tshikeva vs Harry Armstrong - To Win the Bout,Jeamie Tshikeva,-0.020299999999999985,0.9412,0.9615
 2023-02-08 12:40:29.278354,Tournament Match-Ups - Tournament Match-Up - M. Homa vs C. Young - Tournament Match-Up,Cameron Young,-0.022600000000000064,0.5122,0.5348
-2023-02-08 02:50:36.254236,Tournament Match-Ups - Tournament Match-Up - S. Lowry vs T. Hatton - Tournament Match-Up,Shane Lowry,-0.022600000000000064,0.5122,0.5348
 2023-02-08 02:50:36.248289,Tournament Match-Ups - Tournament Match-Up - S. Im vs T. Kim - Tournament Match-Up,Tom Kim,-0.022600000000000064,0.5122,0.5348
+2023-02-08 02:50:36.254236,Tournament Match-Ups - Tournament Match-Up - S. Lowry vs T. Hatton - Tournament Match-Up,Shane Lowry,-0.022600000000000064,0.5122,0.5348
 2023-02-08 03:53:17.207780,Tournament Match-Ups - Tournament Match-Ups - G. Coetzee vs R. Langasque - Tournament Match-Ups,George Coetzee,-0.022600000000000064,0.5122,0.5348
 2023-02-08 08:40:29.355514,Boxing Lines - Lenier Pero vs Viktor Vykhryst - To Win the Bout,Lenier Pero,-0.022699999999999998,0.4651,0.4878
 2023-02-08 08:40:29.440356,MLB Futures - MLB 2023 American League West - MLB 2023 American League West,Houston Astros,-0.023799999999999932,0.6429,0.6667
-2023-02-08 12:40:29.273404,Tournament Match-Ups - Tournament Match-Up - J. Rahm vs R. McIlroy - Tournament Match-Up,Rory McIlroy,-0.023799999999999988,0.4762,0.5
 2023-02-08 12:40:29.263534,Tournament Match-Ups - Tournament Match-Up - H. Matsuyama vs J. Spieth - Tournament Match-Up,Jordan Spieth,-0.023799999999999988,0.4762,0.5
-2023-02-08 02:50:36.211455,Tournament Match-Ups - Tournament Match-Up - H. Matsuyama vs J. Spieth - Tournament Match-Up,Jordan Spieth,-0.023800000000000043,0.5,0.5238
+2023-02-08 12:40:29.273404,Tournament Match-Ups - Tournament Match-Up - J. Rahm vs R. McIlroy - Tournament Match-Up,Rory McIlroy,-0.023799999999999988,0.4762,0.5
 2023-02-08 02:50:36.224369,Tournament Match-Ups - Tournament Match-Up - J. Rahm vs R. McIlroy - Tournament Match-Up,Rory McIlroy,-0.023800000000000043,0.5,0.5238
 2023-02-08 07:40:29.367607,Super Bowl 57 Specials - Super Bowl Specials  -  What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 57?,Orange,-0.023800000000000043,0.5,0.5238
+2023-02-08 02:50:36.211455,Tournament Match-Ups - Tournament Match-Up - H. Matsuyama vs J. Spieth - Tournament Match-Up,Jordan Spieth,-0.023800000000000043,0.5,0.5238
 2023-02-08 12:40:29.293952,Tournament Match-Ups - Tournament Match-Up - S. Im vs T. Kim - Tournament Match-Up,Tom Kim,-0.024399999999999977,0.4878,0.5122
 2023-02-08 10:40:31.111096,US Presidential Election 2024 - US Presidential Election 2024 - Sex Of Winner - Sex of Winner,Female,-0.024800000000000016,0.1538,0.1786
-2023-02-08 01:41:16.947294,Super Bowl 57 Specials - Super Bowl Specials  - National Anthem - How Long Will It Take Chris Stapleton To Sing The US National Anthem?,Under 2 minutes and 07 seconds,-0.029000000000000026,0.4255,0.4545
-2023-02-08 01:41:14.171677,State Of The Union - Chinese Balloon Specials - Number Of Times Balloon/Balloons Is Said,1,-0.029899999999999982,0.2778,0.3077
 2023-02-08 09:40:29.976351,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Giannis Antetokounmpo (MIL),-0.030500000000000013,0.1176,0.1481
-2023-02-08 01:41:19.658827,Championship - England Championship 2022/23 - To Be Relegated,Huddersfield Town,-0.03639999999999999,0.6,0.6364
 2023-02-08 10:40:31.464647,Social Media Specials - MrBeast Specials - Video: 1000 Blind People See For The First Time,To surpass 150m views on YouTube before March,-0.04760000000000009,0.6667,0.7143
-2023-02-08 01:41:14.219681,State Of The Union - Viewing Figures - Television Audience Figure,Over 40 million,-0.06509999999999999,0.4,0.4651
-2023-02-08 01:41:19.658827,Championship - England Championship 2022/23 - To Be Relegated,Blackpool,-0.07710000000000006,0.5455,0.6226
-2023-02-08 01:41:14.247996,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,Russia,-0.16670000000000001,0.3333,0.5
-2023-02-08 01:41:14.247996,State Of The Union - First To Be Mentioned During State Of The Union Address 2023 - First To Be Mentioned,China,-0.25270000000000004,0.3125,0.5652
