@@ -1,8 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-09 13:40:28.555100,NFL Specials - Next Full time Head Coach of the Indianapolis Colts - Colts Next Coach,Shane Steichen,0.3,0.5,0.2
-2023-02-09 10:40:33.854396,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Phoenix Suns,0.29630000000000006,0.6296,0.3333
 2023-02-09 15:40:41.067488,Super Bowl 57 Specials - Super Bowl Specials  -  What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 57?,Blue,0.1969,0.3636,0.1667
-2023-02-09 10:40:33.820949,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Phoenix Suns,0.1746,0.2857,0.1111
 2023-02-09 13:40:28.555100,NFL Specials - Next Full time Head Coach of the Indianapolis Colts - Colts Next Coach,Wink Martindale,0.1731,0.25,0.0769
 2023-02-09 16:40:30.917468,International Series Oman - International Series Oman - Outright,Sergio Garcia,0.15550000000000003,0.2222,0.0667
 2023-02-09 16:40:30.917468,International Series Oman - International Series Oman - Outright,Sadom Kaewkanjana,0.0865,0.125,0.0385
@@ -23,11 +21,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-09 20:40:37.584009,Phoenix Open - 2/3 Balls - 1st Round 3 Balls - B. Horschel / M. Thompson / J. Day - 1st Round 3 Balls,Jason Day,0.033299999999999996,0.4878,0.4545
 2023-02-09 20:40:37.574148,Phoenix Open - 2/3 Balls - 1st Round 3 Balls - J.T. Poston / A. Svensson / B. Gay - 1st Round 3 Balls,J.T. Poston,0.033299999999999996,0.5455,0.5122
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Nathan Kimsey,0.0312,0.0435,0.0123
-2023-02-09 10:40:33.812415,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Boston Celtics,0.029600000000000015,0.4,0.3704
 2023-02-09 16:40:31.541740,Super Bowl 57 Specials - Super Bowl Specials  - Will any player propose to his girlfriend on the Field after the Game?,Yes,0.02779999999999999,0.25,0.2222
 2023-02-09 20:40:37.569135,Phoenix Open - 2/3 Balls - 1st Round 3 Balls - T. Kim / S. Scheffler / V. Hovland - 1st Round 3 Balls,Scottie Scheffler,0.027700000000000002,0.4444,0.4167
-2023-02-09 16:40:31.402818,Super Bowl 57 Specials - Super Bowl Specials  - Team To Call First Timeout,Kansas City Chiefs,0.026499999999999968,0.5917,0.5652
 2023-02-09 22:40:30.506840,Super Bowl 57 Specials - Super Bowl Specials  - Number of different Chiefs Players to score points,"Over 3,5 Players",0.026499999999999968,0.5917,0.5652
+2023-02-09 16:40:31.402818,Super Bowl 57 Specials - Super Bowl Specials  - Team To Call First Timeout,Kansas City Chiefs,0.026499999999999968,0.5917,0.5652
 2023-02-09 22:40:30.519428,Super Bowl 57 Specials - Super Bowl Specials  - Number of different Eagles Players to score points,Over 3.5 Players,0.025599999999999956,0.6,0.5744
 2023-02-09 12:40:31.235123,Boxing Lines - Rey Vargas vs O'Shaquie Foster - To Win the Bout,O'Shaquie Foster,0.024399999999999977,0.5122,0.4878
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Marcus Armitage,0.023899999999999998,0.0435,0.0196
@@ -36,33 +33,36 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Marcel Schneider,0.023200000000000002,0.0476,0.0244
 2023-02-09 15:40:41.113205,Super Bowl 57 Specials - Super Bowl Specials  - Andy Reid Special - Will they mention or show clip/picture of Andy Reid competing in Punt/Pass/Kick Contest,Yes,0.022699999999999998,0.4878,0.4651
 2023-02-09 12:40:31.588278,Round Match-Ups - 1st Round Match-Up - S. Theegala vs K. Bradley - 1st Round Match-Up,Keegan Bradley,0.022600000000000064,0.5348,0.5122
-2023-02-09 18:40:31.372953,Round Match-Ups - 1st Round Match-Up - S. Theegala vs K. Bradley - 1st Round Match-Up,Sahith Theegala,0.022600000000000064,0.5348,0.5122
 2023-02-09 15:40:41.168782,Super Bowl 57 Specials - Super Bowl Specials  - First TV Advertisement - Doritos vs M&Ms,Doritos,0.022600000000000064,0.6226,0.6
+2023-02-09 18:40:31.372953,Round Match-Ups - 1st Round Match-Up - S. Theegala vs K. Bradley - 1st Round Match-Up,Sahith Theegala,0.022600000000000064,0.5348,0.5122
 2023-02-09 15:40:41.076567,Super Bowl 57 Specials - Super Bowl Specials  - America the Beautiful - Who Will be Shown first,Travis Kelce,0.022599999999999953,0.7101,0.6875
 2023-02-09 12:40:33.889694,UEFA Europa League - UEFA Europa League 22/23 - Winner,Arsenal,0.022199999999999998,0.2222,0.2
+2023-02-09 23:40:36.958851,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Los Angeles Clippers,0.022199999999999998,0.2222,0.2
 2023-02-09 13:40:29.225135,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Phoenix Suns,0.021999999999999964,0.3077,0.2857
 2023-02-09 14:40:40.364430,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Flamengo,0.021999999999999964,0.3077,0.2857
-2023-02-09 15:40:41.177872,Super Bowl 57 Specials - Super Bowl Specials  - First TV Advertisement - Experian vs Rakuten,Rakuten,0.02079999999999993,0.5556,0.5348
-2023-02-09 12:40:31.485454,Round Match-Ups - 1st Round Match-Up - S. Lowry vs T. Fleetwood - 1st Round Match-Up,Shane Lowry,0.02079999999999993,0.5556,0.5348
 2023-02-09 15:40:41.223936,Super Bowl 57 Specials - Super Bowl Specials  - Jersey number of first Touchdown scorer ,Over 11.5,0.02079999999999993,0.5556,0.5348
 2023-02-09 12:40:31.514458,Round Match-Ups - 1st Round Match-Up - X. Schauffele vs T. Finau - 1st Round Match-Up,Xander Schauffele,0.02079999999999993,0.5556,0.5348
+2023-02-09 12:40:31.485454,Round Match-Ups - 1st Round Match-Up - S. Lowry vs T. Fleetwood - 1st Round Match-Up,Shane Lowry,0.02079999999999993,0.5556,0.5348
 2023-02-09 12:40:31.534602,Round Match-Ups - 1st Round Match-Up - S. Burns vs T. Hatton - 1st Round Match-Up,Sam Burns,0.02079999999999993,0.5556,0.5348
+2023-02-09 15:40:41.177872,Super Bowl 57 Specials - Super Bowl Specials  - First TV Advertisement - Experian vs Rakuten,Rakuten,0.02079999999999993,0.5556,0.5348
 2023-02-09 16:40:31.266594,Super Bowl 57 Specials - Super Bowl Specials  - National Anthem - Who Will be Shown first,Philadelphia Eagles Player Or Staff,0.020699999999999996,0.4651,0.4444
-2023-02-09 10:40:34.191473,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Bayern Munich,0.02049999999999999,0.1538,0.1333
 2023-02-09 15:40:41.104076,Super Bowl 57 Specials - Super Bowl Specials  - Andy Reid Special - Will he Eat Cheeseburger Before End of Super Bowl Broadcast,Yes,0.02049999999999999,0.1538,0.1333
+2023-02-09 23:40:36.931836,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Boston Celtics,0.020199999999999996,0.9091,0.8889
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Jeunghun Wang,0.020000000000000004,0.0323,0.0123
 2023-02-09 12:40:31.539352,Round Match-Ups - 1st Round Match-Up - C. Conners vs L. Herbert - 1st Round Match-Up,Corey Conners,0.01970000000000005,0.5652,0.5455
 2023-02-09 12:40:31.433295,Phoenix Open - 2/3 Balls - 1st Round 3 Balls - B. Horschel / M. Thompson / J. Day - 1st Round 3 Balls,Jason Day,0.019699999999999995,0.4545,0.4348
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Zander Lombard,0.019600000000000003,0.0345,0.0149
 2023-02-09 16:40:30.917468,International Series Oman - International Series Oman - Outright,Andy Ogletree,0.019600000000000003,0.0345,0.0149
 2023-02-09 22:40:31.138846,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Milwaukee Bucks,0.019000000000000017,0.2857,0.2667
-2023-02-09 16:40:30.917468,International Series Oman - International Series Oman - Outright,Takumi Kanaya,0.0189,0.0385,0.0196
+2023-02-09 23:40:36.948108,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Miami Heat,0.018999999999999906,0.7333,0.7143
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Julien Brun,0.0189,0.0385,0.0196
+2023-02-09 16:40:30.917468,International Series Oman - International Series Oman - Outright,Takumi Kanaya,0.0189,0.0385,0.0196
 2023-02-09 16:40:31.447252,Super Bowl 57 Specials - Super Bowl Specials  - Total combined yardage of all Touchdowns scored,Over 80.5 Yards,0.01880000000000004,0.5744,0.5556
 2023-02-09 14:40:39.188108,NFL Specials - Next Full time Head Coach of the Indianapolis Colts - Colts Next Coach,Brian Callahan,0.0179,0.1429,0.125
 2023-02-09 14:40:40.364430,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Palmeiras,0.0174,0.25,0.2326
 2023-02-09 22:40:30.256860,Super Bowl 57 Specials - Super Bowl Specials  - National Anthem - How Long Will It Take Chris Stapleton To Sing The US National Anthem?,Under 2 minutes and 07 seconds,0.017299999999999982,0.4255,0.4082
 2023-02-09 15:40:41.205611,Super Bowl 57 Specials - Super Bowl Specials  - How Many TickTok Videos Will jacksonmahomes Post During the Super Bowl,Over 1.5,0.017299999999999982,0.4255,0.4082
+2023-02-09 23:40:36.937300,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Milwaukee Bucks,0.015699999999999936,0.8824,0.8667
 2023-02-09 20:40:37.579069,Phoenix Open - 2/3 Balls - 1st Round 3 Balls - R. Henley / S. Power / R. Fowler - 1st Round 3 Balls,Rickie Fowler,0.015400000000000025,0.4,0.3846
 2023-02-09 12:40:33.898702,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,Villarreal,0.015100000000000002,0.1818,0.1667
 2023-02-09 15:40:41.108598,Super Bowl 57 Specials - Super Bowl Specials  - Andy Reid Special - Will the Words Burger or Cheeseburger be be said by Andy Reid during the postgame interview,Yes,0.01479999999999998,0.3922,0.3774
@@ -74,60 +74,58 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Wenyl Ding,0.012400000000000001,0.0164,0.004
 2023-02-09 22:40:30.672176,Super Bowl 57 Specials - Super Bowl Specials  - Total Penalty Yards,Over 79.5 Yards,0.012299999999999978,0.6552,0.6429
 2023-02-09 21:40:33.545358,Boxing Lines - McGoldrick S. T. vs Scott Allan - To Win the Bout,Scott Allan,0.012199999999999989,0.5,0.4878
-2023-02-09 11:40:26.779674,Boxing Lines - Lenier Pero vs Viktor Vykhryst - To Win the Bout,Lenier Pero,0.012199999999999989,0.5122,0.5
 2023-02-09 16:40:30.917468,International Series Oman - International Series Oman - Outright,Scott Vincent,0.012100000000000001,0.0244,0.0123
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Dale Whitnell,0.012100000000000001,0.0244,0.0123
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Jeff Winther,0.012100000000000001,0.0244,0.0123
-2023-02-09 11:40:26.788965,Boxing Lines - Rey Vargas vs O'Shaquie Foster - To Win the Bout,O'Shaquie Foster,0.0116,0.4878,0.4762
-2023-02-09 10:40:33.812415,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Cleveland Cavaliers,0.011099999999999999,0.1111,0.1
-2023-02-09 16:40:31.473477,Super Bowl 57 Specials - Super Bowl Specials  - Total pass interceptions by both teams,Over 1.5,0.011099999999999999,0.4762,0.4651
 2023-02-09 12:40:33.445270,NFL Specials - Next Full time Head Coach of the Indianapolis Colts - Colts Next Coach,Ejiro Evero,0.011099999999999999,0.1111,0.1
+2023-02-09 16:40:31.473477,Super Bowl 57 Specials - Super Bowl Specials  - Total pass interceptions by both teams,Over 1.5,0.011099999999999999,0.4762,0.4651
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,David Ravetto,0.0109,0.0149,0.004
 2023-02-09 15:40:41.054046,Super Bowl 57 Specials - Super Bowl Specials  - Will the Opening kickoff result in a touchback?,No,0.010599999999999998,0.4651,0.4545
 2023-02-09 12:40:31.244591,Boxing Lines - Gary Cully vs Wilfredo Flores - To Win the Bout,Gary Cully,0.010199999999999987,0.9333,0.9231
 2023-02-09 16:40:30.917468,International Series Oman - International Series Oman - Outright,Mikumu Horikawa,0.010100000000000001,0.0345,0.0244
 2023-02-09 16:40:31.313364,Super Bowl 57 Specials - Super Bowl Specials  - Number of different Eagles Players to have a rush attempt,Over 4 Players,0.010099999999999998,0.6875,0.6774
 2023-02-09 15:40:41.108598,Super Bowl 57 Specials - Super Bowl Specials  - Andy Reid Special - Will the Words Burger or Cheeseburger be be said by Andy Reid during the postgame interview,No,-0.010099999999999998,0.6774,0.6875
-2023-02-09 12:40:33.889694,UEFA Europa League - UEFA Europa League 22/23 - Winner,Ajax,-0.0102,0.0667,0.0769
-2023-02-09 22:40:31.126406,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Memphis Grizzlies,-0.0102,0.0667,0.0769
 2023-02-09 19:40:30.366100,Boxing Lines - Hassan Azim vs Abdallah Luanja - To Win the Bout,Abdallah Luanja,-0.0102,0.0667,0.0769
+2023-02-09 22:40:31.126406,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Memphis Grizzlies,-0.0102,0.0667,0.0769
+2023-02-09 12:40:33.889694,UEFA Europa League - UEFA Europa League 22/23 - Winner,Ajax,-0.0102,0.0667,0.0769
 2023-02-09 20:40:37.569135,Phoenix Open - 2/3 Balls - 1st Round 3 Balls - T. Kim / S. Scheffler / V. Hovland - 1st Round 3 Balls,Viktor Hovland,-0.010699999999999987,0.3226,0.3333
 2023-02-09 16:40:30.917468,International Series Oman - International Series Oman - Outright,James Piot,-0.0109,0.004,0.0149
 2023-02-09 16:40:30.917468,International Series Oman - International Series Oman - Outright,Yuki Inamori,-0.0109,0.004,0.0149
 2023-02-09 20:40:37.584009,Phoenix Open - 2/3 Balls - 1st Round 3 Balls - B. Horschel / M. Thompson / J. Day - 1st Round 3 Balls,Michael Thompson,-0.011099999999999999,0.2667,0.2778
-2023-02-09 10:40:33.812415,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Milwaukee Bucks,-0.011099999999999999,0.2667,0.2778
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Louis De Jager,-0.011300000000000001,0.001,0.0123
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Yannik Paul,-0.011300000000000001,0.0036,0.0149
 2023-02-09 20:40:37.569135,Phoenix Open - 2/3 Balls - 1st Round 3 Balls - T. Kim / S. Scheffler / V. Hovland - 1st Round 3 Balls,Tom Kim,-0.01150000000000001,0.3333,0.3448
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Sebastian Soderberg,-0.0116,0.0033,0.0149
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,John Catlin,-0.0116,0.0033,0.0149
+2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Ashun Wu,-0.011699999999999999,0.0079,0.0196
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Ross Fisher,-0.011699999999999999,0.0079,0.0196
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Gavin Green,-0.011699999999999999,0.0079,0.0196
-2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Ashun Wu,-0.011699999999999999,0.0079,0.0196
-2023-02-09 10:40:33.820949,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,-0.011700000000000016,0.2105,0.2222
 2023-02-09 16:40:30.917468,International Series Oman - International Series Oman - Outright,Tomoharu Otsuki,-0.012100000000000001,0.0123,0.0244
 2023-02-09 16:40:31.349917,Super Bowl 57 Specials - Super Bowl Specials  - Ratings - Halftime Show Average Audience,101 million or under,-0.012199999999999989,0.4878,0.5
-2023-02-09 22:40:30.256860,Super Bowl 57 Specials - Super Bowl Specials  - National Anthem - How Long Will It Take Chris Stapleton To Sing The US National Anthem?,Over 2 minutes and 07 seconds,-0.012299999999999978,0.6429,0.6552
 2023-02-09 15:40:41.205611,Super Bowl 57 Specials - Super Bowl Specials  - How Many TickTok Videos Will jacksonmahomes Post During the Super Bowl,Under 1.5,-0.012299999999999978,0.6429,0.6552
+2023-02-09 22:40:30.256860,Super Bowl 57 Specials - Super Bowl Specials  - National Anthem - How Long Will It Take Chris Stapleton To Sing The US National Anthem?,Over 2 minutes and 07 seconds,-0.012299999999999978,0.6429,0.6552
 2023-02-09 19:40:30.382087,Boxing Lines - Dominik Harwankowski vs Piotr Gudel - To Win the Bout,Piotr Gudel,-0.012299999999999991,0.1053,0.1176
-2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Jayden Schaper,-0.0124,0.0025,0.0149
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Dan Bradbury,-0.0124,0.0025,0.0149
-2023-02-09 20:40:37.554331,Phoenix Open - 2/3 Balls - 1st Round 3 Balls - J. Thomas / J. Dahmen / S. Theegala - 1st Round 3 Balls,Sahith Theegala,-0.012699999999999989,0.3509,0.3636
+2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Jayden Schaper,-0.0124,0.0025,0.0149
 2023-02-09 20:40:37.584009,Phoenix Open - 2/3 Balls - 1st Round 3 Balls - B. Horschel / M. Thompson / J. Day - 1st Round 3 Balls,Billy Horschel,-0.012699999999999989,0.3509,0.3636
+2023-02-09 20:40:37.554331,Phoenix Open - 2/3 Balls - 1st Round 3 Balls - J. Thomas / J. Dahmen / S. Theegala - 1st Round 3 Balls,Sahith Theegala,-0.012699999999999989,0.3509,0.3636
 2023-02-09 14:40:40.364430,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Atlético Mineiro,-0.012899999999999995,0.1538,0.1667
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Romain Langasque,-0.013,0.0066,0.0196
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Niklas Norgaard Moller,-0.013,0.0066,0.0196
+2023-02-09 23:40:36.958851,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Sacramento Kings,-0.0131,0.2222,0.2353
 2023-02-09 16:40:30.917468,International Series Oman - International Series Oman - Outright,Peter Uihlein,-0.0131,0.0345,0.0476
 2023-02-09 20:40:37.554331,Phoenix Open - 2/3 Balls - 1st Round 3 Balls - J. Thomas / J. Dahmen / S. Theegala - 1st Round 3 Balls,Joel Dahmen,-0.01319999999999999,0.25,0.2632
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Callum Hill,-0.013600000000000001,0.0013,0.0149
-2023-02-09 10:40:33.820949,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Lakers,-0.014099999999999994,0.0526,0.0667
 2023-02-09 16:40:30.917468,International Series Oman - International Series Oman - Outright,Louis Oosthuizen,-0.014099999999999994,0.0526,0.0667
+2023-02-09 23:40:36.924729,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,New Orleans Pelicans,-0.014099999999999994,0.0526,0.0667
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Adrian Otaegui,-0.014099999999999998,0.0244,0.0385
+2023-02-09 23:40:36.931836,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Brooklyn Nets,-0.014100000000000001,0.0385,0.0526
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Matthew Jordan,-0.0145,0.0099,0.0244
 2023-02-09 16:40:30.917468,International Series Oman - International Series Oman - Outright,Graeme McDowell,-0.0145,0.0099,0.0244
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Marcus Kinhult,-0.014599999999999998,0.005,0.0196
 2023-02-09 16:40:31.313364,Super Bowl 57 Specials - Super Bowl Specials  - Number of different Eagles Players to have a rush attempt,Under 4 Players,-0.01479999999999998,0.3774,0.3922
 2023-02-09 16:40:31.599589,Super Bowl 57 Specials - Super Bowl Specials  - Will there be a penalty for horse collar tackle?,Yes,-0.015100000000000002,0.1667,0.1818
+2023-02-09 23:40:36.924729,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Clippers,-0.015100000000000002,0.1667,0.1818
 2023-02-09 15:40:41.054046,Super Bowl 57 Specials - Super Bowl Specials  - Will the Opening kickoff result in a touchback?,Yes,-0.01539999999999997,0.6,0.6154
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Rafael Cabrera Bello,-0.0156,0.004,0.0196
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Marcus Helligkilde,-0.0163,0.0033,0.0196
@@ -135,11 +133,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Rikuya Hoshino,-0.0165,0.0079,0.0244
 2023-02-09 12:40:33.898702,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,Braga,-0.016700000000000007,0.0833,0.1
 2023-02-09 22:40:30.672176,Super Bowl 57 Specials - Super Bowl Specials  - Total Penalty Yards,Under 79.5 Yards,-0.017299999999999982,0.4082,0.4255
-2023-02-09 11:40:26.788965,Boxing Lines - Rey Vargas vs O'Shaquie Foster - To Win the Bout,Rey Vargas,-0.017299999999999982,0.5744,0.5917
-2023-02-09 10:40:34.191473,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Paris Saint-Germain,-0.0179,0.125,0.1429
-2023-02-09 20:40:37.574148,Phoenix Open - 2/3 Balls - 1st Round 3 Balls - J.T. Poston / A. Svensson / B. Gay - 1st Round 3 Balls,Brian Gay,-0.01820000000000002,0.1818,0.2
 2023-02-09 12:40:33.898702,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,West Ham United,-0.01820000000000002,0.1818,0.2
-2023-02-09 10:40:33.820949,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Clippers,-0.01820000000000002,0.1818,0.2
+2023-02-09 20:40:37.574148,Phoenix Open - 2/3 Balls - 1st Round 3 Balls - J.T. Poston / A. Svensson / B. Gay - 1st Round 3 Balls,Brian Gay,-0.01820000000000002,0.1818,0.2
 2023-02-09 12:40:31.235123,Boxing Lines - Rey Vargas vs O'Shaquie Foster - To Win the Bout,Rey Vargas,-0.01880000000000004,0.5556,0.5744
 2023-02-09 16:40:30.917468,International Series Oman - International Series Oman - Outright,Justin Harding,-0.0192,0.0004,0.0196
 2023-02-09 15:40:41.076567,Super Bowl 57 Specials - Super Bowl Specials  - America the Beautiful - Who Will be Shown first,A.J. Brown,-0.02030000000000004,0.3571,0.3774
@@ -147,54 +142,43 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-09 12:40:31.433295,Phoenix Open - 2/3 Balls - 1st Round 3 Balls - B. Horschel / M. Thompson / J. Day - 1st Round 3 Balls,Billy Horschel,-0.02100000000000002,0.3636,0.3846
 2023-02-09 16:40:31.276868,Super Bowl 57 Specials - Super Bowl Specials  - National Anthem - Who Will be Shown first,Jalen Hurts,-0.021699999999999997,0.4545,0.4762
 2023-02-09 16:40:30.917468,International Series Oman - International Series Oman - Outright,Laurie Canter,-0.021900000000000003,0.0025,0.0244
-2023-02-09 16:40:31.266594,Super Bowl 57 Specials - Super Bowl Specials  - National Anthem - Who Will be Shown first,Kansas City Chiefs Player or Staff,-0.022600000000000064,0.6,0.6226
-2023-02-09 15:40:41.177872,Super Bowl 57 Specials - Super Bowl Specials  - First TV Advertisement - Experian vs Rakuten,Experian,-0.022600000000000064,0.5122,0.5348
 2023-02-09 12:40:31.588278,Round Match-Ups - 1st Round Match-Up - S. Theegala vs K. Bradley - 1st Round Match-Up,Sahith Theegala,-0.022600000000000064,0.5122,0.5348
-2023-02-09 18:40:31.372953,Round Match-Ups - 1st Round Match-Up - S. Theegala vs K. Bradley - 1st Round Match-Up,Keegan Bradley,-0.022600000000000064,0.5122,0.5348
 2023-02-09 15:40:41.223936,Super Bowl 57 Specials - Super Bowl Specials  - Jersey number of first Touchdown scorer ,Under 11.5,-0.022600000000000064,0.5122,0.5348
+2023-02-09 16:40:31.266594,Super Bowl 57 Specials - Super Bowl Specials  - National Anthem - Who Will be Shown first,Kansas City Chiefs Player or Staff,-0.022600000000000064,0.6,0.6226
+2023-02-09 18:40:31.372953,Round Match-Ups - 1st Round Match-Up - S. Theegala vs K. Bradley - 1st Round Match-Up,Keegan Bradley,-0.022600000000000064,0.5122,0.5348
+2023-02-09 15:40:41.177872,Super Bowl 57 Specials - Super Bowl Specials  - First TV Advertisement - Experian vs Rakuten,Experian,-0.022600000000000064,0.5122,0.5348
 2023-02-09 22:40:30.519428,Super Bowl 57 Specials - Super Bowl Specials  - Number of different Eagles Players to score points,Under 3.5 Players,-0.022699999999999998,0.4651,0.4878
 2023-02-09 12:40:33.445270,NFL Specials - Next Full time Head Coach of the Indianapolis Colts - Colts Next Coach,Bubba Ventrone,-0.02310000000000001,0.0769,0.1
-2023-02-09 12:40:33.445270,NFL Specials - Next Full time Head Coach of the Indianapolis Colts - Colts Next Coach,Chris Horton,-0.02310000000000001,0.0769,0.1
-2023-02-09 16:40:31.546137,Super Bowl 57 Specials - Super Bowl Specials  - Will Any Player Record an Octopus?,No,-0.02310000000000001,0.9,0.9231
 2023-02-09 12:40:33.445270,NFL Specials - Next Full time Head Coach of the Indianapolis Colts - Colts Next Coach,Ken Dorsey,-0.02310000000000001,0.0769,0.1
+2023-02-09 16:40:31.546137,Super Bowl 57 Specials - Super Bowl Specials  - Will Any Player Record an Octopus?,No,-0.02310000000000001,0.9,0.9231
+2023-02-09 12:40:33.445270,NFL Specials - Next Full time Head Coach of the Indianapolis Colts - Colts Next Coach,Chris Horton,-0.02310000000000001,0.0769,0.1
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Thriston Lawrence,-0.0234,0.001,0.0244
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Johannes Veerman,-0.0237,0.0057,0.0294
 2023-02-09 16:40:31.402818,Super Bowl 57 Specials - Super Bowl Specials  - Team To Call First Timeout,Philadelphia Eagles,-0.023799999999999988,0.4762,0.5
 2023-02-09 22:40:30.506840,Super Bowl 57 Specials - Super Bowl Specials  - Number of different Chiefs Players to score points,Under 3.5 Players,-0.023799999999999988,0.4762,0.5
 2023-02-09 12:40:31.539352,Round Match-Ups - 1st Round Match-Up - C. Conners vs L. Herbert - 1st Round Match-Up,Lucas Herbert,-0.023799999999999988,0.4762,0.5
 2023-02-09 15:40:41.104076,Super Bowl 57 Specials - Super Bowl Specials  - Andy Reid Special - Will he Eat Cheeseburger Before End of Super Bowl Broadcast,No,-0.0242,0.9091,0.9333
-2023-02-09 10:40:33.820949,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,New Orleans Pelicans,-0.0242,0.0667,0.0909
+2023-02-09 16:40:31.447252,Super Bowl 57 Specials - Super Bowl Specials  - Total combined yardage of all Touchdowns scored,Under 80.5 Yards,-0.024399999999999977,0.4878,0.5122
+2023-02-09 12:40:31.534602,Round Match-Ups - 1st Round Match-Up - S. Burns vs T. Hatton - 1st Round Match-Up,Tyrrell Hatton,-0.024399999999999977,0.4878,0.5122
 2023-02-09 12:40:31.514458,Round Match-Ups - 1st Round Match-Up - X. Schauffele vs T. Finau - 1st Round Match-Up,Tony Finau,-0.024399999999999977,0.4878,0.5122
 2023-02-09 12:40:31.485454,Round Match-Ups - 1st Round Match-Up - S. Lowry vs T. Fleetwood - 1st Round Match-Up,Tommy Fleetwood,-0.024399999999999977,0.4878,0.5122
-2023-02-09 12:40:31.534602,Round Match-Ups - 1st Round Match-Up - S. Burns vs T. Hatton - 1st Round Match-Up,Tyrrell Hatton,-0.024399999999999977,0.4878,0.5122
-2023-02-09 16:40:31.447252,Super Bowl 57 Specials - Super Bowl Specials  - Total combined yardage of all Touchdowns scored,Under 80.5 Yards,-0.024399999999999977,0.4878,0.5122
-2023-02-09 10:40:33.820949,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Dallas Mavericks,-0.025300000000000003,0.1176,0.1429
 2023-02-09 15:40:41.113205,Super Bowl 57 Specials - Super Bowl Specials  - Andy Reid Special - Will they mention or show clip/picture of Andy Reid competing in Punt/Pass/Kick Contest,No,-0.025599999999999956,0.5744,0.6
-2023-02-09 10:40:33.854396,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Los Angeles Lakers,-0.0262,0.0123,0.0385
-2023-02-09 10:40:34.191473,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Manchester City,-0.026500000000000024,0.3509,0.3774
 2023-02-09 16:40:31.541740,Super Bowl 57 Specials - Super Bowl Specials  - Will any player propose to his girlfriend on the Field after the Game?,No,-0.027999999999999914,0.8182,0.8462
-2023-02-09 10:40:33.812415,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Philadelphia 76ers,-0.031700000000000006,0.1905,0.2222
 2023-02-09 15:40:41.210179,Super Bowl 57 Specials - Super Bowl Specials  - How many times will  Kelce brothers facing off against each other be Mentioned during the Broadcast,Under 1.5,-0.0363,0.2667,0.303
 2023-02-09 16:40:30.917468,International Series Oman - International Series Oman - Outright,Charl Schwartzel,-0.037700000000000004,0.0099,0.0476
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Adri Arnaus,-0.03949999999999999,0.004,0.0435
 2023-02-09 16:40:31.550723,"Super Bowl 57 Specials - Super Bowl Specials  - Will Any Player Record Exactly 69 Pass, Rush or Receiving Yards",No,-0.041200000000000014,0.9,0.9412
-2023-02-09 10:40:33.820949,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Golden State Warriors,-0.04269999999999999,0.1111,0.1538
 2023-02-09 16:40:30.917468,International Series Oman - International Series Oman - Outright,Branden Grace,-0.0475,0.0294,0.0769
 2023-02-09 15:40:41.067488,Super Bowl 57 Specials - Super Bowl Specials  -  What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 57?,Purple,-0.048600000000000004,0.0625,0.1111
-2023-02-09 10:40:33.820949,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Memphis Grizzlies,-0.04909999999999999,0.1176,0.1667
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Ryan Fox,-0.0518,0.0149,0.0667
 2023-02-09 16:40:30.917468,International Series Oman - International Series Oman - Outright,Brooks Koepka,-0.052399999999999995,0.0385,0.0909
 2023-02-09 14:40:39.188108,NFL Specials - Next Full time Head Coach of the Indianapolis Colts - Colts Next Coach,Shane Steichen,-0.05559999999999998,0.4444,0.5
 2023-02-09 16:40:30.917468,International Series Oman - International Series Oman - Outright,Joaquin Niemann,-0.056400000000000006,0.0769,0.1333
-2023-02-09 10:40:33.854396,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Golden State Warriors,-0.0585,0.0526,0.1111
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Robert MacIntyre,-0.0617,0.005,0.0667
-2023-02-09 10:40:33.854396,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Sacramento Kings,-0.06769999999999998,0.2353,0.303
 2023-02-09 12:40:33.445270,NFL Specials - Next Full time Head Coach of the Indianapolis Colts - Colts Next Coach,Mike Kafka,-0.08979999999999999,0.0769,0.1667
-2023-02-09 12:40:33.445270,NFL Specials - Next Full time Head Coach of the Indianapolis Colts - Colts Next Coach,Brian Johnson,-0.08979999999999999,0.0769,0.1667
 2023-02-09 12:40:33.445270,NFL Specials - Next Full time Head Coach of the Indianapolis Colts - Colts Next Coach,Jerod Mayo,-0.08979999999999999,0.0769,0.1667
-2023-02-09 10:40:33.812415,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Brooklyn Nets,-0.0905,0.0345,0.125
+2023-02-09 12:40:33.445270,NFL Specials - Next Full time Head Coach of the Indianapolis Colts - Colts Next Coach,Brian Johnson,-0.08979999999999999,0.0769,0.1667
 2023-02-09 12:40:33.445270,NFL Specials - Next Full time Head Coach of the Indianapolis Colts - Colts Next Coach,Jim Harbaugh,-0.1079,0.0588,0.1667
 2023-02-09 12:40:33.445270,NFL Specials - Next Full time Head Coach of the Indianapolis Colts - Colts Next Coach,Kellen Moore,-0.13729999999999998,0.0294,0.1667
 2023-02-09 12:40:33.445270,NFL Specials - Next Full time Head Coach of the Indianapolis Colts - Colts Next Coach,Peyton Manning,-0.1445,0.0294,0.1739
-2023-02-09 10:40:33.854396,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Los Angeles Clippers,-0.15709999999999996,0.2,0.3571
 2023-02-09 15:40:41.067488,Super Bowl 57 Specials - Super Bowl Specials  -  What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 57?,Orange,-0.2143,0.2857,0.5
