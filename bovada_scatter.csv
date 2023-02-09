@@ -1,7 +1,9 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2023-02-09 13:40:28.555100,NFL Specials - Next Full time Head Coach of the Indianapolis Colts - Colts Next Coach,Shane Steichen,0.3,0.5,0.2
 2023-02-09 10:40:33.854396,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Phoenix Suns,0.29630000000000006,0.6296,0.3333
 2023-02-09 09:40:31.595062,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Malcolm Brogdon (BOS),0.2108,0.6552,0.4444
 2023-02-09 10:40:33.820949,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Phoenix Suns,0.1746,0.2857,0.1111
+2023-02-09 13:40:28.555100,NFL Specials - Next Full time Head Coach of the Indianapolis Colts - Colts Next Coach,Wink Martindale,0.1731,0.25,0.0769
 2023-02-09 09:40:31.595062,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Norman Powell (LAC),0.14599999999999996,0.2941,0.1481
 2023-02-09 07:40:31.672006,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Phoenix Suns,0.12919999999999998,0.1818,0.0526
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Tom McKibbin,0.07859999999999999,0.0909,0.0123
@@ -23,6 +25,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Marcel Schneider,0.023200000000000002,0.0476,0.0244
 2023-02-09 12:40:31.588278,Round Match-Ups - 1st Round Match-Up - S. Theegala vs K. Bradley - 1st Round Match-Up,Keegan Bradley,0.022600000000000064,0.5348,0.5122
 2023-02-09 12:40:33.889694,UEFA Europa League - UEFA Europa League 22/23 - Winner,Arsenal,0.022199999999999998,0.2222,0.2
+2023-02-09 13:40:29.225135,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Phoenix Suns,0.021999999999999964,0.3077,0.2857
 2023-02-09 02:40:32.907326,FIBA Champions League - FIBA Champions League 2022/23 - Outright,Tenerife,0.021999999999999964,0.3077,0.2857
 2023-02-09 09:40:31.081485,Round Match-Ups - 1st Round Match-Up - K. Mitchell vs T. Montgomery - 1st Round Match-Up,Keith Mitchell,0.02169999999999994,0.5455,0.5238
 2023-02-09 12:40:31.534602,Round Match-Ups - 1st Round Match-Up - S. Burns vs T. Hatton - 1st Round Match-Up,Sam Burns,0.02079999999999993,0.5556,0.5348
@@ -33,8 +36,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-09 02:40:32.898916,Euro Cup - Euro Cup 2022/23 - Outright,Hapoel Tel Aviv,0.02020000000000001,0.1111,0.0909
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Jeunghun Wang,0.020000000000000004,0.0323,0.0123
 2023-02-09 09:40:31.610408,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Cam Thomas (BKN),0.019800000000000005,0.0476,0.0278
-2023-02-09 12:40:31.539352,Round Match-Ups - 1st Round Match-Up - C. Conners vs L. Herbert - 1st Round Match-Up,Corey Conners,0.01970000000000005,0.5652,0.5455
 2023-02-09 02:40:32.313730,Round Match-Ups - 1st Round Match-Up - C. Young vs M. Fitzpatrick - 1st Round Match-Up,Cameron Young,0.01970000000000005,0.5652,0.5455
+2023-02-09 12:40:31.539352,Round Match-Ups - 1st Round Match-Up - C. Conners vs L. Herbert - 1st Round Match-Up,Corey Conners,0.01970000000000005,0.5652,0.5455
 2023-02-09 12:40:31.433295,Phoenix Open - 2/3 Balls - 1st Round 3 Balls - B. Horschel / M. Thompson / J. Day - 1st Round 3 Balls,Jason Day,0.019699999999999995,0.4545,0.4348
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Zander Lombard,0.019600000000000003,0.0345,0.0149
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Julien Brun,0.0189,0.0385,0.0196
@@ -45,21 +48,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-09 12:40:33.898702,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,Villarreal,0.015100000000000002,0.1818,0.1667
 2023-02-09 07:40:31.138474,Phoenix Open - 2/3 Balls - 1st Round 3 Balls - R. McIlroy / H. Matsuyama / C. Morikawa - 1st Round 3 Balls,Collin Morikawa,0.013300000000000034,0.3704,0.3571
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Wenyl Ding,0.012400000000000001,0.0164,0.004
-2023-02-09 08:40:30.773246,Boxing Lines - Lenier Pero vs Viktor Vykhryst - To Win the Bout,Lenier Pero,0.012199999999999989,0.5,0.4878
 2023-02-09 11:40:26.779674,Boxing Lines - Lenier Pero vs Viktor Vykhryst - To Win the Bout,Lenier Pero,0.012199999999999989,0.5122,0.5
 2023-02-09 02:40:32.301308,Round Match-Ups - 1st Round Match-Up - P. Cantlay vs S. Im - 1st Round Match-Up,Sungjae Im,0.012199999999999989,0.5122,0.5
-2023-02-09 09:40:31.722163,Copa Libertadores - Copa Libertadores 2023 - Outright,Independiente Medellin,0.012100000000000001,0.0244,0.0123
-2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Dale Whitnell,0.012100000000000001,0.0244,0.0123
+2023-02-09 08:40:30.773246,Boxing Lines - Lenier Pero vs Viktor Vykhryst - To Win the Bout,Lenier Pero,0.012199999999999989,0.5,0.4878
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Jeff Winther,0.012100000000000001,0.0244,0.0123
+2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Dale Whitnell,0.012100000000000001,0.0244,0.0123
+2023-02-09 09:40:31.722163,Copa Libertadores - Copa Libertadores 2023 - Outright,Independiente Medellin,0.012100000000000001,0.0244,0.0123
 2023-02-09 02:40:32.890286,Euroleague - Euroleague 2022/23 - Outright,Olympiakos,0.011700000000000016,0.2222,0.2105
 2023-02-09 09:40:31.097561,Round Match-Ups - 1st Round Match-Up - P. Cantlay vs S. Im - 1st Round Match-Up,Sungjae Im,0.011600000000000055,0.5238,0.5122
 2023-02-09 11:40:26.788965,Boxing Lines - Rey Vargas vs O'Shaquie Foster - To Win the Bout,O'Shaquie Foster,0.0116,0.4878,0.4762
 2023-02-09 07:40:31.672006,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Los Angeles Lakers,0.011199999999999995,0.0435,0.0323
 2023-02-09 12:40:33.445270,NFL Specials - Next Full time Head Coach of the Indianapolis Colts - Colts Next Coach,Ejiro Evero,0.011099999999999999,0.1111,0.1
-2023-02-09 02:40:32.898916,Euro Cup - Euro Cup 2022/23 - Outright,Türk Telekom,0.011099999999999999,0.1111,0.1
 2023-02-09 10:40:33.812415,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Cleveland Cavaliers,0.011099999999999999,0.1111,0.1
-2023-02-09 02:40:32.257597,Round Match-Ups - 1st Round Match-Up - B. Wu v D. Thompson - 1st Round Match-Up,Davis Thompson,0.01100000000000001,0.5348,0.5238
+2023-02-09 02:40:32.898916,Euro Cup - Euro Cup 2022/23 - Outright,Türk Telekom,0.011099999999999999,0.1111,0.1
 2023-02-09 02:40:32.489570,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs T. Finau - Tournament Match-Up,Patrick Cantlay,0.01100000000000001,0.5348,0.5238
+2023-02-09 02:40:32.257597,Round Match-Ups - 1st Round Match-Up - B. Wu v D. Thompson - 1st Round Match-Up,Davis Thompson,0.01100000000000001,0.5348,0.5238
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,David Ravetto,0.0109,0.0149,0.004
 2023-02-09 09:40:31.605507,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Bam Adebayo (MIA),0.010899999999999993,0.1538,0.1429
 2023-02-09 09:40:31.086711,Round Match-Ups - 1st Round Match-Up - H. Matsuyama vs J. Spieth - 1st Round Match-Up,Hideki Matsuyama,0.010699999999999932,0.5455,0.5348
@@ -68,8 +71,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-09 02:40:32.898916,Euro Cup - Euro Cup 2022/23 - Outright,Brescia,0.010100000000000001,0.0345,0.0244
 2023-02-09 01:40:32.088780,Super Bowl 57 Specials - Super Bowl Specials  - Will there be a penalty for Roughing the Passer?,Yes,-0.010099999999999998,0.4444,0.4545
 2023-02-09 07:40:29.547260,Boxing Lines - Zak Chelli vs Anthony Sims Jr - To Win the Bout,Zak Chelli,-0.010099999999999998,0.3125,0.3226
-2023-02-09 12:40:33.889694,UEFA Europa League - UEFA Europa League 22/23 - Winner,Ajax,-0.0102,0.0667,0.0769
 2023-02-09 09:40:31.590097,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Jayson Tatum (BOS),-0.0102,0.0667,0.0769
+2023-02-09 12:40:33.889694,UEFA Europa League - UEFA Europa League 22/23 - Winner,Ajax,-0.0102,0.0667,0.0769
 2023-02-09 08:40:30.836308,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Tennessee,-0.0102,0.0667,0.0769
 2023-02-09 02:40:32.489570,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs T. Finau - Tournament Match-Up,Tony Finau,-0.010699999999999932,0.5348,0.5455
 2023-02-09 02:40:32.301308,Round Match-Ups - 1st Round Match-Up - P. Cantlay vs S. Im - 1st Round Match-Up,Patrick Cantlay,-0.010699999999999932,0.5348,0.5455
@@ -84,14 +87,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,John Catlin,-0.0116,0.0033,0.0149
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Sebastian Soderberg,-0.0116,0.0033,0.0149
 2023-02-09 02:40:32.257597,Round Match-Ups - 1st Round Match-Up - B. Wu v D. Thompson - 1st Round Match-Up,Brandon Wu,-0.011600000000000055,0.5122,0.5238
-2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Ross Fisher,-0.011699999999999999,0.0079,0.0196
-2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Gavin Green,-0.011699999999999999,0.0079,0.0196
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Ashun Wu,-0.011699999999999999,0.0079,0.0196
+2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Gavin Green,-0.011699999999999999,0.0079,0.0196
+2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Ross Fisher,-0.011699999999999999,0.0079,0.0196
 2023-02-09 10:40:33.820949,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,-0.011700000000000016,0.2105,0.2222
 2023-02-09 02:40:32.907326,FIBA Champions League - FIBA Champions League 2022/23 - Outright,Unicaja Málaga,-0.011700000000000016,0.2105,0.2222
 2023-02-09 09:40:31.086711,Round Match-Ups - 1st Round Match-Up - H. Matsuyama vs J. Spieth - 1st Round Match-Up,Jordan Spieth,-0.012199999999999989,0.5,0.5122
-2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Jayden Schaper,-0.0124,0.0025,0.0149
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Dan Bradbury,-0.0124,0.0025,0.0149
+2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Jayden Schaper,-0.0124,0.0025,0.0149
 2023-02-09 05:40:30.107002,Boxing Lines - Mickey Ellison vs Thomas Whittaker Hart - To Win the Bout,Thomas Whittaker Hart,-0.012700000000000045,0.6364,0.6491
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Niklas Norgaard Moller,-0.013,0.0066,0.0196
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Romain Langasque,-0.013,0.0066,0.0196
@@ -121,20 +124,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-09 12:40:31.433295,Phoenix Open - 2/3 Balls - 1st Round 3 Balls - B. Horschel / M. Thompson / J. Day - 1st Round 3 Balls,Billy Horschel,-0.02100000000000002,0.3636,0.3846
 2023-02-09 07:40:31.672006,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Denver Nuggets,-0.022199999999999998,0.1111,0.1333
 2023-02-09 12:40:31.588278,Round Match-Ups - 1st Round Match-Up - S. Theegala vs K. Bradley - 1st Round Match-Up,Sahith Theegala,-0.022600000000000064,0.5122,0.5348
+2023-02-09 12:40:33.445270,NFL Specials - Next Full time Head Coach of the Indianapolis Colts - Colts Next Coach,Ken Dorsey,-0.02310000000000001,0.0769,0.1
 2023-02-09 12:40:33.445270,NFL Specials - Next Full time Head Coach of the Indianapolis Colts - Colts Next Coach,Chris Horton,-0.02310000000000001,0.0769,0.1
 2023-02-09 12:40:33.445270,NFL Specials - Next Full time Head Coach of the Indianapolis Colts - Colts Next Coach,Bubba Ventrone,-0.02310000000000001,0.0769,0.1
-2023-02-09 12:40:33.445270,NFL Specials - Next Full time Head Coach of the Indianapolis Colts - Colts Next Coach,Ken Dorsey,-0.02310000000000001,0.0769,0.1
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Thriston Lawrence,-0.0234,0.001,0.0244
 2023-02-09 12:40:31.727868,Singapore Classic - Singapore Classic - Outright,Johannes Veerman,-0.0237,0.0057,0.0294
-2023-02-09 06:40:29.289597,Phoenix Open - 2/3 Balls - 1st Round 3 Balls - H. English / T. Hatton / T. Duncan - 1st Round 3 Balls,Harris English,-0.023799999999999988,0.3333,0.3571
 2023-02-09 02:40:32.313730,Round Match-Ups - 1st Round Match-Up - C. Young vs M. Fitzpatrick - 1st Round Match-Up,Matt Fitzpatrick,-0.023799999999999988,0.4762,0.5
 2023-02-09 12:40:31.539352,Round Match-Ups - 1st Round Match-Up - C. Conners vs L. Herbert - 1st Round Match-Up,Lucas Herbert,-0.023799999999999988,0.4762,0.5
+2023-02-09 06:40:29.289597,Phoenix Open - 2/3 Balls - 1st Round 3 Balls - H. English / T. Hatton / T. Duncan - 1st Round 3 Balls,Harris English,-0.023799999999999988,0.3333,0.3571
 2023-02-09 09:40:31.081485,Round Match-Ups - 1st Round Match-Up - K. Mitchell vs T. Montgomery - 1st Round Match-Up,Taylor Montgomery,-0.023800000000000043,0.5,0.5238
 2023-02-09 07:40:31.672006,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Brooklyn Nets,-0.023899999999999998,0.0196,0.0435
 2023-02-09 10:40:33.820949,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,New Orleans Pelicans,-0.0242,0.0667,0.0909
+2023-02-09 12:40:31.514458,Round Match-Ups - 1st Round Match-Up - X. Schauffele vs T. Finau - 1st Round Match-Up,Tony Finau,-0.024399999999999977,0.4878,0.5122
 2023-02-09 12:40:31.534602,Round Match-Ups - 1st Round Match-Up - S. Burns vs T. Hatton - 1st Round Match-Up,Tyrrell Hatton,-0.024399999999999977,0.4878,0.5122
 2023-02-09 12:40:31.485454,Round Match-Ups - 1st Round Match-Up - S. Lowry vs T. Fleetwood - 1st Round Match-Up,Tommy Fleetwood,-0.024399999999999977,0.4878,0.5122
-2023-02-09 12:40:31.514458,Round Match-Ups - 1st Round Match-Up - X. Schauffele vs T. Finau - 1st Round Match-Up,Tony Finau,-0.024399999999999977,0.4878,0.5122
 2023-02-09 10:40:33.820949,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Dallas Mavericks,-0.025300000000000003,0.1176,0.1429
 2023-02-09 10:40:33.854396,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Los Angeles Lakers,-0.0262,0.0123,0.0385
 2023-02-09 10:40:34.191473,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Manchester City,-0.026500000000000024,0.3509,0.3774
