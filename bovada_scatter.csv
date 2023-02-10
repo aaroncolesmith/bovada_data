@@ -28,9 +28,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-09 15:40:41.168782,Super Bowl 57 Specials - Super Bowl Specials  - First TV Advertisement - Doritos vs M&Ms,Doritos,0.022600000000000064,0.6226,0.6
 2023-02-09 15:40:41.076567,Super Bowl 57 Specials - Super Bowl Specials  - America the Beautiful - Who Will be Shown first,Travis Kelce,0.022599999999999953,0.7101,0.6875
 2023-02-09 23:40:36.958851,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Los Angeles Clippers,0.022199999999999998,0.2222,0.2
-2023-02-09 14:40:40.364430,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Flamengo,0.021999999999999964,0.3077,0.2857
-2023-02-09 15:40:41.223936,Super Bowl 57 Specials - Super Bowl Specials  - Jersey number of first Touchdown scorer ,Over 11.5,0.02079999999999993,0.5556,0.5348
 2023-02-09 15:40:41.177872,Super Bowl 57 Specials - Super Bowl Specials  - First TV Advertisement - Experian vs Rakuten,Rakuten,0.02079999999999993,0.5556,0.5348
+2023-02-09 15:40:41.223936,Super Bowl 57 Specials - Super Bowl Specials  - Jersey number of first Touchdown scorer ,Over 11.5,0.02079999999999993,0.5556,0.5348
 2023-02-09 16:40:31.266594,Super Bowl 57 Specials - Super Bowl Specials  - National Anthem - Who Will be Shown first,Philadelphia Eagles Player Or Staff,0.020699999999999996,0.4651,0.4444
 2023-02-09 15:40:41.104076,Super Bowl 57 Specials - Super Bowl Specials  - Andy Reid Special - Will he Eat Cheeseburger Before End of Super Bowl Broadcast,Yes,0.02049999999999999,0.1538,0.1333
 2023-02-09 23:40:36.931836,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Boston Celtics,0.020199999999999996,0.9091,0.8889
@@ -39,8 +38,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-09 23:40:36.948108,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Miami Heat,0.018999999999999906,0.7333,0.7143
 2023-02-09 16:40:30.917468,International Series Oman - International Series Oman - Outright,Takumi Kanaya,0.0189,0.0385,0.0196
 2023-02-09 16:40:31.447252,Super Bowl 57 Specials - Super Bowl Specials  - Total combined yardage of all Touchdowns scored,Over 80.5 Yards,0.01880000000000004,0.5744,0.5556
-2023-02-09 14:40:39.188108,NFL Specials - Next Full time Head Coach of the Indianapolis Colts - Colts Next Coach,Brian Callahan,0.0179,0.1429,0.125
-2023-02-09 14:40:40.364430,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Palmeiras,0.0174,0.25,0.2326
 2023-02-09 22:40:30.256860,Super Bowl 57 Specials - Super Bowl Specials  - National Anthem - How Long Will It Take Chris Stapleton To Sing The US National Anthem?,Under 2 minutes and 07 seconds,0.017299999999999982,0.4255,0.4082
 2023-02-09 15:40:41.205611,Super Bowl 57 Specials - Super Bowl Specials  - How Many TickTok Videos Will jacksonmahomes Post During the Super Bowl,Over 1.5,0.017299999999999982,0.4255,0.4082
 2023-02-10 02:40:30.767869,Boxing Lines - Zak Chelli vs Anthony Sims Jr - To Win the Bout,Anthony Sims Jr,0.016700000000000048,0.75,0.7333
@@ -65,18 +62,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-09 19:40:30.366100,Boxing Lines - Hassan Azim vs Abdallah Luanja - To Win the Bout,Abdallah Luanja,-0.0102,0.0667,0.0769
 2023-02-09 22:40:31.126406,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Memphis Grizzlies,-0.0102,0.0667,0.0769
 2023-02-09 20:40:37.569135,Phoenix Open - 2/3 Balls - 1st Round 3 Balls - T. Kim / S. Scheffler / V. Hovland - 1st Round 3 Balls,Viktor Hovland,-0.010699999999999987,0.3226,0.3333
-2023-02-09 16:40:30.917468,International Series Oman - International Series Oman - Outright,James Piot,-0.0109,0.004,0.0149
 2023-02-09 16:40:30.917468,International Series Oman - International Series Oman - Outright,Yuki Inamori,-0.0109,0.004,0.0149
+2023-02-09 16:40:30.917468,International Series Oman - International Series Oman - Outright,James Piot,-0.0109,0.004,0.0149
 2023-02-09 20:40:37.584009,Phoenix Open - 2/3 Balls - 1st Round 3 Balls - B. Horschel / M. Thompson / J. Day - 1st Round 3 Balls,Michael Thompson,-0.011099999999999999,0.2667,0.2778
 2023-02-09 20:40:37.569135,Phoenix Open - 2/3 Balls - 1st Round 3 Balls - T. Kim / S. Scheffler / V. Hovland - 1st Round 3 Balls,Tom Kim,-0.01150000000000001,0.3333,0.3448
 2023-02-09 16:40:30.917468,International Series Oman - International Series Oman - Outright,Tomoharu Otsuki,-0.012100000000000001,0.0123,0.0244
 2023-02-09 16:40:31.349917,Super Bowl 57 Specials - Super Bowl Specials  - Ratings - Halftime Show Average Audience,101 million or under,-0.012199999999999989,0.4878,0.5
-2023-02-09 15:40:41.205611,Super Bowl 57 Specials - Super Bowl Specials  - How Many TickTok Videos Will jacksonmahomes Post During the Super Bowl,Under 1.5,-0.012299999999999978,0.6429,0.6552
 2023-02-09 22:40:30.256860,Super Bowl 57 Specials - Super Bowl Specials  - National Anthem - How Long Will It Take Chris Stapleton To Sing The US National Anthem?,Over 2 minutes and 07 seconds,-0.012299999999999978,0.6429,0.6552
+2023-02-09 15:40:41.205611,Super Bowl 57 Specials - Super Bowl Specials  - How Many TickTok Videos Will jacksonmahomes Post During the Super Bowl,Under 1.5,-0.012299999999999978,0.6429,0.6552
 2023-02-09 19:40:30.382087,Boxing Lines - Dominik Harwankowski vs Piotr Gudel - To Win the Bout,Piotr Gudel,-0.012299999999999991,0.1053,0.1176
 2023-02-09 20:40:37.584009,Phoenix Open - 2/3 Balls - 1st Round 3 Balls - B. Horschel / M. Thompson / J. Day - 1st Round 3 Balls,Billy Horschel,-0.012699999999999989,0.3509,0.3636
 2023-02-09 20:40:37.554331,Phoenix Open - 2/3 Balls - 1st Round 3 Balls - J. Thomas / J. Dahmen / S. Theegala - 1st Round 3 Balls,Sahith Theegala,-0.012699999999999989,0.3509,0.3636
-2023-02-09 14:40:40.364430,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Atlético Mineiro,-0.012899999999999995,0.1538,0.1667
 2023-02-10 01:40:30.661508,Trophy Hassan II - Trophy Hassan II - Outright,Paul Stankowski,-0.013,0.0066,0.0196
 2023-02-09 16:40:30.917468,International Series Oman - International Series Oman - Outright,Peter Uihlein,-0.0131,0.0345,0.0476
 2023-02-09 23:40:36.958851,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Sacramento Kings,-0.0131,0.2222,0.2353
@@ -101,9 +97,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-10 02:40:30.767869,Boxing Lines - Zak Chelli vs Anthony Sims Jr - To Win the Bout,Zak Chelli,-0.020799999999999985,0.3125,0.3333
 2023-02-09 16:40:31.276868,Super Bowl 57 Specials - Super Bowl Specials  - National Anthem - Who Will be Shown first,Jalen Hurts,-0.021699999999999997,0.4545,0.4762
 2023-02-09 16:40:30.917468,International Series Oman - International Series Oman - Outright,Laurie Canter,-0.021900000000000003,0.0025,0.0244
+2023-02-09 15:40:41.177872,Super Bowl 57 Specials - Super Bowl Specials  - First TV Advertisement - Experian vs Rakuten,Experian,-0.022600000000000064,0.5122,0.5348
 2023-02-09 16:40:31.266594,Super Bowl 57 Specials - Super Bowl Specials  - National Anthem - Who Will be Shown first,Kansas City Chiefs Player or Staff,-0.022600000000000064,0.6,0.6226
 2023-02-09 15:40:41.223936,Super Bowl 57 Specials - Super Bowl Specials  - Jersey number of first Touchdown scorer ,Under 11.5,-0.022600000000000064,0.5122,0.5348
-2023-02-09 15:40:41.177872,Super Bowl 57 Specials - Super Bowl Specials  - First TV Advertisement - Experian vs Rakuten,Experian,-0.022600000000000064,0.5122,0.5348
 2023-02-09 18:40:31.372953,Round Match-Ups - 1st Round Match-Up - S. Theegala vs K. Bradley - 1st Round Match-Up,Keegan Bradley,-0.022600000000000064,0.5122,0.5348
 2023-02-09 22:40:30.519428,Super Bowl 57 Specials - Super Bowl Specials  - Number of different Eagles Players to score points,Under 3.5 Players,-0.022699999999999998,0.4651,0.4878
 2023-02-09 16:40:31.546137,Super Bowl 57 Specials - Super Bowl Specials  - Will Any Player Record an Octopus?,No,-0.02310000000000001,0.9,0.9231
@@ -126,7 +122,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-09 16:40:30.917468,International Series Oman - International Series Oman - Outright,Branden Grace,-0.0475,0.0294,0.0769
 2023-02-09 15:40:41.067488,Super Bowl 57 Specials - Super Bowl Specials  -  What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 57?,Purple,-0.048600000000000004,0.0625,0.1111
 2023-02-09 16:40:30.917468,International Series Oman - International Series Oman - Outright,Brooks Koepka,-0.052399999999999995,0.0385,0.0909
-2023-02-09 14:40:39.188108,NFL Specials - Next Full time Head Coach of the Indianapolis Colts - Colts Next Coach,Shane Steichen,-0.05559999999999998,0.4444,0.5
 2023-02-09 16:40:30.917468,International Series Oman - International Series Oman - Outright,Joaquin Niemann,-0.056400000000000006,0.0769,0.1333
 2023-02-10 01:40:30.661508,Trophy Hassan II - Trophy Hassan II - Outright,Jim Furyk,-0.0573,0.0196,0.0769
 2023-02-10 01:40:30.661508,Trophy Hassan II - Trophy Hassan II - Outright,Miguel Angel Jimenez,-0.1135,0.0294,0.1429
