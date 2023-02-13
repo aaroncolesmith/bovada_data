@@ -10,7 +10,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-13 06:40:30.632405,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Boston Celtics,0.0635,0.9524,0.8889
 2023-02-13 07:40:36.527131,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Philadelphia 76ers,0.05049999999999999,0.2105,0.16
 2023-02-13 07:40:36.554786,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Miami Heat,0.0504,0.7647,0.7143
-2023-02-12 23:40:30.524745,"Super Bowl 57 Specials - Super Bowl Specials  - Will Any Player Record Exactly 69 Pass, Rush or Receiving Yards",Yes,0.04999999999999999,0.25,0.2
 2023-02-13 08:40:37.177026,Donald Trump Specials - Trump Specials - Trump Specials,Department of Justice to indict Donald Trump in 2023 in relation to January 6th events,0.04269999999999999,0.1538,0.1111
 2023-02-13 08:40:37.459678,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Bam Adebayo (MIA),0.04169999999999999,0.1667,0.125
 2023-02-13 03:40:31.171896,NBL - NBL 2022/23 - Outright,Sydney Kings,0.03959999999999997,0.5744,0.5348
@@ -22,49 +21,36 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-13 08:40:37.450258,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Norman Powell (LAC),0.031399999999999983,0.2667,0.2353
 2023-02-13 08:40:36.737628,Boxing Lines - Brandon Figueroa vs Mark Magsayo - To Win the Bout,Brandon Figueroa,0.025999999999999912,0.7403,0.7143
 2023-02-13 07:40:36.379040,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Pittsburgh,0.024800000000000016,0.2353,0.2105
-2023-02-12 23:40:29.304580,Futures - The Masters 2023 - Outright,Scottie Scheffler,0.0245,0.0833,0.0588
 2023-02-13 10:40:28.571743,95th Academy Awards - Best Original Score - Best Original Score,Son Lux - Everything Everywhere All At Once,0.02310000000000001,0.1,0.0769
 2023-02-13 08:40:37.794639,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Gustavo Benedeti,0.022199999999999998,0.2222,0.2
 2023-02-13 08:40:37.177026,Donald Trump Specials - Trump Specials - Trump Specials,Department of Justice to indict Donald Trump in 2023 in relation to classified material,0.02100000000000002,0.3846,0.3636
-2023-02-12 23:40:30.321606,Super Bowl 57 Specials - Super Bowl Specials  - Number of different Players to have a rush attempt,Over 9.5,0.020699999999999996,0.4651,0.4444
-2023-02-12 23:40:30.237702,Super Bowl 57 Specials - Super Bowl Specials  - How many times will the chains be used for measurement?,Over 1.5,0.018100000000000005,0.4348,0.4167
 2023-02-13 08:40:37.794639,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Fred Nicácio,0.018099999999999998,0.0769,0.0588
-2023-02-12 23:40:30.563843,Super Bowl 57 Specials - Super Bowl Specials  - Will there be a flea flicker attempt in the game?,Yes,0.017600000000000005,0.3509,0.3333
-2023-02-12 23:40:30.431058,Super Bowl 57 Specials - Super Bowl Specials  - Total combined yardage of all Touchdowns scored,Over 80.5 Yards,0.017299999999999982,0.5917,0.5744
-2023-02-12 23:40:30.881364,Ligue 1 - France Ligue 1 2022/23 - Winner,Monaco,0.017099999999999997,0.0294,0.0123
-2023-02-12 23:40:31.079301,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,Sporting CP,0.017099999999999997,0.0294,0.0123
-2023-02-12 23:40:30.533948,Super Bowl 57 Specials - Super Bowl Specials  - Will any TD be overturned by replay?,Yes,0.01689999999999997,0.3448,0.3279
 2023-02-13 07:40:36.519677,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Philadelphia 76ers,0.016600000000000004,0.0833,0.0667
-2023-02-12 23:40:30.303378,Super Bowl 57 Specials - Super Bowl Specials  - Number of different Chiefs Players to score points,"Over 3,5 Players",0.01539999999999997,0.6154,0.6
-2023-02-13 08:40:37.794639,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Gabriel Santana,0.014399999999999996,0.0769,0.0625
 2023-02-13 08:40:37.794639,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Cezar Black,0.014399999999999996,0.0769,0.0625
+2023-02-13 08:40:37.794639,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Gabriel Santana,0.014399999999999996,0.0769,0.0625
 2023-02-13 07:40:36.565019,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Golden State Warriors,0.014099999999999994,0.0667,0.0526
-2023-02-12 23:40:30.898675,La Liga - Spain La Liga 2022/23 - Winner,FC Barcelona,0.014000000000000012,0.9231,0.9091
-2023-02-12 23:40:29.294006,Futures - THE PLAYERS Championship 2023 - Outright,Scottie Scheffler,0.013999999999999999,0.0909,0.0769
 2023-02-13 07:40:36.519677,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Los Angeles Clippers,0.013999999999999999,0.0909,0.0769
 2023-02-13 07:40:35.499376,CFL - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Hamilton Tiger-Cats,0.013899999999999996,0.125,0.1111
 2023-02-13 07:40:36.519677,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Boston Celtics,0.0131,0.2353,0.2222
-2023-02-12 23:40:30.568544,Super Bowl 57 Specials - Super Bowl Specials  - Will there be a Missed XP After a Touchdown?,Yes,0.012799999999999978,0.2985,0.2857
 2023-02-13 08:40:37.455151,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Joe Mazzulla,0.012699999999999989,0.3636,0.3509
-2023-02-12 23:40:30.462680,Super Bowl 57 Specials - Super Bowl Specials  - Total pass interceptions by both teams,Over 1.5,0.012199999999999989,0.5122,0.5
 2023-02-13 08:40:37.884542,Cryptocurrency - Ethereum Value - Price of Ethereum on February 28th 2023,$1522.00 or under,0.0116,0.4878,0.4762
-2023-02-12 23:40:30.578301,Super Bowl 57 Specials - Super Bowl Specials  - Will there be a penalty for Roughing the Passer?,Yes,0.0116,0.4878,0.4762
 2023-02-13 07:40:36.394258,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Kansas,0.01150000000000001,0.3448,0.3333
-2023-02-13 08:40:37.794639,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Aline Wirley,0.011199999999999995,0.0588,0.0476
 2023-02-13 08:40:37.794639,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Sarah Aline,0.011199999999999995,0.0588,0.0476
+2023-02-13 08:40:37.794639,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Aline Wirley,0.011199999999999995,0.0588,0.0476
 2023-02-13 08:40:37.455151,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Taylor Jenkins,0.010899999999999993,0.1538,0.1429
-2023-02-13 08:40:36.723556,Boxing Lines - Leigh Wood vs Mauricio Lara - To Win the Bout,Leigh Wood,0.010699999999999987,0.3333,0.3226
 2023-02-13 07:40:36.527131,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Milwaukee Bucks,0.010699999999999987,0.3333,0.3226
+2023-02-13 08:40:36.723556,Boxing Lines - Leigh Wood vs Mauricio Lara - To Win the Bout,Leigh Wood,0.010699999999999987,0.3333,0.3226
 2023-02-13 10:40:29.201411,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,River Plate,0.010399999999999993,0.2326,0.2222
-2023-02-12 23:40:29.334122,Futures - The Open Championship 2023 - Outright,Scottie Scheffler,0.0102,0.0769,0.0667
-2023-02-12 23:40:29.314791,Futures - US PGA Championship 2023 - Outright,Scottie Scheffler,0.0102,0.0769,0.0667
-2023-02-12 23:40:30.303378,Super Bowl 57 Specials - Super Bowl Specials  - Number of different Chiefs Players to score points,Under 3.5 Players,-0.010599999999999998,0.4545,0.4651
+2023-02-13 11:40:30.325966,Futures - THE PLAYERS Championship 2023 - Outright,Justin Thomas,-0.0102,0.0667,0.0769
 2023-02-13 10:40:27.647872,Boxing Lines - Leigh Wood vs Mauricio Lara - To Win the Bout,Leigh Wood,-0.010699999999999987,0.3226,0.3333
 2023-02-13 08:40:37.794639,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Bruno,-0.010700000000000001,0.0278,0.0385
 2023-02-13 10:40:29.101950,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Chivas Guadalajara,-0.011199999999999995,0.0476,0.0588
-2023-02-12 23:40:30.431058,Super Bowl 57 Specials - Super Bowl Specials  - Total combined yardage of all Touchdowns scored,Under 80.5 Yards,-0.0116,0.4762,0.4878
+2023-02-13 11:40:30.352116,Futures - US PGA Championship 2023 - Outright,Jordan Spieth,-0.011199999999999995,0.0476,0.0588
+2023-02-13 11:40:30.352116,Futures - US PGA Championship 2023 - Outright,Cameron Smith,-0.011199999999999995,0.0476,0.0588
+2023-02-13 11:40:30.362179,Futures - US Open 2023 - Outright,Xander Schauffele,-0.011199999999999995,0.0476,0.0588
+2023-02-13 11:40:30.362179,Futures - US Open 2023 - Outright,Cameron Smith,-0.011199999999999995,0.0476,0.0588
+2023-02-13 11:40:30.372542,Futures - The Open Championship 2023 - Outright,Collin Morikawa,-0.011199999999999995,0.0476,0.0588
 2023-02-13 07:40:36.565019,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Los Angeles Clippers,-0.011700000000000016,0.2105,0.2222
-2023-02-12 23:40:30.348937,Super Bowl 57 Specials - Super Bowl Specials  - Result of First Coaches Challenge,Play Stands,-0.012199999999999989,0.4878,0.5
 2023-02-13 08:40:37.464100,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Jalen Brunson (NYK),-0.012899999999999995,0.1538,0.1667
 2023-02-13 07:40:36.519677,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Milwaukee Bucks,-0.012899999999999995,0.1538,0.1667
 2023-02-13 08:40:37.450258,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Malcolm Brogdon (BOS),-0.013799999999999923,0.6226,0.6364
@@ -73,19 +59,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-13 10:40:29.201411,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,Racing Club,-0.013999999999999999,0.0769,0.0909
 2023-02-13 08:40:37.455151,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Willie Green,-0.014099999999999994,0.0526,0.0667
 2023-02-13 10:40:29.101950,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Cruz Azul,-0.014499999999999999,0.0149,0.0294
-2023-02-12 23:40:30.533948,Super Bowl 57 Specials - Super Bowl Specials  - Will any TD be overturned by replay?,No,-0.014600000000000057,0.7222,0.7368
 2023-02-13 08:40:37.794639,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Amanda,-0.015100000000000002,0.1667,0.1818
-2023-02-12 23:40:30.568544,Super Bowl 57 Specials - Super Bowl Specials  - Will there be a Missed XP After a Touchdown?,No,-0.015199999999999991,0.7674,0.7826
-2023-02-12 23:40:30.578301,Super Bowl 57 Specials - Super Bowl Specials  - Will there be a penalty for Roughing the Passer?,No,-0.017299999999999982,0.5744,0.5917
 2023-02-13 08:40:37.455151,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Mike Brown,-0.017600000000000005,0.3333,0.3509
 2023-02-13 07:40:36.519677,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Phoenix Suns,-0.01820000000000002,0.1818,0.2
-2023-02-12 23:40:30.563843,Super Bowl 57 Specials - Super Bowl Specials  - Will there be a flea flicker attempt in the game?,No,-0.018999999999999906,0.7143,0.7333
 2023-02-13 07:40:36.554786,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Atlanta Hawks,-0.019000000000000017,0.2667,0.2857
-2023-02-12 23:40:30.237702,Super Bowl 57 Specials - Super Bowl Specials  - How many times will the chains be used for measurement?,Under 1.5,-0.019499999999999962,0.6296,0.6491
+2023-02-13 11:40:30.352116,Futures - US PGA Championship 2023 - Outright,Collin Morikawa,-0.019099999999999992,0.0476,0.0667
+2023-02-13 11:40:30.362179,Futures - US Open 2023 - Outright,Collin Morikawa,-0.019099999999999992,0.0476,0.0667
+2023-02-13 11:40:30.325966,Futures - THE PLAYERS Championship 2023 - Outright,Collin Morikawa,-0.019099999999999992,0.0476,0.0667
+2023-02-13 11:40:30.325966,Futures - THE PLAYERS Championship 2023 - Outright,Jon Rahm,-0.02020000000000001,0.0909,0.1111
 2023-02-13 08:40:37.455151,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Doc Rivers,-0.02020000000000001,0.0909,0.1111
 2023-02-13 03:40:30.268625,World Baseball Classic - 2023 World Baseball Classic - Outright,United States,-0.021999999999999964,0.2857,0.3077
 2023-02-13 07:40:35.499376,CFL - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Montreal Alouettes,-0.022199999999999998,0.1111,0.1333
-2023-02-12 23:40:30.321606,Super Bowl 57 Specials - Super Bowl Specials  - Number of different Players to have a rush attempt,Under 9.5,-0.022600000000000064,0.6,0.6226
 2023-02-13 07:40:36.527131,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Brooklyn Nets,-0.023200000000000002,0.0244,0.0476
 2023-02-13 07:40:36.394258,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Iowa State,-0.024,0.0385,0.0625
 2023-02-13 07:40:36.399347,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Providence,-0.024299999999999995,0.0526,0.0769
@@ -97,15 +81,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-13 08:40:37.794639,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Larissa Santos,-0.027999999999999997,0.1538,0.1818
 2023-02-13 08:40:36.737628,Boxing Lines - Brandon Figueroa vs Mark Magsayo - To Win the Bout,Mark Magsayo,-0.028299999999999992,0.3226,0.3509
 2023-02-13 07:40:36.559896,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Memphis Grizzlies,-0.02870000000000006,0.7895,0.8182
-2023-02-13 07:40:36.559896,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,New Orleans Pelicans,-0.029299999999999993,0.0476,0.0769
 2023-02-13 08:40:37.450258,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Russell Westbrook (LAL),-0.029299999999999993,0.0476,0.0769
+2023-02-13 07:40:36.559896,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,New Orleans Pelicans,-0.029299999999999993,0.0476,0.0769
 2023-02-13 08:40:37.399187,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Utah State,-0.030699999999999998,0.0526,0.0833
 2023-02-13 06:40:30.637460,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Cleveland Cavaliers,-0.033300000000000024,0.1667,0.2
 2023-02-13 08:40:37.794639,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Key Alves,-0.03420000000000001,0.0769,0.1111
 2023-02-13 07:40:36.532742,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Phoenix Suns,-0.03710000000000002,0.3077,0.3448
 2023-02-13 08:40:37.404130,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,USC,-0.04229999999999999,0.0244,0.0667
 2023-02-13 07:40:36.394258,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Baylor,-0.044499999999999984,0.2222,0.2667
-2023-02-12 23:40:30.524745,"Super Bowl 57 Specials - Super Bowl Specials  - Will Any Player Record Exactly 69 Pass, Rush or Receiving Yards",No,-0.04849999999999999,0.8182,0.8667
 2023-02-13 06:40:30.632405,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Brooklyn Nets,-0.052199999999999996,0.0066,0.0588
 2023-02-13 08:40:37.399187,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Boise State,-0.05710000000000001,0.1429,0.2
 2023-02-13 06:40:30.632405,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Philadelphia 76ers,-0.06,0.1,0.16
