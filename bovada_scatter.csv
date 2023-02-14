@@ -6,8 +6,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-14 11:40:27.655177,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Troyes,0.1577,0.5744,0.4167
 2023-02-14 11:40:28.019995,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Brighton & Hove Albion,0.15559999999999996,0.5556,0.4
 2023-02-14 11:40:27.997431,Premier League Futures/Specials - English Premier League 2022/23 - Winner without 'The Big Six',Brighton & Hove Albion,0.13329999999999997,0.3333,0.2
-2023-02-14 11:40:28.002392,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leeds United,0.11109999999999998,0.3333,0.2222
 2023-02-14 11:40:28.015721,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Manchester United,0.11109999999999998,0.8889,0.7778
+2023-02-14 11:40:28.002392,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leeds United,0.11109999999999998,0.3333,0.2222
 2023-02-14 10:40:35.052404,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Wissam Ben Yedder,0.10910000000000002,0.2,0.0909
 2023-02-14 11:40:27.655177,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,AC Ajaccio,0.0917,0.7143,0.6226
 2023-02-14 10:40:35.052404,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Folarin Balogun,0.0889,0.2,0.1111
@@ -31,6 +31,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-14 08:40:30.398149,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Indiana,0.03219999999999999,0.0667,0.0345
 2023-02-14 08:40:30.408019,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,UCLA,0.03180000000000005,0.8889,0.8571
 2023-02-14 07:40:29.948195,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Duke,0.030699999999999998,0.0833,0.0526
+2023-02-14 14:40:31.720469,Tournament Match-Ups - Tournament Match-Up - K. Bradley vs R. Fowler - Tournament Match-Up,Keegan Bradley,0.030399999999999983,0.5652,0.5348
 2023-02-14 07:40:29.948195,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Illinois,0.029299999999999993,0.0769,0.0476
 2023-02-14 11:40:28.019995,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Brentford,0.028199999999999996,0.0667,0.0385
 2023-02-14 10:40:34.288500,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Jalen Brunson (NYK),0.027999999999999997,0.1818,0.1538
@@ -38,48 +39,59 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-14 10:40:35.082144,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Robert Lewandowski (Barcelona),0.025000000000000022,0.9,0.875
 2023-02-14 11:40:27.659956,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Lyon,0.023899999999999998,0.0435,0.0196
 2023-02-14 08:40:30.417779,College Basketball - West Coast Regular Season Conference Winner - West Coast Conference Regular Season Winner,Saint Mary's CA,0.023800000000000043,0.8333,0.8095
-2023-02-14 02:40:30.230408,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs P. Cantlay - Tournament Match-Up,Patrick Cantlay,0.023800000000000043,0.5238,0.5
+2023-02-14 14:40:32.880297,Daily Soccer Specials - UEFA Champions League Specials - 14/15th February - UEFA Champions League Specials - 14/15th February,"Bayern Munich, Benfica and Dortmund to concede 3 or less goals combined",0.023799999999999988,0.5,0.4762
 2023-02-14 10:40:35.420816,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester City,0.023799999999999988,0.5,0.4762
 2023-02-14 11:40:28.019995,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Fulham,0.023200000000000002,0.0476,0.0244
 2023-02-14 08:40:30.403069,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,San Diego State,0.022199999999999998,0.8,0.7778
 2023-02-14 10:40:35.052404,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Lionel Messi,0.022199999999999998,0.1333,0.1111
 2023-02-14 11:40:28.002392,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Nottingham Forest,0.021999999999999964,0.3077,0.2857
 2023-02-14 10:40:35.052404,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Jonathan David,0.02020000000000001,0.1111,0.0909
+2023-02-14 14:40:31.483764,MLB Regular Season Props - MLB 2023 Regular Season Props - San Diego Padres Regular Season Win Total,Over 93.5,0.01970000000000005,0.5652,0.5455
 2023-02-14 10:40:35.046996,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Lille,0.019099999999999995,0.0435,0.0244
-2023-02-14 11:40:28.006937,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Leeds United,0.019099999999999992,0.0667,0.0476
 2023-02-14 10:40:35.052404,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Breel Embolo,0.019099999999999992,0.0667,0.0476
+2023-02-14 11:40:28.006937,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Leeds United,0.019099999999999992,0.0667,0.0476
 2023-02-14 07:40:29.948195,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Miami Florida,0.019099999999999992,0.0667,0.0476
 2023-02-14 08:40:31.430577,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Phoenix Suns,0.01880000000000004,0.6552,0.6364
 2023-02-14 08:40:30.408019,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,Arizona,0.01820000000000002,0.2,0.1818
 2023-02-14 11:40:28.015721,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Brighton & Hove Albion,0.0179,0.1429,0.125
+2023-02-14 14:40:32.880297,Daily Soccer Specials - UEFA Champions League Specials - 14/15th February - UEFA Champions League Specials - 14/15th February,Chelsea to score more goals than Paris SG,0.017600000000000005,0.3509,0.3333
 2023-02-14 10:40:35.087691,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Real Sociedad,0.016700000000000048,0.75,0.7333
+2023-02-14 14:40:32.880297,Daily Soccer Specials - UEFA Champions League Specials - 14/15th February - UEFA Champions League Specials - 14/15th February,Home teams to score 5 or less goals,0.016699999999999937,0.6,0.5833
 2023-02-14 08:40:30.398149,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Purdue,0.015699999999999936,0.9681,0.9524
 2023-02-14 09:40:30.586530,Boxing Lines - Dalton Smith vs Billy Allington - To Win the Bout,Dalton Smith,0.014900000000000024,0.9804,0.9655
+2023-02-14 14:40:32.880297,Daily Soccer Specials - UEFA Champions League Specials - 14/15th February - UEFA Champions League Specials - 14/15th February,Under 9.5 goals scored,0.01419999999999999,0.3846,0.3704
 2023-02-14 11:40:27.997431,Premier League Futures/Specials - English Premier League 2022/23 - Winner without 'The Big Six',Brentford,0.014099999999999998,0.0385,0.0244
-2023-02-14 07:40:29.948195,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,TCU,0.013899999999999996,0.125,0.1111
 2023-02-14 10:40:34.292956,NBA Awards - 2022/23 NBA Awards - 2022/23 The Rookie of the Year,Bennedict Mathurin (IND),0.013899999999999996,0.125,0.1111
+2023-02-14 07:40:29.948195,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,TCU,0.013899999999999996,0.125,0.1111
 2023-02-14 09:40:31.984415,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Nikola Jokic (DEN),0.013799999999999923,0.6364,0.6226
 2023-02-14 08:40:30.412949,College Basketball - SEC Regular Season Conference Winner - SEC Regular Season Winner,Alabama,0.0131,0.9655,0.9524
 2023-02-14 07:40:29.948195,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Tennessee,0.012899999999999995,0.1667,0.1538
 2023-02-14 06:40:30.023012,NFL - Super Bowl 2024 (LVIII) Winner - Super Bowl 2024 (LVIII) Winner,Buffalo Bills,0.012299999999999991,0.1176,0.1053
+2023-02-14 14:40:32.880297,Daily Soccer Specials - UEFA Champions League Specials - 14/15th February - UEFA Champions League Specials - 14/15th February,Under 10.5 goals scored,0.012199999999999989,0.5,0.4878
 2023-02-14 11:40:26.522030,Boxing Lines - Leigh Wood vs Mauricio Lara - To Win the Bout,Leigh Wood,0.01150000000000001,0.3448,0.3333
 2023-02-14 07:40:29.948195,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Auburn,0.011199999999999995,0.0588,0.0476
 2023-02-14 06:40:30.023012,NFL - Super Bowl 2024 (LVIII) Winner - Super Bowl 2024 (LVIII) Winner,San Francisco 49ers,0.011099999999999999,0.1111,0.1
+2023-02-14 14:40:31.694790,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs P. Cantlay - Tournament Match-Up,Patrick Cantlay,0.01100000000000001,0.5348,0.5238
 2023-02-14 11:40:28.002392,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,West Ham United,0.010899999999999993,0.1538,0.1429
 2023-02-14 10:40:33.499284,Boxing Lines - Leigh Wood vs Mauricio Lara - To Win the Bout,Leigh Wood,0.010699999999999987,0.3333,0.3226
 2023-02-14 10:40:34.795123,Tournament Match-Ups - Tournament Match-Up - R. McIlroy vs S. Scheffler - Tournament Match-Up,Rory McIlroy,0.010699999999999932,0.5455,0.5348
-2023-02-14 02:40:30.270533,Tournament Match-Ups - Tournament Match-Up - T. Kim vs W. Zalatoris - Tournament Match-Up,Will Zalatoris,0.010699999999999932,0.5455,0.5348
 2023-02-14 11:40:27.655177,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,AJ Auxerre,0.010199999999999987,0.9333,0.9231
 2023-02-14 05:40:31.663548,Tournament Match-Ups - Tournament Match-Up - T. Kim vs W. Zalatoris - Tournament Match-Up,Will Zalatoris,0.010099999999999998,0.5556,0.5455
-2023-02-14 09:40:30.586530,Boxing Lines - Dalton Smith vs Billy Allington - To Win the Bout,Billy Allington,-0.0102,0.0667,0.0769
+2023-02-14 14:40:31.187503,Boxing Lines - Brandon Figueroa vs Mark Magsayo - To Win the Bout,Mark Magsayo,-0.010099999999999998,0.3125,0.3226
 2023-02-14 08:40:31.384195,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Golden State Warriors,-0.0102,0.0667,0.0769
+2023-02-14 09:40:30.586530,Boxing Lines - Dalton Smith vs Billy Allington - To Win the Bout,Billy Allington,-0.0102,0.0667,0.0769
 2023-02-14 07:40:29.939476,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Kansas,-0.0102,0.0667,0.0769
-2023-02-14 02:40:30.270533,Tournament Match-Ups - Tournament Match-Up - T. Kim vs W. Zalatoris - Tournament Match-Up,Tom Kim,-0.01100000000000001,0.5238,0.5348
+2023-02-14 14:40:32.880297,Daily Soccer Specials - UEFA Champions League Specials - 14/15th February - UEFA Champions League Specials - 14/15th February,Bayern Munich or Benfica to score 3 or more goals,-0.010599999999999998,0.4545,0.4651
+2023-02-14 14:40:31.694790,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs P. Cantlay - Tournament Match-Up,Collin Morikawa,-0.010699999999999932,0.5348,0.5455
 2023-02-14 10:40:34.795123,Tournament Match-Ups - Tournament Match-Up - R. McIlroy vs S. Scheffler - Tournament Match-Up,Scottie Scheffler,-0.01100000000000001,0.5238,0.5348
 2023-02-14 11:40:26.522030,Boxing Lines - Leigh Wood vs Mauricio Lara - To Win the Bout,Mauricio Lara,-0.011099999999999999,0.7222,0.7333
+2023-02-14 14:40:32.880297,Daily Soccer Specials - UEFA Champions League Specials - 14/15th February - UEFA Champions League Specials - 14/15th February,12 or more goals scored,-0.0116,0.4762,0.4878
 2023-02-14 05:40:31.663548,Tournament Match-Ups - Tournament Match-Up - T. Kim vs W. Zalatoris - Tournament Match-Up,Tom Kim,-0.011600000000000055,0.5122,0.5238
+2023-02-14 14:40:32.880297,Daily Soccer Specials - UEFA Champions League Specials - 14/15th February - UEFA Champions League Specials - 14/15th February,Home teams to score 8 or more goals,-0.011700000000000016,0.2105,0.2222
 2023-02-14 08:40:30.408019,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,USC,-0.012100000000000001,0.0123,0.0244
+2023-02-14 14:40:31.746845,Tournament Match-Ups - Tournament Match-Up - T. Kim vs W. Zalatoris - Tournament Match-Up,Tom Kim,-0.012199999999999989,0.5,0.5122
 2023-02-14 07:40:29.948195,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Wisconsin,-0.012700000000000003,0.0196,0.0323
+2023-02-14 14:40:32.880297,Daily Soccer Specials - UEFA Champions League Specials - 14/15th February - UEFA Champions League Specials - 14/15th February,Any team to score 5 or more goals,-0.012899999999999995,0.1538,0.1667
 2023-02-14 11:40:27.655177,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Brest,-0.013800000000000034,0.3636,0.3774
 2023-02-14 08:40:30.387661,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Saint Louis,-0.013899999999999996,0.1111,0.125
 2023-02-14 11:40:28.019995,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Aston Villa,-0.014099999999999998,0.0244,0.0385
@@ -88,34 +100,40 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-14 11:40:27.997431,Premier League Futures/Specials - English Premier League 2022/23 - Winner without 'The Big Six',Aston Villa,-0.0145,0.0099,0.0244
 2023-02-14 07:40:29.948195,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Arizona,-0.01469999999999999,0.2353,0.25
 2023-02-14 09:40:31.984415,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Giannis Antetokounmpo (MIL),-0.015700000000000006,0.1176,0.1333
+2023-02-14 14:40:32.880297,Daily Soccer Specials - UEFA Champions League Specials - 14/15th February - UEFA Champions League Specials - 14/15th February,"Bayern Munich, Benfica and Dortmund to concede 4 or more goals combined",-0.016699999999999937,0.5833,0.6
+2023-02-14 14:40:32.880297,Daily Soccer Specials - UEFA Champions League Specials - 14/15th February - UEFA Champions League Specials - 14/15th February,"Bayern Munich, Benfica and Dortmund to concede 6 or more goals combined",-0.016699999999999993,0.25,0.2667
 2023-02-14 10:40:34.283984,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Jaren Jackson Jr. (MEM),-0.01759999999999995,0.6491,0.6667
-2023-02-14 08:40:30.403069,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Boise State,-0.0179,0.125,0.1429
 2023-02-14 08:40:31.430577,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Sacramento Kings,-0.0179,0.2174,0.2353
+2023-02-14 08:40:30.403069,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Boise State,-0.0179,0.125,0.1429
 2023-02-14 11:40:28.019995,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Newcastle United,-0.017900000000000027,0.8571,0.875
 2023-02-14 09:40:31.984415,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Joel Embiid (PHI),-0.01820000000000002,0.1818,0.2
 2023-02-14 08:40:30.392653,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Creighton,-0.018900000000000028,0.4255,0.4444
 2023-02-14 07:40:29.948195,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Kansas,-0.019000000000000017,0.2667,0.2857
+2023-02-14 14:40:32.880297,Daily Soccer Specials - UEFA Champions League Specials - 14/15th February - UEFA Champions League Specials - 14/15th February,7 or more goals scored in 1st Half,-0.019000000000000017,0.2667,0.2857
 2023-02-14 08:40:31.430577,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Golden State Warriors,-0.019099999999999992,0.0476,0.0667
 2023-02-14 07:40:29.948195,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Houston,-0.019699999999999995,0.4348,0.4545
-2023-02-14 02:40:30.230408,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs P. Cantlay - Tournament Match-Up,Collin Morikawa,-0.01970000000000005,0.5455,0.5652
 2023-02-14 07:40:29.948195,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Creighton,-0.02049999999999999,0.1333,0.1538
+2023-02-14 14:40:31.483764,MLB Regular Season Props - MLB 2023 Regular Season Props - San Diego Padres Regular Season Win Total,Under 93.5,-0.02169999999999994,0.5238,0.5455
 2023-02-14 10:40:34.274381,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Malcolm Brogdon (BOS),-0.022600000000000064,0.6,0.6226
+2023-02-14 14:40:32.880297,Daily Soccer Specials - UEFA Champions League Specials - 14/15th February - UEFA Champions League Specials - 14/15th February,Paris SG to score more goals than Chelsea,-0.023799999999999988,0.4762,0.5
 2023-02-14 10:40:35.420816,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Arsenal,-0.023799999999999988,0.4762,0.5
+2023-02-14 14:40:32.880297,Daily Soccer Specials - UEFA Champions League Specials - 14/15th February - UEFA Champions League Specials - 14/15th February,Home teams to score 6 or more goals,-0.023799999999999988,0.4762,0.5
 2023-02-14 08:40:30.387661,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Virginia Commonwealth,-0.025599999999999956,0.5744,0.6
 2023-02-14 08:40:30.417779,College Basketball - West Coast Regular Season Conference Winner - West Coast Conference Regular Season Winner,Gonzaga,-0.02779999999999999,0.2222,0.25
 2023-02-14 11:40:28.019995,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Liverpool,-0.027800000000000047,0.75,0.7778
 2023-02-14 11:40:28.006937,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Nottingham Forest,-0.028199999999999996,0.0385,0.0667
 2023-02-14 11:40:28.011210,Premier League Futures/Specials - English Premier League 2022/23 - Top 2 Finish,Manchester City,-0.028200000000000003,0.9333,0.9615
-2023-02-14 08:40:30.392653,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Xavier,-0.028700000000000003,0.1818,0.2105
 2023-02-14 08:40:30.403069,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Nevada,-0.028700000000000003,0.1818,0.2105
+2023-02-14 08:40:30.392653,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Xavier,-0.028700000000000003,0.1818,0.2105
 2023-02-14 07:40:29.948195,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,UCLA,-0.031399999999999983,0.2353,0.2667
 2023-02-14 10:40:35.082144,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Mato Joselu (Espanyol),-0.033100000000000004,0.0294,0.0625
 2023-02-14 07:40:29.948195,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Indiana,-0.033399999999999985,0.1333,0.1667
+2023-02-14 14:40:31.720469,Tournament Match-Ups - Tournament Match-Up - K. Bradley vs R. Fowler - Tournament Match-Up,Rickie Fowler,-0.03480000000000005,0.5,0.5348
 2023-02-14 11:40:28.019995,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Tottenham Hotspur,-0.03639999999999999,0.6,0.6364
 2023-02-14 11:40:28.011210,Premier League Futures/Specials - English Premier League 2022/23 - Top 2 Finish,Arsenal,-0.03759999999999997,0.9333,0.9709
 2023-02-14 07:40:29.948195,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Baylor,-0.04040000000000002,0.1818,0.2222
-2023-02-14 11:40:27.655177,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Montpellier,-0.04099999999999998,0.2667,0.3077
 2023-02-14 11:40:28.015721,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Liverpool,-0.04099999999999998,0.2667,0.3077
+2023-02-14 11:40:27.655177,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Montpellier,-0.04099999999999998,0.2667,0.3077
 2023-02-14 10:40:35.052404,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Kylian Mbappe,-0.04139999999999999,0.4348,0.4762
 2023-02-14 10:40:34.283984,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Bam Adebayo (MIA),-0.04169999999999999,0.125,0.1667
 2023-02-14 10:40:35.046996,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Marseille,-0.045499999999999985,0.4545,0.5
