@@ -2,12 +2,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-15 00:40:32.338339,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Bayern Munich,0.06840000000000002,0.2222,0.1538
 2023-02-14 19:40:30.856843,Legacy FA - Edwin Cooper Jr. vs Ilyor Bakhtiyar Uulu - To Win the Bout,Ilyor Bakhtiyar Uulu,0.030299999999999994,0.3333,0.303
 2023-02-14 22:40:30.884029,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Joel Embiid (PHI),0.028700000000000003,0.2105,0.1818
-2023-02-14 15:40:30.377374,Boxing Lines - Luis Nery vs Azat Hovhannisyan - To Win the Bout,Azat Hovhannisyan,0.027500000000000024,0.3846,0.3571
 2023-02-14 19:40:30.882416,Legacy FA - Khatanbaatar Khuukhenkhuu vs Isaiah Flores - To Win the Bout,Khatanbaatar Khuukhenkhuu,0.02739999999999998,0.7333,0.7059
 2023-02-14 19:40:30.907969,Legacy FA - Jose Mariscal vs Guilherme Faria - To Win the Bout,Guilherme Faria,0.026600000000000013,0.4348,0.4082
 2023-02-14 19:40:30.669164,Survivor - Odds to win Survivor Season 44  - Survivor Season 44,Yamil 'Yam Yam' Arocho,0.024299999999999995,0.0769,0.0526
 2023-02-15 00:40:30.556721,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs P. Cantlay - Tournament Match-Up,Patrick Cantlay,0.02079999999999993,0.5556,0.5348
-2023-02-14 15:40:31.704602,Tournament Match-Ups - Tournament Match-Ups - A. Rozner vs R. Mansell - Tournament Match-Ups,Antoine Rozner,0.01970000000000005,0.5652,0.5455
 2023-02-14 23:40:37.392730,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Lauri Markkanen (UTA),0.019699999999999995,0.4545,0.4348
 2023-02-14 16:40:32.558994,Thailand Classic - 2/3 Balls - 1st Round 3 Balls - K. Aphibarnrat / T. Lawrence / P. Larrazabal - 1st Round 3 Balls,Thriston Lawrence,0.019500000000000017,0.3704,0.3509
 2023-02-15 02:40:33.905035,League Two - England - League Two 2022/23 - Outright,Leyton Orient,0.01880000000000004,0.5744,0.5556
@@ -25,8 +23,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-15 00:40:30.448755,Boxing Lines - Leigh Wood vs Mauricio Lara - To Win the Bout,Mauricio Lara,0.011099999999999999,0.7333,0.7222
 2023-02-14 16:40:32.674517,Tournament Match-Ups - Tournament Match-Ups - N. Hojgaard vs R. MacIntyre - Tournament Match-Ups,Robert MacIntyre,0.01100000000000001,0.5348,0.5238
 2023-02-14 17:40:28.846359,Legacy FA - Tyler Veal vs Omoyele Gonzalez - To Win the Bout,Tyler Veal,0.010099999999999998,0.8889,0.8788
-2023-02-14 18:40:31.539856,Thailand Classic - 2/3 Balls - 1st Round 3 Balls - K. Aphibarnrat / T. Lawrence / P. Larrazabal - 1st Round 3 Balls,Pablo Larrazabal,-0.010099999999999998,0.3125,0.3226
 2023-02-14 20:40:30.620211,Legacy FA - Tyler Veal vs Omoyele Gonzalez - To Win the Bout,Tyler Veal,-0.010099999999999998,0.8788,0.8889
+2023-02-14 18:40:31.539856,Thailand Classic - 2/3 Balls - 1st Round 3 Balls - K. Aphibarnrat / T. Lawrence / P. Larrazabal - 1st Round 3 Balls,Pablo Larrazabal,-0.010099999999999998,0.3125,0.3226
 2023-02-14 22:40:30.889352,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Norman Powell (LAC),-0.010499999999999982,0.2,0.2105
 2023-02-14 16:40:32.674517,Tournament Match-Ups - Tournament Match-Ups - N. Hojgaard vs R. MacIntyre - Tournament Match-Ups,Nicolai Hojgaard,-0.010699999999999932,0.5348,0.5455
 2023-02-14 16:40:32.558994,Thailand Classic - 2/3 Balls - 1st Round 3 Balls - K. Aphibarnrat / T. Lawrence / P. Larrazabal - 1st Round 3 Balls,Pablo Larrazabal,-0.010699999999999987,0.3226,0.3333
@@ -46,11 +44,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-14 16:40:32.867235,UEFA Champions League - UEFA Champions League 2022/2023 - Top Goalscorer,Kylian Mbappe (PSG),-0.021999999999999964,0.2857,0.3077
 2023-02-15 00:40:30.556721,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs P. Cantlay - Tournament Match-Up,Collin Morikawa,-0.022600000000000064,0.5122,0.5348
 2023-02-14 19:40:30.882416,Legacy FA - Khatanbaatar Khuukhenkhuu vs Isaiah Flores - To Win the Bout,Isaiah Flores,-0.023799999999999988,0.3333,0.3571
-2023-02-14 15:40:31.704602,Tournament Match-Ups - Tournament Match-Ups - A. Rozner vs R. Mansell - Tournament Match-Ups,Richard Mansell,-0.023800000000000043,0.5,0.5238
 2023-02-14 23:40:37.397751,NBA Awards - 2022/23 NBA Awards - 2022/23 The Rookie of the Year,Bennedict Mathurin (IND),-0.024999999999999994,0.1,0.125
 2023-02-14 19:40:30.907969,Legacy FA - Jose Mariscal vs Guilherme Faria - To Win the Bout,Jose Mariscal,-0.025599999999999956,0.6296,0.6552
 2023-02-14 18:40:30.296101,MLB Futures - MLB 2023 League Leaders - Most Runs Scored in 2023,Freddie Freeman,-0.028399999999999995,0.0625,0.0909
-2023-02-14 15:40:30.377374,Boxing Lines - Luis Nery vs Azat Hovhannisyan - To Win the Bout,Luis Nery,-0.02849999999999997,0.6774,0.7059
 2023-02-15 02:40:33.895846,League One - England - League One 2022/23 - Outright,Ipswich Town,-0.03889999999999999,0.1429,0.1818
 2023-02-15 02:40:33.905035,League Two - England - League Two 2022/23 - Outright,Stevenage,-0.04089999999999999,0.3846,0.4255
 2023-02-15 00:40:32.338339,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Paris Saint-Germain,-0.058300000000000005,0.0667,0.125
