@@ -1,7 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-16 00:40:32.767018,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Tottenham Hotspur,0.15000000000000002,0.75,0.6
 2023-02-15 21:40:31.481441,US Presidential Election 2024 - US Presidential Election 2024 - Party Of Popular Vote Winner - Party of Popular Vote Winner,Any Other,0.13729999999999998,0.1667,0.0294
-2023-02-15 16:40:28.205895,WWE - WIll Bret Hart Appear Live on the Feb 19th WWE Raw TV Show - Proposition,Yes,0.13329999999999997,0.3333,0.2
 2023-02-15 21:40:33.779528,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Club América,0.125,0.25,0.125
 2023-02-16 00:40:32.738670,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester City,0.12419999999999998,0.6364,0.5122
 2023-02-15 20:40:27.470316,BAFTA Awards - Leading Actor - BAFTA: Leading Actor,Bill Nighy - Living,0.10439999999999999,0.1429,0.0385
@@ -57,45 +56,43 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-16 03:40:32.100582,Round Match-Ups - 1st Round Match-Ups - R. McIIroy vs J. Thomas - 1st Round Match-Ups,Justin Thomas,0.011099999999999999,0.4762,0.4651
 2023-02-15 17:40:30.953447,Round Match-Ups - 1st Round Match-Ups - T. Kim vs W. Zalatoris - 1st Round Match-Ups,Will Zalatoris,0.01100000000000001,0.5348,0.5238
 2023-02-15 23:40:27.070602,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - J.T. Poston / M. Kuchar / R. Fowler - 1st Round 3 Balls,Matt Kuchar,0.010699999999999987,0.3333,0.3226
-2023-02-15 17:40:31.285912,Round Match-Ups - 1st Round Match-Ups - R. MacIntyre vs N. Hojgaard - 1st Round Match-Ups,Robert MacIntyre,0.010699999999999932,0.5455,0.5348
 2023-02-16 03:40:32.095724,Round Match-Ups - 1st Round Match-Ups - R. Henley v D. McCarthy - 1st Round Match-Ups,Russell Henley,0.010699999999999932,0.5455,0.5348
+2023-02-15 17:40:31.285912,Round Match-Ups - 1st Round Match-Ups - R. MacIntyre vs N. Hojgaard - 1st Round Match-Ups,Robert MacIntyre,0.010699999999999932,0.5455,0.5348
 2023-02-15 17:40:30.958332,Round Match-Ups - 1st Round Match-Ups - X. Schauffele vs M. Homa - 1st Round Match-Ups,Xander Schauffele,0.010699999999999932,0.5455,0.5348
 2023-02-15 21:40:32.766206,Round Match-Ups - 1st Round Match-Ups - P. Rodgers v J.J. Spaun - 1st Round Match-Ups,Patrick Rodgers,0.010699999999999932,0.5455,0.5348
-2023-02-15 16:40:28.787752,Scottish Politics - Next Independence Referendum Result - Next Scottish Independence Referendum Result,Against Independence,0.010699999999999932,0.5455,0.5348
 2023-02-15 19:40:36.296832,95th Academy Awards - Best Costume Design - Best Costume Design,Jenny Beavan - Mrs Harris Goes To Paris,0.0102,0.0769,0.0667
 2023-02-16 00:40:32.747288,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Harry Kane,0.0102,0.0769,0.0667
 2023-02-16 03:40:32.125093,Round Match-Ups - 1st Round Match-Ups - P. Rodgers v J.J. Spaun - 1st Round Match-Ups,Patrick Rodgers,0.010099999999999998,0.5556,0.5455
-2023-02-16 03:40:32.051947,Round Match-Ups - 1st Round Match-Ups - K. Kitayama v A. Meronk - 1st Round Match-Ups,Kurt Kitayama,0.010099999999999998,0.5556,0.5455
 2023-02-15 19:40:36.296832,95th Academy Awards - Best Costume Design - Best Costume Design,Catherine Martin - Elvis,0.010099999999999998,0.4545,0.4444
-2023-02-15 23:40:27.270034,Round Match-Ups - 1st Round Match-Ups - L. List v T. Mullinax - 1st Round Match-Ups,Luke List,0.010099999999999998,0.5556,0.5455
 2023-02-15 23:40:27.363760,Tournament Match-Ups - Tournament Match-Up - S. Burns vs S. Im - Tournament Match-Up,Sungjae Im,0.010099999999999998,0.5556,0.5455
-2023-02-16 00:40:30.988542,Tournament Match-Ups - Tournament Match-Ups - T. Olesen vs A. Otaegui - Tournament Match-Ups,Thorbjorn Olesen,-0.010099999999999998,0.5455,0.5556
+2023-02-15 23:40:27.270034,Round Match-Ups - 1st Round Match-Ups - L. List v T. Mullinax - 1st Round Match-Ups,Luke List,0.010099999999999998,0.5556,0.5455
+2023-02-16 03:40:32.051947,Round Match-Ups - 1st Round Match-Ups - K. Kitayama v A. Meronk - 1st Round Match-Ups,Kurt Kitayama,0.010099999999999998,0.5556,0.5455
 2023-02-16 01:40:30.537573,Boxing Lines - Ardreal Holmes vs Ismael Villareal - To Win the Bout,Ismael Villareal,-0.010099999999999998,0.5455,0.5556
+2023-02-16 00:40:30.988542,Tournament Match-Ups - Tournament Match-Ups - T. Olesen vs A. Otaegui - Tournament Match-Ups,Thorbjorn Olesen,-0.010099999999999998,0.5455,0.5556
 2023-02-15 19:40:36.273391,95th Academy Awards - Best Actress - Best Actress,Andrea Riseborough - To Leslie,-0.0102,0.0667,0.0769
 2023-02-15 23:40:27.303630,Round Match-Ups - 1st Round Match-Ups - S. Scheffler vs C. Morikawa - 1st Round Match-Ups,Collin Morikawa,-0.010599999999999998,0.4545,0.4651
 2023-02-15 23:40:27.150205,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - J.J. Spaun / M. Thompson / T. Hatton - 1st Round 3 Balls,J. J. Spaun,-0.010699999999999987,0.3226,0.3333
 2023-02-15 19:40:36.389193,BAFTA Awards - Director - BAFTA: Director,Park Chan-wook - Decision To Leave,-0.010700000000000001,0.0278,0.0385
 2023-02-15 19:40:36.348024,95th Academy Awards - Best Supporting Actor - Best Supporting Actor,Brendan Gleeson - The Banshees of Inisherin,-0.010899999999999993,0.1429,0.1538
 2023-02-15 17:40:31.285912,Round Match-Ups - 1st Round Match-Ups - R. MacIntyre vs N. Hojgaard - 1st Round Match-Ups,Nicolai Hojgaard,-0.01100000000000001,0.5238,0.5348
-2023-02-15 16:40:28.787752,Scottish Politics - Next Independence Referendum Result - Next Scottish Independence Referendum Result,For Independence,-0.01100000000000001,0.5238,0.5348
-2023-02-15 20:40:27.017556,Scottish Politics - Next First Minister - Next First Minister After Nicola Sturgeon,Humza Yousaf,-0.011099999999999999,0.1,0.1111
 2023-02-16 00:40:32.752224,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Crystal Palace,-0.011099999999999999,0.1,0.1111
+2023-02-15 20:40:27.017556,Scottish Politics - Next First Minister - Next First Minister After Nicola Sturgeon,Humza Yousaf,-0.011099999999999999,0.1,0.1111
 2023-02-15 23:40:27.046399,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - A. Scott / B. Horschel / T. Finau - 1st Round 3 Balls,Billy Horschel,-0.011099999999999999,0.2667,0.2778
-2023-02-15 19:40:36.354042,95th Academy Awards - Best Supporting Actress - Best Supporting Actress ,Hong Chau - The Whale,-0.011199999999999995,0.0476,0.0588
 2023-02-15 19:40:36.354042,95th Academy Awards - Best Supporting Actress - Best Supporting Actress ,Stephanie Hsu - Everything Everywhere All at Once,-0.011199999999999995,0.0476,0.0588
+2023-02-15 19:40:36.354042,95th Academy Awards - Best Supporting Actress - Best Supporting Actress ,Hong Chau - The Whale,-0.011199999999999995,0.0476,0.0588
 2023-02-15 21:40:32.731433,Round Match-Ups - 1st Round Match-Ups - D. Thompson v T. Woods - 1st Round Match-Ups,Tiger Woods,-0.0116,0.4762,0.4878
 2023-02-15 17:40:30.953447,Round Match-Ups - 1st Round Match-Ups - T. Kim vs W. Zalatoris - 1st Round Match-Ups,Tom Kim,-0.011600000000000055,0.5122,0.5238
 2023-02-15 23:40:27.363760,Tournament Match-Ups - Tournament Match-Up - S. Burns vs S. Im - Tournament Match-Up,Sam Burns,-0.011600000000000055,0.5122,0.5238
 2023-02-15 17:40:30.958332,Round Match-Ups - 1st Round Match-Ups - X. Schauffele vs M. Homa - 1st Round Match-Ups,Max Homa,-0.012199999999999989,0.5,0.5122
-2023-02-16 03:40:32.095724,Round Match-Ups - 1st Round Match-Ups - R. Henley v D. McCarthy - 1st Round Match-Ups,Denny McCarthy,-0.012199999999999989,0.5,0.5122
-2023-02-16 03:40:32.125093,Round Match-Ups - 1st Round Match-Ups - P. Rodgers v J.J. Spaun - 1st Round Match-Ups,J J Spaun,-0.012199999999999989,0.4878,0.5
-2023-02-15 21:40:32.766206,Round Match-Ups - 1st Round Match-Ups - P. Rodgers v J.J. Spaun - 1st Round Match-Ups,J J Spaun,-0.012199999999999989,0.5,0.5122
-2023-02-15 23:40:27.270034,Round Match-Ups - 1st Round Match-Ups - L. List v T. Mullinax - 1st Round Match-Ups,Trey Mullinax,-0.012199999999999989,0.4878,0.5
-2023-02-15 23:40:27.335349,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs P. Cantlay - Tournament Match-Up,Collin Morikawa,-0.012199999999999989,0.5,0.5122
 2023-02-16 03:40:32.051947,Round Match-Ups - 1st Round Match-Ups - K. Kitayama v A. Meronk - 1st Round Match-Ups,Adrian Meronk,-0.012199999999999989,0.4878,0.5
+2023-02-15 23:40:27.335349,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs P. Cantlay - Tournament Match-Up,Collin Morikawa,-0.012199999999999989,0.5,0.5122
+2023-02-15 23:40:27.270034,Round Match-Ups - 1st Round Match-Ups - L. List v T. Mullinax - 1st Round Match-Ups,Trey Mullinax,-0.012199999999999989,0.4878,0.5
+2023-02-15 21:40:32.766206,Round Match-Ups - 1st Round Match-Ups - P. Rodgers v J.J. Spaun - 1st Round Match-Ups,J J Spaun,-0.012199999999999989,0.5,0.5122
+2023-02-16 03:40:32.125093,Round Match-Ups - 1st Round Match-Ups - P. Rodgers v J.J. Spaun - 1st Round Match-Ups,J J Spaun,-0.012199999999999989,0.4878,0.5
+2023-02-16 03:40:32.095724,Round Match-Ups - 1st Round Match-Ups - R. Henley v D. McCarthy - 1st Round Match-Ups,Denny McCarthy,-0.012199999999999989,0.5,0.5122
 2023-02-15 19:40:36.572341,Social Media Specials - MrBeast Specials - MrBeast YouTube Subscribers Total On 28th February 2023,141m,-0.012899999999999995,0.1538,0.1667
-2023-02-15 20:40:27.482559,BAFTA Awards - Outstanding British Film - BAFTA: Outstanding British Film,Aftersun,-0.013899999999999996,0.1111,0.125
 2023-02-15 19:40:36.572341,Social Media Specials - MrBeast Specials - MrBeast YouTube Subscribers Total On 28th February 2023,143m,-0.013899999999999996,0.1111,0.125
+2023-02-15 20:40:27.482559,BAFTA Awards - Outstanding British Film - BAFTA: Outstanding British Film,Aftersun,-0.013899999999999996,0.1111,0.125
 2023-02-15 19:40:36.308508,95th Academy Awards - Best Documentary Feature - Best Documentary Feature,All That Breathes,-0.013899999999999996,0.1111,0.125
 2023-02-15 19:40:36.380826,BAFTA Awards - Best Film - BAFTA: Best Film,All Quiet On The Western Front,-0.013999999999999999,0.0769,0.0909
 2023-02-15 19:40:36.314410,95th Academy Awards - Best Film Editing - Best Film Editing,Elvis,-0.013999999999999999,0.0769,0.0909
@@ -116,10 +113,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-15 19:40:36.342082,95th Academy Awards - Best Production Design - Best Production Design,Avatar: The Way Of Water,-0.022199999999999998,0.2,0.2222
 2023-02-15 23:40:27.294183,Round Match-Ups - 1st Round Match-Ups - R. McIIroy vs J. Thomas - 1st Round Match-Ups,Justin Thomas,-0.022699999999999998,0.4651,0.4878
 2023-02-16 00:40:32.507383,La Liga - Spain La Liga 2022/23 - Winner,FC Barcelona,-0.02310000000000001,0.9,0.9231
-2023-02-15 23:40:27.236619,Round Match-Ups - 1st Round Match-Ups - X. Schauffele vs M. Homa - 1st Round Match-Ups,Max Homa,-0.023799999999999988,0.4762,0.5
 2023-02-15 19:40:36.572341,Social Media Specials - MrBeast Specials - MrBeast YouTube Subscribers Total On 28th February 2023,142m,-0.023799999999999988,0.1429,0.1667
-2023-02-15 23:40:27.222365,Round Match-Ups - 1st Round Match-Ups - P. Cantlay vs V. Hovland - 1st Round Match-Ups,Viktor Hovland,-0.023800000000000043,0.5,0.5238
+2023-02-15 23:40:27.236619,Round Match-Ups - 1st Round Match-Ups - X. Schauffele vs M. Homa - 1st Round Match-Ups,Max Homa,-0.023799999999999988,0.4762,0.5
 2023-02-15 23:40:27.250845,Round Match-Ups - 1st Round Match-Ups - A. Noren vs N. Taylor - 1st Round Match-Ups,Nick Taylor,-0.023800000000000043,0.5,0.5238
+2023-02-15 23:40:27.222365,Round Match-Ups - 1st Round Match-Ups - P. Cantlay vs V. Hovland - 1st Round Match-Ups,Viktor Hovland,-0.023800000000000043,0.5,0.5238
 2023-02-15 23:40:27.298918,Round Match-Ups - 1st Round Match-Ups - S. Power vs S. Lowry - 1st Round Match-Ups,Shane Lowry,-0.023800000000000043,0.5,0.5238
 2023-02-15 20:40:27.476500,BAFTA Awards - Leading Actress - BAFTA: Leading Actress,Danielle Deadwyler - Till,-0.0242,0.0667,0.0909
 2023-02-15 19:40:36.296832,95th Academy Awards - Best Costume Design - Best Costume Design,Ruth Carter - Black Panther: Wakanda Forever,-0.024399999999999977,0.4878,0.5122
@@ -141,5 +138,4 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-15 20:40:27.470316,BAFTA Awards - Leading Actor - BAFTA: Leading Actor,Colin Farrell - The Banshees of Inisherin,-0.07240000000000002,0.6923,0.7647
 2023-02-15 21:40:33.779528,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Tigres UANL,-0.0857,0.2,0.2857
 2023-02-16 00:40:32.738670,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Arsenal,-0.11260000000000003,0.3636,0.4762
-2023-02-15 16:40:28.205895,WWE - WIll Bret Hart Appear Live on the Feb 19th WWE Raw TV Show - Proposition,No,-0.125,0.75,0.875
 2023-02-16 00:40:32.767018,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Liverpool,-0.15000000000000002,0.6,0.75
