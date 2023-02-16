@@ -17,8 +17,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-16 09:40:30.545610,Championship - England Championship 2022/23 - To Finish Bottom,Stoke City,0.0713,0.0909,0.0196
 2023-02-16 09:40:30.429570,La Liga - Spain La Liga 2022/23 - To Be Relegated,Espanyol,0.06820000000000001,0.25,0.1818
 2023-02-16 09:40:30.603487,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,St. Mirren,0.06670000000000004,0.4,0.3333
-2023-02-16 07:40:30.602737,NBA Specials - NBA All Star Weekend - Player selected 1st overall in NBA All Star Draft - NBA All Star 1st Overall Pick,Luka Doncic (DAL),0.06659999999999999,0.3333,0.2667
 2023-02-16 09:40:30.545610,Championship - England Championship 2022/23 - To Finish Bottom,Huddersfield Town,0.06659999999999999,0.3333,0.2667
+2023-02-16 07:40:30.602737,NBA Specials - NBA All Star Weekend - Player selected 1st overall in NBA All Star Draft - NBA All Star 1st Overall Pick,Luka Doncic (DAL),0.06659999999999999,0.3333,0.2667
 2023-02-16 09:40:30.341426,UEFA Champions League - UEFA Champions League 2022/2023 - Nationality of Winner,Germany,0.0635,0.2857,0.2222
 2023-02-16 08:40:29.024747,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Dayton,0.05980000000000002,0.4444,0.3846
 2023-02-16 09:40:30.541604,Championship - England Championship 2022/23 - To Be Relegated,Huddersfield Town,0.05910000000000004,0.7143,0.6552
@@ -40,48 +40,40 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-16 09:40:30.541604,Championship - England Championship 2022/23 - To Be Relegated,Blackpool,0.040999999999999925,0.7333,0.6923
 2023-02-16 07:40:30.602737,NBA Specials - NBA All Star Weekend - Player selected 1st overall in NBA All Star Draft - NBA All Star 1st Overall Pick,Kyrie Irving (DAL),0.04040000000000002,0.2222,0.1818
 2023-02-16 08:40:30.758064,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Jaren Jackson Jr. (MEM),0.03639999999999999,0.6364,0.6
-2023-02-16 09:40:30.536687,Championship - England Championship 2022/23 - To Be Promoted,Sunderland,0.03420000000000001,0.1111,0.0769
 2023-02-16 09:40:30.337690,UEFA Champions League - UEFA Champions League 2022/2023 - Furthest Progressing EPL Team,Manchester City,0.03420000000000001,0.7778,0.7436
+2023-02-16 09:40:30.536687,Championship - England Championship 2022/23 - To Be Promoted,Sunderland,0.03420000000000001,0.1111,0.0769
 2023-02-16 07:40:30.624033,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Malcolm Brogdon (BOS),0.032099999999999906,0.6154,0.5833
 2023-02-16 09:40:30.603487,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,St. Johnstone,0.03180000000000005,0.8889,0.8571
 2023-02-16 08:40:29.054071,College Basketball - 2022-2023 John R. Wooden Award Winner - John R. Wooden Award Winner,Trayce Jackson-Davis,0.031,0.0588,0.0278
 2023-02-16 07:40:30.618757,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Nikola Jokic (DEN),0.028299999999999992,0.6774,0.6491
-2023-02-16 09:40:30.536687,Championship - England Championship 2022/23 - To Be Promoted,Norwich City,0.027999999999999997,0.1818,0.1538
 2023-02-16 07:40:30.382323,2022/23 NBA Championship - 2022-2023 NBA Championship - Champion,Milwaukee Bucks,0.027999999999999997,0.1818,0.1538
-2023-02-15 23:40:27.294183,Round Match-Ups - 1st Round Match-Ups - R. McIIroy vs J. Thomas - 1st Round Match-Ups,Rory McIlroy,0.027700000000000058,0.5833,0.5556
+2023-02-16 09:40:30.536687,Championship - England Championship 2022/23 - To Be Promoted,Norwich City,0.027999999999999997,0.1818,0.1538
 2023-02-16 09:40:28.324005,Boxing Lines - Luis Nery vs Azat Hovhannisyan - To Win the Bout,Azat Hovhannisyan,0.025999999999999968,0.4608,0.4348
-2023-02-15 23:40:27.150205,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - J.J. Spaun / M. Thompson / T. Hatton - 1st Round 3 Balls,Tyrrell Hatton,0.024399999999999977,0.5122,0.4878
 2023-02-16 07:40:30.618757,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Jayson Tatum (BOS),0.024299999999999995,0.0769,0.0526
 2023-02-16 08:40:29.030640,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Iowa State,0.024,0.0625,0.0385
-2023-02-15 23:40:27.187441,Round Match-Ups - 1st Round Match-Ups - T. Montgomery vs A. Scott - 1st Round Match-Ups,Taylor Montgomery,0.023800000000000043,0.5238,0.5
 2023-02-16 09:40:30.599691,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Hibernian,0.023799999999999932,0.8571,0.8333
 2023-02-16 00:40:32.590761,Championship - England Championship 2022/23 - Outright,Middlesbrough,0.0236,0.0385,0.0149
 2023-02-16 06:40:30.083773,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,New Orleans Pelicans,0.0232,0.0667,0.0435
 2023-02-16 09:40:30.553830,Championship - England Championship 2022/23 - Top 6 Finish,Coventry City,0.02310000000000001,0.1,0.0769
 2023-02-16 08:40:28.946986,US Presidential Election 2024 - US Presidential Election 2024 -Democratic Vice Presidential Candidate - Democrat VP,Pete Buttigieg,0.022199999999999998,0.1333,0.1111
 2023-02-16 00:40:32.752224,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Everton,0.021699999999999997,0.4762,0.4545
-2023-02-16 09:40:30.429570,La Liga - Spain La Liga 2022/23 - To Be Relegated,Getafe,0.02169999999999994,0.5455,0.5238
-2023-02-15 23:40:27.298918,Round Match-Ups - 1st Round Match-Ups - S. Power vs S. Lowry - 1st Round Match-Ups,Seamus Power,0.02169999999999994,0.5455,0.5238
-2023-02-15 23:40:27.250845,Round Match-Ups - 1st Round Match-Ups - A. Noren vs N. Taylor - 1st Round Match-Ups,Alex Noren,0.02169999999999994,0.5455,0.5238
-2023-02-15 23:40:27.222365,Round Match-Ups - 1st Round Match-Ups - P. Cantlay vs V. Hovland - 1st Round Match-Ups,Patrick Cantlay,0.02169999999999994,0.5455,0.5238
 2023-02-16 08:40:28.946986,US Presidential Election 2024 - US Presidential Election 2024 -Democratic Vice Presidential Candidate - Democrat VP,Kamala Harris,0.02169999999999994,0.5455,0.5238
+2023-02-16 09:40:30.429570,La Liga - Spain La Liga 2022/23 - To Be Relegated,Getafe,0.02169999999999994,0.5455,0.5238
 2023-02-16 09:40:30.332044,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Bayern Munich,0.02100000000000002,0.3846,0.3636
+2023-02-16 11:40:28.402959,Tournament Match-Ups - Tournament Match-Up - T. Finau vs X. Schauffele - Tournament Match-Up,Xander Schauffele,0.02079999999999993,0.5556,0.5348
 2023-02-16 10:40:28.718713,Round Match-Ups - 1st Round Match-Ups - C. Bezuidenhout vs T. Detry - 1st Round Match-Ups,Thomas Detry,0.02079999999999993,0.5556,0.5348
 2023-02-16 07:40:30.983433,Round Match-Ups - 1st Round Match-Ups - K. Bradley vs R. Fowler - 1st Round Match-Ups,Keegan Bradley,0.02079999999999993,0.5556,0.5348
 2023-02-16 09:40:30.341426,UEFA Champions League - UEFA Champions League 2022/2023 - Nationality of Winner,Portugal,0.0203,0.0588,0.0385
-2023-02-16 09:40:30.332044,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Benfica,0.02020000000000001,0.1111,0.0909
 2023-02-16 09:40:30.531902,Championship - England Championship 2022/23 - Top Goalscorer,Viktor Gyokeres,0.02020000000000001,0.1111,0.0909
-2023-02-15 23:40:27.236619,Round Match-Ups - 1st Round Match-Ups - X. Schauffele vs M. Homa - 1st Round Match-Ups,Xander Schauffele,0.01970000000000005,0.5652,0.5455
+2023-02-16 09:40:30.332044,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Benfica,0.02020000000000001,0.1111,0.0909
 2023-02-16 09:40:30.332044,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Borussia Dortmund,0.019099999999999992,0.0667,0.0476
 2023-02-16 08:40:29.003273,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Baylor,0.019099999999999992,0.0667,0.0476
 2023-02-16 06:40:30.078668,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Atlanta Hawks,0.019000000000000017,0.2857,0.2667
 2023-02-16 06:40:30.078668,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Washington Wizards,0.019000000000000003,0.0625,0.0435
 2023-02-16 10:40:28.839071,Round Match-Ups - 1st Round Match-Ups - D. Thompson v T. Woods - 1st Round Match-Ups,Davis Thompson,0.018100000000000005,0.5833,0.5652
 2023-02-16 09:40:30.553830,Championship - England Championship 2022/23 - Top 6 Finish,Middlesbrough,0.017900000000000027,0.875,0.8571
-2023-02-15 23:40:27.303630,Round Match-Ups - 1st Round Match-Ups - S. Scheffler vs C. Morikawa - 1st Round Match-Ups,Scottie Scheffler,0.017299999999999982,0.5917,0.5744
-2023-02-15 23:40:27.145419,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - C. Young / K.H. Lee / S. Burns - 1st Round 3 Balls,Cameron Young,0.016699999999999993,0.4167,0.4
-2023-02-16 09:40:30.541604,Championship - England Championship 2022/23 - To Be Relegated,Birmingham City,0.016600000000000004,0.0833,0.0667
 2023-02-16 07:40:30.589479,NBA Specials - NBA All Star Weekend - Three-Point Contest Winner - Three-Point Contest,Buddy Hield (IND),0.016600000000000004,0.1905,0.1739
+2023-02-16 09:40:30.541604,Championship - England Championship 2022/23 - To Be Relegated,Birmingham City,0.016600000000000004,0.0833,0.0667
 2023-02-16 00:40:30.911802,Thailand Classic - 2/3 Balls - 1st Round 3 Balls - K. Aphibarnrat / T. Lawrence / P. Larrazabal - 1st Round 3 Balls,Thriston Lawrence,0.015400000000000025,0.4,0.3846
 2023-02-16 08:40:29.003273,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Indiana,0.015300000000000001,0.0476,0.0323
 2023-02-16 08:40:28.700694,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Antonio Júnior,0.015100000000000002,0.1818,0.1667
@@ -92,71 +84,60 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-16 00:40:32.590761,Championship - England Championship 2022/23 - Outright,Burnley,0.013900000000000023,0.8889,0.875
 2023-02-16 09:40:30.545610,Championship - England Championship 2022/23 - To Finish Bottom,Rotherham Utd,0.013899999999999996,0.125,0.1111
 2023-02-16 07:40:30.618757,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Giannis Antetokounmpo (MIL),0.013899999999999996,0.125,0.1111
-2023-02-15 23:40:27.076001,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - A. Svensson / B. Harman / J. Dahmen - 1st Round 3 Balls,Joel Dahmen,0.013300000000000034,0.3704,0.3571
 2023-02-16 09:40:30.541604,Championship - England Championship 2022/23 - To Be Relegated,Queens Park Rangers,0.0131,0.0476,0.0345
-2023-02-15 23:40:27.046399,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - A. Scott / B. Horschel / T. Finau - 1st Round 3 Balls,Adam Scott,0.012299999999999978,0.3571,0.3448
+2023-02-16 01:40:30.537573,Boxing Lines - Ardreal Holmes vs Ismael Villareal - To Win the Bout,Ardreal Holmes,0.011600000000000055,0.5238,0.5122
 2023-02-16 00:40:30.988542,Tournament Match-Ups - Tournament Match-Ups - T. Olesen vs A. Otaegui - Tournament Match-Ups,Adrian Otaegui,0.011600000000000055,0.5238,0.5122
 2023-02-16 10:40:28.738779,Round Match-Ups - 1st Round Match-Ups - C. Tarren v M. Hughes - 1st Round Match-Ups,Mackenzie Hughes,0.011600000000000055,0.5238,0.5122
 2023-02-16 07:40:30.949767,Round Match-Ups - 1st Round Match-Ups - H. Buckley vs T. Moore - 1st Round Match-Ups,Hayden Buckley,0.011600000000000055,0.5238,0.5122
-2023-02-16 01:40:30.537573,Boxing Lines - Ardreal Holmes vs Ismael Villareal - To Win the Bout,Ardreal Holmes,0.011600000000000055,0.5238,0.5122
 2023-02-16 03:40:32.100582,Round Match-Ups - 1st Round Match-Ups - R. McIIroy vs J. Thomas - 1st Round Match-Ups,Justin Thomas,0.011099999999999999,0.4762,0.4651
 2023-02-16 07:40:30.391137,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Cleveland Cavaliers,0.011099999999999999,0.1111,0.1
 2023-02-16 05:40:28.973778,Round Match-Ups - 1st Round Match-Ups - T. Montgomery vs A. Scott - 1st Round Match-Ups,Adam Scott,0.01100000000000001,0.5348,0.5238
 2023-02-16 05:40:30.025192,Boxing Lines - Ardreal Holmes vs Ismael Villareal - To Win the Bout,Ardreal Holmes,0.01100000000000001,0.5348,0.5238
-2023-02-15 23:40:27.070602,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - J.T. Poston / M. Kuchar / R. Fowler - 1st Round 3 Balls,Matt Kuchar,0.010699999999999987,0.3333,0.3226
 2023-02-16 03:40:32.095724,Round Match-Ups - 1st Round Match-Ups - R. Henley v D. McCarthy - 1st Round Match-Ups,Russell Henley,0.010699999999999932,0.5455,0.5348
-2023-02-16 08:40:29.003273,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,UCLA,0.0102,0.0769,0.0667
-2023-02-16 08:40:29.003273,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Kansas,0.0102,0.0769,0.0667
-2023-02-16 09:40:30.332044,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Inter Milan,0.0102,0.0769,0.0667
 2023-02-16 00:40:32.747288,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Harry Kane,0.0102,0.0769,0.0667
+2023-02-16 08:40:29.003273,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,UCLA,0.0102,0.0769,0.0667
+2023-02-16 09:40:30.332044,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Inter Milan,0.0102,0.0769,0.0667
+2023-02-16 08:40:29.003273,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Kansas,0.0102,0.0769,0.0667
 2023-02-16 09:40:30.536687,Championship - England Championship 2022/23 - To Be Promoted,Coventry City,0.010100000000000001,0.0345,0.0244
-2023-02-16 07:40:30.936103,Round Match-Ups - 1st Round Match-Ups - J. Rose vs H. Matsuyama - 1st Round Match-Ups,Hideki Matsuyama,0.010099999999999998,0.5556,0.5455
-2023-02-16 03:40:32.051947,Round Match-Ups - 1st Round Match-Ups - K. Kitayama v A. Meronk - 1st Round Match-Ups,Kurt Kitayama,0.010099999999999998,0.5556,0.5455
-2023-02-15 23:40:27.270034,Round Match-Ups - 1st Round Match-Ups - L. List v T. Mullinax - 1st Round Match-Ups,Luke List,0.010099999999999998,0.5556,0.5455
 2023-02-16 03:40:32.125093,Round Match-Ups - 1st Round Match-Ups - P. Rodgers v J.J. Spaun - 1st Round Match-Ups,Patrick Rodgers,0.010099999999999998,0.5556,0.5455
-2023-02-15 23:40:27.363760,Tournament Match-Ups - Tournament Match-Up - S. Burns vs S. Im - Tournament Match-Up,Sungjae Im,0.010099999999999998,0.5556,0.5455
-2023-02-16 00:40:30.988542,Tournament Match-Ups - Tournament Match-Ups - T. Olesen vs A. Otaegui - Tournament Match-Ups,Thorbjorn Olesen,-0.010099999999999998,0.5455,0.5556
-2023-02-16 08:40:28.979557,Scottish Politics - Next First Minister - Next First Minister After Nicola Sturgeon,Angus Robertson,-0.010099999999999998,0.4444,0.4545
+2023-02-16 03:40:32.051947,Round Match-Ups - 1st Round Match-Ups - K. Kitayama v A. Meronk - 1st Round Match-Ups,Kurt Kitayama,0.010099999999999998,0.5556,0.5455
+2023-02-16 07:40:30.936103,Round Match-Ups - 1st Round Match-Ups - J. Rose vs H. Matsuyama - 1st Round Match-Ups,Hideki Matsuyama,0.010099999999999998,0.5556,0.5455
 2023-02-16 01:40:30.537573,Boxing Lines - Ardreal Holmes vs Ismael Villareal - To Win the Bout,Ismael Villareal,-0.010099999999999998,0.5455,0.5556
+2023-02-16 08:40:28.979557,Scottish Politics - Next First Minister - Next First Minister After Nicola Sturgeon,Angus Robertson,-0.010099999999999998,0.4444,0.4545
+2023-02-16 00:40:30.988542,Tournament Match-Ups - Tournament Match-Ups - T. Olesen vs A. Otaegui - Tournament Match-Ups,Thorbjorn Olesen,-0.010099999999999998,0.5455,0.5556
 2023-02-16 09:40:30.553830,Championship - England Championship 2022/23 - Top 6 Finish,Hull City,-0.010100000000000001,0.0244,0.0345
-2023-02-16 08:40:28.820718,Social Media Specials - MrBeast Specials - MrBeast YouTube Subscribers Total On 28th February 2023,134m,-0.0102,0.0667,0.0769
-2023-02-16 09:40:30.588148,Premiership - Scotland Premiership 2022/23 - Outright,Rangers,-0.0102,0.0667,0.0769
 2023-02-16 08:40:28.700694,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Bruna Griphao,-0.0102,0.0667,0.0769
-2023-02-15 23:40:27.303630,Round Match-Ups - 1st Round Match-Ups - S. Scheffler vs C. Morikawa - 1st Round Match-Ups,Collin Morikawa,-0.010599999999999998,0.4545,0.4651
+2023-02-16 09:40:30.588148,Premiership - Scotland Premiership 2022/23 - Outright,Rangers,-0.0102,0.0667,0.0769
+2023-02-16 08:40:28.820718,Social Media Specials - MrBeast Specials - MrBeast YouTube Subscribers Total On 28th February 2023,134m,-0.0102,0.0667,0.0769
 2023-02-16 05:40:30.025192,Boxing Lines - Ardreal Holmes vs Ismael Villareal - To Win the Bout,Ismael Villareal,-0.010699999999999932,0.5348,0.5455
-2023-02-15 23:40:27.150205,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - J.J. Spaun / M. Thompson / T. Hatton - 1st Round 3 Balls,J. J. Spaun,-0.010699999999999987,0.3226,0.3333
 2023-02-16 09:40:30.341426,UEFA Champions League - UEFA Champions League 2022/2023 - Nationality of Winner,Italy,-0.010899999999999993,0.1429,0.1538
 2023-02-16 07:40:30.949767,Round Match-Ups - 1st Round Match-Ups - H. Buckley vs T. Moore - 1st Round Match-Ups,Taylor Moore,-0.01100000000000001,0.5238,0.5348
 2023-02-16 10:40:28.738779,Round Match-Ups - 1st Round Match-Ups - C. Tarren v M. Hughes - 1st Round Match-Ups,Callum Tarren,-0.01100000000000001,0.5238,0.5348
-2023-02-16 10:40:28.839071,Round Match-Ups - 1st Round Match-Ups - D. Thompson v T. Woods - 1st Round Match-Ups,Tiger Woods,-0.011099999999999999,0.4651,0.4762
-2023-02-15 23:40:27.046399,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - A. Scott / B. Horschel / T. Finau - 1st Round 3 Balls,Billy Horschel,-0.011099999999999999,0.2667,0.2778
 2023-02-16 00:40:32.752224,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Crystal Palace,-0.011099999999999999,0.1,0.1111
 2023-02-16 08:40:28.979557,Scottish Politics - Next First Minister - Next First Minister After Nicola Sturgeon,Keith Brown,-0.011099999999999999,0.1,0.1111
+2023-02-16 10:40:28.839071,Round Match-Ups - 1st Round Match-Ups - D. Thompson v T. Woods - 1st Round Match-Ups,Tiger Woods,-0.011099999999999999,0.4651,0.4762
 2023-02-16 08:40:28.979557,Scottish Politics - Next First Minister - Next First Minister After Nicola Sturgeon,John Swinney,-0.011099999999999999,0.1,0.1111
-2023-02-16 09:40:30.429570,La Liga - Spain La Liga 2022/23 - To Be Relegated,Sevilla,-0.011199999999999995,0.0476,0.0588
-2023-02-16 08:40:28.946986,US Presidential Election 2024 - US Presidential Election 2024 -Democratic Vice Presidential Candidate - Democrat VP,Beto O'Rourke,-0.011199999999999995,0.0476,0.0588
-2023-02-16 09:40:30.531902,Championship - England Championship 2022/23 - Top Goalscorer,Teemu Pukki,-0.011199999999999995,0.0476,0.0588
 2023-02-16 08:40:28.700694,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Aline Wirley,-0.011199999999999995,0.0476,0.0588
+2023-02-16 08:40:28.946986,US Presidential Election 2024 - US Presidential Election 2024 -Democratic Vice Presidential Candidate - Democrat VP,Beto O'Rourke,-0.011199999999999995,0.0476,0.0588
+2023-02-16 09:40:30.429570,La Liga - Spain La Liga 2022/23 - To Be Relegated,Sevilla,-0.011199999999999995,0.0476,0.0588
+2023-02-16 09:40:30.531902,Championship - England Championship 2022/23 - Top Goalscorer,Teemu Pukki,-0.011199999999999995,0.0476,0.0588
 2023-02-16 08:40:28.700694,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Sarah Aline,-0.011199999999999995,0.0476,0.0588
 2023-02-16 07:40:31.131922,Round Match-Ups - 1st Round Match-Ups - P. Rodgers v J.J. Spaun - 1st Round Match-Ups,J J Spaun,-0.0116,0.4762,0.4878
 2023-02-16 05:40:28.973778,Round Match-Ups - 1st Round Match-Ups - T. Montgomery vs A. Scott - 1st Round Match-Ups,Taylor Montgomery,-0.011600000000000055,0.5122,0.5238
-2023-02-15 23:40:27.363760,Tournament Match-Ups - Tournament Match-Up - S. Burns vs S. Im - Tournament Match-Up,Sam Burns,-0.011600000000000055,0.5122,0.5238
 2023-02-16 06:40:30.088874,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Los Angeles Clippers,-0.011700000000000016,0.2105,0.2222
-2023-02-16 09:40:28.861532,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Mitt Romney,-0.012100000000000001,0.0123,0.0244
 2023-02-16 09:40:28.861532,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Chris Christie,-0.012100000000000001,0.0123,0.0244
+2023-02-16 09:40:28.861532,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Mitt Romney,-0.012100000000000001,0.0123,0.0244
 2023-02-16 07:40:30.936103,Round Match-Ups - 1st Round Match-Ups - J. Rose vs H. Matsuyama - 1st Round Match-Ups,Justin Rose,-0.012199999999999989,0.4878,0.5
-2023-02-15 23:40:27.335349,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs P. Cantlay - Tournament Match-Up,Collin Morikawa,-0.012199999999999989,0.5,0.5122
-2023-02-16 03:40:32.051947,Round Match-Ups - 1st Round Match-Ups - K. Kitayama v A. Meronk - 1st Round Match-Ups,Adrian Meronk,-0.012199999999999989,0.4878,0.5
-2023-02-15 23:40:27.270034,Round Match-Ups - 1st Round Match-Ups - L. List v T. Mullinax - 1st Round Match-Ups,Trey Mullinax,-0.012199999999999989,0.4878,0.5
 2023-02-16 03:40:32.125093,Round Match-Ups - 1st Round Match-Ups - P. Rodgers v J.J. Spaun - 1st Round Match-Ups,J J Spaun,-0.012199999999999989,0.4878,0.5
+2023-02-16 03:40:32.051947,Round Match-Ups - 1st Round Match-Ups - K. Kitayama v A. Meronk - 1st Round Match-Ups,Adrian Meronk,-0.012199999999999989,0.4878,0.5
 2023-02-16 03:40:32.095724,Round Match-Ups - 1st Round Match-Ups - R. Henley v D. McCarthy - 1st Round Match-Ups,Denny McCarthy,-0.012199999999999989,0.5,0.5122
 2023-02-16 09:40:30.332044,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Napoli,-0.012899999999999995,0.1538,0.1667
 2023-02-16 09:40:28.861532,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Ivanka Trump,-0.012999999999999998,0.0164,0.0294
 2023-02-16 09:40:30.536687,Championship - England Championship 2022/23 - To Be Promoted,Watford,-0.013899999999999996,0.1111,0.125
 2023-02-16 09:40:30.332044,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Tottenham,-0.013999999999999999,0.0769,0.0909
 2023-02-16 08:40:29.018813,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Clemson,-0.013999999999999999,0.0769,0.0909
-2023-02-16 09:40:30.549724,Championship - England Championship 2022/23 - Top 2 Finish,Millwall,-0.014099999999999998,0.0244,0.0385
 2023-02-16 09:40:30.553830,Championship - England Championship 2022/23 - Top 6 Finish,Queens Park Rangers,-0.014099999999999998,0.0244,0.0385
+2023-02-16 09:40:30.549724,Championship - England Championship 2022/23 - Top 2 Finish,Millwall,-0.014099999999999998,0.0244,0.0385
 2023-02-16 08:40:28.700694,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Fred Nicácio,-0.014399999999999996,0.0625,0.0769
 2023-02-16 09:40:30.553830,Championship - England Championship 2022/23 - Top 6 Finish,Birmingham City,-0.014499999999999999,0.0149,0.0294
 2023-02-16 08:40:29.042413,College Basketball - Pac-12 Regular Season Conference Winner - Pac-12 Regular Season Winner,USC,-0.0145,0.0099,0.0244
@@ -173,25 +154,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-16 09:40:30.591969,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,Aberdeen,-0.018200000000000004,0.0294,0.0476
 2023-02-16 07:40:30.391137,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Philadelphia 76ers,-0.01820000000000002,0.1818,0.2
 2023-02-16 09:40:30.326716,UEFA Champions League - UEFA Champions League 2022/2023 - Top Goalscorer,Kylian Mbappe (PSG),-0.019000000000000017,0.2667,0.2857
-2023-02-16 09:40:30.320997,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Paris Saint-Germain,-0.019099999999999992,0.0476,0.0667
-2023-02-16 09:40:30.341426,UEFA Champions League - UEFA Champions League 2022/2023 - Nationality of Winner,France,-0.019099999999999992,0.0476,0.0667
 2023-02-16 09:40:30.320997,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Chelsea,-0.019099999999999992,0.0476,0.0667
+2023-02-16 09:40:30.341426,UEFA Champions League - UEFA Champions League 2022/2023 - Nationality of Winner,France,-0.019099999999999992,0.0476,0.0667
+2023-02-16 09:40:30.320997,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Paris Saint-Germain,-0.019099999999999992,0.0476,0.0667
 2023-02-16 08:40:28.820718,Social Media Specials - MrBeast Specials - MrBeast YouTube Subscribers Total On 28th February 2023,144m,-0.02020000000000001,0.0909,0.1111
 2023-02-16 09:40:30.560894,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Club León,-0.0203,0.0385,0.0588
 2023-02-16 09:40:30.536687,Championship - England Championship 2022/23 - To Be Promoted,Luton Town,-0.02049999999999999,0.1333,0.1538
 2023-02-16 07:40:30.618757,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Luka Doncic (DAL),-0.0208,0.0625,0.0833
 2023-02-16 08:40:28.979557,Scottish Politics - Next First Minister - Next First Minister After Nicola Sturgeon,Kate Forbes,-0.02100000000000002,0.3636,0.3846
-2023-02-15 23:40:27.187441,Round Match-Ups - 1st Round Match-Ups - T. Montgomery vs A. Scott - 1st Round Match-Ups,Adam Scott,-0.02169999999999994,0.5238,0.5455
 2023-02-16 06:40:30.083773,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Dallas Mavericks,-0.02210000000000001,0.2105,0.2326
 2023-02-16 07:40:30.602737,NBA Specials - NBA All Star Weekend - Player selected 1st overall in NBA All Star Draft - NBA All Star 1st Overall Pick,Joel Embiid (PHI),-0.022199999999999998,0.2,0.2222
-2023-02-15 23:40:27.294183,Round Match-Ups - 1st Round Match-Ups - R. McIIroy vs J. Thomas - 1st Round Match-Ups,Justin Thomas,-0.022699999999999998,0.4651,0.4878
-2023-02-16 00:40:32.507383,La Liga - Spain La Liga 2022/23 - Winner,FC Barcelona,-0.02310000000000001,0.9,0.9231
+2023-02-16 11:40:28.402959,Tournament Match-Ups - Tournament Match-Up - T. Finau vs X. Schauffele - Tournament Match-Up,Tony Finau,-0.022600000000000064,0.5122,0.5348
 2023-02-16 09:40:30.320997,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Napoli,-0.02310000000000001,0.0769,0.1
-2023-02-15 23:40:27.236619,Round Match-Ups - 1st Round Match-Ups - X. Schauffele vs M. Homa - 1st Round Match-Ups,Max Homa,-0.023799999999999988,0.4762,0.5
+2023-02-16 00:40:32.507383,La Liga - Spain La Liga 2022/23 - Winner,FC Barcelona,-0.02310000000000001,0.9,0.9231
 2023-02-16 09:40:30.603487,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Aberdeen,-0.023799999999999988,0.4762,0.5
-2023-02-15 23:40:27.250845,Round Match-Ups - 1st Round Match-Ups - A. Noren vs N. Taylor - 1st Round Match-Ups,Nick Taylor,-0.023800000000000043,0.5,0.5238
-2023-02-15 23:40:27.298918,Round Match-Ups - 1st Round Match-Ups - S. Power vs S. Lowry - 1st Round Match-Ups,Shane Lowry,-0.023800000000000043,0.5,0.5238
-2023-02-15 23:40:27.222365,Round Match-Ups - 1st Round Match-Ups - P. Cantlay vs V. Hovland - 1st Round Match-Ups,Viktor Hovland,-0.023800000000000043,0.5,0.5238
 2023-02-16 09:40:30.536687,Championship - England Championship 2022/23 - To Be Promoted,Sheffield United,-0.0242,0.9091,0.9333
 2023-02-16 08:40:29.036648,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Providence,-0.024299999999999995,0.0526,0.0769
 2023-02-16 09:40:30.541604,Championship - England Championship 2022/23 - To Be Relegated,Reading,-0.024299999999999995,0.0345,0.0588
@@ -203,12 +179,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-16 07:40:30.602737,NBA Specials - NBA All Star Weekend - Player selected 1st overall in NBA All Star Draft - NBA All Star 1st Overall Pick,Nikola Jokic (DEN),-0.027999999999999997,0.1538,0.1818
 2023-02-16 06:40:30.068450,2022/23 Divisions - 2022-2023 NBA Central Division - Division Winner,Cleveland Cavaliers,-0.027999999999999997,0.1538,0.1818
 2023-02-16 07:40:30.634517,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Lauri Markkanen (UTA),-0.029000000000000026,0.4255,0.4545
-2023-02-16 08:40:28.700694,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Cezar Black,-0.029299999999999993,0.0476,0.0769
 2023-02-16 00:40:32.738670,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester United,-0.029299999999999993,0.0476,0.0769
 2023-02-16 08:40:28.700694,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Gabriel Santana,-0.029299999999999993,0.0476,0.0769
 2023-02-16 09:40:30.560894,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Chivas Guadalajara,-0.029299999999999993,0.0476,0.0769
-2023-02-16 09:40:30.429570,La Liga - Spain La Liga 2022/23 - To Be Relegated,Mallorca,-0.0294,0.0294,0.0588
+2023-02-16 08:40:28.700694,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Cezar Black,-0.029299999999999993,0.0476,0.0769
 2023-02-16 09:40:30.591969,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,St. Mirren,-0.0294,0.0294,0.0588
+2023-02-16 09:40:30.429570,La Liga - Spain La Liga 2022/23 - To Be Relegated,Mallorca,-0.0294,0.0294,0.0588
 2023-02-16 09:40:28.324005,Boxing Lines - Luis Nery vs Azat Hovhannisyan - To Win the Bout,Luis Nery,-0.02960000000000007,0.6,0.6296
 2023-02-16 06:40:30.078668,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Miami Heat,-0.031400000000000095,0.7333,0.7647
 2023-02-16 00:40:32.590761,Championship - England Championship 2022/23 - Outright,Sheffield United,-0.033300000000000024,0.1667,0.2
