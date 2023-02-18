@@ -49,22 +49,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-17 20:40:26.333790,Boxing Lines - Tevin Farmer vs Mickey Bey - To Win the Bout,Tevin Farmer,0.014200000000000101,0.8403,0.8261
 2023-02-17 23:40:33.389654,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,Braga,0.013999999999999999,0.0909,0.0769
 2023-02-17 21:40:27.569730,BKFC: Knuckle Mania 3 - John Dodson vs Jarod Grant - To Win the Bout,Jarod Grant,0.013399999999999995,0.2381,0.2247
-2023-02-17 20:40:26.775945,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Maryland,0.0131,0.0476,0.0345
 2023-02-18 00:40:31.010185,BKFC: Knuckle Mania 3 - Will Santiago vs Noah Cutter - To Win the Bout,Noah Cutter,0.0131,0.2353,0.2222
-2023-02-17 20:40:28.300893,NBA Specials - NBA All Star Weekend - Three-Point Contest Winner - Three-Point Contest,Kevin Huerter (SAC),0.012899999999999995,0.1667,0.1538
+2023-02-17 20:40:26.775945,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Maryland,0.0131,0.0476,0.0345
 2023-02-18 00:40:32.603370,NBA Specials - NBA All Star Weekend - Dunk Contest Winner - Dunk Contest,Jericho Sims (NYK),0.012899999999999995,0.1667,0.1538
 2023-02-18 00:40:32.596661,NBA Specials - 2023 NBA All Star Game - Odds to win 2023 NBA All Star Game MVP,LeBron James (LAL),0.012899999999999995,0.1667,0.1538
+2023-02-17 20:40:28.300893,NBA Specials - NBA All Star Weekend - Three-Point Contest Winner - Three-Point Contest,Kevin Huerter (SAC),0.012899999999999995,0.1667,0.1538
 2023-02-17 22:40:32.651846,BKFC: Knuckle Mania 3 - Jayme Hinshaw vs Charisa Sigala - To Win the Bout,Charisa Sigala,0.012800000000000034,0.3205,0.3077
 2023-02-18 01:40:28.110101,BKFC: Knuckle Mania 3 - Jayme Hinshaw vs Charisa Sigala - To Win the Bout,Charisa Sigala,0.012799999999999978,0.3333,0.3205
-2023-02-17 17:40:28.830524,Boxing Lines - Kurt Scoby vs John Mannu - To Win the Bout,Kurt Scoby,0.012700000000000045,0.6491,0.6364
 2023-02-18 00:40:33.073976,"Daily Soccer Specials - English Premier League Specials - Saturday, 18th February - English Premier League Specials - Saturday, 18th February","Manchester City, Arsenal and Chelsea to concede 1 or less goals combined",0.012699999999999989,0.3636,0.3509
 2023-02-18 00:40:32.581797,NBA Specials - NBA All Star Weekend - Rising Stars Tournament Winner - Rising Stars Tournament,Team Pau,0.012199999999999989,0.5,0.4878
 2023-02-18 01:40:28.884699,NBA Specials - NBA All Star Weekend - Dunk Contest Winner - Dunk Contest,Kenyon Martin Jr. (HOU),0.011700000000000016,0.2222,0.2105
-2023-02-17 23:40:33.586694,"Daily Soccer Specials - English Premier League Specials - Saturday, 18th February - English Premier League Specials - Saturday, 18th February",Away teams to score 5 or less goals,0.011099999999999999,0.1111,0.1
 2023-02-17 22:40:32.636215,BKFC: Knuckle Mania 3 - Joshua Moreno vs Cristhian Torres - To Win the Bout,Joshua Moreno,0.011099999999999999,0.7333,0.7222
+2023-02-17 23:40:33.586694,"Daily Soccer Specials - English Premier League Specials - Saturday, 18th February - English Premier League Specials - Saturday, 18th February",Away teams to score 5 or less goals,0.011099999999999999,0.1111,0.1
 2023-02-17 22:40:32.667392,BKFC: Knuckle Mania 3 - Austin Trout vs Diego Sanchez - To Win the Bout,Diego Sanchez,0.011099999999999999,0.1111,0.1
-2023-02-18 01:40:28.124475,BKFC: Knuckle Mania 3 - Lorenzo Hunt vs Mike Richman - To Win the Bout,Mike Richman,0.010699999999999987,0.3333,0.3226
 2023-02-17 23:40:31.056730,Boxing Lines - Leigh Wood vs Mauricio Lara - To Win the Bout,Leigh Wood,0.010699999999999987,0.3333,0.3226
+2023-02-18 01:40:28.124475,BKFC: Knuckle Mania 3 - Lorenzo Hunt vs Mike Richman - To Win the Bout,Mike Richman,0.010699999999999987,0.3333,0.3226
 2023-02-17 20:40:26.263191,Boxing Lines - Ardreal Holmes vs Ismael Villareal - To Win the Bout,Ismael Villareal,0.010699999999999932,0.5455,0.5348
 2023-02-17 22:40:33.271101,NBA Specials - NBA All Star Weekend - Dunk Contest Winner - Dunk Contest,Kenyon Martin Jr. (HOU),0.010499999999999982,0.2105,0.2
 2023-02-17 22:40:33.264335,NBA Specials - NBA All Star Weekend - Rising Stars Tournament Winner - Rising Stars Tournament,Team Pau,0.010099999999999998,0.4545,0.4444
@@ -72,24 +71,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-18 00:40:31.015166,BKFC: Knuckle Mania 3 - Lorenzo Hunt vs Mike Richman - To Win the Bout,Mike Richman,0.010099999999999998,0.3226,0.3125
 2023-02-18 00:40:33.073976,"Daily Soccer Specials - English Premier League Specials - Saturday, 18th February - English Premier League Specials - Saturday, 18th February",Manchester City to score more goals than Arsenal,-0.010099999999999998,0.5455,0.5556
 2023-02-18 00:40:33.073976,"Daily Soccer Specials - English Premier League Specials - Saturday, 18th February - English Premier League Specials - Saturday, 18th February",A total of 22 or more goals and 77 or more corners taken,-0.010099999999999998,0.3125,0.3226
+2023-02-17 21:40:27.377191,Boxing Lines - Juan Carlos Carrillo vs Robert Burnwell - To Win the Bout,Robert Burnwell,-0.0102,0.0667,0.0769
 2023-02-17 21:40:29.328355,NBA Specials - All-Star Celebrity Game - MVP - Proposition,Diamond DeShields,-0.0102,0.0667,0.0769
 2023-02-17 21:40:27.428142,Boxing Lines - Kieron Conway vs Jorge Silva - To Win the Bout,Jorge Silva,-0.0102,0.0667,0.0769
-2023-02-17 21:40:27.377191,Boxing Lines - Juan Carlos Carrillo vs Robert Burnwell - To Win the Bout,Robert Burnwell,-0.0102,0.0667,0.0769
 2023-02-18 01:40:28.124475,BKFC: Knuckle Mania 3 - Lorenzo Hunt vs Mike Richman - To Win the Bout,Lorenzo Hunt,-0.010300000000000087,0.7333,0.7436
 2023-02-18 00:40:33.073976,"Daily Soccer Specials - English Premier League Specials - Saturday, 18th February - English Premier League Specials - Saturday, 18th February",7 or more goals in at least 1 match,-0.010499999999999982,0.2,0.2105
 2023-02-18 00:40:33.073976,"Daily Soccer Specials - English Premier League Specials - Saturday, 18th February - English Premier League Specials - Saturday, 18th February","Manchester City, Arsenal and Chelsea to concede 3 or more goals combined",-0.010599999999999998,0.4545,0.4651
 2023-02-18 01:40:28.017446,Boxing Lines - Leigh Wood vs Mauricio Lara - To Win the Bout,Leigh Wood,-0.010699999999999987,0.3226,0.3333
 2023-02-18 00:40:32.603370,NBA Specials - NBA All Star Weekend - Dunk Contest Winner - Dunk Contest,Trey Murphy III (NOP),-0.010899999999999993,0.1429,0.1538
+2023-02-17 20:40:26.263191,Boxing Lines - Ardreal Holmes vs Ismael Villareal - To Win the Bout,Ardreal Holmes,-0.01100000000000001,0.5238,0.5348
 2023-02-18 00:40:33.073976,"Daily Soccer Specials - English Premier League Specials - Saturday, 18th February - English Premier League Specials - Saturday, 18th February",Total of 33 or more cards,-0.01100000000000001,0.5238,0.5348
 2023-02-18 00:40:33.073976,"Daily Soccer Specials - English Premier League Specials - Saturday, 18th February - English Premier League Specials - Saturday, 18th February","Manchester City, Arsenal and Chelsea to score 3 or more combined 1st half goals",-0.01100000000000001,0.5238,0.5348
-2023-02-17 20:40:26.263191,Boxing Lines - Ardreal Holmes vs Ismael Villareal - To Win the Bout,Ardreal Holmes,-0.01100000000000001,0.5238,0.5348
 2023-02-18 01:40:28.872108,NBA Specials - NBA Rising Stars Challenge 2023 MVP Winner - NBA Rising Stars Challenge 2023 MVP Winner,Scoot Henderson,-0.011099999999999999,0.1,0.1111
 2023-02-17 19:40:26.981701,Boxing Lines - Henry Turner vs Zeus De Armas - To Win the Bout,Henry Turner,-0.011199999999999988,0.9412,0.9524
 2023-02-17 22:40:32.636215,BKFC: Knuckle Mania 3 - Joshua Moreno vs Cristhian Torres - To Win the Bout,Cristhian Torres,-0.01150000000000001,0.3333,0.3448
 2023-02-17 22:40:32.614568,BKFC: Knuckle Mania 3 - Anthony Sanchez vs Derek Perez - To Win the Bout,Anthony Sanchez,-0.011599999999999944,0.8403,0.8519
-2023-02-17 23:40:31.017491,Boxing Lines - Ardreal Holmes vs Ismael Villareal - To Win the Bout,Ardreal Holmes,-0.011600000000000055,0.5122,0.5238
 2023-02-18 00:40:33.073976,"Daily Soccer Specials - English Premier League Specials - Saturday, 18th February - English Premier League Specials - Saturday, 18th February",10 or more goals scored in 1st Half,-0.011600000000000055,0.5122,0.5238
-2023-02-17 17:40:28.840197,Boxing Lines - Ardreal Holmes vs Ismael Villareal - To Win the Bout,Ardreal Holmes,-0.011600000000000055,0.5122,0.5238
+2023-02-17 23:40:31.017491,Boxing Lines - Ardreal Holmes vs Ismael Villareal - To Win the Bout,Ardreal Holmes,-0.011600000000000055,0.5122,0.5238
 2023-02-18 00:40:33.073976,"Daily Soccer Specials - English Premier League Specials - Saturday, 18th February - English Premier League Specials - Saturday, 18th February","Manchester City, Arsenal and Chelsea each to score 1 or more 1st half goals",-0.011899999999999994,0.2381,0.25
 2023-02-17 19:40:29.059408,NBA Specials - All-Star Celebrity Game - MVP - Proposition,Albert Pujols,-0.011900000000000008,0.0833,0.0952
 2023-02-17 17:40:30.665187,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Miami Heat,Over 45.5,-0.012199999999999989,0.4878,0.5
@@ -103,8 +101,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-18 00:40:33.073976,"Daily Soccer Specials - English Premier League Specials - Saturday, 18th February - English Premier League Specials - Saturday, 18th February",26 or more goals scored,-0.01469999999999999,0.2353,0.25
 2023-02-18 01:40:28.865560,NBA Specials - NBA All Star Weekend - Rising Stars Tournament Winner - Rising Stars Tournament,Team Deron,-0.01469999999999999,0.2353,0.25
 2023-02-17 20:40:26.373431,BKFC: Knuckle Mania 3 - Anthony Sanchez vs Derek Perez - To Win the Bout,Anthony Sanchez,-0.014800000000000035,0.8519,0.8667
-2023-02-17 23:40:33.586694,"Daily Soccer Specials - English Premier League Specials - Saturday, 18th February - English Premier League Specials - Saturday, 18th February",Away teams to score 14 or more goals,-0.015100000000000002,0.1667,0.1818
 2023-02-18 00:40:33.073976,"Daily Soccer Specials - English Premier League Specials - Saturday, 18th February - English Premier League Specials - Saturday, 18th February",Both teams to score in 6+ more matches,-0.015100000000000002,0.1667,0.1818
+2023-02-17 23:40:33.586694,"Daily Soccer Specials - English Premier League Specials - Saturday, 18th February - English Premier League Specials - Saturday, 18th February",Away teams to score 14 or more goals,-0.015100000000000002,0.1667,0.1818
 2023-02-17 21:40:29.328355,NBA Specials - All-Star Celebrity Game - MVP - Proposition,Albert Pujols,-0.016600000000000004,0.0667,0.0833
 2023-02-17 17:40:30.939967,NBA Specials - NBA All Star Weekend - Rising Stars Tournament Winner - Rising Stars Tournament,Team Joakim,-0.016699999999999993,0.25,0.2667
 2023-02-18 01:40:28.110101,BKFC: Knuckle Mania 3 - Jayme Hinshaw vs Charisa Sigala - To Win the Bout,Jayme Hinshaw,-0.016700000000000048,0.7333,0.75
@@ -123,11 +121,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-18 00:40:33.073976,"Daily Soccer Specials - English Premier League Specials - Saturday, 18th February - English Premier League Specials - Saturday, 18th February",Liverpool to score more goals than Brighton,-0.02560000000000001,0.3077,0.3333
 2023-02-17 23:40:33.586694,"Daily Soccer Specials - English Premier League Specials - Saturday, 18th February - English Premier League Specials - Saturday, 18th February",Away teams to score 10 or more goals,-0.027700000000000058,0.5556,0.5833
 2023-02-17 17:40:30.946532,NBA Specials - NBA All Star Weekend - Three-Point Contest Winner - Three-Point Contest,Damian Lillard (POR),-0.02779999999999999,0.25,0.2778
-2023-02-18 01:40:28.872108,NBA Specials - NBA Rising Stars Challenge 2023 MVP Winner - NBA Rising Stars Challenge 2023 MVP Winner,Trey Murphy III (NOP),-0.028399999999999995,0.0625,0.0909
 2023-02-18 01:40:28.872108,NBA Specials - NBA Rising Stars Challenge 2023 MVP Winner - NBA Rising Stars Challenge 2023 MVP Winner,Alperen Sengun (HOU),-0.028399999999999995,0.0625,0.0909
+2023-02-18 01:40:28.872108,NBA Specials - NBA Rising Stars Challenge 2023 MVP Winner - NBA Rising Stars Challenge 2023 MVP Winner,Trey Murphy III (NOP),-0.028399999999999995,0.0625,0.0909
 2023-02-18 00:40:30.842798,Boxing Lines - Kurt Scoby vs John Mannu - To Win the Bout,John Mannu,-0.03210000000000002,0.3846,0.4167
-2023-02-18 01:40:28.872108,NBA Specials - NBA Rising Stars Challenge 2023 MVP Winner - NBA Rising Stars Challenge 2023 MVP Winner,Evan Mobley (CLE),-0.03330000000000001,0.0667,0.1
 2023-02-18 01:40:28.872108,NBA Specials - NBA Rising Stars Challenge 2023 MVP Winner - NBA Rising Stars Challenge 2023 MVP Winner,Franz Wagner (ORL),-0.03330000000000001,0.0667,0.1
+2023-02-18 01:40:28.872108,NBA Specials - NBA Rising Stars Challenge 2023 MVP Winner - NBA Rising Stars Challenge 2023 MVP Winner,Evan Mobley (CLE),-0.03330000000000001,0.0667,0.1
 2023-02-17 23:40:33.304300,Championship - England Championship 2022/23 - To Be Relegated,Cardiff City,-0.0348,0.4,0.4348
 2023-02-18 00:40:30.847958,Boxing Lines - Misael Lopez vs Edward Vazquez - To Win the Bout,Misael Lopez,-0.03510000000000002,0.3571,0.3922
 2023-02-17 22:40:32.657021,BKFC: Knuckle Mania 3 - Greg Hardy vs Josh Watson - To Win the Bout,Josh Watson,-0.0406,0.1333,0.1739
