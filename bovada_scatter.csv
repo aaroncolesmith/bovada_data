@@ -17,6 +17,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-21 11:40:29.185918,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Wolverhampton Wanderers,0.0734999999999999,0.8462,0.7727
 2023-02-21 08:40:33.537526,95th Academy Awards - Best Documentary Feature - Best Documentary Feature,Navalny,0.07110000000000005,0.5833,0.5122
 2023-02-21 11:40:29.154719,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,West Ham United,0.06840000000000002,0.2222,0.1538
+2023-02-21 12:40:33.612494,League One - England - League One 2022/23 - Top Goalscorer,Conor Chaplin,0.06620000000000001,0.125,0.0588
 2023-02-21 11:40:28.716146,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Kylian Mbappe,0.06519999999999998,0.5,0.4348
 2023-02-21 09:40:30.557896,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Anthony Volpe,0.061500000000000006,0.1,0.0385
 2023-02-21 07:40:25.755641,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Dayton,0.059099999999999986,0.3448,0.2857
@@ -24,7 +25,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-21 11:40:29.173421,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Tottenham Hotspur,0.055900000000000005,0.3636,0.3077
 2023-02-21 07:40:25.743768,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Kansas,0.055900000000000005,0.3636,0.3077
 2023-02-21 11:40:28.728049,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Monaco,0.053099999999999925,0.6364,0.5833
-2023-02-20 23:40:30.902844,Superligaen - Denmark Superligaen 2022/23 - Outright,FC Midtjylland,0.0384,0.0769,0.0385
+2023-02-21 12:40:33.612494,League One - England - League One 2022/23 - Top Goalscorer,David McGoldrick,0.04440000000000001,0.1111,0.0667
+2023-02-21 11:40:26.670549,College Basketball - American Athletic Tournament - American Athletic Tournament Winner,Houston,0.041000000000000036,0.7778,0.7368
 2023-02-21 10:40:39.496768,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.03670000000000001,0.1905,0.1538
 2023-02-21 11:40:28.722014,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,AC Ajaccio,0.035699999999999954,0.75,0.7143
 2023-02-21 08:40:33.599679,95th Academy Awards - Best Visual Effects - Best Visual Effects,Avatar: The Way Of Water,0.035600000000000076,0.9615,0.9259
@@ -41,45 +43,47 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-21 10:40:39.119062,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - San Antonio Spurs,Under 20.5,0.02169999999999994,0.5455,0.5238
 2023-02-21 08:40:33.495978,95th Academy Awards - Best Actor - Best Actor,Austin Butler - Elvis,0.020699999999999996,0.4651,0.4444
 2023-02-21 08:40:33.346885,CFL - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Toronto Argonauts,0.02049999999999999,0.1538,0.1333
-2023-02-21 11:40:29.160846,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Nottingham Forest,0.0203,0.0588,0.0385
 2023-02-21 11:40:28.289022,2022/23 NBA - The NBA Finals Props - 2022/23 NBA Season - Winner Specials - Winning State,Texas,0.0203,0.0588,0.0385
+2023-02-21 11:40:29.160846,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Nottingham Forest,0.0203,0.0588,0.0385
 2023-02-21 11:40:29.154719,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leicester City,0.02020000000000001,0.1111,0.0909
 2023-02-21 11:40:29.173421,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Manchester United,0.020199999999999996,0.9091,0.8889
 2023-02-21 08:40:33.554564,95th Academy Awards - Best Live Action Short Film - Best Live Action Short Film,An Irish Goodbye,0.019699999999999995,0.4545,0.4348
 2023-02-21 06:40:36.793515,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Manchester City,0.019500000000000017,0.3704,0.3509
 2023-02-21 08:40:33.582740,95th Academy Awards - Best Production Design - Best Production Design,Elvis,0.019000000000000017,0.2857,0.2667
-2023-02-21 07:40:27.921480,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Nikola Jokic (DEN),0.018999999999999906,0.7333,0.7143
 2023-02-21 11:40:28.728049,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Marseille,0.018999999999999906,0.7333,0.7143
+2023-02-21 07:40:27.921480,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Nikola Jokic (DEN),0.018999999999999906,0.7333,0.7143
 2023-02-21 09:40:30.563642,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Logan Webb,0.0189,0.0385,0.0196
 2023-02-21 11:40:28.728049,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Rennes,0.0179,0.1429,0.125
 2023-02-21 10:40:39.490871,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Michael Malone,0.016699999999999993,0.2667,0.25
 2023-02-21 10:40:39.496768,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Bam Adebayo (MIA),0.015700000000000006,0.1333,0.1176
 2023-02-21 08:40:34.840879,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Indiana,0.015300000000000001,0.0588,0.0435
-2023-02-21 07:40:25.749999,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Pittsburgh,0.015100000000000002,0.1818,0.1667
 2023-02-21 08:40:33.346885,CFL - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Hamilton Tiger-Cats,0.015100000000000002,0.1818,0.1667
 2023-02-21 08:40:33.519131,95th Academy Awards - Best Cinematography - Best Cinematography,Mandy Walker - Elvis,0.015100000000000002,0.1818,0.1667
+2023-02-21 07:40:25.749999,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Pittsburgh,0.015100000000000002,0.1818,0.1667
 2023-02-21 07:40:27.938629,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Jaren Jackson Jr. (MEM),0.014800000000000035,0.6226,0.6078
+2023-02-21 12:40:33.612494,League One - England - League One 2022/23 - Top Goalscorer,Josh Windass,0.0145,0.0244,0.0099
 2023-02-21 11:40:26.670549,College Basketball - American Athletic Tournament - American Athletic Tournament Winner,Cincinnati,0.014399999999999996,0.0769,0.0625
 2023-02-21 07:40:27.921480,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Luka Doncic (DAL),0.014099999999999994,0.0667,0.0526
 2023-02-21 08:40:33.338263,NCAA Football Specials - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Jordan Travis,0.013999999999999999,0.0909,0.0769
 2023-02-21 09:40:30.478231,MLB Futures - MLB 2023 National League West - National League West Winner,San Francisco Giants,0.013999999999999999,0.0909,0.0769
-2023-02-21 11:40:28.716146,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Jonathan David,0.013899999999999996,0.125,0.1111
 2023-02-21 10:40:39.616156,MLS - MLS 2023 - Eastern Conference Winner,New York Red Bulls,0.013899999999999996,0.125,0.1111
-2023-02-21 08:40:33.543137,95th Academy Awards - Best Film Editing - Best Film Editing,Everything Everywhere All At Once,0.013799999999999923,0.6364,0.6226
+2023-02-21 11:40:28.716146,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Jonathan David,0.013899999999999996,0.125,0.1111
 2023-02-21 07:40:27.927043,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Malcolm Brogdon (BOS),0.013799999999999923,0.6364,0.6226
+2023-02-21 08:40:33.543137,95th Academy Awards - Best Film Editing - Best Film Editing,Everything Everywhere All At Once,0.013799999999999923,0.6364,0.6226
 2023-02-21 11:40:29.185918,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Bournemouth,0.013600000000000001,0.3077,0.2941
 2023-02-21 11:40:29.160846,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,West Ham United,0.0131,0.0476,0.0345
 2023-02-21 10:40:37.010548,Boxing Lines - Subriel Matias vs Jeremias Nicolas Ponce - To Win the Bout,Subriel Matias,0.0129999999999999,0.8261,0.8131
 2023-02-21 08:40:33.571351,95th Academy Awards - Best Original Song - Best Original Song,Hold My Hand - Top Gun: Maverick,0.012899999999999995,0.1667,0.1538
 2023-02-21 09:40:30.941819,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Golden State Warriors,Over 42.5,0.012199999999999989,0.5,0.4878
-2023-02-21 00:40:29.771261,95th Academy Awards - Best Documentary Feature - Best Documentary Feature,Navalny,0.012199999999999989,0.5122,0.5
-2023-02-21 08:40:33.519131,95th Academy Awards - Best Cinematography - Best Cinematography,Florian Hoffmeister - Tár,0.011199999999999995,0.0588,0.0476
 2023-02-21 08:40:34.840879,College Basketball - Big Ten Regular Season Conference Winner - Big 10 Regular Season Winner,Northwestern,0.011199999999999995,0.0588,0.0476
+2023-02-21 12:40:33.612494,League One - England - League One 2022/23 - Top Goalscorer,Freddie Ladapo,0.011199999999999995,0.0588,0.0476
+2023-02-21 08:40:33.519131,95th Academy Awards - Best Cinematography - Best Cinematography,Florian Hoffmeister - Tár,0.011199999999999995,0.0588,0.0476
 2023-02-21 11:40:29.154719,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Crystal Palace,0.011099999999999999,0.1111,0.1
 2023-02-21 10:40:39.093245,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Oklahoma City Thunder,Over 38.5,0.010699999999999932,0.5455,0.5348
 2023-02-21 11:40:29.167152,Premier League Futures/Specials - English Premier League 2022/23 - Top 2 Finish,Manchester United,0.010399999999999993,0.2326,0.2222
-2023-02-21 10:40:39.490871,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,JB Bickerstaff,0.0102,0.0769,0.0667
 2023-02-21 10:40:37.737833,2023 Season - Team Winner - Outright,Smash,0.0102,0.0769,0.0667
+2023-02-21 10:40:39.490871,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,JB Bickerstaff,0.0102,0.0769,0.0667
+2023-02-21 12:40:33.612494,League One - England - League One 2022/23 - Top Goalscorer,Michael Smith,0.010100000000000001,0.0345,0.0244
 2023-02-21 08:40:33.543137,95th Academy Awards - Best Film Editing - Best Film Editing,Top Gun: Maverick,0.010099999999999998,0.4545,0.4444
 2023-02-21 08:40:33.495978,95th Academy Awards - Best Actor - Best Actor,Brendan Fraser - The Whale,-0.010099999999999998,0.5455,0.5556
 2023-02-21 11:40:29.167152,Premier League Futures/Specials - English Premier League 2022/23 - Top 2 Finish,Arsenal,-0.010199999999999987,0.9231,0.9333
@@ -88,8 +92,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-21 08:40:33.495978,95th Academy Awards - Best Actor - Best Actor,Colin Farrell - The Banshees of Inisherin,-0.010899999999999993,0.1429,0.1538
 2023-02-21 11:40:26.670549,College Basketball - American Athletic Tournament - American Athletic Tournament Winner,Memphis,-0.010899999999999993,0.1429,0.1538
 2023-02-21 10:40:39.093245,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Oklahoma City Thunder,Under 38.5,-0.01100000000000001,0.5238,0.5348
-2023-02-21 06:40:34.518536,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Indiana,-0.011199999999999995,0.0323,0.0435
 2023-02-21 08:40:33.599679,95th Academy Awards - Best Visual Effects - Best Visual Effects,All Quiet On The Western Front,-0.011199999999999995,0.0476,0.0588
+2023-02-21 06:40:34.518536,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Indiana,-0.011199999999999995,0.0323,0.0435
 2023-02-21 08:40:33.537526,95th Academy Awards - Best Documentary Feature - Best Documentary Feature,All The Beauty And Bloodshed,-0.01150000000000001,0.3333,0.3448
 2023-02-21 08:40:33.524933,95th Academy Awards - Best Costume Design - Best Costume Design,Ruth Carter - Black Panther: Wakanda Forever,-0.0116,0.4762,0.4878
 2023-02-21 07:40:25.749999,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Miami (FL),-0.011699999999999988,0.274,0.2857
@@ -108,23 +112,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-21 08:40:33.571351,95th Academy Awards - Best Original Song - Best Original Song,Lift Me Up - Black Panther: Wakanda Forever,-0.016699999999999993,0.25,0.2667
 2023-02-21 08:40:33.588342,95th Academy Awards - Best Supporting Actor - Best Supporting Actor,Ke Huy Quan - Everything Everywhere All at Once,-0.016799999999999926,0.9091,0.9259
 2023-02-21 10:40:37.737833,2023 Season - Team Winner - Outright,Crushers,-0.0179,0.125,0.1429
-2023-02-20 23:40:30.735396,La Liga - Spain La Liga 2022/23 - Winner,Real Madrid,-0.0179,0.125,0.1429
+2023-02-21 12:40:33.612494,League One - England - League One 2022/23 - Top Goalscorer,Aaron Collins,-0.0179,0.125,0.1429
 2023-02-21 08:40:33.507583,95th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,Glass Onion: A Knives Out Mystery,-0.018099999999999998,0.0588,0.0769
 2023-02-21 11:40:28.710332,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Rennes,-0.018099999999999998,0.0588,0.0769
 2023-02-21 11:40:28.716146,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Folarin Balogun,-0.01820000000000002,0.1818,0.2
 2023-02-21 11:40:26.670549,College Basketball - American Athletic Tournament - American Athletic Tournament Winner,Temple,-0.0189,0.0196,0.0385
+2023-02-21 12:40:33.612494,League One - England - League One 2022/23 - Top Goalscorer,Jonson Clarke-Harris,-0.018900000000000028,0.4255,0.4444
 2023-02-21 11:40:28.710332,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Lens,-0.019000000000000017,0.2667,0.2857
 2023-02-21 08:40:34.846263,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Boise State,-0.019000000000000017,0.2667,0.2857
 2023-02-21 11:40:28.716146,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Breel Embolo,-0.019099999999999992,0.0476,0.0667
 2023-02-21 08:40:33.346885,CFL - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Montreal Alouettes,-0.02020000000000001,0.0909,0.1111
 2023-02-21 10:40:39.490871,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Jacque Vaughn,-0.02020000000000001,0.0909,0.1111
-2023-02-20 23:40:30.902844,Superligaen - Denmark Superligaen 2022/23 - Outright,Viborg FF,-0.02020000000000001,0.0909,0.1111
 2023-02-21 10:40:39.119062,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - San Antonio Spurs,Over 20.5,-0.02169999999999994,0.5238,0.5455
 2023-02-21 07:40:25.711973,Scottish Politics - Next First Minister - Next First Minister After Nicola Sturgeon,Kate Forbes,-0.021999999999999964,0.2857,0.3077
 2023-02-21 11:40:29.154719,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Nottingham Forest,-0.021999999999999964,0.2857,0.3077
 2023-02-21 08:40:33.582740,95th Academy Awards - Best Production Design - Best Production Design,Babylon,-0.02200000000000002,0.6923,0.7143
-2023-02-21 08:40:33.554564,95th Academy Awards - Best Live Action Short Film - Best Live Action Short Film,The Red Suitcase,-0.022199999999999998,0.2,0.2222
 2023-02-21 08:40:33.571351,95th Academy Awards - Best Original Song - Best Original Song,Naatu Naatu - RRR,-0.022199999999999998,0.7778,0.8
+2023-02-21 08:40:33.554564,95th Academy Awards - Best Live Action Short Film - Best Live Action Short Film,The Red Suitcase,-0.022199999999999998,0.2,0.2222
 2023-02-21 08:40:33.599679,95th Academy Awards - Best Visual Effects - Best Visual Effects,Black Panther: Wakanda Forever,-0.02310000000000001,0.0769,0.1
 2023-02-21 11:40:29.141925,Premier League Futures/Specials - English Premier League 2022/23 - Winner without Man City & Liverpool,Newcastle United,-0.023200000000000002,0.0244,0.0476
 2023-02-21 08:40:33.565780,95th Academy Awards - Best Original Screenplay - Best Original Screenplay,TÁR - Todd Field,-0.024299999999999995,0.0526,0.0769
@@ -132,11 +136,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-21 08:40:33.593931,95th Academy Awards - Best Supporting Actress - Best Supporting Actress ,Kerry Condon - The Banshees of Inisherin,-0.02560000000000001,0.3077,0.3333
 2023-02-21 08:40:33.537526,95th Academy Awards - Best Documentary Feature - Best Documentary Feature,Fire Of Love,-0.02779999999999999,0.2222,0.25
 2023-02-21 11:40:29.167152,Premier League Futures/Specials - English Premier League 2022/23 - Top 2 Finish,Newcastle United,-0.028000000000000004,0.0196,0.0476
-2023-02-20 23:40:30.727788,Serie A - Italy Serie A 2022/23 - Winner,Inter Milan,-0.028199999999999996,0.0385,0.0667
 2023-02-21 08:40:33.560195,95th Academy Awards - Best Original Score - Best Original Score,Justin Hurwitz - Babylon,-0.030299999999999994,0.6364,0.6667
 2023-02-21 11:40:28.728049,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Lyon,-0.0312,0.0123,0.0435
 2023-02-21 06:40:34.518536,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Baylor,-0.0321,0.0588,0.0909
-2023-02-21 00:40:29.771261,95th Academy Awards - Best Documentary Feature - Best Documentary Feature,All The Beauty And Bloodshed,-0.03260000000000002,0.3448,0.3774
 2023-02-21 10:40:37.737833,2023 Season - Team Winner - Outright,Ripper,-0.033300000000000024,0.1667,0.2
 2023-02-21 08:40:33.599679,95th Academy Awards - Best Visual Effects - Best Visual Effects,Top Gun: Maverick,-0.034100000000000005,0.0909,0.125
 2023-02-21 11:40:29.179710,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Fulham,-0.035300000000000005,0.0123,0.0476
