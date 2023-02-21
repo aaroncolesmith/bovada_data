@@ -1,16 +1,11 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2023-02-20 15:40:27.767414,Number 1 Seed - 2022/23 NBA - Western Conference No. 1 Seed,DEN Nuggets,0.38040000000000007,0.9804,0.6
 2023-02-20 22:40:28.118674,Scottish Politics - Next First Minister - Next First Minister After Nicola Sturgeon,Humza Yousaf,0.3143,0.7143,0.4
 2023-02-20 18:40:32.031949,Scottish Politics - Next First Minister - Next First Minister After Nicola Sturgeon,Kate Forbes,0.2667,0.6,0.3333
 2023-02-20 18:40:32.031949,Scottish Politics - Next First Minister - Next First Minister After Nicola Sturgeon,Humza Yousaf,0.23330000000000004,0.4,0.1667
 2023-02-20 19:40:30.546553,43rd Golden Raspberry Awards - Worst Picture - Razzies: Worst Picture,Blonde,0.19230000000000003,0.5,0.3077
-2023-02-20 15:40:27.428380,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Virginia Commonwealth,0.1503,0.7059,0.5556
 2023-02-20 18:40:33.970847,Survivor - Odds to win Survivor Season 44  - Survivor Season 44,Yamil 'Yam Yam' Arocho,0.12380000000000002,0.5238,0.4
-2023-02-20 15:40:27.434967,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Kansas,0.11109999999999998,0.6667,0.5556
 2023-02-20 18:40:33.813641,Big Brother Brazil - Big Brother Brazil 2023 - Next Elimination,Cristian,0.10150000000000003,0.4348,0.3333
-2023-02-20 15:40:27.447706,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Boise State,0.0952,0.2857,0.1905
 2023-02-20 22:40:28.118674,Scottish Politics - Next First Minister - Next First Minister After Nicola Sturgeon,Ash Regan,0.06669999999999998,0.1667,0.1
-2023-02-20 15:40:28.215240,Big Brother Brazil - Big Brother Brazil 2023 - Next Elimination,Cristian,0.06659999999999999,0.3333,0.2667
 2023-02-20 17:40:31.079727,NFL Specials - 2023 NFL Combine - 2023  NFL Combine - Fastest 40 Yard Dash Time,Faster than 4.29 seconds,0.061999999999999944,0.6364,0.5744
 2023-02-20 16:40:34.249597,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Russell Westbrook (LAL),0.0524,0.1,0.0476
 2023-02-20 18:40:32.885336,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Kansas,0.04760000000000009,0.7143,0.6667
@@ -19,17 +14,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-20 22:40:28.080449,US Presidential Election 2024 - US Presidential Election 2024 -Democratic Vice Presidential Candidate - Democrat VP,Kamala Harris,0.037800000000000056,0.5833,0.5455
 2023-02-20 18:40:33.739069,95th Academy Awards - Best Documentary Feature - Best Documentary Feature,Navalny,0.03489999999999999,0.5,0.4651
 2023-02-20 18:40:33.732651,95th Academy Awards - Best Director - Best Director,Daniel Kwan and Daniel Scheinert - Everything Everywhere All At Once,0.03420000000000001,0.9231,0.8889
-2023-02-20 15:40:27.767414,Number 1 Seed - 2022/23 NBA - Western Conference No. 1 Seed,PHO Suns,0.0335,0.0385,0.005
 2023-02-20 18:40:33.771937,95th Academy Awards - Best Production Design - Best Production Design,Elvis,0.031399999999999983,0.2667,0.2353
 2023-02-20 18:40:32.031949,Scottish Politics - Next First Minister - Next First Minister After Nicola Sturgeon,Mhairi Black,0.029299999999999993,0.0769,0.0476
 2023-02-20 19:40:31.420803,MLB Futures - MLB 2023 American League Central - American League Central Winner,Chicago White Sox,0.025499999999999967,0.4255,0.4
-2023-02-20 18:40:33.765330,95th Academy Awards - Best Picture - Best Picture,All Quiet On The Western Front,0.024999999999999994,0.125,0.1
 2023-02-20 18:40:33.716545,95th Academy Awards - Best Cinematography - Best Cinematography,Roger Deakins - Empire Of Light,0.024999999999999994,0.125,0.1
+2023-02-20 18:40:33.765330,95th Academy Awards - Best Picture - Best Picture,All Quiet On The Western Front,0.024999999999999994,0.125,0.1
 2023-02-20 18:40:33.726088,95th Academy Awards - Best Costume Design - Best Costume Design,Catherine Martin - Elvis,0.023799999999999988,0.5,0.4762
-2023-02-20 21:40:30.545259,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Virginia,0.023799999999999932,0.6667,0.6429
 2023-02-20 19:40:31.434220,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,0.023799999999999932,0.6667,0.6429
+2023-02-20 21:40:30.545259,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Virginia,0.023799999999999932,0.6667,0.6429
 2023-02-20 23:40:28.662306,95th Academy Awards - Best Actress - Best Actress,Cate Blanchett - TÁR,0.022499999999999964,0.7368,0.7143
-2023-02-20 14:40:35.531680,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Oklahoma,0.020000000000000004,0.0323,0.0123
 2023-02-20 17:40:31.134409,NFL Specials - 2023 NFL Combine - 2023  NFL Combine - Rich Eisen’s 40 time,Slower than 6.03 seconds,0.01970000000000005,0.5652,0.5455
 2023-02-20 18:40:32.335721,MLB Regular Season Props - MLB 2023 Regular Season Props - Miami Marlins Regular Season Win Total,Over 75.5,0.01970000000000005,0.5652,0.5455
 2023-02-20 18:40:33.732651,95th Academy Awards - Best Director - Best Director,Martin McDonagh - The Banshees of Inisherin,0.019099999999999992,0.0667,0.0476
@@ -40,7 +33,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-20 18:40:33.697076,95th Academy Awards - Best Actress - Best Actress,Andrea Riseborough - To Leslie,0.014399999999999996,0.0769,0.0625
 2023-02-20 18:40:33.778350,95th Academy Awards - Best Supporting Actor - Best Supporting Actor,Barry Keoghan - The Banshees of Inisherin,0.013899999999999996,0.125,0.1111
 2023-02-20 18:40:33.808784,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Amanda,0.013800000000000034,0.3774,0.3636
-2023-02-20 15:40:27.460212,College Basketball - SEC Regular Season Conference Winner - SEC Regular Season Winner,Texas A&M,0.012899999999999995,0.1667,0.1538
 2023-02-21 00:40:29.771261,95th Academy Awards - Best Documentary Feature - Best Documentary Feature,Navalny,0.012199999999999989,0.5122,0.5
 2023-02-20 17:40:31.084554,NFL Specials - 2023 NFL Combine - 2023  NFL Combine - Fastest 40 Yard Dash Time to break Jon Ross Combine Record,Yes (Faster than 4.22 seconds),0.011899999999999994,0.16,0.1481
 2023-02-20 22:40:28.118674,Scottish Politics - Next First Minister - Next First Minister After Nicola Sturgeon,Joanna Cherry,0.011199999999999995,0.0588,0.0476
@@ -48,62 +40,43 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-20 18:40:33.739069,95th Academy Awards - Best Documentary Feature - Best Documentary Feature,All That Breathes,0.0102,0.0769,0.0667
 2023-02-20 18:40:33.690647,95th Academy Awards - Best Actor - Best Actor,Austin Butler - Elvis,-0.010099999999999998,0.4444,0.4545
 2023-02-20 18:40:33.751867,95th Academy Awards - Best International Feature Film - Best International Feature Film,EO,-0.0102,0.0667,0.0769
-2023-02-20 14:40:35.531680,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Texas Tech,-0.010300000000000002,0.0141,0.0244
-2023-02-20 18:40:33.778350,95th Academy Awards - Best Supporting Actor - Best Supporting Actor,Judd Hirsch - The Fabelmans,-0.010700000000000001,0.0278,0.0385
 2023-02-20 18:40:33.778350,95th Academy Awards - Best Supporting Actor - Best Supporting Actor,Brian Tyree Henry - Causeway,-0.010700000000000001,0.0278,0.0385
+2023-02-20 18:40:33.778350,95th Academy Awards - Best Supporting Actor - Best Supporting Actor,Judd Hirsch - The Fabelmans,-0.010700000000000001,0.0278,0.0385
 2023-02-20 18:40:33.716545,95th Academy Awards - Best Cinematography - Best Cinematography,Florian Hoffmeister - Tár,-0.011199999999999995,0.0476,0.0588
 2023-02-20 18:40:32.885336,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Kansas State,-0.011200000000000002,0.0132,0.0244
-2023-02-20 15:40:27.767414,Number 1 Seed - 2022/23 NBA - Western Conference No. 1 Seed,GS Warriors,-0.011300000000000001,0.001,0.0123
 2023-02-20 17:40:31.084554,NFL Specials - 2023 NFL Combine - 2023  NFL Combine - Fastest 40 Yard Dash Time to break Jon Ross Combine Record,No (Slower than 4.22 seconds),-0.011699999999999933,0.905,0.9167
 2023-02-20 18:40:33.726088,95th Academy Awards - Best Costume Design - Best Costume Design,Ruth Carter - Black Panther: Wakanda Forever,-0.012199999999999989,0.4878,0.5
-2023-02-20 15:40:27.441398,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Marquette,-0.012299999999999978,0.6429,0.6552
 2023-02-20 18:40:33.697076,95th Academy Awards - Best Actress - Best Actress,Ana de Armas - Blonde,-0.012700000000000003,0.0196,0.0323
 2023-02-20 18:40:33.690647,95th Academy Awards - Best Actor - Best Actor,Colin Farrell - The Banshees of Inisherin,-0.012899999999999995,0.1538,0.1667
-2023-02-20 14:40:35.531680,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,LSU,-0.0145,0.0099,0.0244
-2023-02-20 15:40:27.420495,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Pittsburgh,-0.015100000000000002,0.1667,0.1818
-2023-02-20 14:40:35.531680,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to Make Final 4,Utah U,-0.015499999999999998,0.0123,0.0278
 2023-02-20 18:40:33.751867,95th Academy Awards - Best International Feature Film - Best International Feature Film,All Quiet On The Western Front,-0.015699999999999936,0.9524,0.9681
 2023-02-20 18:40:33.765330,95th Academy Awards - Best Picture - Best Picture,Everything Everywhere All At Once,-0.016700000000000048,0.7333,0.75
-2023-02-20 15:40:27.434967,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Baylor,-0.0179,0.125,0.1429
-2023-02-20 18:40:33.771937,95th Academy Awards - Best Production Design - Best Production Design,Avatar: The Way Of Water,-0.0179,0.125,0.1429
 2023-02-20 23:40:30.735396,La Liga - Spain La Liga 2022/23 - Winner,Real Madrid,-0.0179,0.125,0.1429
+2023-02-20 18:40:33.771937,95th Academy Awards - Best Production Design - Best Production Design,Avatar: The Way Of Water,-0.0179,0.125,0.1429
 2023-02-20 18:40:33.765330,95th Academy Awards - Best Picture - Best Picture,The Fabelmans,-0.018099999999999998,0.0588,0.0769
 2023-02-20 18:40:33.758338,95th Academy Awards - Best Live Action Short Film - Best Live Action Short Film,The Red Suitcase,-0.018799999999999983,0.2222,0.241
-2023-02-20 15:40:27.434967,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Iowa State,-0.0189,0.0196,0.0385
 2023-02-20 18:40:33.751867,95th Academy Awards - Best International Feature Film - Best International Feature Film,The Quiet Girl,-0.02020000000000001,0.0909,0.1111
 2023-02-20 23:40:30.902844,Superligaen - Denmark Superligaen 2022/23 - Outright,Viborg FF,-0.02020000000000001,0.0909,0.1111
-2023-02-20 15:40:27.428380,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Saint Louis,-0.02049999999999999,0.1333,0.1538
-2023-02-20 17:40:31.134409,NFL Specials - 2023 NFL Combine - 2023  NFL Combine - Rich Eisen’s 40 time,Faster than 6.03 seconds,-0.02169999999999994,0.5238,0.5455
 2023-02-20 18:40:32.335721,MLB Regular Season Props - MLB 2023 Regular Season Props - Miami Marlins Regular Season Win Total,Under 75.5,-0.02169999999999994,0.5238,0.5455
-2023-02-20 15:40:27.441398,College Basketball - Big East Regular Season Conference Winner - Big East Regular Season Winner,Creighton,-0.021999999999999964,0.2857,0.3077
+2023-02-20 17:40:31.134409,NFL Specials - 2023 NFL Combine - 2023  NFL Combine - Rich Eisen’s 40 time,Faster than 6.03 seconds,-0.02169999999999994,0.5238,0.5455
 2023-02-20 16:40:34.249597,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Tyrese Maxey (PHI),-0.022199999999999998,0.2,0.2222
-2023-02-20 15:40:27.447706,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Nevada,-0.0225,0.04,0.0625
-2023-02-20 15:40:27.420495,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Virginia,-0.023799999999999932,0.6429,0.6667
-2023-02-20 18:40:33.784809,95th Academy Awards - Best Supporting Actress - Best Supporting Actress ,Kerry Condon - The Banshees of Inisherin,-0.023799999999999988,0.3333,0.3571
 2023-02-20 18:40:33.765330,95th Academy Awards - Best Picture - Best Picture,The Banshees of Inisherin,-0.023799999999999988,0.1429,0.1667
+2023-02-20 18:40:33.784809,95th Academy Awards - Best Supporting Actress - Best Supporting Actress ,Kerry Condon - The Banshees of Inisherin,-0.023799999999999988,0.3333,0.3571
 2023-02-20 18:40:32.031949,Scottish Politics - Next First Minister - Next First Minister After Nicola Sturgeon,Keith Brown,-0.0242,0.0667,0.0909
 2023-02-20 18:40:33.784809,95th Academy Awards - Best Supporting Actress - Best Supporting Actress ,Angela Bassett - Black Panther: Wakanda Forever,-0.027800000000000047,0.75,0.7778
 2023-02-20 23:40:30.727788,Serie A - Italy Serie A 2022/23 - Winner,Inter Milan,-0.028199999999999996,0.0385,0.0667
 2023-02-20 18:40:33.726088,95th Academy Awards - Best Costume Design - Best Costume Design,Shirley Kurata - Everything Everywhere All At Once,-0.028799999999999992,0.125,0.1538
 2023-02-21 00:40:29.771261,95th Academy Awards - Best Documentary Feature - Best Documentary Feature,All The Beauty And Bloodshed,-0.03260000000000002,0.3448,0.3774
-2023-02-20 15:40:27.767414,Number 1 Seed - 2022/23 NBA - Western Conference No. 1 Seed,DAL Mavericks,-0.0335,0.005,0.0385
 2023-02-20 18:40:32.885336,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Baylor,-0.034100000000000005,0.0909,0.125
 2023-02-20 19:40:30.546553,43rd Golden Raspberry Awards - Worst Picture - Razzies: Worst Picture,The King's Daughter,-0.03420000000000001,0.0769,0.1111
-2023-02-20 15:40:27.434967,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Texas,-0.03640000000000004,0.3636,0.4
 2023-02-20 18:40:32.031949,Scottish Politics - Next First Minister - Next First Minister After Nicola Sturgeon,John Swinney,-0.0384,0.0385,0.0769
-2023-02-20 15:40:27.447706,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,San Diego State,-0.03869999999999996,0.7874,0.8261
 2023-02-20 18:40:33.732651,95th Academy Awards - Best Director - Best Director,Steven Spielberg - The Fabelmans,-0.03889999999999999,0.1429,0.1818
 2023-02-20 18:40:33.739069,95th Academy Awards - Best Documentary Feature - Best Documentary Feature,All The Beauty And Bloodshed,-0.0393,0.3774,0.4167
 2023-02-20 18:40:33.970847,Survivor - Odds to win Survivor Season 44  - Survivor Season 44,Carson Garrett,-0.04099999999999998,0.2667,0.3077
-2023-02-20 15:40:27.767414,Number 1 Seed - 2022/23 NBA - Western Conference No. 1 Seed,NO Pelicans,-0.0466,0.001,0.0476
 2023-02-20 19:40:30.546553,43rd Golden Raspberry Awards - Worst Picture - Razzies: Worst Picture,Pinocchio,-0.052000000000000005,0.0909,0.1429
 2023-02-20 18:40:33.813641,Big Brother Brazil - Big Brother Brazil 2023 - Next Elimination,Fred C,-0.05559999999999998,0.1111,0.1667
-2023-02-20 15:40:28.215240,Big Brother Brazil - Big Brother Brazil 2023 - Next Elimination,Ricardo Carmargo,-0.05709999999999993,0.8,0.8571
 2023-02-20 18:40:32.885336,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Texas,-0.07789999999999997,0.2857,0.3636
 2023-02-20 19:40:30.546553,43rd Golden Raspberry Awards - Worst Picture - Razzies: Worst Picture,Morbius,-0.0805999999999999,0.5348,0.6154
 2023-02-20 17:40:31.079727,NFL Specials - 2023 NFL Combine - 2023  NFL Combine - Fastest 40 Yard Dash Time,Slower than 4.29 seconds,-0.0867,0.4255,0.5122
-2023-02-20 15:40:27.428380,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Dayton,-0.1587,0.2857,0.4444
 2023-02-20 18:40:33.813641,Big Brother Brazil - Big Brother Brazil 2023 - Next Elimination,Ricardo Carmargo,-0.16360000000000008,0.6364,0.8
 2023-02-20 22:40:28.118674,Scottish Politics - Next First Minister - Next First Minister After Nicola Sturgeon,Kate Forbes,-0.2923,0.3077,0.6
-2023-02-20 15:40:27.767414,Number 1 Seed - 2022/23 NBA - Western Conference No. 1 Seed,MEM Grizzlies,-0.35450000000000004,0.1,0.4545
 2023-02-20 18:40:32.031949,Scottish Politics - Next First Minister - Next First Minister After Nicola Sturgeon,Angus Robertson,-0.41600000000000004,0.0385,0.4545
