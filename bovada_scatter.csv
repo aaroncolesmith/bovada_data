@@ -12,7 +12,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-22 11:40:33.756526,League One - England - League One 2022/23 - To Be Relegated,Milton Keynes Dons,0.07619999999999999,0.4762,0.4
 2023-02-22 11:40:33.826671,League Two - England - League Two 2022/23 - Top 3 Finish,Stockport County,0.07450000000000001,0.5,0.4255
 2023-02-22 11:40:30.827170,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Virginia Commonwealth,0.07140000000000002,0.7143,0.6429
+2023-02-22 15:40:32.855228,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Chicago Bulls,0.06659999999999999,0.3333,0.2667
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February","Manchester City, Inter Milan and RB Leipzig to concede 3 or less goals combined",0.06520000000000004,0.5652,0.5
+2023-02-22 14:40:34.144354,College Basketball - SEC Regular Season Conference Winner - SEC Regular Season Winner,Texas A&M,0.060600000000000015,0.2273,0.1667
 2023-02-22 11:40:33.583363,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Bayern Munich,0.05980000000000002,0.4444,0.3846
 2023-02-22 09:40:30.372283,43rd Golden Raspberry Awards - Worst Actress - Razzies: Worst Actress,Kaya Scodelario (The King's Daughter),0.05559999999999998,0.5556,0.5
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",Under 5.5 goals scored,0.05520000000000003,0.6296,0.5744
@@ -29,24 +31,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-22 11:40:33.756526,League One - England - League One 2022/23 - To Be Relegated,Forest Green Rovers,0.03920000000000001,0.9804,0.9412
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February","Manchester City, Inter Milan and RB Leipzig to have 13 or more combined shots on target",0.037900000000000045,0.6296,0.5917
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",Under 4.5 goals scored,0.0378,0.4545,0.4167
+2023-02-22 15:40:32.861257,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Oklahoma City Thunder,0.03710000000000002,0.3448,0.3077
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",10+ corners taken in 1+ matches,0.035699999999999954,0.75,0.7143
-2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",A total of 17 or more shots on target,0.03480000000000005,0.5348,0.5
 2023-02-22 09:40:30.378151,43rd Golden Raspberry Awards - Worst Picture - Razzies: Worst Picture,Blonde,0.03480000000000005,0.5348,0.5
+2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",A total of 17 or more shots on target,0.03480000000000005,0.5348,0.5
 2023-02-22 11:40:33.548495,Championship - England Championship 2022/23 - Top 6 Finish,Watford,0.0348,0.4348,0.4
 2023-02-22 11:40:33.535294,Championship - England Championship 2022/23 - To Be Promoted,Norwich City,0.033300000000000024,0.2,0.1667
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",Each team to take 4+ corners in 1+ matches,0.033299999999999996,0.8333,0.8
 2023-02-22 09:40:30.151292,95th Academy Awards - Best Makeup & Hairstyling - Best Makeup & Hairstyling,Elvis,0.033299999999999996,0.5455,0.5122
 2023-02-22 09:40:31.302092,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Giannis Antetokounmpo (MIL),0.031799999999999995,0.1429,0.1111
-2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February","Manchester City, Inter Milan and RB Leipzig to concede 1 or less goals combined",0.031,0.1739,0.1429
 2023-02-22 11:40:33.596828,UEFA Champions League - UEFA Champions League 2022/2023 - Nationality of Winner,Italy,0.031,0.1739,0.1429
+2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February","Manchester City, Inter Milan and RB Leipzig to concede 1 or less goals combined",0.031,0.1739,0.1429
 2023-02-22 09:40:30.365905,43rd Golden Raspberry Awards - Worst Actor - Razzies: Worst Actor,Machine Gun Kelly (Good Mourning),0.030399999999999983,0.5652,0.5348
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February","Manchester City, Inter Milan and RB Leipzig to have 16 or more combined shots on target",0.030299999999999994,0.3636,0.3333
+2023-02-22 14:40:34.112868,College Basketball - 2023 NCAA DI Men's Basketball Tournament - To Make The Final 4,Houston,0.030299999999999994,0.4651,0.4348
 2023-02-22 11:40:33.834272,League Two - England - League Two 2022/23 - Top 7 Finish,Stockport County,0.02839999999999998,0.9375,0.9091
 2023-02-22 14:40:34.873518,The Honda Classic - 2/3 Balls - 1st Round 3 Balls - W. McGirt / P. Malnati / T. Detry - 1st Round 3 Balls,William McGirt,0.02779999999999999,0.25,0.2222
 2023-02-22 09:40:30.114338,95th Academy Awards - Best Documentary Feature - Best Documentary Feature,Fire Of Love,0.02779999999999999,0.25,0.2222
 2023-02-22 09:40:31.322875,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Shai Gilgeous-Alexander (OKC),0.027700000000000002,0.4444,0.4167
-2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February","Manchester City, Inter Milan and RB Leipzig each to take 2 or more corners in each half",0.02560000000000001,0.3333,0.3077
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",Away teams to score 1 or less goals,0.02560000000000001,0.3333,0.3077
+2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February","Manchester City, Inter Milan and RB Leipzig each to take 2 or more corners in each half",0.02560000000000001,0.3333,0.3077
 2023-02-22 11:40:33.576854,UEFA Champions League - UEFA Champions League 2022/2023 - Top Goalscorer,Erling Braut Haaland (Man City),0.025499999999999967,0.4255,0.4
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February","Manchester City, Inter Milan and RB Leipzig to score 2 or less goals combined",0.024800000000000016,0.2353,0.2105
 2023-02-22 11:40:30.833213,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Texas,0.024800000000000016,0.2353,0.2105
@@ -55,10 +59,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",Total of 19 or more corners taken,0.022600000000000064,0.5348,0.5122
 2023-02-22 09:40:31.307217,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Tyrese Maxey (PHI),0.022199999999999998,0.2222,0.2
 2023-02-22 11:40:33.813586,League Two - England - League Two 2022/23 - To Be Relegated,Hartlepool United,0.02200000000000002,0.7143,0.6923
-2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",Total of 22 or more corners taken,0.021999999999999964,0.3077,0.2857
-2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",Inter Milan to score more goals than any other team,0.021999999999999964,0.3077,0.2857
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",A total of 17 or more shots on target and 19 or more corners taken,0.021999999999999964,0.3077,0.2857
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",A total of 20 or more shots on target,0.021999999999999964,0.3077,0.2857
+2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",Inter Milan to score more goals than any other team,0.021999999999999964,0.3077,0.2857
+2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",Total of 22 or more corners taken,0.021999999999999964,0.3077,0.2857
 2023-02-22 11:40:33.548495,Championship - England Championship 2022/23 - Top 6 Finish,Luton Town,0.021699999999999997,0.4762,0.4545
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",RB Leipzig to score more goals than FC Porto,0.021699999999999997,0.4762,0.4545
 2023-02-22 14:40:35.052032,Round Match-Ups - 1st Round Match-Ups - A. Rai vs J. Suh - 1st Round Match-Ups,Aaron Rai,0.02169999999999994,0.5455,0.5238
@@ -66,27 +70,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February","Manchester City, Inter Milan and RB Leipzig to have 19 or more combined shots on target",0.02049999999999999,0.1538,0.1333
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",Under 2.5 goals scored,0.02049999999999999,0.1538,0.1333
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",Each match to have 3 or more corners taken in each half,0.01970000000000005,0.5652,0.5455
+2023-02-22 14:40:34.112868,College Basketball - 2023 NCAA DI Men's Basketball Tournament - To Make The Final 4,UCLA,0.019000000000000017,0.2857,0.2667
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",Each match to have 4 or more corners taken in each half,0.019000000000000017,0.2857,0.2667
 2023-02-22 09:40:30.392023,Screen Actors Guild Awards - Outstanding Performance By A Cast In A Motion Picture - Cast In A Motion Picture,Everything Everywhere All At Once,0.018999999999999906,0.7333,0.7143
 2023-02-22 14:40:34.051607,Boxing Lines - Ilunga Makabu vs Badou Jack - To Win the Bout,Ilunga Makabu,0.01880000000000004,0.6552,0.6364
-2023-02-22 03:40:30.484965,Tournament Match-Ups - Tournament Match-Ups - J.T. Poston vs H. English - Tournament Match-Ups,JT Poston,0.018100000000000005,0.5833,0.5652
+2023-02-22 15:40:33.185622,Team Seeding - 2022/23 - CHI Bulls,Under 11.5,0.01880000000000004,0.5744,0.5556
+2023-02-22 14:40:34.133613,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,San Diego State,0.018199999999999994,0.8077,0.7895
 2023-02-22 14:40:34.112868,College Basketball - 2023 NCAA DI Men's Basketball Tournament - To Make The Final 4,Purdue,0.017600000000000005,0.3509,0.3333
 2023-02-22 09:40:31.322875,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Jalen Brunson (NYK),0.0174,0.25,0.2326
 2023-02-22 11:40:33.826671,League Two - England - League Two 2022/23 - Top 3 Finish,Sutton Utd,0.0168,0.0196,0.0028
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February","Manchester City, Inter Milan and RB Leipzig to score 1 or less goals combined",0.016700000000000007,0.1,0.0833
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",Inter Milan to score more goals than Manchester City,0.016699999999999993,0.4167,0.4
+2023-02-22 15:40:32.855228,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Indiana Pacers,0.016699999999999993,0.2667,0.25
 2023-02-22 13:40:31.639605,Tournament Match-Ups - Tournament Match-Ups - J.T. Poston vs H. English - Tournament Match-Ups,JT Poston,0.016699999999999937,0.6,0.5833
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",Total of 25 or more corners taken,0.015700000000000006,0.1333,0.1176
 2023-02-22 11:40:33.535294,Championship - England Championship 2022/23 - To Be Promoted,Millwall,0.015100000000000002,0.1818,0.1667
 2023-02-22 11:40:30.833213,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Kansas,0.015100000000000002,0.8333,0.8182
-2023-02-22 09:40:30.227896,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Aline Wirley,0.014899999999999997,0.0625,0.0476
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",Under 1.5 goals scored,0.014899999999999997,0.0625,0.0476
+2023-02-22 09:40:30.227896,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Aline Wirley,0.014899999999999997,0.0625,0.0476
 2023-02-22 09:40:29.891700,Boxing Lines - Brandon Figueroa vs Mark Magsayo - To Win the Bout,Brandon Figueroa,0.014700000000000046,0.7647,0.75
+2023-02-22 14:40:34.128695,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Texas,0.01469999999999999,0.25,0.2353
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",10+ corners taken in each match,0.01469999999999999,0.25,0.2353
 2023-02-22 11:40:33.528864,Championship - England Championship 2022/23 - Top Goalscorer,Tom Bradshaw,0.0145,0.0244,0.0099
 2023-02-22 11:40:33.590544,UEFA Champions League - UEFA Champions League 2022/2023 - Furthest Progressing EPL Team,Tottenham,0.013999999999999999,0.0909,0.0769
 2023-02-22 04:40:38.301913,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Napoli,0.013899999999999996,0.125,0.1111
-2023-02-22 03:40:30.671093,Tournament Match-Ups - Tournament Match-Up - M. Pereira vs B. Koepka - Tournament Match-Up,Mito Pereira,0.013799999999999923,0.6364,0.6226
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",Total of 12 or more cards,0.011700000000000016,0.2222,0.2105
 2023-02-22 09:40:30.178609,95th Academy Awards - Best Picture - Best Picture,Top Gun: Maverick,0.011099999999999999,0.1111,0.1
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",10+ corners in 1+ matches; 5+ cards in 1+ matches,0.01100000000000001,0.5348,0.5238
@@ -97,24 +104,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",8 or more goals in at least 1 match,-0.010600000000000002,0.0217,0.0323
 2023-02-22 09:40:30.227896,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Ricardo Camargo,-0.010700000000000001,0.0278,0.0385
 2023-02-22 09:40:30.151292,95th Academy Awards - Best Makeup & Hairstyling - Best Makeup & Hairstyling,The Whale,-0.01100000000000001,0.5238,0.5348
-2023-02-22 09:40:30.178609,95th Academy Awards - Best Picture - Best Picture,Everything Everywhere All At Once,-0.011099999999999999,0.7222,0.7333
-2023-02-22 09:40:30.365905,43rd Golden Raspberry Awards - Worst Actor - Razzies: Worst Actor,Pete Davidson (Marmaduke),-0.011099999999999999,0.1,0.1111
-2023-02-22 03:40:30.484965,Tournament Match-Ups - Tournament Match-Ups - J.T. Poston vs H. English - Tournament Match-Ups,Harris English,-0.011099999999999999,0.4651,0.4762
-2023-02-22 09:40:30.365905,43rd Golden Raspberry Awards - Worst Actor - Razzies: Worst Actor,Tom Hanks (Pinocchio),-0.011099999999999999,0.1,0.1111
 2023-02-22 09:40:30.365905,43rd Golden Raspberry Awards - Worst Actor - Razzies: Worst Actor,Sylvester Stallone (Samaritan),-0.011099999999999999,0.1,0.1111
+2023-02-22 09:40:30.365905,43rd Golden Raspberry Awards - Worst Actor - Razzies: Worst Actor,Tom Hanks (Pinocchio),-0.011099999999999999,0.1,0.1111
+2023-02-22 09:40:30.365905,43rd Golden Raspberry Awards - Worst Actor - Razzies: Worst Actor,Pete Davidson (Marmaduke),-0.011099999999999999,0.1,0.1111
+2023-02-22 09:40:30.178609,95th Academy Awards - Best Picture - Best Picture,Everything Everywhere All At Once,-0.011099999999999999,0.7222,0.7333
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",11 or more goals scored,-0.011199999999999995,0.0323,0.0435
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",2 or more goals scored before 15:00,-0.011700000000000016,0.2105,0.2222
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February","Manchester City, Inter Milan and RB Leipzig to score 5 or more combined 1st half goals",-0.011899999999999994,0.0714,0.0833
 2023-02-22 11:40:33.820087,League Two - England - League Two 2022/23 - To Finish Bottom,Crewe Alexandra,-0.013,0.0066,0.0196
-2023-02-22 11:40:33.813586,League Two - England - League Two 2022/23 - To Be Relegated,Harrogate Town,-0.013899999999999996,0.1111,0.125
 2023-02-22 11:40:33.743704,League One - England - League One 2022/23 - Top Goalscorer,Dion Charles,-0.013899999999999996,0.1111,0.125
+2023-02-22 11:40:33.813586,League Two - England - League Two 2022/23 - To Be Relegated,Harrogate Town,-0.013899999999999996,0.1111,0.125
 2023-02-22 09:40:30.378151,43rd Golden Raspberry Awards - Worst Picture - Razzies: Worst Picture,Pinocchio,-0.013999999999999999,0.0769,0.0909
-2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",Any player to score a Hat Trick,-0.013999999999999999,0.0769,0.0909
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",Home teams to score 6 or more goals,-0.013999999999999999,0.0769,0.0909
+2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",Any player to score a Hat Trick,-0.013999999999999999,0.0769,0.0909
 2023-02-22 11:40:33.528864,Championship - England Championship 2022/23 - Top Goalscorer,Ben Brereton Díaz,-0.014100000000000001,0.0385,0.0526
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",Each team to score a goal in 1+ matches; Each team to take 4+ corners in 1+ matches,-0.014200000000000101,0.6154,0.6296
-2023-02-22 11:40:30.803557,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Outright Winner,Alabama,-0.01440000000000001,0.0909,0.1053
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",Any team to score 5 or more goals,-0.01440000000000001,0.0909,0.1053
+2023-02-22 11:40:30.803557,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Outright Winner,Alabama,-0.01440000000000001,0.0909,0.1053
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",6 or more goals scored in 1st Half,-0.014899999999999997,0.0476,0.0625
 2023-02-22 11:40:33.826671,League Two - England - League Two 2022/23 - Top 3 Finish,Bradford City,-0.015100000000000002,0.1667,0.1818
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",RB Leipzig or FC Porto to score 3 or more goals,-0.015100000000000002,0.1667,0.1818
@@ -122,8 +128,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-22 09:40:30.114338,95th Academy Awards - Best Documentary Feature - Best Documentary Feature,All The Beauty And Bloodshed,-0.01579999999999998,0.3175,0.3333
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February","Manchester City, Inter Milan and RB Leipzig to score 9 or more goals combined",-0.01580000000000001,0.0556,0.0714
 2023-02-22 11:40:33.826671,League Two - England - League Two 2022/23 - Top 3 Finish,Northampton Town,-0.016699999999999993,0.25,0.2667
-2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",3+ goals in 1+ matches; 10+ corners in 1+ matches; 5+ cards in 1+ matches,-0.016699999999999993,0.4,0.4167
 2023-02-22 11:40:33.576854,UEFA Champions League - UEFA Champions League 2022/2023 - Top Goalscorer,Kylian Mbappe (PSG),-0.016699999999999993,0.25,0.2667
+2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",3+ goals in 1+ matches; 10+ corners in 1+ matches; 5+ cards in 1+ matches,-0.016699999999999993,0.4,0.4167
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",Manchester City or Inter Milan to score 5 or more goals,-0.016700000000000007,0.0833,0.1
 2023-02-22 11:40:33.756526,League One - England - League One 2022/23 - To Be Relegated,Cambridge United,-0.016700000000000048,0.7333,0.75
 2023-02-22 14:40:34.051607,Boxing Lines - Ilunga Makabu vs Badou Jack - To Win the Bout,Badou Jack,-0.017299999999999982,0.4082,0.4255
@@ -132,11 +138,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-22 11:40:33.528864,Championship - England Championship 2022/23 - Top Goalscorer,Teemu Pukki,-0.018200000000000004,0.0294,0.0476
 2023-02-22 11:40:33.797622,League Two - England - League Two 2022/23 - Top Goalscorer,Andy Cook,-0.01820000000000002,0.1818,0.2
 2023-02-22 09:40:30.372283,43rd Golden Raspberry Awards - Worst Actress - Razzies: Worst Actress,Bryce Dallas Howard (Jurassic World Dominion),-0.018799999999999983,0.3448,0.3636
-2023-02-22 03:40:30.671093,Tournament Match-Ups - Tournament Match-Up - M. Pereira vs B. Koepka - Tournament Match-Up,Brooks Koepka,-0.018900000000000028,0.4255,0.4444
-2023-02-22 11:40:33.756526,League One - England - League One 2022/23 - To Be Relegated,Morecambe,-0.018999999999999906,0.7143,0.7333
 2023-02-22 09:40:31.302092,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Nikola Jokic (DEN),-0.018999999999999906,0.7143,0.7333
-2023-02-22 11:40:33.826671,League Two - England - League Two 2022/23 - Top 3 Finish,Mansfield Town,-0.019000000000000017,0.2667,0.2857
+2023-02-22 11:40:33.756526,League One - England - League One 2022/23 - To Be Relegated,Morecambe,-0.018999999999999906,0.7143,0.7333
 2023-02-22 09:40:30.392023,Screen Actors Guild Awards - Outstanding Performance By A Cast In A Motion Picture - Cast In A Motion Picture,The Banshees Of Inisherin,-0.019000000000000017,0.2667,0.2857
+2023-02-22 11:40:33.826671,League Two - England - League Two 2022/23 - Top 3 Finish,Mansfield Town,-0.019000000000000017,0.2667,0.2857
 2023-02-22 11:40:33.583363,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,AC Milan,-0.019099999999999992,0.0476,0.0667
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",Away teams to score 6 or more goals,-0.01949999999999999,0.0714,0.0909
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",1 or more goals scored before 15:00,-0.01970000000000005,0.5455,0.5652
@@ -146,54 +151,58 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-22 09:40:31.307217,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Malcolm Brogdon (BOS),-0.02100000000000002,0.6154,0.6364
 2023-02-22 11:40:33.804123,League Two - England - League Two 2022/23 - To Be Promoted,Northampton Town,-0.02100000000000002,0.3636,0.3846
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",Home teams to score 3 or more goals,-0.02169999999999994,0.5238,0.5455
-2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",Both teams to score in each match,-0.021999999999999964,0.2857,0.3077
-2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",3+ goals scored in each match,-0.021999999999999964,0.2857,0.3077
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February","Manchester City, Inter Milan and RB Leipzig combined to score 5 or more goals and take 15 or more corners",-0.021999999999999964,0.2857,0.3077
+2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",3+ goals scored in each match,-0.021999999999999964,0.2857,0.3077
+2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",Both teams to score in each match,-0.021999999999999964,0.2857,0.3077
 2023-02-22 11:40:30.667265,Ron DeSantis Specials - Will Ron DeSantis Run for the 2024 US Presidency? - DeSantis To Run?,No,-0.02210000000000001,0.2105,0.2326
-2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February","Manchester City, Inter Milan and RB Leipzig each to score 1 or more 2nd half goals",-0.022199999999999998,0.2,0.2222
 2023-02-22 11:40:30.827170,College Basketball - Atlantic-10 Regular Season Conference Winner - Atlantic 10 Regular Season Winner,Dayton,-0.022199999999999998,0.3226,0.3448
 2023-02-22 11:40:33.834272,League Two - England - League Two 2022/23 - Top 7 Finish,Walsall,-0.022199999999999998,0.2,0.2222
+2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February","Manchester City, Inter Milan and RB Leipzig each to score 1 or more 2nd half goals",-0.022199999999999998,0.2,0.2222
 2023-02-22 11:40:33.820087,League Two - England - League Two 2022/23 - To Finish Bottom,Harrogate Town,-0.023200000000000002,0.0244,0.0476
 2023-02-22 11:40:33.826671,League Two - England - League Two 2022/23 - Top 3 Finish,Stevenage,-0.023799999999999932,0.8333,0.8571
 2023-02-22 14:40:34.873518,The Honda Classic - 2/3 Balls - 1st Round 3 Balls - W. McGirt / P. Malnati / T. Detry - 1st Round 3 Balls,Thomas Detry,-0.023799999999999988,0.4762,0.5
 2023-02-22 14:40:35.041854,Round Match-Ups - 1st Round Match-Ups - C. Davis vs H. English - 1st Round Match-Ups,Harris English,-0.023800000000000043,0.5,0.5238
+2023-02-22 14:40:35.052032,Round Match-Ups - 1st Round Match-Ups - A. Rai vs J. Suh - 1st Round Match-Ups,Justin Suh,-0.023800000000000043,0.5,0.5238
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",Any player to score 2 or more goals,-0.023800000000000043,0.5,0.5238
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",Away teams to score 2 or less goals,-0.023800000000000043,0.5,0.5238
-2023-02-22 14:40:35.052032,Round Match-Ups - 1st Round Match-Ups - A. Rai vs J. Suh - 1st Round Match-Ups,Justin Suh,-0.023800000000000043,0.5,0.5238
+2023-02-22 15:40:33.185622,Team Seeding - 2022/23 - CHI Bulls,Over 11.5,-0.024399999999999977,0.4878,0.5122
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",9 or more goals scored,-0.025300000000000003,0.1176,0.1429
 2023-02-22 11:40:33.548495,Championship - England Championship 2022/23 - Top 6 Finish,West Bromwich Albion,-0.025499999999999967,0.4,0.4255
 2023-02-22 11:40:33.548495,Championship - England Championship 2022/23 - Top 6 Finish,Millwall,-0.025599999999999956,0.5744,0.6
-2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",Away teams to score 4 or more goals,-0.02560000000000001,0.3077,0.3333
 2023-02-22 11:40:33.820087,League Two - England - League Two 2022/23 - To Finish Bottom,Hartlepool United,-0.02560000000000001,0.3077,0.3333
+2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",Away teams to score 4 or more goals,-0.02560000000000001,0.3077,0.3333
 2023-02-22 11:40:33.762949,League One - England - League One 2022/23 - To Finish Bottom,Burton Albion,-0.0262,0.0123,0.0385
 2023-02-22 11:40:33.528864,Championship - England Championship 2022/23 - Top Goalscorer,Oscar Estupinan,-0.028199999999999996,0.0385,0.0667
 2023-02-22 11:40:33.528864,Championship - England Championship 2022/23 - Top Goalscorer,Joel Piroe,-0.0294,0.0294,0.0588
-2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",4 or more goals scored in 1st Half,-0.031399999999999983,0.2353,0.2667
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",Any team to score 4 or more goals,-0.031399999999999983,0.2353,0.2667
+2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",4 or more goals scored in 1st Half,-0.031399999999999983,0.2353,0.2667
 2023-02-22 14:40:34.133613,College Basketball - Mountain West Regular Season Conference Winner - Mountain West Regular Season Winner,Boise State,-0.031399999999999983,0.2353,0.2667
+2023-02-22 14:40:34.112868,College Basketball - 2023 NCAA DI Men's Basketball Tournament - To Make The Final 4,Baylor,-0.031399999999999983,0.2353,0.2667
 2023-02-22 11:40:33.535294,Championship - England Championship 2022/23 - To Be Promoted,Sunderland,-0.03330000000000001,0.0667,0.1
 2023-02-22 11:40:33.762949,League One - England - League One 2022/23 - To Finish Bottom,Accrington Stanley,-0.03330000000000001,0.0667,0.1
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",6 or more goals in at least 1 match,-0.033399999999999985,0.1333,0.1667
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February","Manchester City, Inter Milan and RB Leipzig to score 5 or more combined 2nd half goals",-0.033399999999999985,0.1333,0.1667
 2023-02-22 11:40:33.583363,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Benfica,-0.03420000000000001,0.0769,0.1111
-2023-02-22 11:40:33.528864,Championship - England Championship 2022/23 - Top Goalscorer,Nathan Tella,-0.0344,0.0244,0.0588
 2023-02-22 11:40:33.756526,League One - England - League One 2022/23 - To Be Relegated,Fleetwood Town,-0.0344,0.0244,0.0588
+2023-02-22 11:40:33.528864,Championship - England Championship 2022/23 - Top Goalscorer,Nathan Tella,-0.0344,0.0244,0.0588
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",4 or more goals in at least 1 match,-0.03480000000000005,0.5,0.5348
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February","Manchester City, Inter Milan and RB Leipzig to score 3 or more combined 2nd half goals",-0.035999999999999976,0.4762,0.5122
-2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February","Manchester City, Inter Milan and RB Leipzig to score 3 or more combined 1st half goals",-0.03640000000000004,0.3636,0.4
 2023-02-22 11:40:33.813586,League Two - England - League Two 2022/23 - To Be Relegated,Crawley Town,-0.03640000000000004,0.3636,0.4
+2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February","Manchester City, Inter Milan and RB Leipzig to score 3 or more combined 1st half goals",-0.03640000000000004,0.3636,0.4
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",5 or more goals scored,-0.03709999999999991,0.6296,0.6667
 2023-02-22 11:40:33.548495,Championship - England Championship 2022/23 - Top 6 Finish,Swansea City,-0.0384,0.0385,0.0769
 2023-02-22 11:40:33.820087,League Two - England - League Two 2022/23 - To Finish Bottom,Crawley Town,-0.03889999999999999,0.1429,0.1818
 2023-02-22 11:40:33.820087,League Two - England - League Two 2022/23 - To Finish Bottom,Gillingham,-0.0392,0.0196,0.0588
 2023-02-22 11:40:33.756526,League One - England - League One 2022/23 - To Be Relegated,Accrington Stanley,-0.040999999999999925,0.5744,0.6154
+2023-02-22 14:40:34.112868,College Basketball - 2023 NCAA DI Men's Basketball Tournament - To Make The Final 4,Alabama,-0.04099999999999998,0.3226,0.3636
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February","Erling Haaland, Lautaro Martinez and Riyad Mahrez to score 2 or more goals combined",-0.04139999999999999,0.4348,0.4762
-2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February","Manchester City, Inter Milan and RB Leipzig to score 7 or more goals combined",-0.044800000000000006,0.1905,0.2353
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February","Manchester City, Inter Milan and RB Leipzig to concede 6 or more goals combined",-0.044800000000000006,0.1905,0.2353
+2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February","Manchester City, Inter Milan and RB Leipzig to score 7 or more goals combined",-0.044800000000000006,0.1905,0.2353
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",Away teams to score 3 or more goals,-0.045499999999999985,0.5,0.5455
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",6 or more goals scored,-0.045499999999999985,0.4545,0.5
 2023-02-22 11:40:30.833213,College Basketball - Big 12 Regular Season Conference Winner - Big 12 Regular Season Winner,Baylor,-0.0475,0.0294,0.0769
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February","Manchester City, Inter Milan and RB Leipzig to score 5 or more goals combined",-0.04760000000000003,0.4762,0.5238
+2023-02-22 14:40:34.144354,College Basketball - SEC Regular Season Conference Winner - SEC Regular Season Winner,Alabama,-0.047900000000000054,0.8571,0.905
 2023-02-22 11:40:30.821175,College Basketball - ACC Regular Season Conference Winner - ACC Regular Season Winner,Pittsburgh,-0.04849999999999999,0.1333,0.1818
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February",3+ goals scored in 1+ matches,-0.050000000000000044,0.75,0.8
 2023-02-22 13:40:34.729331,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 22nd February - UEFA Champions League Specials - Wednesday, 22nd February","Manchester City, Inter Milan and RB Leipzig to concede 4 or more goals combined",-0.05300000000000005,0.5122,0.5652
