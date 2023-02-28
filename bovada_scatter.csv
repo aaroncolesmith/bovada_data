@@ -22,24 +22,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-27 17:40:27.243846,College Basketball - MVC Tournament - To Reach MVC Championship Game,Missouri State,0.031799999999999995,0.1429,0.1111
 2023-02-27 17:40:27.282903,College Basketball - CAA Tournament - To Reach CAA Championship Game,William & Mary,0.0312,0.0435,0.0123
 2023-02-27 17:40:27.243846,College Basketball - MVC Tournament - To Reach MVC Championship Game,Illinois State,0.0312,0.0435,0.0123
-2023-02-27 17:40:27.282903,College Basketball - CAA Tournament - To Reach CAA Championship Game,Monmouth,0.0303,0.0323,0.002
 2023-02-27 17:40:27.282903,College Basketball - CAA Tournament - To Reach CAA Championship Game,Hampton,0.0303,0.0323,0.002
-2023-02-27 15:40:36.564880,XFL - Odds to win 2023 XFL Championship Game - Proposition,Vegas Vipers,0.029799999999999993,0.125,0.0952
+2023-02-27 17:40:27.282903,College Basketball - CAA Tournament - To Reach CAA Championship Game,Monmouth,0.0303,0.0323,0.002
 2023-02-27 17:40:27.243846,College Basketball - MVC Tournament - To Reach MVC Championship Game,Evansville,0.029,0.0323,0.0033
-2023-02-27 15:40:36.564880,XFL - Odds to win 2023 XFL Championship Game - Proposition,DC Defenders,0.02779999999999999,0.25,0.2222
 2023-02-27 19:40:27.708513,95th Academy Awards - Best Actress - Best Actress,Michelle Yeoh - Everything Everywhere All At Once,0.027700000000000058,0.5833,0.5556
 2023-02-27 17:40:27.210674,College Basketball - OVC Tournament - OVC Tournament Winner,Tennessee State,0.0267,0.1176,0.0909
-2023-02-27 17:40:27.302457,College Basketball - WCC Tournament - To Reach WCC Championship Game,Pepperdine,0.0257,0.0323,0.0066
 2023-02-27 17:40:27.302457,College Basketball - WCC Tournament - To Reach WCC Championship Game,Pacific,0.0257,0.0323,0.0066
+2023-02-27 17:40:27.302457,College Basketball - WCC Tournament - To Reach WCC Championship Game,Pepperdine,0.0257,0.0323,0.0066
 2023-02-27 17:40:27.243846,College Basketball - MVC Tournament - To Reach MVC Championship Game,Illinois Chicago,0.0257,0.0323,0.0066
 2023-02-27 17:40:27.240145,College Basketball - MVC Tournament - MVC Tournament Winner,Drake,0.025499999999999967,0.4255,0.4
 2023-02-27 17:40:27.282903,College Basketball - CAA Tournament - To Reach CAA Championship Game,Stony Brook,0.0244,0.0323,0.0079
 2023-02-27 16:40:32.060621,NFL Specials - 2023 NFL Combine - 2023  NFL Combine - Most bench press reps,Less than 40 reps,0.024399999999999977,0.5122,0.4878
 2023-02-27 17:40:27.302457,College Basketball - WCC Tournament - To Reach WCC Championship Game,Loyola Marymount,0.0242,0.0909,0.0667
 2023-02-27 17:40:27.311909,College Basketball - NEC Tournament - To Reach NEC Championship Game,Long Island,0.023899999999999998,0.0435,0.0196
-2023-02-27 15:40:36.726342,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Los Angeles Lakers,No,0.022600000000000064,0.5348,0.5122
 2023-02-27 17:40:27.282903,College Basketball - CAA Tournament - To Reach CAA Championship Game,Elon,0.022400000000000003,0.0323,0.0099
-2023-02-27 15:40:36.564880,XFL - Odds to win 2023 XFL Championship Game - Proposition,Houston Roughnecks,0.022199999999999998,0.2222,0.2
 2023-02-27 19:40:30.033106,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Lauri Markkanen (UTA),0.02200000000000002,0.7143,0.6923
 2023-02-27 17:40:27.302457,College Basketball - WCC Tournament - To Reach WCC Championship Game,San Diego,0.021300000000000003,0.0323,0.011
 2023-02-27 17:40:27.311909,College Basketball - NEC Tournament - To Reach NEC Championship Game,Merrimack,0.02100000000000002,0.6364,0.6154
@@ -64,8 +60,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-27 17:40:27.282903,College Basketball - CAA Tournament - To Reach CAA Championship Game,Northeastern,0.010600000000000002,0.0323,0.0217
 2023-02-27 17:40:27.243846,College Basketball - MVC Tournament - To Reach MVC Championship Game,Belmont,0.010499999999999982,0.2105,0.2
 2023-02-28 01:40:30.710838,Arnold Palmer Invitational - Arnold Palmer Invitational - Outright,Cameron Young,0.010100000000000001,0.0345,0.0244
-2023-02-27 16:40:32.261881,95th Academy Awards - Best Supporting Actress - Best Supporting Actress ,Stephanie Hsu - Everything Everywhere All at Once,-0.0102,0.0667,0.0769
 2023-02-27 17:40:26.734894,95th Academy Awards - Best Actor - Best Actor,Colin Farrell - The Banshees of Inisherin,-0.0102,0.0667,0.0769
+2023-02-27 16:40:32.261881,95th Academy Awards - Best Supporting Actress - Best Supporting Actress ,Stephanie Hsu - Everything Everywhere All at Once,-0.0102,0.0667,0.0769
 2023-02-27 16:40:32.064452,NFL Specials - 2023 NFL Combine - 2023  NFL Combine - Most bench press reps to break Stephen Paea Combine Record,Yes (More Than 49 Reps),-0.010899999999999993,0.1429,0.1538
 2023-02-27 17:40:27.240145,College Basketball - MVC Tournament - MVC Tournament Winner,Missouri State,-0.011199999999999995,0.0323,0.0435
 2023-02-27 19:40:28.991585,MLB Specials - Which batter will be penalized the most for pitch clock violations during the 2023 MLB Regular season? - Proposition,Pete Alonso,-0.011700000000000016,0.2105,0.2222
@@ -74,8 +70,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-27 19:40:28.991585,MLB Specials - Which batter will be penalized the most for pitch clock violations during the 2023 MLB Regular season? - Proposition,Kyle Tucker,-0.012299999999999991,0.1053,0.1176
 2023-02-27 19:40:27.934702,Time Person of the Year - Time Person Of The Year 2023 - Time Person Of The Year 2023,Ron DeSantis,-0.014099999999999994,0.0526,0.0667
 2023-02-27 17:40:27.214271,College Basketball - OVC Tournament - To Reach OVC Championship Game,Morehead State,-0.014200000000000101,0.6154,0.6296
-2023-02-27 19:40:28.991585,MLB Specials - Which batter will be penalized the most for pitch clock violations during the 2023 MLB Regular season? - Proposition,Anthony Rizzo,-0.014399999999999996,0.0625,0.0769
 2023-02-27 19:40:28.991585,MLB Specials - Which batter will be penalized the most for pitch clock violations during the 2023 MLB Regular season? - Proposition,A.J. Pollock,-0.014399999999999996,0.0625,0.0769
+2023-02-27 19:40:28.991585,MLB Specials - Which batter will be penalized the most for pitch clock violations during the 2023 MLB Regular season? - Proposition,Anthony Rizzo,-0.014399999999999996,0.0625,0.0769
 2023-02-27 19:40:28.991585,MLB Specials - Which batter will be penalized the most for pitch clock violations during the 2023 MLB Regular season? - Proposition,Vladimir Guerrero Jr.,-0.014399999999999996,0.0625,0.0769
 2023-02-27 17:40:27.307811,College Basketball - NEC Tournament - NEC Tournament Winner,St. Francis NY,-0.014599999999999998,0.0132,0.0278
 2023-02-27 17:40:27.214271,College Basketball - OVC Tournament - To Reach OVC Championship Game,Southern Indiana,-0.015100000000000002,0.1667,0.1818
@@ -83,16 +79,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-02-27 16:40:32.028957,NFL Specials - 2023 NFL Combine - 2023  NFL Combine - Fastest 40 Yard Dash Time,Slower than 4.29 seconds,-0.016000000000000014,0.3922,0.4082
 2023-02-27 17:40:27.311909,College Basketball - NEC Tournament - To Reach NEC Championship Game,Sacred Heart,-0.016699999999999993,0.25,0.2667
 2023-02-27 19:40:28.991585,MLB Specials - Which batter will be penalized the most for pitch clock violations during the 2023 MLB Regular season? - Proposition,Christian Walker,-0.016700000000000007,0.0833,0.1
-2023-02-27 20:40:25.467544,Boxing Lines - Brandon Figueroa vs Mark Magsayo - To Win the Bout,Mark Magsayo,-0.017299999999999982,0.2857,0.303
 2023-02-27 16:40:32.060621,NFL Specials - 2023 NFL Combine - 2023  NFL Combine - Most bench press reps,More than 40 reps,-0.017299999999999982,0.5744,0.5917
+2023-02-27 20:40:25.467544,Boxing Lines - Brandon Figueroa vs Mark Magsayo - To Win the Bout,Mark Magsayo,-0.017299999999999982,0.2857,0.303
 2023-02-27 17:40:27.210674,College Basketball - OVC Tournament - OVC Tournament Winner,Southern Illinois,-0.01759999999999999,0.1,0.1176
-2023-02-27 15:40:36.564880,XFL - Odds to win 2023 XFL Championship Game - Proposition,Orlando Guardians,-0.018099999999999998,0.0588,0.0769
 2023-02-27 16:40:32.261881,95th Academy Awards - Best Supporting Actress - Best Supporting Actress ,Kerry Condon - The Banshees of Inisherin,-0.019000000000000017,0.2667,0.2857
-2023-02-27 15:40:36.726342,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - To Make the Playoffs - Los Angeles Lakers,Yes,-0.02079999999999993,0.5348,0.5556
 2023-02-27 17:40:27.311909,College Basketball - NEC Tournament - To Reach NEC Championship Game,St. Francis PA,-0.020799999999999985,0.3125,0.3333
 2023-02-27 19:40:30.033106,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Shai Gilgeous-Alexander (OKC),-0.021999999999999964,0.2857,0.3077
 2023-02-27 17:40:27.214271,College Basketball - OVC Tournament - To Reach OVC Championship Game,Southern Illinois,-0.022199999999999998,0.2,0.2222
-2023-02-27 15:40:36.564880,XFL - Odds to win 2023 XFL Championship Game - Proposition,Arlington Renegades,-0.023799999999999988,0.1429,0.1667
 2023-02-27 18:40:34.869953,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Los Angeles Clippers,-0.023799999999999988,0.3333,0.3571
 2023-02-27 20:40:27.783337,95th Academy Awards - Best Actress - Best Actress,Cate Blanchett - TÁR,-0.023800000000000043,0.5,0.5238
 2023-02-27 19:40:28.991585,MLB Specials - Which batter will be penalized the most for pitch clock violations during the 2023 MLB Regular season? - Proposition,Manny Machado,-0.02779999999999999,0.2222,0.25
