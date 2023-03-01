@@ -6,6 +6,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-01 16:40:31.192083,NFL Specials - NFL Draft 2023 -  First Overall Pick,Will Anderson,0.09999999999999999,0.1667,0.0667
 2023-03-01 09:40:33.721149,League Two - England - League Two 2022/23 - Top 7 Finish,Sutton Utd,0.0857,0.2857,0.2
 2023-03-01 09:40:33.721149,League Two - England - League Two 2022/23 - Top 7 Finish,Carlisle United,0.08550000000000002,0.7778,0.6923
+2023-03-01 18:40:30.400241,College Basketball - NEC Tournament - To Reach NEC Championship Game,Merrimack,0.07790000000000008,0.7143,0.6364
 2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March","Arsenal , Liverpool  and Manchester United to concede 2 or less goals combined",0.07769999999999999,0.6429,0.5652
 2023-03-01 09:40:33.721149,League Two - England - League Two 2022/23 - Top 7 Finish,Salford City,0.07690000000000002,0.3846,0.3077
 2023-03-01 11:40:30.417763,College Basketball - WCC Tournament - WCC Tournament Winner,Gonzaga,0.07619999999999993,0.6,0.5238
@@ -48,6 +49,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-01 09:40:33.512739,Championship - England Championship 2022/23 - To Be Promoted,West Bromwich Albion,0.027999999999999997,0.1818,0.1538
 2023-03-01 09:40:33.258727,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Nikola Jokic (DEN),0.027800000000000047,0.7778,0.75
 2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March",Total of 46 or more corners taken,0.02779999999999999,0.25,0.2222
+2023-03-01 18:40:30.400241,College Basketball - NEC Tournament - To Reach NEC Championship Game,Fairleigh Dickinson,0.027700000000000058,0.5833,0.5556
+2023-03-01 18:40:35.434132,Championship - England Championship 2022/23 - Top 6 Finish,Watford,0.02679999999999999,0.3125,0.2857
 2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March",Under 11.5 goals scored,0.026499999999999968,0.5917,0.5652
 2023-03-01 16:40:31.104121,College Basketball - Patriot Tournament - Patriot Tournament Winner,Boston U,0.025900000000000003,0.0476,0.0217
 2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March","Arsenal , Liverpool  and Manchester United to score 8 or more goals combined",0.02560000000000001,0.3333,0.3077
@@ -55,47 +58,53 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-01 16:40:31.041853,College Basketball - Sun Belt Tournament - Sun Belt Tournament Winner,UL Lafayette,0.024800000000000016,0.2353,0.2105
 2023-03-01 09:40:33.721149,League Two - England - League Two 2022/23 - Top 7 Finish,Tranmere Rovers,0.0242,0.0909,0.0667
 2023-03-01 09:40:32.741998,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Chicago Bulls,Under 36.5,0.023800000000000043,0.5238,0.5
+2023-03-01 17:40:28.554912,NFL Specials - NFL Draft 2023 - Frist WR Selected,Jalin Hyatt,0.023799999999999988,0.1667,0.1429
 2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March",Home teams to score 6 or less goals,0.023799999999999988,0.5,0.4762
+2023-03-01 09:40:33.522432,Championship - England Championship 2022/23 - Top 6 Finish,Blackburn Rovers,0.023799999999999988,0.5,0.4762
 2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March","Arsenal , Liverpool  and Manchester United to score 4 or more combined 2nd half goals",0.023799999999999988,0.5,0.4762
 2023-03-01 09:40:28.557012,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Fred,0.023799999999999988,0.1667,0.1429
-2023-03-01 17:40:28.554912,NFL Specials - NFL Draft 2023 - Frist WR Selected,Jalin Hyatt,0.023799999999999988,0.1667,0.1429
-2023-03-01 09:40:33.522432,Championship - England Championship 2022/23 - Top 6 Finish,Blackburn Rovers,0.023799999999999988,0.5,0.4762
-2023-03-01 14:40:28.922830,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.023799999999999932,0.6667,0.6429
-2023-03-01 15:40:32.738293,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.023799999999999932,0.6667,0.6429
-2023-03-01 12:40:36.288076,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.023799999999999932,0.6667,0.6429
-2023-03-01 11:40:27.098178,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.023799999999999932,0.6667,0.6429
 2023-03-01 16:40:31.286902,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.023799999999999932,0.6667,0.6429
+2023-03-01 14:40:28.922830,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.023799999999999932,0.6667,0.6429
+2023-03-01 17:40:28.423369,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.023799999999999932,0.6667,0.6429
+2023-03-01 15:40:32.738293,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.023799999999999932,0.6667,0.6429
+2023-03-01 18:40:30.196400,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.023799999999999932,0.6667,0.6429
 2023-03-01 10:40:31.352338,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.023799999999999932,0.6667,0.6429
 2023-03-01 13:40:30.428995,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.023799999999999932,0.6667,0.6429
-2023-03-01 17:40:28.423369,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.023799999999999932,0.6667,0.6429
+2023-03-01 11:40:27.098178,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.023799999999999932,0.6667,0.6429
+2023-03-01 12:40:36.288076,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.023799999999999932,0.6667,0.6429
 2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March","Arsenal , Liverpool  and Manchester United to score 6 or more goals combined",0.023699999999999943,0.6154,0.5917
+2023-03-01 18:40:30.522088,Arnold Palmer Invitational - 2/3 Balls - 1st Round 3 Balls - L. Herbert / R. Henley / L. Donald - 1st Round 3 Balls ,Russell Henley,0.02360000000000001,0.4082,0.3846
 2023-03-01 09:40:32.388040,Tournament Match-Ups - Tournament Match-Up - C. Young v S. Im - Tournament Match-Up,Sung-Jae Im,0.022600000000000064,0.5348,0.5122
 2023-03-01 09:40:32.726266,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Boston Celtics,Under 58.5,0.022600000000000064,0.5348,0.5122
 2023-03-01 17:40:30.136611,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Oklahoma City Thunder,Under 38.5,0.022600000000000064,0.6226,0.6
-2023-03-01 16:40:31.041853,College Basketball - Sun Belt Tournament - Sun Belt Tournament Winner,James Madison,0.022199999999999998,0.2222,0.2
 2023-03-01 10:40:36.277597,League Two - England - League Two 2022/23 - Top 3 Finish,Bradford City,0.022199999999999998,0.2222,0.2
+2023-03-01 16:40:31.041853,College Basketball - Sun Belt Tournament - Sun Belt Tournament Winner,James Madison,0.022199999999999998,0.2222,0.2
+2023-03-01 18:40:30.492187,Arnold Palmer Invitational - 2/3 Balls - 1st Round 3 Balls - S.W. Kim / C. Davis / R. Brehm - 1st Round 3 Balls ,Si Woo Kim,0.021699999999999997,0.4762,0.4545
 2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March","Arsenal , Liverpool  and Manchester United each to score 1 or more goals and take 4 or more corners",0.021699999999999997,0.4762,0.4545
+2023-03-01 18:40:30.778442,Round Match-Ups - 1st Round Match-Up - J. Spieth vs M. Fitzpatrick - 1st Round Match-Up,Matthew Fitzpatrick,0.02169999999999994,0.5455,0.5238
 2023-03-01 09:40:32.445445,Tournament Match-Ups - Tournament Match-Up - M. Homa v W. Zalatoris - Tournament Match-Up,Will Zalatoris,0.02169999999999994,0.5455,0.5238
 2023-03-01 09:40:32.382221,Tournament Match-Ups - Tournament Match-Up - C. Morikawa v P. Cantlay - Tournament Match-Up ,Patrick Cantlay,0.02169999999999994,0.5455,0.5238
 2023-03-01 09:40:32.428559,Tournament Match-Ups - Tournament Match-Up - K. Mitchell v S. Burns - Tournament Match-Up,Keith Mitchell,0.02169999999999994,0.5455,0.5238
 2023-03-01 09:40:32.393789,Tournament Match-Ups - Tournament Match-Up - H. Matsuyama v T. Kim - Tournament Match-Up,Hideki Matsuyama,0.02079999999999993,0.5556,0.5348
 2023-03-01 16:40:31.050835,College Basketball - Horizon League Tournament - To Reach Horizon League Championship Game,Detroit U,0.02020000000000001,0.1111,0.0909
-2023-03-01 09:40:28.568858,Box Office Specials - Fast X - Number Of Times 'Family' Is Said By Dom Toretto - Fast X - Number Of Times 'Family' Is Said By Dom Toretto,Under 4.5,0.01970000000000005,0.5652,0.5455
-2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March",Total of 40 or more corners taken,0.01970000000000005,0.5652,0.5455
 2023-03-01 14:40:29.938981,Tournament Match-Ups - Tournament Match-Up - K. Mitchell v S. Burns - Tournament Match-Up,Keith Mitchell,0.01970000000000005,0.5652,0.5455
 2023-03-01 09:40:32.404397,Tournament Match-Ups - Tournament Match-Up - J. Rahm v S. Scheffler - Tournament Match-Up,Jon Rahm,0.01970000000000005,0.5652,0.5455
 2023-03-01 09:40:32.440276,Tournament Match-Ups - Tournament Match-Up - M. Fitzpatrick v J. Spieth - Tournament Match-Up ,Matthew Fitzpatrick,0.01970000000000005,0.5652,0.5455
+2023-03-01 09:40:28.568858,Box Office Specials - Fast X - Number Of Times 'Family' Is Said By Dom Toretto - Fast X - Number Of Times 'Family' Is Said By Dom Toretto,Under 4.5,0.01970000000000005,0.5652,0.5455
+2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March",Total of 40 or more corners taken,0.01970000000000005,0.5652,0.5455
+2023-03-01 18:40:30.466771,Arnold Palmer Invitational - 2/3 Balls - 1st Round 3 Balls - S. Theegala / A. Noren / B.H. An - 1st Round 3 Balls ,Alex Noren,0.019500000000000017,0.3704,0.3509
 2023-03-01 16:40:31.047290,College Basketball - Horizon League Tournament - Horizon League - Tournament Winner,Robert Morris,0.019000000000000003,0.0625,0.0435
 2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March",10+ corners taken in 3+ matches,0.018100000000000005,0.4348,0.4167
+2023-03-01 18:40:30.592408,Arnold Palmer Invitational - 2/3 Balls - 1st Round 3 Balls - G. Woodland / K. Bradley / F. Molinari - 1st Round 3 Balls ,Keegan Bradley,0.018100000000000005,0.4348,0.4167
 2023-03-01 09:40:33.686862,League One - England - League One 2022/23 - To Finish Bottom,Cambridge United,0.0179,0.1429,0.125
 2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March",Away teams to score 1 or less goals,0.01759999999999999,0.1176,0.1
 2023-03-01 09:40:32.762789,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Milwuakee Bucks,Over 55.5,0.01759999999999995,0.6667,0.6491
 2023-03-01 16:40:31.104121,College Basketball - Patriot Tournament - Patriot Tournament Winner,American,0.017099999999999997,0.0294,0.0123
-2023-03-01 09:40:33.682735,League One - England - League One 2022/23 - To Be Relegated,Cambridge United,0.016700000000000048,0.75,0.7333
 2023-03-01 10:40:36.272785,League Two - England - League Two 2022/23 - To Finish Bottom,Rochdale,0.016700000000000048,0.75,0.7333
+2023-03-01 09:40:33.682735,League One - England - League One 2022/23 - To Be Relegated,Cambridge United,0.016700000000000048,0.75,0.7333
 2023-03-01 09:40:33.714201,League Two - England - League Two 2022/23 - To Be Promoted,Swindon Town,0.016700000000000007,0.1,0.0833
-2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March",Under 8.5 goals scored,0.016699999999999993,0.2667,0.25
 2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March",Each match to have 3 or more corners taken in each half,0.016699999999999993,0.4167,0.4
+2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March",Under 8.5 goals scored,0.016699999999999993,0.2667,0.25
 2023-03-01 16:40:31.104121,College Basketball - Patriot Tournament - Patriot Tournament Winner,Loyola Maryland,0.0156,0.0196,0.004
 2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March",Manchester United to score more goals than any other team,0.015100000000000002,0.1818,0.1667
 2023-03-01 16:40:31.047290,College Basketball - Horizon League Tournament - Horizon League - Tournament Winner,Detroit U,0.014899999999999997,0.0625,0.0476
@@ -105,11 +114,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-01 09:40:32.731509,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Brooklyn Nets,Under 46.5,0.014200000000000101,0.6296,0.6154
 2023-03-01 10:40:36.277597,League Two - England - League Two 2022/23 - Top 3 Finish,Swindon Town,0.014099999999999998,0.0385,0.0244
 2023-03-01 16:40:31.104121,College Basketball - Patriot Tournament - Patriot Tournament Winner,Lafayette,0.014099999999999998,0.0385,0.0244
+2023-03-01 09:40:33.512739,Championship - England Championship 2022/23 - To Be Promoted,Luton Town,0.013899999999999996,0.125,0.1111
 2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March",Manchester United or Tottenham to score 5 or more goals,0.013899999999999996,0.125,0.1111
+2023-03-01 09:40:33.507490,Championship - England Championship 2022/23 - Top Goalscorer,Viktor Gyokeres,0.013899999999999996,0.125,0.1111
 2023-03-01 09:40:33.690957,League One - England - League One 2022/23 - Top 2 Finish,Barnsley,0.013899999999999996,0.125,0.1111
 2023-03-01 12:40:41.135403,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Golden State Warriors,0.013899999999999996,0.125,0.1111
-2023-03-01 09:40:33.507490,Championship - England Championship 2022/23 - Top Goalscorer,Viktor Gyokeres,0.013899999999999996,0.125,0.1111
-2023-03-01 09:40:33.512739,Championship - England Championship 2022/23 - To Be Promoted,Luton Town,0.013899999999999996,0.125,0.1111
 2023-03-01 16:40:31.050835,College Basketball - Horizon League Tournament - To Reach Horizon League Championship Game,Wright State,0.01319999999999999,0.2632,0.25
 2023-03-01 14:40:28.993946,Boxing Lines - Justin DeLoach vs Travon Marshall - To Win the Bout,Travon Marshall,0.0131,0.8131,0.8
 2023-03-01 15:40:31.912728,NFL Specials - NFL Draft 2023 -  First Overall Pick,Will Levis,0.012899999999999995,0.1667,0.1538
@@ -119,43 +128,43 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-01 08:40:35.983090,NFL Specials - NFL Draft 2023 -  First Overall Pick,Will Levis,0.010899999999999993,0.1538,0.1429
 2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March",Each team to take 5 or more corners,0.010700000000000001,0.0385,0.0278
 2023-03-01 09:40:33.270251,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Mike Budenholzer,0.0102,0.0769,0.0667
-2023-03-01 14:40:29.021141,Boxing Lines - Brandon Figueroa vs Mark Magsayo - To Win the Bout,Mark Magsayo,0.010099999999999998,0.3226,0.3125
-2023-03-01 06:40:29.126913,Boxing Lines - Lawrence Okolie vs David Light - To Win the Bout,Lawrence Okolie,0.010099999999999998,0.8889,0.8788
-2023-03-01 14:40:29.054704,Boxing Lines - Lawrence Okolie vs David Light - To Win the Bout,Lawrence Okolie,0.010099999999999998,0.8889,0.8788
-2023-03-01 09:40:28.375805,Boxing Lines - Lawrence Okolie vs David Light - To Win the Bout,Lawrence Okolie,0.010099999999999998,0.8889,0.8788
 2023-03-01 12:40:36.569799,Boxing Lines - Lawrence Okolie vs David Light - To Win the Bout,Lawrence Okolie,0.010099999999999998,0.8889,0.8788
-2023-03-01 10:40:30.901577,Boxing Lines - Lawrence Okolie vs David Light - To Win the Bout,Lawrence Okolie,-0.010099999999999998,0.8788,0.8889
+2023-03-01 14:40:29.054704,Boxing Lines - Lawrence Okolie vs David Light - To Win the Bout,Lawrence Okolie,0.010099999999999998,0.8889,0.8788
+2023-03-01 14:40:29.021141,Boxing Lines - Brandon Figueroa vs Mark Magsayo - To Win the Bout,Mark Magsayo,0.010099999999999998,0.3226,0.3125
+2023-03-01 09:40:28.375805,Boxing Lines - Lawrence Okolie vs David Light - To Win the Bout,Lawrence Okolie,0.010099999999999998,0.8889,0.8788
 2023-03-01 13:40:30.380592,Boxing Lines - Lawrence Okolie vs David Light - To Win the Bout,Lawrence Okolie,-0.010099999999999998,0.8788,0.8889
 2023-03-01 07:40:37.010585,Boxing Lines - Lawrence Okolie vs David Light - To Win the Bout,Lawrence Okolie,-0.010099999999999998,0.8788,0.8889
-2023-03-01 09:40:33.672418,League One - England - League One 2022/23 - Top Goalscorer,Victor Adeboyejo,-0.010100000000000001,0.0244,0.0345
+2023-03-01 10:40:30.901577,Boxing Lines - Lawrence Okolie vs David Light - To Win the Bout,Lawrence Okolie,-0.010099999999999998,0.8788,0.8889
 2023-03-01 09:40:33.709276,League Two - England - League Two 2022/23 - Top Goalscorer,Danny Johnson,-0.010100000000000001,0.0244,0.0345
+2023-03-01 09:40:33.672418,League One - England - League One 2022/23 - Top Goalscorer,Victor Adeboyejo,-0.010100000000000001,0.0244,0.0345
 2023-03-01 09:40:33.258727,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Joel Embiid (PHI),-0.010499999999999982,0.2,0.2105
 2023-03-01 09:40:33.677268,League One - England - League One 2022/23 - To Be Promoted,Plymouth Argyle,-0.010699999999999932,0.5348,0.5455
 2023-03-01 08:40:40.485751,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Atlanta Hawks,-0.010699999999999987,0.3226,0.3333
 2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March",Arsenal  or Liverpool  to take 13 or more corners,-0.010899999999999993,0.1429,0.1538
 2023-03-01 09:40:33.714201,League Two - England - League Two 2022/23 - To Be Promoted,Stevenage,-0.011099999999999999,0.8889,0.9
-2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March",17 or more goals scored,-0.011099999999999999,0.1,0.1111
 2023-03-01 09:40:33.672418,League One - England - League One 2022/23 - Top Goalscorer,Dion Charles,-0.011099999999999999,0.1,0.1111
-2023-03-01 10:40:36.277597,League Two - England - League Two 2022/23 - Top 3 Finish,Salford City,-0.011199999999999995,0.0476,0.0588
+2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March",17 or more goals scored,-0.011099999999999999,0.1,0.1111
 2023-03-01 09:40:33.672418,League One - England - League One 2022/23 - Top Goalscorer,Colby Bishop,-0.011199999999999995,0.0476,0.0588
 2023-03-01 09:40:33.714201,League Two - England - League Two 2022/23 - To Be Promoted,Walsall,-0.011199999999999995,0.0476,0.0588
+2023-03-01 10:40:36.277597,League Two - England - League Two 2022/23 - Top 3 Finish,Salford City,-0.011199999999999995,0.0476,0.0588
 2023-03-01 09:40:33.714201,League Two - England - League Two 2022/23 - To Be Promoted,Carlisle United,-0.01150000000000001,0.3333,0.3448
 2023-03-01 09:40:33.518136,Championship - England Championship 2022/23 - Top 2 Finish,Watford,-0.011699999999999999,0.0079,0.0196
 2023-03-01 08:40:35.983090,NFL Specials - NFL Draft 2023 -  First Overall Pick,CJ Stroud,-0.011700000000000016,0.2105,0.2222
 2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March",Away teams to score 9 or more goals,-0.0121,0.0435,0.0556
 2023-03-01 09:40:33.507490,Championship - England Championship 2022/23 - Top Goalscorer,Josh Sargent,-0.012100000000000001,0.0123,0.0244
-2023-03-01 09:40:28.430322,95th Academy Awards - Best Actress - Best Actress,Cate Blanchett - TÁR,-0.012199999999999989,0.5,0.5122
-2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March",2 or more goals scored before 15:00,-0.012199999999999989,0.5,0.5122
 2023-03-01 14:40:33.809895,MLB Regular Season Props - MLB 2023 Regular Season Props - Los Angeles Dodgers Regular Season Win Total,Over 97.5,-0.012199999999999989,0.4878,0.5
-2023-03-01 09:40:33.690957,League One - England - League One 2022/23 - Top 2 Finish,Wycombe,-0.013,0.0066,0.0196
+2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March",2 or more goals scored before 15:00,-0.012199999999999989,0.5,0.5122
+2023-03-01 09:40:28.430322,95th Academy Awards - Best Actress - Best Actress,Cate Blanchett - TÁR,-0.012199999999999989,0.5,0.5122
 2023-03-01 09:40:33.522432,Championship - England Championship 2022/23 - Top 6 Finish,Hull City,-0.013,0.0066,0.0196
 2023-03-01 09:40:33.695195,League One - England - League One 2022/23 - Top 6 Finish,Charlton Athletic,-0.013,0.0066,0.0196
 2023-03-01 10:40:36.272785,League Two - England - League Two 2022/23 - To Finish Bottom,Gillingham,-0.013,0.0066,0.0196
+2023-03-01 09:40:33.690957,League One - England - League One 2022/23 - Top 2 Finish,Wycombe,-0.013,0.0066,0.0196
 2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March",Home teams to score 10 or more goals,-0.0131,0.2222,0.2353
+2023-03-01 18:40:30.592408,Arnold Palmer Invitational - 2/3 Balls - 1st Round 3 Balls - G. Woodland / K. Bradley / F. Molinari - 1st Round 3 Balls ,Gary Woodland,-0.013800000000000034,0.3636,0.3774
 2023-03-01 09:40:33.672418,League One - England - League One 2022/23 - Top Goalscorer,Aaron Collins,-0.013899999999999996,0.1111,0.125
 2023-03-01 16:40:31.050835,College Basketball - Horizon League Tournament - To Reach Horizon League Championship Game,Oakland,-0.013999999999999999,0.0769,0.0909
-2023-03-01 09:40:33.709276,League Two - England - League Two 2022/23 - Top Goalscorer,Kyle Wootton,-0.014099999999999998,0.0244,0.0385
 2023-03-01 09:40:33.714201,League Two - England - League Two 2022/23 - To Be Promoted,Doncaster Rovers,-0.014099999999999998,0.0244,0.0385
+2023-03-01 09:40:33.709276,League Two - England - League Two 2022/23 - Top Goalscorer,Kyle Wootton,-0.014099999999999998,0.0244,0.0385
 2023-03-01 09:40:33.507490,Championship - England Championship 2022/23 - Top Goalscorer,Oliver McBurnie,-0.014499999999999999,0.0149,0.0294
 2023-03-01 09:40:33.522432,Championship - England Championship 2022/23 - Top 6 Finish,Stoke City,-0.0145,0.0099,0.0244
 2023-03-01 10:40:36.277597,League Two - England - League Two 2022/23 - Top 3 Finish,Doncaster Rovers,-0.0145,0.0099,0.0244
@@ -168,19 +177,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March",1 or more own goals,-0.016699999999999993,0.4,0.4167
 2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March",13 or more goals scored,-0.016699999999999993,0.4,0.4167
 2023-03-01 13:40:30.355747,Boxing Lines - Diego Pacheco vs Jack Cullen - To Win the Bout,Jack Cullen,-0.016700000000000007,0.0833,0.1
+2023-03-01 18:40:30.522088,Arnold Palmer Invitational - 2/3 Balls - 1st Round 3 Balls - L. Herbert / R. Henley / L. Donald - 1st Round 3 Balls ,Luke Donald,-0.017299999999999982,0.2857,0.303
 2023-03-01 10:40:30.967946,95th Academy Awards - Best Director - Best Director,Steven Spielberg - The Fabelmans,-0.0179,0.125,0.1429
 2023-03-01 09:40:33.677268,League One - England - League One 2022/23 - To Be Promoted,Peterborough United,-0.018099999999999998,0.0588,0.0769
-2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March",Each team to score a goal in 2+ matches; Each team to take 4+ corners in 2+ matches,-0.018100000000000005,0.5652,0.5833
+2023-03-01 18:40:30.466771,Arnold Palmer Invitational - 2/3 Balls - 1st Round 3 Balls - S. Theegala / A. Noren / B.H. An - 1st Round 3 Balls ,Sahith Theegala,-0.018100000000000005,0.4167,0.4348
 2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March",3+ goals scored in 3+ matches,-0.018100000000000005,0.4167,0.4348
+2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March",Each team to score a goal in 2+ matches; Each team to take 4+ corners in 2+ matches,-0.018100000000000005,0.5652,0.5833
 2023-03-01 09:40:33.695195,League One - England - League One 2022/23 - Top 6 Finish,Bolton Wanderers,-0.018199999999999994,0.8,0.8182
 2023-03-01 09:40:33.714201,League Two - England - League Two 2022/23 - To Be Promoted,Barrow FC,-0.018200000000000004,0.0294,0.0476
 2023-03-01 10:40:36.268443,League Two - England - League Two 2022/23 - To Be Relegated,Crewe Alexandra,-0.0189,0.0196,0.0385
 2023-03-01 15:40:31.916202,NFL Specials - NFL Draft 2023 - First QB Selected,C.J. Stroud,-0.019000000000000017,0.2667,0.2857
 2023-03-01 16:40:31.006911,College Basketball - Atlantic Sun Tournament - Atlantic Sun Tournament Winner,Eastern Kentucky,-0.019099999999999992,0.0476,0.0667
+2023-03-01 16:40:31.104121,College Basketball - Patriot Tournament - Patriot Tournament Winner,Army,-0.019099999999999992,0.0476,0.0667
+2023-03-01 09:40:33.522432,Championship - England Championship 2022/23 - Top 6 Finish,Preston North End,-0.019099999999999992,0.0476,0.0667
 2023-03-01 16:40:31.192083,NFL Specials - NFL Draft 2023 -  First Overall Pick,Jalen Carter,-0.019099999999999992,0.0476,0.0667
 2023-03-01 09:40:33.512739,Championship - England Championship 2022/23 - To Be Promoted,Sunderland,-0.019099999999999992,0.0476,0.0667
-2023-03-01 09:40:33.522432,Championship - England Championship 2022/23 - Top 6 Finish,Preston North End,-0.019099999999999992,0.0476,0.0667
-2023-03-01 16:40:31.104121,College Basketball - Patriot Tournament - Patriot Tournament Winner,Army,-0.019099999999999992,0.0476,0.0667
 2023-03-01 09:40:32.731509,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Brooklyn Nets,Over 46.5,-0.019699999999999995,0.4348,0.4545
 2023-03-01 09:40:32.741998,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Chicago Bulls,Over 36.5,-0.01970000000000005,0.5455,0.5652
 2023-03-01 09:40:33.512739,Championship - England Championship 2022/23 - To Be Promoted,Sheffield United,-0.020199999999999996,0.8889,0.9091
@@ -188,12 +199,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-01 09:40:33.270251,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Taylor Jenkins,-0.02020000000000001,0.0909,0.1111
 2023-03-01 17:40:30.136611,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Oklahoma City Thunder,Over 38.5,-0.020699999999999996,0.4444,0.4651
 2023-03-01 09:40:32.726266,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Boston Celtics,Over 58.5,-0.02079999999999993,0.5348,0.5556
-2023-03-01 09:40:33.522432,Championship - England Championship 2022/23 - Top 6 Finish,Luton Town,-0.02169999999999994,0.5238,0.5455
 2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March",5 or more goals in at least 1 match,-0.02169999999999994,0.5238,0.5455
+2023-03-01 09:40:33.522432,Championship - England Championship 2022/23 - Top 6 Finish,Luton Town,-0.02169999999999994,0.5238,0.5455
 2023-03-01 09:40:28.568858,Box Office Specials - Fast X - Number Of Times 'Family' Is Said By Dom Toretto - Fast X - Number Of Times 'Family' Is Said By Dom Toretto,Over 4.5,-0.02169999999999994,0.5238,0.5455
 2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March",Arsenal  to score more goals than Liverpool,-0.021699999999999997,0.4545,0.4762
-2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March",A total of 12 or more goals and 40 or more corners taken,-0.021999999999999964,0.2857,0.3077
 2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March",7 or more goals scored in 1st Half,-0.021999999999999964,0.2857,0.3077
+2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March",A total of 12 or more goals and 40 or more corners taken,-0.021999999999999964,0.2857,0.3077
 2023-03-01 10:40:36.272785,League Two - England - League Two 2022/23 - To Finish Bottom,Hartlepool United,-0.021999999999999964,0.2857,0.3077
 2023-03-01 10:40:36.268443,League Two - England - League Two 2022/23 - To Be Relegated,Hartlepool United,-0.02200000000000002,0.6923,0.7143
 2023-03-01 16:40:31.104121,College Basketball - Patriot Tournament - Patriot Tournament Winner,Colgate,-0.02200000000000002,0.6923,0.7143
@@ -203,21 +214,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March",Both teams to score in each match,-0.02310000000000001,0.0769,0.1
 2023-03-01 09:40:33.270251,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Mark Daigneault,-0.023200000000000002,0.0244,0.0476
 2023-03-01 16:40:31.279961,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.023799999999999932,0.6429,0.6667
-2023-03-01 11:40:27.091329,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.023799999999999932,0.6429,0.6667
-2023-03-01 15:40:32.728453,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.023799999999999932,0.6429,0.6667
-2023-03-01 17:40:28.417418,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.023799999999999932,0.6429,0.6667
-2023-03-01 14:40:28.916835,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.023799999999999932,0.6429,0.6667
-2023-03-01 13:40:30.422158,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.023799999999999932,0.6429,0.6667
 2023-03-01 12:40:36.278985,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.023799999999999932,0.6429,0.6667
-2023-03-01 09:40:32.404397,Tournament Match-Ups - Tournament Match-Up - J. Rahm v S. Scheffler - Tournament Match-Up,Scottie Scheffler,-0.023799999999999988,0.4762,0.5
-2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March","Arsenal , Liverpool  and Manchester United to score 5 or less goals combined",-0.023799999999999988,0.4762,0.5
+2023-03-01 18:40:30.189433,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.023799999999999932,0.6429,0.6667
+2023-03-01 15:40:32.728453,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.023799999999999932,0.6429,0.6667
+2023-03-01 13:40:30.422158,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.023799999999999932,0.6429,0.6667
+2023-03-01 14:40:28.916835,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.023799999999999932,0.6429,0.6667
+2023-03-01 17:40:28.417418,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.023799999999999932,0.6429,0.6667
+2023-03-01 11:40:27.091329,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.023799999999999932,0.6429,0.6667
 2023-03-01 14:40:29.938981,Tournament Match-Ups - Tournament Match-Up - K. Mitchell v S. Burns - Tournament Match-Up,Sam Burns,-0.023799999999999988,0.4762,0.5
 2023-03-01 09:40:32.440276,Tournament Match-Ups - Tournament Match-Up - M. Fitzpatrick v J. Spieth - Tournament Match-Up ,Jordan Spieth,-0.023799999999999988,0.4762,0.5
+2023-03-01 09:40:32.404397,Tournament Match-Ups - Tournament Match-Up - J. Rahm v S. Scheffler - Tournament Match-Up,Scottie Scheffler,-0.023799999999999988,0.4762,0.5
+2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March","Arsenal , Liverpool  and Manchester United to score 5 or less goals combined",-0.023799999999999988,0.4762,0.5
 2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March",Away teams to score 7 or more goals,-0.023800000000000016,0.1667,0.1905
+2023-03-01 09:40:32.428559,Tournament Match-Ups - Tournament Match-Up - K. Mitchell v S. Burns - Tournament Match-Up,Sam Burns,-0.023800000000000043,0.5,0.5238
 2023-03-01 09:40:32.445445,Tournament Match-Ups - Tournament Match-Up - M. Homa v W. Zalatoris - Tournament Match-Up,Max Homa,-0.023800000000000043,0.5,0.5238
 2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March",12 or more goals scored,-0.023800000000000043,0.5,0.5238
 2023-03-01 09:40:32.382221,Tournament Match-Ups - Tournament Match-Up - C. Morikawa v P. Cantlay - Tournament Match-Up ,Collin Morikawa,-0.023800000000000043,0.5,0.5238
-2023-03-01 09:40:32.428559,Tournament Match-Ups - Tournament Match-Up - K. Mitchell v S. Burns - Tournament Match-Up,Sam Burns,-0.023800000000000043,0.5,0.5238
+2023-03-01 18:40:30.778442,Round Match-Ups - 1st Round Match-Up - J. Spieth vs M. Fitzpatrick - 1st Round Match-Up,Jordan Spieth,-0.023800000000000043,0.5,0.5238
 2023-03-01 15:40:31.912728,NFL Specials - NFL Draft 2023 -  First Overall Pick,Jalen Carter,-0.0242,0.0667,0.0909
 2023-03-01 09:40:32.393789,Tournament Match-Ups - Tournament Match-Up - H. Matsuyama v T. Kim - Tournament Match-Up,Tom Kim,-0.024399999999999977,0.4878,0.5122
 2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March",15 or more goals scored,-0.024800000000000016,0.2105,0.2353
@@ -228,8 +241,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-01 09:40:33.690957,League One - England - League One 2022/23 - Top 2 Finish,Bolton Wanderers,-0.028199999999999996,0.0385,0.0667
 2023-03-01 12:40:41.748091,NBA Specials - Will the LA Lakers To Participate in West Play-in Tournament - LA Lakers Special,Yes,-0.028600000000000014,0.3636,0.3922
 2023-03-01 09:40:33.270251,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Doc Rivers,-0.029299999999999993,0.0476,0.0769
-2023-03-01 09:40:33.682735,League One - England - League One 2022/23 - To Be Relegated,Bristol Rovers,-0.0294,0.0294,0.0588
 2023-03-01 09:40:33.672418,League One - England - League One 2022/23 - Top Goalscorer,Freddie Ladapo,-0.0294,0.0294,0.0588
+2023-03-01 09:40:33.682735,League One - England - League One 2022/23 - To Be Relegated,Bristol Rovers,-0.0294,0.0294,0.0588
 2023-03-01 09:40:33.270251,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Joe Mazzulla,-0.030299999999999994,0.3333,0.3636
 2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March",Both teams to score in 3+ more matches,-0.030299999999999994,0.3333,0.3636
 2023-03-01 09:40:33.270251,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Michael Malone,-0.031399999999999983,0.2353,0.2667
@@ -261,8 +274,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-01 09:40:33.714201,League Two - England - League Two 2022/23 - To Be Promoted,Mansfield Town,-0.07690000000000002,0.3077,0.3846
 2023-03-01 14:40:35.503130,"Daily Soccer Specials - Daily Soccer Specials - Wednesday, 1st March - Daily Soccer Specials - Wednesday, 1st March","Arsenal , Liverpool  and Manchester United to concede 3 or more goals combined",-0.07739999999999997,0.4348,0.5122
 2023-03-01 09:40:33.721149,League Two - England - League Two 2022/23 - Top 7 Finish,Walsall,-0.0889,0.1111,0.2
-2023-03-01 09:40:33.695195,League One - England - League One 2022/23 - Top 6 Finish,Wycombe,-0.09230000000000005,0.3077,0.4
 2023-03-01 09:40:33.709276,League Two - England - League Two 2022/23 - Top Goalscorer,Kristian Dennis,-0.09230000000000005,0.3077,0.4
+2023-03-01 09:40:33.695195,League One - England - League One 2022/23 - Top 6 Finish,Wycombe,-0.09230000000000005,0.3077,0.4
 2023-03-01 09:40:33.682735,League One - England - League One 2022/23 - To Be Relegated,Exeter City,-0.09620000000000001,0.0149,0.1111
 2023-03-01 09:40:33.682735,League One - England - League One 2022/23 - To Be Relegated,Accrington Stanley,-0.09820000000000001,0.4762,0.5744
 2023-03-01 10:40:36.277597,League Two - England - League Two 2022/23 - Top 3 Finish,Mansfield Town,-0.1,0.1667,0.2667
