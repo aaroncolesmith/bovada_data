@@ -1,102 +1,95 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-01 23:40:29.596015,NFL Specials - NFL Draft 2023 - Draft Position - Jalen Carter,Under 16.5,0.11250000000000004,0.8,0.6875
-2023-03-01 16:40:31.192083,NFL Specials - NFL Draft 2023 -  First Overall Pick,Will Anderson,0.09999999999999999,0.1667,0.0667
 2023-03-01 18:40:30.400241,College Basketball - NEC Tournament - To Reach NEC Championship Game,Merrimack,0.07790000000000008,0.7143,0.6364
 2023-03-01 19:40:27.865574,95th Academy Awards - Best Makeup & Hairstyling - Best Makeup & Hairstyling,Elvis,0.061999999999999944,0.6364,0.5744
-2023-03-01 16:40:31.006911,College Basketball - Atlantic Sun Tournament - Atlantic Sun Tournament Winner,Kennesaw State,0.05129999999999996,0.3077,0.2564
-2023-03-01 16:40:31.006911,College Basketball - Atlantic Sun Tournament - Atlantic Sun Tournament Winner,Lipscomb,0.04329999999999999,0.0909,0.0476
 2023-03-01 20:40:35.972984,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Immanuel Quickley (NYK),0.0427,0.0526,0.0099
 2023-03-02 01:40:29.896101,NFL Specials - 2023 NFL Combine - 2023  NFL Combine - Fastest 20-Yard Shuttle to break Jason Allen & Brandin Cooks Combine Record,No (Slower Than 3.81 Seconds),0.04169999999999996,0.875,0.8333
 2023-03-01 17:40:28.657060,Boxing Lines - Mickey Ellison vs Thomas Whittaker Hart - To Win the Bout,Thomas Whittaker Hart,0.03710000000000002,0.6923,0.6552
 2023-03-01 19:40:28.462821,Tournament Match-Ups - Tournament Match-Up - H. Matsuyama v T. Kim - Tournament Match-Up,Tom Kim,0.03600000000000003,0.5238,0.4878
-2023-03-01 16:40:31.192083,NFL Specials - NFL Draft 2023 -  First Overall Pick,Tyree Wilson,0.0295,0.0385,0.009
 2023-03-01 18:40:30.400241,College Basketball - NEC Tournament - To Reach NEC Championship Game,Fairleigh Dickinson,0.027700000000000058,0.5833,0.5556
 2023-03-01 18:40:35.434132,Championship - England Championship 2022/23 - Top 6 Finish,Watford,0.02679999999999999,0.3125,0.2857
-2023-03-01 16:40:31.104121,College Basketball - Patriot Tournament - Patriot Tournament Winner,Boston U,0.025900000000000003,0.0476,0.0217
-2023-03-01 16:40:31.041853,College Basketball - Sun Belt Tournament - Sun Belt Tournament Winner,UL Lafayette,0.024800000000000016,0.2353,0.2105
-2023-03-01 20:40:30.974349,Tournament Match-Ups - Tournament Match-Up - J. Day v T. Hatton - Tournament Match-Up,Tyrrell Hatton,0.023800000000000043,0.5238,0.5
 2023-03-01 20:40:30.912964,Tournament Match-Ups - Tournament Match-Up - A. Scott v B. Horschel - Tournament Match-Up,Billy Horschel,0.023800000000000043,0.5238,0.5
+2023-03-01 20:40:30.974349,Tournament Match-Ups - Tournament Match-Up - J. Day v T. Hatton - Tournament Match-Up,Tyrrell Hatton,0.023800000000000043,0.5238,0.5
 2023-03-01 17:40:28.554912,NFL Specials - NFL Draft 2023 - Frist WR Selected,Jalin Hyatt,0.023799999999999988,0.1667,0.1429
-2023-03-01 21:40:25.725073,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.023799999999999932,0.6667,0.6429
-2023-03-02 03:40:30.362137,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.023799999999999932,0.6667,0.6429
 2023-03-01 19:40:26.830824,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.023799999999999932,0.6667,0.6429
-2023-03-01 18:40:30.196400,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.023799999999999932,0.6667,0.6429
 2023-03-01 20:40:30.475997,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.023799999999999932,0.6667,0.6429
-2023-03-02 02:40:30.286959,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.023799999999999932,0.6667,0.6429
-2023-03-01 16:40:31.286902,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.023799999999999932,0.6667,0.6429
-2023-03-02 01:40:30.076432,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.023799999999999932,0.6667,0.6429
 2023-03-01 22:40:34.925311,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.023799999999999932,0.6667,0.6429
+2023-03-01 17:40:28.423369,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.023799999999999932,0.6667,0.6429
+2023-03-01 21:40:25.725073,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.023799999999999932,0.6667,0.6429
+2023-03-01 18:40:30.196400,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.023799999999999932,0.6667,0.6429
+2023-03-02 01:40:30.076432,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.023799999999999932,0.6667,0.6429
 2023-03-01 23:40:29.234200,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.023799999999999932,0.6667,0.6429
 2023-03-02 00:40:27.890673,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.023799999999999932,0.6667,0.6429
-2023-03-01 17:40:28.423369,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.023799999999999932,0.6667,0.6429
+2023-03-02 02:40:30.286959,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.023799999999999932,0.6667,0.6429
+2023-03-02 04:40:29.998865,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.023799999999999932,0.6667,0.6429
+2023-03-02 03:40:30.362137,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.023799999999999932,0.6667,0.6429
 2023-03-01 18:40:30.522088,Arnold Palmer Invitational - 2/3 Balls - 1st Round 3 Balls - L. Herbert / R. Henley / L. Donald - 1st Round 3 Balls ,Russell Henley,0.02360000000000001,0.4082,0.3846
-2023-03-01 21:40:25.803928,NFL Specials - 2023 NFL Combine - 2023  NFL Combine - Fastest 40 Yard Dash Time,Faster than 4.27 seconds,0.022600000000000064,0.5348,0.5122
-2023-03-01 23:40:31.306419,Tournament Match-Ups - Tournament Match-Up - S. Theegala v G. Woodland - Tournament Match-Up,Gary Woodland,0.022600000000000064,0.5348,0.5122
-2023-03-01 19:40:26.717979,Boxing Lines - Lewis Ritson vs Ohara Davies - To Win the Bout,Ohara Davies,0.022600000000000064,0.6226,0.6
 2023-03-01 23:40:31.208586,Tournament Match-Ups - Tournament Match-Up - C. Conners v J. Rose - Tournament Match-Up,Justin Rose,0.022600000000000064,0.5348,0.5122
 2023-03-01 17:40:30.136611,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Oklahoma City Thunder,Under 38.5,0.022600000000000064,0.6226,0.6
-2023-03-01 16:40:31.041853,College Basketball - Sun Belt Tournament - Sun Belt Tournament Winner,James Madison,0.022199999999999998,0.2222,0.2
+2023-03-01 19:40:26.717979,Boxing Lines - Lewis Ritson vs Ohara Davies - To Win the Bout,Ohara Davies,0.022600000000000064,0.6226,0.6
+2023-03-01 21:40:25.803928,NFL Specials - 2023 NFL Combine - 2023  NFL Combine - Fastest 40 Yard Dash Time,Faster than 4.27 seconds,0.022600000000000064,0.5348,0.5122
+2023-03-01 23:40:31.306419,Tournament Match-Ups - Tournament Match-Up - S. Theegala v G. Woodland - Tournament Match-Up,Gary Woodland,0.022600000000000064,0.5348,0.5122
 2023-03-01 18:40:30.492187,Arnold Palmer Invitational - 2/3 Balls - 1st Round 3 Balls - S.W. Kim / C. Davis / R. Brehm - 1st Round 3 Balls ,Si Woo Kim,0.021699999999999997,0.4762,0.4545
 2023-03-01 18:40:30.778442,Round Match-Ups - 1st Round Match-Up - J. Spieth vs M. Fitzpatrick - 1st Round Match-Up,Matthew Fitzpatrick,0.02169999999999994,0.5455,0.5238
+2023-03-02 04:40:34.085924,Round Match-Ups - 1st Round Match-Up - D. Willett v P. Harrington - 1st Round Match-Up,Danny Willett,0.02169999999999994,0.5455,0.5238
 2023-03-01 21:40:25.800598,NFL Specials - 2023 NFL Combine - 2023  NFL Combine - Fastest 3-Cone Drill to break J.T. Thomas Combine Record,No (Slower Than 6.28 Seconds),0.021399999999999975,0.8214,0.8
 2023-03-01 21:40:26.659741,Arnold Palmer Invitational - 2/3 Balls - 1st Round 3 Balls - S. Theegala / A. Noren / B.H. An - 1st Round 3 Balls ,Byeong Hun An,0.020799999999999985,0.3333,0.3125
-2023-03-01 16:40:31.050835,College Basketball - Horizon League Tournament - To Reach Horizon League Championship Game,Detroit U,0.02020000000000001,0.1111,0.0909
 2023-03-01 19:40:26.727493,Boxing Lines - Justin DeLoach vs Travon Marshall - To Win the Bout,Travon Marshall,0.020100000000000007,0.8462,0.8261
 2023-03-01 18:40:30.466771,Arnold Palmer Invitational - 2/3 Balls - 1st Round 3 Balls - S. Theegala / A. Noren / B.H. An - 1st Round 3 Balls ,Alex Noren,0.019500000000000017,0.3704,0.3509
-2023-03-01 16:40:31.047290,College Basketball - Horizon League Tournament - Horizon League - Tournament Winner,Robert Morris,0.019000000000000003,0.0625,0.0435
 2023-03-01 21:40:25.810715,NFL Specials - 2023 NFL Combine - 2023  NFL Combine - Fastest 60-Yard Shuttle,Slower than 10.81 seconds,0.01880000000000004,0.5744,0.5556
-2023-03-01 18:40:30.592408,Arnold Palmer Invitational - 2/3 Balls - 1st Round 3 Balls - G. Woodland / K. Bradley / F. Molinari - 1st Round 3 Balls ,Keegan Bradley,0.018100000000000005,0.4348,0.4167
 2023-03-01 23:40:31.287458,Tournament Match-Ups - Tournament Match-Up - M. Fitzpatrick v J. Spieth - Tournament Match-Up ,Matthew Fitzpatrick,0.018100000000000005,0.5833,0.5652
+2023-03-01 18:40:30.592408,Arnold Palmer Invitational - 2/3 Balls - 1st Round 3 Balls - G. Woodland / K. Bradley / F. Molinari - 1st Round 3 Balls ,Keegan Bradley,0.018100000000000005,0.4348,0.4167
 2023-03-02 00:40:31.887168,Arnold Palmer Invitational - 2/3 Balls - 1st Round 3 Balls - S. Lowry / J. Dahmen / G. Higgo - 1st Round 3 Balls ,Joel Dahmen,0.017600000000000005,0.3509,0.3333
-2023-03-01 16:40:31.104121,College Basketball - Patriot Tournament - Patriot Tournament Winner,American,0.017099999999999997,0.0294,0.0123
 2023-03-01 20:40:31.282602,Puerto Rico Open - 2/3 Balls - 1st Round 3 Balls - Z. Dou / R. Diaz / B. Matthews - 1st Round 3 Balls,Zecheng Dou,0.016699999999999993,0.4167,0.4
-2023-03-01 16:40:31.104121,College Basketball - Patriot Tournament - Patriot Tournament Winner,Loyola Maryland,0.0156,0.0196,0.004
 2023-03-01 21:40:26.743870,Arnold Palmer Invitational - 2/3 Balls - 1st Round 3 Balls - C. Bezuidenhout / R. Fox / R. Palmer - 1st Round 3 Balls ,Ryan Fox,0.015400000000000025,0.4,0.3846
 2023-03-01 20:40:31.318797,Puerto Rico Open - 2/3 Balls - 1st Round 3 Balls - S. O'Hair / K. Chappell / J. Byrd - 1st Round 3 Balls,Jonathan Byrd,0.014900000000000024,0.3226,0.3077
-2023-03-01 16:40:31.047290,College Basketball - Horizon League Tournament - Horizon League - Tournament Winner,Detroit U,0.014899999999999997,0.0625,0.0476
 2023-03-01 21:40:25.838292,NFL Specials - 2023 NFL Combine - 2023  NFL Combine - Rich Eisen’s 40 time,Faster Than 2022 Time (6.16 Seconds),0.014800000000000035,0.6226,0.6078
-2023-03-01 16:40:31.104121,College Basketball - Patriot Tournament - Patriot Tournament Winner,Lafayette,0.014099999999999998,0.0385,0.0244
-2023-03-01 16:40:31.050835,College Basketball - Horizon League Tournament - To Reach Horizon League Championship Game,Wright State,0.01319999999999999,0.2632,0.25
 2023-03-01 21:40:26.132437,College Basketball - WCC Tournament - WCC Tournament Winner,Santa Clara,0.012700000000000003,0.0323,0.0196
 2023-03-01 20:40:30.948948,Tournament Match-Ups - Tournament Match-Up - C. Kirk v S. Lowry - Tournament Match-Up ,Shane Lowry,0.012199999999999989,0.5122,0.5
 2023-03-02 02:40:30.917010,Round Match-Ups - 1st Round Match-Up - J. Day vs S. Im - 1st Round Match-Up,Sung-Jae Im,0.012199999999999989,0.5122,0.5
-2023-03-01 16:40:31.047290,College Basketball - Horizon League Tournament - Horizon League - Tournament Winner,Wisconsin Milwaukee,0.011900000000000008,0.0952,0.0833
-2023-03-02 02:40:30.766674,Tournament Match-Ups - Tournament Match-Up - C. Kirk v S. Lowry - Tournament Match-Up ,Shane Lowry,0.011600000000000055,0.5238,0.5122
+2023-03-02 04:40:33.962485,Tournament Match-Ups - Tournament Match-Up - R. Fowler v T. Fleetwood - Tournament Match-Up,Tommy Fleetwood,0.011600000000000055,0.5238,0.5122
 2023-03-02 02:40:30.989022,Round Match-Ups - 1st Round Match-Up - H. Matsuyama vs T. Kim - 1st Round Match-Up ,Tom Kim,0.011600000000000055,0.5238,0.5122
+2023-03-02 02:40:30.766674,Tournament Match-Ups - Tournament Match-Up - C. Kirk v S. Lowry - Tournament Match-Up ,Shane Lowry,0.011600000000000055,0.5238,0.5122
 2023-03-01 20:40:31.010637,Tournament Match-Ups - Tournament Match-Up - K. Mitchell v S. Burns - Tournament Match-Up,Sam Burns,0.0116,0.4878,0.4762
+2023-03-02 04:40:33.917949,Tournament Match-Ups - Tournament Match-Up - J. Rahm v S. Scheffler - Tournament Match-Up,Scottie Scheffler,0.0116,0.4878,0.4762
 2023-03-01 20:40:31.292898,Puerto Rico Open - 2/3 Balls - 1st Round 3 Balls - H. Higgs / N. Echavarria / N. Goodwin - 1st Round 3 Balls,Nico Echavarria,0.01150000000000001,0.3448,0.3333
 2023-03-01 21:40:25.851740,NFL Specials - NFL Draft 2023 -  First Overall Pick,Jalen Carter,0.011199999999999995,0.0588,0.0476
+2023-03-01 19:40:28.621847,Round Match-Ups - 1st Round Match-Up - L. Herbert vs R. Henley - 1st Round Match-Up,Russell Henley,0.01100000000000001,0.5348,0.5238
 2023-03-02 02:40:30.786303,Tournament Match-Ups - Tournament Match-Up - J. Day v T. Hatton - Tournament Match-Up,Tyrrell Hatton,0.01100000000000001,0.5348,0.5238
 2023-03-01 21:40:26.886499,Tournament Match-Ups - Tournament Match-Up - C. Conners v J. Rose - Tournament Match-Up,Corey Conners,0.01100000000000001,0.5348,0.5238
-2023-03-01 19:40:28.621847,Round Match-Ups - 1st Round Match-Up - L. Herbert vs R. Henley - 1st Round Match-Up,Russell Henley,0.01100000000000001,0.5348,0.5238
 2023-03-01 23:40:31.228974,Tournament Match-Ups - Tournament Match-Up - C. Young v S. Im - Tournament Match-Up,Sung-Jae Im,0.010699999999999932,0.5455,0.5348
 2023-03-02 01:40:34.613986,Puerto Rico Open - Match-Ups - 1st Round Match-Up - N. Lashley vs S. Piercy - 1st Round Match-Up,Nate Lashley,0.010699999999999932,0.5455,0.5348
+2023-03-02 04:40:33.993981,Round Match-Ups - 1st Round Match-Up - B.H. An v L. Hodges - 1st Round Match-Up,Byeong Hun An,0.010699999999999932,0.5455,0.5348
 2023-03-01 19:40:26.850131,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Kari Lake,0.0102,0.0769,0.0667
-2023-03-02 02:40:30.827846,Tournament Match-Ups - Tournament Match-Up - M. Homa v W. Zalatoris - Tournament Match-Up,Will Zalatoris,0.010099999999999998,0.5556,0.5455
+2023-03-02 04:40:33.897141,Tournament Match-Ups - Tournament Match-Up - C. Morikawa v P. Cantlay - Tournament Match-Up ,Patrick Cantlay,0.010099999999999998,0.5556,0.5455
 2023-03-02 00:40:27.077173,Boxing Lines - Lawrence Okolie vs David Light - To Win the Bout,Lawrence Okolie,0.010099999999999998,0.8889,0.8788
-2023-03-01 21:40:25.993499,Boxing Lines - Lawrence Okolie vs David Light - To Win the Bout,Lawrence Okolie,0.010099999999999998,0.8889,0.8788
 2023-03-02 02:40:30.806044,Tournament Match-Ups - Tournament Match-Up - K. Bradley v S. Power - Tournament Match-Up,Keegan Bradley,0.010099999999999998,0.5556,0.5455
+2023-03-02 02:40:30.827846,Tournament Match-Ups - Tournament Match-Up - M. Homa v W. Zalatoris - Tournament Match-Up,Will Zalatoris,0.010099999999999998,0.5556,0.5455
+2023-03-01 21:40:25.993499,Boxing Lines - Lawrence Okolie vs David Light - To Win the Bout,Lawrence Okolie,0.010099999999999998,0.8889,0.8788
 2023-03-01 19:40:26.732164,Boxing Lines - Terrell Gausha vs Brandyn Lynch - To Win the Bout,Terrell Gausha,-0.010099999999999998,0.8788,0.8889
+2023-03-02 00:40:31.887168,Arnold Palmer Invitational - 2/3 Balls - 1st Round 3 Balls - S. Lowry / J. Dahmen / G. Higgo - 1st Round 3 Balls ,Shane Lowry,-0.010099999999999998,0.4444,0.4545
 2023-03-01 20:40:29.815018,Boxing Lines - Lawrence Okolie vs David Light - To Win the Bout,Lawrence Okolie,-0.010099999999999998,0.8788,0.8889
 2023-03-01 23:40:29.426482,Boxing Lines - Lawrence Okolie vs David Light - To Win the Bout,Lawrence Okolie,-0.010099999999999998,0.8788,0.8889
-2023-03-02 00:40:31.887168,Arnold Palmer Invitational - 2/3 Balls - 1st Round 3 Balls - S. Lowry / J. Dahmen / G. Higgo - 1st Round 3 Balls ,Shane Lowry,-0.010099999999999998,0.4444,0.4545
 2023-03-01 19:40:26.850131,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Ron DeSantis,-0.0102,0.0667,0.0769
-2023-03-02 02:40:30.917010,Round Match-Ups - 1st Round Match-Up - J. Day vs S. Im - 1st Round Match-Up,Jason Day,-0.010699999999999932,0.5348,0.5455
 2023-03-01 20:40:30.948948,Tournament Match-Ups - Tournament Match-Up - C. Kirk v S. Lowry - Tournament Match-Up ,Chris Kirk,-0.010699999999999932,0.5348,0.5455
+2023-03-02 02:40:30.917010,Round Match-Ups - 1st Round Match-Up - J. Day vs S. Im - 1st Round Match-Up,Jason Day,-0.010699999999999932,0.5348,0.5455
+2023-03-02 04:40:33.962485,Tournament Match-Ups - Tournament Match-Up - R. Fowler v T. Fleetwood - Tournament Match-Up,Rickie Fowler,-0.01100000000000001,0.5238,0.5348
 2023-03-02 02:40:30.989022,Round Match-Ups - 1st Round Match-Up - H. Matsuyama vs T. Kim - 1st Round Match-Up ,Hideki Matsuyama,-0.01100000000000001,0.5238,0.5348
 2023-03-02 02:40:30.766674,Tournament Match-Ups - Tournament Match-Up - C. Kirk v S. Lowry - Tournament Match-Up ,Chris Kirk,-0.01100000000000001,0.5238,0.5348
 2023-03-01 23:40:31.287458,Tournament Match-Ups - Tournament Match-Up - M. Fitzpatrick v J. Spieth - Tournament Match-Up ,Jordan Spieth,-0.011099999999999999,0.4651,0.4762
-2023-03-01 20:40:31.282602,Puerto Rico Open - 2/3 Balls - 1st Round 3 Balls - Z. Dou / R. Diaz / B. Matthews - 1st Round 3 Balls,Roberto Diaz,-0.01150000000000001,0.3333,0.3448
 2023-03-01 20:40:31.292898,Puerto Rico Open - 2/3 Balls - 1st Round 3 Balls - H. Higgs / N. Echavarria / N. Goodwin - 1st Round 3 Balls,Noah Goodwin,-0.01150000000000001,0.3333,0.3448
-2023-03-02 02:40:30.786303,Tournament Match-Ups - Tournament Match-Up - J. Day v T. Hatton - Tournament Match-Up,Jason Day,-0.011600000000000055,0.5122,0.5238
+2023-03-01 20:40:31.282602,Puerto Rico Open - 2/3 Balls - 1st Round 3 Balls - Z. Dou / R. Diaz / B. Matthews - 1st Round 3 Balls,Roberto Diaz,-0.01150000000000001,0.3333,0.3448
+2023-03-02 04:40:34.064747,Round Match-Ups - 1st Round Match-Up - C. Bezuidenhout v T. Lawrence - 1st Round Match-Up,Thriston Lawrence,-0.0116,0.4762,0.4878
 2023-03-01 21:40:26.886499,Tournament Match-Ups - Tournament Match-Up - C. Conners v J. Rose - Tournament Match-Up,Justin Rose,-0.011600000000000055,0.5122,0.5238
+2023-03-02 02:40:30.786303,Tournament Match-Ups - Tournament Match-Up - J. Day v T. Hatton - Tournament Match-Up,Jason Day,-0.011600000000000055,0.5122,0.5238
 2023-03-01 19:40:28.621847,Round Match-Ups - 1st Round Match-Up - L. Herbert vs R. Henley - 1st Round Match-Up,Lucas Herbert,-0.011600000000000055,0.5122,0.5238
-2023-03-02 01:40:34.613986,Puerto Rico Open - Match-Ups - 1st Round Match-Up - N. Lashley vs S. Piercy - 1st Round Match-Up,Scott Piercy,-0.012199999999999989,0.5,0.5122
-2023-03-02 02:40:30.827846,Tournament Match-Ups - Tournament Match-Up - M. Homa v W. Zalatoris - Tournament Match-Up,Max Homa,-0.012199999999999989,0.4878,0.5
 2023-03-01 23:40:31.228974,Tournament Match-Ups - Tournament Match-Up - C. Young v S. Im - Tournament Match-Up,Cameron Young,-0.012199999999999989,0.5,0.5122
+2023-03-02 04:40:33.993981,Round Match-Ups - 1st Round Match-Up - B.H. An v L. Hodges - 1st Round Match-Up,Lee Hodges,-0.012199999999999989,0.5,0.5122
+2023-03-02 02:40:30.827846,Tournament Match-Ups - Tournament Match-Up - M. Homa v W. Zalatoris - Tournament Match-Up,Max Homa,-0.012199999999999989,0.4878,0.5
+2023-03-02 01:40:34.613986,Puerto Rico Open - Match-Ups - 1st Round Match-Up - N. Lashley vs S. Piercy - 1st Round Match-Up,Scott Piercy,-0.012199999999999989,0.5,0.5122
+2023-03-02 04:40:33.897141,Tournament Match-Ups - Tournament Match-Up - C. Morikawa v P. Cantlay - Tournament Match-Up ,Collin Morikawa,-0.012199999999999989,0.4878,0.5
 2023-03-02 02:40:30.806044,Tournament Match-Ups - Tournament Match-Up - K. Bradley v S. Power - Tournament Match-Up,Seamus Power,-0.012199999999999989,0.4878,0.5
 2023-03-01 18:40:30.592408,Arnold Palmer Invitational - 2/3 Balls - 1st Round 3 Balls - G. Woodland / K. Bradley / F. Molinari - 1st Round 3 Balls ,Gary Woodland,-0.013800000000000034,0.3636,0.3774
-2023-03-01 16:40:31.050835,College Basketball - Horizon League Tournament - To Reach Horizon League Championship Game,Oakland,-0.013999999999999999,0.0769,0.0909
 2023-03-01 20:40:31.318797,Puerto Rico Open - 2/3 Balls - 1st Round 3 Balls - S. O'Hair / K. Chappell / J. Byrd - 1st Round 3 Balls,Kevin Chappell,-0.01419999999999999,0.3704,0.3846
 2023-03-01 21:40:25.851740,NFL Specials - NFL Draft 2023 -  First Overall Pick,Bryce Young,-0.014200000000000101,0.6154,0.6296
 2023-03-01 21:40:26.743870,Arnold Palmer Invitational - 2/3 Balls - 1st Round 3 Balls - C. Bezuidenhout / R. Fox / R. Palmer - 1st Round 3 Balls ,Christiaan Bezuidenhout,-0.015400000000000025,0.3846,0.4
@@ -106,37 +99,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-01 18:40:30.466771,Arnold Palmer Invitational - 2/3 Balls - 1st Round 3 Balls - S. Theegala / A. Noren / B.H. An - 1st Round 3 Balls ,Sahith Theegala,-0.018100000000000005,0.4167,0.4348
 2023-03-01 19:40:26.727493,Boxing Lines - Justin DeLoach vs Travon Marshall - To Win the Bout,Justin DeLoach,-0.018799999999999983,0.2222,0.241
 2023-03-01 21:40:25.803928,NFL Specials - 2023 NFL Combine - 2023  NFL Combine - Fastest 40 Yard Dash Time,Slower than 4.27 seconds,-0.01880000000000004,0.5556,0.5744
-2023-03-01 16:40:31.006911,College Basketball - Atlantic Sun Tournament - Atlantic Sun Tournament Winner,Eastern Kentucky,-0.019099999999999992,0.0476,0.0667
-2023-03-01 16:40:31.104121,College Basketball - Patriot Tournament - Patriot Tournament Winner,Army,-0.019099999999999992,0.0476,0.0667
-2023-03-01 16:40:31.192083,NFL Specials - NFL Draft 2023 -  First Overall Pick,Jalen Carter,-0.019099999999999992,0.0476,0.0667
-2023-03-01 19:40:26.717979,Boxing Lines - Lewis Ritson vs Ohara Davies - To Win the Bout,Lewis Ritson,-0.020699999999999996,0.4444,0.4651
 2023-03-01 17:40:30.136611,2022/23 NBA - Regular Season Wins - Regular Season Wins - Totals - Oklahoma City Thunder,Over 38.5,-0.020699999999999996,0.4444,0.4651
 2023-03-01 21:40:25.838292,NFL Specials - 2023 NFL Combine - 2023  NFL Combine - Rich Eisen’s 40 time,Slower Than 2022 Time (6.16 Seconds),-0.020699999999999996,0.4444,0.4651
+2023-03-01 19:40:26.717979,Boxing Lines - Lewis Ritson vs Ohara Davies - To Win the Bout,Lewis Ritson,-0.020699999999999996,0.4444,0.4651
 2023-03-01 20:40:30.974349,Tournament Match-Ups - Tournament Match-Up - J. Day v T. Hatton - Tournament Match-Up,Jason Day,-0.02169999999999994,0.5238,0.5455
 2023-03-01 20:40:30.912964,Tournament Match-Ups - Tournament Match-Up - A. Scott v B. Horschel - Tournament Match-Up,Adam Scott,-0.02169999999999994,0.5238,0.5455
 2023-03-01 19:40:26.850131,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Nikki Haley,-0.021999999999999964,0.2857,0.3077
-2023-03-01 16:40:31.104121,College Basketball - Patriot Tournament - Patriot Tournament Winner,Colgate,-0.02200000000000002,0.6923,0.7143
 2023-03-01 21:40:25.800598,NFL Specials - 2023 NFL Combine - 2023  NFL Combine - Fastest 3-Cone Drill to break J.T. Thomas Combine Record,Yes (Faster Than 6.28 Seconds),-0.02250000000000002,0.2632,0.2857
-2023-03-01 21:40:25.810715,NFL Specials - 2023 NFL Combine - 2023  NFL Combine - Fastest 60-Yard Shuttle,Faster than 10.81 seconds,-0.022600000000000064,0.5122,0.5348
-2023-03-01 23:40:31.306419,Tournament Match-Ups - Tournament Match-Up - S. Theegala v G. Woodland - Tournament Match-Up,Sahith Theegala,-0.022600000000000064,0.5122,0.5348
 2023-03-01 23:40:31.208586,Tournament Match-Ups - Tournament Match-Up - C. Conners v J. Rose - Tournament Match-Up,Corey Conners,-0.022600000000000064,0.5122,0.5348
-2023-03-01 22:40:34.919285,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.023799999999999932,0.6429,0.6667
-2023-03-02 02:40:30.280042,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.023799999999999932,0.6429,0.6667
+2023-03-01 23:40:31.306419,Tournament Match-Ups - Tournament Match-Up - S. Theegala v G. Woodland - Tournament Match-Up,Sahith Theegala,-0.022600000000000064,0.5122,0.5348
+2023-03-01 21:40:25.810715,NFL Specials - 2023 NFL Combine - 2023  NFL Combine - Fastest 60-Yard Shuttle,Faster than 10.81 seconds,-0.022600000000000064,0.5122,0.5348
 2023-03-02 00:40:27.883735,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.023799999999999932,0.6429,0.6667
-2023-03-01 23:40:29.228009,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.023799999999999932,0.6429,0.6667
+2023-03-02 04:40:29.991564,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.023799999999999932,0.6429,0.6667
 2023-03-02 03:40:30.356199,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.023799999999999932,0.6429,0.6667
+2023-03-02 02:40:30.280042,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.023799999999999932,0.6429,0.6667
 2023-03-01 20:40:30.465846,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.023799999999999932,0.6429,0.6667
+2023-03-01 17:40:28.417418,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.023799999999999932,0.6429,0.6667
+2023-03-02 01:40:30.068520,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.023799999999999932,0.6429,0.6667
+2023-03-01 18:40:30.189433,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.023799999999999932,0.6429,0.6667
+2023-03-01 23:40:29.228009,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.023799999999999932,0.6429,0.6667
+2023-03-01 22:40:34.919285,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.023799999999999932,0.6429,0.6667
 2023-03-01 21:40:25.718106,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.023799999999999932,0.6429,0.6667
 2023-03-01 19:40:26.824134,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.023799999999999932,0.6429,0.6667
-2023-03-01 18:40:30.189433,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.023799999999999932,0.6429,0.6667
-2023-03-01 17:40:28.417418,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.023799999999999932,0.6429,0.6667
-2023-03-01 16:40:31.279961,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.023799999999999932,0.6429,0.6667
-2023-03-02 01:40:30.068520,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.023799999999999932,0.6429,0.6667
+2023-03-02 04:40:34.085924,Round Match-Ups - 1st Round Match-Up - D. Willett v P. Harrington - 1st Round Match-Up,Padraig Harrington,-0.023800000000000043,0.5,0.5238
 2023-03-01 18:40:30.778442,Round Match-Ups - 1st Round Match-Up - J. Spieth vs M. Fitzpatrick - 1st Round Match-Up,Jordan Spieth,-0.023800000000000043,0.5,0.5238
-2023-03-01 16:40:31.041853,College Basketball - Sun Belt Tournament - Sun Belt Tournament Winner,Marshall,-0.02560000000000001,0.3077,0.3333
 2023-03-01 19:40:28.462821,Tournament Match-Ups - Tournament Match-Up - H. Matsuyama v T. Kim - Tournament Match-Up,Hideki Matsuyama,-0.03179999999999994,0.5238,0.5556
 2023-03-01 17:40:28.657060,Boxing Lines - Mickey Ellison vs Thomas Whittaker Hart - To Win the Bout,Mickey Ellison,-0.0378,0.3704,0.4082
-2023-03-01 16:40:31.104121,College Basketball - Patriot Tournament - Patriot Tournament Winner,Navy,-0.045900000000000024,0.2105,0.2564
 2023-03-02 01:40:29.896101,NFL Specials - 2023 NFL Combine - 2023  NFL Combine - Fastest 20-Yard Shuttle to break Jason Allen & Brandin Cooks Combine Record,Yes (Faster Than 3.81 Seconds),-0.04999999999999999,0.2,0.25
 2023-03-01 19:40:27.865574,95th Academy Awards - Best Makeup & Hairstyling - Best Makeup & Hairstyling,The Whale,-0.08329999999999999,0.4167,0.5
 2023-03-01 23:40:29.596015,NFL Specials - NFL Draft 2023 - Draft Position - Jalen Carter,Over 16.5,-0.10649999999999998,0.2857,0.3922
