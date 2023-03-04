@@ -17,9 +17,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-04 07:40:27.951610,Cologuard Classic - Cologuard Classic - Outright,David Toms,0.0384,0.0769,0.0385
 2023-03-04 12:40:32.778746,MLB Regular Season Props - MLB 2023 Regular Season Props - Boston Red Sox Regular Season Win Total,Over 77.5,0.037800000000000056,0.5833,0.5455
 2023-03-04 08:40:31.351022,NFL Specials - NFL Draft 2023 - First QB Selected,Bryce Young,0.03710000000000002,0.6923,0.6552
-2023-03-04 11:40:34.249631,Puerto Rico Open - 2/3 Balls - 3rd Round 2 Balls - A. Nunez v N. Goodwin - 3rd Round 2 Balls,Augusto Nunez,0.03479999999999994,0.6,0.5652
-2023-03-04 11:40:33.932667,Round Match-Ups - 3rd Round Match-Up - K. Mitchell v R. Fowler - 3rd Round Match-Up,Keith Mitchell,0.03479999999999994,0.6,0.5652
 2023-03-04 12:40:32.664114,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Washington Nationals - CJ Abrams - Total Stolen Bases,Under 25.5,0.03479999999999994,0.6,0.5652
+2023-03-04 11:40:33.932667,Round Match-Ups - 3rd Round Match-Up - K. Mitchell v R. Fowler - 3rd Round Match-Up,Keith Mitchell,0.03479999999999994,0.6,0.5652
+2023-03-04 11:40:34.249631,Puerto Rico Open - 2/3 Balls - 3rd Round 2 Balls - A. Nunez v N. Goodwin - 3rd Round 2 Balls,Augusto Nunez,0.03479999999999994,0.6,0.5652
 2023-03-04 12:40:32.813550,MLB Regular Season Props - MLB 2023 Regular Season Props - Chicago White Sox Regular Season Win Total,Under 83.5,0.032099999999999906,0.6154,0.5833
 2023-03-04 12:40:30.883567,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Cincinnati Reds - Joey Votto Batting Average,Under .260,0.030399999999999983,0.5652,0.5348
 2023-03-04 10:40:34.600422,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Tigres UANL,0.02779999999999999,0.25,0.2222
@@ -30,31 +30,33 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-04 06:40:29.230475,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Philadelphia 76ers,0.0242,0.0909,0.0667
 2023-03-04 14:40:28.940915,Arnold Palmer Invitational - 2/3 Balls - 3rd Round 2 Balls - M. Fitzpatrick v J. Thomas - 3rd Round 2 Balls,Justin Thomas,0.023800000000000043,0.5238,0.5
 2023-03-04 12:40:33.000588,MLB Regular Season Props - MLB 2023 Regular Season Props - Milwaukee Brewers To Make The playoffs,Yes,0.023799999999999988,0.5,0.4762
+2023-03-04 15:40:30.730286,Arnold Palmer Invitational - 2/3 Balls - 3rd Round 2 Balls - J. Suh v A. Rai - 3rd Round 2 Balls,Aaron Rai,0.023799999999999988,0.5,0.4762
 2023-03-04 07:40:27.951610,Cologuard Classic - Cologuard Classic - Outright,Ken Duke,0.0236,0.0385,0.0149
 2023-03-04 07:40:27.951610,Cologuard Classic - Cologuard Classic - Outright,Mark Hensby,0.023200000000000002,0.0476,0.0244
 2023-03-04 07:40:31.269550,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Golden State Warriors,0.02310000000000001,0.1,0.0769
 2023-03-04 07:40:27.889949,Puerto Rico Open - 2/3 Balls - 3rd Round 2 Balls - T. Goya v G. Ogilvy - 3rd Round 2 Balls,Geoff Ogilvy,0.02260000000000001,0.4,0.3774
 2023-03-04 13:40:29.212995,95th Academy Awards - Best Documentary Feature - Best Documentary Feature,All The Beauty And Bloodshed,0.022199999999999998,0.2222,0.2
 2023-03-04 13:40:29.274741,95th Academy Awards - Best Supporting Actress - Best Supporting Actress ,Kerry Condon - The Banshees of Inisherin,0.021999999999999964,0.3077,0.2857
-2023-03-04 12:40:31.730823,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Oakland Athletics - Esteury Ruiz- Total Stolen Bases,Under 35.5,0.02079999999999993,0.5556,0.5348
-2023-03-04 12:40:32.061680,MLB Regular Season Props - MLB 2023 Regular Season Player Props - San Diego Padres - Manny Machado- Runs Scored,Under 105.5,0.02079999999999993,0.5556,0.5348
-2023-03-04 12:40:30.861090,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Chicago White Sox - Luis Robert Total Stolen Bases,Under 20.5,0.02079999999999993,0.5556,0.5348
-2023-03-04 12:40:32.057534,MLB Regular Season Props - MLB 2023 Regular Season Player Props - San Diego Padres - Manny Machado- Batting Average,Under .290,0.02079999999999993,0.5556,0.5348
-2023-03-04 12:40:31.510798,MLB Regular Season Props - MLB 2023 Regular Season Player Props - New York Mets - Francisco Lindor - Total Runs Scored,Under 95.5,0.02079999999999993,0.5556,0.5348
+2023-03-04 15:40:30.799674,Arnold Palmer Invitational - 2/3 Balls - 3rd Round 2 Balls - S. Scheffler v C. Young - 3rd Round 2 Balls,Scottie Scheffler,0.02180000000000004,0.6296,0.6078
 2023-03-04 12:40:31.552077,MLB Regular Season Props - MLB 2023 Regular Season Player Props - New York Mets -Brandon Nimmo - Total Runs Scored,Under 95.5,0.02079999999999993,0.5556,0.5348
-2023-03-04 12:40:30.894731,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Cincinnati Reds - Tyler Stephenson Batting Average,Under .285,0.02079999999999993,0.5556,0.5348
-2023-03-04 12:40:31.945358,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Pittsburgh Pirates - Oneil Cruz - Total RBI's,Under 84.5,0.02079999999999993,0.5556,0.5348
-2023-03-04 12:40:31.717743,MLB Regular Season Props - MLB 2023 Regular Season Player Props - New York Yankees - Josh Donaldson - Total Homeruns,Under 22.5,0.02079999999999993,0.5556,0.5348
-2023-03-04 12:40:31.896791,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Philadelphia Phillies - Zack Wheeler - Total Strikeouts,Under 190.5,0.02079999999999993,0.5556,0.5348
-2023-03-04 12:40:31.963164,MLB Regular Season Props - MLB 2023 Regular Season Player Props - San Diego Padres - Blake Snell - Total Strikeouts,Under 195.5,0.02079999999999993,0.5556,0.5348
-2023-03-04 12:40:31.812047,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Philadelphia Phillies - J.T. Realmuto - Total RBI's,Under 80.5,0.02079999999999993,0.5556,0.5348
 2023-03-04 12:40:31.563369,MLB Regular Season Props - MLB 2023 Regular Season Player Props - New York Mets -Justin Verlander - ERA,Over 2.75,0.02079999999999993,0.5556,0.5348
-2023-03-04 12:40:31.333095,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Los Angeles Dodgers - Mookie Betts - Total Runs Scored,Under 114.5,0.02079999999999993,0.5556,0.5348
-2023-03-04 12:40:31.668915,MLB Regular Season Props - MLB 2023 Regular Season Player Props - New York Yankees - Clay Holmes - Total Saves,Under 30.5,0.02079999999999993,0.5556,0.5348
-2023-03-04 10:40:29.932388,Round Match-Ups - 3rd Round Match-Up - J. Rahm v S. Scheffler - 3rd Round Match-Up,Jon Rahm,0.02079999999999993,0.5556,0.5348
-2023-03-04 11:40:33.976060,Round Match-Ups - 3rd Round Match-Up - R. Shelton v W. Gordon - 3rd Round Match-Up,Will Gordon,0.02079999999999993,0.5556,0.5348
 2023-03-04 14:40:28.999067,Round Match-Ups - 3rd Round Match-Up - J. Rahm vs R. McIlroy - 3rd Round Match-Up,Jon Rahm,0.02079999999999993,0.5556,0.5348
+2023-03-04 12:40:32.061680,MLB Regular Season Props - MLB 2023 Regular Season Player Props - San Diego Padres - Manny Machado- Runs Scored,Under 105.5,0.02079999999999993,0.5556,0.5348
+2023-03-04 12:40:32.057534,MLB Regular Season Props - MLB 2023 Regular Season Player Props - San Diego Padres - Manny Machado- Batting Average,Under .290,0.02079999999999993,0.5556,0.5348
+2023-03-04 12:40:31.963164,MLB Regular Season Props - MLB 2023 Regular Season Player Props - San Diego Padres - Blake Snell - Total Strikeouts,Under 195.5,0.02079999999999993,0.5556,0.5348
 2023-03-04 12:40:31.951520,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Pittsburgh Pirates - Oneil Cruz - Total Runs Scored,Under 89.5,0.02079999999999993,0.5556,0.5348
+2023-03-04 12:40:31.945358,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Pittsburgh Pirates - Oneil Cruz - Total RBI's,Under 84.5,0.02079999999999993,0.5556,0.5348
+2023-03-04 11:40:33.976060,Round Match-Ups - 3rd Round Match-Up - R. Shelton v W. Gordon - 3rd Round Match-Up,Will Gordon,0.02079999999999993,0.5556,0.5348
+2023-03-04 12:40:31.896791,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Philadelphia Phillies - Zack Wheeler - Total Strikeouts,Under 190.5,0.02079999999999993,0.5556,0.5348
+2023-03-04 12:40:31.510798,MLB Regular Season Props - MLB 2023 Regular Season Player Props - New York Mets - Francisco Lindor - Total Runs Scored,Under 95.5,0.02079999999999993,0.5556,0.5348
+2023-03-04 12:40:30.894731,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Cincinnati Reds - Tyler Stephenson Batting Average,Under .285,0.02079999999999993,0.5556,0.5348
+2023-03-04 12:40:31.812047,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Philadelphia Phillies - J.T. Realmuto - Total RBI's,Under 80.5,0.02079999999999993,0.5556,0.5348
+2023-03-04 12:40:31.730823,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Oakland Athletics - Esteury Ruiz- Total Stolen Bases,Under 35.5,0.02079999999999993,0.5556,0.5348
+2023-03-04 12:40:31.717743,MLB Regular Season Props - MLB 2023 Regular Season Player Props - New York Yankees - Josh Donaldson - Total Homeruns,Under 22.5,0.02079999999999993,0.5556,0.5348
+2023-03-04 12:40:31.668915,MLB Regular Season Props - MLB 2023 Regular Season Player Props - New York Yankees - Clay Holmes - Total Saves,Under 30.5,0.02079999999999993,0.5556,0.5348
+2023-03-04 12:40:30.861090,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Chicago White Sox - Luis Robert Total Stolen Bases,Under 20.5,0.02079999999999993,0.5556,0.5348
+2023-03-04 12:40:31.333095,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Los Angeles Dodgers - Mookie Betts - Total Runs Scored,Under 114.5,0.02079999999999993,0.5556,0.5348
+2023-03-04 10:40:29.932388,Round Match-Ups - 3rd Round Match-Up - J. Rahm v S. Scheffler - 3rd Round Match-Up,Jon Rahm,0.02079999999999993,0.5556,0.5348
 2023-03-04 10:40:29.596832,Boxing Lines - Elnur Abduraimov vs Angel Daniel Garcia Molina - To Win the Bout,Elnur Abduraimov,0.020500000000000074,0.8667,0.8462
 2023-03-04 07:40:27.951610,Cologuard Classic - Cologuard Classic - Outright,Kirk Triplett,0.0204,0.0244,0.004
 2023-03-04 06:40:29.255820,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Dallas Mavericks,0.02020000000000001,0.1111,0.0909
@@ -64,23 +66,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-04 12:40:31.934617,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Pittsburgh Pirates - Ke'Bryan Hayes - Total Stolen Bases,Under 24.5,0.01880000000000004,0.5744,0.5556
 2023-03-04 07:40:27.951610,Cologuard Classic - Cologuard Classic - Outright,Brian Cooper,0.0186,0.0196,0.001
 2023-03-04 10:40:30.062766,Round Match-Ups - 3rd Round Match-Up - S. Scheffler vs T. Finau - 3rd Round Match-Up,Scottie Scheffler,0.018100000000000005,0.5833,0.5652
-2023-03-04 07:40:31.316919,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Sacramento Kings,0.018100000000000005,0.4348,0.4167
-2023-03-04 12:40:33.148153,MLB Regular Season Props - MLB 2023 Regular Season Props - San Francisco Giants Regular Season Win Total,Over 80.5,0.018100000000000005,0.5833,0.5652
-2023-03-04 12:40:34.674172,Round Match-Ups - 3rd Round Match-Up - J. Spieth vs M. Fitzpatrick - 3rd Round Match-Up,Matt Fitzpatrick,0.018100000000000005,0.5833,0.5652
-2023-03-04 10:40:30.048414,Round Match-Ups - 3rd Round Match-Up - K. Mitchell vs A. Scott - 3rd Round Match-Up,Keith Mitchell,0.018100000000000005,0.5833,0.5652
 2023-03-04 12:40:32.796218,MLB Regular Season Props - MLB 2023 Regular Season Props - Chicago Cubs Regular Season Win Total,Over 77.5,0.018100000000000005,0.5833,0.5652
+2023-03-04 07:40:31.316919,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Sacramento Kings,0.018100000000000005,0.4348,0.4167
+2023-03-04 10:40:30.048414,Round Match-Ups - 3rd Round Match-Up - K. Mitchell vs A. Scott - 3rd Round Match-Up,Keith Mitchell,0.018100000000000005,0.5833,0.5652
+2023-03-04 12:40:34.674172,Round Match-Ups - 3rd Round Match-Up - J. Spieth vs M. Fitzpatrick - 3rd Round Match-Up,Matt Fitzpatrick,0.018100000000000005,0.5833,0.5652
+2023-03-04 12:40:33.148153,MLB Regular Season Props - MLB 2023 Regular Season Props - San Francisco Giants Regular Season Win Total,Over 80.5,0.018100000000000005,0.5833,0.5652
 2023-03-04 13:40:29.172428,95th Academy Awards - Best Cinematography - Best Cinematography,James Friend - All Quiet On The Western Front,0.017900000000000027,0.875,0.8571
 2023-03-04 11:40:29.687800,Boxing Lines - Lewis Ritson vs Ohara Davies - To Win the Bout,Lewis Ritson,0.017299999999999982,0.4255,0.4082
 2023-03-04 11:40:34.357670,HSBC Women's World Championship - HSBC Women's World Championship - Outright,Celine Boutier,0.017099999999999997,0.0294,0.0123
 2023-03-04 06:40:29.249851,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Washington Wizards,0.016700000000000007,0.1,0.0833
 2023-03-04 12:40:32.717128,MLB Regular Season Props - MLB 2023 Regular Season Props - Arizona Diamondbacks Regular Season Wins 2023,Over 74.5,0.016699999999999937,0.6,0.5833
+2023-03-04 15:40:30.743698,Arnold Palmer Invitational - 2/3 Balls - 3rd Round 2 Balls - V. Hovland v C. Kirk - 3rd Round 2 Balls,Viktor Hovland,0.016699999999999937,0.6,0.5833
 2023-03-04 09:40:30.082048,Boxing Lines - Angel Fierro vs Eduardo Estela - To Win the Bout,Eduardo Estela,0.015400000000000025,0.2564,0.241
 2023-03-04 08:40:31.351022,NFL Specials - NFL Draft 2023 - First QB Selected,Anthony Richardson,0.015100000000000002,0.1818,0.1667
 2023-03-04 08:40:31.347587,NFL Specials - NFL Draft 2023 - First Defensive Player Selected,Christian Gonzalez,0.014900000000000004,0.0345,0.0196
 2023-03-04 07:40:31.283533,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Sacramento Kings,0.014900000000000004,0.0345,0.0196
-2023-03-04 04:40:29.894345,BKFC 37 - Gary Fox vs Nathan Hind - To Win the Bout,Nathan Hind,0.014800000000000035,0.6226,0.6078
 2023-03-04 14:40:28.956772,Arnold Palmer Invitational - 2/3 Balls - 3rd Round 2 Balls - J. Spieth v K. Kitayama - 3rd Round 2 Balls,Jordan Spieth,0.014800000000000035,0.6226,0.6078
+2023-03-04 04:40:29.894345,BKFC 37 - Gary Fox vs Nathan Hind - To Win the Bout,Nathan Hind,0.014800000000000035,0.6226,0.6078
+2023-03-04 15:40:30.832878,Arnold Palmer Invitational - 2/3 Balls - 3rd Round 2 Balls - J. Spieth v K. Kitayama - 3rd Round 2 Balls,Jordan Spieth,0.013799999999999923,0.6364,0.6226
 2023-03-04 07:40:27.951610,Cologuard Classic - Cologuard Classic - Outright,Richard Green,0.0131,0.0476,0.0345
+2023-03-04 15:40:30.141251,Boxing Lines - David Benavidez vs Caleb Plant - To Win the Bout,David Benavidez,0.0131,0.7778,0.7647
 2023-03-04 07:40:27.951610,Cologuard Classic - Cologuard Classic - Outright,Marco Dawson,0.013,0.0196,0.0066
 2023-03-04 06:40:29.786814,Round Match-Ups - 3rd Round Match-Up - B. Taylor vs A. Rai - 3rd Round Match-Up,Aaron Rai,0.012199999999999989,0.5122,0.5
 2023-03-04 06:40:28.575845,BKFC 37 - Ryan Carmichael vs Will Cairns - To Win the Bout,Ryan Carmichael,0.011900000000000022,0.8333,0.8214
@@ -89,86 +94,85 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-04 13:40:29.251730,95th Academy Awards - Best Picture - Best Picture,Everything Everywhere All At Once,0.011600000000000055,0.9375,0.9259
 2023-03-04 07:40:27.894890,Puerto Rico Open - 2/3 Balls - 3rd Round 2 Balls - M. Kim v H. Lebioda - 3rd Round 2 Balls,Hank Lebioda,0.0116,0.4878,0.4762
 2023-03-04 06:40:28.610913,BKFC 37 - Rico Franco vs Dan Breeze - To Win the Bout,Rico Franco,0.011499999999999955,0.697,0.6855
-2023-03-04 13:40:29.172428,95th Academy Awards - Best Cinematography - Best Cinematography,Roger Deakins - Empire Of Light,0.011099999999999999,0.1111,0.1
 2023-03-04 10:40:29.554274,Boxing Lines - Agit Kabayel vs Agron Smakici - To Win the Bout,Agit Kabayel,0.011099999999999999,0.7937,0.7826
-2023-03-04 10:40:29.977541,Round Match-Ups - 3rd Round Match-Up - R. Shelton v W. Gordon - 3rd Round Match-Up,Will Gordon,0.01100000000000001,0.5348,0.5238
-2023-03-04 06:40:29.811754,Round Match-Ups - 3rd Round Match-Up - J. Spieth vs M. Fitzpatrick - 3rd Round Match-Up,Matt Fitzpatrick,0.01100000000000001,0.5348,0.5238
-2023-03-04 11:40:34.019426,Round Match-Ups - 3rd Round Match-Up - T. Kim v R. Fowler - 3rd Round Match-Up,Tom Kim,0.01100000000000001,0.5348,0.5238
-2023-03-04 10:40:29.972251,Round Match-Ups - 3rd Round Match-Up - R. McIlroy v S. Scheffler - 3rd Round Match-Up,Rory McIlroy,0.01100000000000001,0.5348,0.5238
+2023-03-04 13:40:29.172428,95th Academy Awards - Best Cinematography - Best Cinematography,Roger Deakins - Empire Of Light,0.011099999999999999,0.1111,0.1
 2023-03-04 11:40:34.033751,Round Match-Ups - 3rd Round Match-Up - B. Taylor vs A. Rai - 3rd Round Match-Up,Aaron Rai,0.01100000000000001,0.5348,0.5238
 2023-03-04 10:40:30.073465,Round Match-Ups - 3rd Round Match-Up - S.J. Im vs T. Kim - 3rd Round Match-Up,Sung-Jae Im,0.01100000000000001,0.5348,0.5238
-2023-03-04 12:40:31.922216,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Pittsburgh Pirates - Carlos Santana - Total Homeruns,Under 19.5,0.010699999999999932,0.5455,0.5348
-2023-03-04 10:40:29.941977,Round Match-Ups - 3rd Round Match-Up - J. Thomas v C. Young - 3rd Round Match-Up,Justin Thomas,0.010699999999999932,0.5455,0.5348
+2023-03-04 06:40:29.811754,Round Match-Ups - 3rd Round Match-Up - J. Spieth vs M. Fitzpatrick - 3rd Round Match-Up,Matt Fitzpatrick,0.01100000000000001,0.5348,0.5238
+2023-03-04 10:40:29.972251,Round Match-Ups - 3rd Round Match-Up - R. McIlroy v S. Scheffler - 3rd Round Match-Up,Rory McIlroy,0.01100000000000001,0.5348,0.5238
+2023-03-04 11:40:34.019426,Round Match-Ups - 3rd Round Match-Up - T. Kim v R. Fowler - 3rd Round Match-Up,Tom Kim,0.01100000000000001,0.5348,0.5238
+2023-03-04 10:40:29.977541,Round Match-Ups - 3rd Round Match-Up - R. Shelton v W. Gordon - 3rd Round Match-Up,Will Gordon,0.01100000000000001,0.5348,0.5238
 2023-03-04 10:40:30.038853,Round Match-Ups - 3rd Round Match-Up - J. Spieth vs M. Fitzpatrick - 3rd Round Match-Up,Matt Fitzpatrick,0.010699999999999932,0.5455,0.5348
-2023-03-04 10:40:29.956330,Round Match-Ups - 3rd Round Match-Up - L. Aberg v H. English - 3rd Round Match-Up,Ludvig Aberg,0.010699999999999932,0.5455,0.5348
-2023-03-04 10:40:29.937194,Round Match-Ups - 3rd Round Match-Up - J. Spieth v C. Conners - 3rd Round Match-Up,Jordan Spieth,0.010699999999999932,0.5455,0.5348
 2023-03-04 12:40:31.880338,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Philadelphia Phillies - Trea Turner - Total RBI's,Under 90.5,0.010699999999999932,0.5455,0.5348
 2023-03-04 12:40:31.892692,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Philadelphia Phillies - Zack Wheeler - ERA,Over 3.00,0.010699999999999932,0.5455,0.5348
+2023-03-04 12:40:31.557606,MLB Regular Season Props - MLB 2023 Regular Season Player Props - New York Mets -Eduardo Escobar - Total Homeruns,Under 19.5,0.010699999999999932,0.5455,0.5348
 2023-03-04 10:40:29.903014,Round Match-Ups - 3rd Round Match-Up - A. Rai v T. Mullinax - 3rd Round Match-Up,Aaron Rai,0.010699999999999932,0.5455,0.5348
-2023-03-04 12:40:32.090840,MLB Regular Season Props - MLB 2023 Regular Season Player Props - San Diego Padres - Yu Darvish - ERA,Over 3.25,0.010699999999999932,0.5455,0.5348
-2023-03-04 12:40:32.115618,MLB Regular Season Props - MLB 2023 Regular Season Player Props - San Francisco Giants - Logan Webb - Total Strikeouts,Under 170.5,0.010699999999999932,0.5455,0.5348
-2023-03-04 12:40:32.685358,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Washington Nationals - Keibert Ruiz - Total Homeruns,Under 15.5,0.010699999999999932,0.5455,0.5348
-2023-03-04 12:40:32.668363,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Washington Nationals - Jeimer Candelario - Total Homeruns,Under 19.5,0.010699999999999932,0.5455,0.5348
-2023-03-04 12:40:32.421834,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Tampa Bay Rays - Wander Franco - Total Runs Scored,Under 85.5,0.010699999999999932,0.5455,0.5348
 2023-03-04 12:40:32.379689,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Tampa Bay Rays - Randy Arozarena - Total RBI's,Under 85.5,0.010699999999999932,0.5455,0.5348
-2023-03-04 12:40:32.367143,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Tampa Bay Rays - Brandon Lowe - Total RBI's,Under 84.5,0.010699999999999932,0.5455,0.5348
+2023-03-04 12:40:31.922216,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Pittsburgh Pirates - Carlos Santana - Total Homeruns,Under 19.5,0.010699999999999932,0.5455,0.5348
 2023-03-04 12:40:31.980788,MLB Regular Season Props - MLB 2023 Regular Season Player Props - San Diego Padres - Fernando Tatís Jr. - Total Homeruns,Under 34.5,0.010699999999999932,0.5455,0.5348
 2023-03-04 12:40:31.992573,MLB Regular Season Props - MLB 2023 Regular Season Player Props - San Diego Padres - Fernando Tatís Jr. - Total Runs Scored,Under 95.5,0.010699999999999932,0.5455,0.5348
 2023-03-04 12:40:32.010148,MLB Regular Season Props - MLB 2023 Regular Season Player Props - San Diego Padres - Jake Cronenworth - Total RBI's,Under 84.5,0.010699999999999932,0.5455,0.5348
 2023-03-04 12:40:32.015949,MLB Regular Season Props - MLB 2023 Regular Season Player Props - San Diego Padres - Jake Cronenworth - Total Runs Scored,Under 90.5,0.010699999999999932,0.5455,0.5348
+2023-03-04 12:40:32.090840,MLB Regular Season Props - MLB 2023 Regular Season Player Props - San Diego Padres - Yu Darvish - ERA,Over 3.25,0.010699999999999932,0.5455,0.5348
+2023-03-04 12:40:32.115618,MLB Regular Season Props - MLB 2023 Regular Season Player Props - San Francisco Giants - Logan Webb - Total Strikeouts,Under 170.5,0.010699999999999932,0.5455,0.5348
 2023-03-04 12:40:32.362896,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Tampa Bay Rays - Brandon Lowe - Total Homeruns,Under 28.5,0.010699999999999932,0.5455,0.5348
-2023-03-04 12:40:31.557606,MLB Regular Season Props - MLB 2023 Regular Season Player Props - New York Mets -Eduardo Escobar - Total Homeruns,Under 19.5,0.010699999999999932,0.5455,0.5348
+2023-03-04 12:40:32.367143,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Tampa Bay Rays - Brandon Lowe - Total RBI's,Under 84.5,0.010699999999999932,0.5455,0.5348
+2023-03-04 12:40:32.421834,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Tampa Bay Rays - Wander Franco - Total Runs Scored,Under 85.5,0.010699999999999932,0.5455,0.5348
+2023-03-04 10:40:29.956330,Round Match-Ups - 3rd Round Match-Up - L. Aberg v H. English - 3rd Round Match-Up,Ludvig Aberg,0.010699999999999932,0.5455,0.5348
+2023-03-04 12:40:32.668363,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Washington Nationals - Jeimer Candelario - Total Homeruns,Under 19.5,0.010699999999999932,0.5455,0.5348
+2023-03-04 12:40:32.685358,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Washington Nationals - Keibert Ruiz - Total Homeruns,Under 15.5,0.010699999999999932,0.5455,0.5348
+2023-03-04 10:40:29.941977,Round Match-Ups - 3rd Round Match-Up - J. Thomas v C. Young - 3rd Round Match-Up,Justin Thomas,0.010699999999999932,0.5455,0.5348
+2023-03-04 10:40:29.937194,Round Match-Ups - 3rd Round Match-Up - J. Spieth v C. Conners - 3rd Round Match-Up,Jordan Spieth,0.010699999999999932,0.5455,0.5348
 2023-03-04 10:40:30.083481,Round Match-Ups - 3rd Round Match-Up - X. Schauffele vs J. Thomas - 3rd Round Match-Up,Xander Schauffele,0.010699999999999932,0.5455,0.5348
-2023-03-04 12:40:31.270280,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Los Angeles Dodgers - Freddie Freeman - Batting Average,Over .295,0.010699999999999932,0.5455,0.5348
 2023-03-04 12:40:31.265898,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Los Angeles Dodgers - Clayton Kershaw - Total Wins,Over 10,0.010699999999999932,0.5455,0.5348
 2023-03-04 12:40:31.210348,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Los Angeles Angels - Mike Trout - Total Hits,Under 145.5,0.010699999999999932,0.5455,0.5348
-2023-03-04 10:40:29.563664,Boxing Lines - Enriko Gogokhia vs Samuel Teah - To Win the Bout,Samuel Teah,0.010099999999999998,0.3226,0.3125
+2023-03-04 12:40:31.270280,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Los Angeles Dodgers - Freddie Freeman - Batting Average,Over .295,0.010699999999999932,0.5455,0.5348
 2023-03-04 07:40:26.816891,Boxing Lines - Brandon Figueroa vs Mark Magsayo - To Win the Bout,Mark Magsayo,0.010099999999999998,0.3226,0.3125
-2023-03-04 03:40:30.100638,Boxing Lines - Brandon Figueroa vs Mark Magsayo - To Win the Bout,Mark Magsayo,-0.010099999999999998,0.3125,0.3226
+2023-03-04 10:40:29.563664,Boxing Lines - Enriko Gogokhia vs Samuel Teah - To Win the Bout,Samuel Teah,0.010099999999999998,0.3226,0.3125
 2023-03-04 08:40:31.347587,NFL Specials - NFL Draft 2023 - First Defensive Player Selected,Will McDonald IV,-0.010100000000000001,0.0244,0.0345
 2023-03-04 11:40:34.357670,HSBC Women's World Championship - HSBC Women's World Championship - Outright,Alisen Corpuz,-0.0102,0.0667,0.0769
 2023-03-04 06:40:29.786814,Round Match-Ups - 3rd Round Match-Up - B. Taylor vs A. Rai - 3rd Round Match-Up,Ben Taylor,-0.010699999999999932,0.5348,0.5455
 2023-03-04 10:40:29.673620,BKFC 37 - Charles Wasserman vs Cedric Severac - To Win the Bout,Cedric Severac,-0.010699999999999987,0.3226,0.3333
-2023-03-04 10:40:30.016444,Round Match-Ups - 3rd Round Match-Up - B. Taylor vs A. Rai - 3rd Round Match-Up,Ben Taylor,-0.01100000000000001,0.5238,0.5348
+2023-03-04 12:40:32.668363,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Washington Nationals - Jeimer Candelario - Total Homeruns,Over 19.5,-0.01100000000000001,0.5238,0.5348
+2023-03-04 12:40:31.922216,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Pittsburgh Pirates - Carlos Santana - Total Homeruns,Over 19.5,-0.01100000000000001,0.5238,0.5348
 2023-03-04 12:40:32.010148,MLB Regular Season Props - MLB 2023 Regular Season Player Props - San Diego Padres - Jake Cronenworth - Total RBI's,Over 84.5,-0.01100000000000001,0.5238,0.5348
-2023-03-04 12:40:32.015949,MLB Regular Season Props - MLB 2023 Regular Season Player Props - San Diego Padres - Jake Cronenworth - Total Runs Scored,Over 90.5,-0.01100000000000001,0.5238,0.5348
-2023-03-04 12:40:32.090840,MLB Regular Season Props - MLB 2023 Regular Season Player Props - San Diego Padres - Yu Darvish - ERA,Under 3.25,-0.01100000000000001,0.5238,0.5348
-2023-03-04 12:40:32.115618,MLB Regular Season Props - MLB 2023 Regular Season Player Props - San Francisco Giants - Logan Webb - Total Strikeouts,Over 170.5,-0.01100000000000001,0.5238,0.5348
-2023-03-04 12:40:32.367143,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Tampa Bay Rays - Brandon Lowe - Total RBI's,Over 84.5,-0.01100000000000001,0.5238,0.5348
-2023-03-04 12:40:32.362896,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Tampa Bay Rays - Brandon Lowe - Total Homeruns,Over 28.5,-0.01100000000000001,0.5238,0.5348
+2023-03-04 12:40:31.557606,MLB Regular Season Props - MLB 2023 Regular Season Player Props - New York Mets -Eduardo Escobar - Total Homeruns,Over 19.5,-0.01100000000000001,0.5238,0.5348
+2023-03-04 12:40:31.992573,MLB Regular Season Props - MLB 2023 Regular Season Player Props - San Diego Padres - Fernando Tatís Jr. - Total Runs Scored,Over 95.5,-0.01100000000000001,0.5238,0.5348
 2023-03-04 12:40:31.980788,MLB Regular Season Props - MLB 2023 Regular Season Player Props - San Diego Padres - Fernando Tatís Jr. - Total Homeruns,Over 34.5,-0.01100000000000001,0.5238,0.5348
+2023-03-04 12:40:32.115618,MLB Regular Season Props - MLB 2023 Regular Season Player Props - San Francisco Giants - Logan Webb - Total Strikeouts,Over 170.5,-0.01100000000000001,0.5238,0.5348
+2023-03-04 12:40:32.362896,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Tampa Bay Rays - Brandon Lowe - Total Homeruns,Over 28.5,-0.01100000000000001,0.5238,0.5348
+2023-03-04 12:40:32.367143,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Tampa Bay Rays - Brandon Lowe - Total RBI's,Over 84.5,-0.01100000000000001,0.5238,0.5348
 2023-03-04 12:40:32.379689,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Tampa Bay Rays - Randy Arozarena - Total RBI's,Over 85.5,-0.01100000000000001,0.5238,0.5348
 2023-03-04 12:40:32.421834,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Tampa Bay Rays - Wander Franco - Total Runs Scored,Over 85.5,-0.01100000000000001,0.5238,0.5348
-2023-03-04 12:40:32.668363,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Washington Nationals - Jeimer Candelario - Total Homeruns,Over 19.5,-0.01100000000000001,0.5238,0.5348
-2023-03-04 12:40:32.685358,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Washington Nationals - Keibert Ruiz - Total Homeruns,Over 15.5,-0.01100000000000001,0.5238,0.5348
-2023-03-04 12:40:31.992573,MLB Regular Season Props - MLB 2023 Regular Season Player Props - San Diego Padres - Fernando Tatís Jr. - Total Runs Scored,Over 95.5,-0.01100000000000001,0.5238,0.5348
-2023-03-04 12:40:31.557606,MLB Regular Season Props - MLB 2023 Regular Season Player Props - New York Mets -Eduardo Escobar - Total Homeruns,Over 19.5,-0.01100000000000001,0.5238,0.5348
-2023-03-04 12:40:31.880338,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Philadelphia Phillies - Trea Turner - Total RBI's,Over 90.5,-0.01100000000000001,0.5238,0.5348
-2023-03-04 12:40:31.892692,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Philadelphia Phillies - Zack Wheeler - ERA,Under 3.00,-0.01100000000000001,0.5238,0.5348
-2023-03-04 12:40:31.210348,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Los Angeles Angels - Mike Trout - Total Hits,Over 145.5,-0.01100000000000001,0.5238,0.5348
-2023-03-04 12:40:31.922216,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Pittsburgh Pirates - Carlos Santana - Total Homeruns,Over 19.5,-0.01100000000000001,0.5238,0.5348
-2023-03-04 12:40:31.270280,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Los Angeles Dodgers - Freddie Freeman - Batting Average,Under .295,-0.01100000000000001,0.5238,0.5348
 2023-03-04 12:40:31.265898,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Los Angeles Dodgers - Clayton Kershaw - Total Wins,Under 10,-0.01100000000000001,0.5238,0.5348
-2023-03-04 10:40:30.062766,Round Match-Ups - 3rd Round Match-Up - S. Scheffler vs T. Finau - 3rd Round Match-Up,Tony Finau,-0.011099999999999999,0.4651,0.4762
+2023-03-04 12:40:32.015949,MLB Regular Season Props - MLB 2023 Regular Season Player Props - San Diego Padres - Jake Cronenworth - Total Runs Scored,Over 90.5,-0.01100000000000001,0.5238,0.5348
+2023-03-04 12:40:32.090840,MLB Regular Season Props - MLB 2023 Regular Season Player Props - San Diego Padres - Yu Darvish - ERA,Under 3.25,-0.01100000000000001,0.5238,0.5348
+2023-03-04 12:40:31.892692,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Philadelphia Phillies - Zack Wheeler - ERA,Under 3.00,-0.01100000000000001,0.5238,0.5348
+2023-03-04 10:40:30.016444,Round Match-Ups - 3rd Round Match-Up - B. Taylor vs A. Rai - 3rd Round Match-Up,Ben Taylor,-0.01100000000000001,0.5238,0.5348
+2023-03-04 12:40:31.880338,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Philadelphia Phillies - Trea Turner - Total RBI's,Over 90.5,-0.01100000000000001,0.5238,0.5348
+2023-03-04 12:40:31.210348,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Los Angeles Angels - Mike Trout - Total Hits,Over 145.5,-0.01100000000000001,0.5238,0.5348
+2023-03-04 12:40:31.270280,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Los Angeles Dodgers - Freddie Freeman - Batting Average,Under .295,-0.01100000000000001,0.5238,0.5348
+2023-03-04 12:40:32.685358,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Washington Nationals - Keibert Ruiz - Total Homeruns,Over 15.5,-0.01100000000000001,0.5238,0.5348
 2023-03-04 10:40:30.048414,Round Match-Ups - 3rd Round Match-Up - K. Mitchell vs A. Scott - 3rd Round Match-Up,Adam Scott,-0.011099999999999999,0.4651,0.4762
 2023-03-04 12:40:34.674172,Round Match-Ups - 3rd Round Match-Up - J. Spieth vs M. Fitzpatrick - 3rd Round Match-Up,Jordan Spieth,-0.011099999999999999,0.4651,0.4762
+2023-03-04 10:40:30.062766,Round Match-Ups - 3rd Round Match-Up - S. Scheffler vs T. Finau - 3rd Round Match-Up,Tony Finau,-0.011099999999999999,0.4651,0.4762
 2023-03-04 09:40:30.212455,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Dallas Mavericks,-0.011199999999999995,0.0476,0.0588
 2023-03-04 11:40:34.357670,HSBC Women's World Championship - HSBC Women's World Championship - Outright,Xiyu Lin,-0.011300000000000001,0.001,0.0123
 2023-03-04 10:40:29.951533,Round Match-Ups - 3rd Round Match-Up - K. Mitchell v R. Fowler - 3rd Round Match-Up,Rickie Fowler,-0.0116,0.4762,0.4878
-2023-03-04 06:40:29.824129,Round Match-Ups - 3rd Round Match-Up - K. Mitchell vs A. Scott - 3rd Round Match-Up,Adam Scott,-0.0116,0.4762,0.4878
 2023-03-04 10:40:29.912670,Round Match-Ups - 3rd Round Match-Up - C. Conners v A. Scott - 3rd Round Match-Up,Adam Scott,-0.0116,0.4762,0.4878
-2023-03-04 10:40:30.073465,Round Match-Ups - 3rd Round Match-Up - S.J. Im vs T. Kim - 3rd Round Match-Up,Tom Kim,-0.011600000000000055,0.5122,0.5238
+2023-03-04 06:40:29.824129,Round Match-Ups - 3rd Round Match-Up - K. Mitchell vs A. Scott - 3rd Round Match-Up,Adam Scott,-0.0116,0.4762,0.4878
 2023-03-04 11:40:34.033751,Round Match-Ups - 3rd Round Match-Up - B. Taylor vs A. Rai - 3rd Round Match-Up,Ben Taylor,-0.011600000000000055,0.5122,0.5238
-2023-03-04 10:40:29.977541,Round Match-Ups - 3rd Round Match-Up - R. Shelton v W. Gordon - 3rd Round Match-Up,Robby Shelton,-0.011600000000000055,0.5122,0.5238
-2023-03-04 11:40:34.019426,Round Match-Ups - 3rd Round Match-Up - T. Kim v R. Fowler - 3rd Round Match-Up,Rickie Fowler,-0.011600000000000055,0.5122,0.5238
-2023-03-04 10:40:29.972251,Round Match-Ups - 3rd Round Match-Up - R. McIlroy v S. Scheffler - 3rd Round Match-Up,Scottie Scheffler,-0.011600000000000055,0.5122,0.5238
 2023-03-04 06:40:29.811754,Round Match-Ups - 3rd Round Match-Up - J. Spieth vs M. Fitzpatrick - 3rd Round Match-Up,Jordan Spieth,-0.011600000000000055,0.5122,0.5238
+2023-03-04 11:40:34.019426,Round Match-Ups - 3rd Round Match-Up - T. Kim v R. Fowler - 3rd Round Match-Up,Rickie Fowler,-0.011600000000000055,0.5122,0.5238
+2023-03-04 10:40:30.073465,Round Match-Ups - 3rd Round Match-Up - S.J. Im vs T. Kim - 3rd Round Match-Up,Tom Kim,-0.011600000000000055,0.5122,0.5238
+2023-03-04 10:40:29.977541,Round Match-Ups - 3rd Round Match-Up - R. Shelton v W. Gordon - 3rd Round Match-Up,Robby Shelton,-0.011600000000000055,0.5122,0.5238
+2023-03-04 10:40:29.972251,Round Match-Ups - 3rd Round Match-Up - R. McIlroy v S. Scheffler - 3rd Round Match-Up,Scottie Scheffler,-0.011600000000000055,0.5122,0.5238
+2023-03-04 10:40:30.038853,Round Match-Ups - 3rd Round Match-Up - J. Spieth vs M. Fitzpatrick - 3rd Round Match-Up,Jordan Spieth,-0.012199999999999989,0.5,0.5122
+2023-03-04 10:40:29.956330,Round Match-Ups - 3rd Round Match-Up - L. Aberg v H. English - 3rd Round Match-Up,Harris English,-0.012199999999999989,0.5,0.5122
 2023-03-04 10:40:29.903014,Round Match-Ups - 3rd Round Match-Up - A. Rai v T. Mullinax - 3rd Round Match-Up,Trey Mullinax,-0.012199999999999989,0.5,0.5122
 2023-03-04 10:40:30.083481,Round Match-Ups - 3rd Round Match-Up - X. Schauffele vs J. Thomas - 3rd Round Match-Up,Justin Thomas,-0.012199999999999989,0.5,0.5122
-2023-03-04 10:40:29.956330,Round Match-Ups - 3rd Round Match-Up - L. Aberg v H. English - 3rd Round Match-Up,Harris English,-0.012199999999999989,0.5,0.5122
-2023-03-04 10:40:29.937194,Round Match-Ups - 3rd Round Match-Up - J. Spieth v C. Conners - 3rd Round Match-Up,Corey Conners,-0.012199999999999989,0.5,0.5122
 2023-03-04 10:40:29.941977,Round Match-Ups - 3rd Round Match-Up - J. Thomas v C. Young - 3rd Round Match-Up,Cameron Young,-0.012199999999999989,0.5,0.5122
-2023-03-04 10:40:30.038853,Round Match-Ups - 3rd Round Match-Up - J. Spieth vs M. Fitzpatrick - 3rd Round Match-Up,Jordan Spieth,-0.012199999999999989,0.5,0.5122
+2023-03-04 10:40:29.937194,Round Match-Ups - 3rd Round Match-Up - J. Spieth v C. Conners - 3rd Round Match-Up,Corey Conners,-0.012199999999999989,0.5,0.5122
 2023-03-04 04:40:29.916846,BKFC 37 - Rico Franco vs Dan Breeze - To Win the Bout,Dan Breeze,-0.012900000000000023,0.3717,0.3846
 2023-03-04 08:40:31.351022,NFL Specials - NFL Draft 2023 - First QB Selected,C.J. Stroud,-0.0131,0.2222,0.2353
 2023-03-04 11:40:34.357670,HSBC Women's World Championship - HSBC Women's World Championship - Outright,In Gee Chun,-0.0139,0.001,0.0149
@@ -183,48 +187,52 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-04 07:40:27.951610,Cologuard Classic - Cologuard Classic - Outright,Colin Montgomerie,-0.0163,0.0033,0.0196
 2023-03-04 12:40:33.000588,MLB Regular Season Props - MLB 2023 Regular Season Props - Milwaukee Brewers To Make The playoffs,No,-0.016699999999999937,0.5833,0.6
 2023-03-04 07:40:31.283533,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,New Orleans Pelicans,-0.0168,0.0217,0.0385
+2023-03-04 15:40:30.832878,Arnold Palmer Invitational - 2/3 Balls - 3rd Round 2 Balls - J. Spieth v K. Kitayama - 3rd Round 2 Balls,Kurt Kitayama,-0.017299999999999982,0.4082,0.4255
 2023-03-04 07:40:27.889949,Puerto Rico Open - 2/3 Balls - 3rd Round 2 Balls - T. Goya v G. Ogilvy - 3rd Round 2 Balls,Tano Goya,-0.01759999999999995,0.6491,0.6667
 2023-03-04 11:40:34.357670,HSBC Women's World Championship - HSBC Women's World Championship - Outright,Hannah Green,-0.017599999999999998,0.002,0.0196
+2023-03-04 15:40:30.799674,Arnold Palmer Invitational - 2/3 Balls - 3rd Round 2 Balls - S. Scheffler v C. Young - 3rd Round 2 Balls,Cameron Young,-0.018100000000000005,0.4167,0.4348
 2023-03-04 07:40:27.951610,Cologuard Classic - Cologuard Classic - Outright,Thongchai Jaidee,-0.018200000000000004,0.0294,0.0476
 2023-03-04 08:40:31.347587,NFL Specials - NFL Draft 2023 - First Defensive Player Selected,Jalen Carter,-0.01820000000000002,0.1818,0.2
 2023-03-04 11:40:34.357670,HSBC Women's World Championship - HSBC Women's World Championship - Outright,Carlota Ciganda,-0.0183,0.0013,0.0196
 2023-03-04 11:40:34.357670,HSBC Women's World Championship - HSBC Women's World Championship - Outright,Jeongeun Lee6,-0.0186,0.001,0.0196
 2023-03-04 11:40:29.687800,Boxing Lines - Lewis Ritson vs Ohara Davies - To Win the Bout,Ohara Davies,-0.01880000000000004,0.6364,0.6552
 2023-03-04 08:40:31.347587,NFL Specials - NFL Draft 2023 - First Defensive Player Selected,Myles Murphy,-0.019300000000000005,0.0152,0.0345
+2023-03-04 15:40:30.730286,Arnold Palmer Invitational - 2/3 Balls - 3rd Round 2 Balls - J. Suh v A. Rai - 3rd Round 2 Balls,Justin Suh,-0.01970000000000005,0.5455,0.5652
+2023-03-04 15:40:30.743698,Arnold Palmer Invitational - 2/3 Balls - 3rd Round 2 Balls - V. Hovland v C. Kirk - 3rd Round 2 Balls,Chris Kirk,-0.020699999999999996,0.4444,0.4651
 2023-03-04 07:40:27.951610,Cologuard Classic - Cologuard Classic - Outright,Retief Goosen,-0.0215,0.0079,0.0294
 2023-03-04 14:40:28.940915,Arnold Palmer Invitational - 2/3 Balls - 3rd Round 2 Balls - M. Fitzpatrick v J. Thomas - 3rd Round 2 Balls,Matt Fitzpatrick,-0.02169999999999994,0.5238,0.5455
 2023-03-04 12:40:32.817853,MLB Regular Season Props - MLB 2023 Regular Season Props - Chicago White Sox To Make the Playoffs,Yes,-0.02169999999999994,0.5238,0.5455
 2023-03-04 10:40:29.596832,Boxing Lines - Elnur Abduraimov vs Angel Daniel Garcia Molina - To Win the Bout,Angel Daniel Garcia Molina,-0.022199999999999998,0.2,0.2222
 2023-03-04 11:40:34.357670,HSBC Women's World Championship - HSBC Women's World Championship - Outright,Atthaya Thitikul,-0.022400000000000003,0.002,0.0244
 2023-03-04 12:40:31.510798,MLB Regular Season Props - MLB 2023 Regular Season Player Props - New York Mets - Francisco Lindor - Total Runs Scored,Over 95.5,-0.022600000000000064,0.5122,0.5348
-2023-03-04 12:40:31.563369,MLB Regular Season Props - MLB 2023 Regular Season Player Props - New York Mets -Justin Verlander - ERA,Under 2.75,-0.022600000000000064,0.5122,0.5348
-2023-03-04 12:40:31.668915,MLB Regular Season Props - MLB 2023 Regular Season Player Props - New York Yankees - Clay Holmes - Total Saves,Over 30.5,-0.022600000000000064,0.5122,0.5348
-2023-03-04 12:40:32.057534,MLB Regular Season Props - MLB 2023 Regular Season Player Props - San Diego Padres - Manny Machado- Batting Average,Over .290,-0.022600000000000064,0.5122,0.5348
-2023-03-04 12:40:31.963164,MLB Regular Season Props - MLB 2023 Regular Season Player Props - San Diego Padres - Blake Snell - Total Strikeouts,Over 195.5,-0.022600000000000064,0.5122,0.5348
-2023-03-04 12:40:31.951520,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Pittsburgh Pirates - Oneil Cruz - Total Runs Scored,Over 89.5,-0.022600000000000064,0.5122,0.5348
-2023-03-04 12:40:31.730823,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Oakland Athletics - Esteury Ruiz- Total Stolen Bases,Over 35.5,-0.022600000000000064,0.5122,0.5348
-2023-03-04 12:40:30.861090,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Chicago White Sox - Luis Robert Total Stolen Bases,Over 20.5,-0.022600000000000064,0.5122,0.5348
-2023-03-04 12:40:31.945358,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Pittsburgh Pirates - Oneil Cruz - Total RBI's,Over 84.5,-0.022600000000000064,0.5122,0.5348
-2023-03-04 12:40:30.894731,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Cincinnati Reds - Tyler Stephenson Batting Average,Over .285,-0.022600000000000064,0.5122,0.5348
-2023-03-04 12:40:31.333095,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Los Angeles Dodgers - Mookie Betts - Total Runs Scored,Over 114.5,-0.022600000000000064,0.5122,0.5348
-2023-03-04 12:40:31.896791,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Philadelphia Phillies - Zack Wheeler - Total Strikeouts,Over 190.5,-0.022600000000000064,0.5122,0.5348
 2023-03-04 12:40:31.717743,MLB Regular Season Props - MLB 2023 Regular Season Player Props - New York Yankees - Josh Donaldson - Total Homeruns,Over 22.5,-0.022600000000000064,0.5122,0.5348
+2023-03-04 12:40:31.668915,MLB Regular Season Props - MLB 2023 Regular Season Player Props - New York Yankees - Clay Holmes - Total Saves,Over 30.5,-0.022600000000000064,0.5122,0.5348
+2023-03-04 12:40:31.951520,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Pittsburgh Pirates - Oneil Cruz - Total Runs Scored,Over 89.5,-0.022600000000000064,0.5122,0.5348
+2023-03-04 12:40:31.963164,MLB Regular Season Props - MLB 2023 Regular Season Player Props - San Diego Padres - Blake Snell - Total Strikeouts,Over 195.5,-0.022600000000000064,0.5122,0.5348
+2023-03-04 12:40:32.057534,MLB Regular Season Props - MLB 2023 Regular Season Player Props - San Diego Padres - Manny Machado- Batting Average,Over .290,-0.022600000000000064,0.5122,0.5348
 2023-03-04 12:40:32.061680,MLB Regular Season Props - MLB 2023 Regular Season Player Props - San Diego Padres - Manny Machado- Runs Scored,Over 105.5,-0.022600000000000064,0.5122,0.5348
+2023-03-04 12:40:30.861090,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Chicago White Sox - Luis Robert Total Stolen Bases,Over 20.5,-0.022600000000000064,0.5122,0.5348
+2023-03-04 12:40:31.896791,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Philadelphia Phillies - Zack Wheeler - Total Strikeouts,Over 190.5,-0.022600000000000064,0.5122,0.5348
+2023-03-04 12:40:30.894731,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Cincinnati Reds - Tyler Stephenson Batting Average,Over .285,-0.022600000000000064,0.5122,0.5348
 2023-03-04 12:40:31.812047,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Philadelphia Phillies - J.T. Realmuto - Total RBI's,Over 80.5,-0.022600000000000064,0.5122,0.5348
+2023-03-04 12:40:31.730823,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Oakland Athletics - Esteury Ruiz- Total Stolen Bases,Over 35.5,-0.022600000000000064,0.5122,0.5348
+2023-03-04 12:40:31.945358,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Pittsburgh Pirates - Oneil Cruz - Total RBI's,Over 84.5,-0.022600000000000064,0.5122,0.5348
 2023-03-04 12:40:31.552077,MLB Regular Season Props - MLB 2023 Regular Season Player Props - New York Mets -Brandon Nimmo - Total Runs Scored,Over 95.5,-0.022600000000000064,0.5122,0.5348
+2023-03-04 12:40:31.333095,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Los Angeles Dodgers - Mookie Betts - Total Runs Scored,Over 114.5,-0.022600000000000064,0.5122,0.5348
+2023-03-04 12:40:31.563369,MLB Regular Season Props - MLB 2023 Regular Season Player Props - New York Mets -Justin Verlander - ERA,Under 2.75,-0.022600000000000064,0.5122,0.5348
 2023-03-04 09:40:30.212455,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Golden State Warriors,-0.02310000000000001,0.0769,0.1
 2023-03-04 07:40:27.951610,Cologuard Classic - Cologuard Classic - Outright,Robert Karlsson,-0.0236,0.0149,0.0385
-2023-03-04 08:40:31.351022,NFL Specials - NFL Draft 2023 - First QB Selected,Will Levis,-0.023799999999999988,0.1429,0.1667
-2023-03-04 11:40:34.070861,Round Match-Ups - 3rd Round Match-Up - J. Spieth vs M. Fitzpatrick - 3rd Round Match-Up,Jordan Spieth,-0.023799999999999988,0.4762,0.5
 2023-03-04 12:40:32.717128,MLB Regular Season Props - MLB 2023 Regular Season Props - Arizona Diamondbacks Regular Season Wins 2023,Under 74.5,-0.023799999999999988,0.4762,0.5
-2023-03-04 12:40:32.796218,MLB Regular Season Props - MLB 2023 Regular Season Props - Chicago Cubs Regular Season Win Total,Under 77.5,-0.023800000000000043,0.5,0.5238
+2023-03-04 11:40:34.070861,Round Match-Ups - 3rd Round Match-Up - J. Spieth vs M. Fitzpatrick - 3rd Round Match-Up,Jordan Spieth,-0.023799999999999988,0.4762,0.5
+2023-03-04 08:40:31.351022,NFL Specials - NFL Draft 2023 - First QB Selected,Will Levis,-0.023799999999999988,0.1429,0.1667
 2023-03-04 12:40:33.148153,MLB Regular Season Props - MLB 2023 Regular Season Props - San Francisco Giants Regular Season Win Total,Under 80.5,-0.023800000000000043,0.5,0.5238
+2023-03-04 12:40:32.796218,MLB Regular Season Props - MLB 2023 Regular Season Props - Chicago Cubs Regular Season Win Total,Under 77.5,-0.023800000000000043,0.5,0.5238
 2023-03-04 07:40:31.269550,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Los Angeles Clippers,-0.0242,0.0667,0.0909
 2023-03-04 11:40:34.357670,HSBC Women's World Championship - HSBC Women's World Championship - Outright,Nasa Hataoka,-0.024299999999999995,0.0345,0.0588
-2023-03-04 12:40:31.934617,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Pittsburgh Pirates - Ke'Bryan Hayes - Total Stolen Bases,Over 24.5,-0.024399999999999977,0.4878,0.5122
+2023-03-04 14:40:28.999067,Round Match-Ups - 3rd Round Match-Up - J. Rahm vs R. McIlroy - 3rd Round Match-Up,Rory McIlroy,-0.024399999999999977,0.4878,0.5122
 2023-03-04 10:40:29.932388,Round Match-Ups - 3rd Round Match-Up - J. Rahm v S. Scheffler - 3rd Round Match-Up,Scottie Scheffler,-0.024399999999999977,0.4878,0.5122
 2023-03-04 11:40:33.976060,Round Match-Ups - 3rd Round Match-Up - R. Shelton v W. Gordon - 3rd Round Match-Up,Robby Shelton,-0.024399999999999977,0.4878,0.5122
-2023-03-04 14:40:28.999067,Round Match-Ups - 3rd Round Match-Up - J. Rahm vs R. McIlroy - 3rd Round Match-Up,Rory McIlroy,-0.024399999999999977,0.4878,0.5122
+2023-03-04 12:40:31.934617,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Pittsburgh Pirates - Ke'Bryan Hayes - Total Stolen Bases,Over 24.5,-0.024399999999999977,0.4878,0.5122
 2023-03-04 07:40:27.951610,Cologuard Classic - Cologuard Classic - Outright,Rod Pampling,-0.024399999999999998,0.005,0.0294
 2023-03-04 07:40:27.899891,Puerto Rico Open - 2/3 Balls - 3rd Round 2 Balls - N. Lashley v B. Haas - 3rd Round 2 Balls,Bill Haas,-0.025499999999999967,0.4,0.4255
 2023-03-04 10:40:34.600422,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,CF Monterrey,-0.02560000000000001,0.3077,0.3333
@@ -243,13 +251,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-04 13:40:29.166875,95th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,Women Talking,-0.03980000000000006,0.6154,0.6552
 2023-03-04 13:40:29.212995,95th Academy Awards - Best Documentary Feature - Best Documentary Feature,Fire Of Love,-0.04040000000000002,0.1818,0.2222
 2023-03-04 11:40:34.357670,HSBC Women's World Championship - HSBC Women's World Championship - Outright,Yuka Saso,-0.042600000000000006,0.005,0.0476
-2023-03-04 14:40:28.910202,Arnold Palmer Invitational - 2/3 Balls - 3rd Round 2 Balls - T. Montgomery v H. English - 3rd Round 2 Balls,Harris English,-0.043399999999999994,0.4444,0.4878
 2023-03-04 14:40:28.895319,Arnold Palmer Invitational - 2/3 Balls - 3rd Round 2 Balls - S. Theegala v W. Clark - 3rd Round 2 Balls,Sahith Theegala,-0.043399999999999994,0.5122,0.5556
+2023-03-04 14:40:28.910202,Arnold Palmer Invitational - 2/3 Balls - 3rd Round 2 Balls - T. Montgomery v H. English - 3rd Round 2 Balls,Harris English,-0.043399999999999994,0.4444,0.4878
 2023-03-04 13:40:29.274741,95th Academy Awards - Best Supporting Actress - Best Supporting Actress ,Angela Bassett - Black Panther: Wakanda Forever,-0.044399999999999995,0.4,0.4444
 2023-03-04 12:40:32.813550,MLB Regular Season Props - MLB 2023 Regular Season Props - Chicago White Sox Regular Season Win Total,Over 83.5,-0.045499999999999985,0.4545,0.5
+2023-03-04 12:40:32.778746,MLB Regular Season Props - MLB 2023 Regular Season Props - Boston Red Sox Regular Season Win Total,Under 77.5,-0.045499999999999985,0.5,0.5455
 2023-03-04 12:40:32.664114,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Washington Nationals - CJ Abrams - Total Stolen Bases,Over 25.5,-0.045499999999999985,0.4545,0.5
 2023-03-04 12:40:32.511757,MLB Regular Season Props - MLB 2023 Regular Season Player Props - Toronto Blue Jays - Alek Manoah - ERA,Under 3.00,-0.045499999999999985,0.4545,0.5
-2023-03-04 12:40:32.778746,MLB Regular Season Props - MLB 2023 Regular Season Props - Boston Red Sox Regular Season Win Total,Under 77.5,-0.045499999999999985,0.5,0.5455
 2023-03-04 11:40:34.357670,HSBC Women's World Championship - HSBC Women's World Championship - Outright,Lydia Ko,-0.047099999999999996,0.0196,0.0667
 2023-03-04 11:40:34.357670,HSBC Women's World Championship - HSBC Women's World Championship - Outright,Linn Grant,-0.0475,0.0294,0.0769
 2023-03-04 11:40:34.357670,HSBC Women's World Championship - HSBC Women's World Championship - Outright,Ashleigh Buhai,-0.0489,0.0099,0.0588
