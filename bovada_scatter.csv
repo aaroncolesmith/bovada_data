@@ -6,13 +6,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-04 23:40:32.358688,League Two - England - League Two 2022/23 - To Be Promoted,Carlisle United,0.08340000000000003,0.4167,0.3333
 2023-03-04 23:40:32.188539,Championship - England Championship 2022/23 - Top 6 Finish,Blackburn Rovers,0.08330000000000004,0.5833,0.5
 2023-03-04 23:40:32.358688,League Two - England - League Two 2022/23 - To Be Promoted,Bradford City,0.08080000000000004,0.4444,0.3636
-2023-03-04 13:40:29.274741,95th Academy Awards - Best Supporting Actress - Best Supporting Actress ,Jamie Lee Curtis - Everything Everywhere All at Once,0.08050000000000002,0.4651,0.3846
 2023-03-04 23:40:32.188539,Championship - England Championship 2022/23 - Top 6 Finish,Norwich City,0.07710000000000006,0.6226,0.5455
 2023-03-04 23:40:32.370454,League Two - England - League Two 2022/23 - To Finish Bottom,Crawley Town,0.06840000000000002,0.2222,0.1538
 2023-03-04 23:40:32.323197,League One - England - League One 2022/23 - To Be Relegated,Cambridge United,0.06820000000000004,0.8182,0.75
 2023-03-04 23:40:32.176823,Championship - England Championship 2022/23 - To Be Promoted,Middlesbrough,0.067,0.4444,0.3774
 2023-03-04 18:40:30.558470,College Basketball - MVC Tournament - MVC Tournament Winner,Southern Illinois,0.0642,0.1818,0.1176
-2023-03-04 13:40:29.166875,95th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,All Quiet On The Western Front,0.0595,0.4762,0.4167
 2023-03-04 23:40:32.188539,Championship - England Championship 2022/23 - Top 6 Finish,Luton Town,0.0595,0.5833,0.5238
 2023-03-04 18:40:30.558470,College Basketball - MVC Tournament - MVC Tournament Winner,Indiana State,0.0572,0.1905,0.1333
 2023-03-04 23:40:32.182600,Championship - England Championship 2022/23 - Top 2 Finish,Middlesbrough,0.05710000000000001,0.2,0.1429
@@ -28,15 +26,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-04 20:40:33.022104,College Basketball - Big East Tournament - Big East Tournament Winner,Connecticut,0.02779999999999999,0.25,0.2222
 2023-03-04 18:40:30.573084,College Basketball - Summit Tournament - Summit Tournament Winner,Oral Roberts,0.025600000000000067,0.6923,0.6667
 2023-03-04 23:40:32.376443,League Two - England - League Two 2022/23 - Top 3 Finish,Northampton Town,0.02560000000000001,0.3333,0.3077
-2023-03-04 13:40:29.178169,95th Academy Awards - Best Original Screenplay - Best Original Screenplay,The Banshees of Inisherin - Martin McDonagh,0.024499999999999966,0.6078,0.5833
 2023-03-04 14:40:28.940915,Arnold Palmer Invitational - 2/3 Balls - 3rd Round 2 Balls - M. Fitzpatrick v J. Thomas - 3rd Round 2 Balls,Justin Thomas,0.023800000000000043,0.5238,0.5
 2023-03-04 20:40:37.533371,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester City,0.023799999999999988,0.5,0.4762
-2023-03-04 15:40:30.730286,Arnold Palmer Invitational - 2/3 Balls - 3rd Round 2 Balls - J. Suh v A. Rai - 3rd Round 2 Balls,Aaron Rai,0.023799999999999988,0.5,0.4762
 2023-03-04 23:40:32.334702,League One - England - League One 2022/23 - Top 2 Finish,Ipswich Town,0.023799999999999988,0.5,0.4762
-2023-03-04 13:40:29.212995,95th Academy Awards - Best Documentary Feature - Best Documentary Feature,All The Beauty And Bloodshed,0.022199999999999998,0.2222,0.2
+2023-03-04 15:40:30.730286,Arnold Palmer Invitational - 2/3 Balls - 3rd Round 2 Balls - J. Suh v A. Rai - 3rd Round 2 Balls,Aaron Rai,0.023799999999999988,0.5,0.4762
 2023-03-04 23:40:32.176823,Championship - England Championship 2022/23 - To Be Promoted,Norwich City,0.022199999999999998,0.2222,0.2
 2023-03-04 23:40:32.370454,League Two - England - League Two 2022/23 - To Finish Bottom,Hartlepool United,0.021999999999999964,0.3077,0.2857
-2023-03-04 13:40:29.274741,95th Academy Awards - Best Supporting Actress - Best Supporting Actress ,Kerry Condon - The Banshees of Inisherin,0.021999999999999964,0.3077,0.2857
 2023-03-04 15:40:30.799674,Arnold Palmer Invitational - 2/3 Balls - 3rd Round 2 Balls - S. Scheffler v C. Young - 3rd Round 2 Balls,Scottie Scheffler,0.02180000000000004,0.6296,0.6078
 2023-03-04 18:40:30.558470,College Basketball - MVC Tournament - MVC Tournament Winner,Drake,0.021799999999999986,0.3922,0.3704
 2023-03-04 14:40:28.999067,Round Match-Ups - 3rd Round Match-Up - J. Rahm vs R. McIlroy - 3rd Round Match-Up,Jon Rahm,0.02079999999999993,0.5556,0.5348
@@ -45,18 +40,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-04 23:40:32.334702,League One - England - League One 2022/23 - Top 2 Finish,Sheffield Wednesday,0.019100000000000006,0.9524,0.9333
 2023-03-04 23:40:32.358688,League Two - England - League Two 2022/23 - To Be Promoted,Northampton Town,0.018900000000000028,0.4444,0.4255
 2023-03-04 23:40:32.170874,Championship - England Championship 2022/23 - Outright,Burnley,0.01849999999999996,0.9709,0.9524
-2023-03-04 13:40:29.172428,95th Academy Awards - Best Cinematography - Best Cinematography,James Friend - All Quiet On The Western Front,0.017900000000000027,0.875,0.8571
-2023-03-04 15:40:30.743698,Arnold Palmer Invitational - 2/3 Balls - 3rd Round 2 Balls - V. Hovland v C. Kirk - 3rd Round 2 Balls,Viktor Hovland,0.016699999999999937,0.6,0.5833
 2023-03-04 16:40:30.168256,Round Match-Ups - 3rd Round Match-Up - S. Scheffler vs T. Finau - 3rd Round Match-Up,Scottie Scheffler,0.016699999999999937,0.6,0.5833
+2023-03-04 15:40:30.743698,Arnold Palmer Invitational - 2/3 Balls - 3rd Round 2 Balls - V. Hovland v C. Kirk - 3rd Round 2 Balls,Viktor Hovland,0.016699999999999937,0.6,0.5833
 2023-03-04 23:40:28.132066,Boxing Lines - Brandon Figueroa vs Mark Magsayo - To Win the Bout,Brandon Figueroa,0.015800000000000036,0.7561,0.7403
 2023-03-04 22:40:30.115417,Boxing Lines - Elnur Abduraimov vs Angel Daniel Garcia Molina - To Win the Bout,Elnur Abduraimov,0.015699999999999936,0.8824,0.8667
 2023-03-04 16:40:33.666804,College Basketball - America East Tournament - America East Tournament Winner,Maryland Baltimore County Retrievers,0.014899999999999997,0.0625,0.0476
 2023-03-04 14:40:28.956772,Arnold Palmer Invitational - 2/3 Balls - 3rd Round 2 Balls - J. Spieth v K. Kitayama - 3rd Round 2 Balls,Jordan Spieth,0.014800000000000035,0.6226,0.6078
 2023-03-04 15:40:30.832878,Arnold Palmer Invitational - 2/3 Balls - 3rd Round 2 Balls - J. Spieth v K. Kitayama - 3rd Round 2 Balls,Jordan Spieth,0.013799999999999923,0.6364,0.6226
 2023-03-04 15:40:30.141251,Boxing Lines - David Benavidez vs Caleb Plant - To Win the Bout,David Benavidez,0.0131,0.7778,0.7647
-2023-03-04 13:40:29.251730,95th Academy Awards - Best Picture - Best Picture,Everything Everywhere All At Once,0.011600000000000055,0.9375,0.9259
 2023-03-04 18:40:30.573084,College Basketball - Summit Tournament - Summit Tournament Winner,Nebraska Omaha,0.0114,0.0164,0.005
-2023-03-04 13:40:29.172428,95th Academy Awards - Best Cinematography - Best Cinematography,Roger Deakins - Empire Of Light,0.011099999999999999,0.1111,0.1
 2023-03-04 22:40:30.104796,Boxing Lines - Amilcar Vidal vs Elijah Garcia - To Win the Bout,Amilcar Vidal,0.01100000000000001,0.5348,0.5238
 2023-03-04 18:40:30.724400,Boxing Lines - Brandon Figueroa vs Mark Magsayo - To Win the Bout,Mark Magsayo,0.010699999999999987,0.3333,0.3226
 2023-03-04 18:40:30.573084,College Basketball - Summit Tournament - Summit Tournament Winner,South Dakota State,-0.010499999999999982,0.2,0.2105
@@ -64,11 +56,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-04 22:40:30.104796,Boxing Lines - Amilcar Vidal vs Elijah Garcia - To Win the Bout,Elijah Garcia,-0.010699999999999932,0.5348,0.5455
 2023-03-04 21:40:27.699478,Boxing Lines - Brandon Figueroa vs Mark Magsayo - To Win the Bout,Mark Magsayo,-0.010699999999999987,0.3226,0.3333
 2023-03-04 20:40:32.976680,BKFC 37 - Connor Tierney vs Jake Lindsey - To Win the Bout,Connor Tierney,-0.0131,0.8,0.8131
-2023-03-04 13:40:29.274741,95th Academy Awards - Best Supporting Actress - Best Supporting Actress ,Hong Chau - The Whale,-0.014199999999999999,0.0152,0.0294
-2023-03-04 13:40:29.274741,95th Academy Awards - Best Supporting Actress - Best Supporting Actress ,Stephanie Hsu - Everything Everywhere All at Once,-0.014199999999999999,0.0152,0.0294
 2023-03-04 23:40:28.132066,Boxing Lines - Brandon Figueroa vs Mark Magsayo - To Win the Bout,Mark Magsayo,-0.014900000000000024,0.3077,0.3226
 2023-03-04 18:40:30.814154,BKFC 37 - Charles Wasserman vs Cedric Severac - To Win the Bout,Cedric Severac,-0.014900000000000024,0.3077,0.3226
-2023-03-04 13:40:29.229545,95th Academy Awards - Best International Feature Film - Best International Feature Film,All Quiet On The Western Front,-0.015699999999999936,0.9524,0.9681
 2023-03-04 15:40:30.832878,Arnold Palmer Invitational - 2/3 Balls - 3rd Round 2 Balls - J. Spieth v K. Kitayama - 3rd Round 2 Balls,Kurt Kitayama,-0.017299999999999982,0.4082,0.4255
 2023-03-04 18:40:30.823648,BKFC 37 - Lee Browne vs Mason Shaw - To Win the Bout,Lee Browne,-0.017300000000000093,0.697,0.7143
 2023-03-04 15:40:30.799674,Arnold Palmer Invitational - 2/3 Balls - 3rd Round 2 Balls - S. Scheffler v C. Young - 3rd Round 2 Balls,Cameron Young,-0.018100000000000005,0.4167,0.4348
@@ -84,11 +73,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-04 20:40:33.091348,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Memphis Grizzlies,-0.029299999999999993,0.9231,0.9524
 2023-03-04 23:40:32.170874,Championship - England Championship 2022/23 - Outright,Sheffield United,-0.034100000000000005,0.0909,0.125
 2023-03-04 18:40:30.573084,College Basketball - Summit Tournament - Summit Tournament Winner,St. Thomas,-0.03420000000000001,0.0769,0.1111
-2023-03-04 13:40:29.166875,95th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,Women Talking,-0.03980000000000006,0.6154,0.6552
-2023-03-04 13:40:29.212995,95th Academy Awards - Best Documentary Feature - Best Documentary Feature,Fire Of Love,-0.04040000000000002,0.1818,0.2222
 2023-03-04 14:40:28.895319,Arnold Palmer Invitational - 2/3 Balls - 3rd Round 2 Balls - S. Theegala v W. Clark - 3rd Round 2 Balls,Sahith Theegala,-0.043399999999999994,0.5122,0.5556
 2023-03-04 14:40:28.910202,Arnold Palmer Invitational - 2/3 Balls - 3rd Round 2 Balls - T. Montgomery v H. English - 3rd Round 2 Balls,Harris English,-0.043399999999999994,0.4444,0.4878
-2023-03-04 13:40:29.274741,95th Academy Awards - Best Supporting Actress - Best Supporting Actress ,Angela Bassett - Black Panther: Wakanda Forever,-0.044399999999999995,0.4,0.4444
 2023-03-04 23:40:32.376443,League Two - England - League Two 2022/23 - Top 3 Finish,Stockport County,-0.07789999999999997,0.2857,0.3636
 2023-03-04 23:40:32.376443,League Two - England - League Two 2022/23 - Top 3 Finish,Stevenage,-0.08330000000000004,0.75,0.8333
 2023-03-04 23:40:32.323197,League One - England - League One 2022/23 - To Be Relegated,Cheltenham Town,-0.1346,0.25,0.3846
