@@ -15,8 +15,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-06 09:40:34.716615,NFL Specials - NFL Draft 2023 - First WR Selected,Jaxon Smith-Njigba,0.0948,0.3448,0.25
 2023-03-06 12:40:33.453008,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,St. Mirren,0.09090000000000004,0.4545,0.3636
 2023-03-06 10:40:32.722581,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Lille,0.0889,0.2222,0.1333
-2023-03-06 10:40:32.717595,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,AJ Auxerre,0.08550000000000002,0.7778,0.6923
 2023-03-06 10:40:32.717595,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,AC Ajaccio,0.08550000000000002,0.7778,0.6923
+2023-03-06 10:40:32.717595,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,AJ Auxerre,0.08550000000000002,0.7778,0.6923
 2023-03-06 08:40:28.119111,NFL Specials - NFL Draft 2023 -  First Overall Pick,Anthony Richardson,0.0849,0.2667,0.1818
 2023-03-06 10:40:33.047426,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Liverpool,0.08179999999999998,0.9,0.8182
 2023-03-06 08:40:27.532619,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Ricardo Camargo,0.0756,0.1,0.0244
@@ -33,16 +33,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-06 02:40:30.361210,95th Academy Awards - Best Actress - Best Actress,Michelle Yeoh - Everything Everywhere All At Once,0.03479999999999994,0.6,0.5652
 2023-03-06 08:40:27.499576,95th Academy Awards - Best Cinematography - Best Cinematography,James Friend - All Quiet On The Western Front,0.03410000000000002,0.9091,0.875
 2023-03-06 09:40:39.183011,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Nottingham Forest,0.030299999999999994,0.3636,0.3333
-2023-03-06 00:40:38.805250,95th Academy Awards - Best Documentary Feature - Best Documentary Feature,Fire Of Love,0.028700000000000003,0.2105,0.1818
 2023-03-06 11:40:36.500523,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Motherwell,0.028000000000000004,0.0476,0.0196
 2023-03-06 10:40:32.710639,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Kylian Mbappe,0.027800000000000047,0.7778,0.75
 2023-03-06 07:40:32.624368,College Basketball - 2023 NCAA DI Men's Basketball Tournament - March Madness - To Make The Final 4,Virginia,0.027800000000000005,0.1111,0.0833
 2023-03-06 10:40:32.930718,Super Lig - Turkey Super League 22/23 - Outright,Fenerbahce,0.02679999999999999,0.3125,0.2857
 2023-03-06 02:40:34.529430,World Baseball Classic - 2023 World Baseball Classic - Outright,Cuba,0.026499999999999996,0.0588,0.0323
-2023-03-06 00:40:39.391327,College Basketball - Big East Tournament - Big East Tournament Winner,Connecticut,0.02410000000000001,0.3226,0.2985
 2023-03-06 02:40:34.529430,World Baseball Classic - 2023 World Baseball Classic - Outright,Puerto Rico,0.02310000000000001,0.1,0.0769
-2023-03-06 09:40:34.716615,NFL Specials - NFL Draft 2023 - First WR Selected,Zay Flowers,0.022199999999999998,0.1333,0.1111
 2023-03-06 11:40:36.491100,Premiership - Scotland Premiership 2022/23 - Top Goalscorer,Lawrence Shankland,0.022199999999999998,0.2222,0.2
+2023-03-06 09:40:34.716615,NFL Specials - NFL Draft 2023 - First WR Selected,Zay Flowers,0.022199999999999998,0.1333,0.1111
 2023-03-06 10:40:32.717595,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Troyes,0.022199999999999998,0.8,0.7778
 2023-03-06 09:40:34.711567,NFL Specials - NFL Draft 2023 - First QB Selected,Bryce Young,0.02200000000000002,0.7143,0.6923
 2023-03-06 09:40:39.183011,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leeds United,0.02100000000000002,0.3846,0.3636
@@ -64,27 +62,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-06 07:40:32.653450,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Boston Celtics,-0.010099999999999998,0.4444,0.4545
 2023-03-06 08:40:27.417016,95th Academy Awards - Best Documentary Feature - Best Documentary Feature,All The Beauty And Bloodshed,-0.010499999999999982,0.2,0.2105
 2023-03-06 09:40:38.543702,95th Academy Awards - Best Supporting Actress - Best Supporting Actress ,Hong Chau - The Whale,-0.010700000000000001,0.0278,0.0385
-2023-03-06 00:40:39.375814,College Basketball - Horizon League Tournament - Horizon League - Tournament Winner,Wisconsin Milwaukee,-0.010899999999999993,0.1429,0.1538
 2023-03-06 08:40:27.499576,95th Academy Awards - Best Cinematography - Best Cinematography,Roger Deakins - Empire Of Light,-0.011099999999999999,0.1,0.1111
 2023-03-06 11:40:36.298332,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Jamal Musiala,-0.011099999999999999,0.1,0.1111
 2023-03-06 10:40:33.047426,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Brentford,-0.011199999999999995,0.0476,0.0588
 2023-03-06 10:40:32.710639,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Alexandre Lacazette,-0.011199999999999995,0.0476,0.0588
 2023-03-06 09:40:39.078842,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,Talleres,-0.011199999999999995,0.0476,0.0588
-2023-03-06 00:40:38.805250,95th Academy Awards - Best Documentary Feature - Best Documentary Feature,All The Beauty And Bloodshed,-0.011700000000000016,0.2105,0.2222
+2023-03-06 13:40:35.232635,THE PLAYERS Championship - THE PLAYERS Championship - Outright,Justin Thomas,-0.011199999999999995,0.0476,0.0588
 2023-03-06 11:40:36.302828,1. Bundesliga - Germany Bundesliga 2022/23 - Winner,Eintracht Frankfurt,-0.0129,0.002,0.0149
 2023-03-06 10:40:33.047426,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Chelsea,-0.013899999999999996,0.1111,0.125
 2023-03-06 11:40:36.298332,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Marcus Thuram,-0.013999999999999999,0.0769,0.0909
+2023-03-06 13:40:35.232635,THE PLAYERS Championship - THE PLAYERS Championship - Outright,Scottie Scheffler,-0.01440000000000001,0.0909,0.1053
 2023-03-06 10:40:32.702818,Ligue 1 - France Ligue 1 2022/23 - Winner,Monaco,-0.014900000000000004,0.0196,0.0345
-2023-03-06 00:40:38.805250,95th Academy Awards - Best Documentary Feature - Best Documentary Feature,All That Breathes,-0.015300000000000001,0.0435,0.0588
 2023-03-06 09:40:38.543702,95th Academy Awards - Best Supporting Actress - Best Supporting Actress ,Angela Bassett - Black Panther: Wakanda Forever,-0.015400000000000025,0.3846,0.4
 2023-03-06 11:40:36.491100,Premiership - Scotland Premiership 2022/23 - Top Goalscorer,Alfredo Morelos,-0.0156,0.0244,0.04
-2023-03-06 02:40:34.529430,World Baseball Classic - 2023 World Baseball Classic - Outright,South Korea,-0.016600000000000004,0.0667,0.0833
 2023-03-06 08:40:27.532619,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Larissa Santos,-0.016600000000000004,0.0667,0.0833
+2023-03-06 02:40:34.529430,World Baseball Classic - 2023 World Baseball Classic - Outright,South Korea,-0.016600000000000004,0.0667,0.0833
 2023-03-06 10:40:32.930718,Super Lig - Turkey Super League 22/23 - Outright,Galatasaray,-0.016700000000000048,0.7333,0.75
 2023-03-06 02:40:34.529430,World Baseball Classic - 2023 World Baseball Classic - Outright,Mexico,-0.017099999999999997,0.0385,0.0556
 2023-03-06 11:40:36.485101,Premiership - Scotland Premiership 2022/23 - Winner without Celtic & Rangers,St. Mirren,-0.018200000000000004,0.0294,0.0476
-2023-03-06 09:40:39.183011,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,West Ham United,-0.01820000000000002,0.1818,0.2
 2023-03-06 08:40:27.532619,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Antonio Júnior,-0.01820000000000002,0.1818,0.2
+2023-03-06 09:40:39.183011,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,West Ham United,-0.01820000000000002,0.1818,0.2
 2023-03-06 11:40:36.298332,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Niclas Fullkrug,-0.018799999999999983,0.3448,0.3636
 2023-03-06 10:40:33.051562,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Nottingham Forest,-0.018999999999999906,0.7143,0.7333
 2023-03-06 11:40:36.491100,Premiership - Scotland Premiership 2022/23 - Top Goalscorer,Malik Tillman,-0.019499999999999997,0.0099,0.0294
@@ -97,7 +94,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-06 10:40:32.710639,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Terem Moffi,-0.029299999999999993,0.0476,0.0769
 2023-03-06 08:40:27.449303,95th Academy Awards - Best Original Score - Best Original Score,Volker Bertelmann - All Quiet On The Western Front,-0.030299999999999994,0.3333,0.3636
 2023-03-06 09:40:34.711567,NFL Specials - NFL Draft 2023 - First QB Selected,C.J. Stroud,-0.031700000000000006,0.1905,0.2222
-2023-03-06 00:40:39.375814,College Basketball - Horizon League Tournament - Horizon League - Tournament Winner,Youngstown State,-0.031799999999999995,0.4444,0.4762
 2023-03-06 10:40:32.710639,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Neymar,-0.0321,0.0588,0.0909
 2023-03-06 11:40:36.315643,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,RB Leipzig,-0.033299999999999996,0.8,0.8333
 2023-03-06 11:40:36.302828,1. Bundesliga - Germany Bundesliga 2022/23 - Winner,Borussia Dortmund,-0.033300000000000024,0.1667,0.2
