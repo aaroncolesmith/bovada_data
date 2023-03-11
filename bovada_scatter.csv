@@ -17,6 +17,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-11 09:40:41.702520,College Basketball - SEC Tournament - SEC Tournament Winner,Missouri,0.05859999999999999,0.0909,0.0323
 2023-03-11 19:42:07.488434,95th Academy Awards - Best Documentary Short - Best Documentary Short,Stranger At The Gate,0.057699999999999974,0.3077,0.25
 2023-03-11 20:40:35.958042,95th Academy Awards - Best Original Screenplay - Best Original Screenplay,The Banshees of Inisherin - Martin McDonagh,0.05559999999999998,0.5,0.4444
+2023-03-11 21:40:31.893294,Euroleague - Euroleague 2022/23 - Outright,AS Monaco,0.052000000000000005,0.1429,0.0909
 2023-03-11 13:40:29.817550,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Oklahoma City Thunder,0.0504,0.2857,0.2353
 2023-03-11 13:40:29.817550,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Los Angeles Lakers,0.04760000000000009,0.7143,0.6667
 2023-03-11 14:40:35.151423,95th Academy Awards - Best Live Action Short Film - Best Live Action Short Film,An Irish Goodbye,0.04760000000000003,0.5238,0.4762
@@ -25,11 +26,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-11 13:40:29.813175,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Atlanta Hawks,0.044399999999999995,0.9333,0.8889
 2023-03-11 14:40:35.622963,Kenya Open - Kenya Open - Outright,Santiago Tarrio,0.044300000000000006,0.0476,0.0033
 2023-03-11 13:40:30.035344,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Joel Embiid (PHI),0.04169999999999999,0.25,0.2083
-2023-03-11 13:40:29.817550,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Utah Jazz,0.04099999999999998,0.3077,0.2667
 2023-03-11 14:40:39.153425,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Phoenix Suns,0.04099999999999998,0.3077,0.2667
+2023-03-11 13:40:29.817550,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Utah Jazz,0.04099999999999998,0.3077,0.2667
 2023-03-11 13:40:29.813175,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Toronto Raptors,0.04070000000000007,0.9231,0.8824
 2023-03-11 09:40:41.684243,College Basketball - American Athletic Tournament - American Athletic Tournament Winner,Memphis,0.04040000000000002,0.2222,0.1818
 2023-03-11 09:40:41.711409,College Basketball - Big Ten Tournament - Big Ten Tournament Winner,Indiana,0.04040000000000002,0.2222,0.1818
+2023-03-11 21:40:31.893294,Euroleague - Euroleague 2022/23 - Outright,Fenerbahce,0.037599999999999995,0.1429,0.1053
 2023-03-11 09:40:42.321406,95th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,All Quiet On The Western Front,0.03640000000000004,0.4,0.3636
 2023-03-11 13:40:29.817550,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,New Orleans Pelicans,0.03639999999999999,0.6364,0.6
 2023-03-11 20:40:35.843136,95th Academy Awards Specials - Requested Specials  - Requested Specials,Black Panther: Wakanda Forever to win Best Supporting Actress & Best Costume,0.036199999999999996,0.1538,0.1176
@@ -55,27 +57,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-11 19:42:07.444552,95th Academy Awards - Best Animated Short Film - Best Animated Short Film,My Year Of Dicks,0.022199999999999998,0.2222,0.2
 2023-03-11 17:40:39.869142,Boxing Lines - Koen Mazoudier vs Mahoney Ben - To Win the Bout,Mahoney Ben,0.02180000000000004,0.6296,0.6078
 2023-03-11 14:40:35.520004,Round Match-Ups - 3rd Round Match-Up - C. Young vs J. Spieth - 3rd Round Match-Up,Jordan Spieth,0.02169999999999994,0.5455,0.5238
-2023-03-11 12:40:58.308928,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - San Diego Padres - Fernando Tatís Jr. - Total RBI's,Under 90.5,0.02079999999999993,0.5556,0.5348
 2023-03-11 12:40:58.812749,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - St. Louis Cardinals - Tommy Edman - Total Stolen Bases,Over 27.5,0.02079999999999993,0.5556,0.5348
+2023-03-11 12:40:58.308928,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - San Diego Padres - Fernando Tatís Jr. - Total RBI's,Under 90.5,0.02079999999999993,0.5556,0.5348
 2023-03-11 10:40:52.458263,Boxing Lines - Koen Mazoudier vs Mahoney Ben - To Win the Bout,Koen Mazoudier,0.020699999999999996,0.4651,0.4444
-2023-03-11 12:40:58.455219,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - San Diego Padres - Yu Darvish - ERA,Over 3.25,0.01970000000000005,0.5652,0.5455
-2023-03-11 12:40:59.496742,MLB 2023 Regular Season Props - MLB 2023 Regular Season Props - Oakland Athletics Regular Season Win Total,Over 59.5,0.01970000000000005,0.5652,0.5455
-2023-03-11 12:40:58.316214,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - San Diego Padres - Fernando Tatís Jr. - Total Runs Scored,Under 95.5,0.01970000000000005,0.5652,0.5455
 2023-03-11 12:40:58.225508,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Pittsburgh Pirates - Carlos Santana - Total Homeruns,Under 19.5,0.01970000000000005,0.5652,0.5455
-2023-03-11 12:40:59.458768,MLB 2023 Regular Season Props - MLB 2023 Regular Season Props - Minnesota Twins Regular Season Win Total,Over 83.5,0.01970000000000005,0.5652,0.5455
+2023-03-11 12:40:58.316214,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - San Diego Padres - Fernando Tatís Jr. - Total Runs Scored,Under 95.5,0.01970000000000005,0.5652,0.5455
+2023-03-11 12:40:59.496742,MLB 2023 Regular Season Props - MLB 2023 Regular Season Props - Oakland Athletics Regular Season Win Total,Over 59.5,0.01970000000000005,0.5652,0.5455
 2023-03-11 12:40:59.478267,MLB 2023 Regular Season Props - MLB 2023 Regular Season Props - New York Yankees Regular Season Win Total,Over 94.5,0.01970000000000005,0.5652,0.5455
 2023-03-11 12:40:59.470161,MLB 2023 Regular Season Props - MLB 2023 Regular Season Props - New York Mets Regular Season Win Total,Over 94.5,0.01970000000000005,0.5652,0.5455
+2023-03-11 12:40:59.458768,MLB 2023 Regular Season Props - MLB 2023 Regular Season Props - Minnesota Twins Regular Season Win Total,Over 83.5,0.01970000000000005,0.5652,0.5455
+2023-03-11 12:40:58.455219,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - San Diego Padres - Yu Darvish - ERA,Over 3.25,0.01970000000000005,0.5652,0.5455
 2023-03-11 20:40:35.864146,95th Academy Awards - Best Actor - Best Actor,Austin Butler - Elvis,0.019699999999999995,0.4545,0.4348
 2023-03-11 13:40:29.805495,Number 1 Seed - 2022/23 NBA - Eastern Conference No. 1 Seed,BOS Celtics,0.019000000000000017,0.2857,0.2667
 2023-03-11 12:41:00.965964,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Gunnar Henderson,0.019000000000000017,0.2857,0.2667
 2023-03-11 12:40:57.857924,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - New York Yankees - Josh Donaldson - Total Homeruns,Under 22.5,0.01880000000000004,0.5744,0.5556
+2023-03-11 21:40:31.663136,Boxing Lines - Diego Pacheco vs Jack Cullen - To Win the Bout,Diego Pacheco,0.01849999999999996,0.9709,0.9524
 2023-03-11 09:40:42.494820,95th Academy Awards - Best Sound - Best Sound,All Quiet On The Western Front,0.01820000000000002,0.2,0.1818
+2023-03-11 21:40:31.893294,Euroleague - Euroleague 2022/23 - Outright,Maccabi Tel-Aviv,0.018200000000000004,0.0476,0.0294
 2023-03-11 12:40:59.453797,MLB 2023 Regular Season Props - MLB 2023 Regular Season Props - Chicago White Sox To Make the Playoffs,No,0.018100000000000005,0.5833,0.5652
 2023-03-11 14:40:35.067479,95th Academy Awards Specials - Requested Specials  - Requested Specials,Elvis to win Best Actor & Best Cinematography,0.01759999999999999,0.1176,0.1
 2023-03-11 13:40:30.044578,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Mike Budenholzer,0.01759999999999999,0.1176,0.1
 2023-03-11 12:41:02.470848,NFL Draft 2023 - Player Props - Team to Draft Anthony Richardson,Detroit Lions,0.01759999999999999,0.1176,0.1
-2023-03-11 10:40:51.861036,95th Academy Awards - Best Costume Design - Best Costume Design,Catherine Martin - Elvis,0.01759999999999995,0.6667,0.6491
 2023-03-11 14:40:35.067479,95th Academy Awards Specials - Requested Specials  - Requested Specials,Everything Everywhere All at Once to win Best Actress & Best Supporting Actor,0.01759999999999995,0.6667,0.6491
+2023-03-11 10:40:51.861036,95th Academy Awards - Best Costume Design - Best Costume Design,Catherine Martin - Elvis,0.01759999999999995,0.6667,0.6491
 2023-03-11 15:40:50.736341,95th Academy Awards Specials - Requested Specials  - Requested Specials,Top Gun: Maverick to win Best Original Song & Best Sound,0.016700000000000007,0.1,0.0833
 2023-03-11 13:40:30.373700,NFL Draft 2023 - Pick Props - #1 Overall Pick,Bryce Young,0.016699999999999993,0.2667,0.25
 2023-03-11 15:40:50.494558,Boxing Lines - Campbell Hatton vs Michel Gonxhe - To Win the Bout,Michel Gonxhe,0.016600000000000004,0.0833,0.0667
@@ -83,94 +87,101 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-11 14:40:35.622963,Kenya Open - Kenya Open - Outright,JC Ritchie,0.014599999999999998,0.0196,0.005
 2023-03-11 19:42:07.444552,95th Academy Awards - Best Animated Short Film - Best Animated Short Film,An Ostrich Told Me The World Is Fake And I Think I Believe It,0.014399999999999996,0.0769,0.0625
 2023-03-11 19:42:06.762218,Boxing Lines - Robbie Davies Jr vs Darragh Foley - To Win the Bout,Robbie Davies Jr,0.014200000000000101,0.8403,0.8261
-2023-03-11 18:41:23.170715,Futures - US Open 2023 - Outright,Scottie Scheffler,0.013999999999999999,0.0909,0.0769
-2023-03-11 16:40:54.137220,Requested Specials - Where Will Odell Beckham Jr Play in 2023? - Where Will Odell Beckham Jr Play in 2023?,Los Angeles Rams,0.013999999999999999,0.0909,0.0769
-2023-03-11 18:41:23.181350,Futures - The Open Championship 2023 - Outright,Scottie Scheffler,0.013999999999999999,0.0909,0.0769
 2023-03-11 18:41:23.160874,Futures - US PGA Championship 2023 - Outright,Scottie Scheffler,0.013999999999999999,0.0909,0.0769
+2023-03-11 18:41:23.170715,Futures - US Open 2023 - Outright,Scottie Scheffler,0.013999999999999999,0.0909,0.0769
+2023-03-11 18:41:23.181350,Futures - The Open Championship 2023 - Outright,Scottie Scheffler,0.013999999999999999,0.0909,0.0769
+2023-03-11 16:40:54.137220,Requested Specials - Where Will Odell Beckham Jr Play in 2023? - Where Will Odell Beckham Jr Play in 2023?,Los Angeles Rams,0.013999999999999999,0.0909,0.0769
 2023-03-11 11:40:38.364198,95th Academy Awards - Best Actor - Best Actor,Brendan Fraser - The Whale,0.013799999999999923,0.6364,0.6226
+2023-03-11 21:40:31.689879,Boxing Lines - Koen Mazoudier vs Mahoney Ben - To Win the Bout,Mahoney Ben,0.013799999999999923,0.6364,0.6226
 2023-03-11 16:40:53.050043,95th Academy Awards Specials - Requested Specials  - Requested Specials,All Quiet on the Western Front to win Best Cinematography & Best Original Score,0.01319999999999999,0.2632,0.25
 2023-03-11 10:40:52.452524,Boxing Lines - Issac Hardman vs Rohan Murdock - To Win the Bout,Rohan Murdock,0.0116,0.4878,0.4762
 2023-03-11 13:40:29.813175,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Orlando Magic,0.011199999999999995,0.0588,0.0476
 2023-03-11 20:40:35.843136,95th Academy Awards Specials - Requested Specials  - Requested Specials,Elvis to win Best Costume & Best Makeup and Hairstyling,0.01100000000000001,0.5348,0.5238
 2023-03-11 10:40:51.861036,95th Academy Awards - Best Costume Design - Best Costume Design,Shirley Kurata - Everything Everywhere All At Once,0.010899999999999993,0.1538,0.1429
-2023-03-11 12:40:58.370425,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - San Diego Padres - Juan Soto - Total Homeruns,Over 30.5,0.010699999999999932,0.5455,0.5348
-2023-03-11 12:40:58.450133,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - San Diego Padres - Xander Bogaerts - Total Runs Scored,Over 84.5,0.010699999999999932,0.5455,0.5348
 2023-03-11 12:40:59.048084,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Texas Rangers - Josh Jung - Total Homeruns,Under 20.5,0.010699999999999932,0.5455,0.5348
-2023-03-11 12:40:58.363369,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - San Diego Padres - Juan Soto - Total Batting Average,Over .285,0.010699999999999932,0.5455,0.5348
 2023-03-11 12:40:58.385301,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - San Diego Padres - Juan Soto - Total Runs Scored,Over 105.5,0.010699999999999932,0.5455,0.5348
+2023-03-11 12:40:58.363369,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - San Diego Padres - Juan Soto - Total Batting Average,Over .285,0.010699999999999932,0.5455,0.5348
+2023-03-11 12:40:58.450133,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - San Diego Padres - Xander Bogaerts - Total Runs Scored,Over 84.5,0.010699999999999932,0.5455,0.5348
+2023-03-11 12:40:58.370425,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - San Diego Padres - Juan Soto - Total Homeruns,Over 30.5,0.010699999999999932,0.5455,0.5348
 2023-03-11 13:40:29.817550,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Golden State Warriors,0.010599999999999998,0.4651,0.4545
 2023-03-11 19:42:07.488434,95th Academy Awards - Best Documentary Short - Best Documentary Short,The Martha Mitchell Effect,0.0102,0.0769,0.0667
-2023-03-11 12:40:58.847809,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Tampa Bay Rays - Brandon Lowe - Total RBI's,Under 84.5,0.010099999999999998,0.5556,0.5455
 2023-03-11 12:40:58.342149,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - San Diego Padres - Jake Cronenworth - Total RBI's,Under 84.5,0.010099999999999998,0.5556,0.5455
 2023-03-11 12:40:58.861274,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Tampa Bay Rays - Randy Arozarena - Total RBI's,Under 85.5,0.010099999999999998,0.5556,0.5455
+2023-03-11 12:40:58.955731,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Tampa Bay Rays - Wander Franco - Total Runs Scored,Under 85.5,0.010099999999999998,0.5556,0.5455
 2023-03-11 20:40:36.507875,Boxing Lines - Tim Tszyu vs Tony Harrison - To Win the Bout,Tony Harrison,0.010099999999999998,0.3226,0.3125
 2023-03-11 12:40:58.843402,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Tampa Bay Rays - Brandon Lowe - Total Homeruns,Under 28.5,0.010099999999999998,0.5556,0.5455
-2023-03-11 12:40:58.955731,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Tampa Bay Rays - Wander Franco - Total Runs Scored,Under 85.5,0.010099999999999998,0.5556,0.5455
-2023-03-11 09:40:43.677833,La Liga - Spain La Liga 2022/23 - To Be Relegated,Cádiz,-0.010099999999999998,0.4444,0.4545
+2023-03-11 12:40:58.847809,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Tampa Bay Rays - Brandon Lowe - Total RBI's,Under 84.5,0.010099999999999998,0.5556,0.5455
 2023-03-11 11:40:38.364198,95th Academy Awards - Best Actor - Best Actor,Austin Butler - Elvis,-0.010099999999999998,0.4444,0.4545
+2023-03-11 21:40:31.700562,Boxing Lines - Tim Tszyu vs Tony Harrison - To Win the Bout,Tony Harrison,-0.010099999999999998,0.3125,0.3226
+2023-03-11 09:40:43.677833,La Liga - Spain La Liga 2022/23 - To Be Relegated,Cádiz,-0.010099999999999998,0.4444,0.4545
 2023-03-11 14:40:35.622963,Kenya Open - Kenya Open - Outright,Lukas Nemecz,-0.010100000000000001,0.0244,0.0345
 2023-03-11 18:41:22.494274,Boxing Lines - Farrhad Saad vs Macaulay McGowan - To Win the Bout,Farrhad Saad,-0.010199999999999987,0.9231,0.9333
 2023-03-11 09:40:43.937568,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,River Plate,-0.010399999999999993,0.2222,0.2326
 2023-03-11 13:40:29.047744,Boxing Lines - Koen Mazoudier vs Mahoney Ben - To Win the Bout,Koen Mazoudier,-0.010599999999999998,0.4545,0.4651
 2023-03-11 20:40:35.903713,95th Academy Awards - Best Costume Design - Best Costume Design,Shirley Kurata - Everything Everywhere All At Once,-0.010899999999999993,0.1429,0.1538
-2023-03-11 12:40:59.048084,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Texas Rangers - Josh Jung - Total Homeruns,Over 20.5,-0.01100000000000001,0.5238,0.5348
 2023-03-11 12:40:58.385301,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - San Diego Padres - Juan Soto - Total Runs Scored,Under 105.5,-0.01100000000000001,0.5238,0.5348
 2023-03-11 12:40:58.363369,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - San Diego Padres - Juan Soto - Total Batting Average,Under .285,-0.01100000000000001,0.5238,0.5348
 2023-03-11 12:40:58.450133,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - San Diego Padres - Xander Bogaerts - Total Runs Scored,Under 84.5,-0.01100000000000001,0.5238,0.5348
+2023-03-11 12:40:59.048084,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Texas Rangers - Josh Jung - Total Homeruns,Over 20.5,-0.01100000000000001,0.5238,0.5348
 2023-03-11 12:40:58.370425,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - San Diego Padres - Juan Soto - Total Homeruns,Under 30.5,-0.01100000000000001,0.5238,0.5348
 2023-03-11 09:40:43.937568,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,San Lorenzo,-0.011099999999999999,0.1,0.1111
+2023-03-11 12:40:58.843402,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Tampa Bay Rays - Brandon Lowe - Total Homeruns,Over 28.5,-0.011600000000000055,0.5122,0.5238
+2023-03-11 12:40:58.847809,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Tampa Bay Rays - Brandon Lowe - Total RBI's,Over 84.5,-0.011600000000000055,0.5122,0.5238
 2023-03-11 12:40:58.861274,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Tampa Bay Rays - Randy Arozarena - Total RBI's,Over 85.5,-0.011600000000000055,0.5122,0.5238
 2023-03-11 12:40:58.955731,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Tampa Bay Rays - Wander Franco - Total Runs Scored,Over 85.5,-0.011600000000000055,0.5122,0.5238
 2023-03-11 12:40:58.342149,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - San Diego Padres - Jake Cronenworth - Total RBI's,Over 84.5,-0.011600000000000055,0.5122,0.5238
-2023-03-11 12:40:58.847809,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Tampa Bay Rays - Brandon Lowe - Total RBI's,Over 84.5,-0.011600000000000055,0.5122,0.5238
-2023-03-11 12:40:58.843402,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Tampa Bay Rays - Brandon Lowe - Total Homeruns,Over 28.5,-0.011600000000000055,0.5122,0.5238
 2023-03-11 18:41:22.519428,Boxing Lines - Thomas Faure vs Dan Azeez - To Win the Bout,Thomas Faure,-0.011700000000000002,0.1026,0.1143
 2023-03-11 14:40:39.836264,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,River Plate,-0.011700000000000016,0.2105,0.2222
-2023-03-11 12:40:57.630133,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - New York Mets -Justin Verlander - ERA,Under 2.75,-0.012199999999999989,0.5,0.5122
 2023-03-11 12:40:57.616059,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - New York Mets -Brandon Nimmo - Total Runs Scored,Over 95.5,-0.012199999999999989,0.5,0.5122
+2023-03-11 12:40:57.630133,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - New York Mets -Justin Verlander - ERA,Under 2.75,-0.012199999999999989,0.5,0.5122
 2023-03-11 12:41:00.984079,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Miguel Vargas,-0.012899999999999995,0.1538,0.1667
+2023-03-11 21:40:31.893294,Euroleague - Euroleague 2022/23 - Outright,Real Madrid BC,-0.0131,0.2222,0.2353
 2023-03-11 13:40:30.373700,NFL Draft 2023 - Pick Props - #1 Overall Pick,CJ Stroud,-0.0131,0.7647,0.7778
 2023-03-11 19:42:06.762218,Boxing Lines - Robbie Davies Jr vs Darragh Foley - To Win the Bout,Darragh Foley,-0.01369999999999999,0.2273,0.241
 2023-03-11 20:40:35.864146,95th Academy Awards - Best Actor - Best Actor,Brendan Fraser - The Whale,-0.013799999999999923,0.6226,0.6364
 2023-03-11 18:41:23.143247,Futures - The Masters 2023 - Outright,Jon Rahm,-0.013899999999999996,0.1111,0.125
+2023-03-11 21:40:31.663136,Boxing Lines - Diego Pacheco vs Jack Cullen - To Win the Bout,Jack Cullen,-0.013999999999999999,0.0769,0.0909
 2023-03-11 16:40:54.137220,Requested Specials - Where Will Odell Beckham Jr Play in 2023? - Where Will Odell Beckham Jr Play in 2023?,Miami Dolphins,-0.013999999999999999,0.0769,0.0909
+2023-03-11 21:40:31.893294,Euroleague - Euroleague 2022/23 - Outright,Partizan,-0.014099999999999998,0.0244,0.0385
 2023-03-11 14:40:35.622963,Kenya Open - Kenya Open - Outright,Borja Virto,-0.014499999999999999,0.0149,0.0294
 2023-03-11 15:40:50.494558,Boxing Lines - Campbell Hatton vs Michel Gonxhe - To Win the Bout,Campbell Hatton,-0.014900000000000024,0.9655,0.9804
 2023-03-11 10:40:51.861036,95th Academy Awards - Best Costume Design - Best Costume Design,Ruth Carter - Black Panther: Wakanda Forever,-0.014900000000000024,0.3077,0.3226
 2023-03-11 12:40:59.463420,MLB 2023 Regular Season Props - MLB 2023 Regular Season Props - Minnesota Twins To Make The Playoffs,No,-0.016699999999999937,0.5833,0.6
 2023-03-11 10:40:52.452524,Boxing Lines - Issac Hardman vs Rohan Murdock - To Win the Bout,Issac Hardman,-0.017299999999999982,0.5744,0.5917
+2023-03-11 21:40:31.689879,Boxing Lines - Koen Mazoudier vs Mahoney Ben - To Win the Bout,Koen Mazoudier,-0.018900000000000028,0.4255,0.4444
 2023-03-11 14:40:39.153425,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,-0.019000000000000017,0.2667,0.2857
 2023-03-11 17:40:39.869142,Boxing Lines - Koen Mazoudier vs Mahoney Ben - To Win the Bout,Koen Mazoudier,-0.019699999999999995,0.4348,0.4545
 2023-03-11 09:40:42.483784,95th Academy Awards - Best Production Design - Best Production Design,Avatar: The Way Of Water,-0.02020000000000001,0.0909,0.1111
 2023-03-11 09:40:42.483784,95th Academy Awards - Best Production Design - Best Production Design,All Quiet On The Western Front,-0.02020000000000001,0.0909,0.1111
 2023-03-11 14:40:35.622963,Kenya Open - Kenya Open - Outright,Jayden Schaper,-0.02049999999999999,0.1333,0.1538
 2023-03-11 14:40:35.622963,Kenya Open - Kenya Open - Outright,Craig Howie,-0.0215,0.0079,0.0294
-2023-03-11 12:40:59.478267,MLB 2023 Regular Season Props - MLB 2023 Regular Season Props - New York Yankees Regular Season Win Total,Under 94.5,-0.02169999999999994,0.5238,0.5455
+2023-03-11 12:40:59.470161,MLB 2023 Regular Season Props - MLB 2023 Regular Season Props - New York Mets Regular Season Win Total,Under 94.5,-0.02169999999999994,0.5238,0.5455
 2023-03-11 12:40:59.458768,MLB 2023 Regular Season Props - MLB 2023 Regular Season Props - Minnesota Twins Regular Season Win Total,Under 83.5,-0.02169999999999994,0.5238,0.5455
 2023-03-11 12:40:59.496742,MLB 2023 Regular Season Props - MLB 2023 Regular Season Props - Oakland Athletics Regular Season Win Total,Under 59.5,-0.02169999999999994,0.5238,0.5455
-2023-03-11 12:40:59.470161,MLB 2023 Regular Season Props - MLB 2023 Regular Season Props - New York Mets Regular Season Win Total,Under 94.5,-0.02169999999999994,0.5238,0.5455
+2023-03-11 12:40:59.478267,MLB 2023 Regular Season Props - MLB 2023 Regular Season Props - New York Yankees Regular Season Win Total,Under 94.5,-0.02169999999999994,0.5238,0.5455
 2023-03-11 13:40:30.044578,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Michael Malone,-0.022199999999999998,0.2,0.2222
 2023-03-11 14:40:35.088530,95th Academy Awards - Best Actress - Best Actress,Cate Blanchett - TÁR,-0.02260000000000001,0.3774,0.4
 2023-03-11 10:40:52.458263,Boxing Lines - Koen Mazoudier vs Mahoney Ben - To Win the Bout,Mahoney Ben,-0.022600000000000064,0.6,0.6226
-2023-03-11 12:40:58.812749,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - St. Louis Cardinals - Tommy Edman - Total Stolen Bases,Under 27.5,-0.022600000000000064,0.5122,0.5348
 2023-03-11 12:40:58.308928,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - San Diego Padres - Fernando Tatís Jr. - Total RBI's,Over 90.5,-0.022600000000000064,0.5122,0.5348
+2023-03-11 12:40:58.812749,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - St. Louis Cardinals - Tommy Edman - Total Stolen Bases,Under 27.5,-0.022600000000000064,0.5122,0.5348
 2023-03-11 09:40:42.389317,95th Academy Awards - Best Documentary Short - Best Documentary Short,How Do You Measure A Year?,-0.02310000000000001,0.0769,0.1
 2023-03-11 14:40:35.622963,Kenya Open - Kenya Open - Outright,Rafa Cabrera Bello,-0.0236,0.0149,0.0385
-2023-03-11 14:40:35.520004,Round Match-Ups - 3rd Round Match-Up - C. Young vs J. Spieth - 3rd Round Match-Up,Cameron Young,-0.023800000000000043,0.5,0.5238
 2023-03-11 12:40:58.455219,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - San Diego Padres - Yu Darvish - ERA,Under 3.25,-0.023800000000000043,0.5,0.5238
 2023-03-11 12:40:58.225508,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Pittsburgh Pirates - Carlos Santana - Total Homeruns,Over 19.5,-0.023800000000000043,0.5,0.5238
 2023-03-11 12:40:59.453797,MLB 2023 Regular Season Props - MLB 2023 Regular Season Props - Chicago White Sox To Make the Playoffs,Yes,-0.023800000000000043,0.5,0.5238
 2023-03-11 12:40:58.316214,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - San Diego Padres - Fernando Tatís Jr. - Total Runs Scored,Over 95.5,-0.023800000000000043,0.5,0.5238
+2023-03-11 14:40:35.520004,Round Match-Ups - 3rd Round Match-Up - C. Young vs J. Spieth - 3rd Round Match-Up,Cameron Young,-0.023800000000000043,0.5,0.5238
 2023-03-11 12:40:57.857924,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - New York Yankees - Josh Donaldson - Total Homeruns,Over 22.5,-0.024399999999999977,0.4878,0.5122
 2023-03-11 12:41:02.470848,NFL Draft 2023 - Player Props - Team to Draft Anthony Richardson,Houston Texans,-0.0267,0.0909,0.1176
-2023-03-11 12:41:00.965964,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Royce Lewis,-0.027999999999999997,0.1053,0.1333
 2023-03-11 12:41:00.984079,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Kodai Senga,-0.027999999999999997,0.1053,0.1333
-2023-03-11 09:40:43.842522,Eredivisie - Dutch Eredivisie 2022/23 - Winner,PSV Eindhoven,-0.028799999999999992,0.125,0.1538
+2023-03-11 12:41:00.965964,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Royce Lewis,-0.027999999999999997,0.1053,0.1333
 2023-03-11 12:41:02.470848,NFL Draft 2023 - Player Props - Team to Draft Anthony Richardson,Las Vegas Raiders,-0.028799999999999992,0.125,0.1538
+2023-03-11 09:40:43.842522,Eredivisie - Dutch Eredivisie 2022/23 - Winner,PSV Eindhoven,-0.028799999999999992,0.125,0.1538
 2023-03-11 14:40:35.151423,95th Academy Awards - Best Live Action Short Film - Best Live Action Short Film,Le Pupille,-0.031799999999999995,0.4444,0.4762
 2023-03-11 09:40:43.842522,Eredivisie - Dutch Eredivisie 2022/23 - Winner,Feyenoord,-0.032099999999999906,0.5833,0.6154
 2023-03-11 09:40:42.483784,95th Academy Awards - Best Production Design - Best Production Design,Elvis,-0.03570000000000001,0.25,0.2857
 2023-03-11 12:41:00.984079,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Ezequiel Tovar,-0.038099999999999995,0.0952,0.1333
+2023-03-11 21:40:31.893294,Euroleague - Euroleague 2022/23 - Outright,Barcelona,-0.038099999999999995,0.2,0.2381
 2023-03-11 13:40:29.805495,Number 1 Seed - 2022/23 NBA - Eastern Conference No. 1 Seed,MIL Bucks,-0.03949999999999998,0.75,0.7895
 2023-03-11 13:40:30.035344,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Nikola Jokic (DEN),-0.04039999999999999,0.7778,0.8182
 2023-03-11 14:40:35.622963,Kenya Open - Kenya Open - Outright,John Catlin,-0.04229999999999999,0.0244,0.0667
@@ -178,6 +189,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-11 09:40:42.312504,95th Academy Awards - Best Actress - Best Actress,Cate Blanchett - TÁR,-0.044399999999999995,0.4,0.4444
 2023-03-11 09:40:42.398710,95th Academy Awards - Best Film Editing - Best Film Editing,Everything Everywhere All At Once,-0.04760000000000009,0.6667,0.7143
 2023-03-11 20:40:35.843136,95th Academy Awards Specials - Requested Specials  - Requested Specials,Everything Everywhere All at Once to win Best Original Screenplay & Best Film Editing,-0.0484,0.4167,0.4651
+2023-03-11 21:40:31.893294,Euroleague - Euroleague 2022/23 - Outright,Anadolu Efes,-0.05,0.0833,0.1333
 2023-03-11 09:40:43.811726,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Chivas Guadalajara,-0.05,0.0833,0.1333
 2023-03-11 14:40:35.622963,Kenya Open - Kenya Open - Outright,Gavin Green,-0.052199999999999996,0.0066,0.0588
 2023-03-11 20:40:35.958042,95th Academy Awards - Best Original Screenplay - Best Original Screenplay,Everything Everywhere All At Once - Daniel Kwan & Daniel Scheinert,-0.053099999999999925,0.5833,0.6364
