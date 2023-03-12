@@ -1,121 +1,165 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-11 23:40:55.008673,Championship - England Championship 2022/23 - Top 2 Finish,Middlesbrough,0.13329999999999997,0.3333,0.2
-2023-03-11 23:40:55.012943,Championship - England Championship 2022/23 - Top 6 Finish,Luton Town,0.13329999999999997,0.7333,0.6
 2023-03-12 00:40:43.122681,League Two - England - League Two 2022/23 - To Finish Bottom,Rochdale,0.13329999999999997,0.7333,0.6
-2023-03-11 23:40:55.004057,Championship - England Championship 2022/23 - To Be Promoted,Middlesbrough,0.10109999999999997,0.5455,0.4444
+2023-03-11 23:40:55.012943,Championship - England Championship 2022/23 - Top 6 Finish,Luton Town,0.13329999999999997,0.7333,0.6
+2023-03-12 07:41:01.540933,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Sacramento Kings,0.13329999999999997,0.7333,0.6
 2023-03-11 23:40:55.103557,League One - England - League One 2022/23 - Top 2 Finish,Ipswich Town,0.10109999999999997,0.5556,0.4545
+2023-03-11 23:40:55.004057,Championship - England Championship 2022/23 - To Be Promoted,Middlesbrough,0.10109999999999997,0.5455,0.4444
 2023-03-11 23:40:55.012943,Championship - England Championship 2022/23 - Top 6 Finish,Millwall,0.0988,0.6226,0.5238
 2023-03-12 00:40:43.129758,League Two - England - League Two 2022/23 - Top 3 Finish,Carlisle United,0.09230000000000005,0.4,0.3077
 2023-03-11 23:40:55.110170,League One - England - League One 2022/23 - Top 6 Finish,Derby County,0.08979999999999999,0.9231,0.8333
 2023-03-11 23:40:55.093119,League One - England - League One 2022/23 - Outright,Sheffield Wednesday,0.07929999999999993,0.8571,0.7778
 2023-03-11 23:40:55.098074,League One - England - League One 2022/23 - To Be Promoted,Ipswich Town,0.07809999999999995,0.7333,0.6552
-2023-03-11 23:40:55.135232,League Two - England - League Two 2022/23 - Top 7 Finish,Carlisle United,0.07579999999999998,0.9091,0.8333
 2023-03-11 23:40:55.129120,League Two - England - League Two 2022/23 - To Be Relegated,Rochdale,0.07579999999999998,0.9091,0.8333
+2023-03-11 23:40:55.135232,League Two - England - League Two 2022/23 - Top 7 Finish,Carlisle United,0.07579999999999998,0.9091,0.8333
 2023-03-11 23:40:55.135232,League Two - England - League Two 2022/23 - Top 7 Finish,Stockport County,0.06320000000000003,0.8333,0.7701
 2023-03-11 19:42:07.488434,95th Academy Awards - Best Documentary Short - Best Documentary Short,Stranger At The Gate,0.057699999999999974,0.3077,0.25
 2023-03-11 23:40:55.125092,League Two - England - League Two 2022/23 - To Be Promoted,Carlisle United,0.05559999999999998,0.5,0.4444
 2023-03-11 20:40:35.958042,95th Academy Awards - Best Original Screenplay - Best Original Screenplay,The Banshees of Inisherin - Martin McDonagh,0.05559999999999998,0.5,0.4444
 2023-03-11 23:40:55.110170,League One - England - League One 2022/23 - Top 6 Finish,Barnsley,0.0524,0.9615,0.9091
 2023-03-11 21:40:31.893294,Euroleague - Euroleague 2022/23 - Outright,AS Monaco,0.052000000000000005,0.1429,0.0909
+2023-03-12 07:41:10.203573,95th Academy Awards - Best Film Editing - Best Film Editing,Everything Everywhere All At Once,0.04760000000000009,0.7143,0.6667
+2023-03-12 07:41:10.138328,95th Academy Awards - Best Costume Design - Best Costume Design,Catherine Martin - Elvis,0.04760000000000009,0.7143,0.6667
 2023-03-11 19:42:07.444552,95th Academy Awards - Best Animated Short Film - Best Animated Short Film,Ice Merchants,0.044499999999999984,0.2667,0.2222
+2023-03-12 07:41:10.080301,95th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,All Quiet On The Western Front,0.044399999999999995,0.4444,0.4
 2023-03-11 23:40:55.004057,Championship - England Championship 2022/23 - To Be Promoted,Millwall,0.04169999999999999,0.1667,0.125
 2023-03-12 03:40:40.745948,College Basketball - 2023 NCAA DI Men's Basketball Tournament - March Madness - To Make The Final 4,Marquette,0.04169999999999999,0.1667,0.125
 2023-03-11 23:40:55.125092,League Two - England - League Two 2022/23 - To Be Promoted,Stevenage,0.04169999999999996,0.875,0.8333
+2023-03-12 07:41:01.448343,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,0.04099999999999998,0.3077,0.2667
+2023-03-12 07:41:10.168945,95th Academy Awards - Best Documentary Feature - Best Documentary Feature,Navalny,0.040999999999999925,0.7333,0.6923
 2023-03-12 03:40:40.745948,College Basketball - 2023 NCAA DI Men's Basketball Tournament - March Madness - To Make The Final 4,Texas,0.04040000000000002,0.2222,0.1818
 2023-03-12 00:40:43.129758,League Two - England - League Two 2022/23 - Top 3 Finish,Stockport County,0.04040000000000002,0.2222,0.1818
 2023-03-12 00:40:43.129758,League Two - England - League Two 2022/23 - Top 3 Finish,Stevenage,0.04039999999999999,0.8182,0.7778
 2023-03-12 03:40:39.720268,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - S. Burns v S. Ryder - Final Round 2 Balls,Sam Ryder,0.039600000000000024,0.4651,0.4255
 2023-03-11 23:40:55.004057,Championship - England Championship 2022/23 - To Be Promoted,Luton Town,0.03889999999999999,0.1818,0.1429
 2023-03-11 21:40:31.893294,Euroleague - Euroleague 2022/23 - Outright,Fenerbahce,0.037599999999999995,0.1429,0.1053
+2023-03-12 07:41:01.581119,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Utah Jazz,0.03710000000000002,0.3448,0.3077
 2023-03-11 20:40:35.843136,95th Academy Awards Specials - Requested Specials  - Requested Specials,Black Panther: Wakanda Forever to win Best Supporting Actress & Best Costume,0.036199999999999996,0.1538,0.1176
+2023-03-12 07:41:01.893730,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Joel Embiid (PHI),0.03570000000000001,0.2857,0.25
 2023-03-11 23:40:55.012943,Championship - England Championship 2022/23 - Top 6 Finish,Middlesbrough,0.034399999999999986,0.9756,0.9412
+2023-03-12 07:41:01.922862,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.033299999999999996,0.5455,0.5122
+2023-03-12 07:41:01.902641,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Malik Monk (SAC),0.033,0.0526,0.0196
 2023-03-11 23:40:55.135232,League Two - England - League Two 2022/23 - Top 7 Finish,Doncaster Rovers,0.03219999999999999,0.0667,0.0345
 2023-03-11 23:40:55.129120,League Two - England - League Two 2022/23 - To Be Relegated,Harrogate Town,0.0321,0.0909,0.0588
 2023-03-12 03:40:39.651864,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - A. Scott v S. Straka - Final Round 2 Balls,Sepp Straka,0.031799999999999995,0.4762,0.4444
+2023-03-12 07:41:01.581119,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Dallas Mavericks,0.03179999999999994,0.5556,0.5238
 2023-03-12 01:40:34.206268,95th Academy Awards - Best Documentary Feature - Best Documentary Feature,Fire Of Love,0.030299999999999994,0.3636,0.3333
 2023-03-12 02:40:54.606989,95th Academy Awards - Best Animated Short Film - Best Animated Short Film,"The Boy, The Mole, The Fox And The Horse",0.029899999999999927,0.7222,0.6923
+2023-03-12 07:41:01.448343,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Lakers,0.028399999999999995,0.0909,0.0625
 2023-03-11 23:40:55.129120,League Two - England - League Two 2022/23 - To Be Relegated,Colchester United,0.028199999999999996,0.0667,0.0385
+2023-03-12 07:41:01.504809,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Miami Heat,0.027999999999999914,0.8462,0.8182
+2023-03-12 07:41:10.111330,95th Academy Awards - Best Animated Short Film - Best Animated Short Film,My Year Of Dicks,0.02779999999999999,0.25,0.2222
 2023-03-11 20:40:35.843136,95th Academy Awards Specials - Requested Specials  - Requested Specials,All Quiet on the Western Front to win Best Adapted Screenplay & Best International Feature Film,0.026500000000000024,0.3774,0.3509
 2023-03-11 19:42:07.444552,95th Academy Awards - Best Animated Short Film - Best Animated Short Film,"The Boy, The Mole, The Fox And The Horse",0.025600000000000067,0.6923,0.6667
-2023-03-11 23:40:55.098074,League One - England - League One 2022/23 - To Be Promoted,Derby County,0.02560000000000001,0.3333,0.3077
 2023-03-11 20:40:35.903713,95th Academy Awards - Best Costume Design - Best Costume Design,Ruth Carter - Black Panther: Wakanda Forever,0.02560000000000001,0.3333,0.3077
+2023-03-12 07:41:01.572454,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Indiana Pacers,0.02560000000000001,0.3333,0.3077
+2023-03-11 23:40:55.098074,League One - England - League One 2022/23 - To Be Promoted,Derby County,0.02560000000000001,0.3333,0.3077
 2023-03-12 00:40:42.868150,1. Bundesliga - Germany Bundesliga 2022/23 - Winner,Bayern Munich,0.025000000000000022,0.9,0.875
 2023-03-11 22:40:39.715637,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester City,0.023800000000000043,0.5238,0.5
+2023-03-12 07:41:00.157628,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - A. Scott v S. Straka - Final Round 2 Balls,Sepp Straka,0.023799999999999988,0.5,0.4762
 2023-03-11 20:40:35.984463,95th Academy Awards - Best Sound - Best Sound,Top Gun: Maverick,0.023799999999999932,0.8571,0.8333
 2023-03-11 23:40:55.120850,League Two - England - League Two 2022/23 - Outright,Carlisle United,0.023200000000000002,0.0476,0.0244
-2023-03-11 18:41:23.143247,Futures - The Masters 2023 - Outright,Scottie Scheffler,0.02310000000000001,0.1,0.0769
+2023-03-12 07:41:01.435906,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Cleveland Cavaliers,0.02310000000000001,0.1,0.0769
 2023-03-11 19:42:07.444552,95th Academy Awards - Best Animated Short Film - Best Animated Short Film,My Year Of Dicks,0.022199999999999998,0.2222,0.2
 2023-03-11 23:40:55.129120,League Two - England - League Two 2022/23 - To Be Relegated,Hartlepool United,0.02200000000000002,0.7143,0.6923
+2023-03-12 07:41:01.581119,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Oklahoma City Thunder,0.021999999999999964,0.3077,0.2857
 2023-03-12 04:40:38.615376,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - W. Zalatoris v K. Kisner - Final Round 2 Balls,Kevin Kisner,0.02030000000000004,0.3774,0.3571
+2023-03-12 07:41:01.435906,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Miami Heat,0.0203,0.0588,0.0385
 2023-03-11 23:40:55.103557,League One - England - League One 2022/23 - Top 2 Finish,Sheffield Wednesday,0.020299999999999985,0.9615,0.9412
 2023-03-11 23:40:55.103557,League One - England - League One 2022/23 - Top 2 Finish,Barnsley,0.02020000000000001,0.1111,0.0909
+2023-03-12 07:41:01.529255,2022/23 Divisions - 2022-2023 NBA Southwest Division - Division Winner,Dallas Mavericks,0.02020000000000001,0.1111,0.0909
 2023-03-12 05:40:39.784394,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - M. Homa v T. Hatton - Final Round 2 Balls,Max Homa,0.01970000000000005,0.5652,0.5455
+2023-03-12 07:41:01.435906,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Boston Celtics,0.019699999999999995,0.4545,0.4348
 2023-03-11 20:40:35.864146,95th Academy Awards - Best Actor - Best Actor,Austin Butler - Elvis,0.019699999999999995,0.4545,0.4348
+2023-03-12 07:41:01.504809,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Washington Wizards,0.019099999999999992,0.0667,0.0476
 2023-03-11 23:40:55.098074,League One - England - League One 2022/23 - To Be Promoted,Barnsley,0.019000000000000017,0.2857,0.2667
-2023-03-11 23:40:55.125092,League Two - England - League Two 2022/23 - To Be Promoted,Stockport County,0.018900000000000028,0.4444,0.4255
 2023-03-11 23:40:50.080922,Boxing Lines - Koen Mazoudier vs Mahoney Ben - To Win the Bout,Koen Mazoudier,0.018900000000000028,0.4444,0.4255
+2023-03-11 23:40:55.125092,League Two - England - League Two 2022/23 - To Be Promoted,Stockport County,0.018900000000000028,0.4444,0.4255
 2023-03-11 21:40:31.663136,Boxing Lines - Diego Pacheco vs Jack Cullen - To Win the Bout,Diego Pacheco,0.01849999999999996,0.9709,0.9524
 2023-03-11 22:40:35.407450,95th Academy Awards Specials - Requested Specials  - Requested Specials,Black Panther: Wakanda Forever to win Best Supporting Actress & Best Original Song,0.01830000000000001,0.0952,0.0769
 2023-03-11 21:40:31.893294,Euroleague - Euroleague 2022/23 - Outright,Maccabi Tel-Aviv,0.018200000000000004,0.0476,0.0294
 2023-03-12 04:40:38.621357,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - J. Thomas v T. Kim - Final Round 2 Balls,Justin Thomas,0.018100000000000005,0.5833,0.5652
-2023-03-11 23:40:55.135232,League Two - England - League Two 2022/23 - Top 7 Finish,Sutton Utd,0.016699999999999993,0.2667,0.25
+2023-03-12 07:41:01.572454,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Orlando Magic,0.018099999999999998,0.0769,0.0588
+2023-03-12 07:41:10.155731,95th Academy Awards - Best Director - Best Director,Daniel Kwan and Daniel Scheinert - Everything Everywhere All At Once,0.016799999999999926,0.9259,0.9091
 2023-03-11 23:40:55.012943,Championship - England Championship 2022/23 - Top 6 Finish,West Bromwich Albion,0.016699999999999993,0.4167,0.4
+2023-03-11 23:40:55.135232,League Two - England - League Two 2022/23 - Top 7 Finish,Sutton Utd,0.016699999999999993,0.2667,0.25
+2023-03-12 07:41:10.125054,95th Academy Awards - Best Cinematography - Best Cinematography,Mandy Walker - Elvis,0.016699999999999993,0.2667,0.25
 2023-03-11 20:40:35.843136,95th Academy Awards Specials - Requested Specials  - Requested Specials,Everything Everywhere All at Once to win Best Actress & Best Supporting Actor,0.015800000000000036,0.6825,0.6667
 2023-03-11 22:40:35.407450,95th Academy Awards Specials - Requested Specials  - Requested Specials,All Quiet on the Western Front to win Best Picture & Best Cinematography,0.015300000000000001,0.0588,0.0435
 2023-03-12 06:40:48.483660,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Phoenix Suns,0.015100000000000002,0.1818,0.1667
 2023-03-12 03:40:39.234380,Boxing Lines - Tim Tszyu vs Tony Harrison - To Win the Bout,Tim Tszyu,0.014700000000000046,0.7647,0.75
+2023-03-12 07:41:01.504809,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Atlanta Hawks,0.01469999999999999,0.25,0.2353
 2023-03-11 23:40:55.110170,League One - England - League One 2022/23 - Top 6 Finish,Shrewsbury Town,0.014499999999999999,0.0294,0.0149
 2023-03-11 19:42:07.444552,95th Academy Awards - Best Animated Short Film - Best Animated Short Film,An Ostrich Told Me The World Is Fake And I Think I Believe It,0.014399999999999996,0.0769,0.0625
 2023-03-11 19:42:06.762218,Boxing Lines - Robbie Davies Jr vs Darragh Foley - To Win the Bout,Robbie Davies Jr,0.014200000000000101,0.8403,0.8261
 2023-03-11 23:40:55.008673,Championship - England Championship 2022/23 - Top 2 Finish,Luton Town,0.014099999999999998,0.0435,0.0294
-2023-03-11 18:41:23.181350,Futures - The Open Championship 2023 - Outright,Scottie Scheffler,0.013999999999999999,0.0909,0.0769
-2023-03-11 18:41:23.170715,Futures - US Open 2023 - Outright,Scottie Scheffler,0.013999999999999999,0.0909,0.0769
-2023-03-11 18:41:23.160874,Futures - US PGA Championship 2023 - Outright,Scottie Scheffler,0.013999999999999999,0.0909,0.0769
+2023-03-12 07:41:10.111330,95th Academy Awards - Best Animated Short Film - Best Animated Short Film,An Ostrich Told Me The World Is Fake And I Think I Believe It,0.013999999999999999,0.0909,0.0769
 2023-03-11 21:40:31.689879,Boxing Lines - Koen Mazoudier vs Mahoney Ben - To Win the Bout,Mahoney Ben,0.013799999999999923,0.6364,0.6226
 2023-03-12 06:40:47.699340,95th Academy Awards - Best Actor - Best Actor,Brendan Fraser - The Whale,0.013799999999999923,0.6364,0.6226
 2023-03-12 06:40:48.483660,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Los Angeles Clippers,0.012600000000000007,0.0714,0.0588
+2023-03-12 07:41:01.572454,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Chicago Bulls,0.012199999999999989,0.5122,0.5
+2023-03-12 07:41:01.931352,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Shai Gilgeous-Alexander (OKC),0.011700000000000016,0.2222,0.2105
+2023-03-12 07:41:01.435906,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Atlanta Hawks,0.011399999999999997,0.0278,0.0164
 2023-03-12 03:40:40.732831,College Basketball - 2023 NCAA DI Men's Basketball Tournament - March Madness - Outright Winner,Texas,0.011199999999999995,0.0588,0.0476
 2023-03-11 20:40:35.843136,95th Academy Awards Specials - Requested Specials  - Requested Specials,Elvis to win Best Costume & Best Makeup and Hairstyling,0.01100000000000001,0.5348,0.5238
 2023-03-11 23:40:55.004057,Championship - England Championship 2022/23 - To Be Promoted,West Bromwich Albion,0.010899999999999993,0.1538,0.1429
-2023-03-12 06:40:48.483660,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Philadelphia 76ers,0.0102,0.0769,0.0667
+2023-03-12 07:41:01.448343,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Clippers,0.010899999999999993,0.1538,0.1429
+2023-03-12 07:41:01.914088,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Michael Malone,0.010499999999999982,0.2105,0.2
+2023-03-12 07:41:10.098472,95th Academy Awards - Best Animated Feature - Best Animated Feature,Puss In Boots: The Last Wish,0.0102,0.0769,0.0667
 2023-03-11 19:42:07.488434,95th Academy Awards - Best Documentary Short - Best Documentary Short,The Martha Mitchell Effect,0.0102,0.0769,0.0667
+2023-03-12 06:40:48.483660,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Philadelphia 76ers,0.0102,0.0769,0.0667
+2023-03-12 07:41:01.467118,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Boston Celtics,0.010199999999999987,0.9333,0.9231
 2023-03-11 20:40:36.507875,Boxing Lines - Tim Tszyu vs Tony Harrison - To Win the Bout,Tony Harrison,0.010099999999999998,0.3226,0.3125
-2023-03-11 21:40:31.700562,Boxing Lines - Tim Tszyu vs Tony Harrison - To Win the Bout,Tony Harrison,-0.010099999999999998,0.3125,0.3226
+2023-03-12 07:41:10.033835,95th Academy Awards - Best Actor - Best Actor,Austin Butler - Elvis,-0.010099999999999998,0.4444,0.4545
 2023-03-11 23:40:55.125092,League Two - England - League Two 2022/23 - To Be Promoted,Northampton Town,-0.010099999999999998,0.4444,0.4545
-2023-03-11 18:41:22.494274,Boxing Lines - Farrhad Saad vs Macaulay McGowan - To Win the Bout,Farrhad Saad,-0.010199999999999987,0.9231,0.9333
+2023-03-11 21:40:31.700562,Boxing Lines - Tim Tszyu vs Tony Harrison - To Win the Bout,Tony Harrison,-0.010099999999999998,0.3125,0.3226
+2023-03-12 07:41:01.572454,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Atlanta Hawks,-0.010199999999999987,0.9231,0.9333
 2023-03-12 02:40:54.606989,95th Academy Awards - Best Animated Short Film - Best Animated Short Film,Ice Merchants,-0.010299999999999976,0.2564,0.2667
 2023-03-11 23:40:55.120850,League Two - England - League Two 2022/23 - Outright,Bradford City,-0.010700000000000001,0.0278,0.0385
 2023-03-11 20:40:35.903713,95th Academy Awards - Best Costume Design - Best Costume Design,Shirley Kurata - Everything Everywhere All At Once,-0.010899999999999993,0.1429,0.1538
 2023-03-12 04:40:38.621357,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - J. Thomas v T. Kim - Final Round 2 Balls,Tom Kim,-0.011099999999999999,0.4651,0.4762
-2023-03-11 23:40:55.110170,League One - England - League One 2022/23 - Top 6 Finish,Portsmouth,-0.011199999999999995,0.0476,0.0588
 2023-03-11 23:40:55.004057,Championship - England Championship 2022/23 - To Be Promoted,Watford,-0.011199999999999995,0.0476,0.0588
 2023-03-11 23:40:55.135232,League Two - England - League Two 2022/23 - Top 7 Finish,Walsall,-0.011199999999999995,0.0476,0.0588
 2023-03-11 23:40:55.135232,League Two - England - League Two 2022/23 - Top 7 Finish,Tranmere Rovers,-0.011199999999999995,0.0476,0.0588
-2023-03-11 18:41:22.519428,Boxing Lines - Thomas Faure vs Dan Azeez - To Win the Bout,Thomas Faure,-0.011700000000000002,0.1026,0.1143
+2023-03-11 23:40:55.110170,League One - England - League One 2022/23 - Top 6 Finish,Portsmouth,-0.011199999999999995,0.0476,0.0588
 2023-03-11 23:40:55.129120,League Two - England - League Two 2022/23 - To Be Relegated,Gillingham,-0.012100000000000001,0.0123,0.0244
 2023-03-11 23:40:55.125092,League Two - England - League Two 2022/23 - To Be Promoted,Mansfield Town,-0.012699999999999989,0.3509,0.3636
 2023-03-11 21:40:31.893294,Euroleague - Euroleague 2022/23 - Outright,Real Madrid BC,-0.0131,0.2222,0.2353
 2023-03-11 19:42:06.762218,Boxing Lines - Robbie Davies Jr vs Darragh Foley - To Win the Bout,Darragh Foley,-0.01369999999999999,0.2273,0.241
 2023-03-11 23:40:50.080922,Boxing Lines - Koen Mazoudier vs Mahoney Ben - To Win the Bout,Mahoney Ben,-0.013799999999999923,0.6226,0.6364
 2023-03-11 20:40:35.864146,95th Academy Awards - Best Actor - Best Actor,Brendan Fraser - The Whale,-0.013799999999999923,0.6226,0.6364
-2023-03-11 18:41:23.143247,Futures - The Masters 2023 - Outright,Jon Rahm,-0.013899999999999996,0.1111,0.125
 2023-03-11 21:40:31.663136,Boxing Lines - Diego Pacheco vs Jack Cullen - To Win the Bout,Jack Cullen,-0.013999999999999999,0.0769,0.0909
+2023-03-12 07:41:01.581119,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Sacramento Kings,-0.013999999999999999,0.0769,0.0909
+2023-03-12 07:41:01.572454,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Toronto Raptors,-0.014000000000000012,0.9091,0.9231
 2023-03-11 21:40:31.893294,Euroleague - Euroleague 2022/23 - Outright,Partizan,-0.014099999999999998,0.0244,0.0385
 2023-03-12 00:40:43.129758,League Two - England - League Two 2022/23 - Top 3 Finish,Swindon Town,-0.014499999999999999,0.0149,0.0294
 2023-03-11 23:40:55.129120,League Two - England - League Two 2022/23 - To Be Relegated,Crewe Alexandra,-0.014599999999999998,0.005,0.0196
 2023-03-11 23:40:55.103557,League One - England - League One 2022/23 - Top 2 Finish,Bolton Wanderers,-0.014599999999999998,0.005,0.0196
 2023-03-11 23:40:55.125092,League Two - England - League Two 2022/23 - To Be Promoted,Sutton Utd,-0.016600000000000004,0.0667,0.0833
+2023-03-12 07:41:01.914088,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Tom Thibodeau,-0.016700000000000007,0.0833,0.1
+2023-03-12 07:41:01.540933,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Golden State Warriors,-0.016700000000000007,0.0833,0.1
+2023-03-12 07:41:01.922862,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Bam Adebayo (MIA),-0.01759999999999999,0.1,0.1176
 2023-03-11 23:40:55.098074,League One - England - League One 2022/23 - To Be Promoted,Wycombe,-0.018099999999999998,0.0588,0.0769
 2023-03-12 00:40:43.129758,League Two - England - League Two 2022/23 - Top 3 Finish,Salford City,-0.018200000000000004,0.0294,0.0476
 2023-03-11 23:40:55.098074,League One - England - League One 2022/23 - To Be Promoted,Bolton Wanderers,-0.01820000000000002,0.1818,0.2
+2023-03-12 07:41:10.203573,95th Academy Awards - Best Film Editing - Best Film Editing,Top Gun: Maverick,-0.018799999999999983,0.3448,0.3636
+2023-03-12 07:41:01.922862,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Giannis Antetokounmpo (MIL),-0.018800000000000004,0.0526,0.0714
 2023-03-11 21:40:31.689879,Boxing Lines - Koen Mazoudier vs Mahoney Ben - To Win the Bout,Koen Mazoudier,-0.018900000000000028,0.4255,0.4444
+2023-03-12 07:41:00.157628,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - A. Scott v S. Straka - Final Round 2 Balls,Adam Scott,-0.01970000000000005,0.5455,0.5652
 2023-03-11 23:40:55.135232,League Two - England - League Two 2022/23 - Top 7 Finish,Mansfield Town,-0.020100000000000007,0.75,0.7701
 2023-03-11 23:40:55.098074,League One - England - League One 2022/23 - To Be Promoted,Peterborough United,-0.0203,0.0385,0.0588
+2023-03-12 07:41:01.581119,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Western Conference Participants,Golden State Warriors,-0.020699999999999996,0.4444,0.4651
 2023-03-12 04:40:38.615376,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - W. Zalatoris v K. Kisner - Final Round 2 Balls,Will Zalatoris,-0.02080000000000004,0.6667,0.6875
+2023-03-12 07:41:01.572454,2022/23 NBA - The Playoffs/Playin Props - 2022/23 NBA Season - Play-In Tournament - Eastern Conference Participants,Washington Wizards,-0.02100000000000002,0.6154,0.6364
 2023-03-11 22:40:39.715637,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Arsenal,-0.02169999999999994,0.5238,0.5455
 2023-03-12 00:40:43.122681,League Two - England - League Two 2022/23 - To Finish Bottom,Hartlepool United,-0.021999999999999964,0.2857,0.3077
+2023-03-12 07:41:01.448343,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Phoenix Suns,-0.021999999999999964,0.2857,0.3077
 2023-03-12 05:40:39.784394,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - M. Homa v T. Hatton - Final Round 2 Balls,Tyrrell Hatton,-0.023799999999999988,0.4762,0.5
+2023-03-12 07:41:10.155731,95th Academy Awards - Best Director - Best Director,Steven Spielberg - The Fabelmans,-0.023799999999999988,0.1429,0.1667
+2023-03-12 07:41:10.138328,95th Academy Awards - Best Costume Design - Best Costume Design,Ruth Carter - Black Panther: Wakanda Forever,-0.02560000000000001,0.3077,0.3333
+2023-03-12 07:41:01.931352,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Jalen Brunson (NYK),-0.02779999999999999,0.2222,0.25
 2023-03-11 23:40:55.110170,League One - England - League One 2022/23 - Top 6 Finish,Bolton Wanderers,-0.027800000000000047,0.75,0.7778
+2023-03-12 07:41:10.168945,95th Academy Awards - Best Documentary Feature - Best Documentary Feature,Fire Of Love,-0.030299999999999994,0.3333,0.3636
 2023-03-11 23:40:55.004057,Championship - England Championship 2022/23 - To Be Promoted,Blackburn Rovers,-0.031799999999999995,0.1111,0.1429
 2023-03-11 23:40:55.125092,League Two - England - League Two 2022/23 - To Be Promoted,Swindon Town,-0.0321,0.0588,0.0909
 2023-03-11 23:40:55.135232,League Two - England - League Two 2022/23 - Top 7 Finish,Bradford City,-0.033299999999999996,0.8,0.8333
@@ -126,7 +170,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-11 23:40:55.135232,League Two - England - League Two 2022/23 - Top 7 Finish,Northampton Town,-0.04169999999999996,0.8333,0.875
 2023-03-11 23:40:55.125092,League Two - England - League Two 2022/23 - To Be Promoted,Salford City,-0.042899999999999994,0.1,0.1429
 2023-03-11 23:40:54.999088,Championship - England Championship 2022/23 - Outright,Sheffield United,-0.04329999999999999,0.0476,0.0909
+2023-03-12 07:41:01.540933,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Phoenix Suns,-0.044399999999999995,0.4,0.4444
 2023-03-11 23:40:55.135232,League Two - England - League Two 2022/23 - Top 7 Finish,Swindon Town,-0.044499999999999984,0.2222,0.2667
+2023-03-12 07:41:10.111330,95th Academy Awards - Best Animated Short Film - Best Animated Short Film,Ice Merchants,-0.045900000000000024,0.2105,0.2564
 2023-03-11 20:40:35.843136,95th Academy Awards Specials - Requested Specials  - Requested Specials,Everything Everywhere All at Once to win Best Original Screenplay & Best Film Editing,-0.0484,0.4167,0.4651
 2023-03-11 21:40:31.893294,Euroleague - Euroleague 2022/23 - Outright,Anadolu Efes,-0.05,0.0833,0.1333
 2023-03-11 20:40:35.958042,95th Academy Awards - Best Original Screenplay - Best Original Screenplay,Everything Everywhere All At Once - Daniel Kwan & Daniel Scheinert,-0.053099999999999925,0.5833,0.6364
