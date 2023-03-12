@@ -14,8 +14,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-11 23:40:55.135232,League Two - England - League Two 2022/23 - Top 7 Finish,Carlisle United,0.07579999999999998,0.9091,0.8333
 2023-03-11 23:40:55.135232,League Two - England - League Two 2022/23 - Top 7 Finish,Stockport County,0.06320000000000003,0.8333,0.7701
 2023-03-11 19:42:07.488434,95th Academy Awards - Best Documentary Short - Best Documentary Short,Stranger At The Gate,0.057699999999999974,0.3077,0.25
-2023-03-11 23:40:55.125092,League Two - England - League Two 2022/23 - To Be Promoted,Carlisle United,0.05559999999999998,0.5,0.4444
 2023-03-11 20:40:35.958042,95th Academy Awards - Best Original Screenplay - Best Original Screenplay,The Banshees of Inisherin - Martin McDonagh,0.05559999999999998,0.5,0.4444
+2023-03-11 23:40:55.125092,League Two - England - League Two 2022/23 - To Be Promoted,Carlisle United,0.05559999999999998,0.5,0.4444
 2023-03-11 23:40:55.110170,League One - England - League One 2022/23 - Top 6 Finish,Barnsley,0.0524,0.9615,0.9091
 2023-03-11 21:40:31.893294,Euroleague - Euroleague 2022/23 - Outright,AS Monaco,0.052000000000000005,0.1429,0.0909
 2023-03-11 19:42:07.444552,95th Academy Awards - Best Animated Short Film - Best Animated Short Film,Ice Merchants,0.044499999999999984,0.2667,0.2222
@@ -23,12 +23,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-11 23:40:55.125092,League Two - England - League Two 2022/23 - To Be Promoted,Stevenage,0.04169999999999996,0.875,0.8333
 2023-03-12 00:40:43.129758,League Two - England - League Two 2022/23 - Top 3 Finish,Stockport County,0.04040000000000002,0.2222,0.1818
 2023-03-12 00:40:43.129758,League Two - England - League Two 2022/23 - Top 3 Finish,Stevenage,0.04039999999999999,0.8182,0.7778
+2023-03-12 03:40:39.720268,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - S. Burns v S. Ryder - Final Round 2 Balls,Sam Ryder,0.039600000000000024,0.4651,0.4255
 2023-03-11 23:40:55.004057,Championship - England Championship 2022/23 - To Be Promoted,Luton Town,0.03889999999999999,0.1818,0.1429
 2023-03-11 21:40:31.893294,Euroleague - Euroleague 2022/23 - Outright,Fenerbahce,0.037599999999999995,0.1429,0.1053
 2023-03-11 20:40:35.843136,95th Academy Awards Specials - Requested Specials  - Requested Specials,Black Panther: Wakanda Forever to win Best Supporting Actress & Best Costume,0.036199999999999996,0.1538,0.1176
 2023-03-11 23:40:55.012943,Championship - England Championship 2022/23 - Top 6 Finish,Middlesbrough,0.034399999999999986,0.9756,0.9412
 2023-03-11 23:40:55.135232,League Two - England - League Two 2022/23 - Top 7 Finish,Doncaster Rovers,0.03219999999999999,0.0667,0.0345
 2023-03-11 23:40:55.129120,League Two - England - League Two 2022/23 - To Be Relegated,Harrogate Town,0.0321,0.0909,0.0588
+2023-03-12 03:40:39.651864,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - A. Scott v S. Straka - Final Round 2 Balls,Sepp Straka,0.031799999999999995,0.4762,0.4444
 2023-03-12 01:40:34.206268,95th Academy Awards - Best Documentary Feature - Best Documentary Feature,Fire Of Love,0.030299999999999994,0.3636,0.3333
 2023-03-12 02:40:54.606989,95th Academy Awards - Best Animated Short Film - Best Animated Short Film,"The Boy, The Mole, The Fox And The Horse",0.029899999999999927,0.7222,0.6923
 2023-03-11 23:40:55.129120,League Two - England - League Two 2022/23 - To Be Relegated,Colchester United,0.028199999999999996,0.0667,0.0385
@@ -49,33 +51,34 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-11 23:40:55.103557,League One - England - League One 2022/23 - Top 2 Finish,Barnsley,0.02020000000000001,0.1111,0.0909
 2023-03-11 20:40:35.864146,95th Academy Awards - Best Actor - Best Actor,Austin Butler - Elvis,0.019699999999999995,0.4545,0.4348
 2023-03-11 23:40:55.098074,League One - England - League One 2022/23 - To Be Promoted,Barnsley,0.019000000000000017,0.2857,0.2667
-2023-03-11 23:40:55.125092,League Two - England - League Two 2022/23 - To Be Promoted,Stockport County,0.018900000000000028,0.4444,0.4255
 2023-03-11 23:40:50.080922,Boxing Lines - Koen Mazoudier vs Mahoney Ben - To Win the Bout,Koen Mazoudier,0.018900000000000028,0.4444,0.4255
+2023-03-11 23:40:55.125092,League Two - England - League Two 2022/23 - To Be Promoted,Stockport County,0.018900000000000028,0.4444,0.4255
 2023-03-11 21:40:31.663136,Boxing Lines - Diego Pacheco vs Jack Cullen - To Win the Bout,Diego Pacheco,0.01849999999999996,0.9709,0.9524
 2023-03-11 22:40:35.407450,95th Academy Awards Specials - Requested Specials  - Requested Specials,Black Panther: Wakanda Forever to win Best Supporting Actress & Best Original Song,0.01830000000000001,0.0952,0.0769
 2023-03-11 21:40:31.893294,Euroleague - Euroleague 2022/23 - Outright,Maccabi Tel-Aviv,0.018200000000000004,0.0476,0.0294
 2023-03-11 15:40:50.736341,95th Academy Awards Specials - Requested Specials  - Requested Specials,Top Gun: Maverick to win Best Original Song & Best Sound,0.016700000000000007,0.1,0.0833
-2023-03-11 23:40:55.012943,Championship - England Championship 2022/23 - Top 6 Finish,West Bromwich Albion,0.016699999999999993,0.4167,0.4
 2023-03-11 23:40:55.135232,League Two - England - League Two 2022/23 - Top 7 Finish,Sutton Utd,0.016699999999999993,0.2667,0.25
+2023-03-11 23:40:55.012943,Championship - England Championship 2022/23 - Top 6 Finish,West Bromwich Albion,0.016699999999999993,0.4167,0.4
 2023-03-11 15:40:50.494558,Boxing Lines - Campbell Hatton vs Michel Gonxhe - To Win the Bout,Michel Gonxhe,0.016600000000000004,0.0833,0.0667
 2023-03-11 20:40:35.843136,95th Academy Awards Specials - Requested Specials  - Requested Specials,Everything Everywhere All at Once to win Best Actress & Best Supporting Actor,0.015800000000000036,0.6825,0.6667
 2023-03-11 22:40:35.407450,95th Academy Awards Specials - Requested Specials  - Requested Specials,All Quiet on the Western Front to win Best Picture & Best Cinematography,0.015300000000000001,0.0588,0.0435
+2023-03-12 03:40:39.234380,Boxing Lines - Tim Tszyu vs Tony Harrison - To Win the Bout,Tim Tszyu,0.014700000000000046,0.7647,0.75
 2023-03-11 23:40:55.110170,League One - England - League One 2022/23 - Top 6 Finish,Shrewsbury Town,0.014499999999999999,0.0294,0.0149
 2023-03-11 19:42:07.444552,95th Academy Awards - Best Animated Short Film - Best Animated Short Film,An Ostrich Told Me The World Is Fake And I Think I Believe It,0.014399999999999996,0.0769,0.0625
 2023-03-11 19:42:06.762218,Boxing Lines - Robbie Davies Jr vs Darragh Foley - To Win the Bout,Robbie Davies Jr,0.014200000000000101,0.8403,0.8261
 2023-03-11 23:40:55.008673,Championship - England Championship 2022/23 - Top 2 Finish,Luton Town,0.014099999999999998,0.0435,0.0294
 2023-03-11 18:41:23.181350,Futures - The Open Championship 2023 - Outright,Scottie Scheffler,0.013999999999999999,0.0909,0.0769
-2023-03-11 16:40:54.137220,Requested Specials - Where Will Odell Beckham Jr Play in 2023? - Where Will Odell Beckham Jr Play in 2023?,Los Angeles Rams,0.013999999999999999,0.0909,0.0769
-2023-03-11 18:41:23.170715,Futures - US Open 2023 - Outright,Scottie Scheffler,0.013999999999999999,0.0909,0.0769
 2023-03-11 18:41:23.160874,Futures - US PGA Championship 2023 - Outright,Scottie Scheffler,0.013999999999999999,0.0909,0.0769
+2023-03-11 18:41:23.170715,Futures - US Open 2023 - Outright,Scottie Scheffler,0.013999999999999999,0.0909,0.0769
+2023-03-11 16:40:54.137220,Requested Specials - Where Will Odell Beckham Jr Play in 2023? - Where Will Odell Beckham Jr Play in 2023?,Los Angeles Rams,0.013999999999999999,0.0909,0.0769
 2023-03-11 21:40:31.689879,Boxing Lines - Koen Mazoudier vs Mahoney Ben - To Win the Bout,Mahoney Ben,0.013799999999999923,0.6364,0.6226
 2023-03-11 16:40:53.050043,95th Academy Awards Specials - Requested Specials  - Requested Specials,All Quiet on the Western Front to win Best Cinematography & Best Original Score,0.01319999999999999,0.2632,0.25
 2023-03-11 20:40:35.843136,95th Academy Awards Specials - Requested Specials  - Requested Specials,Elvis to win Best Costume & Best Makeup and Hairstyling,0.01100000000000001,0.5348,0.5238
 2023-03-11 23:40:55.004057,Championship - England Championship 2022/23 - To Be Promoted,West Bromwich Albion,0.010899999999999993,0.1538,0.1429
 2023-03-11 19:42:07.488434,95th Academy Awards - Best Documentary Short - Best Documentary Short,The Martha Mitchell Effect,0.0102,0.0769,0.0667
 2023-03-11 20:40:36.507875,Boxing Lines - Tim Tszyu vs Tony Harrison - To Win the Bout,Tony Harrison,0.010099999999999998,0.3226,0.3125
-2023-03-11 21:40:31.700562,Boxing Lines - Tim Tszyu vs Tony Harrison - To Win the Bout,Tony Harrison,-0.010099999999999998,0.3125,0.3226
 2023-03-11 23:40:55.125092,League Two - England - League Two 2022/23 - To Be Promoted,Northampton Town,-0.010099999999999998,0.4444,0.4545
+2023-03-11 21:40:31.700562,Boxing Lines - Tim Tszyu vs Tony Harrison - To Win the Bout,Tony Harrison,-0.010099999999999998,0.3125,0.3226
 2023-03-11 18:41:22.494274,Boxing Lines - Farrhad Saad vs Macaulay McGowan - To Win the Bout,Farrhad Saad,-0.010199999999999987,0.9231,0.9333
 2023-03-12 02:40:54.606989,95th Academy Awards - Best Animated Short Film - Best Animated Short Film,Ice Merchants,-0.010299999999999976,0.2564,0.2667
 2023-03-11 23:40:55.120850,League Two - England - League Two 2022/23 - Outright,Bradford City,-0.010700000000000001,0.0278,0.0385
@@ -92,12 +95,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-11 23:40:50.080922,Boxing Lines - Koen Mazoudier vs Mahoney Ben - To Win the Bout,Mahoney Ben,-0.013799999999999923,0.6226,0.6364
 2023-03-11 20:40:35.864146,95th Academy Awards - Best Actor - Best Actor,Brendan Fraser - The Whale,-0.013799999999999923,0.6226,0.6364
 2023-03-11 18:41:23.143247,Futures - The Masters 2023 - Outright,Jon Rahm,-0.013899999999999996,0.1111,0.125
-2023-03-11 16:40:54.137220,Requested Specials - Where Will Odell Beckham Jr Play in 2023? - Where Will Odell Beckham Jr Play in 2023?,Miami Dolphins,-0.013999999999999999,0.0769,0.0909
 2023-03-11 21:40:31.663136,Boxing Lines - Diego Pacheco vs Jack Cullen - To Win the Bout,Jack Cullen,-0.013999999999999999,0.0769,0.0909
+2023-03-11 16:40:54.137220,Requested Specials - Where Will Odell Beckham Jr Play in 2023? - Where Will Odell Beckham Jr Play in 2023?,Miami Dolphins,-0.013999999999999999,0.0769,0.0909
 2023-03-11 21:40:31.893294,Euroleague - Euroleague 2022/23 - Outright,Partizan,-0.014099999999999998,0.0244,0.0385
 2023-03-12 00:40:43.129758,League Two - England - League Two 2022/23 - Top 3 Finish,Swindon Town,-0.014499999999999999,0.0149,0.0294
-2023-03-11 23:40:55.103557,League One - England - League One 2022/23 - Top 2 Finish,Bolton Wanderers,-0.014599999999999998,0.005,0.0196
 2023-03-11 23:40:55.129120,League Two - England - League Two 2022/23 - To Be Relegated,Crewe Alexandra,-0.014599999999999998,0.005,0.0196
+2023-03-11 23:40:55.103557,League One - England - League One 2022/23 - Top 2 Finish,Bolton Wanderers,-0.014599999999999998,0.005,0.0196
 2023-03-11 15:40:50.494558,Boxing Lines - Campbell Hatton vs Michel Gonxhe - To Win the Bout,Campbell Hatton,-0.014900000000000024,0.9655,0.9804
 2023-03-11 23:40:55.125092,League Two - England - League Two 2022/23 - To Be Promoted,Sutton Utd,-0.016600000000000004,0.0667,0.0833
 2023-03-11 23:40:55.098074,League One - England - League One 2022/23 - To Be Promoted,Wycombe,-0.018099999999999998,0.0588,0.0769
@@ -113,7 +116,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-11 23:40:55.004057,Championship - England Championship 2022/23 - To Be Promoted,Blackburn Rovers,-0.031799999999999995,0.1111,0.1429
 2023-03-11 23:40:55.125092,League Two - England - League Two 2022/23 - To Be Promoted,Swindon Town,-0.0321,0.0588,0.0909
 2023-03-11 23:40:55.135232,League Two - England - League Two 2022/23 - Top 7 Finish,Bradford City,-0.033299999999999996,0.8,0.8333
+2023-03-12 03:40:39.651864,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - A. Scott v S. Straka - Final Round 2 Balls,Adam Scott,-0.03479999999999994,0.5652,0.6
 2023-03-11 21:40:31.893294,Euroleague - Euroleague 2022/23 - Outright,Barcelona,-0.038099999999999995,0.2,0.2381
+2023-03-12 03:40:39.720268,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - S. Burns v S. Ryder - Final Round 2 Balls,Sam Burns,-0.0393,0.5833,0.6226
 2023-03-11 23:40:55.125092,League Two - England - League Two 2022/23 - To Be Promoted,Bradford City,-0.04089999999999999,0.3846,0.4255
 2023-03-11 23:40:55.135232,League Two - England - League Two 2022/23 - Top 7 Finish,Northampton Town,-0.04169999999999996,0.8333,0.875
 2023-03-11 23:40:55.125092,League Two - England - League Two 2022/23 - To Be Promoted,Salford City,-0.042899999999999994,0.1,0.1429
