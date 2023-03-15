@@ -1,8 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-15 15:40:40.894714,Gran Hermano - Gran Hermano 2023 - Outright Winner,Marcos,0.18180000000000007,0.8182,0.6364
 2023-03-15 14:40:51.700685,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Joel Embiid (PHI),0.13190000000000002,0.4444,0.3125
-2023-03-15 10:40:34.509239,NFL Draft '23 - Positional Groups - First Offensive Lineman Selected,O'Cyrus Torrence,0.125,0.1429,0.0179
-2023-03-15 10:40:34.529241,NFL Draft '23 - Player Props - Team to Draft Bijan Robinson,Houston Texans,0.09319999999999999,0.1176,0.0244
 2023-03-15 17:40:46.439738,AFC East - AFC East 2023/24 - AFC East Winner 23/24,New York Jets,0.09230000000000005,0.4,0.3077
 2023-03-15 17:40:46.917652,XFL - Odds to win 2023 XFL Championship Game - XFL Champion,Houston Roughnecks,0.09050000000000002,0.3846,0.2941
 2023-03-15 17:40:47.276961,College Specials - NCAA Tournament Specials - Conference Wins in NCAA Tournament - Big 12,Over 11.5,0.06970000000000004,0.5348,0.4651
@@ -11,7 +9,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-15 17:40:46.917652,XFL - Odds to win 2023 XFL Championship Game - XFL Champion,DC Defenders,0.06270000000000003,0.3704,0.3077
 2023-03-15 17:40:46.754452,Hard Knocks Specials - Hard Knocks 2023 - Who Will Appear in the 2023 HBO Series Hard Knocks?,New York Jets,0.0625,0.75,0.6875
 2023-03-15 17:40:48.256244,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Giannis Antetokounmpo (MIL),0.0595,0.25,0.1905
-2023-03-15 10:40:34.529241,NFL Draft '23 - Player Props - Team to Draft Bijan Robinson,Washington Commanders,0.05679999999999999,0.1818,0.125
 2023-03-15 17:40:48.178823,College Basketball Futures - 2023 NCAA Mens NIT Tournament - Outright Winner,Colorado,0.05639999999999999,0.0909,0.0345
 2023-03-15 17:40:48.178823,College Basketball Futures - 2023 NCAA Mens NIT Tournament - Outright Winner,UAB,0.0524,0.1,0.0476
 2023-03-15 15:40:45.562545,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - Midwest Region Winner - To Make The Final 4,Texas,0.04999999999999999,0.25,0.2
@@ -20,6 +17,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-15 17:40:48.178823,College Basketball Futures - 2023 NCAA Mens NIT Tournament - Outright Winner,Wisconsin,0.0474,0.0909,0.0435
 2023-03-15 11:40:39.444169,Tournament Match-Ups - Tournament Match-Up - B. Grace vs B. Steele - Tournament Match-Up,Brendan Steele,0.04700000000000004,0.5348,0.4878
 2023-03-15 13:40:34.120477,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - West Region Winner - To Make The Final 4,UCLA,0.044499999999999984,0.2667,0.2222
+2023-03-15 22:40:41.663317,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Joel Embiid (PHI),0.043399999999999994,0.4878,0.4444
 2023-03-15 15:40:45.538684,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Reach The Elite 8,Virginia,0.042899999999999994,0.1429,0.1
 2023-03-15 18:40:51.791497,Requested Specials - Where Will Odell Beckham Jr Play in 2023? - Where Will Odell Beckham Jr Play in 2023?,New England Patriots,0.0384,0.0769,0.0385
 2023-03-15 11:40:34.334136,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Arizona Diamondbacks - Corbin Carroll Total Stolen Bases,Over 26.5,0.037800000000000056,0.5833,0.5455
@@ -35,37 +33,34 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-15 17:40:48.178823,College Basketball Futures - 2023 NCAA Mens NIT Tournament - Outright Winner,North Texas,0.0267,0.1176,0.0909
 2023-03-15 17:40:46.413270,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,New York Jets,0.0242,0.0909,0.0667
 2023-03-15 15:40:40.894714,Gran Hermano - Gran Hermano 2023 - Outright Winner,Nacho,0.02310000000000001,0.1,0.0769
-2023-03-15 10:40:34.529241,NFL Draft '23 - Player Props - Team to Draft Bijan Robinson,Cincinnati Bengals,0.022199999999999998,0.1333,0.1111
 2023-03-15 13:40:32.292012,SDC Championship - 2/3 Balls - 1st Round 3 Balls - G. Green / J. Walters / M. Pavon - 1st Round 3 Balls,Justin Walters,0.021999999999999964,0.3077,0.2857
 2023-03-15 12:40:34.769172,College Specials - NCAA Tournament Specials - Will A 14 or 15 or 16 Seed Win A Game in the Round of 64,No,0.021799999999999986,0.3922,0.3704
 2023-03-15 16:40:47.815985,College Specials - NCAA Tournament Specials - Conference Wins in NCAA Tournament - Big East,Over 7.5,0.02169999999999994,0.5455,0.5238
 2023-03-15 13:40:32.319666,SDC Championship - 2/3 Balls - 1st Round 3 Balls - D. Law / G. Coetzee / O. Bekker - 1st Round 3 Balls,David Law,0.020799999999999985,0.3333,0.3125
-2023-03-15 11:40:34.338579,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Arizona Diamondbacks - Zac Gallen Total Wins,Over 9.5,0.02079999999999993,0.5556,0.5348
-2023-03-15 11:40:36.202422,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Washington Nationals - Joey Meneses - Total Homeruns,Over 18.5,0.02079999999999993,0.5556,0.5348
 2023-03-15 19:40:44.061080,Tournament Match-Ups - Tournament Match-Up - P. Reed vs C. Howell III - Tournament Match-Up,Charles Howell III,0.02079999999999993,0.5556,0.5348
+2023-03-15 11:40:36.202422,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Washington Nationals - Joey Meneses - Total Homeruns,Over 18.5,0.02079999999999993,0.5556,0.5348
+2023-03-15 11:40:34.338579,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Arizona Diamondbacks - Zac Gallen Total Wins,Over 9.5,0.02079999999999993,0.5556,0.5348
 2023-03-15 17:40:46.537921,NFC South - NFC South 2023/24 - NFC South Winner,Tampa Bay Buccaneers,0.020100000000000007,0.1739,0.1538
-2023-03-15 11:40:36.251970,MLB 2023 Regular Season Props - MLB 2023 Regular Season Props - Houston Astros Regular Season Win Total,Over 96.5,0.01970000000000005,0.5652,0.5455
 2023-03-15 11:40:35.669846,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - San Diego Padres - Xander Bogaerts - Total Runs Scored,Over 84.5,0.01970000000000005,0.5652,0.5455
-2023-03-15 11:40:35.587473,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - San Diego Padres - Fernando Tatís Jr. - Total Homeruns,Under 34.5,0.01970000000000005,0.5652,0.5455
-2023-03-15 11:40:36.256111,MLB 2023 Regular Season Props - MLB 2023 Regular Season Props - Milwaukee Brewers Regular Season Win Total,Under 85.5,0.01970000000000005,0.5652,0.5455
 2023-03-15 11:40:36.302711,MLB 2023 Regular Season Props - MLB 2023 Regular Season Props - Washington Nationals Regular Season Win Total,Over 59.5,0.01970000000000005,0.5652,0.5455
+2023-03-15 11:40:36.256111,MLB 2023 Regular Season Props - MLB 2023 Regular Season Props - Milwaukee Brewers Regular Season Win Total,Under 85.5,0.01970000000000005,0.5652,0.5455
+2023-03-15 11:40:36.251970,MLB 2023 Regular Season Props - MLB 2023 Regular Season Props - Houston Astros Regular Season Win Total,Over 96.5,0.01970000000000005,0.5652,0.5455
+2023-03-15 11:40:35.587473,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - San Diego Padres - Fernando Tatís Jr. - Total Homeruns,Under 34.5,0.01970000000000005,0.5652,0.5455
 2023-03-15 13:40:34.120477,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - West Region Winner - To Make The Final 4,Boise State,0.019099999999999995,0.0435,0.0244
 2023-03-15 13:40:34.120477,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - West Region Winner - To Make The Final 4,Arkansas,0.019099999999999992,0.0667,0.0476
-2023-03-15 11:40:34.553488,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Chicago White Sox - Andrew Vaughn Total Homeruns,Over 18.5,0.01880000000000004,0.5744,0.5556
 2023-03-15 11:40:34.407612,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Atlanta Braves - Ozzie Albies Total Runs Scored,Under 85.5,0.01880000000000004,0.5744,0.5556
+2023-03-15 11:40:34.553488,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Chicago White Sox - Andrew Vaughn Total Homeruns,Over 18.5,0.01880000000000004,0.5744,0.5556
 2023-03-15 15:40:44.445595,World Baseball Classic - 2023 World Baseball Classic - Outright,Cuba,0.018800000000000004,0.0714,0.0526
 2023-03-15 16:40:40.773106,Boxing Lines - Ijaz Ahmed vs Marcel Braithwaite - To Win the Bout,Ijaz Ahmed,0.018799999999999983,0.3636,0.3448
-2023-03-15 10:40:34.529241,NFL Draft '23 - Player Props - Team to Draft Bijan Robinson,Los Angeles Chargers,0.01820000000000002,0.2,0.1818
 2023-03-15 13:40:34.120477,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - West Region Winner - To Make The Final 4,Connecticut,0.01820000000000002,0.2,0.1818
 2023-03-15 11:40:37.118716,MLB Futures - MLB 2023 National League Central - National League Central Winner,St. Louis Cardinals,0.018100000000000005,0.5833,0.5652
 2023-03-15 11:40:35.801369,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Seattle Mariners - Robbie Ray - WHIP,Over 1.15,0.018100000000000005,0.5833,0.5652
+2023-03-15 22:40:37.072328,Boxing Lines - Ijaz Ahmed vs Marcel Braithwaite - To Win the Bout,Ijaz Ahmed,0.017299999999999982,0.4255,0.4082
 2023-03-15 14:40:45.298803,Boxing Lines - Ijaz Ahmed vs Marcel Braithwaite - To Win the Bout,Marcel Braithwaite,0.01629999999999998,0.7222,0.7059
-2023-03-15 10:40:34.556129,NFL Draft '23 - Draft Props - Draft H2H: C. Gonzalez vs D. Witherspoon,Devon Witherspoon,0.015400000000000025,0.4,0.3846
 2023-03-15 11:40:35.611733,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - San Diego Padres - Jake Cronenworth - Total Runs Scored,Under 90.5,0.01539999999999997,0.6154,0.6
 2023-03-15 12:40:34.474491,College Specials - NCAA Tournament Specials - Conference Wins in NCAA Tournament - AAC,Over 3.5,0.01539999999999997,0.6154,0.6
 2023-03-15 15:40:40.724260,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Gabriel Santana,0.015300000000000001,0.0476,0.0323
 2023-03-15 21:40:42.174642,NFL Draft '23 - Draft Props - Draft H2H: J. Smith-Nijigba vs J. Addison,Jaxon Smith-Njigba,0.015100000000000002,0.8333,0.8182
-2023-03-15 10:40:34.525048,NFL Draft '23 - Player Props - Team to Draft Anthony Richardson,Seattle Seahawks,0.014900000000000024,0.3226,0.3077
 2023-03-15 14:40:51.589417,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,Tennessee,0.014100000000000001,0.0526,0.0385
 2023-03-15 15:40:45.589273,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - East Region Winner - To Make The Final 4,Duke,0.013899999999999996,0.125,0.1111
 2023-03-15 14:40:51.637791,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - South Region Winner - To Make The Final 4,Alabama,0.013300000000000034,0.3704,0.3571
@@ -74,29 +69,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-15 21:40:43.297506,NBA Daily Specials - NBA Daily Specials - Wednesday 15th March - Early Games,"Desmond Bane, James Harden, Anthony Edwards, Jayson Tatum, Zach LaVine 19+ Combined Threes",0.011700000000000016,0.2222,0.2105
 2023-03-15 11:40:37.125100,MLB Futures - MLB 2023 National League East - National League East Winner,Philadelphia Phillies,0.011700000000000016,0.2222,0.2105
 2023-03-15 12:40:34.482747,College Specials - NCAA Tournament Specials - Conference Wins in NCAA Tournament - Big East,Over 7.5,0.011600000000000055,0.5238,0.5122
-2023-03-15 13:40:32.583416,Tournament Match-Ups - Tournament Match-Up - M. Fitzpatrick vs S. Burns - Tournament Match-Up,Sam Burns,0.011600000000000055,0.5238,0.5122
 2023-03-15 12:40:35.614345,Tournament Match-Ups - Tournament Match-Up - A. Hadwin vs T. Fleetwood - Tournament Match-Up,Tommy Fleetwood,0.011600000000000055,0.5238,0.5122
+2023-03-15 13:40:32.583416,Tournament Match-Ups - Tournament Match-Up - M. Fitzpatrick vs S. Burns - Tournament Match-Up,Sam Burns,0.011600000000000055,0.5238,0.5122
 2023-03-15 11:40:39.460090,Tournament Match-Ups - Tournament Match-Up - C. Smith vs D. Johnson - Tournament Match-Up,Dustin Johnson,0.0116,0.4878,0.4762
 2023-03-15 17:40:46.550021,NFC West - NFC West 2023/24 - NFC West Winner,San Francisco 49ers,0.011499999999999955,0.6667,0.6552
-2023-03-15 10:40:34.509239,NFL Draft '23 - Positional Groups - First Offensive Lineman Selected,Darnell Wright,0.011400000000000007,0.129,0.1176
 2023-03-15 15:40:45.562545,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - Midwest Region Winner - To Make The Final 4,Xavier,0.011099999999999999,0.1111,0.1
-2023-03-15 10:40:34.513306,NFL Draft '23 - Positional Groups - First Tight End Selected,Michael Mayer,0.011099999999999999,0.4762,0.4651
 2023-03-15 11:40:39.436418,Tournament Match-Ups - Tournament Match-Up - A. Ancer vs P. Casey - Tournament Match-Up,Paul Casey,0.01100000000000001,0.5348,0.5238
 2023-03-15 11:40:34.149602,Boxing Lines - Jean Pascal vs Michael Eifert - To Win the Bout,Jean Pascal,0.01090000000000002,0.8571,0.8462
 2023-03-15 17:40:48.178823,College Basketball Futures - 2023 NCAA Mens NIT Tournament - Outright Winner,Florida,0.010700000000000001,0.0385,0.0278
-2023-03-15 10:40:34.551967,NFL Draft '23 - Draft Props - Draft H2H: A. Richardson vs W. Levis,Will Levis,0.010699999999999987,0.3333,0.3226
 2023-03-15 11:40:34.748736,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Houston Astros - Jose Altuve - Batting Average,Over .280,0.010699999999999932,0.5455,0.5348
 2023-03-15 17:40:48.178823,College Basketball Futures - 2023 NCAA Mens NIT Tournament - Outright Winner,Santa Clara,0.010600000000000002,0.0323,0.0217
 2023-03-15 17:40:48.178823,College Basketball Futures - 2023 NCAA Mens NIT Tournament - Outright Winner,Virginia Tech,0.010100000000000001,0.0345,0.0244
-2023-03-15 12:40:34.482747,College Specials - NCAA Tournament Specials - Conference Wins in NCAA Tournament - Big East,Under 7.5,-0.010099999999999998,0.5455,0.5556
 2023-03-15 12:40:35.614345,Tournament Match-Ups - Tournament Match-Up - A. Hadwin vs T. Fleetwood - Tournament Match-Up,Adam Hadwin,-0.010099999999999998,0.5455,0.5556
 2023-03-15 13:40:32.583416,Tournament Match-Ups - Tournament Match-Up - M. Fitzpatrick vs S. Burns - Tournament Match-Up,Matthew Fitzpatrick,-0.010099999999999998,0.5455,0.5556
-2023-03-15 15:40:45.562545,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - Midwest Region Winner - To Make The Final 4,Indiana,-0.0102,0.0667,0.0769
-2023-03-15 15:40:40.724260,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Antonio Júnior,-0.0102,0.0667,0.0769
+2023-03-15 12:40:34.482747,College Specials - NCAA Tournament Specials - Conference Wins in NCAA Tournament - Big East,Under 7.5,-0.010099999999999998,0.5455,0.5556
 2023-03-15 15:40:39.592989,St Patrick's Day Specials - Presentation of the Shamrocks Speech: First Cliche - Presentation of the Shamrocks Speech: Biden's First Cliche,United Nations/UN,-0.0102,0.0667,0.0769
-2023-03-15 18:40:51.791497,Requested Specials - Where Will Odell Beckham Jr Play in 2023? - Where Will Odell Beckham Jr Play in 2023?,Miami Dolphins,-0.0102,0.0667,0.0769
 2023-03-15 15:40:39.592989,St Patrick's Day Specials - Presentation of the Shamrocks Speech: First Cliche - Presentation of the Shamrocks Speech: Biden's First Cliche,Ukraine,-0.0102,0.0667,0.0769
-2023-03-15 10:40:34.509239,NFL Draft '23 - Positional Groups - First Offensive Lineman Selected,Peter Skoronski,-0.010599999999999998,0.4545,0.4651
+2023-03-15 18:40:51.791497,Requested Specials - Where Will Odell Beckham Jr Play in 2023? - Where Will Odell Beckham Jr Play in 2023?,Miami Dolphins,-0.0102,0.0667,0.0769
+2023-03-15 15:40:40.724260,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Antonio Júnior,-0.0102,0.0667,0.0769
+2023-03-15 15:40:45.562545,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - Midwest Region Winner - To Make The Final 4,Indiana,-0.0102,0.0667,0.0769
 2023-03-15 12:40:34.474491,College Specials - NCAA Tournament Specials - Conference Wins in NCAA Tournament - AAC,Under 3.5,-0.010599999999999998,0.4545,0.4651
 2023-03-15 11:40:37.125100,MLB Futures - MLB 2023 National League East - National League East Winner,Miami Marlins,-0.010600000000000002,0.0217,0.0323
 2023-03-15 13:40:34.120477,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - West Region Winner - To Make The Final 4,Illinois,-0.010700000000000001,0.0278,0.0385
@@ -107,28 +98,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-15 11:40:34.149602,Boxing Lines - Jean Pascal vs Michael Eifert - To Win the Bout,Michael Eifert,-0.011700000000000016,0.2105,0.2222
 2023-03-15 14:40:51.646310,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - West Region Winner - To Make The Final 4,Kansas,-0.011700000000000016,0.2105,0.2222
 2023-03-15 20:40:37.222334,College Specials - NCAA Tournament Specials - Team to Advance Further in Bracket- Duke vs Gonzaga,Gonzaga,-0.011900000000000022,0.75,0.7619
-2023-03-15 11:40:34.725004,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Detroit Tigers - Spencer Torkelson Total Homeruns,Over 20.5,-0.012199999999999989,0.5,0.5122
-2023-03-15 11:40:34.721189,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Detroit Tigers - Miguel Cabrera Batting Average,Over .259,-0.012199999999999989,0.5,0.5122
-2023-03-15 12:40:34.491146,College Specials - NCAA Tournament Specials - Conference Wins in NCAA Tournament - Mountain West Conference,Over 3.5,-0.012199999999999989,0.5,0.5122
-2023-03-15 12:40:34.774584,College Specials - NCAA Tournament Specials - Will A 14 Seed Win A Game in the Round of 64,Yes,-0.012199999999999989,0.4878,0.5
 2023-03-15 11:40:35.640325,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - San Diego Padres - Manny Machado- Batting Average,Over .290,-0.012199999999999989,0.5,0.5122
+2023-03-15 12:40:34.491146,College Specials - NCAA Tournament Specials - Conference Wins in NCAA Tournament - Mountain West Conference,Over 3.5,-0.012199999999999989,0.5,0.5122
+2023-03-15 11:40:34.725004,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Detroit Tigers - Spencer Torkelson Total Homeruns,Over 20.5,-0.012199999999999989,0.5,0.5122
+2023-03-15 12:40:34.774584,College Specials - NCAA Tournament Specials - Will A 14 Seed Win A Game in the Round of 64,Yes,-0.012199999999999989,0.4878,0.5
+2023-03-15 11:40:34.721189,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Detroit Tigers - Miguel Cabrera Batting Average,Over .259,-0.012199999999999989,0.5,0.5122
 2023-03-15 14:40:45.298803,Boxing Lines - Ijaz Ahmed vs Marcel Braithwaite - To Win the Bout,Ijaz Ahmed,-0.012299999999999978,0.3448,0.3571
 2023-03-15 17:40:46.917652,XFL - Odds to win 2023 XFL Championship Game - XFL Champion,St Louis Battlehawks,-0.012899999999999995,0.1538,0.1667
 2023-03-15 14:40:51.589417,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,Houston,-0.012899999999999995,0.1538,0.1667
 2023-03-15 17:40:46.917652,XFL - Odds to win 2023 XFL Championship Game - XFL Champion,Seattle Sea Dragons,-0.013899999999999996,0.1111,0.125
+2023-03-15 15:40:40.724260,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Cezar Black,-0.013999999999999999,0.0769,0.0909
 2023-03-15 14:40:51.646310,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - West Region Winner - To Make The Final 4,Saint Mary's CA,-0.013999999999999999,0.0769,0.0909
 2023-03-15 13:40:34.120477,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - West Region Winner - To Make The Final 4,TCU,-0.013999999999999999,0.0769,0.0909
-2023-03-15 15:40:40.724260,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Cezar Black,-0.013999999999999999,0.0769,0.0909
-2023-03-15 10:40:34.509239,NFL Draft '23 - Positional Groups - First Offensive Lineman Selected,Anton Harrison,-0.013999999999999999,0.0769,0.0909
 2023-03-15 12:40:34.769172,College Specials - NCAA Tournament Specials - Will A 14 or 15 or 16 Seed Win A Game in the Round of 64,Yes,-0.014000000000000012,0.6875,0.7015
 2023-03-15 15:40:40.894714,Gran Hermano - Gran Hermano 2023 - Outright Winner,Julieta,-0.014099999999999998,0.0244,0.0385
 2023-03-15 15:40:45.589273,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - East Region Winner - To Make The Final 4,Michigan State,-0.014399999999999996,0.0625,0.0769
 2023-03-15 15:40:39.592989,St Patrick's Day Specials - Presentation of the Shamrocks Speech: First Cliche - Presentation of the Shamrocks Speech: Biden's First Cliche,John F Kennedy,-0.014399999999999996,0.0625,0.0769
-2023-03-15 10:40:34.551967,NFL Draft '23 - Draft Props - Draft H2H: A. Richardson vs W. Levis,Anthony Richardson,-0.014700000000000046,0.75,0.7647
 2023-03-15 15:40:39.592989,St Patrick's Day Specials - Presentation of the Shamrocks Speech: First Cliche - Presentation of the Shamrocks Speech: Biden's First Cliche,Covid,-0.014899999999999997,0.0476,0.0625
 2023-03-15 15:40:39.592989,St Patrick's Day Specials - Presentation of the Shamrocks Speech: First Cliche - Presentation of the Shamrocks Speech: Biden's First Cliche,Emerald Isle,-0.014899999999999997,0.0476,0.0625
-2023-03-15 15:40:40.724260,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Domitila Barros,-0.015100000000000002,0.1667,0.1818
 2023-03-15 17:40:46.754452,Hard Knocks Specials - Hard Knocks 2023 - Who Will Appear in the 2023 HBO Series Hard Knocks?,New Orleans Saints,-0.015100000000000002,0.1667,0.1818
+2023-03-15 15:40:40.724260,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Domitila Barros,-0.015100000000000002,0.1667,0.1818
 2023-03-15 15:40:39.592989,St Patrick's Day Specials - Presentation of the Shamrocks Speech: First Cliche - Presentation of the Shamrocks Speech: Biden's First Cliche,Catholic,-0.015300000000000001,0.0323,0.0476
 2023-03-15 13:40:32.292012,SDC Championship - 2/3 Balls - 1st Round 3 Balls - G. Green / J. Walters / M. Pavon - 1st Round 3 Balls,Matthieu Pavon,-0.015400000000000025,0.3846,0.4
 2023-03-15 16:40:48.580041,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Nikola Jokic (DEN),-0.016699999999999937,0.5833,0.6
@@ -136,22 +125,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-15 13:40:32.319666,SDC Championship - 2/3 Balls - 1st Round 3 Balls - D. Law / G. Coetzee / O. Bekker - 1st Round 3 Balls,George Coetzee,-0.016699999999999993,0.4,0.4167
 2023-03-15 15:40:45.589273,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - East Region Winner - To Make The Final 4,Kentucky,-0.016700000000000007,0.0833,0.1
 2023-03-15 15:40:40.724260,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Aline Wirley,-0.01759999999999999,0.1,0.1176
+2023-03-15 22:40:37.072328,Boxing Lines - Ijaz Ahmed vs Marcel Braithwaite - To Win the Bout,Marcel Braithwaite,-0.01880000000000004,0.6364,0.6552
 2023-03-15 17:40:46.917652,XFL - Odds to win 2023 XFL Championship Game - XFL Champion,Orlando Guardians,-0.0189,0.0196,0.0385
 2023-03-15 17:40:48.178823,College Basketball Futures - 2023 NCAA Mens NIT Tournament - Outright Winner,New Mexico,-0.019099999999999995,0.0244,0.0435
 2023-03-15 11:40:35.611733,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - San Diego Padres - Jake Cronenworth - Total Runs Scored,Over 90.5,-0.019699999999999995,0.4348,0.4545
 2023-03-15 17:40:46.917652,XFL - Odds to win 2023 XFL Championship Game - XFL Champion,Vegas Vipers,-0.019800000000000005,0.0278,0.0476
+2023-03-15 11:40:36.251970,MLB 2023 Regular Season Props - MLB 2023 Regular Season Props - Houston Astros Regular Season Win Total,Under 96.5,-0.02169999999999994,0.5238,0.5455
+2023-03-15 11:40:36.256111,MLB 2023 Regular Season Props - MLB 2023 Regular Season Props - Milwaukee Brewers Regular Season Win Total,Over 85.5,-0.02169999999999994,0.5238,0.5455
 2023-03-15 16:40:47.815985,College Specials - NCAA Tournament Specials - Conference Wins in NCAA Tournament - Big East,Under 7.5,-0.02169999999999994,0.5238,0.5455
 2023-03-15 11:40:36.302711,MLB 2023 Regular Season Props - MLB 2023 Regular Season Props - Washington Nationals Regular Season Win Total,Under 59.5,-0.02169999999999994,0.5238,0.5455
-2023-03-15 11:40:36.256111,MLB 2023 Regular Season Props - MLB 2023 Regular Season Props - Milwaukee Brewers Regular Season Win Total,Over 85.5,-0.02169999999999994,0.5238,0.5455
-2023-03-15 11:40:36.251970,MLB 2023 Regular Season Props - MLB 2023 Regular Season Props - Houston Astros Regular Season Win Total,Under 96.5,-0.02169999999999994,0.5238,0.5455
 2023-03-15 15:40:40.724260,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Ricardo Camargo,-0.021999999999999964,0.2857,0.3077
 2023-03-15 17:40:46.754452,Hard Knocks Specials - Hard Knocks 2023 - Who Will Appear in the 2023 HBO Series Hard Knocks?,Chicago Bears,-0.022199999999999998,0.2,0.2222
 2023-03-15 11:40:36.202422,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Washington Nationals - Joey Meneses - Total Homeruns,Under 18.5,-0.022600000000000064,0.5122,0.5348
 2023-03-15 19:40:44.061080,Tournament Match-Ups - Tournament Match-Up - P. Reed vs C. Howell III - Tournament Match-Up,Patrick Reed,-0.022699999999999998,0.4651,0.4878
 2023-03-15 11:40:35.801369,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Seattle Mariners - Robbie Ray - WHIP,Under 1.15,-0.023799999999999988,0.4762,0.5
-2023-03-15 11:40:35.587473,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - San Diego Padres - Fernando Tatís Jr. - Total Homeruns,Over 34.5,-0.023800000000000043,0.5,0.5238
-2023-03-15 11:40:34.334136,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Arizona Diamondbacks - Corbin Carroll Total Stolen Bases,Under 26.5,-0.023800000000000043,0.5,0.5238
 2023-03-15 11:40:35.669846,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - San Diego Padres - Xander Bogaerts - Total Runs Scored,Under 84.5,-0.023800000000000043,0.5,0.5238
+2023-03-15 11:40:34.334136,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Arizona Diamondbacks - Corbin Carroll Total Stolen Bases,Under 26.5,-0.023800000000000043,0.5,0.5238
+2023-03-15 11:40:35.587473,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - San Diego Padres - Fernando Tatís Jr. - Total Homeruns,Over 34.5,-0.023800000000000043,0.5,0.5238
 2023-03-15 11:40:34.407612,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Atlanta Braves - Ozzie Albies Total Runs Scored,Over 85.5,-0.024399999999999977,0.4878,0.5122
 2023-03-15 11:40:34.553488,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Chicago White Sox - Andrew Vaughn Total Homeruns,Under 18.5,-0.024399999999999977,0.4878,0.5122
 2023-03-15 16:40:40.773106,Boxing Lines - Ijaz Ahmed vs Marcel Braithwaite - To Win the Bout,Marcel Braithwaite,-0.0252,0.697,0.7222
@@ -159,19 +149,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-15 15:40:45.562545,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - Midwest Region Winner - To Make The Final 4,Houston,-0.027700000000000002,0.4167,0.4444
 2023-03-15 13:40:34.120477,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - West Region Winner - To Make The Final 4,Kansas,-0.02779999999999999,0.2222,0.25
 2023-03-15 14:40:51.655040,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - East Region Winner - To Make The Final 4,Purdue,-0.02779999999999999,0.2222,0.25
-2023-03-15 15:40:45.562545,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - Midwest Region Winner - To Make The Final 4,Texas A&M,-0.028399999999999995,0.0625,0.0909
 2023-03-15 14:40:51.637791,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - South Region Winner - To Make The Final 4,Virginia,-0.028399999999999995,0.0625,0.0909
-2023-03-15 10:40:34.556129,NFL Draft '23 - Draft Props - Draft H2H: C. Gonzalez vs D. Witherspoon,Christian Gonzalez,-0.030299999999999994,0.6667,0.697
+2023-03-15 15:40:45.562545,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - Midwest Region Winner - To Make The Final 4,Texas A&M,-0.028399999999999995,0.0625,0.0909
+2023-03-15 22:40:41.663317,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Nikola Jokic (DEN),-0.03489999999999999,0.4651,0.5
 2023-03-15 13:40:33.545538,College Specials - NCAA Tournament Specials - Buzzer Beaters - Game Winning Buzzer Beating Shot to occur during the Round Of 64 Games of the 2023 NCAA Men's Basketball Championship Tournament,No,-0.035600000000000076,0.7826,0.8182
 2023-03-15 11:40:39.444169,Tournament Match-Ups - Tournament Match-Up - B. Grace vs B. Steele - Tournament Match-Up,Branden Grace,-0.03600000000000003,0.4878,0.5238
 2023-03-15 19:40:43.123604,Boxing Lines - Ijaz Ahmed vs Marcel Braithwaite - To Win the Bout,Marcel Braithwaite,-0.03710000000000002,0.6552,0.6923
 2023-03-15 17:40:46.917652,XFL - Odds to win 2023 XFL Championship Game - XFL Champion,Arlington Renegades,-0.04240000000000001,0.0909,0.1333
 2023-03-15 17:40:46.917652,XFL - Odds to win 2023 XFL Championship Game - XFL Champion,San Antonio Brahmas,-0.04329999999999999,0.0476,0.0909
-2023-03-15 10:40:34.525048,NFL Draft '23 - Player Props - Team to Draft Anthony Richardson,Detroit Lions,-0.048100000000000004,0.0769,0.125
 2023-03-15 14:40:51.700685,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Nikola Jokic (DEN),-0.04910000000000003,0.6,0.6491
+2023-03-15 22:40:41.663317,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Giannis Antetokounmpo (MIL),-0.04999999999999999,0.2,0.25
 2023-03-15 17:40:47.276961,College Specials - NCAA Tournament Specials - Conference Wins in NCAA Tournament - Big 12,Under 11.5,-0.06519999999999992,0.5348,0.6
 2023-03-15 21:40:43.259855,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Immanuel Quickley (NYK),-0.07619999999999999,0.4,0.4762
 2023-03-15 17:40:48.256244,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Nikola Jokic (DEN),-0.08330000000000004,0.5,0.5833
-2023-03-15 10:40:34.529241,NFL Draft '23 - Player Props - Team to Draft Bijan Robinson,Detroit Lions,-0.10439999999999999,0.0385,0.1429
 2023-03-15 14:40:51.610928,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Reach The Elite 8,Duke,-0.139,0.2,0.339
 2023-03-15 15:40:40.894714,Gran Hermano - Gran Hermano 2023 - Outright Winner,Romina,-0.2028,0.1818,0.3846
