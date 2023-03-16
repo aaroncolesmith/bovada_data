@@ -29,18 +29,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-15 17:40:48.178823,College Basketball Futures - 2023 NCAA Mens NIT Tournament - Outright Winner,North Texas,0.0267,0.1176,0.0909
 2023-03-15 17:40:46.413270,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,New York Jets,0.0242,0.0909,0.0667
 2023-03-15 15:40:40.894714,Gran Hermano - Gran Hermano 2023 - Outright Winner,Nacho,0.02310000000000001,0.1,0.0769
+2023-03-16 02:40:47.933850,Valspar Championship - 2/3 Balls - 1st Round 3 Balls - D. Riley / B. Griffin / A. Smotherman - 1st Round 3 Balls,Ben Griffin,0.02260000000000001,0.4,0.3774
 2023-03-15 16:40:47.815985,College Specials - NCAA Tournament Specials - Conference Wins in NCAA Tournament - Big East,Over 7.5,0.02169999999999994,0.5455,0.5238
 2023-03-15 19:40:44.061080,Tournament Match-Ups - Tournament Match-Up - P. Reed vs C. Howell III - Tournament Match-Up,Charles Howell III,0.02079999999999993,0.5556,0.5348
+2023-03-16 02:40:48.526302,Tournament Match-Ups - Tournament Match-Up - P. Uihlein vs T. Pieters - Tournament Match-Up,Thomas Pieters,0.02079999999999993,0.5556,0.5348
 2023-03-15 17:40:46.537921,NFC South - NFC South 2023/24 - NFC South Winner,Tampa Bay Buccaneers,0.020100000000000007,0.1739,0.1538
+2023-03-16 02:40:42.813917,Boxing Lines - Ijaz Ahmed vs Marcel Braithwaite - To Win the Bout,Ijaz Ahmed,0.018900000000000028,0.4444,0.4255
+2023-03-16 02:40:48.518355,Tournament Match-Ups - Tournament Match-Up - P. Reed vs C. Howell III - Tournament Match-Up,Charles Howell III,0.01880000000000004,0.5744,0.5556
 2023-03-15 15:40:44.445595,World Baseball Classic - 2023 World Baseball Classic - Outright,Cuba,0.018800000000000004,0.0714,0.0526
+2023-03-16 02:40:48.004184,Valspar Championship - 2/3 Balls - 1st Round 3 Balls - N. Echavarria / T. Mullinax / L. List - 1st Round 3 Balls,Trey Mullinax,0.018799999999999983,0.3636,0.3448
 2023-03-15 16:40:40.773106,Boxing Lines - Ijaz Ahmed vs Marcel Braithwaite - To Win the Bout,Ijaz Ahmed,0.018799999999999983,0.3636,0.3448
-2023-03-15 22:40:37.072328,Boxing Lines - Ijaz Ahmed vs Marcel Braithwaite - To Win the Bout,Ijaz Ahmed,0.017299999999999982,0.4255,0.4082
+2023-03-16 02:40:47.985737,Valspar Championship - 2/3 Balls - 1st Round 3 Balls - J. Rose / M. Fitzpatrick / T. Fleetwood - 1st Round 3 Balls,Tommy Fleetwood,0.018799999999999983,0.3636,0.3448
 2023-03-16 00:40:46.894451,Tournament Match-Ups - Tournament Match-Up - J.T. Poston vs B. Martin - Tournament Match-Up,JT Poston,0.017299999999999982,0.5917,0.5744
+2023-03-15 22:40:37.072328,Boxing Lines - Ijaz Ahmed vs Marcel Braithwaite - To Win the Bout,Ijaz Ahmed,0.017299999999999982,0.4255,0.4082
 2023-03-16 00:40:46.696654,Valspar Championship - 2/3 Balls - 1st Round 3 Balls - N. Lashley / R. Shelton / B. Stuard - 1st Round 3 Balls,Robby Shelton,0.016699999999999993,0.4167,0.4
-2023-03-15 14:40:45.298803,Boxing Lines - Ijaz Ahmed vs Marcel Braithwaite - To Win the Bout,Marcel Braithwaite,0.01629999999999998,0.7222,0.7059
+2023-03-16 02:40:48.022118,Valspar Championship - 2/3 Balls - 1st Round 3 Balls - D. Frittelli / B. Martin / D. Lipsky - 1st Round 3 Balls,Ben Martin,0.016699999999999993,0.4167,0.4
 2023-03-15 15:40:40.724260,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Gabriel Santana,0.015300000000000001,0.0476,0.0323
 2023-03-15 21:40:42.174642,NFL Draft '23 - Draft Props - Draft H2H: J. Smith-Nijigba vs J. Addison,Jaxon Smith-Njigba,0.015100000000000002,0.8333,0.8182
+2023-03-16 02:40:48.040147,Valspar Championship - 2/3 Balls - 1st Round 3 Balls - D. Wu / T. Goya / P. Coody - 1st Round 3 Balls,Dylan Wu,0.01419999999999999,0.3846,0.3704
 2023-03-15 14:40:51.589417,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,Tennessee,0.014100000000000001,0.0526,0.0385
+2023-03-16 01:40:36.529933,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,Purdue,0.013999999999999999,0.0909,0.0769
 2023-03-15 15:40:45.589273,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - East Region Winner - To Make The Final 4,Duke,0.013899999999999996,0.125,0.1111
 2023-03-15 14:40:51.637791,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - South Region Winner - To Make The Final 4,Alabama,0.013300000000000034,0.3704,0.3571
 2023-03-15 14:40:51.610928,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Reach The Elite 8,Gonzaga,0.011899999999999966,0.3509,0.339
@@ -51,44 +59,54 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-16 00:40:46.807245,Tournament Match-Ups - Tournament Match-Up - A. Hadwin vs T. Fleetwood - Tournament Match-Up,Tommy Fleetwood,0.01100000000000001,0.5348,0.5238
 2023-03-15 17:40:48.178823,College Basketball Futures - 2023 NCAA Mens NIT Tournament - Outright Winner,Florida,0.010700000000000001,0.0385,0.0278
 2023-03-15 17:40:48.178823,College Basketball Futures - 2023 NCAA Mens NIT Tournament - Outright Winner,Santa Clara,0.010600000000000002,0.0323,0.0217
+2023-03-16 01:40:36.529933,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,UCLA,0.0102,0.0769,0.0667
 2023-03-15 17:40:48.178823,College Basketball Futures - 2023 NCAA Mens NIT Tournament - Outright Winner,Virginia Tech,0.010100000000000001,0.0345,0.0244
-2023-03-15 15:40:40.724260,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Antonio Júnior,-0.0102,0.0667,0.0769
 2023-03-15 15:40:39.592989,St Patrick's Day Specials - Presentation of the Shamrocks Speech: First Cliche - Presentation of the Shamrocks Speech: Biden's First Cliche,United Nations/UN,-0.0102,0.0667,0.0769
-2023-03-15 15:40:45.562545,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - Midwest Region Winner - To Make The Final 4,Indiana,-0.0102,0.0667,0.0769
-2023-03-15 15:40:39.592989,St Patrick's Day Specials - Presentation of the Shamrocks Speech: First Cliche - Presentation of the Shamrocks Speech: Biden's First Cliche,Ukraine,-0.0102,0.0667,0.0769
 2023-03-15 18:40:51.791497,Requested Specials - Where Will Odell Beckham Jr Play in 2023? - Where Will Odell Beckham Jr Play in 2023?,Miami Dolphins,-0.0102,0.0667,0.0769
+2023-03-15 15:40:45.562545,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - Midwest Region Winner - To Make The Final 4,Indiana,-0.0102,0.0667,0.0769
+2023-03-15 15:40:40.724260,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Antonio Júnior,-0.0102,0.0667,0.0769
+2023-03-15 15:40:39.592989,St Patrick's Day Specials - Presentation of the Shamrocks Speech: First Cliche - Presentation of the Shamrocks Speech: Biden's First Cliche,Ukraine,-0.0102,0.0667,0.0769
 2023-03-16 00:40:46.807245,Tournament Match-Ups - Tournament Match-Up - A. Hadwin vs T. Fleetwood - Tournament Match-Up,Adam Hadwin,-0.010699999999999932,0.5348,0.5455
+2023-03-16 02:40:48.022118,Valspar Championship - 2/3 Balls - 1st Round 3 Balls - D. Frittelli / B. Martin / D. Lipsky - 1st Round 3 Balls,Dylan Frittelli,-0.010699999999999987,0.3226,0.3333
+2023-03-16 02:40:47.933850,Valspar Championship - 2/3 Balls - 1st Round 3 Balls - D. Riley / B. Griffin / A. Smotherman - 1st Round 3 Balls,Austin Smotherman,-0.011099999999999999,0.2667,0.2778
 2023-03-16 00:40:46.696654,Valspar Championship - 2/3 Balls - 1st Round 3 Balls - N. Lashley / R. Shelton / B. Stuard - 1st Round 3 Balls,Brian Stuard,-0.011099999999999999,0.2667,0.2778
 2023-03-15 14:40:51.637791,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - South Region Winner - To Make The Final 4,Maryland,-0.011199999999999995,0.0476,0.0588
+2023-03-16 02:40:47.864359,Valspar Championship - Valspar Championship - Outright,Brandon Wu,-0.0115,0.0179,0.0294
+2023-03-16 02:40:48.040147,Valspar Championship - 2/3 Balls - 1st Round 3 Balls - D. Wu / T. Goya / P. Coody - 1st Round 3 Balls,Tano Goya,-0.01150000000000001,0.3333,0.3448
 2023-03-16 00:40:46.894451,Tournament Match-Ups - Tournament Match-Up - J.T. Poston vs B. Martin - Tournament Match-Up,Ben Martin,-0.0116,0.4762,0.4878
 2023-03-15 14:40:51.646310,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - West Region Winner - To Make The Final 4,Kansas,-0.011700000000000016,0.2105,0.2222
 2023-03-15 20:40:37.222334,College Specials - NCAA Tournament Specials - Team to Advance Further in Bracket- Duke vs Gonzaga,Gonzaga,-0.011900000000000022,0.75,0.7619
 2023-03-16 00:40:46.837034,Tournament Match-Ups - Tournament Match-Up - B. Harman vs J. Suh - Tournament Match-Up,Justin Suh,-0.012199999999999989,0.5,0.5122
-2023-03-15 14:40:45.298803,Boxing Lines - Ijaz Ahmed vs Marcel Braithwaite - To Win the Bout,Ijaz Ahmed,-0.012299999999999978,0.3448,0.3571
 2023-03-15 17:40:46.917652,XFL - Odds to win 2023 XFL Championship Game - XFL Champion,St Louis Battlehawks,-0.012899999999999995,0.1538,0.1667
 2023-03-15 14:40:51.589417,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,Houston,-0.012899999999999995,0.1538,0.1667
+2023-03-16 02:40:42.813917,Boxing Lines - Ijaz Ahmed vs Marcel Braithwaite - To Win the Bout,Marcel Braithwaite,-0.013799999999999923,0.6226,0.6364
 2023-03-15 17:40:46.917652,XFL - Odds to win 2023 XFL Championship Game - XFL Champion,Seattle Sea Dragons,-0.013899999999999996,0.1111,0.125
 2023-03-15 15:40:40.724260,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Cezar Black,-0.013999999999999999,0.0769,0.0909
 2023-03-15 14:40:51.646310,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - West Region Winner - To Make The Final 4,Saint Mary's CA,-0.013999999999999999,0.0769,0.0909
 2023-03-15 15:40:40.894714,Gran Hermano - Gran Hermano 2023 - Outright Winner,Julieta,-0.014099999999999998,0.0244,0.0385
-2023-03-15 15:40:45.589273,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - East Region Winner - To Make The Final 4,Michigan State,-0.014399999999999996,0.0625,0.0769
 2023-03-15 15:40:39.592989,St Patrick's Day Specials - Presentation of the Shamrocks Speech: First Cliche - Presentation of the Shamrocks Speech: Biden's First Cliche,John F Kennedy,-0.014399999999999996,0.0625,0.0769
+2023-03-15 15:40:45.589273,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - East Region Winner - To Make The Final 4,Michigan State,-0.014399999999999996,0.0625,0.0769
 2023-03-15 15:40:39.592989,St Patrick's Day Specials - Presentation of the Shamrocks Speech: First Cliche - Presentation of the Shamrocks Speech: Biden's First Cliche,Covid,-0.014899999999999997,0.0476,0.0625
 2023-03-15 15:40:39.592989,St Patrick's Day Specials - Presentation of the Shamrocks Speech: First Cliche - Presentation of the Shamrocks Speech: Biden's First Cliche,Emerald Isle,-0.014899999999999997,0.0476,0.0625
 2023-03-15 17:40:46.754452,Hard Knocks Specials - Hard Knocks 2023 - Who Will Appear in the 2023 HBO Series Hard Knocks?,New Orleans Saints,-0.015100000000000002,0.1667,0.1818
 2023-03-15 15:40:40.724260,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Domitila Barros,-0.015100000000000002,0.1667,0.1818
 2023-03-15 15:40:39.592989,St Patrick's Day Specials - Presentation of the Shamrocks Speech: First Cliche - Presentation of the Shamrocks Speech: Biden's First Cliche,Catholic,-0.015300000000000001,0.0323,0.0476
+2023-03-16 02:40:47.985737,Valspar Championship - 2/3 Balls - 1st Round 3 Balls - J. Rose / M. Fitzpatrick / T. Fleetwood - 1st Round 3 Balls,Matthew Fitzpatrick,-0.015400000000000025,0.3846,0.4
 2023-03-15 16:40:48.580041,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Nikola Jokic (DEN),-0.016699999999999937,0.5833,0.6
 2023-03-15 21:40:42.174642,NFL Draft '23 - Draft Props - Draft H2H: J. Smith-Nijigba vs J. Addison,Jordan Addison,-0.016699999999999993,0.25,0.2667
+2023-03-16 02:40:48.004184,Valspar Championship - 2/3 Balls - 1st Round 3 Balls - N. Echavarria / T. Mullinax / L. List - 1st Round 3 Balls,Luke List,-0.016699999999999993,0.4,0.4167
 2023-03-15 15:40:45.589273,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - East Region Winner - To Make The Final 4,Kentucky,-0.016700000000000007,0.0833,0.1
 2023-03-15 15:40:40.724260,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Aline Wirley,-0.01759999999999999,0.1,0.1176
 2023-03-15 22:40:37.072328,Boxing Lines - Ijaz Ahmed vs Marcel Braithwaite - To Win the Bout,Marcel Braithwaite,-0.01880000000000004,0.6364,0.6552
 2023-03-15 17:40:46.917652,XFL - Odds to win 2023 XFL Championship Game - XFL Champion,Orlando Guardians,-0.0189,0.0196,0.0385
 2023-03-15 17:40:48.178823,College Basketball Futures - 2023 NCAA Mens NIT Tournament - Outright Winner,New Mexico,-0.019099999999999995,0.0244,0.0435
 2023-03-15 17:40:46.917652,XFL - Odds to win 2023 XFL Championship Game - XFL Champion,Vegas Vipers,-0.019800000000000005,0.0278,0.0476
+2023-03-16 02:40:48.518355,Tournament Match-Ups - Tournament Match-Up - P. Reed vs C. Howell III - Tournament Match-Up,Patrick Reed,-0.020699999999999996,0.4444,0.4651
 2023-03-15 16:40:47.815985,College Specials - NCAA Tournament Specials - Conference Wins in NCAA Tournament - Big East,Under 7.5,-0.02169999999999994,0.5238,0.5455
+2023-03-16 02:40:49.322776,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester City,-0.021699999999999997,0.4545,0.4762
 2023-03-15 15:40:40.724260,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Ricardo Camargo,-0.021999999999999964,0.2857,0.3077
 2023-03-15 17:40:46.754452,Hard Knocks Specials - Hard Knocks 2023 - Who Will Appear in the 2023 HBO Series Hard Knocks?,Chicago Bears,-0.022199999999999998,0.2,0.2222
+2023-03-16 02:40:48.526302,Tournament Match-Ups - Tournament Match-Up - P. Uihlein vs T. Pieters - Tournament Match-Up,Peter Uihlein,-0.022699999999999998,0.4651,0.4878
 2023-03-15 19:40:44.061080,Tournament Match-Ups - Tournament Match-Up - P. Reed vs C. Howell III - Tournament Match-Up,Patrick Reed,-0.022699999999999998,0.4651,0.4878
 2023-03-15 16:40:40.773106,Boxing Lines - Ijaz Ahmed vs Marcel Braithwaite - To Win the Bout,Marcel Braithwaite,-0.0252,0.697,0.7222
 2023-03-15 17:40:46.537921,NFC South - NFC South 2023/24 - NFC South Winner,Carolina Panthers,-0.02560000000000001,0.3077,0.3333
