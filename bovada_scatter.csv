@@ -24,9 +24,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-18 06:40:56.732835,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - East Region Winner - To Make The Final 4,Michigan State,0.04650000000000001,0.1053,0.0588
 2023-03-18 07:41:14.443395,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Atlanta Hawks,0.04569999999999999,0.1538,0.1081
 2023-03-18 03:40:56.551843,Hoag Classic - Hoag Classic - Outright,Miguel Angel Jimenez,0.04440000000000001,0.1111,0.0667
-2023-03-18 08:40:47.097945,Valspar Championship - 2/3 Balls - 3rd Round 2 Balls - S.H. Kim v T. Werbylo - 3rd Round 2 Balls,Trevor Werbylo,0.044399999999999995,0.4444,0.4
-2023-03-18 07:41:14.732018,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Joel Embiid (PHI),0.044399999999999995,0.6,0.5556
 2023-03-18 08:40:47.052626,Valspar Championship - 2/3 Balls - 3rd Round 2 Balls - B. Griffin v A. Smotherman - 3rd Round 2 Balls,Austin Smotherman,0.044399999999999995,0.4444,0.4
+2023-03-18 07:41:14.732018,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Joel Embiid (PHI),0.044399999999999995,0.6,0.5556
+2023-03-18 08:40:47.097945,Valspar Championship - 2/3 Balls - 3rd Round 2 Balls - S.H. Kim v T. Werbylo - 3rd Round 2 Balls,Trevor Werbylo,0.044399999999999995,0.4444,0.4
 2023-03-18 07:41:14.658758,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Reach The Elite 8,Fairleigh Dickinson,0.0436,0.0476,0.004
 2023-03-18 06:40:56.732835,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - East Region Winner - To Make The Final 4,Kentucky,0.042899999999999994,0.1429,0.1
 2023-03-17 23:41:05.377970,League One - England - League One 2022/23 - Outright,Ipswich Town,0.04169999999999999,0.1667,0.125
@@ -43,9 +43,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-18 05:40:38.074932,FIBA Champions League - FIBA Champions League 2022/23 - Outright,Telekom Bonn,0.033399999999999985,0.1667,0.1333
 2023-03-18 08:40:47.087506,Valspar Championship - 2/3 Balls - 3rd Round 2 Balls - G. Sigg v Z. Blair - 3rd Round 2 Balls,Zac Blair,0.031799999999999995,0.4762,0.4444
 2023-03-18 06:40:56.726791,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - West Region Winner - To Make The Final 4,Gonzaga,0.031700000000000006,0.2222,0.1905
-2023-03-18 05:40:38.042496,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Philadelphia 76ers,0.028700000000000003,0.2105,0.1818
 2023-03-18 05:40:38.068473,Euro Cup - Euro Cup 2022/23 - Outright,Joventut,0.028700000000000003,0.2105,0.1818
+2023-03-18 05:40:38.042496,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Philadelphia 76ers,0.028700000000000003,0.2105,0.1818
+2023-03-18 09:40:36.537084,Boxing Lines - Hasibullah Ahmadi vs Dana Coolwell - To Win the Bout,Dana Coolwell,0.027700000000000002,0.4444,0.4167
 2023-03-18 07:41:14.431071,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Sacramento Kings,0.026700000000000057,0.9091,0.8824
+2023-03-18 09:40:36.583035,Boxing Lines - Solomon Dacres vs Robert Ismay - To Win the Bout,Robert Ismay,0.026100000000000012,0.2,0.1739
 2023-03-18 07:41:14.658758,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Reach The Elite 8,Kansas State,0.024800000000000016,0.2353,0.2105
 2023-03-18 08:40:47.077305,Valspar Championship - 2/3 Balls - 3rd Round 2 Balls - M. Kim v C. Ramey - 3rd Round 2 Balls,Chad Ramey,0.024399999999999977,0.5122,0.4878
 2023-03-18 05:40:38.074932,FIBA Champions League - FIBA Champions League 2022/23 - Outright,Hapoel Jerusalem,0.0242,0.0909,0.0667
@@ -89,22 +91,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-18 08:40:47.195444,Valspar Championship - 2/3 Balls - 3rd Round 2 Balls - W. Clark v M. Wallace - 3rd Round 2 Balls,Wyndham Clark,0.013799999999999923,0.6364,0.6226
 2023-03-18 07:41:14.658758,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Reach The Elite 8,Kansas,0.013300000000000034,0.3704,0.3571
 2023-03-18 03:40:56.551843,Hoag Classic - Hoag Classic - Outright,Thongchai Jaidee,0.0131,0.0476,0.0345
-2023-03-18 03:40:56.551843,Hoag Classic - Hoag Classic - Outright,Rod Pampling,0.012100000000000001,0.0244,0.0123
 2023-03-18 01:41:04.615754,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,Memphis,0.012100000000000001,0.0244,0.0123
+2023-03-18 03:40:56.551843,Hoag Classic - Hoag Classic - Outright,Rod Pampling,0.012100000000000001,0.0244,0.0123
 2023-03-18 05:40:38.074932,FIBA Champions League - FIBA Champions League 2022/23 - Outright,Unicaja Málaga,0.011700000000000016,0.2222,0.2105
+2023-03-18 09:40:41.650174,Round Match-Ups - 2nd Round Match-Up - S. Garcia vs T. Pieters - 2nd Round Match-Up,Thomas Pieters,0.011600000000000055,0.5238,0.5122
+2023-03-18 08:40:47.046614,Valspar Championship - 2/3 Balls - 3rd Round 2 Balls - V. Perez v N. Taylor - 3rd Round 2 Balls,Nick Taylor,0.011600000000000055,0.5238,0.5122
+2023-03-18 09:40:41.640765,Round Match-Ups - 2nd Round Match-Up - P. Uihlein vs C. Howell - 2nd Round Match-Up,Peter Uihlein,0.011600000000000055,0.5238,0.5122
 2023-03-18 02:41:08.477708,College Specials - NCAA Tournament Specials - Conference Wins in NCAA Tournament - Big Ten,Under 8.5,0.011600000000000055,0.5238,0.5122
 2023-03-18 03:40:56.446630,Valspar Championship - 2/3 Balls - 3rd Round 2 Balls - J. Suh v M. McNealy - 3rd Round 2 Balls,Maverick McNealy,0.011600000000000055,0.5238,0.5122
 2023-03-18 07:41:15.081180,Valspar Championship - 2/3 Balls - 3rd Round 2 Balls - A. Schenk v K. Hickok - 3rd Round 2 Balls,Kramer Hickok,0.011600000000000055,0.5238,0.5122
-2023-03-18 08:40:47.046614,Valspar Championship - 2/3 Balls - 3rd Round 2 Balls - V. Perez v N. Taylor - 3rd Round 2 Balls,Nick Taylor,0.011600000000000055,0.5238,0.5122
 2023-03-18 05:40:37.118020,Boxing Lines - Soslan Asbarov vs Brandon Glanton - To Win the Bout,Brandon Glanton,0.0116,0.4878,0.4762
 2023-03-18 03:40:56.551843,Hoag Classic - Hoag Classic - Outright,Fred Couples,0.011199999999999995,0.0588,0.0476
 2023-03-17 22:41:02.767573,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,Marquette,0.011199999999999995,0.0588,0.0476
 2023-03-18 04:40:49.459320,Japan B League - Japan League B1 2022/23 - Outright,Hiroshima Dragonflies,0.011099999999999999,0.1111,0.1
-2023-03-18 02:41:03.283522,Boxing Lines - Cyrus Pattinson vs Chris Jenkins - To Win the Bout,Cyrus Pattinson,0.011099999999999999,0.9,0.8889
-2023-03-17 22:41:06.792366,Boxing Lines - Soslan Asbarov vs Brandon Glanton - To Win the Bout,Brandon Glanton,0.011099999999999999,0.4762,0.4651
 2023-03-18 05:40:38.068473,Euro Cup - Euro Cup 2022/23 - Outright,Prometey,0.011099999999999999,0.1111,0.1
+2023-03-17 22:41:06.792366,Boxing Lines - Soslan Asbarov vs Brandon Glanton - To Win the Bout,Brandon Glanton,0.011099999999999999,0.4762,0.4651
+2023-03-18 02:41:03.283522,Boxing Lines - Cyrus Pattinson vs Chris Jenkins - To Win the Bout,Cyrus Pattinson,0.011099999999999999,0.9,0.8889
 2023-03-18 08:40:47.227161,Valspar Championship - 2/3 Balls - 3rd Round 2 Balls - A. Schenk v K. Hickok - 3rd Round 2 Balls,Kramer Hickok,0.01100000000000001,0.5348,0.5238
 2023-03-18 06:40:56.720584,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - South Region Winner - To Make The Final 4,Alabama,0.010099999999999998,0.4545,0.4444
+2023-03-18 09:40:36.544506,Boxing Lines - Soslan Asbarov vs Brandon Glanton - To Win the Bout,Brandon Glanton,0.010099999999999998,0.4545,0.4444
 2023-03-18 02:41:08.477708,College Specials - NCAA Tournament Specials - Conference Wins in NCAA Tournament - Big Ten,Over 8.5,-0.010099999999999998,0.5455,0.5556
 2023-03-18 04:40:54.214854,World Baseball Classic - 2023 World Baseball Classic - Outright,Cuba,-0.0102,0.0667,0.0769
 2023-03-18 06:40:56.469101,Boxing Lines - Mark Dickinson vs Ben Ridings - To Win the Bout,Ben Ridings,-0.0102,0.0667,0.0769
@@ -112,7 +117,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-18 03:40:56.551843,Hoag Classic - Hoag Classic - Outright,Scott Parel,-0.0109,0.004,0.0149
 2023-03-18 07:41:15.081180,Valspar Championship - 2/3 Balls - 3rd Round 2 Balls - A. Schenk v K. Hickok - 3rd Round 2 Balls,Adam Schenk,-0.01100000000000001,0.5238,0.5348
 2023-03-18 08:40:47.046614,Valspar Championship - 2/3 Balls - 3rd Round 2 Balls - V. Perez v N. Taylor - 3rd Round 2 Balls,Victor Perez,-0.01100000000000001,0.5238,0.5348
+2023-03-18 09:40:41.650174,Round Match-Ups - 2nd Round Match-Up - S. Garcia vs T. Pieters - 2nd Round Match-Up,Sergio Garcia,-0.01100000000000001,0.5238,0.5348
 2023-03-18 03:40:56.446630,Valspar Championship - 2/3 Balls - 3rd Round 2 Balls - J. Suh v M. McNealy - 3rd Round 2 Balls,Justin Suh,-0.01100000000000001,0.5238,0.5348
+2023-03-18 09:40:41.640765,Round Match-Ups - 2nd Round Match-Up - P. Uihlein vs C. Howell - 2nd Round Match-Up,Charles Howell III,-0.01100000000000001,0.5238,0.5348
 2023-03-18 05:40:38.068473,Euro Cup - Euro Cup 2022/23 - Outright,Türk Telekom,-0.011099999999999999,0.1,0.1111
 2023-03-18 06:40:56.714582,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - Midwest Region Winner - To Make The Final 4,Xavier,-0.011099999999999999,0.1,0.1111
 2023-03-17 22:41:02.767573,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,Connecticut,-0.011199999999999995,0.0476,0.0588
@@ -128,13 +135,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-18 05:40:38.049671,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Philadelphia 76ers,-0.013999999999999999,0.0769,0.0909
 2023-03-18 06:40:56.714582,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - Midwest Region Winner - To Make The Final 4,Auburn,-0.013999999999999999,0.0769,0.0909
 2023-03-18 06:40:56.720584,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - South Region Winner - To Make The Final 4,Furman,-0.014099999999999998,0.0244,0.0385
-2023-03-18 07:41:14.658758,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Reach The Elite 8,Missouri,-0.01469999999999999,0.2353,0.25
 2023-03-18 05:40:38.049671,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Milwaukee Bucks,-0.01469999999999999,0.2353,0.25
+2023-03-18 07:41:14.658758,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Reach The Elite 8,Missouri,-0.01469999999999999,0.2353,0.25
+2023-03-18 09:40:36.544506,Boxing Lines - Soslan Asbarov vs Brandon Glanton - To Win the Bout,Soslan Asbarov,-0.014800000000000035,0.6078,0.6226
 2023-03-18 08:40:47.120262,Valspar Championship - 2/3 Balls - 3rd Round 2 Balls - D. Wu v Z. Dou - 3rd Round 2 Balls,Dylan Wu,-0.014800000000000035,0.6078,0.6226
 2023-03-18 04:40:49.459320,Japan B League - Japan League B1 2022/23 - Outright,Shinshu Brave Warriors,-0.014900000000000004,0.0196,0.0345
 2023-03-18 03:40:56.551843,Hoag Classic - Hoag Classic - Outright,Justin Leonard,-0.016,0.0036,0.0196
-2023-03-18 06:40:56.720584,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - South Region Winner - To Make The Final 4,Maryland,-0.016600000000000004,0.0667,0.0833
 2023-03-18 06:40:56.476730,Boxing Lines - Ivan Hope Price vs thomas masson - To Win the Bout,thomas masson,-0.016600000000000004,0.0667,0.0833
+2023-03-18 06:40:56.720584,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - South Region Winner - To Make The Final 4,Maryland,-0.016600000000000004,0.0667,0.0833
 2023-03-18 08:40:47.816029,Boxing Lines - Solomon Dacres vs Robert Ismay - To Win the Bout,Robert Ismay,-0.016600000000000004,0.1739,0.1905
 2023-03-18 04:40:49.459320,Japan B League - Japan League B1 2022/23 - Outright,Nagoya Diamond Dolphins,-0.016600000000000004,0.0667,0.0833
 2023-03-18 05:40:37.118020,Boxing Lines - Soslan Asbarov vs Brandon Glanton - To Win the Bout,Soslan Asbarov,-0.017299999999999982,0.5744,0.5917
@@ -151,11 +159,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-18 08:40:47.077305,Valspar Championship - 2/3 Balls - 3rd Round 2 Balls - M. Kim v C. Ramey - 3rd Round 2 Balls,Michael Kim,-0.02079999999999993,0.5348,0.5556
 2023-03-18 05:40:37.508072,Valspar Championship - 2/3 Balls - 3rd Round 2 Balls - T. Moore v J.T. Poston - 3rd Round 2 Balls,Taylor Moore,-0.02169999999999994,0.5238,0.5455
 2023-03-18 05:40:38.061657,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Phoenix Suns,-0.021999999999999964,0.2857,0.3077
-2023-03-18 06:40:56.969978,Round Match-Ups - 2nd Round Match-Up - P. Uihlein vs C. Howell - 2nd Round Match-Up,Peter Uihlein,-0.022600000000000064,0.5122,0.5348
+2023-03-18 09:40:36.583035,Boxing Lines - Solomon Dacres vs Robert Ismay - To Win the Bout,Solomon Dacres,-0.022199999999999998,0.8667,0.8889
 2023-03-18 04:40:48.993774,Valspar Championship - 2/3 Balls - 3rd Round 2 Balls - G. Sigg v Z. Blair - 3rd Round 2 Balls,Greyson Sigg,-0.022600000000000064,0.6,0.6226
+2023-03-18 06:40:56.969978,Round Match-Ups - 2nd Round Match-Up - P. Uihlein vs C. Howell - 2nd Round Match-Up,Peter Uihlein,-0.022600000000000064,0.5122,0.5348
 2023-03-18 03:40:56.551843,Hoag Classic - Hoag Classic - Outright,Retief Goosen,-0.0236,0.0149,0.0385
-2023-03-18 08:40:47.058744,Valspar Championship - 2/3 Balls - 3rd Round 2 Balls - J. Suh v M. McNealy - 3rd Round 2 Balls,Maverick McNealy,-0.023800000000000043,0.5,0.5238
 2023-03-18 06:40:56.938708,Round Match-Ups - 2nd Round Match-Up - C. Ortiz vs M. Pereira - 2nd Round Match-Up,Carlos Ortiz,-0.023800000000000043,0.5,0.5238
+2023-03-18 08:40:47.058744,Valspar Championship - 2/3 Balls - 3rd Round 2 Balls - J. Suh v M. McNealy - 3rd Round 2 Balls,Maverick McNealy,-0.023800000000000043,0.5,0.5238
 2023-03-18 07:41:14.658758,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Reach The Elite 8,Princeton,-0.0242,0.0667,0.0909
 2023-03-18 06:40:56.720584,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - South Region Winner - To Make The Final 4,Missouri,-0.0242,0.0667,0.0909
 2023-03-18 08:40:47.109198,Valspar Championship - 2/3 Balls - 3rd Round 2 Balls - D. Lingmerth v M. Thompson - 3rd Round 2 Balls,Michael Thompson,-0.024399999999999977,0.4878,0.5122
@@ -163,6 +172,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-18 08:40:48.077152,NFL Draft '23 - Pick Props - #1 Overall Pick,CJ Stroud,-0.025600000000000067,0.6667,0.6923
 2023-03-18 07:41:14.658758,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Reach The Elite 8,Auburn,-0.026100000000000012,0.1739,0.2
 2023-03-18 03:40:56.551843,Hoag Classic - Hoag Classic - Outright,Alex Cejka,-0.0262,0.0123,0.0385
+2023-03-18 09:40:36.537084,Boxing Lines - Hasibullah Ahmadi vs Dana Coolwell - To Win the Bout,Hasibullah Ahmadi,-0.026499999999999968,0.6226,0.6491
 2023-03-18 07:41:14.658758,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Reach The Elite 8,Tennessee,-0.02739999999999998,0.2667,0.2941
 2023-03-18 06:40:56.726791,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - West Region Winner - To Make The Final 4,UCLA,-0.02779999999999999,0.25,0.2778
 2023-03-18 07:41:14.732018,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Giannis Antetokounmpo (MIL),-0.028700000000000003,0.1818,0.2105
