@@ -1,6 +1,12 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2023-03-19 15:40:42.422206,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Reach The Elite 8,Tennessee,0.4208,0.6875,0.2667
+2023-03-19 15:40:42.422206,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Reach The Elite 8,Arkansas,0.2539,0.4444,0.1905
 2023-03-19 05:41:04.162542,Hoag Classic - Hoag Classic - Outright,Bernhard Langer,0.19999999999999998,0.3333,0.1333
+2023-03-19 15:40:42.422206,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Reach The Elite 8,Houston,0.18610000000000004,0.7778,0.5917
 2023-03-19 07:40:52.747734,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - East Region Winner - To Make The Final 4,Tennessee,0.1795,0.3333,0.1538
+2023-03-19 15:40:42.422206,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Reach The Elite 8,Texas,0.1795,0.7143,0.5348
+2023-03-19 15:40:42.422206,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Reach The Elite 8,UCLA,0.15780000000000005,0.5833,0.4255
+2023-03-19 15:40:42.422206,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Reach The Elite 8,Princeton,0.15550000000000003,0.2222,0.0667
 2023-03-19 10:40:42.341281,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Make Finals,Alabama,0.1493,0.3846,0.2353
 2023-03-19 06:41:05.439203,World Baseball Classic - 2023 World Baseball Classic - Outright,USA,0.14290000000000003,0.4762,0.3333
 2023-03-19 07:40:52.738014,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - West Region Winner - To Make The Final 4,Arkansas,0.12310000000000001,0.2,0.0769
@@ -31,8 +37,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-19 06:40:59.805917,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - South Region Winner - To Make The Final 4,Baylor,0.044800000000000006,0.2353,0.1905
 2023-03-19 07:40:52.759539,College Basketball Futures - 2023 NCAA Mens NIT Tournament - Outright Winner,Wisconsin,0.04240000000000001,0.1333,0.0909
 2023-03-19 10:40:49.377027,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Club América,0.04169999999999999,0.1667,0.125
-2023-03-19 06:40:59.805917,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - South Region Winner - To Make The Final 4,San Diego State,0.04169999999999999,0.1667,0.125
 2023-03-19 07:40:52.747734,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - East Region Winner - To Make The Final 4,Kentucky,0.04169999999999999,0.1667,0.125
+2023-03-19 06:40:59.805917,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - South Region Winner - To Make The Final 4,San Diego State,0.04169999999999999,0.1667,0.125
 2023-03-19 10:40:42.341281,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Make Finals,UCLA,0.03670000000000001,0.1905,0.1538
 2023-03-19 07:40:52.747734,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - East Region Winner - To Make The Final 4,Michigan State,0.0343,0.1176,0.0833
 2023-03-19 07:40:52.738014,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - West Region Winner - To Make The Final 4,Saint Mary's CA,0.03420000000000001,0.1111,0.0769
@@ -50,16 +56,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-19 08:43:08.065355,NFL Draft '23 - Pick Props - #1 Overall Pick,CJ Stroud,0.025600000000000067,0.6923,0.6667
 2023-03-19 13:40:56.863953,WNCAA - 2023 NCAA Women's Tournament - National Champion,South Carolina (W),0.025600000000000067,0.6923,0.6667
 2023-03-19 10:40:42.341281,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Make Finals,Florida Atlantic,0.0253,0.0385,0.0132
-2023-03-19 10:40:42.341281,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Make Finals,Connecticut,0.024999999999999994,0.125,0.1
 2023-03-19 06:40:59.785517,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,UCLA,0.024999999999999994,0.125,0.1
 2023-03-19 06:40:59.795827,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - Midwest Region Winner - To Make The Final 4,Xavier,0.024999999999999994,0.125,0.1
+2023-03-19 10:40:42.341281,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Make Finals,Connecticut,0.024999999999999994,0.125,0.1
 2023-03-19 10:40:42.341281,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Make Finals,Creighton,0.0245,0.0833,0.0588
 2023-03-19 07:40:51.864150,Round Match-Ups - Final Round Match-Up - D. Wu vs P. Kizzire - Final Round Match-Up,Patton Kizzire,0.023800000000000043,0.5238,0.5
 2023-03-19 10:40:49.306867,MLS - MLS 2023 - Winner,Los Angeles FC,0.022199999999999998,0.2222,0.2
 2023-03-19 07:40:51.891361,Round Match-Ups - Final Round Match-Up - C. Gribble vs Z. Blair - Final Round Match-Up,Zac Blair,0.02169999999999994,0.5455,0.5238
 2023-03-19 09:41:07.108572,Round Match-Ups - Final Round Match-Up - W. Clark vs D. Riley - Final Round Match-Up,Wyndham Clark,0.02079999999999993,0.5556,0.5348
-2023-03-19 04:40:38.124469,Valspar Championship - 2/3 Balls - Final Round 2 Balls - B.H. An v R. Sabbatini - Final Round 2 Balls,Rory Sabbatini,0.02030000000000004,0.3774,0.3571
 2023-03-19 10:40:42.341281,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Make Finals,Marquette,0.02020000000000001,0.1111,0.0909
+2023-03-19 15:40:42.422206,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Reach The Elite 8,Saint Mary's CA,0.01999999999999999,0.2105,0.1905
 2023-03-19 07:40:51.845786,Round Match-Ups - Final Round Match-Up - A. Smalley vs C. Ramey - Final Round Match-Up,Alex Smalley,0.01970000000000005,0.5652,0.5455
 2023-03-19 09:41:07.137140,Round Match-Ups - Final Round Match-Up - C. Gribble vs Z. Blair - Final Round Match-Up,Zac Blair,0.01970000000000005,0.5652,0.5455
 2023-03-19 07:40:51.818789,Round Match-Ups - Final Round Match-Up - J. Rose vs B. Griffin - Final Round Match-Up,Justin Rose,0.01970000000000005,0.5652,0.5455
@@ -69,36 +75,37 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-19 09:41:07.022568,Round Match-Ups - Final Round Match-Up - J. Rose vs B. Griffin - Final Round Match-Up,Justin Rose,0.018100000000000005,0.5833,0.5652
 2023-03-19 06:41:05.439203,World Baseball Classic - 2023 World Baseball Classic - Outright,Cuba,0.018099999999999998,0.0769,0.0588
 2023-03-19 06:40:59.785517,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,Connecticut,0.018099999999999998,0.0769,0.0588
-2023-03-19 03:41:08.032062,Valspar Championship - 2/3 Balls - Final Round 2 Balls - B.H. An v R. Sabbatini - Final Round 2 Balls,Rory Sabbatini,0.01809999999999995,0.3571,0.339
-2023-03-19 03:41:08.080380,Valspar Championship - 2/3 Balls - Final Round 2 Balls - G. Higgo v C. Percy - Final Round 2 Balls,Garrick Higgo,0.016699999999999937,0.6,0.5833
 2023-03-19 14:41:27.301446,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Make Finals,Princeton,0.0156,0.0196,0.004
 2023-03-19 10:40:42.341281,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Make Finals,TCU,0.015300000000000001,0.0476,0.0323
 2023-03-19 06:40:59.785517,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,Florida Atlantic,0.014900000000000004,0.0345,0.0196
 2023-03-19 15:40:42.391198,College Specials - NCAA Tournament Specials - Seed Number to Win 2023 NCAA Tournament,2,0.01469999999999999,0.25,0.2353
 2023-03-19 07:40:52.747734,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - East Region Winner - To Make The Final 4,Marquette,0.01469999999999999,0.25,0.2353
+2023-03-19 15:40:42.422206,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Reach The Elite 8,Connecticut,0.01419999999999999,0.3846,0.3704
 2023-03-19 10:40:42.341281,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Make Finals,Michigan State,0.014099999999999998,0.0435,0.0294
 2023-03-19 10:40:49.306867,MLS - MLS 2023 - Winner,Saint Louis City SC,0.014099999999999998,0.0385,0.0244
-2023-03-19 07:40:52.738014,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - West Region Winner - To Make The Final 4,TCU,0.013999999999999999,0.0909,0.0769
-2023-03-19 10:40:42.341281,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Make Finals,San Diego State,0.013999999999999999,0.0909,0.0769
 2023-03-19 10:40:49.306867,MLS - MLS 2023 - Winner,New York City FC,0.013999999999999999,0.0909,0.0769
+2023-03-19 07:40:52.738014,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - West Region Winner - To Make The Final 4,TCU,0.013999999999999999,0.0909,0.0769
 2023-03-19 15:40:42.373957,College Specials - NCAA Tournament Specials - Conference to Win 2023 NCAA Tournament,West Coast Conference,0.013999999999999999,0.0909,0.0769
+2023-03-19 10:40:42.341281,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Make Finals,San Diego State,0.013999999999999999,0.0909,0.0769
 2023-03-19 15:40:42.373957,College Specials - NCAA Tournament Specials - Conference to Win 2023 NCAA Tournament,Any Other Conference,0.012100000000000001,0.0244,0.0123
-2023-03-19 05:41:03.434104,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.011899999999999994,0.25,0.2381
 2023-03-19 05:41:03.434104,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Ron DeSantis,0.011899999999999994,0.25,0.2381
+2023-03-19 05:41:03.434104,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.011899999999999994,0.25,0.2381
 2023-03-19 07:40:52.738014,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - West Region Winner - To Make The Final 4,Connecticut,0.011700000000000016,0.2222,0.2105
 2023-03-19 05:41:04.162542,Hoag Classic - Hoag Classic - Outright,Ernie Els,0.011699999999999999,0.0196,0.0079
-2023-03-19 10:40:49.306867,MLS - MLS 2023 - Winner,New York Red Bulls,0.011199999999999995,0.0588,0.0476
-2023-03-19 10:40:49.306867,MLS - MLS 2023 - Winner,New England Revolution,0.011199999999999995,0.0588,0.0476
-2023-03-19 10:40:49.306867,MLS - MLS 2023 - Winner,Atlanta United,0.011199999999999995,0.0588,0.0476
 2023-03-19 10:40:42.341281,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Make Finals,Kansas State,0.011199999999999995,0.0435,0.0323
+2023-03-19 10:40:49.306867,MLS - MLS 2023 - Winner,New York Red Bulls,0.011199999999999995,0.0588,0.0476
+2023-03-19 10:40:49.306867,MLS - MLS 2023 - Winner,Atlanta United,0.011199999999999995,0.0588,0.0476
+2023-03-19 10:40:49.306867,MLS - MLS 2023 - Winner,New England Revolution,0.011199999999999995,0.0588,0.0476
 2023-03-19 07:40:52.738014,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - West Region Winner - To Make The Final 4,Gonzaga,0.010499999999999982,0.2105,0.2
+2023-03-19 15:40:42.422206,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Reach The Elite 8,Kentucky,0.010299999999999976,0.2667,0.2564
 2023-03-19 06:40:59.795827,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - Midwest Region Winner - To Make The Final 4,Miami Florida,0.0102,0.0769,0.0667
-2023-03-19 10:40:43.802972,NFL Draft '23 - Positional Groups - First Offensive Lineman Selected,Peter Skoronski,-0.010099999999999998,0.4444,0.4545
 2023-03-19 07:40:52.794666,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Jaren Jackson Jr. (MEM),-0.010099999999999998,0.4444,0.4545
+2023-03-19 10:40:43.802972,NFL Draft '23 - Positional Groups - First Offensive Lineman Selected,Peter Skoronski,-0.010099999999999998,0.4444,0.4545
 2023-03-19 10:40:49.532404,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,Belgrano,-0.010100000000000001,0.0244,0.0345
-2023-03-19 10:40:49.377027,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Chivas Guadalajara,-0.0102,0.0667,0.0769
 2023-03-19 15:40:42.391198,College Specials - NCAA Tournament Specials - Seed Number to Win 2023 NCAA Tournament,11,-0.0102,0.005,0.0152
 2023-03-19 10:40:49.306867,MLS - MLS 2023 - Winner,Nashville SC,-0.0102,0.0667,0.0769
+2023-03-19 10:40:49.377027,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Chivas Guadalajara,-0.0102,0.0667,0.0769
+2023-03-19 15:40:42.422206,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Reach The Elite 8,Miami Florida,-0.010899999999999993,0.1429,0.1538
 2023-03-19 10:40:43.795619,NFL Draft '23 - Positional Groups - First Defensive Player Selected,Tyree Wilson,-0.010899999999999993,0.1429,0.1538
 2023-03-19 09:41:07.022568,Round Match-Ups - Final Round Match-Up - J. Rose vs B. Griffin - Final Round Match-Up,Ben Griffin,-0.011099999999999999,0.4651,0.4762
 2023-03-19 10:40:49.532404,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,Defensa y Justicia,-0.011199999999999995,0.0476,0.0588
@@ -106,26 +113,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-19 05:41:04.162542,Hoag Classic - Hoag Classic - Outright,Alex Cejka,-0.011600000000000001,0.0007,0.0123
 2023-03-19 05:41:04.162542,Hoag Classic - Hoag Classic - Outright,John Huston,-0.011699999999999999,0.0079,0.0196
 2023-03-19 05:41:04.162542,Hoag Classic - Hoag Classic - Outright,Retief Goosen,-0.0124,0.0025,0.0149
+2023-03-19 15:40:42.422206,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Reach The Elite 8,Michigan State,-0.0131,0.2222,0.2353
+2023-03-19 15:40:42.422206,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Reach The Elite 8,Kansas State,-0.0131,0.2222,0.2353
 2023-03-19 07:40:52.759539,College Basketball Futures - 2023 NCAA Mens NIT Tournament - Outright Winner,Liberty,-0.013999999999999999,0.0769,0.0909
 2023-03-19 05:41:04.162542,Hoag Classic - Hoag Classic - Outright,Darren Clarke,-0.014099999999999998,0.0244,0.0385
 2023-03-19 15:40:42.391198,College Specials - NCAA Tournament Specials - Seed Number to Win 2023 NCAA Tournament,9,-0.014900000000000004,0.0196,0.0345
+2023-03-19 15:40:42.422206,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Reach The Elite 8,Creighton,-0.015400000000000025,0.3846,0.4
 2023-03-19 05:41:04.162542,Hoag Classic - Hoag Classic - Outright,Thongchai Jaidee,-0.018200000000000004,0.0294,0.0476
 2023-03-19 06:41:05.439203,World Baseball Classic - 2023 World Baseball Classic - Outright,Mexico,-0.01820000000000002,0.1818,0.2
-2023-03-19 03:41:08.032062,Valspar Championship - 2/3 Balls - Final Round 2 Balls - B.H. An v R. Sabbatini - Final Round 2 Balls,Byeong Hun An,-0.018399999999999972,0.6875,0.7059
+2023-03-19 15:40:42.422206,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Reach The Elite 8,Indiana,-0.01820000000000002,0.1818,0.2
 2023-03-19 05:41:04.162542,Hoag Classic - Hoag Classic - Outright,Tim Petrovic,-0.0186,0.001,0.0196
 2023-03-19 05:41:04.162542,Hoag Classic - Hoag Classic - Outright,Padraig Harrington,-0.019600000000000003,0.0149,0.0345
 2023-03-19 07:40:52.794666,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Bam Adebayo (MIA),-0.0203,0.0385,0.0588
-2023-03-19 03:41:08.080380,Valspar Championship - 2/3 Balls - Final Round 2 Balls - G. Higgo v C. Percy - Final Round 2 Balls,Cameron Percy,-0.020699999999999996,0.4444,0.4651
-2023-03-19 04:40:38.124469,Valspar Championship - 2/3 Balls - Final Round 2 Balls - B.H. An v R. Sabbatini - Final Round 2 Balls,Byeong Hun An,-0.02080000000000004,0.6667,0.6875
 2023-03-19 07:40:51.864150,Round Match-Ups - Final Round Match-Up - D. Wu vs P. Kizzire - Final Round Match-Up,Dylan Wu,-0.02169999999999994,0.5238,0.5455
+2023-03-19 15:40:42.422206,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Reach The Elite 8,Xavier,-0.021999999999999964,0.2857,0.3077
 2023-03-19 07:40:51.909018,Round Match-Ups - Final Round Match-Up - T. Moore vs A. Schenk - Final Round Match-Up,Adam Schenk,-0.022699999999999998,0.4651,0.4878
 2023-03-19 05:41:04.162542,Hoag Classic - Hoag Classic - Outright,Vijay Singh,-0.0234,0.001,0.0244
 2023-03-19 05:41:04.162542,Hoag Classic - Hoag Classic - Outright,Chris DiMarco,-0.0236,0.0149,0.0385
 2023-03-19 05:41:04.162542,Hoag Classic - Hoag Classic - Outright,Paul Broadhurst,-0.023700000000000002,0.0007,0.0244
-2023-03-19 10:40:49.433726,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,FC Porto,-0.023799999999999988,0.1429,0.1667
-2023-03-19 07:40:51.818789,Round Match-Ups - Final Round Match-Up - J. Rose vs B. Griffin - Final Round Match-Up,Ben Griffin,-0.023799999999999988,0.4762,0.5
 2023-03-19 09:41:07.137140,Round Match-Ups - Final Round Match-Up - C. Gribble vs Z. Blair - Final Round Match-Up,Cody Gribble,-0.023799999999999988,0.4762,0.5
+2023-03-19 10:40:49.433726,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,FC Porto,-0.023799999999999988,0.1429,0.1667
 2023-03-19 07:40:51.845786,Round Match-Ups - Final Round Match-Up - A. Smalley vs C. Ramey - Final Round Match-Up,Chad Ramey,-0.023799999999999988,0.4762,0.5
+2023-03-19 07:40:51.818789,Round Match-Ups - Final Round Match-Up - J. Rose vs B. Griffin - Final Round Match-Up,Ben Griffin,-0.023799999999999988,0.4762,0.5
 2023-03-19 07:40:51.891361,Round Match-Ups - Final Round Match-Up - C. Gribble vs Z. Blair - Final Round Match-Up,Cody Gribble,-0.023800000000000043,0.5,0.5238
 2023-03-19 05:41:04.162542,Hoag Classic - Hoag Classic - Outright,Scott Verplank,-0.0239,0.0005,0.0244
 2023-03-19 09:41:07.108572,Round Match-Ups - Final Round Match-Up - W. Clark vs D. Riley - Final Round Match-Up,Davis Riley,-0.024399999999999977,0.4878,0.5122
@@ -144,6 +153,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-19 10:40:43.802972,NFL Draft '23 - Positional Groups - First Offensive Lineman Selected,Paris Johnson Jr,-0.0348,0.4,0.4348
 2023-03-19 11:40:55.125743,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - New York Yankees - Aaron Judge - Batting Average,Over .295,-0.03480000000000005,0.5,0.5348
 2023-03-19 05:41:04.162542,Hoag Classic - Hoag Classic - Outright,David Toms,-0.036,0.0025,0.0385
+2023-03-19 15:40:42.422206,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Reach The Elite 8,Gonzaga,-0.03640000000000004,0.3636,0.4
 2023-03-19 15:40:42.373957,College Specials - NCAA Tournament Specials - Conference to Win 2023 NCAA Tournament,Big 12,-0.04040000000000002,0.1818,0.2222
 2023-03-19 07:40:52.759539,College Basketball Futures - 2023 NCAA Mens NIT Tournament - Outright Winner,North Texas,-0.0407,0.0769,0.1176
 2023-03-19 15:40:42.373957,College Specials - NCAA Tournament Specials - Conference to Win 2023 NCAA Tournament,ACC,-0.0409,0.0179,0.0588
