@@ -20,8 +20,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-18 21:41:01.963488,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Seattle Mariners - Robbie Ray - WHIP,Over 1.15,0.04630000000000001,0.6296,0.5833
 2023-03-19 00:41:19.456484,League One - England - League One 2022/23 - To Be Relegated,Oxford United,0.04620000000000002,0.2,0.1538
 2023-03-19 00:41:19.489809,League One - England - League One 2022/23 - Top 6 Finish,Portsmouth,0.04120000000000001,0.1,0.0588
-2023-03-19 00:41:19.567859,League Two - England - League Two 2022/23 - Top 7 Finish,Northampton Town,0.03839999999999999,0.9615,0.9231
 2023-03-19 00:41:19.467750,League One - England - League One 2022/23 - To Finish Bottom,Forest Green Rovers,0.03839999999999999,0.9615,0.9231
+2023-03-19 00:41:19.567859,League Two - England - League Two 2022/23 - Top 7 Finish,Northampton Town,0.03839999999999999,0.9615,0.9231
 2023-03-19 00:41:19.534611,League Two - England - League Two 2022/23 - To Be Relegated,Hartlepool United,0.035699999999999954,0.75,0.7143
 2023-03-18 21:40:59.719439,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Atlanta Braves - Michael Harris Total Stolen Bases,Over 23.5,0.03479999999999994,0.6,0.5652
 2023-03-18 21:41:05.340716,SDC Championship - SDC Championship - Outright,Jens Dantorp,0.0321,0.0909,0.0588
@@ -33,6 +33,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-18 16:41:01.669802,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - Midwest Region Winner - To Make The Final 4,Texas,0.021999999999999964,0.3077,0.2857
 2023-03-19 00:41:19.446419,League One - England - League One 2022/23 - To Be Promoted,Barnsley,0.021999999999999964,0.3077,0.2857
 2023-03-18 21:41:05.340716,SDC Championship - SDC Championship - Outright,Jeong Weon Ko,0.021900000000000003,0.0244,0.0025
+2023-03-19 04:40:38.124469,Valspar Championship - 2/3 Balls - Final Round 2 Balls - B.H. An v R. Sabbatini - Final Round 2 Balls,Rory Sabbatini,0.02030000000000004,0.3774,0.3571
 2023-03-18 20:40:44.390932,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,Tennessee,0.0203,0.0588,0.0385
 2023-03-18 16:41:01.684204,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - East Region Winner - To Make The Final 4,Duke,0.019000000000000017,0.2857,0.2667
 2023-03-19 00:41:19.544520,League Two - England - League Two 2022/23 - To Finish Bottom,Rochdale,0.018999999999999906,0.7333,0.7143
@@ -44,8 +45,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-18 23:40:59.350399,A-League - Australia A-League 2022/23 - Grand Final Winner,Adelaide United,0.015100000000000002,0.1818,0.1667
 2023-03-18 23:40:59.918513,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,Alabama,0.015100000000000002,0.1818,0.1667
 2023-03-18 23:40:59.523490,League One - England - League One 2022/23 - Outright,Ipswich Town,0.015100000000000002,0.1818,0.1667
-2023-03-19 00:41:19.513922,League Two - England - League Two 2022/23 - Outright,Northampton Town,0.014099999999999998,0.0385,0.0244
 2023-03-18 21:41:05.340716,SDC Championship - SDC Championship - Outright,Ross Fisher,0.014099999999999998,0.0435,0.0294
+2023-03-19 00:41:19.513922,League Two - England - League Two 2022/23 - Outright,Northampton Town,0.014099999999999998,0.0385,0.0244
 2023-03-18 23:40:59.523490,League One - England - League One 2022/23 - Outright,Plymouth Argyle,0.013899999999999996,0.125,0.1111
 2023-03-19 02:41:05.099577,SDC Championship - 2/3 Balls - Final Round 3 Balls - D. Brown / C. Syme / R. Cabrera Bello - Final Round 3 Balls,Daniel Brown,0.013600000000000001,0.3077,0.2941
 2023-03-19 00:41:19.544520,League Two - England - League Two 2022/23 - To Finish Bottom,Colchester United,0.0129,0.0149,0.002
@@ -65,19 +66,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-19 00:41:19.446419,League One - England - League One 2022/23 - To Be Promoted,Wycombe,-0.0203,0.0385,0.0588
 2023-03-18 23:40:59.295418,FA Cup - FA Cup 2022/2023 - Winner,Fulham,-0.0203,0.0385,0.0588
 2023-03-19 03:41:08.080380,Valspar Championship - 2/3 Balls - Final Round 2 Balls - G. Higgo v C. Percy - Final Round 2 Balls,Cameron Percy,-0.020699999999999996,0.4444,0.4651
+2023-03-19 04:40:38.124469,Valspar Championship - 2/3 Balls - Final Round 2 Balls - B.H. An v R. Sabbatini - Final Round 2 Balls,Byeong Hun An,-0.02080000000000004,0.6667,0.6875
 2023-03-18 21:41:05.340716,SDC Championship - SDC Championship - Outright,Gavin Green,-0.0211,0.0033,0.0244
 2023-03-18 21:41:05.340716,SDC Championship - SDC Championship - Outright,Albert Venter,-0.0215,0.0079,0.0294
 2023-03-18 16:41:01.684204,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - East Region Winner - To Make The Final 4,Michigan State,-0.022000000000000006,0.0833,0.1053
 2023-03-18 16:41:01.676179,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - West Region Winner - To Make The Final 4,Gonzaga,-0.022199999999999998,0.2,0.2222
-2023-03-19 00:41:19.467750,League One - England - League One 2022/23 - To Finish Bottom,Morecambe,-0.023200000000000002,0.0244,0.0476
 2023-03-18 23:40:59.447802,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Motherwell,-0.023200000000000002,0.0244,0.0476
-2023-03-18 21:41:05.340716,SDC Championship - SDC Championship - Outright,David Ravetto,-0.0236,0.0149,0.0385
+2023-03-19 00:41:19.467750,League One - England - League One 2022/23 - To Finish Bottom,Morecambe,-0.023200000000000002,0.0244,0.0476
 2023-03-18 21:41:05.340716,SDC Championship - SDC Championship - Outright,Rafa Cabrera Bello,-0.0236,0.0149,0.0385
+2023-03-18 21:41:05.340716,SDC Championship - SDC Championship - Outright,David Ravetto,-0.0236,0.0149,0.0385
 2023-03-18 21:41:05.340716,SDC Championship - SDC Championship - Outright,Antoine Rozner,-0.024299999999999995,0.0345,0.0588
 2023-03-18 21:41:05.340716,SDC Championship - SDC Championship - Outright,Nick Bachem,-0.0254,0.004,0.0294
 2023-03-19 00:41:19.567859,League Two - England - League Two 2022/23 - Top 7 Finish,Bradford City,-0.028800000000000048,0.8462,0.875
-2023-03-18 21:41:01.963488,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Seattle Mariners - Robbie Ray - WHIP,Under 1.15,-0.031799999999999995,0.4444,0.4762
 2023-03-19 00:41:19.524635,League Two - England - League Two 2022/23 - To Be Promoted,Stockport County,-0.031799999999999995,0.4444,0.4762
+2023-03-18 21:41:01.963488,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Seattle Mariners - Robbie Ray - WHIP,Under 1.15,-0.031799999999999995,0.4444,0.4762
 2023-03-19 00:41:19.554854,League Two - England - League Two 2022/23 - Top 3 Finish,Bradford City,-0.03259999999999999,0.2,0.2326
 2023-03-18 21:41:05.340716,SDC Championship - SDC Championship - Outright,Ewen Ferguson,-0.03270000000000001,0.0149,0.0476
 2023-03-18 21:40:59.434146,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,Alabama,-0.033300000000000024,0.1667,0.2
