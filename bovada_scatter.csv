@@ -3,6 +3,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-19 00:41:19.456484,League One - England - League One 2022/23 - To Be Relegated,Accrington Stanley,0.19199999999999995,0.6364,0.4444
 2023-03-18 21:41:05.340716,SDC Championship - SDC Championship - Outright,Kristian K. Johannessen,0.1898,0.2667,0.0769
 2023-03-18 21:41:05.340716,SDC Championship - SDC Championship - Outright,Matthew Baldwin,0.18330000000000002,0.25,0.0667
+2023-03-19 06:41:05.439203,World Baseball Classic - 2023 World Baseball Classic - Outright,USA,0.14290000000000003,0.4762,0.3333
+2023-03-19 06:40:59.661789,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Philadelphia 76ers,0.10200000000000001,0.3125,0.2105
 2023-03-18 23:40:59.456313,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,St. Mirren,0.10109999999999997,0.5556,0.4545
 2023-03-18 23:40:59.447802,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Aberdeen,0.09849999999999992,0.9167,0.8182
 2023-03-19 05:41:04.162542,Hoag Classic - Hoag Classic - Outright,Miguel Angel Jimenez,0.0889,0.2,0.1111
@@ -14,6 +16,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-19 05:41:04.162542,Hoag Classic - Hoag Classic - Outright,Brian Gay,0.0713,0.0909,0.0196
 2023-03-18 21:41:05.340716,SDC Championship - SDC Championship - Outright,Daniel Brown,0.06899999999999999,0.0769,0.0079
 2023-03-19 00:41:19.456484,League One - England - League One 2022/23 - To Be Relegated,Cambridge United,0.0635,0.9524,0.8889
+2023-03-19 06:40:59.671948,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Sacramento Kings,0.06309999999999993,0.9722,0.9091
 2023-03-19 00:41:19.567859,League Two - England - League Two 2022/23 - Top 7 Finish,Salford City,0.06190000000000001,0.4255,0.3636
 2023-03-19 05:41:04.162542,Hoag Classic - Hoag Classic - Outright,Fred Couples,0.058300000000000005,0.125,0.0667
 2023-03-18 23:40:59.447802,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Livingston,0.05590000000000006,0.6923,0.6364
@@ -25,12 +28,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-18 21:41:01.963488,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Seattle Mariners - Robbie Ray - WHIP,Over 1.15,0.04630000000000001,0.6296,0.5833
 2023-03-19 00:41:19.456484,League One - England - League One 2022/23 - To Be Relegated,Oxford United,0.04620000000000002,0.2,0.1538
 2023-03-19 00:41:19.489809,League One - England - League One 2022/23 - Top 6 Finish,Portsmouth,0.04120000000000001,0.1,0.0588
-2023-03-19 00:41:19.567859,League Two - England - League Two 2022/23 - Top 7 Finish,Northampton Town,0.03839999999999999,0.9615,0.9231
 2023-03-19 00:41:19.467750,League One - England - League One 2022/23 - To Finish Bottom,Forest Green Rovers,0.03839999999999999,0.9615,0.9231
+2023-03-19 00:41:19.567859,League Two - England - League Two 2022/23 - Top 7 Finish,Northampton Town,0.03839999999999999,0.9615,0.9231
 2023-03-19 00:41:19.534611,League Two - England - League Two 2022/23 - To Be Relegated,Hartlepool United,0.035699999999999954,0.75,0.7143
 2023-03-18 21:40:59.719439,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Atlanta Braves - Michael Harris Total Stolen Bases,Over 23.5,0.03479999999999994,0.6,0.5652
 2023-03-18 21:41:05.340716,SDC Championship - SDC Championship - Outright,Jens Dantorp,0.0321,0.0909,0.0588
 2023-03-18 23:40:59.350399,A-League - Australia A-League 2022/23 - Grand Final Winner,Western Sydney Wanderers,0.028799999999999992,0.1538,0.125
+2023-03-19 06:41:05.439203,World Baseball Classic - 2023 World Baseball Classic - Outright,Japan,0.028600000000000014,0.3922,0.3636
 2023-03-19 00:41:19.446419,League One - England - League One 2022/23 - To Be Promoted,Plymouth Argyle,0.027700000000000058,0.5833,0.5556
 2023-03-18 23:40:59.439068,Premiership - Scotland Premiership 2022/23 - To Finish Bottom,Ross County,0.02560000000000001,0.3333,0.3077
 2023-03-19 00:41:19.534611,League Two - England - League Two 2022/23 - To Be Relegated,Rochdale,0.0242,0.9333,0.9091
@@ -40,12 +44,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-18 20:40:44.390932,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,Tennessee,0.0203,0.0588,0.0385
 2023-03-19 00:41:19.544520,League Two - England - League Two 2022/23 - To Finish Bottom,Rochdale,0.018999999999999906,0.7333,0.7143
 2023-03-18 21:40:59.434146,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,Tennessee,0.018099999999999998,0.0769,0.0588
+2023-03-19 06:41:05.439203,World Baseball Classic - 2023 World Baseball Classic - Outright,Cuba,0.018099999999999998,0.0769,0.0588
 2023-03-19 03:41:08.032062,Valspar Championship - 2/3 Balls - Final Round 2 Balls - B.H. An v R. Sabbatini - Final Round 2 Balls,Rory Sabbatini,0.01809999999999995,0.3571,0.339
 2023-03-19 00:41:19.554854,League Two - England - League Two 2022/23 - Top 3 Finish,Stevenage,0.017900000000000027,0.875,0.8571
-2023-03-18 21:41:04.579949,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Arsenal,0.016699999999999937,0.6,0.5833
 2023-03-19 03:41:08.080380,Valspar Championship - 2/3 Balls - Final Round 2 Balls - G. Higgo v C. Percy - Final Round 2 Balls,Garrick Higgo,0.016699999999999937,0.6,0.5833
-2023-03-18 23:40:59.350399,A-League - Australia A-League 2022/23 - Grand Final Winner,Adelaide United,0.015100000000000002,0.1818,0.1667
+2023-03-18 21:41:04.579949,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Arsenal,0.016699999999999937,0.6,0.5833
 2023-03-18 23:40:59.523490,League One - England - League One 2022/23 - Outright,Ipswich Town,0.015100000000000002,0.1818,0.1667
+2023-03-18 23:40:59.350399,A-League - Australia A-League 2022/23 - Grand Final Winner,Adelaide United,0.015100000000000002,0.1818,0.1667
 2023-03-18 23:40:59.918513,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,Alabama,0.015100000000000002,0.1818,0.1667
 2023-03-18 21:41:05.340716,SDC Championship - SDC Championship - Outright,Ross Fisher,0.014099999999999998,0.0435,0.0294
 2023-03-19 00:41:19.513922,League Two - England - League Two 2022/23 - Outright,Northampton Town,0.014099999999999998,0.0385,0.0244
@@ -67,6 +72,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-18 23:40:59.447802,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,St. Johnstone,-0.013999999999999999,0.0769,0.0909
 2023-03-19 05:41:04.162542,Hoag Classic - Hoag Classic - Outright,Darren Clarke,-0.014099999999999998,0.0244,0.0385
 2023-03-19 05:41:04.162542,Hoag Classic - Hoag Classic - Outright,Thongchai Jaidee,-0.018200000000000004,0.0294,0.0476
+2023-03-19 06:41:05.439203,World Baseball Classic - 2023 World Baseball Classic - Outright,Mexico,-0.01820000000000002,0.1818,0.2
 2023-03-19 03:41:08.032062,Valspar Championship - 2/3 Balls - Final Round 2 Balls - B.H. An v R. Sabbatini - Final Round 2 Balls,Byeong Hun An,-0.018399999999999972,0.6875,0.7059
 2023-03-19 05:41:04.162542,Hoag Classic - Hoag Classic - Outright,Tim Petrovic,-0.0186,0.001,0.0196
 2023-03-19 05:41:04.162542,Hoag Classic - Hoag Classic - Outright,Padraig Harrington,-0.019600000000000003,0.0149,0.0345
@@ -80,9 +86,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-19 00:41:19.467750,League One - England - League One 2022/23 - To Finish Bottom,Morecambe,-0.023200000000000002,0.0244,0.0476
 2023-03-18 23:40:59.447802,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,Motherwell,-0.023200000000000002,0.0244,0.0476
 2023-03-19 05:41:04.162542,Hoag Classic - Hoag Classic - Outright,Vijay Singh,-0.0234,0.001,0.0244
-2023-03-18 21:41:05.340716,SDC Championship - SDC Championship - Outright,David Ravetto,-0.0236,0.0149,0.0385
-2023-03-19 05:41:04.162542,Hoag Classic - Hoag Classic - Outright,Chris DiMarco,-0.0236,0.0149,0.0385
 2023-03-18 21:41:05.340716,SDC Championship - SDC Championship - Outright,Rafa Cabrera Bello,-0.0236,0.0149,0.0385
+2023-03-19 05:41:04.162542,Hoag Classic - Hoag Classic - Outright,Chris DiMarco,-0.0236,0.0149,0.0385
+2023-03-18 21:41:05.340716,SDC Championship - SDC Championship - Outright,David Ravetto,-0.0236,0.0149,0.0385
 2023-03-19 05:41:04.162542,Hoag Classic - Hoag Classic - Outright,Paul Broadhurst,-0.023700000000000002,0.0007,0.0244
 2023-03-19 05:41:04.162542,Hoag Classic - Hoag Classic - Outright,Scott Verplank,-0.0239,0.0005,0.0244
 2023-03-18 21:41:05.340716,SDC Championship - SDC Championship - Outright,Antoine Rozner,-0.024299999999999995,0.0345,0.0588
@@ -90,6 +96,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-18 21:41:05.340716,SDC Championship - SDC Championship - Outright,Nick Bachem,-0.0254,0.004,0.0294
 2023-03-19 00:41:19.567859,League Two - England - League Two 2022/23 - Top 7 Finish,Bradford City,-0.028800000000000048,0.8462,0.875
 2023-03-19 05:41:04.162542,Hoag Classic - Hoag Classic - Outright,Mike Weir,-0.0294,0.0294,0.0588
+2023-03-19 06:40:59.671948,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Los Angeles Clippers,-0.0313,0.001,0.0323
 2023-03-18 21:41:01.963488,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Seattle Mariners - Robbie Ray - WHIP,Under 1.15,-0.031799999999999995,0.4444,0.4762
 2023-03-19 00:41:19.524635,League Two - England - League Two 2022/23 - To Be Promoted,Stockport County,-0.031799999999999995,0.4444,0.4762
 2023-03-19 00:41:19.554854,League Two - England - League Two 2022/23 - Top 3 Finish,Bradford City,-0.03259999999999999,0.2,0.2326
@@ -106,6 +113,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-18 21:41:05.340716,SDC Championship - SDC Championship - Outright,Connor Syme,-0.0451,0.0025,0.0476
 2023-03-18 21:41:02.389353,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Toronto Blue Jays - Alek Manoah - WHIP,Over 1.10,-0.04700000000000004,0.4878,0.5348
 2023-03-19 00:41:19.446419,League One - England - League One 2022/23 - To Be Promoted,Derby County,-0.047599999999999976,0.2857,0.3333
+2023-03-19 06:40:59.671948,2022/23 Divisions - 2022-2023 NBA Pacific Division - Division Winner,Phoenix Suns,-0.0509,0.0667,0.1176
 2023-03-18 23:40:59.456313,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Livingston,-0.05980000000000002,0.3846,0.4444
 2023-03-19 00:41:19.534611,League Two - England - League Two 2022/23 - To Be Relegated,Crawley Town,-0.06670000000000004,0.3333,0.4
 2023-03-19 00:41:19.456484,League One - England - League One 2022/23 - To Be Relegated,Cheltenham Town,-0.0756,0.0244,0.1
@@ -113,6 +121,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-18 23:40:59.447802,Premiership - Scotland Premiership 2022/23 - Top 6 Finish,St. Mirren,-0.0988,0.5238,0.6226
 2023-03-19 00:41:19.456484,League One - England - League One 2022/23 - To Be Relegated,Burton Albion,-0.1049,0.0769,0.1818
 2023-03-18 23:40:59.456313,Premiership - Scotland Premiership 2022/23 - Bottom 6 Finish,Aberdeen,-0.1071,0.1429,0.25
+2023-03-19 06:40:59.661789,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Boston Celtics,-0.1129,0.7333,0.8462
 2023-03-19 05:41:04.162542,Hoag Classic - Hoag Classic - Outright,Steve Stricker,-0.1336,0.0769,0.2105
 2023-03-18 21:41:05.340716,SDC Championship - SDC Championship - Outright,Julien Brun,-0.1746,0.0476,0.2222
 2023-03-19 00:41:19.456484,League One - England - League One 2022/23 - To Be Relegated,Milton Keynes Dons,-0.19710000000000005,0.4255,0.6226
