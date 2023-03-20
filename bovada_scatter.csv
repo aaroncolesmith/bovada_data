@@ -16,7 +16,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-19 17:40:50.131784,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - South Region Winner - To Make The Final 4,Alabama,0.03179999999999994,0.5556,0.5238
 2023-03-19 17:40:50.123257,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,Alabama,0.031700000000000006,0.2222,0.1905
 2023-03-19 15:40:42.391198,College Specials - NCAA Tournament Specials - Seed Number to Win 2023 NCAA Tournament,4,0.028799999999999992,0.1538,0.125
-2023-03-19 13:40:56.863953,WNCAA - 2023 NCAA Women's Tournament - National Champion,South Carolina (W),0.025600000000000067,0.6923,0.6667
 2023-03-19 17:40:50.144898,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - West Region Winner - To Make The Final 4,UCLA,0.02560000000000001,0.3333,0.3077
 2023-03-19 21:40:43.817934,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,Kansas State,0.0206,0.0385,0.0179
 2023-03-19 15:40:42.422206,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Reach The Elite 8,Saint Mary's CA,0.01999999999999999,0.2105,0.1905
@@ -26,6 +25,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-19 23:40:37.073091,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,Creighton,0.014899999999999997,0.0625,0.0476
 2023-03-19 15:40:42.391198,College Specials - NCAA Tournament Specials - Seed Number to Win 2023 NCAA Tournament,2,0.01469999999999999,0.25,0.2353
 2023-03-19 15:40:42.422206,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Reach The Elite 8,Connecticut,0.01419999999999999,0.3846,0.3704
+2023-03-20 00:40:47.224382,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,Connecticut,0.013999999999999999,0.0909,0.0769
 2023-03-19 15:40:42.373957,College Specials - NCAA Tournament Specials - Conference to Win 2023 NCAA Tournament,West Coast Conference,0.013999999999999999,0.0909,0.0769
 2023-03-19 23:40:41.593536,A-League - Australia A-League 2022/23 - Grand Final Winner,Western Sydney Wanderers,0.012899999999999995,0.1667,0.1538
 2023-03-19 15:40:42.373957,College Specials - NCAA Tournament Specials - Conference to Win 2023 NCAA Tournament,Any Other Conference,0.012100000000000001,0.0244,0.0123
@@ -34,14 +34,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-19 15:40:42.391198,College Specials - NCAA Tournament Specials - Seed Number to Win 2023 NCAA Tournament,11,-0.0102,0.005,0.0152
 2023-03-19 17:40:50.123257,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,Arkansas,-0.010700000000000001,0.0278,0.0385
 2023-03-19 15:40:42.422206,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Reach The Elite 8,Miami Florida,-0.010899999999999993,0.1429,0.1538
-2023-03-19 17:40:50.123257,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,Baylor,-0.011199999999999995,0.0476,0.0588
 2023-03-19 17:40:50.123257,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,Kentucky,-0.011199999999999995,0.0323,0.0435
+2023-03-19 17:40:50.123257,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,Baylor,-0.011199999999999995,0.0476,0.0588
 2023-03-19 17:40:50.144898,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - West Region Winner - To Make The Final 4,Connecticut,-0.011700000000000016,0.2105,0.2222
 2023-03-19 17:40:50.158728,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - East Region Winner - To Make The Final 4,Kansas State,-0.012299999999999991,0.1053,0.1176
-2023-03-19 15:40:42.422206,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Reach The Elite 8,Michigan State,-0.0131,0.2222,0.2353
 2023-03-19 15:40:42.422206,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Reach The Elite 8,Kansas State,-0.0131,0.2222,0.2353
+2023-03-19 15:40:42.422206,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Reach The Elite 8,Michigan State,-0.0131,0.2222,0.2353
 2023-03-19 17:40:50.123257,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,Florida Atlantic,-0.014900000000000004,0.0196,0.0345
 2023-03-19 15:40:42.391198,College Specials - NCAA Tournament Specials - Seed Number to Win 2023 NCAA Tournament,9,-0.014900000000000004,0.0196,0.0345
+2023-03-20 00:40:47.224382,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,Baylor,-0.015300000000000001,0.0323,0.0476
 2023-03-19 15:40:42.422206,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Reach The Elite 8,Creighton,-0.015400000000000025,0.3846,0.4
 2023-03-19 17:40:50.158728,College Basketball Futures - 2023 NCAA DI Men's Basketball Tournament - East Region Winner - To Make The Final 4,Michigan State,-0.01759999999999999,0.1,0.1176
 2023-03-19 17:40:50.123257,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,Tennessee,-0.018099999999999998,0.0588,0.0769
