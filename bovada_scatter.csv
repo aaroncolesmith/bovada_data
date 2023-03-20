@@ -5,14 +5,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-20 13:40:51.888254,UEFA Champions League - UEFA Champions League 2022/2023 - Furthest Progressing EPL Team,Chelsea,0.16359999999999997,0.3636,0.2
 2023-03-20 12:40:59.177892,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Leeds United,0.15150000000000008,0.8182,0.6667
 2023-03-20 13:40:51.875274,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Inter Milan,0.1417,0.2326,0.0909
-2023-03-20 10:40:39.378292,League Two - England - League Two 2022/23 - Top Goalscorer,Andy Cook,0.14100000000000001,0.8333,0.6923
-2023-03-20 10:40:39.045030,1. Bundesliga - Germany Bundesliga 2022/23 - Winner without Bayern Munich,Borussia Dortmund,0.125,0.875,0.75
-2023-03-20 10:40:39.050828,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,VfB Stuttgart,0.11430000000000001,0.4,0.2857
 2023-03-20 21:40:59.187020,Donald Trump Specials - Trump Specials - Trump Specials,Donald Trump to be arrested on Tuesday 21st March 2023 in relation to campaign finance/falsifying business records,0.11430000000000001,0.4,0.2857
 2023-03-20 13:40:51.875274,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Benfica,0.1076,0.2326,0.125
-2023-03-20 10:40:39.329707,League One - England - League One 2022/23 - Top Goalscorer,Jonson Clarke-Harris,0.10000000000000009,0.8333,0.7333
-2023-03-20 10:40:39.050828,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Hertha BSC,0.09999999999999998,0.6,0.5
-2023-03-20 10:40:39.056671,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Union Berlin,0.0917,0.7143,0.6226
 2023-03-20 12:40:58.511464,La Liga - Spain La Liga 2022/23 - To Be Relegated,Espanyol,0.0842,0.3509,0.2667
 2023-03-20 11:41:00.695621,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Wolverhampton Wanderers,0.07880000000000001,0.2326,0.1538
 2023-03-20 12:40:58.503493,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Enes Unal (Getafe),0.0749,0.0769,0.002
@@ -26,142 +20,96 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-20 14:41:39.554427,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Make Finals,Connecticut,0.05679999999999999,0.1818,0.125
 2023-03-20 12:40:58.511464,La Liga - Spain La Liga 2022/23 - To Be Relegated,Almería,0.05559999999999998,0.5,0.4444
 2023-03-20 13:40:51.875274,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,AC Milan,0.052000000000000005,0.1429,0.0909
-2023-03-20 10:40:39.050828,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Schalke 04,0.050000000000000044,0.8,0.75
 2023-03-20 12:40:51.786911,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Domitila Barros,0.04999999999999999,0.25,0.2
 2023-03-20 12:40:51.786911,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Amanda,0.047599999999999976,0.3333,0.2857
 2023-03-20 12:40:58.486661,La Liga - Spain La Liga 2022/23 - Winner,FC Barcelona,0.04710000000000003,0.9804,0.9333
 2023-03-20 14:41:39.512867,College Specials - NCAA Tournament Specials - Seed Number to Win 2023 NCAA Tournament,4,0.04620000000000002,0.2,0.1538
-2023-03-20 10:40:39.000354,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Troyes,0.04169999999999996,0.875,0.8333
 2023-03-20 12:40:51.336543,Donald Trump Specials - Trump Specials - Trump Specials,Donald Trump to be arrested on Tuesday 21st March 2023 in relation to campaign finance/falsifying business records,0.04040000000000002,0.2222,0.1818
 2023-03-20 11:41:00.701023,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Bournemouth,0.03920000000000001,0.3333,0.2941
 2023-03-20 20:41:01.675499,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Joel Embiid (PHI),0.03710000000000002,0.6923,0.6552
 2023-03-20 11:41:00.695621,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Bournemouth,0.036900000000000044,0.6369,0.6
 2023-03-20 14:41:39.554427,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Make Finals,Michigan State,0.0334,0.0769,0.0435
-2023-03-20 10:40:39.329707,League One - England - League One 2022/23 - Top Goalscorer,Colby Bishop,0.03330000000000001,0.1,0.0667
 2023-03-20 11:40:53.290003,Donald Trump Specials - Trump Specials - Trump Specials,Manhattan DA to indict Donald Trump in 2023 in relation to campaign finance/falsifying business records,0.033299999999999996,0.8333,0.8
-2023-03-20 10:40:38.993074,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Wissam Ben Yedder,0.0321,0.0909,0.0588
-2023-03-20 10:40:38.987202,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Lens,0.030299999999999994,0.3636,0.3333
+2023-03-20 22:40:45.855725,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Outright Winner 2023,Israel,0.029299999999999993,0.0769,0.0476
 2023-03-20 11:41:00.701023,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Nottingham Forest,0.028799999999999992,0.1538,0.125
-2023-03-20 10:40:39.056671,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Bayer Leverkusen,0.028000000000000004,0.0476,0.0196
 2023-03-20 12:40:58.511464,La Liga - Spain La Liga 2022/23 - To Be Relegated,Valencia,0.024999999999999994,0.125,0.1
-2023-03-20 10:40:39.006224,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Rennes,0.024999999999999994,0.125,0.1
 2023-03-20 14:41:39.554427,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Make Finals,Xavier,0.024,0.0625,0.0385
-2023-03-20 10:40:38.987202,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Rennes,0.023899999999999998,0.0435,0.0196
 2023-03-20 13:40:45.499078,Donald Trump Specials - Trump Specials - Trump Specials,Manhattan DA to indict Donald Trump in 2023 in relation to campaign finance/falsifying business records,0.023799999999999932,0.8571,0.8333
-2023-03-20 10:40:39.056671,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Wolfsburg,0.023200000000000002,0.0526,0.0294
-2023-03-20 13:40:45.815122,Disney Specials - Next Disney CEO - Next Disney CEO After Bob Iger,Christine McCarthy,0.02310000000000001,0.1,0.0769
 2023-03-20 12:40:58.511464,La Liga - Spain La Liga 2022/23 - To Be Relegated,Sevilla,0.02310000000000001,0.1,0.0769
+2023-03-20 13:40:45.815122,Disney Specials - Next Disney CEO - Next Disney CEO After Bob Iger,Christine McCarthy,0.02310000000000001,0.1,0.0769
 2023-03-20 14:41:39.493060,College Specials - NCAA Tournament Specials - Conference to Win 2023 NCAA Tournament,AAC,0.022199999999999998,0.2222,0.2
 2023-03-20 12:40:59.169700,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Brighton & Hove Albion,0.02169999999999994,0.5455,0.5238
-2023-03-20 10:40:38.993074,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Folarin Balogun,0.0203,0.0588,0.0385
 2023-03-20 13:40:45.499078,Donald Trump Specials - Trump Specials - Trump Specials,Donald Trump to win the 2024 US presidential election and be the defendant in a criminal trial during the term of office,0.0203,0.0588,0.0385
 2023-03-20 12:40:59.169700,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Brentford,0.0203,0.0588,0.0385
-2023-03-20 10:40:39.045030,1. Bundesliga - Germany Bundesliga 2022/23 - Winner without Bayern Munich,Union Berlin,0.02020000000000001,0.1111,0.0909
 2023-03-20 14:41:39.554427,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Make Finals,Miami Florida,0.019800000000000005,0.0476,0.0278
 2023-03-20 12:40:58.765994,UEFA Champions League - UEFA Champions League 2022/2023 - Nationality of Winner,Portugal,0.019099999999999992,0.0667,0.0476
 2023-03-20 14:41:39.554427,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Make Finals,Kansas State,0.019000000000000003,0.0625,0.0435
-2023-03-20 10:40:39.033492,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Niclas Fullkrug,0.018900000000000028,0.4444,0.4255
-2023-03-20 12:40:58.519281,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Real Sociedad,0.01880000000000004,0.5744,0.5556
 2023-03-20 21:41:00.334201,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Brook Lopez (MIL),0.01880000000000004,0.6552,0.6364
+2023-03-20 12:40:58.519281,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Real Sociedad,0.01880000000000004,0.5744,0.5556
 2023-03-20 14:41:39.493060,College Specials - NCAA Tournament Specials - Conference to Win 2023 NCAA Tournament,Big East,0.01820000000000002,0.2,0.1818
-2023-03-20 11:41:00.701023,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Wolverhampton Wanderers,0.018200000000000004,0.0476,0.0294
-2023-03-20 10:40:39.050828,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,FC Köln,0.018200000000000004,0.0476,0.0294
 2023-03-20 12:40:58.503493,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Iago Aspas (Celta de Vigo),0.018200000000000004,0.0476,0.0294
+2023-03-20 11:41:00.701023,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Wolverhampton Wanderers,0.018200000000000004,0.0476,0.0294
 2023-03-20 14:41:39.512867,College Specials - NCAA Tournament Specials - Seed Number to Win 2023 NCAA Tournament,1,0.018100000000000005,0.4348,0.4167
-2023-03-20 10:40:38.993074,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Alexandre Lacazette,0.018099999999999998,0.0769,0.0588
 2023-03-20 11:41:00.701023,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Leeds United,0.0179,0.1429,0.125
 2023-03-20 11:41:00.701023,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Southampton,0.017600000000000005,0.3509,0.3333
 2023-03-20 12:40:58.519281,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Villarreal,0.016699999999999993,0.2667,0.25
 2023-03-20 12:40:59.177892,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,West Ham United,0.015900000000000025,0.8621,0.8462
 2023-03-20 14:41:39.554427,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Make Finals,Gonzaga,0.015700000000000006,0.1333,0.1176
 2023-03-20 11:40:53.290003,Donald Trump Specials - Trump Specials - Trump Specials,Donald Trump to be arrested on Tuesday 21st March 2023 in relation to campaign finance/falsifying business records,0.015100000000000002,0.1818,0.1667
-2023-03-20 10:40:39.216064,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,Benfica,0.014900000000000024,0.9524,0.9375
 2023-03-20 12:40:59.118248,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Erling Haaland,0.014100000000000001,0.9756,0.9615
 2023-03-20 21:41:00.322191,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Mike Brown,0.014000000000000012,0.9231,0.9091
 2023-03-20 14:41:39.512867,College Specials - NCAA Tournament Specials - Seed Number to Win 2023 NCAA Tournament,6,0.013999999999999999,0.0909,0.0769
-2023-03-20 10:40:39.000354,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,AC Ajaccio,0.013900000000000023,0.8889,0.875
+2023-03-20 12:40:58.495098,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Real Sociedad,0.012899999999999995,0.1667,0.1538
 2023-03-20 11:41:00.695621,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Crystal Palace,0.012899999999999995,0.1667,0.1538
 2023-03-20 12:40:51.786911,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Aline Wirley,0.012899999999999995,0.1667,0.1538
-2023-03-20 12:40:58.495098,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Real Sociedad,0.012899999999999995,0.1667,0.1538
 2023-03-20 12:40:59.177892,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Leicester City,0.012899999999999912,0.8462,0.8333
 2023-03-20 12:40:59.169700,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Aston Villa,0.012700000000000003,0.0323,0.0196
-2023-03-20 10:40:39.000354,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Brest,0.012699999999999989,0.3636,0.3509
-2023-03-20 10:40:39.006224,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Monaco,0.012699999999999989,0.3636,0.3509
 2023-03-20 12:40:59.177892,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Everton,0.011499999999999955,0.6667,0.6552
 2023-03-20 11:41:00.701023,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,West Ham United,0.011199999999999995,0.0588,0.0476
-2023-03-20 10:40:39.167254,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,CF Pachuca,0.011099999999999999,0.1111,0.1
 2023-03-20 14:41:39.512867,College Specials - NCAA Tournament Specials - Seed Number to Win 2023 NCAA Tournament,7,0.010600000000000002,0.0323,0.0217
-2023-03-20 10:40:39.167254,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Club León,0.0102,0.0769,0.0667
-2023-03-20 10:40:39.033492,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Marcus Thuram,0.0102,0.0769,0.0667
 2023-03-20 21:41:00.322191,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Tom Thibodeau,-0.0102,0.0667,0.0769
-2023-03-20 10:40:38.980959,Ligue 1 - France Ligue 1 2022/23 - Winner,Monaco,-0.013,0.0066,0.0196
-2023-03-20 10:40:39.378292,League Two - England - League Two 2022/23 - Top Goalscorer,Kyle Wootton,-0.013,0.0066,0.0196
-2023-03-20 10:40:39.329707,League One - England - League One 2022/23 - Top Goalscorer,Freddie Ladapo,-0.013,0.0066,0.0196
 2023-03-20 11:41:00.695621,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leicester City,-0.0131,0.2222,0.2353
 2023-03-20 14:41:39.554427,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Make Finals,Arkansas,-0.013999999999999999,0.0769,0.0909
-2023-03-20 10:40:39.039209,1. Bundesliga - Germany Bundesliga 2022/23 - Winner,RB Leipzig,-0.014499999999999999,0.0149,0.0294
-2023-03-20 10:40:39.378292,League Two - England - League Two 2022/23 - Top Goalscorer,Danny Johnson,-0.0145,0.0099,0.0244
-2023-03-20 10:40:39.329707,League One - England - League One 2022/23 - Top Goalscorer,Ryan Hardie,-0.0145,0.0099,0.0244
-2023-03-20 10:40:39.000354,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Montpellier,-0.014599999999999998,0.005,0.0196
 2023-03-20 14:41:39.554427,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Make Finals,Texas,-0.015100000000000002,0.1667,0.1818
 2023-03-20 20:41:01.688333,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Immanuel Quickley (NYK),-0.015400000000000025,0.3846,0.4
 2023-03-20 14:41:39.493060,College Specials - NCAA Tournament Specials - Conference to Win 2023 NCAA Tournament,Pac-12,-0.01759999999999999,0.1,0.1176
 2023-03-20 13:40:51.864886,UEFA Champions League - UEFA Champions League 2022/2023 - Top Goalscorer,Olivier Giroud (AC Milan),-0.017800000000000003,0.0066,0.0244
 2023-03-20 12:40:59.161534,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Manchester United,-0.017900000000000027,0.8571,0.875
-2023-03-20 10:40:39.000354,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Nantes,-0.018200000000000004,0.0294,0.0476
-2023-03-20 10:40:39.033492,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Christopher Nkunku,-0.01820000000000002,0.1818,0.2
 2023-03-20 21:41:00.334201,NBA Awards - 2022/23 NBA Awards - 2022/23 The Defensive Player of the Year,Jaren Jackson Jr. (MEM),-0.018900000000000028,0.4255,0.4444
 2023-03-20 20:41:01.688333,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Malik Monk (SAC),-0.019099999999999992,0.0476,0.0667
 2023-03-20 11:41:00.701023,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Everton,-0.02020000000000001,0.0909,0.1111
 2023-03-20 14:41:39.493060,College Specials - NCAA Tournament Specials - Conference to Win 2023 NCAA Tournament,Big Ten,-0.0203,0.0323,0.0526
-2023-03-20 10:40:39.000354,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Strasbourg,-0.02100000000000002,0.3636,0.3846
-2023-03-20 10:40:38.993074,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Jonathan David,-0.021999999999999964,0.2857,0.3077
 2023-03-20 11:41:00.695621,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,West Ham United,-0.022199999999999998,0.2,0.2222
 2023-03-20 12:40:58.765994,UEFA Champions League - UEFA Champions League 2022/2023 - Nationality of Winner,Spain,-0.023799999999999988,0.1429,0.1667
-2023-03-20 10:40:39.329707,League One - England - League One 2022/23 - Top Goalscorer,David McGoldrick,-0.0242,0.0667,0.0909
 2023-03-20 12:40:58.503493,La Liga - Spain La Liga 2022/23 - Top Goalscorer,Karim Benzema (Real Madrid),-0.024999999999999994,0.1,0.125
 2023-03-20 11:41:00.695621,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Everton,-0.025499999999999967,0.4,0.4255
 2023-03-20 12:40:59.161534,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Liverpool,-0.02560000000000001,0.3077,0.3333
-2023-03-20 10:40:39.006224,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Lens,-0.025600000000000067,0.6667,0.6923
 2023-03-20 14:41:39.554427,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness - To Make Finals,San Diego State,-0.028399999999999995,0.0625,0.0909
-2023-03-20 10:40:39.329707,League One - England - League One 2022/23 - Top Goalscorer,Aaron Collins,-0.0294,0.0294,0.0588
-2023-03-20 10:40:39.329707,League One - England - League One 2022/23 - Top Goalscorer,Dion Charles,-0.0294,0.0294,0.0588
 2023-03-20 12:40:59.177892,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Bournemouth,-0.031799999999999995,0.4444,0.4762
-2023-03-20 10:40:39.216064,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,FC Porto,-0.031799999999999995,0.1111,0.1429
 2023-03-20 14:41:39.512867,College Specials - NCAA Tournament Specials - Seed Number to Win 2023 NCAA Tournament,5,-0.0321,0.0588,0.0909
 2023-03-20 12:40:59.118248,Premier League Futures/Specials - English Premier League 2022/23 - Top Goalscorer,Harry Kane,-0.0321,0.0588,0.0909
 2023-03-20 12:40:59.169700,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Tottenham Hotspur,-0.033299999999999996,0.8,0.8333
 2023-03-20 21:41:08.898052,World Baseball Classic - 2023 World Baseball Classic - Outright,Mexico,-0.033399999999999985,0.1333,0.1667
 2023-03-20 12:40:59.152942,Premier League Futures/Specials - English Premier League 2022/23 - Top 2 Finish,Manchester United,-0.03420000000000001,0.0769,0.1111
-2023-03-20 10:40:38.987202,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Marseille,-0.03639999999999999,0.6,0.6364
 2023-03-20 20:41:01.675499,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Nikola Jokic (DEN),-0.04099999999999998,0.2667,0.3077
-2023-03-20 10:40:39.329707,League One - England - League One 2022/23 - Top Goalscorer,Conor Chaplin,-0.04329999999999999,0.0476,0.0909
+2023-03-20 22:40:45.644899,Donald Trump Specials - Trump Specials - Trump Specials,Donald Trump to be extradited from Florida to New York in 2023,-0.047599999999999976,0.2857,0.3333
 2023-03-20 14:41:39.512867,College Specials - NCAA Tournament Specials - Seed Number to Win 2023 NCAA Tournament,2,-0.04999999999999999,0.2,0.25
 2023-03-20 13:40:51.875274,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Real Madrid,-0.05310000000000001,0.2326,0.2857
 2023-03-20 12:40:58.511464,La Liga - Spain La Liga 2022/23 - To Be Relegated,Cádiz,-0.05559999999999998,0.4444,0.5
 2023-03-20 13:40:51.875274,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Chelsea,-0.05679999999999999,0.125,0.1818
 2023-03-20 14:41:39.493060,College Specials - NCAA Tournament Specials - Conference to Win 2023 NCAA Tournament,Big 12,-0.05679999999999999,0.125,0.1818
 2023-03-20 14:41:39.521297,College Specials - NCAA Tournament Specials - Team to Advance Further in Bracket- Houston vs Alabama,Houston,-0.05860000000000004,0.4762,0.5348
-2023-03-20 12:40:58.765994,UEFA Champions League - UEFA Champions League 2022/2023 - Nationality of Winner,England,-0.06190000000000001,0.3636,0.4255
 2023-03-20 12:40:59.161534,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Tottenham Hotspur,-0.06190000000000001,0.3636,0.4255
-2023-03-20 10:40:39.000354,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,AJ Auxerre,-0.06659999999999999,0.6667,0.7333
+2023-03-20 12:40:58.765994,UEFA Champions League - UEFA Champions League 2022/2023 - Nationality of Winner,England,-0.06190000000000001,0.3636,0.4255
 2023-03-20 12:40:59.177892,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Wolverhampton Wanderers,-0.06669999999999998,0.8333,0.9
-2023-03-20 10:40:39.056671,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Eintracht Frankfurt,-0.06820000000000001,0.1818,0.25
 2023-03-20 12:40:59.177892,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Nottingham Forest,-0.07189999999999996,0.5833,0.6552
-2023-03-20 10:40:39.378292,League Two - England - League Two 2022/23 - Top Goalscorer,Kristian Dennis,-0.0726,0.0385,0.1111
-2023-03-20 10:40:39.050828,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Hoffenheim,-0.07400000000000001,0.3704,0.4444
 2023-03-20 12:40:59.169700,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Chelsea,-0.07500000000000001,0.125,0.2
 2023-03-20 12:40:58.486661,La Liga - Spain La Liga 2022/23 - Winner,Real Madrid,-0.0774,0.0476,0.125
-2023-03-20 10:40:39.056671,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,RB Leipzig,-0.08889999999999998,0.8,0.8889
-2023-03-20 10:40:39.039209,1. Bundesliga - Germany Bundesliga 2022/23 - Winner,Bayern Munich,-0.09999999999999998,0.8,0.9
 2023-03-20 12:40:58.765994,UEFA Champions League - UEFA Champions League 2022/2023 - Nationality of Winner,Germany,-0.11109999999999998,0.2222,0.3333
-2023-03-20 10:40:39.378292,League Two - England - League Two 2022/23 - Top Goalscorer,Sam Hoskins,-0.11109999999999998,0.2222,0.3333
-2023-03-20 10:40:39.045030,1. Bundesliga - Germany Bundesliga 2022/23 - Winner without Bayern Munich,RB Leipzig,-0.125,0.125,0.25
 2023-03-20 12:40:58.511464,La Liga - Spain La Liga 2022/23 - To Be Relegated,Getafe,-0.13330000000000003,0.2667,0.4
 2023-03-20 13:40:51.888254,UEFA Champions League - UEFA Champions League 2022/2023 - Furthest Progressing EPL Team,Manchester City,-0.14279999999999993,0.7143,0.8571
 2023-03-20 11:41:00.695621,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leeds United,-0.15000000000000002,0.25,0.4
 2023-03-20 13:40:51.875274,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Manchester City,-0.15780000000000005,0.4255,0.5833
 2023-03-20 13:40:51.875274,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Bayern Munich,-0.16670000000000001,0.3333,0.5
-2023-03-20 10:40:39.050828,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Bochum,-0.17900000000000005,0.3448,0.5238
 2023-03-20 13:40:51.864886,UEFA Champions League - UEFA Champions League 2022/2023 - Top Goalscorer,Vinicius Junior (Real Madrid),-0.23859999999999998,0.125,0.3636
 2023-03-20 12:40:59.161534,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Newcastle United,-0.26359999999999995,0.1,0.3636
