@@ -1,5 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-21 17:40:47.088606,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Newcastle United,0.3762,0.4762,0.1
+2023-03-21 20:40:44.565835,College Specials - NCAA Tournament Specials - Buzzer Beaters - Game Winning Buzzer Beating Shot to occur during the 2023 NCAA Men's Basketball Championship Tournament,No,0.15710000000000002,0.8,0.6429
 2023-03-21 16:41:09.072321,Premier League Futures/Specials - English Premier League 2022/23 - Trophy Specials - Man City,English FA Cup & UEFA Champions League,0.1453,0.2222,0.0769
 2023-03-21 16:41:09.060338,Premier League Futures/Specials - English Premier League 2022/23 - PFA Player of the Year 2022/23,Martin Odegaard,0.13729999999999998,0.1667,0.0294
 2023-03-21 17:40:47.062973,Premier League Futures/Specials - English Premier League 2022/23 - Relegation Treble,"Bournemouth, Nottingham Forest & Southampton",0.12919999999999998,0.1818,0.0526
@@ -9,7 +10,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-21 19:40:39.307161,Gran Hermano - Gran Hermano 2023 - Outright Winner,Julieta,0.0756,0.1,0.0244
 2023-03-21 16:41:09.060338,Premier League Futures/Specials - English Premier League 2022/23 - PFA Player of the Year 2022/23,Bukayo Saka,0.0726,0.1111,0.0385
 2023-03-21 17:40:47.062973,Premier League Futures/Specials - English Premier League 2022/23 - Relegation Treble,"Bournemouth, Everton & Southampton",0.0713,0.0909,0.0196
+2023-03-21 20:40:44.601662,College Specials - NCAA Tournament Specials - Exact Number of 1 Seeds to Reach the Final Four,1,0.06930000000000003,0.5238,0.4545
 2023-03-21 14:40:34.804838,MMA PFL Challenger - Griet Eeckhout vs Mafalda Carmona - To Win the Bout,Mafalda Carmona,0.068,0.4762,0.4082
+2023-03-21 20:40:44.635929,College Specials - NCAA Tournament Specials - Sum of Final Four Seeds ,Over 13.5,0.057699999999999974,0.5455,0.4878
 2023-03-21 17:40:47.062973,Premier League Futures/Specials - English Premier League 2022/23 - Relegation Treble,"Everton, Nottingham Forest & Southampton",0.0515,0.0667,0.0152
 2023-03-21 17:40:47.062973,Premier League Futures/Specials - English Premier League 2022/23 - Relegation Treble,"Bournemouth, Southampton & Wolves",0.0502,0.0625,0.0123
 2023-03-21 16:41:09.002257,Premier League Futures/Specials - English Premier League 2022/23 - Winner without 'The Big Six',Newcastle United,0.044500000000000095,0.7778,0.7333
@@ -36,14 +39,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-21 12:40:32.109657,College Specials - NCAA Tournament Specials - Team to Advance Further in Bracket- Houston vs Alabama,Houston,0.022699999999999998,0.4878,0.4651
 2023-03-21 15:40:43.711824,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 2 - J. Rahm / R. Fowler / K. Mitchell / B. Horschel - Tournament Group Betting - Group 2,Jon Rahm,0.022699999999999998,0.4878,0.4651
 2023-03-21 09:41:17.974521,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 10 - T. Finau / K. Kitayama / A. Meronk / C. Bezuidenhout - Tournament Group Betting - Group 10,Tony Finau,0.02260000000000001,0.4,0.3774
+2023-03-21 20:40:44.601662,College Specials - NCAA Tournament Specials - Exact Number of 1 Seeds to Reach the Final Four,2,0.02250000000000002,0.2857,0.2632
 2023-03-21 15:40:39.374099,College Specials - NCAA Tournament Specials -  Player To win the Most Outstanding Player Award,Marcus Sasser (Houston),0.022199999999999998,0.1333,0.1111
 2023-03-21 09:41:18.020427,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 4 - P. Cantlay / B. Harman / K.H. Lee / N. Taylor - Tournament Group Betting - Group 4,Patrick Cantlay,0.021699999999999997,0.4762,0.4545
 2023-03-21 13:41:14.962825,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Minnesota Twins,0.0203,0.0588,0.0385
 2023-03-21 13:41:14.970314,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Atlanta Braves,0.01999999999999999,0.2105,0.1905
-2023-03-21 16:41:09.060338,Premier League Futures/Specials - English Premier League 2022/23 - PFA Player of the Year 2022/23,Gabriel Martinelli,0.0189,0.0385,0.0196
 2023-03-21 17:40:47.062973,Premier League Futures/Specials - English Premier League 2022/23 - Relegation Treble,"Leeds, Nottingham Forest & Southampton",0.0189,0.0385,0.0196
-2023-03-21 09:41:17.968243,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 3 - R. McIIroy / K. Bradley / D. McCarthy / S. Stallings - Tournament Group Betting - Group 3,Denny McCarthy,0.01820000000000002,0.2,0.1818
+2023-03-21 16:41:09.060338,Premier League Futures/Specials - English Premier League 2022/23 - PFA Player of the Year 2022/23,Gabriel Martinelli,0.0189,0.0385,0.0196
 2023-03-21 12:40:35.898293,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Jordan Walker,0.01820000000000002,0.2,0.1818
+2023-03-21 09:41:17.968243,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 3 - R. McIIroy / K. Bradley / D. McCarthy / S. Stallings - Tournament Group Betting - Group 3,Denny McCarthy,0.01820000000000002,0.2,0.1818
 2023-03-21 13:41:15.308603,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,AZ Alkmaar,0.01820000000000002,0.2,0.1818
 2023-03-21 17:40:47.062973,Premier League Futures/Specials - English Premier League 2022/23 - Relegation Treble,"Crystal Palace, Nottingham Forest & Southampton",0.0182,0.0323,0.0141
 2023-03-21 16:41:02.527602,Match-Ups - 1st Round Match-Up - J. Day v A. Svensson - 1st Round Match-Up,Jason Day,0.018100000000000005,0.5833,0.5652
@@ -52,9 +56,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-21 15:40:43.503092,Match-Ups - 1st Round Match-Up - J. Rahm v R. Fowler - 1st Round Match-Up,Rickie Fowler,0.017299999999999982,0.4255,0.4082
 2023-03-21 17:40:47.062973,Premier League Futures/Specials - English Premier League 2022/23 - Relegation Treble,"Nottingham Forest, Southampton & Wolves",0.017100000000000004,0.0323,0.0152
 2023-03-21 12:40:31.845113,Donald Trump Specials - Trump Specials - Trump Specials,Manhattan DA to indict Donald Trump in 2023 in relation to campaign finance/falsifying business records,0.016799999999999926,0.9259,0.9091
+2023-03-21 09:41:18.013644,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 13 - S. Burns / A. Scott / S. Power / A. Hadwin - Tournament Group Betting - Group 13,Adam Hadwin,0.016699999999999993,0.2667,0.25
 2023-03-21 09:41:17.961463,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 14 - T. Hatton / R. Henley / B. Griffin / L. Herbert - Tournament Group Betting - Group 14,Russell Henley,0.016699999999999993,0.2667,0.25
 2023-03-21 15:40:43.726043,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 5 - M. Homa / H. Matsuyama / J. Suh / K. Kisner - Tournament Group Betting - Group 5,Max Homa,0.016699999999999993,0.4167,0.4
-2023-03-21 09:41:18.013644,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 13 - S. Burns / A. Scott / S. Power / A. Hadwin - Tournament Group Betting - Group 13,Adam Hadwin,0.016699999999999993,0.2667,0.25
 2023-03-21 16:41:02.464551,Match-Ups - 1st Round Match-Up - H. Matsuyama v K. Kisner - 1st Round Match-Up,Hideki Matsuyama,0.016100000000000003,0.6078,0.5917
 2023-03-21 17:40:47.088606,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Brighton & Hove Albion,0.015100000000000002,0.1818,0.1667
 2023-03-21 17:40:47.088606,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Liverpool,0.014900000000000024,0.3226,0.3077
@@ -73,16 +77,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-21 13:41:14.954012,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Atlanta Braves,0.012299999999999991,0.1176,0.1053
 2023-03-21 09:41:18.027291,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 9 - C. Morikawa / J. Day / A. Svensson / V. Perez - Tournament Group Betting - Group 9,Jason Day,0.012299999999999978,0.3571,0.3448
 2023-03-21 09:41:18.034110,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 8 - V. Hovland / C. Kirk / S.W. Kim / M. Kuchar - Tournament Group Betting - Group 8,Si Woo Kim,0.011899999999999994,0.25,0.2381
-2023-03-21 09:41:17.993949,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 2 - J. Rahm / R. Fowler / K. Mitchell / B. Horschel - Tournament Group Betting - Group 2,Keith Mitchell,0.011700000000000016,0.2222,0.2105
-2023-03-21 09:41:18.041037,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 16 - S. Im / T. Fleetwood / M. McNealy / J.T. Poston - Tournament Group Betting - Group 16,J.T. Poston,0.011700000000000016,0.2222,0.2105
-2023-03-21 09:41:18.005948,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 5 - M. Homa / H. Matsuyama / J. Suh / K. Kisner - Tournament Group Betting - Group 5,Kevin Kisner,0.011700000000000016,0.2222,0.2105
 2023-03-21 09:41:17.948833,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 11 - M. Fitzpatrick / S. Theegala / M.W. Lee / J.J. Spaun - Tournament Group Betting - Group 11,J.J. Spaun,0.011700000000000016,0.2222,0.2105
-2023-03-21 14:40:36.105838,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Wyndham Clark,0.011099999999999999,0.1111,0.1
+2023-03-21 09:41:18.041037,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 16 - S. Im / T. Fleetwood / M. McNealy / J.T. Poston - Tournament Group Betting - Group 16,J.T. Poston,0.011700000000000016,0.2222,0.2105
+2023-03-21 09:41:17.993949,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 2 - J. Rahm / R. Fowler / K. Mitchell / B. Horschel - Tournament Group Betting - Group 2,Keith Mitchell,0.011700000000000016,0.2222,0.2105
+2023-03-21 09:41:18.005948,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 5 - M. Homa / H. Matsuyama / J. Suh / K. Kisner - Tournament Group Betting - Group 5,Kevin Kisner,0.011700000000000016,0.2222,0.2105
 2023-03-21 10:40:44.603676,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Cezar Black,0.011099999999999999,0.1111,0.1
-2023-03-21 09:41:17.968243,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 3 - R. McIIroy / K. Bradley / D. McCarthy / S. Stallings - Tournament Group Betting - Group 3,Scott Stallings,0.010899999999999993,0.1538,0.1429
+2023-03-21 14:40:36.105838,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Wyndham Clark,0.011099999999999999,0.1111,0.1
 2023-03-21 12:40:35.885403,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Corbin Burnes,0.010899999999999993,0.1538,0.1429
+2023-03-21 09:41:17.968243,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 3 - R. McIIroy / K. Bradley / D. McCarthy / S. Stallings - Tournament Group Betting - Group 3,Scott Stallings,0.010899999999999993,0.1538,0.1429
 2023-03-21 12:40:35.879001,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Masataka Yoshida,0.010899999999999993,0.1538,0.1429
 2023-03-21 09:41:14.275690,MMA PFL Challenger - Marta waliczek vs Cornelia Holm - To Win the Bout,Cornelia Holm,0.010699999999999987,0.3333,0.3226
+2023-03-21 20:40:44.608510,College Specials - NCAA Tournament Specials - Largest Seed to Reach the Final Four,Over 6.5,0.010699999999999932,0.5455,0.5348
 2023-03-21 12:40:31.645178,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 3 - R. McIIroy / K. Bradley / D. McCarthy / S. Stallings - Tournament Group Betting - Group 3,Denny McCarthy,0.010499999999999982,0.2105,0.2
 2023-03-21 09:41:18.005948,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 5 - M. Homa / H. Matsuyama / J. Suh / K. Kisner - Tournament Group Betting - Group 5,Justin Suh,0.010399999999999993,0.2326,0.2222
 2023-03-21 12:40:35.879001,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Royce Lewis,-0.010099999999999998,0.0952,0.1053
@@ -90,32 +95,34 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-21 09:41:17.940470,WGC Dell Match-Play - WGC Dell Match-Play - Outright,Rory McIlroy,-0.0102,0.0667,0.0769
 2023-03-21 12:40:35.892235,MLB Futures - MLB 2023 Player Awards - National League MVP,Nolan Arenado,-0.0102,0.0667,0.0769
 2023-03-21 12:40:35.844868,MLB Futures - MLB 2023 League Leaders - Pitcher to Record Most Strikeouts in 2023,Aaron Nola,-0.0102,0.0667,0.0769
-2023-03-21 15:40:43.726043,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 5 - M. Homa / H. Matsuyama / J. Suh / K. Kisner - Tournament Group Betting - Group 5,Justin Suh,-0.010399999999999993,0.2222,0.2326
 2023-03-21 15:40:43.711824,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 2 - J. Rahm / R. Fowler / K. Mitchell / B. Horschel - Tournament Group Betting - Group 2,Rickie Fowler,-0.010399999999999993,0.2222,0.2326
+2023-03-21 15:40:43.726043,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 5 - M. Homa / H. Matsuyama / J. Suh / K. Kisner - Tournament Group Betting - Group 5,Justin Suh,-0.010399999999999993,0.2222,0.2326
 2023-03-21 17:40:40.483534,Boxing Lines - Nathan Heaney vs Jack Flatley - To Win the Bout,Jack Flatley,-0.010499999999999982,0.2,0.2105
 2023-03-21 15:40:39.374099,College Specials - NCAA Tournament Specials -  Player To win the Most Outstanding Player Award,Brandon Miller (Alabama),-0.010499999999999982,0.2,0.2105
 2023-03-21 12:40:35.898293,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Corbin Carroll,-0.010499999999999982,0.2,0.2105
 2023-03-21 15:40:43.538852,Match-Ups - 1st Round Match-Up - H. Matsuyama v K. Kisner - 1st Round Match-Up,Kevin Kisner,-0.010599999999999998,0.4545,0.4651
+2023-03-21 20:40:49.339161,Boxing Lines - Christian Mbilli vs Carlos Gongora - To Win the Bout,Carlos Gongora,-0.010699999999999987,0.3226,0.3333
 2023-03-21 13:41:14.962825,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Baltimore Orioles,-0.010700000000000001,0.0278,0.0385
 2023-03-21 12:40:35.898293,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Michael Busch,-0.010700000000000001,0.0278,0.0385
 2023-03-21 13:41:14.954012,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Chicago White Sox,-0.010700000000000001,0.0278,0.0385
 2023-03-21 12:40:35.898293,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Miguel Vargas,-0.010899999999999993,0.1429,0.1538
-2023-03-21 16:41:02.527602,Match-Ups - 1st Round Match-Up - J. Day v A. Svensson - 1st Round Match-Up,Adam Svensson,-0.011099999999999999,0.4651,0.4762
-2023-03-21 13:41:14.962825,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Seattle Mariners,-0.011099999999999999,0.1,0.1111
+2023-03-21 20:40:44.608510,College Specials - NCAA Tournament Specials - Largest Seed to Reach the Final Four,Under 6.5,-0.01100000000000001,0.5238,0.5348
 2023-03-21 15:40:43.726043,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 5 - M. Homa / H. Matsuyama / J. Suh / K. Kisner - Tournament Group Betting - Group 5,Hideki Matsuyama,-0.011099999999999999,0.2667,0.2778
+2023-03-21 13:41:14.962825,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Seattle Mariners,-0.011099999999999999,0.1,0.1111
+2023-03-21 16:41:02.527602,Match-Ups - 1st Round Match-Up - J. Day v A. Svensson - 1st Round Match-Up,Adam Svensson,-0.011099999999999999,0.4651,0.4762
 2023-03-21 13:41:15.308603,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,Lech Poznan,-0.011199999999999995,0.0476,0.0588
 2023-03-21 09:41:14.290223,MMA PFL Challenger - Griet Eeckhout vs Mafalda Carmona - To Win the Bout,Griet Eeckhout,-0.011499999999999955,0.6552,0.6667
 2023-03-21 09:41:17.968243,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 3 - R. McIIroy / K. Bradley / D. McCarthy / S. Stallings - Tournament Group Betting - Group 3,Rory McIlroy,-0.011600000000000055,0.5122,0.5238
 2023-03-21 15:40:43.711824,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 2 - J. Rahm / R. Fowler / K. Mitchell / B. Horschel - Tournament Group Betting - Group 2,Keith Mitchell,-0.011700000000000016,0.2105,0.2222
-2023-03-21 12:40:31.645178,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 3 - R. McIIroy / K. Bradley / D. McCarthy / S. Stallings - Tournament Group Betting - Group 3,Rory McIlroy,-0.012199999999999989,0.5,0.5122
 2023-03-21 12:40:34.206204,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - St. Louis Cardinals - Tommy Edman - Total Stolen Bases,Under 27.5,-0.012199999999999989,0.5,0.5122
+2023-03-21 12:40:31.645178,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 3 - R. McIIroy / K. Bradley / D. McCarthy / S. Stallings - Tournament Group Betting - Group 3,Rory McIlroy,-0.012199999999999989,0.5,0.5122
 2023-03-21 12:40:35.844868,MLB Futures - MLB 2023 League Leaders - Pitcher to Record Most Strikeouts in 2023,Gerrit Cole,-0.012899999999999995,0.1538,0.1667
 2023-03-21 15:40:38.622012,Boxing Lines - Jose Carlos Ramirez vs Richard Commey - To Win the Bout,Richard Commey,-0.012899999999999995,0.1538,0.1667
 2023-03-21 16:41:09.072321,Premier League Futures/Specials - English Premier League 2022/23 - Trophy Specials - Man City,Not To Win a Major Trophy,-0.0131,0.2222,0.2353
 2023-03-21 15:40:43.503092,Match-Ups - 1st Round Match-Up - J. Rahm v R. Fowler - 1st Round Match-Up,Jon Rahm,-0.013799999999999923,0.6226,0.6364
+2023-03-21 12:40:35.830004,MLB Futures - MLB 2023 League Leaders - Most Saves in 2023,Raisel Iglesias,-0.013999999999999999,0.0769,0.0909
 2023-03-21 13:41:14.954012,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Toronto Blue Jays,-0.013999999999999999,0.0769,0.0909
 2023-03-21 12:40:35.836600,MLB Futures - MLB 2023 League Leaders - Most Stolen Bases in 2023,Julio Rodriguez,-0.013999999999999999,0.0769,0.0909
-2023-03-21 12:40:35.830004,MLB Futures - MLB 2023 League Leaders - Most Saves in 2023,Raisel Iglesias,-0.013999999999999999,0.0769,0.0909
 2023-03-21 12:40:35.898293,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Matthew Liberatore,-0.014099999999999998,0.0244,0.0385
 2023-03-21 12:40:35.892235,MLB Futures - MLB 2023 Player Awards - National League MVP,Manny Machado,-0.014399999999999996,0.0625,0.0769
 2023-03-21 12:40:35.898293,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Francisco Alvarez,-0.014399999999999996,0.0625,0.0769
@@ -135,8 +142,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-21 13:41:14.954012,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,New York Mets,-0.02239999999999999,0.0952,0.1176
 2023-03-21 17:40:47.088606,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Manchester United,-0.023799999999999932,0.8333,0.8571
 2023-03-21 13:41:14.962825,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Toronto Blue Jays,-0.023799999999999988,0.1429,0.1667
-2023-03-21 12:40:35.879001,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Oswald Peraza,-0.024,0.0385,0.0625
 2023-03-21 12:40:35.879001,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Kyle Muller,-0.024,0.0385,0.0625
+2023-03-21 12:40:35.879001,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Oswald Peraza,-0.024,0.0385,0.0625
 2023-03-21 12:40:35.879001,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Logan O'Hoppe,-0.0242,0.0667,0.0909
 2023-03-21 12:40:32.109657,College Specials - NCAA Tournament Specials - Team to Advance Further in Bracket- Houston vs Alabama,Alabama,-0.025599999999999956,0.5744,0.6
 2023-03-21 12:40:35.898293,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Sal Frelick,-0.029299999999999993,0.0476,0.0769
@@ -144,13 +151,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-21 09:41:18.005948,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 5 - M. Homa / H. Matsuyama / J. Suh / K. Kisner - Tournament Group Betting - Group 5,Hideki Matsuyama,-0.029899999999999982,0.2778,0.3077
 2023-03-21 16:41:09.060338,Premier League Futures/Specials - English Premier League 2022/23 - PFA Player of the Year 2022/23,Harry Kane,-0.031200000000000002,0.0164,0.0476
 2023-03-21 17:40:47.062973,Premier League Futures/Specials - English Premier League 2022/23 - Relegation Treble,"Bournemouth, Leeds & Nottingham Forest",-0.0344,0.0244,0.0588
-2023-03-21 13:41:09.484525,MMA PFL Challenger - Oscar Ownsworth vs Lewis Monarch - To Win the Bout,Oscar Ownsworth,-0.03480000000000005,0.5,0.5348
 2023-03-21 12:40:31.046574,MMA PFL Challenger - Lizzy Gevers vs Valentina Scatizzi - To Win the Bout,Lizzy Gevers,-0.03480000000000005,0.5,0.5348
+2023-03-21 13:41:09.484525,MMA PFL Challenger - Oscar Ownsworth vs Lewis Monarch - To Win the Bout,Oscar Ownsworth,-0.03480000000000005,0.5,0.5348
 2023-03-21 13:41:14.970314,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,New York Mets,-0.04040000000000002,0.1818,0.2222
 2023-03-21 12:40:31.061305,MMA PFL Challenger - Dakota Ditcheva vs Malin Hermansson - To Win the Bout,Malin Hermansson,-0.042899999999999994,0.1,0.1429
 2023-03-21 14:40:34.759079,MMA PFL Challenger - Oscar Ownsworth vs Lewis Monarch - To Win the Bout,Oscar Ownsworth,-0.045499999999999985,0.4545,0.5
 2023-03-21 16:41:09.072321,Premier League Futures/Specials - English Premier League 2022/23 - Trophy Specials - Man City,English Premier League & UEFA Champions League,-0.04620000000000002,0.1538,0.2
+2023-03-21 20:40:44.635929,College Specials - NCAA Tournament Specials - Sum of Final Four Seeds ,Under 13.5,-0.05059999999999998,0.5238,0.5744
 2023-03-21 14:40:34.804838,MMA PFL Challenger - Griet Eeckhout vs Mafalda Carmona - To Win the Bout,Griet Eeckhout,-0.0635,0.5917,0.6552
 2023-03-21 16:41:09.002257,Premier League Futures/Specials - English Premier League 2022/23 - Winner without 'The Big Six',Brighton & Hove Albion,-0.06519999999999998,0.2857,0.3509
 2023-03-21 17:40:47.084365,Premier League Futures/Specials - English Premier League 2022/23 - Not To Finish in Top 4,Tottenham Hotspur,-0.07780000000000009,0.7222,0.8
 2023-03-21 16:41:09.060338,Premier League Futures/Specials - English Premier League 2022/23 - PFA Player of the Year 2022/23,Kevin de Bruyne,-0.1389,0.0278,0.1667
+2023-03-21 20:40:44.565835,College Specials - NCAA Tournament Specials - Buzzer Beaters - Game Winning Buzzer Beating Shot to occur during the 2023 NCAA Men's Basketball Championship Tournament,Yes,-0.1588,0.2667,0.4255
