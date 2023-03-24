@@ -5,8 +5,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-24 01:41:02.794661,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 15 - C. Young / C. Conners / S. Straka / D. Thompson - Tournament Group Betting - Group 15,Cameron Young,0.3853,0.9091,0.5238
 2023-03-24 02:41:24.638720,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 11 - M. Fitzpatrick / S. Theegala / M.W. Lee / J.J. Spaun - Tournament Group Betting - Group 11,J.J. Spaun,0.3834,0.8182,0.4348
 2023-03-24 01:41:02.814255,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 12 - J. Spieth / S. Lowry / T. Montgomery / M. Hughes - Tournament Group Betting - Group 12,Taylor Montgomery,0.3738,0.8182,0.4444
-2023-03-24 01:41:02.833276,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 13 - S. Burns / A. Scott / S. Power / A. Hadwin - Tournament Group Betting - Group 13,Sam Burns,0.30600000000000005,0.8182,0.5122
 2023-03-24 01:41:02.822770,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 5 - M. Homa / H. Matsuyama / J. Suh / K. Kisner - Tournament Group Betting - Group 5,Max Homa,0.30600000000000005,0.8182,0.5122
+2023-03-24 01:41:02.833276,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 13 - S. Burns / A. Scott / S. Power / A. Hadwin - Tournament Group Betting - Group 13,Sam Burns,0.30600000000000005,0.8182,0.5122
 2023-03-24 02:41:24.647775,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 6 - X. Schauffele / T. Hoge / A. Wise / C. Davis - Tournament Group Betting - Group 6,Xander Schauffele,0.28890000000000005,0.8889,0.6
 2023-03-24 01:41:02.805000,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 2 - J. Rahm / R. Fowler / K. Mitchell / B. Horschel - Tournament Group Betting - Group 2,Billy Horschel,0.2444,0.4444,0.2
 2023-03-24 01:41:02.775685,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 10 - T. Finau / K. Kitayama / A. Meronk / C. Bezuidenhout - Tournament Group Betting - Group 10,Tony Finau,0.24160000000000004,0.8333,0.5917
@@ -20,6 +20,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-23 19:40:48.695120,NFL Draft '23 - Positional Groups - First Wide Receiver Selected,Jaxon Smith-Njigba,0.11430000000000007,0.7143,0.6
 2023-03-24 01:41:02.814255,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 12 - J. Spieth / S. Lowry / T. Montgomery / M. Hughes - Tournament Group Betting - Group 12,Mackenzie Hughes,0.1079,0.1667,0.0588
 2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Matt Wallace,0.0865,0.125,0.0385
+2023-03-24 05:41:04.029401,Drive On Championship - Drive On Championship - Outright,Lilia Vu,0.08410000000000001,0.1429,0.0588
 2023-03-24 01:41:02.833276,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 13 - S. Burns / A. Scott / S. Power / A. Hadwin - Tournament Group Betting - Group 13,Seamus Power,0.08179999999999998,0.1818,0.1
 2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Brice Garnett,0.071,0.0833,0.0123
 2023-03-24 00:41:53.326177,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,Connecticut,0.06669999999999998,0.1667,0.1
@@ -27,133 +28,149 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-23 19:40:48.656562,NFL Draft '23 - Pick Props - #1 Overall Pick,Bryce Young,0.06659999999999999,0.3333,0.2667
 2023-03-24 01:41:02.784792,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 7 - W. Zalatoris / H. English / R. Fox / A. Putnam - Tournament Group Betting - Group 7,Harris English,0.05679999999999999,0.1818,0.125
 2023-03-23 23:41:34.593171,NFL Specials - Where will DeAndre Hopkins Play Game 1 of the 2023 NFL Season - Proposition,Buffalo Bills,0.05070000000000002,0.4762,0.4255
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Joakim Lagergren,0.0489,0.0588,0.0099
 2023-03-24 02:41:24.600699,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 9 - C. Morikawa / J. Day / A. Svensson / V. Perez - Tournament Group Betting - Group 9,Collin Morikawa,0.048099999999999976,0.4255,0.3774
 2023-03-23 19:40:48.688566,NFL Draft '23 - Positional Groups - First Tight End Selected,Michael Mayer,0.04760000000000003,0.5238,0.4762
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Nick Bachem,0.0465,0.0588,0.0123
+2023-03-24 05:41:04.029401,Drive On Championship - Drive On Championship - Outright,Gaby Lopez,0.0465,0.0588,0.0123
 2023-03-24 01:41:02.843283,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 4 - P. Cantlay / B. Harman / K.H. Lee / N. Taylor - Tournament Group Betting - Group 4,Brian Harman,0.04410000000000003,0.3774,0.3333
 2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Dylan Wu,0.0392,0.0588,0.0196
 2023-03-24 01:41:02.843283,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 4 - P. Cantlay / B. Harman / K.H. Lee / N. Taylor - Tournament Group Betting - Group 4,Patrick Cantlay,0.03709999999999991,0.6667,0.6296
+2023-03-24 05:41:03.786064,Match-Ups - 3rd Round Match-Up - T. Hatton v R. Henley - 3rd Round Match-Up,Russell Henley,0.03600000000000003,0.5238,0.4878
+2023-03-24 05:41:03.793937,Match-Ups - 3rd Round Match-Up - B. Griffin v L. Herbert - 3rd Round Match-Up,Lucas Herbert,0.03600000000000003,0.5238,0.4878
 2023-03-23 23:41:34.848343,Jonsson Workwear Open - 2/3 Balls - 2nd Round 3 Balls - R. Langasque / A. Venter / W. Besseling - 2nd Round 3 Balls,Romain Langasque,0.03489999999999999,0.5,0.4651
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Gavin Green,0.0344,0.0588,0.0244
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Sebastian Soderberg,0.0335,0.0476,0.0141
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Niklas Norgaard Moller,0.0334,0.0769,0.0435
+2023-03-24 05:41:04.029401,Drive On Championship - Drive On Championship - Outright,Georgia Hall,0.03219999999999999,0.0667,0.0345
 2023-03-23 20:41:00.413223,BKFC 39 - Britain Hart vs Jenny Clausius - To Win the Bout,Britain Hart,0.03190000000000004,0.8214,0.7895
 2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Wyndham Clark,0.031799999999999995,0.1429,0.1111
+2023-03-24 05:41:04.029401,Drive On Championship - Drive On Championship - Outright,Jodi Ewart Shadoff,0.028599999999999997,0.0435,0.0149
 2023-03-24 02:41:24.647775,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 6 - X. Schauffele / T. Hoge / A. Wise / C. Davis - Tournament Group Betting - Group 6,Cameron Davis,0.02840000000000001,0.1053,0.0769
+2023-03-24 05:41:03.308118,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Miami Heat,0.028200000000000003,0.9756,0.9474
 2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Erik Van Rooyen,0.0282,0.0526,0.0244
 2023-03-23 21:41:24.712531,BKFC 39 - James Dennis vs Dustin Pague - To Win the Bout,Dustin Pague,0.027800000000000047,0.7778,0.75
 2023-03-23 22:41:41.201886,NFL Specials - Where will DeAndre Hopkins Play Game 1 of the 2023 NFL Season - Proposition,New England Patriots,0.02779999999999999,0.25,0.2222
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Darren Fichardt,0.0273,0.0323,0.005
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Calum Hill,0.027099999999999996,0.0435,0.0164
+2023-03-24 05:41:03.683453,Match-Ups - 3rd Round Match-Up - S. Burns v S. Power - 3rd Round Match-Up,Sam Burns,0.027700000000000058,0.5833,0.5556
+2023-03-24 05:41:04.029401,Drive On Championship - Drive On Championship - Outright,Alison Lee,0.026600000000000002,0.0345,0.0079
 2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Sean O'Hair,0.0262,0.0385,0.0123
+2023-03-24 05:41:04.029401,Drive On Championship - Drive On Championship - Outright,Megan Khang,0.0262,0.0385,0.0123
 2023-03-23 19:40:48.434531,Boxing Lines - Gervonta Davis vs Ryan Garcia - To Win the Bout,Gervonta Davis,0.0252,0.7222,0.697
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Ewen Ferguson,0.023200000000000002,0.0476,0.0244
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,George Coetzee,0.023200000000000002,0.0476,0.0244
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Jayden Schaper,0.023200000000000002,0.0476,0.0244
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Martin Vorster,0.0204,0.0244,0.004
+2023-03-24 05:41:04.029401,Drive On Championship - Drive On Championship - Outright,Jenny Shin,0.0228,0.0294,0.0066
+2023-03-24 05:41:03.911554,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 2 - J. Rahm / R. Fowler / K. Mitchell / B. Horschel - Tournament Group Betting - Group 2,Jon Rahm,0.022699999999999998,0.4878,0.4651
+2023-03-24 05:41:03.770242,Match-Ups - 3rd Round Match-Up - X. Schauffele v T. Hoge - 3rd Round Match-Up,Xander Schauffele,0.022600000000000064,0.6226,0.6
+2023-03-24 05:41:04.029401,Drive On Championship - Drive On Championship - Outright,Pauline Roussin Bouchard,0.021799999999999996,0.0435,0.0217
+2023-03-24 05:41:03.707297,Match-Ups - 3rd Round Match-Up - C. Morikawa v J. Day - 3rd Round Match-Up,Jason Day,0.02169999999999994,0.5455,0.5238
+2023-03-24 05:41:03.762407,Match-Ups - 3rd Round Match-Up - J.J. Spaun v M.W. Lee - 3rd Round Match-Up,J.J. Spaun,0.02169999999999994,0.5455,0.5238
+2023-03-24 05:41:03.337867,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Memphis Grizzlies,0.019699999999999995,0.125,0.1053
+2023-03-24 05:41:04.029401,Drive On Championship - Drive On Championship - Outright,Jeongeun Lee6,0.019499999999999997,0.0294,0.0099
 2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Austin Eckroat,0.019499999999999997,0.0294,0.0099
+2023-03-24 05:41:03.515488,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Mark Daigneault,0.019499999999999997,0.0294,0.0099
 2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Sam Stevens,0.019099999999999995,0.0435,0.0244
 2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Thomas Detry,0.019099999999999992,0.0667,0.0476
-2023-03-23 17:41:02.610790,Match-Ups - 2nd Round Match-Up - R. Henley v B. Griffin - 2nd Round Match-Up,Russell Henley,0.018100000000000005,0.5833,0.5652
+2023-03-24 05:41:03.894872,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 7 - W. Zalatoris / H. English / R. Fox / A. Putnam - Tournament Group Betting - Group 7,Harris English,0.01820000000000002,0.2,0.1818
 2023-03-24 04:41:27.896054,Match-Ups - 3rd Round Match-Up - S.W. Kim v M. Kuchar - 3rd Round Match-Up,Si Woo Kim,0.018100000000000005,0.5833,0.5652
 2023-03-24 03:41:08.660383,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 1 - S. Scheffler / T. Kim / A. Noren / D. Riley - Tournament Group Betting - Group 1,Scottie Scheffler,0.017900000000000027,0.875,0.8571
+2023-03-24 05:41:03.299889,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Boston Celtics,0.017900000000000027,0.875,0.8571
 2023-03-23 22:41:56.336092,BKFC 39 - James Dennis vs Dustin Pague - To Win the Bout,James Dennis,0.017299999999999982,0.303,0.2857
+2023-03-24 05:41:04.029401,Drive On Championship - Drive On Championship - Outright,Carlota Ciganda,0.017099999999999997,0.0294,0.0123
+2023-03-24 05:41:03.965050,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 8 - V. Hovland / C. Kirk / S.W. Kim / M. Kuchar - Tournament Group Betting - Group 8,Matt Kuchar,0.016699999999999993,0.4167,0.4
 2023-03-23 23:41:34.884138,Jonsson Workwear Open - 2/3 Balls - 2nd Round 3 Balls - D. Fichardt / M. Southgate / J. Ahlers - 2nd Round 3 Balls,Matthew Southgate,0.016699999999999993,0.4167,0.4
 2023-03-23 19:40:53.889879,MLB 2023 Regular Season Props - MLB 2023 Regular Season Props - Philadelphia Phillies Regular Season Win Total,Under 89.5,0.016699999999999937,0.6,0.5833
 2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Kelly Kraft,0.0165,0.0244,0.0079
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Hennie OKennedy,0.0163,0.0196,0.0033
 2023-03-23 23:41:34.855276,Jonsson Workwear Open - 2/3 Balls - 2nd Round 3 Balls - S. Valimaki / D. Mostert / M. Pavon - 2nd Round 3 Balls,Sami Valimaki,0.015400000000000025,0.4,0.3846
 2023-03-24 03:41:08.575271,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 5 - M. Homa / H. Matsuyama / J. Suh / K. Kisner - Tournament Group Betting - Group 5,Max Homa,0.015100000000000002,0.8333,0.8182
 2023-03-24 03:41:08.587585,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 13 - S. Burns / A. Scott / S. Power / A. Hadwin - Tournament Group Betting - Group 13,Sam Burns,0.015100000000000002,0.8333,0.8182
 2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Doug Ghim,0.014900000000000004,0.0345,0.0196
 2023-03-23 18:40:35.195684,BKFC 39 - James Dennis vs Dustin Pague - To Win the Bout,Dustin Pague,0.014700000000000046,0.7647,0.75
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Aaron Cockerill,0.014599999999999998,0.0196,0.005
 2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Brent Grant,0.0145,0.0244,0.0099
+2023-03-24 05:41:03.894872,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 7 - W. Zalatoris / H. English / R. Fox / A. Putnam - Tournament Group Betting - Group 7,Ryan Fox,0.013999999999999999,0.0909,0.0769
+2023-03-24 05:41:04.029401,Drive On Championship - Drive On Championship - Outright,Azahara Munoz,0.0139,0.0179,0.004
 2023-03-23 18:40:35.277879,Match-Ups - 2nd Round Match-Up - M. Fitzpatrick v M.W. Lee - 2nd Round Match-Up,Min Woo Lee,0.012199999999999989,0.5,0.4878
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Hurly Long,0.012100000000000001,0.0244,0.0123
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Paul Waring,0.0115,0.0294,0.0179
-2023-03-23 17:41:02.247294,Boxing Lines - Jesus Alejandro Ramos vs Joey Spencer - To Win the Bout,Jesus Alejandro Ramos,0.011099999999999999,0.7333,0.7222
-2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Martin Trainer,0.0109,0.0149,0.004
+2023-03-24 05:41:04.029401,Drive On Championship - Drive On Championship - Outright,Allisen Corpuz,0.012100000000000001,0.0244,0.0123
+2023-03-24 05:41:04.029401,Drive On Championship - Drive On Championship - Outright,Na Rin An,0.011699999999999999,0.0196,0.0079
+2023-03-24 05:41:04.029401,Drive On Championship - Drive On Championship - Outright,Moriya Jutanugarn,0.0113,0.0179,0.0066
 2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Max McGreevy,0.0109,0.0149,0.004
+2023-03-24 05:41:04.029401,Drive On Championship - Drive On Championship - Outright,Wei-Ling Hsu,0.0109,0.0149,0.004
+2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Martin Trainer,0.0109,0.0149,0.004
 2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Ricky Barnes,0.0109,0.0149,0.004
 2023-03-24 02:41:25.805864,"Daily Soccer Specials - Euro2024 Qualifiers Specials - Friday, 24th March - Euro2024 Qualifiers Specials - Friday, 24th March","Kylian Mbappe, Robert Lewandowski and Memphis Depay to score 3 or more goals combined",0.010499999999999982,0.2105,0.2
+2023-03-24 05:41:03.941001,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 13 - S. Burns / A. Scott / S. Power / A. Hadwin - Tournament Group Betting - Group 13,Adam Scott,0.0102,0.0769,0.0667
 2023-03-24 02:41:25.805864,"Daily Soccer Specials - Euro2024 Qualifiers Specials - Friday, 24th March - Euro2024 Qualifiers Specials - Friday, 24th March",Any player to score a Hat Trick,0.010099999999999998,0.4545,0.4444
 2023-03-23 18:40:35.277879,Match-Ups - 2nd Round Match-Up - M. Fitzpatrick v M.W. Lee - 2nd Round Match-Up,Matt Fitzpatrick,-0.010099999999999998,0.5455,0.5556
+2023-03-24 05:41:04.029401,Drive On Championship - Drive On Championship - Outright,Leona Maguire,-0.010100000000000001,0.0244,0.0345
 2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Emiliano Grillo,-0.010100000000000001,0.0244,0.0345
 2023-03-24 03:41:08.587585,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 13 - S. Burns / A. Scott / S. Power / A. Hadwin - Tournament Group Betting - Group 13,Adam Scott,-0.0102,0.0667,0.0769
 2023-03-23 20:41:00.422744,BKFC 39 - Jason Jackson vs David Simpson - To Win the Bout,David Simpson,-0.010599999999999998,0.4545,0.4651
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Dan Bradbury,-0.0106,0.0004,0.011
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Pieter Moolman,-0.011,0.0013,0.0123
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Alejandro Del Rey,-0.011,0.0013,0.0123
+2023-03-24 05:41:04.029401,Drive On Championship - Drive On Championship - Outright,Aditi Ashok,-0.010700000000000001,0.0057,0.0164
 2023-03-24 04:41:27.896054,Match-Ups - 3rd Round Match-Up - S.W. Kim v M. Kuchar - 3rd Round Match-Up,Matt Kuchar,-0.011099999999999999,0.4651,0.4762
 2023-03-23 22:41:41.201886,NFL Specials - Where will DeAndre Hopkins Play Game 1 of the 2023 NFL Season - Proposition,Kansas City Chiefs,-0.011099999999999999,0.1,0.1111
-2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Charley Hoffman,-0.011300000000000001,0.0036,0.0149
 2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Augusto Nunez,-0.011300000000000001,0.001,0.0123
+2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Charley Hoffman,-0.011300000000000001,0.0036,0.0149
 2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Scott Piercy,-0.011300000000000001,0.0036,0.0149
-2023-03-23 17:41:02.247294,Boxing Lines - Jesus Alejandro Ramos vs Joey Spencer - To Win the Bout,Joey Spencer,-0.01150000000000001,0.3333,0.3448
-2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Matti Schmid,-0.011600000000000001,0.0007,0.0123
 2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Ryan Moore,-0.011600000000000001,0.0007,0.0123
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,John Catlin,-0.011699999999999999,0.0079,0.0196
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Rafael Cabrera Bello,-0.011699999999999999,0.0079,0.0196
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,JC Ritchie,-0.0118,0.0005,0.0123
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Hennie Du Plessis,-0.012100000000000001,0.0123,0.0244
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Matthew Southgate,-0.0124,0.0025,0.0149
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,David Law,-0.0124,0.0025,0.0149
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Jaco Prinsloo,-0.0129,0.002,0.0149
+2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Matti Schmid,-0.011600000000000001,0.0007,0.0123
 2023-03-23 22:41:56.336092,BKFC 39 - James Dennis vs Dustin Pague - To Win the Bout,Dustin Pague,-0.0131,0.7647,0.7778
+2023-03-24 05:41:03.318544,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Denver Nuggets,-0.013899999999999996,0.1111,0.125
+2023-03-24 05:41:03.515488,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Michael Malone,-0.013899999999999996,0.1111,0.125
 2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Harrison Endycott,-0.0139,0.001,0.0149
 2023-03-23 21:41:24.499330,Boxing Lines - Lawrence Okolie vs David Light - To Win the Bout,Lawrence Okolie,-0.014000000000000012,0.9091,0.9231
 2023-03-24 03:41:08.660383,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 1 - S. Scheffler / T. Kim / A. Noren / D. Riley - Tournament Group Betting - Group 1,Davis Riley,-0.014100000000000001,0.0385,0.0526
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Connor Syme,-0.014599999999999998,0.005,0.0196
 2023-03-23 23:41:34.848343,Jonsson Workwear Open - 2/3 Balls - 2nd Round 3 Balls - R. Langasque / A. Venter / W. Besseling - 2nd Round 3 Balls,Albert Venter,-0.014600000000000002,0.2632,0.2778
 2023-03-23 20:41:00.417952,BKFC 39 - James Dennis vs Dustin Pague - To Win the Bout,Dustin Pague,-0.014700000000000046,0.75,0.7647
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Oliver Bekker,-0.015499999999999998,0.0123,0.0278
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Brandon Stone,-0.0156,0.004,0.0196
+2023-03-24 05:41:03.328820,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Boston Celtics,-0.015400000000000025,0.3846,0.4
+2023-03-24 05:41:04.029401,Drive On Championship - Drive On Championship - Outright,Hye Jin Choi,-0.015499999999999998,0.0123,0.0278
+2023-03-24 05:41:04.029401,Drive On Championship - Drive On Championship - Outright,Hannah Green,-0.0156,0.004,0.0196
 2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Cody Gribble,-0.0156,0.004,0.0196
 2023-03-23 22:41:41.201886,NFL Specials - Where will DeAndre Hopkins Play Game 1 of the 2023 NFL Season - Proposition,Baltimore Ravens,-0.015700000000000006,0.1176,0.1333
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Jaco Ahlers,-0.016,0.0004,0.0164
+2023-03-24 05:41:04.029401,Drive On Championship - Drive On Championship - Outright,Lucy Li,-0.0163,0.0033,0.0196
 2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Fabrizio Zanotti,-0.0163,0.0033,0.0196
 2023-03-23 22:41:41.201886,NFL Specials - Where will DeAndre Hopkins Play Game 1 of the 2023 NFL Season - Proposition,Atlanta Falcons,-0.016600000000000004,0.0667,0.0833
 2023-03-24 01:41:02.794661,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 15 - C. Young / C. Conners / S. Straka / D. Thompson - Tournament Group Betting - Group 15,Davis Thompson,-0.016600000000000004,0.0667,0.0833
 2023-03-23 22:41:41.201886,NFL Specials - Where will DeAndre Hopkins Play Game 1 of the 2023 NFL Season - Proposition,Green Bay Packers,-0.016700000000000007,0.0833,0.1
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Louis De Jager,-0.017099999999999997,0.0123,0.0294
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Shaun Norris,-0.0171,0.0025,0.0196
 2023-03-23 20:41:05.231195,NFL Specials - Where will DeAndre Hopkins Play Game 1 of the 2023 NFL Season - Proposition,Green Bay Packers,-0.01759999999999999,0.1,0.1176
 2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Ryan Gerard,-0.017599999999999998,0.002,0.0196
 2023-03-23 23:41:34.848343,Jonsson Workwear Open - 2/3 Balls - 2nd Round 3 Balls - R. Langasque / A. Venter / W. Besseling - 2nd Round 3 Balls,Wil Besseling,-0.017600000000000005,0.3333,0.3509
 2023-03-24 03:41:08.575271,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 5 - M. Homa / H. Matsuyama / J. Suh / K. Kisner - Tournament Group Betting - Group 5,Justin Suh,-0.018099999999999998,0.0588,0.0769
+2023-03-24 05:41:03.894872,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 7 - W. Zalatoris / H. English / R. Fox / A. Putnam - Tournament Group Betting - Group 7,Andrew Putnam,-0.018199999999999994,0.8,0.8182
 2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Chesson Hadley,-0.0189,0.0007,0.0196
+2023-03-24 05:41:03.911554,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 2 - J. Rahm / R. Fowler / K. Mitchell / B. Horschel - Tournament Group Betting - Group 2,Billy Horschel,-0.018900000000000028,0.4255,0.4444
+2023-03-24 05:41:03.770242,Match-Ups - 3rd Round Match-Up - X. Schauffele v T. Hoge - 3rd Round Match-Up,Tom Hoge,-0.018900000000000028,0.4255,0.4444
 2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Santiago Tarrio,-0.0192,0.0004,0.0196
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Adrian Otaegui,-0.019700000000000002,0.002,0.0217
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Casey Jarvis,-0.0204,0.0013,0.0217
+2023-03-24 05:41:03.965050,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 8 - V. Hovland / C. Kirk / S.W. Kim / M. Kuchar - Tournament Group Betting - Group 8,Si Woo Kim,-0.019499999999999962,0.6296,0.6491
 2023-03-23 20:41:05.231195,NFL Specials - Where will DeAndre Hopkins Play Game 1 of the 2023 NFL Season - Proposition,Chicago Bears,-0.02049999999999999,0.1333,0.1538
-2023-03-23 17:41:02.610790,Match-Ups - 2nd Round Match-Up - R. Henley v B. Griffin - 2nd Round Match-Up,Ben Griffin,-0.021699999999999997,0.4545,0.4762
 2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Cameron Percy,-0.021900000000000003,0.0025,0.0244
 2023-03-23 21:41:24.712531,BKFC 39 - James Dennis vs Dustin Pague - To Win the Bout,James Dennis,-0.021999999999999964,0.2857,0.3077
 2023-03-23 23:41:34.593171,NFL Specials - Where will DeAndre Hopkins Play Game 1 of the 2023 NFL Season - Proposition,Arizona Cardinals,-0.022199999999999998,0.2,0.2222
+2023-03-24 05:41:04.029401,Drive On Championship - Drive On Championship - Outright,Charley Hull,-0.022200000000000004,0.0123,0.0345
+2023-03-24 05:41:03.683453,Match-Ups - 3rd Round Match-Up - S. Burns v S. Power - 3rd Round Match-Up,Seamus Power,-0.022699999999999998,0.4651,0.4878
 2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Kramer Hickok,-0.0237,0.0057,0.0294
 2023-03-23 19:40:53.889879,MLB 2023 Regular Season Props - MLB 2023 Regular Season Props - Philadelphia Phillies Regular Season Win Total,Over 89.5,-0.023799999999999988,0.4762,0.5
+2023-03-24 05:41:03.515488,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Joe Mazzulla,-0.023799999999999988,0.1429,0.1667
+2023-03-24 05:41:03.707297,Match-Ups - 3rd Round Match-Up - C. Morikawa v J. Day - 3rd Round Match-Up,Collin Morikawa,-0.023800000000000043,0.5,0.5238
+2023-03-24 05:41:03.762407,Match-Ups - 3rd Round Match-Up - J.J. Spaun v M.W. Lee - 3rd Round Match-Up,Min Woo Lee,-0.023800000000000043,0.5,0.5238
 2023-03-24 02:41:24.629623,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 1 - S. Scheffler / T. Kim / A. Noren / D. Riley - Tournament Group Betting - Group 1,Davis Riley,-0.024299999999999995,0.0526,0.0769
 2023-03-24 00:41:53.326177,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,Arkansas,-0.0244,0.0079,0.0323
-2023-03-23 17:41:02.349128,Boxing Lines - Gervonta Davis vs Ryan Garcia - To Win the Bout,Ryan Garcia,-0.024599999999999955,0.339,0.3636
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Dale Whitnell,-0.026799999999999997,0.001,0.0278
+2023-03-24 05:41:04.029401,Drive On Championship - Drive On Championship - Outright,Maja Stark,-0.0262,0.0123,0.0385
+2023-03-24 05:41:03.515488,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Mike Budenholzer,-0.0267,0.0909,0.1176
 2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Adam Long,-0.0269,0.0025,0.0294
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Jordan Smith,-0.0282,0.0244,0.0526
+2023-03-24 05:41:04.029401,Drive On Championship - Drive On Championship - Outright,Brooke Henderson,-0.028000000000000004,0.0196,0.0476
 2023-03-24 01:41:02.822770,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 5 - M. Homa / H. Matsuyama / J. Suh / K. Kisner - Tournament Group Betting - Group 5,Justin Suh,-0.02840000000000001,0.0769,0.1053
 2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Akshay Bhatia,-0.0286,0.0099,0.0385
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Matthieu Pavon,-0.0289,0.0005,0.0294
+2023-03-24 05:41:04.029401,Drive On Championship - Drive On Championship - Outright,Atthaya Thitikul,-0.030699999999999998,0.0526,0.0833
 2023-03-23 20:41:00.413223,BKFC 39 - Britain Hart vs Jenny Clausius - To Win the Bout,Jenny Clausius,-0.030899999999999983,0.2469,0.2778
+2023-03-24 05:41:03.793937,Match-Ups - 3rd Round Match-Up - B. Griffin v L. Herbert - 3rd Round Match-Up,Ben Griffin,-0.03179999999999994,0.5238,0.5556
+2023-03-24 05:41:03.786064,Match-Ups - 3rd Round Match-Up - T. Hatton v R. Henley - 3rd Round Match-Up,Tyrrell Hatton,-0.03179999999999994,0.5238,0.5556
 2023-03-23 22:41:41.201886,NFL Specials - Where will DeAndre Hopkins Play Game 1 of the 2023 NFL Season - Proposition,Chicago Bears,-0.033299999999999996,0.1,0.1333
 2023-03-24 02:41:24.638720,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 11 - M. Fitzpatrick / S. Theegala / M.W. Lee / J.J. Spaun - Tournament Group Betting - Group 11,Matt Fitzpatrick,-0.0343,0.0833,0.1176
 2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Joel Dahmen,-0.035300000000000005,0.0123,0.0476
 2023-03-23 19:40:48.688566,NFL Draft '23 - Positional Groups - First Tight End Selected,Dalton Kincaid,-0.03640000000000004,0.3636,0.4
+2023-03-24 05:41:03.308118,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Atlanta Hawks,-0.037500000000000006,0.0625,0.1
+2023-03-24 05:41:03.299889,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Philadelphia 76ers,-0.04040000000000002,0.1818,0.2222
+2023-03-24 05:41:03.509553,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Malcolm Brogdon (BOS),-0.040999999999999925,0.5744,0.6154
 2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Patrick Rodgers,-0.0436,0.004,0.0476
 2023-03-24 02:41:24.600699,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 9 - C. Morikawa / J. Day / A. Svensson / V. Perez - Tournament Group Betting - Group 9,Jason Day,-0.04409999999999992,0.6226,0.6667
 2023-03-24 02:41:24.611804,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 8 - V. Hovland / C. Kirk / S.W. Kim / M. Kuchar - Tournament Group Betting - Group 8,Matt Kuchar,-0.044399999999999995,0.4,0.4444
+2023-03-24 05:41:04.029401,Drive On Championship - Drive On Championship - Outright,Jin Young Ko,-0.0448,0.0385,0.0833
 2023-03-24 00:41:55.232289,Corales Puntacana Championship - Corales Puntacana Championship - Outright,Taylor Pendrith,-0.0451,0.0025,0.0476
-2023-03-23 17:41:02.448309,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Adri Arnaus,-0.0506,0.002,0.0526
+2023-03-24 05:41:04.029401,Drive On Championship - Drive On Championship - Outright,Lexi Thompson,-0.0465,0.0123,0.0588
 2023-03-23 19:40:48.695120,NFL Draft '23 - Positional Groups - First Wide Receiver Selected,Quentin Johnston,-0.0635,0.2222,0.2857
+2023-03-24 05:41:04.029401,Drive On Championship - Drive On Championship - Outright,Nelly Korda,-0.06620000000000001,0.0588,0.125
 2023-03-23 20:41:05.231195,NFL Specials - Where will DeAndre Hopkins Play Game 1 of the 2023 NFL Season - Proposition,Kansas City Chiefs,-0.07069999999999999,0.1111,0.1818
 2023-03-23 19:40:48.656562,NFL Draft '23 - Pick Props - #1 Overall Pick,CJ Stroud,-0.0857,0.7143,0.8
 2023-03-23 22:41:41.201886,NFL Specials - Where will DeAndre Hopkins Play Game 1 of the 2023 NFL Season - Proposition,Arizona Cardinals,-0.11680000000000001,0.2222,0.339
