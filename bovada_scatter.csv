@@ -2,7 +2,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-24 17:41:18.869403,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Romain Langasque,0.1089,0.1333,0.0244
 2023-03-24 17:41:18.869403,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Sami Valimaki,0.101,0.1333,0.0323
 2023-03-24 17:41:18.869403,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Nick Bachem,0.095,0.1538,0.0588
-2023-03-24 07:41:22.734269,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,Gonzaga,0.08979999999999999,0.1667,0.0769
+2023-03-24 21:41:08.898107,NFL Draft '23 - Positional Groups - First Offensive Lineman Selected,Paris Johnson Jr,0.08900000000000002,0.5652,0.4762
 2023-03-24 14:41:08.094009,College Specials - NCAA Tournament Specials - Seed Number to Win 2023 NCAA Tournament,3,0.0889,0.2222,0.1333
 2023-03-24 18:40:49.013347,NFL Draft '23 - Positional Groups - First Offensive Lineman Selected,Paris Johnson Jr,0.07619999999999999,0.4762,0.4
 2023-03-24 14:41:08.013908,College Specials - NCAA Tournament Specials - Conference to Win 2023 NCAA Tournament,West Coast Conference,0.0705,0.1538,0.0833
@@ -10,161 +10,122 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-24 14:41:08.013908,College Specials - NCAA Tournament Specials - Conference to Win 2023 NCAA Tournament,Big East,0.06319999999999998,0.2632,0.2
 2023-03-24 17:41:18.869403,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Marcel Schneider,0.0573,0.0769,0.0196
 2023-03-24 17:41:18.869403,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Julien Brun,0.05639999999999999,0.0909,0.0345
+2023-03-24 21:41:08.241799,BKFC 39 - Brian Maxwell vs Daniel Bunyan - To Win the Bout,Brian Maxwell,0.05590000000000006,0.6923,0.6364
 2023-03-24 17:41:18.869403,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Kalle Samooja,0.0465,0.0588,0.0123
 2023-03-24 17:41:18.869403,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Ockie Strydom,0.046,0.0526,0.0066
 2023-03-24 14:41:07.981628,College Specials - NCAA Tournament Specials - Buzzer Beaters - Game Winning Buzzer Beater in Sweet Sixteen Round of NCAA Tournament,No,0.043300000000000005,0.9524,0.9091
-2023-03-24 09:40:47.264659,Match-Ups - 3rd Round Match-Up - V. Hovland v C. Kirk - 3rd Round Match-Up,Viktor Hovland,0.037800000000000056,0.5833,0.5455
+2023-03-24 21:41:02.116519,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Lauri Markkanen (UTA),0.038899999999999935,0.8571,0.8182
 2023-03-24 10:40:43.884300,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 8 - V. Hovland / C. Kirk / S.W. Kim / M. Kuchar - Tournament Group Betting - Group 8,Si Woo Kim,0.03709999999999991,0.6667,0.6296
-2023-03-24 14:41:08.045264,College Specials - NCAA Tournament Specials - Exact Round of Elimination - Houston,Elite 8,0.0363,0.303,0.2667
 2023-03-24 16:41:09.133298,Match-Ups - 3rd Round Match-Up - C. Young v S. Straka - 3rd Round Match-Up,Cameron Young,0.0363,0.7333,0.697
-2023-03-24 07:41:34.302969,Corales Puntacana Championship - 2/3 Balls - 2nd Round 3 Balls - E. van Rooyen / C. Ramey / R. Werenski - 2nd Round 3 Balls,Richy Werenski,0.03570000000000001,0.2857,0.25
+2023-03-24 14:41:08.045264,College Specials - NCAA Tournament Specials - Exact Round of Elimination - Houston,Elite 8,0.0363,0.303,0.2667
 2023-03-24 14:41:08.013908,College Specials - NCAA Tournament Specials - Conference to Win 2023 NCAA Tournament,Any Other Conference,0.0344,0.0588,0.0244
 2023-03-24 14:41:07.997807,College Specials - NCAA Tournament Specials - Buzzer Beaters - Game Winning Buzzer Beating Shot to occur during the 2023 NCAA Men's Basketball Championship Tournament,No,0.033299999999999996,0.8333,0.8
 2023-03-24 17:41:18.869403,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Gavin Green,0.0321,0.0909,0.0588
 2023-03-24 16:41:16.855821,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,0.031399999999999983,0.2667,0.2353
 2023-03-24 14:41:08.094009,College Specials - NCAA Tournament Specials - Seed Number to Win 2023 NCAA Tournament,9,0.0309,0.0526,0.0217
-2023-03-24 09:40:47.283708,Match-Ups - 3rd Round Match-Up - J. Spieth v S. Lowry - 3rd Round Match-Up,Shane Lowry,0.029000000000000026,0.4545,0.4255
-2023-03-24 09:40:47.304280,Match-Ups - 3rd Round Match-Up - M. Homa v H. Matsuyama - 3rd Round Match-Up,Hideki Matsuyama,0.029000000000000026,0.4545,0.4255
 2023-03-24 16:41:16.855821,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Memphis Grizzlies,0.028799999999999992,0.1538,0.125
 2023-03-24 14:41:08.029800,College Specials - NCAA Tournament Specials - Exact Round of Elimination - Alabama,Champion (no elimination),0.02779999999999999,0.25,0.2222
+2023-03-24 21:41:03.877500,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Oakland Athletics - Esteury Ruiz- Total Stolen Bases,Over 29.5,0.027700000000000058,0.5833,0.5556
 2023-03-24 12:40:56.049927,Match-Ups - 3rd Round Match-Up - M. Fitzpatrick v S. Theegala - 3rd Round Match-Up,Matt Fitzpatrick,0.027700000000000058,0.5833,0.5556
-2023-03-24 09:40:47.475112,Match-Ups - 3rd Round Match-Up - W. Zalatoris v R. Fox - 3rd Round Match-Up,Will Zalatoris,0.026499999999999968,0.5917,0.5652
-2023-03-24 15:40:57.219318,Match-Ups - 3rd Round Match-Up - J.J. Spaun v M.W. Lee - 3rd Round Match-Up,Min Woo Lee,0.023800000000000043,0.5238,0.5
-2023-03-24 15:40:57.247163,Match-Ups - 3rd Round Match-Up - A. Wise v C. Davis - 3rd Round Match-Up,Cameron Davis,0.023800000000000043,0.5238,0.5
+2023-03-24 21:41:02.099128,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Malcolm Brogdon (BOS),0.025599999999999956,0.6,0.5744
+2023-03-24 21:41:06.356554,MLB Specials - Will Anthony Volpe Make The Yankees Opening Day Roster - Proposition,Yes,0.025599999999999956,0.6,0.5744
 2023-03-24 13:40:54.766149,Match-Ups - 3rd Round Match-Up - C. Morikawa v J. Day - 3rd Round Match-Up,Collin Morikawa,0.023800000000000043,0.5238,0.5
-2023-03-24 08:41:03.617996,Match-Ups - 3rd Round Match-Up - A. Putnam v H. English - 3rd Round Match-Up,Harris English,0.023799999999999988,0.5,0.4762
-2023-03-24 09:40:47.406146,Match-Ups - 3rd Round Match-Up - A. Noren v D. Riley - 3rd Round Match-Up,Davis Riley,0.023799999999999988,0.5,0.4762
-2023-03-24 09:40:47.254413,Match-Ups - 3rd Round Match-Up - A. Svensson v V. Perez - 3rd Round Match-Up,Victor Perez,0.023799999999999988,0.5,0.4762
+2023-03-24 15:40:57.247163,Match-Ups - 3rd Round Match-Up - A. Wise v C. Davis - 3rd Round Match-Up,Cameron Davis,0.023800000000000043,0.5238,0.5
+2023-03-24 15:40:57.219318,Match-Ups - 3rd Round Match-Up - J.J. Spaun v M.W. Lee - 3rd Round Match-Up,Min Woo Lee,0.023800000000000043,0.5238,0.5
 2023-03-24 14:41:08.078063,College Specials - NCAA Tournament Specials - Region to Win 2023 NCAA Tournament,South,0.023799999999999988,0.3571,0.3333
-2023-03-24 09:40:47.416465,Match-Ups - 3rd Round Match-Up - M. Fitzpatrick v S. Theegala - 3rd Round Match-Up,Sahith Theegala,0.022699999999999998,0.4878,0.4651
-2023-03-24 07:41:34.455430,Match-Ups - 3rd Round Match-Up - M. Homa v H. Matsuyama - 3rd Round Match-Up,Max Homa,0.022600000000000064,0.6226,0.6
-2023-03-24 07:41:34.208092,Corales Puntacana Championship - 2/3 Balls - 2nd Round 3 Balls - M. Schwab / C. Gribble / R. Moore - 2nd Round 3 Balls,Matthias Schwab,0.02260000000000001,0.4,0.3774
 2023-03-24 14:41:08.045264,College Specials - NCAA Tournament Specials - Exact Round of Elimination - Houston,Champion (no elimination),0.022199999999999998,0.2222,0.2
-2023-03-24 07:41:34.254021,Corales Puntacana Championship - 2/3 Balls - 2nd Round 3 Balls - B. Martin / M. Hubbard / N. Hardy - 2nd Round 3 Balls,Nick Hardy,0.022199999999999998,0.3448,0.3226
 2023-03-24 11:40:46.710856,BKFC 39 - Jason Jackson vs David Simpson - To Win the Bout,Jason Jackson,0.02180000000000004,0.6296,0.6078
-2023-03-24 09:40:47.456198,Match-Ups - 3rd Round Match-Up - R. McIlroy v K. Bradley - 3rd Round Match-Up,Keegan Bradley,0.021799999999999986,0.3922,0.3704
-2023-03-24 08:41:02.500161,Boxing Lines - Ivan Zucco vs Germaine Brown - To Win the Bout,Germaine Brown,0.021699999999999997,0.4762,0.4545
 2023-03-24 15:40:57.322132,Match-Ups - 3rd Round Match-Up - W. Zalatoris v R. Fox - 3rd Round Match-Up,Ryan Fox,0.021699999999999997,0.4762,0.4545
 2023-03-24 15:40:57.387543,Match-Ups - 3rd Round Match-Up - K. Mitchell v R. Fowler - 3rd Round Match-Up,Rickie Fowler,0.02169999999999994,0.5455,0.5238
-2023-03-24 07:41:34.490362,Match-Ups - 3rd Round Match-Up - A. Hadwin v A. Scott - 3rd Round Match-Up,Adam Hadwin,0.02169999999999994,0.5455,0.5238
-2023-03-24 09:40:47.439033,Match-Ups - 3rd Round Match-Up - A. Wise v C. Davis - 3rd Round Match-Up,Aaron Wise,0.02169999999999994,0.5455,0.5238
-2023-03-24 07:41:34.335293,Corales Puntacana Championship - 2/3 Balls - 2nd Round 3 Balls - K. Hickok / H. Endycott / W. Bryan - 2nd Round 3 Balls,Harrison Endycott,0.020799999999999985,0.3333,0.3125
 2023-03-24 18:40:51.002902,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Oakland Athletics - Esteury Ruiz- Total Stolen Bases,Over 29.5,0.02079999999999993,0.5556,0.5348
 2023-03-24 12:40:55.959963,Match-Ups - 3rd Round Match-Up - T. Montgomery v M. Hughes - 3rd Round Match-Up,Mackenzie Hughes,0.020699999999999996,0.4651,0.4444
-2023-03-24 09:40:47.375393,Match-Ups - 3rd Round Match-Up - S. Im v T. Fleetwood - 3rd Round Match-Up,Tommy Fleetwood,0.020699999999999996,0.4651,0.4444
 2023-03-24 16:41:16.677293,BKFC 39 - Kyle Wright vs Pat Casey - To Win the Bout,Kyle Wright,0.02030000000000004,0.3774,0.3571
 2023-03-24 14:40:58.126259,BKFC 39 - Cody Jenkins vs Anthony Foye - To Win the Bout,Cody Jenkins,0.019199999999999995,0.5192,0.5
 2023-03-24 10:40:43.840481,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 2 - J. Rahm / R. Fowler / K. Mitchell / B. Horschel - Tournament Group Betting - Group 2,Billy Horschel,0.018900000000000028,0.4444,0.4255
+2023-03-24 21:41:08.316099,BKFC 39 - Kasim Ruffin vs Trai Santos - To Win the Bout,Kasim Ruffin,0.018799999999999928,0.5536,0.5348
 2023-03-24 14:40:56.599093,Match-Ups - 3rd Round Match-Up - J.T. Poston v M. McNealy - 3rd Round Match-Up,J.T. Poston,0.018100000000000005,0.5833,0.5652
 2023-03-24 15:40:57.375298,Match-Ups - 3rd Round Match-Up - J. Rahm v B. Horschel - 3rd Round Match-Up,Billy Horschel,0.017600000000000005,0.3509,0.3333
 2023-03-24 17:41:10.571800,Boxing Lines - Chris Colbert vs Jose Valenzuela - To Win the Bout,Chris Colbert,0.017299999999999982,0.5917,0.5744
 2023-03-24 17:41:18.869403,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Alexander Knappe,0.017099999999999997,0.0294,0.0123
 2023-03-24 13:40:54.718556,Match-Ups - 3rd Round Match-Up - M. Homa v H. Matsuyama - 3rd Round Match-Up,Max Homa,0.016100000000000003,0.6078,0.5917
 2023-03-24 15:40:59.751764,NFL Draft '23 - Pick Props - #1 Overall Pick,CJ Stroud,0.015599999999999947,0.7299,0.7143
+2023-03-24 21:41:02.003856,College Specials - NCAA Tournament Specials - Player To win the Most Outstanding Player Award,Ryan Kalkbrenner (Creighton),0.015300000000000001,0.0476,0.0323
 2023-03-24 16:41:16.099732,Boxing Lines - Conah Walker vs Kane Gardner - To Win the Bout,Conah Walker,0.014900000000000024,0.6923,0.6774
 2023-03-24 10:40:44.341370,Boxing Lines - Jason Cunningham vs Miguel Gonzalez - To Win the Bout,Jason Cunningham,0.01430000000000009,0.8182,0.8039
-2023-03-24 07:41:34.270714,Corales Puntacana Championship - 2/3 Balls - 2nd Round 3 Balls - A. Bhatia / M.J. Daffue / P. Haley - 2nd Round 3 Balls,MJ Daffue,0.013800000000000034,0.3774,0.3636
+2023-03-24 21:41:08.296219,BKFC 39 - Stanislav Grosu vs Quartus Stitt - To Win the Bout,Stanislav Grosu,0.0131,0.7778,0.7647
 2023-03-24 12:40:56.042180,Match-Ups - 3rd Round Match-Up - A. Noren v D. Riley - 3rd Round Match-Up,Davis Riley,0.012199999999999989,0.5122,0.5
 2023-03-24 12:40:56.122071,Match-Ups - 3rd Round Match-Up - A. Putnam v H. English - 3rd Round Match-Up,Harris English,0.012199999999999989,0.5122,0.5
 2023-03-24 17:41:18.869403,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Hennie Du Plessis,0.012100000000000001,0.0244,0.0123
 2023-03-24 16:41:09.120608,Match-Ups - 3rd Round Match-Up - A. Putnam v H. English - 3rd Round Match-Up,Harris English,0.011600000000000055,0.5238,0.5122
 2023-03-24 17:41:10.322220,Boxing Lines - Ivan Zucco vs Germaine Brown - To Win the Bout,Germaine Brown,0.0116,0.4878,0.4762
-2023-03-24 09:40:47.395904,Match-Ups - 3rd Round Match-Up - S. Scheffler v T. Kim - 3rd Round Match-Up,Tom Kim,0.01150000000000001,0.3448,0.3333
-2023-03-24 09:40:47.486490,Match-Ups - 3rd Round Match-Up - C. Young v S. Straka - 3rd Round Match-Up,Sepp Straka,0.01150000000000001,0.3448,0.3333
 2023-03-24 10:40:43.869394,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 4 - P. Cantlay / B. Harman / K.H. Lee / N. Taylor - Tournament Group Betting - Group 4,Patrick Cantlay,0.011499999999999955,0.6667,0.6552
 2023-03-24 10:40:50.899078,UEFA Euro 2024 Futures - UEFA Euro 2024 - Outright Winner,Denmark,0.011199999999999995,0.0588,0.0476
 2023-03-24 14:40:56.566780,Match-Ups - 3rd Round Match-Up - S.W. Kim v M. Kuchar - 3rd Round Match-Up,Matt Kuchar,0.011099999999999999,0.4762,0.4651
-2023-03-24 09:40:47.324793,Match-Ups - 3rd Round Match-Up - S. Burns v S. Power - 3rd Round Match-Up,Seamus Power,0.011099999999999999,0.4762,0.4651
-2023-03-24 09:40:47.450450,Match-Ups - 3rd Round Match-Up - B. Griffin v L. Herbert - 3rd Round Match-Up,Ben Griffin,0.01100000000000001,0.5348,0.5238
-2023-03-24 09:40:47.468957,Match-Ups - 3rd Round Match-Up - A. Meronk v C. Bezuidenhout - 3rd Round Match-Up,Christiaan Bezuidenhout,0.01100000000000001,0.5348,0.5238
 2023-03-24 15:40:57.260240,Match-Ups - 3rd Round Match-Up - T. Hatton v R. Henley - 3rd Round Match-Up,Russell Henley,0.01100000000000001,0.5348,0.5238
-2023-03-24 09:40:46.489562,Boxing Lines - Conah Walker vs Kane Gardner - To Win the Bout,Conah Walker,0.010700000000000043,0.6774,0.6667
 2023-03-24 12:40:56.089811,Match-Ups - 3rd Round Match-Up - B. Griffin v L. Herbert - 3rd Round Match-Up,Ben Griffin,0.010699999999999932,0.5455,0.5348
 2023-03-24 13:40:54.698026,Match-Ups - 3rd Round Match-Up - J. Spieth v S. Lowry - 3rd Round Match-Up,Shane Lowry,-0.010099999999999998,0.4444,0.4545
 2023-03-24 11:40:46.855753,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Sarah Aline,-0.0102,0.0667,0.0769
-2023-03-24 12:40:56.122071,Match-Ups - 3rd Round Match-Up - A. Putnam v H. English - 3rd Round Match-Up,Andrew Putnam,-0.010699999999999932,0.5348,0.5455
 2023-03-24 12:40:56.042180,Match-Ups - 3rd Round Match-Up - A. Noren v D. Riley - 3rd Round Match-Up,Alex Noren,-0.010699999999999932,0.5348,0.5455
+2023-03-24 12:40:56.122071,Match-Ups - 3rd Round Match-Up - A. Putnam v H. English - 3rd Round Match-Up,Andrew Putnam,-0.010699999999999932,0.5348,0.5455
 2023-03-24 15:40:59.751764,NFL Draft '23 - Pick Props - #1 Overall Pick,Bryce Young,-0.010699999999999987,0.3226,0.3333
 2023-03-24 16:41:09.120608,Match-Ups - 3rd Round Match-Up - A. Putnam v H. English - 3rd Round Match-Up,Andrew Putnam,-0.01100000000000001,0.5238,0.5348
 2023-03-24 14:40:56.599093,Match-Ups - 3rd Round Match-Up - J.T. Poston v M. McNealy - 3rd Round Match-Up,Maverick McNealy,-0.011099999999999999,0.4651,0.4762
 2023-03-24 14:41:08.045264,College Specials - NCAA Tournament Specials - Exact Round of Elimination - Houston,Sweet 16,-0.011099999999999999,0.2667,0.2778
 2023-03-24 17:41:10.571800,Boxing Lines - Chris Colbert vs Jose Valenzuela - To Win the Bout,Jose Valenzuela,-0.0116,0.4762,0.4878
-2023-03-24 09:40:47.468957,Match-Ups - 3rd Round Match-Up - A. Meronk v C. Bezuidenhout - 3rd Round Match-Up,Adrian Meronk,-0.011600000000000055,0.5122,0.5238
 2023-03-24 15:40:57.260240,Match-Ups - 3rd Round Match-Up - T. Hatton v R. Henley - 3rd Round Match-Up,Tyrrell Hatton,-0.011600000000000055,0.5122,0.5238
-2023-03-24 09:40:47.450450,Match-Ups - 3rd Round Match-Up - B. Griffin v L. Herbert - 3rd Round Match-Up,Lucas Herbert,-0.011600000000000055,0.5122,0.5238
 2023-03-24 17:41:18.869403,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Zander Lombard,-0.011699999999999999,0.0079,0.0196
 2023-03-24 17:41:18.869403,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Daniel van Tonder,-0.012100000000000001,0.0123,0.0244
 2023-03-24 12:40:56.089811,Match-Ups - 3rd Round Match-Up - B. Griffin v L. Herbert - 3rd Round Match-Up,Lucas Herbert,-0.012199999999999989,0.5,0.5122
 2023-03-24 17:41:18.869403,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Martin Simonsen,-0.0124,0.0025,0.0149
-2023-03-24 10:40:50.899078,UEFA Euro 2024 Futures - UEFA Euro 2024 - Outright Winner,Germany,-0.012899999999999995,0.1538,0.1667
-2023-03-24 08:41:02.341597,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,Gonzaga,-0.012899999999999995,0.1538,0.1667
 2023-03-24 10:40:50.899078,UEFA Euro 2024 Futures - UEFA Euro 2024 - Outright Winner,France,-0.012899999999999995,0.1538,0.1667
+2023-03-24 10:40:50.899078,UEFA Euro 2024 Futures - UEFA Euro 2024 - Outright Winner,Germany,-0.012899999999999995,0.1538,0.1667
 2023-03-24 10:40:44.341370,Boxing Lines - Jason Cunningham vs Miguel Gonzalez - To Win the Bout,Miguel Gonzalez,-0.01319999999999999,0.25,0.2632
 2023-03-24 16:41:16.099732,Boxing Lines - Conah Walker vs Kane Gardner - To Win the Bout,Kane Gardner,-0.01419999999999999,0.3704,0.3846
 2023-03-24 10:40:43.869394,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 4 - P. Cantlay / B. Harman / K.H. Lee / N. Taylor - Tournament Group Betting - Group 4,Brian Harman,-0.01479999999999998,0.3774,0.3922
 2023-03-24 14:41:08.045264,College Specials - NCAA Tournament Specials - Exact Round of Elimination - Houston,Final 4,-0.015100000000000002,0.1667,0.1818
 2023-03-24 17:41:18.869403,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Sebastian Soderberg,-0.015300000000000001,0.0323,0.0476
-2023-03-24 09:40:46.489562,Boxing Lines - Conah Walker vs Kane Gardner - To Win the Bout,Kane Gardner,-0.015400000000000025,0.3846,0.4
-2023-03-24 08:41:02.500161,Boxing Lines - Ivan Zucco vs Germaine Brown - To Win the Bout,Ivan Zucco,-0.016100000000000003,0.5917,0.6078
 2023-03-24 17:41:18.869403,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Jordan Smith,-0.0165,0.0079,0.0244
 2023-03-24 12:40:55.959963,Match-Ups - 3rd Round Match-Up - T. Montgomery v M. Hughes - 3rd Round Match-Up,Taylor Montgomery,-0.016699999999999937,0.5833,0.6
-2023-03-24 09:40:47.375393,Match-Ups - 3rd Round Match-Up - S. Im v T. Fleetwood - 3rd Round Match-Up,Sungjae Im,-0.016699999999999937,0.5833,0.6
-2023-03-24 08:41:02.341597,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,Alabama,-0.016699999999999993,0.25,0.2667
 2023-03-24 10:40:50.899078,UEFA Euro 2024 Futures - UEFA Euro 2024 - Outright Winner,Italy,-0.016700000000000007,0.0833,0.1
 2023-03-24 17:41:18.869403,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Andy Sullivan,-0.0168,0.0028,0.0196
 2023-03-24 17:41:10.322220,Boxing Lines - Ivan Zucco vs Germaine Brown - To Win the Bout,Ivan Zucco,-0.017299999999999982,0.5744,0.5917
-2023-03-24 09:40:47.486490,Match-Ups - 3rd Round Match-Up - C. Young v S. Straka - 3rd Round Match-Up,Cameron Young,-0.017300000000000093,0.697,0.7143
-2023-03-24 09:40:47.395904,Match-Ups - 3rd Round Match-Up - S. Scheffler v T. Kim - 3rd Round Match-Up,Scottie Scheffler,-0.017300000000000093,0.697,0.7143
-2023-03-24 07:41:34.208092,Corales Puntacana Championship - 2/3 Balls - 2nd Round 3 Balls - M. Schwab / C. Gribble / R. Moore - 2nd Round 3 Balls,Ryan Moore,-0.017600000000000005,0.3333,0.3509
+2023-03-24 21:41:08.296219,BKFC 39 - Stanislav Grosu vs Quartus Stitt - To Win the Bout,Quartus Stitt,-0.017299999999999982,0.2857,0.303
 2023-03-24 10:40:43.899339,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 1 - S. Scheffler / T. Kim / A. Noren / D. Riley - Tournament Group Betting - Group 1,Scottie Scheffler,-0.017900000000000027,0.8571,0.875
 2023-03-24 14:40:56.566780,Match-Ups - 3rd Round Match-Up - S.W. Kim v M. Kuchar - 3rd Round Match-Up,Si Woo Kim,-0.018100000000000005,0.5652,0.5833
-2023-03-24 09:40:47.324793,Match-Ups - 3rd Round Match-Up - S. Burns v S. Power - 3rd Round Match-Up,Sam Burns,-0.018100000000000005,0.5652,0.5833
 2023-03-24 10:40:43.921051,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 14 - T. Hatton / R. Henley / B. Griffin / L. Herbert - Tournament Group Betting - Group 14,Ben Griffin,-0.01820000000000002,0.1818,0.2
-2023-03-24 08:41:02.341597,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,Houston,-0.01820000000000002,0.1818,0.2
 2023-03-24 17:41:18.869403,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Daniel Gavins,-0.0183,0.0013,0.0196
 2023-03-24 11:40:46.662942,BKFC 39 - Brian Maxwell vs Daniel Bunyan - To Win the Bout,Daniel Bunyan,-0.018900000000000028,0.4255,0.4444
-2023-03-24 07:41:34.455430,Match-Ups - 3rd Round Match-Up - M. Homa v H. Matsuyama - 3rd Round Match-Up,Hideki Matsuyama,-0.018900000000000028,0.4255,0.4444
-2023-03-24 17:41:18.869403,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Mikko Korhonen,-0.0194,0.005,0.0244
+2023-03-24 21:41:08.255931,BKFC 39 - Cody Jenkins vs Anthony Foye - To Win the Bout,Cody Jenkins,-0.019199999999999995,0.5,0.5192
 2023-03-24 17:41:18.869403,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Tom McKibbin,-0.0194,0.005,0.0244
+2023-03-24 17:41:18.869403,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Mikko Korhonen,-0.0194,0.005,0.0244
 2023-03-24 13:40:54.718556,Match-Ups - 3rd Round Match-Up - M. Homa v H. Matsuyama - 3rd Round Match-Up,Hideki Matsuyama,-0.019699999999999995,0.4348,0.4545
 2023-03-24 11:40:46.710856,BKFC 39 - Jason Jackson vs David Simpson - To Win the Bout,David Simpson,-0.019699999999999995,0.4348,0.4545
-2023-03-24 09:40:47.254413,Match-Ups - 3rd Round Match-Up - A. Svensson v V. Perez - 3rd Round Match-Up,Adam Svensson,-0.01970000000000005,0.5455,0.5652
-2023-03-24 09:40:47.406146,Match-Ups - 3rd Round Match-Up - A. Noren v D. Riley - 3rd Round Match-Up,Alex Noren,-0.01970000000000005,0.5455,0.5652
-2023-03-24 08:41:03.617996,Match-Ups - 3rd Round Match-Up - A. Putnam v H. English - 3rd Round Match-Up,Andrew Putnam,-0.01970000000000005,0.5455,0.5652
-2023-03-24 07:41:34.254021,Corales Puntacana Championship - 2/3 Balls - 2nd Round 3 Balls - B. Martin / M. Hubbard / N. Hardy - 2nd Round 3 Balls,Mark Hubbard,-0.020799999999999985,0.3125,0.3333
 2023-03-24 17:41:18.869403,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Hurly Long,-0.0216,0.0028,0.0244
-2023-03-24 15:40:57.219318,Match-Ups - 3rd Round Match-Up - J.J. Spaun v M.W. Lee - 3rd Round Match-Up,J.J. Spaun,-0.02169999999999994,0.5238,0.5455
-2023-03-24 13:40:54.766149,Match-Ups - 3rd Round Match-Up - C. Morikawa v J. Day - 3rd Round Match-Up,Jason Day,-0.02169999999999994,0.5238,0.5455
 2023-03-24 15:40:57.247163,Match-Ups - 3rd Round Match-Up - A. Wise v C. Davis - 3rd Round Match-Up,Aaron Wise,-0.02169999999999994,0.5238,0.5455
-2023-03-24 09:40:47.475112,Match-Ups - 3rd Round Match-Up - W. Zalatoris v R. Fox - 3rd Round Match-Up,Ryan Fox,-0.021699999999999997,0.4545,0.4762
-2023-03-24 07:41:34.335293,Corales Puntacana Championship - 2/3 Balls - 2nd Round 3 Balls - K. Hickok / H. Endycott / W. Bryan - 2nd Round 3 Balls,Kramer Hickok,-0.021699999999999997,0.4545,0.4762
+2023-03-24 13:40:54.766149,Match-Ups - 3rd Round Match-Up - C. Morikawa v J. Day - 3rd Round Match-Up,Jason Day,-0.02169999999999994,0.5238,0.5455
+2023-03-24 15:40:57.219318,Match-Ups - 3rd Round Match-Up - J.J. Spaun v M.W. Lee - 3rd Round Match-Up,J.J. Spaun,-0.02169999999999994,0.5238,0.5455
 2023-03-24 15:40:57.375298,Match-Ups - 3rd Round Match-Up - J. Rahm v B. Horschel - 3rd Round Match-Up,Jon Rahm,-0.02200000000000002,0.6923,0.7143
-2023-03-24 09:40:47.456198,Match-Ups - 3rd Round Match-Up - R. McIlroy v K. Bradley - 3rd Round Match-Up,Rory McIlroy,-0.022199999999999998,0.6552,0.6774
 2023-03-24 18:40:51.002902,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Oakland Athletics - Esteury Ruiz- Total Stolen Bases,Under 29.5,-0.022600000000000064,0.5122,0.5348
+2023-03-24 21:41:06.356554,MLB Specials - Will Anthony Volpe Make The Yankees Opening Day Roster - Proposition,No,-0.022699999999999998,0.4651,0.4878
 2023-03-24 12:40:56.049927,Match-Ups - 3rd Round Match-Up - M. Fitzpatrick v S. Theegala - 3rd Round Match-Up,Sahith Theegala,-0.022699999999999998,0.4651,0.4878
 2023-03-24 16:41:16.855821,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Dallas Mavericks,-0.02310000000000001,0.0769,0.1
 2023-03-24 17:41:18.869403,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Wilco Nienaber,-0.023200000000000002,0.0244,0.0476
-2023-03-24 17:41:18.869403,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Ewen Ferguson,-0.023200000000000002,0.0244,0.0476
 2023-03-24 17:41:18.869403,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Jayden Schaper,-0.023200000000000002,0.0244,0.0476
+2023-03-24 17:41:18.869403,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Ewen Ferguson,-0.023200000000000002,0.0244,0.0476
 2023-03-24 11:40:46.855753,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Aline Wirley,-0.023799999999999988,0.1429,0.1667
 2023-03-24 14:41:08.045264,College Specials - NCAA Tournament Specials - Exact Round of Elimination - Houston,Championship Game,-0.023799999999999988,0.1429,0.1667
 2023-03-24 15:40:57.387543,Match-Ups - 3rd Round Match-Up - K. Mitchell v R. Fowler - 3rd Round Match-Up,Keith Mitchell,-0.023800000000000043,0.5,0.5238
-2023-03-24 09:40:47.439033,Match-Ups - 3rd Round Match-Up - A. Wise v C. Davis - 3rd Round Match-Up,Cameron Davis,-0.023800000000000043,0.5,0.5238
-2023-03-24 07:41:34.490362,Match-Ups - 3rd Round Match-Up - A. Hadwin v A. Scott - 3rd Round Match-Up,Adam Scott,-0.023800000000000043,0.5,0.5238
+2023-03-24 21:41:03.877500,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Oakland Athletics - Esteury Ruiz- Total Stolen Bases,Under 29.5,-0.024399999999999977,0.4878,0.5122
 2023-03-24 17:41:18.869403,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Paul Waring,-0.026099999999999998,0.0033,0.0294
 2023-03-24 15:40:57.322132,Match-Ups - 3rd Round Match-Up - W. Zalatoris v R. Fox - 3rd Round Match-Up,Will Zalatoris,-0.026499999999999968,0.5652,0.5917
 2023-03-24 16:41:16.677293,BKFC 39 - Kyle Wright vs Pat Casey - To Win the Bout,Pat Casey,-0.026800000000000046,0.6875,0.7143
-2023-03-24 09:40:47.416465,Match-Ups - 3rd Round Match-Up - M. Fitzpatrick v S. Theegala - 3rd Round Match-Up,Matt Fitzpatrick,-0.027700000000000058,0.5556,0.5833
+2023-03-24 21:41:02.116519,NBA Awards - 2022/23 NBA Awards - 2022/23 The Most Improved Player,Shai Gilgeous-Alexander (OKC),-0.02779999999999999,0.2222,0.25
 2023-03-24 17:41:18.869403,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Darren Fichardt,-0.028300000000000002,0.004,0.0323
 2023-03-24 14:41:08.078063,College Specials - NCAA Tournament Specials - Region to Win 2023 NCAA Tournament,East,-0.028799999999999992,0.125,0.1538
-2023-03-24 09:40:47.283708,Match-Ups - 3rd Round Match-Up - J. Spieth v S. Lowry - 3rd Round Match-Up,Jordan Spieth,-0.03090000000000004,0.5917,0.6226
-2023-03-24 09:40:47.304280,Match-Ups - 3rd Round Match-Up - M. Homa v H. Matsuyama - 3rd Round Match-Up,Max Homa,-0.03090000000000004,0.5917,0.6226
-2023-03-24 07:41:34.302969,Corales Puntacana Championship - 2/3 Balls - 2nd Round 3 Balls - E. van Rooyen / C. Ramey / R. Werenski - 2nd Round 3 Balls,Erik Van Rooyen,-0.031799999999999995,0.4444,0.4762
 2023-03-24 16:41:09.133298,Match-Ups - 3rd Round Match-Up - C. Young v S. Straka - 3rd Round Match-Up,Sepp Straka,-0.032299999999999995,0.3125,0.3448
-2023-03-24 14:41:08.029800,College Specials - NCAA Tournament Specials - Exact Round of Elimination - Alabama,Final 4,-0.033300000000000024,0.1667,0.2
 2023-03-24 14:41:08.094009,College Specials - NCAA Tournament Specials - Seed Number to Win 2023 NCAA Tournament,4,-0.033300000000000024,0.1667,0.2
+2023-03-24 14:41:08.029800,College Specials - NCAA Tournament Specials - Exact Round of Elimination - Alabama,Final 4,-0.033300000000000024,0.1667,0.2
 2023-03-24 14:41:07.997807,College Specials - NCAA Tournament Specials - Buzzer Beaters - Game Winning Buzzer Beating Shot to occur during the 2023 NCAA Men's Basketball Championship Tournament,Yes,-0.03409999999999999,0.2326,0.2667
-2023-03-24 09:40:47.264659,Match-Ups - 3rd Round Match-Up - V. Hovland v C. Kirk - 3rd Round Match-Up,Chris Kirk,-0.03489999999999999,0.4651,0.5
 2023-03-24 16:41:16.855821,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Phoenix Suns,-0.0363,0.2667,0.303
 2023-03-24 10:40:43.884300,WGC Dell Match-Play - Tournament Groups - Tournament Group Betting - Group 8 - V. Hovland / C. Kirk / S.W. Kim / M. Kuchar - Tournament Group Betting - Group 8,Matt Kuchar,-0.0393,0.3774,0.4167
 2023-03-24 17:41:18.869403,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Calum Hill,-0.0402,0.0033,0.0435
@@ -174,6 +135,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-24 18:40:49.013347,NFL Draft '23 - Positional Groups - First Offensive Lineman Selected,Peter Skoronski,-0.044399999999999995,0.4,0.4444
 2023-03-24 17:41:18.869403,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Niklas Norgaard Moller,-0.05249999999999999,0.0244,0.0769
 2023-03-24 17:41:18.869403,Jonsson Workwear Open - Jonsson Workwear Open - Outright,Joakim Lagergren,-0.053099999999999994,0.0057,0.0588
+2023-03-24 21:41:08.241799,BKFC 39 - Brian Maxwell vs Daniel Bunyan - To Win the Bout,Daniel Bunyan,-0.05509999999999998,0.3704,0.4255
 2023-03-24 11:40:46.855753,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Amanda,-0.06659999999999999,0.2667,0.3333
+2023-03-24 21:41:08.898107,NFL Draft '23 - Positional Groups - First Offensive Lineman Selected,Peter Skoronski,-0.06670000000000004,0.3333,0.4
 2023-03-24 14:41:08.013908,College Specials - NCAA Tournament Specials - Conference to Win 2023 NCAA Tournament,SEC,-0.0948,0.25,0.3448
 2023-03-24 14:41:08.094009,College Specials - NCAA Tournament Specials - Seed Number to Win 2023 NCAA Tournament,2,-0.10910000000000002,0.0909,0.2
+2023-03-24 21:41:02.099128,NBA Awards - 2022/23 NBA Awards - 2022/23 The 6th Man of the Year,Immanuel Quickley (NYK),-0.1491,0.2857,0.4348
