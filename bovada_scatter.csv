@@ -25,6 +25,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-26 13:40:46.993079,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Mark Daigneault,0.033100000000000004,0.0625,0.0294
 2023-03-26 09:40:45.615312,Match-Ups - Semi-Final Match-Up - R. McIlroy vs C. Young - Semi-Final Match Up,Rory McIlroy,0.032099999999999906,0.6154,0.5833
 2023-03-26 13:40:46.826425,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Boston Celtics,0.03059999999999996,0.9681,0.9375
+2023-03-26 20:40:46.282034,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Chicago Cubs - Dansby Swanson Total Homeruns,Under 24.5,0.030399999999999983,0.5652,0.5348
 2023-03-26 11:40:50.489236,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - St. Louis Cardinals - Adam Wainwright - Total Wins,Under 10.5,0.030399999999999983,0.5652,0.5348
 2023-03-26 13:40:46.922226,College Specials - NCAA Tournament Specials - Player To win the Most Outstanding Player Award,Isaiah Wong (Miami FL),0.029700000000000004,0.0476,0.0179
 2023-03-26 13:40:46.834430,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Atlanta Hawks,0.029299999999999993,0.0769,0.0476
@@ -36,6 +37,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-26 13:40:46.922226,College Specials - NCAA Tournament Specials - Player To win the Most Outstanding Player Award,Sir'Jabari Rice (Texas),0.0262,0.0385,0.0123
 2023-03-26 15:40:49.312160,WNCAA - 2023 NCAA Women's Tournament - National Champion,LSU (W),0.025300000000000003,0.1429,0.1176
 2023-03-26 13:40:46.922226,College Specials - NCAA Tournament Specials - Player To win the Most Outstanding Player Award,Darrion Trammell (San Diego St.),0.024399999999999998,0.0294,0.005
+2023-03-26 19:40:58.529597,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,San Diego State,0.0242,0.0909,0.0667
 2023-03-26 13:40:46.922226,College Specials - NCAA Tournament Specials - Player To win the Most Outstanding Player Award,Timmy Allen (Texas),0.022099999999999998,0.0385,0.0164
 2023-03-26 11:40:52.684737,MLB Futures - MLB 2023 Division Straight Trifecta - MLB 2023 NL Central,1st STL / 2nd MIL / 3rd CHI,0.021999999999999964,0.3077,0.2857
 2023-03-26 11:40:51.045183,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Washington Nationals - Joey Meneses - Total Homeruns,Over 20.5,0.02079999999999993,0.5556,0.5348
@@ -67,8 +69,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-26 11:40:47.587329,NFC South - NFC South 2023/24 - NFC South Winner,Atlanta Falcons,-0.010499999999999982,0.2,0.2105
 2023-03-26 11:40:50.728482,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Texas Rangers - Corey Seager - Batting Average,Under .275,-0.01100000000000001,0.5238,0.5348
 2023-03-26 11:40:51.011071,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Toronto Blue Jays - Vladimir Guerrero Jr. - Total RBI's,Under 101.5,-0.01100000000000001,0.5238,0.5348
-2023-03-26 11:40:50.767271,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Texas Rangers - Marcus Semien - Total Homeruns,Over 29.5,-0.01100000000000001,0.5238,0.5348
 2023-03-26 11:40:50.722500,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Texas Rangers - Adolis Garcia - Total RBI's,Over 94.5,-0.01100000000000001,0.5238,0.5348
+2023-03-26 11:40:50.767271,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Texas Rangers - Marcus Semien - Total Homeruns,Over 29.5,-0.01100000000000001,0.5238,0.5348
 2023-03-26 13:40:46.993079,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,JB Bickerstaff,-0.011199999999999995,0.0323,0.0435
 2023-03-26 08:41:07.740076,MLS - MLS 2023 - Winner,New York Red Bulls,-0.011199999999999995,0.0476,0.0588
 2023-03-26 11:40:51.591375,MLB 2023 Regular Season Props - MLB 2023 Regular Season Props - Los Angeles Dodgers Regular Season Win Total,Over 97.5,-0.0116,0.4762,0.4878
@@ -84,15 +86,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-26 11:40:47.578960,NFC North - NFC North 2023/24 - NFC North Winner,Minnesota Vikings,-0.016699999999999993,0.25,0.2667
 2023-03-26 11:40:51.386498,MLB 2023 Regular Season Props - MLB 2023 Regular Season Props - Chicago White Sox Regular Season Win Total,Over 83.5,-0.019699999999999995,0.4348,0.4545
 2023-03-26 13:40:46.993079,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Tom Thibodeau,-0.0203,0.0385,0.0588
-2023-03-26 11:40:51.282536,MLB 2023 Regular Season Props - MLB 2023 Regular Season Props - Atlanta Braves Regular Season Win Total,Under 95.5,-0.02169999999999994,0.5238,0.5455
 2023-03-26 11:40:51.481222,MLB 2023 Regular Season Props - MLB 2023 Regular Season Props - Detroit Tigers Regular Season Win Total,Over 69.5,-0.02169999999999994,0.5238,0.5455
+2023-03-26 11:40:51.282536,MLB 2023 Regular Season Props - MLB 2023 Regular Season Props - Atlanta Braves Regular Season Win Total,Under 95.5,-0.02169999999999994,0.5238,0.5455
 2023-03-26 11:40:51.307178,MLB 2023 Regular Season Props - MLB 2023 Regular Season Props - Baltimore Orioles Regular Season Win Total,Under 76.5,-0.021699999999999997,0.4545,0.4762
 2023-03-26 11:40:47.530114,AFC North - AFC North 2023/24 - AFC North Winner,Cincinnati Bengals,-0.021699999999999997,0.4545,0.4762
-2023-03-26 08:41:08.203289,League Two - England - League Two 2022/23 - To Be Promoted,Bradford City,-0.021999999999999964,0.2857,0.3077
 2023-03-26 11:40:47.587329,NFC South - NFC South 2023/24 - NFC South Winner,Carolina Panthers,-0.021999999999999964,0.2857,0.3077
+2023-03-26 08:41:08.203289,League Two - England - League Two 2022/23 - To Be Promoted,Bradford City,-0.021999999999999964,0.2857,0.3077
 2023-03-26 13:40:46.834430,2022/23 Divisions - 2022-2023 NBA Southeast Division - Division Winner,Miami Heat,-0.02200000000000002,0.9681,0.9901
-2023-03-26 11:40:51.045183,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Washington Nationals - Joey Meneses - Total Homeruns,Under 20.5,-0.022600000000000064,0.5122,0.5348
 2023-03-26 11:40:50.438069,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Seattle Mariners - Teoscar Hernandez - Total Homeruns,Over 29.5,-0.022600000000000064,0.5122,0.5348
+2023-03-26 11:40:51.045183,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Washington Nationals - Joey Meneses - Total Homeruns,Under 20.5,-0.022600000000000064,0.5122,0.5348
 2023-03-26 11:40:51.437199,MLB 2023 Regular Season Props - MLB 2023 Regular Season Props - Cleveland Guardians Regular Season Win Total,Under 86.5,-0.023800000000000043,0.5,0.5238
 2023-03-26 11:40:51.412087,MLB 2023 Regular Season Props - MLB 2023 Regular Season Props - Cincinnati Reds Regular Season Win Total,Under 65.5,-0.023800000000000043,0.5,0.5238
 2023-03-26 13:40:46.993079,NBA Awards - 2022/23 NBA Awards - 2022/23 The Coach of the Year,Mike Budenholzer,-0.0242,0.0667,0.0909
@@ -104,6 +106,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-26 08:41:08.195240,League Two - England - League Two 2022/23 - Top Goalscorer,Andy Cook,-0.033299999999999996,0.8,0.8333
 2023-03-26 13:40:46.826425,2022/23 Divisions - 2022-2023 NBA Atlantic Division - Division Winner,Philadelphia 76ers,-0.03330000000000001,0.0667,0.1
 2023-03-26 09:40:52.398893,League Two - England - League Two 2022/23 - Top 3 Finish,Mansfield Town,-0.03330000000000001,0.0667,0.1
+2023-03-26 19:40:58.529597,College Basketball Futures - 2023 NCAA DI Mens Basketball Tournament - March Madness -  National Champion,Creighton,-0.033300000000000024,0.1667,0.2
+2023-03-26 20:40:46.282034,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Chicago Cubs - Dansby Swanson Total Homeruns,Over 24.5,-0.03480000000000005,0.5,0.5348
 2023-03-26 11:40:50.489236,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - St. Louis Cardinals - Adam Wainwright - Total Wins,Over 10.5,-0.03480000000000005,0.5,0.5348
 2023-03-26 11:40:51.035622,MLB 2023 Regular Season Player Props - MLB 2023 Regular Season Player Props - Washington Nationals - Jeimer Candelario - Total Homeruns,Over 19.5,-0.035999999999999976,0.4762,0.5122
 2023-03-26 09:40:52.393136,League Two - England - League Two 2022/23 - To Finish Bottom,Crawley Town,-0.04329999999999999,0.0476,0.0909
