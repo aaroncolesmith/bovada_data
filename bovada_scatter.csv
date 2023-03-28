@@ -7,11 +7,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-27 22:41:31.534183,MLB Specials - Will these players make the All-Star team - Juan Soto,Yes,0.05019999999999991,0.6154,0.5652
 2023-03-28 00:40:49.332531,MLB Specials - Will these players make the All-Star team - Ronald Acuna Jr.,Yes,0.03479999999999994,0.6,0.5652
 2023-03-27 19:41:06.662532,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Joel Embiid (PHI),0.03179999999999994,0.5556,0.5238
+2023-03-28 05:40:44.486309,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Milwaukee Bucks,0.020699999999999996,0.4651,0.4444
 2023-03-28 00:40:49.300238,MLB Specials - Will these players make the All-Star team - Adley Rutchsmann,Yes,0.014800000000000035,0.6226,0.6078
+2023-03-28 05:40:44.496240,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,0.01469999999999999,0.25,0.2353
 2023-03-28 00:40:49.338938,MLB Specials - Will these players make the All-Star team - Vladimir Guerrero Jr.,Yes,0.014200000000000101,0.6296,0.6154
 2023-03-28 00:40:49.326151,MLB Specials - Will these players make the All-Star team - Juan Soto,Yes,0.014200000000000101,0.6296,0.6154
-2023-03-28 00:40:49.338938,MLB Specials - Will these players make the All-Star team - Vladimir Guerrero Jr.,No,-0.019699999999999995,0.4348,0.4545
+2023-03-28 05:40:44.496240,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Dallas Mavericks,-0.0102,0.0667,0.0769
 2023-03-28 00:40:49.326151,MLB Specials - Will these players make the All-Star team - Juan Soto,No,-0.019699999999999995,0.4348,0.4545
+2023-03-28 00:40:49.338938,MLB Specials - Will these players make the All-Star team - Vladimir Guerrero Jr.,No,-0.019699999999999995,0.4348,0.4545
 2023-03-28 00:40:49.300238,MLB Specials - Will these players make the All-Star team - Adley Rutchsmann,No,-0.020699999999999996,0.4444,0.4651
 2023-03-27 19:41:06.662532,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Nikola Jokic (DEN),-0.021699999999999997,0.4545,0.4762
 2023-03-28 02:40:47.597893,LA Open - LA Open - Outright,Angel Yin,-0.029,0.0033,0.0323
