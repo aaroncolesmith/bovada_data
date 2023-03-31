@@ -11,9 +11,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-31 13:41:02.716041,MLB Daily Specials - MLB Daily Specials - Friday 31st March,"Pete Alonso, Yordan Alvarez, Manny Machado, Max Muncy, Teoscar Hernandez 3+ RBIs Combined",0.03640000000000004,0.4,0.3636
 2023-03-31 17:41:15.642326,Premier League Futures/Specials - English Premier League 2022/23 - Not To Finish in Top 4,Liverpool,0.03410000000000002,0.7674,0.7333
 2023-03-31 18:40:46.295870,NBA Daily Specials - NBA Daily Specials - Friday 31st March,"76ers, Raptors, Lakers & Timberwolves all to Score 20+ Points in Each Quarter",0.030299999999999994,0.3636,0.3333
-2023-03-31 09:41:10.802162,Boxing Lines - Joet Gonzalez vs Jose Enrique Vivas - To Win the Bout,Joet Gonzalez,0.028000000000000025,0.8571,0.8291
 2023-03-31 17:41:12.602696,The White Lotus - The White Lotus Season 3: To Play A Character - To Play A Character,Ke Huy Quan,0.0267,0.1176,0.0909
 2023-03-31 17:41:12.375023,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Sarah Aline,0.0242,0.0909,0.0667
+2023-03-31 22:40:49.860990,Gamebred Fighting Championship - Vitor Belfort vs Ronaldo Souza - To Win the Bout,Vitor Belfort,0.023799999999999932,0.8571,0.8333
 2023-03-31 13:41:02.716041,MLB Daily Specials - MLB Daily Specials - Friday 31st March,"Pete Alonso, Yordan Alvarez, Manny Machado, Max Muncy, Teoscar Hernandez 2+ RBIs Combined",0.022600000000000064,0.6226,0.6
 2023-03-31 13:41:02.716041,MLB Daily Specials - MLB Daily Specials - Friday 31st March,"Pete Alonso, Yordan Alvarez, Manny Machado, Max Muncy, Teoscar Hernandez 4+ RBIs Combined",0.022199999999999998,0.2222,0.2
 2023-03-31 13:41:02.716041,MLB Daily Specials - MLB Daily Specials - Friday 31st March,"Pete Alonso, Yordan Alvarez, Manny Machado, Max Muncy, Teoscar Hernandez 5+ RBIs Combined",0.02020000000000001,0.1111,0.0909
@@ -28,7 +28,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-31 15:40:50.830157,Gamebred Fighting Championship - Roy Jones Jr vs Anthony Pettis - To Win the Bout,Roy Jones Jr,0.014700000000000046,0.7647,0.75
 2023-03-31 13:41:02.716041,MLB Daily Specials - MLB Daily Specials - Friday 31st March,"Pete Alonso, Yordan Alvarez, Manny Machado, Max Muncy, Teoscar Hernandez 6+ RBIs Combined",0.014100000000000001,0.0526,0.0385
 2023-03-31 17:41:12.338637,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Outright Winner 2023,Armenia,0.014099999999999998,0.0385,0.0244
+2023-03-31 22:40:51.021916,League Two - England - League Two 2022/23 - Outright,Northampton Town,0.013999999999999999,0.0909,0.0769
 2023-03-31 18:40:46.295870,NBA Daily Specials - NBA Daily Specials - Friday 31st March,"76ers, Raptors, Lakers & Timberwolves all to Score 22+ Points in Each Quarter",0.013899999999999996,0.125,0.1111
+2023-03-31 22:40:49.851645,Gamebred Fighting Championship - Roy Jones Jr vs Anthony Pettis - To Win the Bout,Roy Jones Jr,0.0131,0.7778,0.7647
 2023-03-31 10:41:21.280453,Boxing Lines - Joet Gonzalez vs Jose Enrique Vivas - To Win the Bout,Jose Enrique Vivas,0.011700000000000016,0.2222,0.2105
 2023-03-31 11:40:54.430134,Round Match-Ups - 2nd Round Match-Up - A. Smalley vs R. Palmer - 2nd Round Match-Up,Ryan Palmer,0.011600000000000055,0.5238,0.5122
 2023-03-31 18:40:46.295870,NBA Daily Specials - NBA Daily Specials - Friday 31st March,"76ers, Raptors, Lakers & Timberwolves all to Score 53+ Points in Each Half",0.011099999999999999,0.0667,0.0556
@@ -41,8 +43,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-31 10:41:21.280453,Boxing Lines - Joet Gonzalez vs Jose Enrique Vivas - To Win the Bout,Joet Gonzalez,-0.01090000000000002,0.8462,0.8571
 2023-03-31 11:40:54.430134,Round Match-Ups - 2nd Round Match-Up - A. Smalley vs R. Palmer - 2nd Round Match-Up,Alex Smalley,-0.01100000000000001,0.5238,0.5348
 2023-03-31 17:41:12.629373,Nobel Prizes - Nobel Peace Prize - Nobel Peace Prize Winner 2023,Agnes Chow,-0.011199999999999995,0.0476,0.0588
-2023-03-31 11:40:54.446539,Round Match-Ups - 2nd Round Match-Up - MJ Daffue v S. Piercy - 2nd Round Match-Up,MJ Daffue,-0.011600000000000055,0.5122,0.5238
 2023-03-31 11:40:54.437355,Round Match-Ups - 2nd Round Match-Up - B. Garnett v H. Norlander - 2nd Round Match-Up,Brice Garnett,-0.011600000000000055,0.5122,0.5238
+2023-03-31 11:40:54.446539,Round Match-Ups - 2nd Round Match-Up - MJ Daffue v S. Piercy - 2nd Round Match-Up,MJ Daffue,-0.011600000000000055,0.5122,0.5238
 2023-03-31 11:40:54.422208,Round Match-Ups - 2nd Round Match-Up - T. Hatton v S. W. Kim - 2nd Round Match-Up,Si Woo Kim,-0.012199999999999989,0.5,0.5122
 2023-03-31 15:40:51.614729,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Los Angeles Clippers,-0.014099999999999994,0.0526,0.0667
 2023-03-31 15:40:51.648523,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,-0.01469999999999999,0.2353,0.25
@@ -52,11 +54,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-31 15:40:51.614729,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Philadelphia 76ers,-0.016700000000000007,0.0833,0.1
 2023-03-31 17:41:11.946358,Boxing Lines - Michael Magnesi vs Ayrton Osmar Gimenez - To Win the Bout,Michael Magnesi,-0.016799999999999926,0.8403,0.8571
 2023-03-31 12:41:02.088618,Boxing Lines - Michael Magnesi vs Ayrton Osmar Gimenez - To Win the Bout,Ayrton Osmar Gimenez,-0.01680000000000001,0.2105,0.2273
+2023-03-31 22:40:49.851645,Gamebred Fighting Championship - Roy Jones Jr vs Anthony Pettis - To Win the Bout,Anthony Pettis,-0.017299999999999982,0.2857,0.303
 2023-03-31 17:41:12.375023,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Ricardo Camargo,-0.018400000000000027,0.2941,0.3125
 2023-03-31 15:40:51.648523,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Clippers,-0.022199999999999998,0.1111,0.1333
 2023-03-31 18:40:44.955718,Round Match-Ups - 2nd Round Match-Up - B. Hossler vs T. Detry - 2nd Round Match-Up,Beau Hossler,-0.023799999999999988,0.4762,0.5
+2023-03-31 22:40:49.860990,Gamebred Fighting Championship - Vitor Belfort vs Ronaldo Souza - To Win the Bout,Ronaldo Souza,-0.024800000000000016,0.2105,0.2353
 2023-03-31 15:40:51.614729,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Dallas Mavericks,-0.0275,0.011,0.0385
-2023-03-31 09:41:10.802162,Boxing Lines - Joet Gonzalez vs Jose Enrique Vivas - To Win the Bout,Jose Enrique Vivas,-0.027600000000000013,0.2105,0.2381
 2023-03-31 17:41:11.761420,Donald Trump Specials - Trump Specials - Trump Specials,Donald Trump to be extradited from Florida to New York in 2023,-0.02779999999999999,0.2222,0.25
 2023-03-31 15:40:51.648523,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Dallas Mavericks,-0.0373,0.0294,0.0667
 2023-03-31 15:40:51.633310,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Milwaukee Bucks,-0.0484,0.4167,0.4651
