@@ -11,7 +11,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-31 13:41:02.716041,MLB Daily Specials - MLB Daily Specials - Friday 31st March,"Pete Alonso, Yordan Alvarez, Manny Machado, Max Muncy, Teoscar Hernandez 3+ RBIs Combined",0.03640000000000004,0.4,0.3636
 2023-03-31 07:40:51.093235,MLB Specials - Shohei Ohtani (LAA) 2023 Specials - Shohei Ohtani (LAA) To win 2023 Cy Young & Regualr Season MVP,Yes,0.03640000000000001,0.0952,0.0588
 2023-03-31 07:40:50.392909,Boxing Lines - Victor Nagbe vs Dan Hill - To Win the Bout,Victor Nagbe,0.03489999999999999,0.5,0.4651
-2023-03-31 02:40:47.497092,Round Match-Ups - 2nd Round Match-Up - M. Wallace vs N. Taylor - 2nd Round Match-Up,Nick Taylor,0.033299999999999996,0.5455,0.5122
 2023-03-31 08:40:43.901456,NBA Awards - 2022/23 NBA Awards - 2022/23 The Rookie of the Year,Jalen Williams (OKC),0.029299999999999993,0.0769,0.0476
 2023-03-31 09:41:10.802162,Boxing Lines - Joet Gonzalez vs Jose Enrique Vivas - To Win the Bout,Joet Gonzalez,0.028000000000000025,0.8571,0.8291
 2023-03-31 07:40:51.165550,MLB Futures - MLB 2023 American League West - American League West Winner,Seattle Mariners,0.02779999999999999,0.25,0.2222
@@ -47,7 +46,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-31 11:40:54.422208,Round Match-Ups - 2nd Round Match-Up - T. Hatton v S. W. Kim - 2nd Round Match-Up,Tyrrell Hatton,0.010699999999999932,0.5455,0.5348
 2023-03-31 04:40:48.727124,Boxing Lines - Victor Nagbe vs Dan Hill - To Win the Bout,Victor Nagbe,0.010599999999999998,0.4651,0.4545
 2023-03-31 03:40:59.629593,LA Open - LA Open - Outright,Lilia Vu,0.0102,0.0769,0.0667
-2023-03-31 02:40:47.274169,Boxing Lines - Victor Nagbe vs Dan Hill - To Win the Bout,Victor Nagbe,0.010099999999999998,0.4545,0.4444
 2023-03-31 07:40:51.188495,MLB Futures - MLB 2023 National League West - National League West Winner,San Diego Padres,0.010099999999999998,0.4545,0.4444
 2023-03-31 06:40:50.754790,Valero Texas Open - 2/3 Balls - 2nd Round 3 Balls - B.H. An / M. Schwab / K. Tway - 2nd Round 3 Balls,Matthias Schwab,-0.010699999999999987,0.3226,0.3333
 2023-03-31 05:40:56.501707,Valero Texas Open - 2/3 Balls - 2nd Round 3 Balls - S. Ryder / P. Kizzire / K. Chappell - 2nd Round 3 Balls,Patton Kizzire,-0.010699999999999987,0.3226,0.3333
@@ -62,10 +60,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-31 03:40:59.629593,LA Open - LA Open - Outright,Danielle Kang,-0.014099999999999998,0.0294,0.0435
 2023-03-31 03:40:59.629593,LA Open - LA Open - Outright,Maja Stark,-0.014499999999999999,0.0149,0.0294
 2023-03-31 03:40:59.629593,LA Open - LA Open - Outright,Ally Ewing,-0.0145,0.0099,0.0244
-2023-03-31 03:40:59.629593,LA Open - LA Open - Outright,Hae Ran Ryu,-0.0145,0.0099,0.0244
 2023-03-31 03:40:59.629593,LA Open - LA Open - Outright,Xiyu Lin,-0.0145,0.0099,0.0244
+2023-03-31 03:40:59.629593,LA Open - LA Open - Outright,Hae Ran Ryu,-0.0145,0.0099,0.0244
 2023-03-31 04:40:48.915220,Gamebred Fighting Championship - Roy Jones Jr vs Anthony Pettis - To Win the Bout,Roy Jones Jr,-0.014700000000000046,0.75,0.7647
-2023-03-31 02:40:47.274169,Boxing Lines - Victor Nagbe vs Dan Hill - To Win the Bout,Dan Hill,-0.014800000000000035,0.6078,0.6226
 2023-03-31 03:40:59.629593,LA Open - LA Open - Outright,Ayaka Furue,-0.014900000000000004,0.0196,0.0345
 2023-03-31 12:41:02.088618,Boxing Lines - Michael Magnesi vs Ayrton Osmar Gimenez - To Win the Bout,Ayrton Osmar Gimenez,-0.01680000000000001,0.2105,0.2273
 2023-03-31 03:40:59.629593,LA Open - LA Open - Outright,Ashleigh Buhai,-0.0186,0.001,0.0196
@@ -79,7 +76,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-03-31 07:40:51.165550,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,-0.030299999999999994,0.6364,0.6667
 2023-03-31 07:40:51.188495,MLB Futures - MLB 2023 National League West - National League West Winner,Los Angeles Dodgers,-0.03179999999999994,0.5238,0.5556
 2023-03-31 07:40:50.392909,Boxing Lines - Victor Nagbe vs Dan Hill - To Win the Bout,Dan Hill,-0.03479999999999994,0.5652,0.6
-2023-03-31 02:40:47.497092,Round Match-Ups - 2nd Round Match-Up - M. Wallace vs N. Taylor - 2nd Round Match-Up,Matt Wallace,-0.03480000000000005,0.5,0.5348
 2023-03-31 03:40:59.629593,LA Open - LA Open - Outright,Atthaya Thitikul,-0.0384,0.0385,0.0769
 2023-03-31 07:40:51.180785,MLB Futures - MLB 2023 National League East - National League East Winner,Philadelphia Phillies,-0.04040000000000002,0.1818,0.2222
 2023-03-31 08:40:43.883752,NBA Awards - 2022/23 NBA Awards - 2022/23 Regular Season MVP,Giannis Antetokounmpo (MIL),-0.04620000000000002,0.1538,0.2
