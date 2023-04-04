@@ -7,13 +7,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-04 17:41:01.500193,Daily Soccer Specials - Next Permanent Boca Juniors Manager  - Outright,Jose Nestor Pekerman,0.07579999999999999,0.1667,0.0909
 2023-04-04 17:40:57.905396,Donald Trump Specials - Trump Specials - Trump Specials,Department of Justice to indict Donald Trump in 2023 in relation to January 6th events,0.06669999999999998,0.6667,0.6
 2023-04-04 11:40:43.406723,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Domitila Barros,0.04999999999999999,0.25,0.2
+2023-04-04 18:40:53.613519,Donald Trump Specials - Trump Mar-a-Lago Speech: First Cliche - Trump Mar-a-Lago Speech: First Cliche,Our country,0.04169999999999999,0.1667,0.125
 2023-04-04 11:40:45.495889,Copa Libertadores - Copa Libertadores 2023 - Outright,River Plate,0.03889999999999999,0.1818,0.1429
 2023-04-04 13:40:48.314130,La Liga - Spain La Liga 2022/23 - To Be Relegated,Valencia,0.036199999999999996,0.1538,0.1176
 2023-04-04 17:40:57.890849,Donald Trump Specials - Trump Mar-a-Lago Speech: First Cliche - Trump Mar-a-Lago Speech: First Cliche,Radical left,0.03420000000000001,0.1111,0.0769
 2023-04-04 17:40:57.890849,Donald Trump Specials - Trump Mar-a-Lago Speech: First Cliche - Trump Mar-a-Lago Speech: First Cliche,Political persecution,0.033399999999999985,0.1667,0.1333
 2023-04-04 11:40:45.852502,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Nottingham Forest,0.03179999999999994,0.5556,0.5238
 2023-04-04 09:41:03.794786,Donald Trump Specials - Trump Mar-a-Lago Speech: First Cliche - Trump Mar-a-Lago Speech: First Cliche,Crooked Democrats,0.018099999999999998,0.0769,0.0588
-2023-04-04 06:40:46.301079,Tournament Match-Ups - Tournament Match Ups - D. Johnson vs B. Koepka - Tournament Match Ups,Dustin Johnson,0.01539999999999997,0.6154,0.6
 2023-04-04 11:40:45.852502,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Southampton,0.015100000000000002,0.8333,0.8182
 2023-04-04 11:40:43.406723,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Larissa Santos,0.014099999999999994,0.0667,0.0526
 2023-04-04 10:40:58.609040,Boxing Lines - Jared Anderson vs George Arias - To Win the Bout,Jared Anderson,0.014000000000000012,0.9231,0.9091
@@ -29,6 +29,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-04 11:40:45.495889,Copa Libertadores - Copa Libertadores 2023 - Outright,Corinthians,-0.0102,0.0667,0.0769
 2023-04-04 11:40:45.495889,Copa Libertadores - Copa Libertadores 2023 - Outright,Racing Club,-0.010700000000000001,0.0278,0.0385
 2023-04-04 09:41:05.388162,MLB Daily Specials - Daily Fantasy Main Slate (11 Games) - Best Performing Hitter,Vinnie Pasquantino (KC),-0.011199999999999995,0.0476,0.0588
+2023-04-04 18:40:53.613519,Donald Trump Specials - Trump Mar-a-Lago Speech: First Cliche - Trump Mar-a-Lago Speech: First Cliche,Make America Great Again,-0.011199999999999995,0.0476,0.0588
 2023-04-04 16:40:53.683080,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Milwaukee Bucks,-0.01319999999999999,0.25,0.2632
 2023-04-04 09:41:03.794786,Donald Trump Specials - Trump Mar-a-Lago Speech: First Cliche - Trump Mar-a-Lago Speech: First Cliche,Get Trump,-0.014399999999999996,0.0625,0.0769
 2023-04-04 17:40:57.890849,Donald Trump Specials - Trump Mar-a-Lago Speech: First Cliche - Trump Mar-a-Lago Speech: First Cliche,Take our nation back,-0.014899999999999997,0.0476,0.0625
@@ -42,7 +43,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-04 11:40:45.495889,Copa Libertadores - Copa Libertadores 2023 - Outright,Boca Juniors,-0.02020000000000001,0.0909,0.1111
 2023-04-04 16:40:53.683080,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Los Angeles Clippers,-0.0203,0.0385,0.0588
 2023-04-04 10:40:58.609040,Boxing Lines - Jared Anderson vs George Arias - To Win the Bout,George Arias,-0.02049999999999999,0.1333,0.1538
-2023-04-04 06:40:46.301079,Tournament Match-Ups - Tournament Match Ups - D. Johnson vs B. Koepka - Tournament Match Ups,Brooks Koepka,-0.020699999999999996,0.4444,0.4651
 2023-04-04 13:40:48.314130,La Liga - Spain La Liga 2022/23 - To Be Relegated,Almería,-0.02169999999999994,0.5238,0.5455
 2023-04-04 13:40:48.308521,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Real Betis,-0.023200000000000002,0.0294,0.0526
 2023-04-04 11:40:45.852502,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Bournemouth,-0.023799999999999988,0.4762,0.5
@@ -51,6 +51,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-04 17:40:57.890849,Donald Trump Specials - Trump Mar-a-Lago Speech: First Cliche - Trump Mar-a-Lago Speech: First Cliche,Witch-hunt,-0.030299999999999994,0.3333,0.3636
 2023-04-04 17:41:00.963265,Super League - Greece Super League 2022/23 - Winner,Olympiakos,-0.04099999999999998,0.2667,0.3077
 2023-04-04 13:40:48.314130,La Liga - Spain La Liga 2022/23 - To Be Relegated,Cádiz,-0.045499999999999985,0.5,0.5455
+2023-04-04 18:40:53.613519,Donald Trump Specials - Trump Mar-a-Lago Speech: First Cliche - Trump Mar-a-Lago Speech: First Cliche,Witch-hunt,-0.047599999999999976,0.2857,0.3333
 2023-04-04 17:41:01.500193,Daily Soccer Specials - Next Permanent Boca Juniors Manager  - Outright,Diego Alonso,-0.057699999999999974,0.25,0.3077
 2023-04-04 17:41:00.963265,Super League - Greece Super League 2022/23 - Winner,PAOK Thessaloniki,-0.058300000000000005,0.0667,0.125
 2023-04-04 17:41:00.963265,Super League - Greece Super League 2022/23 - Winner,Panathinaikos,-0.06970000000000004,0.3077,0.3774
