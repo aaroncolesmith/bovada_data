@@ -7,8 +7,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-06 12:40:51.702707,Copa Libertadores - Group C - Not To Qualify,Barcelona SC,0.14279999999999993,0.8571,0.7143
 2023-04-06 12:40:51.655597,Copa Libertadores - Group B - To Qualify,Nacional,0.13990000000000002,0.7143,0.5744
 2023-04-06 12:40:51.644242,Copa Libertadores - Group B - Not To Qualify,Independiente Medellín,0.12260000000000004,0.6226,0.5
-2023-04-06 12:40:51.683968,Copa Libertadores - Group E - To Qualify,Argentinos Juniors,0.11119999999999997,0.5556,0.4444
 2023-04-06 12:40:52.223969,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Bournemouth,0.11119999999999997,0.5556,0.4444
+2023-04-06 12:40:51.683968,Copa Libertadores - Group E - To Qualify,Argentinos Juniors,0.11119999999999997,0.5556,0.4444
 2023-04-06 12:40:51.600016,Copa Libertadores - Group H - To Qualify,Atlético Nacional,0.10389999999999999,0.8182,0.7143
 2023-04-06 12:40:52.209888,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Newcastle United,0.09800000000000009,0.7647,0.6667
 2023-04-06 12:40:51.632010,Copa Libertadores - Group B - Winner,Nacional,0.09799999999999998,0.3333,0.2353
@@ -35,16 +35,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-06 12:40:51.694358,Copa Libertadores - Group C - Winner,Cerro Porteño,0.04269999999999999,0.1538,0.1111
 2023-04-06 12:40:51.600016,Copa Libertadores - Group H - To Qualify,Club Olimpia,0.03709999999999991,0.6667,0.6296
 2023-04-06 12:40:51.569371,Copa Libertadores - Group D - Not To Qualify,Sporting Cristal,0.035700000000000065,0.9524,0.9167
-2023-04-06 18:40:55.603778,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
-2023-04-06 19:41:02.471859,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
+2023-04-06 23:40:55.136795,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
 2023-04-06 20:40:54.640125,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
+2023-04-06 12:40:48.130161,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
+2023-04-06 21:40:57.797123,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
+2023-04-06 22:40:48.497139,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
+2023-04-06 19:41:02.471859,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
+2023-04-06 18:40:55.603778,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
 2023-04-06 17:40:53.293589,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
 2023-04-06 16:40:56.264937,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
-2023-04-06 21:40:57.797123,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
-2023-04-06 13:40:47.002567,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
-2023-04-06 12:40:48.130161,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
 2023-04-06 15:40:46.544655,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
-2023-04-06 22:40:48.497139,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
+2023-04-06 13:40:47.002567,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
 2023-04-06 12:40:51.666839,Copa Libertadores - Group E - Winner,Argentinos Juniors,0.0353,0.2353,0.2
 2023-04-06 12:40:51.608774,Copa Libertadores - Group A - Winner,Aucas,0.03439999999999999,0.0667,0.0323
 2023-04-06 12:40:51.560915,Copa Libertadores - Group D - Winner,The Strongest,0.0334,0.0769,0.0435
@@ -84,8 +85,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-06 12:40:51.616760,Copa Libertadores - Group A - Not To Qualify,Racing Club,-0.011700000000000016,0.2105,0.2222
 2023-04-06 12:40:51.632010,Copa Libertadores - Group B - Winner,Metropolitanos,-0.012100000000000001,0.0123,0.0244
 2023-04-06 21:40:59.637677,NBA Daily Specials - NBA Daily Specials - Thursday 6th April - Late Games,"Thunder, Jazz, Nuggets & Suns All To Score 110+ Points Each",-0.0131,0.2222,0.2353
-2023-04-06 12:40:51.785150,Copa Sudamericana - Copa Sudamericana 2023 - Outright,Peñarol,-0.0131,0.0345,0.0476
 2023-04-06 12:40:51.726942,Copa Libertadores - Group F - Not To Qualify,Colo-Colo,-0.0131,0.2222,0.2353
+2023-04-06 12:40:51.785150,Copa Sudamericana - Copa Sudamericana 2023 - Outright,Peñarol,-0.0131,0.0345,0.0476
 2023-04-06 12:40:52.195695,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Crystal Palace,-0.013999999999999999,0.0769,0.0909
 2023-04-06 21:40:59.637677,NBA Daily Specials - NBA Daily Specials - Thursday 6th April - Late Games,"Thunder, Jazz, Nuggets & Suns All To Score 50+ Points In Each Half",-0.01469999999999999,0.2353,0.25
 2023-04-06 12:40:51.733673,Copa Libertadores - Group F - To Qualify,Deportes Pereira,-0.01469999999999999,0.2353,0.25
@@ -115,25 +116,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-06 12:40:51.584718,Copa Libertadores - Group H - Winner,Club Olimpia,-0.026500000000000024,0.3509,0.3774
 2023-04-06 21:41:00.795974,Daily Soccer Specials - Next Permanent Boca Juniors Manager  - Outright,Diego Alonso,-0.02779999999999999,0.2222,0.25
 2023-04-06 12:40:51.771926,Copa Libertadores - Copa Libertadores 2023 - Outright,Flamengo,-0.02779999999999999,0.2222,0.25
-2023-04-06 12:40:51.771926,Copa Libertadores - Copa Libertadores 2023 - Outright,River Plate,-0.027999999999999997,0.1538,0.1818
 2023-04-06 12:40:52.195695,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leeds United,-0.027999999999999997,0.1538,0.1818
+2023-04-06 12:40:51.771926,Copa Libertadores - Copa Libertadores 2023 - Outright,River Plate,-0.027999999999999997,0.1538,0.1818
 2023-04-06 21:40:59.630882,NBA Daily Specials - NBA Daily Specials - Thursday 6th April - Early Games,"Cavaliers, Magic, Heat & 76ers All To Score 22+ Points In Each Quarter",-0.028399999999999995,0.0625,0.0909
 2023-04-06 12:40:51.676831,Copa Libertadores - Group E - Not To Qualify,Liverpool Montevideo,-0.030999999999999917,0.9412,0.9722
 2023-04-06 12:40:51.584718,Copa Libertadores - Group H - Winner,Patronato,-0.033299999999999996,0.1,0.1333
 2023-04-06 21:40:59.637677,NBA Daily Specials - NBA Daily Specials - Thursday 6th April - Late Games,"Thunder, Jazz, Nuggets & Suns All To Score 45+ Points In Each Half",-0.033399999999999985,0.5744,0.6078
-2023-04-06 22:40:48.486359,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
-2023-04-06 21:40:57.787470,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
-2023-04-06 13:40:46.989252,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
-2023-04-06 20:40:54.628037,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
 2023-04-06 12:40:48.121968,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
-2023-04-06 16:40:56.255423,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
+2023-04-06 13:40:46.989252,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
+2023-04-06 18:40:55.589279,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
+2023-04-06 23:40:55.128617,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
+2023-04-06 20:40:54.628037,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
 2023-04-06 19:41:02.453220,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
 2023-04-06 15:40:46.534679,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
+2023-04-06 22:40:48.486359,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
 2023-04-06 17:40:53.278658,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
-2023-04-06 18:40:55.589279,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
+2023-04-06 21:40:57.787470,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
+2023-04-06 16:40:56.255423,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
 2023-04-06 12:40:51.655597,Copa Libertadores - Group B - To Qualify,Metropolitanos,-0.036199999999999996,0.0164,0.0526
-2023-04-06 12:40:51.632010,Copa Libertadores - Group B - Winner,Internacional,-0.03639999999999999,0.6,0.6364
 2023-04-06 21:40:59.637677,NBA Daily Specials - NBA Daily Specials - Thursday 6th April - Late Games,"Thunder, Jazz, Nuggets & Suns All To Score 18+ Points In Each Quarter",-0.03639999999999999,0.6,0.6364
+2023-04-06 12:40:51.632010,Copa Libertadores - Group B - Winner,Internacional,-0.03639999999999999,0.6,0.6364
 2023-04-06 21:40:59.637677,NBA Daily Specials - NBA Daily Specials - Thursday 6th April - Late Games,"Thunder, Jazz, Nuggets & Suns All To Score 20+ Points In Each Quarter",-0.03640000000000004,0.3636,0.4
 2023-04-06 12:40:52.209888,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Brighton & Hove Albion,-0.03889999999999999,0.1429,0.1818
 2023-04-06 21:40:59.630882,NBA Daily Specials - NBA Daily Specials - Thursday 6th April - Early Games,"Cavaliers, Magic, Heat & 76ers All To Score 110+ Points Each",-0.0407,0.0769,0.1176
