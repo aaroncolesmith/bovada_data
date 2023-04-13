@@ -15,11 +15,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-12 17:41:05.178373,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Palmeiras,0.03920000000000001,0.9804,0.9412
 2023-04-12 19:40:54.626087,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Amanda,0.037800000000000056,0.5833,0.5455
 2023-04-12 18:40:44.198546,Joe Biden Specials - Will Joe Biden be impeached during his first term as President? - Will Joe Biden be impeached during his first term as President?,No,0.03739999999999999,0.9231,0.8857
-2023-04-12 13:41:14.894509,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
-2023-04-12 14:41:49.409400,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
-2023-04-12 15:41:09.604108,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
 2023-04-12 16:40:51.939327,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
 2023-04-12 17:41:02.477473,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
+2023-04-12 15:41:09.604108,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
+2023-04-12 14:41:49.409400,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
+2023-04-12 13:41:14.894509,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
 2023-04-12 22:40:49.766275,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Real Madrid,0.03369999999999998,0.1818,0.1481
 2023-04-12 19:40:54.626087,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Ricardo Camargo,0.033399999999999985,0.1667,0.1333
 2023-04-12 18:40:44.192174,Supreme Court Specials - Will Thomas Clarence be impeached before 2025? - Will Thomas Clarence be impeached before 2025?,Yes,0.033300000000000024,0.2,0.1667
@@ -32,31 +32,36 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-12 20:41:30.382557,RBC Heritage - 2/3 Balls - 1st Round 3 Balls - N. Echavarria / J. Herman / B. Harman - 1st Round 3 Balls,Brian Harman,0.024399999999999977,0.5122,0.4878
 2023-04-12 19:40:54.626087,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Aline Wirley,0.0242,0.0909,0.0667
 2023-04-12 18:40:44.175007,Donald Trump Specials - Will Joe Biden pardon Donald Trump? - Will Joe Biden pardon Donald Trump?,Joe Biden NOT to pardon Donald Trump before the 2024 election,0.0242,0.9333,0.9091
-2023-04-13 00:41:19.445834,RBC Heritage - 2/3 Balls - 1st Round 3 Balls - J. Dahmen / L. Griffin / T. Hatton - 1st Round 3 Balls,Tyrrell Hatton,0.023800000000000043,0.5238,0.5
 2023-04-12 21:40:36.740100,RBC Heritage - 2/3 Balls - 1st Round 3 Balls - C. Davis / R. Werenski / A. Landry - 1st Round 3 Balls,Cameron Davis,0.023800000000000043,0.5238,0.5
 2023-04-12 20:41:29.820843,Round Match-Ups - 1st Round Match-Ups - J. Spieth vs S. Im - 1st Round Match-Ups,Sungjae Im,0.023800000000000043,0.5238,0.5
+2023-04-13 00:41:19.445834,RBC Heritage - 2/3 Balls - 1st Round 3 Balls - J. Dahmen / L. Griffin / T. Hatton - 1st Round 3 Balls,Tyrrell Hatton,0.023800000000000043,0.5238,0.5
+2023-04-13 01:40:51.988568,Round Match-Ups - 1st Round Match-Ups - S. Lowry vs M. Kuchar - 1st Round Match-Ups,Shane Lowry,0.023800000000000043,0.5238,0.5
+2023-04-13 01:40:52.154522,Round Match-Ups - 1st Round Match-Ups - K. Bradley vs C. Bezuidenhout - 1st Round Match-Ups,Christiaan Bezuidenhout,0.023800000000000043,0.5238,0.5
 2023-04-12 17:41:02.524147,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,0.023799999999999988,0.5,0.4762
-2023-04-12 20:41:30.254625,Round Scores - 1st Round Score - Xander Schauffele - 1st Round Score,Under 69.5,0.022600000000000064,0.5348,0.5122
-2023-04-12 20:41:29.766542,Round Match-Ups - 1st Round Match-Ups - M. Hughes v A. Rai - 1st Round Match-Ups,Aaron Rai,0.022600000000000064,0.5348,0.5122
+2023-04-12 19:40:55.992660,Round Scores - 1st Round Score - Cameron Young - 1st Round Score,Over 69.5,0.022600000000000064,0.5348,0.5122
 2023-04-12 20:41:30.237215,Round Scores - 1st Round Score - Viktor Hovland - 1st Round Score,Under 69.5,0.022600000000000064,0.5348,0.5122
 2023-04-12 20:41:29.397149,Round Match-Ups - 1st Round Match-Ups - S. Burns vs T. Hatton - 1st Round Match-Ups,Tyrrell Hatton,0.022600000000000064,0.5348,0.5122
-2023-04-12 19:40:55.992660,Round Scores - 1st Round Score - Cameron Young - 1st Round Score,Over 69.5,0.022600000000000064,0.5348,0.5122
-2023-04-12 14:41:53.299314,RBC Heritage - 2/3 Balls - 1st Round 3 Balls - R. Henley / T. Kim / B. Horschel - 1st Round 3 Balls,Russell Henley,0.02260000000000001,0.4,0.3774
+2023-04-13 01:40:51.970193,Round Match-Ups - 1st Round Match-Ups - S. Burns vs T. Hatton - 1st Round Match-Ups,Sam Burns,0.022600000000000064,0.5348,0.5122
+2023-04-12 20:41:30.254625,Round Scores - 1st Round Score - Xander Schauffele - 1st Round Score,Under 69.5,0.022600000000000064,0.5348,0.5122
+2023-04-12 20:41:29.766542,Round Match-Ups - 1st Round Match-Ups - M. Hughes v A. Rai - 1st Round Match-Ups,Aaron Rai,0.022600000000000064,0.5348,0.5122
 2023-04-12 20:41:30.340278,RBC Heritage - 2/3 Balls - 1st Round 3 Balls - JJ Spaun / J. Furyk / M. Kuchar - 1st Round 3 Balls,J.J. Spaun,0.02260000000000001,0.4,0.3774
+2023-04-12 14:41:53.299314,RBC Heritage - 2/3 Balls - 1st Round 3 Balls - R. Henley / T. Kim / B. Horschel - 1st Round 3 Balls,Russell Henley,0.02260000000000001,0.4,0.3774
 2023-04-12 17:41:03.600296,Round Match-Ups - 1st Round Match-Ups - P. Cantlay vs C. Morikawa - 1st Round Match-Ups,Collin Morikawa,0.021699999999999997,0.4762,0.4545
+2023-04-13 01:40:52.139138,Round Match-Ups - 1st Round Match-Ups - J. Spieth vs S. Im - 1st Round Match-Ups,Jordan Spieth,0.02169999999999994,0.5455,0.5238
 2023-04-12 13:41:16.577722,Round Match-Ups - 1st Round Match-Ups - M. Fitzpatrick vs M. Homa - 1st Round Match-Ups,Matt Fitzpatrick,0.02169999999999994,0.5455,0.5238
 2023-04-12 20:41:29.853112,Round Match-Ups - 1st Round Match-Ups - K. Bradley vs C. Bezuidenhout - 1st Round Match-Ups,Keegan Bradley,0.02169999999999994,0.5455,0.5238
-2023-04-12 20:41:29.447207,Round Match-Ups - 1st Round Match-Ups - S. Lowry vs M. Kuchar - 1st Round Match-Ups,Matt Kuchar,0.02169999999999994,0.5455,0.5238
 2023-04-12 16:40:53.348435,Round Match-Ups - 1st Round Match-Ups - M.W. Lee vs K. Mitchell - 1st Round Match-Ups,Keith Mitchell,0.02169999999999994,0.5455,0.5238
+2023-04-12 20:41:29.447207,Round Match-Ups - 1st Round Match-Ups - S. Lowry vs M. Kuchar - 1st Round Match-Ups,Matt Kuchar,0.02169999999999994,0.5455,0.5238
 2023-04-12 22:40:47.987644,Round Match-Ups - 1st Round Match-Ups - M. Hughes v A. Rai - 1st Round Match-Ups,Aaron Rai,0.02079999999999993,0.5556,0.5348
-2023-04-12 20:41:29.979933,Round Scores - 1st Round Score - Justin Thomas - 1st Round Score ,Under 69.5,0.01970000000000005,0.5652,0.5455
 2023-04-12 21:40:36.605142,Round Scores - 1st Round Score - Jordan Spieth - 1st Round Score ,Under 69.5,0.01970000000000005,0.5652,0.5455
+2023-04-12 20:41:29.979933,Round Scores - 1st Round Score - Justin Thomas - 1st Round Score ,Under 69.5,0.01970000000000005,0.5652,0.5455
 2023-04-12 20:41:30.476650,RBC Heritage - 2/3 Balls - 1st Round 3 Balls - C. Ramey / E. Van Rooyen / C. Champ - 1st Round 3 Balls,Chad Ramey,0.019500000000000017,0.3704,0.3509
 2023-04-12 18:40:44.169991,Donald Trump Specials - Will Donald Trump be found guilty of one or more felonies in New York? - Will Donald Trump be found guilty of one or more felonies in New York?,No,0.019499999999999962,0.6491,0.6296
 2023-04-12 18:40:44.159573,Donald Trump Specials - Trump Specials - Trump Specials,Department of Justice to indict Donald Trump in 2023 in relation to classified material,0.018199999999999994,0.8182,0.8
 2023-04-12 21:40:36.763639,RBC Heritage - 2/3 Balls - 1st Round 3 Balls - C. Kirk / R. Brehm / T. Hoge - 1st Round 3 Balls,Tom Hoge,0.018100000000000005,0.4348,0.4167
 2023-04-12 21:40:37.383452,Bundesliga - Bundesliga 2022/23 - Outright,Bayern Munich,0.018100000000000005,0.4348,0.4167
 2023-04-12 21:40:37.375724,Japan B League - Japan League B1 2022/23 - Outright,Ryukyu Golden Kings,0.015100000000000002,0.1818,0.1667
+2023-04-13 01:40:51.710099,RBC Heritage - 2/3 Balls - 1st Round 3 Balls - N. Echavarria / J. Herman / B. Harman - 1st Round 3 Balls,Nico Echavarria,0.014900000000000024,0.3226,0.3077
 2023-04-12 18:40:44.219632,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.014700000000000046,0.7647,0.75
 2023-04-12 18:40:44.186921,Supreme Court Specials - Thomas Clarence Impeachment Specials - Thomas Clarence Impeachment Specials,Thomas Clarence to be impeached and convicted before 2025,0.014399999999999996,0.0769,0.0625
 2023-04-12 18:40:44.186921,Supreme Court Specials - Thomas Clarence Impeachment Specials - Thomas Clarence Impeachment Specials,Thomas Clarence to permanently resign from his Supreme Court justice post before 2025,0.013999999999999999,0.0909,0.0769
@@ -70,31 +75,31 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-12 17:41:03.681580,Round Scores - 1st Round Score - Jon Rahm - 1st Round Score,Over 69.5,0.011099999999999999,0.4762,0.4651
 2023-04-12 17:41:03.459278,Round Match-Ups - 1st Round Match-Ups - S. Theegala vs S.W. Kim - 1st Round Match-Ups,Si Woo Kim,0.01100000000000001,0.5348,0.5238
 2023-04-12 17:41:03.624452,Round Match-Ups - 1st Round Match-Ups - S. Scheffler vs J. Rahm - 1st Round Match-Ups,Scottie Scheffler,0.01100000000000001,0.5348,0.5238
-2023-04-12 17:41:03.650989,Round Match-Ups - 1st Round Match-Ups - M.W. Lee vs K. Mitchell - 1st Round Match-Ups,Keith Mitchell,0.010099999999999998,0.5556,0.5455
 2023-04-12 16:40:53.294747,Round Match-Ups - 1st Round Match-Ups - P. Cantlay vs C. Morikawa - 1st Round Match-Ups,Collin Morikawa,0.010099999999999998,0.4545,0.4444
-2023-04-12 21:40:37.390825,Serie A - Serie A 2022/23 - Outright,Olimpia Milano,-0.010099999999999998,0.5455,0.5556
+2023-04-12 17:41:03.650989,Round Match-Ups - 1st Round Match-Ups - M.W. Lee vs K. Mitchell - 1st Round Match-Ups,Keith Mitchell,0.010099999999999998,0.5556,0.5455
 2023-04-12 16:40:53.302723,Round Match-Ups - 1st Round Match-Ups - C. Young vs T. Finau - 1st Round Match-Ups,Cameron Young,-0.010099999999999998,0.5455,0.5556
 2023-04-12 16:40:53.312124,Round Match-Ups - 1st Round Match-Ups - J. Spieth vs S. Im - 1st Round Match-Ups,Jordan Spieth,-0.010099999999999998,0.5455,0.5556
+2023-04-12 21:40:37.390825,Serie A - Serie A 2022/23 - Outright,Olimpia Milano,-0.010099999999999998,0.5455,0.5556
 2023-04-12 20:41:30.340278,RBC Heritage - 2/3 Balls - 1st Round 3 Balls - JJ Spaun / J. Furyk / M. Kuchar - 1st Round 3 Balls,Jim Furyk,-0.010399999999999993,0.2222,0.2326
 2023-04-12 17:41:03.608572,Round Match-Ups - 1st Round Match-Ups - C. Young vs T. Finau - 1st Round Match-Ups,Cameron Young,-0.010699999999999932,0.5348,0.5455
 2023-04-12 16:40:53.278744,Round Match-Ups - 1st Round Match-Ups - T. Kim vs R. Henley - 1st Round Match-Ups,Tom Kim,-0.010699999999999932,0.5348,0.5455
 2023-04-12 21:40:37.478729,"NBA Daily Specials - Top Scorer of The Day - Wednesday, April 12th - Top Scorer of The Day",Zach LaVine (CHI),-0.010899999999999993,0.1429,0.1538
 2023-04-12 16:40:53.213867,Round Match-Ups - 1st Round Match-Ups - S. Theegala vs S.W. Kim - 1st Round Match-Ups,Si Woo Kim,-0.01100000000000001,0.5238,0.5348
-2023-04-12 16:40:53.325136,Round Match-Ups - 1st Round Match-Ups - S. Scheffler vs J. Rahm - 1st Round Match-Ups,Jon Rahm,-0.01100000000000001,0.5238,0.5348
-2023-04-12 16:40:53.268556,Round Match-Ups - 1st Round Match-Ups - T. Fleetwood vs J. Rose - 1st Round Match-Ups,Tommy Fleetwood,-0.01100000000000001,0.5238,0.5348
-2023-04-12 16:40:53.268556,Round Match-Ups - 1st Round Match-Ups - T. Fleetwood vs J. Rose - 1st Round Match-Ups,Justin Rose,-0.01100000000000001,0.5238,0.5348
-2023-04-12 16:40:53.338194,Round Match-Ups - 1st Round Match-Ups - K. Bradley vs C. Bezuidenhout - 1st Round Match-Ups,Keegan Bradley,-0.01100000000000001,0.5238,0.5348
 2023-04-12 16:40:53.213867,Round Match-Ups - 1st Round Match-Ups - S. Theegala vs S.W. Kim - 1st Round Match-Ups,Sahith Theegala,-0.01100000000000001,0.5238,0.5348
-2023-04-12 16:40:53.338194,Round Match-Ups - 1st Round Match-Ups - K. Bradley vs C. Bezuidenhout - 1st Round Match-Ups,Christiaan Bezuidenhout,-0.01100000000000001,0.5238,0.5348
+2023-04-12 16:40:53.268556,Round Match-Ups - 1st Round Match-Ups - T. Fleetwood vs J. Rose - 1st Round Match-Ups,Justin Rose,-0.01100000000000001,0.5238,0.5348
 2023-04-12 16:40:53.325136,Round Match-Ups - 1st Round Match-Ups - S. Scheffler vs J. Rahm - 1st Round Match-Ups,Scottie Scheffler,-0.01100000000000001,0.5238,0.5348
-2023-04-12 16:40:53.286710,Round Match-Ups - 1st Round Match-Ups - C. Conners vs J.T. Poston - 1st Round Match-Ups,Corey Conners,-0.01100000000000001,0.5238,0.5348
 2023-04-12 16:40:53.286710,Round Match-Ups - 1st Round Match-Ups - C. Conners vs J.T. Poston - 1st Round Match-Ups,JT Poston,-0.01100000000000001,0.5238,0.5348
+2023-04-12 16:40:53.268556,Round Match-Ups - 1st Round Match-Ups - T. Fleetwood vs J. Rose - 1st Round Match-Ups,Tommy Fleetwood,-0.01100000000000001,0.5238,0.5348
+2023-04-12 16:40:53.338194,Round Match-Ups - 1st Round Match-Ups - K. Bradley vs C. Bezuidenhout - 1st Round Match-Ups,Keegan Bradley,-0.01100000000000001,0.5238,0.5348
+2023-04-12 16:40:53.338194,Round Match-Ups - 1st Round Match-Ups - K. Bradley vs C. Bezuidenhout - 1st Round Match-Ups,Christiaan Bezuidenhout,-0.01100000000000001,0.5238,0.5348
+2023-04-12 16:40:53.286710,Round Match-Ups - 1st Round Match-Ups - C. Conners vs J.T. Poston - 1st Round Match-Ups,Corey Conners,-0.01100000000000001,0.5238,0.5348
+2023-04-12 16:40:53.325136,Round Match-Ups - 1st Round Match-Ups - S. Scheffler vs J. Rahm - 1st Round Match-Ups,Jon Rahm,-0.01100000000000001,0.5238,0.5348
 2023-04-12 20:41:30.340278,RBC Heritage - 2/3 Balls - 1st Round 3 Balls - JJ Spaun / J. Furyk / M. Kuchar - 1st Round 3 Balls,Matt Kuchar,-0.0116,0.4762,0.4878
+2023-04-12 16:40:53.278744,Round Match-Ups - 1st Round Match-Ups - T. Kim vs R. Henley - 1st Round Match-Ups,Russell Henley,-0.011600000000000055,0.5122,0.5238
 2023-04-12 17:41:03.624452,Round Match-Ups - 1st Round Match-Ups - S. Scheffler vs J. Rahm - 1st Round Match-Ups,Jon Rahm,-0.011600000000000055,0.5122,0.5238
 2023-04-12 17:41:03.459278,Round Match-Ups - 1st Round Match-Ups - S. Theegala vs S.W. Kim - 1st Round Match-Ups,Sahith Theegala,-0.011600000000000055,0.5122,0.5238
-2023-04-12 16:40:53.278744,Round Match-Ups - 1st Round Match-Ups - T. Kim vs R. Henley - 1st Round Match-Ups,Russell Henley,-0.011600000000000055,0.5122,0.5238
-2023-04-12 21:40:37.383452,Bundesliga - Bundesliga 2022/23 - Outright,Alba Berlin,-0.012199999999999989,0.5,0.5122
 2023-04-12 17:41:03.650989,Round Match-Ups - 1st Round Match-Ups - M.W. Lee vs K. Mitchell - 1st Round Match-Ups,Min Woo Lee,-0.012199999999999989,0.4878,0.5
+2023-04-12 21:40:37.383452,Bundesliga - Bundesliga 2022/23 - Outright,Alba Berlin,-0.012199999999999989,0.5,0.5122
 2023-04-12 16:40:53.312124,Round Match-Ups - 1st Round Match-Ups - J. Spieth vs S. Im - 1st Round Match-Ups,Sungjae Im,-0.012199999999999989,0.5,0.5122
 2023-04-12 16:40:53.302723,Round Match-Ups - 1st Round Match-Ups - C. Young vs T. Finau - 1st Round Match-Ups,Tony Finau,-0.012199999999999989,0.5,0.5122
 2023-04-13 00:41:19.586142,RBC Heritage - 2/3 Balls - 1st Round 3 Balls - N. Taylor / Z. Johnson / E. Els - 1st Round 3 Balls ,Zach Johnson,-0.012299999999999978,0.3448,0.3571
@@ -113,26 +118,31 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-12 19:40:55.992660,Round Scores - 1st Round Score - Cameron Young - 1st Round Score,Under 69.5,-0.02079999999999993,0.5348,0.5556
 2023-04-12 20:41:30.237215,Round Scores - 1st Round Score - Viktor Hovland - 1st Round Score,Over 69.5,-0.02079999999999993,0.5348,0.5556
 2023-04-12 20:41:29.820843,Round Match-Ups - 1st Round Match-Ups - J. Spieth vs S. Im - 1st Round Match-Ups,Jordan Spieth,-0.02169999999999994,0.5238,0.5455
-2023-04-12 20:41:29.397149,Round Match-Ups - 1st Round Match-Ups - S. Burns vs T. Hatton - 1st Round Match-Ups,Sam Burns,-0.022600000000000064,0.5122,0.5348
-2023-04-12 16:40:53.196452,Round Match-Ups - 1st Round Match-Ups - C. Davis vs T. Montgomery - 1st Round Match-Ups,Cameron Davis,-0.022600000000000064,0.5122,0.5348
-2023-04-12 20:41:29.766542,Round Match-Ups - 1st Round Match-Ups - M. Hughes v A. Rai - 1st Round Match-Ups,Mackenzie Hughes,-0.022600000000000064,0.5122,0.5348
+2023-04-13 01:40:52.154522,Round Match-Ups - 1st Round Match-Ups - K. Bradley vs C. Bezuidenhout - 1st Round Match-Ups,Keegan Bradley,-0.02169999999999994,0.5238,0.5455
+2023-04-13 01:40:51.988568,Round Match-Ups - 1st Round Match-Ups - S. Lowry vs M. Kuchar - 1st Round Match-Ups,Matt Kuchar,-0.02169999999999994,0.5238,0.5455
 2023-04-12 16:40:53.204404,Round Match-Ups - 1st Round Match-Ups - S. Burns vs T. Hatton - 1st Round Match-Ups,Tyrrell Hatton,-0.022600000000000064,0.5122,0.5348
-2023-04-12 13:41:16.577722,Round Match-Ups - 1st Round Match-Ups - M. Fitzpatrick vs M. Homa - 1st Round Match-Ups,Max Homa,-0.023800000000000043,0.5,0.5238
-2023-04-12 20:41:29.979933,Round Scores - 1st Round Score - Justin Thomas - 1st Round Score ,Over 69.5,-0.023800000000000043,0.5,0.5238
-2023-04-12 21:40:36.605142,Round Scores - 1st Round Score - Jordan Spieth - 1st Round Score ,Over 69.5,-0.023800000000000043,0.5,0.5238
-2023-04-12 20:41:29.447207,Round Match-Ups - 1st Round Match-Ups - S. Lowry vs M. Kuchar - 1st Round Match-Ups,Shane Lowry,-0.023800000000000043,0.5,0.5238
+2023-04-12 20:41:29.766542,Round Match-Ups - 1st Round Match-Ups - M. Hughes v A. Rai - 1st Round Match-Ups,Mackenzie Hughes,-0.022600000000000064,0.5122,0.5348
+2023-04-12 16:40:53.196452,Round Match-Ups - 1st Round Match-Ups - C. Davis vs T. Montgomery - 1st Round Match-Ups,Cameron Davis,-0.022600000000000064,0.5122,0.5348
+2023-04-12 20:41:29.397149,Round Match-Ups - 1st Round Match-Ups - S. Burns vs T. Hatton - 1st Round Match-Ups,Sam Burns,-0.022600000000000064,0.5122,0.5348
+2023-04-13 01:40:51.970193,Round Match-Ups - 1st Round Match-Ups - S. Burns vs T. Hatton - 1st Round Match-Ups,Tyrrell Hatton,-0.022600000000000064,0.5122,0.5348
+2023-04-13 01:40:52.139138,Round Match-Ups - 1st Round Match-Ups - J. Spieth vs S. Im - 1st Round Match-Ups,Sungjae Im,-0.023800000000000043,0.5,0.5238
 2023-04-12 20:41:29.853112,Round Match-Ups - 1st Round Match-Ups - K. Bradley vs C. Bezuidenhout - 1st Round Match-Ups,Christiaan Bezuidenhout,-0.023800000000000043,0.5,0.5238
+2023-04-12 20:41:29.447207,Round Match-Ups - 1st Round Match-Ups - S. Lowry vs M. Kuchar - 1st Round Match-Ups,Shane Lowry,-0.023800000000000043,0.5,0.5238
+2023-04-12 13:41:16.577722,Round Match-Ups - 1st Round Match-Ups - M. Fitzpatrick vs M. Homa - 1st Round Match-Ups,Max Homa,-0.023800000000000043,0.5,0.5238
+2023-04-12 21:40:36.605142,Round Scores - 1st Round Score - Jordan Spieth - 1st Round Score ,Over 69.5,-0.023800000000000043,0.5,0.5238
+2023-04-12 20:41:29.979933,Round Scores - 1st Round Score - Justin Thomas - 1st Round Score ,Over 69.5,-0.023800000000000043,0.5,0.5238
+2023-04-13 01:40:51.710099,RBC Heritage - 2/3 Balls - 1st Round 3 Balls - N. Echavarria / J. Herman / B. Harman - 1st Round 3 Balls,Brian Harman,-0.024399999999999977,0.4878,0.5122
 2023-04-12 22:40:47.987644,Round Match-Ups - 1st Round Match-Ups - M. Hughes v A. Rai - 1st Round Match-Ups,Mackenzie Hughes,-0.024399999999999977,0.4878,0.5122
 2023-04-13 00:41:19.445834,RBC Heritage - 2/3 Balls - 1st Round 3 Balls - J. Dahmen / L. Griffin / T. Hatton - 1st Round 3 Balls,Joel Dahmen,-0.02560000000000001,0.3077,0.3333
 2023-04-12 17:41:03.600296,Round Match-Ups - 1st Round Match-Ups - P. Cantlay vs C. Morikawa - 1st Round Match-Ups,Patrick Cantlay,-0.026499999999999968,0.5652,0.5917
 2023-04-12 21:40:37.478729,"NBA Daily Specials - Top Scorer of The Day - Wednesday, April 12th - Top Scorer of The Day",Brandon Ingram (NOP),-0.02779999999999999,0.2222,0.25
 2023-04-12 22:40:49.766275,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Chelsea,-0.027999999999999997,0.0345,0.0625
 2023-04-12 18:40:44.192174,Supreme Court Specials - Will Thomas Clarence be impeached before 2025? - Will Thomas Clarence be impeached before 2025?,No,-0.033299999999999996,0.8667,0.9
-2023-04-12 14:41:49.366786,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
-2023-04-12 15:41:09.594953,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
-2023-04-12 13:41:14.874462,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
-2023-04-12 17:41:02.468827,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
 2023-04-12 16:40:51.927343,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
+2023-04-12 17:41:02.468827,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
+2023-04-12 15:41:09.594953,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
+2023-04-12 14:41:49.366786,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
+2023-04-12 13:41:14.874462,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
 2023-04-12 18:40:44.198546,Joe Biden Specials - Will Joe Biden be impeached during his first term as President? - Will Joe Biden be impeached during his first term as President?,Yes,-0.03889999999999999,0.1429,0.1818
 2023-04-12 17:41:05.138073,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Flamengo,-0.03920000000000001,0.2941,0.3333
 2023-04-12 18:40:44.219632,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Field,-0.043200000000000016,0.3077,0.3509
