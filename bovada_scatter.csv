@@ -1,7 +1,7 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-13 18:40:56.002472,NFL Specials - When Will Aaron Rodgers be Traded to the New York Jets - NY Jets Special,After the 2023 NFL Draft or Not Traded,0.3334,0.6667,0.3333
-2023-04-13 17:41:16.116259,Harry Potter Reboot - Hermione Granger Actor - Hermione Granger Actor Nationality,UK,0.131,0.7143,0.5833
 2023-04-13 17:41:16.133889,Harry Potter Reboot - Ron Weasley Actor - Ron Weasley Actor Nationality,UK,0.131,0.7143,0.5833
+2023-04-13 17:41:16.116259,Harry Potter Reboot - Hermione Granger Actor - Hermione Granger Actor Nationality,UK,0.131,0.7143,0.5833
 2023-04-13 18:40:57.375784,NBA Playoffs - Team Specials - Phoenix Suns - Playoff Specials,Durant 50-40-90% shooting splits in playoffs,0.11430000000000001,0.4,0.2857
 2023-04-13 17:41:16.102280,Harry Potter Reboot - Harry Potter Actor - Harry Potter Actor Nationality,UK,0.11110000000000009,0.7778,0.6667
 2023-04-13 18:40:57.364455,NBA Playoffs - Team Specials - Philadelphia 76ers - Playoff Specials,Tucker 0 points in any game (must start),0.09689999999999999,0.3636,0.2667
@@ -25,14 +25,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-13 22:40:49.212975,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,Nice,0.02779999999999999,0.25,0.2222
 2023-04-14 02:40:47.571944,Main Markets - 2nd Round 3 Balls - D. McCarthy / D. Riley / C.T. Pan - 2nd Round 3 Balls,Denny McCarthy,0.027700000000000002,0.4444,0.4167
 2023-04-14 01:40:59.278063,Main Markets - 2nd Round 3 Balls - S. Stallings / T. Mullinax / L. List - 2nd Round 3 Balls,Luke List,0.02560000000000001,0.3333,0.3077
+2023-04-14 04:40:52.289496,Main Markets - 2nd Round 3 Balls - J. Rahm / J. Spieth / A. Scott - 2nd Round 3 Balls,Jordan Spieth,0.024500000000000022,0.4167,0.3922
 2023-04-13 22:40:49.212975,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,Anderlecht,0.0242,0.0909,0.0667
 2023-04-13 17:41:15.674429,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Cezar Black,0.02310000000000001,0.1,0.0769
 2023-04-14 03:40:38.285503,Main Markets - 2nd Round 3 Balls - T. Montgomery / B. Wu / M. McGreevy - 2nd Round 3 Balls,Brandon Wu,0.02260000000000001,0.4,0.3774
 2023-04-13 18:40:57.261028,NBA Playoffs - Team Specials - Boston Celtics - Playoff Specials,"Mike Breen to say ""Bang"" after a Boston 3 pointer",0.02169999999999994,0.5455,0.5238
 2023-04-14 02:40:47.474564,Main Markets - 2nd Round 3 Balls - T. Fleetwood / A. Long / D. Redman - 2nd Round 3 Balls,Doc Redman,0.02159999999999998,0.2597,0.2381
+2023-04-14 02:40:47.488573,Main Markets - 2nd Round 3 Balls - T. Kim / R. Henley / B. Horschel - 2nd Round 3 Balls,Russell Henley,0.02100000000000002,0.3846,0.3636
 2023-04-14 02:40:47.692132,Main Markets - 2nd Round 3 Balls - C. Kirk / T. Hoge / R. Brehm - 2nd Round 3 Balls,Tom Hoge,0.02100000000000002,0.3846,0.3636
 2023-04-14 02:40:47.542637,Main Markets - 2nd Round 3 Balls - J. Rose / J.T. Poston / S. Cink - 2nd Round 3 Balls,J.T. Poston,0.02100000000000002,0.3846,0.3636
-2023-04-14 02:40:47.488573,Main Markets - 2nd Round 3 Balls - T. Kim / R. Henley / B. Horschel - 2nd Round 3 Balls,Russell Henley,0.02100000000000002,0.3846,0.3636
 2023-04-13 21:40:59.651754,NBA Specials - Off-Season Specials - Where will Irving play Game 1 of the 2023/2024 Regular Season?,Phoenix Suns,0.02049999999999999,0.1538,0.1333
 2023-04-14 01:40:59.365234,Main Markets - 2nd Round 3 Balls - N. Taylor / Z. Johnson / E. Els - 2nd Round 3 Balls,Nick Taylor,0.018900000000000028,0.4444,0.4255
 2023-04-13 22:40:49.348366,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester City,0.01880000000000004,0.5744,0.5556
@@ -63,6 +64,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-13 22:40:48.844781,UEFA Europa League - UEFA Europa League 22/23 - Winner,Sporting Lisbon,-0.013999999999999999,0.0769,0.0909
 2023-04-13 21:40:59.644718,NBA Specials - Off-Season Specials - Where will Harden play Game 1 of the 2023/2024 Regular Season?,Miami Heat,-0.014099999999999994,0.0526,0.0667
 2023-04-14 02:40:47.571944,Main Markets - 2nd Round 3 Balls - D. McCarthy / D. Riley / C.T. Pan - 2nd Round 3 Balls,Davis Riley,-0.015400000000000025,0.3846,0.4
+2023-04-14 04:40:52.289496,Main Markets - 2nd Round 3 Balls - J. Rahm / J. Spieth / A. Scott - 2nd Round 3 Balls,Adam Scott,-0.015899999999999997,0.2222,0.2381
 2023-04-14 01:40:59.278063,Main Markets - 2nd Round 3 Balls - S. Stallings / T. Mullinax / L. List - 2nd Round 3 Balls,Scott Stallings,-0.018900000000000028,0.4255,0.4444
 2023-04-13 18:40:57.296479,NBA Playoffs - Team Specials - Denver Nuggets - Playoff Specials,Jokic 6+ Triple Doubles in play offs,-0.020199999999999996,0.8889,0.9091
 2023-04-13 18:40:57.296479,NBA Playoffs - Team Specials - Denver Nuggets - Playoff Specials,Jokic 15+ Triple Doubles in play offs,-0.0203,0.0385,0.0588
