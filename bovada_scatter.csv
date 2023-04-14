@@ -1,13 +1,24 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-13 18:40:56.002472,NFL Specials - When Will Aaron Rodgers be Traded to the New York Jets - NY Jets Special,After the 2023 NFL Draft or Not Traded,0.3334,0.6667,0.3333
+2023-04-14 06:40:52.797213,LOTTE Championship - Lotte Championship - Outright,Georgia Hall,0.274,0.3509,0.0769
 2023-04-13 18:40:57.375784,NBA Playoffs - Team Specials - Phoenix Suns - Playoff Specials,Durant 50-40-90% shooting splits in playoffs,0.11430000000000001,0.4,0.2857
 2023-04-13 18:40:57.364455,NBA Playoffs - Team Specials - Philadelphia 76ers - Playoff Specials,Tucker 0 points in any game (must start),0.09689999999999999,0.3636,0.2667
+2023-04-14 06:40:53.093107,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Kodai Senga (NYM),0.0889,0.2,0.1111
+2023-04-14 06:40:52.797213,LOTTE Championship - Lotte Championship - Outright,Yujin Sung,0.0713,0.0909,0.0196
+2023-04-14 06:40:52.797213,LOTTE Championship - Lotte Championship - Outright,Linnea Strom,0.05879999999999999,0.0667,0.0079
 2023-04-13 22:40:48.844781,UEFA Europa League - UEFA Europa League 22/23 - Winner,Juventus,0.05550000000000002,0.2222,0.1667
+2023-04-14 06:40:53.070692,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Anthony Volpe (NYY),0.05550000000000002,0.2222,0.1667
+2023-04-14 06:40:53.079439,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Julio Urías,0.0524,0.1,0.0476
+2023-04-14 06:40:52.797213,LOTTE Championship - Lotte Championship - Outright,Natthakritta Vongtaveelap,0.04849999999999999,0.1818,0.1333
 2023-04-14 02:40:47.532878,Main Markets - 2nd Round 3 Balls - J. Rahm / J. Spieth / A. Scott - 2nd Round 3 Balls,Jon Rahm,0.0484,0.4651,0.4167
 2023-04-13 22:40:48.844781,UEFA Europa League - UEFA Europa League 22/23 - Winner,Feyenoord,0.048100000000000004,0.125,0.0769
+2023-04-14 06:40:53.079439,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Spencer Strider (ATL),0.04769999999999999,0.1429,0.0952
 2023-04-13 19:40:46.596269,NFL Specials - When Will Aaron Rodgers be Traded to the New York Jets - NY Jets Special,After the 2023 NFL Draft or Not Traded,0.04760000000000009,0.7143,0.6667
 2023-04-13 22:40:49.212975,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,West Ham United,0.047599999999999976,0.3333,0.2857
 2023-04-13 22:40:49.212975,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,Fiorentina,0.044499999999999984,0.2667,0.2222
+2023-04-14 06:40:52.797213,LOTTE Championship - Lotte Championship - Outright,Grace Kim,0.0397,0.0476,0.0079
+2023-04-14 06:40:52.718959,Round Match-Ups - 2nd Round Match-Up - S. Scheffler vs J. Spieth - 2nd Round Match-Up,Scottie Scheffler,0.0393,0.6226,0.5833
+2023-04-14 06:40:52.699963,Round Match-Ups - 2nd Round Match-Up - P. Cantlay vs S. Im - 2nd Round Match-Up,Patrick Cantlay,0.037800000000000056,0.5833,0.5455
 2023-04-14 01:40:59.357124,Main Markets - 2nd Round 3 Balls - C. Kirk / T. Hoge / R. Brehm - 2nd Round 3 Balls,Chris Kirk,0.035999999999999976,0.5122,0.4762
 2023-04-14 05:41:18.331100,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,0.03480000000000005,0.5348,0.5
 2023-04-13 18:40:57.283854,NBA Playoffs - Team Specials - Cleveland Cavaliers - Playoff Specials,Mitchell 40+ points in any play off game,0.03479999999999994,0.6,0.5652
@@ -23,37 +34,57 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-14 01:40:59.278063,Main Markets - 2nd Round 3 Balls - S. Stallings / T. Mullinax / L. List - 2nd Round 3 Balls,Luke List,0.02560000000000001,0.3333,0.3077
 2023-04-14 04:40:52.289496,Main Markets - 2nd Round 3 Balls - J. Rahm / J. Spieth / A. Scott - 2nd Round 3 Balls,Jordan Spieth,0.024500000000000022,0.4167,0.3922
 2023-04-13 22:40:49.212975,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,Anderlecht,0.0242,0.0909,0.0667
+2023-04-14 06:40:52.728949,Round Match-Ups - 2nd Round Match-Up - J. Rahm vs T. Finau - 2nd Round Match-Up,Tony Finau,0.023800000000000043,0.5238,0.5
+2023-04-14 06:40:52.679513,Round Match-Ups - 2nd Round Match-Up - A. Scott vs T. Moore - 2nd Round Match-Up,Taylor Moore,0.022600000000000064,0.5348,0.5122
 2023-04-14 03:40:38.285503,Main Markets - 2nd Round 3 Balls - T. Montgomery / B. Wu / M. McGreevy - 2nd Round 3 Balls,Brandon Wu,0.02260000000000001,0.4,0.3774
+2023-04-14 06:40:53.070692,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Masataka Yoshida (BOS),0.022199999999999998,0.2222,0.2
+2023-04-14 06:40:52.797213,LOTTE Championship - Lotte Championship - Outright,Nasa Hataoka,0.022199999999999998,0.2222,0.2
 2023-04-13 18:40:57.261028,NBA Playoffs - Team Specials - Boston Celtics - Playoff Specials,"Mike Breen to say ""Bang"" after a Boston 3 pointer",0.02169999999999994,0.5455,0.5238
+2023-04-14 06:40:52.709653,Round Match-Ups - 2nd Round Match-Up - J.T. Poston vs W. Simpson - 2nd Round Match-Up,J.T. Poston,0.02169999999999994,0.5455,0.5238
 2023-04-14 02:40:47.474564,Main Markets - 2nd Round 3 Balls - T. Fleetwood / A. Long / D. Redman - 2nd Round 3 Balls,Doc Redman,0.02159999999999998,0.2597,0.2381
-2023-04-14 02:40:47.488573,Main Markets - 2nd Round 3 Balls - T. Kim / R. Henley / B. Horschel - 2nd Round 3 Balls,Russell Henley,0.02100000000000002,0.3846,0.3636
 2023-04-14 02:40:47.542637,Main Markets - 2nd Round 3 Balls - J. Rose / J.T. Poston / S. Cink - 2nd Round 3 Balls,J.T. Poston,0.02100000000000002,0.3846,0.3636
 2023-04-14 02:40:47.692132,Main Markets - 2nd Round 3 Balls - C. Kirk / T. Hoge / R. Brehm - 2nd Round 3 Balls,Tom Hoge,0.02100000000000002,0.3846,0.3636
+2023-04-14 02:40:47.488573,Main Markets - 2nd Round 3 Balls - T. Kim / R. Henley / B. Horschel - 2nd Round 3 Balls,Russell Henley,0.02100000000000002,0.3846,0.3636
 2023-04-13 21:40:59.651754,NBA Specials - Off-Season Specials - Where will Irving play Game 1 of the 2023/2024 Regular Season?,Phoenix Suns,0.02049999999999999,0.1538,0.1333
+2023-04-14 06:40:53.093107,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Hayden Wesneski (CHC),0.0203,0.0588,0.0385
 2023-04-14 05:41:18.400563,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Dylan Cease,0.02020000000000001,0.1111,0.0909
 2023-04-14 01:40:59.365234,Main Markets - 2nd Round 3 Balls - N. Taylor / Z. Johnson / E. Els - 2nd Round 3 Balls,Nick Taylor,0.018900000000000028,0.4444,0.4255
 2023-04-13 22:40:49.348366,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester City,0.01880000000000004,0.5744,0.5556
+2023-04-14 06:40:53.079439,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Kodai Senga (NYM),0.0159,0.0323,0.0164
 2023-04-13 22:40:48.844781,UEFA Europa League - UEFA Europa League 22/23 - Winner,Union Saint-Gilloise,0.015300000000000001,0.0588,0.0435
+2023-04-14 06:40:53.093107,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Corbin Carroll (ARIZ),0.01469999999999999,0.25,0.2353
+2023-04-14 06:40:53.079439,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Jesús Luzardo,0.014599999999999998,0.0278,0.0132
 2023-04-13 21:40:59.632932,NBA Specials - Off-Season Specials - Where will Doncic play Game 1 of the 2023/2024 Regular Season?,Oklahoma City Thunder,0.014100000000000001,0.0526,0.0385
 2023-04-13 21:40:58.126332,Boxing Lines - Ernesto Mercado vs Henry Lundy - To Win the Bout,Ernesto Mercado,0.014100000000000001,0.9474,0.9333
+2023-04-14 06:40:53.079439,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Nick Lodolo (CIN),0.014099999999999998,0.0385,0.0244
 2023-04-13 23:40:48.157680,Brasileirao Série A - Brasileiro Serie A 2023 - Top Goalscorer,Pedro Raul (Vasco),0.014099999999999994,0.0667,0.0526
 2023-04-13 18:40:57.296479,NBA Playoffs - Team Specials - Denver Nuggets - Playoff Specials,Denver Champions & Jokic finals MVP,0.013999999999999999,0.0909,0.0769
-2023-04-13 18:40:57.261028,NBA Playoffs - Team Specials - Boston Celtics - Playoff Specials,BOS to win Championship & Tatum finals MVP,0.012899999999999995,0.1667,0.1538
+2023-04-14 06:40:53.079439,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Zack Wheeler,0.013999999999999999,0.0909,0.0769
+2023-04-14 06:40:52.797213,LOTTE Championship - Lotte Championship - Outright,Christina Kim,0.0132,0.0149,0.0017
+2023-04-14 06:40:53.070692,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Gunnar Henderson (BAL),0.0131,0.2353,0.2222
 2023-04-14 05:41:18.310867,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,0.012899999999999995,0.1667,0.1538
+2023-04-13 18:40:57.261028,NBA Playoffs - Team Specials - Boston Celtics - Playoff Specials,BOS to win Championship & Tatum finals MVP,0.012899999999999995,0.1667,0.1538
+2023-04-14 06:40:53.093107,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Bobby Miller,0.012700000000000003,0.0323,0.0196
+2023-04-14 06:40:52.797213,LOTTE Championship - Lotte Championship - Outright,Ruixin Liu,0.0124,0.0149,0.0025
 2023-04-14 05:41:18.348112,MLB Futures - MLB 2023 National League East - National League East Winner,New York Mets,0.01150000000000001,0.3448,0.3333
+2023-04-14 06:40:53.079439,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Brandon Woodruff (MIL),0.011199999999999995,0.0588,0.0476
 2023-04-14 05:41:18.366261,MLB Futures - MLB 2023 National League West - National League West Winner,San Diego Padres,0.010599999999999998,0.4651,0.4545
 2023-04-13 18:40:57.283854,NBA Playoffs - Team Specials - Cleveland Cavaliers - Playoff Specials,Mitchell 50+ points in any play off game,0.0102,0.0769,0.0667
 2023-04-13 21:40:59.651754,NBA Specials - Off-Season Specials - Where will Irving play Game 1 of the 2023/2024 Regular Season?,Miami Heat,-0.0102,0.0667,0.0769
 2023-04-13 21:40:59.651754,NBA Specials - Off-Season Specials - Where will Irving play Game 1 of the 2023/2024 Regular Season?,Chicago Bulls,-0.0102,0.0667,0.0769
-2023-04-13 21:40:58.017913,Elite Boxing - Gervonta Davis vs Ryan Garcia - To Win the Bout,Ryan Garcia,-0.010699999999999987,0.3226,0.3333
 2023-04-14 02:40:47.474564,Main Markets - 2nd Round 3 Balls - T. Fleetwood / A. Long / D. Redman - 2nd Round 3 Balls,Adam Long,-0.010699999999999987,0.3226,0.3333
+2023-04-13 21:40:58.017913,Elite Boxing - Gervonta Davis vs Ryan Garcia - To Win the Bout,Ryan Garcia,-0.010699999999999987,0.3226,0.3333
+2023-04-14 06:40:52.797213,LOTTE Championship - Lotte Championship - Outright,Ryann OToole,-0.011,0.0013,0.0123
 2023-04-14 02:40:47.521264,Main Markets - 2nd Round 3 Balls - S. Scheffler / C. Young / W. Simpson - 2nd Round 3 Balls,Scottie Scheffler,-0.01100000000000001,0.5238,0.5348
 2023-04-14 02:40:47.571944,Main Markets - 2nd Round 3 Balls - D. McCarthy / D. Riley / C.T. Pan - 2nd Round 3 Balls,C.T. Pan,-0.011099999999999999,0.2667,0.2778
+2023-04-14 06:40:53.079439,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Max Scherzer (NYM),-0.011099999999999999,0.1,0.1111
 2023-04-14 01:40:59.278063,Main Markets - 2nd Round 3 Balls - S. Stallings / T. Mullinax / L. List - 2nd Round 3 Balls,Trey Mullinax,-0.01150000000000001,0.3333,0.3448
 2023-04-14 02:40:47.474564,Main Markets - 2nd Round 3 Balls - T. Fleetwood / A. Long / D. Redman - 2nd Round 3 Balls,Tommy Fleetwood,-0.011600000000000055,0.5122,0.5238
 2023-04-14 02:40:47.692132,Main Markets - 2nd Round 3 Balls - C. Kirk / T. Hoge / R. Brehm - 2nd Round 3 Balls,Ryan Brehm,-0.011700000000000016,0.2105,0.2222
 2023-04-13 22:40:49.348366,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Arsenal,-0.012199999999999989,0.4878,0.5
 2023-04-14 02:40:47.692132,Main Markets - 2nd Round 3 Balls - C. Kirk / T. Hoge / R. Brehm - 2nd Round 3 Balls,Chris Kirk,-0.012199999999999989,0.5,0.5122
+2023-04-14 06:40:52.797213,LOTTE Championship - Lotte Championship - Outright,Marina Alex,-0.0124,0.0025,0.0149
+2023-04-14 06:40:52.797213,LOTTE Championship - Lotte Championship - Outright,Bailey Tardy,-0.013600000000000001,0.0013,0.0149
 2023-04-14 02:40:47.542637,Main Markets - 2nd Round 3 Balls - J. Rose / J.T. Poston / S. Cink - 2nd Round 3 Balls,Stewart Cink,-0.013600000000000001,0.2941,0.3077
 2023-04-13 21:40:59.651754,NBA Specials - Off-Season Specials - Where will Irving play Game 1 of the 2023/2024 Regular Season?,Dallas Mavericks,-0.013799999999999923,0.6226,0.6364
 2023-04-14 01:40:59.365234,Main Markets - 2nd Round 3 Balls - N. Taylor / Z. Johnson / E. Els - 2nd Round 3 Balls,Zach Johnson,-0.013800000000000034,0.3636,0.3774
@@ -61,16 +92,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-13 21:40:59.651754,NBA Specials - Off-Season Specials - Where will Irving play Game 1 of the 2023/2024 Regular Season?,Los Angeles Clippers,-0.013999999999999999,0.0769,0.0909
 2023-04-14 05:41:18.400563,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Shane Bieber (CLE),-0.014099999999999994,0.0526,0.0667
 2023-04-13 21:40:59.644718,NBA Specials - Off-Season Specials - Where will Harden play Game 1 of the 2023/2024 Regular Season?,Miami Heat,-0.014099999999999994,0.0526,0.0667
+2023-04-14 06:40:53.093107,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Elly De La Cruz,-0.014899999999999997,0.0476,0.0625
 2023-04-14 02:40:47.571944,Main Markets - 2nd Round 3 Balls - D. McCarthy / D. Riley / C.T. Pan - 2nd Round 3 Balls,Davis Riley,-0.015400000000000025,0.3846,0.4
 2023-04-14 05:41:18.400563,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Robbie Ray (SEA),-0.0157,0.0278,0.0435
 2023-04-14 04:40:52.289496,Main Markets - 2nd Round 3 Balls - J. Rahm / J. Spieth / A. Scott - 2nd Round 3 Balls,Adam Scott,-0.015899999999999997,0.2222,0.2381
 2023-04-14 01:40:59.278063,Main Markets - 2nd Round 3 Balls - S. Stallings / T. Mullinax / L. List - 2nd Round 3 Balls,Scott Stallings,-0.018900000000000028,0.4255,0.4444
+2023-04-14 06:40:52.797213,LOTTE Championship - Lotte Championship - Outright,Hye-Jin Choi,-0.019499999999999997,0.0099,0.0294
+2023-04-14 06:40:53.093107,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Sal Frelick,-0.019800000000000005,0.0278,0.0476
 2023-04-13 18:40:57.296479,NBA Playoffs - Team Specials - Denver Nuggets - Playoff Specials,Jokic 6+ Triple Doubles in play offs,-0.020199999999999996,0.8889,0.9091
 2023-04-13 18:40:57.296479,NBA Playoffs - Team Specials - Denver Nuggets - Playoff Specials,Jokic 15+ Triple Doubles in play offs,-0.0203,0.0385,0.0588
+2023-04-14 06:40:53.093107,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Matt Mervis,-0.0203,0.0385,0.0588
 2023-04-14 02:40:47.488573,Main Markets - 2nd Round 3 Balls - T. Kim / R. Henley / B. Horschel - 2nd Round 3 Balls,Billy Horschel,-0.020799999999999985,0.3125,0.3333
 2023-04-14 01:40:59.262021,Main Markets - 2nd Round 3 Balls - M. Kuchar / J.J. Spaun / J. Furyk - 2nd Round 3 Balls,Matt Kuchar,-0.02169999999999994,0.5238,0.5455
+2023-04-14 06:40:52.728949,Round Match-Ups - 2nd Round Match-Up - J. Rahm vs T. Finau - 2nd Round Match-Up,Jon Rahm,-0.02169999999999994,0.5238,0.5455
+2023-04-14 06:40:52.679513,Round Match-Ups - 2nd Round Match-Up - A. Scott vs T. Moore - 2nd Round Match-Up,Adam Scott,-0.022600000000000064,0.5122,0.5348
 2023-04-14 03:40:38.285503,Main Markets - 2nd Round 3 Balls - T. Montgomery / B. Wu / M. McGreevy - 2nd Round 3 Balls,Taylor Montgomery,-0.023799999999999988,0.4762,0.5
+2023-04-14 06:40:52.709653,Round Match-Ups - 2nd Round Match-Up - J.T. Poston vs W. Simpson - 2nd Round Match-Up,Webb Simpson,-0.023800000000000043,0.5,0.5238
+2023-04-14 06:40:53.093107,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Ezequiel Tovar (COL),-0.0242,0.0667,0.0909
+2023-04-14 06:40:53.079439,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Max Fried (ATL),-0.0242,0.0667,0.0909
+2023-04-14 06:40:53.093107,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Cade Cavalli (WAS),-0.024299999999999995,0.0526,0.0769
 2023-04-14 02:40:47.532878,Main Markets - 2nd Round 3 Balls - J. Rahm / J. Spieth / A. Scott - 2nd Round 3 Balls,Jordan Spieth,-0.024500000000000022,0.3922,0.4167
+2023-04-14 06:40:53.093107,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Miguel Vargas (LAD),-0.0267,0.0909,0.1176
 2023-04-14 01:40:59.357124,Main Markets - 2nd Round 3 Balls - C. Kirk / T. Hoge / R. Brehm - 2nd Round 3 Balls,Ryan Brehm,-0.02779999999999999,0.2222,0.25
 2023-04-14 05:41:18.400563,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Gerrit Cole (NYY),-0.027999999999999997,0.1538,0.1818
 2023-04-13 18:40:57.296479,NBA Playoffs - Team Specials - Denver Nuggets - Playoff Specials,Jokic 5+ Triple Doubles in play offs,-0.028000000000000025,0.9524,0.9804
@@ -78,12 +120,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-14 02:40:47.532878,Main Markets - 2nd Round 3 Balls - J. Rahm / J. Spieth / A. Scott - 2nd Round 3 Balls,Adam Scott,-0.028599999999999987,0.2381,0.2667
 2023-04-13 22:40:48.844781,UEFA Europa League - UEFA Europa League 22/23 - Winner,AS Roma,-0.028799999999999992,0.125,0.1538
 2023-04-13 19:40:46.596269,NFL Specials - When Will Aaron Rodgers be Traded to the New York Jets - NY Jets Special,On or Before Day 1 Of the 2023 NFL Draft,-0.029600000000000015,0.3704,0.4
+2023-04-14 06:40:53.070692,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Royce Lewis,-0.03270000000000001,0.0625,0.0952
 2023-04-13 18:40:57.296479,NBA Playoffs - Team Specials - Denver Nuggets - Playoff Specials,Jokic 7+ Triple Doubles in play offs,-0.033299999999999996,0.8,0.8333
+2023-04-14 06:40:53.079439,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Justin Verlander (NYM),-0.034100000000000005,0.0909,0.125
+2023-04-14 06:40:52.699963,Round Match-Ups - 2nd Round Match-Up - P. Cantlay vs S. Im - 2nd Round Match-Up,Sungjae Im,-0.03489999999999999,0.4651,0.5
 2023-04-13 18:40:57.296479,NBA Playoffs - Team Specials - Denver Nuggets - Playoff Specials,Jokic 8+ Triple Doubles in play offs,-0.035699999999999954,0.7143,0.75
+2023-04-14 06:40:53.070692,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Hunter Brown (HOU),-0.038299999999999994,0.0526,0.0909
+2023-04-14 06:40:53.093107,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Andrew Painter,-0.0384,0.0385,0.0769
+2023-04-14 06:40:52.718959,Round Match-Ups - 2nd Round Match-Up - S. Scheffler vs J. Spieth - 2nd Round Match-Up,Jordan Spieth,-0.039600000000000024,0.4255,0.4651
 2023-04-13 22:40:49.212975,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,Lech Poznan,-0.042600000000000006,0.005,0.0476
 2023-04-13 18:40:57.296479,NBA Playoffs - Team Specials - Denver Nuggets - Playoff Specials,Jokic 12+ Triple Doubles in play offs,-0.04999999999999999,0.2,0.25
+2023-04-14 06:40:52.797213,LOTTE Championship - Lotte Championship - Outright,Hinako Shibuno,-0.05249999999999999,0.0244,0.0769
+2023-04-14 06:40:53.079439,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Corbin Burnes (MIL),-0.05379999999999999,0.1,0.1538
 2023-04-13 18:40:57.296479,NBA Playoffs - Team Specials - Denver Nuggets - Playoff Specials,Jokic 9+ Triple Doubles in play offs,-0.05449999999999999,0.5455,0.6
 2023-04-13 22:40:49.212975,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,AZ Alkmaar,-0.05710000000000001,0.1429,0.2
 2023-04-13 22:40:48.844781,UEFA Europa League - UEFA Europa League 22/23 - Winner,Manchester United,-0.06580000000000003,0.3509,0.4167
+2023-04-14 06:40:52.797213,LOTTE Championship - Lotte Championship - Outright,Hae-Ran Ryu,-0.0759,0.001,0.0769
 2023-04-13 18:40:57.296479,NBA Playoffs - Team Specials - Denver Nuggets - Playoff Specials,Jokic 10+ Triple Doubles in play offs,-0.07619999999999999,0.4,0.4762
+2023-04-14 06:40:52.797213,LOTTE Championship - Lotte Championship - Outright,Frida Kinhult,-0.09870000000000001,0.0066,0.1053
+2023-04-14 06:40:52.797213,LOTTE Championship - Lotte Championship - Outright,Hyo Joo Kim,-0.2209,0.0013,0.2222
 2023-04-13 18:40:56.002472,NFL Specials - When Will Aaron Rodgers be Traded to the New York Jets - NY Jets Special,On or Before Day 1 Of the 2023 NFL Draft,-0.35,0.4,0.75
