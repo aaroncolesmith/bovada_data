@@ -28,8 +28,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-14 03:40:38.285503,Main Markets - 2nd Round 3 Balls - T. Montgomery / B. Wu / M. McGreevy - 2nd Round 3 Balls,Brandon Wu,0.02260000000000001,0.4,0.3774
 2023-04-14 06:40:53.070692,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Masataka Yoshida (BOS),0.022199999999999998,0.2222,0.2
 2023-04-14 06:40:52.797213,LOTTE Championship - Lotte Championship - Outright,Nasa Hataoka,0.022199999999999998,0.2222,0.2
-2023-04-14 07:41:14.082553,Main Markets - 2nd Round 3 Balls - M. Kuchar / J.J. Spaun / J. Furyk - 2nd Round 3 Balls,Matt Kuchar,0.02169999999999994,0.5455,0.5238
 2023-04-14 06:40:52.709653,Round Match-Ups - 2nd Round Match-Up - J.T. Poston vs W. Simpson - 2nd Round Match-Up,J.T. Poston,0.02169999999999994,0.5455,0.5238
+2023-04-14 07:41:14.082553,Main Markets - 2nd Round 3 Balls - M. Kuchar / J.J. Spaun / J. Furyk - 2nd Round 3 Balls,Matt Kuchar,0.02169999999999994,0.5455,0.5238
+2023-04-14 11:41:10.814556,Round Match-Ups - 2nd Round Match-Up - C. Davis v N. Taylor - 2nd Round Match-Up,Nick Taylor,0.02169999999999994,0.5455,0.5238
 2023-04-14 02:40:47.474564,Main Markets - 2nd Round 3 Balls - T. Fleetwood / A. Long / D. Redman - 2nd Round 3 Balls,Doc Redman,0.02159999999999998,0.2597,0.2381
 2023-04-14 02:40:47.542637,Main Markets - 2nd Round 3 Balls - J. Rose / J.T. Poston / S. Cink - 2nd Round 3 Balls,J.T. Poston,0.02100000000000002,0.3846,0.3636
 2023-04-14 02:40:47.692132,Main Markets - 2nd Round 3 Balls - C. Kirk / T. Hoge / R. Brehm - 2nd Round 3 Balls,Tom Hoge,0.02100000000000002,0.3846,0.3636
@@ -47,7 +48,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-14 06:40:53.093107,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Corbin Carroll (ARIZ),0.01469999999999999,0.25,0.2353
 2023-04-14 06:40:53.079439,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Jesús Luzardo,0.014599999999999998,0.0278,0.0132
 2023-04-14 06:40:53.079439,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Nick Lodolo (CIN),0.014099999999999998,0.0385,0.0244
-2023-04-13 23:40:48.157680,Brasileirao Série A - Brasileiro Serie A 2023 - Top Goalscorer,Pedro Raul (Vasco),0.014099999999999994,0.0667,0.0526
 2023-04-14 06:40:53.079439,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Zack Wheeler,0.013999999999999999,0.0909,0.0769
 2023-04-14 08:41:26.222006,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Drew Rasmussen (TB),0.0139,0.0196,0.0057
 2023-04-14 06:40:52.797213,LOTTE Championship - Lotte Championship - Outright,Christina Kim,0.0132,0.0149,0.0017
@@ -57,17 +57,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-14 06:40:52.797213,LOTTE Championship - Lotte Championship - Outright,Ruixin Liu,0.0124,0.0149,0.0025
 2023-04-14 05:41:18.348112,MLB Futures - MLB 2023 National League East - National League East Winner,New York Mets,0.01150000000000001,0.3448,0.3333
 2023-04-14 06:40:53.079439,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Brandon Woodruff (MIL),0.011199999999999995,0.0588,0.0476
+2023-04-14 11:41:10.724621,Round Match-Ups - 2nd Round Match-Up - B. Todd v M. W. Lee - 2nd Round Match-Up,Brendon Todd,0.01100000000000001,0.5348,0.5238
+2023-04-14 11:41:10.852840,Round Match-Ups - 2nd Round Match-Up - A. Putnam v P. Rodgers - 2nd Round Match-Up,Andrew Putnam,0.01100000000000001,0.5348,0.5238
 2023-04-14 07:41:11.804699,Elite Boxing - Gervonta Davis vs Ryan Garcia - To Win the Bout,Ryan Garcia,0.010699999999999987,0.3333,0.3226
 2023-04-14 05:41:18.366261,MLB Futures - MLB 2023 National League West - National League West Winner,San Diego Padres,0.010599999999999998,0.4651,0.4545
 2023-04-14 02:40:47.474564,Main Markets - 2nd Round 3 Balls - T. Fleetwood / A. Long / D. Redman - 2nd Round 3 Balls,Adam Long,-0.010699999999999987,0.3226,0.3333
 2023-04-14 08:41:27.547941,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,FC Juarez,-0.0109,0.004,0.0149
 2023-04-14 06:40:52.797213,LOTTE Championship - Lotte Championship - Outright,Ryann OToole,-0.011,0.0013,0.0123
 2023-04-14 02:40:47.521264,Main Markets - 2nd Round 3 Balls - S. Scheffler / C. Young / W. Simpson - 2nd Round 3 Balls,Scottie Scheffler,-0.01100000000000001,0.5238,0.5348
-2023-04-14 02:40:47.571944,Main Markets - 2nd Round 3 Balls - D. McCarthy / D. Riley / C.T. Pan - 2nd Round 3 Balls,C.T. Pan,-0.011099999999999999,0.2667,0.2778
 2023-04-14 06:40:53.079439,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Max Scherzer (NYM),-0.011099999999999999,0.1,0.1111
+2023-04-14 02:40:47.571944,Main Markets - 2nd Round 3 Balls - D. McCarthy / D. Riley / C.T. Pan - 2nd Round 3 Balls,C.T. Pan,-0.011099999999999999,0.2667,0.2778
 2023-04-14 08:41:27.872213,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,Talleres,-0.011199999999999995,0.0476,0.0588
 2023-04-14 01:40:59.278063,Main Markets - 2nd Round 3 Balls - S. Stallings / T. Mullinax / L. List - 2nd Round 3 Balls,Trey Mullinax,-0.01150000000000001,0.3333,0.3448
 2023-04-14 02:40:47.474564,Main Markets - 2nd Round 3 Balls - T. Fleetwood / A. Long / D. Redman - 2nd Round 3 Balls,Tommy Fleetwood,-0.011600000000000055,0.5122,0.5238
+2023-04-14 11:41:10.852840,Round Match-Ups - 2nd Round Match-Up - A. Putnam v P. Rodgers - 2nd Round Match-Up,Patrick Rodgers,-0.011600000000000055,0.5122,0.5238
+2023-04-14 11:41:10.724621,Round Match-Ups - 2nd Round Match-Up - B. Todd v M. W. Lee - 2nd Round Match-Up,Min Woo Lee,-0.011600000000000055,0.5122,0.5238
 2023-04-14 02:40:47.692132,Main Markets - 2nd Round 3 Balls - C. Kirk / T. Hoge / R. Brehm - 2nd Round 3 Balls,Ryan Brehm,-0.011700000000000016,0.2105,0.2222
 2023-04-14 02:40:47.692132,Main Markets - 2nd Round 3 Balls - C. Kirk / T. Hoge / R. Brehm - 2nd Round 3 Balls,Chris Kirk,-0.012199999999999989,0.5,0.5122
 2023-04-14 06:40:52.797213,LOTTE Championship - Lotte Championship - Outright,Marina Alex,-0.0124,0.0025,0.0149
@@ -91,12 +95,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-14 06:40:52.728949,Round Match-Ups - 2nd Round Match-Up - J. Rahm vs T. Finau - 2nd Round Match-Up,Jon Rahm,-0.02169999999999994,0.5238,0.5455
 2023-04-14 07:41:11.886703,Boxing Lines - Lisa Whiteside vs Tysie Gallagher - To Win the Bout,Tysie Gallagher,-0.02180000000000004,0.6078,0.6296
 2023-04-14 06:40:52.679513,Round Match-Ups - 2nd Round Match-Up - A. Scott vs T. Moore - 2nd Round Match-Up,Adam Scott,-0.022600000000000064,0.5122,0.5348
-2023-04-14 07:41:14.360244,Round Match-Ups - 2nd Round Match-Up - J.T. Poston vs W. Simpson - 2nd Round Match-Up,Webb Simpson,-0.023799999999999988,0.4762,0.5
 2023-04-14 03:40:38.285503,Main Markets - 2nd Round 3 Balls - T. Montgomery / B. Wu / M. McGreevy - 2nd Round 3 Balls,Taylor Montgomery,-0.023799999999999988,0.4762,0.5
+2023-04-14 07:41:14.360244,Round Match-Ups - 2nd Round Match-Up - J.T. Poston vs W. Simpson - 2nd Round Match-Up,Webb Simpson,-0.023799999999999988,0.4762,0.5
+2023-04-14 11:41:10.814556,Round Match-Ups - 2nd Round Match-Up - C. Davis v N. Taylor - 2nd Round Match-Up,Cameron Davis,-0.023800000000000043,0.5,0.5238
 2023-04-14 06:40:52.709653,Round Match-Ups - 2nd Round Match-Up - J.T. Poston vs W. Simpson - 2nd Round Match-Up,Webb Simpson,-0.023800000000000043,0.5,0.5238
+2023-04-14 08:41:27.872213,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,Rosario Central,-0.0242,0.0667,0.0909
 2023-04-14 06:40:53.093107,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Ezequiel Tovar (COL),-0.0242,0.0667,0.0909
 2023-04-14 06:40:53.079439,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Max Fried (ATL),-0.0242,0.0667,0.0909
-2023-04-14 08:41:27.872213,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,Rosario Central,-0.0242,0.0667,0.0909
 2023-04-14 06:40:53.093107,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Cade Cavalli (WAS),-0.024299999999999995,0.0526,0.0769
 2023-04-14 02:40:47.532878,Main Markets - 2nd Round 3 Balls - J. Rahm / J. Spieth / A. Scott - 2nd Round 3 Balls,Jordan Spieth,-0.024500000000000022,0.3922,0.4167
 2023-04-14 06:40:53.093107,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Miguel Vargas (LAD),-0.0267,0.0909,0.1176
