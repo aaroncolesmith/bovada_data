@@ -5,13 +5,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-15 10:41:04.763252,LOTTE Championship - Lotte Championship - Outright,Celine Boutier,0.0804,0.1,0.0196
 2023-04-15 13:40:54.485253,International Series Vietnam - International Series Vietnam - Outright,Wenyi Ding,0.0509,0.0588,0.0079
 2023-04-15 18:40:51.075165,Celebrity Boxing - Creator Clash 2 - CrankGameplays vs Leonhart - Proposition,CrankGameplays,0.04630000000000001,0.4167,0.3704
-2023-04-15 08:40:55.504684,Celebrity Boxing - Creator Clash 2 - Jaelaray  vs Abelina Sabrina - Proposition,Jaelaray,0.04630000000000001,0.4167,0.3704
 2023-04-15 08:40:58.601266,Championship - England Championship 2022/23 - Top 6 Finish,Blackburn Rovers,0.045499999999999985,0.5455,0.5
 2023-04-15 08:40:58.307195,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Niclas Fullkrug,0.037800000000000056,0.5833,0.5455
 2023-04-15 13:40:54.485253,International Series Vietnam - International Series Vietnam - Outright,Pavit Tangkamolprasert,0.037700000000000004,0.0476,0.0099
 2023-04-15 08:40:58.575044,Championship - England Championship 2022/23 - Top Goalscorer,Chuba Akpom,0.037699999999999956,0.9901,0.9524
 2023-04-15 13:40:54.485253,International Series Vietnam - International Series Vietnam - Outright,Pawin Ingkhapradit,0.0365,0.0385,0.002
 2023-04-15 10:41:04.763252,LOTTE Championship - Lotte Championship - Outright,Grace Kim,0.035699999999999996,0.0833,0.0476
+2023-04-15 20:40:55.641416,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Boston Celtics,0.0348,0.4348,0.4
 2023-04-15 10:41:04.763252,LOTTE Championship - Lotte Championship - Outright,Yujin Sung,0.034100000000000005,0.125,0.0909
 2023-04-15 08:40:58.618218,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Club América,0.033300000000000024,0.2,0.1667
 2023-04-15 16:41:00.076867,Round Match-Ups - 3rd Round Match-Up - P. Cantlay vs J. Spieth - 3rd Round Match-Up,Jordan Spieth,0.031799999999999995,0.4762,0.4444
@@ -20,13 +20,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-15 08:40:58.218558,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Alexandre Lacazette,0.024999999999999994,0.125,0.1
 2023-04-15 16:41:00.359465,NBA Specials - Off-Season Specials - Where will Doncic play Game 1 of the 2023/2024 Regular Season?,Oklahoma City Thunder,0.024299999999999995,0.0769,0.0526
 2023-04-15 10:41:04.150158,Round Match-Ups - 3rd Round Match-Up - S. Theegala vs S. Burns - 3rd Round Match-Up,Sam Burns,0.023800000000000043,0.5238,0.5
-2023-04-15 17:40:54.358645,NBA Playoffs - Team Specials - Golden State Warriors - Playoff Specials,Curry 40+ points in any game,0.023799999999999988,0.5,0.4762
 2023-04-15 15:41:01.543110,Main Markets - 3rd Round 2 Balls - B. Todd v A. Scott - 3rd Round 2 Balls,Adam Scott,0.023799999999999988,0.5,0.4762
+2023-04-15 17:40:54.358645,NBA Playoffs - Team Specials - Golden State Warriors - Playoff Specials,Curry 40+ points in any game,0.023799999999999988,0.5,0.4762
 2023-04-15 08:40:58.575044,Championship - England Championship 2022/23 - Top Goalscorer,Joel Piroe,0.022799999999999997,0.0278,0.005
-2023-04-15 17:40:54.417116,NBA Playoffs - Team Specials - Los Angeles Clippers - Playoff Specials,Westbrook 2+ Triple Doubles in playoffs,0.022199999999999998,0.2222,0.2
 2023-04-15 15:41:03.173231,NBA Specials - Off-Season Specials - Where will Irving play Game 1 of the 2023/2024 Regular Season?,Los Angeles Lakers,0.022199999999999998,0.2222,0.2
+2023-04-15 20:40:55.660345,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Boston Celtics,0.022199999999999998,0.2222,0.2
+2023-04-15 17:40:54.417116,NBA Playoffs - Team Specials - Los Angeles Clippers - Playoff Specials,Westbrook 2+ Triple Doubles in playoffs,0.022199999999999998,0.2222,0.2
 2023-04-15 08:40:58.582048,Championship - England Championship 2022/23 - To Be Promoted,Middlesbrough,0.02100000000000002,0.3846,0.3636
 2023-04-15 16:41:00.058315,Round Match-Ups - 3rd Round Match-Up - B. Griffin vs A. Rai - 3rd Round Match-Up,Aaron Rai,0.02079999999999993,0.5556,0.5348
+2023-04-15 20:40:55.660345,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Milwaukee Bucks,0.019000000000000017,0.2857,0.2667
 2023-04-15 17:40:54.368488,NBA Playoffs - Team Specials - Sacramento Kings - Playoff Specials,Light The Beam! Kings to win every home game,0.0189,0.0385,0.0196
 2023-04-15 10:41:04.763252,LOTTE Championship - Lotte Championship - Outright,Bailey Tardy,0.0183,0.0196,0.0013
 2023-04-15 10:41:04.763252,LOTTE Championship - Lotte Championship - Outright,Lauren Hartlage,0.017099999999999997,0.0294,0.0123
@@ -59,8 +61,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-15 15:41:03.173231,NBA Specials - Off-Season Specials - Where will Irving play Game 1 of the 2023/2024 Regular Season?,Dallas Mavericks,-0.022600000000000064,0.6,0.6226
 2023-04-15 08:40:58.276798,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Villarreal,-0.023799999999999988,0.4762,0.5
 2023-04-15 08:40:58.276798,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Real Sociedad,-0.023800000000000043,0.5,0.5238
-2023-04-15 08:40:55.574138,Celebrity Specials - To Be Confirmed As Biological Siblings In 2023 - To Be Confirmed As Siblings In 2023,Sidney Crosby & Andy Samberg,-0.028000000000000004,0.0196,0.0476
-2023-04-15 08:40:55.574138,Celebrity Specials - To Be Confirmed As Biological Siblings In 2023 - To Be Confirmed As Siblings In 2023,Dax Shepard & Zach Braff,-0.028000000000000004,0.0196,0.0476
 2023-04-15 08:40:58.567664,Championship - England Championship 2022/23 - Outright,Sheffield United,-0.0286,0.0099,0.0385
 2023-04-15 08:40:58.575044,Championship - England Championship 2022/23 - Top Goalscorer,Viktor Gyokeres,-0.029299999999999993,0.0476,0.0769
 2023-04-15 08:40:58.618218,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,CF Monterrey,-0.030299999999999994,0.3333,0.3636
@@ -73,7 +73,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-15 10:41:04.763252,LOTTE Championship - Lotte Championship - Outright,Nasa Hataoka,-0.05550000000000002,0.1667,0.2222
 2023-04-15 18:40:51.075165,Celebrity Boxing - Creator Clash 2 - CrankGameplays vs Leonhart - Proposition,Leonhart,-0.05910000000000004,0.6552,0.7143
 2023-04-15 13:40:54.485253,International Series Vietnam - International Series Vietnam - Outright,Taehee Lee,-0.0615,0.0294,0.0909
-2023-04-15 08:40:55.504684,Celebrity Boxing - Creator Clash 2 - Jaelaray  vs Abelina Sabrina - Proposition,Abelina Sabrina,-0.07140000000000002,0.6429,0.7143
 2023-04-15 12:40:49.932520,Celebrity Specials 2023 - To Be Confirmed As Biological Siblings In 2023 - To Be Confirmed As Siblings In 2023,Prince Harry & James Hewitt (child & parent),-0.07579999999999999,0.0909,0.1667
 2023-04-15 13:40:54.485253,International Series Vietnam - International Series Vietnam - Outright,Zhengkai Bai,-0.08589999999999999,0.005,0.0909
 2023-04-15 10:41:04.763252,LOTTE Championship - Lotte Championship - Outright,Natthakritta Vongtaveelap,-0.1049,0.0769,0.1818
