@@ -35,11 +35,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-15 21:40:59.391973,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Boston Celtics,0.02779999999999999,0.25,0.2222
 2023-04-15 13:40:54.485253,International Series Vietnam - International Series Vietnam - Outright,Matthew Cheung,0.0274,0.0294,0.002
 2023-04-15 16:41:00.359465,NBA Specials - Off-Season Specials - Where will Doncic play Game 1 of the 2023/2024 Regular Season?,Oklahoma City Thunder,0.024299999999999995,0.0769,0.0526
-2023-04-15 15:41:01.543110,Main Markets - 3rd Round 2 Balls - B. Todd v A. Scott - 3rd Round 2 Balls,Adam Scott,0.023799999999999988,0.5,0.4762
 2023-04-15 17:40:54.358645,NBA Playoffs - Team Specials - Golden State Warriors - Playoff Specials,Curry 40+ points in any game,0.023799999999999988,0.5,0.4762
-2023-04-15 17:40:54.417116,NBA Playoffs - Team Specials - Los Angeles Clippers - Playoff Specials,Westbrook 2+ Triple Doubles in playoffs,0.022199999999999998,0.2222,0.2
-2023-04-15 15:41:03.173231,NBA Specials - Off-Season Specials - Where will Irving play Game 1 of the 2023/2024 Regular Season?,Los Angeles Lakers,0.022199999999999998,0.2222,0.2
+2023-04-15 15:41:01.543110,Main Markets - 3rd Round 2 Balls - B. Todd v A. Scott - 3rd Round 2 Balls,Adam Scott,0.023799999999999988,0.5,0.4762
 2023-04-15 20:40:55.660345,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Boston Celtics,0.022199999999999998,0.2222,0.2
+2023-04-15 15:41:03.173231,NBA Specials - Off-Season Specials - Where will Irving play Game 1 of the 2023/2024 Regular Season?,Los Angeles Lakers,0.022199999999999998,0.2222,0.2
+2023-04-15 17:40:54.417116,NBA Playoffs - Team Specials - Los Angeles Clippers - Playoff Specials,Westbrook 2+ Triple Doubles in playoffs,0.022199999999999998,0.2222,0.2
 2023-04-15 16:41:00.058315,Round Match-Ups - 3rd Round Match-Up - B. Griffin vs A. Rai - 3rd Round Match-Up,Aaron Rai,0.02079999999999993,0.5556,0.5348
 2023-04-15 23:40:47.698782,League Two - England - League Two 2022/23 - Top 7 Finish,Stockport County,0.019199999999999995,0.9901,0.9709
 2023-04-15 20:40:55.660345,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Milwaukee Bucks,0.019000000000000017,0.2857,0.2667
@@ -59,6 +59,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-15 16:40:59.976927,Round Scores - 3rd Round Score - Jordan Spieth - 3rd Round Score,Under 68.5,0.010699999999999932,0.5455,0.5348
 2023-04-15 16:41:00.045416,Round Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score,Over 68.5,-0.010599999999999998,0.4545,0.4651
 2023-04-15 16:40:59.976927,Round Scores - 3rd Round Score - Jordan Spieth - 3rd Round Score,Over 68.5,-0.01100000000000001,0.5238,0.5348
+2023-04-16 00:40:52.595833,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Cleveland Cavaliers,-0.011199999999999995,0.0476,0.0588
 2023-04-15 23:40:47.682167,League Two - England - League Two 2022/23 - To Be Promoted,Barrow FC,-0.012100000000000001,0.0123,0.0244
 2023-04-15 22:40:43.087493,League Two - England - League Two 2022/23 - Outright,Northampton Town,-0.014099999999999998,0.0244,0.0385
 2023-04-15 22:40:42.949092,Championship - England Championship 2022/23 - Top 2 Finish,Luton Town,-0.018200000000000004,0.0294,0.0476
@@ -80,7 +81,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-15 22:40:43.078917,League One - England - League One 2022/23 - Top 6 Finish,Peterborough United,-0.06669999999999998,0.6,0.6667
 2023-04-15 23:40:47.692445,League Two - England - League Two 2022/23 - Top 3 Finish,Stevenage,-0.06820000000000004,0.75,0.8182
 2023-04-15 22:40:43.078917,League One - England - League One 2022/23 - Top 6 Finish,Derby County,-0.06929999999999997,0.4762,0.5455
-2023-04-15 12:40:49.932520,Celebrity Specials 2023 - To Be Confirmed As Biological Siblings In 2023 - To Be Confirmed As Siblings In 2023,Prince Harry & James Hewitt (child & parent),-0.07579999999999999,0.0909,0.1667
 2023-04-15 21:40:57.787490,Celebrity Boxing - Creator Clash 2 - Marisha Ray vs Haley Sharpe - Proposition,Haley Sharpe,-0.08330000000000004,0.6667,0.75
 2023-04-15 23:40:47.692445,League Two - England - League Two 2022/23 - Top 3 Finish,Mansfield Town,-0.0857,0.0476,0.1333
 2023-04-15 13:40:54.485253,International Series Vietnam - International Series Vietnam - Outright,Zhengkai Bai,-0.08589999999999999,0.005,0.0909
