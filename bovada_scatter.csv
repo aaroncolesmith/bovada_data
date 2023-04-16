@@ -9,12 +9,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-15 22:40:43.074508,League One - England - League One 2022/23 - Top 2 Finish,Ipswich Town,0.08699999999999997,0.8571,0.7701
 2023-04-15 23:40:47.698782,League Two - England - League Two 2022/23 - Top 7 Finish,Bradford City,0.0867,0.9756,0.8889
 2023-04-15 22:40:43.067669,League One - England - League One 2022/23 - To Be Relegated,Milton Keynes Dons,0.0857,0.2857,0.2
-2023-04-15 23:40:47.682167,League Two - England - League Two 2022/23 - To Be Promoted,Stevenage,0.08330000000000004,0.8333,0.75
 2023-04-15 23:40:47.692445,League Two - England - League Two 2022/23 - Top 3 Finish,Northampton Town,0.08330000000000004,0.5833,0.5
+2023-04-15 23:40:47.682167,League Two - England - League Two 2022/23 - To Be Promoted,Stevenage,0.08330000000000004,0.8333,0.75
 2023-04-15 22:40:43.053828,League One - England - League One 2022/23 - Outright,Ipswich Town,0.07939999999999997,0.5556,0.4762
 2023-04-15 23:40:47.687274,League Two - England - League Two 2022/23 - To Finish Bottom,Rochdale,0.07740000000000002,0.9524,0.875
-2023-04-15 23:40:47.677081,League Two - England - League Two 2022/23 - Top Goalscorer,Andy Cook,0.07620000000000005,0.9333,0.8571
 2023-04-15 22:40:43.067669,League One - England - League One 2022/23 - To Be Relegated,Accrington Stanley,0.07620000000000005,0.9333,0.8571
+2023-04-15 23:40:47.677081,League Two - England - League Two 2022/23 - Top Goalscorer,Andy Cook,0.07620000000000005,0.9333,0.8571
 2023-04-15 21:40:57.787490,Celebrity Boxing - Creator Clash 2 - Marisha Ray vs Haley Sharpe - Proposition,Marisha Ray,0.06670000000000004,0.4,0.3333
 2023-04-15 23:40:47.706443,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester City,0.061999999999999944,0.6364,0.5744
 2023-04-15 23:40:47.698782,League Two - England - League Two 2022/23 - Top 7 Finish,Mansfield Town,0.057699999999999974,0.75,0.6923
@@ -29,10 +29,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-15 22:40:43.087493,League Two - England - League Two 2022/23 - Outright,Leyton Orient,0.02859999999999996,0.9901,0.9615
 2023-04-15 21:40:59.391973,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Boston Celtics,0.02779999999999999,0.25,0.2222
 2023-04-15 16:41:00.359465,NBA Specials - Off-Season Specials - Where will Doncic play Game 1 of the 2023/2024 Regular Season?,Oklahoma City Thunder,0.024299999999999995,0.0769,0.0526
-2023-04-15 15:41:01.543110,Main Markets - 3rd Round 2 Balls - B. Todd v A. Scott - 3rd Round 2 Balls,Adam Scott,0.023799999999999988,0.5,0.4762
 2023-04-15 17:40:54.358645,NBA Playoffs - Team Specials - Golden State Warriors - Playoff Specials,Curry 40+ points in any game,0.023799999999999988,0.5,0.4762
 2023-04-15 20:40:55.660345,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Boston Celtics,0.022199999999999998,0.2222,0.2
-2023-04-15 15:41:03.173231,NBA Specials - Off-Season Specials - Where will Irving play Game 1 of the 2023/2024 Regular Season?,Los Angeles Lakers,0.022199999999999998,0.2222,0.2
 2023-04-15 17:40:54.417116,NBA Playoffs - Team Specials - Los Angeles Clippers - Playoff Specials,Westbrook 2+ Triple Doubles in playoffs,0.022199999999999998,0.2222,0.2
 2023-04-15 16:41:00.058315,Round Match-Ups - 3rd Round Match-Up - B. Griffin vs A. Rai - 3rd Round Match-Up,Aaron Rai,0.02079999999999993,0.5556,0.5348
 2023-04-15 23:40:47.698782,League Two - England - League Two 2022/23 - Top 7 Finish,Stockport County,0.019199999999999995,0.9901,0.9709
@@ -57,9 +55,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-15 22:40:43.087493,League Two - England - League Two 2022/23 - Outright,Northampton Town,-0.014099999999999998,0.0244,0.0385
 2023-04-15 22:40:42.949092,Championship - England Championship 2022/23 - Top 2 Finish,Luton Town,-0.018200000000000004,0.0294,0.0476
 2023-04-15 23:40:47.692445,League Two - England - League Two 2022/23 - Top 3 Finish,Salford City,-0.0189,0.0196,0.0385
-2023-04-15 15:41:01.543110,Main Markets - 3rd Round 2 Balls - B. Todd v A. Scott - 3rd Round 2 Balls,Brendon Todd,-0.01970000000000005,0.5455,0.5652
 2023-04-15 22:40:43.087493,League Two - England - League Two 2022/23 - Outright,Stevenage,-0.0203,0.0385,0.0588
-2023-04-15 15:41:03.173231,NBA Specials - Off-Season Specials - Where will Irving play Game 1 of the 2023/2024 Regular Season?,Dallas Mavericks,-0.022600000000000064,0.6,0.6226
 2023-04-15 22:40:42.944437,Championship - England Championship 2022/23 - To Be Promoted,Preston North End,-0.023200000000000002,0.0244,0.0476
 2023-04-15 22:40:43.078917,League One - England - League One 2022/23 - Top 6 Finish,Portsmouth,-0.023200000000000002,0.0244,0.0476
 2023-04-15 22:40:43.060748,League One - England - League One 2022/23 - To Be Promoted,Peterborough United,-0.027999999999999997,0.1538,0.1818
