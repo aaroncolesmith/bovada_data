@@ -1,6 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2023-04-16 15:40:58.642761,NBA Playoffs - Team Specials - Los Angeles Lakers - Playoff Specials,"Mike Breen to say ""Bang"" after a Lakers 3 pointer",0.07619999999999999,0.4762,0.4
 2023-04-16 15:40:58.652657,NBA Playoffs - Team Specials - Memphis Grizzlies - Playoff Specials,"Mike Breen to say ""Bang"" after a Memphis 3 pointer",0.07619999999999999,0.4762,0.4
+2023-04-16 15:40:58.642761,NBA Playoffs - Team Specials - Los Angeles Lakers - Playoff Specials,"Mike Breen to say ""Bang"" after a Lakers 3 pointer",0.07619999999999999,0.4762,0.4
 2023-04-16 23:41:07.356598,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Boston Celtics,0.06509999999999999,0.4651,0.4
 2023-04-16 22:41:30.861261,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester City,0.05590000000000006,0.6923,0.6364
 2023-04-16 17:41:13.160549,MLB Futures - MLB 2023 National League East - National League East Winner,Atlanta Braves,0.05130000000000001,0.6667,0.6154
@@ -15,15 +15,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-16 21:40:52.369203,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Golden State Warriors,0.031700000000000006,0.2222,0.1905
 2023-04-16 19:41:07.556262,Z_Fury FC - Phillip Henry Latu vs Kimo Luis - To Win the Bout,Kimo Luis,0.028299999999999992,0.3509,0.3226
 2023-04-16 20:40:52.737932,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Memphis Grizzlies,0.025300000000000003,0.1429,0.1176
-2023-04-16 21:40:52.379993,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Los Angeles Lakers,0.0242,0.0909,0.0667
 2023-04-16 21:40:52.369203,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Sacramento Kings,0.0242,0.0909,0.0667
+2023-04-16 21:40:52.379993,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Los Angeles Lakers,0.0242,0.0909,0.0667
 2023-04-16 13:41:03.158431,Round Match-Ups - Final Round Match-Up - C. Young v J. Thomas - Final Round Match-Up,Justin Thomas,0.023800000000000043,0.5238,0.5
 2023-04-16 16:41:12.205321,FA Cup - FA Cup 2022/2023 - Winner,Manchester City,0.023799999999999932,0.6667,0.6429
 2023-04-16 17:41:13.067022,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Los Angeles Dodgers,0.022199999999999998,0.2222,0.2
 2023-04-16 20:40:52.443120,Box Office Specials - Barbie Specials - How many Oscars will Barbie win?,2 or more,0.02020000000000001,0.1111,0.0909
 2023-04-16 18:40:49.791688,Z_Fury FC - Phillip Henry Latu vs Kimo Luis - To Win the Bout,Kimo Luis,0.019600000000000006,0.3226,0.303
-2023-04-16 11:42:31.193935,Round Match-Ups - Final Round Match-Up - C. Reavie v J. Walker - Final Round Match-Up,Chez Reavie,0.018100000000000005,0.5833,0.5652
 2023-04-16 18:40:50.958361,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Kevin Durant (PHX),0.0179,0.1429,0.125
+2023-04-17 00:40:59.212149,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Philadelphia 76ers,0.01759999999999999,0.1176,0.1
 2023-04-16 13:41:03.462045,Round Scores - Final Round Score - Collin Morikawa - Final Round Score,Under 68.5,0.017299999999999982,0.5917,0.5744
 2023-04-16 13:41:03.535462,Round Scores - Final Round Score - Scottie Scheffler - Final Round Score,Under 68.5,0.016100000000000003,0.6078,0.5917
 2023-04-16 20:40:52.525043,Harry Potter Reboot - Who will play Albus Dumbledore? - Who will play Albus Dumbledore?,Jared Harris,0.015100000000000002,0.1818,0.1667
@@ -35,27 +35,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-16 18:40:50.958361,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,LeBron James (LAL),0.011199999999999995,0.0435,0.0323
 2023-04-16 17:41:13.017738,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Milwaukee Brewers,0.011199999999999995,0.0588,0.0476
 2023-04-16 18:40:50.958361,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Devin Booker (PHX),0.011199999999999995,0.0588,0.0476
-2023-04-16 13:41:03.312355,Round Match-Ups - Final Round Match-Up - C. Davis vs T. Moore - Final Round Match-Up,Taylor Moore,0.01100000000000001,0.5348,0.5238
 2023-04-16 13:41:03.267740,Round Match-Ups - Final Round Match-Up - C. Conners vs R. Henley - Final Round Match-Up,Russell Henley,0.01100000000000001,0.5348,0.5238
-2023-04-16 11:42:30.904633,Round Match-Ups - Final Round Match-Up - C. Young v J. Thomas - Final Round Match-Up,Cameron Young,0.010699999999999932,0.5455,0.5348
-2023-04-16 17:41:13.115719,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,0.010699999999999932,0.5455,0.5348
+2023-04-16 13:41:03.312355,Round Match-Ups - Final Round Match-Up - C. Davis vs T. Moore - Final Round Match-Up,Taylor Moore,0.01100000000000001,0.5348,0.5238
+2023-04-17 00:40:59.113206,Elite Boxing - Gervonta Davis vs Ryan Garcia - To Win the Bout,Ryan Garcia,0.010699999999999987,0.3333,0.3226
 2023-04-16 13:41:03.147023,Round Match-Ups - Final Round Match-Up - A. Svensson v B. Hossler - Final Round Match-Up,Adam Svensson,0.010699999999999932,0.5455,0.5348
+2023-04-16 17:41:13.115719,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,0.010699999999999932,0.5455,0.5348
 2023-04-16 22:41:29.239293,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Milwaukee Bucks,-0.010099999999999998,0.4444,0.4545
 2023-04-16 22:41:30.527727,Superligaen - Denmark Superligaen 2022/23 - Outright,Viborg FF,-0.010100000000000001,0.0244,0.0345
 2023-04-16 13:41:03.573432,Round Scores - Final Round Score - Patrick Cantlay - Final Round Score,Over 68.5,-0.010599999999999998,0.4545,0.4651
 2023-04-16 21:40:51.611987,Elite Boxing - Gervonta Davis vs Ryan Garcia - To Win the Bout,Ryan Garcia,-0.010699999999999987,0.3226,0.3333
 2023-04-16 17:41:13.035177,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Toronto Blue Jays,-0.010899999999999993,0.1429,0.1538
 2023-04-16 17:41:13.187822,MLB Futures - MLB 2023 National League West - National League West Winner,San Diego Padres,-0.011099999999999999,0.4651,0.4762
-2023-04-16 11:42:31.193935,Round Match-Ups - Final Round Match-Up - C. Reavie v J. Walker - Final Round Match-Up,Jimmy Walker,-0.011099999999999999,0.4651,0.4762
 2023-04-16 17:41:13.067022,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Miami Marlins,-0.011200000000000002,0.0132,0.0244
 2023-04-16 13:41:03.462045,Round Scores - Final Round Score - Collin Morikawa - Final Round Score,Over 68.5,-0.0116,0.4762,0.4878
-2023-04-16 13:41:03.267740,Round Match-Ups - Final Round Match-Up - C. Conners vs R. Henley - Final Round Match-Up,Corey Conners,-0.011600000000000055,0.5122,0.5238
 2023-04-16 13:41:03.312355,Round Match-Ups - Final Round Match-Up - C. Davis vs T. Moore - Final Round Match-Up,Cameron Davis,-0.011600000000000055,0.5122,0.5238
+2023-04-16 13:41:03.267740,Round Match-Ups - Final Round Match-Up - C. Conners vs R. Henley - Final Round Match-Up,Corey Conners,-0.011600000000000055,0.5122,0.5238
 2023-04-16 22:41:30.527727,Superligaen - Denmark Superligaen 2022/23 - Outright,AGF Aarhus,-0.012100000000000001,0.0123,0.0244
-2023-04-16 11:42:30.904633,Round Match-Ups - Final Round Match-Up - C. Young v J. Thomas - Final Round Match-Up,Justin Thomas,-0.012199999999999989,0.5,0.5122
+2023-04-16 13:41:03.556634,Round Scores - Final Round Score - Jordan Spieth - Final Round Score,Over 68.5,-0.012199999999999989,0.4878,0.5
 2023-04-16 13:41:03.509708,Round Scores - Final Round Score - Xander Schauffele - Final Round Score,Over 68.5,-0.012199999999999989,0.4878,0.5
 2023-04-16 13:41:03.147023,Round Match-Ups - Final Round Match-Up - A. Svensson v B. Hossler - Final Round Match-Up,Beau Hossler,-0.012199999999999989,0.5,0.5122
-2023-04-16 13:41:03.556634,Round Scores - Final Round Score - Jordan Spieth - Final Round Score,Over 68.5,-0.012199999999999989,0.4878,0.5
 2023-04-16 22:41:29.901749,Ligue 1 - France Ligue 1 2022/23 - Winner,Lens,-0.014099999999999998,0.0244,0.0385
 2023-04-16 17:41:13.187822,MLB Futures - MLB 2023 National League West - National League West Winner,Arizona Diamondbacks,-0.014100000000000001,0.0385,0.0526
 2023-04-16 17:41:13.067022,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Atlanta Braves,-0.01469999999999999,0.2353,0.25
