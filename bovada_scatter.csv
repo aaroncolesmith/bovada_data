@@ -7,6 +7,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-17 19:40:43.699764,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Amanda,0.07790000000000008,0.7143,0.6364
 2023-04-17 09:40:59.676597,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Marseille,0.06929999999999997,0.5455,0.4762
 2023-04-17 09:40:59.700642,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Nantes,0.0635,0.1111,0.0476
+2023-04-17 20:40:54.528978,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,The Zone of Interest (Jonathan Glazer),0.05559999999999998,0.1667,0.1111
 2023-04-17 10:41:07.205937,1. Bundesliga - Germany Bundesliga 2022/23 - Winner without Bayern Munich,Borussia Dortmund,0.0524,0.9524,0.9
 2023-04-17 19:40:43.699764,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Larissa Santos,0.0398,0.0833,0.0435
 2023-04-17 09:40:59.689565,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Jonathan David,0.03570000000000001,0.2857,0.25
@@ -18,71 +19,93 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-17 10:41:07.193486,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Randal Muani,0.0267,0.1176,0.0909
 2023-04-17 10:41:07.458503,A-League - Australia A-League 2022/23 - Grand Final Winner,Newcastle United Jets,0.0262,0.0385,0.0123
 2023-04-17 10:41:07.155755,La Liga - Spain La Liga 2022/23 - To Be Relegated,Almería,0.025499999999999967,0.4255,0.4
+2023-04-17 20:40:54.528978,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,La Chimera (Alice Rohrwacher),0.0242,0.0909,0.0667
 2023-04-17 10:41:07.212811,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Augsburg,0.023799999999999988,0.1667,0.1429
 2023-04-17 10:41:07.105970,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Marseille,0.023799999999999932,0.8571,0.8333
-2023-04-17 16:40:47.646219,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Jayson Tatum (BOS),0.022199999999999998,0.2222,0.2
+2023-04-17 20:40:54.536780,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Paul Mescal,0.023200000000000002,0.0476,0.0244
+2023-04-17 20:40:54.528978,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,About Dry Grasses (Nuri Bilge Ceylan),0.02310000000000001,0.1,0.0769
 2023-04-17 10:41:07.741152,Super Lig - Turkey Super League 22/23 - Outright,Fenerbahce,0.022199999999999998,0.2222,0.2
+2023-04-17 16:40:47.646219,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Jayson Tatum (BOS),0.022199999999999998,0.2222,0.2
 2023-04-17 09:40:59.700642,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Strasbourg,0.02169999999999994,0.5455,0.5238
 2023-04-17 10:41:07.105970,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Monaco,0.02100000000000002,0.3846,0.3636
 2023-04-17 19:40:43.699764,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Ricardo Camargo,0.02049999999999999,0.1538,0.1333
 2023-04-17 10:41:07.725277,Allsvenskan - Allsvenskan 2023 - Winner,Kalmar FF,0.019499999999999997,0.0294,0.0099
+2023-04-17 20:40:54.528978,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,Anantomy of a Fall (Justine Triet),0.019099999999999992,0.0667,0.0476
 2023-04-17 18:40:40.280205,XFL - Odds to win 2023 XFL Championship Game - XFL Champion,Houston Roughnecks,0.019000000000000017,0.2857,0.2667
 2023-04-17 18:40:40.280205,XFL - Odds to win 2023 XFL Championship Game - XFL Champion,San Antonio Brahmas,0.0189,0.0385,0.0196
 2023-04-17 09:41:00.213390,Eredivisie - Dutch Eredivisie 2022/23 - Winner,Feyenoord,0.01849999999999996,0.9709,0.9524
 2023-04-17 10:41:07.725277,Allsvenskan - Allsvenskan 2023 - Winner,IFK Norrköping,0.018200000000000004,0.0476,0.0294
 2023-04-17 10:41:07.245286,MLS - MLS 2023 - Winner,Saint Louis City SC,0.018099999999999998,0.0769,0.0588
+2023-04-17 20:40:54.822887,Zurich Classic of New Orleans - Zurich Classic of New Orleans - Outright,Sung-Jae Im / Keith Mitchell,0.018099999999999998,0.0769,0.0588
 2023-04-17 10:41:07.135516,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Atlético Madrid,0.016800000000000037,0.9877,0.9709
 2023-04-17 10:41:07.458503,A-League - Australia A-League 2022/23 - Grand Final Winner,Western United,0.0145,0.0244,0.0099
 2023-04-17 10:41:07.245286,MLS - MLS 2023 - Winner,Orlando City,0.014099999999999998,0.0385,0.0244
+2023-04-17 20:40:54.536780,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Nicholas Hoult,0.014099999999999998,0.0385,0.0244
 2023-04-17 16:40:47.646219,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Nikola Jokic (DEN),0.013999999999999999,0.0909,0.0769
 2023-04-17 10:41:07.105970,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Lille,0.013999999999999999,0.0909,0.0769
+2023-04-17 20:40:54.528978,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,The Old Oak (Ken Loach),0.013999999999999999,0.0909,0.0769
 2023-04-17 10:41:07.704156,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,Benfica,0.013900000000000023,0.8889,0.875
+2023-04-17 20:40:54.528978,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,The Pot au Feu (Tran Anh Hung),0.013899999999999996,0.125,0.1111
 2023-04-17 10:41:07.155755,La Liga - Spain La Liga 2022/23 - To Be Relegated,Espanyol,0.013799999999999923,0.6364,0.6226
 2023-04-17 09:40:59.789972,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Flamengo,0.013600000000000001,0.3077,0.2941
 2023-04-17 18:40:40.280205,XFL - Odds to win 2023 XFL Championship Game - XFL Champion,Seattle Sea Dragons,0.012899999999999995,0.1667,0.1538
 2023-04-17 16:40:47.646219,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Kawhi Leonard (LAC),0.012700000000000003,0.0323,0.0196
+2023-04-17 20:40:54.536780,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,John Boyega,0.012100000000000001,0.0244,0.0123
+2023-04-17 20:40:54.536780,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Dev Patel,0.012100000000000001,0.0244,0.0123
 2023-04-17 16:40:47.646219,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Joel Embiid (PHI),0.011900000000000008,0.0952,0.0833
 2023-04-17 13:40:44.114887,NFL Draft '23 - Positional Groups - First Cornerback Selected,Christian Gonzalez,0.01150000000000001,0.3448,0.3333
+2023-04-17 20:40:54.632150,Boxing Lines - Shavkatdzhon Rakhimov vs Joe Cordina - To Win the Bout,Shavkatdzhon Rakhimov,0.01150000000000001,0.3448,0.3333
 2023-04-17 09:40:59.789972,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Grêmio,0.011199999999999995,0.0588,0.0476
+2023-04-17 20:40:54.822887,Zurich Classic of New Orleans - Zurich Classic of New Orleans - Outright,Billy Horschel / Sam Burns,0.011199999999999995,0.0588,0.0476
 2023-04-17 10:41:07.458503,A-League - Australia A-League 2022/23 - Grand Final Winner,Western Sydney Wanderers,0.010899999999999993,0.1538,0.1429
 2023-04-17 16:40:47.646219,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Anthony Davis (LAL),0.010600000000000002,0.0323,0.0217
+2023-04-17 20:40:54.528978,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,Perfect Days (Wim Wenders),-0.0102,0.0667,0.0769
 2023-04-17 10:41:07.458503,A-League - Australia A-League 2022/23 - Grand Final Winner,Wellington Phoenix,-0.0102,0.0667,0.0769
 2023-04-17 13:40:44.644098,Futures - NCAA Men's National Championship - Outright,North Carolina,-0.010899999999999993,0.1429,0.1538
-2023-04-17 10:41:07.165744,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Villarreal,-0.012699999999999989,0.3509,0.3636
+2023-04-17 20:40:54.632150,Boxing Lines - Shavkatdzhon Rakhimov vs Joe Cordina - To Win the Bout,Joe Cordina,-0.011099999999999999,0.7222,0.7333
 2023-04-17 10:41:07.725277,Allsvenskan - Allsvenskan 2023 - Winner,Malmö FF,-0.012699999999999989,0.3509,0.3636
+2023-04-17 10:41:07.165744,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Villarreal,-0.012699999999999989,0.3509,0.3636
 2023-04-17 10:41:07.741152,Super Lig - Turkey Super League 22/23 - Outright,Galatasaray,-0.012899999999999912,0.8333,0.8462
 2023-04-17 10:41:07.725277,Allsvenskan - Allsvenskan 2023 - Winner,Hammarby IF,-0.012899999999999995,0.1538,0.1667
 2023-04-17 10:41:07.155755,La Liga - Spain La Liga 2022/23 - To Be Relegated,Girona,-0.013,0.0066,0.0196
+2023-04-17 20:40:54.536780,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Tom Hardy,-0.013999999999999999,0.0769,0.0909
+2023-04-17 20:40:54.528978,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,Club Zero (Jessica Hausner),-0.013999999999999999,0.0769,0.0909
 2023-04-17 10:41:07.135516,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Villarreal,-0.014099999999999998,0.0294,0.0435
 2023-04-17 16:40:47.646219,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Ja Morant (MEM),-0.014099999999999998,0.0244,0.0385
 2023-04-17 10:41:07.704156,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,FC Porto,-0.015100000000000002,0.1667,0.1818
 2023-04-17 09:40:59.019892,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Milwaukee Bucks,-0.015400000000000025,0.3846,0.4
-2023-04-17 10:41:07.212811,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,VfB Stuttgart,-0.017600000000000005,0.3333,0.3509
 2023-04-17 10:41:07.155755,La Liga - Spain La Liga 2022/23 - To Be Relegated,Cádiz,-0.017600000000000005,0.3333,0.3509
+2023-04-17 10:41:07.212811,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,VfB Stuttgart,-0.017600000000000005,0.3333,0.3509
 2023-04-17 16:40:47.646219,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Kevin Durant (PHX),-0.0179,0.125,0.1429
 2023-04-17 10:41:07.525446,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Deportivo Toluca,-0.0179,0.125,0.1429
-2023-04-17 10:41:07.245286,MLS - MLS 2023 - Winner,Philadelphia Union,-0.018099999999999998,0.0588,0.0769
 2023-04-17 10:41:07.245286,MLS - MLS 2023 - Winner,New York City FC,-0.018099999999999998,0.0588,0.0769
+2023-04-17 20:40:54.528978,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,Four Daughters (Kaouther Ben Hania),-0.018099999999999998,0.0588,0.0769
+2023-04-17 10:41:07.245286,MLS - MLS 2023 - Winner,Philadelphia Union,-0.018099999999999998,0.0588,0.0769
 2023-04-17 09:40:59.689565,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Wissam Ben Yedder,-0.018099999999999998,0.0588,0.0769
-2023-04-17 10:41:07.725277,Allsvenskan - Allsvenskan 2023 - Winner,IF Elfsborg,-0.018200000000000004,0.0294,0.0476
 2023-04-17 10:41:07.741152,Super Lig - Turkey Super League 22/23 - Outright,Besiktas,-0.018200000000000004,0.0294,0.0476
 2023-04-17 10:41:07.105970,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Rennes,-0.018200000000000004,0.0294,0.0476
+2023-04-17 10:41:07.725277,Allsvenskan - Allsvenskan 2023 - Winner,IF Elfsborg,-0.018200000000000004,0.0294,0.0476
 2023-04-17 10:41:07.725277,Allsvenskan - Allsvenskan 2023 - Winner,IFK Göteborg,-0.019499999999999997,0.0099,0.0294
 2023-04-17 10:41:07.193486,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Vincenzo Grifo,-0.02020000000000001,0.0909,0.1111
 2023-04-17 10:41:07.725277,Allsvenskan - Allsvenskan 2023 - Winner,AIK,-0.02020000000000001,0.0909,0.1111
 2023-04-17 10:41:07.165744,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Real Sociedad,-0.02169999999999994,0.5238,0.5455
 2023-04-17 10:41:07.458503,A-League - Australia A-League 2022/23 - Grand Final Winner,Melbourne City,-0.021699999999999997,0.4545,0.4762
 2023-04-17 10:41:07.222934,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,RB Leipzig,-0.023799999999999932,0.8333,0.8571
-2023-04-17 09:40:59.034234,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Phoenix Suns,-0.023799999999999988,0.3333,0.3571
 2023-04-17 09:40:59.676597,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Lens,-0.023799999999999988,0.4762,0.5
+2023-04-17 09:40:59.034234,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Phoenix Suns,-0.023799999999999988,0.3333,0.3571
+2023-04-17 20:40:54.528978,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,Monster (Hirokazu Kore-eda),-0.0242,0.0667,0.0909
 2023-04-17 10:41:07.525446,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,CF Monterrey,-0.02560000000000001,0.3077,0.3333
+2023-04-17 20:40:54.536780,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,James Norton,-0.02779999999999999,0.2222,0.25
 2023-04-17 09:40:59.053065,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Phoenix Suns,-0.027999999999999997,0.1538,0.1818
 2023-04-17 10:41:07.135516,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Real Sociedad,-0.028199999999999996,0.0385,0.0667
 2023-04-17 10:41:07.193486,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Jamal Musiala,-0.0294,0.0294,0.0588
 2023-04-17 09:41:00.213390,Eredivisie - Dutch Eredivisie 2022/23 - Winner,PSV Eindhoven,-0.0321,0.0588,0.0909
+2023-04-17 20:40:54.528978,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,May December (Todd Haynes),-0.0321,0.0588,0.0909
 2023-04-17 18:40:40.280205,XFL - Odds to win 2023 XFL Championship Game - XFL Champion,Arlington Renegades,-0.03330000000000001,0.0667,0.1
 2023-04-17 10:41:07.222934,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Bayer Leverkusen,-0.03420000000000001,0.0769,0.1111
+2023-04-17 20:40:54.536780,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Henry Cavill,-0.03570000000000001,0.25,0.2857
 2023-04-17 10:41:07.725277,Allsvenskan - Allsvenskan 2023 - Winner,Djurgårdens IF,-0.04040000000000002,0.1818,0.2222
+2023-04-17 20:40:54.528978,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,Il Sol Dell'Avvenire (Nanni Moretti),-0.042899999999999994,0.1,0.1429
 2023-04-17 16:40:47.646219,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Giannis Antetokounmpo (MIL),-0.044499999999999984,0.2222,0.2667
 2023-04-17 18:40:40.280205,XFL - Odds to win 2023 XFL Championship Game - XFL Champion,St Louis Battlehawks,-0.04620000000000002,0.1538,0.2
 2023-04-17 10:41:07.155755,La Liga - Spain La Liga 2022/23 - To Be Relegated,Sevilla,-0.047099999999999996,0.0196,0.0667
