@@ -2,10 +2,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-17 16:40:47.646219,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Jrue Holiday (MIL),0.0959,0.1111,0.0152
 2023-04-17 19:40:43.699764,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Amanda,0.07790000000000008,0.7143,0.6364
 2023-04-17 20:40:54.528978,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,The Zone of Interest (Jonathan Glazer),0.05559999999999998,0.1667,0.1111
+2023-04-18 02:40:42.694579,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Milwaukee Bucks,0.04999999999999999,0.25,0.2
 2023-04-17 19:40:43.699764,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Larissa Santos,0.0398,0.0833,0.0435
 2023-04-17 19:40:43.699764,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Aline Wirley,0.03330000000000001,0.1,0.0667
 2023-04-17 19:40:43.699764,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Bruna Griphao,0.033,0.0526,0.0196
 2023-04-17 18:40:40.280205,XFL - Odds to win 2023 XFL Championship Game - XFL Champion,DC Defenders,0.03210000000000002,0.4167,0.3846
+2023-04-18 02:40:42.694579,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Philadelphia 76ers,0.031799999999999995,0.1429,0.1111
 2023-04-17 20:40:54.528978,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,La Chimera (Alice Rohrwacher),0.0242,0.0909,0.0667
 2023-04-17 20:40:54.536780,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Paul Mescal,0.023200000000000002,0.0476,0.0244
 2023-04-17 20:40:54.528978,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,About Dry Grasses (Nuri Bilge Ceylan),0.02310000000000001,0.1,0.0769
@@ -17,15 +19,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-17 18:40:40.280205,XFL - Odds to win 2023 XFL Championship Game - XFL Champion,San Antonio Brahmas,0.0189,0.0385,0.0196
 2023-04-17 20:40:54.822887,Zurich Classic of New Orleans - Zurich Classic of New Orleans - Outright,Sung-Jae Im / Keith Mitchell,0.018099999999999998,0.0769,0.0588
 2023-04-17 21:40:41.183949,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Michelle Obama,0.014899999999999997,0.0625,0.0476
+2023-04-18 02:40:42.694579,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Golden State Warriors,0.01440000000000001,0.1053,0.0909
 2023-04-17 20:40:54.536780,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Nicholas Hoult,0.014099999999999998,0.0385,0.0244
-2023-04-17 16:40:47.646219,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Nikola Jokic (DEN),0.013999999999999999,0.0909,0.0769
-2023-04-17 22:40:39.613511,The Chevron Championship - The Chevron Championship - Outright,Lydia Ko,0.013999999999999999,0.0909,0.0769
-2023-04-17 22:40:39.613511,The Chevron Championship - The Chevron Championship - Outright,Nelly Korda,0.013999999999999999,0.0909,0.0769
 2023-04-17 20:40:54.528978,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,The Old Oak (Ken Loach),0.013999999999999999,0.0909,0.0769
+2023-04-17 22:40:39.613511,The Chevron Championship - The Chevron Championship - Outright,Nelly Korda,0.013999999999999999,0.0909,0.0769
+2023-04-17 22:40:39.613511,The Chevron Championship - The Chevron Championship - Outright,Lydia Ko,0.013999999999999999,0.0909,0.0769
+2023-04-17 16:40:47.646219,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Nikola Jokic (DEN),0.013999999999999999,0.0909,0.0769
 2023-04-17 20:40:54.528978,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,The Pot au Feu (Tran Anh Hung),0.013899999999999996,0.125,0.1111
 2023-04-17 23:40:39.079522,NBA Specials - Off-Season Specials - Where will Irving play Game 1 of the 2023/2024 Regular Season?,Los Angeles Lakers,0.0131,0.2353,0.2222
-2023-04-17 18:40:40.280205,XFL - Odds to win 2023 XFL Championship Game - XFL Champion,Seattle Sea Dragons,0.012899999999999995,0.1667,0.1538
 2023-04-17 21:40:41.113183,Donald Trump Specials - Will Donald Trump avoid the New York trial with a plea bargain? - Will Donald Trump avoid the New York trial with with a plea bargain?,Plea Bargain,0.012899999999999995,0.1667,0.1538
+2023-04-17 18:40:40.280205,XFL - Odds to win 2023 XFL Championship Game - XFL Champion,Seattle Sea Dragons,0.012899999999999995,0.1667,0.1538
 2023-04-17 16:40:47.646219,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Kawhi Leonard (LAC),0.012700000000000003,0.0323,0.0196
 2023-04-17 20:40:54.536780,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,John Boyega,0.012100000000000001,0.0244,0.0123
 2023-04-17 20:40:54.536780,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Dev Patel,0.012100000000000001,0.0244,0.0123
@@ -35,12 +38,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-17 16:40:47.646219,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Anthony Davis (LAL),0.010600000000000002,0.0323,0.0217
 2023-04-17 20:40:54.528978,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,Perfect Days (Wim Wenders),-0.0102,0.0667,0.0769
 2023-04-17 20:40:54.632150,Boxing Lines - Shavkatdzhon Rakhimov vs Joe Cordina - To Win the Bout,Joe Cordina,-0.011099999999999999,0.7222,0.7333
-2023-04-17 20:40:54.536780,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Tom Hardy,-0.013999999999999999,0.0769,0.0909
 2023-04-17 20:40:54.528978,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,Club Zero (Jessica Hausner),-0.013999999999999999,0.0769,0.0909
+2023-04-17 20:40:54.536780,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Tom Hardy,-0.013999999999999999,0.0769,0.0909
 2023-04-17 16:40:47.646219,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Ja Morant (MEM),-0.014099999999999998,0.0244,0.0385
+2023-04-18 02:40:42.694579,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Los Angeles Clippers,-0.014099999999999998,0.0244,0.0385
 2023-04-17 16:40:47.646219,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Kevin Durant (PHX),-0.0179,0.125,0.1429
 2023-04-17 20:40:54.528978,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,Four Daughters (Kaouther Ben Hania),-0.018099999999999998,0.0588,0.0769
 2023-04-17 20:40:54.528978,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,Monster (Hirokazu Kore-eda),-0.0242,0.0667,0.0909
+2023-04-18 02:40:42.694579,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Boston Celtics,-0.02779999999999999,0.25,0.2778
 2023-04-17 20:40:54.536780,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,James Norton,-0.02779999999999999,0.2222,0.25
 2023-04-17 20:40:54.528978,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,May December (Todd Haynes),-0.0321,0.0588,0.0909
 2023-04-17 18:40:40.280205,XFL - Odds to win 2023 XFL Championship Game - XFL Champion,Arlington Renegades,-0.03330000000000001,0.0667,0.1
