@@ -8,8 +8,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-19 08:41:22.627120,League One - England - League One 2022/23 - To Be Promoted,Plymouth Argyle,0.09999999999999998,0.9333,0.8333
 2023-04-19 08:41:22.670810,League One - England - League One 2022/23 - Top 2 Finish,Plymouth Argyle,0.08889999999999998,0.8889,0.8
 2023-04-19 07:40:54.964641,Super Lig - Turkey Super League 22/23 - Outright,Galatasaray,0.07579999999999998,0.9091,0.8333
-2023-04-19 08:41:22.571584,League One - England - League One 2022/23 - Outright,Plymouth Argyle,0.06929999999999997,0.5455,0.4762
 2023-04-19 08:41:22.685657,League One - England - League One 2022/23 - Top 6 Finish,Derby County,0.06929999999999997,0.5455,0.4762
+2023-04-19 08:41:22.571584,League One - England - League One 2022/23 - Outright,Plymouth Argyle,0.06929999999999997,0.5455,0.4762
 2023-04-19 05:40:51.352330,MLB Futures - MLB 2023 American League East - American League East Winner,New York Yankees,0.055900000000000005,0.3226,0.2667
 2023-04-19 13:41:06.522855,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,0.05449999999999999,0.4545,0.4
 2023-04-19 07:40:54.553989,UEFA Champions League - UEFA Champions League 2022/2023 - Nationality of Winner,Spain,0.05080000000000001,0.2326,0.1818
@@ -39,6 +39,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-19 07:40:54.987749,Superettan - Superettan 2023 - Winner,Östersunds FK,0.028000000000000004,0.0476,0.0196
 2023-04-19 12:40:58.879467,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,0.027700000000000058,0.5833,0.5556
 2023-04-19 05:40:51.343383,MLB Futures - MLB 2023 American League Central - American League Central Winner,Chicago White Sox,0.0267,0.16,0.1333
+2023-04-19 15:41:03.434443,NBA Daily Specials - NBA Daily Specials - Wednesday 19th April,"Anthony Davis, Bam Adebayo, Nikola Jokic and Rudy Gobert to combine for 45+ Rebounds",0.025600000000000067,0.6923,0.6667
 2023-04-19 05:40:49.504582,NFL Draft '23 - Positional Groups - First Tight End Selected,Michael Mayer,0.025599999999999956,0.6,0.5744
 2023-04-19 06:40:45.663946,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Philadelphia 76ers,0.024800000000000016,0.2353,0.2105
 2023-04-19 09:41:06.858485,Tournament Match-Ups - Tournament Match-Up - B. Horschel / S. Burns vs Sahith Theegala / Justin Suh - Tournament Match-Up,Sahith Theegala / Justin Suh,0.024399999999999977,0.5122,0.4878
@@ -48,14 +49,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-19 05:40:51.322780,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Cleveland Guardians,0.0208,0.0833,0.0625
 2023-04-19 07:40:54.268828,ISPS Handa Championship - 2/3 Balls - 1st Round 3 Balls - P. Waring / A. Levy / S. Takeyasu - 1st Round 3 Balls,Paul Waring,0.019699999999999995,0.4545,0.4348
 2023-04-19 06:40:44.677977,Round Match-Ups - 1st Round Match-Up - Schauffele/Cantlay vs Kim/Kim - 1st Round Match-Up,Schauffele/Cantlay,0.019499999999999962,0.6491,0.6296
+2023-04-19 15:41:03.434443,NBA Daily Specials - NBA Daily Specials - Wednesday 19th April,"Anthony Davis, Desmond Bane, Khris Middleton, Anthony Edwards to combine for 140+ pts/rebs/assts",0.018999999999999906,0.7333,0.7143
 2023-04-19 10:40:54.971299,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Boston Celtics,0.018100000000000005,0.4348,0.4167
-2023-04-19 13:41:06.505023,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Philadelphia Phillies,0.018099999999999998,0.0769,0.0588
 2023-04-19 07:40:54.987749,Superettan - Superettan 2023 - Winner,GAIS,0.018099999999999998,0.0769,0.0588
+2023-04-19 13:41:06.505023,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Philadelphia Phillies,0.018099999999999998,0.0769,0.0588
 2023-04-19 06:40:45.671800,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Memphis Grizzlies,0.018099999999999998,0.0769,0.0588
 2023-04-19 08:41:22.670810,League One - England - League One 2022/23 - Top 2 Finish,Ipswich Town,0.017900000000000027,0.875,0.8571
 2023-04-19 13:41:06.505023,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Milwaukee Brewers,0.01759999999999999,0.1176,0.1
 2023-04-19 05:40:49.512753,NFL Draft '23 - Positional Groups - First Wide Receiver Selected,Jaxon Smith-Njigba,0.016700000000000048,0.75,0.7333
-2023-04-19 03:40:53.502406,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Boston Celtics,0.016699999999999993,0.2667,0.25
 2023-04-19 10:40:54.999847,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Boston Celtics,0.016699999999999993,0.2667,0.25
 2023-04-19 13:41:04.634030,Elite Boxing - Gervonta Davis vs Ryan Garcia - To Win the Bout,Ryan Garcia,0.016400000000000026,0.339,0.3226
 2023-04-19 07:40:54.539462,UEFA Champions League - UEFA Champions League 2022/2023 - Top Goalscorer,Erling Braut Haaland (Man City),0.015599999999999947,0.996,0.9804
@@ -67,7 +68,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-19 13:41:03.971478,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.0131,0.7778,0.7647
 2023-04-19 13:41:06.495563,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Los Angeles Angels,0.012600000000000007,0.0714,0.0588
 2023-04-19 05:40:49.497630,NFL Draft '23 - Positional Groups - First Offensive Lineman Selected,Paris Johnson Jr,0.012199999999999989,0.5122,0.5
-2023-04-19 03:40:53.502406,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Milwaukee Bucks,0.011700000000000016,0.2222,0.2105
 2023-04-19 05:40:51.373848,MLB Futures - MLB 2023 National League East - National League East Winner,New York Mets,0.01150000000000001,0.3448,0.3333
 2023-04-19 07:40:54.987749,Superettan - Superettan 2023 - Winner,Örebro SK,0.011199999999999995,0.0588,0.0476
 2023-04-19 06:40:45.584546,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,New York Yankees,0.011099999999999999,0.1111,0.1
@@ -79,44 +79,42 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-19 05:40:51.343383,MLB Futures - MLB 2023 American League Central - American League Central Winner,Cleveland Guardians,0.010099999999999998,0.4545,0.4444
 2023-04-19 08:41:22.685657,League One - England - League One 2022/23 - Top 6 Finish,Bolton Wanderers,-0.010199999999999987,0.9231,0.9333
 2023-04-19 10:40:54.986310,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Memphis Grizzlies,-0.0102,0.0667,0.0769
-2023-04-19 13:41:03.991527,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Gavin Newsom,-0.0102,0.0667,0.0769
 2023-04-19 07:40:54.857288,Championship - England Championship 2022/23 - To Be Promoted,Coventry City,-0.0102,0.0667,0.0769
+2023-04-19 13:41:03.991527,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Gavin Newsom,-0.0102,0.0667,0.0769
 2023-04-19 07:40:54.850376,Championship - England Championship 2022/23 - Top Goalscorer,Nathan Tella,-0.0103,0.002,0.0123
 2023-04-19 05:40:51.322780,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Houston Astros,-0.010499999999999982,0.2,0.2105
-2023-04-19 14:40:56.242441,Round Match-Ups - 1st Round Match-Up - Kitayama/Montgomery vs Clark/Hossler - 1st Round Match-Up,Kitayama/Montgomery,-0.010699999999999932,0.5348,0.5455
 2023-04-19 14:40:56.221673,Round Match-Ups - 1st Round Match-Up - Perez/Detry vs Olesen/Hojgaard - 1st Round Match-Up,Perez/Detry,-0.010699999999999932,0.5348,0.5455
-2023-04-19 08:41:17.676561,Boxing Lines - Shavkatdzhon Rakhimov vs Joe Cordina - To Win the Bout,Shavkatdzhon Rakhimov,-0.010699999999999987,0.3226,0.3333
+2023-04-19 14:40:56.242441,Round Match-Ups - 1st Round Match-Up - Kitayama/Montgomery vs Clark/Hossler - 1st Round Match-Up,Kitayama/Montgomery,-0.010699999999999932,0.5348,0.5455
 2023-04-19 04:41:13.781026,Elite Boxing - Gervonta Davis vs Ryan Garcia - To Win the Bout,Ryan Garcia,-0.010699999999999987,0.3226,0.3333
+2023-04-19 08:41:17.676561,Boxing Lines - Shavkatdzhon Rakhimov vs Joe Cordina - To Win the Bout,Shavkatdzhon Rakhimov,-0.010699999999999987,0.3226,0.3333
+2023-04-19 07:40:53.164686,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Phoenix Suns,-0.010899999999999993,0.1429,0.1538
 2023-04-19 11:40:42.046922,Boxing Lines - Vito Mielnicki Jr vs Jose Sanchez Charles - To Win the Bout,Jose Sanchez Charles,-0.010899999999999993,0.1429,0.1538
 2023-04-19 08:41:22.627120,League One - England - League One 2022/23 - To Be Promoted,Peterborough United,-0.010899999999999993,0.1429,0.1538
-2023-04-19 07:40:53.164686,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Phoenix Suns,-0.010899999999999993,0.1429,0.1538
-2023-04-19 14:40:56.210278,Round Match-Ups - 1st Round Match-Up - Spaun/Buckley vs Taylor/Hadwin - 1st Round Match-Up,Taylor/Hadwin,-0.01100000000000001,0.5238,0.5348
-2023-04-19 14:40:56.210278,Round Match-Ups - 1st Round Match-Up - Spaun/Buckley vs Taylor/Hadwin - 1st Round Match-Up,Spaun/Buckley,-0.01100000000000001,0.5238,0.5348
-2023-04-19 14:40:56.178017,Round Match-Ups - 1st Round Match-Up - Burns/Horschel vs Im/Mitchell - 1st Round Match-Up,Im/Mitchell,-0.01100000000000001,0.5238,0.5348
-2023-04-19 14:40:56.204803,Round Match-Ups - 1st Round Match-Up - Lipsky/Rai vs Riley/Hardy - 1st Round Match-Up,Riley/Hardy,-0.01100000000000001,0.5238,0.5348
 2023-04-19 12:40:56.389911,Boxing Lines - Lukasz Rozanski vs Alen Babic - To Win the Bout,Lukasz Rozanski,-0.01100000000000001,0.5238,0.5348
+2023-04-19 14:40:56.210278,Round Match-Ups - 1st Round Match-Up - Spaun/Buckley vs Taylor/Hadwin - 1st Round Match-Up,Taylor/Hadwin,-0.01100000000000001,0.5238,0.5348
 2023-04-19 14:40:56.204803,Round Match-Ups - 1st Round Match-Up - Lipsky/Rai vs Riley/Hardy - 1st Round Match-Up,Lipsky/Rai,-0.01100000000000001,0.5238,0.5348
 2023-04-19 14:40:56.178017,Round Match-Ups - 1st Round Match-Up - Burns/Horschel vs Im/Mitchell - 1st Round Match-Up,Burns/Horschel,-0.01100000000000001,0.5238,0.5348
-2023-04-19 03:40:53.502406,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Philadelphia 76ers,-0.011099999999999999,0.1,0.1111
+2023-04-19 14:40:56.210278,Round Match-Ups - 1st Round Match-Up - Spaun/Buckley vs Taylor/Hadwin - 1st Round Match-Up,Spaun/Buckley,-0.01100000000000001,0.5238,0.5348
+2023-04-19 14:40:56.204803,Round Match-Ups - 1st Round Match-Up - Lipsky/Rai vs Riley/Hardy - 1st Round Match-Up,Riley/Hardy,-0.01100000000000001,0.5238,0.5348
+2023-04-19 14:40:56.178017,Round Match-Ups - 1st Round Match-Up - Burns/Horschel vs Im/Mitchell - 1st Round Match-Up,Im/Mitchell,-0.01100000000000001,0.5238,0.5348
 2023-04-19 06:40:45.600483,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Milwaukee Brewers,-0.011099999999999999,0.1,0.1111
-2023-04-19 13:41:04.079052,US Presidential Election 2024 - US Presidential Election 2024 -Democratic Vice Presidential Candidate - Democrat VP,Cory Booker,-0.011199999999999995,0.0476,0.0588
 2023-04-19 13:41:04.079052,US Presidential Election 2024 - US Presidential Election 2024 -Democratic Vice Presidential Candidate - Democrat VP,Elizabeth Warren,-0.011199999999999995,0.0476,0.0588
+2023-04-19 13:41:04.079052,US Presidential Election 2024 - US Presidential Election 2024 -Democratic Vice Presidential Candidate - Democrat VP,Cory Booker,-0.011199999999999995,0.0476,0.0588
 2023-04-19 14:40:56.242441,Round Match-Ups - 1st Round Match-Up - Kitayama/Montgomery vs Clark/Hossler - 1st Round Match-Up,Clark/Hossler,-0.011600000000000055,0.5122,0.5238
 2023-04-19 14:40:56.221673,Round Match-Ups - 1st Round Match-Up - Perez/Detry vs Olesen/Hojgaard - 1st Round Match-Up,Olesen/Hojgaard,-0.011600000000000055,0.5122,0.5238
 2023-04-19 04:41:13.829035,Boxing Lines - Laura Grzyb vs Maria Cecchi - To Win the Bout,Maria Cecchi,-0.011700000000000016,0.2105,0.2222
 2023-04-19 07:40:54.268828,ISPS Handa Championship - 2/3 Balls - 1st Round 3 Balls - P. Waring / A. Levy / S. Takeyasu - 1st Round 3 Balls,Alexander Levy,-0.011899999999999966,0.339,0.3509
 2023-04-19 05:40:49.504582,NFL Draft '23 - Positional Groups - First Tight End Selected,Dalton Kincaid,-0.012199999999999989,0.4878,0.5
 2023-04-19 10:40:53.992468,Zurich Classic of New Orleans - 2/3 Balls - 1st Round 2 Balls - Knox/Stuard - Clark/Hossler - 1st Round 2 Balls,Knox/Stuard,-0.012299999999999978,0.3448,0.3571
-2023-04-19 11:40:41.992930,Boxing Lines - Martin Bakole vs Ihor Shevadzutskyi - To Win the Bout,Ihor Shevadzutskyi,-0.012299999999999991,0.1053,0.1176
 2023-04-19 06:40:45.584546,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Houston Astros,-0.012299999999999991,0.1053,0.1176
-2023-04-19 07:40:54.857288,Championship - England Championship 2022/23 - To Be Promoted,Sunderland,-0.014099999999999998,0.0244,0.0385
+2023-04-19 11:40:41.992930,Boxing Lines - Martin Bakole vs Ihor Shevadzutskyi - To Win the Bout,Ihor Shevadzutskyi,-0.012299999999999991,0.1053,0.1176
 2023-04-19 04:41:16.230735,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Los Angeles Clippers,-0.014099999999999998,0.0244,0.0385
+2023-04-19 07:40:54.857288,Championship - England Championship 2022/23 - To Be Promoted,Sunderland,-0.014099999999999998,0.0244,0.0385
 2023-04-19 09:41:10.127830,League Two - England - League Two 2022/23 - Top 7 Finish,Bradford City,-0.014100000000000001,0.9615,0.9756
 2023-04-19 13:41:03.991527,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Michelle Obama,-0.014899999999999997,0.0476,0.0625
 2023-04-19 06:40:45.600483,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,San Diego Padres,-0.015100000000000002,0.1667,0.1818
 2023-04-19 12:40:58.879467,MLB Futures - MLB 2023 National League Central - National League Central Winner,St. Louis Cardinals,-0.015400000000000025,0.3846,0.4
 2023-04-19 13:41:04.108263,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,-0.015400000000000025,0.2703,0.2857
-2023-04-19 03:40:53.493318,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Sacramento Kings,-0.015700000000000006,0.1176,0.1333
 2023-04-19 06:40:45.600483,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Arizona Diamondbacks,-0.0159,0.0164,0.0323
 2023-04-19 13:41:04.634030,Elite Boxing - Gervonta Davis vs Ryan Garcia - To Win the Bout,Gervonta Davis,-0.01629999999999998,0.7059,0.7222
 2023-04-19 07:40:53.164686,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Boston Celtics,-0.016699999999999993,0.25,0.2667
@@ -131,10 +129,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-19 13:41:04.108263,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Joe Biden,-0.018799999999999983,0.3448,0.3636
 2023-04-19 05:40:51.352330,MLB Futures - MLB 2023 American League East - American League East Winner,Toronto Blue Jays,-0.018799999999999983,0.3448,0.3636
 2023-04-19 06:40:45.663946,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Milwaukee Bucks,-0.018799999999999983,0.3448,0.3636
+2023-04-19 14:40:56.235342,Round Match-Ups - 1st Round Match-Up - Dahmen/McCarthy vs Wallace/Shinkwin - 1st Round Match-Up,Dahmen/McCarthy,-0.01880000000000004,0.5556,0.5744
+2023-04-19 14:40:56.188743,Round Match-Ups - 1st Round Match-Up - English/Hoge vs Theegala/Suh - 1st Round Match-Up,Theegala/Suh,-0.01880000000000004,0.5556,0.5744
 2023-04-19 09:41:06.858485,Tournament Match-Ups - Tournament Match-Up - B. Horschel / S. Burns vs Sahith Theegala / Justin Suh - Tournament Match-Up,Billy Horschel / Sam Burns,-0.01880000000000004,0.5556,0.5744
 2023-04-19 14:40:56.198304,Round Match-Ups - 1st Round Match-Up - Todd/Kizzire vs Fitzpatrick/Fitzpatrick - 1st Round Match-Up,Fitzpatrick/Fitzpatrick,-0.01880000000000004,0.5556,0.5744
-2023-04-19 14:40:56.188743,Round Match-Ups - 1st Round Match-Up - English/Hoge vs Theegala/Suh - 1st Round Match-Up,Theegala/Suh,-0.01880000000000004,0.5556,0.5744
-2023-04-19 14:40:56.235342,Round Match-Ups - 1st Round Match-Up - Dahmen/McCarthy vs Wallace/Shinkwin - 1st Round Match-Up,Dahmen/McCarthy,-0.01880000000000004,0.5556,0.5744
 2023-04-19 09:41:10.127830,League Two - England - League Two 2022/23 - Top 7 Finish,Barrow FC,-0.0189,0.0196,0.0385
 2023-04-19 13:41:04.048994,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Mike Pompeo,-0.019099999999999992,0.0476,0.0667
 2023-04-19 07:40:54.964641,Super Lig - Turkey Super League 22/23 - Outright,Besiktas,-0.019499999999999997,0.0099,0.0294
@@ -145,17 +143,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-19 08:41:22.685657,League One - England - League One 2022/23 - Top 6 Finish,Portsmouth,-0.022400000000000003,0.002,0.0244
 2023-04-19 13:41:06.481618,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,New York Mets,-0.02310000000000001,0.0769,0.1
 2023-04-19 13:41:03.991527,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Pete Buttigieg,-0.023200000000000002,0.0244,0.0476
-2023-04-19 05:40:51.343383,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,-0.023799999999999988,0.4762,0.5
 2023-04-19 05:40:49.497630,NFL Draft '23 - Positional Groups - First Offensive Lineman Selected,Peter Skoronski,-0.023799999999999988,0.4762,0.5
+2023-04-19 05:40:51.343383,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,-0.023799999999999988,0.4762,0.5
 2023-04-19 05:40:51.322780,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Tampa Bay Rays,-0.023800000000000016,0.1667,0.1905
 2023-04-19 08:41:22.670810,League One - England - League One 2022/23 - Top 2 Finish,Sheffield Wednesday,-0.02560000000000001,0.3077,0.3333
 2023-04-19 05:40:51.366808,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,-0.027700000000000058,0.5556,0.5833
-2023-04-19 13:41:04.048994,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Nikki Haley,-0.02779999999999999,0.2222,0.25
 2023-04-19 09:41:10.096960,League Two - England - League Two 2022/23 - To Be Promoted,Mansfield Town,-0.02779999999999999,0.2222,0.25
+2023-04-19 13:41:04.048994,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Nikki Haley,-0.02779999999999999,0.2222,0.25
 2023-04-19 13:41:04.009843,US Presidential Election 2024 - US Presidential Election 2024 - Party Of Popular Vote Winner - Party of Popular Vote Winner,Democratic,-0.027999999999999914,0.8182,0.8462
 2023-04-19 07:40:54.850376,Championship - England Championship 2022/23 - Top Goalscorer,Viktor Gyokeres,-0.028000000000000004,0.0196,0.0476
-2023-04-19 09:41:10.086362,League Two - England - League Two 2022/23 - Top Goalscorer,Kristian Dennis,-0.0282,0.0244,0.0526
 2023-04-19 07:40:54.863902,Championship - England Championship 2022/23 - Top 2 Finish,Middlesbrough,-0.0282,0.0244,0.0526
+2023-04-19 09:41:10.086362,League Two - England - League Two 2022/23 - Top Goalscorer,Kristian Dennis,-0.0282,0.0244,0.0526
 2023-04-19 13:41:06.587535,MLB Futures - MLB 2023 National League West - National League West Winner,San Francisco Giants,-0.028399999999999995,0.0625,0.0909
 2023-04-19 08:41:22.571584,League One - England - League One 2022/23 - Outright,Barnsley,-0.029500000000000002,0.005,0.0345
 2023-04-19 13:41:06.578875,MLB Futures - MLB 2023 National League East - National League East Winner,New York Mets,-0.032299999999999995,0.3125,0.3448
@@ -163,8 +161,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-19 13:41:04.108263,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Ron DeSantis,-0.033300000000000024,0.1667,0.2
 2023-04-19 13:41:06.505023,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,New York Mets,-0.03369999999999998,0.1481,0.1818
 2023-04-19 07:40:54.857288,Championship - England Championship 2022/23 - To Be Promoted,Middlesbrough,-0.03370000000000001,0.3509,0.3846
-2023-04-19 13:41:04.079052,US Presidential Election 2024 - US Presidential Election 2024 -Democratic Vice Presidential Candidate - Democrat VP,Pete Buttigieg,-0.034100000000000005,0.0909,0.125
 2023-04-19 07:40:54.987749,Superettan - Superettan 2023 - Winner,Helsingborgs IF,-0.034100000000000005,0.0909,0.125
+2023-04-19 13:41:04.079052,US Presidential Election 2024 - US Presidential Election 2024 -Democratic Vice Presidential Candidate - Democrat VP,Pete Buttigieg,-0.034100000000000005,0.0909,0.125
 2023-04-19 05:40:49.512753,NFL Draft '23 - Positional Groups - First Wide Receiver Selected,Quentin Johnston,-0.03420000000000001,0.0769,0.1111
 2023-04-19 08:41:22.650987,League One - England - League One 2022/23 - To Be Relegated,Burton Albion,-0.0345,0.004,0.0385
 2023-04-19 05:40:51.352330,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,-0.0348,0.4,0.4348
@@ -172,10 +170,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-19 13:41:06.513292,MLB Futures - MLB 2023 American League Central - American League Central Winner,Chicago White Sox,-0.035,0.125,0.16
 2023-04-19 13:41:06.513292,MLB Futures - MLB 2023 American League Central - American League Central Winner,Cleveland Guardians,-0.0378,0.4167,0.4545
 2023-04-19 07:40:54.539462,UEFA Champions League - UEFA Champions League 2022/2023 - Top Goalscorer,Vinicius Junior (Real Madrid),-0.0384,0.0385,0.0769
-2023-04-19 07:40:53.164686,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Milwaukee Bucks,-0.04040000000000002,0.1818,0.2222
 2023-04-19 06:40:45.600483,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Los Angeles Dodgers,-0.04040000000000002,0.1818,0.2222
-2023-04-19 13:41:04.029500,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Ron DeSantis,-0.04099999999999998,0.2667,0.3077
+2023-04-19 07:40:53.164686,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Milwaukee Bucks,-0.04040000000000002,0.1818,0.2222
 2023-04-19 07:40:54.553989,UEFA Champions League - UEFA Champions League 2022/2023 - Nationality of Winner,Italy,-0.04099999999999998,0.2667,0.3077
+2023-04-19 13:41:04.029500,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Ron DeSantis,-0.04099999999999998,0.2667,0.3077
 2023-04-19 08:41:22.571584,League One - England - League One 2022/23 - Outright,Sheffield Wednesday,-0.04120000000000001,0.0588,0.1
 2023-04-19 11:40:43.046744,Tournament Match-Ups - Tournament Match-Up - C. Smith vs J. Niemann - Tournament Match-Up,Cameron Smith,-0.043399999999999994,0.5122,0.5556
 2023-04-19 08:41:22.650987,League One - England - League One 2022/23 - To Be Relegated,Oxford United,-0.044499999999999984,0.2222,0.2667
