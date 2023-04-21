@@ -1,5 +1,4 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2023-04-20 14:40:53.738477,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Amanda,0.18569999999999998,0.9,0.7143
 2023-04-20 22:41:03.327908,UEFA Europa League - UEFA Europa League 22/23 - Winner,Bayer Leverkusen,0.1607,0.2857,0.125
 2023-04-20 22:41:03.327908,UEFA Europa League - UEFA Europa League 22/23 - Winner,AS Roma,0.1417,0.2667,0.125
 2023-04-20 22:41:03.337795,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,AZ Alkmaar,0.1417,0.2667,0.125
@@ -7,26 +6,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-20 22:41:03.327908,UEFA Europa League - UEFA Europa League 22/23 - Winner,Sevilla,0.13130000000000003,0.2222,0.0909
 2023-04-20 22:41:03.327908,UEFA Europa League - UEFA Europa League 22/23 - Winner,Juventus,0.12869999999999998,0.3509,0.2222
 2023-04-20 22:41:03.337795,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,FC Basel,0.12819999999999998,0.1667,0.0385
-2023-04-20 14:40:53.802146,Celebrity Specials 2023 - Taylor Swift's Next Boyfriend - Taylor Swift's Next Boyfriend,Dylan O'Brien,0.10910000000000002,0.2,0.0909
 2023-04-20 22:41:01.989764,College Basketball Futures - 2024 NCAA DI Womens Basketball Tournament - March Madness - National Champion,Utah,0.09319999999999999,0.1176,0.0244
-2023-04-20 14:40:53.468661,Donald Trump Specials - Trump Specials - Trump Specials,Department of Justice to indict Donald Trump in 2023 in relation to January 6th events,0.0857,0.8,0.7143
 2023-04-20 22:41:01.989764,College Basketball Futures - 2024 NCAA DI Womens Basketball Tournament - March Madness - National Champion,UConn,0.07930000000000001,0.2222,0.1429
 2023-04-20 23:40:50.671851,Bare Knuckle Fighting Championship - Isaac Doolittle vs Jake Bostwick - To Win the Bout,Jake Bostwick,0.07400000000000007,0.6296,0.5556
 2023-04-20 21:41:21.430732,Bare Knuckle Fighting Championship - Tyler Randall vs Chancey Wilson - To Win the Bout,Tyler Randall,0.07299999999999995,0.6078,0.5348
 2023-04-20 21:41:23.380970,NBA Daily Specials - Daily Leaders - Thursday 20th April - Most Rebounds,Joel Embiid (PHI),0.0635,0.2857,0.2222
 2023-04-20 22:41:01.989764,College Basketball Futures - 2024 NCAA DI Womens Basketball Tournament - March Madness - National Champion,Virginia Tech,0.0635,0.1111,0.0476
 2023-04-20 23:40:51.171301,KBO League - KBO League 2023 - Outright,NC Dinos,0.0625,0.125,0.0625
-2023-04-20 14:40:53.728809,Stocks - Anhesuer-Busch InBev SA (BUD:NYSE) Closing Stock Price On May 15th - Anheuser-Busch Stock Price On May 15th,$70 or over,0.0572,0.1905,0.1333
 2023-04-20 21:41:23.367150,NBA Daily Specials - Daily Leaders - Thursday 20th April - Most Assists,Russell Westbrook (LAC),0.05710000000000001,0.2,0.1429
-2023-04-20 14:40:53.822578,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,The Zone of Interest (Jonathan Glazer),0.05550000000000002,0.2222,0.1667
 2023-04-20 23:40:51.171301,KBO League - KBO League 2023 - Outright,LG Twins,0.05550000000000002,0.2222,0.1667
 2023-04-20 18:40:48.752101,Box Office Specials - Fast X - Number Of Times 'Family' Is Said - Fast X - Number Of Times 'Family' Is Said,17 to 20,0.05550000000000002,0.2222,0.1667
-2023-04-20 14:40:53.802146,Celebrity Specials 2023 - Taylor Swift's Next Boyfriend - Taylor Swift's Next Boyfriend,Shawn Mendes,0.048600000000000004,0.1111,0.0625
 2023-04-20 21:41:23.380970,NBA Daily Specials - Daily Leaders - Thursday 20th April - Most Rebounds,Domantas Sabonis (SAC),0.047599999999999976,0.3333,0.2857
-2023-04-20 14:40:53.738477,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Bruna Griphao,0.047400000000000005,0.1,0.0526
 2023-04-20 22:41:01.989764,College Basketball Futures - 2024 NCAA DI Womens Basketball Tournament - March Madness - National Champion,UCLA,0.047099999999999996,0.0667,0.0196
 2023-04-20 22:41:01.989764,College Basketball Futures - 2024 NCAA DI Womens Basketball Tournament - March Madness - National Champion,Ohio State,0.047099999999999996,0.0667,0.0196
-2023-04-20 14:40:53.728809,Stocks - Anhesuer-Busch InBev SA (BUD:NYSE) Closing Stock Price On May 15th - Anheuser-Busch Stock Price On May 15th,$67 to $69.99,0.043800000000000006,0.2105,0.1667
 2023-04-20 22:41:03.337795,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,Fiorentina,0.043200000000000016,0.3509,0.3077
 2023-04-20 23:40:50.445824,Boxing Lines - Gavin Gwynne vs Craig Woodruff - To Win the Bout,Craig Woodruff,0.0408,0.4167,0.3759
 2023-04-20 22:41:01.989764,College Basketball Futures - 2024 NCAA DI Womens Basketball Tournament - March Madness - National Champion,Notre Dame,0.0392,0.0588,0.0196
@@ -35,30 +27,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-20 21:41:23.367150,NBA Daily Specials - Daily Leaders - Thursday 20th April - Most Assists,James Harden (PHI),0.03570000000000001,0.2857,0.25
 2023-04-20 21:41:23.380970,NBA Daily Specials - Daily Leaders - Thursday 20th April - Most Rebounds,Russell Westbrook (LAC),0.03330000000000001,0.1,0.0667
 2023-04-20 22:41:02.471648,Bare Knuckle Fighting Championship - Tyler Randall vs Chancey Wilson - To Win the Bout,Chancey Wilson,0.033299999999999996,0.4878,0.4545
-2023-04-20 14:40:53.802146,Celebrity Specials 2023 - Taylor Swift's Next Boyfriend - Taylor Swift's Next Boyfriend,Harry Styles,0.0321,0.0909,0.0588
 2023-04-20 21:41:23.412644,NBA Daily Specials - NBA Daily Specials - Thursday 20th April,"James Harden, Spencer Dinwiddie, Stephen Curry, Chris Paul, Russell Westbrook 45+ Combined Assists",0.031799999999999995,0.4762,0.4444
 2023-04-20 23:40:51.182787,Professional Baseball - NPB 2023 - Outright,Hiroshima Toyo Carp,0.030199999999999998,0.0625,0.0323
 2023-04-20 23:40:51.171301,KBO League - KBO League 2023 - Outright,Doosan Bears,0.028399999999999995,0.0909,0.0625
-2023-04-20 14:40:53.468661,Donald Trump Specials - Trump Specials - Trump Specials,Department of Justice to indict Donald Trump in 2023 in relation to classified material,0.027999999999999914,0.8462,0.8182
+2023-04-20 18:40:48.752101,Box Office Specials - Fast X - Number Of Times 'Family' Is Said - Fast X - Number Of Times 'Family' Is Said,Over 20,0.02779999999999999,0.25,0.2222
 2023-04-20 21:41:23.412644,NBA Daily Specials - NBA Daily Specials - Thursday 20th April,"Joel Embiid, Domantas Sabonis, Kevon Looney, Deandre Ayton, Ivica Zubac 65+ Combined Rebounds",0.02779999999999999,0.25,0.2222
 2023-04-20 21:41:23.394578,NBA Daily Specials - Daily Leaders - Thursday 20th April - Top Scorer,Stephen Curry (GSW),0.02779999999999999,0.25,0.2222
-2023-04-20 18:40:48.752101,Box Office Specials - Fast X - Number Of Times 'Family' Is Said - Fast X - Number Of Times 'Family' Is Said,Over 20,0.02779999999999999,0.25,0.2222
 2023-04-20 23:40:49.924708,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Joe Biden,0.02560000000000001,0.3704,0.3448
 2023-04-20 23:40:50.666202,Bare Knuckle Fighting Championship - Tyler Randall vs Chancey Wilson - To Win the Bout,Tyler Randall,0.025599999999999956,0.6,0.5744
-2023-04-20 14:40:53.728809,Stocks - Anhesuer-Busch InBev SA (BUD:NYSE) Closing Stock Price On May 15th - Anheuser-Busch Stock Price On May 15th,$64 to $66.99,0.024800000000000016,0.2353,0.2105
 2023-04-20 23:40:51.182787,Professional Baseball - NPB 2023 - Outright,Chiba Lotte Marines,0.0245,0.0833,0.0588
 2023-04-20 16:41:23.043457,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Memphis Grizzlies,0.0242,0.0909,0.0667
 2023-04-20 22:41:01.989764,College Basketball Futures - 2024 NCAA DI Womens Basketball Tournament - March Madness - National Champion,Tennessee,0.023899999999999998,0.0435,0.0196
 2023-04-20 21:41:23.394578,NBA Daily Specials - Daily Leaders - Thursday 20th April - Top Scorer,Kevin Durant (PHX),0.023799999999999988,0.1667,0.1429
 2023-04-20 21:41:23.394578,NBA Daily Specials - Daily Leaders - Thursday 20th April - Top Scorer,Devin Booker (PHX),0.023799999999999988,0.1667,0.1429
-2023-04-20 14:40:53.558772,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Pete Buttigieg,0.023200000000000002,0.0476,0.0244
 2023-04-20 21:41:23.394578,NBA Daily Specials - Daily Leaders - Thursday 20th April - Top Scorer,Russell Westbrook (LAC),0.0232,0.0667,0.0435
-2023-04-20 19:40:55.286669,NBA Daily Specials - Daily Leaders - Thursday 20th April - Most Rebounds,Joel Embiid (PHI),0.022199999999999998,0.2222,0.2
-2023-04-20 14:40:54.055276,Round Match-Ups - 1st Round Match-Up - Schauffele/Cantlay vs Kim/Kim - 1st Round Match-Up,Schauffele/Cantlay,0.022199999999999998,0.6774,0.6552
-2023-04-20 20:41:09.713395,Bare Knuckle Fighting Championship - Howard Davis vs Trevor Morris - To Win the Bout,Howard Davis,0.022199999999999998,0.8889,0.8667
 2023-04-20 21:41:23.412644,NBA Daily Specials - NBA Daily Specials - Thursday 20th April,"R.Westbrook, J.Harden, K.Thompson, D.Sabonis & T.Maxey 20+ Pts Each",0.022199999999999998,0.1333,0.1111
+2023-04-20 19:40:55.286669,NBA Daily Specials - Daily Leaders - Thursday 20th April - Most Rebounds,Joel Embiid (PHI),0.022199999999999998,0.2222,0.2
+2023-04-20 20:41:09.713395,Bare Knuckle Fighting Championship - Howard Davis vs Trevor Morris - To Win the Bout,Howard Davis,0.022199999999999998,0.8889,0.8667
 2023-04-20 22:41:02.035852,NBA Daily Specials - Daily Leaders - Thursday 20th April - Most Assists,Russell Westbrook (LAC),0.022199999999999998,0.2222,0.2
-2023-04-20 14:40:53.139891,Bare Knuckle Fighting Championship - Isaac Doolittle vs Jake Bostwick - To Win the Bout,Jake Bostwick,0.02079999999999993,0.5556,0.5348
 2023-04-20 20:41:09.815875,Bare Knuckle Fighting Championship - Dat Nguyen vs Daniel Straus - To Win the Bout,Dat Nguyen,0.020500000000000074,0.8667,0.8462
 2023-04-20 21:41:23.342551,NBA Awards - Western Conference Finals MVP - WCF MVP,Jamal Murray (DEN),0.0203,0.0588,0.0385
 2023-04-20 21:41:23.412644,NBA Daily Specials - NBA Daily Specials - Thursday 20th April,"James Harden, Spencer Dinwiddie, Stephen Curry, Chris Paul, Russell Westbrook 50+ Combined Assists",0.01999999999999999,0.2105,0.1905
@@ -68,7 +54,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-20 21:41:23.367150,NBA Daily Specials - Daily Leaders - Thursday 20th April - Most Assists,Spencer Dinwiddie (BKN),0.01820000000000002,0.2,0.1818
 2023-04-20 19:40:55.271416,NBA Awards - Western Conference Finals MVP - WCF MVP,Ja Morant (MEM),0.018099999999999998,0.0769,0.0588
 2023-04-20 23:40:51.182787,Professional Baseball - NPB 2023 - Outright,Hanshin Tigers,0.0179,0.1429,0.125
-2023-04-20 14:40:53.822578,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,The Pot au Feu (Tran Anh Hung),0.0179,0.1429,0.125
 2023-04-21 00:40:50.833214,Boxing Lines - Gavin Gwynne vs Craig Woodruff - To Win the Bout,Gavin Gwynne,0.01759999999999995,0.6667,0.6491
 2023-04-20 21:41:23.367150,NBA Daily Specials - Daily Leaders - Thursday 20th April - Most Assists,Chris Paul (PHX),0.016699999999999993,0.2667,0.25
 2023-04-20 20:41:09.472266,Boxing Lines - Laura Grzyb vs Maria Cecchi - To Win the Bout,Laura Grzyb,0.015699999999999936,0.8824,0.8667
@@ -79,58 +64,47 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-20 22:41:01.989764,College Basketball Futures - 2024 NCAA DI Womens Basketball Tournament - March Madness - National Champion,Texas,0.014099999999999998,0.0385,0.0244
 2023-04-20 22:41:01.989764,College Basketball Futures - 2024 NCAA DI Womens Basketball Tournament - March Madness - National Champion,Maryland,0.014099999999999998,0.0385,0.0244
 2023-04-20 21:41:23.394578,NBA Daily Specials - Daily Leaders - Thursday 20th April - Top Scorer,De'Aaron Fox (SAC),0.013999999999999999,0.0909,0.0769
-2023-04-20 21:41:23.394578,NBA Daily Specials - Daily Leaders - Thursday 20th April - Top Scorer,Mikal Bridges (BKN),0.013999999999999999,0.0909,0.0769
 2023-04-20 23:40:51.182787,Professional Baseball - NPB 2023 - Outright,Saitama Seibu Lions,0.013999999999999999,0.0909,0.0769
-2023-04-20 20:41:11.105559,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Giannis Antetokounmpo (MIL),0.0131,0.2353,0.2222
+2023-04-20 21:41:23.394578,NBA Daily Specials - Daily Leaders - Thursday 20th April - Top Scorer,Mikal Bridges (BKN),0.013999999999999999,0.0909,0.0769
 2023-04-20 19:40:55.271416,NBA Awards - Western Conference Finals MVP - WCF MVP,Nikola Jokic (DEN),0.0131,0.2353,0.2222
+2023-04-20 20:41:11.105559,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Giannis Antetokounmpo (MIL),0.0131,0.2353,0.2222
 2023-04-21 01:40:49.305518,Main Markets - 1st Round 3 Balls - B. DeChambeau / S. Garcia / P. Mickelson - 1st Round 3 Balls,Bryson DeChambeau,0.012299999999999978,0.3571,0.3448
 2023-04-20 16:41:23.505279,Main Markets - 1st Round 2 Balls - Johnson / Stricker v Molinari / Donald - 1st Round 2 Balls,Johnson / Stricker,0.012199999999999989,0.5,0.4878
 2023-04-20 21:41:23.412644,NBA Daily Specials - NBA Daily Specials - Thursday 20th April,"James Harden, Spencer Dinwiddie, Stephen Curry, Chris Paul, Russell Westbrook 40+ Combined Assists",0.011699999999999933,0.726,0.7143
 2023-04-20 17:40:49.948393,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,AC Milan,0.0116,0.4878,0.4762
 2023-04-20 20:41:09.460637,Boxing Lines - Michal Boloz vs Jeamie Tshikeva - To Win the Bout,Jeamie Tshikeva,0.011200000000000099,0.8403,0.8291
-2023-04-20 14:40:53.802146,Celebrity Specials 2023 - Taylor Swift's Next Boyfriend - Taylor Swift's Next Boyfriend,Jake Gyllenhaal,0.011199999999999995,0.0588,0.0476
-2023-04-20 21:41:23.412644,NBA Daily Specials - NBA Daily Specials - Thursday 20th April,"Joel Embiid, Domantas Sabonis, Kevon Looney, Deandre Ayton, Ivica Zubac 60+ Combined Rebounds",0.011099999999999999,0.4762,0.4651
 2023-04-21 01:40:48.503374,Bare Knuckle Fighting Championship - Tyler Randall vs Chancey Wilson - To Win the Bout,Chancey Wilson,0.011099999999999999,0.4762,0.4651
-2023-04-20 14:40:53.822578,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,About Dry Grasses (Nuri Bilge Ceylan),0.011099999999999999,0.1111,0.1
-2023-04-20 14:40:53.822578,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,Il Sol Dell'Avvenire (Nanni Moretti),0.011099999999999999,0.1111,0.1
+2023-04-20 21:41:23.412644,NBA Daily Specials - NBA Daily Specials - Thursday 20th April,"Joel Embiid, Domantas Sabonis, Kevon Looney, Deandre Ayton, Ivica Zubac 60+ Combined Rebounds",0.011099999999999999,0.4762,0.4651
+2023-04-21 02:41:00.856905,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Phoenix Suns,0.010699999999999987,0.3333,0.3226
 2023-04-20 20:41:11.105559,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Ja Morant (MEM),0.010600000000000002,0.0323,0.0217
 2023-04-20 22:41:01.899276,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,0.010299999999999976,0.2667,0.2564
 2023-04-20 19:40:55.281429,NBA Daily Specials - Daily Leaders - Thursday 20th April - Most Assists,Domantas Sabonis (SAC),0.0102,0.0769,0.0667
-2023-04-20 14:40:53.822578,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,Anantomy of a Fall (Justine Triet),0.0102,0.0769,0.0667
-2023-04-20 21:41:23.367150,NBA Daily Specials - Daily Leaders - Thursday 20th April - Most Assists,Domantas Sabonis (SAC),-0.0102,0.0667,0.0769
-2023-04-20 14:40:53.822578,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,Kidnapped (Marco Bellocchio),-0.0102,0.0667,0.0769
 2023-04-20 19:40:55.271416,NBA Awards - Western Conference Finals MVP - WCF MVP,Anthony Davis (LAL),-0.0102,0.0667,0.0769
+2023-04-20 21:41:23.367150,NBA Daily Specials - Daily Leaders - Thursday 20th April - Most Assists,Domantas Sabonis (SAC),-0.0102,0.0667,0.0769
 2023-04-20 20:41:09.460637,Boxing Lines - Michal Boloz vs Jeamie Tshikeva - To Win the Bout,Michal Boloz,-0.010800000000000004,0.2273,0.2381
-2023-04-20 14:40:53.822578,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,May December (Todd Haynes),-0.011199999999999995,0.0476,0.0588
-2023-04-20 14:40:53.822578,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,Asteroid City (Wes Anderson),-0.011199999999999995,0.0476,0.0588
-2023-04-20 14:40:53.822578,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,Four Daughters (Kaouther Ben Hania),-0.011199999999999995,0.0476,0.0588
 2023-04-21 01:40:48.335953,Boxing Lines - Gavin Gwynne vs Craig Woodruff - To Win the Bout,Gavin Gwynne,-0.011499999999999955,0.6552,0.6667
-2023-04-20 14:40:53.822578,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,The Old Oak (Ken Loach),-0.013999999999999999,0.0769,0.0909
 2023-04-20 21:41:23.367150,NBA Daily Specials - Daily Leaders - Thursday 20th April - Most Assists,Devin Booker (PHX),-0.014099999999999994,0.0526,0.0667
 2023-04-20 18:40:48.752101,Box Office Specials - Fast X - Number Of Times 'Family' Is Said - Fast X - Number Of Times 'Family' Is Said,0,-0.014099999999999998,0.0244,0.0385
-2023-04-20 23:40:51.182787,Professional Baseball - NPB 2023 - Outright,Tohoku Rakuten Golden Eagles,-0.014100000000000001,0.0385,0.0526
 2023-04-20 19:40:55.281429,NBA Daily Specials - Daily Leaders - Thursday 20th April - Most Assists,Kawhi Leonard (LAC),-0.014100000000000001,0.0385,0.0526
-2023-04-20 14:40:54.055276,Round Match-Ups - 1st Round Match-Up - Schauffele/Cantlay vs Kim/Kim - 1st Round Match-Up,Kim/Kim,-0.01419999999999999,0.3704,0.3846
+2023-04-20 23:40:51.182787,Professional Baseball - NPB 2023 - Outright,Tohoku Rakuten Golden Eagles,-0.014100000000000001,0.0385,0.0526
+2023-04-21 02:41:00.856905,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Clippers,-0.014100000000000001,0.0385,0.0526
 2023-04-20 21:41:23.380970,NBA Daily Specials - Daily Leaders - Thursday 20th April - Most Rebounds,Deandre Ayton (PHX),-0.015700000000000006,0.1176,0.1333
-2023-04-20 14:40:53.738477,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Larissa Santos,-0.016600000000000004,0.0667,0.0833
 2023-04-20 17:40:49.948393,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,Inter Milan,-0.016699999999999937,0.5833,0.6
 2023-04-21 00:40:50.833214,Boxing Lines - Gavin Gwynne vs Craig Woodruff - To Win the Bout,Craig Woodruff,-0.016699999999999993,0.4,0.4167
 2023-04-20 22:41:02.035852,NBA Daily Specials - Daily Leaders - Thursday 20th April - Most Assists,Stephen Curry (GSW),-0.016700000000000007,0.0833,0.1
 2023-04-20 20:41:09.472266,Boxing Lines - Laura Grzyb vs Maria Cecchi - To Win the Bout,Maria Cecchi,-0.01820000000000002,0.1818,0.2
+2023-04-21 02:41:00.839602,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Philadelphia 76ers,-0.01820000000000002,0.1818,0.2
 2023-04-20 20:41:09.815875,Bare Knuckle Fighting Championship - Dat Nguyen vs Daniel Straus - To Win the Bout,Daniel Straus,-0.022199999999999998,0.2,0.2222
 2023-04-20 22:41:02.049665,NBA Daily Specials - Daily Leaders - Thursday 20th April - Top Scorer,Joel Embiid (PHI),-0.022199999999999998,0.2,0.2222
-2023-04-20 14:40:53.139891,Bare Knuckle Fighting Championship - Isaac Doolittle vs Jake Bostwick - To Win the Bout,Isaac Doolittle,-0.022600000000000064,0.5122,0.5348
 2023-04-20 23:40:50.666202,Bare Knuckle Fighting Championship - Tyler Randall vs Chancey Wilson - To Win the Bout,Chancey Wilson,-0.022699999999999998,0.4651,0.4878
 2023-04-20 15:40:53.581457,Round Match-Ups - 1st Round Match-Up - Dahmen/McCarthy vs Wallace/Shinkwin - 1st Round Match-Up,Wallace/Shinkwin,-0.022699999999999998,0.4651,0.4878
 2023-04-20 21:41:23.380970,NBA Daily Specials - Daily Leaders - Thursday 20th April - Most Rebounds,Kevon Looney (GSW),-0.023799999999999988,0.1429,0.1667
-2023-04-20 14:40:53.822578,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,Firebrand (Karim Ainouz),-0.0242,0.0667,0.0909
 2023-04-20 21:41:23.380970,NBA Daily Specials - Daily Leaders - Thursday 20th April - Most Rebounds,Kevin Durant (PHX),-0.024299999999999995,0.0526,0.0769
 2023-04-20 20:41:09.713395,Bare Knuckle Fighting Championship - Howard Davis vs Trevor Morris - To Win the Bout,Trevor Morris,-0.026100000000000012,0.1739,0.2
 2023-04-20 18:40:48.752101,Box Office Specials - Fast X - Number Of Times 'Family' Is Said - Fast X - Number Of Times 'Family' Is Said,9 to 12,-0.02779999999999999,0.2222,0.25
 2023-04-20 21:41:23.367150,NBA Daily Specials - Daily Leaders - Thursday 20th April - Most Assists,Kevin Durant (PHX),-0.028199999999999996,0.0385,0.0667
 2023-04-20 22:41:01.989764,College Basketball Futures - 2024 NCAA DI Womens Basketball Tournament - March Madness - National Champion,Indiana,-0.031799999999999995,0.1111,0.1429
 2023-04-20 21:41:23.367150,NBA Daily Specials - Daily Leaders - Thursday 20th April - Most Assists,Stephen Curry (GSW),-0.033299999999999996,0.1,0.1333
-2023-04-20 14:40:53.738477,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Aline Wirley,-0.03330000000000001,0.0667,0.1
 2023-04-20 19:40:55.286669,NBA Daily Specials - Daily Leaders - Thursday 20th April - Most Rebounds,Kevon Looney (GSW),-0.033300000000000024,0.1667,0.2
 2023-04-20 22:41:02.471648,Bare Knuckle Fighting Championship - Tyler Randall vs Chancey Wilson - To Win the Bout,Tyler Randall,-0.033399999999999985,0.5744,0.6078
 2023-04-20 15:40:52.530195,Bare Knuckle Fighting Championship - Isaac Doolittle vs Jake Bostwick - To Win the Bout,Isaac Doolittle,-0.035999999999999976,0.4762,0.5122
@@ -142,6 +116,4 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-20 22:41:03.762754,Super Lig - Turkey Super League 22/23 - Outright,Besiktas,-0.0713,0.0196,0.0909
 2023-04-20 23:40:50.671851,Bare Knuckle Fighting Championship - Isaac Doolittle vs Jake Bostwick - To Win the Bout,Isaac Doolittle,-0.07739999999999997,0.4348,0.5122
 2023-04-20 21:41:21.430732,Bare Knuckle Fighting Championship - Tyler Randall vs Chancey Wilson - To Win the Bout,Chancey Wilson,-0.08030000000000004,0.4545,0.5348
-2023-04-20 14:40:53.728809,Stocks - Anhesuer-Busch InBev SA (BUD:NYSE) Closing Stock Price On May 15th - Anheuser-Busch Stock Price On May 15th,$61 to $63.99,-0.08340000000000003,0.3333,0.4167
 2023-04-20 22:41:01.989764,College Basketball Futures - 2024 NCAA DI Womens Basketball Tournament - March Madness - National Champion,Stanford,-0.0953,0.0476,0.1429
-2023-04-20 14:40:53.738477,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Ricardo Camargo,-0.1294,0.0244,0.1538
