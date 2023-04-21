@@ -1,6 +1,7 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-21 20:40:58.384714,Royal Family - Harry & Meghan Specials - Harry & Meghan Specials,Harry to attend the Westminster Abbey coronation of Charles III,0.40590000000000004,0.9615,0.5556
 2023-04-21 20:40:57.288875,NFL Draft '23 - Positional Groups - First Defensive Player Selected,Tyree Wilson,0.16660000000000003,0.4444,0.2778
+2023-04-21 22:41:02.037479,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester City,0.1259,0.8182,0.6923
 2023-04-21 16:40:51.481331,Bare Knuckle Fighting Championship - Dat Nguyen vs Daniel Straus - To Win the Bout,Dat Nguyen,0.04169999999999996,0.875,0.8333
 2023-04-21 16:40:51.417813,Bare Knuckle Fighting Championship - Gee Perez vs Joshua Richey - To Win the Bout,Gee Perez,0.035699999999999954,0.8571,0.8214
 2023-04-21 14:40:46.061469,Bare Knuckle Fighting Championship - Isaac Doolittle vs Jake Bostwick - To Win the Bout,Jake Bostwick,0.026499999999999968,0.5917,0.5652
@@ -20,6 +21,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-21 15:40:44.373742,Womens WC 2023 - WC Tournament Futures 2023 - Outright,England (W),-0.010399999999999993,0.2222,0.2326
 2023-04-21 20:40:58.745242,Boxing Lines - Skye Nicolson vs Linda Laura Lecca - To Win the Bout,Linda Laura Lecca,-0.011099999999999999,0.0556,0.0667
 2023-04-21 15:40:44.373742,Womens WC 2023 - WC Tournament Futures 2023 - Outright,France (W),-0.012299999999999991,0.1053,0.1176
+2023-04-21 22:41:00.214743,Bare Knuckle Fighting Championship - Gilberto Aguilar vs Justin Sanchez - To Win the Bout,Gilberto Aguilar,-0.012499999999999983,0.2174,0.2299
 2023-04-21 16:40:51.436672,Bare Knuckle Fighting Championship - Rene Rodriguez vs Mark Johnson - To Win the Bout,Mark Johnson,-0.01469999999999999,0.2353,0.25
 2023-04-21 13:40:45.890047,NFL Draft '23 - Positional Groups - First Tight End Selected,Michael Mayer,-0.01539999999999997,0.6,0.6154
 2023-04-21 21:41:06.854842,Boxing Lines - Laura Grzyb vs Maria Cecchi - To Win the Bout,Laura Grzyb,-0.015699999999999936,0.8667,0.8824
@@ -37,3 +39,4 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-21 16:40:51.481331,Bare Knuckle Fighting Championship - Dat Nguyen vs Daniel Straus - To Win the Bout,Daniel Straus,-0.044800000000000006,0.1905,0.2353
 2023-04-21 13:40:45.882869,NFL Draft '23 - Positional Groups - First Offensive Lineman Selected,Peter Skoronski,-0.056900000000000006,0.4082,0.4651
 2023-04-21 20:40:57.288875,NFL Draft '23 - Positional Groups - First Defensive Player Selected,Will Anderson,-0.1179,0.6154,0.7333
+2023-04-21 22:41:02.037479,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Arsenal,-0.2378,0.25,0.4878
