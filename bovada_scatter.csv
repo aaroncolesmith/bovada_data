@@ -8,12 +8,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-21 09:41:05.074282,ISPS Handa Championship - ISPS Handa Championship - Outright,Maximilian Kieffer,0.047099999999999996,0.0667,0.0196
 2023-04-21 03:41:01.782529,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Milwaukee Bucks,0.044499999999999984,0.2667,0.2222
 2023-04-21 09:41:05.074282,ISPS Handa Championship - ISPS Handa Championship - Outright,Takumi Kanaya,0.035699999999999996,0.0833,0.0476
-2023-04-21 07:40:42.624310,Bare Knuckle Fighting Championship - Tyler Randall vs Chancey Wilson - To Win the Bout,Tyler Randall,0.033399999999999985,0.6078,0.5744
 2023-04-21 03:41:01.769973,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Golden State Warriors,0.033399999999999985,0.1667,0.1333
+2023-04-21 07:40:42.624310,Bare Knuckle Fighting Championship - Tyler Randall vs Chancey Wilson - To Win the Bout,Tyler Randall,0.033399999999999985,0.6078,0.5744
 2023-04-21 09:41:05.074282,ISPS Handa Championship - ISPS Handa Championship - Outright,Jordan Smith,0.0321,0.0909,0.0588
 2023-04-21 04:40:50.734526,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Phoenix Suns,0.030299999999999994,0.3636,0.3333
 2023-04-21 06:40:47.432406,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Boston Celtics,0.02779999999999999,0.25,0.2222
 2023-04-21 04:40:50.536431,Bare Knuckle Fighting Championship - Howard Davis vs Trevor Morris - To Win the Bout,Trevor Morris,0.026100000000000012,0.2,0.1739
+2023-04-21 13:40:45.882869,NFL Draft '23 - Positional Groups - First Offensive Lineman Selected,Paris Johnson Jr,0.025599999999999956,0.6,0.5744
 2023-04-21 09:41:04.650300,Main Markets - 2nd Round 2 Balls - Morikawa / Homa v M. Fitzpatrick / A. Fitzpatrick - 2nd Round 2 Balls,Matt Fitzpatrick / Alex Fitzpatrick,0.025499999999999967,0.4255,0.4
 2023-04-21 03:41:01.782529,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Philadelphia 76ers,0.024999999999999994,0.125,0.1
 2023-04-21 04:40:50.585989,Bare Knuckle Fighting Championship - Rene Rodriguez vs Mark Johnson - To Win the Bout,Mark Johnson,0.0247,0.2469,0.2222
@@ -21,21 +22,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-21 09:41:02.137698,MLB Futures - MLB 2023 National League East - National League East Winner,New York Mets,0.020799999999999985,0.3333,0.3125
 2023-04-21 03:41:01.762332,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Philadelphia 76ers,0.01820000000000002,0.2,0.1818
 2023-04-21 09:41:05.074282,ISPS Handa Championship - ISPS Handa Championship - Outright,Alexander Knappe,0.0181,0.0217,0.0036
+2023-04-21 13:40:45.882869,NFL Draft '23 - Positional Groups - First Offensive Lineman Selected,Broderick Jones,0.0179,0.1429,0.125
 2023-04-21 09:41:05.074282,ISPS Handa Championship - ISPS Handa Championship - Outright,Niklas Norgaard Mller,0.017599999999999998,0.0196,0.002
 2023-04-21 09:41:05.074282,ISPS Handa Championship - ISPS Handa Championship - Outright,Rafael Cabrera Bello,0.014599999999999998,0.0278,0.0132
 2023-04-21 09:41:02.871348,Boxing Lines - Lukasz Rozanski vs Alen Babic - To Win the Bout,Alen Babic,0.01429999999999998,0.5556,0.5413
 2023-04-21 07:40:42.634065,Bare Knuckle Fighting Championship - Dat Nguyen vs Daniel Straus - To Win the Bout,Daniel Straus,0.0131,0.2353,0.2222
+2023-04-21 13:40:45.882869,NFL Draft '23 - Positional Groups - First Offensive Lineman Selected,Darnell Wright,0.012899999999999995,0.1667,0.1538
 2023-04-21 06:40:47.432406,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Phoenix Suns,0.012899999999999995,0.1667,0.1538
 2023-04-21 09:41:02.081450,MLB Futures - MLB 2023 American League East - American League East Winner,New York Yankees,0.012299999999999978,0.3571,0.3448
 2023-04-21 01:40:49.305518,Main Markets - 1st Round 3 Balls - B. DeChambeau / S. Garcia / P. Mickelson - 1st Round 3 Balls,Bryson DeChambeau,0.012299999999999978,0.3571,0.3448
 2023-04-21 09:41:05.074282,ISPS Handa Championship - ISPS Handa Championship - Outright,Hao Tong Li,0.012199999999999999,0.0132,0.001
 2023-04-21 04:40:50.606254,Bare Knuckle Fighting Championship - Tyler Randall vs Chancey Wilson - To Win the Bout,Chancey Wilson,0.0116,0.4878,0.4762
 2023-04-21 04:40:50.523552,Bare Knuckle Fighting Championship - Freddy Masabo vs Bovar Khanakov - To Win the Bout,Bovar Khanakov,0.01150000000000001,0.3448,0.3333
-2023-04-21 01:40:48.503374,Bare Knuckle Fighting Championship - Tyler Randall vs Chancey Wilson - To Win the Bout,Chancey Wilson,0.011099999999999999,0.4762,0.4651
 2023-04-21 09:41:02.081450,MLB Futures - MLB 2023 American League East - American League East Winner,Toronto Blue Jays,0.011099999999999999,0.2778,0.2667
+2023-04-21 01:40:48.503374,Bare Knuckle Fighting Championship - Tyler Randall vs Chancey Wilson - To Win the Bout,Chancey Wilson,0.011099999999999999,0.4762,0.4651
 2023-04-21 02:41:00.856905,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Phoenix Suns,0.010699999999999987,0.3333,0.3226
-2023-04-21 03:41:01.782529,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Golden State Warriors,0.0102,0.0769,0.0667
 2023-04-21 09:41:02.156733,MLB Futures - MLB 2023 National League West - National League West Winner,San Francisco Giants,0.0102,0.0769,0.0667
+2023-04-21 03:41:01.782529,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Golden State Warriors,0.0102,0.0769,0.0667
 2023-04-21 09:41:05.074282,ISPS Handa Championship - ISPS Handa Championship - Outright,Ryutaro Nagano,-0.0101,0.004,0.0141
 2023-04-21 04:40:50.523552,Bare Knuckle Fighting Championship - Freddy Masabo vs Bovar Khanakov - To Win the Bout,Freddy Masabo,-0.011099999999999999,0.7222,0.7333
 2023-04-21 01:40:48.335953,Boxing Lines - Gavin Gwynne vs Craig Woodruff - To Win the Bout,Gavin Gwynne,-0.011499999999999955,0.6552,0.6667
@@ -53,20 +56,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-21 06:40:47.419991,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,-0.01469999999999999,0.2353,0.25
 2023-04-21 06:40:47.411729,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Philadelphia 76ers,-0.015100000000000002,0.1667,0.1818
 2023-04-21 03:41:01.782529,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Sacramento Kings,-0.015300000000000001,0.0323,0.0476
-2023-04-21 06:40:47.432406,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Milwaukee Bucks,-0.016699999999999993,0.25,0.2667
+2023-04-21 13:40:45.890047,NFL Draft '23 - Positional Groups - First Tight End Selected,Michael Mayer,-0.01539999999999997,0.6,0.6154
 2023-04-21 04:40:50.734526,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,-0.016699999999999993,0.25,0.2667
+2023-04-21 06:40:47.432406,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Milwaukee Bucks,-0.016699999999999993,0.25,0.2667
 2023-04-21 04:40:50.606254,Bare Knuckle Fighting Championship - Tyler Randall vs Chancey Wilson - To Win the Bout,Tyler Randall,-0.017299999999999982,0.5744,0.5917
 2023-04-21 06:40:47.432406,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Philadelphia 76ers,-0.01759999999999999,0.1,0.1176
 2023-04-21 06:40:47.411729,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Milwaukee Bucks,-0.018100000000000005,0.4167,0.4348
-2023-04-21 04:40:50.725827,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Philadelphia 76ers,-0.01820000000000002,0.1818,0.2
 2023-04-21 02:41:00.839602,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Philadelphia 76ers,-0.01820000000000002,0.1818,0.2
+2023-04-21 04:40:50.725827,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Philadelphia 76ers,-0.01820000000000002,0.1818,0.2
 2023-04-21 09:41:05.074282,ISPS Handa Championship - ISPS Handa Championship - Outright,Brad Kennedy,-0.0183,0.0013,0.0196
 2023-04-21 06:40:47.432406,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Los Angeles Clippers,-0.020000000000000004,0.0123,0.0323
 2023-04-21 04:40:50.734526,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Sacramento Kings,-0.02020000000000001,0.0909,0.1111
 2023-04-21 06:40:47.432406,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Denver Nuggets,-0.02020000000000001,0.0909,0.1111
 2023-04-21 04:40:50.621587,Bare Knuckle Fighting Championship - Dat Nguyen vs Daniel Straus - To Win the Bout,Dat Nguyen,-0.020500000000000074,0.8462,0.8667
-2023-04-21 04:40:50.536431,Bare Knuckle Fighting Championship - Howard Davis vs Trevor Morris - To Win the Bout,Howard Davis,-0.022199999999999998,0.8667,0.8889
+2023-04-21 13:40:45.890047,NFL Draft '23 - Positional Groups - First Tight End Selected,Darnell Washington,-0.022199999999999998,0.1111,0.1333
 2023-04-21 03:41:01.769973,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Sacramento Kings,-0.022199999999999998,0.1111,0.1333
+2023-04-21 04:40:50.536431,Bare Knuckle Fighting Championship - Howard Davis vs Trevor Morris - To Win the Bout,Howard Davis,-0.022199999999999998,0.8667,0.8889
 2023-04-21 07:40:42.624310,Bare Knuckle Fighting Championship - Tyler Randall vs Chancey Wilson - To Win the Bout,Chancey Wilson,-0.022699999999999998,0.4651,0.4878
 2023-04-21 04:40:50.585989,Bare Knuckle Fighting Championship - Rene Rodriguez vs Mark Johnson - To Win the Bout,Rene Rodriguez,-0.024799999999999933,0.8214,0.8462
 2023-04-21 09:41:05.074282,ISPS Handa Championship - ISPS Handa Championship - Outright,Taiga Semikawa,-0.0257,0.0066,0.0323
@@ -80,6 +85,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-21 09:41:05.074282,ISPS Handa Championship - ISPS Handa Championship - Outright,Joost Luiten,-0.0476,0.005,0.0526
 2023-04-21 09:41:05.074282,ISPS Handa Championship - ISPS Handa Championship - Outright,Marcel Schneider,-0.049300000000000004,0.0033,0.0526
 2023-04-21 09:41:05.074282,ISPS Handa Championship - ISPS Handa Championship - Outright,Robert MacIntyre,-0.0501,0.0025,0.0526
+2023-04-21 13:40:45.882869,NFL Draft '23 - Positional Groups - First Offensive Lineman Selected,Peter Skoronski,-0.056900000000000006,0.4082,0.4651
 2023-04-21 04:40:50.614274,Bare Knuckle Fighting Championship - Isaac Doolittle vs Jake Bostwick - To Win the Bout,Jake Bostwick,-0.06440000000000001,0.5652,0.6296
 2023-04-21 09:41:05.074282,ISPS Handa Championship - ISPS Handa Championship - Outright,Alexander Bjork,-0.08299999999999999,0.0079,0.0909
 2023-04-21 09:41:04.363073,Main Markets - 2nd Round 2 Balls - Molinari / Donald v Johnson / Stricker - 2nd Round 2 Balls,Zach Johnson / Steve Stricker,-0.11820000000000003,0.4651,0.5833
