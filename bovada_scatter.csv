@@ -7,7 +7,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-21 16:40:51.481331,Bare Knuckle Fighting Championship - Dat Nguyen vs Daniel Straus - To Win the Bout,Dat Nguyen,0.04169999999999996,0.875,0.8333
 2023-04-21 09:41:05.074282,ISPS Handa Championship - ISPS Handa Championship - Outright,Takumi Kanaya,0.035699999999999996,0.0833,0.0476
 2023-04-21 16:40:51.417813,Bare Knuckle Fighting Championship - Gee Perez vs Joshua Richey - To Win the Bout,Gee Perez,0.035699999999999954,0.8571,0.8214
-2023-04-21 07:40:42.624310,Bare Knuckle Fighting Championship - Tyler Randall vs Chancey Wilson - To Win the Bout,Tyler Randall,0.033399999999999985,0.6078,0.5744
 2023-04-21 09:41:05.074282,ISPS Handa Championship - ISPS Handa Championship - Outright,Jordan Smith,0.0321,0.0909,0.0588
 2023-04-21 14:40:46.061469,Bare Knuckle Fighting Championship - Isaac Doolittle vs Jake Bostwick - To Win the Bout,Jake Bostwick,0.026499999999999968,0.5917,0.5652
 2023-04-21 13:40:45.882869,NFL Draft '23 - Positional Groups - First Offensive Lineman Selected,Paris Johnson Jr,0.025599999999999956,0.6,0.5744
@@ -21,13 +20,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-21 16:40:51.399988,Bare Knuckle Fighting Championship - Howard Davis vs Trevor Morris - To Win the Bout,Howard Davis,0.015699999999999936,0.8824,0.8667
 2023-04-21 09:41:05.074282,ISPS Handa Championship - ISPS Handa Championship - Outright,Rafael Cabrera Bello,0.014599999999999998,0.0278,0.0132
 2023-04-21 09:41:02.871348,Boxing Lines - Lukasz Rozanski vs Alen Babic - To Win the Bout,Alen Babic,0.01429999999999998,0.5556,0.5413
-2023-04-21 07:40:42.634065,Bare Knuckle Fighting Championship - Dat Nguyen vs Daniel Straus - To Win the Bout,Daniel Straus,0.0131,0.2353,0.2222
-2023-04-21 13:40:45.882869,NFL Draft '23 - Positional Groups - First Offensive Lineman Selected,Darnell Wright,0.012899999999999995,0.1667,0.1538
 2023-04-21 15:40:44.373742,Womens WC 2023 - WC Tournament Futures 2023 - Outright,Spain (W),0.012899999999999995,0.1667,0.1538
+2023-04-21 13:40:45.882869,NFL Draft '23 - Positional Groups - First Offensive Lineman Selected,Darnell Wright,0.012899999999999995,0.1667,0.1538
 2023-04-21 09:41:02.081450,MLB Futures - MLB 2023 American League East - American League East Winner,New York Yankees,0.012299999999999978,0.3571,0.3448
 2023-04-21 09:41:05.074282,ISPS Handa Championship - ISPS Handa Championship - Outright,Hao Tong Li,0.012199999999999999,0.0132,0.001
-2023-04-21 09:41:02.081450,MLB Futures - MLB 2023 American League East - American League East Winner,Toronto Blue Jays,0.011099999999999999,0.2778,0.2667
+2023-04-21 19:40:55.210473,Bare Knuckle Fighting Championship - Tyler Randall vs Chancey Wilson - To Win the Bout,Chancey Wilson,0.0116,0.4878,0.4762
 2023-04-21 14:40:46.050464,Bare Knuckle Fighting Championship - Tyler Randall vs Chancey Wilson - To Win the Bout,Chancey Wilson,0.011099999999999999,0.4762,0.4651
+2023-04-21 09:41:02.081450,MLB Futures - MLB 2023 American League East - American League East Winner,Toronto Blue Jays,0.011099999999999999,0.2778,0.2667
 2023-04-21 09:41:02.156733,MLB Futures - MLB 2023 National League West - National League West Winner,San Francisco Giants,0.0102,0.0769,0.0667
 2023-04-21 09:41:05.074282,ISPS Handa Championship - ISPS Handa Championship - Outright,Ryutaro Nagano,-0.0101,0.004,0.0141
 2023-04-21 15:40:44.373742,Womens WC 2023 - WC Tournament Futures 2023 - Outright,Sweden (W),-0.0102,0.0667,0.0769
@@ -38,7 +37,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-21 15:40:44.373742,Womens WC 2023 - WC Tournament Futures 2023 - Outright,France (W),-0.012299999999999991,0.1053,0.1176
 2023-04-21 09:41:05.074282,ISPS Handa Championship - ISPS Handa Championship - Outright,Jacques Kruyswijk,-0.012400000000000001,0.004,0.0164
 2023-04-21 09:41:04.650300,Main Markets - 2nd Round 2 Balls - Morikawa / Homa v M. Fitzpatrick / A. Fitzpatrick - 2nd Round 2 Balls,Collin Morikawa / Max Homa,-0.012700000000000045,0.6364,0.6491
-2023-04-21 07:40:42.634065,Bare Knuckle Fighting Championship - Dat Nguyen vs Daniel Straus - To Win the Bout,Dat Nguyen,-0.012899999999999912,0.8333,0.8462
 2023-04-21 09:41:05.074282,ISPS Handa Championship - ISPS Handa Championship - Outright,Yuto Katsuragawa,-0.013900000000000001,0.0025,0.0164
 2023-04-21 09:41:02.137698,MLB Futures - MLB 2023 National League East - National League East Winner,Philadelphia Phillies,-0.013999999999999999,0.0769,0.0909
 2023-04-21 09:41:05.074282,ISPS Handa Championship - ISPS Handa Championship - Outright,Scott Jamieson,-0.0145,0.0099,0.0244
@@ -49,7 +47,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-21 09:41:05.074282,ISPS Handa Championship - ISPS Handa Championship - Outright,Brad Kennedy,-0.0183,0.0013,0.0196
 2023-04-21 16:40:51.150986,Elite Boxing - Gervonta Davis vs Ryan Garcia - To Win the Bout,Gervonta Davis,-0.02200000000000002,0.6923,0.7143
 2023-04-21 13:40:45.890047,NFL Draft '23 - Positional Groups - First Tight End Selected,Darnell Washington,-0.022199999999999998,0.1111,0.1333
-2023-04-21 07:40:42.624310,Bare Knuckle Fighting Championship - Tyler Randall vs Chancey Wilson - To Win the Bout,Chancey Wilson,-0.022699999999999998,0.4651,0.4878
 2023-04-21 14:40:46.061469,Bare Knuckle Fighting Championship - Isaac Doolittle vs Jake Bostwick - To Win the Bout,Isaac Doolittle,-0.023799999999999988,0.4762,0.5
 2023-04-21 15:40:44.373742,Womens WC 2023 - WC Tournament Futures 2023 - Outright,Germany (W),-0.023799999999999988,0.1429,0.1667
 2023-04-21 16:40:51.444047,Bare Knuckle Fighting Championship - Francesco Ricchi vs Erick Lozano - To Win the Bout,Erick Lozano,-0.024400000000000005,0.1818,0.2062
@@ -59,8 +56,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-21 09:41:05.074282,ISPS Handa Championship - ISPS Handa Championship - Outright,Jorge Campillo,-0.031000000000000003,0.0013,0.0323
 2023-04-21 16:40:51.417813,Bare Knuckle Fighting Championship - Gee Perez vs Joshua Richey - To Win the Bout,Joshua Richey,-0.036400000000000016,0.2105,0.2469
 2023-04-21 09:41:02.081450,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,-0.0378,0.4167,0.4545
-2023-04-21 09:41:05.074282,ISPS Handa Championship - ISPS Handa Championship - Outright,Keita Nakajima,-0.04229999999999999,0.0244,0.0667
 2023-04-21 09:41:05.074282,ISPS Handa Championship - ISPS Handa Championship - Outright,Andy Sullivan,-0.04229999999999999,0.0244,0.0667
+2023-04-21 09:41:05.074282,ISPS Handa Championship - ISPS Handa Championship - Outright,Keita Nakajima,-0.04229999999999999,0.0244,0.0667
 2023-04-21 16:40:51.481331,Bare Knuckle Fighting Championship - Dat Nguyen vs Daniel Straus - To Win the Bout,Daniel Straus,-0.044800000000000006,0.1905,0.2353
 2023-04-21 09:41:05.074282,ISPS Handa Championship - ISPS Handa Championship - Outright,Joost Luiten,-0.0476,0.005,0.0526
 2023-04-21 09:41:05.074282,ISPS Handa Championship - ISPS Handa Championship - Outright,Marcel Schneider,-0.049300000000000004,0.0033,0.0526
