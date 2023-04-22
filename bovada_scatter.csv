@@ -4,7 +4,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-21 22:41:02.037479,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester City,0.1259,0.8182,0.6923
 2023-04-21 16:40:51.481331,Bare Knuckle Fighting Championship - Dat Nguyen vs Daniel Straus - To Win the Bout,Dat Nguyen,0.04169999999999996,0.875,0.8333
 2023-04-21 16:40:51.417813,Bare Knuckle Fighting Championship - Gee Perez vs Joshua Richey - To Win the Bout,Gee Perez,0.035699999999999954,0.8571,0.8214
-2023-04-21 14:40:46.061469,Bare Knuckle Fighting Championship - Isaac Doolittle vs Jake Bostwick - To Win the Bout,Jake Bostwick,0.026499999999999968,0.5917,0.5652
 2023-04-21 20:40:57.282972,NFL Draft '23 - Positional Groups - First Cornerback Selected,Christian Gonzalez,0.02560000000000001,0.3704,0.3448
 2023-04-21 21:41:06.573395,Box Office Specials - Barbie Specials - Barbie Worldwide Gross On 30th June 2024,$600 million or under,0.023800000000000043,0.5238,0.5
 2023-04-22 00:41:07.705093,Bare Knuckle Fighting Championship - Anthony Holmes vs Danny Christie - To Win the Bout,Anthony Holmes,0.02079999999999993,0.5556,0.5348
@@ -15,8 +14,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-21 15:40:44.373742,Womens WC 2023 - WC Tournament Futures 2023 - Outright,Spain (W),0.012899999999999995,0.1667,0.1538
 2023-04-22 00:41:08.251822,Main Markets - 2nd Round 3 Balls - P. Reed / H. Varner III / P. Mickelson - 2nd Round 3 Balls ,Harold Varner III,0.012699999999999989,0.3636,0.3509
 2023-04-21 19:40:55.210473,Bare Knuckle Fighting Championship - Tyler Randall vs Chancey Wilson - To Win the Bout,Chancey Wilson,0.0116,0.4878,0.4762
-2023-04-21 14:40:46.050464,Bare Knuckle Fighting Championship - Tyler Randall vs Chancey Wilson - To Win the Bout,Chancey Wilson,0.011099999999999999,0.4762,0.4651
 2023-04-22 00:41:07.694414,Bare Knuckle Fighting Championship - Tom Scott vs Damian Gorski - To Win the Bout,Tom Scott,0.01090000000000002,0.8571,0.8462
+2023-04-22 02:40:55.669147,Boxing Lines - Shavkatdzhon Rakhimov vs Joe Cordina - To Win the Bout,Shavkatdzhon Rakhimov,0.010699999999999987,0.3333,0.3226
 2023-04-21 15:40:44.373742,Womens WC 2023 - WC Tournament Futures 2023 - Outright,Sweden (W),-0.0102,0.0667,0.0769
 2023-04-21 15:40:44.373742,Womens WC 2023 - WC Tournament Futures 2023 - Outright,England (W),-0.010399999999999993,0.2222,0.2326
 2023-04-21 20:40:58.745242,Boxing Lines - Skye Nicolson vs Linda Laura Lecca - To Win the Bout,Linda Laura Lecca,-0.011099999999999999,0.0556,0.0667
@@ -25,14 +24,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-21 22:41:00.214743,Bare Knuckle Fighting Championship - Gilberto Aguilar vs Justin Sanchez - To Win the Bout,Gilberto Aguilar,-0.012499999999999983,0.2174,0.2299
 2023-04-21 16:40:51.436672,Bare Knuckle Fighting Championship - Rene Rodriguez vs Mark Johnson - To Win the Bout,Mark Johnson,-0.01469999999999999,0.2353,0.25
 2023-04-21 21:41:06.854842,Boxing Lines - Laura Grzyb vs Maria Cecchi - To Win the Bout,Laura Grzyb,-0.015699999999999936,0.8667,0.8824
-2023-04-21 14:40:46.050464,Bare Knuckle Fighting Championship - Tyler Randall vs Chancey Wilson - To Win the Bout,Tyler Randall,-0.016100000000000003,0.5917,0.6078
 2023-04-22 00:41:08.251822,Main Markets - 2nd Round 3 Balls - P. Reed / H. Varner III / P. Mickelson - 2nd Round 3 Balls ,Patrick Reed,-0.017299999999999982,0.4082,0.4255
 2023-04-21 21:41:06.573395,Box Office Specials - Barbie Specials - Barbie Worldwide Gross On 30th June 2024,Over $600 million,-0.018100000000000005,0.5652,0.5833
 2023-04-21 16:40:51.399988,Bare Knuckle Fighting Championship - Howard Davis vs Trevor Morris - To Win the Bout,Trevor Morris,-0.01820000000000002,0.1818,0.2
 2023-04-21 16:40:51.150986,Elite Boxing - Gervonta Davis vs Ryan Garcia - To Win the Bout,Gervonta Davis,-0.02200000000000002,0.6923,0.7143
 2023-04-22 00:41:07.705093,Bare Knuckle Fighting Championship - Anthony Holmes vs Danny Christie - To Win the Bout,Danny Christie,-0.022600000000000064,0.5122,0.5348
 2023-04-21 15:40:44.373742,Womens WC 2023 - WC Tournament Futures 2023 - Outright,Germany (W),-0.023799999999999988,0.1429,0.1667
-2023-04-21 14:40:46.061469,Bare Knuckle Fighting Championship - Isaac Doolittle vs Jake Bostwick - To Win the Bout,Isaac Doolittle,-0.023799999999999988,0.4762,0.5
 2023-04-21 16:40:51.444047,Bare Knuckle Fighting Championship - Francesco Ricchi vs Erick Lozano - To Win the Bout,Erick Lozano,-0.024400000000000005,0.1818,0.2062
 2023-04-21 16:40:51.417813,Bare Knuckle Fighting Championship - Gee Perez vs Joshua Richey - To Win the Bout,Joshua Richey,-0.036400000000000016,0.2105,0.2469
 2023-04-21 20:40:57.282972,NFL Draft '23 - Positional Groups - First Cornerback Selected,Devon Witherspoon,-0.036900000000000044,0.6774,0.7143
