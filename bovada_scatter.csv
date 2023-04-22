@@ -1,6 +1,7 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-22 11:40:58.974538,ISPS Handa Championship - ISPS Handa Championship - Outright,Aaron Cockerill,0.1821,0.2,0.0179
 2023-04-22 11:40:58.974538,ISPS Handa Championship - ISPS Handa Championship - Outright,David Law,0.121,0.1333,0.0123
+2023-04-22 18:41:49.469095,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leeds United,0.1179,0.3846,0.2667
 2023-04-22 08:40:58.159750,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Kylian Mbappe,0.11360000000000003,0.75,0.6364
 2023-04-22 11:40:58.996736,Invited Celebrity Classic - Invited Celebrity Classic - Outright,David Toms,0.07069999999999999,0.1818,0.1111
 2023-04-22 11:40:58.974538,ISPS Handa Championship - ISPS Handa Championship - Outright,Rikuya Hoshino,0.06999999999999999,0.1176,0.0476
@@ -28,6 +29,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-22 11:40:58.974538,ISPS Handa Championship - ISPS Handa Championship - Outright,Takumi Kanaya,0.0343,0.1176,0.0833
 2023-04-22 08:40:58.637116,Copa Libertadores - Copa Libertadores 2023 - Outright,Fluminense,0.03330000000000001,0.1,0.0667
 2023-04-22 08:40:58.659698,Copa Sudamericana - Copa Sudamericana 2023 - Outright,Botafogo,0.03330000000000001,0.1,0.0667
+2023-04-22 18:41:49.469095,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Nottingham Forest,0.033299999999999996,0.8333,0.8
 2023-04-22 09:41:01.128018,Soccer Specials - UEFA Competitions Specials - UEFA Competitions Specials,"Man City to win the Champions League, Juventus to win the Europa League & Fiorentina to win the Conference League",0.032900000000000006,0.0714,0.0385
 2023-04-22 08:40:58.258064,La Liga - Spain La Liga 2022/23 - To Be Relegated,Espanyol,0.03259999999999996,0.6552,0.6226
 2023-04-22 09:41:00.250004,MLB Futures - MLB 2023 Player Awards - American League MVP,Shohei Ohtani (LAA),0.031799999999999995,0.4762,0.4444
@@ -39,25 +41,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-22 07:40:59.670608,NBA Daily Specials - NBA Daily Specials - Saturday 22nd April,"76ers, Nets, Suns & Clippers all to Score 20+ Points in Each Quarter",0.02779999999999999,0.25,0.2222
 2023-04-22 07:40:59.517593,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Denver Nuggets,0.0267,0.1176,0.0909
 2023-04-22 16:41:02.176050,Bare Knuckle Fighting Championship - Arron Blakey vs Naff Higson - To Win the Bout,Naff Higson,0.026600000000000013,0.4348,0.4082
+2023-04-22 18:41:49.469095,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Bournemouth,0.0245,0.0833,0.0588
 2023-04-22 17:40:51.740728,Bare Knuckle Fighting Championship - Anthony Holmes vs Danny Christie - To Win the Bout,Anthony Holmes,0.024399999999999977,0.5122,0.4878
 2023-04-22 11:40:58.996736,Invited Celebrity Classic - Invited Celebrity Classic - Outright,Ken Duke,0.0236,0.0385,0.0149
-2023-04-22 11:40:58.287920,NBA Daily Specials - NBA Daily Specials - Saturday 22nd April - Later Games,"A.Davis, Giannis & Ja.Jackson 3+ Blocks Each",0.023200000000000002,0.0476,0.0244
 2023-04-22 09:41:01.128018,Soccer Specials - UEFA Competitions Specials - UEFA Competitions Specials,"Man City to win the Champions League, Roma to win the Europa League & West Ham to win the Conference League",0.023200000000000002,0.0476,0.0244
 2023-04-22 11:40:58.996736,Invited Celebrity Classic - Invited Celebrity Classic - Outright,Rod Pampling,0.023200000000000002,0.0526,0.0294
+2023-04-22 11:40:58.287920,NBA Daily Specials - NBA Daily Specials - Saturday 22nd April - Later Games,"A.Davis, Giannis & Ja.Jackson 3+ Blocks Each",0.023200000000000002,0.0476,0.0244
 2023-04-22 08:40:58.507462,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Pumas UNAM,0.0228,0.0294,0.0066
 2023-04-22 08:40:59.117238,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Nottingham Forest,0.022199999999999998,0.8,0.7778
 2023-04-22 09:41:01.128018,Soccer Specials - UEFA Competitions Specials - UEFA Competitions Specials,"Man City to win the Champions League, Juventus to win the Europa League & West Ham to win the Conference League",0.0208,0.0625,0.0417
-2023-04-22 06:40:48.403999,NFL Draft '23 - Positional Groups - First Defensive Player Selected,Tyree Wilson,0.020699999999999996,0.4651,0.4444
 2023-04-22 11:40:58.996736,Invited Celebrity Classic - Invited Celebrity Classic - Outright,Harrison Frazar,0.0206,0.0385,0.0179
 2023-04-22 09:41:01.128018,Soccer Specials - UEFA Competitions Specials - UEFA Competitions Specials,"Man City to win the Champions League, Sevilla to win the Europa League &  West Ham to win the Conference League",0.0206,0.0385,0.0179
 2023-04-22 08:40:58.659698,Copa Sudamericana - Copa Sudamericana 2023 - Outright,Fortaleza,0.02020000000000001,0.1111,0.0909
 2023-04-22 09:41:00.260262,MLB Futures - MLB 2023 Player Awards - National League MVP,Trea Turner (PHI),0.019699999999999995,0.125,0.1053
 2023-04-22 09:41:00.250004,MLB Futures - MLB 2023 Player Awards - American League MVP,Adley Rutschman (BAL),0.019000000000000003,0.0625,0.0435
 2023-04-22 08:40:59.143828,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Brighton & Hove Albion,0.01820000000000002,0.2,0.1818
-2023-04-22 06:40:48.212209,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,0.018100000000000005,0.4348,0.4167
 2023-04-22 07:40:58.373920,Main Markets - 3rd Round 2 Balls - Horschel / Burns v Taylor / Hadwin - 3rd Round 2 Balls ,Billy Horschel / Sam Burns,0.018100000000000005,0.5833,0.5652
-2023-04-22 08:40:58.507462,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Deportivo Toluca,0.0179,0.1429,0.125
+2023-04-22 18:41:49.412358,Premier League Futures/Specials - English Premier League 2022/23 - Winner without 'The Big Six',Newcastle United,0.017900000000000027,0.875,0.8571
 2023-04-22 08:40:59.143828,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Tottenham Hotspur,0.0179,0.1429,0.125
+2023-04-22 08:40:58.507462,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Deportivo Toluca,0.0179,0.1429,0.125
 2023-04-22 08:40:58.342174,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,VfB Stuttgart,0.017600000000000005,0.3509,0.3333
 2023-04-22 11:40:58.974538,ISPS Handa Championship - ISPS Handa Championship - Outright,Guido Migliozzi,0.017599999999999998,0.0196,0.002
 2023-04-22 08:40:58.258064,La Liga - Spain La Liga 2022/23 - To Be Relegated,Real Valladolid,0.0174,0.25,0.2326
@@ -67,81 +69,78 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-22 07:40:59.670608,NBA Daily Specials - NBA Daily Specials - Saturday 22nd April,"76ers, Nets, Suns & Clippers all to Score 100+ Points Each",0.015400000000000025,0.4,0.3846
 2023-04-22 08:40:58.659698,Copa Sudamericana - Copa Sudamericana 2023 - Outright,Newell's Old Boys,0.015300000000000001,0.0588,0.0435
 2023-04-22 07:40:59.502859,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Golden State Warriors,0.015100000000000002,0.1818,0.1667
-2023-04-22 06:40:48.194575,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,New York Mets,0.015100000000000002,0.1818,0.1667
+2023-04-22 18:41:49.509119,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Liverpool,0.015100000000000002,0.1818,0.1667
 2023-04-22 07:40:59.490853,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Philadelphia 76ers,0.015100000000000002,0.1818,0.1667
 2023-04-22 11:40:58.996736,Invited Celebrity Classic - Invited Celebrity Classic - Outright,Ken Tanigawa,0.014599999999999998,0.0278,0.0132
 2023-04-22 15:40:46.187492,Boxing Lines - Bektemir Melikuziev vs Gabriel Rosado - To Win the Bout,Bektemir Melikuziev,0.014100000000000001,0.9474,0.9333
-2023-04-22 07:40:59.502859,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Sacramento Kings,0.013999999999999999,0.0909,0.0769
-2023-04-22 06:40:48.238917,MLB Futures - MLB 2023 National League West - National League West Winner,Arizona Diamondbacks,0.013999999999999999,0.0909,0.0769
 2023-04-22 09:41:00.260262,MLB Futures - MLB 2023 Player Awards - National League MVP,Fernando Tatis Jr. (SD),0.013999999999999999,0.0909,0.0769
+2023-04-22 07:40:59.502859,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Sacramento Kings,0.013999999999999999,0.0909,0.0769
 2023-04-22 07:40:59.670608,NBA Daily Specials - NBA Daily Specials - Saturday 22nd April,"76ers, Nets, Suns & Clippers all to Score 22+ Points in Each Quarter",0.013999999999999999,0.0909,0.0769
 2023-04-22 09:40:58.932750,Boxing Lines - Jordan Thompson vs Luke Watkins - To Win the Bout,Jordan Thompson,0.013900000000000023,0.8889,0.875
 2023-04-22 08:40:59.169578,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Southampton,0.013899999999999996,0.125,0.1111
 2023-04-22 09:41:00.250004,MLB Futures - MLB 2023 Player Awards - American League MVP,Mike Trout (LAA),0.013899999999999996,0.125,0.1111
-2023-04-22 09:41:00.260262,MLB Futures - MLB 2023 Player Awards - National League MVP,Ronald Acuña Jr.,0.0131,0.2353,0.2222
 2023-04-22 16:41:02.217068,Bare Knuckle Fighting Championship - Jonny Graham vs Will Cairns - To Win the Bout,Will Cairns,0.0131,0.2,0.1869
-2023-04-22 08:40:58.637116,Copa Libertadores - Copa Libertadores 2023 - Outright,River Plate,0.012899999999999995,0.1667,0.1538
+2023-04-22 09:41:00.260262,MLB Futures - MLB 2023 Player Awards - National League MVP,Ronald Acuña Jr.,0.0131,0.2353,0.2222
 2023-04-22 08:40:59.131431,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Leicester City,0.012899999999999995,0.1667,0.1538
+2023-04-22 08:40:58.637116,Copa Libertadores - Copa Libertadores 2023 - Outright,River Plate,0.012899999999999995,0.1667,0.1538
 2023-04-22 09:41:01.128018,Soccer Specials - UEFA Competitions Specials - UEFA Competitions Specials,"Real Madrid to win the Champions League, Juventus to win the Europa League & Fiorentina to win the Conference League",0.012599999999999998,0.0278,0.0152
+2023-04-22 18:41:42.232758,Elite Boxing - Gervonta Davis vs Ryan Garcia - To Win the Bout,Ryan Garcia,0.012299999999999978,0.3571,0.3448
+2023-04-22 18:41:43.074226,Bare Knuckle Fighting Championship - Robbie Kennedy vs Conor Cook - To Win the Bout,Conor Cook,0.012199999999999989,0.5,0.4878
 2023-04-22 11:40:58.996736,Invited Celebrity Classic - Invited Celebrity Classic - Outright,Kirk Triplett,0.012,0.0164,0.0044
 2023-04-22 09:41:01.128018,Soccer Specials - UEFA Competitions Specials - UEFA Competitions Specials,"Real Madrid to win the Champions League, Sevilla to win the Europa League &  Fiorentina to win the Conference League",0.011899999999999999,0.0179,0.006
-2023-04-22 11:40:58.996736,Invited Celebrity Classic - Invited Celebrity Classic - Outright,Stuart Appleby,0.011699999999999999,0.0196,0.0079
 2023-04-22 11:40:58.996736,Invited Celebrity Classic - Invited Celebrity Classic - Outright,Bob Estes,0.011699999999999999,0.0196,0.0079
+2023-04-22 11:40:58.996736,Invited Celebrity Classic - Invited Celebrity Classic - Outright,Stuart Appleby,0.011699999999999999,0.0196,0.0079
 2023-04-22 17:40:51.723454,Bare Knuckle Fighting Championship - Robbie Kennedy vs Conor Cook - To Win the Bout,Conor Cook,0.0116,0.4878,0.4762
 2023-04-22 10:40:42.301409,Boxing Lines - Shavkatdzhon Rakhimov vs Joe Cordina - To Win the Bout,Shavkatdzhon Rakhimov,0.01150000000000001,0.3448,0.3333
-2023-04-22 06:40:48.231088,MLB Futures - MLB 2023 National League East - National League East Winner,New York Mets,0.01150000000000001,0.3448,0.3333
 2023-04-22 10:40:42.271246,Boxing Lines - Gavin Gwynne vs Craig Woodruff - To Win the Bout,Gavin Gwynne,0.011499999999999955,0.6667,0.6552
 2023-04-22 09:41:01.128018,Soccer Specials - UEFA Competitions Specials - UEFA Competitions Specials,"Real Madrid to win the Champions League, Roma to win the Europa League & Fiorentina to win the Conference League",0.0113,0.0196,0.0083
+2023-04-22 15:40:46.143494,Boxing Lines - Shavkatdzhon Rakhimov vs Joe Cordina - To Win the Bout,Joe Cordina,0.011099999999999999,0.7333,0.7222
 2023-04-22 07:40:57.401810,Boxing Lines - Skye Nicolson vs Linda Laura Lecca - To Win the Bout,Linda Laura Lecca,0.011099999999999999,0.0667,0.0556
-2023-04-22 08:40:58.659698,Copa Sudamericana - Copa Sudamericana 2023 - Outright,RB Bragantino,0.011099999999999999,0.1111,0.1
 2023-04-22 08:40:59.131431,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Everton,0.011099999999999999,0.1111,0.1
 2023-04-22 09:41:00.260262,MLB Futures - MLB 2023 Player Awards - National League MVP,Mookie Betts (LAD),0.011099999999999999,0.1111,0.1
-2023-04-22 15:40:46.143494,Boxing Lines - Shavkatdzhon Rakhimov vs Joe Cordina - To Win the Bout,Joe Cordina,0.011099999999999999,0.7333,0.7222
+2023-04-22 08:40:58.659698,Copa Sudamericana - Copa Sudamericana 2023 - Outright,RB Bragantino,0.011099999999999999,0.1111,0.1
 2023-04-22 08:40:58.659698,Copa Sudamericana - Copa Sudamericana 2023 - Outright,São Paulo,0.010899999999999993,0.1538,0.1429
 2023-04-22 10:40:42.243479,Boxing Lines - Michal Boloz vs Jeamie Tshikeva - To Win the Bout,Michal Boloz,0.010800000000000004,0.2381,0.2273
 2023-04-22 11:40:58.974538,ISPS Handa Championship - ISPS Handa Championship - Outright,Rafael Cabrera Bello,0.010700000000000001,0.0385,0.0278
-2023-04-22 06:40:48.203993,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,0.010699999999999932,0.5455,0.5348
 2023-04-22 14:40:51.311689,Main Markets - Final Round 3 Balls - P. Reed / S. Garcia / G. McDowell - Final Round 3 Balls ,Graeme McDowell,0.010399999999999993,0.2326,0.2222
-2023-04-22 08:40:58.659698,Copa Sudamericana - Copa Sudamericana 2023 - Outright,Estudiantes LP,0.0102,0.0769,0.0667
-2023-04-22 09:41:00.260262,MLB Futures - MLB 2023 Player Awards - National League MVP,Nolan Arenado (STL),0.0102,0.0769,0.0667
+2023-04-22 09:41:00.250004,MLB Futures - MLB 2023 Player Awards - American League MVP,Tim Anderson (CWS),0.0102,0.0152,0.005
 2023-04-22 16:41:03.849629,NBA Daily Specials - Daily Leaders - Saturday 22nd April - Top Scorer,Anthony Davis (LAL),0.0102,0.0769,0.0667
 2023-04-22 16:41:03.849629,NBA Daily Specials - Daily Leaders - Saturday 22nd April - Top Scorer,Tyrese Maxey (PHI),0.0102,0.0769,0.0667
-2023-04-22 09:41:00.250004,MLB Futures - MLB 2023 Player Awards - American League MVP,Tim Anderson (CWS),0.0102,0.0152,0.005
+2023-04-22 09:41:00.260262,MLB Futures - MLB 2023 Player Awards - National League MVP,Nolan Arenado (STL),0.0102,0.0769,0.0667
+2023-04-22 08:40:58.659698,Copa Sudamericana - Copa Sudamericana 2023 - Outright,Estudiantes LP,0.0102,0.0769,0.0667
 2023-04-22 15:40:46.151042,Boxing Lines - Trey Williams vs Elijah Pierce - To Win the Bout,Elijah Pierce,0.010099999999999998,0.4545,0.4444
 2023-04-22 08:40:59.117238,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leicester City,0.010099999999999998,0.5556,0.5455
-2023-04-22 09:41:00.260262,MLB Futures - MLB 2023 Player Awards - National League MVP,Kyle Schwarber (PHI),-0.010100000000000001,0.0244,0.0345
 2023-04-22 09:41:00.250004,MLB Futures - MLB 2023 Player Awards - American League MVP,Byron Buxton (MIN),-0.010100000000000001,0.0244,0.0345
+2023-04-22 09:41:00.260262,MLB Futures - MLB 2023 Player Awards - National League MVP,Kyle Schwarber (PHI),-0.010100000000000001,0.0244,0.0345
 2023-04-22 08:40:59.117238,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Southampton,-0.010199999999999987,0.9231,0.9333
-2023-04-22 08:40:58.342174,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Hoffenheim,-0.0102,0.0667,0.0769
+2023-04-22 18:41:42.395014,Boxing Lines - Fiodor Czerkaszyn vs Elias Espadas - To Win the Bout,Elias Espadas,-0.0102,0.0667,0.0769
 2023-04-22 08:40:58.507462,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Club León,-0.0102,0.0667,0.0769
+2023-04-22 08:40:58.342174,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Hoffenheim,-0.0102,0.0667,0.0769
 2023-04-22 07:40:59.502859,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Lakers,-0.010899999999999993,0.1429,0.1538
-2023-04-22 06:40:48.177674,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Atlanta Braves,-0.010899999999999993,0.1429,0.1538
 2023-04-22 10:40:42.301409,Boxing Lines - Shavkatdzhon Rakhimov vs Joe Cordina - To Win the Bout,Joe Cordina,-0.011099999999999999,0.7222,0.7333
-2023-04-22 14:40:51.311689,Main Markets - Final Round 3 Balls - P. Reed / S. Garcia / G. McDowell - Final Round 3 Balls ,Patrick Reed,-0.011099999999999999,0.4651,0.4762
 2023-04-22 07:40:58.373920,Main Markets - 3rd Round 2 Balls - Horschel / Burns v Taylor / Hadwin - 3rd Round 2 Balls ,Nick Taylor / Adam Hadwin,-0.011099999999999999,0.4651,0.4762
-2023-04-22 08:40:58.159750,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Wissam Ben Yedder,-0.011199999999999995,0.0476,0.0588
+2023-04-22 14:40:51.311689,Main Markets - Final Round 3 Balls - P. Reed / S. Garcia / G. McDowell - Final Round 3 Balls ,Patrick Reed,-0.011099999999999999,0.4651,0.4762
 2023-04-22 08:40:59.195436,Premier League Futures/Specials - English Premier League 2022/23 - PFA Player of the Year 2022/23,Kevin de Bruyne,-0.011199999999999995,0.0476,0.0588
+2023-04-22 08:40:58.159750,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Wissam Ben Yedder,-0.011199999999999995,0.0476,0.0588
 2023-04-22 10:40:42.243479,Boxing Lines - Michal Boloz vs Jeamie Tshikeva - To Win the Bout,Jeamie Tshikeva,-0.011200000000000099,0.8291,0.8403
 2023-04-22 15:40:46.099141,Boxing Lines - Gavin Gwynne vs Craig Woodruff - To Win the Bout,Gavin Gwynne,-0.011499999999999955,0.6552,0.6667
-2023-04-22 06:40:48.231088,MLB Futures - MLB 2023 National League East - National League East Winner,Atlanta Braves,-0.011499999999999955,0.6552,0.6667
-2023-04-22 06:40:48.212209,MLB Futures - MLB 2023 American League East - American League East Winner,New York Yankees,-0.012299999999999978,0.3448,0.3571
+2023-04-22 18:41:42.319679,Boxing Lines - Lukasz Rozanski vs Alen Babic - To Win the Bout,Lukasz Rozanski,-0.012199999999999989,0.4878,0.5
 2023-04-22 07:40:59.502859,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Clippers,-0.012700000000000003,0.0196,0.0323
 2023-04-22 08:40:58.342174,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Augsburg,-0.012899999999999995,0.1538,0.1667
 2023-04-22 09:41:00.250004,MLB Futures - MLB 2023 Player Awards - American League MVP,Aaron Judge (NYY),-0.013899999999999996,0.1111,0.125
 2023-04-22 15:40:46.187492,Boxing Lines - Bektemir Melikuziev vs Gabriel Rosado - To Win the Bout,Gabriel Rosado,-0.013899999999999996,0.1111,0.125
 2023-04-22 10:40:42.232280,Boxing Lines - Jordan Thompson vs Luke Watkins - To Win the Bout,Jordan Thompson,-0.013900000000000023,0.875,0.8889
-2023-04-22 09:41:00.250004,MLB Futures - MLB 2023 Player Awards - American League MVP,Julio Rodríguez,-0.013999999999999999,0.0769,0.0909
 2023-04-22 07:40:59.502859,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Memphis Grizzlies,-0.013999999999999999,0.0769,0.0909
+2023-04-22 09:41:00.250004,MLB Futures - MLB 2023 Player Awards - American League MVP,Julio Rodríguez,-0.013999999999999999,0.0769,0.0909
+2023-04-22 18:41:49.469095,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Southampton,-0.014000000000000012,0.9091,0.9231
 2023-04-22 11:40:58.996736,Invited Celebrity Classic - Invited Celebrity Classic - Outright,Jerry Kelly,-0.014099999999999994,0.0526,0.0667
 2023-04-22 09:41:00.250004,MLB Futures - MLB 2023 Player Awards - American League MVP,Bo Bichette (TOR),-0.014099999999999998,0.0294,0.0435
-2023-04-22 06:40:48.238917,MLB Futures - MLB 2023 National League West - National League West Winner,San Francisco Giants,-0.014399999999999996,0.0625,0.0769
-2023-04-22 07:40:59.517593,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Boston Celtics,-0.01469999999999999,0.2353,0.25
 2023-04-22 07:40:59.517593,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Milwaukee Bucks,-0.01469999999999999,0.2353,0.25
+2023-04-22 07:40:59.517593,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Boston Celtics,-0.01469999999999999,0.2353,0.25
 2023-04-22 15:40:46.151042,Boxing Lines - Trey Williams vs Elijah Pierce - To Win the Bout,Trey Williams,-0.014800000000000035,0.6078,0.6226
 2023-04-22 11:40:58.996736,Invited Celebrity Classic - Invited Celebrity Classic - Outright,Arjun Atwal,-0.0153,0.0141,0.0294
-2023-04-22 06:40:48.403999,NFL Draft '23 - Positional Groups - First Defensive Player Selected,Will Anderson,-0.01539999999999997,0.6,0.6154
-2023-04-22 11:40:58.974538,ISPS Handa Championship - ISPS Handa Championship - Outright,Deon Germishuys,-0.0156,0.004,0.0196
 2023-04-22 11:40:58.974538,ISPS Handa Championship - ISPS Handa Championship - Outright,Niklas Norgaard Mller,-0.0156,0.004,0.0196
+2023-04-22 11:40:58.974538,ISPS Handa Championship - ISPS Handa Championship - Outright,Deon Germishuys,-0.0156,0.004,0.0196
 2023-04-22 16:41:02.217068,Bare Knuckle Fighting Championship - Jonny Graham vs Will Cairns - To Win the Bout,Jonny Graham,-0.015699999999999936,0.8667,0.8824
 2023-04-22 11:40:58.974538,ISPS Handa Championship - ISPS Handa Championship - Outright,Andy Sullivan,-0.0165,0.0079,0.0244
 2023-04-22 08:40:59.143828,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Newcastle United,-0.016700000000000048,0.7333,0.75
@@ -151,13 +150,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-22 08:40:58.159750,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Lionel Messi,-0.018200000000000004,0.0294,0.0476
 2023-04-22 15:40:46.045162,Boxing Lines - Laura Grzyb vs Maria Cecchi - To Win the Bout,Maria Cecchi,-0.01820000000000002,0.1818,0.2
 2023-04-22 17:40:51.740728,Bare Knuckle Fighting Championship - Anthony Holmes vs Danny Christie - To Win the Bout,Danny Christie,-0.01880000000000004,0.5556,0.5744
+2023-04-22 18:41:49.509119,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Aston Villa,-0.0189,0.0196,0.0385
+2023-04-22 18:41:49.412358,Premier League Futures/Specials - English Premier League 2022/23 - Winner without 'The Big Six',Aston Villa,-0.0189,0.0196,0.0385
 2023-04-22 08:40:58.258064,La Liga - Spain La Liga 2022/23 - To Be Relegated,Almería,-0.018900000000000028,0.4255,0.4444
 2023-04-22 08:40:59.169578,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Nottingham Forest,-0.019000000000000017,0.2667,0.2857
-2023-04-22 06:40:48.194575,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Atlanta Braves,-0.019000000000000017,0.2667,0.2857
 2023-04-22 11:40:58.974538,ISPS Handa Championship - ISPS Handa Championship - Outright,Alexander Knappe,-0.019700000000000002,0.002,0.0217
 2023-04-22 11:40:58.996736,Invited Celebrity Classic - Invited Celebrity Classic - Outright,Darren Clarke,-0.019800000000000005,0.0278,0.0476
-2023-04-22 08:40:59.195436,Premier League Futures/Specials - English Premier League 2022/23 - PFA Player of the Year 2022/23,Bukayo Saka,-0.02020000000000001,0.0909,0.1111
 2023-04-22 08:40:58.159750,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Alexandre Lacazette,-0.02020000000000001,0.0909,0.1111
+2023-04-22 08:40:59.195436,Premier League Futures/Specials - English Premier League 2022/23 - PFA Player of the Year 2022/23,Bukayo Saka,-0.02020000000000001,0.0909,0.1111
 2023-04-22 11:40:58.996736,Invited Celebrity Classic - Invited Celebrity Classic - Outright,Brian Gay,-0.0204,0.0141,0.0345
 2023-04-22 10:40:42.360349,Bare Knuckle Fighting Championship - Luke Nevin vs Franco Tenaglia - To Win the Bout,Franco Tenaglia,-0.021600000000000008,0.4329,0.4545
 2023-04-22 08:40:59.169578,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Leicester City,-0.02169999999999994,0.5238,0.5455
@@ -186,3 +186,4 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-22 13:41:01.527774,ISPS Handa Championship - 2/3 Balls - Final Round 2 Balls - T. Kanaya vs G. Forrest - Final Round 2 Balls ,Grant Forrest,-0.06930000000000003,0.4545,0.5238
 2023-04-22 11:40:58.974538,ISPS Handa Championship - ISPS Handa Championship - Outright,Jazz Janewattananond,-0.0774,0.0476,0.125
 2023-04-22 08:40:59.143828,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Liverpool,-0.08330000000000001,0.1667,0.25
+2023-04-22 18:41:49.469095,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leicester City,-0.17099999999999999,0.3846,0.5556
