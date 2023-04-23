@@ -20,17 +20,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-22 22:41:02.384262,League One - England - League One 2022/23 - To Be Promoted,Barnsley,0.021999999999999964,0.3077,0.2857
 2023-04-23 07:40:57.402830,Main Markets - Final Round 2 Balls - Moore / NeSmith v Schwab / Norrman - Final Round 2 Balls,Matthias Schwab / Vincent Norrman,0.020699999999999996,0.4651,0.4444
 2023-04-23 07:40:57.306326,Main Markets - Final Round 2 Balls - S.W. Kim / T. Kim v Taylor / Hadwin - Final Round 2 Balls ,Nick Taylor / Adam Hadwin,0.020699999999999996,0.4651,0.4444
+2023-04-23 08:41:11.737358,MLS - MLS 2023 - Winner,Seattle Sounders,0.02020000000000001,0.1111,0.0909
 2023-04-22 22:41:02.400528,League One - England - League One 2022/23 - Top 2 Finish,Plymouth Argyle,0.020199999999999996,0.9091,0.8889
 2023-04-23 07:40:57.257707,Main Markets - Final Round 2 Balls - Olesen / Hojgaard v Donald / E. Molinari - Final Round 2 Balls,Luke Donald / Edoardo Molinari,0.018900000000000028,0.4444,0.4255
 2023-04-23 05:41:28.411594,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Phoenix Suns,0.015100000000000002,0.1818,0.1667
-2023-04-22 20:40:43.735111,Elite Boxing - Gervonta Davis vs Ryan Garcia - To Win the Bout,Ryan Garcia,0.012699999999999989,0.3636,0.3509
 2023-04-23 05:41:27.544905,MLB Futures - MLB 2023 American League East - American League East Winner,New York Yankees,0.012299999999999978,0.3571,0.3448
 2023-04-23 01:40:54.068951,Main Markets - Final Round 2 Balls - M. Fitzpatrick / A. Fitzpatrick v Hoge / English - Final Round 2 Balls,Tom Hoge / Harris English,0.011600000000000055,0.5238,0.5122
 2023-04-23 07:40:57.241567,Main Markets - Final Round 2 Balls - List / Norlander v Pendrith / Gligic - Final Round 2 Balls,Taylor Pendrith / Michael Gligic,0.0116,0.4878,0.4762
 2023-04-23 07:40:57.290364,Main Markets - Final Round 2 Balls - Theegala / Suh v Spaun / Buckley - Final Round 2 Balls,J.J. Spaun / Hayden Buckley,0.0116,0.4878,0.4762
 2023-04-23 07:40:57.209077,Main Markets - Final Round 2 Balls - Perez / Detry v B. Wu / Bramlett - Final Round 2 Balls,Brandon Wu / Joseph Bramlett,0.011099999999999999,0.4762,0.4651
 2023-04-23 07:40:57.371005,Main Markets - Final Round 2 Balls - M. Fitzpatrick / A. Fitzpatrick v Hoge / English - Final Round 2 Balls,Tom Hoge / Harris English,0.01100000000000001,0.5348,0.5238
-2023-04-22 20:40:43.895329,Round Match-Ups - Final Round Match-Up - B. Koepka vs C. Smith - Final Round Match-Up,Cameron Smith,0.01100000000000001,0.5348,0.5238
 2023-04-22 21:40:49.469744,Boxing Lines - Trey Williams vs Elijah Pierce - To Win the Bout,Elijah Pierce,0.010599999999999998,0.4651,0.4545
 2023-04-23 07:40:57.338910,Main Markets - Final Round 2 Balls - Cantlay / Schauffele v Streb / Merritt - Final Round 2 Balls,Patrick Cantlay / Xander Schauffele,0.010400000000000076,0.7778,0.7674
 2023-04-22 22:41:02.392348,League One - England - League One 2022/23 - To Be Relegated,Oxford United,0.010399999999999993,0.2326,0.2222
@@ -38,7 +37,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-23 07:40:57.419115,Main Markets - Final Round 2 Balls - Im / Mitchell v Clark / Hossler - Final Round 2 Balls,Wyndham Clark / Beau Hossler,-0.010599999999999998,0.4545,0.4651
 2023-04-23 01:40:54.068951,Main Markets - Final Round 2 Balls - M. Fitzpatrick / A. Fitzpatrick v Hoge / English - Final Round 2 Balls,Matt Fitzpatrick / Alex Fitzpatrick,-0.01100000000000001,0.5238,0.5348
 2023-04-23 05:41:26.088981,NFL Draft '23 - Positional Groups - First Defensive Player Selected,Jalen Carter,-0.011099999999999999,0.1,0.1111
-2023-04-22 20:40:43.895329,Round Match-Ups - Final Round Match-Up - B. Koepka vs C. Smith - Final Round Match-Up,Brooks Koepka,-0.011600000000000055,0.5122,0.5238
 2023-04-23 07:40:57.371005,Main Markets - Final Round 2 Balls - M. Fitzpatrick / A. Fitzpatrick v Hoge / English - Final Round 2 Balls,Matt Fitzpatrick / Alex Fitzpatrick,-0.011600000000000055,0.5122,0.5238
 2023-04-22 22:40:59.707927,Elite Boxing - Gervonta Davis vs Ryan Garcia - To Win the Bout,Ryan Garcia,-0.012699999999999989,0.3509,0.3636
 2023-04-23 02:40:40.572907,Elite Boxing - Gervonta Davis vs Ryan Garcia - To Win the Bout,Ryan Garcia,-0.013800000000000034,0.3636,0.3774
@@ -48,6 +46,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-23 05:41:28.411594,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Memphis Grizzlies,-0.017100000000000004,0.0152,0.0323
 2023-04-23 05:41:28.394808,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Clippers,-0.017599999999999998,0.002,0.0196
 2023-04-23 07:40:57.209077,Main Markets - Final Round 2 Balls - Perez / Detry v B. Wu / Bramlett - Final Round 2 Balls,Vitor Perez / Thomas Detry,-0.018100000000000005,0.5652,0.5833
+2023-04-23 08:41:11.737358,MLS - MLS 2023 - Winner,Los Angeles FC,-0.01820000000000002,0.1818,0.2
 2023-04-23 00:40:53.369084,Elite Boxing - Gervonta Davis vs Ryan Garcia - To Win the Bout,Gervonta Davis,-0.020199999999999996,0.6721,0.6923
 2023-04-23 05:41:27.544905,MLB Futures - MLB 2023 American League East - American League East Winner,Toronto Blue Jays,-0.020299999999999985,0.25,0.2703
 2023-04-23 05:41:27.504474,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,-0.02169999999999994,0.5238,0.5455
