@@ -11,8 +11,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-23 11:42:51.221101,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Outright Winner 2023,Sweden,0.05449999999999999,0.6,0.5455
 2023-04-23 18:41:24.142488,MLB Futures - MLB 2023 National League West - National League West Winner,Los Angeles Dodgers,0.045499999999999985,0.5455,0.5
 2023-04-23 10:41:18.676295,League Two - England - League Two 2022/23 - To Be Promoted,Mansfield Town,0.044499999999999984,0.2667,0.2222
-2023-04-23 07:40:57.387045,Main Markets - Final Round 2 Balls - Riley / Hardy v Matthews / O'Hair - Final Round 2 Balls,Brandon Matthews / Sean O'Hair,0.0393,0.4167,0.3774
-2023-04-23 07:40:57.354683,Main Markets - Final Round 2 Balls - Horschel / Burns v Ramey / Trainer - Final Round 2 Balls,Chad Ramey / Martin Trainer,0.03839999999999999,0.3774,0.339
 2023-04-23 18:41:24.127010,MLB Futures - MLB 2023 National League East - National League East Winner,Atlanta Braves,0.03710000000000002,0.6923,0.6552
 2023-04-23 10:41:18.454570,Allsvenskan - Allsvenskan 2023 - Winner,Malmö FF,0.03640000000000004,0.4,0.3636
 2023-04-23 10:41:17.886024,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Fluminense,0.033300000000000024,0.2,0.1667
@@ -22,10 +20,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-23 18:41:24.035767,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Los Angeles Dodgers,0.028700000000000003,0.2105,0.1818
 2023-04-23 10:41:16.089774,Invited Celebrity Classic - Invited Celebrity Classic - Outright,Scott McCarron,0.0244,0.0323,0.0079
 2023-04-23 10:41:18.676295,League Two - England - League Two 2022/23 - To Be Promoted,Carlisle United,0.021999999999999964,0.3077,0.2857
-2023-04-23 07:40:57.306326,Main Markets - Final Round 2 Balls - S.W. Kim / T. Kim v Taylor / Hadwin - Final Round 2 Balls ,Nick Taylor / Adam Hadwin,0.020699999999999996,0.4651,0.4444
-2023-04-23 07:40:57.402830,Main Markets - Final Round 2 Balls - Moore / NeSmith v Schwab / Norrman - Final Round 2 Balls,Matthias Schwab / Vincent Norrman,0.020699999999999996,0.4651,0.4444
 2023-04-23 08:41:11.737358,MLS - MLS 2023 - Winner,Seattle Sounders,0.02020000000000001,0.1111,0.0909
-2023-04-23 07:40:57.257707,Main Markets - Final Round 2 Balls - Olesen / Hojgaard v Donald / E. Molinari - Final Round 2 Balls,Luke Donald / Edoardo Molinari,0.018900000000000028,0.4444,0.4255
 2023-04-23 18:41:24.013309,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Tampa Bay Rays,0.01820000000000002,0.2,0.1818
 2023-04-23 11:42:51.232808,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Aline Wirley,0.016600000000000004,0.0833,0.0667
 2023-04-23 17:40:57.088881,Z_Fury FC - Kolton Englund vs Nick Compton - To Win the Bout,Nick Compton,0.016500000000000015,0.2,0.1835
@@ -35,42 +30,33 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-23 10:41:18.519433,Superettan - Superettan 2023 - Winner,GAIS,0.013999999999999999,0.0909,0.0769
 2023-04-23 10:41:18.454570,Allsvenskan - Allsvenskan 2023 - Winner,Hammarby IF,0.012899999999999995,0.1667,0.1538
 2023-04-23 10:41:17.982758,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,CF Monterrey,0.012699999999999989,0.3636,0.3509
-2023-04-23 07:40:57.290364,Main Markets - Final Round 2 Balls - Theegala / Suh v Spaun / Buckley - Final Round 2 Balls,J.J. Spaun / Hayden Buckley,0.0116,0.4878,0.4762
 2023-04-23 10:41:16.089774,Invited Celebrity Classic - Invited Celebrity Classic - Outright,Wes Short Jr,0.0116,0.0141,0.0025
-2023-04-23 07:40:57.241567,Main Markets - Final Round 2 Balls - List / Norlander v Pendrith / Gligic - Final Round 2 Balls,Taylor Pendrith / Michael Gligic,0.0116,0.4878,0.4762
 2023-04-23 10:41:16.089774,Invited Celebrity Classic - Invited Celebrity Classic - Outright,Cameron Beckman,0.0113,0.0141,0.0028
 2023-04-23 15:41:03.077805,Z_Fury FC - Jacob Silva vs Jose Ceja - To Win the Bout,Jacob Silva,0.011200000000000099,0.8403,0.8291
-2023-04-23 07:40:57.209077,Main Markets - Final Round 2 Balls - Perez / Detry v B. Wu / Bramlett - Final Round 2 Balls,Brandon Wu / Joseph Bramlett,0.011099999999999999,0.4762,0.4651
-2023-04-23 07:40:57.371005,Main Markets - Final Round 2 Balls - M. Fitzpatrick / A. Fitzpatrick v Hoge / English - Final Round 2 Balls,Tom Hoge / Harris English,0.01100000000000001,0.5348,0.5238
 2023-04-23 10:41:18.676295,League Two - England - League Two 2022/23 - To Be Promoted,Salford City,0.010899999999999993,0.1538,0.1429
 2023-04-23 10:41:17.982758,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Chivas Guadalajara,0.010899999999999993,0.1538,0.1429
 2023-04-23 10:41:16.089774,Invited Celebrity Classic - Invited Celebrity Classic - Outright,Dicky Pride,0.010700000000000001,0.0385,0.0278
 2023-04-23 13:40:51.245170,Round Match-Ups - Final Round Match-Up - Lipsky / Rai v Duncan / Lebioda - Final Round Match-Up,David Lipsky / Aaron Rai,0.010699999999999932,0.5455,0.5348
-2023-04-23 13:40:51.252909,Round Match-Ups - Final Round Match-Up - Ryder / Redman v List / Norlander - Final Round Match-Up,Sam Ryder / Doc Redman,0.010699999999999932,0.5455,0.5348
 2023-04-23 13:40:51.268259,Round Match-Ups - Final Round Match-Up - M. Fitzpatrick / A. Fitzpatrick v Wu / Bramlett - Final Round Match-Up,Matt Fitzpatrick / Alex Fitzpatrick,0.010699999999999932,0.5455,0.5348
 2023-04-23 12:41:24.869195,Main Markets - Final Round 2 Balls - M. Fitzpatrick / A. Fitzpatrick v Hoge / English - Final Round 2 Balls,Tom Hoge / Harris English,0.010699999999999932,0.5455,0.5348
-2023-04-23 07:40:57.338910,Main Markets - Final Round 2 Balls - Cantlay / Schauffele v Streb / Merritt - Final Round 2 Balls,Patrick Cantlay / Xander Schauffele,0.010400000000000076,0.7778,0.7674
+2023-04-23 13:40:51.252909,Round Match-Ups - Final Round Match-Up - Ryder / Redman v List / Norlander - Final Round Match-Up,Sam Ryder / Doc Redman,0.010699999999999932,0.5455,0.5348
 2023-04-23 18:41:24.066734,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,0.010099999999999998,0.4545,0.4444
-2023-04-23 07:40:57.322663,Main Markets - Final Round 2 Balls - An / S.H. Kim v Rooyen / Daffue - Final Round 2 Balls,Erik Van Rooyen / MJ Daffue,0.010099999999999998,0.4545,0.4444
 2023-04-23 14:41:16.198067,Round Match-Ups - Final Round Match-Up - M. Fitzpatrick / A. Fitzpatrick v Wu / Bramlett - Final Round Match-Up,Matt Fitzpatrick / Alex Fitzpatrick,0.010099999999999998,0.5556,0.5455
 2023-04-23 14:41:16.348730,Round Match-Ups - Final Round Match-Up - Schwab / Norrman vs Matthews / O'Hair - Final Round Match-Up,Matthias Schwab / Vincent Norrman,0.010099999999999998,0.5556,0.5455
-2023-04-23 07:40:57.419115,Main Markets - Final Round 2 Balls - Im / Mitchell v Clark / Hossler - Final Round 2 Balls,Wyndham Clark / Beau Hossler,-0.010599999999999998,0.4545,0.4651
 2023-04-23 18:41:24.142488,MLB Futures - MLB 2023 National League West - National League West Winner,San Diego Padres,-0.010599999999999998,0.4545,0.4651
 2023-04-23 15:41:03.077805,Z_Fury FC - Jacob Silva vs Jose Ceja - To Win the Bout,Jose Ceja,-0.010800000000000004,0.2273,0.2381
 2023-04-23 10:41:17.982758,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Cruz Azul,-0.011199999999999995,0.0476,0.0588
-2023-04-23 07:40:57.371005,Main Markets - Final Round 2 Balls - M. Fitzpatrick / A. Fitzpatrick v Hoge / English - Final Round 2 Balls,Matt Fitzpatrick / Alex Fitzpatrick,-0.011600000000000055,0.5122,0.5238
-2023-04-23 12:41:24.869195,Main Markets - Final Round 2 Balls - M. Fitzpatrick / A. Fitzpatrick v Hoge / English - Final Round 2 Balls,Matt Fitzpatrick / Alex Fitzpatrick,-0.012199999999999989,0.5,0.5122
-2023-04-23 14:41:16.198067,Round Match-Ups - Final Round Match-Up - M. Fitzpatrick / A. Fitzpatrick v Wu / Bramlett - Final Round Match-Up,Brandon Wu / Joseph Bramlett,-0.012199999999999989,0.4878,0.5
 2023-04-23 13:40:51.252909,Round Match-Ups - Final Round Match-Up - Ryder / Redman v List / Norlander - Final Round Match-Up,Luke List / Henrik Norlander,-0.012199999999999989,0.5,0.5122
-2023-04-23 14:41:16.348730,Round Match-Ups - Final Round Match-Up - Schwab / Norrman vs Matthews / O'Hair - Final Round Match-Up,Brandon Matthews / Sean O'Hair,-0.012199999999999989,0.4878,0.5
+2023-04-23 14:41:16.198067,Round Match-Ups - Final Round Match-Up - M. Fitzpatrick / A. Fitzpatrick v Wu / Bramlett - Final Round Match-Up,Brandon Wu / Joseph Bramlett,-0.012199999999999989,0.4878,0.5
 2023-04-23 13:40:51.268259,Round Match-Ups - Final Round Match-Up - M. Fitzpatrick / A. Fitzpatrick v Wu / Bramlett - Final Round Match-Up,Brandon Wu / Joseph Bramlett,-0.012199999999999989,0.5,0.5122
 2023-04-23 13:40:51.245170,Round Match-Ups - Final Round Match-Up - Lipsky / Rai v Duncan / Lebioda - Final Round Match-Up,Tyler Duncan / Hank Lebioda,-0.012199999999999989,0.5,0.5122
+2023-04-23 14:41:16.348730,Round Match-Ups - Final Round Match-Up - Schwab / Norrman vs Matthews / O'Hair - Final Round Match-Up,Brandon Matthews / Sean O'Hair,-0.012199999999999989,0.4878,0.5
+2023-04-23 12:41:24.869195,Main Markets - Final Round 2 Balls - M. Fitzpatrick / A. Fitzpatrick v Hoge / English - Final Round 2 Balls,Matt Fitzpatrick / Alex Fitzpatrick,-0.012199999999999989,0.5,0.5122
 2023-04-23 10:41:18.454570,Allsvenskan - Allsvenskan 2023 - Winner,IFK Norrköping,-0.0131,0.0345,0.0476
 2023-04-23 10:41:18.454570,Allsvenskan - Allsvenskan 2023 - Winner,AIK,-0.013999999999999999,0.0769,0.0909
 2023-04-23 10:41:18.519433,Superettan - Superettan 2023 - Winner,Helsingborgs IF,-0.013999999999999999,0.0769,0.0909
 2023-04-23 18:41:24.013309,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Cleveland Guardians,-0.014399999999999996,0.0625,0.0769
 2023-04-23 10:41:16.089774,Invited Celebrity Classic - Invited Celebrity Classic - Outright,Justin Leonard,-0.014599999999999998,0.005,0.0196
-2023-04-23 07:40:57.338910,Main Markets - Final Round 2 Balls - Cantlay / Schauffele v Streb / Merritt - Final Round 2 Balls,Robert Streb / Troy Merritt,-0.014600000000000002,0.2632,0.2778
 2023-04-23 18:41:24.066734,MLB Futures - MLB 2023 American League East - American League East Winner,Toronto Blue Jays,-0.01469999999999999,0.2353,0.25
 2023-04-23 10:41:16.089774,Invited Celebrity Classic - Invited Celebrity Classic - Outright,Richard Green,-0.0151,0.0066,0.0217
 2023-04-23 10:41:18.345166,Super League - Greece Super League 2022/23 - Winner,Olympiakos,-0.015100000000000002,0.1667,0.1818
@@ -79,12 +65,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-23 18:41:23.997012,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,St. Louis Cardinals,-0.015300000000000001,0.0323,0.0476
 2023-04-23 10:41:16.089774,Invited Celebrity Classic - Invited Celebrity Classic - Outright,Bob Estes,-0.0156,0.004,0.0196
 2023-04-23 11:42:51.297526,Box Office Specials - Highest Worldwide Box Office 2023 - Highest Worldwide Box Office Ranking For 2023,Creed III,-0.0159,0.0164,0.0323
-2023-04-23 07:40:57.306326,Main Markets - Final Round 2 Balls - S.W. Kim / T. Kim v Taylor / Hadwin - Final Round 2 Balls ,Si Woo Kim / Tom Kim,-0.016699999999999937,0.5833,0.6
 2023-04-23 18:41:24.050614,MLB Futures - MLB 2023 American League Central - American League Central Winner,Cleveland Guardians,-0.017299999999999982,0.4082,0.4255
 2023-04-23 17:40:57.088881,Z_Fury FC - Kolton Englund vs Nick Compton - To Win the Bout,Kolton Englund,-0.017900000000000027,0.8571,0.875
-2023-04-23 07:40:57.209077,Main Markets - Final Round 2 Balls - Perez / Detry v B. Wu / Bramlett - Final Round 2 Balls,Vitor Perez / Thomas Detry,-0.018100000000000005,0.5652,0.5833
-2023-04-23 08:41:11.737358,MLS - MLS 2023 - Winner,Los Angeles FC,-0.01820000000000002,0.1818,0.2
 2023-04-23 09:41:07.875663,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Milwaukee Bucks,-0.01820000000000002,0.1818,0.2
+2023-04-23 08:41:11.737358,MLS - MLS 2023 - Winner,Los Angeles FC,-0.01820000000000002,0.1818,0.2
 2023-04-23 18:41:24.127010,MLB Futures - MLB 2023 National League East - National League East Winner,Miami Marlins,-0.0189,0.0196,0.0385
 2023-04-23 10:41:17.886024,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Grêmio,-0.0203,0.0385,0.0588
 2023-04-23 18:41:24.013309,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Toronto Blue Jays,-0.02049999999999999,0.1333,0.1538
@@ -93,7 +77,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-23 10:41:17.886024,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Flamengo,-0.021999999999999964,0.2857,0.3077
 2023-04-23 10:41:16.089774,Invited Celebrity Classic - Invited Celebrity Classic - Outright,Ken Tanigawa,-0.022099999999999998,0.0057,0.0278
 2023-04-23 10:41:17.982758,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Club América,-0.022199999999999998,0.2,0.2222
-2023-04-23 07:40:57.257707,Main Markets - Final Round 2 Balls - Olesen / Hojgaard v Donald / E. Molinari - Final Round 2 Balls,Thorbjorn Olesen / Nicolai Hojgaard,-0.022600000000000064,0.6,0.6226
 2023-04-23 10:41:16.089774,Invited Celebrity Classic - Invited Celebrity Classic - Outright,Ye Yang,-0.0244,0.0079,0.0323
 2023-04-23 10:41:16.089774,Invited Celebrity Classic - Invited Celebrity Classic - Outright,Scott Parel,-0.024499999999999997,0.0033,0.0278
 2023-04-23 18:41:24.112047,MLB Futures - MLB 2023 National League Central - National League Central Winner,St. Louis Cardinals,-0.02560000000000001,0.3077,0.3333
@@ -104,10 +87,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-23 10:41:16.089774,Invited Celebrity Classic - Invited Celebrity Classic - Outright,Harrison Frazar,-0.0335,0.005,0.0385
 2023-04-23 11:42:51.297526,Box Office Specials - Highest Worldwide Box Office 2023 - Highest Worldwide Box Office Ranking For 2023,Mission: Impossible - Dead Reckoning Part One,-0.034100000000000005,0.0909,0.125
 2023-04-23 09:41:07.875663,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Boston Celtics,-0.0363,0.2667,0.303
-2023-04-23 07:40:57.387045,Main Markets - Final Round 2 Balls - Riley / Hardy v Matthews / O'Hair - Final Round 2 Balls,Davis Riley / Nick Hardy,-0.03709999999999991,0.6296,0.6667
 2023-04-23 18:41:24.127010,MLB Futures - MLB 2023 National League East - National League East Winner,New York Mets,-0.03710000000000002,0.3077,0.3448
-2023-04-23 07:40:57.354683,Main Markets - Final Round 2 Balls - Horschel / Burns v Ramey / Trainer - Final Round 2 Balls,Billy Horschel / Sam Burns,-0.03920000000000001,0.6667,0.7059
-2023-04-23 07:40:57.402830,Main Markets - Final Round 2 Balls - Moore / NeSmith v Schwab / Norrman - Final Round 2 Balls,Taylor Moore / Matthew NeSmith,-0.0393,0.5833,0.6226
 2023-04-23 11:42:51.297526,Box Office Specials - Highest Worldwide Box Office 2023 - Highest Worldwide Box Office Ranking For 2023,Ant-Man and the Wasp: Quantumania,-0.04239999999999999,0.0164,0.0588
 2023-04-23 10:41:16.089774,Invited Celebrity Classic - Invited Celebrity Classic - Outright,Rob Labritz,-0.0489,0.0099,0.0588
 2023-04-23 10:41:16.089774,Invited Celebrity Classic - Invited Celebrity Classic - Outright,Rod Pampling,-0.0506,0.002,0.0526
