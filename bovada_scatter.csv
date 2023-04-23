@@ -10,6 +10,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-22 22:41:02.400528,League One - England - League One 2022/23 - Top 2 Finish,Ipswich Town,0.03410000000000002,0.9091,0.875
 2023-04-22 18:41:49.469095,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Nottingham Forest,0.033299999999999996,0.8333,0.8
 2023-04-22 16:41:02.176050,Bare Knuckle Fighting Championship - Arron Blakey vs Naff Higson - To Win the Bout,Naff Higson,0.026600000000000013,0.4348,0.4082
+2023-04-23 00:40:53.369084,Elite Boxing - Gervonta Davis vs Ryan Garcia - To Win the Bout,Ryan Garcia,0.026500000000000024,0.3774,0.3509
 2023-04-22 22:41:02.034832,FA Cup - FA Cup 2022/2023 - Winner,Manchester City,0.025600000000000067,0.6923,0.6667
 2023-04-22 18:41:49.469095,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Bournemouth,0.0245,0.0833,0.0588
 2023-04-22 17:40:51.740728,Bare Knuckle Fighting Championship - Anthony Holmes vs Danny Christie - To Win the Bout,Anthony Holmes,0.024399999999999977,0.5122,0.4878
@@ -29,8 +30,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-22 21:40:49.469744,Boxing Lines - Trey Williams vs Elijah Pierce - To Win the Bout,Elijah Pierce,0.010599999999999998,0.4651,0.4545
 2023-04-22 22:41:02.392348,League One - England - League One 2022/23 - To Be Relegated,Oxford United,0.010399999999999993,0.2326,0.2222
 2023-04-22 14:40:51.311689,Main Markets - Final Round 3 Balls - P. Reed / S. Garcia / G. McDowell - Final Round 3 Balls ,Graeme McDowell,0.010399999999999993,0.2326,0.2222
-2023-04-22 16:41:03.849629,NBA Daily Specials - Daily Leaders - Saturday 22nd April - Top Scorer,Anthony Davis (LAL),0.0102,0.0769,0.0667
 2023-04-22 16:41:03.849629,NBA Daily Specials - Daily Leaders - Saturday 22nd April - Top Scorer,Tyrese Maxey (PHI),0.0102,0.0769,0.0667
+2023-04-22 16:41:03.849629,NBA Daily Specials - Daily Leaders - Saturday 22nd April - Top Scorer,Anthony Davis (LAL),0.0102,0.0769,0.0667
 2023-04-22 15:40:46.151042,Boxing Lines - Trey Williams vs Elijah Pierce - To Win the Bout,Elijah Pierce,0.010099999999999998,0.4545,0.4444
 2023-04-22 18:41:42.395014,Boxing Lines - Fiodor Czerkaszyn vs Elias Espadas - To Win the Bout,Elias Espadas,-0.0102,0.0667,0.0769
 2023-04-22 14:40:51.311689,Main Markets - Final Round 3 Balls - P. Reed / S. Garcia / G. McDowell - Final Round 3 Balls ,Patrick Reed,-0.011099999999999999,0.4651,0.4762
@@ -47,6 +48,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-22 17:40:51.740728,Bare Knuckle Fighting Championship - Anthony Holmes vs Danny Christie - To Win the Bout,Danny Christie,-0.01880000000000004,0.5556,0.5744
 2023-04-22 18:41:49.509119,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Aston Villa,-0.0189,0.0196,0.0385
 2023-04-22 18:41:49.412358,Premier League Futures/Specials - English Premier League 2022/23 - Winner without 'The Big Six',Aston Villa,-0.0189,0.0196,0.0385
+2023-04-23 00:40:53.369084,Elite Boxing - Gervonta Davis vs Ryan Garcia - To Win the Bout,Gervonta Davis,-0.020199999999999996,0.6721,0.6923
 2023-04-22 16:41:02.176050,Bare Knuckle Fighting Championship - Arron Blakey vs Naff Higson - To Win the Bout,Arron Blakey,-0.025599999999999956,0.6296,0.6552
 2023-04-22 15:40:46.316671,Bare Knuckle Fighting Championship - Luke Nevin vs Franco Tenaglia - To Win the Bout,Luke Nevin,-0.033399999999999985,0.5744,0.6078
 2023-04-22 16:41:02.268018,Bare Knuckle Fighting Championship - Anthony Holmes vs Danny Christie - To Win the Bout,Anthony Holmes,-0.06779999999999997,0.4878,0.5556
