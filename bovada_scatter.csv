@@ -1,6 +1,8 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2023-04-24 01:40:42.729369,FA Cup - FA Cup 2022/2023 - Winner,Manchester United,0.0799,0.3125,0.2326
 2023-04-23 18:41:24.083036,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,0.07619999999999993,0.6,0.5238
 2023-04-23 18:41:24.142488,MLB Futures - MLB 2023 National League West - National League West Winner,Los Angeles Dodgers,0.045499999999999985,0.5455,0.5
+2023-04-24 01:40:42.729369,FA Cup - FA Cup 2022/2023 - Winner,Manchester City,0.040999999999999925,0.7333,0.6923
 2023-04-23 18:41:24.127010,MLB Futures - MLB 2023 National League East - National League East Winner,Atlanta Braves,0.03710000000000002,0.6923,0.6552
 2023-04-23 18:41:24.050614,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,0.03179999999999994,0.5556,0.5238
 2023-04-23 18:41:24.013309,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Houston Astros,0.031700000000000006,0.2222,0.1905
@@ -9,21 +11,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-23 17:40:57.088881,Z_Fury FC - Kolton Englund vs Nick Compton - To Win the Bout,Nick Compton,0.016500000000000015,0.2,0.1835
 2023-04-23 18:41:24.112047,MLB Futures - MLB 2023 National League Central - National League Central Winner,Pittsburgh Pirates,0.014899999999999997,0.0625,0.0476
 2023-04-23 15:41:03.077805,Z_Fury FC - Jacob Silva vs Jose Ceja - To Win the Bout,Jacob Silva,0.011200000000000099,0.8403,0.8291
-2023-04-23 13:40:51.252909,Round Match-Ups - Final Round Match-Up - Ryder / Redman v List / Norlander - Final Round Match-Up,Sam Ryder / Doc Redman,0.010699999999999932,0.5455,0.5348
 2023-04-23 13:40:51.245170,Round Match-Ups - Final Round Match-Up - Lipsky / Rai v Duncan / Lebioda - Final Round Match-Up,David Lipsky / Aaron Rai,0.010699999999999932,0.5455,0.5348
-2023-04-23 12:41:24.869195,Main Markets - Final Round 2 Balls - M. Fitzpatrick / A. Fitzpatrick v Hoge / English - Final Round 2 Balls,Tom Hoge / Harris English,0.010699999999999932,0.5455,0.5348
 2023-04-23 13:40:51.268259,Round Match-Ups - Final Round Match-Up - M. Fitzpatrick / A. Fitzpatrick v Wu / Bramlett - Final Round Match-Up,Matt Fitzpatrick / Alex Fitzpatrick,0.010699999999999932,0.5455,0.5348
-2023-04-23 14:41:16.198067,Round Match-Ups - Final Round Match-Up - M. Fitzpatrick / A. Fitzpatrick v Wu / Bramlett - Final Round Match-Up,Matt Fitzpatrick / Alex Fitzpatrick,0.010099999999999998,0.5556,0.5455
+2023-04-23 13:40:51.252909,Round Match-Ups - Final Round Match-Up - Ryder / Redman v List / Norlander - Final Round Match-Up,Sam Ryder / Doc Redman,0.010699999999999932,0.5455,0.5348
 2023-04-23 14:41:16.348730,Round Match-Ups - Final Round Match-Up - Schwab / Norrman vs Matthews / O'Hair - Final Round Match-Up,Matthias Schwab / Vincent Norrman,0.010099999999999998,0.5556,0.5455
 2023-04-23 18:41:24.066734,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,0.010099999999999998,0.4545,0.4444
+2023-04-23 14:41:16.198067,Round Match-Ups - Final Round Match-Up - M. Fitzpatrick / A. Fitzpatrick v Wu / Bramlett - Final Round Match-Up,Matt Fitzpatrick / Alex Fitzpatrick,0.010099999999999998,0.5556,0.5455
 2023-04-23 18:41:24.142488,MLB Futures - MLB 2023 National League West - National League West Winner,San Diego Padres,-0.010599999999999998,0.4545,0.4651
 2023-04-23 15:41:03.077805,Z_Fury FC - Jacob Silva vs Jose Ceja - To Win the Bout,Jose Ceja,-0.010800000000000004,0.2273,0.2381
 2023-04-23 14:41:16.198067,Round Match-Ups - Final Round Match-Up - M. Fitzpatrick / A. Fitzpatrick v Wu / Bramlett - Final Round Match-Up,Brandon Wu / Joseph Bramlett,-0.012199999999999989,0.4878,0.5
-2023-04-23 13:40:51.252909,Round Match-Ups - Final Round Match-Up - Ryder / Redman v List / Norlander - Final Round Match-Up,Luke List / Henrik Norlander,-0.012199999999999989,0.5,0.5122
-2023-04-23 12:41:24.869195,Main Markets - Final Round 2 Balls - M. Fitzpatrick / A. Fitzpatrick v Hoge / English - Final Round 2 Balls,Matt Fitzpatrick / Alex Fitzpatrick,-0.012199999999999989,0.5,0.5122
-2023-04-23 14:41:16.348730,Round Match-Ups - Final Round Match-Up - Schwab / Norrman vs Matthews / O'Hair - Final Round Match-Up,Brandon Matthews / Sean O'Hair,-0.012199999999999989,0.4878,0.5
-2023-04-23 13:40:51.245170,Round Match-Ups - Final Round Match-Up - Lipsky / Rai v Duncan / Lebioda - Final Round Match-Up,Tyler Duncan / Hank Lebioda,-0.012199999999999989,0.5,0.5122
 2023-04-23 13:40:51.268259,Round Match-Ups - Final Round Match-Up - M. Fitzpatrick / A. Fitzpatrick v Wu / Bramlett - Final Round Match-Up,Brandon Wu / Joseph Bramlett,-0.012199999999999989,0.5,0.5122
+2023-04-23 13:40:51.245170,Round Match-Ups - Final Round Match-Up - Lipsky / Rai v Duncan / Lebioda - Final Round Match-Up,Tyler Duncan / Hank Lebioda,-0.012199999999999989,0.5,0.5122
+2023-04-23 14:41:16.348730,Round Match-Ups - Final Round Match-Up - Schwab / Norrman vs Matthews / O'Hair - Final Round Match-Up,Brandon Matthews / Sean O'Hair,-0.012199999999999989,0.4878,0.5
+2023-04-23 13:40:51.252909,Round Match-Ups - Final Round Match-Up - Ryder / Redman v List / Norlander - Final Round Match-Up,Luke List / Henrik Norlander,-0.012199999999999989,0.5,0.5122
 2023-04-23 18:41:24.013309,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Cleveland Guardians,-0.014399999999999996,0.0625,0.0769
 2023-04-23 18:41:24.066734,MLB Futures - MLB 2023 American League East - American League East Winner,Toronto Blue Jays,-0.01469999999999999,0.2353,0.25
 2023-04-23 18:41:24.083036,MLB Futures - MLB 2023 American League West - American League West Winner,Los Angeles Angels,-0.015100000000000002,0.1667,0.1818
