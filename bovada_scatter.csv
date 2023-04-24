@@ -1,52 +1,40 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2023-04-23 11:42:51.297526,Box Office Specials - Highest Worldwide Box Office 2023 - Highest Worldwide Box Office Ranking For 2023,The Super Mario Bros. Movie,0.41419999999999996,0.6364,0.2222
 2023-04-23 18:41:24.083036,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,0.07619999999999993,0.6,0.5238
-2023-04-23 11:42:51.221101,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Outright Winner 2023,Sweden,0.05449999999999999,0.6,0.5455
 2023-04-23 18:41:24.142488,MLB Futures - MLB 2023 National League West - National League West Winner,Los Angeles Dodgers,0.045499999999999985,0.5455,0.5
 2023-04-23 18:41:24.127010,MLB Futures - MLB 2023 National League East - National League East Winner,Atlanta Braves,0.03710000000000002,0.6923,0.6552
 2023-04-23 18:41:24.050614,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,0.03179999999999994,0.5556,0.5238
 2023-04-23 18:41:24.013309,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Houston Astros,0.031700000000000006,0.2222,0.1905
 2023-04-23 18:41:24.035767,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Los Angeles Dodgers,0.028700000000000003,0.2105,0.1818
 2023-04-23 18:41:24.013309,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Tampa Bay Rays,0.01820000000000002,0.2,0.1818
-2023-04-23 11:42:51.232808,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Aline Wirley,0.016600000000000004,0.0833,0.0667
 2023-04-23 17:40:57.088881,Z_Fury FC - Kolton Englund vs Nick Compton - To Win the Bout,Nick Compton,0.016500000000000015,0.2,0.1835
 2023-04-23 18:41:24.112047,MLB Futures - MLB 2023 National League Central - National League Central Winner,Pittsburgh Pirates,0.014899999999999997,0.0625,0.0476
-2023-04-23 11:42:51.391540,Royal Family - Coronation: Specials - Coronation: Specials,Royal state coach to be hit with eggs during procession from Westminster Abbey,0.014899999999999997,0.0625,0.0476
 2023-04-23 15:41:03.077805,Z_Fury FC - Jacob Silva vs Jose Ceja - To Win the Bout,Jacob Silva,0.011200000000000099,0.8403,0.8291
 2023-04-23 13:40:51.252909,Round Match-Ups - Final Round Match-Up - Ryder / Redman v List / Norlander - Final Round Match-Up,Sam Ryder / Doc Redman,0.010699999999999932,0.5455,0.5348
-2023-04-23 13:40:51.268259,Round Match-Ups - Final Round Match-Up - M. Fitzpatrick / A. Fitzpatrick v Wu / Bramlett - Final Round Match-Up,Matt Fitzpatrick / Alex Fitzpatrick,0.010699999999999932,0.5455,0.5348
 2023-04-23 13:40:51.245170,Round Match-Ups - Final Round Match-Up - Lipsky / Rai v Duncan / Lebioda - Final Round Match-Up,David Lipsky / Aaron Rai,0.010699999999999932,0.5455,0.5348
 2023-04-23 12:41:24.869195,Main Markets - Final Round 2 Balls - M. Fitzpatrick / A. Fitzpatrick v Hoge / English - Final Round 2 Balls,Tom Hoge / Harris English,0.010699999999999932,0.5455,0.5348
-2023-04-23 18:41:24.066734,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,0.010099999999999998,0.4545,0.4444
-2023-04-23 14:41:16.348730,Round Match-Ups - Final Round Match-Up - Schwab / Norrman vs Matthews / O'Hair - Final Round Match-Up,Matthias Schwab / Vincent Norrman,0.010099999999999998,0.5556,0.5455
+2023-04-23 13:40:51.268259,Round Match-Ups - Final Round Match-Up - M. Fitzpatrick / A. Fitzpatrick v Wu / Bramlett - Final Round Match-Up,Matt Fitzpatrick / Alex Fitzpatrick,0.010699999999999932,0.5455,0.5348
 2023-04-23 14:41:16.198067,Round Match-Ups - Final Round Match-Up - M. Fitzpatrick / A. Fitzpatrick v Wu / Bramlett - Final Round Match-Up,Matt Fitzpatrick / Alex Fitzpatrick,0.010099999999999998,0.5556,0.5455
+2023-04-23 14:41:16.348730,Round Match-Ups - Final Round Match-Up - Schwab / Norrman vs Matthews / O'Hair - Final Round Match-Up,Matthias Schwab / Vincent Norrman,0.010099999999999998,0.5556,0.5455
+2023-04-23 18:41:24.066734,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,0.010099999999999998,0.4545,0.4444
 2023-04-23 18:41:24.142488,MLB Futures - MLB 2023 National League West - National League West Winner,San Diego Padres,-0.010599999999999998,0.4545,0.4651
 2023-04-23 15:41:03.077805,Z_Fury FC - Jacob Silva vs Jose Ceja - To Win the Bout,Jose Ceja,-0.010800000000000004,0.2273,0.2381
-2023-04-23 13:40:51.268259,Round Match-Ups - Final Round Match-Up - M. Fitzpatrick / A. Fitzpatrick v Wu / Bramlett - Final Round Match-Up,Brandon Wu / Joseph Bramlett,-0.012199999999999989,0.5,0.5122
-2023-04-23 14:41:16.348730,Round Match-Ups - Final Round Match-Up - Schwab / Norrman vs Matthews / O'Hair - Final Round Match-Up,Brandon Matthews / Sean O'Hair,-0.012199999999999989,0.4878,0.5
+2023-04-23 14:41:16.198067,Round Match-Ups - Final Round Match-Up - M. Fitzpatrick / A. Fitzpatrick v Wu / Bramlett - Final Round Match-Up,Brandon Wu / Joseph Bramlett,-0.012199999999999989,0.4878,0.5
 2023-04-23 13:40:51.252909,Round Match-Ups - Final Round Match-Up - Ryder / Redman v List / Norlander - Final Round Match-Up,Luke List / Henrik Norlander,-0.012199999999999989,0.5,0.5122
 2023-04-23 12:41:24.869195,Main Markets - Final Round 2 Balls - M. Fitzpatrick / A. Fitzpatrick v Hoge / English - Final Round 2 Balls,Matt Fitzpatrick / Alex Fitzpatrick,-0.012199999999999989,0.5,0.5122
-2023-04-23 14:41:16.198067,Round Match-Ups - Final Round Match-Up - M. Fitzpatrick / A. Fitzpatrick v Wu / Bramlett - Final Round Match-Up,Brandon Wu / Joseph Bramlett,-0.012199999999999989,0.4878,0.5
+2023-04-23 14:41:16.348730,Round Match-Ups - Final Round Match-Up - Schwab / Norrman vs Matthews / O'Hair - Final Round Match-Up,Brandon Matthews / Sean O'Hair,-0.012199999999999989,0.4878,0.5
 2023-04-23 13:40:51.245170,Round Match-Ups - Final Round Match-Up - Lipsky / Rai v Duncan / Lebioda - Final Round Match-Up,Tyler Duncan / Hank Lebioda,-0.012199999999999989,0.5,0.5122
+2023-04-23 13:40:51.268259,Round Match-Ups - Final Round Match-Up - M. Fitzpatrick / A. Fitzpatrick v Wu / Bramlett - Final Round Match-Up,Brandon Wu / Joseph Bramlett,-0.012199999999999989,0.5,0.5122
 2023-04-23 18:41:24.013309,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Cleveland Guardians,-0.014399999999999996,0.0625,0.0769
 2023-04-23 18:41:24.066734,MLB Futures - MLB 2023 American League East - American League East Winner,Toronto Blue Jays,-0.01469999999999999,0.2353,0.25
 2023-04-23 18:41:24.083036,MLB Futures - MLB 2023 American League West - American League West Winner,Los Angeles Angels,-0.015100000000000002,0.1667,0.1818
 2023-04-23 18:41:24.083036,MLB Futures - MLB 2023 American League West - American League West Winner,Seattle Mariners,-0.015100000000000002,0.1667,0.1818
 2023-04-23 18:41:23.997012,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,St. Louis Cardinals,-0.015300000000000001,0.0323,0.0476
-2023-04-23 11:42:51.297526,Box Office Specials - Highest Worldwide Box Office 2023 - Highest Worldwide Box Office Ranking For 2023,Creed III,-0.0159,0.0164,0.0323
 2023-04-23 18:41:24.050614,MLB Futures - MLB 2023 American League Central - American League Central Winner,Cleveland Guardians,-0.017299999999999982,0.4082,0.4255
 2023-04-23 17:40:57.088881,Z_Fury FC - Kolton Englund vs Nick Compton - To Win the Bout,Kolton Englund,-0.017900000000000027,0.8571,0.875
 2023-04-23 18:41:24.127010,MLB Futures - MLB 2023 National League East - National League East Winner,Miami Marlins,-0.0189,0.0196,0.0385
 2023-04-23 18:41:24.013309,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Toronto Blue Jays,-0.02049999999999999,0.1333,0.1538
 2023-04-23 18:41:24.112047,MLB Futures - MLB 2023 National League Central - National League Central Winner,St. Louis Cardinals,-0.02560000000000001,0.3077,0.3333
-2023-04-23 11:42:51.297526,Box Office Specials - Highest Worldwide Box Office 2023 - Highest Worldwide Box Office Ranking For 2023,Shazam! Fury of the Gods,-0.0262,0.0123,0.0385
 2023-04-23 18:41:24.035767,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,New York Mets,-0.027999999999999997,0.1538,0.1818
 2023-04-23 18:41:24.142488,MLB Futures - MLB 2023 National League West - National League West Winner,Arizona Diamondbacks,-0.028399999999999995,0.0625,0.0909
-2023-04-23 11:42:51.297526,Box Office Specials - Highest Worldwide Box Office 2023 - Highest Worldwide Box Office Ranking For 2023,Mission: Impossible - Dead Reckoning Part One,-0.034100000000000005,0.0909,0.125
 2023-04-23 18:41:24.127010,MLB Futures - MLB 2023 National League East - National League East Winner,New York Mets,-0.03710000000000002,0.3077,0.3448
-2023-04-23 11:42:51.297526,Box Office Specials - Highest Worldwide Box Office 2023 - Highest Worldwide Box Office Ranking For 2023,Ant-Man and the Wasp: Quantumania,-0.04239999999999999,0.0164,0.0588
 2023-04-23 18:41:24.083036,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,-0.05350000000000002,0.1818,0.2353
-2023-04-23 11:42:51.297526,Box Office Specials - Highest Worldwide Box Office 2023 - Highest Worldwide Box Office Ranking For 2023,The Little Mermaid,-0.05559999999999998,0.1111,0.1667
-2023-04-23 11:42:51.232808,Big Brother Brazil - Big Brother Brazil 2023 - BBB23 Winner,Bruna Griphao,-0.06770000000000001,0.0323,0.1
-2023-04-23 11:42:51.297526,Box Office Specials - Highest Worldwide Box Office 2023 - Highest Worldwide Box Office Ranking For 2023,Guardians of the Galaxy Vol. 3,-0.07239999999999996,0.2353,0.3077
-2023-04-23 11:42:51.297526,Box Office Specials - Highest Worldwide Box Office 2023 - Highest Worldwide Box Office Ranking For 2023,Spider-Man: Across the Spider-verse,-0.0794,0.1111,0.1905
