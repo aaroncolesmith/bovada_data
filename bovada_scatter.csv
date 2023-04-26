@@ -13,8 +13,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-26 06:41:01.876005,NFL Draft '23 - Positional Groups - First Linebacker Selected,Drew Sanders,0.11259999999999992,0.6364,0.5238
 2023-04-26 08:40:37.876330,NFL Draft '23 - Team Props - Position of Team's First Drafted Player - Bengals,Defensive Lineman/EDGE,0.08240000000000001,0.2,0.1176
 2023-04-26 08:40:38.941216,Championship - England Championship 2022/23 - To Be Promoted,Sunderland,0.0726,0.1111,0.0385
-2023-04-26 08:40:39.144738,League One - England - League One 2022/23 - Top 2 Finish,Plymouth Argyle,0.07130000000000003,0.9804,0.9091
 2023-04-26 08:40:39.144738,League One - England - League One 2022/23 - Top 2 Finish,Ipswich Town,0.07130000000000003,0.9804,0.9091
+2023-04-26 08:40:39.144738,League One - England - League One 2022/23 - Top 2 Finish,Plymouth Argyle,0.07130000000000003,0.9804,0.9091
 2023-04-26 07:40:42.127865,NFL Draft '23 - Player Props - Draft Position - Hendon Hooker,Over 31.5,0.068,0.4762,0.4082
 2023-04-26 08:40:37.891046,NFL Draft '23 - Team Props - Position of Team's First Drafted Player - Cardinals,Offensive Lineman,0.06509999999999999,0.4651,0.4
 2023-04-26 11:40:42.393726,NFL Draft '23 - Draft Specials - Requested Specials,"Bijan Robinson Top 10 Pick, Jahmyr Gibbs 1st Round Pick",0.059099999999999986,0.3448,0.2857
@@ -42,16 +42,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-26 11:40:42.393726,NFL Draft '23 - Draft Specials - Requested Specials,Either Houston Texans or Washington Commanders to Draft Bijan Robinson,0.0353,0.2353,0.2
 2023-04-26 06:41:01.815335,NFL Draft '23 - Pick Props - # 7 Overall Pick,CJ Stroud,0.0343,0.1176,0.0833
 2023-04-26 08:40:37.743952,NFL Draft '23 - Player Props - Team to Draft Jahmyr Gibbs,Patriots,0.033399999999999985,0.1667,0.1333
+2023-04-26 14:40:48.791333,NFL Draft '23 - Team Props - Position of Team's First Drafted Player - Patriots,Quarterback,0.033300000000000024,0.2,0.1667
 2023-04-26 08:40:37.738730,NFL Draft '23 - Player Props - Team to Draft Hendon Hooker,Seahawks,0.033299999999999996,0.1333,0.1
-2023-04-26 07:40:42.108873,NFL Draft '23 - Player Props - Draft Position - Dalton Kincaid,Under 24.5,0.033299999999999996,0.5455,0.5122
 2023-04-26 07:40:42.056449,NFL Draft '23 - Positional Groups - Second Tight End Selected,Dalton Kincaid,0.033299999999999996,0.5455,0.5122
 2023-04-26 06:41:01.852338,NFL Draft '23 - Pick Props - Top 10 Pick,Paris Johnson,0.033299999999999996,0.8333,0.8
+2023-04-26 07:40:42.108873,NFL Draft '23 - Player Props - Draft Position - Dalton Kincaid,Under 24.5,0.033299999999999996,0.5455,0.5122
 2023-04-26 11:40:42.393726,NFL Draft '23 - Draft Specials - Requested Specials,"Jaxon Smith-Njigba 1st WR Drafted, Michael Mayer 1st TE Drafted & Devon Witherspoon 1st CB Drafted",0.03210000000000002,0.4167,0.3846
 2023-04-26 06:41:01.845913,NFL Draft '23 - Pick Props - Top  5 Pick,Devon Witherspoon,0.031799999999999995,0.1429,0.1111
-2023-04-26 06:41:01.815335,NFL Draft '23 - Pick Props - # 7 Overall Pick,Devon Witherspoon,0.031399999999999983,0.2667,0.2353
-2023-04-26 06:41:01.827602,NFL Draft '23 - Pick Props - # 9 Overall Pick,Paris Johnson Jr,0.031399999999999983,0.2667,0.2353
-2023-04-26 06:41:01.800532,NFL Draft '23 - Pick Props - # 5 Overall Pick,Will Anderson,0.031399999999999983,0.2667,0.2353
 2023-04-26 05:40:45.506422,NFL Draft '23 - Pick Props - # 2 Overall Pick,Will Anderson,0.031399999999999983,0.2667,0.2353
+2023-04-26 06:41:01.815335,NFL Draft '23 - Pick Props - # 7 Overall Pick,Devon Witherspoon,0.031399999999999983,0.2667,0.2353
+2023-04-26 06:41:01.800532,NFL Draft '23 - Pick Props - # 5 Overall Pick,Will Anderson,0.031399999999999983,0.2667,0.2353
+2023-04-26 06:41:01.827602,NFL Draft '23 - Pick Props - # 9 Overall Pick,Paris Johnson Jr,0.031399999999999983,0.2667,0.2353
 2023-04-26 08:40:38.824374,La Liga - Spain La Liga 2022/23 - To Be Relegated,Cádiz,0.030299999999999994,0.3636,0.3333
 2023-04-26 12:40:42.887600,Korea Championship - 2/3 Balls - 1st Round 3 Balls - A. Knappe / M. Choi / J. Senior - 1st Round 3 Balls,Jack Senior,0.029600000000000015,0.4,0.3704
 2023-04-26 08:40:37.764408,NFL Draft '23 - Player Props - Team to Draft Michael Mayer,Cowboys,0.028700000000000003,0.2105,0.1818
@@ -68,12 +69,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-26 09:40:43.014217,Boxing Lines - Diego De La Hoya vs Victor Morales Jr - To Win the Bout,Diego De La Hoya,0.022199999999999998,0.6774,0.6552
 2023-04-26 08:40:38.830005,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Villarreal,0.022199999999999998,0.2222,0.2
 2023-04-26 08:40:39.228401,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Leicester City,0.02200000000000002,0.7143,0.6923
-2023-04-26 07:40:42.046035,NFL Draft '23 - Positional Groups - Second QB Selected,CJ Stroud,0.021999999999999964,0.3077,0.2857
 2023-04-26 11:40:42.393726,NFL Draft '23 - Draft Specials - Requested Specials,Hendon Hooker to be Drafted by Either Tennessee Titans or Las Vegas Raiders,0.021999999999999964,0.3077,0.2857
+2023-04-26 07:40:42.046035,NFL Draft '23 - Positional Groups - Second QB Selected,CJ Stroud,0.021999999999999964,0.3077,0.2857
 2023-04-26 08:40:38.549153,Korea Championship - 2/3 Balls - 1st Round 3 Balls - A. Wu / R. Cabrera Bello / J. Hwang - 1st Round 3 Balls ,Ashun Wu,0.021699999999999997,0.4762,0.4545
 2023-04-26 09:40:44.320457,Korea Championship - 2/3 Balls - 1st Round 3 Balls - J. Smith / S. Soderberg / N. Colsaerts - Outright,Jordan Smith,0.02169999999999994,0.5455,0.5238
-2023-04-26 07:40:42.144036,NFL Draft '23 - Player Props - Draft Position - Joey Porter Jr.,Over 19.5,0.02100000000000002,0.6364,0.6154
 2023-04-26 06:41:01.901052,NFL Draft '23 - Positional Groups - First Tight End Selected,Michael Mayer,0.02100000000000002,0.6364,0.6154
+2023-04-26 07:40:42.144036,NFL Draft '23 - Player Props - Draft Position - Joey Porter Jr.,Over 19.5,0.02100000000000002,0.6364,0.6154
+2023-04-26 14:40:49.144918,Round Match-Ups - 1st Round Match-Up - L. List vs P. Kizzire - 1st Round Match-Up,Luke List,0.02079999999999993,0.5556,0.5348
 2023-04-26 13:40:55.118047,Main Markets - 1st Round 3 Balls - S.H. Kim / P. Malnati / W. Bryan - 1st Round 3 Balls,S.H. Kim,0.020699999999999996,0.4651,0.4444
 2023-04-26 08:40:38.941216,Championship - England Championship 2022/23 - To Be Promoted,Luton Town,0.019000000000000017,0.2857,0.2667
 2023-04-26 06:41:01.821893,NFL Draft '23 - Pick Props - # 8 Overall Pick,Bijan Robinson,0.018799999999999983,0.3636,0.3448
@@ -84,31 +86,31 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-26 08:40:39.228401,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Nottingham Forest,0.0174,0.25,0.2326
 2023-04-26 07:40:42.046035,NFL Draft '23 - Positional Groups - Second QB Selected,Bryce Young,0.017100000000000004,0.16,0.1429
 2023-04-26 12:40:41.756418,NFL Draft '23 - Draft Specials - Requested Specials,Zay Flowers 1st WR Drafted & Tyree Wilson 1st D Drafted,0.016700000000000007,0.1,0.0833
-2023-04-26 06:41:01.815335,NFL Draft '23 - Pick Props - # 7 Overall Pick,Anthony Richardson,0.016700000000000007,0.1,0.0833
 2023-04-26 06:41:01.907676,NFL Draft '23 - Positional Groups - First Wide Receiver Selected,Quentin Johnston,0.016700000000000007,0.1,0.0833
+2023-04-26 06:41:01.815335,NFL Draft '23 - Pick Props - # 7 Overall Pick,Anthony Richardson,0.016700000000000007,0.1,0.0833
 2023-04-26 08:40:37.733364,NFL Draft '23 - Player Props - Team to Draft Bijan Robinson,Eagles,0.016699999999999993,0.2667,0.25
 2023-04-26 07:40:42.638844,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,0.016699999999999937,0.6,0.5833
 2023-04-26 06:41:01.915348,NFL Draft '23 - Positional Groups - Second Cornerback Selected,Emmanuel Forbes,0.0162,0.0294,0.0132
 2023-04-26 04:41:14.521473,Mexico Open - 2/3 Balls - 1st Round 3 Balls - J. Rahm / E. Grillo / A. Noren - 1st Round 3 Balls,Jon Rahm,0.016100000000000003,0.6078,0.5917
 2023-04-26 09:40:44.278054,Korea Championship - 2/3 Balls - 1st Round 3 Balls - G. Green / J. Lagergren / T. Kim - 1st Round 3 Balls ,Joakim Lagergren,0.015400000000000025,0.4,0.3846
 2023-04-26 09:40:44.292011,Korea Championship - 2/3 Balls - 1st Round 3 Balls - M. Schneider / M. Kinhult / H. Lee - Outright,Marcus Kinhult,0.015400000000000025,0.4,0.3846
-2023-04-26 11:40:42.393726,NFL Draft '23 - Draft Specials - Requested Specials,Either Buffalo Bills or Kansas City Chiefs to Draft Quentin Johnston,0.015100000000000002,0.1818,0.1667
 2023-04-26 11:40:42.393726,NFL Draft '23 - Draft Specials - Requested Specials,Christian Gonzalez 1st CB Drafted & Dalton Kincaid 1st TE Drafted,0.015100000000000002,0.1818,0.1667
+2023-04-26 11:40:42.393726,NFL Draft '23 - Draft Specials - Requested Specials,Either Buffalo Bills or Kansas City Chiefs to Draft Quentin Johnston,0.015100000000000002,0.1818,0.1667
 2023-04-26 13:40:54.328390,Boxing Lines - Diego De La Hoya vs Victor Morales Jr - To Win the Bout,Diego De La Hoya,0.014900000000000024,0.6923,0.6774
-2023-04-26 06:41:01.815335,NFL Draft '23 - Pick Props - # 7 Overall Pick,Paris Johnson Jr,0.01469999999999999,0.25,0.2353
 2023-04-26 07:40:42.089746,NFL Draft '23 - Player Props - Draft Position - C.J. Stroud,Over 10.5,0.01469999999999999,0.25,0.2353
+2023-04-26 06:41:01.815335,NFL Draft '23 - Pick Props - # 7 Overall Pick,Paris Johnson Jr,0.01469999999999999,0.25,0.2353
 2023-04-26 13:40:53.486001,NFL Draft '23 - Draft Specials - Requested Specials,"Team Pick Parlay: Texans-Tyree Wilson, Cardinals-Will Anderson, Seahawks-Jalen Carter, Falcons-Nolan Smith",0.014100000000000001,0.0526,0.0385
 2023-04-26 08:40:39.138597,League One - England - League One 2022/23 - To Be Relegated,Morecambe,0.014000000000000012,0.9231,0.9091
 2023-04-26 06:41:01.838768,NFL Draft '23 - Pick Props - To be Picked in the First Round,Will McDonald,0.0131,0.7778,0.7647
 2023-04-26 06:41:01.876005,NFL Draft '23 - Positional Groups - First Linebacker Selected,Trenton Simpson,0.0131,0.2353,0.2222
 2023-04-26 08:40:39.162821,League Two - England - League Two 2022/23 - To Be Promoted,Salford City,0.012899999999999995,0.1667,0.1538
-2023-04-26 07:40:42.116340,NFL Draft '23 - Player Props - Draft Position - Deonte Banks,Over 20.5,0.011600000000000055,0.5238,0.5122
 2023-04-26 08:40:38.138422,Round Match-Ups - 1st Round Match-Up - A. Noren vs E. Grillo - 1st Round Match-Up,Emiliano Grillo,0.011600000000000055,0.5238,0.5122
+2023-04-26 07:40:42.116340,NFL Draft '23 - Player Props - Draft Position - Deonte Banks,Over 20.5,0.011600000000000055,0.5238,0.5122
 2023-04-26 08:40:37.733364,NFL Draft '23 - Player Props - Team to Draft Bijan Robinson,Falcons,0.01150000000000001,0.3448,0.3333
 2023-04-26 08:40:37.079254,Boxing Lines - Ronny Landaeta vs Jose Luis Navarro Jr - To Win the Bout,Ronny Landaeta,0.01150000000000001,0.3448,0.3333
 2023-04-26 08:40:39.116266,Copa do Brasil - Copa do Brasil 2023 - Outright,Athletico Paranaense,0.011199999999999995,0.0588,0.0476
-2023-04-26 08:40:39.116266,Copa do Brasil - Copa do Brasil 2023 - Outright,Fluminense,0.011099999999999999,0.1111,0.1
 2023-04-26 08:40:38.390593,Mexico Open - 2/3 Balls - 1st Round 3 Balls - S. Piercy / K. Stanley / A. Baddeley - 1st Round 3 Balls,Kyle Stanley,0.011099999999999999,0.2778,0.2667
+2023-04-26 08:40:39.116266,Copa do Brasil - Copa do Brasil 2023 - Outright,Fluminense,0.011099999999999999,0.1111,0.1
 2023-04-26 06:41:01.815335,NFL Draft '23 - Pick Props - # 7 Overall Pick,Peter Skoronski,0.010899999999999993,0.1538,0.1429
 2023-04-26 07:40:42.094468,NFL Draft '23 - Player Props - Draft Position - C.J. Stroud,Over 15.5,0.010899999999999993,0.1538,0.1429
 2023-04-26 11:40:42.393726,NFL Draft '23 - Draft Specials - Requested Specials,"Jaxon Smith-Njigba 1st WR Drafted, Tyree Wilson 1st D Drafted & Peter Skoronski 1st OL Drafted",0.010899999999999993,0.1538,0.1429
@@ -121,6 +123,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-26 08:40:39.106891,Superettan - Superettan 2023 - Winner,Västerås SK,0.010399999999999993,0.2326,0.2222
 2023-04-26 08:40:37.754124,NFL Draft '23 - Player Props - Team to Draft Jalen Carter,Raiders,0.0102,0.0769,0.0667
 2023-04-26 11:40:42.393726,NFL Draft '23 - Draft Specials - Requested Specials,Stetson Bennett to be Drafted by Green Bay Packers,0.0102,0.0769,0.0667
+2023-04-26 14:40:47.431244,Boxing Lines - Brian Ceballo vs Luis Alberto Veron - To Win the Bout,Brian Ceballo,0.010199999999999987,0.9333,0.9231
 2023-04-26 08:40:39.125550,League One - England - League One 2022/23 - Outright,Plymouth Argyle,0.010099999999999998,0.5556,0.5455
 2023-04-26 12:40:42.887600,Korea Championship - 2/3 Balls - 1st Round 3 Balls - A. Knappe / M. Choi / J. Senior - 1st Round 3 Balls,Minchel Choi,-0.010499999999999982,0.2,0.2105
 2023-04-26 07:40:42.046035,NFL Draft '23 - Positional Groups - Second QB Selected,Anthony Richardson,-0.010899999999999993,0.1429,0.1538
@@ -130,9 +133,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-26 08:40:37.079254,Boxing Lines - Ronny Landaeta vs Jose Luis Navarro Jr - To Win the Bout,Jose Luis Navarro Jr,-0.011099999999999999,0.7222,0.7333
 2023-04-26 08:40:38.549153,Korea Championship - 2/3 Balls - 1st Round 3 Balls - A. Wu / R. Cabrera Bello / J. Hwang - 1st Round 3 Balls ,Jung Gon Hwang,-0.011099999999999999,0.2667,0.2778
 2023-04-26 06:41:01.800532,NFL Draft '23 - Pick Props - # 5 Overall Pick,Tyree Wilson,-0.011700000000000016,0.2105,0.2222
+2023-04-26 14:40:47.431244,Boxing Lines - Brian Ceballo vs Luis Alberto Veron - To Win the Bout,Luis Alberto Veron,-0.0121,0.1212,0.1333
 2023-04-26 08:40:38.264443,Tournament Match-Ups - Tournament Match-Up - G. Woodland vs P. Rodgers - Tournament Match-Up,Patrick Rodgers,-0.012199999999999989,0.5,0.5122
 2023-04-26 12:40:42.887600,Korea Championship - 2/3 Balls - 1st Round 3 Balls - A. Knappe / M. Choi / J. Senior - 1st Round 3 Balls,Alexander Knappe,-0.012199999999999989,0.5,0.5122
 2023-04-26 07:40:42.089746,NFL Draft '23 - Player Props - Draft Position - C.J. Stroud,Under 10.5,-0.012899999999999912,0.8333,0.8462
+2023-04-26 14:40:50.634996,Soccer Specials - Wrexham Specials - Wrexham Specials,Aaron Ramsey to play for Wrexham in the 2023/24 season,-0.012899999999999995,0.1538,0.1667
 2023-04-26 07:40:42.056449,NFL Draft '23 - Positional Groups - Second Tight End Selected,Darnell Washington,-0.0131,0.2222,0.2353
 2023-04-26 09:40:44.278054,Korea Championship - 2/3 Balls - 1st Round 3 Balls - G. Green / J. Lagergren / T. Kim - 1st Round 3 Balls ,Taehoon Kim,-0.0131,0.2222,0.2353
 2023-04-26 07:40:42.094468,NFL Draft '23 - Player Props - Draft Position - C.J. Stroud,Under 15.5,-0.014000000000000012,0.9091,0.9231
@@ -153,17 +158,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-26 08:40:39.208839,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Leicester City,-0.0203,0.0385,0.0588
 2023-04-26 07:40:43.032775,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Wolverhampton Wanderers,-0.0204,0.004,0.0244
 2023-04-26 06:41:01.901052,NFL Draft '23 - Positional Groups - First Tight End Selected,Dalton Kincaid,-0.020699999999999996,0.4444,0.4651
-2023-04-26 07:40:43.032775,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leicester City,-0.02100000000000002,0.3636,0.3846
 2023-04-26 05:40:46.324465,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Phoenix Suns,-0.02100000000000002,0.3636,0.3846
+2023-04-26 07:40:43.032775,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leicester City,-0.02100000000000002,0.3636,0.3846
 2023-04-26 09:40:44.320457,Korea Championship - 2/3 Balls - 1st Round 3 Balls - J. Smith / S. Soderberg / N. Colsaerts - Outright,Nicolas Colsaerts,-0.022199999999999998,0.2,0.2222
 2023-04-26 08:40:38.824374,La Liga - Spain La Liga 2022/23 - To Be Relegated,Getafe,-0.022199999999999998,0.2,0.2222
 2023-04-26 08:40:38.251402,Tournament Match-Ups - Tournament Match-Up - E. Grillo vs B. Hossler - Tournament Match-Up,Emiliano Grillo,-0.023799999999999988,0.4762,0.5
 2023-04-26 07:40:43.038254,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Tottenham Hotspur,-0.0242,0.0667,0.0909
+2023-04-26 14:40:49.144918,Round Match-Ups - 1st Round Match-Up - L. List vs P. Kizzire - 1st Round Match-Up,Patton Kizzire,-0.024399999999999977,0.4878,0.5122
 2023-04-26 11:40:42.393726,NFL Draft '23 - Draft Specials - Requested Specials,Four QBs to be Drafted with First Four Picks,-0.02560000000000001,0.3077,0.3333
-2023-04-26 05:40:46.324465,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,-0.02779999999999999,0.2222,0.25
-2023-04-26 05:40:46.324465,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Golden State Warriors,-0.02779999999999999,0.2222,0.25
-2023-04-26 08:40:37.728383,NFL Draft '23 - Player Props - Team to Draft Anthony Richardson,Titans,-0.02779999999999999,0.25,0.2778
 2023-04-26 11:40:42.393726,NFL Draft '23 - Draft Specials - Requested Specials,3+ Tight Ends & 5+ Quarterbacks Drafted in the 1st Round,-0.02779999999999999,0.2222,0.25
+2023-04-26 08:40:37.728383,NFL Draft '23 - Player Props - Team to Draft Anthony Richardson,Titans,-0.02779999999999999,0.25,0.2778
+2023-04-26 05:40:46.324465,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Golden State Warriors,-0.02779999999999999,0.2222,0.25
+2023-04-26 05:40:46.324465,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,-0.02779999999999999,0.2222,0.25
 2023-04-26 07:40:42.108873,NFL Draft '23 - Player Props - Draft Position - Dalton Kincaid,Over 24.5,-0.028900000000000037,0.5455,0.5744
 2023-04-26 07:40:42.144036,NFL Draft '23 - Player Props - Draft Position - Joey Porter Jr.,Under 19.5,-0.029000000000000026,0.4255,0.4545
 2023-04-26 08:40:38.830005,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Real Betis,-0.029299999999999993,0.0476,0.0769
@@ -183,8 +189,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-26 07:40:42.127865,NFL Draft '23 - Player Props - Draft Position - Hendon Hooker,Under 31.5,-0.05520000000000003,0.6,0.6552
 2023-04-26 08:40:39.162821,League Two - England - League Two 2022/23 - To Be Promoted,Stockport County,-0.05559999999999998,0.5,0.5556
 2023-04-26 05:40:45.506422,NFL Draft '23 - Pick Props - # 2 Overall Pick,Will Levis,-0.055900000000000005,0.3077,0.3636
-2023-04-26 08:40:39.169734,League Two - England - League Two 2022/23 - Top 3 Finish,Carlisle United,-0.06669999999999998,0.1,0.1667
 2023-04-26 05:40:45.506422,NFL Draft '23 - Pick Props - # 2 Overall Pick,CJ Stroud,-0.06669999999999998,0.2,0.2667
+2023-04-26 08:40:39.169734,League Two - England - League Two 2022/23 - Top 3 Finish,Carlisle United,-0.06669999999999998,0.1,0.1667
 2023-04-26 11:40:42.393726,NFL Draft '23 - Draft Specials - Requested Specials,Jack Campbell 1st LB Drafted & Christian Gonzalez 1st CB Drafted,-0.06670000000000001,0.1333,0.2
 2023-04-26 08:40:38.941216,Championship - England Championship 2022/23 - To Be Promoted,West Bromwich Albion,-0.07579999999999999,0.0909,0.1667
 2023-04-26 11:40:42.393726,NFL Draft '23 - Draft Specials - Requested Specials,Peter Skoronski or Paris Johnson Jr. to be a Top 5 Pick,-0.0781,0.2667,0.3448
