@@ -1,20 +1,15 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Steven Alker,0.43639999999999995,0.6364,0.2
-2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Cheyenne Knight,0.34340000000000004,0.4545,0.1111
 2023-04-30 10:40:52.867821,League Two - England - League Two 2022/23 - Top 7 Finish,Salford City,0.29979999999999996,0.9921,0.6923
 2023-04-30 10:40:52.859726,League Two - England - League Two 2022/23 - Top 3 Finish,Stockport County,0.2906,0.4444,0.1538
 2023-04-30 09:40:43.270650,Championship - England Championship 2022/23 - Top 6 Finish,Coventry City,0.25250000000000006,0.8889,0.6364
 2023-04-30 10:40:52.867821,League Two - England - League Two 2022/23 - Top 7 Finish,Bradford City,0.19209999999999994,0.9921,0.8
 2023-04-30 09:40:41.896747,FIBA Champions League - FIBA Champions League 2022/23 - Outright,Unicaja Málaga,0.17120000000000007,0.5348,0.3636
 2023-04-30 10:40:52.853172,League Two - England - League Two 2022/23 - To Be Promoted,Stockport County,0.13639999999999997,0.6364,0.5
-2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Hae Ran Ryu,0.13330000000000003,0.2,0.0667
 2023-04-30 10:40:52.580533,A-League - Australia A-League 2022/23 - Grand Final Winner,Central Coast Mariners,0.0889,0.2222,0.1333
 2023-04-30 05:40:51.573996,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,0.08329999999999999,0.3333,0.25
 2023-04-30 05:40:51.617648,Liga ACB - Liga ACB 2022/23 - Outright,Barcelona,0.06929999999999997,0.5455,0.4762
-2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Gemma Dryburgh,0.06699999999999999,0.0769,0.0099
 2023-04-30 10:40:52.853172,League Two - England - League Two 2022/23 - To Be Promoted,Bradford City,0.0625,0.3125,0.25
-2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Xiyu Lin,0.062,0.0769,0.0149
-2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Hannah Green,0.05710000000000001,0.2,0.1429
 2023-04-30 12:40:46.180930,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,0.0494,0.6923,0.6429
 2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Ernie Els,0.048100000000000004,0.125,0.0769
 2023-04-30 11:40:44.738006,Boxing Lines - Seren Cetin vs Mary Romero - To Win the Bout,Mary Romero,0.04700000000000004,0.5348,0.4878
@@ -36,21 +31,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-30 09:40:43.270650,Championship - England Championship 2022/23 - Top 6 Finish,West Bromwich Albion,0.028799999999999992,0.1538,0.125
 2023-04-30 13:40:43.817057,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Jayson Tatum (BOS),0.028299999999999992,0.3509,0.3226
 2023-04-30 12:40:46.207823,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,0.027999999999999997,0.1818,0.1538
-2023-04-30 04:40:41.478981,Round Match-Ups - Final Round Match-Up - H. Hall vs F. Molinari - Final Round Match-Up,Harry Hall,0.027700000000000058,0.5833,0.5556
-2023-04-30 13:40:44.247799,Round Match-Ups - Final Round Match-Up - G. Woodland vs S. Jaeger - Final Round Match-Up,Gary Woodland,0.027700000000000058,0.5833,0.5556
 2023-04-30 05:40:51.313650,Round Match-Ups - Final Round Match-Up - E. Cole vs E. van Rooyen - Final Round Match-Up,Eric Cole,0.027700000000000058,0.5833,0.5556
+2023-04-30 13:40:44.247799,Round Match-Ups - Final Round Match-Up - G. Woodland vs S. Jaeger - Final Round Match-Up,Gary Woodland,0.027700000000000058,0.5833,0.5556
+2023-04-30 04:40:41.478981,Round Match-Ups - Final Round Match-Up - H. Hall vs F. Molinari - Final Round Match-Up,Harry Hall,0.027700000000000058,0.5833,0.5556
 2023-04-30 04:40:41.486897,Round Match-Ups - Final Round Match-Up - J. Rahm vs T. Finau - Final Round Match-Up,Jon Rahm,0.026499999999999968,0.6491,0.6226
 2023-04-30 13:40:44.325608,Round Match-Ups - Final Round Match-Up - B.H. An v M. McNealy - Final Round Match-Up,Byeong Hun An,0.026499999999999968,0.5917,0.5652
-2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Ally Ewing,0.024600000000000004,0.0345,0.0099
+2023-04-30 15:40:43.409741,Round Match-Ups - Final Round Match-Up - L. Griffin v A. Nunez - Final Round Match-Up,Augusto Nunez,0.023800000000000043,0.5238,0.5
 2023-04-30 12:40:46.188811,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,0.022600000000000064,0.5348,0.5122
 2023-04-30 12:40:46.216916,MLB Futures - MLB 2023 National League East - National League East Winner,Atlanta Braves,0.02200000000000002,0.7143,0.6923
-2023-04-30 10:40:52.580533,A-League - Australia A-League 2022/23 - Grand Final Winner,Melbourne City,0.021699999999999997,0.4762,0.4545
 2023-04-30 09:40:42.510200,Main Markets - Final Round 3 Balls - G. Woodland / S. Jaeger / A. Baddeley - Final Round 3 Balls,Gary Woodland,0.021699999999999997,0.4762,0.4545
+2023-04-30 10:40:52.580533,A-League - Australia A-League 2022/23 - Grand Final Winner,Melbourne City,0.021699999999999997,0.4762,0.4545
+2023-04-30 15:40:42.930288,Boxing Lines - Devin Haney vs Vasyl Lomachenko - To Win the Bout,Vasyl Lomachenko,0.020799999999999985,0.3333,0.3125
 2023-04-30 05:40:51.368953,Round Match-Ups - Final Round Match-Up - V. Norrman vs B. Taylor - Final Round Match-Up,Vincent Norrman,0.02079999999999993,0.5556,0.5348
 2023-04-30 05:40:51.287742,Round Match-Ups - Final Round Match-Up - B. Hossler vs E. Grillo - Final Round Match-Up,Beau Hossler,0.02079999999999993,0.5556,0.5348
-2023-04-30 04:40:41.455169,Round Match-Ups - Final Round Match-Up - C. Hoffman vs S. Piercy - Final Round Match-Up,Charley Hoffman,0.02079999999999993,0.5556,0.5348
 2023-04-30 12:40:46.357894,Boxing Lines - Seren Cetin vs Mary Romero - To Win the Bout,Mary Romero,0.02079999999999993,0.5556,0.5348
-2023-04-30 03:40:44.069709,Round Match-Ups - Final Round Match-Up - H. Hall vs F. Molinari - Final Round Match-Up,Harry Hall,0.02079999999999993,0.5556,0.5348
+2023-04-30 04:40:41.455169,Round Match-Ups - Final Round Match-Up - C. Hoffman vs S. Piercy - Final Round Match-Up,Charley Hoffman,0.02079999999999993,0.5556,0.5348
 2023-04-30 09:40:42.951482,Round Match-Ups - Final Round Match-Up - W. Gordon vs A. Smotherman - Final Round Match-Up,Austin Smotherman,0.020699999999999996,0.4651,0.4444
 2023-04-30 09:40:43.180254,MLB Futures - MLB 2023 National League East - National League East Winner,Miami Marlins,0.0206,0.0385,0.0179
 2023-04-30 09:40:43.394022,Superettan - Superettan 2023 - Winner,Jönköpings Södra IF,0.0203,0.0588,0.0385
@@ -60,16 +55,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-30 10:40:52.580533,A-League - Australia A-League 2022/23 - Grand Final Winner,Wellington Phoenix,0.019099999999999992,0.0667,0.0476
 2023-04-30 09:40:43.266210,Championship - England Championship 2022/23 - To Be Promoted,Luton Town,0.019000000000000017,0.2857,0.2667
 2023-04-30 10:40:52.754802,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,FC Porto,0.01820000000000002,0.2,0.1818
-2023-04-30 09:40:42.525606,Main Markets - Final Round 3 Balls - S.H. Kim / H. Hall / R. Pereda - Final Round 3 Balls,S.H. Kim,0.018100000000000005,0.4348,0.4167
 2023-04-30 05:40:51.361613,Round Match-Ups - Final Round Match-Up - P. Rodgers vs T. Pendrith - Final Round Match-Up,Patrick Rodgers,0.018100000000000005,0.5833,0.5652
+2023-04-30 09:40:42.525606,Main Markets - Final Round 3 Balls - S.H. Kim / H. Hall / R. Pereda - Final Round 3 Balls,S.H. Kim,0.018100000000000005,0.4348,0.4167
 2023-04-30 09:40:41.896747,FIBA Champions League - FIBA Champions League 2022/23 - Outright,Hapoel Jerusalem,0.0179,0.1429,0.125
-2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Ruoning Yin,0.017099999999999997,0.0294,0.0123
-2023-04-30 09:40:43.374208,Allsvenskan - Allsvenskan 2023 - Winner,Malmö FF,0.016699999999999993,0.4167,0.4
 2023-04-30 09:40:42.537115,Main Markets - Final Round 3 Balls - J. Bramlett / V. Norrman / J. Walker - Final Round 3 Balls,Joseph Bramlett,0.016699999999999993,0.4167,0.4
+2023-04-30 09:40:43.374208,Allsvenskan - Allsvenskan 2023 - Winner,Malmö FF,0.016699999999999993,0.4167,0.4
 2023-04-30 09:40:43.257925,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Flamengo,0.016699999999999993,0.2667,0.25
-2023-04-30 13:40:44.205146,Round Match-Ups - Final Round Match-Up - P. Rodgers vs T. Pendrith - Final Round Match-Up,Patrick Rodgers,0.016699999999999937,0.6,0.5833
-2023-04-30 05:40:51.376111,Round Match-Ups - Final Round Match-Up - W. Gordon vs A. Smotherman - Final Round Match-Up,Will Gordon,0.016699999999999937,0.6,0.5833
 2023-04-30 13:40:44.272818,Round Match-Ups - Final Round Match-Up - H. Hall vs F. Molinari - Final Round Match-Up,Harry Hall,0.016699999999999937,0.6,0.5833
+2023-04-30 05:40:51.376111,Round Match-Ups - Final Round Match-Up - W. Gordon vs A. Smotherman - Final Round Match-Up,Will Gordon,0.016699999999999937,0.6,0.5833
+2023-04-30 13:40:44.205146,Round Match-Ups - Final Round Match-Up - P. Rodgers vs T. Pendrith - Final Round Match-Up,Patrick Rodgers,0.016699999999999937,0.6,0.5833
 2023-04-30 09:40:42.502198,Main Markets - Final Round 3 Balls - M. Hubbard / A. Novak / G. Ogilvy - Final Round 3 Balls,Andrew Novak,0.015400000000000025,0.4,0.3846
 2023-04-30 12:40:46.188811,MLB Futures - MLB 2023 American League East - American League East Winner,New York Yankees,0.01469999999999999,0.25,0.2353
 2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Ken Tanigawa,0.014499999999999999,0.0294,0.0149
@@ -79,95 +73,86 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-30 10:40:52.776369,Super Lig - Turkey Super League 22/23 - Outright,Fenerbahce,0.012899999999999995,0.1667,0.1538
 2023-04-30 09:40:42.518129,Main Markets - Final Round 3 Balls - F. Molinari / C. Hoffman / S. Piercy - Final Round 3 Balls,Francesco Molinari,0.012699999999999989,0.3636,0.3509
 2023-04-30 13:40:44.315712,Round Match-Ups - Final Round Match-Up - V. Norrman vs B. Taylor - Final Round Match-Up,Ben Taylor,0.012199999999999989,0.5,0.4878
-2023-04-30 09:40:42.887178,Round Match-Ups - Final Round Match-Up - B. Hossler vs E. Grillo - Final Round Match-Up,Emiliano Grillo,0.012199999999999989,0.5,0.4878
 2023-04-30 09:40:42.902803,Round Match-Ups - Final Round Match-Up - C. Hoffman vs S. Piercy - Final Round Match-Up,Scott Piercy,0.012199999999999989,0.5,0.4878
+2023-04-30 09:40:42.887178,Round Match-Ups - Final Round Match-Up - B. Hossler vs E. Grillo - Final Round Match-Up,Emiliano Grillo,0.012199999999999989,0.5,0.4878
 2023-04-30 09:40:43.257925,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Atlético Mineiro,0.011099999999999999,0.1111,0.1
 2023-04-30 09:40:43.138875,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Toronto Blue Jays,0.010899999999999993,0.1538,0.1429
 2023-04-30 13:40:44.334856,Round Match-Ups - Final Round Match-Up - L. Griffin v A. Nunez - Final Round Match-Up,Lanto Griffin,0.010699999999999932,0.5455,0.5348
+2023-04-30 15:40:43.378020,Round Match-Ups - Final Round Match-Up - M. Kim vs J. Walker - Final Round Match-Up,Michael Kim,0.010699999999999932,0.5455,0.5348
 2023-04-30 09:40:42.853086,Props - Final Round Score - Jon Rahm - Final Round Score,Over 66.5,0.010099999999999998,0.4545,0.4444
 2023-04-30 09:40:42.548975,Main Markets - Final Round 3 Balls - E. Grillo / B. Taylor / C. Young - Final Round 3 Balls,Carson Young,0.010099999999999998,0.3226,0.3125
-2023-04-30 09:40:42.902803,Round Match-Ups - Final Round Match-Up - C. Hoffman vs S. Piercy - Final Round Match-Up,Charley Hoffman,-0.010099999999999998,0.5455,0.5556
-2023-04-30 09:40:42.887178,Round Match-Ups - Final Round Match-Up - B. Hossler vs E. Grillo - Final Round Match-Up,Beau Hossler,-0.010099999999999998,0.5455,0.5556
 2023-04-30 13:40:44.315712,Round Match-Ups - Final Round Match-Up - V. Norrman vs B. Taylor - Final Round Match-Up,Vincent Norrman,-0.010099999999999998,0.5455,0.5556
+2023-04-30 09:40:42.887178,Round Match-Ups - Final Round Match-Up - B. Hossler vs E. Grillo - Final Round Match-Up,Beau Hossler,-0.010099999999999998,0.5455,0.5556
+2023-04-30 09:40:42.902803,Round Match-Ups - Final Round Match-Up - C. Hoffman vs S. Piercy - Final Round Match-Up,Charley Hoffman,-0.010099999999999998,0.5455,0.5556
 2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Colin Montgomerie,-0.010100000000000001,0.0244,0.0345
 2023-04-30 10:40:52.555933,MLS - MLS 2023 - Winner,Saint Louis City SC,-0.0102,0.0667,0.0769
 2023-04-30 12:40:46.172881,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,St. Louis Cardinals,-0.0102,0.0667,0.0769
 2023-04-30 09:40:43.148621,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Los Angeles Dodgers,-0.010499999999999982,0.2,0.2105
 2023-04-30 09:40:42.486787,Main Markets - Final Round 3 Balls - P. Rodgers / N. Lashley / G. Sigg - Final Round 3 Balls,Patrick Rodgers,-0.010599999999999998,0.4545,0.4651
+2023-04-30 09:40:43.167664,MLB Futures - MLB 2023 American League West - American League West Winner,Seattle Mariners,-0.010899999999999993,0.1429,0.1538
 2023-04-30 05:40:51.585055,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Los Angeles Lakers,-0.010899999999999993,0.1429,0.1538
 2023-04-30 12:40:46.164153,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Toronto Blue Jays,-0.010899999999999993,0.1429,0.1538
-2023-04-30 09:40:43.167664,MLB Futures - MLB 2023 American League West - American League West Winner,Seattle Mariners,-0.010899999999999993,0.1429,0.1538
 2023-04-30 05:40:51.361613,Round Match-Ups - Final Round Match-Up - P. Rodgers vs T. Pendrith - Final Round Match-Up,Taylor Pendrith,-0.011099999999999999,0.4651,0.4762
 2023-04-30 12:40:46.155737,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Baltimore Orioles,-0.011200000000000002,0.0132,0.0244
 2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Scott Parel,-0.0119,0.0004,0.0123
-2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Sarah Kemp,-0.012100000000000001,0.0123,0.0244
+2023-04-30 15:40:43.378020,Round Match-Ups - Final Round Match-Up - M. Kim vs J. Walker - Final Round Match-Up,Jimmy Walker,-0.012199999999999989,0.5,0.5122
 2023-04-30 13:40:44.334856,Round Match-Ups - Final Round Match-Up - L. Griffin v A. Nunez - Final Round Match-Up,Augusto Nunez,-0.012199999999999989,0.5,0.5122
 2023-04-30 09:40:43.155761,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,-0.012299999999999978,0.6429,0.6552
-2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Hye Jin Choi,-0.0124,0.0025,0.0149
-2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Georgia Hall,-0.0129,0.002,0.0149
 2023-04-30 12:40:46.155737,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Miami Marlins,-0.013,0.0066,0.0196
 2023-04-30 12:40:46.207823,MLB Futures - MLB 2023 National League Central - National League Central Winner,St. Louis Cardinals,-0.01319999999999999,0.25,0.2632
-2023-04-30 10:40:52.580533,A-League - Australia A-League 2022/23 - Grand Final Winner,Sydney FC,-0.013899999999999996,0.1111,0.125
 2023-04-30 10:40:52.375963,Futures - US PGA Championship 2023 - Outright,Jon Rahm,-0.013899999999999996,0.1111,0.125
-2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Chella Choi,-0.0139,0.001,0.0149
-2023-04-30 12:40:46.225141,MLB Futures - MLB 2023 National League West - National League West Winner,San Francisco Giants,-0.013999999999999999,0.0769,0.0909
+2023-04-30 10:40:52.580533,A-League - Australia A-League 2022/23 - Grand Final Winner,Sydney FC,-0.013899999999999996,0.1111,0.125
 2023-04-30 10:40:52.555933,MLS - MLS 2023 - Winner,Atlanta United,-0.013999999999999999,0.0769,0.0909
-2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Natthakritta Vongtaveelap,-0.0142,0.0007,0.0149
+2023-04-30 12:40:46.225141,MLB Futures - MLB 2023 National League West - National League West Winner,San Francisco Giants,-0.013999999999999999,0.0769,0.0909
 2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Retief Goosen,-0.0145,0.0004,0.0149
 2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Darren Clarke,-0.0145,0.0004,0.0149
 2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,John Huston,-0.0145,0.0004,0.0149
-2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Stuart Appleby,-0.0145,0.0004,0.0149
 2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Paul Stankowski,-0.0145,0.0004,0.0149
+2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Stuart Appleby,-0.0145,0.0004,0.0149
 2023-04-30 05:40:51.573996,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Lakers,-0.01469999999999999,0.2353,0.25
 2023-04-30 09:40:42.853086,Props - Final Round Score - Jon Rahm - Final Round Score,Under 66.5,-0.014800000000000035,0.6078,0.6226
 2023-04-30 09:40:42.951482,Round Match-Ups - Final Round Match-Up - W. Gordon vs A. Smotherman - Final Round Match-Up,Will Gordon,-0.016699999999999937,0.5833,0.6
+2023-04-30 09:40:42.525606,Main Markets - Final Round 3 Balls - S.H. Kim / H. Hall / R. Pereda - Final Round 3 Balls,Harry Hall,-0.016699999999999993,0.4,0.4167
 2023-04-30 09:40:42.518129,Main Markets - Final Round 3 Balls - F. Molinari / C. Hoffman / S. Piercy - Final Round 3 Balls,Charley Hoffman,-0.016699999999999993,0.4,0.4167
 2023-04-30 09:40:42.510200,Main Markets - Final Round 3 Balls - G. Woodland / S. Jaeger / A. Baddeley - Final Round 3 Balls,Aaron Baddeley,-0.016699999999999993,0.25,0.2667
-2023-04-30 09:40:42.525606,Main Markets - Final Round 3 Balls - S.H. Kim / H. Hall / R. Pereda - Final Round 3 Balls,Harry Hall,-0.016699999999999993,0.4,0.4167
 2023-04-30 05:40:51.585055,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Philadelphia 76ers,-0.016700000000000007,0.0833,0.1
-2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Linnea Johansson,-0.0171,0.0008,0.0179
+2023-04-30 15:40:42.930288,Boxing Lines - Devin Haney vs Vasyl Lomachenko - To Win the Bout,Devin Haney,-0.016700000000000048,0.7333,0.75
 2023-04-30 09:40:42.548975,Main Markets - Final Round 3 Balls - E. Grillo / B. Taylor / C. Young - Final Round 3 Balls,Ben Taylor,-0.017600000000000005,0.3333,0.3509
-2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Patty Tavatanakit,-0.0188,0.0008,0.0196
 2023-04-30 09:40:42.502198,Main Markets - Final Round 3 Balls - M. Hubbard / A. Novak / G. Ogilvy - Final Round 3 Balls,Geoff Ogilvy,-0.019000000000000017,0.2667,0.2857
 2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Bernhard Langer,-0.0192,0.0004,0.0196
-2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Linnea Strom,-0.019499999999999997,0.0099,0.0294
-2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Minjee Lee,-0.0204,0.004,0.0244
 2023-04-30 12:40:46.172881,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,New York Mets,-0.02049999999999999,0.1333,0.1538
 2023-04-30 12:40:46.216916,MLB Futures - MLB 2023 National League East - National League East Winner,Miami Marlins,-0.0206,0.0179,0.0385
 2023-04-30 13:40:44.272818,Round Match-Ups - Final Round Match-Up - H. Hall vs F. Molinari - Final Round Match-Up,Francesco Molinari,-0.020699999999999996,0.4444,0.4651
-2023-04-30 05:40:51.376111,Round Match-Ups - Final Round Match-Up - W. Gordon vs A. Smotherman - Final Round Match-Up,Austin Smotherman,-0.020699999999999996,0.4444,0.4651
 2023-04-30 13:40:44.205146,Round Match-Ups - Final Round Match-Up - P. Rodgers vs T. Pendrith - Final Round Match-Up,Taylor Pendrith,-0.020699999999999996,0.4444,0.4651
+2023-04-30 05:40:51.376111,Round Match-Ups - Final Round Match-Up - W. Gordon vs A. Smotherman - Final Round Match-Up,Austin Smotherman,-0.020699999999999996,0.4444,0.4651
 2023-04-30 09:40:42.537115,Main Markets - Final Round 3 Balls - J. Bramlett / V. Norrman / J. Walker - Final Round 3 Balls,Vincent Norrman,-0.02100000000000002,0.3636,0.3846
 2023-04-30 09:40:43.266210,Championship - England Championship 2022/23 - To Be Promoted,Middlesbrough,-0.02100000000000002,0.3636,0.3846
-2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Caroline Inglis,-0.0215,0.0079,0.0294
+2023-04-30 15:40:43.409741,Round Match-Ups - Final Round Match-Up - L. Griffin v A. Nunez - Final Round Match-Up,Lanto Griffin,-0.02169999999999994,0.5238,0.5455
 2023-04-30 13:40:44.325608,Round Match-Ups - Final Round Match-Up - B.H. An v M. McNealy - Final Round Match-Up,Maverick McNealy,-0.021699999999999997,0.4545,0.4762
 2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Jerry Kelly,-0.021900000000000003,0.0025,0.0244
 2023-04-30 09:40:43.180254,MLB Futures - MLB 2023 National League East - National League East Winner,Atlanta Braves,-0.02200000000000002,0.6923,0.7143
 2023-04-30 12:40:46.357894,Boxing Lines - Seren Cetin vs Mary Romero - To Win the Bout,Seren Cetin,-0.022600000000000064,0.5122,0.5348
+2023-04-30 04:40:41.478981,Round Match-Ups - Final Round Match-Up - H. Hall vs F. Molinari - Final Round Match-Up,Francesco Molinari,-0.022699999999999998,0.4651,0.4878
 2023-04-30 13:40:44.247799,Round Match-Ups - Final Round Match-Up - G. Woodland vs S. Jaeger - Final Round Match-Up,Stephan Jaeger,-0.022699999999999998,0.4651,0.4878
 2023-04-30 05:40:51.313650,Round Match-Ups - Final Round Match-Up - E. Cole vs E. van Rooyen - Final Round Match-Up,Erik Van Rooyen,-0.022699999999999998,0.4651,0.4878
-2023-04-30 04:40:41.478981,Round Match-Ups - Final Round Match-Up - H. Hall vs F. Molinari - Final Round Match-Up,Francesco Molinari,-0.022699999999999998,0.4651,0.4878
-2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Amy Yang,-0.023600000000000003,0.0008,0.0244
 2023-04-30 09:40:43.266210,Championship - England Championship 2022/23 - To Be Promoted,Millwall,-0.023799999999999988,0.1429,0.1667
 2023-04-30 04:40:41.510653,Round Match-Ups - Final Round Match-Up - P. Rodgers vs T. Pendrith - Final Round Match-Up,Taylor Pendrith,-0.023799999999999988,0.4762,0.5
 2023-04-30 09:40:43.374208,Allsvenskan - Allsvenskan 2023 - Winner,Hammarby IF,-0.023799999999999988,0.1429,0.1667
-2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Alison Lee,-0.023899999999999998,0.0196,0.0435
 2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Brett Quigley,-0.0239,0.0005,0.0244
-2023-04-30 05:40:51.287742,Round Match-Ups - Final Round Match-Up - B. Hossler vs E. Grillo - Final Round Match-Up,Emiliano Grillo,-0.024399999999999977,0.4878,0.5122
-2023-04-30 05:40:51.368953,Round Match-Ups - Final Round Match-Up - V. Norrman vs B. Taylor - Final Round Match-Up,Ben Taylor,-0.024399999999999977,0.4878,0.5122
-2023-04-30 09:40:43.161691,MLB Futures - MLB 2023 American League East - American League East Winner,New York Yankees,-0.024399999999999977,0.2353,0.2597
-2023-04-30 03:40:44.069709,Round Match-Ups - Final Round Match-Up - H. Hall vs F. Molinari - Final Round Match-Up,Francesco Molinari,-0.024399999999999977,0.4878,0.5122
 2023-04-30 04:40:41.455169,Round Match-Ups - Final Round Match-Up - C. Hoffman vs S. Piercy - Final Round Match-Up,Scott Piercy,-0.024399999999999977,0.4878,0.5122
+2023-04-30 05:40:51.368953,Round Match-Ups - Final Round Match-Up - V. Norrman vs B. Taylor - Final Round Match-Up,Ben Taylor,-0.024399999999999977,0.4878,0.5122
+2023-04-30 05:40:51.287742,Round Match-Ups - Final Round Match-Up - B. Hossler vs E. Grillo - Final Round Match-Up,Emiliano Grillo,-0.024399999999999977,0.4878,0.5122
+2023-04-30 09:40:43.161691,MLB Futures - MLB 2023 American League East - American League East Winner,New York Yankees,-0.024399999999999977,0.2353,0.2597
 2023-04-30 04:40:41.486897,Round Match-Ups - Final Round Match-Up - J. Rahm vs T. Finau - Final Round Match-Up,Tony Finau,-0.025499999999999967,0.4,0.4255
-2023-04-30 12:40:46.188811,MLB Futures - MLB 2023 American League East - American League East Winner,Toronto Blue Jays,-0.02739999999999998,0.2667,0.2941
 2023-04-30 12:40:46.216916,MLB Futures - MLB 2023 National League East - National League East Winner,New York Mets,-0.02739999999999998,0.2667,0.2941
-2023-04-30 13:40:43.817057,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Kevin Durant (PHX),-0.027999999999999997,0.1053,0.1333
+2023-04-30 12:40:46.188811,MLB Futures - MLB 2023 American League East - American League East Winner,Toronto Blue Jays,-0.02739999999999998,0.2667,0.2941
 2023-04-30 09:40:43.173713,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,-0.027999999999999997,0.1538,0.1818
+2023-04-30 13:40:43.817057,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Kevin Durant (PHX),-0.027999999999999997,0.1053,0.1333
 2023-04-30 09:40:43.374208,Allsvenskan - Allsvenskan 2023 - Winner,AIK,-0.028199999999999996,0.0385,0.0667
 2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Stephen Ames,-0.0286,0.0099,0.0385
 2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Mike Weir,-0.0289,0.0005,0.0294
-2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Paul Goydos,-0.028999999999999998,0.0004,0.0294
 2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Richard Green,-0.028999999999999998,0.0004,0.0294
+2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Paul Goydos,-0.028999999999999998,0.0004,0.0294
 2023-04-30 09:40:43.186363,MLB Futures - MLB 2023 National League West - National League West Winner,Los Angeles Dodgers,-0.03179999999999994,0.5238,0.5556
 2023-04-30 09:40:43.394022,Superettan - Superettan 2023 - Winner,Västerås SK,-0.03259999999999999,0.2,0.2326
 2023-04-30 09:40:43.257925,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Fluminense,-0.033300000000000024,0.1667,0.2
@@ -183,23 +168,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-30 09:40:43.266210,Championship - England Championship 2022/23 - To Be Promoted,Sunderland,-0.0407,0.0769,0.1176
 2023-04-30 09:40:42.814505,Props - Final Round Score - Brandon Wu - Final Round Score,Under 68.5,-0.0413,0.6078,0.6491
 2023-04-30 09:40:41.896747,FIBA Champions League - FIBA Champions League 2022/23 - Outright,Telekom Bonn,-0.04169999999999999,0.125,0.1667
-2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Pernilla Lindberg,-0.042600000000000006,0.005,0.0476
 2023-04-30 12:40:46.180930,MLB Futures - MLB 2023 American League Central - American League Central Winner,Cleveland Guardians,-0.043200000000000016,0.3077,0.3509
 2023-04-30 09:40:42.808138,Props - Final Round Score - Austin Smotherman - Final Round Score,Under 69.5,-0.04409999999999992,0.6226,0.6667
-2023-04-30 05:40:51.585055,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Phoenix Suns,-0.04620000000000002,0.1538,0.2
 2023-04-30 09:40:43.270650,Championship - England Championship 2022/23 - Top 6 Finish,Blackburn Rovers,-0.04620000000000002,0.1538,0.2
+2023-04-30 05:40:51.585055,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Phoenix Suns,-0.04620000000000002,0.1538,0.2
 2023-04-30 09:40:43.394022,Superettan - Superettan 2023 - Winner,Östers IF,-0.047599999999999976,0.2857,0.3333
 2023-04-30 05:40:51.617648,Liga ACB - Liga ACB 2022/23 - Outright,Real Madrid BC,-0.05299999999999999,0.4348,0.4878
 2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Padraig Harrington,-0.056799999999999996,0.002,0.0588
-2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Ayaka Furue,-0.060099999999999994,0.0066,0.0667
 2023-04-30 05:40:51.573996,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Phoenix Suns,-0.06059999999999999,0.303,0.3636
 2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Justin Leonard,-0.06459999999999999,0.0123,0.0769
 2023-04-30 09:40:41.896747,FIBA Champions League - FIBA Champions League 2022/23 - Outright,Tenerife,-0.06519999999999998,0.2857,0.3509
 2023-04-30 10:40:52.580533,A-League - Australia A-League 2022/23 - Grand Final Winner,Western Sydney Wanderers,-0.06670000000000001,0.1333,0.2
-2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Nelly Korda,-0.06760000000000001,0.0435,0.1111
-2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Hyo Joo Kim,-0.0703,0.0066,0.0769
-2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Aditi Ashok,-0.07060000000000001,0.0294,0.1
-2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Jin Young Ko,-0.099,0.001,0.1
 2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Steve Stricker,-0.12310000000000001,0.0769,0.2
 2023-04-30 09:40:43.270650,Championship - England Championship 2022/23 - Top 6 Finish,Sunderland,-0.16850000000000004,0.3077,0.4762
 2023-04-30 10:40:52.853172,League Two - England - League Two 2022/23 - To Be Promoted,Northampton Town,-0.2601,0.6923,0.9524
