@@ -5,10 +5,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Hae Ran Ryu,0.13330000000000003,0.2,0.0667
 2023-04-29 18:40:44.968156,Ron DeSantis Specials - When will Ron DeSantis announce his run for the 2024 presidency? - When will DeSantis announce his run for president?,May 2023,0.131,0.4167,0.2857
 2023-04-29 21:40:44.540725,BKFC 41 - Mike Alvarado vs James Brown - To Win the Bout,Mike Alvarado,0.1199,0.5744,0.4545
+2023-04-30 05:40:51.573996,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,0.08329999999999999,0.3333,0.25
 2023-04-29 22:40:51.414503,League One - England - League One 2022/23 - Outright,Plymouth Argyle,0.08079999999999998,0.6364,0.5556
 2023-04-29 21:40:45.494676,Professional Baseball - NPB 2023 - Outright,Yokohama DeNa BayStars,0.07500000000000001,0.2,0.125
-2023-04-29 16:40:47.301745,BKFC 41 - Brandon Girtz vs Christian Torres - To Win the Bout,Brandon Girtz,0.07309999999999994,0.7222,0.6491
 2023-04-29 18:40:44.968156,Ron DeSantis Specials - When will Ron DeSantis announce his run for the 2024 presidency? - When will DeSantis announce his run for president?,November 2023 or later or never,0.07069999999999999,0.1818,0.1111
+2023-04-30 05:40:51.617648,Liga ACB - Liga ACB 2022/23 - Outright,Barcelona,0.06929999999999997,0.5455,0.4762
 2023-04-29 18:40:46.725527,MLB Futures - MLB 2023 National League West - National League West Winner,Los Angeles Dodgers,0.06779999999999997,0.5556,0.4878
 2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Gemma Dryburgh,0.06699999999999999,0.0769,0.0099
 2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Xiyu Lin,0.062,0.0769,0.0149
@@ -17,8 +18,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-29 18:40:46.716730,MLB Futures - MLB 2023 National League East - National League East Winner,Atlanta Braves,0.04760000000000009,0.7143,0.6667
 2023-04-29 18:40:46.690498,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,0.04760000000000003,0.5238,0.4762
 2023-04-29 22:40:51.435284,League One - England - League One 2022/23 - Top 6 Finish,Derby County,0.04619999999999991,0.8462,0.8
+2023-04-30 05:40:51.585055,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Denver Nuggets,0.04269999999999999,0.1538,0.1111
 2023-04-29 21:40:44.547768,BKFC 41 - Brandon Girtz vs Christian Torres - To Win the Bout,Brandon Girtz,0.04250000000000009,0.7647,0.7222
 2023-04-29 21:40:44.576673,BKFC 41 - Bec Rawlings vs Christine Ferea - To Win the Bout,Bec Rawlings,0.04099999999999998,0.2632,0.2222
+2023-04-30 05:40:51.585055,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Boston Celtics,0.04089999999999999,0.4255,0.3846
 2023-04-29 22:40:51.421626,League One - England - League One 2022/23 - To Be Promoted,Bolton Wanderers,0.04040000000000002,0.2222,0.1818
 2023-04-29 18:40:46.681831,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,0.03980000000000006,0.6552,0.6154
 2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Matt Gogel,0.0392,0.0588,0.0196
@@ -30,37 +33,40 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-29 22:40:50.544197,KBO League - KBO League 2023 - Outright,SSG Landers,0.030299999999999994,0.3636,0.3333
 2023-04-29 22:40:50.544197,KBO League - KBO League 2023 - Outright,LG Twins,0.02779999999999999,0.25,0.2222
 2023-04-30 04:40:41.478981,Round Match-Ups - Final Round Match-Up - H. Hall vs F. Molinari - Final Round Match-Up,Harry Hall,0.027700000000000058,0.5833,0.5556
+2023-04-30 05:40:51.313650,Round Match-Ups - Final Round Match-Up - E. Cole vs E. van Rooyen - Final Round Match-Up,Eric Cole,0.027700000000000058,0.5833,0.5556
 2023-04-30 04:40:41.486897,Round Match-Ups - Final Round Match-Up - J. Rahm vs T. Finau - Final Round Match-Up,Jon Rahm,0.026499999999999968,0.6491,0.6226
 2023-04-29 17:40:52.957795,Tucker Carlson Specials - Fox News Share Price At Year End - Fox News (FOXA:NASDAQ) Closing Stock Price on December 31st 2023,$30 to $34.99,0.024800000000000016,0.2353,0.2105
 2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Ally Ewing,0.024600000000000004,0.0345,0.0099
 2023-04-29 18:40:46.708089,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,0.023800000000000016,0.1905,0.1667
 2023-04-29 22:40:51.421626,League One - England - League One 2022/23 - To Be Promoted,Derby County,0.022199999999999998,0.2222,0.2
 2023-04-29 23:40:55.052359,Round Match-Ups - Final Round Match-Up - C. Ortiz v K. Na - Final Round Match-Up,Carlos Ortiz,0.02169999999999994,0.5455,0.5238
+2023-04-30 04:40:41.455169,Round Match-Ups - Final Round Match-Up - C. Hoffman vs S. Piercy - Final Round Match-Up,Charley Hoffman,0.02079999999999993,0.5556,0.5348
+2023-04-30 05:40:51.368953,Round Match-Ups - Final Round Match-Up - V. Norrman vs B. Taylor - Final Round Match-Up,Vincent Norrman,0.02079999999999993,0.5556,0.5348
 2023-04-29 23:40:55.169275,Round Match-Ups - Final Round Match-Up - P. Mickelson v S. Vincent - Final Round Match-Up,Phil Mickelson,0.02079999999999993,0.5556,0.5348
 2023-04-30 03:40:44.069709,Round Match-Ups - Final Round Match-Up - H. Hall vs F. Molinari - Final Round Match-Up,Harry Hall,0.02079999999999993,0.5556,0.5348
-2023-04-30 04:40:41.455169,Round Match-Ups - Final Round Match-Up - C. Hoffman vs S. Piercy - Final Round Match-Up,Charley Hoffman,0.02079999999999993,0.5556,0.5348
+2023-04-30 05:40:51.287742,Round Match-Ups - Final Round Match-Up - B. Hossler vs E. Grillo - Final Round Match-Up,Beau Hossler,0.02079999999999993,0.5556,0.5348
 2023-04-29 21:40:45.494676,Professional Baseball - NPB 2023 - Outright,Saitama Seibu Lions,0.02020000000000001,0.1111,0.0909
 2023-04-29 22:40:50.544197,KBO League - KBO League 2023 - Outright,Doosan Bears,0.02020000000000001,0.1111,0.0909
 2023-04-29 18:40:46.672937,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Los Angeles Dodgers,0.01999999999999999,0.2105,0.1905
-2023-04-29 21:40:45.565098,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,0.01970000000000005,0.5652,0.5455
 2023-04-29 22:40:49.811344,Round Match-Ups - Final Round Match-Up - C. Smith v M. Pereira - Final Round Match-Up,Cameron Smith,0.01970000000000005,0.5652,0.5455
+2023-04-29 21:40:45.565098,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,0.01970000000000005,0.5652,0.5455
 2023-04-30 04:40:41.510653,Round Match-Ups - Final Round Match-Up - P. Rodgers vs T. Pendrith - Final Round Match-Up,Patrick Rodgers,0.01970000000000005,0.5652,0.5455
 2023-04-29 18:40:46.690498,MLB Futures - MLB 2023 American League East - American League East Winner,New York Yankees,0.019000000000000017,0.2857,0.2667
+2023-04-30 05:40:51.361613,Round Match-Ups - Final Round Match-Up - P. Rodgers vs T. Pendrith - Final Round Match-Up,Patrick Rodgers,0.018100000000000005,0.5833,0.5652
 2023-04-29 21:40:44.521173,BKFC 41 - Mitch Seybold vs Jack Willoughby - To Win the Bout,Mitch Seybold,0.017299999999999982,0.303,0.2857
 2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Ruoning Yin,0.017099999999999997,0.0294,0.0123
 2023-04-29 19:40:43.901797,BKFC 41 - Chris Camozzi vs Daniel Spohn - To Win the Bout,Chris Camozzi,0.016700000000000048,0.75,0.7333
 2023-04-29 21:40:44.527700,BKFC 41 - Marcus Edwards vs Jay Jackson - To Win the Bout,Marcus Edwards,0.016699999999999993,0.4167,0.4
-2023-04-29 17:40:52.458897,BKFC 41 - Mike Perry vs Luke Rockhold - To Win the Bout,Mike Perry,0.01539999999999997,0.6875,0.6721
+2023-04-30 05:40:51.376111,Round Match-Ups - Final Round Match-Up - W. Gordon vs A. Smotherman - Final Round Match-Up,Will Gordon,0.016699999999999937,0.6,0.5833
 2023-04-29 22:40:50.544197,KBO League - KBO League 2023 - Outright,Lotte Giants,0.015300000000000001,0.0476,0.0323
 2023-04-29 17:40:52.965575,Tucker Carlson Specials - Tucker Carlson 2023 Specials - Tucker Carlson Specials,Tucker Carlson to get a permanent post at CNN & Don Lemon to get a permanent post at Fox this year,0.014899999999999997,0.0625,0.0476
 2023-04-29 21:40:44.555198,BKFC 41 - Chris Camozzi vs Daniel Spohn - To Win the Bout,Chris Camozzi,0.014700000000000046,0.7647,0.75
 2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Ken Tanigawa,0.014499999999999999,0.0294,0.0149
 2023-04-29 18:40:46.663557,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Minnesota Twins,0.01440000000000001,0.1053,0.0909
 2023-04-29 18:40:46.672937,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Philadelphia Phillies,0.014399999999999996,0.0769,0.0625
-2023-04-29 16:40:48.392372,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,LeBron James (LAL),0.013999999999999999,0.0909,0.0769
 2023-04-29 18:40:45.524083,Don Lemon Specials - Don Lemon 2023 Specials - Don Lemon 2023 Specials,To record a joint podcast series with Tucker Carlson this year,0.013999999999999999,0.0909,0.0769
-2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,David Toms,0.013899999999999996,0.125,0.1111
 2023-04-29 18:40:46.708089,MLB Futures - MLB 2023 National League Central - National League Central Winner,Pittsburgh Pirates,0.013899999999999996,0.125,0.1111
+2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,David Toms,0.013899999999999996,0.125,0.1111
 2023-04-29 23:40:55.599873,NBA Awards - Western Conference Finals MVP - WCF MVP,Nikola Jokic (DEN),0.0131,0.2353,0.2222
 2023-04-29 18:40:44.983761,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,No,0.011899999999999994,0.1905,0.1786
 2023-04-29 18:40:46.699429,MLB Futures - MLB 2023 American League West - American League West Winner,Seattle Mariners,0.010899999999999993,0.1538,0.1429
@@ -68,8 +74,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Colin Montgomerie,-0.010100000000000001,0.0244,0.0345
 2023-04-29 18:40:44.968156,Ron DeSantis Specials - When will Ron DeSantis announce his run for the 2024 presidency? - When will DeSantis announce his run for president?,August 2023,-0.0102,0.0667,0.0769
 2023-04-29 18:40:46.672937,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Miami Marlins,-0.010300000000000002,0.0141,0.0244
-2023-04-29 16:40:48.392372,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Jayson Tatum (BOS),-0.010699999999999987,0.3226,0.3333
+2023-04-30 05:40:51.585055,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Los Angeles Lakers,-0.010899999999999993,0.1429,0.1538
 2023-04-29 19:40:44.525550,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Miami Heat,-0.011099999999999999,0.1,0.1111
+2023-04-30 05:40:51.361613,Round Match-Ups - Final Round Match-Up - P. Rodgers vs T. Pendrith - Final Round Match-Up,Taylor Pendrith,-0.011099999999999999,0.4651,0.4762
 2023-04-30 02:40:46.830872,Main Markets - Final Round 3 Balls - F. Molinari / C. Hoffman / S. Piercy - Outright,Scott Piercy,-0.01150000000000001,0.3333,0.3448
 2023-04-29 21:40:45.550386,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,-0.011600000000000055,0.5122,0.5238
 2023-04-29 19:40:44.525550,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Philadelphia 76ers,-0.011700000000000016,0.2105,0.2222
@@ -83,15 +90,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-29 18:40:44.983761,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,Yes,-0.013900000000000023,0.875,0.8889
 2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Natthakritta Vongtaveelap,-0.0142,0.0007,0.0149
 2023-04-29 18:40:46.725527,MLB Futures - MLB 2023 National League West - National League West Winner,Arizona Diamondbacks,-0.014399999999999996,0.0625,0.0769
-2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Darren Clarke,-0.0145,0.0004,0.0149
-2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Paul Stankowski,-0.0145,0.0004,0.0149
-2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Stuart Appleby,-0.0145,0.0004,0.0149
-2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,John Huston,-0.0145,0.0004,0.0149
 2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Retief Goosen,-0.0145,0.0004,0.0149
-2023-04-29 17:40:52.458897,BKFC 41 - Mike Perry vs Luke Rockhold - To Win the Bout,Luke Rockhold,-0.01479999999999998,0.3774,0.3922
+2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Paul Stankowski,-0.0145,0.0004,0.0149
+2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,John Huston,-0.0145,0.0004,0.0149
+2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Stuart Appleby,-0.0145,0.0004,0.0149
+2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Darren Clarke,-0.0145,0.0004,0.0149
+2023-04-30 05:40:51.573996,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Lakers,-0.01469999999999999,0.2353,0.25
 2023-04-29 18:40:44.968156,Ron DeSantis Specials - When will Ron DeSantis announce his run for the 2024 presidency? - When will DeSantis announce his run for president?,September 2023,-0.014899999999999997,0.0476,0.0625
 2023-04-29 18:40:46.699429,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,-0.015100000000000002,0.1667,0.1818
 2023-04-29 18:40:46.716730,MLB Futures - MLB 2023 National League East - National League East Winner,Miami Marlins,-0.016600000000000004,0.0179,0.0345
+2023-04-30 05:40:51.585055,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Philadelphia 76ers,-0.016700000000000007,0.0833,0.1
 2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Linnea Johansson,-0.0171,0.0008,0.0179
 2023-04-29 19:40:44.541133,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Philadelphia 76ers,-0.01759999999999999,0.1,0.1176
 2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Patty Tavatanakit,-0.0188,0.0008,0.0196
@@ -101,23 +109,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-30 02:40:46.830872,Main Markets - Final Round 3 Balls - F. Molinari / C. Hoffman / S. Piercy - Outright,Francesco Molinari,-0.019500000000000017,0.3509,0.3704
 2023-04-29 18:40:46.725527,MLB Futures - MLB 2023 National League West - National League West Winner,San Diego Padres,-0.019699999999999995,0.4348,0.4545
 2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Minjee Lee,-0.0204,0.004,0.0244
+2023-04-30 05:40:51.376111,Round Match-Ups - Final Round Match-Up - W. Gordon vs A. Smotherman - Final Round Match-Up,Austin Smotherman,-0.020699999999999996,0.4444,0.4651
 2023-04-29 19:40:43.901797,BKFC 41 - Chris Camozzi vs Daniel Spohn - To Win the Bout,Daniel Spohn,-0.020799999999999985,0.3125,0.3333
 2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Caroline Inglis,-0.0215,0.0079,0.0294
 2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Jerry Kelly,-0.021900000000000003,0.0025,0.0244
 2023-04-29 21:40:45.494676,Professional Baseball - NPB 2023 - Outright,Fukuoka SoftBank Hawks,-0.022199999999999998,0.2,0.2222
 2023-04-30 04:40:41.478981,Round Match-Ups - Final Round Match-Up - H. Hall vs F. Molinari - Final Round Match-Up,Francesco Molinari,-0.022699999999999998,0.4651,0.4878
 2023-04-29 21:40:45.565098,MLB Futures - MLB 2023 National League Central - National League Central Winner,St. Louis Cardinals,-0.022699999999999998,0.2273,0.25
+2023-04-30 05:40:51.313650,Round Match-Ups - Final Round Match-Up - E. Cole vs E. van Rooyen - Final Round Match-Up,Erik Van Rooyen,-0.022699999999999998,0.4651,0.4878
 2023-04-29 18:40:46.681831,MLB Futures - MLB 2023 American League Central - American League Central Winner,Chicago White Sox,-0.02310000000000001,0.0769,0.1
 2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Amy Yang,-0.023600000000000003,0.0008,0.0244
+2023-04-30 04:40:41.510653,Round Match-Ups - Final Round Match-Up - P. Rodgers vs T. Pendrith - Final Round Match-Up,Taylor Pendrith,-0.023799999999999988,0.4762,0.5
 2023-04-29 18:40:46.663557,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Toronto Blue Jays,-0.023799999999999988,0.1429,0.1667
 2023-04-29 22:40:49.811344,Round Match-Ups - Final Round Match-Up - C. Smith v M. Pereira - Final Round Match-Up,Mito Pereira,-0.023799999999999988,0.4762,0.5
-2023-04-30 04:40:41.510653,Round Match-Ups - Final Round Match-Up - P. Rodgers vs T. Pendrith - Final Round Match-Up,Taylor Pendrith,-0.023799999999999988,0.4762,0.5
 2023-04-29 23:40:55.052359,Round Match-Ups - Final Round Match-Up - C. Ortiz v K. Na - Final Round Match-Up,Kevin Na,-0.023800000000000043,0.5,0.5238
 2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Alison Lee,-0.023899999999999998,0.0196,0.0435
 2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Brett Quigley,-0.0239,0.0005,0.0244
 2023-04-29 23:40:55.169275,Round Match-Ups - Final Round Match-Up - P. Mickelson v S. Vincent - Final Round Match-Up,Scott Vincent,-0.024399999999999977,0.4878,0.5122
-2023-04-30 04:40:41.455169,Round Match-Ups - Final Round Match-Up - C. Hoffman vs S. Piercy - Final Round Match-Up,Scott Piercy,-0.024399999999999977,0.4878,0.5122
+2023-04-30 05:40:51.368953,Round Match-Ups - Final Round Match-Up - V. Norrman vs B. Taylor - Final Round Match-Up,Ben Taylor,-0.024399999999999977,0.4878,0.5122
 2023-04-30 03:40:44.069709,Round Match-Ups - Final Round Match-Up - H. Hall vs F. Molinari - Final Round Match-Up,Francesco Molinari,-0.024399999999999977,0.4878,0.5122
+2023-04-30 05:40:51.287742,Round Match-Ups - Final Round Match-Up - B. Hossler vs E. Grillo - Final Round Match-Up,Emiliano Grillo,-0.024399999999999977,0.4878,0.5122
+2023-04-30 04:40:41.455169,Round Match-Ups - Final Round Match-Up - C. Hoffman vs S. Piercy - Final Round Match-Up,Scott Piercy,-0.024399999999999977,0.4878,0.5122
 2023-04-29 22:40:50.544197,KBO League - KBO League 2023 - Outright,NC Dinos,-0.024999999999999994,0.1,0.125
 2023-04-30 04:40:41.486897,Round Match-Ups - Final Round Match-Up - J. Rahm vs T. Finau - Final Round Match-Up,Tony Finau,-0.025499999999999967,0.4,0.4255
 2023-04-29 21:40:45.550386,MLB Futures - MLB 2023 American League East - American League East Winner,New York Yankees,-0.026000000000000023,0.2597,0.2857
@@ -125,8 +137,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-29 18:40:46.725527,MLB Futures - MLB 2023 National League West - National League West Winner,San Francisco Giants,-0.0286,0.0714,0.1
 2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Stephen Ames,-0.0286,0.0099,0.0385
 2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Mike Weir,-0.0289,0.0005,0.0294
-2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Paul Goydos,-0.028999999999999998,0.0004,0.0294
 2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Richard Green,-0.028999999999999998,0.0004,0.0294
+2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Paul Goydos,-0.028999999999999998,0.0004,0.0294
 2023-04-29 22:40:50.544197,KBO League - KBO League 2023 - Outright,Samsung Lions,-0.030199999999999998,0.0323,0.0625
 2023-04-29 17:40:52.957795,Tucker Carlson Specials - Fox News Share Price At Year End - Fox News (FOXA:NASDAQ) Closing Stock Price on December 31st 2023,$25 to $29.99,-0.030299999999999994,0.3333,0.3636
 2023-04-29 21:40:44.570123,BKFC 41 - Ben Rothwell vs Josh Copeland - To Win the Bout,Ben Rothwell,-0.031000000000000028,0.8261,0.8571
@@ -138,16 +150,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-04-29 18:40:46.716730,MLB Futures - MLB 2023 National League East - National League East Winner,New York Mets,-0.03689999999999999,0.2857,0.3226
 2023-04-29 21:40:44.547768,BKFC 41 - Brandon Girtz vs Christian Torres - To Win the Bout,Christian Torres,-0.041800000000000004,0.303,0.3448
 2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Pernilla Lindberg,-0.042600000000000006,0.005,0.0476
+2023-04-30 05:40:51.585055,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Phoenix Suns,-0.04620000000000002,0.1538,0.2
+2023-04-30 05:40:51.617648,Liga ACB - Liga ACB 2022/23 - Outright,Real Madrid BC,-0.05299999999999999,0.4348,0.4878
 2023-04-29 18:40:46.690498,MLB Futures - MLB 2023 American League East - American League East Winner,Toronto Blue Jays,-0.05299999999999999,0.25,0.303
-2023-04-29 22:40:51.414503,League One - England - League One 2022/23 - Outright,Ipswich Town,-0.05559999999999998,0.4444,0.5
 2023-04-29 18:40:44.968156,Ron DeSantis Specials - When will Ron DeSantis announce his run for the 2024 presidency? - When will DeSantis announce his run for president?,June 2023,-0.05559999999999998,0.5,0.5556
+2023-04-29 22:40:51.414503,League One - England - League One 2022/23 - Outright,Ipswich Town,-0.05559999999999998,0.4444,0.5
 2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Padraig Harrington,-0.056799999999999996,0.002,0.0588
 2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Ayaka Furue,-0.060099999999999994,0.0066,0.0667
+2023-04-30 05:40:51.573996,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Phoenix Suns,-0.06059999999999999,0.303,0.3636
 2023-04-30 04:40:41.556989,Insperity Invitational - Insperity Invitational - Outright,Justin Leonard,-0.06459999999999999,0.0123,0.0769
 2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Nelly Korda,-0.06760000000000001,0.0435,0.1111
 2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Hyo Joo Kim,-0.0703,0.0066,0.0769
 2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Aditi Ashok,-0.07060000000000001,0.0294,0.1
-2023-04-29 16:40:47.301745,BKFC 41 - Brandon Girtz vs Christian Torres - To Win the Bout,Christian Torres,-0.07190000000000002,0.3448,0.4167
 2023-04-29 22:40:51.435284,League One - England - League One 2022/23 - Top 6 Finish,Peterborough United,-0.09889999999999999,0.2857,0.3846
 2023-04-30 03:40:44.125832,JM Eagle LA Championship - JM Eagle LA Championship - Outright,Jin Young Ko,-0.099,0.001,0.1
 2023-04-29 21:40:44.540725,BKFC 41 - Mike Alvarado vs James Brown - To Win the Bout,James Brown,-0.12,0.4878,0.6078
