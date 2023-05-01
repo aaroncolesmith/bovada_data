@@ -31,8 +31,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-01 15:40:49.138607,Boxing Lines - Jake Paul vs Nate Diaz - To Win the Bout,Nate Diaz,0.020799999999999985,0.3333,0.3125
 2023-05-01 17:40:41.486788,Box Office Specials - Highest Worldwide Box Office 2023 - Highest Worldwide Box Office Ranking For 2023,Fast X,0.02020000000000001,0.1111,0.0909
 2023-05-01 17:40:40.717296,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,No,0.01999999999999999,0.2105,0.1905
-2023-05-01 15:40:49.683624,Italian Open - Italian Open - Outright,Romain Langasque,0.0192,0.0196,0.0004
+2023-05-01 22:40:38.858322,NBA Daily Specials - NBA Daily Specials - Monday 1st May,"76ers, Celtics, Suns & Nuggets All To Score 50+ Points In Each Half",0.019699999999999995,0.125,0.1053
 2023-05-01 15:40:49.683624,Italian Open - Italian Open - Outright,Scott Jamieson,0.0192,0.0196,0.0004
+2023-05-01 15:40:49.683624,Italian Open - Italian Open - Outright,Romain Langasque,0.0192,0.0196,0.0004
 2023-05-01 15:40:49.683624,Italian Open - Italian Open - Outright,Edoardo Molinari,0.0191,0.0196,0.0005
 2023-05-01 17:40:41.530147,Tucker Carlson Specials - Tucker Carlson 2023 Broadcasts - To Broadcast A Tucker Carlson Hosted Show This Year,The Daily Wire,0.019000000000000017,0.2857,0.2667
 2023-05-01 17:40:40.703421,Ron DeSantis Specials - When will Ron DeSantis announce his run for the 2024 presidency? - When will DeSantis announce his run for president?,May 2023,0.018100000000000005,0.4348,0.4167
@@ -45,11 +46,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-01 12:40:39.290851,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Defensive Rookie of the Year,Will McDonald IV,0.015300000000000001,0.0476,0.0323
 2023-05-01 15:40:49.683624,Italian Open - Italian Open - Outright,Joost Luiten,0.0153,0.0294,0.0141
 2023-05-01 14:40:51.486219,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Jordan Walker (STL),0.014899999999999997,0.0625,0.0476
-2023-05-01 15:40:49.683624,Italian Open - Italian Open - Outright,Marcel Schneider,0.0145,0.0149,0.0004
 2023-05-01 15:40:49.683624,Italian Open - Italian Open - Outright,Jazz Janewattananond,0.0145,0.0149,0.0004
+2023-05-01 15:40:49.683624,Italian Open - Italian Open - Outright,Marcel Schneider,0.0145,0.0149,0.0004
 2023-05-01 17:40:41.603947,Royal Family - Coronation: Specials - Coronation: Specials,Royal state coach to be hit with eggs during procession from Westminster Abbey,0.013999999999999999,0.0909,0.0769
-2023-05-01 15:40:49.683624,Italian Open - Italian Open - Outright,Callum Shinkwin,0.0139,0.0149,0.001
 2023-05-01 15:40:49.683624,Italian Open - Italian Open - Outright,Gavin Green,0.0139,0.0149,0.001
+2023-05-01 15:40:49.683624,Italian Open - Italian Open - Outright,Callum Shinkwin,0.0139,0.0149,0.001
 2023-05-01 15:40:49.683624,Italian Open - Italian Open - Outright,Mikko Korhonen,0.0139,0.0196,0.0057
 2023-05-01 15:40:49.683624,Italian Open - Italian Open - Outright,Robert MacIntyre,0.0131,0.0476,0.0345
 2023-05-01 11:40:36.863259,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Chivas Guadalajara,0.012899999999999995,0.1667,0.1538
@@ -68,20 +69,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-01 11:40:36.563854,MLB Futures - MLB 2023 Player Awards - American League MVP,Yordan Alvarez (HOU),-0.0102,0.0667,0.0769
 2023-05-01 11:40:36.568887,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Zach Neto (LAA),-0.0102,0.0667,0.0769
 2023-05-01 12:40:39.296110,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Offensive Rookie of the Year,Bijan Robinson,-0.010299999999999976,0.2564,0.2667
-2023-05-01 19:40:38.596787,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Indianapolis Colts,Under 6.5,-0.011099999999999999,0.4651,0.4762
 2023-05-01 19:40:38.617130,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Los Angeles Rams,Under 7.5,-0.011099999999999999,0.4651,0.4762
+2023-05-01 19:40:38.596787,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Indianapolis Colts,Under 6.5,-0.011099999999999999,0.4651,0.4762
 2023-05-01 15:40:49.741127,Futures - US PGA Championship 2023 - Outright,Justin Thomas,-0.011199999999999995,0.0476,0.0588
 2023-05-01 15:40:49.683624,Italian Open - Italian Open - Outright,Oliver Bekker,-0.012100000000000001,0.0123,0.0244
 2023-05-01 15:40:49.155532,Potential Fights - Gervonta Davis vs Shakur Stevenson - To Win the Bout,Shakur Stevenson,-0.012699999999999989,0.3509,0.3636
 2023-05-01 11:40:36.563854,MLB Futures - MLB 2023 Player Awards - American League MVP,Aaron Judge (NYY),-0.013999999999999999,0.0769,0.0909
 2023-05-01 11:40:36.584412,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Brett Baty (NYM),-0.014399999999999996,0.0625,0.0769
-2023-05-01 11:40:36.579298,MLB Futures - MLB 2023 Player Awards - National League MVP,Juan Soto (SD),-0.014399999999999996,0.0625,0.0769
 2023-05-01 17:40:42.083039,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Dylan Cease,-0.014399999999999996,0.0625,0.0769
+2023-05-01 11:40:36.579298,MLB Futures - MLB 2023 Player Awards - National League MVP,Juan Soto (SD),-0.014399999999999996,0.0625,0.0769
 2023-05-01 11:40:36.318292,AFC North - AFC North 2023/24 - AFC North Winner,Cleveland Browns,-0.01469999999999999,0.2353,0.25
 2023-05-01 11:40:36.574020,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Sandy Alcantara (MIA),-0.014899999999999997,0.0476,0.0625
 2023-05-01 11:40:36.579298,MLB Futures - MLB 2023 Player Awards - National League MVP,Austin Riley (ATL),-0.014899999999999997,0.0476,0.0625
-2023-05-01 11:40:36.574020,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Justin Verlander (NYM),-0.015300000000000001,0.0323,0.0476
 2023-05-01 15:40:49.683624,Italian Open - Italian Open - Outright,Victor Perez,-0.015300000000000001,0.0435,0.0588
+2023-05-01 11:40:36.574020,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Justin Verlander (NYM),-0.015300000000000001,0.0323,0.0476
 2023-05-01 19:40:38.592749,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Green Bay Packers,Over 7.5,-0.016699999999999937,0.5833,0.6
 2023-05-01 15:40:49.138607,Boxing Lines - Jake Paul vs Nate Diaz - To Win the Bout,Jake Paul,-0.016700000000000048,0.7333,0.75
 2023-05-01 11:40:36.366490,NFC West - NFC West 2023/24 - NFC West Winner,San Francisco 49ers,-0.01759999999999995,0.6491,0.6667
@@ -96,9 +97,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-01 11:40:36.579298,MLB Futures - MLB 2023 Player Awards - National League MVP,Trea Turner (PHI),-0.02020000000000001,0.0909,0.1111
 2023-05-01 11:40:36.318292,AFC North - AFC North 2023/24 - AFC North Winner,Cincinnati Bengals,-0.021699999999999997,0.4545,0.4762
 2023-05-01 11:40:36.579298,MLB Futures - MLB 2023 Player Awards - National League MVP,Pete Alonso (NYM),-0.022199999999999998,0.1111,0.1333
-2023-05-01 11:40:36.584412,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Spencer Steer (CIN),-0.024,0.0385,0.0625
-2023-05-01 11:40:36.579298,MLB Futures - MLB 2023 Player Awards - National League MVP,Nolan Arenado (STL),-0.024,0.0385,0.0625
 2023-05-01 11:40:36.574020,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Zack Wheeler,-0.024,0.0385,0.0625
+2023-05-01 11:40:36.579298,MLB Futures - MLB 2023 Player Awards - National League MVP,Nolan Arenado (STL),-0.024,0.0385,0.0625
+2023-05-01 11:40:36.584412,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Spencer Steer (CIN),-0.024,0.0385,0.0625
 2023-05-01 11:40:36.574020,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Max Scherzer (NYM),-0.024,0.0385,0.0625
 2023-05-01 19:40:39.716936,Copa del Rey - Copa Del Rey 2022/2023 - Winner,Osasuna,-0.02779999999999999,0.2222,0.25
 2023-05-01 11:40:36.574020,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Julio Urías,-0.028399999999999995,0.0625,0.0909
