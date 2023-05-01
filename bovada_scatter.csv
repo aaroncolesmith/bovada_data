@@ -22,7 +22,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-01 05:40:40.224785,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,"Robert Kennedy, Jr",0.0573,0.0769,0.0196
 2023-04-30 21:40:45.562827,NBA Awards - Eastern Conference Finals MVP - ECF MVP,Jaylen Brown (BOS),0.05710000000000001,0.2,0.1429
 2023-04-30 22:40:42.685077,Superligaen - Denmark Superligaen 2022/23 - Outright,Viborg FF,0.05639999999999999,0.0909,0.0345
-2023-04-30 20:40:47.715682,MLB Futures - MLB 2023 American League Central - American League Central Winner,Cleveland Guardians,0.055900000000000005,0.3636,0.3077
 2023-05-01 07:40:42.920996,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Southampton,0.052000000000000046,0.9091,0.8571
 2023-05-01 03:40:49.900356,NBA Awards - Western Conference Finals MVP - WCF MVP,Nikola Jokic (DEN),0.0504,0.2857,0.2353
 2023-05-01 08:40:42.092420,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Cuiabá,0.050000000000000044,0.8,0.75
@@ -31,19 +30,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-01 03:40:49.900356,NBA Awards - Western Conference Finals MVP - WCF MVP,Jamal Murray (DEN),0.047099999999999996,0.0667,0.0196
 2023-05-01 05:40:40.363534,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Boston Celtics,0.04579999999999995,0.7333,0.6875
 2023-05-01 08:40:42.092420,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,América Mineiro,0.044800000000000006,0.3226,0.2778
-2023-04-30 22:40:42.552980,1. Bundesliga - Germany Bundesliga 2022/23 - Winner,Bayern Munich,0.044500000000000095,0.7778,0.7333
 2023-05-01 08:40:41.980165,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Kylian Mbappe,0.044500000000000095,0.7778,0.7333
+2023-04-30 22:40:42.552980,1. Bundesliga - Germany Bundesliga 2022/23 - Winner,Bayern Munich,0.044500000000000095,0.7778,0.7333
 2023-05-01 07:40:42.702242,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Villarreal,0.044499999999999984,0.2667,0.2222
 2023-05-01 08:40:42.206893,Super League - Greece Super League 2022/23 - Winner,AEK Athens,0.044399999999999995,0.6,0.5556
 2023-04-30 21:40:45.531485,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Miami Heat,0.042899999999999994,0.1429,0.1
 2023-05-01 08:40:42.041314,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Hertha BSC,0.041200000000000014,0.9412,0.9
-2023-04-30 20:40:47.724827,MLB Futures - MLB 2023 American League East - American League East Winner,Toronto Blue Jays,0.04099999999999998,0.3077,0.2667
-2023-04-30 20:40:47.752439,MLB Futures - MLB 2023 National League East - National League East Winner,New York Mets,0.04099999999999998,0.3077,0.2667
-2023-04-30 20:40:47.695004,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Toronto Blue Jays,0.03889999999999999,0.1818,0.1429
-2023-04-30 20:40:47.734038,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,0.036599999999999994,0.2105,0.1739
-2023-05-01 08:40:42.092420,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Goiás,0.03639999999999999,0.6364,0.6
 2023-05-01 08:40:41.975228,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Marseille,0.03639999999999999,0.6364,0.6
-2023-04-30 20:40:47.743161,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,0.03610000000000002,0.5917,0.5556
+2023-05-01 08:40:42.092420,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Goiás,0.03639999999999999,0.6364,0.6
 2023-05-01 05:40:40.369234,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,0.034499999999999975,0.3571,0.3226
 2023-05-01 08:40:41.989663,Ligue 1 - France Ligue 1 2022/23 - Top 3 Finish,Lens,0.034399999999999986,0.9756,0.9412
 2023-05-01 03:40:49.900356,NBA Awards - Western Conference Finals MVP - WCF MVP,LeBron James (LAL),0.033300000000000024,0.2,0.1667
@@ -57,14 +51,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-01 05:40:40.461941,MLB Futures - MLB 2023 American League East - American League East Winner,Baltimore Orioles,0.028199999999999996,0.0667,0.0385
 2023-05-01 03:40:49.900356,NBA Awards - Western Conference Finals MVP - WCF MVP,Anthony Davis (LAL),0.0267,0.1176,0.0909
 2023-05-01 07:40:42.916282,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Everton,0.025600000000000067,0.6923,0.6667
+2023-05-01 08:40:42.096411,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Internacional,0.02560000000000001,0.3333,0.3077
 2023-05-01 07:40:42.697576,La Liga - Spain La Liga 2022/23 - To Be Relegated,Almería,0.02560000000000001,0.3333,0.3077
 2023-05-01 08:40:42.092420,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,RB Bragantino,0.02560000000000001,0.3333,0.3077
-2023-05-01 08:40:42.096411,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Internacional,0.02560000000000001,0.3333,0.3077
-2023-05-01 08:40:42.100406,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Grêmio,0.025499999999999967,0.4255,0.4
 2023-05-01 08:40:42.087999,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Palmeiras,0.025499999999999967,0.4255,0.4
+2023-05-01 08:40:42.100406,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Grêmio,0.025499999999999967,0.4255,0.4
 2023-05-01 06:40:38.871845,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,New York Mets,0.023799999999999988,0.1667,0.1429
-2023-05-01 08:40:42.036657,1. Bundesliga - Germany Bundesliga 2022/23 - Winner without Bayern Munich,RB Leipzig,0.023200000000000002,0.0476,0.0244
 2023-05-01 08:40:42.036657,1. Bundesliga - Germany Bundesliga 2022/23 - Winner without Bayern Munich,Freiburg,0.023200000000000002,0.0476,0.0244
+2023-05-01 08:40:42.036657,1. Bundesliga - Germany Bundesliga 2022/23 - Winner without Bayern Munich,RB Leipzig,0.023200000000000002,0.0476,0.0244
 2023-05-01 08:40:42.212974,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,FC Porto,0.022199999999999998,0.2222,0.2
 2023-05-01 05:40:40.404659,NBA Awards - Western Conference Finals MVP - WCF MVP,Nikola Jokic (DEN),0.021999999999999964,0.3077,0.2857
 2023-05-01 08:40:42.100406,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Cruzeiro,0.02049999999999999,0.1538,0.1333
@@ -81,19 +75,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-01 08:40:42.100406,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Palmeiras,0.018100000000000005,0.9412,0.9231
 2023-05-01 07:40:42.843252,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,Defensa y Justicia,0.018099999999999998,0.0769,0.0588
 2023-05-01 08:40:42.096411,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Cruzeiro,0.018099999999999998,0.0769,0.0588
-2023-05-01 08:40:42.075335,MLS - MLS 2023 - Top Goalscorer,Denis Bouanga (LAFC),0.0179,0.1429,0.125
 2023-05-01 08:40:42.096411,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Fortaleza,0.0179,0.1429,0.125
-2023-04-30 20:40:47.752439,MLB Futures - MLB 2023 National League East - National League East Winner,Philadelphia Phillies,0.01759999999999999,0.1176,0.1
+2023-05-01 08:40:42.075335,MLS - MLS 2023 - Top Goalscorer,Denis Bouanga (LAFC),0.0179,0.1429,0.125
 2023-05-01 08:40:42.100406,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Fortaleza,0.016699999999999993,0.2667,0.25
 2023-05-01 07:40:42.916282,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Nottingham Forest,0.016699999999999937,0.6,0.5833
-2023-05-01 03:40:49.860810,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Miami Heat,0.015300000000000001,0.0476,0.0323
 2023-05-01 03:40:49.592493,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Baltimore Orioles,0.015300000000000001,0.0476,0.0323
+2023-05-01 03:40:49.860810,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Miami Heat,0.015300000000000001,0.0476,0.0323
 2023-05-01 05:40:40.461941,MLB Futures - MLB 2023 American League East - American League East Winner,Toronto Blue Jays,0.014900000000000024,0.3226,0.3077
 2023-05-01 08:40:42.087999,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Botafogo,0.014900000000000004,0.0345,0.0196
 2023-05-01 05:40:40.443562,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Seattle Mariners,0.014899999999999997,0.0625,0.0476
 2023-05-01 03:40:49.852072,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Lakers,0.01469999999999999,0.25,0.2353
 2023-05-01 03:40:49.592493,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Boston Red Sox,0.014400000000000003,0.0323,0.0179
-2023-04-30 20:40:48.039318,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester City,0.014100000000000001,0.9474,0.9333
 2023-05-01 08:40:42.092420,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Corinthians,0.013999999999999999,0.0909,0.0769
 2023-05-01 08:40:42.092420,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Athletico Paranaense,0.013999999999999999,0.0909,0.0769
 2023-05-01 05:40:40.369234,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Golden State Warriors,0.013600000000000001,0.3077,0.2941
@@ -101,83 +93,74 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-01 03:40:49.584447,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Miami Marlins,0.013,0.0196,0.0066
 2023-05-01 06:40:38.871845,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Arizona Diamondbacks,0.012700000000000003,0.0323,0.0196
 2023-05-01 05:40:40.467676,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,0.011700000000000016,0.2222,0.2105
-2023-04-30 20:40:47.752439,MLB Futures - MLB 2023 National League East - National League East Winner,Miami Marlins,0.0115,0.0294,0.0179
 2023-05-01 08:40:42.100406,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Atlético Mineiro,0.011499999999999955,0.6667,0.6552
-2023-05-01 08:40:42.087999,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Internacional,0.011199999999999995,0.0588,0.0476
-2023-05-01 05:40:40.224785,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Gavin Newsom,0.011199999999999995,0.0588,0.0476
 2023-05-01 08:40:42.096411,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Santos,0.011199999999999995,0.0588,0.0476
+2023-05-01 05:40:40.224785,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Gavin Newsom,0.011199999999999995,0.0588,0.0476
+2023-05-01 08:40:42.087999,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Internacional,0.011199999999999995,0.0588,0.0476
 2023-05-01 03:40:49.592493,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,New York Yankees,0.010899999999999993,0.1538,0.1429
 2023-05-01 05:40:40.363534,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Miami Heat,0.010899999999999993,0.1538,0.1429
 2023-05-01 08:40:42.024793,1. Bundesliga - Germany Bundesliga 2022/23 - Top Goalscorer,Vincenzo Grifo,0.0102,0.0769,0.0667
 2023-05-01 07:40:42.692857,La Liga - Spain La Liga 2022/23 - Winner without Real Madrid & Barcelona,Real Sociedad,0.010100000000000001,0.0345,0.0244
 2023-05-01 05:40:40.398528,NBA Awards - Eastern Conference Finals MVP - ECF MVP,Jayson Tatum (BOS),0.010099999999999998,0.5556,0.5455
-2023-05-01 06:40:39.266461,USFL - Odds to win 2023 USFL Championship - Championship Winner,Birmingham Stallions,-0.010099999999999998,0.3125,0.3226
 2023-04-30 21:40:45.562827,NBA Awards - Eastern Conference Finals MVP - ECF MVP,Jayson Tatum (BOS),-0.010099999999999998,0.5455,0.5556
+2023-05-01 06:40:39.266461,USFL - Odds to win 2023 USFL Championship - Championship Winner,Birmingham Stallions,-0.010099999999999998,0.3125,0.3226
 2023-05-01 05:40:40.455964,MLB Futures - MLB 2023 American League Central - American League Central Winner,Chicago White Sox,-0.0102,0.0667,0.0769
 2023-05-01 03:40:49.852072,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,-0.010699999999999987,0.3226,0.3333
-2023-04-30 20:40:47.706341,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,San Francisco Giants,-0.010700000000000001,0.0278,0.0385
-2023-04-30 20:40:47.706341,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Chicago Cubs,-0.010700000000000001,0.0278,0.0385
-2023-04-30 20:40:47.695004,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,New York Yankees,-0.010899999999999993,0.1429,0.1538
 2023-05-01 06:40:39.266461,USFL - Odds to win 2023 USFL Championship - Championship Winner,Michigan Panthers,-0.010899999999999993,0.1429,0.1538
 2023-05-01 05:40:40.377127,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Phoenix Suns,-0.010899999999999993,0.1429,0.1538
 2023-05-01 05:40:40.461941,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,-0.01100000000000001,0.5238,0.5348
-2023-04-30 20:40:47.695004,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Minnesota Twins,-0.011099999999999999,0.1,0.1111
 2023-05-01 08:40:42.087999,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Atlético Mineiro,-0.011099999999999999,0.1,0.1111
 2023-05-01 07:40:42.843252,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,Belgrano,-0.011199999999999995,0.0476,0.0588
 2023-05-01 05:40:40.398528,NBA Awards - Eastern Conference Finals MVP - ECF MVP,Julius Randle (NYK),-0.011199999999999995,0.0476,0.0588
 2023-05-01 05:40:40.443562,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Tampa Bay Rays,-0.011700000000000016,0.2105,0.2222
-2023-04-30 20:40:47.734038,MLB Futures - MLB 2023 American League West - American League West Winner,Los Angeles Angels,-0.012899999999999995,0.1538,0.1667
 2023-05-01 07:40:42.117732,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Golden State Warriors,-0.013600000000000001,0.2941,0.3077
-2023-05-01 05:40:40.398528,NBA Awards - Eastern Conference Finals MVP - ECF MVP,Jimmy Butler (MIA),-0.013899999999999996,0.1111,0.125
 2023-05-01 08:40:42.100406,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,América Mineiro,-0.013899999999999996,0.1111,0.125
+2023-05-01 05:40:40.398528,NBA Awards - Eastern Conference Finals MVP - ECF MVP,Jimmy Butler (MIA),-0.013899999999999996,0.1111,0.125
 2023-05-01 08:40:42.075335,MLS - MLS 2023 - Top Goalscorer,Georgios Giakoumakis (ATL),-0.013999999999999999,0.0769,0.0909
 2023-05-01 03:40:49.860810,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,New York Knicks,-0.014100000000000001,0.0385,0.0526
 2023-05-01 05:40:40.410831,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Jimmy Butler (MIA),-0.014100000000000001,0.0385,0.0526
 2023-05-01 05:40:40.443562,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Minnesota Twins,-0.014399999999999996,0.0625,0.0769
 2023-05-01 05:40:40.410831,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Kevin Durant (PHX),-0.01440000000000001,0.0909,0.1053
 2023-04-30 22:40:42.535063,Ligue 1 - France Ligue 1 2022/23 - Winner,Lens,-0.0145,0.0099,0.0244
+2023-05-01 07:40:42.126822,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Golden State Warriors,-0.015100000000000002,0.1667,0.1818
 2023-05-01 08:40:42.100406,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Fluminense,-0.015100000000000002,0.8182,0.8333
 2023-04-30 21:40:45.562827,NBA Awards - Eastern Conference Finals MVP - ECF MVP,Joel Embiid (PHI),-0.015100000000000002,0.1667,0.1818
-2023-05-01 07:40:42.126822,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Golden State Warriors,-0.015100000000000002,0.1667,0.1818
 2023-05-01 07:40:42.843252,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,Rosario Central,-0.015300000000000001,0.0435,0.0588
-2023-05-01 07:40:42.117732,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Phoenix Suns,-0.015400000000000025,0.2703,0.2857
 2023-05-01 07:40:42.930410,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Everton,-0.015400000000000025,0.3846,0.4
+2023-05-01 07:40:42.117732,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Phoenix Suns,-0.015400000000000025,0.2703,0.2857
 2023-05-01 07:40:42.108638,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,New York Knicks,-0.015899999999999997,0.0952,0.1111
 2023-05-01 05:40:40.404659,NBA Awards - Western Conference Finals MVP - WCF MVP,Stephen Curry (GSW),-0.016699999999999993,0.25,0.2667
 2023-04-30 22:40:42.535063,Ligue 1 - France Ligue 1 2022/23 - Winner,Marseille,-0.017099999999999997,0.0123,0.0294
 2023-05-01 05:40:40.480163,MLB Futures - MLB 2023 National League East - National League East Winner,Philadelphia Phillies,-0.01759999999999999,0.1,0.1176
 2023-05-01 05:40:40.410831,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Jayson Tatum (BOS),-0.017600000000000005,0.3333,0.3509
-2023-04-30 20:40:47.734038,MLB Futures - MLB 2023 American League West - American League West Winner,Seattle Mariners,-0.0179,0.125,0.1429
-2023-05-01 05:40:40.398528,NBA Awards - Eastern Conference Finals MVP - ECF MVP,Jalen Brunson (NYK),-0.018099999999999998,0.0588,0.0769
 2023-04-30 21:40:45.562827,NBA Awards - Eastern Conference Finals MVP - ECF MVP,Julius Randle (NYK),-0.018099999999999998,0.0588,0.0769
-2023-05-01 05:40:40.398528,NBA Awards - Eastern Conference Finals MVP - ECF MVP,Jaylen Brown (BOS),-0.01820000000000002,0.1818,0.2
+2023-05-01 05:40:40.398528,NBA Awards - Eastern Conference Finals MVP - ECF MVP,Jalen Brunson (NYK),-0.018099999999999998,0.0588,0.0769
 2023-05-01 08:40:42.096411,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Athletico Paranaense,-0.01820000000000002,0.1818,0.2
+2023-05-01 05:40:40.398528,NBA Awards - Eastern Conference Finals MVP - ECF MVP,Jaylen Brown (BOS),-0.01820000000000002,0.1818,0.2
 2023-05-01 08:40:42.036657,1. Bundesliga - Germany Bundesliga 2022/23 - Winner without Bayern Munich,Borussia Dortmund,-0.018900000000000028,0.9615,0.9804
 2023-05-01 08:40:41.980165,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Jonathan David,-0.019000000000000017,0.2667,0.2857
 2023-05-01 06:40:38.871845,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,St. Louis Cardinals,-0.019099999999999992,0.0476,0.0667
 2023-05-01 08:40:42.096411,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Goiás,-0.019499999999999997,0.0099,0.0294
-2023-04-30 20:40:48.039318,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Arsenal,-0.02020000000000001,0.0909,0.1111
 2023-05-01 08:40:42.096411,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,RB Bragantino,-0.0203,0.0385,0.0588
 2023-05-01 08:40:41.975228,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Monaco,-0.0204,0.004,0.0244
 2023-05-01 07:40:42.937566,Greece Cup - Greece Cup 2022/23 - Winner,PAOK Thessaloniki,-0.021699999999999997,0.4545,0.4762
-2023-05-01 08:40:42.220160,Allsvenskan - Allsvenskan 2023 - Winner,BK Häcken,-0.021999999999999964,0.2857,0.3077
 2023-05-01 05:40:40.480163,MLB Futures - MLB 2023 National League East - National League East Winner,New York Mets,-0.021999999999999964,0.2857,0.3077
+2023-05-01 08:40:42.220160,Allsvenskan - Allsvenskan 2023 - Winner,BK Häcken,-0.021999999999999964,0.2857,0.3077
 2023-05-01 07:40:42.697576,La Liga - Spain La Liga 2022/23 - To Be Relegated,Espanyol,-0.02200000000000002,0.6923,0.7143
-2023-05-01 05:40:40.404659,NBA Awards - Western Conference Finals MVP - WCF MVP,Kevin Durant (PHX),-0.022199999999999998,0.2,0.2222
 2023-05-01 05:40:40.480163,MLB Futures - MLB 2023 National League East - National League East Winner,Atlanta Braves,-0.022199999999999998,0.6552,0.6774
-2023-04-30 20:40:47.724827,MLB Futures - MLB 2023 American League East - American League East Winner,New York Yankees,-0.022699999999999998,0.2273,0.25
+2023-05-01 05:40:40.404659,NBA Awards - Western Conference Finals MVP - WCF MVP,Kevin Durant (PHX),-0.022199999999999998,0.2,0.2222
 2023-05-01 03:40:49.592493,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Minnesota Twins,-0.02310000000000001,0.0769,0.1
 2023-05-01 08:40:42.096411,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Bahia,-0.023200000000000002,0.0244,0.0476
-2023-05-01 07:40:42.117732,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,-0.023799999999999988,0.3333,0.3571
-2023-05-01 07:40:42.930410,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Nottingham Forest,-0.023799999999999988,0.4762,0.5
 2023-05-01 08:40:42.100406,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Corinthians,-0.023799999999999988,0.3333,0.3571
 2023-05-01 08:40:42.092420,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Fortaleza,-0.023799999999999988,0.1429,0.1667
+2023-05-01 07:40:42.930410,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Nottingham Forest,-0.023799999999999988,0.4762,0.5
+2023-05-01 07:40:42.117732,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,-0.023799999999999988,0.3333,0.3571
 2023-05-01 07:40:42.920996,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Leicester City,-0.023899999999999998,0.0196,0.0435
 2023-05-01 05:40:40.410831,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Joel Embiid (PHI),-0.0242,0.0667,0.0909
 2023-05-01 08:40:41.980165,Ligue 1 - France Ligue 1 2022/23 - Top Goalscorer,Alexandre Lacazette,-0.024999999999999994,0.1,0.125
 2023-05-01 03:40:49.852072,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Phoenix Suns,-0.0252,0.2778,0.303
-2023-05-01 05:40:40.404659,NBA Awards - Western Conference Finals MVP - WCF MVP,Devin Booker (PHX),-0.025300000000000003,0.1176,0.1429
 2023-05-01 07:40:42.126822,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Los Angeles Lakers,-0.025300000000000003,0.1176,0.1429
+2023-05-01 05:40:40.404659,NBA Awards - Western Conference Finals MVP - WCF MVP,Devin Booker (PHX),-0.025300000000000003,0.1176,0.1429
 2023-05-01 05:40:40.404659,NBA Awards - Western Conference Finals MVP - WCF MVP,Anthony Davis (LAL),-0.0267,0.0909,0.1176
 2023-05-01 08:40:42.092420,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Santos,-0.02679999999999999,0.2857,0.3125
 2023-05-01 03:40:49.900356,NBA Awards - Western Conference Finals MVP - WCF MVP,Kevin Durant (PHX),-0.02779999999999999,0.2222,0.25
@@ -185,17 +168,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-01 08:40:42.100406,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Goiás,-0.028000000000000004,0.0196,0.0476
 2023-05-01 08:40:42.075335,MLS - MLS 2023 - Top Goalscorer,Jordan Morris (SEA),-0.028799999999999992,0.125,0.1538
 2023-05-01 08:40:42.212974,Primeira Liga - Portugal Primeira Liga 2022/23 - Outright,Benfica,-0.028800000000000048,0.8462,0.875
-2023-04-30 20:40:47.695004,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Seattle Mariners,-0.029299999999999993,0.0476,0.0769
 2023-05-01 08:40:42.100406,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Athletico Paranaense,-0.030299999999999994,0.3333,0.3636
-2023-05-01 08:40:41.975228,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Lens,-0.031799999999999995,0.4444,0.4762
 2023-04-30 21:40:45.531485,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,New York Knicks,-0.031799999999999995,0.1111,0.1429
+2023-05-01 08:40:41.975228,Ligue 1 - France Ligue 1 2022/23 - Winner without PSG,Lens,-0.031799999999999995,0.4444,0.4762
 2023-05-01 05:40:40.410831,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,LeBron James (LAL),-0.0321,0.0588,0.0909
 2023-05-01 07:40:42.117732,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Lakers,-0.03259999999999999,0.2174,0.25
 2023-05-01 08:40:42.220160,Allsvenskan - Allsvenskan 2023 - Winner,Djurgårdens IF,-0.033299999999999996,0.1,0.1333
 2023-05-01 05:40:40.404659,NBA Awards - Western Conference Finals MVP - WCF MVP,LeBron James (LAL),-0.033300000000000024,0.1667,0.2
 2023-05-01 07:40:42.920996,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Everton,-0.034100000000000005,0.0909,0.125
 2023-05-01 07:40:42.702242,La Liga - Spain La Liga 2022/23 - Top 4 Finish,Real Betis,-0.0344,0.0244,0.0588
-2023-04-30 20:40:47.752439,MLB Futures - MLB 2023 National League East - National League East Winner,Atlanta Braves,-0.036900000000000044,0.6774,0.7143
 2023-05-01 07:40:42.930410,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Southampton,-0.0384,0.0385,0.0769
 2023-05-01 03:40:49.900356,NBA Awards - Western Conference Finals MVP - WCF MVP,Devin Booker (PHX),-0.03889999999999999,0.1429,0.1818
 2023-05-01 07:40:42.108638,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Boston Celtics,-0.040999999999999925,0.6923,0.7333
@@ -205,10 +186,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-01 05:40:40.461941,MLB Futures - MLB 2023 American League East - American League East Winner,New York Yankees,-0.04550000000000001,0.1818,0.2273
 2023-05-01 08:40:42.096411,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Corinthians,-0.04620000000000002,0.1538,0.2
 2023-05-01 08:40:42.206893,Super League - Greece Super League 2022/23 - Winner,Panathinaikos,-0.04760000000000003,0.4762,0.5238
-2023-04-30 20:40:47.743161,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,-0.04849999999999999,0.1333,0.1818
 2023-04-30 21:40:45.562827,NBA Awards - Eastern Conference Finals MVP - ECF MVP,James Harden (PHI),-0.0491,0.0278,0.0769
 2023-05-01 08:40:42.092420,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Cruzeiro,-0.04999999999999999,0.2,0.25
-2023-04-30 20:40:47.715682,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,-0.05590000000000006,0.6364,0.6923
 2023-05-01 08:40:42.100406,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Flamengo,-0.05709999999999993,0.8,0.8571
 2023-05-01 08:40:42.046670,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Bayer Leverkusen,-0.0635,0.0476,0.1111
 2023-05-01 08:40:41.984953,Ligue 1 - France Ligue 1 2022/23 - To Be Relegated,Strasbourg,-0.06519999999999998,0.2857,0.3509
