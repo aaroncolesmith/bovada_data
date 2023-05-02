@@ -37,20 +37,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-01 15:40:49.683624,Italian Open - Italian Open - Outright,Grant Forrest,0.0171,0.0196,0.0025
 2023-05-01 17:40:42.083039,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Sonny Gray (MIN),0.0159,0.0323,0.0164
 2023-05-01 15:40:49.683624,Italian Open - Italian Open - Outright,Joost Luiten,0.0153,0.0294,0.0141
-2023-05-01 14:40:51.486219,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Jordan Walker (STL),0.014899999999999997,0.0625,0.0476
-2023-05-01 15:40:49.683624,Italian Open - Italian Open - Outright,Marcel Schneider,0.0145,0.0149,0.0004
 2023-05-01 15:40:49.683624,Italian Open - Italian Open - Outright,Jazz Janewattananond,0.0145,0.0149,0.0004
+2023-05-01 15:40:49.683624,Italian Open - Italian Open - Outright,Marcel Schneider,0.0145,0.0149,0.0004
 2023-05-01 17:40:41.603947,Royal Family - Coronation: Specials - Coronation: Specials,Royal state coach to be hit with eggs during procession from Westminster Abbey,0.013999999999999999,0.0909,0.0769
-2023-05-01 15:40:49.683624,Italian Open - Italian Open - Outright,Mikko Korhonen,0.0139,0.0196,0.0057
-2023-05-01 15:40:49.683624,Italian Open - Italian Open - Outright,Callum Shinkwin,0.0139,0.0149,0.001
 2023-05-01 15:40:49.683624,Italian Open - Italian Open - Outright,Gavin Green,0.0139,0.0149,0.001
+2023-05-01 15:40:49.683624,Italian Open - Italian Open - Outright,Callum Shinkwin,0.0139,0.0149,0.001
+2023-05-01 15:40:49.683624,Italian Open - Italian Open - Outright,Mikko Korhonen,0.0139,0.0196,0.0057
 2023-05-01 15:40:49.683624,Italian Open - Italian Open - Outright,Robert MacIntyre,0.0131,0.0476,0.0345
 2023-05-01 15:40:49.683624,Italian Open - Italian Open - Outright,Marcel Siem,0.0119,0.0123,0.0004
 2023-05-01 15:40:49.683624,Italian Open - Italian Open - Outright,Ross Fisher,0.0118,0.0123,0.0005
 2023-05-01 19:40:38.564281,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Carolina Panthers,Under 7.5,0.011600000000000055,0.5238,0.5122
-2023-05-01 15:40:49.683624,Italian Open - Italian Open - Outright,Andy Sullivan,0.011600000000000001,0.0123,0.0007
 2023-05-01 15:40:49.683624,Italian Open - Italian Open - Outright,Masahiro Kawamura,0.011600000000000001,0.0123,0.0007
 2023-05-01 15:40:49.683624,Italian Open - Italian Open - Outright,George Coetzee,0.011600000000000001,0.0123,0.0007
+2023-05-01 15:40:49.683624,Italian Open - Italian Open - Outright,Andy Sullivan,0.011600000000000001,0.0123,0.0007
 2023-05-01 15:40:49.683624,Italian Open - Italian Open - Outright,Sami Valimaki,0.011300000000000001,0.0123,0.001
 2023-05-01 19:40:39.133715,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,May December (Todd Haynes),0.011199999999999995,0.0588,0.0476
 2023-05-02 01:40:44.005454,Super Ligi - Turkey BSL 2022/23 - Outright,Türk Telekom,0.011099999999999999,0.1111,0.1
@@ -58,10 +57,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-01 17:40:41.524165,Tucker Carlson Specials - Tucker Carlson's Next Network - Tucker Carlson's Next Permanent Position,NewsNation,0.010499999999999982,0.2105,0.2
 2023-05-01 15:40:48.909216,2022/23 NBA - The NBA Finals Props - 2022/23 NBA Season - Winner Specials - Winning Division,Southeast,0.010100000000000001,0.0345,0.0244
 2023-05-01 19:40:38.564281,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Carolina Panthers,Over 7.5,-0.010099999999999998,0.5455,0.5556
-2023-05-01 19:40:38.617130,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Los Angeles Rams,Under 7.5,-0.011099999999999999,0.4651,0.4762
 2023-05-01 19:40:38.596787,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Indianapolis Colts,Under 6.5,-0.011099999999999999,0.4651,0.4762
-2023-05-01 15:40:49.741127,Futures - US PGA Championship 2023 - Outright,Justin Thomas,-0.011199999999999995,0.0476,0.0588
+2023-05-01 19:40:38.617130,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Los Angeles Rams,Under 7.5,-0.011099999999999999,0.4651,0.4762
 2023-05-02 01:40:43.990438,Serie A - Serie A 2022/23 - Outright,Derthona Basket Tortona,-0.011199999999999995,0.0476,0.0588
+2023-05-01 15:40:49.741127,Futures - US PGA Championship 2023 - Outright,Justin Thomas,-0.011199999999999995,0.0476,0.0588
 2023-05-01 15:40:49.683624,Italian Open - Italian Open - Outright,Oliver Bekker,-0.012100000000000001,0.0123,0.0244
 2023-05-01 15:40:49.155532,Potential Fights - Gervonta Davis vs Shakur Stevenson - To Win the Bout,Shakur Stevenson,-0.012699999999999989,0.3509,0.3636
 2023-05-01 17:40:42.083039,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Dylan Cease,-0.014399999999999996,0.0625,0.0769
