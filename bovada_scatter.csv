@@ -5,22 +5,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-02 15:40:41.630614,Euroleague - Euroleague 2022/23 - Outright,Maccabi Tel-Aviv,0.0953,0.1429,0.0476
 2023-05-02 08:40:43.866858,NBA Awards - Western Conference Finals MVP - WCF MVP,Nikola Jokic (DEN),0.09230000000000005,0.4,0.3077
 2023-05-02 11:40:41.436305,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Everton,0.09160000000000001,0.4762,0.3846
-2023-05-02 08:40:44.742995,Allsvenskan - Allsvenskan 2023 - Winner,BK Häcken,0.07789999999999997,0.3636,0.2857
 2023-05-02 11:40:41.419762,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leicester City,0.07789999999999997,0.3636,0.2857
+2023-05-02 08:40:44.742995,Allsvenskan - Allsvenskan 2023 - Winner,BK Häcken,0.07789999999999997,0.3636,0.2857
 2023-05-02 11:40:41.436305,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Nottingham Forest,0.06929999999999997,0.5455,0.4762
 2023-05-02 11:40:41.419762,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leeds United,0.05520000000000003,0.6552,0.6
 2023-05-02 11:40:41.431542,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Liverpool,0.0524,0.9615,0.9091
 2023-05-02 09:40:38.766663,Tournament Match-Ups - Tournament Match-Ups - S. Burns vs T. Hatton - Tournament Match-Ups,Tyrrell Hatton,0.035999999999999976,0.5122,0.4762
 2023-05-02 11:40:40.691435,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - New York Giants,Under 8.5,0.03489999999999999,0.5,0.4651
 2023-05-02 08:40:43.873213,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Nikola Jokic (DEN),0.033399999999999985,0.1667,0.1333
+2023-05-02 19:40:49.732762,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,0.03210000000000002,0.4167,0.3846
 2023-05-02 11:40:40.272104,MLB Futures - MLB 2023 Player Awards - National League MVP,Pete Alonso (NYM),0.031799999999999995,0.1429,0.1111
 2023-05-02 11:40:40.276975,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,James Outman (LAD),0.030299999999999994,0.3636,0.3333
 2023-05-02 09:40:39.082715,Championship - England Championship 2022/23 - Top 6 Finish,West Bromwich Albion,0.027999999999999997,0.1818,0.1538
 2023-05-02 11:40:41.431542,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Aston Villa,0.02779999999999999,0.25,0.2222
 2023-05-02 11:40:40.267028,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Justin Steele (CHC),0.0273,0.0323,0.005
 2023-05-02 11:40:40.261954,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Hunter Brown (HOU),0.025300000000000003,0.1429,0.1176
-2023-05-02 09:40:38.742808,Tournament Match-Ups - Tournament Match-Ups - M. Fitzpatrick vs V. Hovland - Tournament Match-Ups,Matthew Fitzpatrick,0.023800000000000043,0.5238,0.5
 2023-05-02 08:40:44.742995,Allsvenskan - Allsvenskan 2023 - Winner,Malmö FF,0.023800000000000043,0.5238,0.5
+2023-05-02 09:40:38.742808,Tournament Match-Ups - Tournament Match-Ups - M. Fitzpatrick vs V. Hovland - Tournament Match-Ups,Matthew Fitzpatrick,0.023800000000000043,0.5238,0.5
 2023-05-02 08:40:43.860454,NBA Awards - Eastern Conference Finals MVP - ECF MVP,Jimmy Butler (MIA),0.022199999999999998,0.1333,0.1111
 2023-05-02 09:40:38.791795,Hanwha LIFEPLUS International Crown - Hanwha LIFEPLUS International Crown - Outright,USA,0.021999999999999964,0.3077,0.2857
 2023-05-02 11:40:40.657927,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Las Vegas Raiders,Under 7.5,0.021699999999999997,0.4762,0.4545
@@ -41,33 +42,34 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-02 08:40:44.768601,Superettan - Superettan 2023 - Winner,GAIS,0.013899999999999996,0.125,0.1111
 2023-05-02 15:40:40.329078,Boxing Lines - Junto Nakatani vs Andrew Moloney - To Win the Bout,Junto Nakatani,0.0131,0.7778,0.7647
 2023-05-02 11:40:40.261954,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Josh Jung (TEX),0.012299999999999991,0.1176,0.1053
-2023-05-02 07:40:55.595836,Boxing Lines - Jason Moloney vs Vincent Astrolabio - To Win the Bout,Vincent Astrolabio,0.012199999999999989,0.5,0.4878
 2023-05-02 11:40:40.256772,MLB Futures - MLB 2023 Player Awards - American League MVP,Shohei Ohtani (LAA),0.012199999999999989,0.5122,0.5
-2023-05-02 09:40:39.078253,Championship - England Championship 2022/23 - To Be Promoted,West Bromwich Albion,0.011199999999999995,0.0588,0.0476
+2023-05-02 07:40:55.595836,Boxing Lines - Jason Moloney vs Vincent Astrolabio - To Win the Bout,Vincent Astrolabio,0.012199999999999989,0.5,0.4878
 2023-05-02 08:40:43.873213,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Anthony Davis (LAL),0.011199999999999995,0.0588,0.0476
+2023-05-02 09:40:39.078253,Championship - England Championship 2022/23 - To Be Promoted,West Bromwich Albion,0.011199999999999995,0.0588,0.0476
 2023-05-02 11:40:40.667077,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Los Angeles Rams,Under 7.5,0.011099999999999999,0.4762,0.4651
-2023-05-02 09:40:38.736905,Tournament Match-Ups - Tournament Match-Ups - J. Spieth vs J. Thomas - Tournament Match-Ups,Jordan Spieth,0.01100000000000001,0.5348,0.5238
-2023-05-02 13:40:37.988134,Tournament Match-Ups - Tournament Match-Ups - T. Finau vs X. Schauffele - Tournament Match-Ups,Tony Finau,0.01100000000000001,0.5348,0.5238
-2023-05-02 09:40:38.772406,Tournament Match-Ups - Tournament Match-Ups - S. Lowry vs C. Conners - Tournament Match-Ups,Shane Lowry,0.01100000000000001,0.5348,0.5238
-2023-05-02 09:40:38.772406,Tournament Match-Ups - Tournament Match-Ups - S. Lowry vs C. Conners - Tournament Match-Ups,Corey Conners,0.01100000000000001,0.5348,0.5238
 2023-05-02 11:40:40.605474,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Carolina Panthers,Under 7.5,0.01100000000000001,0.5348,0.5238
 2023-05-02 09:40:38.736905,Tournament Match-Ups - Tournament Match-Ups - J. Spieth vs J. Thomas - Tournament Match-Ups,Justin Thomas,0.01100000000000001,0.5348,0.5238
-2023-05-02 08:40:43.873213,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Joel Embiid (PHI),0.0102,0.0769,0.0667
+2023-05-02 09:40:38.772406,Tournament Match-Ups - Tournament Match-Ups - S. Lowry vs C. Conners - Tournament Match-Ups,Corey Conners,0.01100000000000001,0.5348,0.5238
+2023-05-02 09:40:38.772406,Tournament Match-Ups - Tournament Match-Ups - S. Lowry vs C. Conners - Tournament Match-Ups,Shane Lowry,0.01100000000000001,0.5348,0.5238
+2023-05-02 13:40:37.988134,Tournament Match-Ups - Tournament Match-Ups - T. Finau vs X. Schauffele - Tournament Match-Ups,Tony Finau,0.01100000000000001,0.5348,0.5238
+2023-05-02 09:40:38.736905,Tournament Match-Ups - Tournament Match-Ups - J. Spieth vs J. Thomas - Tournament Match-Ups,Jordan Spieth,0.01100000000000001,0.5348,0.5238
+2023-05-02 08:40:43.866858,NBA Awards - Western Conference Finals MVP - WCF MVP,Jamal Murray (DEN),0.0102,0.0769,0.0667
 2023-05-02 09:40:38.791795,Hanwha LIFEPLUS International Crown - Hanwha LIFEPLUS International Crown - Outright,Sweden,0.0102,0.0769,0.0667
 2023-05-02 11:40:40.267028,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Graham Ashcraft (CIN),0.0102,0.0152,0.005
-2023-05-02 08:40:43.866858,NBA Awards - Western Conference Finals MVP - WCF MVP,Jamal Murray (DEN),0.0102,0.0769,0.0667
+2023-05-02 08:40:43.873213,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Joel Embiid (PHI),0.0102,0.0769,0.0667
 2023-05-02 09:40:38.742808,Tournament Match-Ups - Tournament Match-Ups - M. Fitzpatrick vs V. Hovland - Tournament Match-Ups,Viktor Hovland,-0.010099999999999998,0.5455,0.5556
-2023-05-02 08:40:43.994512,Wells Fargo Championship - Wells Fargo Championship - Outright,Patrick Cantlay,-0.0102,0.0667,0.0769
+2023-05-02 19:40:49.732762,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Golden State Warriors,-0.010099999999999998,0.3125,0.3226
 2023-05-02 08:40:44.768601,Superettan - Superettan 2023 - Winner,Helsingborgs IF,-0.0102,0.0667,0.0769
-2023-05-02 11:40:40.605474,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Carolina Panthers,Over 7.5,-0.010699999999999932,0.5348,0.5455
+2023-05-02 08:40:43.994512,Wells Fargo Championship - Wells Fargo Championship - Outright,Patrick Cantlay,-0.0102,0.0667,0.0769
 2023-05-02 13:40:37.988134,Tournament Match-Ups - Tournament Match-Ups - T. Finau vs X. Schauffele - Tournament Match-Ups,Xander Schauffele,-0.010699999999999932,0.5348,0.5455
+2023-05-02 11:40:40.605474,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Carolina Panthers,Over 7.5,-0.010699999999999932,0.5348,0.5455
 2023-05-02 08:40:43.794228,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Golden State Warriors,-0.010699999999999987,0.3226,0.3333
 2023-05-02 15:40:41.630614,Euroleague - Euroleague 2022/23 - Outright,Fenerbahce,-0.011099999999999999,0.1,0.1111
 2023-05-02 08:40:43.860454,NBA Awards - Eastern Conference Finals MVP - ECF MVP,Jalen Brunson (NYK),-0.011199999999999995,0.0476,0.0588
 2023-05-02 11:40:40.610004,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Chicago Bears,Under 7.5,-0.012199999999999989,0.5,0.5122
 2023-05-02 09:40:38.791795,Hanwha LIFEPLUS International Crown - Hanwha LIFEPLUS International Crown - Outright,England,-0.013899999999999996,0.1111,0.125
-2023-05-02 11:40:40.261954,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Taj Bradley,-0.013999999999999999,0.0769,0.0909
 2023-05-02 11:40:40.272104,MLB Futures - MLB 2023 Player Awards - National League MVP,Matt Olson (ATL),-0.013999999999999999,0.0769,0.0909
+2023-05-02 11:40:40.261954,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Taj Bradley,-0.013999999999999999,0.0769,0.0909
 2023-05-02 08:40:44.742995,Allsvenskan - Allsvenskan 2023 - Winner,AIK,-0.014099999999999998,0.0244,0.0385
 2023-05-02 11:40:40.256772,MLB Futures - MLB 2023 Player Awards - American League MVP,Aaron Judge (NYY),-0.014399999999999996,0.0625,0.0769
 2023-05-02 11:40:40.261954,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Oscar Colas (CWS),-0.014399999999999996,0.0625,0.0769
@@ -81,15 +83,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-02 08:40:44.768601,Superettan - Superettan 2023 - Winner,Örgryte IS,-0.0203,0.0385,0.0588
 2023-05-02 08:40:44.742995,Allsvenskan - Allsvenskan 2023 - Winner,Hammarby IF,-0.02310000000000001,0.0769,0.1
 2023-05-02 11:40:40.955720,Tournament Match-Ups - Tournament Match-Ups - R. Fowler vs T. Kim - Tournament Match-Ups,Tom Kim,-0.023799999999999988,0.4762,0.5
+2023-05-02 19:40:49.732762,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Phoenix Suns,-0.023800000000000016,0.1667,0.1905
 2023-05-02 11:40:40.950583,Tournament Match-Ups - Tournament Match-Ups - M. Homa vs C. Morikawa - Tournament Match-Ups,Max Homa,-0.023800000000000043,0.5,0.5238
 2023-05-02 08:40:43.873213,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Kevin Durant (PHX),-0.0242,0.0667,0.0909
 2023-05-02 11:40:41.423590,Premier League Futures/Specials - English Premier League 2022/23 - To Finish Bottom,Everton,-0.0242,0.0667,0.0909
 2023-05-02 08:40:43.873213,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Jayson Tatum (BOS),-0.02560000000000001,0.3077,0.3333
 2023-05-02 08:40:43.866858,NBA Awards - Western Conference Finals MVP - WCF MVP,Devin Booker (PHX),-0.0267,0.0909,0.1176
 2023-05-02 08:40:43.860454,NBA Awards - Eastern Conference Finals MVP - ECF MVP,Jaylen Brown (BOS),-0.027999999999999997,0.1538,0.1818
+2023-05-02 11:40:40.251707,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Jacob deGrom (TEX),-0.028399999999999995,0.0625,0.0909
 2023-05-02 11:40:40.276975,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Kodai Senga (NYM),-0.028399999999999995,0.0625,0.0909
 2023-05-02 11:40:40.272104,MLB Futures - MLB 2023 Player Awards - National League MVP,Trea Turner (PHI),-0.028399999999999995,0.0625,0.0909
-2023-05-02 11:40:40.251707,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Jacob deGrom (TEX),-0.028399999999999995,0.0625,0.0909
 2023-05-02 09:40:39.082715,Championship - England Championship 2022/23 - Top 6 Finish,Blackburn Rovers,-0.028799999999999992,0.125,0.1538
 2023-05-02 11:40:40.657927,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Las Vegas Raiders,Over 7.5,-0.032099999999999906,0.5833,0.6154
 2023-05-02 11:40:40.691435,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - New York Giants,Over 8.5,-0.03479999999999994,0.5652,0.6
