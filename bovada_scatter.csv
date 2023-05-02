@@ -25,9 +25,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-02 08:40:43.860454,NBA Awards - Eastern Conference Finals MVP - ECF MVP,Jimmy Butler (MIA),0.022199999999999998,0.1333,0.1111
 2023-05-02 09:40:38.791795,Hanwha LIFEPLUS International Crown - Hanwha LIFEPLUS International Crown - Outright,USA,0.021999999999999964,0.3077,0.2857
 2023-05-02 11:40:40.657927,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Las Vegas Raiders,Under 7.5,0.021699999999999997,0.4762,0.4545
-2023-05-02 09:40:38.748821,Tournament Match-Ups - Tournament Match-Ups - M. Homa vs C. Morikawa - Tournament Match-Ups,Collin Morikawa,0.02169999999999994,0.5455,0.5238
 2023-05-02 09:40:38.778175,Tournament Match-Ups - Tournament Match-Ups - T. Finau vs X. Schauffele - Tournament Match-Ups,Xander Schauffele,0.02169999999999994,0.5455,0.5238
 2023-05-02 09:40:38.784173,Tournament Match-Ups - Tournament Match-Ups - T. Fleetwood vs S. Theegala - Tournament Match-Ups,Sahith Theegala,0.02169999999999994,0.5455,0.5238
+2023-05-02 09:40:38.748821,Tournament Match-Ups - Tournament Match-Ups - M. Homa vs C. Morikawa - Tournament Match-Ups,Collin Morikawa,0.02169999999999994,0.5455,0.5238
 2023-05-02 11:40:41.436305,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Southampton,0.0203,0.0588,0.0385
 2023-05-02 09:40:39.082715,Championship - England Championship 2022/23 - Top 6 Finish,Coventry City,0.020199999999999996,0.9091,0.8889
 2023-05-02 11:40:40.950583,Tournament Match-Ups - Tournament Match-Ups - M. Homa vs C. Morikawa - Tournament Match-Ups,Collin Morikawa,0.01970000000000005,0.5652,0.5455
@@ -35,27 +35,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-02 09:40:39.078253,Championship - England Championship 2022/23 - To Be Promoted,Coventry City,0.01820000000000002,0.2,0.1818
 2023-05-02 11:40:40.955720,Tournament Match-Ups - Tournament Match-Ups - R. Fowler vs T. Kim - Tournament Match-Ups,Rickie Fowler,0.018100000000000005,0.5833,0.5652
 2023-05-02 08:40:43.873213,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,LeBron James (LAL),0.018099999999999998,0.0769,0.0588
-2023-05-02 08:40:44.621910,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Fluminense,0.015100000000000002,0.1818,0.1667
 2023-05-02 08:40:43.866858,NBA Awards - Western Conference Finals MVP - WCF MVP,LeBron James (LAL),0.015100000000000002,0.1818,0.1667
+2023-05-02 08:40:44.621910,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Fluminense,0.015100000000000002,0.1818,0.1667
 2023-05-02 09:40:38.791795,Hanwha LIFEPLUS International Crown - Hanwha LIFEPLUS International Crown - Outright,South Korea,0.01469999999999999,0.25,0.2353
 2023-05-02 11:40:40.276975,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Brett Baty (NYM),0.014399999999999996,0.0769,0.0625
 2023-05-02 08:40:44.768601,Superettan - Superettan 2023 - Winner,GAIS,0.013899999999999996,0.125,0.1111
 2023-05-02 15:40:40.329078,Boxing Lines - Junto Nakatani vs Andrew Moloney - To Win the Bout,Junto Nakatani,0.0131,0.7778,0.7647
 2023-05-02 11:40:40.261954,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Josh Jung (TEX),0.012299999999999991,0.1176,0.1053
 2023-05-02 11:40:40.256772,MLB Futures - MLB 2023 Player Awards - American League MVP,Shohei Ohtani (LAA),0.012199999999999989,0.5122,0.5
-2023-05-02 07:40:55.595836,Boxing Lines - Jason Moloney vs Vincent Astrolabio - To Win the Bout,Vincent Astrolabio,0.012199999999999989,0.5,0.4878
 2023-05-02 08:40:43.873213,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Anthony Davis (LAL),0.011199999999999995,0.0588,0.0476
 2023-05-02 09:40:39.078253,Championship - England Championship 2022/23 - To Be Promoted,West Bromwich Albion,0.011199999999999995,0.0588,0.0476
 2023-05-02 11:40:40.667077,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Los Angeles Rams,Under 7.5,0.011099999999999999,0.4762,0.4651
 2023-05-02 11:40:40.605474,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Carolina Panthers,Under 7.5,0.01100000000000001,0.5348,0.5238
+2023-05-02 09:40:38.736905,Tournament Match-Ups - Tournament Match-Ups - J. Spieth vs J. Thomas - Tournament Match-Ups,Jordan Spieth,0.01100000000000001,0.5348,0.5238
 2023-05-02 09:40:38.736905,Tournament Match-Ups - Tournament Match-Ups - J. Spieth vs J. Thomas - Tournament Match-Ups,Justin Thomas,0.01100000000000001,0.5348,0.5238
 2023-05-02 09:40:38.772406,Tournament Match-Ups - Tournament Match-Ups - S. Lowry vs C. Conners - Tournament Match-Ups,Corey Conners,0.01100000000000001,0.5348,0.5238
 2023-05-02 09:40:38.772406,Tournament Match-Ups - Tournament Match-Ups - S. Lowry vs C. Conners - Tournament Match-Ups,Shane Lowry,0.01100000000000001,0.5348,0.5238
 2023-05-02 13:40:37.988134,Tournament Match-Ups - Tournament Match-Ups - T. Finau vs X. Schauffele - Tournament Match-Ups,Tony Finau,0.01100000000000001,0.5348,0.5238
-2023-05-02 09:40:38.736905,Tournament Match-Ups - Tournament Match-Ups - J. Spieth vs J. Thomas - Tournament Match-Ups,Jordan Spieth,0.01100000000000001,0.5348,0.5238
-2023-05-02 08:40:43.866858,NBA Awards - Western Conference Finals MVP - WCF MVP,Jamal Murray (DEN),0.0102,0.0769,0.0667
-2023-05-02 09:40:38.791795,Hanwha LIFEPLUS International Crown - Hanwha LIFEPLUS International Crown - Outright,Sweden,0.0102,0.0769,0.0667
 2023-05-02 11:40:40.267028,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Graham Ashcraft (CIN),0.0102,0.0152,0.005
+2023-05-02 09:40:38.791795,Hanwha LIFEPLUS International Crown - Hanwha LIFEPLUS International Crown - Outright,Sweden,0.0102,0.0769,0.0667
+2023-05-02 08:40:43.866858,NBA Awards - Western Conference Finals MVP - WCF MVP,Jamal Murray (DEN),0.0102,0.0769,0.0667
 2023-05-02 08:40:43.873213,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Joel Embiid (PHI),0.0102,0.0769,0.0667
 2023-05-02 09:40:38.742808,Tournament Match-Ups - Tournament Match-Ups - M. Fitzpatrick vs V. Hovland - Tournament Match-Ups,Viktor Hovland,-0.010099999999999998,0.5455,0.5556
 2023-05-02 19:40:49.732762,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Golden State Warriors,-0.010099999999999998,0.3125,0.3226
