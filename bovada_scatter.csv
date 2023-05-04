@@ -18,6 +18,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-04 01:40:47.646326,Main Markets - 1st Round 3 Balls - M. Fitzpatrick / R. McIIroy / J. Day - 1st Round 3 Balls,Rory McIlroy,0.033299999999999996,0.4878,0.4545
 2023-05-04 08:40:36.462397,Boxing Lines - Steve Spark vs Gabriel Valenzuela - To Win the Bout,Gabriel Valenzuela,0.02960000000000007,0.6296,0.6
 2023-05-04 10:40:31.895856,Boxing Lines - Sean McComb vs Kaisee Benjamin - To Win the Bout,Sean McComb,0.028900000000000037,0.5744,0.5455
+2023-05-04 12:40:35.758152,Boxing Lines - Louis Greene vs Paul Kean - To Win the Bout,Louis Greene,0.02739999999999998,0.7333,0.7059
 2023-05-04 05:40:56.731895,Tournament Match-Ups - Tournament Match-Ups - R. McIIroy vs P. Cantlay - Tournament Match-Ups,Rory McIlroy,0.026499999999999968,0.5917,0.5652
 2023-05-04 06:40:36.826436,Main Markets - 1st Round 3 Balls - D. Riley / S. Im / L. Glover - 1st Round 3 Balls,Sungjae Im,0.024399999999999977,0.5122,0.4878
 2023-05-04 05:40:54.053172,NBA Awards - Eastern Conference Finals MVP - ECF MVP,Julius Randle (NYK),0.0242,0.0909,0.0667
@@ -46,33 +47,33 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-04 10:40:31.853492,Boxing Lines - Francesco Grandelli vs Mauro Forte - To Win the Bout,Mauro Forte,0.01100000000000001,0.5348,0.5238
 2023-05-04 11:40:50.474277,Round Scores - 1st Round Score - Viktor Hovland - 1st Round Score,Under 69.5,0.01100000000000001,0.5348,0.5238
 2023-05-04 02:40:40.188005,Round Match-Ups - 1st Round Match-Ups - J. Spieth vs X. Schauffele - 1st Round Match-Ups,Xander Schauffele,0.010699999999999932,0.5455,0.5348
+2023-05-04 01:40:47.189079,Round Match-Ups - 1st Round Match-Ups - M. Homa vs M. Fitzpatrick - 1st Round Match-Ups,Matthew Fitzpatrick,0.010699999999999932,0.5455,0.5348
 2023-05-04 02:40:40.198078,Round Match-Ups - 1st Round Match-Ups - J. Thomas vs V. Hovland - 1st Round Match-Ups,Viktor Hovland,0.010699999999999932,0.5455,0.5348
 2023-05-04 01:40:47.586664,Tournament Match-Ups - Tournament Match-Ups - B.H. An v L. List - Tournament Match-Ups,Byeong Hun An,0.010699999999999932,0.5455,0.5348
-2023-05-04 01:40:47.189079,Round Match-Ups - 1st Round Match-Ups - M. Homa vs M. Fitzpatrick - 1st Round Match-Ups,Matthew Fitzpatrick,0.010699999999999932,0.5455,0.5348
 2023-05-04 05:40:54.067805,NBA Awards - Western Conference Finals MVP - WCF MVP,Devin Booker (PHX),0.0102,0.0769,0.0667
+2023-05-04 05:40:56.403520,Round Match-Ups - 1st Round Match-Ups - J. Day vs S. Theegala - 1st Round Match-Ups,Jason Day,0.010099999999999998,0.5556,0.5455
 2023-05-04 05:40:56.566993,Round Match-Ups - 1st Round Match-Ups - S. Lowry vs R. Fowler - 1st Round Match-Ups,Rickie Fowler,0.010099999999999998,0.5556,0.5455
 2023-05-04 05:40:56.558580,Round Match-Ups - 1st Round Match-Ups - J. Thomas vs V. Hovland - 1st Round Match-Ups,Viktor Hovland,0.010099999999999998,0.5556,0.5455
-2023-05-04 05:40:56.403520,Round Match-Ups - 1st Round Match-Ups - J. Day vs S. Theegala - 1st Round Match-Ups,Jason Day,0.010099999999999998,0.5556,0.5455
 2023-05-04 09:40:38.779442,Main Markets - 1st Round Six Shooter - C. Conners / G. Woodland / K. Mitchell / S. Theegala / S. Im / T. Montgomery - 1st Round Six Shooter,Sahith Theegala,-0.010499999999999982,0.2,0.2105
-2023-05-04 10:40:31.853492,Boxing Lines - Francesco Grandelli vs Mauro Forte - To Win the Bout,Francesco Grandelli,-0.010699999999999932,0.5348,0.5455
 2023-05-04 11:40:50.474277,Round Scores - 1st Round Score - Viktor Hovland - 1st Round Score,Over 69.5,-0.010699999999999932,0.5348,0.5455
+2023-05-04 10:40:31.853492,Boxing Lines - Francesco Grandelli vs Mauro Forte - To Win the Bout,Francesco Grandelli,-0.010699999999999932,0.5348,0.5455
 2023-05-04 01:40:47.586664,Tournament Match-Ups - Tournament Match-Ups - B.H. An v L. List - Tournament Match-Ups,Luke List,-0.01100000000000001,0.5238,0.5348
 2023-05-04 08:40:38.498773,Allsvenskan - Allsvenskan 2023 - Winner,Djurgårdens IF,-0.011199999999999995,0.0476,0.0588
 2023-05-04 05:40:56.432841,Round Match-Ups - 1st Round Match-Ups - P. Cantlay vs R. McIIroy - 1st Round Match-Ups,Patrick Cantlay,-0.0116,0.4762,0.4878
-2023-05-04 01:40:47.189079,Round Match-Ups - 1st Round Match-Ups - M. Homa vs M. Fitzpatrick - 1st Round Match-Ups,Max Homa,-0.012199999999999989,0.5,0.5122
-2023-05-04 05:40:56.558580,Round Match-Ups - 1st Round Match-Ups - J. Thomas vs V. Hovland - 1st Round Match-Ups,Justin Thomas,-0.012199999999999989,0.4878,0.5
-2023-05-04 05:40:56.566993,Round Match-Ups - 1st Round Match-Ups - S. Lowry vs R. Fowler - 1st Round Match-Ups,Shane Lowry,-0.012199999999999989,0.4878,0.5
 2023-05-04 02:40:40.198078,Round Match-Ups - 1st Round Match-Ups - J. Thomas vs V. Hovland - 1st Round Match-Ups,Justin Thomas,-0.012199999999999989,0.5,0.5122
+2023-05-04 05:40:56.558580,Round Match-Ups - 1st Round Match-Ups - J. Thomas vs V. Hovland - 1st Round Match-Ups,Justin Thomas,-0.012199999999999989,0.4878,0.5
 2023-05-04 02:40:40.188005,Round Match-Ups - 1st Round Match-Ups - J. Spieth vs X. Schauffele - 1st Round Match-Ups,Jordan Spieth,-0.012199999999999989,0.5,0.5122
 2023-05-04 05:40:56.403520,Round Match-Ups - 1st Round Match-Ups - J. Day vs S. Theegala - 1st Round Match-Ups,Sahith Theegala,-0.012199999999999989,0.4878,0.5
+2023-05-04 01:40:47.189079,Round Match-Ups - 1st Round Match-Ups - M. Homa vs M. Fitzpatrick - 1st Round Match-Ups,Max Homa,-0.012199999999999989,0.5,0.5122
+2023-05-04 05:40:56.566993,Round Match-Ups - 1st Round Match-Ups - S. Lowry vs R. Fowler - 1st Round Match-Ups,Shane Lowry,-0.012199999999999989,0.4878,0.5
 2023-05-04 05:40:54.080616,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Jalen Brunson (NYK),-0.012599999999999998,0.0152,0.0278
 2023-05-04 06:40:36.826436,Main Markets - 1st Round 3 Balls - D. Riley / S. Im / L. Glover - 1st Round 3 Balls,Davis Riley,-0.012699999999999989,0.3509,0.3636
 2023-05-04 08:40:38.552256,League Two - England - League Two 2022/23 - To Be Promoted,Stockport County,-0.013799999999999923,0.6226,0.6364
 2023-05-04 05:40:53.951498,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Philadelphia 76ers,-0.013899999999999996,0.1111,0.125
 2023-05-04 08:40:36.457578,Boxing Lines - Oleksandr Gvozdyk vs Ricards Bolotniks - To Win the Bout,Oleksandr Gvozdyk,-0.013900000000000023,0.875,0.8889
 2023-05-04 05:40:53.931189,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Philadelphia 76ers,-0.01469999999999999,0.2353,0.25
-2023-05-04 01:40:47.646326,Main Markets - 1st Round 3 Balls - M. Fitzpatrick / R. McIIroy / J. Day - 1st Round 3 Balls,Matthew Fitzpatrick,-0.014900000000000024,0.3077,0.3226
 2023-05-04 05:40:53.941655,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Lakers,-0.014900000000000024,0.3077,0.3226
+2023-05-04 01:40:47.646326,Main Markets - 1st Round 3 Balls - M. Fitzpatrick / R. McIIroy / J. Day - 1st Round 3 Balls,Matthew Fitzpatrick,-0.014900000000000024,0.3077,0.3226
 2023-05-04 11:40:49.359113,Boxing Lines - Tyler Denny vs Macaulay McGowan - To Win the Bout,Macaulay McGowan,-0.015100000000000002,0.1667,0.1818
 2023-05-04 09:40:39.637372,Super League - Greece Super League 2022/23 - Winner,AEK Athens,-0.016699999999999937,0.5833,0.6
 2023-05-04 01:40:47.722109,Main Markets - 1st Round 3 Balls - T. Kim / X. Schauffele / J. Spieth - 1st Round 3 Balls,Tom Kim,-0.017299999999999982,0.2857,0.303
@@ -86,6 +87,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-04 05:40:54.067805,NBA Awards - Western Conference Finals MVP - WCF MVP,Stephen Curry (GSW),-0.022199999999999998,0.2,0.2222
 2023-05-04 02:40:40.208984,Round Match-Ups - 1st Round Match-Ups - C. Young vs C. Morikawa - 1st Round Match-Ups,Collin Morikawa,-0.023799999999999988,0.4762,0.5
 2023-05-04 05:40:56.731895,Tournament Match-Ups - Tournament Match-Ups - R. McIIroy vs P. Cantlay - Tournament Match-Ups,Patrick Cantlay,-0.023799999999999988,0.4762,0.5
+2023-05-04 12:40:35.758152,Boxing Lines - Louis Greene vs Paul Kean - To Win the Bout,Paul Kean,-0.023799999999999988,0.3333,0.3571
 2023-05-04 02:40:40.099659,Round Match-Ups - 1st Round Match-Ups - G. Woodland vs K. Mitchell - 1st Round Match-Ups,Gary Woodland,-0.024399999999999977,0.4878,0.5122
 2023-05-04 05:40:56.608478,Round Match-Ups - 1st Round Match-Ups - W. Clark vs M. Kuchar - 1st Round Match-Ups,Matt Kuchar,-0.024399999999999977,0.4878,0.5122
 2023-05-04 05:40:54.080616,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Joel Embiid (PHI),-0.028799999999999992,0.125,0.1538
@@ -102,7 +104,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-04 02:40:39.507891,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Philadelphia 76ers,-0.0726,0.25,0.3226
 2023-05-04 08:40:38.579546,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Tottenham Hotspur,-0.07789999999999997,0.2857,0.3636
 2023-05-04 08:40:38.552256,League Two - England - League Two 2022/23 - To Be Promoted,Bradford City,-0.0799,0.2326,0.3125
-2023-05-04 05:40:54.067805,NBA Awards - Western Conference Finals MVP - WCF MVP,LeBron James (LAL),-0.08330000000000001,0.1667,0.25
 2023-05-04 08:40:38.579546,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Aston Villa,-0.08330000000000001,0.1667,0.25
+2023-05-04 05:40:54.067805,NBA Awards - Western Conference Finals MVP - WCF MVP,LeBron James (LAL),-0.08330000000000001,0.1667,0.25
 2023-05-04 05:40:54.053172,NBA Awards - Eastern Conference Finals MVP - ECF MVP,Joel Embiid (PHI),-0.11900000000000002,0.1667,0.2857
 2023-05-04 08:40:38.552256,League Two - England - League Two 2022/23 - To Be Promoted,Mansfield Town,-0.1294,0.0244,0.1538
