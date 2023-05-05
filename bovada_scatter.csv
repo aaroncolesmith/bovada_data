@@ -3,8 +3,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-05 05:40:44.888806,Hanwha LIFEPLUS International Crown - Hanwha LIFEPLUS International Crown - Outright,Australia,0.1,0.2,0.1
 2023-05-05 05:40:44.888806,Hanwha LIFEPLUS International Crown - Hanwha LIFEPLUS International Crown - Outright,Sweden,0.097,0.1739,0.0769
 2023-05-05 10:40:45.062871,Premier League Futures/Specials - English Premier League 2022/23 - PFA Player of the Year 2022/23,Erling Haaland,0.09530000000000005,0.9524,0.8571
-2023-05-05 05:40:44.888806,Hanwha LIFEPLUS International Crown - Hanwha LIFEPLUS International Crown - Outright,Thailand,0.07930000000000001,0.2222,0.1429
 2023-05-05 10:40:42.382809,Euroleague - Euroleague 2022/23 - Outright,Real Madrid BC,0.07930000000000001,0.2222,0.1429
+2023-05-05 05:40:44.888806,Hanwha LIFEPLUS International Crown - Hanwha LIFEPLUS International Crown - Outright,Thailand,0.07930000000000001,0.2222,0.1429
 2023-05-05 10:40:44.826007,Allsvenskan - Allsvenskan 2023 - Winner,Malmö FF,0.07619999999999993,0.6,0.5238
 2023-05-05 01:40:48.751026,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Club América,0.06820000000000001,0.25,0.1818
 2023-05-05 10:40:42.382809,Euroleague - Euroleague 2022/23 - Outright,Olympiakos,0.06669999999999998,0.2667,0.2
@@ -20,16 +20,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-05 05:40:44.655708,Main Markets - 2nd Round 3 Balls - S. Power / W. Simpson / M. Hughes - 2nd Round 3 Balls,Mackenzie Hughes,0.02560000000000001,0.3333,0.3077
 2023-05-05 07:40:45.698402,Main Markets - 2nd Round 3 Balls - X. Schaffuele / J. Spieth / T. Kim - 2nd Round 3 Balls,Xander Schauffele,0.025499999999999967,0.4255,0.4
 2023-05-05 05:40:43.197174,NBA Awards - Eastern Conference Finals MVP - ECF MVP,Julius Randle (NYK),0.0242,0.0909,0.0667
-2023-05-05 01:40:48.751026,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Deportivo Toluca,0.023799999999999988,0.1667,0.1429
 2023-05-05 05:40:43.197174,NBA Awards - Eastern Conference Finals MVP - ECF MVP,Jimmy Butler (MIA),0.023799999999999988,0.1667,0.1429
+2023-05-05 01:40:48.751026,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Deportivo Toluca,0.023799999999999988,0.1667,0.1429
+2023-05-05 13:40:37.818487,NCAA Football Specials - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Carson Beck,0.023200000000000002,0.0476,0.0244
 2023-05-05 07:40:45.916276,Main Markets - 2nd Round 3 Balls - G. Woodland / A. Svensson / R. Streb - 2nd Round 3 Balls,Gary Woodland,0.022699999999999998,0.4878,0.4651
 2023-05-05 05:40:43.214565,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Stephen Curry (GSW),0.022199999999999998,0.1333,0.1111
 2023-05-05 05:40:43.214565,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Jayson Tatum (BOS),0.021999999999999964,0.3077,0.2857
 2023-05-05 10:40:45.048934,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Nottingham Forest,0.02169999999999994,0.5455,0.5238
-2023-05-05 00:40:58.383673,Championship - England Championship 2022/23 - To Be Promoted,Middlesbrough,0.02100000000000002,0.3846,0.3636
 2023-05-05 11:40:44.863282,Round Match-Ups - 2nd Round Match-Up - G. Woodland vs C. Davis - 2nd Round Match-Up,Gary Woodland,0.02079999999999993,0.5556,0.5348
 2023-05-05 01:40:48.751026,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Cruz Azul,0.0203,0.0588,0.0385
 2023-05-05 10:40:42.382809,Euroleague - Euroleague 2022/23 - Outright,Maccabi Tel-Aviv,0.02020000000000001,0.1111,0.0909
+2023-05-05 13:40:37.471534,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Field,0.01999999999999999,0.2105,0.1905
 2023-05-05 07:40:45.750414,Main Markets - 2nd Round 3 Balls - T. Hatton / S.W. Kim / T. Mullinax - 2nd Round 3 Balls,Tyrrell Hatton,0.019699999999999995,0.4545,0.4348
 2023-05-05 05:40:43.214565,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Nikola Jokic (DEN),0.01820000000000002,0.2,0.1818
 2023-05-05 01:40:48.751026,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Tigres UANL,0.018099999999999998,0.0769,0.0588
@@ -46,34 +47,36 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-05 05:40:44.977717,Italian Open - 2/3 Balls - 2nd Round 3 Balls - R. Fisher / S. Tarrio / M. Southgate - 2nd Round 3 Balls,Matthew Southgate,0.012699999999999989,0.3636,0.3509
 2023-05-05 05:40:44.690732,Main Markets - 2nd Round 3 Balls - S. Im / D. Riley / L. Glover - 2nd Round 3 Balls,Sungjae Im,0.012199999999999989,0.5122,0.5
 2023-05-05 04:40:36.038460,NBA Awards - Western Conference Finals MVP - WCF MVP,Stephen Curry (GSW),0.011700000000000016,0.2222,0.2105
-2023-05-05 10:40:42.922703,Round Match-Ups - 2nd Round Match-Up - C. Young vs V. Hovland - 2nd Round Match-Up,Viktor Hovland,0.011600000000000055,0.5238,0.5122
 2023-05-05 07:40:45.925201,Main Markets - 2nd Round 3 Balls - S. Im / D. Riley / L. Glover - 2nd Round 3 Balls,Sungjae Im,0.011600000000000055,0.5238,0.5122
+2023-05-05 10:40:42.922703,Round Match-Ups - 2nd Round Match-Up - C. Young vs V. Hovland - 2nd Round Match-Up,Viktor Hovland,0.011600000000000055,0.5238,0.5122
 2023-05-05 04:40:35.152726,Boxing Lines - Sulaiman Segawa vs Misael Lopez - To Win the Bout,Misael Lopez,0.011499999999999955,0.6667,0.6552
 2023-05-05 11:40:44.703266,Round Match-Ups - 2nd Round Match-Up - C. Young vs V. Hovland - 2nd Round Match-Up,Viktor Hovland,0.01100000000000001,0.5348,0.5238
 2023-05-05 11:40:44.801179,Round Match-Ups - 2nd Round Match-Up - W. Gordon v N. Hardy - 2nd Round Match-Up,Will Gordon,0.010699999999999932,0.5455,0.5348
 2023-05-05 07:40:45.476666,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Denver Nuggets,0.010499999999999982,0.2105,0.2
-2023-05-05 05:40:43.205872,NBA Awards - Western Conference Finals MVP - WCF MVP,Devin Booker (PHX),0.0102,0.0769,0.0667
 2023-05-05 04:40:36.038460,NBA Awards - Western Conference Finals MVP - WCF MVP,Jamal Murray (DEN),0.0102,0.0769,0.0667
+2023-05-05 05:40:43.205872,NBA Awards - Western Conference Finals MVP - WCF MVP,Devin Booker (PHX),0.0102,0.0769,0.0667
 2023-05-05 10:40:42.046072,Boxing Lines - Tommy Frank vs Jay Harris - To Win the Bout,Tommy Frank,0.010099999999999998,0.3226,0.3125
+2023-05-05 13:40:38.710397,Boxing Lines - Tommy Frank vs Jay Harris - To Win the Bout,Tommy Frank,-0.010099999999999998,0.3125,0.3226
 2023-05-05 07:40:44.450451,Boxing Lines - Jake Paul vs Nate Diaz - To Win the Bout,Nate Diaz,-0.010099999999999998,0.3125,0.3226
 2023-05-05 05:40:43.077272,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Phoenix Suns,-0.0102,0.0667,0.0769
-2023-05-05 10:40:44.761086,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,FC Basel,-0.010899999999999993,0.1429,0.1538
 2023-05-05 05:40:43.077272,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Los Angeles Lakers,-0.010899999999999993,0.1429,0.1538
+2023-05-05 10:40:44.761086,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,FC Basel,-0.010899999999999993,0.1429,0.1538
 2023-05-05 10:40:42.922703,Round Match-Ups - 2nd Round Match-Up - C. Young vs V. Hovland - 2nd Round Match-Up,Cameron Young,-0.01100000000000001,0.5238,0.5348
 2023-05-05 11:40:44.703266,Round Match-Ups - 2nd Round Match-Up - C. Young vs V. Hovland - 2nd Round Match-Up,Cameron Young,-0.011600000000000055,0.5122,0.5238
 2023-05-05 05:40:44.690732,Main Markets - 2nd Round 3 Balls - S. Im / D. Riley / L. Glover - 2nd Round 3 Balls,Davis Riley,-0.011699999999999988,0.274,0.2857
 2023-05-05 11:40:44.801179,Round Match-Ups - 2nd Round Match-Up - W. Gordon v N. Hardy - 2nd Round Match-Up,Nick Hardy,-0.012199999999999989,0.5,0.5122
+2023-05-05 13:40:38.762545,Boxing Lines - Sean McComb vs Kaisee Benjamin - To Win the Bout,Sean McComb,-0.012199999999999989,0.4878,0.5
 2023-05-05 05:40:43.214565,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Jalen Brunson (NYK),-0.012599999999999998,0.0152,0.0278
 2023-05-05 07:40:44.280415,Boxing Lines - Tyler Denny vs Macaulay McGowan - To Win the Bout,Macaulay McGowan,-0.012899999999999995,0.1538,0.1667
-2023-05-05 00:40:58.228860,La Liga - Spain La Liga 2022/23 - Winner,Real Madrid,-0.013,0.0066,0.0196
-2023-05-05 07:40:45.916276,Main Markets - 2nd Round 3 Balls - G. Woodland / A. Svensson / R. Streb - 2nd Round 3 Balls,Adam Svensson,-0.013800000000000034,0.3636,0.3774
 2023-05-05 05:40:44.977717,Italian Open - 2/3 Balls - 2nd Round 3 Balls - R. Fisher / S. Tarrio / M. Southgate - 2nd Round 3 Balls,Ross Fisher,-0.013800000000000034,0.3636,0.3774
+2023-05-05 07:40:45.916276,Main Markets - 2nd Round 3 Balls - G. Woodland / A. Svensson / R. Streb - 2nd Round 3 Balls,Adam Svensson,-0.013800000000000034,0.3636,0.3774
 2023-05-05 05:40:43.077272,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Philadelphia 76ers,-0.013899999999999996,0.1111,0.125
 2023-05-05 07:40:47.509723,Soccer Specials - Transfer Specials - Lionel Messi to sign for before 4th September 2023,Manchester United,-0.014099999999999998,0.0244,0.0385
 2023-05-05 10:40:45.062871,Premier League Futures/Specials - English Premier League 2022/23 - PFA Player of the Year 2022/23,Jack Grealish,-0.014499999999999999,0.0149,0.0294
 2023-05-05 10:40:44.761086,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,AZ Alkmaar,-0.01469999999999999,0.2353,0.25
 2023-05-05 05:40:44.655708,Main Markets - 2nd Round 3 Balls - S. Power / W. Simpson / M. Hughes - 2nd Round 3 Balls,Seamus Power,-0.016699999999999993,0.4,0.4167
 2023-05-05 07:40:45.720149,Main Markets - 2nd Round 3 Balls - C. Young / V. Hovland / C. Morikawa - 2nd Round 3 Balls,Collin Morikawa,-0.017600000000000005,0.3333,0.3509
+2023-05-05 13:40:37.471534,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.017900000000000027,0.8571,0.875
 2023-05-05 07:40:47.509723,Soccer Specials - Transfer Specials - Lionel Messi to sign for before 4th September 2023,Chelsea,-0.018200000000000004,0.0294,0.0476
 2023-05-05 07:40:47.509723,Soccer Specials - Transfer Specials - Lionel Messi to sign for before 4th September 2023,Newcastle,-0.0189,0.0196,0.0385
 2023-05-05 10:40:42.382809,Euroleague - Euroleague 2022/23 - Outright,AS Monaco,-0.02049999999999999,0.1333,0.1538
@@ -82,8 +85,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-05 05:40:44.888806,Hanwha LIFEPLUS International Crown - Hanwha LIFEPLUS International Crown - Outright,USA,-0.021999999999999964,0.2857,0.3077
 2023-05-05 05:40:43.205872,NBA Awards - Western Conference Finals MVP - WCF MVP,Stephen Curry (GSW),-0.022199999999999998,0.2,0.2222
 2023-05-05 12:40:44.369988,UEFA Champions League - UEFA Champions League 2022/2023 - To Reach the Final,AC Milan,-0.022699999999999998,0.4651,0.4878
-2023-05-05 10:40:45.048934,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Everton,-0.023799999999999988,0.4762,0.5
 2023-05-05 07:40:45.743090,Main Markets - 2nd Round 3 Balls - M. Kuchar / C. Champ / A. Landry - 2nd Round 3 Balls,Matt Kuchar,-0.023799999999999988,0.4762,0.5
+2023-05-05 10:40:45.048934,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Everton,-0.023799999999999988,0.4762,0.5
 2023-05-05 11:40:44.863282,Round Match-Ups - 2nd Round Match-Up - G. Woodland vs C. Davis - 2nd Round Match-Up,Cameron Davis,-0.024399999999999977,0.4878,0.5122
 2023-05-05 11:40:44.897360,Round Scores - 2nd Round Score - Patrick Cantlay - 2nd Round Score,Over 69.5,-0.026499999999999968,0.6226,0.6491
 2023-05-05 07:40:47.509723,Soccer Specials - Transfer Specials - Lionel Messi to sign for before 4th September 2023,Barcelona,-0.027700000000000058,0.5556,0.5833
