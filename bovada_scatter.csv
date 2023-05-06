@@ -1,9 +1,15 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2023-05-06 06:40:40.037219,NBA Awards - Eastern Conference Finals MVP - ECF MVP,Jayson Tatum (BOS),0.15340000000000004,0.6296,0.4762
 2023-05-06 05:40:34.871441,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Boston Celtics,0.12549999999999994,0.7333,0.6078
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Adrian Otaegui,0.0994,0.1429,0.0435
 2023-05-06 05:40:34.877849,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Boston Celtics,0.0771,0.4545,0.3774
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Adrian Meronk,0.07579999999999999,0.1667,0.0909
+2023-05-06 06:40:39.983184,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Phoenix Suns,0.05679999999999999,0.1818,0.125
+2023-05-06 06:40:40.050109,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Jayson Tatum (BOS),0.055900000000000005,0.3636,0.3077
+2023-05-06 06:40:40.059084,NBA Daily Specials - NBA Daily Specials - Saturday 6th May,"Knicks, Heat, Warriors & Lakers All To Score 18+ Points In Each Quarter",0.05559999999999998,0.5,0.4444
 2023-05-05 21:40:39.929355,Japan B League - Japan League B1 2022/23 - Outright,Chiba Jets,0.053100000000000036,0.4167,0.3636
+2023-05-06 06:40:39.347212,Boxing Lines - Sean McComb vs Kaisee Benjamin - To Win the Bout,Kaisee Benjamin,0.04820000000000002,0.6226,0.5744
+2023-05-06 06:40:40.043650,NBA Awards - Western Conference Finals MVP - WCF MVP,Kevin Durant (PHX),0.04240000000000001,0.1333,0.0909
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Alexander Bjork,0.04229999999999999,0.0667,0.0244
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Victor Perez,0.04120000000000001,0.1,0.0588
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Matthieu Pavon,0.04040000000000002,0.2222,0.1818
@@ -12,20 +18,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-06 05:40:34.847671,MLB Futures - MLB 2023 American League West - American League West Winner,Los Angeles Angels,0.028700000000000003,0.2105,0.1818
 2023-05-06 05:40:34.842554,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,0.025599999999999956,0.6,0.5744
 2023-05-06 05:40:34.877849,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Phoenix Suns,0.0242,0.0909,0.0667
+2023-05-06 06:40:40.043650,NBA Awards - Western Conference Finals MVP - WCF MVP,Devin Booker (PHX),0.02310000000000001,0.1,0.0769
+2023-05-06 06:40:40.037219,NBA Awards - Eastern Conference Finals MVP - ECF MVP,Jaylen Brown (BOS),0.022199999999999998,0.2222,0.2
 2023-05-06 05:40:34.831075,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Atlanta Braves,0.017299999999999982,0.303,0.2857
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Rafael Cabrera Bello,0.0167,0.0217,0.005
 2023-05-05 19:40:44.913790,Boxing Lines - Cori Gibbs vs Jimmy First - To Win the Bout,Jimmy First,0.016600000000000004,0.1905,0.1739
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Daniel van Tonder,0.0163,0.0196,0.0033
+2023-05-06 06:40:40.050109,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Kevin Durant (PHX),0.015300000000000001,0.0588,0.0435
 2023-05-06 05:40:34.857996,MLB Futures - MLB 2023 National League East - National League East Winner,Atlanta Braves,0.014700000000000046,0.7647,0.75
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Matthew Baldwin,0.0139,0.0196,0.0057
+2023-05-06 06:40:40.050109,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Jaylen Brown (BOS),0.013899999999999996,0.125,0.1111
 2023-05-06 05:40:34.863228,MLB Futures - MLB 2023 National League West - National League West Winner,San Francisco Giants,0.012600000000000007,0.0714,0.0588
 2023-05-06 05:40:34.831075,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Los Angeles Dodgers,0.011700000000000016,0.2222,0.2105
+2023-05-06 06:40:40.059084,NBA Daily Specials - NBA Daily Specials - Saturday 6th May,"Knicks, Heat, Warriors & Lakers All To Score 20+ Points In Each Quarter",0.011700000000000016,0.2222,0.2105
 2023-05-06 00:40:40.228212,NBA Daily Specials - NBA Daily Specials - Saturday 6th May,"Knicks, Heat, Warriors & Lakers All To Score 20+ Points In Each Quarter",0.010499999999999982,0.2105,0.2
 2023-05-05 23:40:44.298176,Boxing Lines - Devin Haney vs Vasyl Lomachenko - To Win the Bout,Devin Haney,0.010300000000000087,0.7436,0.7333
+2023-05-06 06:40:40.050109,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Jimmy Butler (MIA),-0.010100000000000001,0.0244,0.0345
+2023-05-06 06:40:39.337744,Boxing Lines - Shakan Pitters vs Joel McIntyre - To Win the Bout,Joel McIntyre,-0.010499999999999982,0.2,0.2105
 2023-05-06 05:40:34.837390,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,-0.010700000000000043,0.6667,0.6774
 2023-05-06 05:40:34.831075,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,New York Mets,-0.010899999999999993,0.1429,0.1538
-2023-05-06 05:40:34.857996,MLB Futures - MLB 2023 National League East - National League East Winner,New York Mets,-0.011700000000000016,0.2105,0.2222
 2023-05-06 05:40:34.852811,MLB Futures - MLB 2023 National League Central - National League Central Winner,St. Louis Cardinals,-0.011700000000000016,0.2105,0.2222
+2023-05-06 05:40:34.857996,MLB Futures - MLB 2023 National League East - National League East Winner,New York Mets,-0.011700000000000016,0.2105,0.2222
 2023-05-06 05:40:34.871441,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Miami Heat,-0.012299999999999991,0.1053,0.1176
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Scott Jamieson,-0.0124,0.0025,0.0149
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Kalle Samooja,-0.0129,0.002,0.0149
@@ -36,13 +49,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Rasmus Hojgaard,-0.0139,0.0057,0.0196
 2023-05-05 19:40:44.913790,Boxing Lines - Cori Gibbs vs Jimmy First - To Win the Bout,Cori Gibbs,-0.013900000000000023,0.875,0.8889
 2023-05-06 05:40:34.842554,MLB Futures - MLB 2023 American League East - American League East Winner,New York Yankees,-0.015100000000000002,0.1667,0.1818
+2023-05-06 06:40:40.050109,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,James Harden (PHI),-0.015300000000000001,0.0323,0.0476
 2023-05-05 23:40:44.298176,Boxing Lines - Devin Haney vs Vasyl Lomachenko - To Win the Bout,Vasyl Lomachenko,-0.01579999999999998,0.3175,0.3333
+2023-05-06 06:40:40.037219,NBA Awards - Eastern Conference Finals MVP - ECF MVP,James Harden (PHI),-0.016600000000000004,0.0667,0.0833
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Marcel Siem,-0.018200000000000004,0.0294,0.0476
 2023-05-05 21:40:39.929355,Japan B League - Japan League B1 2022/23 - Outright,Ryukyu Golden Kings,-0.01820000000000002,0.1818,0.2
+2023-05-06 06:40:39.983184,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Golden State Warriors,-0.019000000000000017,0.2667,0.2857
 2023-05-06 05:40:34.825165,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Toronto Blue Jays,-0.02049999999999999,0.1333,0.1538
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Romain Langasque,-0.021300000000000003,0.0132,0.0345
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Antoine Rozner,-0.022400000000000003,0.002,0.0244
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,John Catlin,-0.023100000000000002,0.0013,0.0244
+2023-05-06 06:40:40.037219,NBA Awards - Eastern Conference Finals MVP - ECF MVP,Julius Randle (NYK),-0.0242,0.0667,0.0909
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Yannick Paul,-0.026499999999999996,0.0323,0.0588
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Thorbjorn Olesen,-0.0269,0.0025,0.0294
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Niklas Norgaard Mller,-0.0274,0.002,0.0294
@@ -50,7 +67,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-06 05:40:34.877849,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Denver Nuggets,-0.028700000000000003,0.1818,0.2105
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Jorge Campillo,-0.029299999999999993,0.0476,0.0769
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Guido Migliozzi,-0.032,0.0025,0.0345
+2023-05-06 06:40:40.037219,NBA Awards - Eastern Conference Finals MVP - ECF MVP,Joel Embiid (PHI),-0.033399999999999985,0.1333,0.1667
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Ashun Wu,-0.040999999999999995,0.0025,0.0435
+2023-05-06 06:40:40.037219,NBA Awards - Eastern Conference Finals MVP - ECF MVP,Jimmy Butler (MIA),-0.04169999999999999,0.125,0.1667
+2023-05-06 06:40:39.347212,Boxing Lines - Sean McComb vs Kaisee Benjamin - To Win the Bout,Sean McComb,-0.043399999999999994,0.4444,0.4878
+2023-05-06 06:40:40.050109,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Nikola Jokic (DEN),-0.04620000000000002,0.1538,0.2
 2023-05-06 05:40:34.877849,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Philadelphia 76ers,-0.0585,0.0526,0.1111
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Maximilian Kieffer,-0.0628,0.0141,0.0769
+2023-05-06 06:40:39.983184,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,-0.067,0.3774,0.4444
+2023-05-06 06:40:40.050109,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Joel Embiid (PHI),-0.0815,0.0435,0.125
+2023-05-06 06:40:40.043650,NBA Awards - Western Conference Finals MVP - WCF MVP,Nikola Jokic (DEN),-0.09230000000000005,0.3077,0.4
 2023-05-06 05:40:34.871441,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Philadelphia 76ers,-0.125,0.125,0.25
