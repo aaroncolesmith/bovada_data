@@ -1,9 +1,7 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Adrian Otaegui,0.0994,0.1429,0.0435
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Adrian Meronk,0.07579999999999999,0.1667,0.0909
-2023-05-05 14:40:37.060686,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Field,0.0562,0.2667,0.2105
 2023-05-05 21:40:39.929355,Japan B League - Japan League B1 2022/23 - Outright,Chiba Jets,0.053100000000000036,0.4167,0.3636
-2023-05-05 14:40:38.710476,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Outright Winner 2023,France,0.048100000000000004,0.125,0.0769
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Alexander Bjork,0.04229999999999999,0.0667,0.0244
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Victor Perez,0.04120000000000001,0.1,0.0588
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Matthieu Pavon,0.04040000000000002,0.2222,0.1818
@@ -17,16 +15,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Daniel van Tonder,0.0163,0.0196,0.0033
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Matthew Baldwin,0.0139,0.0196,0.0057
 2023-05-05 16:40:53.005395,Round Scores - 2nd Round Score - Tony Finau - 2nd Round Score,Under 70.5,0.013799999999999923,0.6364,0.6226
-2023-05-05 14:40:37.091951,US Presidential Election 2024 - US Presidential Election 2024 - Sex Of Winner - Sex of Winner,Male,0.011600000000000055,0.9375,0.9259
 2023-05-06 00:40:40.228212,NBA Daily Specials - NBA Daily Specials - Saturday 6th May,"Knicks, Heat, Warriors & Lakers All To Score 20+ Points In Each Quarter",0.010499999999999982,0.2105,0.2
 2023-05-05 23:40:44.298176,Boxing Lines - Devin Haney vs Vasyl Lomachenko - To Win the Bout,Devin Haney,0.010300000000000087,0.7436,0.7333
 2023-05-05 15:40:48.532386,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Arizona Cardinals,Over 5.5,-0.010099999999999998,0.4444,0.4545
-2023-05-05 14:40:38.710476,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Outright Winner 2023,Spain,-0.0102,0.0667,0.0769
-2023-05-05 14:40:37.109573,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Ron DeSantis,-0.010899999999999993,0.1429,0.1538
-2023-05-05 14:40:37.097299,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Republican,-0.011600000000000055,0.5122,0.5238
-2023-05-05 14:40:37.086685,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Nikki Haley,-0.011700000000000016,0.2105,0.2222
 2023-05-05 15:40:48.691636,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Seattle Seahawks,Under 8.5,-0.012199999999999989,0.5,0.5122
-2023-05-05 14:40:37.079406,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Donald Trump,-0.012299999999999978,0.6429,0.6552
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Scott Jamieson,-0.0124,0.0025,0.0149
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Kalle Samooja,-0.0129,0.002,0.0149
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Rasmus Hojgaard,-0.0139,0.0057,0.0196
@@ -35,12 +27,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Marcel Siem,-0.018200000000000004,0.0294,0.0476
 2023-05-05 21:40:39.929355,Japan B League - Japan League B1 2022/23 - Outright,Ryukyu Golden Kings,-0.01820000000000002,0.1818,0.2
 2023-05-05 16:40:53.005395,Round Scores - 2nd Round Score - Tony Finau - 2nd Round Score,Over 70.5,-0.018900000000000028,0.4255,0.4444
-2023-05-05 14:40:37.091951,US Presidential Election 2024 - US Presidential Election 2024 - Sex Of Winner - Sex of Winner,Female,-0.019100000000000006,0.129,0.1481
-2023-05-05 14:40:37.079406,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Ron DeSantis,-0.019299999999999984,0.2439,0.2632
-2023-05-05 14:40:38.710476,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Outright Winner 2023,Sweden,-0.01970000000000005,0.5455,0.5652
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Romain Langasque,-0.021300000000000003,0.0132,0.0345
 2023-05-05 15:40:48.085327,Boxing Lines - Victor Reyes Bernabe vs Salvador Juarez - To Win the Bout,Victor Reyes Bernabe,-0.021399999999999975,0.8,0.8214
-2023-05-05 14:40:37.072439,US Presidential Election 2024 - US Presidential Election 2024 - Party Of Popular Vote Winner - Party of Popular Vote Winner,Republican,-0.022199999999999998,0.2,0.2222
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Antoine Rozner,-0.022400000000000003,0.002,0.0244
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,John Catlin,-0.023100000000000002,0.0013,0.0244
 2023-05-05 15:40:49.658738,Round Match-Ups - 2nd Round Match-Up - C. Conners vs K. Mitchell - 2nd Round Match-Up,Keith Mitchell,-0.023800000000000043,0.5,0.5238
@@ -53,7 +41,4 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-05 16:40:52.978475,Round Scores - 2nd Round Score - Patrick Cantlay - 2nd Round Score,Over 69.5,-0.03090000000000004,0.5917,0.6226
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Guido Migliozzi,-0.032,0.0025,0.0345
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Ashun Wu,-0.040999999999999995,0.0025,0.0435
-2023-05-05 14:40:37.109573,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Joe Biden,-0.04630000000000001,0.3704,0.4167
-2023-05-05 14:40:37.060686,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.05709999999999993,0.8,0.8571
 2023-05-05 21:40:38.319773,Italian Open - Italian Open - Outright,Maximilian Kieffer,-0.0628,0.0141,0.0769
-2023-05-05 14:40:37.086685,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Kari Lake,-0.11359999999999998,0.25,0.3636
