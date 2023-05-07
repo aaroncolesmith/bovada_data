@@ -7,15 +7,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-06 19:40:43.126583,Boxing Lines - Victor Reyes Bernabe vs Salvador Juarez - To Win the Bout,Salvador Juarez,0.0252,0.303,0.2778
 2023-05-06 18:40:52.346529,Italian Open - Italian Open - Outright,Daniel van Tonder,0.023899999999999998,0.0435,0.0196
 2023-05-06 21:40:50.453511,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Inter Milan,0.02310000000000001,0.1481,0.125
-2023-05-06 13:40:34.667050,Round Match-Ups - 3rd Round Match-Up - B. Hossler vs K.H. Lee - 3rd Round Match-Up,K.H. Lee,0.022600000000000064,0.5348,0.5122
 2023-05-07 00:40:42.009012,Italian Open - Italian Open - Outright,Romain Langasque,0.02250000000000002,0.2857,0.2632
 2023-05-06 22:41:02.064298,1. Bundesliga - Germany Bundesliga 2022/23 - Winner,Bayern Munich,0.022199999999999998,0.8,0.7778
 2023-05-06 21:40:48.517416,Boxing Lines - Devin Haney vs Vasyl Lomachenko - To Win the Bout,Vasyl Lomachenko,0.02150000000000002,0.339,0.3175
 2023-05-07 00:40:41.957965,Z_Fury FC - Tracy Reeder vs Darren Whitney - To Win the Bout,Darren Whitney,0.02080000000000004,0.6875,0.6667
-2023-05-06 13:40:34.651498,Round Match-Ups - 3rd Round Match-Up - T. Moore vs D. McCarthy - 3rd Round Match-Up,Taylor Moore,0.02079999999999993,0.5556,0.5348
-2023-05-06 13:40:34.646609,Round Match-Ups - 3rd Round Match-Up - M. Kim v D. Lingmerth - 3rd Round Match-Up,Michael Kim,0.01970000000000005,0.5652,0.5455
 2023-05-06 21:40:48.455990,Boxing Lines - Dennis Hogan vs James Metcalf - To Win the Bout,Dennis Hogan,0.018900000000000028,0.4444,0.4255
 2023-05-06 21:40:50.685575,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Manchester City,0.01849999999999996,0.9709,0.9524
+2023-05-07 01:40:41.386757,Italian Open - Italian Open - Outright,Julien Guerrier,0.016699999999999993,0.2667,0.25
 2023-05-06 15:40:46.694920,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,0.016699999999999993,0.4167,0.4
 2023-05-07 00:40:41.940105,Z_Fury FC - Carlos Lozoya vs Luis Gurule - To Win the Bout,Luis Gurule,0.016100000000000003,0.6078,0.5917
 2023-05-06 18:40:52.082644,Boxing Lines - Sean McComb vs Kaisee Benjamin - To Win the Bout,Kaisee Benjamin,0.014800000000000035,0.6226,0.6078
@@ -25,8 +23,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-06 21:40:48.541355,Boxing Lines - Luis Alberto Lopez vs Michael Conlan - To Win the Bout,Luis Alberto Lopez,0.012199999999999989,0.5122,0.5
 2023-05-06 15:40:46.951936,Boxing Lines - Sean McComb vs Kaisee Benjamin - To Win the Bout,Sean McComb,0.010099999999999998,0.4545,0.4444
 2023-05-06 18:40:52.082644,Boxing Lines - Sean McComb vs Kaisee Benjamin - To Win the Bout,Sean McComb,-0.010099999999999998,0.4444,0.4545
-2023-05-07 00:40:42.009012,Italian Open - Italian Open - Outright,Marcel Siem,-0.011199999999999995,0.0476,0.0588
 2023-05-07 00:40:42.009012,Italian Open - Italian Open - Outright,Matthieu Pavon,-0.011199999999999995,0.0476,0.0588
+2023-05-07 00:40:42.009012,Italian Open - Italian Open - Outright,Marcel Siem,-0.011199999999999995,0.0476,0.0588
 2023-05-06 21:40:48.440712,Boxing Lines - Jason Moloney vs Vincent Astrolabio - To Win the Bout,Vincent Astrolabio,-0.012199999999999989,0.5,0.5122
 2023-05-06 21:40:50.488245,UEFA Champions League - UEFA Champions League 2022/2023 - Nationality of Winner,Spain,-0.012499999999999983,0.2174,0.2299
 2023-05-06 21:40:48.455990,Boxing Lines - Dennis Hogan vs James Metcalf - To Win the Bout,James Metcalf,-0.013799999999999923,0.6226,0.6364
@@ -38,10 +36,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-06 18:40:52.346529,Italian Open - Italian Open - Outright,Rafael Cabrera Bello,-0.0213,0.0004,0.0217
 2023-05-07 00:40:41.940105,Z_Fury FC - Carlos Lozoya vs Luis Gurule - To Win the Bout,Carlos Lozoya,-0.021699999999999997,0.4545,0.4762
 2023-05-07 00:40:41.957965,Z_Fury FC - Tracy Reeder vs Darren Whitney - To Win the Bout,Tracy Reeder,-0.02260000000000001,0.3774,0.4
-2023-05-06 13:40:34.667050,Round Match-Ups - 3rd Round Match-Up - B. Hossler vs K.H. Lee - 3rd Round Match-Up,Beau Hossler,-0.022600000000000064,0.5122,0.5348
-2023-05-06 13:40:34.646609,Round Match-Ups - 3rd Round Match-Up - M. Kim v D. Lingmerth - 3rd Round Match-Up,David Lingmerth,-0.023799999999999988,0.4762,0.5
 2023-05-06 21:40:50.685575,Premier League Futures/Specials - English Premier League 2022/23 - Winner,Arsenal,-0.0242,0.0667,0.0909
-2023-05-06 13:40:34.651498,Round Match-Ups - 3rd Round Match-Up - T. Moore vs D. McCarthy - 3rd Round Match-Up,Denny McCarthy,-0.024399999999999977,0.4878,0.5122
 2023-05-06 19:40:43.126583,Boxing Lines - Victor Reyes Bernabe vs Salvador Juarez - To Win the Bout,Victor Reyes Bernabe,-0.024799999999999933,0.7647,0.7895
 2023-05-06 18:40:52.346529,Italian Open - Italian Open - Outright,Jorge Campillo,-0.037700000000000004,0.0099,0.0476
 2023-05-06 18:40:52.346529,Italian Open - Italian Open - Outright,Alexander Bjork,-0.05879999999999999,0.0079,0.0667
