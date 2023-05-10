@@ -6,6 +6,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-10 05:40:43.584884,NBA Awards - Western Conference Finals MVP - WCF MVP,Nikola Jokic (DEN),0.10900000000000004,0.4167,0.3077
 2023-05-10 04:40:48.541234,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,0.10150000000000003,0.4348,0.3333
 2023-05-10 04:40:48.553137,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Denver Nuggets,0.08330000000000001,0.25,0.1667
+2023-05-10 11:40:45.960505,Boxing Lines - Bastien Ballesta vs Yvan Mendy - To Win the Bout,Bastien Ballesta,0.05910000000000004,0.7143,0.6552
 2023-05-10 05:40:44.643605,AT&T Byron Nelson - 2/3 Balls - 1st Round 3 Balls - A. Rai / T. Werbylo / P. Coody - 1st Round 3 Balls,Aaron Rai,0.043399999999999994,0.4878,0.4444
 2023-05-10 08:40:45.297467,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Winner 2023,Israel,0.04239999999999999,0.0769,0.0345
 2023-05-10 08:40:45.297467,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Winner 2023,Ukraine,0.0407,0.1176,0.0769
@@ -27,22 +28,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-10 05:40:43.575294,NBA Awards - Eastern Conference Finals MVP - ECF MVP,Jimmy Butler (MIA),0.01820000000000002,0.2,0.1818
 2023-05-10 05:40:43.412675,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,0.01820000000000002,0.2,0.1818
 2023-05-10 05:40:43.594286,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Anthony Davis (LAL),0.01759999999999999,0.1176,0.1
+2023-05-10 11:40:46.127486,Boxing Lines - Fillipus Nghitumbwa vs John Riel Casimero - To Win the Bout,Fillipus Nghitumbwa,0.017299999999999982,0.303,0.2857
 2023-05-10 10:41:07.327187,Boxing Lines - Jason Moloney vs Vincent Astrolabio - To Win the Bout,Jason Moloney,0.017299999999999982,0.5917,0.5744
-2023-05-10 05:40:43.403660,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,0.016699999999999993,0.2667,0.25
+2023-05-10 11:40:46.293067,Boxing Lines - Zhanibek Alimkhanuly vs Steven Butler - To Win the Bout,Steven Butler,0.016700000000000007,0.1,0.0833
 2023-05-10 10:41:07.165117,Boxing Lines - Ayumu Hanada vs Vince Paras - To Win the Bout,Vince Paras,0.016699999999999993,0.4167,0.4
+2023-05-10 05:40:43.403660,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,0.016699999999999993,0.2667,0.25
 2023-05-10 05:40:43.431699,MLB Futures - MLB 2023 National League West - National League West Winner,Los Angeles Dodgers,0.016699999999999937,0.6,0.5833
 2023-05-10 08:40:45.297467,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Winner 2023,Spain,0.014099999999999994,0.0667,0.0526
 2023-05-10 10:41:06.505642,Superettan - Superettan 2023 - Winner,Östersunds FK,0.013999999999999999,0.0909,0.0769
 2023-05-10 08:40:45.297467,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Winner 2023,France,0.013899999999999996,0.125,0.1111
-2023-05-10 05:40:43.456510,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Miami Heat,0.0131,0.2353,0.2222
 2023-05-10 05:40:43.477409,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Philadelphia 76ers,0.0131,0.2353,0.2222
+2023-05-10 05:40:43.456510,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Miami Heat,0.0131,0.2353,0.2222
 2023-05-10 04:40:47.224326,Boxing Lines - Bastien Ballesta vs Yvan Mendy - To Win the Bout,Bastien Ballesta,0.012700000000000045,0.6491,0.6364
 2023-05-10 08:40:43.876781,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Ron DeSantis,0.012500000000000011,0.2564,0.2439
 2023-05-10 08:40:43.904475,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Republican,0.011600000000000055,0.5238,0.5122
 2023-05-10 05:40:43.394654,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,0.011499999999999955,0.6667,0.6552
 2023-05-10 10:41:07.361774,Boxing Lines - Rolando Romero vs Ismael Barroso - To Win the Bout,Ismael Barroso,0.010899999999999993,0.1538,0.1429
 2023-05-10 10:41:06.505642,Superettan - Superettan 2023 - Winner,GAIS,0.010899999999999993,0.1538,0.1429
-2023-05-09 23:40:46.325424,Cognizant Founders Cup - Cognizant Founders Cup - Outright,Lydia Ko,-0.0102,0.0667,0.0769
 2023-05-10 10:41:06.913711,Boxing Lines - Michal Soczynski vs Israel Duffus - To Win the Bout,Israel Duffus,-0.010899999999999993,0.1429,0.1538
 2023-05-10 05:40:43.412675,MLB Futures - MLB 2023 National League Central - National League Central Winner,Pittsburgh Pirates,-0.010899999999999993,0.1429,0.1538
 2023-05-10 10:41:06.505642,Superettan - Superettan 2023 - Winner,GIF Sundsvall,-0.011199999999999995,0.0476,0.0588
@@ -50,13 +52,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-10 05:40:44.643605,AT&T Byron Nelson - 2/3 Balls - 1st Round 3 Balls - A. Rai / T. Werbylo / P. Coody - 1st Round 3 Balls,Pierceson Coody,-0.012299999999999978,0.3448,0.3571
 2023-05-10 08:40:43.876781,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Mike Pence,-0.012700000000000003,0.0196,0.0323
 2023-05-10 05:40:43.394654,MLB Futures - MLB 2023 American League East - American League East Winner,Toronto Blue Jays,-0.0131,0.2222,0.2353
+2023-05-10 11:40:46.127486,Boxing Lines - Fillipus Nghitumbwa vs John Riel Casimero - To Win the Bout,John Riel Casimero,-0.0131,0.7647,0.7778
 2023-05-10 08:40:43.876781,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Donald Trump,-0.013299999999999979,0.6296,0.6429
 2023-05-10 10:41:06.505642,Superettan - Superettan 2023 - Winner,Helsingborgs IF,-0.014100000000000001,0.0385,0.0526
 2023-05-10 05:40:43.477409,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Los Angeles Lakers,-0.01469999999999999,0.2353,0.25
 2023-05-10 05:40:44.540903,AT&T Byron Nelson - 2/3 Balls - 1st Round 3 Balls - R. Moore / S. Brown / C. Bezuidenhout - 1st Round 3 Balls,Ryan Moore,-0.014900000000000024,0.3077,0.3226
 2023-05-10 05:40:43.584884,NBA Awards - Western Conference Finals MVP - WCF MVP,Kevin Durant (PHX),-0.015700000000000006,0.1176,0.1333
 2023-05-10 05:40:44.540903,AT&T Byron Nelson - 2/3 Balls - 1st Round 3 Balls - R. Moore / S. Brown / C. Bezuidenhout - 1st Round 3 Balls,Scott Brown,-0.01629999999999998,0.2778,0.2941
-2023-05-09 23:40:46.325424,Cognizant Founders Cup - Cognizant Founders Cup - Outright,Jin Young Ko,-0.016600000000000004,0.0667,0.0833
 2023-05-10 05:40:43.431699,MLB Futures - MLB 2023 National League West - National League West Winner,San Diego Padres,-0.016699999999999993,0.4,0.4167
 2023-05-10 08:40:45.015418,Boxing Lines - Fillipus Nghitumbwa vs John Riel Casimero - To Win the Bout,Fillipus Nghitumbwa,-0.017299999999999982,0.2857,0.303
 2023-05-10 10:41:07.165117,Boxing Lines - Ayumu Hanada vs Vince Paras - To Win the Bout,Ayumu Hanada,-0.01759999999999995,0.6491,0.6667
@@ -78,6 +80,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-10 05:40:43.584884,NBA Awards - Western Conference Finals MVP - WCF MVP,Devin Booker (PHX),-0.037599999999999995,0.1053,0.1429
 2023-05-10 08:40:44.983096,Boxing Lines - Ellis Zorro vs Hosea Burton - To Win the Bout,Hosea Burton,-0.0393,0.3774,0.4167
 2023-05-10 04:40:48.553137,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Phoenix Suns,-0.05,0.0833,0.1333
+2023-05-10 11:40:45.960505,Boxing Lines - Bastien Ballesta vs Yvan Mendy - To Win the Bout,Yvan Mendy,-0.05730000000000002,0.3509,0.4082
 2023-05-10 05:40:43.594286,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Jaylen Brown (BOS),-0.0585,0.0526,0.1111
 2023-05-10 05:40:43.575294,NBA Awards - Eastern Conference Finals MVP - ECF MVP,Jaylen Brown (BOS),-0.08179999999999998,0.1,0.1818
 2023-05-10 04:40:48.541234,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Phoenix Suns,-0.10200000000000001,0.1333,0.2353
