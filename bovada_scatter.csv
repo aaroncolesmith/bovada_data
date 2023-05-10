@@ -13,7 +13,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-10 08:40:45.297467,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Winner 2023,Israel,0.04239999999999999,0.0769,0.0345
 2023-05-10 08:40:45.297467,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Winner 2023,Ukraine,0.0407,0.1176,0.0769
 2023-05-10 05:40:43.594286,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Nikola Jokic (DEN),0.04040000000000002,0.2222,0.1818
+2023-05-10 14:40:51.746016,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Atlanta Braves,0.03889999999999999,0.1818,0.1429
 2023-05-10 08:40:44.983096,Boxing Lines - Ellis Zorro vs Hosea Burton - To Win the Bout,Ellis Zorro,0.03839999999999999,0.6875,0.6491
+2023-05-10 14:40:51.768073,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Atlanta Braves,0.03689999999999999,0.3226,0.2857
 2023-05-10 08:40:45.297467,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Winner 2023,Sweden,0.03639999999999999,0.6364,0.6
 2023-05-10 05:40:44.540903,AT&T Byron Nelson - 2/3 Balls - 1st Round 3 Balls - R. Moore / S. Brown / C. Bezuidenhout - 1st Round 3 Balls,Christiaan Bezuidenhout,0.035999999999999976,0.5122,0.4762
 2023-05-10 13:40:48.879002,MLB Daily Specials - MLB Daily Specials - Wednesday May 10 - Evening Games,"Twins, Padres, White Sox & Royals 16+ Combined Runs",0.03180000000000005,0.8889,0.8571
@@ -41,15 +43,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-10 10:41:07.327187,Boxing Lines - Jason Moloney vs Vincent Astrolabio - To Win the Bout,Jason Moloney,0.017299999999999982,0.5917,0.5744
 2023-05-10 11:40:46.127486,Boxing Lines - Fillipus Nghitumbwa vs John Riel Casimero - To Win the Bout,Fillipus Nghitumbwa,0.017299999999999982,0.303,0.2857
 2023-05-10 11:40:46.293067,Boxing Lines - Zhanibek Alimkhanuly vs Steven Butler - To Win the Bout,Steven Butler,0.016700000000000007,0.1,0.0833
-2023-05-10 10:41:07.165117,Boxing Lines - Ayumu Hanada vs Vince Paras - To Win the Bout,Vince Paras,0.016699999999999993,0.4167,0.4
 2023-05-10 05:40:43.403660,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,0.016699999999999993,0.2667,0.25
+2023-05-10 10:41:07.165117,Boxing Lines - Ayumu Hanada vs Vince Paras - To Win the Bout,Vince Paras,0.016699999999999993,0.4167,0.4
 2023-05-10 05:40:43.431699,MLB Futures - MLB 2023 National League West - National League West Winner,Los Angeles Dodgers,0.016699999999999937,0.6,0.5833
 2023-05-10 12:40:47.480025,Boxing Lines - Ryan Garner vs Eduardo Valverde - To Win the Bout,Ryan Garner,0.014900000000000024,0.9804,0.9655
 2023-05-10 08:40:45.297467,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Winner 2023,Spain,0.014099999999999994,0.0667,0.0526
 2023-05-10 10:41:06.505642,Superettan - Superettan 2023 - Winner,Östersunds FK,0.013999999999999999,0.0909,0.0769
 2023-05-10 08:40:45.297467,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Winner 2023,France,0.013899999999999996,0.125,0.1111
-2023-05-10 05:40:43.456510,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Miami Heat,0.0131,0.2353,0.2222
 2023-05-10 05:40:43.477409,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Philadelphia 76ers,0.0131,0.2353,0.2222
+2023-05-10 05:40:43.456510,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Miami Heat,0.0131,0.2353,0.2222
+2023-05-10 14:40:48.029626,Boxing Lines - Kim Clavel vs Naomi Arellano Reyes - To Win the Bout,Naomi Arellano Reyes,0.012899999999999995,0.1667,0.1538
 2023-05-10 12:40:47.642704,Boxing Lines - Rolando Romero vs Ismael Barroso - To Win the Bout,Ismael Barroso,0.012899999999999995,0.1667,0.1538
 2023-05-10 04:40:47.224326,Boxing Lines - Bastien Ballesta vs Yvan Mendy - To Win the Bout,Bastien Ballesta,0.012700000000000045,0.6491,0.6364
 2023-05-10 08:40:43.876781,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Ron DeSantis,0.012500000000000011,0.2564,0.2439
@@ -66,8 +69,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-10 05:40:44.643605,AT&T Byron Nelson - 2/3 Balls - 1st Round 3 Balls - A. Rai / T. Werbylo / P. Coody - 1st Round 3 Balls,Pierceson Coody,-0.012299999999999978,0.3448,0.3571
 2023-05-10 12:40:47.805600,Euroleague - Euroleague 2022/23 - Outright,Maccabi Tel-Aviv,-0.012299999999999991,0.1053,0.1176
 2023-05-10 08:40:43.876781,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Mike Pence,-0.012700000000000003,0.0196,0.0323
-2023-05-10 05:40:43.394654,MLB Futures - MLB 2023 American League East - American League East Winner,Toronto Blue Jays,-0.0131,0.2222,0.2353
 2023-05-10 11:40:46.127486,Boxing Lines - Fillipus Nghitumbwa vs John Riel Casimero - To Win the Bout,John Riel Casimero,-0.0131,0.7647,0.7778
+2023-05-10 05:40:43.394654,MLB Futures - MLB 2023 American League East - American League East Winner,Toronto Blue Jays,-0.0131,0.2222,0.2353
 2023-05-10 08:40:43.876781,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Donald Trump,-0.013299999999999979,0.6296,0.6429
 2023-05-10 10:41:06.505642,Superettan - Superettan 2023 - Winner,Helsingborgs IF,-0.014100000000000001,0.0385,0.0526
 2023-05-10 05:40:43.477409,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Los Angeles Lakers,-0.01469999999999999,0.2353,0.25
@@ -79,8 +82,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-10 10:41:07.165117,Boxing Lines - Ayumu Hanada vs Vince Paras - To Win the Bout,Ayumu Hanada,-0.01759999999999995,0.6491,0.6667
 2023-05-10 05:40:43.465920,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Lakers,-0.018100000000000005,0.4167,0.4348
 2023-05-10 12:40:47.574841,Boxing Lines - Joeshon James vs Javier Martinez - To Win the Bout,Javier Martinez,-0.01880000000000004,0.5556,0.5744
-2023-05-10 10:41:06.505642,Superettan - Superettan 2023 - Winner,Västerås SK,-0.019000000000000017,0.2667,0.2857
 2023-05-10 10:41:06.447605,Allsvenskan - Allsvenskan 2023 - Winner,BK Häcken,-0.019000000000000017,0.2667,0.2857
+2023-05-10 10:41:06.505642,Superettan - Superettan 2023 - Winner,Västerås SK,-0.019000000000000017,0.2667,0.2857
 2023-05-10 04:40:48.201773,Tournament Match-Ups - Tournament Match-Up - T. Kim vs K.H. Lee - Tournament Match-Up,Tom Kim,-0.01970000000000005,0.5455,0.5652
 2023-05-10 08:40:43.923029,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,-0.021399999999999975,0.2564,0.2778
 2023-05-10 13:40:51.711844,Round Match-Ups - 1st Round Match-Up - D. Riley vs S. Stevens - 1st Round Match-Up,Davis Riley,-0.02169999999999994,0.5238,0.5455
@@ -92,8 +95,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-10 13:40:51.703846,Round Match-Ups - 1st Round Match-Up - A. Schenk vs J. Suh - 1st Round Match-Up,Justin Suh,-0.024399999999999977,0.4878,0.5122
 2023-05-10 13:40:48.969217,MLB Futures - MLB 2023 National League Central - National League Central Winner,Pittsburgh Pirates,-0.025300000000000003,0.1176,0.1429
 2023-05-10 05:40:43.412675,MLB Futures - MLB 2023 National League Central - National League Central Winner,St. Louis Cardinals,-0.025300000000000003,0.1176,0.1429
-2023-05-10 12:40:47.620757,Boxing Lines - Batyr Akhmedov vs Kenneth Sims Jr - To Win the Bout,Kenneth Sims Jr,-0.025599999999999956,0.5744,0.6
 2023-05-10 04:40:48.173533,Tournament Match-Ups - Tournament Match-Up - M.W Lee vs A. Wise - Tournament Match-Up,Min Woo Lee,-0.025599999999999956,0.5744,0.6
+2023-05-10 12:40:47.620757,Boxing Lines - Batyr Akhmedov vs Kenneth Sims Jr - To Win the Bout,Kenneth Sims Jr,-0.025599999999999956,0.5744,0.6
 2023-05-10 05:40:43.456510,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Boston Celtics,-0.02560000000000001,0.3077,0.3333
 2023-05-10 05:40:44.643605,AT&T Byron Nelson - 2/3 Balls - 1st Round 3 Balls - A. Rai / T. Werbylo / P. Coody - 1st Round 3 Balls,Trevor Werbylo,-0.02739999999999998,0.2667,0.2941
 2023-05-10 05:40:43.594286,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Devin Booker (PHX),-0.029299999999999993,0.0476,0.0769
