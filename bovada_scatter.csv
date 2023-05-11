@@ -6,9 +6,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-11 01:40:44.987676,Tournament Match-Ups - Tournament Match-Up - M. Kuchar vs A. Scott - Tournament Match-Up,Matt Kuchar,0.05740000000000001,0.6226,0.5652
 2023-05-10 20:40:37.334419,Main Markets - 1st Round 3 Balls - R.S. Johnson / S.W. Kim / T. Montgomery - 1st Round 3 Balls,Si Woo Kim,0.04760000000000003,0.5238,0.4762
 2023-05-10 20:40:37.797602,Round Scores - 1st Round Score - Adam Scott - 1st Round Score,Under 70.5,0.04259999999999997,0.6078,0.5652
-2023-05-10 14:40:51.746016,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Atlanta Braves,0.03889999999999999,0.1818,0.1429
 2023-05-10 15:40:51.421198,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Zac Gallen,0.03689999999999999,0.3226,0.2857
-2023-05-10 14:40:51.768073,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Atlanta Braves,0.03689999999999999,0.3226,0.2857
 2023-05-10 15:40:51.159473,NBA Daily Specials - NBA Daily Specials - Wednesday 10th May,"LeBron, J.Butler & A.Davis 20+ Pts Each",0.03480000000000005,0.5348,0.5
 2023-05-10 15:40:51.159473,NBA Daily Specials - NBA Daily Specials - Wednesday 10th May,"LeBron, J.Butler & A.Davis 21+ Pts Each",0.030299999999999994,0.4651,0.4348
 2023-05-10 23:40:39.758197,Main Markets - 1st Round 3 Balls - J. Walker / R. Barnes / J. Lower - 1st Round 3 Balls,Jimmy Walker,0.024399999999999977,0.5122,0.4878
@@ -24,20 +22,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-10 15:40:49.885786,Boxing Lines - Haven Brady Jr. vs D'angelo Fuentes - To Win the Bout,D'angelo Fuentes,0.0174,0.2174,0.2
 2023-05-10 15:40:49.920892,Boxing Lines - Batyr Akhmedov vs Kenneth Sims Jr - To Win the Bout,Kenneth Sims Jr,0.017299999999999982,0.5917,0.5744
 2023-05-10 17:40:48.181762,Main Markets - 1st Round 3 Balls - J. Dufner / B. Wu / S. Stevens - 1st Round 3 Balls,Sam Stevens,0.016699999999999993,0.4167,0.4
-2023-05-10 23:40:39.727312,Main Markets - 1st Round 3 Balls - A. Landry / L. Glover / T. Merritt - 1st Round 3 Balls,Troy Merritt,0.015400000000000025,0.4,0.3846
 2023-05-10 17:40:48.097225,Main Markets - 1st Round 3 Balls - C.T. Pan / A. Baddeley / S. Bae - 1st Round 3 Balls,C.T. Pan,0.015400000000000025,0.4,0.3846
-2023-05-10 14:40:48.029626,Boxing Lines - Kim Clavel vs Naomi Arellano Reyes - To Win the Bout,Naomi Arellano Reyes,0.012899999999999995,0.1667,0.1538
+2023-05-10 23:40:39.727312,Main Markets - 1st Round 3 Balls - A. Landry / L. Glover / T. Merritt - 1st Round 3 Balls,Troy Merritt,0.015400000000000025,0.4,0.3846
+2023-05-11 03:40:35.409882,Regions  Tradition - Regions Tradition - Outright,Alex Cejka,0.014100000000000001,0.0526,0.0385
 2023-05-10 17:40:45.465464,NBA Daily Specials - NBA Daily Specials - Wednesday 10th May,"LeBron, St.Curry, J.Butler & A.Davis to score a Double Double Each",0.012700000000000003,0.0323,0.0196
 2023-05-11 00:40:34.132075,AT&T Byron Nelson - AT&T Byron Nelson - Outright,Scottie Scheffler,0.011700000000000016,0.2222,0.2105
 2023-05-10 23:40:40.000600,Tournament Match-Ups - Tournament Match-Up - S. Power vs T. Hoge - Tournament Match-Up,Tom Hoge,0.011600000000000055,0.5238,0.5122
 2023-05-10 23:40:38.329008,Boxing Lines - Weljon Mindoro vs Takeshi Inoue - To Win the Bout,Weljon Mindoro,0.01150000000000001,0.3448,0.3333
 2023-05-11 00:40:34.018636,Soudal Open - Soudal Open - Outright,Jorge Campillo,0.011199999999999995,0.0588,0.0476
+2023-05-11 03:40:35.409882,Regions  Tradition - Regions Tradition - Outright,Jerry Kelly,0.011199999999999995,0.0588,0.0476
 2023-05-10 18:40:42.900493,Boxing Lines - Michal Soczynski vs Israel Duffus - To Win the Bout,Israel Duffus,0.010899999999999993,0.1538,0.1429
 2023-05-10 21:40:44.507609,Round Match-Ups - 1st Round Match-Up - K. Hickok v K. Chappell - 1st Round Match-Up,Kramer Hickok,0.010699999999999932,0.5455,0.5348
 2023-05-10 17:40:48.076313,AT&T Byron Nelson - AT&T Byron Nelson - Outright,Tyrrell Hatton,0.0102,0.0769,0.0667
 2023-05-10 17:40:45.867347,Boxing Lines - Brian Norman Jr. vs Jesus Antonio Perez Campos - To Win the Bout,Brian Norman Jr.,0.010199999999999987,0.9333,0.9231
-2023-05-10 23:40:40.000600,Tournament Match-Ups - Tournament Match-Up - S. Power vs T. Hoge - Tournament Match-Up,Seamus Power,-0.010099999999999998,0.5455,0.5556
 2023-05-10 17:40:48.181762,Main Markets - 1st Round 3 Balls - J. Dufner / B. Wu / S. Stevens - 1st Round 3 Balls,Brandon Wu,-0.010099999999999998,0.4444,0.4545
+2023-05-10 23:40:40.000600,Tournament Match-Ups - Tournament Match-Up - S. Power vs T. Hoge - Tournament Match-Up,Seamus Power,-0.010099999999999998,0.5455,0.5556
 2023-05-10 23:40:39.737536,Main Markets - 1st Round 3 Balls - C. Percy / R. Shelton / S. Jaeger - 1st Round 3 Balls,Cameron Percy,-0.011099999999999999,0.2667,0.2778
 2023-05-10 23:40:38.329008,Boxing Lines - Weljon Mindoro vs Takeshi Inoue - To Win the Bout,Takeshi Inoue,-0.011099999999999999,0.7222,0.7333
 2023-05-10 15:40:49.920892,Boxing Lines - Batyr Akhmedov vs Kenneth Sims Jr - To Win the Bout,Batyr Akhmedov,-0.0116,0.4762,0.4878
