@@ -17,9 +17,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-12 20:40:42.318074,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Chicago Bears,Over 7.5,0.026499999999999968,0.5917,0.5652
 2023-05-12 16:40:53.847184,BKFC 42 - Trukon Carson vs LJ Hermreck - To Win the Bout,Trukon Carson,0.026499999999999968,0.5917,0.5652
 2023-05-12 22:40:35.523966,Superligaen - Denmark Superligaen 2022/23 - Outright,AGF Aarhus,0.022199999999999998,0.1333,0.1111
-2023-05-12 21:40:46.081101,BKFC 42 - Keith Richardson vs Nick Burgos - To Win the Bout,Keith Richardson,0.022199999999999998,0.8,0.7778
 2023-05-12 21:40:46.062565,BKFC 42 - Doug Coltrane vs Anthony Blake Lacaze - To Win the Bout,Doug Coltrane,0.022199999999999998,0.8,0.7778
 2023-05-12 21:40:46.011363,BKFC 42 - Cole Ferrell vs Cody Schieve - To Win the Bout,Cole Ferrell,0.022199999999999998,0.8889,0.8667
+2023-05-12 21:40:46.081101,BKFC 42 - Keith Richardson vs Nick Burgos - To Win the Bout,Keith Richardson,0.022199999999999998,0.8,0.7778
 2023-05-12 20:40:42.444762,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Pittsburgh Steelers,Over 8.5,0.01880000000000004,0.5744,0.5556
 2023-05-12 17:40:49.368724,Soudal Open - Soudal Open - Winner,Marcus Armitage,0.017599999999999998,0.0196,0.002
 2023-05-12 21:40:46.038840,BKFC 42 - Brandon Bushaw vs Rick Caruso - To Win the Bout,Brandon Bushaw,0.016700000000000048,0.75,0.7333
@@ -30,24 +30,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-12 17:40:47.724282,Boxing Lines - Ellis Zorro vs Hosea Burton - To Win the Bout,Ellis Zorro,0.013599999999999945,0.7059,0.6923
 2023-05-12 20:40:40.649924,Boxing Lines - Ellis Zorro vs Hosea Burton - To Win the Bout,Hosea Burton,0.013300000000000034,0.3704,0.3571
 2023-05-12 20:40:42.413867,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - New England Patriots,Under 7.5,0.012199999999999989,0.5122,0.5
+2023-05-13 04:40:42.104937,Boxing Lines - Fillipus Nghitumbwa vs John Riel Casimero - To Win the Bout,John Riel Casimero,0.011900000000000022,0.8333,0.8214
 2023-05-12 21:40:45.783721,Boxing Lines - Batyr Akhmedov vs Kenneth Sims Jr - To Win the Bout,Batyr Akhmedov,0.011600000000000055,0.5238,0.5122
-2023-05-12 20:40:42.287744,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Atlanta Falcons,Over 8.5,0.0116,0.4878,0.4762
-2023-05-12 20:40:42.437055,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - New York Jets,Under 9.5,0.0116,0.4878,0.4762
 2023-05-12 21:40:45.976245,BKFC 42 - John Barnard vs Joshua Marer - To Win the Bout,Joshua Marer,0.0116,0.4878,0.4762
+2023-05-12 20:40:42.437055,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - New York Jets,Under 9.5,0.0116,0.4878,0.4762
+2023-05-12 20:40:42.287744,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Atlanta Falcons,Over 8.5,0.0116,0.4878,0.4762
 2023-05-13 00:40:46.783118,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Winner 2023,Norway,0.011199999999999995,0.0588,0.0476
-2023-05-12 21:40:45.783721,Boxing Lines - Batyr Akhmedov vs Kenneth Sims Jr - To Win the Bout,Kenneth Sims Jr,-0.010099999999999998,0.5455,0.5556
 2023-05-12 21:40:45.690069,Boxing Lines - Joeshon James vs Javier Martinez - To Win the Bout,Javier Martinez,-0.010099999999999998,0.5455,0.5556
+2023-05-12 21:40:45.783721,Boxing Lines - Batyr Akhmedov vs Kenneth Sims Jr - To Win the Bout,Kenneth Sims Jr,-0.010099999999999998,0.5455,0.5556
 2023-05-12 17:40:49.368724,Soudal Open - Soudal Open - Winner,Matthew Southgate,-0.0101,0.004,0.0141
 2023-05-12 20:40:42.384572,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Las Vegas Raiders,Over 7.5,-0.010599999999999998,0.4545,0.4651
 2023-05-12 21:40:46.090655,BKFC 42 - Tony Soto vs Tyler Goodjohn - To Win the Bout,Tyler Goodjohn,-0.010699999999999987,0.3226,0.3333
 2023-05-13 03:40:45.184511,Main Markets - 3rd Round 3 Balls - A. Scott / S.Y. Noh / S. Bae - 3rd Round 3 Balls,Adam Scott,-0.01100000000000001,0.5238,0.5348
-2023-05-12 21:40:46.071986,BKFC 42 - Trukon Carson vs LJ Hermreck - To Win the Bout,LJ Hermreck,-0.011099999999999999,0.4651,0.4762
 2023-05-12 20:40:42.428884,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - New York Giants,Over 8.5,-0.011099999999999999,0.4651,0.4762
+2023-05-12 21:40:46.071986,BKFC 42 - Trukon Carson vs LJ Hermreck - To Win the Bout,LJ Hermreck,-0.011099999999999999,0.4651,0.4762
 2023-05-13 03:40:45.140803,Main Markets - 3rd Round 3 Balls - L. List / A. Long / K. Kraft - 3rd Round 3 Balls,Kelly Kraft,-0.011099999999999999,0.2667,0.2778
+2023-05-13 04:40:42.104937,Boxing Lines - Fillipus Nghitumbwa vs John Riel Casimero - To Win the Bout,Fillipus Nghitumbwa,-0.0116,0.2353,0.2469
+2023-05-12 20:40:42.421314,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - New Orleans Saints,Over 9.5,-0.012199999999999989,0.5,0.5122
 2023-05-12 20:40:42.325430,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Cincinnati Bengals,Over 11.5,-0.012199999999999989,0.4878,0.5
 2023-05-12 20:40:42.467977,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Tennessee Titans,Over 7.5,-0.012199999999999989,0.4878,0.5
 2023-05-12 20:40:42.452985,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Seattle Seahawks,Under 8.5,-0.012199999999999989,0.4878,0.5
-2023-05-12 20:40:42.421314,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - New Orleans Saints,Over 9.5,-0.012199999999999989,0.5,0.5122
 2023-05-12 17:40:47.724282,Boxing Lines - Ellis Zorro vs Hosea Burton - To Win the Bout,Hosea Burton,-0.013300000000000034,0.3571,0.3704
 2023-05-12 20:40:40.649924,Boxing Lines - Ellis Zorro vs Hosea Burton - To Win the Bout,Ellis Zorro,-0.013599999999999945,0.6923,0.7059
 2023-05-12 21:40:45.996720,BKFC 42 - Jonathan Miller vs Dustin Long - To Win the Bout,Jonathan Miller,-0.013800000000000034,0.3636,0.3774
@@ -58,10 +60,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-12 21:40:45.976245,BKFC 42 - John Barnard vs Joshua Marer - To Win the Bout,John Barnard,-0.017299999999999982,0.5744,0.5917
 2023-05-12 17:40:49.368724,Soudal Open - Soudal Open - Winner,Robin Sciot-Siegrist,-0.017599999999999998,0.002,0.0196
 2023-05-12 17:40:49.368724,Soudal Open - Soudal Open - Winner,Frederic Lacroix,-0.017800000000000003,0.0066,0.0244
-2023-05-12 21:40:46.081101,BKFC 42 - Keith Richardson vs Nick Burgos - To Win the Bout,Nick Burgos,-0.019000000000000017,0.2667,0.2857
 2023-05-12 21:40:46.062565,BKFC 42 - Doug Coltrane vs Anthony Blake Lacaze - To Win the Bout,Anthony Blake Lacaze,-0.019000000000000017,0.2667,0.2857
-2023-05-12 17:40:49.368724,Soudal Open - Soudal Open - Winner,Andrew Wilson,-0.020000000000000004,0.0123,0.0323
+2023-05-12 21:40:46.081101,BKFC 42 - Keith Richardson vs Nick Burgos - To Win the Bout,Nick Burgos,-0.019000000000000017,0.2667,0.2857
 2023-05-12 17:40:49.368724,Soudal Open - Soudal Open - Winner,Eddie Pepperell,-0.020000000000000004,0.0123,0.0323
+2023-05-12 17:40:49.368724,Soudal Open - Soudal Open - Winner,Andrew Wilson,-0.020000000000000004,0.0123,0.0323
 2023-05-12 21:40:46.038840,BKFC 42 - Brandon Bushaw vs Rick Caruso - To Win the Bout,Rick Caruso,-0.020799999999999985,0.3125,0.3333
 2023-05-13 00:40:46.783118,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Winner 2023,Finland,-0.021999999999999964,0.2857,0.3077
 2023-05-13 03:40:45.198501,Main Markets - 3rd Round 3 Balls - B.H. An / E. Cole / G. Chalmers - 3rd Round 3 Balls,Greg Chalmers,-0.022199999999999998,0.2,0.2222
@@ -72,8 +74,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-12 21:40:46.011363,BKFC 42 - Cole Ferrell vs Cody Schieve - To Win the Bout,Cody Schieve,-0.026100000000000012,0.1739,0.2
 2023-05-12 17:40:49.368724,Soudal Open - Soudal Open - Winner,Alejandro Del Rey,-0.031200000000000002,0.0033,0.0345
 2023-05-12 21:40:45.986756,BKFC 42 - Samuel Samples vs Glendel Futrell - To Win the Bout,Glendel Futrell,-0.031799999999999995,0.4444,0.4762
-2023-05-12 17:40:49.368724,Soudal Open - Soudal Open - Winner,Marcus Kinhult,-0.032400000000000005,0.0152,0.0476
 2023-05-12 17:40:49.368724,Soudal Open - Soudal Open - Winner,Ryo Hisatsune,-0.032400000000000005,0.0152,0.0476
+2023-05-12 17:40:49.368724,Soudal Open - Soudal Open - Winner,Marcus Kinhult,-0.032400000000000005,0.0152,0.0476
 2023-05-12 17:40:49.368724,Soudal Open - Soudal Open - Winner,Alexander Bjork,-0.034100000000000005,0.0909,0.125
 2023-05-13 03:40:45.198501,Main Markets - 3rd Round 3 Balls - B.H. An / E. Cole / G. Chalmers - 3rd Round 3 Balls,Eric Cole,-0.0348,0.4,0.4348
 2023-05-12 20:40:42.310695,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Carolina Panthers,Under 7.5,-0.035999999999999976,0.4762,0.5122
