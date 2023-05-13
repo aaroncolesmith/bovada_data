@@ -19,8 +19,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-13 08:40:43.107755,Regions  Tradition - Regions Tradition - Winner,Steve Stricker,0.03570000000000001,0.2857,0.25
 2023-05-13 09:40:45.973102,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leeds United,0.035699999999999954,0.75,0.7143
 2023-05-13 05:41:34.020754,MLB Futures - MLB 2023 National League East - National League East Winner,New York Mets,0.033399999999999985,0.1667,0.1333
-2023-05-13 08:40:43.107755,Regions  Tradition - Regions Tradition - Winner,Alex Cejka,0.0321,0.0909,0.0588
 2023-05-13 08:40:43.107755,Regions  Tradition - Regions Tradition - Winner,Paul Broadhurst,0.0321,0.0909,0.0588
+2023-05-13 08:40:43.107755,Regions  Tradition - Regions Tradition - Winner,Alex Cejka,0.0321,0.0909,0.0588
 2023-05-13 13:40:38.219157,League Two - England - League Two 2022/23 - To Be Promoted,Stockport County,0.028600000000000014,0.3922,0.3636
 2023-05-13 08:40:43.107755,Regions  Tradition - Regions Tradition - Winner,Robert Karlsson,0.028000000000000004,0.0476,0.0196
 2023-05-13 09:40:45.995575,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Everton,0.027800000000000047,0.7778,0.75
@@ -29,8 +29,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-13 03:40:45.140803,Main Markets - 3rd Round 3 Balls - L. List / A. Long / K. Kraft - 3rd Round 3 Balls,Luke List,0.027700000000000002,0.4444,0.4167
 2023-05-13 08:40:40.749103,Boxing Lines - Kevin Lerena vs Ryad Merhy - To Win the Bout,Kevin Lerena,0.02739999999999998,0.7333,0.7059
 2023-05-13 13:40:39.109979,Round Match-Ups - 3rd Round Match-Up - S. Scheffler vs J. Day - 3rd Round Match-Up,Scottie Scheffler,0.025600000000000067,0.6923,0.6667
-2023-05-13 09:40:45.787316,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Club América,0.02560000000000001,0.3333,0.3077
 2023-05-13 09:40:45.787316,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,CF Monterrey,0.02560000000000001,0.3333,0.3077
+2023-05-13 09:40:45.787316,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Club América,0.02560000000000001,0.3333,0.3077
 2023-05-13 08:40:41.203162,MLB Futures - MLB 2023 Player Awards - National League MVP,Juan Soto (SD),0.024299999999999995,0.0769,0.0526
 2023-05-13 08:40:43.107755,Regions  Tradition - Regions Tradition - Winner,Miguel Angel Jimenez,0.0242,0.0909,0.0667
 2023-05-13 13:40:38.988050,Round Match-Ups - 3rd Round Match-Up - J. Bramlett vs W. Gordon - 3rd Round Match-Up,Will Gordon,0.023800000000000043,0.5238,0.5
@@ -46,6 +46,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-13 08:40:43.087400,Cognizant Founders Cup - Cognizant Founders Cup - Winner,Hae Ran Ryu,0.02020000000000001,0.1111,0.0909
 2023-05-13 08:40:41.083437,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Toronto Blue Jays,0.020100000000000007,0.1739,0.1538
 2023-05-13 08:40:42.599352,Round Match-Ups - 3rd Round Match-Up - M. Kuchar vs T. Hoge - 3rd Round Match-Up,Matt Kuchar,0.01970000000000005,0.5652,0.5455
+2023-05-13 15:40:43.450442,Exhibition Fights - Salt Papi vs Anthony Taylor - To Win the Bout,Salt Papi,0.018999999999999906,0.7333,0.7143
 2023-05-13 08:40:41.209825,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Eury Perez,0.0189,0.0385,0.0196
 2023-05-13 05:41:34.043062,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Shohei Ohtani (LAA),0.01820000000000002,0.2,0.1818
 2023-05-13 08:40:43.087400,Cognizant Founders Cup - Cognizant Founders Cup - Winner,Angel Yin,0.0182,0.0323,0.0141
@@ -53,8 +54,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-13 08:40:43.087400,Cognizant Founders Cup - Cognizant Founders Cup - Winner,Ashleigh Buhai,0.0179,0.0278,0.0099
 2023-05-13 03:40:45.184511,Main Markets - 3rd Round 3 Balls - A. Scott / S.Y. Noh / S. Bae - 3rd Round 3 Balls,Sangmoon Bae,0.016699999999999993,0.2667,0.25
 2023-05-13 05:41:36.019453,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,0.016699999999999937,0.6,0.5833
-2023-05-13 08:40:41.083437,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Seattle Mariners,0.016600000000000004,0.0833,0.0667
 2023-05-13 05:41:34.050410,MLB Futures - MLB 2023 Player Awards - American League MVP,Vladimir Guerrero Jr. (TOR),0.016600000000000004,0.0833,0.0667
+2023-05-13 08:40:41.083437,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Seattle Mariners,0.016600000000000004,0.0833,0.0667
 2023-05-13 08:40:43.087400,Cognizant Founders Cup - Cognizant Founders Cup - Winner,Stephanie Kyriacou,0.0165,0.0244,0.0079
 2023-05-13 05:41:34.064520,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Mitch Keller (PIT),0.0165,0.0244,0.0079
 2023-05-13 08:40:41.330250,NFC South - NFC South 2023/24 - NFC South Winner,Atlanta Falcons,0.01629999999999998,0.2941,0.2778
@@ -69,8 +70,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-13 08:40:43.107755,Regions  Tradition - Regions Tradition - Winner,Dicky Pride,0.014599999999999998,0.0196,0.005
 2023-05-13 09:40:45.787316,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Atlas FC,0.013999999999999999,0.0909,0.0769
 2023-05-13 08:40:41.330250,NFC South - NFC South 2023/24 - NFC South Winner,Tampa Bay Buccaneers,0.013899999999999996,0.125,0.1111
-2023-05-13 05:41:34.043062,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Shane McClanahan (TB),0.012899999999999995,0.1667,0.1538
 2023-05-13 08:40:41.068341,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Atlanta Braves,0.012899999999999995,0.1667,0.1538
+2023-05-13 05:41:34.043062,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Shane McClanahan (TB),0.012899999999999995,0.1667,0.1538
 2023-05-13 08:40:43.107755,Regions  Tradition - Regions Tradition - Winner,Mike Weir,0.012100000000000001,0.0244,0.0123
 2023-05-13 04:40:42.104937,Boxing Lines - Fillipus Nghitumbwa vs John Riel Casimero - To Win the Bout,John Riel Casimero,0.011900000000000022,0.8333,0.8214
 2023-05-13 08:40:40.733216,College Basketball Futures - 2024 NCAA DI Womens Basketball Tournament - March Madness - National Champion,LSU,0.011899999999999994,0.1905,0.1786
@@ -83,8 +84,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-13 13:40:37.155622,Boxing Lines - Jason Moloney vs Vincent Astrolabio - To Win the Bout,Vincent Astrolabio,0.010099999999999998,0.4545,0.4444
 2023-05-13 11:40:54.108782,Boxing Lines - Jason Moloney vs Vincent Astrolabio - To Win the Bout,Vincent Astrolabio,-0.010099999999999998,0.4444,0.4545
 2023-05-13 08:40:41.259832,AFC East - AFC East 2023/24 - AFC East Winner 23/24,Buffalo Bills,-0.010099999999999998,0.4444,0.4545
-2023-05-13 09:40:45.707739,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Hoffenheim,-0.0102,0.0667,0.0769
 2023-05-13 08:40:41.238533,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Dallas Cowboys,-0.0102,0.0667,0.0769
+2023-05-13 09:40:45.707739,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Hoffenheim,-0.0102,0.0667,0.0769
 2023-05-13 08:40:41.259832,AFC East - AFC East 2023/24 - AFC East Winner 23/24,Miami Dolphins,-0.010299999999999976,0.2564,0.2667
 2023-05-13 08:40:43.107755,Regions  Tradition - Regions Tradition - Winner,Y.E. Yang,-0.0103,0.002,0.0123
 2023-05-13 13:40:38.219157,League Two - England - League Two 2022/23 - To Be Promoted,Salford City,-0.010399999999999993,0.2222,0.2326
@@ -95,56 +96,57 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-13 04:40:42.104937,Boxing Lines - Fillipus Nghitumbwa vs John Riel Casimero - To Win the Bout,Fillipus Nghitumbwa,-0.0116,0.2353,0.2469
 2023-05-13 08:40:41.068341,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Toronto Blue Jays,-0.011899999999999994,0.0714,0.0833
 2023-05-13 08:40:41.068341,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Houston Astros,-0.012299999999999991,0.1053,0.1176
-2023-05-13 05:41:34.043062,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Dylan Cease,-0.012700000000000003,0.0196,0.0323
 2023-05-13 08:40:43.087400,Cognizant Founders Cup - Cognizant Founders Cup - Winner,Lydia Ko,-0.012700000000000003,0.0196,0.0323
+2023-05-13 05:41:34.043062,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Dylan Cease,-0.012700000000000003,0.0196,0.0323
 2023-05-13 05:41:34.020754,MLB Futures - MLB 2023 National League East - National League East Winner,Atlanta Braves,-0.012899999999999912,0.8333,0.8462
 2023-05-13 05:41:34.013567,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,-0.012899999999999995,0.1538,0.1667
 2023-05-13 08:40:41.310566,NFC East - NFC East 2023/24 - NFC East Winner,New York Giants,-0.012899999999999995,0.1538,0.1667
 2023-05-13 08:40:43.107755,Regions  Tradition - Regions Tradition - Winner,Kevin Sutherland,-0.013,0.0066,0.0196
-2023-05-13 08:40:41.238533,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Los Angeles Chargers,-0.0131,0.0345,0.0476
-2023-05-13 08:40:43.087400,Cognizant Founders Cup - Cognizant Founders Cup - Winner,Ryann O'Toole,-0.0131,0.0033,0.0164
 2023-05-13 08:40:43.087400,Cognizant Founders Cup - Cognizant Founders Cup - Winner,Gemma Dryburgh,-0.0131,0.0033,0.0164
+2023-05-13 08:40:43.087400,Cognizant Founders Cup - Cognizant Founders Cup - Winner,Ryann O'Toole,-0.0131,0.0033,0.0164
+2023-05-13 08:40:41.238533,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Los Angeles Chargers,-0.0131,0.0345,0.0476
 2023-05-13 08:40:41.209825,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Brett Baty (NYM),-0.013899999999999996,0.1111,0.125
 2023-05-13 05:41:34.043062,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Framber Valdez (HOU),-0.014099999999999994,0.0526,0.0667
 2023-05-13 08:40:43.107755,Regions  Tradition - Regions Tradition - Winner,Thongchai Jaidee,-0.0145,0.0099,0.0244
-2023-05-13 13:40:37.155622,Boxing Lines - Jason Moloney vs Vincent Astrolabio - To Win the Bout,Jason Moloney,-0.014800000000000035,0.6078,0.6226
 2023-05-13 08:40:40.823552,Boxing Lines - Jason Moloney vs Vincent Astrolabio - To Win the Bout,Jason Moloney,-0.014800000000000035,0.6078,0.6226
+2023-05-13 13:40:37.155622,Boxing Lines - Jason Moloney vs Vincent Astrolabio - To Win the Bout,Jason Moloney,-0.014800000000000035,0.6078,0.6226
 2023-05-13 11:40:53.945280,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,-0.01539999999999997,0.6,0.6154
 2023-05-13 03:40:45.140803,Main Markets - 3rd Round 3 Balls - L. List / A. Long / K. Kraft - 3rd Round 3 Balls,Adam Long,-0.015400000000000025,0.3846,0.4
 2023-05-13 08:40:43.107755,Regions  Tradition - Regions Tradition - Winner,Richard Green,-0.0156,0.004,0.0196
 2023-05-13 08:40:40.495934,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,-0.016699999999999937,0.5833,0.6
 2023-05-13 05:41:34.027918,MLB Futures - MLB 2023 National League West - National League West Winner,Los Angeles Dodgers,-0.016699999999999937,0.5833,0.6
-2023-05-13 08:40:41.098869,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Los Angeles Dodgers,-0.016699999999999993,0.25,0.2667
 2023-05-13 09:40:45.973102,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Nottingham Forest,-0.016699999999999993,0.4,0.4167
+2023-05-13 08:40:41.098869,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Los Angeles Dodgers,-0.016699999999999993,0.25,0.2667
 2023-05-13 08:40:41.238533,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,San Francisco 49ers,-0.01759999999999999,0.1,0.1176
+2023-05-13 15:40:43.450442,Exhibition Fights - Salt Papi vs Anthony Taylor - To Win the Bout,Anthony Taylor,-0.017600000000000005,0.3333,0.3509
 2023-05-13 08:40:43.107755,Regions  Tradition - Regions Tradition - Winner,Paul Goydos,-0.017800000000000003,0.0066,0.0244
 2023-05-13 05:41:33.999346,MLB Futures - MLB 2023 American League East - American League East Winner,Baltimore Orioles,-0.018099999999999998,0.0588,0.0769
 2023-05-13 09:40:45.707739,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,VfB Stuttgart,-0.018900000000000028,0.4255,0.4444
 2023-05-13 08:40:41.269893,AFC North - AFC North 2023/24 - AFC North Winner,Cincinnati Bengals,-0.019699999999999995,0.4348,0.4545
 2023-05-13 08:40:43.087400,Cognizant Founders Cup - Cognizant Founders Cup - Winner,Ruoning Yin,-0.020000000000000004,0.0123,0.0323
 2023-05-13 05:41:34.050410,MLB Futures - MLB 2023 Player Awards - American League MVP,Mike Trout (LAA),-0.02020000000000001,0.0909,0.1111
-2023-05-13 13:40:39.109979,Round Match-Ups - 3rd Round Match-Up - S. Scheffler vs J. Day - 3rd Round Match-Up,Jason Day,-0.02030000000000004,0.3571,0.3774
 2023-05-13 08:40:40.514815,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Boston Celtics,-0.02030000000000004,0.3571,0.3774
+2023-05-13 13:40:39.109979,Round Match-Ups - 3rd Round Match-Up - S. Scheffler vs J. Day - 3rd Round Match-Up,Jason Day,-0.02030000000000004,0.3571,0.3774
 2023-05-13 05:41:33.992201,MLB Futures - MLB 2023 American League Central - American League Central Winner,Cleveland Guardians,-0.020799999999999985,0.3125,0.3333
 2023-05-13 13:40:38.988050,Round Match-Ups - 3rd Round Match-Up - J. Bramlett vs W. Gordon - 3rd Round Match-Up,Joseph Bramlett,-0.02169999999999994,0.5238,0.5455
-2023-05-13 08:40:41.340181,NFC West - NFC West 2023/24 - NFC West Winner,Seattle Seahawks,-0.021999999999999964,0.2857,0.3077
 2023-05-13 09:40:45.973102,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Everton,-0.021999999999999964,0.2857,0.3077
+2023-05-13 08:40:41.340181,NFC West - NFC West 2023/24 - NFC West Winner,Seattle Seahawks,-0.021999999999999964,0.2857,0.3077
 2023-05-13 03:40:45.198501,Main Markets - 3rd Round 3 Balls - B.H. An / E. Cole / G. Chalmers - 3rd Round 3 Balls,Greg Chalmers,-0.022199999999999998,0.2,0.2222
-2023-05-13 09:40:45.787316,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Chivas Guadalajara,-0.023799999999999988,0.1429,0.1667
-2023-05-13 08:40:40.749103,Boxing Lines - Kevin Lerena vs Ryad Merhy - To Win the Bout,Ryad Merhy,-0.023799999999999988,0.3333,0.3571
 2023-05-13 08:40:42.599352,Round Match-Ups - 3rd Round Match-Up - M. Kuchar vs T. Hoge - 3rd Round Match-Up,Tom Hoge,-0.023799999999999988,0.4762,0.5
+2023-05-13 08:40:40.749103,Boxing Lines - Kevin Lerena vs Ryad Merhy - To Win the Bout,Ryad Merhy,-0.023799999999999988,0.3333,0.3571
 2023-05-13 08:40:41.269893,AFC North - AFC North 2023/24 - AFC North Winner,Pittsburgh Steelers,-0.023799999999999988,0.1429,0.1667
-2023-05-13 12:40:45.494173,Round Match-Ups - 3rd Round Match-Up - A. Wise v B. Wu - 3rd Round Match-Up,Aaron Wise,-0.023800000000000043,0.5,0.5238
+2023-05-13 09:40:45.787316,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Chivas Guadalajara,-0.023799999999999988,0.1429,0.1667
 2023-05-13 05:41:34.050410,MLB Futures - MLB 2023 Player Awards - American League MVP,Shohei Ohtani (LAA),-0.023800000000000043,0.5,0.5238
 2023-05-13 05:41:34.006460,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,-0.023800000000000043,0.5,0.5238
+2023-05-13 12:40:45.494173,Round Match-Ups - 3rd Round Match-Up - A. Wise v B. Wu - 3rd Round Match-Up,Aaron Wise,-0.023800000000000043,0.5,0.5238
 2023-05-13 13:40:39.267457,Round Match-Ups - 2nd Round Match-Up - C. Smith vs D. Johnson - 2nd Round Match-Up,Dustin Johnson,-0.024399999999999977,0.4878,0.5122
 2023-05-13 08:40:43.087400,Cognizant Founders Cup - Cognizant Founders Cup - Winner,Lexi Thompson,-0.024600000000000004,0.0099,0.0345
 2023-05-13 09:40:44.330811,Main Markets - 3rd Round 3 Balls - S.W. Kim / S. Piercy / R. Werenski - 3rd Round 3 Balls,Scott Piercy,-0.02560000000000001,0.3077,0.3333
 2023-05-13 08:40:43.107755,Regions  Tradition - Regions Tradition - Winner,Billy Andrade,-0.026099999999999998,0.0033,0.0294
 2023-05-13 09:40:44.338755,Main Markets - 3rd Round 3 Balls - S. Scheffler / M. Hughes / R. Palmer - 3rd Round 3 Balls,Ryan Palmer,-0.02779999999999999,0.2222,0.25
 2023-05-13 13:40:38.219157,League Two - England - League Two 2022/23 - To Be Promoted,Carlisle United,-0.031399999999999983,0.2353,0.2667
-2023-05-13 08:40:43.087400,Cognizant Founders Cup - Cognizant Founders Cup - Winner,Hye-Jin Choi,-0.03330000000000001,0.0667,0.1
 2023-05-13 08:40:43.087400,Cognizant Founders Cup - Cognizant Founders Cup - Winner,Nasa Hataoka,-0.03330000000000001,0.0667,0.1
+2023-05-13 08:40:43.087400,Cognizant Founders Cup - Cognizant Founders Cup - Winner,Hye-Jin Choi,-0.03330000000000001,0.0667,0.1
 2023-05-13 03:40:45.198501,Main Markets - 3rd Round 3 Balls - B.H. An / E. Cole / G. Chalmers - 3rd Round 3 Balls,Eric Cole,-0.0348,0.4,0.4348
 2023-05-13 09:40:45.713065,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Union Berlin,-0.035699999999999954,0.7143,0.75
 2023-05-13 09:40:45.707739,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Bochum,-0.03639999999999999,0.6,0.6364
