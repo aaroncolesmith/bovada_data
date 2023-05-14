@@ -8,16 +8,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-14 11:40:45.101311,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Manchester United,0.08889999999999998,0.8889,0.8
 2023-05-14 11:40:45.107856,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Brighton & Hove Albion,0.07439999999999991,0.697,0.6226
 2023-05-14 11:40:45.095140,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leicester City,0.07240000000000002,0.7647,0.6923
+2023-05-14 22:40:38.282806,League Two - England - League Two 2022/23 - To Be Promoted,Bradford City,0.06659999999999999,0.3333,0.2667
 2023-05-14 11:40:45.107856,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Aston Villa,0.06620000000000001,0.125,0.0588
 2023-05-14 19:40:39.195182,MLB Futures - MLB 2023 National League Central - National League Central Winner,St. Louis Cardinals,0.060600000000000015,0.2273,0.1667
 2023-05-14 14:40:45.944170,NBA Specials - NBA 2023 Draft Lottery - 10th Pick,Washington Wizards,0.0573,0.0769,0.0196
 2023-05-14 11:40:44.907940,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Atlético Mineiro,0.05070000000000002,0.4762,0.4255
 2023-05-14 11:40:44.914800,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Fluminense,0.04619999999999991,0.8462,0.8
 2023-05-14 11:40:44.894734,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Flamengo,0.043800000000000006,0.2105,0.1667
-2023-05-14 11:40:44.907940,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Fluminense,0.04290000000000005,0.6429,0.6
 2023-05-14 20:40:43.578357,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Boston Celtics,0.04290000000000005,0.4,0.3571
+2023-05-14 11:40:44.907940,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Fluminense,0.04290000000000005,0.6429,0.6
 2023-05-14 14:40:47.083847,Round Match-Ups - Final Round Match-Up - C. Ramey v D. Micheluzzi - Final Round Match-Up,Chad Ramey,0.037800000000000056,0.5833,0.5455
 2023-05-14 11:40:44.914800,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Atlético Mineiro,0.03710000000000002,0.6923,0.6552
+2023-05-14 22:40:38.165541,Championship - England Championship 2022/23 - To Be Promoted,Middlesbrough,0.03210000000000002,0.4167,0.3846
 2023-05-14 11:40:44.914800,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Flamengo,0.03180000000000005,0.8889,0.8571
 2023-05-14 17:40:53.769599,College Football - 2023-2024 NCAA Championship Winner - NCAA Champion,Alabama,0.028799999999999992,0.1538,0.125
 2023-05-14 11:40:44.901334,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Cuiabá,0.027800000000000047,0.7778,0.75
@@ -36,8 +38,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-14 14:40:47.181804,Round Match-Ups - Final Round Match-Up - A. Eckroat v Z. Dou - Final Round Match-Up,Austin Eckroat,0.01970000000000005,0.5652,0.5455
 2023-05-14 14:40:46.851314,US Presidential Election 2024 - US Presidential Election 2024 - Sex Of Winner - Sex of Winner,Female,0.019100000000000006,0.1481,0.129
 2023-05-14 12:40:45.668240,Round Scores - Final Round Score - Tyrrell Hatton - Final Round Score,Over 67.5,0.018100000000000005,0.4348,0.4167
-2023-05-14 17:40:53.769599,College Football - 2023-2024 NCAA Championship Winner - NCAA Champion,Georgia,0.016699999999999993,0.2667,0.25
 2023-05-14 14:40:47.065092,Main Markets - Final Round 3 Balls - R. Palmer / A. Eckroat / Z. Dou - Final Round 3 Balls,Ryan Palmer,0.016699999999999993,0.4167,0.4
+2023-05-14 17:40:53.769599,College Football - 2023-2024 NCAA Championship Winner - NCAA Champion,Georgia,0.016699999999999993,0.2667,0.25
 2023-05-14 11:40:44.901334,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Corinthians,0.016699999999999993,0.2667,0.25
 2023-05-14 19:40:39.195182,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,0.016699999999999937,0.6,0.5833
 2023-05-14 20:40:43.569363,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Philadelphia 76ers,0.015899999999999997,0.2381,0.2222
@@ -59,9 +61,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-14 14:40:46.859829,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Republican,-0.011600000000000055,0.5122,0.5238
 2023-05-14 14:40:46.831417,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Glenn Youngkin,-0.012599999999999998,0.0152,0.0278
 2023-05-14 18:40:43.258441,Boxing Lines - Josh Taylor vs Teofimo Lopez - To Win the Bout,Josh Taylor,-0.012700000000000045,0.6364,0.6491
+2023-05-14 11:40:44.907940,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Bahia,-0.014099999999999998,0.0244,0.0385
 2023-05-14 11:40:44.894734,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Internacional,-0.014099999999999998,0.0244,0.0385
 2023-05-14 14:40:46.831417,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Tucker Carlson,-0.014099999999999998,0.0244,0.0385
-2023-05-14 11:40:44.907940,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Bahia,-0.014099999999999998,0.0244,0.0385
 2023-05-14 11:40:44.914800,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Bahia,-0.014399999999999996,0.0625,0.0769
 2023-05-14 11:40:44.901334,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,RB Bragantino,-0.01469999999999999,0.2353,0.25
 2023-05-14 14:40:46.831417,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Ron DeSantis,-0.016699999999999993,0.25,0.2667
@@ -79,8 +81,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-14 14:40:46.851314,US Presidential Election 2024 - US Presidential Election 2024 - Sex Of Winner - Sex of Winner,Male,-0.02080000000000004,0.9167,0.9375
 2023-05-14 14:40:47.128987,Round Match-Ups - Final Round Match-Up - J. Bramlett vs B.H. An - Final Round Match-Up,Joseph Bramlett,-0.02169999999999994,0.5238,0.5455
 2023-05-14 14:40:46.831417,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Donald Trump,-0.02200000000000002,0.6923,0.7143
-2023-05-14 14:40:46.799041,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.022199999999999998,0.7778,0.8
 2023-05-14 11:40:44.914800,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Cruzeiro,-0.022199999999999998,0.2,0.2222
+2023-05-14 14:40:46.799041,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.022199999999999998,0.7778,0.8
 2023-05-14 14:40:47.181804,Round Match-Ups - Final Round Match-Up - A. Eckroat v Z. Dou - Final Round Match-Up,Zecheng Dou,-0.023799999999999988,0.4762,0.5
 2023-05-14 11:40:46.516676,Round Match-Ups - Final Round Match-Up - C. Bezuidenhout vs S. Stevens - Final Round Match-Up,Christiaan Bezuidenhout,-0.024399999999999977,0.4878,0.5122
 2023-05-14 11:40:46.682961,Round Scores - Final Round Score - Scottie Scheffler - Final Round Score,Over 66.5,-0.025599999999999956,0.5744,0.6
@@ -88,6 +90,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-14 19:40:39.195182,MLB Futures - MLB 2023 National League Central - National League Central Winner,Pittsburgh Pirates,-0.027800000000000005,0.0833,0.1111
 2023-05-14 10:40:45.092115,A-League - Australia A-League 2022/23 - Grand Final Winner,Sydney FC,-0.033300000000000024,0.1667,0.2
 2023-05-14 14:40:47.083847,Round Match-Ups - Final Round Match-Up - C. Ramey v D. Micheluzzi - Final Round Match-Up,David Micheluzzi,-0.03489999999999999,0.4651,0.5
+2023-05-14 22:40:38.165541,Championship - England Championship 2022/23 - To Be Promoted,Coventry City,-0.04040000000000002,0.1818,0.2222
+2023-05-14 22:40:38.165541,Championship - England Championship 2022/23 - To Be Promoted,Sunderland,-0.047599999999999976,0.2857,0.3333
 2023-05-14 14:40:45.944170,NBA Specials - NBA 2023 Draft Lottery - 10th Pick,Orlando Magic,-0.0491,0.0278,0.0769
 2023-05-14 11:40:45.101311,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Liverpool,-0.05109999999999998,0.3125,0.3636
 2023-05-14 14:40:46.956611,UK Politics - Next Conservative Party Leader - Next Conservative Leader After Rishi Sunak,Kemi Badenoch,-0.05550000000000002,0.1667,0.2222
@@ -95,6 +99,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-14 11:40:44.894734,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Palmeiras,-0.05559999999999998,0.5,0.5556
 2023-05-14 11:40:44.914800,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Internacional,-0.06670000000000004,0.3333,0.4
 2023-05-14 19:40:39.195182,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,-0.06840000000000002,0.1538,0.2222
+2023-05-14 22:40:38.282806,League Two - England - League Two 2022/23 - To Be Promoted,Carlisle United,-0.07140000000000002,0.1667,0.2381
 2023-05-14 11:40:45.095140,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Nottingham Forest,-0.07740000000000002,0.3226,0.4
 2023-05-14 21:40:49.256200,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Philadelphia 76ers,-0.1012,0.0099,0.1111
 2023-05-14 10:40:45.092115,A-League - Australia A-League 2022/23 - Grand Final Winner,Adelaide United,-0.1111,0.1111,0.2222
