@@ -10,10 +10,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-16 07:40:41.645940,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Nottingham Forest,0.036800000000000055,0.7701,0.7333
 2023-05-16 13:40:33.563958,KBO League - KBO League 2023 - Outright,LG Twins,0.03570000000000001,0.2857,0.25
 2023-05-16 15:40:41.197652,MLB Futures - MLB 2023 National League Central - National League Central Winner,St. Louis Cardinals,0.03409999999999999,0.2667,0.2326
+2023-05-16 16:40:46.427396,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs B. Koepka - Tournament Match-Up,Patrick Cantlay,0.03090000000000004,0.6226,0.5917
 2023-05-16 15:40:41.256042,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Zac Gallen,0.030299999999999994,0.3636,0.3333
 2023-05-16 15:40:41.197652,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,0.026499999999999968,0.5917,0.5652
 2023-05-16 13:40:33.563958,KBO League - KBO League 2023 - Outright,Doosan Bears,0.02020000000000001,0.1111,0.0909
 2023-05-16 05:40:29.612577,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,0.01539999999999997,0.6154,0.6
+2023-05-16 16:40:46.497574,Tournament Match-Ups - Tournament Match-Up - X. Schauffele vs J. Thomas - Tournament Match-Up,Xander Schauffele,0.014800000000000035,0.6226,0.6078
 2023-05-16 06:40:33.348305,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Milwaukee Brewers,0.01440000000000001,0.1053,0.0909
 2023-05-16 05:40:29.633791,MLB Futures - MLB 2023 National League West - National League West Winner,Arizona Diamondbacks,0.014399999999999996,0.0769,0.0625
 2023-05-16 15:40:41.242284,MLB Futures - MLB 2023 Player Awards - American League MVP,Aaron Judge (NYY),0.014099999999999994,0.0667,0.0526
@@ -24,7 +26,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-16 14:40:39.309386,Boxing Lines - Luis Alberto Lopez vs Michael Conlan - To Win the Bout,Luis Alberto Lopez,0.011600000000000055,0.5238,0.5122
 2023-05-16 08:40:39.470298,Boxing Lines - Devin Haney vs Vasyl Lomachenko - To Win the Bout,Vasyl Lomachenko,0.01150000000000001,0.3448,0.3333
 2023-05-16 15:40:41.234615,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Joe Ryan (MIN),0.011199999999999995,0.0588,0.0476
+2023-05-16 16:40:46.519918,AdventHealth Championship - Adventhealth Championship - Outright,Mac Meissner,0.0108,0.0141,0.0033
 2023-05-16 05:40:29.596230,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Seattle Mariners,0.0102,0.0769,0.0667
+2023-05-16 16:40:46.497574,Tournament Match-Ups - Tournament Match-Up - X. Schauffele vs J. Thomas - Tournament Match-Up,Justin Thomas,-0.010099999999999998,0.4444,0.4545
 2023-05-16 08:40:41.563102,PGA Championship - PGA Championship 2023 - Winner,Rory McIlroy,-0.0102,0.0667,0.0769
 2023-05-16 15:40:41.234615,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Kevin Gausman (TOR),-0.0102,0.0667,0.0769
 2023-05-16 08:40:39.470298,Boxing Lines - Devin Haney vs Vasyl Lomachenko - To Win the Bout,Devin Haney,-0.011099999999999999,0.7222,0.7333
@@ -39,6 +43,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-16 07:40:41.645940,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Leeds United,-0.020799999999999985,0.3125,0.3333
 2023-05-16 07:40:42.680310,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Denver Nuggets,-0.02679999999999999,0.2857,0.3125
 2023-05-16 13:40:33.563958,KBO League - KBO League 2023 - Outright,KT Wiz,-0.028000000000000004,0.0196,0.0476
+2023-05-16 16:40:46.427396,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs B. Koepka - Tournament Match-Up,Brooks Koepka,-0.031799999999999995,0.4444,0.4762
 2023-05-16 07:40:41.638092,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Manchester United,-0.03180000000000005,0.8571,0.8889
 2023-05-16 13:40:33.571126,Professional Baseball - NPB 2023 - Outright,Yokohama DeNa BayStars,-0.033300000000000024,0.1667,0.2
 2023-05-16 06:40:33.348305,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Atlanta Braves,-0.04099999999999998,0.2667,0.3077
