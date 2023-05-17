@@ -1,5 +1,4 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2023-05-16 23:41:11.169076,Championship - England Championship 2022/23 - To Be Promoted,Luton Town,0.2762,0.4762,0.2
 2023-05-17 10:40:37.322365,Super Lig - Turkey Super League 22/23 - Outright,Galatasaray,0.12309999999999999,0.9231,0.8
 2023-05-17 05:40:33.123522,NBA Awards - Western Conference Finals MVP - WCF MVP,Nikola Jokic (DEN),0.09230000000000005,0.6923,0.6
 2023-05-17 06:40:36.146126,USFL - Odds to win 2023 USFL Championship - Championship Winner,Pittsburgh Maulers,0.08410000000000001,0.1429,0.0588
@@ -8,11 +7,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-17 06:40:36.862485,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Nikola Jokic (DEN),0.047599999999999976,0.3333,0.2857
 2023-05-17 06:40:36.716264,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Denver Nuggets,0.03640000000000004,0.4,0.3636
 2023-05-17 10:40:37.865008,Boxing Lines - Alessio Lorusso vs Thomas Essomba - To Win the Bout,Alessio Lorusso,0.03639999999999999,0.7895,0.7531
-2023-05-16 23:41:10.958708,UEFA Champions League - UEFA Champions League 2022/2023 - Winner,Inter Milan,0.03570000000000001,0.2857,0.25
 2023-05-17 06:40:36.862485,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Jayson Tatum (BOS),0.03210000000000002,0.4167,0.3846
 2023-05-17 03:40:38.419257,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Denver Nuggets,0.030299999999999994,0.3636,0.3333
-2023-05-17 08:40:35.516975,Boxing Lines - Marques Valle vs Demarcus Layton - To Win the Bout,Marques Valle,0.02429999999999999,0.9655,0.9412
+2023-05-17 12:40:43.762723,Boxing Lines - Otar Eranosyan vs Edy Valencia Mercado - To Win the Bout,Otar Eranosyan,0.024599999999999955,0.9901,0.9655
 2023-05-17 08:40:35.507115,Boxing Lines - Darrelle Valsaint Jr vs Eric Moon - To Win the Bout,Darrelle Valsaint Jr,0.02429999999999999,0.9474,0.9231
+2023-05-17 08:40:35.516975,Boxing Lines - Marques Valle vs Demarcus Layton - To Win the Bout,Marques Valle,0.02429999999999999,0.9655,0.9412
 2023-05-17 05:40:33.123522,NBA Awards - Western Conference Finals MVP - WCF MVP,Jamal Murray (DEN),0.02310000000000001,0.1,0.0769
 2023-05-17 08:40:35.599455,Boxing Lines - Floyd Diaz vs Luis Fernando Saavedra - To Win the Bout,Luis Fernando Saavedra,0.022400000000000003,0.125,0.1026
 2023-05-17 11:40:37.939661,Boxing Lines - James Martin vs Courtney Pennington - To Win the Bout,Courtney Pennington,0.02030000000000004,0.3774,0.3571
@@ -24,10 +23,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-17 05:40:33.339453,PGA Championship - 2/3 Balls - 1st Round 3 Balls - C. Young / H. Matsuyama / T. Fleetwood - 1st Round 3 Balls,Cameron Young,0.016699999999999993,0.4167,0.4
 2023-05-17 11:40:37.957271,Boxing Lines - Elvis Figueroa vs Devaun Lee - To Win the Bout,Devaun Lee,0.016699999999999993,0.2667,0.25
 2023-05-17 06:40:36.146126,USFL - Odds to win 2023 USFL Championship - Championship Winner,Houston Gamblers,0.015700000000000006,0.1333,0.1176
-2023-05-16 23:41:07.396483,Boxing Lines - Dennis Hogan vs James Metcalf - To Win the Bout,Dennis Hogan,0.015699999999999992,0.4255,0.4098
 2023-05-17 02:40:34.617873,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Los Angeles Lakers,0.015100000000000002,0.1818,0.1667
-2023-05-17 10:40:37.336735,Superettan - Superettan 2023 - Winner,GAIS,0.015100000000000002,0.1818,0.1667
 2023-05-17 06:40:36.862485,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,LeBron James (LAL),0.015100000000000002,0.1818,0.1667
+2023-05-17 10:40:37.336735,Superettan - Superettan 2023 - Winner,GAIS,0.015100000000000002,0.1818,0.1667
 2023-05-17 10:40:37.953119,Boxing Lines - Junto Nakatani vs Andrew Moloney - To Win the Bout,Junto Nakatani,0.0131,0.8131,0.8
 2023-05-17 02:40:34.604853,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Lakers,0.01150000000000001,0.3448,0.3333
 2023-05-17 08:40:35.555362,Boxing Lines - Terri Harper vs Cecilia Braekhus - To Win the Bout,Terri Harper,0.011200000000000099,0.8403,0.8291
@@ -40,9 +38,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-17 07:40:36.871819,PGA Championship - PGA Championship 2023 - Winner,Cameron Smith,-0.010700000000000001,0.0278,0.0385
 2023-05-17 10:40:39.019374,Tournament Match-Ups - Tournament Match-Up - S. Theegala vs K. Bradley - Tournament Match-Up,Sahith Theegala,-0.01100000000000001,0.5238,0.5348
 2023-05-17 06:40:36.862485,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Jimmy Butler (MIA),-0.011199999999999995,0.0476,0.0588
-2023-05-17 05:40:33.339453,PGA Championship - 2/3 Balls - 1st Round 3 Balls - C. Young / H. Matsuyama / T. Fleetwood - 1st Round 3 Balls,Tommy Fleetwood,-0.01150000000000001,0.3333,0.3448
 2023-05-17 04:40:35.003824,Boxing Lines - Devin Haney vs Vasyl Lomachenko - To Win the Bout,Vasyl Lomachenko,-0.01150000000000001,0.3333,0.3448
-2023-05-16 23:41:07.396483,Boxing Lines - Dennis Hogan vs James Metcalf - To Win the Bout,James Metcalf,-0.012700000000000045,0.6364,0.6491
+2023-05-17 05:40:33.339453,PGA Championship - 2/3 Balls - 1st Round 3 Balls - C. Young / H. Matsuyama / T. Fleetwood - 1st Round 3 Balls,Tommy Fleetwood,-0.01150000000000001,0.3333,0.3448
 2023-05-17 08:40:35.507115,Boxing Lines - Darrelle Valsaint Jr vs Eric Moon - To Win the Bout,Eric Moon,-0.013899999999999996,0.1111,0.125
 2023-05-17 08:40:35.611935,Boxing Lines - Junto Nakatani vs Andrew Moloney - To Win the Bout,Andrew Moloney,-0.015000000000000013,0.2667,0.2817
 2023-05-17 03:40:38.419257,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Los Angeles Lakers,-0.015100000000000002,0.1667,0.1818
@@ -50,8 +47,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-17 05:40:33.129999,NBA Awards - Eastern Conference Finals MVP - ECF MVP,Jimmy Butler (MIA),-0.01820000000000002,0.1818,0.2
 2023-05-17 11:40:37.939661,Boxing Lines - James Martin vs Courtney Pennington - To Win the Bout,James Martin,-0.018399999999999972,0.6875,0.7059
 2023-05-17 06:40:35.217416,MLB Futures - MLB 2023 National League East - National League East Winner,New York Mets,-0.02049999999999999,0.1333,0.1538
-2023-05-17 03:40:38.406606,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Lakers,-0.022199999999999998,0.3226,0.3448
 2023-05-17 05:40:33.123522,NBA Awards - Western Conference Finals MVP - WCF MVP,Anthony Davis (LAL),-0.022199999999999998,0.2,0.2222
+2023-05-17 03:40:38.406606,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Lakers,-0.022199999999999998,0.3226,0.3448
 2023-05-17 06:40:36.716264,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Boston Celtics,-0.023799999999999988,0.4762,0.5
 2023-05-17 02:40:34.617873,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Denver Nuggets,-0.023799999999999988,0.3333,0.3571
 2023-05-17 10:40:37.865008,Boxing Lines - Alessio Lorusso vs Thomas Essomba - To Win the Bout,Thomas Essomba,-0.0252,0.2778,0.303
