@@ -1,10 +1,11 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2023-05-19 08:40:39.074168,League One - England - League One 2022/23 - To Be Promoted,Sheffield Wednesday,0.5841000000000001,0.6226,0.0385
 2023-05-19 06:40:40.602147,UEFA Europa Conference League - UEFA Europa Conference League 22/23 - Winner,Fiorentina,0.2378,0.4878,0.25
 2023-05-19 06:40:40.593245,UEFA Europa League - UEFA Europa League 22/23 - Winner,Sevilla,0.23360000000000003,0.5413,0.3077
 2023-05-19 06:40:40.593245,UEFA Europa League - UEFA Europa League 22/23 - Winner,AS Roma,0.22060000000000002,0.5283,0.3077
 2023-05-19 07:40:41.463070,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Newcastle United,0.18369999999999997,0.9615,0.7778
+2023-05-19 08:40:38.948179,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Club América,0.16670000000000001,0.5,0.3333
 2023-05-19 03:40:34.048559,Japan B League - Japan League B1 2022/23 - Outright,Ryukyu Golden Kings,0.13489999999999996,0.3571,0.2222
-2023-05-18 20:40:41.268086,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,CF Monterrey,0.11910000000000004,0.4762,0.3571
 2023-05-19 05:40:35.281038,NBA Awards - Western Conference Finals MVP - WCF MVP,Nikola Jokic (DEN),0.0857,0.8,0.7143
 2023-05-19 03:40:34.048559,Japan B League - Japan League B1 2022/23 - Outright,Chiba Jets,0.0711,0.4878,0.4167
 2023-05-19 07:40:41.467979,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Tottenham Hotspur,0.07069999999999999,0.1818,0.1111
@@ -19,7 +20,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-19 05:40:33.860549,MLB Specials - Most Away Wins During The 2023 Regualr Season - Proposition,Tampa Bay,0.04169999999999999,0.1667,0.125
 2023-05-18 22:40:57.114483,NCAA Football Specials - Will the Alabama Crimson Tide Make the CFP in the 2023/2024 Season - Proposition,No,0.03489999999999999,0.5,0.4651
 2023-05-18 23:40:55.293264,NCAA Football Specials - Will the Alabama Crimson Tide Make the CFP in the 2023/2024 Season - Proposition,No,0.03480000000000005,0.5348,0.5
-2023-05-18 20:40:41.268086,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Chivas Guadalajara,0.033300000000000024,0.2,0.1667
 2023-05-19 06:40:42.971174,Main Markets - 2nd Round 3 Balls - C. Bezuidenhout / C. Reavie / J. Somers - 2nd Round 3 Balls,Chez Reavie,0.03210000000000002,0.4167,0.3846
 2023-05-19 05:40:35.295663,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Jamal Murray (DEN),0.0321,0.0909,0.0588
 2023-05-19 06:40:43.118761,Main Markets - 2nd Round 3 Balls - S. Theegala / K. Kitayama / Z. Johnson - 2nd Round 3 Balls,Sahith Theegala,0.031799999999999995,0.4762,0.4444
@@ -33,13 +33,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-19 07:40:42.276690,Round Match-Ups - Parlays - 2nd Round Match-Up - X. Schauffele v T. Finau - 2nd Round Match-Up,Tony Finau,0.023799999999999988,0.5,0.4762
 2023-05-19 06:40:42.931586,Main Markets - 2nd Round 3 Balls - D. Willett / W. Simpson / Y.E. Yang - 2nd Round 3 Balls,Danny Willett,0.022699999999999998,0.4878,0.4651
 2023-05-19 02:40:48.181894,Main Markets - 2nd Round 3 Balls - J. Day / B. DeChambeau / K. Bradley - 2nd Round 3 Balls,Jason Day,0.02260000000000001,0.4,0.3774
+2023-05-19 08:40:38.948179,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Chivas Guadalajara,0.022199999999999998,0.2222,0.2
 2023-05-19 03:40:34.599335,Round Match-Ups - Parlays - 2nd Round Match-Up - K.H. Lee vs T. Hoge - 2nd Round Match-Up,K H Lee,0.02169999999999994,0.5455,0.5238
-2023-05-19 07:40:42.234297,Round Match-Ups - Parlays - 2nd Round Match-Up - C. Bezuidenhout v T. Pieters - 2nd Round Match-Up,Thomas Pieters,0.02169999999999994,0.5455,0.5238
-2023-05-19 07:40:42.384280,Round Match-Ups - Parlays - 2nd Round Match-Up - C. Smith vs J. Thomas - 2nd Round Match-Up,Justin Thomas,0.02169999999999994,0.5455,0.5238
 2023-05-19 02:40:48.312984,Round Match-Ups - Parlays - 2nd Round Match-Up - B. DeChambeau vs K. Bradley - 2nd Round Match-Up,Keegan Bradley,0.02169999999999994,0.5455,0.5238
+2023-05-19 07:40:42.384280,Round Match-Ups - Parlays - 2nd Round Match-Up - C. Smith vs J. Thomas - 2nd Round Match-Up,Justin Thomas,0.02169999999999994,0.5455,0.5238
+2023-05-19 07:40:42.234297,Round Match-Ups - Parlays - 2nd Round Match-Up - C. Bezuidenhout v T. Pieters - 2nd Round Match-Up,Thomas Pieters,0.02169999999999994,0.5455,0.5238
 2023-05-19 01:41:03.986004,Main Markets - 2nd Round 3 Balls - M.W. Lee / A. Putnam / E. Grillo - 2nd Round 3 Balls,Andrew Putnam,0.020799999999999985,0.3333,0.3125
-2023-05-19 07:40:42.377326,Round Match-Ups - Parlays - 2nd Round Match-Up - R. McIlroy vs B. Koepka - 2nd Round Match-Up,Rory McIlroy,0.02079999999999993,0.5556,0.5348
 2023-05-19 02:40:48.220709,Round Match-Ups - Parlays - 2nd Round Match-Up - T. Moore vs M.W. Lee - 2nd Round Match-Up,Taylor Moore,0.02079999999999993,0.5556,0.5348
+2023-05-19 07:40:42.377326,Round Match-Ups - Parlays - 2nd Round Match-Up - R. McIlroy vs B. Koepka - 2nd Round Match-Up,Rory McIlroy,0.02079999999999993,0.5556,0.5348
 2023-05-19 06:40:41.103229,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Anthony Volpe (NYY),0.02020000000000001,0.1111,0.0909
 2023-05-19 07:40:42.269664,Round Match-Ups - Parlays - 2nd Round Match-Up - D. Johnson v M. Homa - 2nd Round Match-Up,Dustin Johnson,0.01970000000000005,0.5652,0.5455
 2023-05-19 07:40:42.356239,Round Match-Ups - Parlays - 2nd Round Match-Up - K.H. Lee vs T. Hoge - 2nd Round Match-Up,K H Lee,0.01970000000000005,0.5652,0.5455
@@ -48,8 +49,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-19 03:40:34.568537,Main Markets - 2nd Round 3 Balls - J. Day / B. DeChambeau / K. Bradley - 2nd Round 3 Balls,Keegan Bradley,0.018799999999999983,0.3636,0.3448
 2023-05-19 05:40:33.900373,MLB Futures - MLB 2023 American League East - American League East Winner,Toronto Blue Jays,0.01820000000000002,0.2,0.1818
 2023-05-19 06:40:43.020278,Main Markets - 2nd Round 3 Balls - X. Schauffele / D. Johnson / T. Hatton - 2nd Round 3 Balls,Xander Schauffele,0.018100000000000005,0.4348,0.4167
-2023-05-19 06:40:43.174733,Main Markets - 2nd Round 3 Balls - J. Rahm / C. Smith / M. Fitzpatrick - 2nd Round 3 Balls,Cameron Smith,0.017600000000000005,0.3509,0.3333
+2023-05-19 08:40:39.039975,Super Lig - Turkey Super League 22/23 - Outright,Fenerbahce,0.0179,0.1429,0.125
 2023-05-19 01:41:04.057653,Main Markets - 2nd Round 3 Balls - V. Hovland / J. Spieth / S. Lowry - 2nd Round 3 Balls,Jordan Spieth,0.017600000000000005,0.3509,0.3333
+2023-05-19 06:40:43.174733,Main Markets - 2nd Round 3 Balls - J. Rahm / C. Smith / M. Fitzpatrick - 2nd Round 3 Balls,Cameron Smith,0.017600000000000005,0.3509,0.3333
 2023-05-19 02:40:48.041881,Main Markets - 2nd Round 3 Balls - M.W. Lee / A. Putnam / E. Grillo - 2nd Round 3 Balls,Andrew Putnam,0.017600000000000005,0.3509,0.3333
 2023-05-19 07:40:41.458241,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Nottingham Forest,0.017299999999999982,0.303,0.2857
 2023-05-19 05:40:33.913195,MLB Futures - MLB 2023 National League Central - National League Central Winner,St. Louis Cardinals,0.016699999999999993,0.2667,0.25
@@ -68,15 +70,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-19 06:40:43.174733,Main Markets - 2nd Round 3 Balls - J. Rahm / C. Smith / M. Fitzpatrick - 2nd Round 3 Balls,Jon Rahm,-0.010099999999999998,0.4444,0.4545
 2023-05-19 02:40:48.087585,Main Markets - 2nd Round 3 Balls - S. Scheffler / B. Koepka / G. Woodland - 2nd Round 3 Balls,Brooks Koepka,-0.010699999999999987,0.3226,0.3333
 2023-05-19 02:40:48.181894,Main Markets - 2nd Round 3 Balls - J. Day / B. DeChambeau / K. Bradley - 2nd Round 3 Balls,Keegan Bradley,-0.012299999999999978,0.3448,0.3571
-2023-05-19 02:40:48.041881,Main Markets - 2nd Round 3 Balls - M.W. Lee / A. Putnam / E. Grillo - 2nd Round 3 Balls,Emiliano Grillo,-0.012699999999999989,0.3509,0.3636
 2023-05-19 05:40:34.759739,Main Markets - 2nd Round 3 Balls - R. McIlroy / J. Thomas / C. Morikawa - 2nd Round 3 Balls,Justin Thomas,-0.012699999999999989,0.3509,0.3636
+2023-05-19 02:40:48.041881,Main Markets - 2nd Round 3 Balls - M.W. Lee / A. Putnam / E. Grillo - 2nd Round 3 Balls,Emiliano Grillo,-0.012699999999999989,0.3509,0.3636
 2023-05-19 06:40:42.971174,Main Markets - 2nd Round 3 Balls - C. Bezuidenhout / C. Reavie / J. Somers - 2nd Round 3 Balls,John Somers,-0.012899999999999995,0.1538,0.1667
 2023-05-19 06:40:41.103229,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Josh Jung (TEX),-0.013899999999999996,0.1111,0.125
 2023-05-19 06:40:42.939472,Main Markets - 2nd Round 3 Balls - B. Todd / S. Kim / A. Beach - 2nd Round 3 Balls,Alex Beach,-0.013999999999999999,0.0769,0.0909
 2023-05-19 06:40:42.962664,Main Markets - 2nd Round 3 Balls - K. Mitchell / T. Pieters / P. Larrazabal - 2nd Round 3 Balls,Pablo Larrazabal,-0.014900000000000024,0.3077,0.3226
 2023-05-19 02:40:48.196850,Main Markets - 2nd Round 3 Balls - M. NeSmith / R. Hoshino / J. Droemer - 2nd Round 3 Balls,Matthew NeSmith,-0.01539999999999997,0.6,0.6154
-2023-05-19 06:40:42.947105,Main Markets - 2nd Round 3 Balls - S. Straka / H. English / R. MacIntyre - 2nd Round 3 Balls,Sepp Straka,-0.015400000000000025,0.3846,0.4
 2023-05-19 02:40:48.142283,Main Markets - 2nd Round 3 Balls - C. Tarren / L. Hodges / D. Lingmerth - 2nd Round 3 Balls,Callum Tarren,-0.015400000000000025,0.3846,0.4
+2023-05-19 06:40:42.947105,Main Markets - 2nd Round 3 Balls - S. Straka / H. English / R. MacIntyre - 2nd Round 3 Balls,Sepp Straka,-0.015400000000000025,0.3846,0.4
 2023-05-19 01:41:03.986004,Main Markets - 2nd Round 3 Balls - M.W. Lee / A. Putnam / E. Grillo - 2nd Round 3 Balls,Min Woo Lee,-0.016699999999999993,0.4,0.4167
 2023-05-19 06:40:43.020278,Main Markets - 2nd Round 3 Balls - X. Schauffele / D. Johnson / T. Hatton - 2nd Round 3 Balls,Dustin Johnson,-0.016699999999999993,0.4,0.4167
 2023-05-19 05:40:33.926349,MLB Futures - MLB 2023 National League West - National League West Winner,San Diego Padres,-0.01820000000000002,0.1818,0.2
@@ -89,19 +91,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-19 07:40:41.458241,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leicester City,-0.022199999999999998,0.8667,0.8889
 2023-05-19 03:40:34.568537,Main Markets - 2nd Round 3 Balls - J. Day / B. DeChambeau / K. Bradley - 2nd Round 3 Balls,Jason Day,-0.02260000000000001,0.3774,0.4
 2023-05-19 07:40:41.458241,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leeds United,-0.0232,0.7101,0.7333
-2023-05-19 07:40:42.255725,Round Match-Ups - Parlays - 2nd Round Match-Up - T. Fleetwood v T. Kim - 2nd Round Match-Up,Tom Kim,-0.023799999999999988,0.4762,0.5
-2023-05-19 07:40:42.269664,Round Match-Ups - Parlays - 2nd Round Match-Up - D. Johnson v M. Homa - 2nd Round Match-Up,Max Homa,-0.023799999999999988,0.4762,0.5
-2023-05-19 04:40:33.948060,Round Match-Ups - Parlays - 2nd Round Match-Up - B. DeChambeau vs K. Bradley - 2nd Round Match-Up,Bryson DeChambeau,-0.023799999999999988,0.4762,0.5
 2023-05-19 07:40:42.356239,Round Match-Ups - Parlays - 2nd Round Match-Up - K.H. Lee vs T. Hoge - 2nd Round Match-Up,Tom Hoge,-0.023799999999999988,0.4762,0.5
-2023-05-19 07:40:42.234297,Round Match-Ups - Parlays - 2nd Round Match-Up - C. Bezuidenhout v T. Pieters - 2nd Round Match-Up,Christiaan Bezuidenhout,-0.023800000000000043,0.5,0.5238
+2023-05-19 07:40:42.255725,Round Match-Ups - Parlays - 2nd Round Match-Up - T. Fleetwood v T. Kim - 2nd Round Match-Up,Tom Kim,-0.023799999999999988,0.4762,0.5
+2023-05-19 04:40:33.948060,Round Match-Ups - Parlays - 2nd Round Match-Up - B. DeChambeau vs K. Bradley - 2nd Round Match-Up,Bryson DeChambeau,-0.023799999999999988,0.4762,0.5
+2023-05-19 07:40:42.269664,Round Match-Ups - Parlays - 2nd Round Match-Up - D. Johnson v M. Homa - 2nd Round Match-Up,Max Homa,-0.023799999999999988,0.4762,0.5
 2023-05-19 07:40:42.384280,Round Match-Ups - Parlays - 2nd Round Match-Up - C. Smith vs J. Thomas - 2nd Round Match-Up,Cameron Smith,-0.023800000000000043,0.5,0.5238
-2023-05-19 02:40:48.312984,Round Match-Ups - Parlays - 2nd Round Match-Up - B. DeChambeau vs K. Bradley - 2nd Round Match-Up,Bryson DeChambeau,-0.023800000000000043,0.5,0.5238
 2023-05-19 03:40:34.599335,Round Match-Ups - Parlays - 2nd Round Match-Up - K.H. Lee vs T. Hoge - 2nd Round Match-Up,Tom Hoge,-0.023800000000000043,0.5,0.5238
+2023-05-19 02:40:48.312984,Round Match-Ups - Parlays - 2nd Round Match-Up - B. DeChambeau vs K. Bradley - 2nd Round Match-Up,Bryson DeChambeau,-0.023800000000000043,0.5,0.5238
+2023-05-19 07:40:42.234297,Round Match-Ups - Parlays - 2nd Round Match-Up - C. Bezuidenhout v T. Pieters - 2nd Round Match-Up,Christiaan Bezuidenhout,-0.023800000000000043,0.5,0.5238
 2023-05-19 02:40:48.220709,Round Match-Ups - Parlays - 2nd Round Match-Up - T. Moore vs M.W. Lee - 2nd Round Match-Up,Min Woo Lee,-0.024399999999999977,0.4878,0.5122
 2023-05-19 07:40:42.377326,Round Match-Ups - Parlays - 2nd Round Match-Up - R. McIlroy vs B. Koepka - 2nd Round Match-Up,Brooks Koepka,-0.024399999999999977,0.4878,0.5122
 2023-05-19 05:40:35.295663,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Jimmy Butler (MIA),-0.027800000000000005,0.0833,0.1111
 2023-05-18 23:40:55.293264,NCAA Football Specials - Will the Alabama Crimson Tide Make the CFP in the 2023/2024 Season - Proposition,Yes,-0.030399999999999983,0.5348,0.5652
 2023-05-19 05:40:35.295663,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Anthony Davis (LAL),-0.0321,0.0588,0.0909
+2023-05-19 08:40:38.948179,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Tigres UANL,-0.03420000000000001,0.0769,0.1111
 2023-05-18 22:40:57.114483,NCAA Football Specials - Will the Alabama Crimson Tide Make the CFP in the 2023/2024 Season - Proposition,Yes,-0.03479999999999994,0.5652,0.6
 2023-05-19 06:40:43.118761,Main Markets - 2nd Round 3 Balls - S. Theegala / K. Kitayama / Z. Johnson - 2nd Round 3 Balls,Zach Johnson,-0.03570000000000001,0.25,0.2857
 2023-05-19 01:41:03.956790,Main Markets - 2nd Round 3 Balls - S. Alker / B. Shattuck / S. Micheel - 2nd Round 3 Balls,Braden Shattuck,-0.04099999999999998,0.2667,0.3077
@@ -110,8 +113,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-19 05:40:35.281038,NBA Awards - Western Conference Finals MVP - WCF MVP,LeBron James (LAL),-0.04909999999999999,0.1176,0.1667
 2023-05-19 06:40:42.939472,Main Markets - 2nd Round 3 Balls - B. Todd / S. Kim / A. Beach - 2nd Round 3 Balls,Sihwan Kim,-0.0494,0.3077,0.3571
 2023-05-19 05:40:35.295663,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,LeBron James (LAL),-0.05,0.0833,0.1333
-2023-05-18 20:40:41.268086,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Club América,-0.05130000000000001,0.3333,0.3846
 2023-05-19 07:40:41.467979,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Brighton & Hove Albion,-0.052000000000000046,0.8571,0.9091
+2023-05-19 08:40:39.074168,League One - England - League One 2022/23 - To Be Promoted,Barnsley,-0.0781,0.2667,0.3448
 2023-05-19 05:40:35.281038,NBA Awards - Western Conference Finals MVP - WCF MVP,Anthony Davis (LAL),-0.08179999999999998,0.1,0.1818
-2023-05-18 20:40:41.268086,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Tigres UANL,-0.0889,0.1111,0.2
+2023-05-19 08:40:39.074168,League One - England - League One 2022/23 - To Be Promoted,Bolton Wanderers,-0.0849,0.1818,0.2667
 2023-05-19 07:40:41.463070,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Liverpool,-0.11780000000000002,0.3077,0.4255
+2023-05-19 08:40:38.948179,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,CF Monterrey,-0.14290000000000003,0.3333,0.4762
