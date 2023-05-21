@@ -1,13 +1,18 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-21 04:40:37.858237,NBA Awards - Western Conference Finals MVP - WCF MVP,Jamal Murray (DEN),0.3295,0.4545,0.125
+2023-05-21 08:40:45.485267,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Everton,0.19440000000000002,0.4444,0.25
 2023-05-21 03:40:32.042590,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,0.14200000000000002,0.9681,0.8261
+2023-05-21 08:40:45.491473,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Manchester United,0.12339999999999995,0.9901,0.8667
+2023-05-21 08:40:45.498028,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Brighton & Hove Albion,0.09530000000000005,0.9524,0.8571
 2023-05-21 05:40:40.431375,Succession Specials - Waystar CEO At The End Of The 4th Season - Waystar CEO At The End Of The 4th Season,Kendall Roy,0.08080000000000004,0.4444,0.3636
 2023-05-21 03:40:32.054685,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Denver Nuggets,0.08079999999999998,0.6364,0.5556
 2023-05-21 06:40:45.370658,2022/23 NBA Championship - 2022-2023 NBA Championship - Exact Outcome,DEN Nuggets to beat MIA Heat,0.07619999999999999,0.4762,0.4
 2023-05-21 06:40:44.743955,Main Markets - Final Round 2 Balls - Z. Johnson v S. Kim - Final Round 2 Balls,Sihwan Kim,0.05730000000000002,0.4082,0.3509
+2023-05-21 08:40:45.498028,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Aston Villa,0.048600000000000004,0.1111,0.0625
 2023-05-21 07:40:40.306035,Round Match-Ups - Parlays - Final Round Match-Up - B. DeChambeau v M.W. Lee - Final Round Match-Up,Bryson DeChambeau,0.04849999999999999,0.5833,0.5348
 2023-05-21 07:40:39.966708,Main Markets - Final Round 2 Balls - P. Rodgers v T. Lawrence - Final Round 2 Balls,Thriston Lawrence,0.048099999999999976,0.4255,0.3774
 2023-05-21 07:40:40.127842,Main Markets - Final Round 2 Balls - R. McIlroy v M. Block - Final Round 2 Balls,Michael Block,0.04239999999999999,0.1905,0.1481
+2023-05-21 08:40:45.485267,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leeds United,0.03990000000000005,0.75,0.7101
 2023-05-21 06:40:44.632706,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Shohei Ohtani (LAA),0.03889999999999999,0.1818,0.1429
 2023-05-21 06:40:45.370658,2022/23 NBA Championship - 2022-2023 NBA Championship - Exact Outcome,DEN Nuggets to beat BOS Celtics,0.03670000000000001,0.1905,0.1538
 2023-05-21 06:40:45.370658,2022/23 NBA Championship - 2022-2023 NBA Championship - Exact Outcome,MIA Heat to beat DEN Nuggets,0.033399999999999985,0.1667,0.1333
@@ -17,29 +22,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-21 07:40:40.028331,Main Markets - Final Round 2 Balls - X. Schauffele v C. Reavie - Final Round 2 Balls,Chez Reavie,0.029899999999999982,0.3077,0.2778
 2023-05-21 05:40:38.206580,MLB Futures - MLB 2023 National League West - National League West Winner,Los Angeles Dodgers,0.02529999999999999,0.8824,0.8571
 2023-05-21 06:40:45.370658,2022/23 NBA Championship - 2022-2023 NBA Championship - Exact Outcome,BOS Celtics to beat DEN Nuggets,0.024800000000000016,0.2353,0.2105
-2023-05-21 04:40:36.608039,Round Match-Ups - Parlays - Final Round Match-Up - C. Morikawa v D. Johnson - Final Round Match-Up,Dustin Johnson,0.023800000000000043,0.5238,0.5
 2023-05-21 06:40:44.640307,MLB Futures - MLB 2023 Player Awards - American League MVP,Shohei Ohtani (LAA),0.023800000000000043,0.5238,0.5
+2023-05-21 04:40:36.608039,Round Match-Ups - Parlays - Final Round Match-Up - C. Morikawa v D. Johnson - Final Round Match-Up,Dustin Johnson,0.023800000000000043,0.5238,0.5
 2023-05-21 05:40:38.192922,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,0.023799999999999988,0.1667,0.1429
 2023-05-21 07:40:40.072368,Main Markets - Final Round 2 Balls - A. Svensson v S. Straka - Final Round 2 Balls,Sepp Straka,0.023799999999999988,0.5,0.4762
 2023-05-21 02:40:47.213686,Round Match-Ups - Parlays - Final Round Match-Up - S. Scheffler v R. McIlroy - Final Round Match-Up,Rory McIlroy,0.023799999999999988,0.5,0.4762
 2023-05-21 06:40:44.697639,Main Markets - Final Round 2 Balls - M. Hubbard v B. Taylor - Final Round 2 Balls,Ben Taylor,0.022699999999999998,0.4878,0.4651
 2023-05-21 07:40:40.265817,Round Match-Ups - Parlays - Final Round Match-Up - C. Kirk v H. Buckley - Final Round Match-Up,Hayden Buckley,0.022600000000000064,0.5348,0.5122
-2023-05-21 06:40:45.191114,Round Match-Ups - Parlays - Final Round Match-Up - C. Smith v T. Hatton - Final Round Match-Up,Tyrrell Hatton,0.02169999999999994,0.5455,0.5238
-2023-05-21 07:40:40.148740,Main Markets - Final Round 2 Balls - B. Koepka v V. Hovland - Final Round 2 Balls,Viktor Hovland,0.02169999999999994,0.5455,0.5238
-2023-05-21 07:40:40.245593,Round Match-Ups - Parlays - Final Round Match-Up - C. Morikawa v D. Johnson - Final Round Match-Up,Collin Morikawa,0.02169999999999994,0.5455,0.5238
+2023-05-21 08:40:45.485267,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leicester City,0.022199999999999998,0.8889,0.8667
 2023-05-21 04:40:36.547968,Round Match-Ups - Parlays - Final Round Match-Up - P. Harrington v P. Mickelson - Final Round Match-Up,Phil Mickelson,0.02169999999999994,0.5455,0.5238
+2023-05-21 06:40:45.191114,Round Match-Ups - Parlays - Final Round Match-Up - C. Smith v T. Hatton - Final Round Match-Up,Tyrrell Hatton,0.02169999999999994,0.5455,0.5238
+2023-05-21 07:40:40.245593,Round Match-Ups - Parlays - Final Round Match-Up - C. Morikawa v D. Johnson - Final Round Match-Up,Collin Morikawa,0.02169999999999994,0.5455,0.5238
+2023-05-21 07:40:40.148740,Main Markets - Final Round 2 Balls - B. Koepka v V. Hovland - Final Round 2 Balls,Viktor Hovland,0.02169999999999994,0.5455,0.5238
 2023-05-21 05:40:38.179237,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,0.02100000000000002,0.6364,0.6154
 2023-05-21 07:40:40.000110,Main Markets - Final Round 2 Balls - J. Rahm v D. Burmester - Final Round 2 Balls,Dean Burmester,0.020799999999999985,0.3333,0.3125
+2023-05-21 02:40:46.787277,Main Markets - Final Round 2 Balls - J. Spieth v D. Johnson - Final Round 2 Balls,Jordan Spieth,0.02079999999999993,0.5556,0.5348
 2023-05-21 02:40:47.276950,Round Match-Ups - Parlays - Final Round Match-Up - Z. Johnson v P. Larrazabal - Final Round Match-Up,Zach Johnson,0.02079999999999993,0.5556,0.5348
 2023-05-21 06:40:44.713582,Main Markets - Final Round 2 Balls - T. Moore v T. Montgomery - Final Round 2 Balls,Taylor Moore,0.02079999999999993,0.5556,0.5348
-2023-05-21 02:40:46.787277,Main Markets - Final Round 2 Balls - J. Spieth v D. Johnson - Final Round 2 Balls,Jordan Spieth,0.02079999999999993,0.5556,0.5348
 2023-05-21 07:40:40.135322,Main Markets - Final Round 2 Balls - S. Scheffler v J. Rose - Final Round 2 Balls,Justin Rose,0.02030000000000004,0.3774,0.3571
-2023-05-21 06:40:45.259432,Round Match-Ups - Parlays - Final Round Match-Up - S. Scheffler v R. McIlroy - Final Round Match-Up,Scottie Scheffler,0.01970000000000005,0.5652,0.5455
 2023-05-21 07:40:40.217397,Round Match-Ups - Parlays - Final Round Match-Up - C. Reavie v T. Lawrence - Final Round Match-Up,Chez Reavie,0.01970000000000005,0.5652,0.5455
+2023-05-21 06:40:45.259432,Round Match-Ups - Parlays - Final Round Match-Up - S. Scheffler v R. McIlroy - Final Round Match-Up,Scottie Scheffler,0.01970000000000005,0.5652,0.5455
 2023-05-21 07:40:40.085808,Main Markets - Final Round 2 Balls - H. Matsuyama v C. Davis - Final Round 2 Balls,Cameron Davis,0.018900000000000028,0.4444,0.4255
 2023-05-21 07:40:39.980090,Main Markets - Final Round 2 Balls - A. Scott v A. Hadwin - Final Round 2 Balls,Adam Scott,0.018100000000000005,0.5833,0.5652
-2023-05-21 05:40:38.172483,MLB Futures - MLB 2023 American League Central - American League Central Winner,Cleveland Guardians,0.016699999999999993,0.2667,0.25
 2023-05-21 07:40:40.079043,Main Markets - Final Round 2 Balls - P. Cantlay v S. Theegala - Final Round 2 Balls,Sahith Theegala,0.016699999999999993,0.4167,0.4
+2023-05-21 05:40:38.172483,MLB Futures - MLB 2023 American League Central - American League Central Winner,Cleveland Guardians,0.016699999999999993,0.2667,0.25
 2023-05-21 07:40:39.960003,Main Markets - Final Round 2 Balls - M. Homa v J.T. Poston - Final Round 2 Balls,Max Homa,0.01539999999999997,0.6154,0.6
 2023-05-20 21:40:45.760640,WNBA Futures - WNBA Awards - Regular Season MVP,Alyssa Thomas,0.014899999999999997,0.0625,0.0476
 2023-05-21 06:40:45.377637,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Boston Celtics,0.01469999999999999,0.25,0.2353
@@ -52,38 +58,38 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-21 03:40:31.358548,Boxing Lines - Lucas Bahdi vs Jesus Amparan - To Win the Bout,Jesus Amparan,0.0121,0.2899,0.2778
 2023-05-21 05:40:38.186015,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,0.011699999999999988,0.2857,0.274
 2023-05-21 06:40:44.672467,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Kodai Senga (NYM),0.0115,0.0294,0.0179
-2023-05-21 07:40:39.986795,Main Markets - Final Round 2 Balls - N. Hojgaard v S. Stevens - Final Round 2 Balls ,Nicolai Hojgaard,0.01100000000000001,0.5348,0.5238
-2023-05-21 07:40:39.933224,Main Markets - Final Round 2 Balls - M. Wallace v P. Harrington - Final Round 2 Balls,Matt Wallace,0.01100000000000001,0.5348,0.5238
 2023-05-21 07:40:40.313065,Round Match-Ups - Parlays - Final Round Match-Up - E. Cole v V. Perez - Final Round Match-Up,Eric Cole,0.01100000000000001,0.5348,0.5238
+2023-05-21 07:40:39.933224,Main Markets - Final Round 2 Balls - M. Wallace v P. Harrington - Final Round 2 Balls,Matt Wallace,0.01100000000000001,0.5348,0.5238
 2023-05-21 07:40:39.993507,Main Markets - Final Round 2 Balls - L. Herbert v T. Hoge - Final Round 2 Balls,Lucas Herbert,0.01100000000000001,0.5348,0.5238
 2023-05-21 07:40:40.092456,Main Markets - Final Round 2 Balls - K. Kitayama v R. Fox - Final Round 2 Balls,Kurt Kitayama,0.01100000000000001,0.5348,0.5238
+2023-05-21 07:40:39.986795,Main Markets - Final Round 2 Balls - N. Hojgaard v S. Stevens - Final Round 2 Balls ,Nicolai Hojgaard,0.01100000000000001,0.5348,0.5238
 2023-05-21 05:40:38.199853,MLB Futures - MLB 2023 National League East - National League East Winner,Atlanta Braves,0.01090000000000002,0.8571,0.8462
 2023-05-20 21:40:45.760640,WNBA Futures - WNBA Awards - Regular Season MVP,Arike Ogunbowale,0.010700000000000001,0.0385,0.0278
 2023-05-21 07:40:40.299326,Round Match-Ups - Parlays - Final Round Match-Up - S. Jaeger v C. Davis - Final Round Match-Up,Stephan Jaeger,0.010699999999999932,0.5455,0.5348
-2023-05-21 07:40:40.319760,Round Match-Ups - Parlays - Final Round Match-Up - T. Fleetwood v S. Lowry - Final Round Match-Up,Tommy Fleetwood,0.010699999999999932,0.5455,0.5348
 2023-05-21 07:40:39.973459,Main Markets - Final Round 2 Balls - D. McCarthy v K.H. Lee - Final Round 2 Balls,Denny McCarthy,0.010699999999999932,0.5455,0.5348
+2023-05-21 07:40:40.319760,Round Match-Ups - Parlays - Final Round Match-Up - T. Fleetwood v S. Lowry - Final Round Match-Up,Tommy Fleetwood,0.010699999999999932,0.5455,0.5348
 2023-05-21 06:40:44.632706,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Joe Ryan (MIN),0.0102,0.0769,0.0667
 2023-05-20 22:40:42.541252,Boxing Lines - Oscar Valdez vs Adam Lopez - To Win the Bout,Oscar Valdez,0.010199999999999987,0.9333,0.9231
-2023-05-21 02:40:45.155819,Elite Boxing - Devin Haney vs Vasyl Lomachenko - To Win the Bout,Vasyl Lomachenko,0.010099999999999998,0.3226,0.3125
-2023-05-21 07:40:40.165825,Round Match-Ups - Parlays - Final Round Match-Up - T. Finau v J. Thomas - Final Round Match-Up,Tony Finau,0.010099999999999998,0.5556,0.5455
-2023-05-21 06:40:44.705889,Main Markets - Final Round 2 Balls - J. Dahmen v K. Higa - Final Round 2 Balls,Kazuki Higa,0.010099999999999998,0.4545,0.4444
 2023-05-21 07:40:40.252315,Round Match-Ups - Parlays - Final Round Match-Up - M. Pereira v B. Hossler - Final Round Match-Up,Mito Pereira,0.010099999999999998,0.5556,0.5455
+2023-05-21 06:40:44.705889,Main Markets - Final Round 2 Balls - J. Dahmen v K. Higa - Final Round 2 Balls,Kazuki Higa,0.010099999999999998,0.4545,0.4444
+2023-05-21 07:40:40.165825,Round Match-Ups - Parlays - Final Round Match-Up - T. Finau v J. Thomas - Final Round Match-Up,Tony Finau,0.010099999999999998,0.5556,0.5455
+2023-05-21 02:40:45.155819,Elite Boxing - Devin Haney vs Vasyl Lomachenko - To Win the Bout,Vasyl Lomachenko,0.010099999999999998,0.3226,0.3125
 2023-05-21 07:40:40.035100,Main Markets - Final Round 2 Balls - A. Smalley v T. Pieters - Final Round 2 Balls,Alex Smalley,-0.010699999999999932,0.5348,0.5455
 2023-05-21 05:40:38.150883,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Los Angeles Dodgers,-0.010899999999999993,0.1429,0.1538
 2023-05-21 01:40:56.230289,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Denver Nuggets,-0.01100000000000001,0.5238,0.5348
 2023-05-21 05:40:38.186015,MLB Futures - MLB 2023 American League West - American League West Winner,Seattle Mariners,-0.011099999999999999,0.1,0.1111
 2023-05-21 07:40:39.980090,Main Markets - Final Round 2 Balls - A. Scott v A. Hadwin - Final Round 2 Balls,Adam Hadwin,-0.011099999999999999,0.4651,0.4762
 2023-05-21 07:40:39.905118,Main Markets - Final Round 2 Balls - T. Moore v T. Montgomery - Final Round 2 Balls,Taylor Montgomery,-0.0116,0.4762,0.4878
-2023-05-21 07:40:40.313065,Round Match-Ups - Parlays - Final Round Match-Up - E. Cole v V. Perez - Final Round Match-Up,Victor Perez,-0.011600000000000055,0.5122,0.5238
-2023-05-21 07:40:39.986795,Main Markets - Final Round 2 Balls - N. Hojgaard v S. Stevens - Final Round 2 Balls ,Sam Stevens,-0.011600000000000055,0.5122,0.5238
 2023-05-21 07:40:39.993507,Main Markets - Final Round 2 Balls - L. Herbert v T. Hoge - Final Round 2 Balls,Tom Hoge,-0.011600000000000055,0.5122,0.5238
 2023-05-21 07:40:39.933224,Main Markets - Final Round 2 Balls - M. Wallace v P. Harrington - Final Round 2 Balls,Padraig Harrington,-0.011600000000000055,0.5122,0.5238
 2023-05-21 07:40:40.092456,Main Markets - Final Round 2 Balls - K. Kitayama v R. Fox - Final Round 2 Balls,Ryan Fox,-0.011600000000000055,0.5122,0.5238
-2023-05-21 07:40:40.252315,Round Match-Ups - Parlays - Final Round Match-Up - M. Pereira v B. Hossler - Final Round Match-Up,Beau Hossler,-0.012199999999999989,0.4878,0.5
-2023-05-21 07:40:40.319760,Round Match-Ups - Parlays - Final Round Match-Up - T. Fleetwood v S. Lowry - Final Round Match-Up,Shane Lowry,-0.012199999999999989,0.5,0.5122
+2023-05-21 07:40:40.313065,Round Match-Ups - Parlays - Final Round Match-Up - E. Cole v V. Perez - Final Round Match-Up,Victor Perez,-0.011600000000000055,0.5122,0.5238
+2023-05-21 07:40:39.986795,Main Markets - Final Round 2 Balls - N. Hojgaard v S. Stevens - Final Round 2 Balls ,Sam Stevens,-0.011600000000000055,0.5122,0.5238
 2023-05-21 07:40:40.299326,Round Match-Ups - Parlays - Final Round Match-Up - S. Jaeger v C. Davis - Final Round Match-Up,Cameron Davis,-0.012199999999999989,0.5,0.5122
+2023-05-21 07:40:40.319760,Round Match-Ups - Parlays - Final Round Match-Up - T. Fleetwood v S. Lowry - Final Round Match-Up,Shane Lowry,-0.012199999999999989,0.5,0.5122
 2023-05-21 07:40:40.165825,Round Match-Ups - Parlays - Final Round Match-Up - T. Finau v J. Thomas - Final Round Match-Up,Justin Thomas,-0.012199999999999989,0.4878,0.5
 2023-05-21 07:40:39.973459,Main Markets - Final Round 2 Balls - D. McCarthy v K.H. Lee - Final Round 2 Balls,Kyoung-Hoon Lee,-0.012199999999999989,0.5,0.5122
+2023-05-21 07:40:40.252315,Round Match-Ups - Parlays - Final Round Match-Up - M. Pereira v B. Hossler - Final Round Match-Up,Beau Hossler,-0.012199999999999989,0.4878,0.5
 2023-05-21 07:40:40.120951,Main Markets - Final Round 2 Balls - T. Fleetwood v J. Suh - Final Round 2 Balls,Tommy Fleetwood,-0.012700000000000045,0.6364,0.6491
 2023-05-21 05:40:38.165719,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Atlanta Braves,-0.013600000000000001,0.2941,0.3077
 2023-05-21 01:40:56.230289,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Los Angeles Lakers,-0.013899999999999996,0.1111,0.125
@@ -98,27 +104,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-21 07:40:39.960003,Main Markets - Final Round 2 Balls - M. Homa v J.T. Poston - Final Round 2 Balls,JT Poston,-0.018900000000000028,0.4255,0.4444
 2023-05-21 07:40:40.000110,Main Markets - Final Round 2 Balls - J. Rahm v D. Burmester - Final Round 2 Balls,Jon Rahm,-0.018999999999999906,0.7143,0.7333
 2023-05-21 07:40:40.079043,Main Markets - Final Round 2 Balls - P. Cantlay v S. Theegala - Final Round 2 Balls,Patrick Cantlay,-0.019499999999999962,0.6296,0.6491
-2023-05-21 02:40:47.213686,Round Match-Ups - Parlays - Final Round Match-Up - S. Scheffler v R. McIlroy - Final Round Match-Up,Scottie Scheffler,-0.01970000000000005,0.5455,0.5652
 2023-05-21 07:40:40.072368,Main Markets - Final Round 2 Balls - A. Svensson v S. Straka - Final Round 2 Balls,Adam Svensson,-0.01970000000000005,0.5455,0.5652
+2023-05-21 02:40:47.213686,Round Match-Ups - Parlays - Final Round Match-Up - S. Scheffler v R. McIlroy - Final Round Match-Up,Scottie Scheffler,-0.01970000000000005,0.5455,0.5652
 2023-05-21 02:40:44.270996,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Los Angeles Lakers,-0.02020000000000001,0.0909,0.1111
 2023-05-21 07:40:40.135322,Main Markets - Final Round 2 Balls - S. Scheffler v J. Rose - Final Round 2 Balls,Scottie Scheffler,-0.02080000000000004,0.6667,0.6875
 2023-05-21 04:40:36.608039,Round Match-Ups - Parlays - Final Round Match-Up - C. Morikawa v D. Johnson - Final Round Match-Up,Collin Morikawa,-0.02169999999999994,0.5238,0.5455
 2023-05-21 07:40:40.085808,Main Markets - Final Round 2 Balls - H. Matsuyama v C. Davis - Final Round 2 Balls,Hideki Matsuyama,-0.022600000000000064,0.6,0.6226
 2023-05-21 07:40:40.265817,Round Match-Ups - Parlays - Final Round Match-Up - C. Kirk v H. Buckley - Final Round Match-Up,Chris Kirk,-0.022600000000000064,0.5122,0.5348
-2023-05-21 07:40:40.217397,Round Match-Ups - Parlays - Final Round Match-Up - C. Reavie v T. Lawrence - Final Round Match-Up,Thriston Lawrence,-0.023799999999999988,0.4762,0.5
 2023-05-21 06:40:45.259432,Round Match-Ups - Parlays - Final Round Match-Up - S. Scheffler v R. McIlroy - Final Round Match-Up,Rory McIlroy,-0.023799999999999988,0.4762,0.5
+2023-05-21 07:40:40.217397,Round Match-Ups - Parlays - Final Round Match-Up - C. Reavie v T. Lawrence - Final Round Match-Up,Thriston Lawrence,-0.023799999999999988,0.4762,0.5
+2023-05-21 06:40:45.191114,Round Match-Ups - Parlays - Final Round Match-Up - C. Smith v T. Hatton - Final Round Match-Up,Cameron Smith,-0.023800000000000043,0.5,0.5238
 2023-05-21 04:40:36.547968,Round Match-Ups - Parlays - Final Round Match-Up - P. Harrington v P. Mickelson - Final Round Match-Up,Padraig Harrington,-0.023800000000000043,0.5,0.5238
 2023-05-21 07:40:40.245593,Round Match-Ups - Parlays - Final Round Match-Up - C. Morikawa v D. Johnson - Final Round Match-Up,Dustin Johnson,-0.023800000000000043,0.5,0.5238
 2023-05-21 07:40:40.148740,Main Markets - Final Round 2 Balls - B. Koepka v V. Hovland - Final Round 2 Balls,Brooks Koepka,-0.023800000000000043,0.5,0.5238
-2023-05-21 06:40:45.191114,Round Match-Ups - Parlays - Final Round Match-Up - C. Smith v T. Hatton - Final Round Match-Up,Cameron Smith,-0.023800000000000043,0.5,0.5238
-2023-05-21 06:40:44.713582,Main Markets - Final Round 2 Balls - T. Moore v T. Montgomery - Final Round 2 Balls,Taylor Montgomery,-0.024399999999999977,0.4878,0.5122
-2023-05-21 02:40:46.787277,Main Markets - Final Round 2 Balls - J. Spieth v D. Johnson - Final Round 2 Balls,Dustin Johnson,-0.024399999999999977,0.4878,0.5122
 2023-05-21 02:40:47.276950,Round Match-Ups - Parlays - Final Round Match-Up - Z. Johnson v P. Larrazabal - Final Round Match-Up,Pablo Larrazabal,-0.024399999999999977,0.4878,0.5122
+2023-05-21 02:40:46.787277,Main Markets - Final Round 2 Balls - J. Spieth v D. Johnson - Final Round 2 Balls,Dustin Johnson,-0.024399999999999977,0.4878,0.5122
+2023-05-21 06:40:44.713582,Main Markets - Final Round 2 Balls - T. Moore v T. Montgomery - Final Round 2 Balls,Taylor Montgomery,-0.024399999999999977,0.4878,0.5122
 2023-05-21 07:40:39.050783,Boxing Lines - Lucas Bahdi vs Jesus Amparan - To Win the Bout,Lucas Bahdi,-0.024799999999999933,0.7647,0.7895
 2023-05-21 06:40:44.697639,Main Markets - Final Round 2 Balls - M. Hubbard v B. Taylor - Final Round 2 Balls,Mark Hubbard,-0.027700000000000058,0.5556,0.5833
+2023-05-21 08:40:45.507576,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Leicester City,-0.027999999999999997,0.1538,0.1818
 2023-05-21 06:40:45.370658,2022/23 NBA Championship - 2022-2023 NBA Championship - Exact Outcome,LA Lakers to beat BOS Celtics,-0.0286,0.0099,0.0385
-2023-05-21 07:40:39.939907,Main Markets - Final Round 2 Balls - A. Meronk v P. Larrazabal - Final Round 2 Balls,Adrian Meronk,-0.030299999999999994,0.6364,0.6667
 2023-05-21 06:40:44.722157,Main Markets - Final Round 2 Balls - J. Thomas v P. Mickelson - Final Round 2 Balls,Justin Thomas,-0.030299999999999994,0.6364,0.6667
+2023-05-21 07:40:39.939907,Main Markets - Final Round 2 Balls - A. Meronk v P. Larrazabal - Final Round 2 Balls,Adrian Meronk,-0.030299999999999994,0.6364,0.6667
 2023-05-21 06:40:44.656432,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Zac Gallen,-0.030299999999999994,0.3333,0.3636
 2023-05-21 07:40:40.028331,Main Markets - Final Round 2 Balls - X. Schauffele v C. Reavie - Final Round 2 Balls,Xander Schauffele,-0.03410000000000002,0.7333,0.7674
 2023-05-21 06:40:45.370658,2022/23 NBA Championship - 2022-2023 NBA Championship - Exact Outcome,MIA Heat to beat LA Lakers,-0.0409,0.0179,0.0588
@@ -135,4 +142,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-21 04:40:37.858237,NBA Awards - Western Conference Finals MVP - WCF MVP,Anthony Davis (LAL),-0.0774,0.0476,0.125
 2023-05-21 04:40:37.858237,NBA Awards - Western Conference Finals MVP - WCF MVP,Nikola Jokic (DEN),-0.09030000000000005,0.6875,0.7778
 2023-05-21 04:40:37.858237,NBA Awards - Western Conference Finals MVP - WCF MVP,LeBron James (LAL),-0.0948,0.0385,0.1333
+2023-05-21 08:40:45.498028,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Tottenham Hotspur,-0.15239999999999998,0.0294,0.1818
 2023-05-21 03:40:32.042590,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Lakers,-0.15550000000000003,0.0667,0.2222
+2023-05-21 08:40:45.507576,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Everton,-0.23449999999999993,0.6226,0.8571
+2023-05-21 08:40:45.491473,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Liverpool,-0.2692,0.0385,0.3077
