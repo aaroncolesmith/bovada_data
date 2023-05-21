@@ -1,22 +1,25 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-20 16:40:44.054047,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Miami Heat,0.2855,0.6364,0.3509
+2023-05-21 03:40:32.042590,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Denver Nuggets,0.14200000000000002,0.9681,0.8261
 2023-05-20 16:40:44.079007,2022/23 NBA - The NBA Finals Props - 2022/23 NBA Season - Winner Specials - Winning Conference,Western Conference,0.08999999999999997,0.6552,0.5652
+2023-05-21 03:40:32.054685,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Denver Nuggets,0.08079999999999998,0.6364,0.5556
 2023-05-20 16:40:42.794246,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,0.05689999999999995,0.5917,0.5348
 2023-05-21 02:40:44.270996,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Denver Nuggets,0.03179999999999994,0.5556,0.5238
 2023-05-20 16:40:44.652853,Round Scores - 3rd Round Scores - Corey Conners - 3rd Round Scores,Over 71.5,0.030399999999999983,0.5652,0.5348
 2023-05-20 16:40:44.099852,WNBA Futures - WNBA Championship 2023 - Outright Winner,Washington Mystics,0.0242,0.0909,0.0667
 2023-05-21 02:40:47.213686,Round Match-Ups - Parlays - Final Round Match-Up - S. Scheffler v R. McIlroy - Final Round Match-Up,Rory McIlroy,0.023799999999999988,0.5,0.4762
-2023-05-21 02:40:46.787277,Main Markets - Final Round 2 Balls - J. Spieth v D. Johnson - Final Round 2 Balls,Jordan Spieth,0.02079999999999993,0.5556,0.5348
 2023-05-21 02:40:47.276950,Round Match-Ups - Parlays - Final Round Match-Up - Z. Johnson v P. Larrazabal - Final Round Match-Up,Zach Johnson,0.02079999999999993,0.5556,0.5348
+2023-05-21 02:40:46.787277,Main Markets - Final Round 2 Balls - J. Spieth v D. Johnson - Final Round 2 Balls,Jordan Spieth,0.02079999999999993,0.5556,0.5348
 2023-05-20 16:40:44.509268,Round Match-Ups - Parlays - 3rd Round Match-Up - C. Conners v K. Bradley - 3rd Round Match-Up,Corey Conners,0.01970000000000005,0.5652,0.5455
 2023-05-20 17:40:40.989343,Boxing Lines - Dennis Hogan vs James Metcalf - To Win the Bout,Dennis Hogan,0.018100000000000005,0.4348,0.4167
 2023-05-20 16:40:42.786940,MLB Futures - MLB 2023 American League East - American League East Winner,New York Yankees,0.016600000000000004,0.1905,0.1739
-2023-05-20 16:40:42.779312,MLB Futures - MLB 2023 American League Central - American League Central Winner,Chicago White Sox,0.014899999999999997,0.0625,0.0476
 2023-05-20 21:40:45.760640,WNBA Futures - WNBA Awards - Regular Season MVP,Alyssa Thomas,0.014899999999999997,0.0625,0.0476
+2023-05-20 16:40:42.779312,MLB Futures - MLB 2023 American League Central - American League Central Winner,Chicago White Sox,0.014899999999999997,0.0625,0.0476
 2023-05-20 23:40:33.318683,Boxing Lines - Junto Nakatani vs Andrew Moloney - To Win the Bout,Junto Nakatani,0.012899999999999912,0.8462,0.8333
+2023-05-21 03:40:31.358548,Boxing Lines - Lucas Bahdi vs Jesus Amparan - To Win the Bout,Jesus Amparan,0.0121,0.2899,0.2778
 2023-05-20 16:40:42.520680,Boxing Lines - Raymond Muratalla vs Jeremia Nakathila - To Win the Bout,Raymond Muratalla,0.011099999999999999,0.7333,0.7222
-2023-05-20 21:40:45.760640,WNBA Futures - WNBA Awards - Regular Season MVP,Arike Ogunbowale,0.010700000000000001,0.0385,0.0278
 2023-05-20 16:40:42.856472,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Royce Lewis,0.010700000000000001,0.0217,0.011
+2023-05-20 21:40:45.760640,WNBA Futures - WNBA Awards - Regular Season MVP,Arike Ogunbowale,0.010700000000000001,0.0385,0.0278
 2023-05-20 16:40:42.478129,Boxing Lines - Amari Jones vs Pachino Hill - To Win the Bout,Pachino Hill,0.0102,0.0769,0.0667
 2023-05-20 22:40:42.541252,Boxing Lines - Oscar Valdez vs Adam Lopez - To Win the Bout,Oscar Valdez,0.010199999999999987,0.9333,0.9231
 2023-05-21 02:40:45.155819,Elite Boxing - Devin Haney vs Vasyl Lomachenko - To Win the Bout,Vasyl Lomachenko,0.010099999999999998,0.3226,0.3125
@@ -31,9 +34,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-20 16:40:42.786940,MLB Futures - MLB 2023 American League East - American League East Winner,Toronto Blue Jays,-0.01999999999999999,0.1905,0.2105
 2023-05-21 02:40:44.270996,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Los Angeles Lakers,-0.02020000000000001,0.0909,0.1111
 2023-05-20 16:40:42.779312,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,-0.02200000000000002,0.6923,0.7143
-2023-05-21 02:40:47.276950,Round Match-Ups - Parlays - Final Round Match-Up - Z. Johnson v P. Larrazabal - Final Round Match-Up,Pablo Larrazabal,-0.024399999999999977,0.4878,0.5122
 2023-05-21 02:40:46.787277,Main Markets - Final Round 2 Balls - J. Spieth v D. Johnson - Final Round 2 Balls,Dustin Johnson,-0.024399999999999977,0.4878,0.5122
+2023-05-21 02:40:47.276950,Round Match-Ups - Parlays - Final Round Match-Up - Z. Johnson v P. Larrazabal - Final Round Match-Up,Pablo Larrazabal,-0.024399999999999977,0.4878,0.5122
 2023-05-20 16:40:44.652853,Round Scores - 3rd Round Scores - Corey Conners - 3rd Round Scores,Under 71.5,-0.03480000000000005,0.5,0.5348
 2023-05-20 16:40:42.794246,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,-0.04859999999999998,0.274,0.3226
+2023-05-21 03:40:32.054685,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Los Angeles Lakers,-0.05859999999999999,0.0323,0.0909
 2023-05-20 16:40:44.079007,2022/23 NBA - The NBA Finals Props - 2022/23 NBA Season - Winner Specials - Winning Conference,Eastern Conference,-0.068,0.4082,0.4762
+2023-05-21 03:40:32.042590,2022/23 Conferences - 2022-2023 NBA Western Conference - Western Conference Winner,Los Angeles Lakers,-0.15550000000000003,0.0667,0.2222
 2023-05-20 16:40:44.054047,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Boston Celtics,-0.2923,0.4,0.6923
