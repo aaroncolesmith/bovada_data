@@ -1,11 +1,8 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-21 09:40:39.182571,1. Bundesliga - Germany Bundesliga 2022/23 - Winner,Borussia Dortmund,0.4643,0.75,0.2857
 2023-05-21 10:40:47.351769,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Group B Winner ,USA U20,0.2895,0.7895,0.5
-2023-05-21 08:40:45.485267,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Everton,0.19440000000000002,0.4444,0.25
 2023-05-21 10:40:47.341360,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Group A Winner,Argentina U20,0.128,0.9901,0.8621
-2023-05-21 08:40:45.491473,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Manchester United,0.12339999999999995,0.9901,0.8667
 2023-05-21 16:41:06.342471,Round Scores - Final Round Score - Rory McIlroy - Final Round Score,Under 69.5,0.10010000000000002,0.5652,0.4651
-2023-05-21 08:40:45.498028,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Brighton & Hove Albion,0.09530000000000005,0.9524,0.8571
 2023-05-21 09:40:39.251183,A-League - Australia A-League 2022/23 - Grand Final Winner,Central Coast Mariners,0.0922,0.4255,0.3333
 2023-05-21 09:40:39.187471,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,Schalke 04,0.08550000000000002,0.7778,0.6923
 2023-05-21 13:40:41.266918,Nobel Prizes - Nobel Literature Prize - Nobel Literature Prize Winner 2023,Haruki Murakami,0.08329999999999999,0.3333,0.25
@@ -16,7 +13,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-21 16:41:06.420119,Round Scores - Final Round Score - Brooks Koepka - Final Round Score,Under 70.5,0.05689999999999995,0.5917,0.5348
 2023-05-21 18:40:43.913647,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Dallas Cowboys,Over 9.5,0.05520000000000003,0.6296,0.5744
 2023-05-21 10:40:47.386686,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Brazil U20,0.0504,0.2857,0.2353
-2023-05-21 08:40:45.498028,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Aston Villa,0.048600000000000004,0.1111,0.0625
 2023-05-21 09:40:39.187471,1. Bundesliga - Germany Bundesliga 2022/23 - To Be Relegated,VfB Stuttgart,0.04760000000000003,0.5238,0.4762
 2023-05-21 10:40:47.386686,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,England U20,0.0476,0.1905,0.1429
 2023-05-21 10:40:47.351769,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Group B Winner ,Slovakia U20,0.0476,0.2857,0.2381
@@ -25,7 +21,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-21 13:40:41.805440,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Field,0.04580000000000001,0.3125,0.2667
 2023-05-21 09:40:39.211847,MLS - MLS 2023 - Top Goalscorer,Georgios Giakoumakis (ATL),0.04440000000000001,0.1111,0.0667
 2023-05-21 16:41:04.199888,MLB Futures - MLB 2023 National League Central - National League Central Winner,St. Louis Cardinals,0.04409999999999997,0.2941,0.25
-2023-05-21 08:40:45.485267,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leeds United,0.03990000000000005,0.75,0.7101
 2023-05-21 18:40:42.635031,96th Academy Awards - Best Picture - Best Picture,Oppenheimer,0.03920000000000001,0.3333,0.2941
 2023-05-21 16:41:06.409241,Round Scores - Final Round Score - Corey Conners - Final Round Score,Under 71.5,0.03600000000000003,0.5238,0.4878
 2023-05-21 09:40:39.211847,MLS - MLS 2023 - Top Goalscorer,Jesus Ferreira (DAL),0.035699999999999996,0.0833,0.0476
@@ -36,64 +31,63 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-21 13:40:41.121825,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Michael Fassbender,0.030199999999999998,0.0625,0.0323
 2023-05-21 11:40:41.005442,Main Markets - Final Round 2 Balls - S. Scheffler v J. Rose - Final Round 2 Balls,Scottie Scheffler,0.025600000000000067,0.6923,0.6667
 2023-05-21 09:40:39.237651,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Botafogo,0.02560000000000001,0.3333,0.3077
-2023-05-21 12:40:37.540219,Round Scores - Final Round Score - Tommy Fleetwood - Final Round Score,Under 71.5,0.025599999999999956,0.6,0.5744
 2023-05-21 10:40:46.207302,Round Scores - Final Round Score - Viktor Hovland - Final Round Score,Under 71.5,0.025599999999999956,0.6,0.5744
+2023-05-21 12:40:37.540219,Round Scores - Final Round Score - Tommy Fleetwood - Final Round Score,Under 71.5,0.025599999999999956,0.6,0.5744
 2023-05-21 16:41:06.244043,Round Match-Ups - Parlays - Final Round Match-Up - B. DeChambeau v M.W. Lee - Final Round Match-Up,Bryson DeChambeau,0.024499999999999966,0.6078,0.5833
 2023-05-21 13:40:41.847210,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Sarah Huckabee Sanders,0.024,0.0625,0.0385
 2023-05-21 09:40:39.237651,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Atlético Mineiro,0.023800000000000043,0.5238,0.5
 2023-05-21 12:40:37.449586,Round Match-Ups - Parlays - Final Round Match-Up - C. Morikawa v D. Johnson - Final Round Match-Up,Dustin Johnson,0.023799999999999988,0.5,0.4762
 2023-05-21 11:40:40.867182,Main Markets - Final Round 2 Balls - C. Morikawa v B. Hossler - Final Round 2 Balls,Beau Hossler,0.02360000000000001,0.4082,0.3846
-2023-05-21 10:40:46.185497,Round Scores - Final Round Score - Corey Conners - Final Round Score,Under 71.5,0.022699999999999998,0.4878,0.4651
 2023-05-21 10:40:46.169064,Round Scores - Final Round Score - Scottie Scheffler - Final Round Score,Under 69.5,0.022699999999999998,0.4878,0.4651
-2023-05-21 10:40:46.052078,Round Match-Ups - Parlays - Final Round Match-Up - E. Cole v V. Perez - Final Round Match-Up,Victor Perez,0.022600000000000064,0.5348,0.5122
-2023-05-21 16:41:06.430654,Round Scores - Final Round Score - Viktor Hovland - Final Round Score,Under 71.5,0.022600000000000064,0.6226,0.6
+2023-05-21 10:40:46.185497,Round Scores - Final Round Score - Corey Conners - Final Round Score,Under 71.5,0.022699999999999998,0.4878,0.4651
+2023-05-21 11:40:40.815634,Main Markets - Final Round 2 Balls - N. Hojgaard v S. Stevens - Final Round 2 Balls ,Sam Stevens,0.022600000000000064,0.5348,0.5122
 2023-05-21 13:40:43.355413,Round Scores - Final Round Score - Brooks Koepka - Final Round Score,Under 70.5,0.022600000000000064,0.5348,0.5122
+2023-05-21 16:41:06.430654,Round Scores - Final Round Score - Viktor Hovland - Final Round Score,Under 71.5,0.022600000000000064,0.6226,0.6
 2023-05-21 16:41:06.332588,Round Scores - Final Round Score - Tommy Fleetwood - Final Round Score,Under 71.5,0.022600000000000064,0.6226,0.6
 2023-05-21 10:40:46.152551,Round Scores - Final Round Score - Rory McIlroy - Final Round Score,Over 69.5,0.022600000000000064,0.6226,0.6
-2023-05-21 11:40:40.815634,Main Markets - Final Round 2 Balls - N. Hojgaard v S. Stevens - Final Round 2 Balls ,Sam Stevens,0.022600000000000064,0.5348,0.5122
+2023-05-21 10:40:46.052078,Round Match-Ups - Parlays - Final Round Match-Up - E. Cole v V. Perez - Final Round Match-Up,Victor Perez,0.022600000000000064,0.5348,0.5122
 2023-05-21 09:40:39.232212,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Coritiba,0.022199999999999998,0.8,0.7778
-2023-05-21 08:40:45.485267,Premier League Futures/Specials - English Premier League 2022/23 - To Be Relegated,Leicester City,0.022199999999999998,0.8889,0.8667
 2023-05-21 09:40:39.232212,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Vasco da Gama,0.022199999999999998,0.2222,0.2
 2023-05-21 09:40:39.237651,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,São Paulo,0.022199999999999998,0.2222,0.2
 2023-05-21 12:40:37.564575,Round Scores - Final Round Score - Bryson DeChambeau - Final Round Score,Under 71.5,0.02169999999999994,0.5455,0.5238
-2023-05-21 16:41:06.382222,Round Scores - Final Round Score - Justin Rose - Final Round Score,Under 71.5,0.02169999999999994,0.5455,0.5238
 2023-05-21 11:40:41.329701,Round Scores - Final Round Score - Bryson DeChambeau - Final Round Score,Over 71.5,0.02169999999999994,0.5455,0.5238
 2023-05-21 12:40:37.439173,Round Match-Ups - Parlays - Final Round Match-Up - A. Hadwin v D. Burmester - Final Round Match-Up,Adam Hadwin,0.02169999999999994,0.5455,0.5238
+2023-05-21 16:41:06.382222,Round Scores - Final Round Score - Justin Rose - Final Round Score,Under 71.5,0.02169999999999994,0.5455,0.5238
 2023-05-21 09:40:39.243015,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,São Paulo,0.02100000000000002,0.3846,0.3636
 2023-05-21 09:40:41.581906,Main Markets - Final Round 2 Balls - P. Rodgers v T. Lawrence - Final Round 2 Balls,Patrick Rodgers,0.02100000000000002,0.6364,0.6154
 2023-05-21 10:40:45.480463,Main Markets - Final Round 2 Balls - M. Wallace v P. Harrington - Final Round 2 Balls,Matt Wallace,0.02079999999999993,0.5556,0.5348
-2023-05-21 10:40:45.999004,Round Match-Ups - Parlays - Final Round Match-Up - S. Straka v T. Pendrith - Final Round Match-Up,Sepp Straka,0.02079999999999993,0.5556,0.5348
 2023-05-21 10:40:46.193595,Round Scores - Final Round Score - Brooks Koepka - Final Round Score,Over 70.5,0.02079999999999993,0.5556,0.5348
+2023-05-21 10:40:45.999004,Round Match-Ups - Parlays - Final Round Match-Up - S. Straka v T. Pendrith - Final Round Match-Up,Sepp Straka,0.02079999999999993,0.5556,0.5348
 2023-05-21 12:40:37.545862,Round Scores - Final Round Score - Rory McIlroy - Final Round Score,Under 69.5,0.020699999999999996,0.4651,0.4444
 2023-05-21 18:40:42.635031,96th Academy Awards - Best Picture - Best Picture,Asteroid City,0.02020000000000001,0.1111,0.0909
 2023-05-21 09:40:39.205479,MLS - MLS 2023 - Winner,Philadelphia Union,0.02020000000000001,0.1111,0.0909
-2023-05-21 11:40:40.980024,Main Markets - Final Round 2 Balls - S. Jaeger v V. Perez - Final Round 2 Balls,Stephan Jaeger,0.01970000000000005,0.5652,0.5455
 2023-05-21 10:40:45.954794,Round Match-Ups - Parlays - Final Round Match-Up - C. Morikawa v D. Johnson - Final Round Match-Up,Collin Morikawa,0.01970000000000005,0.5652,0.5455
 2023-05-21 10:40:45.984075,Round Match-Ups - Parlays - Final Round Match-Up - C. Smith v T. Hatton - Final Round Match-Up,Tyrrell Hatton,0.01970000000000005,0.5652,0.5455
+2023-05-21 11:40:40.980024,Main Markets - Final Round 2 Balls - S. Jaeger v V. Perez - Final Round 2 Balls,Stephan Jaeger,0.01970000000000005,0.5652,0.5455
 2023-05-21 11:40:40.937435,Main Markets - Final Round 2 Balls - P. Cantlay v S. Theegala - Final Round 2 Balls,Patrick Cantlay,0.019499999999999962,0.6491,0.6296
 2023-05-21 09:40:39.232212,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Corinthians,0.019000000000000017,0.2857,0.2667
 2023-05-21 16:41:06.284940,Round Match-Ups - Parlays - Final Round Match-Up - J. Suh v M. Block - Final Round Match-Up,Justin Suh,0.018999999999999906,0.7333,0.7143
 2023-05-21 12:40:36.100119,Video Games - Call Of Duty - To Feature In Call of Duty,Patrick Mahomes,0.0189,0.0385,0.0196
 2023-05-21 12:40:36.100119,Video Games - Call Of Duty - To Feature In Call of Duty,Steph Curry,0.0189,0.0385,0.0196
-2023-05-21 12:40:37.427860,Round Match-Ups - Parlays - Final Round Match-Up - C. Reavie v T. Lawrence - Final Round Match-Up,Chez Reavie,0.018100000000000005,0.5833,0.5652
 2023-05-21 16:41:06.295620,Round Match-Ups - Parlays - Final Round Match-Up - S. Scheffler v R. McIlroy - Final Round Match-Up,Scottie Scheffler,0.018100000000000005,0.5833,0.5652
+2023-05-21 12:40:37.427860,Round Match-Ups - Parlays - Final Round Match-Up - C. Reavie v T. Lawrence - Final Round Match-Up,Chez Reavie,0.018100000000000005,0.5833,0.5652
 2023-05-21 19:40:41.284466,Professional Baseball - NPB 2023 - Outright,Chiba Lotte Marines,0.0179,0.1429,0.125
 2023-05-21 11:40:40.875950,Main Markets - Final Round 2 Balls - X. Schauffele v C. Reavie - Final Round 2 Balls,Xander Schauffele,0.016700000000000048,0.75,0.7333
 2023-05-21 16:41:04.199888,MLB Futures - MLB 2023 National League Central - National League Central Winner,Pittsburgh Pirates,0.016700000000000007,0.1,0.0833
 2023-05-21 13:40:41.825225,US Presidential Election 2024 - US Presidential Election 2024 - Party Of Popular Vote Winner - Party of Popular Vote Winner,Republican,0.016699999999999993,0.2667,0.25
 2023-05-21 09:40:39.237651,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,RB Bragantino,0.015300000000000001,0.0588,0.0435
-2023-05-21 09:40:39.205479,MLS - MLS 2023 - Winner,Los Angeles FC,0.015100000000000002,0.1818,0.1667
 2023-05-21 09:40:39.192172,1. Bundesliga - Germany Bundesliga 2022/23 - Top 4 Finish,Freiburg,0.015100000000000002,0.1818,0.1667
+2023-05-21 09:40:39.205479,MLS - MLS 2023 - Winner,Los Angeles FC,0.015100000000000002,0.1818,0.1667
 2023-05-21 09:40:39.243015,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,América Mineiro,0.014099999999999998,0.0385,0.0244
 2023-05-21 09:40:39.226400,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Atlético Mineiro,0.013999999999999999,0.0909,0.0769
 2023-05-21 09:40:39.205479,MLS - MLS 2023 - Winner,FC Cincinnati,0.013899999999999996,0.125,0.1111
 2023-05-21 11:40:40.988506,Main Markets - Final Round 2 Balls - T. Fleetwood v J. Suh - Final Round 2 Balls,Tommy Fleetwood,0.012700000000000045,0.6491,0.6364
 2023-05-21 11:40:41.047410,Round Match-Ups - Parlays - Final Round Match-Up - T. Finau v J. Thomas - Final Round Match-Up,Justin Thomas,0.012199999999999989,0.5,0.4878
 2023-05-21 12:40:37.558194,Round Scores - Final Round Score - Scottie Scheffler - Final Round Score,Under 69.5,0.012199999999999989,0.5,0.4878
-2023-05-21 09:40:39.373614,Superettan - Superettan 2023 - Winner,Jönköpings Södra IF,0.011199999999999995,0.0588,0.0476
-2023-05-21 09:40:39.232212,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Fortaleza,0.011199999999999995,0.0588,0.0476
 2023-05-21 09:40:39.373614,Superettan - Superettan 2023 - Winner,Landskrona BoIS,0.011199999999999995,0.0588,0.0476
+2023-05-21 09:40:39.232212,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Fortaleza,0.011199999999999995,0.0588,0.0476
 2023-05-21 13:40:41.878653,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,"Robert Kennedy, Jr",0.011199999999999995,0.0588,0.0476
+2023-05-21 09:40:39.373614,Superettan - Superettan 2023 - Winner,Jönköpings Södra IF,0.011199999999999995,0.0588,0.0476
 2023-05-21 09:40:39.243015,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,RB Bragantino,0.011099999999999999,0.1111,0.1
 2023-05-21 09:40:39.205479,MLS - MLS 2023 - Winner,Orlando City,0.010700000000000001,0.0385,0.0278
 2023-05-21 09:40:39.226400,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Botafogo,0.0102,0.0769,0.0667
@@ -101,8 +95,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-21 13:40:41.836192,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Nikki Haley,-0.010700000000000001,0.0278,0.0385
 2023-05-21 16:41:06.295620,Round Match-Ups - Parlays - Final Round Match-Up - S. Scheffler v R. McIlroy - Final Round Match-Up,Rory McIlroy,-0.011099999999999999,0.4651,0.4762
 2023-05-21 12:40:37.427860,Round Match-Ups - Parlays - Final Round Match-Up - C. Reavie v T. Lawrence - Final Round Match-Up,Thriston Lawrence,-0.011099999999999999,0.4651,0.4762
-2023-05-21 09:40:39.232212,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,São Paulo,-0.011199999999999995,0.0476,0.0588
 2023-05-21 09:40:39.237651,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Vasco da Gama,-0.011199999999999995,0.0476,0.0588
+2023-05-21 09:40:39.232212,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,São Paulo,-0.011199999999999995,0.0476,0.0588
 2023-05-21 12:40:37.422664,Round Match-Ups - Parlays - Final Round Match-Up - J. Spieth v M. Homa - Final Round Match-Up,Max Homa,-0.0116,0.4762,0.4878
 2023-05-21 13:40:41.836192,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Tucker Carlson,-0.012700000000000003,0.0196,0.0323
 2023-05-21 09:40:39.226400,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Fluminense,-0.012899999999999995,0.1538,0.1667
@@ -110,9 +104,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-21 11:40:40.875950,Main Markets - Final Round 2 Balls - X. Schauffele v C. Reavie - Final Round 2 Balls,Chez Reavie,-0.013600000000000001,0.2941,0.3077
 2023-05-21 09:40:39.237651,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Fluminense,-0.013799999999999923,0.6226,0.6364
 2023-05-21 09:40:39.243015,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Vasco da Gama,-0.013899999999999996,0.1111,0.125
+2023-05-21 18:40:42.723859,Disney Specials - Next Disney CEO - Next Disney CEO After Bob Iger,Jimmy Pitaro,-0.013999999999999999,0.0769,0.0909
 2023-05-21 18:40:42.723859,Disney Specials - Next Disney CEO - Next Disney CEO After Bob Iger,Alan Bergman,-0.013999999999999999,0.0769,0.0909
 2023-05-21 09:40:39.211847,MLS - MLS 2023 - Top Goalscorer,Cristian Espinoza (SJE),-0.013999999999999999,0.0769,0.0909
-2023-05-21 18:40:42.723859,Disney Specials - Next Disney CEO - Next Disney CEO After Bob Iger,Jimmy Pitaro,-0.013999999999999999,0.0769,0.0909
 2023-05-21 09:40:39.373614,Superettan - Superettan 2023 - Winner,Örebro SK,-0.014099999999999998,0.0244,0.0385
 2023-05-21 13:40:41.121825,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Dev Patel,-0.0145,0.0099,0.0244
 2023-05-21 13:40:41.121825,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,John Boyega,-0.0145,0.0099,0.0244
@@ -122,11 +116,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-21 09:40:41.581906,Main Markets - Final Round 2 Balls - P. Rodgers v T. Lawrence - Final Round 2 Balls,Thriston Lawrence,-0.017299999999999982,0.4082,0.4255
 2023-05-21 16:41:04.199888,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,-0.017299999999999982,0.5744,0.5917
 2023-05-21 09:40:39.211847,MLS - MLS 2023 - Top Goalscorer,Carlos Vela (LAFC),-0.018200000000000004,0.0294,0.0476
-2023-05-21 09:40:39.211847,MLS - MLS 2023 - Top Goalscorer,Mikael Uhre (PHI),-0.018200000000000004,0.0294,0.0476
 2023-05-21 09:40:39.211847,MLS - MLS 2023 - Top Goalscorer,Joao Klauss (STL),-0.018200000000000004,0.0294,0.0476
+2023-05-21 09:40:39.211847,MLS - MLS 2023 - Top Goalscorer,Mikael Uhre (PHI),-0.018200000000000004,0.0294,0.0476
 2023-05-21 09:40:39.237651,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Fortaleza,-0.01820000000000002,0.1818,0.2
-2023-05-21 09:40:39.232212,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,América Mineiro,-0.01880000000000004,0.5556,0.5744
 2023-05-21 11:40:40.867182,Main Markets - Final Round 2 Balls - C. Morikawa v B. Hossler - Final Round 2 Balls,Collin Morikawa,-0.01880000000000004,0.6364,0.6552
+2023-05-21 09:40:39.232212,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,América Mineiro,-0.01880000000000004,0.5556,0.5744
 2023-05-21 09:40:39.237651,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Athletico Paranaense,-0.019000000000000017,0.2667,0.2857
 2023-05-21 12:40:37.449586,Round Match-Ups - Parlays - Final Round Match-Up - C. Morikawa v D. Johnson - Final Round Match-Up,Collin Morikawa,-0.01970000000000005,0.5455,0.5652
 2023-05-21 09:40:39.205479,MLS - MLS 2023 - Winner,New England Revolution,-0.02020000000000001,0.0909,0.1111
@@ -143,34 +137,33 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-21 12:40:37.564575,Round Scores - Final Round Score - Bryson DeChambeau - Final Round Score,Over 71.5,-0.02169999999999994,0.5238,0.5455
 2023-05-21 18:40:42.723859,Disney Specials - Next Disney CEO - Next Disney CEO After Bob Iger,Adam Silver,-0.021999999999999964,0.2857,0.3077
 2023-05-21 09:40:39.243015,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Fluminense,-0.022199999999999998,0.7778,0.8
+2023-05-21 12:40:37.545862,Round Scores - Final Round Score - Rory McIlroy - Final Round Score,Over 69.5,-0.022600000000000064,0.6,0.6226
+2023-05-21 11:40:40.815634,Main Markets - Final Round 2 Balls - N. Hojgaard v S. Stevens - Final Round 2 Balls ,Nicolai Hojgaard,-0.022600000000000064,0.5122,0.5348
 2023-05-21 10:40:46.052078,Round Match-Ups - Parlays - Final Round Match-Up - E. Cole v V. Perez - Final Round Match-Up,Eric Cole,-0.022600000000000064,0.5122,0.5348
 2023-05-21 10:40:46.193595,Round Scores - Final Round Score - Brooks Koepka - Final Round Score,Under 70.5,-0.022600000000000064,0.5122,0.5348
-2023-05-21 11:40:40.815634,Main Markets - Final Round 2 Balls - N. Hojgaard v S. Stevens - Final Round 2 Balls ,Nicolai Hojgaard,-0.022600000000000064,0.5122,0.5348
-2023-05-21 12:40:37.545862,Round Scores - Final Round Score - Rory McIlroy - Final Round Score,Over 69.5,-0.022600000000000064,0.6,0.6226
 2023-05-21 12:40:37.540219,Round Scores - Final Round Score - Tommy Fleetwood - Final Round Score,Over 71.5,-0.022699999999999998,0.4651,0.4878
 2023-05-21 10:40:46.207302,Round Scores - Final Round Score - Viktor Hovland - Final Round Score,Over 71.5,-0.022699999999999998,0.4651,0.4878
 2023-05-21 09:40:39.205479,MLS - MLS 2023 - Winner,Seattle Sounders,-0.02310000000000001,0.0769,0.1
 2023-05-21 10:40:47.386686,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Ecuador U20,-0.023200000000000002,0.0244,0.0476
-2023-05-21 09:40:39.243015,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Athletico Paranaense,-0.023799999999999988,0.4762,0.5
 2023-05-21 18:40:42.635031,96th Academy Awards - Best Picture - Best Picture,Maestro,-0.023799999999999988,0.1429,0.1667
+2023-05-21 09:40:39.243015,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Athletico Paranaense,-0.023799999999999988,0.4762,0.5
 2023-05-21 11:40:40.980024,Main Markets - Final Round 2 Balls - S. Jaeger v V. Perez - Final Round 2 Balls,Victor Perez,-0.023799999999999988,0.4762,0.5
 2023-05-21 10:40:45.954794,Round Match-Ups - Parlays - Final Round Match-Up - C. Morikawa v D. Johnson - Final Round Match-Up,Dustin Johnson,-0.023799999999999988,0.4762,0.5
 2023-05-21 10:40:45.984075,Round Match-Ups - Parlays - Final Round Match-Up - C. Smith v T. Hatton - Final Round Match-Up,Cameron Smith,-0.023799999999999988,0.4762,0.5
-2023-05-21 13:40:41.864835,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,-0.023800000000000043,0.5,0.5238
 2023-05-21 12:40:37.439173,Round Match-Ups - Parlays - Final Round Match-Up - A. Hadwin v D. Burmester - Final Round Match-Up,Dean Burmester,-0.023800000000000043,0.5,0.5238
+2023-05-21 13:40:41.864835,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,-0.023800000000000043,0.5,0.5238
 2023-05-21 19:40:41.284466,Professional Baseball - NPB 2023 - Outright,Saitama Seibu Lions,-0.024,0.0385,0.0625
 2023-05-21 10:40:45.999004,Round Match-Ups - Parlays - Final Round Match-Up - S. Straka v T. Pendrith - Final Round Match-Up,Taylor Pendrith,-0.024399999999999977,0.4878,0.5122
 2023-05-21 10:40:45.480463,Main Markets - Final Round 2 Balls - M. Wallace v P. Harrington - Final Round 2 Balls,Padraig Harrington,-0.024399999999999977,0.4878,0.5122
 2023-05-21 11:40:40.937435,Main Markets - Final Round 2 Balls - P. Cantlay v S. Theegala - Final Round 2 Balls,Sahith Theegala,-0.024500000000000022,0.3922,0.4167
 2023-05-21 09:40:39.211847,MLS - MLS 2023 - Top Goalscorer,Jordan Morris (SEA),-0.024999999999999994,0.1,0.125
-2023-05-21 10:40:46.185497,Round Scores - Final Round Score - Corey Conners - Final Round Score,Over 71.5,-0.025599999999999956,0.5744,0.6
 2023-05-21 10:40:46.169064,Round Scores - Final Round Score - Scottie Scheffler - Final Round Score,Over 69.5,-0.025599999999999956,0.5744,0.6
-2023-05-21 09:40:39.243015,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Atlético Mineiro,-0.025600000000000067,0.6667,0.6923
+2023-05-21 10:40:46.185497,Round Scores - Final Round Score - Corey Conners - Final Round Score,Over 71.5,-0.025599999999999956,0.5744,0.6
 2023-05-21 09:40:39.251183,A-League - Australia A-League 2022/23 - Grand Final Winner,Melbourne City,-0.025600000000000067,0.6667,0.6923
+2023-05-21 09:40:39.243015,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Atlético Mineiro,-0.025600000000000067,0.6667,0.6923
 2023-05-21 11:40:41.005442,Main Markets - Final Round 2 Balls - S. Scheffler v J. Rose - Final Round 2 Balls,Justin Rose,-0.026500000000000024,0.3509,0.3774
 2023-05-21 17:40:43.168681,96th Academy Awards - Best Actor - Best Actor,Colman Domingo - The Color Purple,-0.02779999999999999,0.2222,0.25
 2023-05-21 13:40:41.847210,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Kari Lake,-0.02779999999999999,0.2222,0.25
-2023-05-21 08:40:45.507576,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Leicester City,-0.027999999999999997,0.1538,0.1818
 2023-05-21 18:40:42.635031,96th Academy Awards - Best Picture - Best Picture,The Killer,-0.028399999999999995,0.0625,0.0909
 2023-05-21 16:41:06.409241,Round Scores - Final Round Score - Corey Conners - Final Round Score,Over 71.5,-0.028900000000000037,0.5455,0.5744
 2023-05-21 11:40:40.736003,Main Markets - Final Round 2 Balls - A. Meronk v P. Larrazabal - Final Round 2 Balls,Pablo Larrazabal,-0.030799999999999994,0.3774,0.4082
@@ -188,8 +181,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-21 18:40:43.913647,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Dallas Cowboys,Under 9.5,-0.05299999999999999,0.4348,0.4878
 2023-05-21 13:40:41.121825,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,James Norton,-0.05550000000000002,0.1667,0.2222
 2023-05-21 16:41:06.420119,Round Scores - Final Round Score - Brooks Koepka - Final Round Score,Over 70.5,-0.05860000000000004,0.4762,0.5348
-2023-05-21 13:40:41.121825,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Aaron Taylor-Johnson,-0.06670000000000004,0.3333,0.4
 2023-05-21 18:40:42.723859,Disney Specials - Next Disney CEO - Next Disney CEO After Bob Iger,Kevin Mayer,-0.06670000000000004,0.3333,0.4
+2023-05-21 13:40:41.121825,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Aaron Taylor-Johnson,-0.06670000000000004,0.3333,0.4
 2023-05-21 16:41:06.391574,Round Scores - Final Round Score - Scottie Scheffler - Final Round Score,Over 69.5,-0.07740000000000002,0.4878,0.5652
 2023-05-21 18:40:42.635031,96th Academy Awards - Best Picture - Best Picture,The Color Purple,-0.07930000000000001,0.1429,0.2222
 2023-05-21 13:40:41.836192,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Ron DeSantis,-0.08329999999999999,0.25,0.3333
@@ -197,8 +190,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-21 16:41:06.342471,Round Scores - Final Round Score - Rory McIlroy - Final Round Score,Over 69.5,-0.09999999999999998,0.5,0.6
 2023-05-21 17:40:43.168681,96th Academy Awards - Best Actor - Best Actor,Joaquin Phoenix - Beau Is Afraid,-0.11109999999999998,0.2222,0.3333
 2023-05-21 10:40:47.341360,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Group A Winner,Uzbekistan U20,-0.11909999999999998,0.0476,0.1667
-2023-05-21 08:40:45.498028,Premier League Futures/Specials - English Premier League 2022/23 - Top 6 Finish,Tottenham Hotspur,-0.15239999999999998,0.0294,0.1818
-2023-05-21 08:40:45.507576,Premier League Futures/Specials - English Premier League 2022/23 - To Stay Up,Everton,-0.23449999999999993,0.6226,0.8571
-2023-05-21 08:40:45.491473,Premier League Futures/Specials - English Premier League 2022/23 - Top 4 Finish,Liverpool,-0.2692,0.0385,0.3077
 2023-05-21 10:40:47.351769,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Group B Winner ,Ecuador U20,-0.2937,0.0909,0.3846
 2023-05-21 09:40:39.182571,1. Bundesliga - Germany Bundesliga 2022/23 - Winner,Bayern Munich,-0.5105000000000001,0.3077,0.8182
