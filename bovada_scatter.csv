@@ -10,6 +10,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-22 10:40:34.329276,Superettan - Superettan 2023 - Winner,Utsiktens,0.052300000000000006,0.1111,0.0588
 2023-05-22 10:40:34.237106,Super Lig - Turkey Super League 22/23 - Outright,Galatasaray,0.04499999999999993,0.9681,0.9231
 2023-05-22 13:40:47.165054,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Hunter Brown (HOU),0.04440000000000001,0.1111,0.0667
+2023-05-22 15:40:39.875336,96th Academy Awards - Best Actor - Best Actor,Leonardo DiCaprio - Killers of the Flower Moon,0.044399999999999995,0.4444,0.4
 2023-05-22 13:40:47.183256,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,James Outman (LAD),0.044399999999999995,0.4444,0.4
 2023-05-22 06:40:39.259837,NBA Awards - Eastern Conference Finals MVP - ECF MVP,Jayson Tatum (BOS),0.04329999999999999,0.0909,0.0476
 2023-05-22 14:40:45.933989,MLB Daily Specials - MLB Daily Specials - Monday 22nd May - Later Games,"Jarren Duran, Esteury Ruiz and Julio Rodriguez 1+ Combined Stolen Bases",0.043200000000000016,0.6923,0.6491
@@ -18,8 +19,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-22 13:40:46.991056,USFL - Odds to win 2023 USFL Championship - Championship Winner,Houston Gamblers,0.033399999999999985,0.1667,0.1333
 2023-05-22 12:40:33.646945,Bundesliga - Bundesliga 2022/23 - Outright,Bayern Munich,0.03210000000000002,0.4167,0.3846
 2023-05-22 13:40:47.157770,MLB Futures - MLB 2023 Player Awards - American League MVP,Shohei Ohtani (LAA),0.03179999999999994,0.5556,0.5238
-2023-05-22 12:40:33.646945,Bundesliga - Bundesliga 2022/23 - Outright,Ludwigsburg,0.0294,0.0588,0.0294
 2023-05-22 12:40:33.646945,Bundesliga - Bundesliga 2022/23 - Outright,ratiopharm Ulm,0.0294,0.0588,0.0294
+2023-05-22 12:40:33.646945,Bundesliga - Bundesliga 2022/23 - Outright,Ludwigsburg,0.0294,0.0588,0.0294
 2023-05-22 10:40:34.467663,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Colombia U20,0.0286,0.1,0.0714
 2023-05-22 13:40:46.991056,USFL - Odds to win 2023 USFL Championship - Championship Winner,Birmingham Stallions,0.02779999999999999,0.25,0.2222
 2023-05-22 14:40:45.983313,MLB Futures - MLB 2023 National League Central - National League Central Winner,St. Louis Cardinals,0.02560000000000001,0.3333,0.3077
@@ -31,8 +32,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-22 10:40:34.467663,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Nigeria U20,0.0203,0.0588,0.0385
 2023-05-22 05:40:41.774372,MLB Futures - MLB 2023 American League Central - American League Central Winner,Chicago White Sox,0.019099999999999992,0.0667,0.0476
 2023-05-22 10:40:34.329276,Superettan - Superettan 2023 - Winner,Västerås SK,0.019000000000000017,0.2857,0.2667
-2023-05-22 06:40:37.198581,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,0.01880000000000004,0.6552,0.6364
 2023-05-22 08:40:39.461509,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,River Plate,0.01880000000000004,0.6552,0.6364
+2023-05-22 06:40:37.198581,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,0.01880000000000004,0.6552,0.6364
 2023-05-22 13:40:47.143600,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Shane McClanahan (TB),0.01820000000000002,0.2,0.1818
 2023-05-22 14:40:45.933989,MLB Daily Specials - MLB Daily Specials - Monday 22nd May - Later Games,"Jarren Duran, Esteury Ruiz and Julio Rodriguez 3+ Combined Stolen Bases",0.0169,0.125,0.1081
 2023-05-22 06:40:37.198581,MLB Futures - MLB 2023 American League East - American League East Winner,Baltimore Orioles,0.016700000000000007,0.1,0.0833
@@ -42,11 +43,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-22 06:40:37.198581,MLB Futures - MLB 2023 American League East - American League East Winner,Boston Red Sox,0.014099999999999998,0.0385,0.0244
 2023-05-22 06:40:37.211580,MLB Futures - MLB 2023 National League Central - National League Central Winner,St. Louis Cardinals,0.013600000000000001,0.3077,0.2941
 2023-05-22 13:40:47.171030,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Zac Gallen,0.01150000000000001,0.3448,0.3333
-2023-05-22 08:40:39.461509,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,Atlético Lanús,0.011199999999999995,0.0588,0.0476
-2023-05-22 06:40:39.269830,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Jayson Tatum (BOS),0.011199999999999995,0.0588,0.0476
 2023-05-22 03:40:42.002051,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Boston Celtics,0.011199999999999995,0.0588,0.0476
-2023-05-22 10:40:34.467663,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Italy U20,0.011099999999999999,0.1111,0.1
+2023-05-22 06:40:39.269830,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Jayson Tatum (BOS),0.011199999999999995,0.0588,0.0476
+2023-05-22 08:40:39.461509,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,Atlético Lanús,0.011199999999999995,0.0588,0.0476
 2023-05-22 12:40:33.640166,LNB Pro A - LNB Pro A 2022/23 - Outright,Boulogne-Levallois,0.011099999999999999,0.1111,0.1
+2023-05-22 10:40:34.467663,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Italy U20,0.011099999999999999,0.1111,0.1
 2023-05-22 10:40:34.467663,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Ecuador U20,0.010100000000000001,0.0345,0.0244
 2023-05-22 10:40:33.790088,Boxing Lines - Mauricio Lara vs Leigh Wood - To Win the Bout,Leigh Wood,0.010099999999999998,0.3226,0.3125
 2023-05-22 12:40:33.640166,LNB Pro A - LNB Pro A 2022/23 - Outright,Le Mans Sarthe Basket,-0.010100000000000001,0.0244,0.0345
@@ -67,7 +68,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-22 10:40:34.467663,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Uruguay U20,-0.02020000000000001,0.0909,0.1111
 2023-05-22 06:40:39.100289,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Denver Nuggets,-0.02080000000000004,0.6667,0.6875
 2023-05-22 10:40:34.193608,Allsvenskan - Allsvenskan 2023 - Winner,Malmö FF,-0.02200000000000002,0.6923,0.7143
+2023-05-22 15:40:39.875336,96th Academy Awards - Best Actor - Best Actor,Colman Domingo - The Color Purple,-0.022199999999999998,0.2,0.2222
 2023-05-22 08:40:39.368079,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Palmeiras,-0.023799999999999988,0.4762,0.5
+2023-05-22 15:40:39.875336,96th Academy Awards - Best Actor - Best Actor,Paul Giamatti - The Holdovers,-0.023799999999999988,0.1429,0.1667
 2023-05-22 10:40:34.467663,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Senegal U20,-0.0238,0.0476,0.0714
 2023-05-22 12:40:33.640166,LNB Pro A - LNB Pro A 2022/23 - Outright,JDA Dijon,-0.024299999999999995,0.0345,0.0588
 2023-05-22 14:40:45.983313,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,-0.025599999999999956,0.5744,0.6
