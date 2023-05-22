@@ -1,6 +1,8 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-21 23:40:52.201045,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Tigres UANL,0.37760000000000005,0.4545,0.0769
 2023-05-21 22:40:40.137947,1. Bundesliga - Germany Bundesliga 2022/23 - Winner,Borussia Dortmund,0.15000000000000002,0.9,0.75
+2023-05-22 02:40:41.010596,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Nikola Jokic (DEN),0.13639999999999997,0.6364,0.5
+2023-05-22 02:40:41.010596,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Jimmy Butler (MIA),0.1363,0.303,0.1667
 2023-05-21 16:41:06.342471,Round Scores - Final Round Score - Rory McIlroy - Final Round Score,Under 69.5,0.10010000000000002,0.5652,0.4651
 2023-05-21 23:40:52.201045,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Club América,0.09999999999999998,0.6,0.5
 2023-05-22 01:40:40.067724,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Miami Heat,0.07619999999999999,0.2667,0.1905
@@ -11,67 +13,60 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-21 18:40:43.913647,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Dallas Cowboys,Over 9.5,0.05520000000000003,0.6296,0.5744
 2023-05-21 18:40:42.635031,96th Academy Awards - Best Picture - Best Picture,Killers Of The Flower Moon,0.047599999999999976,0.3333,0.2857
 2023-05-21 16:41:06.400155,Round Scores - Final Round Score - Bryson DeChambeau - Final Round Score,Under 71.5,0.04620000000000002,0.5917,0.5455
-2023-05-21 13:40:41.805440,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Field,0.04580000000000001,0.3125,0.2667
+2023-05-22 02:40:40.862157,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Miami Heat,0.04580000000000001,0.3125,0.2667
 2023-05-21 16:41:04.199888,MLB Futures - MLB 2023 National League Central - National League Central Winner,St. Louis Cardinals,0.04409999999999997,0.2941,0.25
 2023-05-21 18:40:42.635031,96th Academy Awards - Best Picture - Best Picture,Oppenheimer,0.03920000000000001,0.3333,0.2941
+2023-05-22 02:40:41.010596,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Jamal Murray (DEN),0.03860000000000001,0.1053,0.0667
 2023-05-21 16:41:06.409241,Round Scores - Final Round Score - Corey Conners - Final Round Score,Under 71.5,0.03600000000000003,0.5238,0.4878
 2023-05-22 01:40:40.067724,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Denver Nuggets,0.030299999999999994,0.6667,0.6364
 2023-05-21 22:40:40.080240,Futures - The Masters 2024 - Winner,Brooks Koepka,0.029299999999999993,0.0769,0.0476
 2023-05-21 16:41:06.244043,Round Match-Ups - Parlays - Final Round Match-Up - B. DeChambeau v M.W. Lee - Final Round Match-Up,Bryson DeChambeau,0.024499999999999966,0.6078,0.5833
 2023-05-21 23:40:51.756950,Futures - US Open 2023 - Winner,Brooks Koepka,0.0242,0.0909,0.0667
-2023-05-21 13:40:41.847210,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Sarah Huckabee Sanders,0.024,0.0625,0.0385
-2023-05-21 13:40:43.355413,Round Scores - Final Round Score - Brooks Koepka - Final Round Score,Under 70.5,0.022600000000000064,0.5348,0.5122
 2023-05-21 16:41:06.430654,Round Scores - Final Round Score - Viktor Hovland - Final Round Score,Under 71.5,0.022600000000000064,0.6226,0.6
 2023-05-21 16:41:06.332588,Round Scores - Final Round Score - Tommy Fleetwood - Final Round Score,Under 71.5,0.022600000000000064,0.6226,0.6
 2023-05-21 16:41:06.382222,Round Scores - Final Round Score - Justin Rose - Final Round Score,Under 71.5,0.02169999999999994,0.5455,0.5238
+2023-05-22 02:40:40.862157,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Denver Nuggets,0.02080000000000004,0.6875,0.6667
 2023-05-21 18:40:42.635031,96th Academy Awards - Best Picture - Best Picture,Asteroid City,0.02020000000000001,0.1111,0.0909
 2023-05-21 16:41:06.284940,Round Match-Ups - Parlays - Final Round Match-Up - J. Suh v M. Block - Final Round Match-Up,Justin Suh,0.018999999999999906,0.7333,0.7143
 2023-05-21 16:41:06.295620,Round Match-Ups - Parlays - Final Round Match-Up - S. Scheffler v R. McIlroy - Final Round Match-Up,Scottie Scheffler,0.018100000000000005,0.5833,0.5652
 2023-05-21 19:40:41.284466,Professional Baseball - NPB 2023 - Outright,Chiba Lotte Marines,0.0179,0.1429,0.125
 2023-05-21 16:41:04.199888,MLB Futures - MLB 2023 National League Central - National League Central Winner,Pittsburgh Pirates,0.016700000000000007,0.1,0.0833
-2023-05-21 13:40:41.825225,US Presidential Election 2024 - US Presidential Election 2024 - Party Of Popular Vote Winner - Party of Popular Vote Winner,Republican,0.016699999999999993,0.2667,0.25
-2023-05-21 13:40:41.878653,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,"Robert Kennedy, Jr",0.011199999999999995,0.0588,0.0476
-2023-05-21 13:40:41.836192,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Nikki Haley,-0.010700000000000001,0.0278,0.0385
 2023-05-21 22:40:40.040522,Futures - US Open 2023 - Winner,Jon Rahm,-0.011099999999999999,0.1,0.1111
 2023-05-21 16:41:06.295620,Round Match-Ups - Parlays - Final Round Match-Up - S. Scheffler v R. McIlroy - Final Round Match-Up,Rory McIlroy,-0.011099999999999999,0.4651,0.4762
-2023-05-21 22:40:40.040522,Futures - US Open 2023 - Winner,Collin Morikawa,-0.011199999999999995,0.0476,0.0588
 2023-05-21 22:40:40.040522,Futures - US Open 2023 - Winner,Justin Thomas,-0.011199999999999995,0.0476,0.0588
-2023-05-21 13:40:41.836192,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Tucker Carlson,-0.012700000000000003,0.0196,0.0323
-2023-05-21 18:40:42.723859,Disney Specials - Next Disney CEO - Next Disney CEO After Bob Iger,Jimmy Pitaro,-0.013999999999999999,0.0769,0.0909
+2023-05-21 22:40:40.040522,Futures - US Open 2023 - Winner,Collin Morikawa,-0.011199999999999995,0.0476,0.0588
 2023-05-21 18:40:42.723859,Disney Specials - Next Disney CEO - Next Disney CEO After Bob Iger,Alan Bergman,-0.013999999999999999,0.0769,0.0909
+2023-05-21 18:40:42.723859,Disney Specials - Next Disney CEO - Next Disney CEO After Bob Iger,Jimmy Pitaro,-0.013999999999999999,0.0769,0.0909
 2023-05-21 22:40:40.040522,Futures - US Open 2023 - Winner,Jordan Spieth,-0.014100000000000001,0.0385,0.0526
-2023-05-21 13:40:41.825225,US Presidential Election 2024 - US Presidential Election 2024 - Party Of Popular Vote Winner - Party of Popular Vote Winner,Democratic,-0.015100000000000002,0.8182,0.8333
 2023-05-21 17:40:43.168681,96th Academy Awards - Best Actor - Best Actor,Paul Giamatti - The Holdovers,-0.015100000000000002,0.1667,0.1818
 2023-05-21 16:41:04.199888,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,-0.017299999999999982,0.5744,0.5917
-2023-05-21 16:41:06.244043,Round Match-Ups - Parlays - Final Round Match-Up - B. DeChambeau v M.W. Lee - Final Round Match-Up,Min Woo Lee,-0.020699999999999996,0.4444,0.4651
 2023-05-21 16:41:06.332588,Round Scores - Final Round Score - Tommy Fleetwood - Final Round Score,Over 71.5,-0.020699999999999996,0.4444,0.4651
 2023-05-21 16:41:06.430654,Round Scores - Final Round Score - Viktor Hovland - Final Round Score,Over 71.5,-0.020699999999999996,0.4444,0.4651
-2023-05-21 13:40:43.355413,Round Scores - Final Round Score - Brooks Koepka - Final Round Score,Over 70.5,-0.02079999999999993,0.5348,0.5556
+2023-05-21 16:41:06.244043,Round Match-Ups - Parlays - Final Round Match-Up - B. DeChambeau v M.W. Lee - Final Round Match-Up,Min Woo Lee,-0.020699999999999996,0.4444,0.4651
 2023-05-21 16:41:06.284940,Round Match-Ups - Parlays - Final Round Match-Up - J. Suh v M. Block - Final Round Match-Up,Michael Block,-0.020799999999999985,0.3125,0.3333
 2023-05-21 16:41:06.382222,Round Scores - Final Round Score - Justin Rose - Final Round Score,Over 71.5,-0.02169999999999994,0.5238,0.5455
 2023-05-21 18:40:42.723859,Disney Specials - Next Disney CEO - Next Disney CEO After Bob Iger,Adam Silver,-0.021999999999999964,0.2857,0.3077
+2023-05-22 02:40:41.010596,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Jaylen Brown (BOS),-0.022099999999999998,0.0164,0.0385
 2023-05-21 22:40:40.040522,Futures - US Open 2023 - Winner,Cameron Young,-0.023200000000000002,0.0244,0.0476
 2023-05-21 18:40:42.635031,96th Academy Awards - Best Picture - Best Picture,Maestro,-0.023799999999999988,0.1429,0.1667
-2023-05-21 13:40:41.864835,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,-0.023800000000000043,0.5,0.5238
 2023-05-21 19:40:41.284466,Professional Baseball - NPB 2023 - Outright,Saitama Seibu Lions,-0.024,0.0385,0.0625
 2023-05-21 22:40:40.040522,Futures - US Open 2023 - Winner,Brooks Koepka,-0.0242,0.0667,0.0909
-2023-05-21 13:40:41.847210,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Kari Lake,-0.02779999999999999,0.2222,0.25
 2023-05-21 17:40:43.168681,96th Academy Awards - Best Actor - Best Actor,Colman Domingo - The Color Purple,-0.02779999999999999,0.2222,0.25
 2023-05-21 18:40:42.635031,96th Academy Awards - Best Picture - Best Picture,The Killer,-0.028399999999999995,0.0625,0.0909
 2023-05-21 16:41:06.409241,Round Scores - Final Round Score - Corey Conners - Final Round Score,Over 71.5,-0.028900000000000037,0.5455,0.5744
-2023-05-21 13:40:41.878653,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Ron DeSantis,-0.04620000000000002,0.1538,0.2
+2023-05-22 02:40:41.010596,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Anthony Davis (LAL),-0.04239999999999999,0.0164,0.0588
 2023-05-21 16:41:06.400155,Round Scores - Final Round Score - Bryson DeChambeau - Final Round Score,Over 71.5,-0.04760000000000003,0.4762,0.5238
-2023-05-21 13:40:41.836192,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Donald Trump,-0.04760000000000009,0.6667,0.7143
 2023-05-21 16:41:04.199888,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,-0.04909999999999999,0.1176,0.1667
-2023-05-21 13:40:41.805440,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.050000000000000044,0.75,0.8
 2023-05-21 18:40:43.913647,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Dallas Cowboys,Under 9.5,-0.05299999999999999,0.4348,0.4878
+2023-05-22 02:40:41.010596,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,LeBron James (LAL),-0.053500000000000006,0.0179,0.0714
 2023-05-21 16:41:06.420119,Round Scores - Final Round Score - Brooks Koepka - Final Round Score,Over 70.5,-0.05860000000000004,0.4762,0.5348
 2023-05-21 18:40:42.723859,Disney Specials - Next Disney CEO - Next Disney CEO After Bob Iger,Kevin Mayer,-0.06670000000000004,0.3333,0.4
+2023-05-22 02:40:40.862157,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Boston Celtics,-0.06999999999999999,0.0476,0.1176
 2023-05-21 16:41:06.391574,Round Scores - Final Round Score - Scottie Scheffler - Final Round Score,Over 69.5,-0.07740000000000002,0.4878,0.5652
 2023-05-21 18:40:42.635031,96th Academy Awards - Best Picture - Best Picture,The Color Purple,-0.07930000000000001,0.1429,0.2222
-2023-05-21 13:40:41.836192,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Ron DeSantis,-0.08329999999999999,0.25,0.3333
 2023-05-21 16:41:06.342471,Round Scores - Final Round Score - Rory McIlroy - Final Round Score,Over 69.5,-0.09999999999999998,0.5,0.6
 2023-05-21 22:40:40.137947,1. Bundesliga - Germany Bundesliga 2022/23 - Winner,Bayern Munich,-0.10769999999999996,0.2,0.3077
 2023-05-21 17:40:43.168681,96th Academy Awards - Best Actor - Best Actor,Joaquin Phoenix - Beau Is Afraid,-0.11109999999999998,0.2222,0.3333
 2023-05-22 01:40:40.067724,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Boston Celtics,-0.13240000000000002,0.1176,0.25
 2023-05-21 23:40:52.201045,Liga MX - Clausura - Liga MX - Clausura 2023 - Winner,Chivas Guadalajara,-0.1453,0.0769,0.2222
+2023-05-22 02:40:41.010596,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Jayson Tatum (BOS),-0.1629,0.0476,0.2105
