@@ -23,6 +23,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-24 09:40:38.743341,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Uruguay U20,0.02020000000000001,0.1111,0.0909
 2023-05-24 09:40:38.743341,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Republic of Korea U20,0.0189,0.0385,0.0196
 2023-05-24 05:40:37.622559,MLB Futures - MLB 2023 American League East - American League East Winner,New York Yankees,0.01820000000000002,0.2,0.1818
+2023-05-24 11:40:31.590825,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Ron DeSantis,0.015300000000000001,0.0588,0.0435
 2023-05-23 23:40:36.913196,Boxing Lines - Campbell Somerville vs Isaias Sette - To Win the Bout,Campbell Somerville,0.0131,0.7778,0.7647
 2023-05-24 10:40:42.248752,Boxing Lines - Sam Eggington vs Joe Pigford - To Win the Bout,Sam Eggington,0.010599999999999998,0.4651,0.4545
 2023-05-24 01:40:34.164565,Boxing Lines - Jayde Mitchell vs Max Reeves - To Win the Bout,Jayde Mitchell,0.010099999999999998,0.6875,0.6774
@@ -44,8 +45,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-24 02:40:39.671651,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Miami Heat,-0.02779999999999999,0.25,0.2778
 2023-05-24 04:40:37.114753,Boxing Lines - Tim Tszyu vs Carlos Ocampo - To Win the Bout,Carlos Ocampo,-0.027999999999999997,0.1538,0.1818
 2023-05-24 09:40:38.735214,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Group E Winner ,Tunisia U20,-0.0312,0.0123,0.0435
-2023-05-24 03:40:38.993605,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Denver Nuggets,-0.035699999999999954,0.7143,0.75
 2023-05-24 05:40:37.616070,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,-0.035699999999999954,0.7143,0.75
+2023-05-24 03:40:38.993605,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Denver Nuggets,-0.035699999999999954,0.7143,0.75
 2023-05-24 09:40:38.735214,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Group E Winner ,Iraq U20,-0.036199999999999996,0.0164,0.0526
 2023-05-24 03:40:38.986289,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Miami Heat,-0.050000000000000044,0.75,0.8
 2023-05-24 05:40:37.635572,MLB Futures - MLB 2023 National League Central - National League Central Winner,St. Louis Cardinals,-0.06659999999999999,0.2667,0.3333
