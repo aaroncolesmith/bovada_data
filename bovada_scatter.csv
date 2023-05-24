@@ -1,5 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-23 18:40:38.235510,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Championship - Conference To Win,Western Conference,0.25,0.75,0.5
+2023-05-24 02:40:39.664791,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Boston Celtics,0.1389,0.25,0.1111
 2023-05-23 17:40:44.752994,Succession Specials - Season 4 Specials - Season 4 Specials,Waystar to acquire GoJo by the end of the 4th season,0.11219999999999997,0.5122,0.4
 2023-05-23 17:40:44.744682,Succession Specials - Waystar CEO At The End Of The 4th Season - Waystar CEO At The End Of The 4th Season,Kendall Roy,0.09040000000000004,0.5348,0.4444
 2023-05-23 17:40:44.744682,Succession Specials - Waystar CEO At The End Of The 4th Season - Waystar CEO At The End Of The 4th Season,Shiv Roy,0.0889,0.2,0.1111
@@ -7,11 +8,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-23 19:40:56.558894,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,Anantomy of a Fall (Justine Triet),0.066,0.1429,0.0769
 2023-05-23 19:40:56.474247,Box Office Specials - Indiana Jones 5 Rotten Tomatoes Rating July 1st 2023 - Indiana Jones 5 Special,Under 50%,0.0635,0.2857,0.2222
 2023-05-23 17:40:44.752994,Succession Specials - Season 4 Specials - Season 4 Specials,GoJo to acquire Waystar by the end of the 4th season,0.05980000000000002,0.4444,0.3846
+2023-05-24 02:40:39.671651,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Boston Celtics,0.052300000000000006,0.1111,0.0588
 2023-05-23 19:40:57.586422,KLM Open - 2/3 Balls - 1st Round 3 Balls - J. Smith / G. Migliozzi / D. van Driel - Outright,Jordan Smith,0.045499999999999985,0.5,0.4545
 2023-05-23 17:40:44.744682,Succession Specials - Waystar CEO At The End Of The 4th Season - Waystar CEO At The End Of The 4th Season,Gerri Kellman,0.04329999999999999,0.0909,0.0476
 2023-05-23 18:40:37.334746,Box Office Specials - Indiana Jones 5 Rotten Tomatoes Rating July 1st 2023 - Indiana Jones 5 Special,Under 50%,0.04040000000000002,0.2222,0.1818
 2023-05-23 19:40:56.634216,The Kardashians - When will Kendall Jenner & Bad Bunny confirm they have split? - Kendall Jenner & Bad Bunny,September 2023 or later,0.030399999999999983,0.5652,0.5348
 2023-05-23 16:40:49.595050,Boxing Lines - Jayde Mitchell vs Max Reeves - To Win the Bout,Max Reeves,0.026500000000000024,0.3774,0.3509
+2023-05-24 02:40:39.396133,Boxing Lines - Campbell Somerville vs Isaias Sette - To Win the Bout,Campbell Somerville,0.0260999999999999,0.8261,0.8
 2023-05-23 16:40:49.768185,Boxing Lines - Oscar Collazo vs Melvin Jerusalem - To Win the Bout,Melvin Jerusalem,0.0252,0.303,0.2778
 2023-05-23 22:40:36.755554,Boxing Lines - Oscar Collazo vs Melvin Jerusalem - To Win the Bout,Oscar Collazo,0.024799999999999933,0.7895,0.7647
 2023-05-24 01:40:35.678229,Tournament Match-Ups - Tournament Match-Up - J. Rose vs T. Fleetwood - Tournament Match-Up,Tommy Fleetwood,0.023800000000000043,0.5238,0.5
@@ -24,13 +27,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-23 17:40:44.961649,Boxing Lines - Jayde Mitchell vs Max Reeves - To Win the Bout,Jayde Mitchell,0.018399999999999972,0.7059,0.6875
 2023-05-23 17:40:45.004354,Boxing Lines - Aqib Fiaz vs Costin Ion - To Win the Bout,Aqib Fiaz,0.018100000000000005,0.9655,0.9474
 2023-05-23 16:40:49.741653,Boxing Lines - Nick Ball vs Ludumo Lamati - To Win the Bout,Nick Ball,0.018100000000000005,0.9412,0.9231
-2023-05-23 13:40:36.157497,Boxing Lines - Joseph Parker vs Faiga Opelu - To Win the Bout,Joseph Parker,0.018100000000000005,0.9412,0.9231
 2023-05-23 19:40:56.558894,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,Monster (Hirokazu Kore-eda),0.018099999999999998,0.0769,0.0588
 2023-05-23 19:40:57.684122,Visit Knoxville Open - Visit Knoxville Open - Winner,Max Greyserman,0.017800000000000003,0.0244,0.0066
 2023-05-23 18:40:37.408744,Disney Specials - Bob Iger CEO Exit Date - Proposition,2024,0.016699999999999993,0.2667,0.25
 2023-05-23 16:40:49.390810,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Boston Celtics,0.015700000000000006,0.1333,0.1176
 2023-05-23 17:40:44.599628,Box Office Specials - Indiana Jones 5 Rotten Tomatoes Rating July 1st 2023 - Indiana Jones 5 Special,Under 50%,0.015100000000000002,0.1818,0.1667
-2023-05-23 13:40:36.118711,Boxing Lines - Campbell Somerville vs Isaias Sette - To Win the Bout,Campbell Somerville,0.014700000000000046,0.7647,0.75
 2023-05-23 15:40:32.618061,MLB Futures - MLB 2023 National League Central - National League Central Winner,Pittsburgh Pirates,0.01440000000000001,0.1053,0.0909
 2023-05-23 22:40:36.750291,Boxing Lines - Alexis Rocha vs Anthony Young - To Win the Bout,Alexis Rocha,0.014100000000000001,0.9474,0.9333
 2023-05-23 22:40:36.610463,Boxing Lines - Nikita Tszyu vs Benjamin Bommber - To Win the Bout,Nikita Tszyu,0.0131,0.9655,0.9524
@@ -44,16 +45,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-23 16:40:49.752071,Boxing Lines - Lawrence Okolie vs Chris Billam-Smith - To Win the Bout,Lawrence Okolie,0.010199999999999987,0.8039,0.7937
 2023-05-24 01:40:34.164565,Boxing Lines - Jayde Mitchell vs Max Reeves - To Win the Bout,Jayde Mitchell,0.010099999999999998,0.6875,0.6774
 2023-05-23 23:40:36.930303,Boxing Lines - Jayde Mitchell vs Max Reeves - To Win the Bout,Jayde Mitchell,-0.010099999999999998,0.6774,0.6875
+2023-05-24 02:40:39.415422,Boxing Lines - Joel Taylor vs Ben Horn - To Win the Bout,Ben Horn,-0.0102,0.0667,0.0769
 2023-05-23 19:40:56.558894,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,May December (Todd Haynes),-0.0102,0.0667,0.0769
-2023-05-23 17:40:45.773092,2022/23 NBA Championship - 2022-2023 NBA Championship - Exact Outcome,DEN Nuggets to beat BOS Celtics,-0.0102,0.0667,0.0769
 2023-05-23 19:40:56.558894,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,Club Zero (Jessica Hausner),-0.0102,0.0667,0.0769
+2023-05-23 17:40:45.773092,2022/23 NBA Championship - 2022-2023 NBA Championship - Exact Outcome,DEN Nuggets to beat BOS Celtics,-0.0102,0.0667,0.0769
 2023-05-23 17:40:45.102429,Boxing Lines - Sam Eggington vs Joe Pigford - To Win the Bout,Sam Eggington,-0.010599999999999998,0.4545,0.4651
 2023-05-23 16:40:49.752071,Boxing Lines - Lawrence Okolie vs Chris Billam-Smith - To Win the Bout,Chris Billam-Smith,-0.010800000000000032,0.2632,0.274
 2023-05-23 19:40:57.586422,KLM Open - 2/3 Balls - 1st Round 3 Balls - J. Smith / G. Migliozzi / D. van Driel - Outright,Guido Migliozzi,-0.012699999999999989,0.3509,0.3636
 2023-05-23 19:40:56.558894,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,Youth (Spring) (Wang Bing),-0.012700000000000003,0.0196,0.0323
 2023-05-23 19:40:56.558894,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,Banel & Adama (Ramata-Toulaye Sy),-0.012700000000000003,0.0196,0.0323
-2023-05-23 18:40:37.408744,Disney Specials - Bob Iger CEO Exit Date - Proposition,2023,-0.012899999999999995,0.1538,0.1667
 2023-05-23 17:40:45.032346,Boxing Lines - Anthony Cacace vs Damian Wrzesinski - To Win the Bout,Damian Wrzesinski,-0.012899999999999995,0.1538,0.1667
+2023-05-23 18:40:37.408744,Disney Specials - Bob Iger CEO Exit Date - Proposition,2023,-0.012899999999999995,0.1538,0.1667
 2023-05-23 17:40:45.109368,Boxing Lines - Terri Harper vs Ivana Habazin - To Win the Bout,Ivana Habazin,-0.012899999999999995,0.1538,0.1667
 2023-05-23 22:40:36.750291,Boxing Lines - Alexis Rocha vs Anthony Young - To Win the Bout,Anthony Young,-0.013899999999999996,0.1111,0.125
 2023-05-23 22:40:36.644143,Boxing Lines - Padraig McCrory vs Diego Ramirez - To Win the Bout,Diego Ramirez,-0.013999999999999999,0.0769,0.0909
@@ -69,13 +71,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-24 01:40:35.678229,Tournament Match-Ups - Tournament Match-Up - J. Rose vs T. Fleetwood - Tournament Match-Up,Justin Rose,-0.01970000000000005,0.5455,0.5652
 2023-05-23 19:40:56.558894,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,Kidnapped (Marco Bellocchio),-0.0203,0.0385,0.0588
 2023-05-23 17:40:44.961649,Boxing Lines - Jayde Mitchell vs Max Reeves - To Win the Bout,Max Reeves,-0.02030000000000004,0.3571,0.3774
-2023-05-23 17:40:44.744682,Succession Specials - Waystar CEO At The End Of The 4th Season - Waystar CEO At The End Of The 4th Season,Greg Hirsch,-0.022199999999999998,0.1111,0.1333
 2023-05-24 01:40:35.459202,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Boston Celtics,-0.022199999999999998,0.1111,0.1333
-2023-05-23 19:40:56.558894,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,About Dry Grasses (Nuri Bilge Ceylan),-0.02310000000000001,0.0769,0.1
+2023-05-23 17:40:44.744682,Succession Specials - Waystar CEO At The End Of The 4th Season - Waystar CEO At The End Of The 4th Season,Greg Hirsch,-0.022199999999999998,0.1111,0.1333
 2023-05-23 16:40:49.398654,2022/23 NBA Championship - 2022-2023 NBA Championship - Exact Outcome,DEN Nuggets to beat BOS Celtics,-0.02310000000000001,0.0769,0.1
+2023-05-23 19:40:56.558894,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,About Dry Grasses (Nuri Bilge Ceylan),-0.02310000000000001,0.0769,0.1
 2023-05-23 16:40:49.768185,Boxing Lines - Oscar Collazo vs Melvin Jerusalem - To Win the Bout,Oscar Collazo,-0.024799999999999933,0.7647,0.7895
 2023-05-23 22:40:36.755554,Boxing Lines - Oscar Collazo vs Melvin Jerusalem - To Win the Bout,Melvin Jerusalem,-0.0252,0.2778,0.303
+2023-05-24 02:40:39.396133,Boxing Lines - Campbell Somerville vs Isaias Sette - To Win the Bout,Isaias Sette,-0.0257,0.241,0.2667
 2023-05-23 16:40:49.595050,Boxing Lines - Jayde Mitchell vs Max Reeves - To Win the Bout,Jayde Mitchell,-0.026800000000000046,0.6875,0.7143
+2023-05-24 02:40:39.671651,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Miami Heat,-0.02779999999999999,0.25,0.2778
 2023-05-23 17:40:44.752994,Succession Specials - Season 4 Specials - Season 4 Specials,Kendall to go to prison as a convicted felon by the end of the 4th season,-0.029299999999999993,0.0476,0.0769
 2023-05-23 19:40:56.634216,The Kardashians - When will Kendall Jenner & Bad Bunny confirm they have split? - Kendall Jenner & Bad Bunny,Before September 2023,-0.03179999999999994,0.5238,0.5556
 2023-05-23 18:40:37.408744,Disney Specials - Bob Iger CEO Exit Date - Proposition,2026 or later,-0.031799999999999995,0.4444,0.4762
@@ -86,5 +90,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-23 19:40:56.558894,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,The Pot au Feu (Tran Anh Hung),-0.056400000000000006,0.0769,0.1333
 2023-05-23 19:40:56.474247,Box Office Specials - Indiana Jones 5 Rotten Tomatoes Rating July 1st 2023 - Indiana Jones 5 Special,50% or over,-0.05709999999999993,0.8,0.8571
 2023-05-23 15:40:32.618061,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,-0.06440000000000001,0.5652,0.6296
+2023-05-24 02:40:39.664791,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Miami Heat,-0.12309999999999999,0.8,0.9231
 2023-05-23 17:40:44.744682,Succession Specials - Waystar CEO At The End Of The 4th Season - Waystar CEO At The End Of The 4th Season,Roman Roy,-0.1238,0.1429,0.2667
 2023-05-23 18:40:38.235510,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Championship - Conference To Win,Eastern Conference,-0.2795,0.2857,0.5652
