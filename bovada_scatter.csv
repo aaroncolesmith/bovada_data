@@ -8,6 +8,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-24 03:40:38.993605,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Boston Celtics,0.05559999999999998,0.1667,0.1111
 2023-05-24 02:40:39.671651,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Boston Celtics,0.052300000000000006,0.1111,0.0588
 2023-05-24 09:40:38.739062,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Group F Winner,Gambia U20,0.04909999999999999,0.1667,0.1176
+2023-05-24 12:40:36.908395,Main Markets - 1st Round 3 Balls - M. Homa / K. Kisner / Z. Johnson - 1st Round 3 Balls,Zach Johnson,0.0363,0.303,0.2667
 2023-05-24 03:40:38.986289,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Boston Celtics,0.03570000000000001,0.2857,0.25
 2023-05-24 05:40:37.635572,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,0.03479999999999994,0.6,0.5652
 2023-05-24 09:40:38.723003,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Group B Winner ,Ecuador U20,0.034100000000000005,0.125,0.0909
@@ -18,21 +19,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-24 02:40:39.396133,Boxing Lines - Campbell Somerville vs Isaias Sette - To Win the Bout,Campbell Somerville,0.0260999999999999,0.8261,0.8
 2023-05-24 09:40:38.719080,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Group A Winner,New Zealand U20,0.0257,0.1026,0.0769
 2023-05-24 01:40:35.678229,Tournament Match-Ups - Tournament Match-Up - J. Rose vs T. Fleetwood - Tournament Match-Up,Tommy Fleetwood,0.023800000000000043,0.5238,0.5
+2023-05-24 12:40:36.940989,Main Markets - 1st Round 3 Balls - M. Block / M.W. Lee / P. Coody - 1st Round 3 Balls,Min Woo Lee,0.023799999999999988,0.5,0.4762
 2023-05-24 01:40:34.147907,Boxing Lines - Campbell Somerville vs Isaias Sette - To Win the Bout,Campbell Somerville,0.022199999999999998,0.8,0.7778
 2023-05-24 06:40:38.298654,Main Markets - 1st Round 3 Balls - D. Frittelli / C. Gribble / E. Grillo - 1st Round 3 Balls,Emiliano Grillo,0.02079999999999993,0.5556,0.5348
 2023-05-24 09:40:38.743341,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Uruguay U20,0.02020000000000001,0.1111,0.0909
 2023-05-24 09:40:38.743341,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Republic of Korea U20,0.0189,0.0385,0.0196
 2023-05-24 05:40:37.622559,MLB Futures - MLB 2023 American League East - American League East Winner,New York Yankees,0.01820000000000002,0.2,0.1818
+2023-05-24 12:40:36.851826,Main Markets - 1st Round 3 Balls - L. List / G. Higgo / A. Putnam - 1st Round 3 Balls,Andrew Putnam,0.016699999999999993,0.4167,0.4
 2023-05-24 11:40:31.590825,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Ron DeSantis,0.015300000000000001,0.0588,0.0435
-2023-05-23 23:40:36.913196,Boxing Lines - Campbell Somerville vs Isaias Sette - To Win the Bout,Campbell Somerville,0.0131,0.7778,0.7647
 2023-05-24 10:40:42.248752,Boxing Lines - Sam Eggington vs Joe Pigford - To Win the Bout,Sam Eggington,0.010599999999999998,0.4651,0.4545
 2023-05-24 01:40:34.164565,Boxing Lines - Jayde Mitchell vs Max Reeves - To Win the Bout,Jayde Mitchell,0.010099999999999998,0.6875,0.6774
-2023-05-23 23:40:36.930303,Boxing Lines - Jayde Mitchell vs Max Reeves - To Win the Bout,Jayde Mitchell,-0.010099999999999998,0.6774,0.6875
+2023-05-24 12:40:37.130102,Tournament Match-Ups - Tournament Match-Up - A. Putnam v J.J. Spaun - Tournament Match-Up,Andrew Putnam,0.010099999999999998,0.5556,0.5455
 2023-05-24 02:40:39.415422,Boxing Lines - Joel Taylor vs Ben Horn - To Win the Bout,Ben Horn,-0.0102,0.0667,0.0769
+2023-05-24 12:40:36.851826,Main Markets - 1st Round 3 Balls - L. List / G. Higgo / A. Putnam - 1st Round 3 Balls,Luke List,-0.010699999999999987,0.3226,0.3333
+2023-05-24 12:40:37.130102,Tournament Match-Ups - Tournament Match-Up - A. Putnam v J.J. Spaun - Tournament Match-Up,J. J. Spaun,-0.011600000000000055,0.5122,0.5238
 2023-05-24 06:40:38.298654,Main Markets - 1st Round 3 Balls - D. Frittelli / C. Gribble / E. Grillo - 1st Round 3 Balls,Dylan Frittelli,-0.011699999999999988,0.274,0.2857
 2023-05-24 06:40:36.885094,Boxing Lines - Pierce O'Leary vs Alin Florin Ciorceri - To Win the Bout,Alin Florin Ciorceri,-0.013999999999999999,0.0769,0.0909
 2023-05-24 09:40:38.731348,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Group D Winner,Nigeria U20,-0.014800000000000008,0.1333,0.1481
-2023-05-23 23:40:36.913196,Boxing Lines - Campbell Somerville vs Isaias Sette - To Win the Bout,Isaias Sette,-0.017299999999999982,0.2857,0.303
 2023-05-24 05:40:37.622559,MLB Futures - MLB 2023 American League East - American League East Winner,Toronto Blue Jays,-0.01759999999999999,0.1,0.1176
 2023-05-24 01:40:34.147907,Boxing Lines - Campbell Somerville vs Isaias Sette - To Win the Bout,Isaias Sette,-0.019000000000000017,0.2667,0.2857
 2023-05-24 01:40:35.678229,Tournament Match-Ups - Tournament Match-Up - J. Rose vs T. Fleetwood - Tournament Match-Up,Justin Rose,-0.01970000000000005,0.5455,0.5652
@@ -40,13 +43,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-24 05:40:37.731714,Main Markets - 1st Round 3 Balls - Z. Blair / T. Alexander / R. Fox - 1st Round 3 Balls,Ryan Fox,-0.02079999999999993,0.5348,0.5556
 2023-05-24 09:40:38.739062,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Group F Winner,Honduras U20,-0.022099999999999998,0.0164,0.0385
 2023-05-24 01:40:35.459202,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Boston Celtics,-0.022199999999999998,0.1111,0.1333
+2023-05-24 12:40:36.940989,Main Markets - 1st Round 3 Balls - M. Block / M.W. Lee / P. Coody - 1st Round 3 Balls,Pierceson Coody,-0.023799999999999988,0.3333,0.3571
 2023-05-24 02:40:39.396133,Boxing Lines - Campbell Somerville vs Isaias Sette - To Win the Bout,Isaias Sette,-0.0257,0.241,0.2667
-2023-05-24 03:40:38.993605,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Miami Heat,-0.02779999999999999,0.2222,0.25
+2023-05-24 12:40:36.908395,Main Markets - 1st Round 3 Balls - M. Homa / K. Kisner / Z. Johnson - 1st Round 3 Balls,Kevin Kisner,-0.02779999999999999,0.2222,0.25
 2023-05-24 02:40:39.671651,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Miami Heat,-0.02779999999999999,0.25,0.2778
+2023-05-24 03:40:38.993605,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Miami Heat,-0.02779999999999999,0.2222,0.25
 2023-05-24 04:40:37.114753,Boxing Lines - Tim Tszyu vs Carlos Ocampo - To Win the Bout,Carlos Ocampo,-0.027999999999999997,0.1538,0.1818
 2023-05-24 09:40:38.735214,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Group E Winner ,Tunisia U20,-0.0312,0.0123,0.0435
-2023-05-24 05:40:37.616070,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,-0.035699999999999954,0.7143,0.75
 2023-05-24 03:40:38.993605,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Denver Nuggets,-0.035699999999999954,0.7143,0.75
+2023-05-24 05:40:37.616070,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,-0.035699999999999954,0.7143,0.75
 2023-05-24 09:40:38.735214,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Group E Winner ,Iraq U20,-0.036199999999999996,0.0164,0.0526
 2023-05-24 03:40:38.986289,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Miami Heat,-0.050000000000000044,0.75,0.8
 2023-05-24 05:40:37.635572,MLB Futures - MLB 2023 National League Central - National League Central Winner,St. Louis Cardinals,-0.06659999999999999,0.2667,0.3333
