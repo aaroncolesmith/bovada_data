@@ -13,8 +13,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-26 07:40:36.925536,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Uruguay U20,0.036199999999999996,0.1538,0.1176
 2023-05-26 06:40:46.154263,Senior PGA Championship - Senior PGA Championship - Winner,Katsumasa Miyamoto,0.035300000000000005,0.0476,0.0123
 2023-05-26 09:40:33.782156,Bank of Hope LPGA Match-Play - Bank of Hope LPGA Match-Play - Winner,Carlota Ciganda,0.029299999999999993,0.0769,0.0476
-2023-05-26 09:40:33.782156,Bank of Hope LPGA Match-Play - Bank of Hope LPGA Match-Play - Winner,Leona Maguire,0.029299999999999993,0.0769,0.0476
 2023-05-26 09:40:33.782156,Bank of Hope LPGA Match-Play - Bank of Hope LPGA Match-Play - Winner,Maja Stark,0.029299999999999993,0.0769,0.0476
+2023-05-26 09:40:33.782156,Bank of Hope LPGA Match-Play - Bank of Hope LPGA Match-Play - Winner,Leona Maguire,0.029299999999999993,0.0769,0.0476
 2023-05-26 06:40:46.154263,Senior PGA Championship - Senior PGA Championship - Winner,Richard Green,0.028599999999999997,0.0435,0.0149
 2023-05-26 09:40:33.782156,Bank of Hope LPGA Match-Play - Bank of Hope LPGA Match-Play - Winner,Anna Nordqvist,0.028199999999999996,0.0667,0.0385
 2023-05-26 09:40:33.782156,Bank of Hope LPGA Match-Play - Bank of Hope LPGA Match-Play - Winner,Celine Boutier,0.027800000000000005,0.1111,0.0833
@@ -44,10 +44,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-26 06:40:45.146612,Liga ACB - Liga ACB 2022/23 - Outright,Barcelona,0.017299999999999982,0.5917,0.5744
 2023-05-26 06:40:46.154263,Senior PGA Championship - Senior PGA Championship - Winner,Charlie Wi,0.017099999999999997,0.0294,0.0123
 2023-05-26 14:40:49.121500,Boxing Lines - Campbell Hatton vs Michal Bulik - To Win the Bout,Michal Bulik,0.016700000000000007,0.1,0.0833
-2023-05-26 15:40:39.394273,Serie A - Serie A 2022/23 - Outright,Virtus Bologna,0.016699999999999993,0.4167,0.4
-2023-05-26 11:40:38.409117,Main Markets - 2nd Round 3 Balls - B. Hossler / L. Hodges / A. Long - 2nd Round 3 Balls,Beau Hossler,0.016699999999999993,0.4167,0.4
 2023-05-26 11:40:38.397529,Main Markets - 2nd Round 3 Balls - H. English / N. Taylor / L. Donald - 2nd Round 3 Balls,Nick Taylor,0.016699999999999993,0.4167,0.4
 2023-05-26 06:40:45.536235,Main Markets - 2nd Round 3 Balls - D. McCarthy / B. Griffin / A. Schenk - 2nd Round 3 Balls,Denny McCarthy,0.016699999999999993,0.4167,0.4
+2023-05-26 11:40:38.409117,Main Markets - 2nd Round 3 Balls - B. Hossler / L. Hodges / A. Long - 2nd Round 3 Balls,Beau Hossler,0.016699999999999993,0.4167,0.4
+2023-05-26 15:40:39.394273,Serie A - Serie A 2022/23 - Outright,Virtus Bologna,0.016699999999999993,0.4167,0.4
 2023-05-26 06:40:45.650736,Main Markets - 2nd Round 3 Balls - M.W. Lee / P. Coody / M. Block - 2nd Round 3 Balls,Min Woo Lee,0.016699999999999937,0.6,0.5833
 2023-05-26 09:40:33.782156,Bank of Hope LPGA Match-Play - Bank of Hope LPGA Match-Play - Winner,Cheyenne Knight,0.016600000000000004,0.0833,0.0667
 2023-05-26 06:40:46.154263,Senior PGA Championship - Senior PGA Championship - Winner,Miguel Angel Jimenez,0.016600000000000004,0.0833,0.0667
@@ -62,11 +62,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-26 06:40:46.154263,Senior PGA Championship - Senior PGA Championship - Winner,Phillip Price,0.0129,0.0149,0.002
 2023-05-26 06:40:43.845753,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Francisco Alvarez (NYM),0.012700000000000003,0.0323,0.0196
 2023-05-26 09:40:33.782156,Bank of Hope LPGA Match-Play - Bank of Hope LPGA Match-Play - Winner,Pajaree Anannarukarn,0.012700000000000003,0.0323,0.0196
+2023-05-26 17:40:56.238356,Default Specials - Will the United States Technically Default On Debt In 2023? - Will US Default?,No,0.011900000000000022,0.9286,0.9167
 2023-05-26 12:40:42.128707,Round Match-Ups - 2nd Round Match-Up - T. Finau vs S. Im - 2nd Round Match-Up,Sungjae Im,0.011600000000000055,0.5238,0.5122
 2023-05-26 11:40:38.637287,Round Match-Ups - 2nd Round Match-Up - V. Hovland vs M. Homa - 2nd Round Match-Up,Max Homa,0.011099999999999999,0.4762,0.4651
 2023-05-26 11:40:38.597411,Round Match-Ups - 2nd Round Match-Up - A. Novak v C. Young - 2nd Round Match-Up,Carson Young,0.01100000000000001,0.5348,0.5238
 2023-05-26 11:40:38.419785,Main Markets - 2nd Round 3 Balls - P. Malnati / K. Tway / D. Lingmerth - 2nd Round 3 Balls,David Lingmerth,0.010699999999999987,0.3333,0.3226
 2023-05-26 09:40:33.782156,Bank of Hope LPGA Match-Play - Bank of Hope LPGA Match-Play - Winner,Aditi Ashok,0.010300000000000002,0.0244,0.0141
+2023-05-26 17:40:56.238356,Default Specials - Will the United States Technically Default On Debt In 2023? - Will US Default?,Yes,-0.010200000000000015,0.1379,0.1481
 2023-05-26 06:40:45.650736,Main Markets - 2nd Round 3 Balls - M.W. Lee / P. Coody / M. Block - 2nd Round 3 Balls,Pierceson Coody,-0.010699999999999987,0.3226,0.3333
 2023-05-26 06:40:45.768861,Main Markets - 2nd Round 3 Balls - M. McNealy / P. Rodgers / D. Willett - 2nd Round 3 Balls,Danny Willett,-0.010699999999999987,0.3226,0.3333
 2023-05-26 06:40:46.154263,Senior PGA Championship - Senior PGA Championship - Winner,Arjun Atwal,-0.0109,0.004,0.0149
@@ -77,11 +79,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-26 06:40:46.154263,Senior PGA Championship - Senior PGA Championship - Winner,Paul Stankowski,-0.0124,0.0025,0.0149
 2023-05-26 12:40:39.595313,Boxing Lines - Danny Ball vs Jamie Robinson - To Win the Bout,Jamie Robinson,-0.012500000000000011,0.2439,0.2564
 2023-05-26 06:40:46.154263,Senior PGA Championship - Senior PGA Championship - Winner,Kris Blanks,-0.0129,0.002,0.0149
-2023-05-26 06:40:45.154508,Super Ligi - Turkey BSL 2022/23 - Outright,Darüssafaka Tekfen,-0.013,0.0066,0.0196
 2023-05-26 09:40:33.782156,Bank of Hope LPGA Match-Play - Bank of Hope LPGA Match-Play - Winner,Jenny Shin,-0.013,0.0066,0.0196
-2023-05-26 06:40:43.777728,MLB Futures - MLB 2023 American League East - American League East Winner,New York Yankees,-0.0131,0.2222,0.2353
+2023-05-26 06:40:45.154508,Super Ligi - Turkey BSL 2022/23 - Outright,Darüssafaka Tekfen,-0.013,0.0066,0.0196
 2023-05-26 14:40:49.121500,Boxing Lines - Campbell Hatton vs Michal Bulik - To Win the Bout,Campbell Hatton,-0.0131,0.9524,0.9655
 2023-05-26 14:40:49.088534,Boxing Lines - Aqib Fiaz vs Costin Ion - To Win the Bout,Aqib Fiaz,-0.0131,0.9524,0.9655
+2023-05-26 06:40:43.777728,MLB Futures - MLB 2023 American League East - American League East Winner,New York Yankees,-0.0131,0.2222,0.2353
 2023-05-26 06:40:46.154263,Senior PGA Championship - Senior PGA Championship - Winner,Kevin Sutherland,-0.0139,0.0057,0.0196
 2023-05-26 06:40:45.213211,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Jayson Tatum (BOS),-0.01469999999999999,0.2353,0.25
 2023-05-26 16:40:42.556520,Boxing Lines - Mace Ruegg vs Dean Dodge - To Win the Bout,Dean Dodge,-0.014800000000000008,0.1739,0.1887
@@ -105,8 +107,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-26 06:40:45.213211,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Jimmy Butler (MIA),-0.02049999999999999,0.1333,0.1538
 2023-05-26 06:40:45.536235,Main Markets - 2nd Round 3 Balls - D. McCarthy / B. Griffin / A. Schenk - 2nd Round 3 Balls,Adam Schenk,-0.020799999999999985,0.3125,0.3333
 2023-05-26 12:40:42.342549,Scores - 2nd Round Score - Scottie Scheffler - 2nd Round Score,Over 67.5,-0.022699999999999998,0.4651,0.4878
-2023-05-26 12:40:42.286208,Round Match-Ups - 2nd Round Match-Up - T. Detry vs V. Norrman - 2nd Round Match-Up,Vincent Norrman,-0.023799999999999988,0.4762,0.5
 2023-05-26 12:40:42.079861,Round Match-Ups - 2nd Round Match-Up - J. Suh v L. List - 2nd Round Match-Up ,Luke List,-0.023799999999999988,0.4762,0.5
+2023-05-26 12:40:42.286208,Round Match-Ups - 2nd Round Match-Up - T. Detry vs V. Norrman - 2nd Round Match-Up,Vincent Norrman,-0.023799999999999988,0.4762,0.5
 2023-05-26 11:40:38.661545,Round Match-Ups - 2nd Round Match-Up - C. Tarren v M. Schwab - 2nd Round Match-Up,Matthias Schwab,-0.023800000000000043,0.5,0.5238
 2023-05-26 06:40:46.154263,Senior PGA Championship - Senior PGA Championship - Winner,Steven Alker,-0.024299999999999995,0.0526,0.0769
 2023-05-26 14:40:49.592778,Round Match-Ups - 2nd Round Match-Up - S. Burns vs R. Fowler - 2nd Round Match-Up,Rickie Fowler,-0.024399999999999977,0.4878,0.5122
