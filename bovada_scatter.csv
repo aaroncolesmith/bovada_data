@@ -12,11 +12,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-25 17:41:43.232458,Donald Trump Specials - Trump Specials - Trump Specials,Donald Trump to be convicted of a felony and serve time in prison before 2025,0.033300000000000024,0.2,0.1667
 2023-05-25 20:40:47.964070,Succession Specials - Season 4 Specials - Season 4 Specials,Waystar to acquire GoJo by the end of the 4th season,0.032099999999999906,0.6154,0.5833
 2023-05-25 23:40:42.972146,KLM Open - KLM Open - Winner,Adrian Otaegui,0.0294,0.0588,0.0294
-2023-05-25 14:40:57.283492,Tournament Match-Ups - Tournament Match-Ups - B. Kopeka v T. Gooch - Tournament Match-Ups,Brooks Koepka,0.023800000000000043,0.5238,0.5
-2023-05-25 16:40:45.583882,Tournament Match-Ups - Tournament Match-Ups - B. Koepka v D. Johnson - Tournament Match-Ups,Brooks Koepka,0.023800000000000043,0.5238,0.5
 2023-05-25 16:40:45.596324,Tournament Match-Ups - Tournament Match-Ups - B. Koepka vs B. DeChambeau - Tournament Match-Ups,Brooks Koepka,0.023800000000000043,0.5238,0.5
-2023-05-25 14:40:57.263491,Tournament Match-Ups - Tournament Match-Ups - B. Koepka v D. Johnson - Tournament Match-Ups,Brooks Koepka,0.023799999999999988,0.5,0.4762
-2023-05-25 14:40:57.273361,Tournament Match-Ups - Tournament Match-Ups - B. Koepka vs B. DeChambeau - Tournament Match-Ups,Brooks Koepka,0.023799999999999988,0.5,0.4762
+2023-05-25 16:40:45.583882,Tournament Match-Ups - Tournament Match-Ups - B. Koepka v D. Johnson - Tournament Match-Ups,Brooks Koepka,0.023800000000000043,0.5238,0.5
 2023-05-25 17:41:44.362837,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Boston Celtics,0.021999999999999964,0.3077,0.2857
 2023-05-25 23:40:42.972146,KLM Open - KLM Open - Winner,Alejandro Del Rey,0.0215,0.0294,0.0079
 2023-05-25 23:40:42.972146,KLM Open - KLM Open - Winner,Shubhankar Sharma,0.019499999999999997,0.0294,0.0099
@@ -25,27 +22,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-25 19:40:45.602270,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,The Zone of Interest (Jonathan Glazer),0.016699999999999993,0.4167,0.4
 2023-05-25 19:40:46.535591,Default Specials - Will the United States Technically Default On Debt In 2023? - Will US Default?,No,0.016699999999999937,0.9167,0.9
 2023-05-25 23:40:42.972146,KLM Open - KLM Open - Winner,Edoardo Molinari,0.014499999999999999,0.0294,0.0149
+2023-05-26 03:40:42.484739,Tournament Match-Ups - Tournament Match-Ups - B. Kopeka v T. Gooch - Tournament Match-Ups,Brooks Koepka,0.011600000000000055,0.5238,0.5122
+2023-05-26 03:40:42.472960,Tournament Match-Ups - Tournament Match-Ups - B. Koepka v D. Johnson - Tournament Match-Ups,Brooks Koepka,0.011600000000000055,0.5238,0.5122
 2023-05-25 19:40:46.657920,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Donald Trump,0.011499999999999955,0.6667,0.6552
-2023-05-25 14:40:54.121162,Boxing Lines - Pierce O'Leary vs Alin Florin Ciorceri - To Win the Bout,Pierce O'Leary,0.010699999999999932,0.9722,0.9615
 2023-05-25 20:40:48.283026,DC - DC - Winner,Bryson DeChambeau,0.0102,0.0769,0.0667
 2023-05-25 19:40:45.602270,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,May December (Todd Haynes),0.0102,0.0769,0.0667
 2023-05-25 23:40:42.887276,Tournament Match-Ups - Tournament Match-Ups - B. Kopeka v T. Gooch - Tournament Match-Ups,Talor Gooch,0.010099999999999998,0.5556,0.5455
-2023-05-25 23:40:42.880360,Tournament Match-Ups - Tournament Match-Ups - B. Koepka vs B. DeChambeau - Tournament Match-Ups,Bryson DeChambeau,0.010099999999999998,0.5556,0.5455
 2023-05-25 23:40:42.873351,Tournament Match-Ups - Tournament Match-Ups - B. Koepka v D. Johnson - Tournament Match-Ups,Dustin Johnson,0.010099999999999998,0.5556,0.5455
+2023-05-25 23:40:42.880360,Tournament Match-Ups - Tournament Match-Ups - B. Koepka vs B. DeChambeau - Tournament Match-Ups,Bryson DeChambeau,0.010099999999999998,0.5556,0.5455
+2023-05-26 03:40:42.472960,Tournament Match-Ups - Tournament Match-Ups - B. Koepka v D. Johnson - Tournament Match-Ups,Dustin Johnson,-0.010099999999999998,0.5455,0.5556
+2023-05-26 03:40:42.484739,Tournament Match-Ups - Tournament Match-Ups - B. Kopeka v T. Gooch - Tournament Match-Ups,Talor Gooch,-0.010099999999999998,0.5455,0.5556
 2023-05-25 23:40:42.972146,KLM Open - KLM Open - Winner,Dan Bradbury,-0.0101,0.004,0.0141
 2023-05-25 23:40:42.972146,KLM Open - KLM Open - Winner,Simon Forsstrom,-0.0103,0.002,0.0123
 2023-05-25 23:40:42.901181,Tournament Match-Ups - Tournament Match-Ups - C. Smith vs B. Koepka - Tournament Match-Ups,Brooks Koepka,-0.010599999999999998,0.4545,0.4651
 2023-05-25 23:40:42.972146,KLM Open - KLM Open - Winner,Brandon Stone,-0.0106,0.0004,0.011
 2023-05-25 23:40:42.972146,KLM Open - KLM Open - Winner,John Catlin,-0.011,0.0013,0.0123
-2023-05-25 17:41:42.975866,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,The Pot au Feu (Tran Anh Hung),-0.011199999999999995,0.0476,0.0588
 2023-05-25 19:40:45.602270,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,Homecoming (Catherine Corsini),-0.011199999999999995,0.0323,0.0435
+2023-05-25 17:41:42.975866,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,The Pot au Feu (Tran Anh Hung),-0.011199999999999995,0.0476,0.0588
 2023-05-25 23:40:42.972146,KLM Open - KLM Open - Winner,Ross Fisher,-0.011300000000000001,0.001,0.0123
 2023-05-25 23:40:42.972146,KLM Open - KLM Open - Winner,Jeong Weon Ko,-0.011300000000000001,0.001,0.0123
-2023-05-25 15:40:38.117035,Boxing Lines - Mace Ruegg vs Dean Dodge - To Win the Bout,Dean Dodge,-0.011300000000000004,0.1887,0.2
 2023-05-25 23:40:42.972146,KLM Open - KLM Open - Winner,Ryo Hisatsune,-0.0114,0.005,0.0164
-2023-05-25 23:40:42.887276,Tournament Match-Ups - Tournament Match-Ups - B. Kopeka v T. Gooch - Tournament Match-Ups,Brooks Koepka,-0.011600000000000055,0.5122,0.5238
 2023-05-25 23:40:42.880360,Tournament Match-Ups - Tournament Match-Ups - B. Koepka vs B. DeChambeau - Tournament Match-Ups,Brooks Koepka,-0.011600000000000055,0.5122,0.5238
 2023-05-25 23:40:42.873351,Tournament Match-Ups - Tournament Match-Ups - B. Koepka v D. Johnson - Tournament Match-Ups,Brooks Koepka,-0.011600000000000055,0.5122,0.5238
+2023-05-25 23:40:42.887276,Tournament Match-Ups - Tournament Match-Ups - B. Kopeka v T. Gooch - Tournament Match-Ups,Brooks Koepka,-0.011600000000000055,0.5122,0.5238
 2023-05-25 23:40:42.972146,KLM Open - KLM Open - Winner,Ashun Wu,-0.0119,0.0004,0.0123
 2023-05-25 23:40:42.972146,KLM Open - KLM Open - Winner,Niklas Norgaard,-0.012100000000000001,0.0123,0.0244
 2023-05-25 23:40:42.972146,KLM Open - KLM Open - Winner,Matthieu Pavon,-0.0124,0.0025,0.0149
@@ -66,16 +65,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-25 23:40:42.972146,KLM Open - KLM Open - Winner,Guido Migliozzi,-0.0192,0.0004,0.0196
 2023-05-25 16:40:45.596324,Tournament Match-Ups - Tournament Match-Ups - B. Koepka vs B. DeChambeau - Tournament Match-Ups,Bryson DeChambeau,-0.01970000000000005,0.5455,0.5652
 2023-05-25 16:40:45.583882,Tournament Match-Ups - Tournament Match-Ups - B. Koepka v D. Johnson - Tournament Match-Ups,Dustin Johnson,-0.01970000000000005,0.5455,0.5652
-2023-05-25 14:40:57.283492,Tournament Match-Ups - Tournament Match-Ups - B. Kopeka v T. Gooch - Tournament Match-Ups,Talor Gooch,-0.01970000000000005,0.5455,0.5652
-2023-05-25 20:40:47.953167,Succession Specials - Waystar CEO At The End Of The 4th Season - Waystar CEO At The End Of The 4th Season,Lukas Matsson,-0.02020000000000001,0.0909,0.1111
 2023-05-25 19:40:46.516821,Ron DeSantis Specials - Who will play Ron DeSantis on SNL? - Who will play Ron DeSantis first on SNL Season 49?,Mikey Day,-0.02020000000000001,0.0909,0.1111
+2023-05-25 20:40:47.953167,Succession Specials - Waystar CEO At The End Of The 4th Season - Waystar CEO At The End Of The 4th Season,Lukas Matsson,-0.02020000000000001,0.0909,0.1111
 2023-05-25 19:40:45.602270,Film and TV Awards - Cannes Film Festival: Palme D'Or Winner - Palme D'Or Winner 2023,Club Zero (Jessica Hausner),-0.0203,0.0385,0.0588
 2023-05-25 17:41:43.042166,Succession Specials - Waystar CEO At The End Of The 4th Season - Waystar CEO At The End Of The 4th Season,Lukas Matsson,-0.022199999999999998,0.1111,0.1333
 2023-05-25 23:40:42.972146,KLM Open - KLM Open - Winner,Alexander Bjork,-0.023899999999999998,0.0196,0.0435
 2023-05-25 23:40:42.972146,KLM Open - KLM Open - Winner,Richard Mansell,-0.024,0.0004,0.0244
 2023-05-25 23:40:42.972146,KLM Open - KLM Open - Winner,Marcus Helligkilde,-0.0254,0.004,0.0294
-2023-05-25 14:40:57.273361,Tournament Match-Ups - Tournament Match-Ups - B. Koepka vs B. DeChambeau - Tournament Match-Ups,Bryson DeChambeau,-0.026499999999999968,0.5652,0.5917
-2023-05-25 14:40:57.263491,Tournament Match-Ups - Tournament Match-Ups - B. Koepka v D. Johnson - Tournament Match-Ups,Dustin Johnson,-0.026499999999999968,0.5652,0.5917
 2023-05-25 23:40:42.972146,KLM Open - KLM Open - Winner,Eddie Pepperell,-0.028999999999999998,0.0004,0.0294
 2023-05-25 19:40:46.516821,Ron DeSantis Specials - Who will play Ron DeSantis on SNL? - Who will play Ron DeSantis first on SNL Season 49?,James Austin Johnson,-0.030299999999999994,0.3333,0.3636
 2023-05-25 23:40:42.972146,KLM Open - KLM Open - Winner,Antoine Rozner,-0.0319,0.0066,0.0385
