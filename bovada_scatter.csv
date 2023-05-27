@@ -16,6 +16,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-27 15:40:36.575252,KLM Open - KLM Open - Winner,Gavin Green,0.0373,0.0667,0.0294
 2023-05-27 13:40:50.177391,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Corbin Carroll (ARIZ),0.03640000000000004,0.4,0.3636
 2023-05-27 15:40:36.575252,KLM Open - KLM Open - Winner,Todd Clements,0.035300000000000005,0.0476,0.0123
+2023-05-27 17:40:46.374640,Boxing Lines - Sam Eggington vs Joe Pigford - To Win the Bout,Joe Pigford,0.03479999999999994,0.6,0.5652
 2023-05-27 09:42:30.567902,Bank of Hope LPGA Match-Play - Bank of Hope LPGA Match-Play - Winner,Carlota Ciganda,0.03420000000000001,0.1111,0.0769
 2023-05-27 09:42:30.567902,Bank of Hope LPGA Match-Play - Bank of Hope LPGA Match-Play - Winner,Angel Yin,0.0334,0.0769,0.0435
 2023-05-27 07:41:00.817432,Senior PGA Championship - Senior PGA Championship - Winner,Stewart Cink,0.033299999999999996,0.1333,0.1
@@ -33,8 +34,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-27 07:41:00.105208,Main Markets - 3rd Round 2 Balls - V. Hovland v A. Rai - 3rd Round 2 Balls,Aaron Rai,0.02260000000000001,0.4,0.3774
 2023-05-27 06:40:33.886689,Boxing Lines - Oscar Collazo vs Melvin Jerusalem - To Win the Bout,Melvin Jerusalem,0.02250000000000002,0.2857,0.2632
 2023-05-27 09:42:30.567902,Bank of Hope LPGA Match-Play - Bank of Hope LPGA Match-Play - Winner,Perrine Delacour,0.022400000000000003,0.0323,0.0099
-2023-05-27 07:41:00.817432,Senior PGA Championship - Senior PGA Championship - Winner,Steve Stricker,0.022199999999999998,0.1333,0.1111
 2023-05-27 09:42:31.022683,Superettan - Superettan 2023 - Winner,Östers IF,0.022199999999999998,0.2222,0.2
+2023-05-27 07:41:00.817432,Senior PGA Championship - Senior PGA Championship - Winner,Steve Stricker,0.022199999999999998,0.1333,0.1111
 2023-05-27 06:40:35.962695,Round Match-Ups - 3rd Round Match-Up - B.H. An v B. Griffin - 3rd Round Match-Up,Byeong Hun An,0.02169999999999994,0.5455,0.5238
 2023-05-27 06:40:34.181443,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Atlanta Braves,0.020799999999999985,0.3333,0.3125
 2023-05-27 11:40:40.663138,Main Markets - 3rd Round 2 Balls - A. Eckroat v C. Young - 3rd Round 2 Balls,Austin Eckroat,0.02079999999999993,0.5556,0.5348
@@ -43,7 +44,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-27 13:40:52.172317,Round Match-Ups - 2nd Round Match-Up - B. DeChambeau v S. Garcia - 2nd Round Match-Up,Bryson DeChambeau,0.01970000000000005,0.5652,0.5455
 2023-05-27 15:40:36.575252,KLM Open - KLM Open - Winner,Deon Germishuys,0.0194,0.0244,0.005
 2023-05-27 07:41:00.268741,Round Match-Ups - 3rd Round Match-Up - S. Straka v L. List - 3rd Round Match-Up,Sepp Straka,0.01880000000000004,0.5744,0.5556
-2023-05-27 04:40:56.105789,Main Markets - 3rd Round 2 Balls - M. McNealy v C. Champ - 3rd Round 2 Balls,Maverick McNealy,0.018100000000000005,0.5833,0.5652
 2023-05-27 06:40:34.213534,MLB Futures - MLB 2023 National League West - National League West Winner,San Francisco Giants,0.018099999999999998,0.0769,0.0588
 2023-05-27 06:40:34.197541,MLB Futures - MLB 2023 American League West - American League West Winner,Los Angeles Angels,0.0179,0.1429,0.125
 2023-05-27 09:42:30.567902,Bank of Hope LPGA Match-Play - Bank of Hope LPGA Match-Play - Winner,Sophia Schubert,0.017800000000000003,0.0244,0.0066
@@ -57,8 +57,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-27 06:40:34.192044,MLB Futures - MLB 2023 American League East - American League East Winner,Baltimore Orioles,0.013899999999999996,0.125,0.1111
 2023-05-27 09:42:29.462052,Default Specials - Will the United States Technically Default On Debt In 2023? - Will US Default?,No,0.012499999999999956,0.95,0.9375
 2023-05-27 13:40:50.169851,MLB Futures - MLB 2023 Player Awards - National League MVP,Ronald Acuña Jr.,0.012199999999999989,0.5,0.4878
+2023-05-27 17:40:46.294956,Elite Boxing - Luis Alberto Lopez vs Michael Conlan - To Win the Bout,Luis Alberto Lopez,0.012199999999999989,0.5122,0.5
 2023-05-27 08:40:39.060652,MLB Daily Specials - MLB Daily Specials - Saturday May 27 - Earlier Games,"Orioles, Rangers, Rays & Braves 13+ Combined Runs",0.011900000000000022,0.9286,0.9167
-2023-05-27 04:40:56.529315,Round Match-Ups - 3rd Round Match-Up - B.H. An v B. Griffin - 3rd Round Match-Up,Byeong Hun An,0.011600000000000055,0.5238,0.5122
 2023-05-27 13:40:51.480396,Boxing Lines - Aqib Fiaz vs Costin Ion - To Win the Bout,Costin Ion,0.011099999999999999,0.1111,0.1
 2023-05-27 09:42:30.567902,Bank of Hope LPGA Match-Play - Bank of Hope LPGA Match-Play - Winner,Ayaka Furue,0.010899999999999993,0.1538,0.1429
 2023-05-27 06:40:34.175642,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Tampa Bay Rays,0.010299999999999976,0.2667,0.2564
@@ -66,12 +66,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-27 06:40:34.202735,MLB Futures - MLB 2023 National League Central - National League Central Winner,St. Louis Cardinals,0.010099999999999998,0.3226,0.3125
 2023-05-27 07:41:00.817432,Senior PGA Championship - Senior PGA Championship - Winner,Mark Hensby,-0.0103,0.002,0.0123
 2023-05-27 06:40:34.208261,MLB Futures - MLB 2023 National League East - National League East Winner,Miami Marlins,-0.010600000000000002,0.0217,0.0323
+2023-05-27 17:40:46.294956,Elite Boxing - Luis Alberto Lopez vs Michael Conlan - To Win the Bout,Michael Conlan,-0.010699999999999932,0.5348,0.5455
 2023-05-27 15:40:35.632276,Boxing Lines - Pierce O'Leary vs Alin Florin Ciorceri - To Win the Bout,Pierce O'Leary,-0.010699999999999932,0.9615,0.9722
 2023-05-27 06:40:34.208261,MLB Futures - MLB 2023 National League East - National League East Winner,New York Mets,-0.010899999999999993,0.1429,0.1538
 2023-05-27 15:40:36.575252,KLM Open - KLM Open - Winner,Matthieu Pavon,-0.011,0.0013,0.0123
-2023-05-27 04:40:56.529315,Round Match-Ups - 3rd Round Match-Up - B.H. An v B. Griffin - 3rd Round Match-Up,Ben Griffin,-0.01100000000000001,0.5238,0.5348
 2023-05-27 09:42:28.428866,Succession Specials - Waystar CEO At The End Of The 4th Season - Waystar CEO At The End Of The 4th Season,Kendall Roy,-0.011099999999999999,0.4651,0.4762
-2023-05-27 04:40:56.105789,Main Markets - 3rd Round 2 Balls - M. McNealy v C. Champ - 3rd Round 2 Balls,Cameron Champ,-0.011099999999999999,0.4651,0.4762
 2023-05-27 06:40:34.169489,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Toronto Blue Jays,-0.011199999999999995,0.0476,0.0588
 2023-05-27 09:42:29.462052,Default Specials - Will the United States Technically Default On Debt In 2023? - Will US Default?,Yes,-0.011400000000000007,0.1176,0.129
 2023-05-27 13:40:52.146644,Main Markets - 2nd Round 3 Balls - H. Varner / A. Ogletree / J. Piot - 2nd Round 3 Balls,Andy Ogletree,-0.01150000000000001,0.3333,0.3448
@@ -90,8 +89,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-27 13:40:51.775490,Main Markets - 3rd Round 2 Balls - R. Fowler v P. Rodgers - 3rd Round 2 Balls,Rickie Fowler,-0.018100000000000005,0.5652,0.5833
 2023-05-27 15:40:36.575252,KLM Open - KLM Open - Winner,Dan Bradbury,-0.019499999999999997,0.0099,0.0294
 2023-05-27 16:40:37.560104,Elite Boxing - Luis Alberto Lopez vs Michael Conlan - To Win the Bout,Michael Conlan,-0.01970000000000005,0.5455,0.5652
-2023-05-27 09:42:31.138468,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,France U20,-0.02020000000000001,0.0909,0.1111
 2023-05-27 06:40:34.175642,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Toronto Blue Jays,-0.02020000000000001,0.0909,0.1111
+2023-05-27 09:42:31.138468,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,France U20,-0.02020000000000001,0.0909,0.1111
 2023-05-27 06:40:34.208261,MLB Futures - MLB 2023 National League East - National League East Winner,Philadelphia Phillies,-0.0208,0.0625,0.0833
 2023-05-27 11:40:40.626387,Main Markets - 3rd Round 2 Balls - K. Streelman v S. Piercy - 3rd Round 2 Balls,Kevin Streelman,-0.02169999999999994,0.5238,0.5455
 2023-05-27 15:40:36.575252,KLM Open - KLM Open - Winner,Romain Langasque,-0.021900000000000003,0.0025,0.0244
@@ -106,13 +105,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-27 06:40:35.962695,Round Match-Ups - 3rd Round Match-Up - B.H. An v B. Griffin - 3rd Round Match-Up,Ben Griffin,-0.023800000000000043,0.5,0.5238
 2023-05-27 07:41:00.378813,Round Match-Ups - 3rd Round Match-Up - S. Piercy v C. Ramey - 3rd Round Match-Up,Chad Ramey,-0.024399999999999977,0.4878,0.5122
 2023-05-27 11:40:40.663138,Main Markets - 3rd Round 2 Balls - A. Eckroat v C. Young - 3rd Round 2 Balls,Carson Young,-0.024399999999999977,0.4878,0.5122
-2023-05-27 15:40:36.575252,KLM Open - KLM Open - Winner,Alejandro Del Rey,-0.026099999999999998,0.0033,0.0294
 2023-05-27 07:41:00.817432,Senior PGA Championship - Senior PGA Championship - Winner,Charlie Wi,-0.026099999999999998,0.0033,0.0294
+2023-05-27 15:40:36.575252,KLM Open - KLM Open - Winner,Alejandro Del Rey,-0.026099999999999998,0.0033,0.0294
 2023-05-27 07:41:00.817432,Senior PGA Championship - Senior PGA Championship - Winner,Thomas Bjorn,-0.0279,0.0066,0.0345
 2023-05-27 15:40:36.575252,KLM Open - KLM Open - Winner,Richie Ramsay,-0.028399999999999998,0.001,0.0294
 2023-05-27 06:40:34.213534,MLB Futures - MLB 2023 National League West - National League West Winner,Los Angeles Dodgers,-0.02870000000000006,0.7895,0.8182
 2023-05-27 15:40:36.575252,KLM Open - KLM Open - Winner,Marcus Armitage,-0.0319,0.0066,0.0385
 2023-05-27 07:41:00.817432,Senior PGA Championship - Senior PGA Championship - Winner,Jerry Kelly,-0.0336,0.0099,0.0435
+2023-05-27 17:40:46.374640,Boxing Lines - Sam Eggington vs Joe Pigford - To Win the Bout,Sam Eggington,-0.03489999999999999,0.4651,0.5
 2023-05-27 12:40:54.269095,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.0353,0.7647,0.8
 2023-05-27 07:41:00.817432,Senior PGA Championship - Senior PGA Championship - Winner,Robert Karlsson,-0.037700000000000004,0.0099,0.0476
 2023-05-27 06:40:34.197541,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,-0.03959999999999997,0.5348,0.5744
