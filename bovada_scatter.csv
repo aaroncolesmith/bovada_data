@@ -1,5 +1,4 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2023-05-27 07:41:00.817432,Senior PGA Championship - Senior PGA Championship - Winner,Padraig Harrington,0.2491,0.6,0.3509
 2023-05-27 15:40:36.575252,KLM Open - KLM Open - Winner,Pablo Larrazabal,0.2155,0.25,0.0345
 2023-05-27 15:40:36.575252,KLM Open - KLM Open - Winner,Rasmus Hojgaard,0.1837,0.2222,0.0385
 2023-05-27 12:40:54.099391,Nobel Prizes - Nobel Literature Prize - Nobel Literature Prize Winner 2023,Haruki Murakami,0.16670000000000001,0.5,0.3333
@@ -15,55 +14,53 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-27 15:40:36.575252,KLM Open - KLM Open - Winner,Gavin Green,0.0373,0.0667,0.0294
 2023-05-27 13:40:50.177391,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Corbin Carroll (ARIZ),0.03640000000000004,0.4,0.3636
 2023-05-27 15:40:36.575252,KLM Open - KLM Open - Winner,Todd Clements,0.035300000000000005,0.0476,0.0123
+2023-05-27 20:41:04.806283,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.0353,0.8,0.7647
 2023-05-27 19:40:43.340016,The Ultimate Fighter - Minute Of Conor McGregor's First Censor S31:Ep1 - Minute Of McGregor's First Censor In Episode 1,0 to 60 seconds,0.03480000000000005,0.5348,0.5
 2023-05-27 17:40:46.374640,Boxing Lines - Sam Eggington vs Joe Pigford - To Win the Bout,Joe Pigford,0.03479999999999994,0.6,0.5652
 2023-05-27 09:42:30.567902,Bank of Hope LPGA Match-Play - Bank of Hope LPGA Match-Play - Winner,Carlota Ciganda,0.03420000000000001,0.1111,0.0769
 2023-05-27 09:42:30.567902,Bank of Hope LPGA Match-Play - Bank of Hope LPGA Match-Play - Winner,Angel Yin,0.0334,0.0769,0.0435
-2023-05-27 07:41:00.817432,Senior PGA Championship - Senior PGA Championship - Winner,Stewart Cink,0.033299999999999996,0.1333,0.1
 2023-05-27 09:42:28.428866,Succession Specials - Waystar CEO At The End Of The 4th Season - Waystar CEO At The End Of The 4th Season,Tom Wambsgans,0.030299999999999994,0.3636,0.3333
 2023-05-27 19:40:42.490175,MLB Futures - MLB 2023 National League West - National League West Winner,San Diego Padres,0.028799999999999992,0.1538,0.125
 2023-05-27 13:40:50.141237,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,George Kirby,0.028399999999999995,0.0909,0.0625
 2023-05-27 15:40:36.575252,KLM Open - KLM Open - Winner,Antoine Rozner,0.0254,0.0294,0.004
 2023-05-27 13:40:52.146644,Main Markets - 2nd Round 3 Balls - H. Varner / A. Ogletree / J. Piot - 2nd Round 3 Balls,Harold Varner III,0.024399999999999977,0.5122,0.4878
+2023-05-27 20:41:04.863630,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,0.023800000000000043,0.5238,0.5
 2023-05-27 11:40:40.626387,Main Markets - 3rd Round 2 Balls - K. Streelman v S. Piercy - 3rd Round 2 Balls,Scott Piercy,0.023800000000000043,0.5238,0.5
 2023-05-27 13:40:50.155605,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Royce Lewis,0.023200000000000002,0.0476,0.0244
 2023-05-27 13:40:51.432843,UK Politics - Next Conservative Party Leader - Next Conservative Leader After Rishi Sunak,Ben Wallace,0.02310000000000001,0.1,0.0769
 2023-05-27 13:40:51.775490,Main Markets - 3rd Round 2 Balls - R. Fowler v P. Rodgers - 3rd Round 2 Balls,Patrick Rodgers,0.022699999999999998,0.4878,0.4651
-2023-05-27 10:40:43.752437,Round Match-Ups - 3rd Round Match-Up - V. Hovland v C. Morikawa - 3rd Round Match-Up,Collin Morikawa,0.022600000000000064,0.5348,0.5122
-2023-05-27 10:40:43.826722,Round Match-Ups - 3rd Round Match-Up - A. Putnam v C. Bezuidenhout - 3rd Round Match-Up,Christiaan Bezuidenhout,0.022600000000000064,0.5348,0.5122
 2023-05-27 18:40:41.994709,Boxing Lines - Sam Eggington vs Joe Pigford - To Win the Bout,Joe Pigford,0.022600000000000064,0.6226,0.6
-2023-05-27 07:41:00.105208,Main Markets - 3rd Round 2 Balls - V. Hovland v A. Rai - 3rd Round 2 Balls,Aaron Rai,0.02260000000000001,0.4,0.3774
+2023-05-27 10:40:43.826722,Round Match-Ups - 3rd Round Match-Up - A. Putnam v C. Bezuidenhout - 3rd Round Match-Up,Christiaan Bezuidenhout,0.022600000000000064,0.5348,0.5122
+2023-05-27 10:40:43.752437,Round Match-Ups - 3rd Round Match-Up - V. Hovland v C. Morikawa - 3rd Round Match-Up,Collin Morikawa,0.022600000000000064,0.5348,0.5122
 2023-05-27 09:42:30.567902,Bank of Hope LPGA Match-Play - Bank of Hope LPGA Match-Play - Winner,Perrine Delacour,0.022400000000000003,0.0323,0.0099
 2023-05-27 09:42:31.022683,Superettan - Superettan 2023 - Winner,Östers IF,0.022199999999999998,0.2222,0.2
-2023-05-27 07:41:00.817432,Senior PGA Championship - Senior PGA Championship - Winner,Steve Stricker,0.022199999999999998,0.1333,0.1111
 2023-05-27 19:40:43.300601,Succession Specials - Waystar CEO At The End Of The 4th Season - Waystar CEO At The End Of The 4th Season,Greg Hirsch,0.021999999999999964,0.3077,0.2857
 2023-05-27 19:40:43.300601,Succession Specials - Waystar CEO At The End Of The 4th Season - Waystar CEO At The End Of The 4th Season,Tom Wambsgans,0.02100000000000002,0.3846,0.3636
-2023-05-27 07:41:00.378813,Round Match-Ups - 3rd Round Match-Up - S. Piercy v C. Ramey - 3rd Round Match-Up,Scott Piercy,0.02079999999999993,0.5556,0.5348
 2023-05-27 11:40:40.663138,Main Markets - 3rd Round 2 Balls - A. Eckroat v C. Young - 3rd Round 2 Balls,Austin Eckroat,0.02079999999999993,0.5556,0.5348
 2023-05-27 09:42:30.567902,Bank of Hope LPGA Match-Play - Bank of Hope LPGA Match-Play - Winner,Albane Valenzuela,0.0203,0.0588,0.0385
 2023-05-27 13:40:52.172317,Round Match-Ups - 2nd Round Match-Up - B. DeChambeau v S. Garcia - 2nd Round Match-Up,Bryson DeChambeau,0.01970000000000005,0.5652,0.5455
 2023-05-27 15:40:36.575252,KLM Open - KLM Open - Winner,Deon Germishuys,0.0194,0.0244,0.005
-2023-05-27 07:41:00.268741,Round Match-Ups - 3rd Round Match-Up - S. Straka v L. List - 3rd Round Match-Up,Sepp Straka,0.01880000000000004,0.5744,0.5556
 2023-05-27 09:42:30.567902,Bank of Hope LPGA Match-Play - Bank of Hope LPGA Match-Play - Winner,Sophia Schubert,0.017800000000000003,0.0244,0.0066
 2023-05-27 12:40:54.963914,Main Markets - 3rd Round 2 Balls - S. Stevens v C. Gribble - 3rd Round 2 Balls,Cody Gribble,0.016699999999999993,0.4167,0.4
 2023-05-27 09:42:30.567902,Bank of Hope LPGA Match-Play - Bank of Hope LPGA Match-Play - Winner,Lindsey Weaver-Wright,0.015499999999999998,0.0278,0.0123
+2023-05-27 20:41:04.835958,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Ron DeSantis,0.015400000000000025,0.2857,0.2703
+2023-05-27 20:41:04.878693,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Ron DeSantis,0.015100000000000002,0.1818,0.1667
 2023-05-27 09:42:30.567902,Bank of Hope LPGA Match-Play - Bank of Hope LPGA Match-Play - Winner,Daniela Darquea,0.014599999999999998,0.0196,0.005
 2023-05-27 13:40:50.169851,MLB Futures - MLB 2023 Player Awards - National League MVP,Juan Soto (SD),0.014399999999999996,0.0769,0.0625
-2023-05-27 13:40:51.353944,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,"Robert Kennedy, Jr",0.014100000000000001,0.0526,0.0385
 2023-05-27 15:40:36.575252,KLM Open - KLM Open - Winner,Daniel Hillier,0.014100000000000001,0.0526,0.0385
+2023-05-27 13:40:51.353944,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,"Robert Kennedy, Jr",0.014100000000000001,0.0526,0.0385
 2023-05-27 19:40:43.715037,Donald Trump Specials - Will Donald Trump avoid the New York trial with a plea bargain? - Will Donald Trump avoid the New York trial with with a plea bargain?,NO Plea Bargain,0.014000000000000012,0.9231,0.9091
 2023-05-27 09:42:30.567902,Bank of Hope LPGA Match-Play - Bank of Hope LPGA Match-Play - Winner,Maja Stark,0.013999999999999999,0.0909,0.0769
 2023-05-27 09:42:29.462052,Default Specials - Will the United States Technically Default On Debt In 2023? - Will US Default?,No,0.012499999999999956,0.95,0.9375
 2023-05-27 13:40:50.169851,MLB Futures - MLB 2023 Player Awards - National League MVP,Ronald Acuña Jr.,0.012199999999999989,0.5,0.4878
 2023-05-27 17:40:46.294956,Elite Boxing - Luis Alberto Lopez vs Michael Conlan - To Win the Bout,Luis Alberto Lopez,0.012199999999999989,0.5122,0.5
-2023-05-27 08:40:39.060652,MLB Daily Specials - MLB Daily Specials - Saturday May 27 - Earlier Games,"Orioles, Rangers, Rays & Braves 13+ Combined Runs",0.011900000000000022,0.9286,0.9167
+2023-05-27 20:41:04.863630,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Republican,0.011600000000000055,0.5238,0.5122
 2023-05-27 13:40:51.480396,Boxing Lines - Aqib Fiaz vs Costin Ion - To Win the Bout,Costin Ion,0.011099999999999999,0.1111,0.1
 2023-05-27 09:42:30.567902,Bank of Hope LPGA Match-Play - Bank of Hope LPGA Match-Play - Winner,Ayaka Furue,0.010899999999999993,0.1538,0.1429
 2023-05-27 19:40:42.910026,Elite Boxing - Luis Alberto Lopez vs Michael Conlan - To Win the Bout,Michael Conlan,0.010699999999999932,0.5455,0.5348
 2023-05-27 09:42:30.567902,Bank of Hope LPGA Match-Play - Bank of Hope LPGA Match-Play - Winner,Anna Nordqvist,0.0102,0.0769,0.0667
-2023-05-27 07:41:00.817432,Senior PGA Championship - Senior PGA Championship - Winner,Mark Hensby,-0.0103,0.002,0.0123
-2023-05-27 15:40:35.632276,Boxing Lines - Pierce O'Leary vs Alin Florin Ciorceri - To Win the Bout,Pierce O'Leary,-0.010699999999999932,0.9615,0.9722
 2023-05-27 17:40:46.294956,Elite Boxing - Luis Alberto Lopez vs Michael Conlan - To Win the Bout,Michael Conlan,-0.010699999999999932,0.5348,0.5455
+2023-05-27 15:40:35.632276,Boxing Lines - Pierce O'Leary vs Alin Florin Ciorceri - To Win the Bout,Pierce O'Leary,-0.010699999999999932,0.9615,0.9722
 2023-05-27 19:40:43.715037,Donald Trump Specials - Will Donald Trump avoid the New York trial with a plea bargain? - Will Donald Trump avoid the New York trial with with a plea bargain?,Plea Bargain,-0.010899999999999993,0.1429,0.1538
 2023-05-27 15:40:36.575252,KLM Open - KLM Open - Winner,Matthieu Pavon,-0.011,0.0013,0.0123
 2023-05-27 09:42:28.428866,Succession Specials - Waystar CEO At The End Of The 4th Season - Waystar CEO At The End Of The 4th Season,Kendall Roy,-0.011099999999999999,0.4651,0.4762
@@ -71,12 +68,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-27 13:40:52.146644,Main Markets - 2nd Round 3 Balls - H. Varner / A. Ogletree / J. Piot - 2nd Round 3 Balls,Andy Ogletree,-0.01150000000000001,0.3333,0.3448
 2023-05-27 13:40:51.336950,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Republican,-0.011600000000000055,0.5122,0.5238
 2023-05-27 19:40:43.340016,The Ultimate Fighter - Minute Of Conor McGregor's First Censor S31:Ep1 - Minute Of McGregor's First Censor In Episode 1,5.01 to 10.00 minutes,-0.011700000000000016,0.2105,0.2222
-2023-05-27 19:40:42.910026,Elite Boxing - Luis Alberto Lopez vs Michael Conlan - To Win the Bout,Luis Alberto Lopez,-0.012199999999999989,0.5,0.5122
 2023-05-27 16:40:37.604215,Boxing Lines - Lee Cutler vs Stanley Stannard - To Win the Bout,Stanley Stannard,-0.012199999999999989,0.4878,0.5
+2023-05-27 19:40:42.910026,Elite Boxing - Luis Alberto Lopez vs Michael Conlan - To Win the Bout,Luis Alberto Lopez,-0.012199999999999989,0.5,0.5122
 2023-05-27 12:40:54.963914,Main Markets - 3rd Round 2 Balls - S. Stevens v C. Gribble - 3rd Round 2 Balls,Sam Stevens,-0.012700000000000045,0.6364,0.6491
-2023-05-27 07:41:00.817432,Senior PGA Championship - Senior PGA Championship - Winner,Phillip Price,-0.0139,0.001,0.0149
 2023-05-27 19:40:43.300601,Succession Specials - Waystar CEO At The End Of The 4th Season - Waystar CEO At The End Of The 4th Season,Gerri Kellman,-0.013999999999999999,0.0769,0.0909
-2023-05-27 07:41:00.817432,Senior PGA Championship - Senior PGA Championship - Winner,Bernhard Langer,-0.014599999999999998,0.005,0.0196
 2023-05-27 13:40:51.353944,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Ron DeSantis,-0.015100000000000002,0.1667,0.1818
 2023-05-27 19:40:42.490175,MLB Futures - MLB 2023 National League West - National League West Winner,Arizona Diamondbacks,-0.015899999999999997,0.0952,0.1111
 2023-05-27 13:40:52.146644,Main Markets - 2nd Round 3 Balls - H. Varner / A. Ogletree / J. Piot - 2nd Round 3 Balls,James Piot,-0.016699999999999993,0.25,0.2667
@@ -87,29 +82,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-27 18:40:41.994709,Boxing Lines - Sam Eggington vs Joe Pigford - To Win the Bout,Sam Eggington,-0.020699999999999996,0.4444,0.4651
 2023-05-27 11:40:40.626387,Main Markets - 3rd Round 2 Balls - K. Streelman v S. Piercy - 3rd Round 2 Balls,Kevin Streelman,-0.02169999999999994,0.5238,0.5455
 2023-05-27 15:40:36.575252,KLM Open - KLM Open - Winner,Romain Langasque,-0.021900000000000003,0.0025,0.0244
-2023-05-27 07:41:00.817432,Senior PGA Championship - Senior PGA Championship - Winner,Ernie Els,-0.021900000000000003,0.0025,0.0244
 2023-05-27 09:42:31.022683,Superettan - Superettan 2023 - Winner,Västerås SK,-0.021999999999999964,0.2857,0.3077
-2023-05-27 10:40:43.826722,Round Match-Ups - 3rd Round Match-Up - A. Putnam v C. Bezuidenhout - 3rd Round Match-Up,Andrew Putnam,-0.022600000000000064,0.5122,0.5348
 2023-05-27 10:40:43.752437,Round Match-Ups - 3rd Round Match-Up - V. Hovland v C. Morikawa - 3rd Round Match-Up,Viktor Hovland,-0.022600000000000064,0.5122,0.5348
-2023-05-27 07:41:00.268741,Round Match-Ups - 3rd Round Match-Up - S. Straka v L. List - 3rd Round Match-Up,Luke List,-0.022699999999999998,0.4651,0.4878
-2023-05-27 07:41:00.105208,Main Markets - 3rd Round 2 Balls - V. Hovland v A. Rai - 3rd Round 2 Balls,Viktor Hovland,-0.023799999999999932,0.6429,0.6667
+2023-05-27 10:40:43.826722,Round Match-Ups - 3rd Round Match-Up - A. Putnam v C. Bezuidenhout - 3rd Round Match-Up,Andrew Putnam,-0.022600000000000064,0.5122,0.5348
 2023-05-27 13:40:52.172317,Round Match-Ups - 2nd Round Match-Up - B. DeChambeau v S. Garcia - 2nd Round Match-Up,Sergio Garcia,-0.023799999999999988,0.4762,0.5
 2023-05-27 13:40:51.336950,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,-0.023800000000000043,0.5,0.5238
 2023-05-27 11:40:40.663138,Main Markets - 3rd Round 2 Balls - A. Eckroat v C. Young - 3rd Round 2 Balls,Carson Young,-0.024399999999999977,0.4878,0.5122
-2023-05-27 07:41:00.378813,Round Match-Ups - 3rd Round Match-Up - S. Piercy v C. Ramey - 3rd Round Match-Up,Chad Ramey,-0.024399999999999977,0.4878,0.5122
-2023-05-27 07:41:00.817432,Senior PGA Championship - Senior PGA Championship - Winner,Charlie Wi,-0.026099999999999998,0.0033,0.0294
 2023-05-27 15:40:36.575252,KLM Open - KLM Open - Winner,Alejandro Del Rey,-0.026099999999999998,0.0033,0.0294
-2023-05-27 07:41:00.817432,Senior PGA Championship - Senior PGA Championship - Winner,Thomas Bjorn,-0.0279,0.0066,0.0345
 2023-05-27 15:40:36.575252,KLM Open - KLM Open - Winner,Richie Ramsay,-0.028399999999999998,0.001,0.0294
 2023-05-27 19:40:43.300601,Succession Specials - Waystar CEO At The End Of The 4th Season - Waystar CEO At The End Of The 4th Season,Kendall Roy,-0.030299999999999994,0.4348,0.4651
 2023-05-27 15:40:36.575252,KLM Open - KLM Open - Winner,Marcus Armitage,-0.0319,0.0066,0.0385
-2023-05-27 07:41:00.817432,Senior PGA Championship - Senior PGA Championship - Winner,Jerry Kelly,-0.0336,0.0099,0.0435
 2023-05-27 17:40:46.374640,Boxing Lines - Sam Eggington vs Joe Pigford - To Win the Bout,Sam Eggington,-0.03489999999999999,0.4651,0.5
 2023-05-27 12:40:54.269095,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.0353,0.7647,0.8
 2023-05-27 19:40:43.340016,The Ultimate Fighter - Minute Of Conor McGregor's First Censor S31:Ep1 - Minute Of McGregor's First Censor In Episode 1,1.01 to 5.00 minutes,-0.03640000000000004,0.3636,0.4
-2023-05-27 07:41:00.817432,Senior PGA Championship - Senior PGA Championship - Winner,Robert Karlsson,-0.037700000000000004,0.0099,0.0476
-2023-05-27 07:41:00.817432,Senior PGA Championship - Senior PGA Championship - Winner,Richard Green,-0.0399,0.0036,0.0435
 2023-05-27 15:40:36.575252,KLM Open - KLM Open - Winner,Joost Luiten,-0.0427,0.0099,0.0526
-2023-05-27 07:41:00.817432,Senior PGA Championship - Senior PGA Championship - Winner,Miguel Angel Jimenez,-0.048799999999999996,0.0345,0.0833
 2023-05-27 15:40:36.575252,KLM Open - KLM Open - Winner,Renato Paratore,-0.0684,0.0149,0.0833
 2023-05-27 15:40:36.575252,KLM Open - KLM Open - Winner,Jorge Campillo,-0.3215,0.0294,0.3509
