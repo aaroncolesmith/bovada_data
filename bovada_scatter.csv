@@ -4,22 +4,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-28 07:40:43.196987,Bank of Hope LPGA Match-Play - Bank of Hope LPGA Match-Play - Winner,Linn Grant,0.2571,0.3571,0.1
 2023-05-28 03:40:45.141592,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Jayson Tatum (BOS),0.1995,0.4348,0.2353
 2023-05-28 07:40:43.196987,Bank of Hope LPGA Match-Play - Bank of Hope LPGA Match-Play - Winner,Leona Maguire,0.1901,0.3077,0.1176
-2023-05-28 07:40:43.196987,Bank of Hope LPGA Match-Play - Bank of Hope LPGA Match-Play - Winner,Ayaka Furue,0.1688,0.3226,0.1538
 2023-05-28 03:40:44.977579,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Boston Celtics,0.1688,0.4545,0.2857
+2023-05-28 07:40:43.196987,Bank of Hope LPGA Match-Play - Bank of Hope LPGA Match-Play - Winner,Ayaka Furue,0.1688,0.3226,0.1538
 2023-05-28 10:40:43.861758,Succession Specials - Season 4 Specials - Season 4 Specials,GoJo to acquire Waystar by the end of the 4th season,0.14289999999999992,0.6667,0.5238
 2023-05-28 07:40:43.196987,Bank of Hope LPGA Match-Play - Bank of Hope LPGA Match-Play - Winner,Pajaree Anannarukarn,0.1344,0.1667,0.0323
 2023-05-28 01:40:44.437367,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Boston Celtics,0.09040000000000004,0.5348,0.4444
+2023-05-28 12:40:43.429163,Succession Specials - Waystar CEO At The End Of The 4th Season - Waystar CEO At The End Of The 4th Season,Tom Wambsgans,0.06990000000000002,0.4545,0.3846
+2023-05-28 12:40:43.448974,Succession Specials - Last Character to Say 'Fuck' In The Final Episode Of Season 4 - Last Character To Say 'Fuck' In The Final Episode,Tom Wambsgans,0.06860000000000002,0.2353,0.1667
 2023-05-28 03:40:45.141592,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Jaylen Brown (BOS),0.0635,0.1111,0.0476
 2023-05-28 10:40:43.843141,Succession Specials - Character To Die In The Final Episode Of Season 4 - To Die In The Final Episode Of Season 4,Lukas Matsson,0.05559999999999998,0.1667,0.1111
 2023-05-28 10:40:43.853180,Succession Specials - Last Character to Say 'Fuck' In The Final Episode Of Season 4 - Last Character To Say 'Fuck' In The Final Episode,Shiv Roy,0.05559999999999998,0.1667,0.1111
 2023-05-28 06:40:42.792954,MLB Futures - MLB 2023 Player Awards - National League MVP,Ronald Acuña Jr.,0.05559999999999998,0.5556,0.5
 2023-05-28 09:40:42.233775,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Brazil U20,0.04580000000000001,0.3125,0.2667
 2023-05-28 10:40:43.843141,Succession Specials - Character To Die In The Final Episode Of Season 4 - To Die In The Final Episode Of Season 4,Tom Wambsgans,0.034100000000000005,0.125,0.0909
+2023-05-28 12:40:45.252483,Scores - Final Round Score - Adam Schenk - Final Round Score,Under 70.5,0.033299999999999996,0.4878,0.4545
 2023-05-28 06:40:42.799312,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Francisco Alvarez (NYM),0.03219999999999999,0.0667,0.0345
 2023-05-28 09:40:41.119306,Main Markets - Final Round 2 Balls - C. Champ v C. Gribble - Final Round 2 Balls,Cameron Champ,0.028900000000000037,0.5744,0.5455
 2023-05-28 08:40:45.399877,MLS - MLS 2023 - Winner,FC Cincinnati,0.028799999999999992,0.1538,0.125
-2023-05-28 08:40:45.436318,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Vasco da Gama,0.02779999999999999,0.25,0.2222
 2023-05-28 10:40:43.843141,Succession Specials - Character To Die In The Final Episode Of Season 4 - To Die In The Final Episode Of Season 4,Kendall Roy,0.02779999999999999,0.25,0.2222
+2023-05-28 08:40:45.436318,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Vasco da Gama,0.02779999999999999,0.25,0.2222
 2023-05-28 08:40:45.442203,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,São Paulo,0.02779999999999999,0.25,0.2222
 2023-05-28 09:40:42.150011,Superettan - Superettan 2023 - Winner,Östers IF,0.02779999999999999,0.25,0.2222
 2023-05-28 09:40:42.128795,Allsvenskan - Allsvenskan 2023 - Winner,Malmö FF,0.025600000000000067,0.6923,0.6667
@@ -37,11 +40,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-28 09:40:41.146200,Main Markets - Final Round 2 Balls - V. Norrman v A. Baddeley - Final Round 2 Balls,Vincent Norrman,0.02079999999999993,0.5556,0.5348
 2023-05-28 04:40:40.505968,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Nikola Jokic (DEN),0.02079999999999993,0.5556,0.5348
 2023-05-28 02:40:53.448416,Main Markets - Final Round 2 Balls - C. Bezuidenhout v M.W. Lee - Final Round 2 Balls,Christiaan Bezuidenhout,0.02079999999999993,0.5556,0.5348
-2023-05-28 02:40:53.341480,Main Markets - Final Round 2 Balls - B. Griffin v C. Reavie - Final Round 2 Balls,Ben Griffin,0.01970000000000005,0.5652,0.5455
-2023-05-28 06:40:44.932079,Main Markets - Final Round 2 Balls - A. Schenk v H. Hall - Final Round 2 Balls,Adam Schenk,0.01970000000000005,0.5652,0.5455
 2023-05-28 03:40:44.350788,Main Markets - Final Round 2 Balls - S. Stevens v S. Piercy - Final Round 2 Balls,Sam Stevens,0.01970000000000005,0.5652,0.5455
-2023-05-28 06:40:42.669700,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Tampa Bay Rays,0.019000000000000017,0.2857,0.2667
+2023-05-28 06:40:44.932079,Main Markets - Final Round 2 Balls - A. Schenk v H. Hall - Final Round 2 Balls,Adam Schenk,0.01970000000000005,0.5652,0.5455
+2023-05-28 02:40:53.341480,Main Markets - Final Round 2 Balls - B. Griffin v C. Reavie - Final Round 2 Balls,Ben Griffin,0.01970000000000005,0.5652,0.5455
 2023-05-28 01:40:44.446471,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Boston Celtics,0.019000000000000017,0.2857,0.2667
+2023-05-28 06:40:42.669700,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Tampa Bay Rays,0.019000000000000017,0.2857,0.2667
 2023-05-28 08:40:45.442203,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Fortaleza,0.01820000000000002,0.2,0.1818
 2023-05-28 09:40:41.218486,Main Markets - Final Round 2 Balls - S. Stevens v S. Piercy - Final Round 2 Balls,Sam Stevens,0.018100000000000005,0.5833,0.5652
 2023-05-28 08:40:45.448395,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Grêmio,0.016699999999999993,0.2667,0.25
@@ -70,8 +73,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-28 01:40:43.670150,Boxing Lines - Alexis Rocha vs Anthony Young - To Win the Bout,Alexis Rocha,0.010199999999999987,0.9333,0.9231
 2023-05-28 06:40:44.382533,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Boston Celtics,-0.010099999999999998,0.4444,0.4545
 2023-05-28 00:40:48.126935,Boxing Lines - Alexis Rocha vs Anthony Young - To Win the Bout,Alexis Rocha,-0.010199999999999987,0.9231,0.9333
-2023-05-28 08:40:45.436318,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Grêmio,-0.0102,0.0667,0.0769
 2023-05-28 11:40:49.827298,Succession Specials - Waystar CEO At The End Of The 4th Season - Waystar CEO At The End Of The 4th Season,Gerri Kellman,-0.0102,0.0667,0.0769
+2023-05-28 08:40:45.436318,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Grêmio,-0.0102,0.0667,0.0769
 2023-05-28 06:40:42.792954,MLB Futures - MLB 2023 Player Awards - National League MVP,Pete Alonso (NYM),-0.0102,0.0667,0.0769
 2023-05-28 09:40:41.129041,Main Markets - Final Round 2 Balls - K.H. Lee v M. NeSmith - Final Round 2 Balls,K.H. Lee,-0.010699999999999932,0.5348,0.5455
 2023-05-28 06:40:42.678663,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Atlanta Braves,-0.010699999999999987,0.3226,0.3333
@@ -82,30 +85,34 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-28 09:40:41.218486,Main Markets - Final Round 2 Balls - S. Stevens v S. Piercy - Final Round 2 Balls,Scott Piercy,-0.011099999999999999,0.4651,0.4762
 2023-05-28 08:40:45.436318,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Fortaleza,-0.011199999999999995,0.0476,0.0588
 2023-05-28 00:40:48.134486,Boxing Lines - Oscar Collazo vs Melvin Jerusalem - To Win the Bout,Melvin Jerusalem,-0.011400000000000021,0.2703,0.2817
-2023-05-28 10:40:44.528681,Round Match-Ups - Final Round Match-Up - H. Hall v K. Streelman - Final Round Match-Up,Harry Hall,-0.011600000000000055,0.5122,0.5238
+2023-05-28 12:40:44.839895,Main Markets - Final Round 2 Balls - V. Norrman v A. Baddeley - Final Round 2 Balls,Aaron Baddeley,-0.0116,0.4762,0.4878
 2023-05-28 10:40:44.382361,Round Match-Ups - Final Round Match-Up - L. List v V. Norrman - Final Round Match-Up,Luke List,-0.011600000000000055,0.5122,0.5238
+2023-05-28 10:40:44.528681,Round Match-Ups - Final Round Match-Up - H. Hall v K. Streelman - Final Round Match-Up,Harry Hall,-0.011600000000000055,0.5122,0.5238
 2023-05-28 06:40:42.748420,MLB Futures - MLB 2023 National League West - National League West Winner,Los Angeles Dodgers,-0.011699999999999933,0.7778,0.7895
 2023-05-28 01:40:43.662759,Boxing Lines - Oscar Collazo vs Melvin Jerusalem - To Win the Bout,Oscar Collazo,-0.011699999999999933,0.7778,0.7895
-2023-05-28 06:40:42.765412,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Gerrit Cole (NYY),-0.011700000000000016,0.2105,0.2222
 2023-05-28 06:40:42.765412,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Shane McClanahan (TB),-0.011700000000000016,0.2105,0.2222
+2023-05-28 06:40:42.765412,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Gerrit Cole (NYY),-0.011700000000000016,0.2105,0.2222
 2023-05-28 02:40:53.581556,Senior PGA Championship - Senior PGA Championship - Winner,Retief Goosen,-0.0119,0.0004,0.0123
 2023-05-28 10:40:44.411318,Round Match-Ups - Final Round Match-Up - B. Horschel v J. Dahmen - Final Round Match-Up,Joel Dahmen,-0.012199999999999989,0.5,0.5122
 2023-05-28 10:40:44.396415,Round Match-Ups - Final Round Match-Up - C. Reavie v P. Kizzire - Final Round Match-Up,Patton Kizzire,-0.012199999999999989,0.5,0.5122
-2023-05-28 06:40:42.687461,MLB Futures - MLB 2023 American League Central - American League Central Winner,Chicago White Sox,-0.013899999999999996,0.1111,0.125
 2023-05-28 06:40:42.711339,MLB Futures - MLB 2023 American League West - American League West Winner,Seattle Mariners,-0.013899999999999996,0.1111,0.125
+2023-05-28 06:40:42.687461,MLB Futures - MLB 2023 American League Central - American League Central Winner,Chicago White Sox,-0.013899999999999996,0.1111,0.125
 2023-05-28 10:40:43.843141,Succession Specials - Character To Die In The Final Episode Of Season 4 - To Die In The Final Episode Of Season 4,Shiv Roy,-0.013899999999999996,0.1111,0.125
+2023-05-28 12:40:43.429163,Succession Specials - Waystar CEO At The End Of The 4th Season - Waystar CEO At The End Of The 4th Season,Roman Roy,-0.013999999999999999,0.0769,0.0909
 2023-05-28 08:40:45.399877,MLS - MLS 2023 - Winner,New England Revolution,-0.013999999999999999,0.0769,0.0909
-2023-05-28 08:40:45.399877,MLS - MLS 2023 - Winner,New York City FC,-0.014099999999999998,0.0244,0.0385
 2023-05-28 08:40:45.399877,MLS - MLS 2023 - Winner,Austin FC,-0.014099999999999998,0.0244,0.0385
+2023-05-28 08:40:45.399877,MLS - MLS 2023 - Winner,New York City FC,-0.014099999999999998,0.0244,0.0385
 2023-05-28 08:40:45.399877,MLS - MLS 2023 - Winner,Columbus Crew,-0.014099999999999998,0.0244,0.0385
 2023-05-28 04:40:40.525167,Boxing Lines - Kevin Lele Sadjo vs Sven Elbir - To Win the Bout,Sven Elbir,-0.014299999999999993,0.1,0.1143
+2023-05-28 12:40:43.448974,Succession Specials - Last Character to Say 'Fuck' In The Final Episode Of Season 4 - Last Character To Say 'Fuck' In The Final Episode,Kendall Roy,-0.01469999999999999,0.2353,0.25
 2023-05-28 10:40:44.505822,Round Match-Ups - Final Round Match-Up - S. Scheffler v V. Hovland - Final Round Match-Up,Scottie Scheffler,-0.014800000000000035,0.6078,0.6226
 2023-05-28 10:40:43.853180,Succession Specials - Last Character to Say 'Fuck' In The Final Episode Of Season 4 - Last Character To Say 'Fuck' In The Final Episode,Connor Roy,-0.014899999999999997,0.0476,0.0625
 2023-05-28 02:40:53.581556,Senior PGA Championship - Senior PGA Championship - Winner,Darren Clarke,-0.014900000000000004,0.0196,0.0345
 2023-05-28 08:40:45.399877,MLS - MLS 2023 - Winner,Los Angeles FC,-0.015100000000000002,0.1667,0.1818
-2023-05-28 02:40:53.581556,Senior PGA Championship - Senior PGA Championship - Winner,Stephen Ames,-0.016,0.0036,0.0196
 2023-05-28 02:40:53.581556,Senior PGA Championship - Senior PGA Championship - Winner,David Toms,-0.016,0.0036,0.0196
+2023-05-28 02:40:53.581556,Senior PGA Championship - Senior PGA Championship - Winner,Stephen Ames,-0.016,0.0036,0.0196
 2023-05-28 09:40:42.128795,Allsvenskan - Allsvenskan 2023 - Winner,BK Häcken,-0.016699999999999993,0.25,0.2667
+2023-05-28 12:40:43.429163,Succession Specials - Waystar CEO At The End Of The 4th Season - Waystar CEO At The End Of The 4th Season,Kendall Roy,-0.016699999999999993,0.4,0.4167
 2023-05-28 08:40:45.442203,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Athletico Paranaense,-0.016699999999999993,0.25,0.2667
 2023-05-28 06:40:44.524222,NBA Awards - Eastern Conference Finals MVP - ECF MVP,Bam Adebayo (MIA),-0.017100000000000004,0.0152,0.0323
 2023-05-28 06:40:42.792954,MLB Futures - MLB 2023 Player Awards - National League MVP,Juan Soto (SD),-0.018099999999999998,0.0588,0.0769
@@ -117,25 +124,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-28 02:40:53.581556,Senior PGA Championship - Senior PGA Championship - Winner,Miguel Angel Jimenez,-0.022200000000000004,0.0123,0.0345
 2023-05-28 06:40:42.779018,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Anthony Volpe (NYY),-0.02310000000000001,0.0769,0.1
 2023-05-28 02:40:53.581556,Senior PGA Championship - Senior PGA Championship - Winner,Adilson Da Silva,-0.0237,0.0057,0.0294
+2023-05-28 10:40:43.843141,Succession Specials - Character To Die In The Final Episode Of Season 4 - To Die In The Final Episode Of Season 4,Roman Roy,-0.023799999999999988,0.1429,0.1667
 2023-05-28 06:40:44.932079,Main Markets - Final Round 2 Balls - A. Schenk v H. Hall - Final Round 2 Balls,Harry Hall,-0.023799999999999988,0.4762,0.5
+2023-05-28 03:40:44.350788,Main Markets - Final Round 2 Balls - S. Stevens v S. Piercy - Final Round 2 Balls,Scott Piercy,-0.023799999999999988,0.4762,0.5
 2023-05-28 02:40:53.341480,Main Markets - Final Round 2 Balls - B. Griffin v C. Reavie - Final Round 2 Balls,Chez Reavie,-0.023799999999999988,0.4762,0.5
 2023-05-28 09:40:41.119306,Main Markets - Final Round 2 Balls - C. Champ v C. Gribble - Final Round 2 Balls,Cody Gribble,-0.023799999999999988,0.4762,0.5
-2023-05-28 03:40:44.350788,Main Markets - Final Round 2 Balls - S. Stevens v S. Piercy - Final Round 2 Balls,Scott Piercy,-0.023799999999999988,0.4762,0.5
-2023-05-28 10:40:43.843141,Succession Specials - Character To Die In The Final Episode Of Season 4 - To Die In The Final Episode Of Season 4,Roman Roy,-0.023799999999999988,0.1429,0.1667
-2023-05-28 03:40:44.343226,Main Markets - Final Round 2 Balls - R. Shelton v S. Straka - Final Round 2 Balls,Robby Shelton,-0.023800000000000043,0.5,0.5238
 2023-05-28 10:40:44.538880,Round Match-Ups - Final Round Match-Up - E. Grillo v H. English - Final Round Match-Up,Emiliano Grillo,-0.023800000000000043,0.5,0.5238
+2023-05-28 03:40:44.343226,Main Markets - Final Round 2 Balls - R. Shelton v S. Straka - Final Round 2 Balls,Robby Shelton,-0.023800000000000043,0.5,0.5238
 2023-05-28 02:40:53.448416,Main Markets - Final Round 2 Balls - C. Bezuidenhout v M.W. Lee - Final Round 2 Balls,Min Woo Lee,-0.024399999999999977,0.4878,0.5122
 2023-05-28 09:40:41.146200,Main Markets - Final Round 2 Balls - V. Norrman v A. Baddeley - Final Round 2 Balls,Aaron Baddeley,-0.024399999999999977,0.4878,0.5122
 2023-05-28 06:40:42.799312,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Brett Baty (NYM),-0.0245,0.0588,0.0833
+2023-05-28 12:40:43.448974,Succession Specials - Last Character to Say 'Fuck' In The Final Episode Of Season 4 - Last Character To Say 'Fuck' In The Final Episode,Roman Roy,-0.02560000000000001,0.3077,0.3333
 2023-05-28 06:40:44.395512,NBA Futures - 2023/24 NBA Season - 2023-24 NBA Champion,Denver Nuggets,-0.027999999999999997,0.1538,0.1818
 2023-05-28 06:40:42.765412,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,George Kirby,-0.028399999999999995,0.0625,0.0909
 2023-05-28 06:40:42.779018,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Hunter Brown (HOU),-0.031799999999999995,0.1111,0.1429
 2023-05-28 10:40:43.843141,Succession Specials - Character To Die In The Final Episode Of Season 4 - To Die In The Final Episode Of Season 4,Marcia Roy,-0.033300000000000024,0.1667,0.2
+2023-05-28 12:40:45.252483,Scores - Final Round Score - Adam Schenk - Final Round Score,Over 70.5,-0.033399999999999985,0.5744,0.6078
 2023-05-28 02:40:53.581556,Senior PGA Championship - Senior PGA Championship - Winner,Alex Cejka,-0.0349,0.0036,0.0385
 2023-05-28 09:40:42.233775,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Japan U20,-0.0427,0.0099,0.0526
 2023-05-28 02:40:53.581556,Senior PGA Championship - Senior PGA Championship - Winner,Katsumasa Miyamoto,-0.0476,0.005,0.0526
 2023-05-28 01:40:44.446471,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Miami Heat,-0.04849999999999999,0.1333,0.1818
 2023-05-28 08:40:45.448395,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Athletico Paranaense,-0.05070000000000002,0.4255,0.4762
+2023-05-28 12:40:43.429163,Succession Specials - Waystar CEO At The End Of The 4th Season - Waystar CEO At The End Of The 4th Season,Greg Hirsch,-0.05299999999999999,0.25,0.303
 2023-05-28 02:40:53.581556,Senior PGA Championship - Senior PGA Championship - Winner,Padraig Harrington,-0.05449999999999999,0.5455,0.6
 2023-05-28 01:40:44.437367,2022/23 Conferences - 2022-2023 NBA Eastern Conference - Eastern Conference Winner,Miami Heat,-0.05689999999999995,0.5348,0.5917
 2023-05-28 10:40:43.853180,Succession Specials - Last Character to Say 'Fuck' In The Final Episode Of Season 4 - Last Character To Say 'Fuck' In The Final Episode,Kendall Roy,-0.057699999999999974,0.25,0.3077
