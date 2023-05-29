@@ -11,8 +11,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-29 10:40:38.039295,MLS - MLS 2023 - Winner,Nashville SC,0.058300000000000005,0.125,0.0667
 2023-05-29 10:40:38.039295,MLS - MLS 2023 - Winner,Los Angeles FC,0.05550000000000002,0.2222,0.1667
 2023-05-29 10:40:38.075387,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Fluminense,0.055499999999999994,0.8333,0.7778
-2023-05-29 10:40:38.045341,MLS - MLS 2023 - Top Goalscorer,Daniel Gazdag (PHI),0.04329999999999999,0.0909,0.0476
 2023-05-29 15:40:35.636620,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Royce Lewis,0.04329999999999999,0.0909,0.0476
+2023-05-29 10:40:38.045341,MLS - MLS 2023 - Top Goalscorer,Daniel Gazdag (PHI),0.04329999999999999,0.0909,0.0476
 2023-05-29 10:40:38.070031,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Grêmio,0.04169999999999999,0.1667,0.125
 2023-05-29 16:40:49.215255,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Elly De La Cruz,0.04120000000000001,0.1,0.0588
 2023-05-29 10:40:38.064604,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Coritiba,0.033299999999999996,0.8333,0.8
@@ -25,36 +25,38 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-29 10:40:38.045341,MLS - MLS 2023 - Top Goalscorer,Julian Carranza (PHI),0.0189,0.0385,0.0196
 2023-05-29 08:40:40.101695,Allsvenskan - Allsvenskan 2023 - Winner,IF Elfsborg,0.015700000000000006,0.1333,0.1176
 2023-05-29 10:40:38.075387,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,São Paulo,0.015400000000000025,0.4,0.3846
-2023-05-29 10:40:38.039295,MLS - MLS 2023 - Winner,New England Revolution,0.013999999999999999,0.0909,0.0769
-2023-05-29 10:40:38.075387,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Corinthians,0.013999999999999999,0.0909,0.0769
+2023-05-29 19:40:42.448592,NBA Awards - Eastern Conference Finals MVP - ECF MVP,Derrick White (BOS),0.014099999999999998,0.0385,0.0244
 2023-05-29 10:40:38.059001,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Botafogo,0.013999999999999999,0.0909,0.0769
+2023-05-29 10:40:38.075387,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Corinthians,0.013999999999999999,0.0909,0.0769
+2023-05-29 10:40:38.039295,MLS - MLS 2023 - Winner,New England Revolution,0.013999999999999999,0.0909,0.0769
 2023-05-29 10:40:38.180032,Superettan - Superettan 2023 - Winner,Utsiktens,0.012899999999999995,0.1667,0.1538
 2023-05-29 14:40:45.892895,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Elly De La Cruz,0.011199999999999995,0.0588,0.0476
 2023-05-29 10:40:38.241273,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Argentina U20,0.010499999999999982,0.2105,0.2
+2023-05-29 19:40:40.464721,Boxing Lines - Josh Taylor vs Teofimo Lopez - To Win the Bout,Josh Taylor,0.010399999999999965,0.6454,0.635
 2023-05-29 10:40:38.039295,MLS - MLS 2023 - Winner,Saint Louis City SC,0.0102,0.0769,0.0667
 2023-05-29 08:40:40.126648,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,Boca Juniors,0.010100000000000001,0.0345,0.0244
 2023-05-29 10:40:38.075387,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Cruzeiro,-0.010399999999999993,0.2222,0.2326
-2023-05-29 10:40:38.241273,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Uruguay U20,-0.010899999999999993,0.1429,0.1538
 2023-05-29 10:40:38.039295,MLS - MLS 2023 - Winner,FC Cincinnati,-0.010899999999999993,0.1429,0.1538
+2023-05-29 10:40:38.241273,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Uruguay U20,-0.010899999999999993,0.1429,0.1538
 2023-05-29 10:40:38.070031,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,RB Bragantino,-0.011199999999999995,0.0476,0.0588
 2023-05-29 10:40:38.045341,MLS - MLS 2023 - Top Goalscorer,Juan Hernandez (CLB),-0.013,0.0066,0.0196
 2023-05-29 08:40:40.126648,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,Belgrano,-0.0131,0.0345,0.0476
 2023-05-29 10:40:38.070031,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Cruzeiro,-0.013999999999999999,0.0769,0.0909
 2023-05-29 10:40:38.064604,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Cruzeiro,-0.013999999999999999,0.0769,0.0909
-2023-05-29 10:40:38.045341,MLS - MLS 2023 - Top Goalscorer,Sebastian Driussi (AUS),-0.014499999999999999,0.0149,0.0294
 2023-05-29 10:40:38.045341,MLS - MLS 2023 - Top Goalscorer,Lorenzo Insigne (TOR),-0.014499999999999999,0.0149,0.0294
-2023-05-29 10:40:38.045341,MLS - MLS 2023 - Top Goalscorer,Josef Martinez (MIA),-0.014499999999999999,0.0149,0.0294
+2023-05-29 10:40:38.045341,MLS - MLS 2023 - Top Goalscorer,Sebastian Driussi (AUS),-0.014499999999999999,0.0149,0.0294
 2023-05-29 10:40:38.045341,MLS - MLS 2023 - Top Goalscorer,Jeremy Ebobisse (SJE),-0.014499999999999999,0.0149,0.0294
-2023-05-29 10:40:38.045341,MLS - MLS 2023 - Top Goalscorer,Javier Hernandez (LAG),-0.014499999999999999,0.0149,0.0294
 2023-05-29 10:40:38.045341,MLS - MLS 2023 - Top Goalscorer,Federico Bernardeschi (TOR),-0.014499999999999999,0.0149,0.0294
+2023-05-29 10:40:38.045341,MLS - MLS 2023 - Top Goalscorer,Javier Hernandez (LAG),-0.014499999999999999,0.0149,0.0294
+2023-05-29 10:40:38.045341,MLS - MLS 2023 - Top Goalscorer,Josef Martinez (MIA),-0.014499999999999999,0.0149,0.0294
 2023-05-29 10:40:38.045341,MLS - MLS 2023 - Top Goalscorer,Taxiarchis Fountas (DCU),-0.0145,0.0099,0.0244
 2023-05-29 10:40:38.045341,MLS - MLS 2023 - Top Goalscorer,Heber Araujo (SEA),-0.0145,0.0099,0.0244
 2023-05-29 10:40:38.045341,MLS - MLS 2023 - Top Goalscorer,Brenner da Silva (CIN),-0.0156,0.004,0.0196
 2023-05-29 10:40:38.039295,MLS - MLS 2023 - Winner,Seattle Sounders,-0.018099999999999998,0.0588,0.0769
 2023-05-29 10:40:38.064604,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Santos,-0.01820000000000002,0.1818,0.2
+2023-05-29 10:40:38.070031,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Vasco da Gama,-0.0189,0.0196,0.0385
 2023-05-29 10:40:38.070031,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Santos,-0.0189,0.0196,0.0385
 2023-05-29 10:40:38.075387,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,América Mineiro,-0.0189,0.0196,0.0385
-2023-05-29 10:40:38.070031,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Vasco da Gama,-0.0189,0.0196,0.0385
 2023-05-29 10:40:38.064604,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Cuiabá,-0.018999999999999906,0.7143,0.7333
 2023-05-29 10:40:38.064604,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Grêmio,-0.019099999999999992,0.0476,0.0667
 2023-05-29 10:40:38.045341,MLS - MLS 2023 - Top Goalscorer,Joao Klauss (STL),-0.019499999999999997,0.0099,0.0294
