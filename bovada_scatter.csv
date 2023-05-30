@@ -1,4 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2023-05-30 01:40:50.002368,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Denver Nuggets,0.1318999999999999,0.6667,0.5348
+2023-05-30 01:40:50.002368,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Miami Heat,0.1079,0.1667,0.0588
 2023-05-29 18:40:45.258384,Nobel Prizes - Nobel Peace Prize - Nobel Peace Prize Winner 2023,Volodymyr Zelenskyy,0.08080000000000004,0.4444,0.3636
 2023-05-29 15:40:35.636620,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Royce Lewis,0.04329999999999999,0.0909,0.0476
 2023-05-30 00:40:46.706388,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Boston Celtics,0.04139999999999999,0.4762,0.4348
@@ -11,3 +13,4 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-29 23:40:55.772479,The Memorial Tournament - The Memorial Tournament  - Winner,Rory McIlroy,-0.0102,0.0667,0.0769
 2023-05-30 00:40:46.706388,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Denver Nuggets,-0.02079999999999993,0.5348,0.5556
 2023-05-29 18:40:45.258384,Nobel Prizes - Nobel Peace Prize - Nobel Peace Prize Winner 2023,Alexei Navalny,-0.04169999999999999,0.125,0.1667
+2023-05-30 01:40:50.002368,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Boston Celtics,-0.2262,0.25,0.4762
