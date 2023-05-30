@@ -9,11 +9,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-30 00:40:46.706388,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Boston Celtics,0.04139999999999999,0.4762,0.4348
 2023-05-30 06:40:45.414427,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Bam Adebayo (MIA),0.0286,0.0385,0.0099
 2023-05-30 05:40:41.386202,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,0.027700000000000058,0.5833,0.5556
+2023-05-30 12:40:37.950236,Tournament Match-Ups - Tournament Match-Up - J. Spieth vs T. Hatton - Tournament Match-Up,Tyrrell Hatton,0.026499999999999968,0.5917,0.5652
 2023-05-30 05:40:41.400919,MLB Futures - MLB 2023 National League West - National League West Winner,Los Angeles Dodgers,0.023799999999999932,0.8571,0.8333
+2023-05-30 12:40:37.976501,Tournament Match-Ups - Tournament Match-Up - S. Burns vs C. Conners - Tournament Match-Up,Corey Conners,0.02169999999999994,0.5455,0.5238
+2023-05-30 12:40:37.915144,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs J. Day - Tournament Match-Up,Jason Day,0.02169999999999994,0.5455,0.5238
 2023-05-30 03:40:54.633012,Round Match-Ups - Parlays - Tournament Match-Up - J. Rahm vs S. Scheffler - Tournament Match-Up,Scottie Scheffler,0.02079999999999993,0.5556,0.5348
 2023-05-30 03:40:54.675971,Round Match-Ups - Parlays - Tournament Match-Up - S. Theegala vs T. Kim - Tournament Match-Up,Sahith Theegala,0.02079999999999993,0.5556,0.5348
-2023-05-30 04:40:38.371524,Round Match-Ups - Parlays - Tournament Match-Up - R. Fowler vs W. Clark - Tournament Match-Up,Rickie Fowler,0.01970000000000005,0.5652,0.5455
 2023-05-30 03:40:54.684259,Round Match-Ups - Parlays - Tournament Match-Up - V. Hovland vs J. Thomas - Tournament Match-Up,Viktor Hovland,0.01970000000000005,0.5652,0.5455
+2023-05-30 04:40:38.371524,Round Match-Ups - Parlays - Tournament Match-Up - R. Fowler vs W. Clark - Tournament Match-Up,Rickie Fowler,0.01970000000000005,0.5652,0.5455
 2023-05-30 05:40:41.378638,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,0.018100000000000005,0.5833,0.5652
 2023-05-30 07:40:37.284233,Allsvenskan - Allsvenskan 2023 - Winner,BK Häcken,0.016699999999999993,0.2667,0.25
 2023-05-30 03:40:54.592636,The Memorial Tournament - The Memorial Tournament  - Winner,Xander Schauffele,0.016600000000000004,0.0833,0.0667
@@ -21,22 +24,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-30 11:40:49.961586,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Arsenal,0.013899999999999996,0.125,0.1111
 2023-05-30 05:40:41.369734,MLB Futures - MLB 2023 American League East - American League East Winner,New York Yankees,0.012899999999999995,0.1667,0.1538
 2023-05-30 05:40:42.491170,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Denver Nuggets,0.011699999999999933,0.7895,0.7778
+2023-05-30 12:40:37.985195,Tournament Match-Ups - Tournament Match-Up - S. Theegala vs T. Kim - Tournament Match-Up,Tom Kim,0.011600000000000055,0.5238,0.5122
 2023-05-30 10:40:42.873666,Boxing Lines - Tim Tszyu vs Carlos Ocampo - To Win the Bout,Tim Tszyu,0.011099999999999999,0.9,0.8889
 2023-05-30 06:40:45.304711,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Denver Nuggets,0.010500000000000065,0.8,0.7895
 2023-05-30 11:40:49.961586,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Chelsea,0.0102,0.0769,0.0667
+2023-05-30 12:40:37.985195,Tournament Match-Ups - Tournament Match-Up - S. Theegala vs T. Kim - Tournament Match-Up,Sahith Theegala,-0.010099999999999998,0.5455,0.5556
 2023-05-30 05:40:41.369734,MLB Futures - MLB 2023 American League East - American League East Winner,Toronto Blue Jays,-0.0102,0.0667,0.0769
-2023-05-29 23:40:55.772479,The Memorial Tournament - The Memorial Tournament  - Winner,Rory McIlroy,-0.0102,0.0667,0.0769
 2023-05-30 07:40:37.303714,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,Rosario Central,-0.011199999999999995,0.0476,0.0588
 2023-05-30 04:40:38.357263,Round Match-Ups - Parlays - Tournament Match-Up - J. Rahm vs S. Scheffler - Tournament Match-Up,Jon Rahm,-0.012199999999999989,0.5,0.5122
 2023-05-30 05:40:41.362188,MLB Futures - MLB 2023 American League Central - American League Central Winner,Detroit Tigers,-0.015700000000000006,0.1176,0.1333
 2023-05-30 06:40:45.304711,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Miami Heat,-0.016699999999999993,0.25,0.2667
-2023-05-30 05:40:41.400919,MLB Futures - MLB 2023 National League West - National League West Winner,San Diego Padres,-0.016700000000000007,0.0833,0.1
 2023-05-30 03:40:54.592636,The Memorial Tournament - The Memorial Tournament  - Winner,Patrick Cantlay,-0.016700000000000007,0.0833,0.1
+2023-05-30 05:40:41.400919,MLB Futures - MLB 2023 National League West - National League West Winner,San Diego Padres,-0.016700000000000007,0.0833,0.1
 2023-05-30 07:40:37.284233,Allsvenskan - Allsvenskan 2023 - Winner,Malmö FF,-0.01880000000000004,0.6364,0.6552
 2023-05-30 00:40:46.706388,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Denver Nuggets,-0.02079999999999993,0.5348,0.5556
+2023-05-30 12:40:37.915144,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs J. Day - Tournament Match-Up,Collin Morikawa,-0.02169999999999994,0.5238,0.5455
+2023-05-30 12:40:37.976501,Tournament Match-Ups - Tournament Match-Up - S. Burns vs C. Conners - Tournament Match-Up,Sam Burns,-0.02169999999999994,0.5238,0.5455
 2023-05-30 05:40:41.378638,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,-0.021999999999999964,0.2857,0.3077
-2023-05-30 03:40:54.633012,Round Match-Ups - Parlays - Tournament Match-Up - J. Rahm vs S. Scheffler - Tournament Match-Up,Jon Rahm,-0.022600000000000064,0.5122,0.5348
 2023-05-30 03:40:54.675971,Round Match-Ups - Parlays - Tournament Match-Up - S. Theegala vs T. Kim - Tournament Match-Up,Tom Kim,-0.022600000000000064,0.5122,0.5348
+2023-05-30 03:40:54.633012,Round Match-Ups - Parlays - Tournament Match-Up - J. Rahm vs S. Scheffler - Tournament Match-Up,Jon Rahm,-0.022600000000000064,0.5122,0.5348
+2023-05-30 12:40:37.950236,Tournament Match-Ups - Tournament Match-Up - J. Spieth vs T. Hatton - Tournament Match-Up,Jordan Spieth,-0.023799999999999988,0.4762,0.5
 2023-05-30 03:40:54.684259,Round Match-Ups - Parlays - Tournament Match-Up - V. Hovland vs J. Thomas - Tournament Match-Up,Justin Thomas,-0.023800000000000043,0.5,0.5238
 2023-05-30 04:40:38.371524,Round Match-Ups - Parlays - Tournament Match-Up - R. Fowler vs W. Clark - Tournament Match-Up,Wyndham Clark,-0.023800000000000043,0.5,0.5238
 2023-05-30 05:40:41.386202,MLB Futures - MLB 2023 National League Central - National League Central Winner,St. Louis Cardinals,-0.02560000000000001,0.3077,0.3333
