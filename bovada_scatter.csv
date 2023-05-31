@@ -5,27 +5,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-30 18:40:39.966818,Boxing Lines - Hayato Tsutsumi vs Jeo Santisima - To Win the Bout,Jeo Santisima,0.0353,0.2353,0.2
 2023-05-30 20:40:40.771344,MLB Futures - MLB 2023 American League East - American League East Winner,New York Yankees,0.033300000000000024,0.2,0.1667
 2023-05-30 20:40:40.771344,MLB Futures - MLB 2023 American League East - American League East Winner,Toronto Blue Jays,0.03330000000000001,0.1,0.0667
-2023-05-30 16:40:41.508821,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Nigeria U20,0.028199999999999996,0.0667,0.0385
 2023-05-31 03:41:04.221283,Boxing Lines - Hayato Tsutsumi vs Jeo Santisima - To Win the Bout,Jeo Santisima,0.02779999999999999,0.25,0.2222
-2023-05-30 16:40:41.508821,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Argentina U20,0.024800000000000016,0.2353,0.2105
 2023-05-30 20:40:40.796663,MLB Futures - MLB 2023 National League East - National League East Winner,Philadelphia Phillies,0.0208,0.0833,0.0625
-2023-05-30 16:40:41.508821,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Gambia U20,0.0203,0.0588,0.0385
-2023-05-30 16:40:39.556081,Boxing Lines - Hayato Tsutsumi vs Jeo Santisima - To Win the Bout,Jeo Santisima,0.01820000000000002,0.2,0.1818
 2023-05-31 03:41:07.898633,Porsche European Open - 2/3 Balls - 1st Round 3 Balls - D. Brown / Y. Schutz / M. Chenyao - 1st Round 3 Balls ,Daniel Brown,0.018100000000000005,0.5833,0.5652
-2023-05-30 16:40:41.508821,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Colombia U20,0.016700000000000007,0.1,0.0833
 2023-05-30 20:40:40.785925,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,0.016699999999999937,0.6,0.5833
 2023-05-30 22:40:39.503610,Default Specials - United States GDP Growth For 2023 - US GDP Growth 2023,Negative Growth,0.015400000000000025,0.4,0.3846
 2023-05-30 20:40:40.785925,MLB Futures - MLB 2023 National League Central - National League Central Winner,St. Louis Cardinals,0.014900000000000024,0.3226,0.3077
-2023-05-30 16:40:41.508821,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,USA U20,0.014099999999999994,0.0667,0.0526
 2023-05-30 20:40:40.805306,MLB Futures - MLB 2023 National League West - National League West Winner,San Francisco Giants,0.013999999999999999,0.0909,0.0769
-2023-05-30 16:40:41.508821,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Italy U20,0.013999999999999999,0.0909,0.0769
 2023-05-30 22:40:39.374358,Boxing Lines - Hayato Tsutsumi vs Jeo Santisima - To Win the Bout,Hayato Tsutsumi,0.012899999999999912,0.8462,0.8333
 2023-05-30 19:40:59.728304,The Memorial Tournament - The Memorial Tournament  - Winner,Sam Burns,0.010100000000000001,0.0345,0.0244
 2023-05-30 20:40:40.785925,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,-0.010099999999999998,0.0952,0.1053
-2023-05-30 16:40:41.653652,The Memorial Tournament - The Memorial Tournament  - Winner,Xander Schauffele,-0.0102,0.0667,0.0769
 2023-05-30 22:40:40.163438,Scores - 1st Round Score - Justin Thomas - 1st Round Score,Over 72.5,-0.010599999999999998,0.4545,0.4651
 2023-05-30 22:40:39.374358,Boxing Lines - Hayato Tsutsumi vs Jeo Santisima - To Win the Bout,Jeo Santisima,-0.0131,0.2222,0.2353
-2023-05-30 16:40:39.556081,Boxing Lines - Hayato Tsutsumi vs Jeo Santisima - To Win the Bout,Hayato Tsutsumi,-0.015699999999999936,0.8667,0.8824
 2023-05-30 20:40:40.763919,MLB Futures - MLB 2023 American League Central - American League Central Winner,Chicago White Sox,-0.022000000000000006,0.0833,0.1053
 2023-05-30 20:40:40.763919,MLB Futures - MLB 2023 American League Central - American League Central Winner,Cleveland Guardians,-0.022699999999999998,0.2273,0.25
 2023-05-30 20:40:40.796663,MLB Futures - MLB 2023 National League East - National League East Winner,Atlanta Braves,-0.023799999999999932,0.8333,0.8571
@@ -34,10 +25,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-30 20:40:40.778604,MLB Futures - MLB 2023 American League West - American League West Winner,Seattle Mariners,-0.031799999999999995,0.1111,0.1429
 2023-05-30 20:40:40.771344,MLB Futures - MLB 2023 American League East - American League East Winner,Baltimore Orioles,-0.033299999999999996,0.1,0.1333
 2023-05-30 18:40:39.966818,Boxing Lines - Hayato Tsutsumi vs Jeo Santisima - To Win the Bout,Hayato Tsutsumi,-0.033399999999999985,0.8333,0.8667
-2023-05-30 16:40:41.508821,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,England U20,-0.033399999999999985,0.1333,0.1667
 2023-05-30 20:40:40.763919,MLB Futures - MLB 2023 American League Central - American League Central Winner,Detroit Tigers,-0.0343,0.0833,0.1176
 2023-05-30 20:40:40.805306,MLB Futures - MLB 2023 National League West - National League West Winner,Los Angeles Dodgers,-0.038899999999999935,0.8182,0.8571
 2023-05-30 22:40:39.503610,Default Specials - United States GDP Growth For 2023 - US GDP Growth 2023,Positive Growth,-0.04760000000000009,0.6667,0.7143
-2023-05-30 16:40:41.508821,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Uruguay U20,-0.052000000000000005,0.0909,0.1429
 2023-05-30 20:40:40.771344,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,-0.055499999999999994,0.6667,0.7222
-2023-05-30 16:40:41.508821,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Brazil U20,-0.09799999999999998,0.2353,0.3333
