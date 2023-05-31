@@ -2,6 +2,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-31 13:40:56.838927,MLB Daily Specials - MLB Daily Specials - Wednesday May 31 - Early Games,Any Player To Have a Four Home Run Game*,0.098,0.1,0.002
 2023-05-31 08:41:57.387202,Default Specials - S&P 500 Value On June 30th 2023 - S&P 500 Value On June 30th 2023,4001 to 4500 points,0.08080000000000004,0.4444,0.3636
 2023-05-31 10:40:37.949529,Default Specials - S&P 500 Value On June 30th 2023 - S&P 500 Value On June 30th 2023,4001 to 4500 points,0.05559999999999998,0.5,0.4444
+2023-05-31 14:40:45.280044,Boxing Lines - Sarah Liegmann vs Carisse Brown - To Win the Bout,Sarah Liegmann,0.04810000000000003,0.9231,0.875
 2023-05-31 12:40:46.498757,Scores - 1st Round Score - Rory McIlroy - 1st Round Score,Under 71.5,0.043399999999999994,0.5556,0.5122
 2023-05-31 10:40:39.912799,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Nathan Eovaldi (TEX),0.0427,0.0526,0.0099
 2023-05-31 05:40:41.845951,MLB Futures - MLB 2023 American League Central - American League Central Winner,Detroit Tigers,0.0417,0.125,0.0833
@@ -21,24 +22,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-31 06:40:41.703021,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,New York Mets,0.025300000000000003,0.1429,0.1176
 2023-05-31 13:40:58.468510,Porsche European Open - 2/3 Balls - 1st Round 3 Balls - A. Saddier / R. Enoch / T. Eden - 1st Round 3 Balls ,Adrien Saddier,0.024399999999999977,0.5122,0.4878
 2023-05-31 12:40:44.940872,Boxing Lines - D'Velle Smith vs Kahydlian Woods - To Win the Bout,D'Velle Smith,0.02429999999999999,0.9474,0.9231
-2023-05-31 10:40:39.743973,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,USA U20,0.0242,0.0909,0.0667
 2023-05-31 08:41:56.432766,Boxing Lines - Erik Bazinyan vs Jose De Jesus Macias - To Win the Bout,Erik Bazinyan,0.0242,0.9333,0.9091
+2023-05-31 10:40:39.743973,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,USA U20,0.0242,0.0909,0.0667
 2023-05-31 12:40:46.519500,Scores - 1st Round Score - Xander Schauffele - 1st Round Score,Under 71.5,0.023800000000000043,0.5238,0.5
-2023-05-31 05:40:41.845951,MLB Futures - MLB 2023 American League Central - American League Central Winner,Cleveland Guardians,0.022699999999999998,0.25,0.2273
 2023-05-31 13:40:57.693902,Scores - 1st Round Score - Jon Rahm - 1st Round Score,Over 70.5,0.022699999999999998,0.4878,0.4651
 2023-05-31 13:40:58.392420,Porsche European Open - 2/3 Balls - 1st Round 3 Balls - Z. Lombard / A. Levy / G. Kristjansson - 1st Round 3 Balls ,Zander Lombard,0.022699999999999998,0.4878,0.4651
 2023-05-31 09:40:41.792362,Boxing Lines - Rostam Ibrahim vs Leon Bunn - To Win the Bout,Leon Bunn,0.022699999999999998,0.4878,0.4651
+2023-05-31 05:40:41.845951,MLB Futures - MLB 2023 American League Central - American League Central Winner,Cleveland Guardians,0.022699999999999998,0.25,0.2273
 2023-05-31 08:41:57.399479,Default Specials - Will US have two consecutive quarters of negative GDP growth in 2023? - US Recession In 2023,No,0.022600000000000064,0.5348,0.5122
 2023-05-31 10:40:39.743973,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Israel U20,0.022400000000000003,0.0323,0.0099
-2023-05-31 13:40:58.425699,Porsche European Open - 2/3 Balls - 1st Round 3 Balls - J. Guerrier / K. Reitan / J. Freiburghaus - 1st Round 3 Balls ,Julien Guerrier,0.02169999999999994,0.5455,0.5238
 2023-05-31 10:40:38.204835,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs J. Day - Tournament Match-Up,Collin Morikawa,0.02169999999999994,0.5455,0.5238
+2023-05-31 13:40:58.425699,Porsche European Open - 2/3 Balls - 1st Round 3 Balls - J. Guerrier / K. Reitan / J. Freiburghaus - 1st Round 3 Balls ,Julien Guerrier,0.02169999999999994,0.5455,0.5238
 2023-05-31 09:40:40.527092,Porsche European Open - 2/3 Balls - 1st Round 3 Balls - M. Armitage / J. Catlin / R. Paratore - 1st Round 3 Balls ,John Catlin,0.02030000000000004,0.3774,0.3571
+2023-05-31 14:40:45.972891,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Under 70.5,0.01970000000000005,0.5652,0.5455
 2023-05-31 07:40:38.622670,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,0.01880000000000004,0.6552,0.6364
 2023-05-31 09:40:40.610497,Porsche European Open - 2/3 Balls - 1st Round 3 Balls - D. Horsey / J. Parry / M. Gandas - 1st Round 3 Balls,John Parry,0.018799999999999983,0.3636,0.3448
 2023-05-31 06:40:41.690544,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Seattle Mariners,0.018200000000000004,0.0476,0.0294
-2023-05-31 03:41:07.898633,Porsche European Open - 2/3 Balls - 1st Round 3 Balls - D. Brown / Y. Schutz / M. Chenyao - 1st Round 3 Balls ,Daniel Brown,0.018100000000000005,0.5833,0.5652
-2023-05-31 10:40:39.943339,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,James Outman (LAD),0.018100000000000005,0.2222,0.2041
 2023-05-31 13:40:58.415822,Porsche European Open - 2/3 Balls - 1st Round 3 Balls - R. Caron / M. Lindberg / L. Bjerregaard - 1st Round 3 Balls ,Rowin Caron,0.018100000000000005,0.4348,0.4167
+2023-05-31 10:40:39.943339,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,James Outman (LAD),0.018100000000000005,0.2222,0.2041
+2023-05-31 03:41:07.898633,Porsche European Open - 2/3 Balls - 1st Round 3 Balls - D. Brown / Y. Schutz / M. Chenyao - 1st Round 3 Balls ,Daniel Brown,0.018100000000000005,0.5833,0.5652
 2023-05-31 10:40:38.234795,Tournament Match-Ups - Tournament Match-Up - R. Fowler vs W. Clark - Tournament Match-Up,Rickie Fowler,0.017299999999999982,0.5917,0.5744
 2023-05-31 05:40:41.845951,MLB Futures - MLB 2023 American League Central - American League Central Winner,Chicago White Sox,0.016700000000000007,0.1,0.0833
 2023-05-31 09:40:40.623630,Porsche European Open - 2/3 Balls - 1st Round 3 Balls - D. Brown / Y. Schutz / M. Chenyao - 1st Round 3 Balls ,Daniel Brown,0.016699999999999937,0.6,0.5833
@@ -47,8 +49,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-31 05:40:41.881532,MLB Futures - MLB 2023 National League West - National League West Winner,Los Angeles Dodgers,0.015100000000000002,0.8333,0.8182
 2023-05-31 10:40:39.743973,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Brazil U20,0.01469999999999999,0.25,0.2353
 2023-05-31 10:40:39.743973,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Uruguay U20,0.01440000000000001,0.1053,0.0909
-2023-05-31 06:40:41.696671,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Seattle Mariners,0.014399999999999996,0.0769,0.0625
 2023-05-31 06:40:41.690544,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,New York Mets,0.014399999999999996,0.0769,0.0625
+2023-05-31 06:40:41.696671,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Seattle Mariners,0.014399999999999996,0.0769,0.0625
 2023-05-31 06:40:43.765097,Porsche European Open - 2/3 Balls - 1st Round 3 Balls - T. Clements / Y. Kim / M. Kibugu - 1st Round 3 Balls ,Yeongsu Kim,0.01419999999999999,0.3846,0.3704
 2023-05-31 10:40:39.932100,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Clayton Kershaw (LAD),0.013999999999999999,0.0909,0.0769
 2023-05-31 13:40:57.314074,Tournament Match-Ups - Tournament Match-Up - R. McIlroy vs X. Schauffele - Tournament Match-Up,Rory McIlroy,0.011600000000000055,0.5238,0.5122
@@ -72,18 +74,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-31 13:40:57.718423,Scores - 1st Round Score - Rory McIlroy - 1st Round Score,Over 71.5,-0.012199999999999989,0.5,0.5122
 2023-05-31 13:40:58.392420,Porsche European Open - 2/3 Balls - 1st Round 3 Balls - Z. Lombard / A. Levy / G. Kristjansson - 1st Round 3 Balls ,Alexander Levy,-0.012299999999999978,0.3448,0.3571
 2023-05-31 07:40:38.622670,MLB Futures - MLB 2023 American League Central - American League Central Winner,Detroit Tigers,-0.013899999999999996,0.1111,0.125
-2023-05-31 08:41:57.387202,Default Specials - S&P 500 Value On June 30th 2023 - S&P 500 Value On June 30th 2023,3001 to 3500 points,-0.013999999999999999,0.0769,0.0909
 2023-05-31 05:40:41.881532,MLB Futures - MLB 2023 National League West - National League West Winner,San Francisco Giants,-0.013999999999999999,0.0769,0.0909
-2023-05-31 06:40:41.696671,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Baltimore Orioles,-0.014099999999999994,0.0526,0.0667
+2023-05-31 08:41:57.387202,Default Specials - S&P 500 Value On June 30th 2023 - S&P 500 Value On June 30th 2023,3001 to 3500 points,-0.013999999999999999,0.0769,0.0909
 2023-05-31 10:40:39.743973,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Nigeria U20,-0.014099999999999994,0.0526,0.0667
+2023-05-31 06:40:41.696671,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Baltimore Orioles,-0.014099999999999994,0.0526,0.0667
 2023-05-31 10:40:39.743973,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Republic of Korea U20,-0.014099999999999998,0.0244,0.0385
 2023-05-31 10:40:39.943339,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Eury Perez,-0.014100000000000001,0.0385,0.0526
 2023-05-31 13:40:58.415822,Porsche European Open - 2/3 Balls - 1st Round 3 Balls - R. Caron / M. Lindberg / L. Bjerregaard - 1st Round 3 Balls ,Mikael Lindberg,-0.01419999999999999,0.3704,0.3846
 2023-05-31 13:40:57.566831,The Memorial Tournament - 2/3 Balls - 1st Round 3 Balls - A. Long / W. McGirt / K.J. Choi - 1st Round 3 Balls,K J Choi,-0.01469999999999999,0.2353,0.25
 2023-05-31 10:40:39.937833,MLB Futures - MLB 2023 Player Awards - National League MVP,Fernando Tatis Jr. (SD),-0.015300000000000001,0.0435,0.0588
 2023-05-31 13:40:57.379998,The Memorial Tournament - 2/3 Balls - 1st Round 3 Balls - D. Frittelli / A. Hadwin / T. Montgomery - 1st Round 3 Balls,Dylan Frittelli,-0.015899999999999997,0.2222,0.2381
-2023-05-31 08:41:57.387202,Default Specials - S&P 500 Value On June 30th 2023 - S&P 500 Value On June 30th 2023,Over 5000 points,-0.016699999999999993,0.25,0.2667
 2023-05-31 13:40:57.379998,The Memorial Tournament - 2/3 Balls - 1st Round 3 Balls - D. Frittelli / A. Hadwin / T. Montgomery - 1st Round 3 Balls,Taylor Montgomery,-0.016699999999999993,0.4,0.4167
+2023-05-31 08:41:57.387202,Default Specials - S&P 500 Value On June 30th 2023 - S&P 500 Value On June 30th 2023,Over 5000 points,-0.016699999999999993,0.25,0.2667
 2023-05-31 10:40:39.912799,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Joe Ryan (MIN),-0.016700000000000007,0.0833,0.1
 2023-05-31 12:40:44.940872,Boxing Lines - D'Velle Smith vs Kahydlian Woods - To Win the Bout,Kahydlian Woods,-0.0179,0.1111,0.129
 2023-05-31 06:40:41.690544,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,San Diego Padres,-0.018099999999999998,0.0588,0.0769
@@ -102,11 +104,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-31 12:40:44.217098,MLB Daily Specials - MLB Daily Specials - Wednesday May 31 - Early Games,"Any 4 of Mike Trout, Shohei Ohtani, Matt Olson, Max Muncy, Mookie Betts to Hit a Home Run",-0.023200000000000002,0.0244,0.0476
 2023-05-31 13:40:57.523759,The Memorial Tournament - 2/3 Balls - 1st Round 3 Balls - A. Rai / A. Bhatia / S. Bennett - 1st Round 3 Balls,Sam Bennett,-0.023799999999999988,0.3333,0.3571
 2023-05-31 13:40:57.523759,The Memorial Tournament - 2/3 Balls - 1st Round 3 Balls - A. Rai / A. Bhatia / S. Bennett - 1st Round 3 Balls,Akshay Bhatia,-0.023799999999999988,0.3333,0.3571
+2023-05-31 14:40:45.972891,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Over 70.5,-0.023800000000000043,0.5,0.5238
 2023-05-31 13:40:57.566831,The Memorial Tournament - 2/3 Balls - 1st Round 3 Balls - A. Long / W. McGirt / K.J. Choi - 1st Round 3 Balls,Adam Long,-0.023800000000000043,0.5,0.5238
 2023-05-31 10:40:39.937833,MLB Futures - MLB 2023 Player Awards - National League MVP,Max Muncy (LAD),-0.024800000000000003,0.0278,0.0526
 2023-05-31 06:40:41.703021,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,San Diego Padres,-0.024999999999999994,0.1,0.125
-2023-05-31 09:40:41.792362,Boxing Lines - Rostam Ibrahim vs Leon Bunn - To Win the Bout,Rostam Ibrahim,-0.025599999999999956,0.5744,0.6
 2023-05-31 13:40:57.693902,Scores - 1st Round Score - Jon Rahm - 1st Round Score,Under 70.5,-0.025599999999999956,0.5744,0.6
+2023-05-31 09:40:41.792362,Boxing Lines - Rostam Ibrahim vs Leon Bunn - To Win the Bout,Rostam Ibrahim,-0.025599999999999956,0.5744,0.6
 2023-05-31 13:40:57.464156,The Memorial Tournament - 2/3 Balls - 1st Round 3 Balls - K. Kisner / L. Glover / B. Harman - 1st Round 3 Balls,Kevin Kisner,-0.02779999999999999,0.25,0.2778
 2023-05-31 03:41:04.221283,Boxing Lines - Hayato Tsutsumi vs Jeo Santisima - To Win the Bout,Hayato Tsutsumi,-0.027999999999999914,0.8182,0.8462
 2023-05-31 08:41:56.432766,Boxing Lines - Erik Bazinyan vs Jose De Jesus Macias - To Win the Bout,Jose De Jesus Macias,-0.028799999999999992,0.125,0.1538
@@ -116,6 +119,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-31 06:40:41.696671,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Minnesota Twins,-0.038299999999999994,0.0526,0.0909
 2023-05-31 08:41:57.387202,Default Specials - S&P 500 Value On June 30th 2023 - S&P 500 Value On June 30th 2023,4501 to 5000 points,-0.04099999999999998,0.2667,0.3077
 2023-05-31 12:40:46.498757,Scores - 1st Round Score - Rory McIlroy - 1st Round Score,Over 71.5,-0.043399999999999994,0.5122,0.5556
+2023-05-31 14:40:45.280044,Boxing Lines - Sarah Liegmann vs Carisse Brown - To Win the Bout,Carisse Brown,-0.04530000000000001,0.1333,0.1786
 2023-05-31 06:40:41.690544,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Atlanta Braves,-0.04849999999999999,0.1333,0.1818
 2023-05-31 10:40:39.926341,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Masataka Yoshida (BOS),-0.05559999999999998,0.4444,0.5
 2023-05-31 05:40:41.845951,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,-0.06510000000000005,0.6364,0.7015
