@@ -4,7 +4,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-31 18:40:46.627199,Default Specials - S&P 500 Value On June 30th 2023 - S&P 500 Value On June 30th 2023,3501 to 4000 points,0.0635,0.2857,0.2222
 2023-05-31 15:40:48.448613,MLB Futures - MLB 2023 Player Awards - American League MVP,Aaron Judge (NYY),0.05679999999999999,0.1818,0.125
 2023-05-31 15:40:51.529770,Default Specials - S&P 500 Value On June 30th 2023 - S&P 500 Value On June 30th 2023,4001 to 4500 points,0.05559999999999998,0.5556,0.5
-2023-05-31 14:40:45.280044,Boxing Lines - Sarah Liegmann vs Carisse Brown - To Win the Bout,Sarah Liegmann,0.04810000000000003,0.9231,0.875
 2023-05-31 15:40:51.382200,WNBA Futures - WNBA Championship 2023 - Outright Winner,Connecticut Sun,0.047400000000000005,0.1,0.0526
 2023-05-31 21:40:53.291618,Default Specials - S&P 500 Value On June 30th 2023 - S&P 500 Value On June 30th 2023,4001 to 4500 points,0.044399999999999995,0.6,0.5556
 2023-06-01 02:40:35.692196,Round Match-Ups - Parlays - 1st Round Match-Up - C. Morikawa vs J. Day - 1st Round Match-Up,Collin Morikawa,0.04139999999999999,0.5652,0.5238
@@ -12,32 +11,36 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-01 02:40:34.428796,Liga ACB - Liga ACB 2022/23 - Outright,Real Madrid BC,0.04089999999999999,0.4255,0.3846
 2023-06-01 02:40:34.428796,Liga ACB - Liga ACB 2022/23 - Outright,Joventut,0.0377,0.0526,0.0149
 2023-05-31 23:40:41.492336,NBA Specials - Joe Mazulla to be Head Coach of the Celtics Next Season? - Joe Mazulla to be Celtics HC for the Start of the 2023-24 NBA Season,No,0.03670000000000001,0.1905,0.1538
-2023-06-01 02:40:35.821255,Tournament Match-Ups - Tournament Match-Up - C. Kirk vs E. Grillo - Tournament Match-Up,Emiliano Grillo,0.03480000000000005,0.5348,0.5
 2023-06-01 02:40:34.435345,Super Ligi - Turkey BSL 2022/23 - Outright,Fenerbahce,0.03480000000000005,0.5348,0.5
+2023-06-01 02:40:35.821255,Tournament Match-Ups - Tournament Match-Up - C. Kirk vs E. Grillo - Tournament Match-Up,Emiliano Grillo,0.03480000000000005,0.5348,0.5
 2023-05-31 21:40:55.903527,Scores - 1st Round Score - Rory McIlroy - 1st Round Score,Under 71.5,0.03479999999999994,0.6,0.5652
 2023-05-31 15:40:50.718470,Porsche European Open - 2/3 Balls - 1st Round 3 Balls - T. Clements / Y. Kim / M. Kibugu - 1st Round 3 Balls ,Todd Clements,0.033299999999999996,0.4878,0.4545
 2023-05-31 18:40:48.340926,The Memorial Tournament - 2/3 Balls - 1st Round 3 Balls - H. English / G. Higgo / B. Todd - 1st Round 3 Balls,Brendon Todd,0.03260000000000002,0.3774,0.3448
 2023-05-31 15:40:51.357447,WNBA Futures - To Make the 2023 Playoffs - Phoenix Mercury,Yes,0.030999999999999917,0.9167,0.8857
+2023-06-01 03:40:41.421272,NBA Awards - NBA Finals 2023 - MVP - Finals MVP,Nikola Jokic (DEN),0.027800000000000047,0.7778,0.75
 2023-05-31 18:40:46.634932,Default Specials - United States GDP Growth For 2023 - US GDP Growth 2023,Positive Growth,0.025600000000000067,0.6923,0.6667
-2023-05-31 20:40:56.630583,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - New England Patriots,Over 7.5,0.023800000000000043,0.5238,0.5
-2023-06-01 02:40:35.628461,Round Match-Ups - Parlays - 1st Round Match-Up - H. English vs A. Hadwin - 1st Round Match-Up,Harris English,0.023800000000000043,0.5238,0.5
+2023-06-01 03:40:42.087340,Scores - 1st Round Score - Xander Schauffele - 1st Round Score,Under 71.5,0.025599999999999956,0.6,0.5744
 2023-06-01 02:40:35.676432,Round Match-Ups - Parlays - 1st Round Match-Up - J. Rahm vs S. Scheffler - 1st Round Match-Up,Jon Rahm,0.023800000000000043,0.5238,0.5
+2023-06-01 02:40:35.628461,Round Match-Ups - Parlays - 1st Round Match-Up - H. English vs A. Hadwin - 1st Round Match-Up,Harris English,0.023800000000000043,0.5238,0.5
+2023-05-31 20:40:56.630583,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - New England Patriots,Over 7.5,0.023800000000000043,0.5238,0.5
 2023-06-01 02:40:35.416084,The Memorial Tournament - 2/3 Balls - 1st Round 3 Balls - D. Frittelli / A. Hadwin / T. Montgomery - 1st Round 3 Balls,Adam Hadwin,0.023799999999999988,0.5,0.4762
-2023-05-31 18:40:48.636977,Round Match-Ups - Parlays - 1st Round Match-Up - T. Kim vs W. Clark - 1st Round Match-Up,Tom Kim,0.022600000000000064,0.5348,0.5122
 2023-06-01 02:40:35.633770,Round Match-Ups - Parlays - 1st Round Match-Up - T. Montgomery v J. Suh - 1st Round Match-Up,Justin Suh,0.022600000000000064,0.5348,0.5122
+2023-05-31 18:40:48.636977,Round Match-Ups - Parlays - 1st Round Match-Up - T. Kim vs W. Clark - 1st Round Match-Up,Tom Kim,0.022600000000000064,0.5348,0.5122
 2023-06-01 02:40:35.905177,Scores - 1st Round Score - Scottie Scheffler - 1st Round Score,Under 70.5,0.022600000000000064,0.6226,0.6
 2023-05-31 18:40:47.964551,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Denver Nuggets,0.02180000000000004,0.8113,0.7895
+2023-06-01 03:40:42.080900,Scores - 1st Round Score - Viktor Hovland - 1st Round Score,Under 72.5,0.02080000000000004,0.6875,0.6667
 2023-05-31 20:40:56.404418,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Coach of the Year,Arthur Smith,0.0203,0.0588,0.0385
-2023-05-31 14:40:45.972891,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Under 70.5,0.01970000000000005,0.5652,0.5455
+2023-06-01 03:40:42.032674,Tournament Match-Ups - Tournament Match-Up - R. McIlroy vs X. Schauffele - Tournament Match-Up,Xander Schauffele,0.01970000000000005,0.5652,0.5455
 2023-06-01 02:40:35.837042,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs J. Day - Tournament Match-Up,Collin Morikawa,0.01970000000000005,0.5652,0.5455
 2023-05-31 15:40:50.706454,Porsche European Open - 2/3 Balls - 1st Round 3 Balls - J. Guerrier / K. Reitan / J. Freiburghaus - 1st Round 3 Balls ,Jeremy Freiburghaus,0.019000000000000017,0.2857,0.2667
 2023-05-31 18:40:48.326493,The Memorial Tournament - 2/3 Balls - 1st Round 3 Balls - T. Merritt / B. Wu / B. Taylor - 1st Round 3 Balls,Troy Merritt,0.019000000000000017,0.2857,0.2667
 2023-05-31 15:40:51.367056,WNBA Futures - To Make the 2023 Playoffs - Seattle Storm,No,0.018900000000000028,0.9804,0.9615
 2023-06-01 02:40:35.917439,Scores - 1st Round Score - Xander Schauffele - 1st Round Score,Under 71.5,0.01880000000000004,0.5744,0.5556
+2023-06-01 03:40:42.054775,Scores - 1st Round Score - Justin Thomas - 1st Round Score,Under 72.5,0.01880000000000004,0.6552,0.6364
 2023-06-01 02:40:34.428796,Liga ACB - Liga ACB 2022/23 - Outright,Unicaja Málaga,0.018200000000000004,0.0476,0.0294
 2023-05-31 18:40:49.199294,Porsche European Open - 2/3 Balls - 1st Round 3 Balls - N. Lemke / J. Murphy / T. Tillmanns - 1st Round 3 Balls ,Tim Tillmanns,0.017600000000000005,0.3509,0.3333
-2023-05-31 15:40:50.718470,Porsche European Open - 2/3 Balls - 1st Round 3 Balls - T. Clements / Y. Kim / M. Kibugu - 1st Round 3 Balls ,Yeongsu Kim,0.015400000000000025,0.4,0.3846
 2023-05-31 18:40:48.304477,The Memorial Tournament - 2/3 Balls - 1st Round 3 Balls - B. Hossler / T. Pendrith / D. Thompson - 1st Round 3 Balls,Beau Hossler,0.015400000000000025,0.4,0.3846
+2023-05-31 15:40:50.718470,Porsche European Open - 2/3 Balls - 1st Round 3 Balls - T. Clements / Y. Kim / M. Kibugu - 1st Round 3 Balls ,Yeongsu Kim,0.015400000000000025,0.4,0.3846
 2023-05-31 19:40:42.039970,Porsche European Open - 2/3 Balls - 1st Round 3 Balls - D. Brown / Y. Schutz / M. Chenyao - 1st Round 3 Balls ,Daniel Brown,0.01539999999999997,0.6154,0.6
 2023-05-31 20:40:56.404418,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Coach of the Year,Matt Lafleur,0.015300000000000001,0.0588,0.0435
 2023-05-31 15:40:52.716722,Boxing Lines - Steve Claggett vs Alberto Machado - To Win the Bout,Alberto Machado,0.014600000000000002,0.2778,0.2632
@@ -49,12 +52,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-31 18:40:46.774702,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Chris Christie,0.012100000000000001,0.0244,0.0123
 2023-06-01 02:40:35.655248,Round Match-Ups - Parlays - 1st Round Match-Up - C. Davis vs K. Kitayama - 1st Round Match-Up,Cameron Davis,0.011600000000000055,0.5238,0.5122
 2023-06-01 02:40:34.435345,Super Ligi - Turkey BSL 2022/23 - Outright,Pinar Karsiyaka,0.011199999999999995,0.0588,0.0476
+2023-06-01 03:40:41.792069,Round Match-Ups - Parlays - 1st Round Match-Up - J. Rahm vs S. Scheffler - 1st Round Match-Up,Jon Rahm,0.01100000000000001,0.5348,0.5238
 2023-05-31 18:40:48.675897,Round Match-Ups - Parlays - 1st Round Match-Up - S.W. Kim vs R. Henley - 1st Round Match-Up,Russell Henley,0.01100000000000001,0.5348,0.5238
 2023-05-31 20:40:57.009571,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Seattle Seahawks,Yes,0.010699999999999932,0.5455,0.5348
 2023-05-31 15:40:52.076192,UEFA Europa League - UEFA Europa League 22/23 - Winner,AS Roma,0.010699999999999932,0.5455,0.5348
 2023-05-31 20:40:56.404418,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Coach of the Year,Sean McVay,0.010600000000000002,0.0323,0.0217
-2023-05-31 20:40:56.831427,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Cleveland Browns,No,0.010099999999999998,0.5556,0.5455
 2023-05-31 18:40:49.373582,Porsche European Open - 2/3 Balls - 1st Round 3 Balls - J. Guerrier / K. Reitan / J. Freiburghaus - 1st Round 3 Balls ,Julien Guerrier,0.010099999999999998,0.5556,0.5455
+2023-05-31 20:40:56.831427,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Cleveland Browns,No,0.010099999999999998,0.5556,0.5455
 2023-05-31 21:40:53.280519,Default Specials - Will the United States Technically Default On Debt In 2023? - Will US Default?,Yes,-0.010099999999999998,0.0952,0.1053
 2023-05-31 18:40:49.373582,Porsche European Open - 2/3 Balls - 1st Round 3 Balls - J. Guerrier / K. Reitan / J. Freiburghaus - 1st Round 3 Balls ,Kristoffer Reitan,-0.010299999999999976,0.2564,0.2667
 2023-05-31 15:40:51.284610,WNBA Futures - WNBA Awards - Regular Season MVP,A'ja Wilson,-0.010499999999999982,0.2,0.2105
@@ -62,15 +66,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-31 20:40:56.404418,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Coach of the Year,Andy Reid,-0.010600000000000002,0.0217,0.0323
 2023-06-01 02:40:35.821255,Tournament Match-Ups - Tournament Match-Up - C. Kirk vs E. Grillo - Tournament Match-Up,Chris Kirk,-0.010699999999999932,0.5348,0.5455
 2023-05-31 18:40:48.304477,The Memorial Tournament - 2/3 Balls - 1st Round 3 Balls - B. Hossler / T. Pendrith / D. Thompson - 1st Round 3 Balls,Davis Thompson,-0.010699999999999987,0.3226,0.3333
+2023-05-31 20:40:56.404418,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Coach of the Year,Nick Sirianni,-0.010700000000000001,0.0278,0.0385
+2023-05-31 20:40:59.720976,Boxing Lines - Erik Bazinyan vs Jose De Jesus Macias - To Win the Bout,Jose De Jesus Macias,-0.010700000000000001,0.1143,0.125
 2023-05-31 20:40:56.404418,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Coach of the Year,Kevin O'Connell,-0.010700000000000001,0.0278,0.0385
 2023-05-31 20:40:56.404418,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Coach of the Year,Jonathan Gannon,-0.010700000000000001,0.0278,0.0385
-2023-05-31 20:40:59.720976,Boxing Lines - Erik Bazinyan vs Jose De Jesus Macias - To Win the Bout,Jose De Jesus Macias,-0.010700000000000001,0.1143,0.125
-2023-05-31 20:40:56.404418,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Coach of the Year,Nick Sirianni,-0.010700000000000001,0.0278,0.0385
-2023-06-01 02:40:35.655248,Round Match-Ups - Parlays - 1st Round Match-Up - C. Davis vs K. Kitayama - 1st Round Match-Up,Kurt Kitayama,-0.01100000000000001,0.5238,0.5348
 2023-05-31 20:40:57.009571,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Seattle Seahawks,No,-0.01100000000000001,0.5238,0.5348
+2023-06-01 02:40:35.655248,Round Match-Ups - Parlays - 1st Round Match-Up - C. Davis vs K. Kitayama - 1st Round Match-Up,Kurt Kitayama,-0.01100000000000001,0.5238,0.5348
 2023-05-31 18:40:46.764669,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Donald Trump,-0.011499999999999955,0.6552,0.6667
 2023-05-31 18:40:48.348400,The Memorial Tournament - 2/3 Balls - 1st Round 3 Balls - W. Clark / K. Kitayama / T. Kim - 1st Round 3 Balls,Kurt Kitayama,-0.01150000000000001,0.3333,0.3448
 2023-05-31 18:40:48.326493,The Memorial Tournament - 2/3 Balls - 1st Round 3 Balls - T. Merritt / B. Wu / B. Taylor - 1st Round 3 Balls,Brandon Wu,-0.0116,0.4762,0.4878
+2023-06-01 03:40:41.792069,Round Match-Ups - Parlays - 1st Round Match-Up - J. Rahm vs S. Scheffler - 1st Round Match-Up,Scottie Scheffler,-0.011600000000000055,0.5122,0.5238
 2023-05-31 20:40:56.831427,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Cleveland Browns,Yes,-0.011600000000000055,0.5122,0.5238
 2023-05-31 18:40:48.675897,Round Match-Ups - Parlays - 1st Round Match-Up - S.W. Kim vs R. Henley - 1st Round Match-Up,Si Woo Kim,-0.011600000000000055,0.5122,0.5238
 2023-06-01 02:40:35.416084,The Memorial Tournament - 2/3 Balls - 1st Round 3 Balls - D. Frittelli / A. Hadwin / T. Montgomery - 1st Round 3 Balls,Dylan Frittelli,-0.011700000000000016,0.2105,0.2222
@@ -81,13 +86,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-31 19:40:42.039970,Porsche European Open - 2/3 Balls - 1st Round 3 Balls - D. Brown / Y. Schutz / M. Chenyao - 1st Round 3 Balls ,Ma Chengyao,-0.01469999999999999,0.2353,0.25
 2023-05-31 15:40:51.529770,Default Specials - S&P 500 Value On June 30th 2023 - S&P 500 Value On June 30th 2023,2501 to 3000 points,-0.014899999999999997,0.0476,0.0625
 2023-05-31 20:40:56.404418,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Coach of the Year,Brian Daboll,-0.015300000000000001,0.0323,0.0476
-2023-06-01 02:40:35.416084,The Memorial Tournament - 2/3 Balls - 1st Round 3 Balls - D. Frittelli / A. Hadwin / T. Montgomery - 1st Round 3 Balls,Taylor Montgomery,-0.015400000000000025,0.3846,0.4
 2023-05-31 18:40:49.199294,Porsche European Open - 2/3 Balls - 1st Round 3 Balls - N. Lemke / J. Murphy / T. Tillmanns - 1st Round 3 Balls ,Niklas Lemke,-0.015400000000000025,0.3846,0.4
+2023-06-01 02:40:35.416084,The Memorial Tournament - 2/3 Balls - 1st Round 3 Balls - D. Frittelli / A. Hadwin / T. Montgomery - 1st Round 3 Balls,Taylor Montgomery,-0.015400000000000025,0.3846,0.4
 2023-05-31 15:40:51.284610,WNBA Futures - WNBA Awards - Regular Season MVP,Kelsey Plum,-0.015899999999999997,0.0952,0.1111
 2023-05-31 18:40:49.366219,Porsche European Open - 2/3 Balls - 1st Round 3 Balls - R. Caron / M. Lindberg / L. Bjerregaard - 1st Round 3 Balls ,Lucas Bjerregaard,-0.01629999999999998,0.2778,0.2941
 2023-05-31 15:40:51.382200,WNBA Futures - WNBA Championship 2023 - Outright Winner,New York Liberty,-0.016699999999999993,0.4,0.4167
 2023-05-31 15:40:51.529770,Default Specials - S&P 500 Value On June 30th 2023 - S&P 500 Value On June 30th 2023,4501 to 5000 points,-0.016699999999999993,0.25,0.2667
 2023-05-31 15:40:51.382200,WNBA Futures - WNBA Championship 2023 - Outright Winner,Washington Mystics,-0.016700000000000007,0.0833,0.1
+2023-06-01 03:40:42.054775,Scores - 1st Round Score - Justin Thomas - 1st Round Score,Over 72.5,-0.017299999999999982,0.4082,0.4255
 2023-06-01 02:40:34.428796,Liga ACB - Liga ACB 2022/23 - Outright,Tenerife,-0.0189,0.0196,0.0385
 2023-05-31 21:40:53.291618,Default Specials - S&P 500 Value On June 30th 2023 - S&P 500 Value On June 30th 2023,3501 to 4000 points,-0.019000000000000017,0.2667,0.2857
 2023-05-31 15:40:50.706454,Porsche European Open - 2/3 Balls - 1st Round 3 Balls - J. Guerrier / K. Reitan / J. Freiburghaus - 1st Round 3 Balls ,Kristoffer Reitan,-0.019000000000000017,0.2667,0.2857
@@ -97,9 +103,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-01 02:40:35.628461,Round Match-Ups - Parlays - 1st Round Match-Up - H. English vs A. Hadwin - 1st Round Match-Up,Adam Hadwin,-0.02169999999999994,0.5238,0.5455
 2023-06-01 02:40:35.676432,Round Match-Ups - Parlays - 1st Round Match-Up - J. Rahm vs S. Scheffler - 1st Round Match-Up,Scottie Scheffler,-0.02169999999999994,0.5238,0.5455
 2023-05-31 15:40:51.367056,WNBA Futures - To Make the 2023 Playoffs - Seattle Storm,Yes,-0.022000000000000006,0.0833,0.1053
-2023-05-31 18:40:48.636977,Round Match-Ups - Parlays - 1st Round Match-Up - T. Kim vs W. Clark - 1st Round Match-Up,Wyndham Clark,-0.022600000000000064,0.5122,0.5348
+2023-06-01 03:40:42.080900,Scores - 1st Round Score - Viktor Hovland - 1st Round Score,Over 72.5,-0.02260000000000001,0.3774,0.4
 2023-06-01 02:40:35.633770,Round Match-Ups - Parlays - 1st Round Match-Up - T. Montgomery v J. Suh - 1st Round Match-Up,Taylor Montgomery,-0.022600000000000064,0.5122,0.5348
-2023-05-31 14:40:45.972891,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Over 70.5,-0.023800000000000043,0.5,0.5238
+2023-05-31 18:40:48.636977,Round Match-Ups - Parlays - 1st Round Match-Up - T. Kim vs W. Clark - 1st Round Match-Up,Wyndham Clark,-0.022600000000000064,0.5122,0.5348
+2023-06-01 03:40:42.087340,Scores - 1st Round Score - Xander Schauffele - 1st Round Score,Over 71.5,-0.022699999999999998,0.4651,0.4878
+2023-06-01 03:40:42.032674,Tournament Match-Ups - Tournament Match-Up - R. McIlroy vs X. Schauffele - Tournament Match-Up,Rory McIlroy,-0.023800000000000043,0.5,0.5238
 2023-06-01 02:40:35.837042,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs J. Day - Tournament Match-Up,Jason Day,-0.023800000000000043,0.5,0.5238
 2023-05-31 20:40:56.404418,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Coach of the Year,Frank Reich,-0.024299999999999995,0.0526,0.0769
 2023-06-01 02:40:35.917439,Scores - 1st Round Score - Xander Schauffele - 1st Round Score,Over 71.5,-0.024399999999999977,0.4878,0.5122
@@ -111,7 +119,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-05-31 15:40:52.076192,UEFA Europa League - UEFA Europa League 22/23 - Winner,Sevilla,-0.03480000000000005,0.5,0.5348
 2023-05-31 21:40:55.903527,Scores - 1st Round Score - Rory McIlroy - 1st Round Score,Over 71.5,-0.03489999999999999,0.4651,0.5
 2023-05-31 18:40:46.634932,Default Specials - United States GDP Growth For 2023 - US GDP Growth 2023,Negative Growth,-0.03640000000000004,0.3636,0.4
-2023-05-31 14:40:45.280044,Boxing Lines - Sarah Liegmann vs Carisse Brown - To Win the Bout,Carisse Brown,-0.04530000000000001,0.1333,0.1786
 2023-05-31 15:40:50.718470,Porsche European Open - 2/3 Balls - 1st Round 3 Balls - T. Clements / Y. Kim / M. Kibugu - 1st Round 3 Balls ,Mutahi Kibugu,-0.045900000000000024,0.2105,0.2564
 2023-06-01 02:40:34.435345,Super Ligi - Turkey BSL 2022/23 - Outright,Anadolu Efes,-0.04630000000000001,0.4082,0.4545
 2023-06-01 02:40:35.692196,Round Match-Ups - Parlays - 1st Round Match-Up - C. Morikawa vs J. Day - 1st Round Match-Up,Jason Day,-0.04760000000000003,0.4762,0.5238
