@@ -1,16 +1,10 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Jordan Smith,0.09029999999999999,0.1429,0.0526
 2023-06-02 05:40:43.744154,College Baseball - College Baseball World Series - Stanford Regional Winner,Stanford,0.08779999999999999,0.4878,0.4
-2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Maximilian Kieffer,0.0804,0.1,0.0196
 2023-06-02 07:40:37.587966,Copa do Brasil - Copa do Brasil 2023 - Outright,Flamengo,0.06820000000000001,0.25,0.1818
 2023-06-02 10:40:39.787108,Scores - 2nd Round Score - Patrick Cantlay - 2nd Round Score,Under 70.5,0.06519999999999992,0.6,0.5348
-2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Joost Luiten,0.05859999999999999,0.0909,0.0323
-2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Marcus Helligkilde,0.0573,0.0769,0.0196
 2023-06-02 09:40:58.033430,Mizuho Americas Open - Mizuho Americas Open - Winner,Atthaya Thitikul,0.05559999999999998,0.1667,0.1111
 2023-06-02 07:40:37.658704,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Uruguay U20,0.052000000000000005,0.1429,0.0909
-2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Simon Forsstrom,0.0509,0.0588,0.0079
 2023-06-02 05:40:43.722337,College Baseball - College Baseball World Series - Fayetteville Regional Winner,Arkansas,0.04849999999999999,0.5833,0.5348
-2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Ewen Ferguson,0.04229999999999999,0.0667,0.0244
 2023-06-02 07:40:37.587966,Copa do Brasil - Copa do Brasil 2023 - Outright,Grêmio,0.0417,0.125,0.0833
 2023-06-02 02:40:50.576951,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Denver Nuggets,0.04169999999999996,0.875,0.8333
 2023-06-02 09:40:58.033430,Mizuho Americas Open - Mizuho Americas Open - Winner,Lydia Ko,0.04120000000000001,0.1,0.0588
@@ -28,13 +22,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-02 06:40:44.024123,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Corbin Carroll (ARIZ),0.031799999999999995,0.4762,0.4444
 2023-06-02 06:40:43.976458,MLB Futures - MLB 2023 National League West - National League West Winner,San Diego Padres,0.031799999999999995,0.1429,0.1111
 2023-06-02 05:40:43.692182,College Baseball - College Baseball World Series - Charlottesville Regional Winner,East Carolina,0.030799999999999994,0.3125,0.2817
-2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Kristian Krogh Johannessen,0.0306,0.0385,0.0079
 2023-06-02 07:40:37.658704,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Republic of Korea U20,0.0294,0.0588,0.0294
 2023-06-02 09:40:58.033430,Mizuho Americas Open - Mizuho Americas Open - Winner,Ayaka Furue,0.028199999999999996,0.0667,0.0385
 2023-06-02 01:40:39.411764,Boxing Lines - Tim Tszyu vs Carlos Ocampo - To Win the Bout,Carlos Ocampo,0.027999999999999997,0.1818,0.1538
 2023-06-02 09:40:58.033430,Mizuho Americas Open - Mizuho Americas Open - Winner,Cheyenne Knight,0.024800000000000003,0.0526,0.0278
-2023-06-02 11:40:37.539904,Round Match-Ups - Parlays - 2nd Round Match-Up - J. Day vs S. Burns - 2nd Round Match-Up,Sam Burns,0.023800000000000043,0.5238,0.5
 2023-06-02 01:40:39.132476,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Denver Nuggets,0.023800000000000043,0.8333,0.8095
+2023-06-02 11:40:37.539904,Round Match-Ups - Parlays - 2nd Round Match-Up - J. Day vs S. Burns - 2nd Round Match-Up,Sam Burns,0.023800000000000043,0.5238,0.5
 2023-06-02 05:40:45.450699,The Memorial Tournament - 2/3 Balls - 2nd Round 3 Balls - J. Rahm / C. Morikawa / J. Day - 2nd Round 3 Balls,Jon Rahm,0.023799999999999988,0.5,0.4762
 2023-06-02 09:40:58.033430,Mizuho Americas Open - Mizuho Americas Open - Winner,Grace Kim,0.022400000000000003,0.0323,0.0099
 2023-06-02 06:40:43.875563,College Baseball - College Baseball World Series - Nashville Regional Winner,Vanderbilt,0.02180000000000004,0.6296,0.6078
@@ -43,8 +36,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-02 09:40:58.033430,Mizuho Americas Open - Mizuho Americas Open - Winner,Lauren Hartlage,0.0216,0.0244,0.0028
 2023-06-02 07:40:37.822301,WNBA Futures - WNBA Awards - Regular Season MVP,Breanna Stewart,0.02100000000000002,0.3846,0.3636
 2023-06-02 05:40:45.430383,The Memorial Tournament - 2/3 Balls - 2nd Round 3 Balls - C. Davis / S. Power / M. Wallace - 2nd Round 3 Balls,Matt Wallace,0.020799999999999985,0.3333,0.3125
-2023-06-02 07:40:38.711937,Round Match-Ups - Parlays - 2nd Round Match-Up - C. Young vs A. Scott - 2nd Round Match-Up,Cameron Young,0.02079999999999993,0.5556,0.5348
 2023-06-02 05:40:45.546061,Round Match-Ups - Parlays - 2nd Round Match-Up - P. Cantlay vs R. McIlroy - 2nd Round Match-Up,Patrick Cantlay,0.02079999999999993,0.5556,0.5348
+2023-06-02 07:40:38.711937,Round Match-Ups - Parlays - 2nd Round Match-Up - C. Young vs A. Scott - 2nd Round Match-Up,Cameron Young,0.02079999999999993,0.5556,0.5348
 2023-06-02 07:40:38.589727,The Memorial Tournament - 2/3 Balls - 2nd Round 3 Balls - S. Im / S. Lowry / N. Hardy - 2nd Round 3 Balls,Sungjae Im,0.020699999999999996,0.4651,0.4444
 2023-06-02 07:40:37.587966,Copa do Brasil - Copa do Brasil 2023 - Outright,Athletico Paranaense,0.02049999999999999,0.1538,0.1333
 2023-06-02 07:40:37.718464,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Denver Nuggets,0.01980000000000004,0.8948,0.875
@@ -53,98 +46,80 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-02 07:40:38.380875,The Memorial Tournament - 2/3 Balls - 2nd Round 3 Balls - A. Noren / M. NeSmith / D. Lingmerth - 2nd Round 3 Balls,Alex Noren,0.019699999999999995,0.4545,0.4348
 2023-06-02 00:41:10.914663,Porsche European Open - 2/3 Balls - 2nd Round 3 Balls - L. Nemecz / A. Garcia Heredia / T. Strydom - 2nd Round 3 Balls,Lukas Nemecz,0.018900000000000028,0.4444,0.4255
 2023-06-02 05:40:44.952961,Boxing Lines - Josh Taylor vs Teofimo Lopez - To Win the Bout,Teofimo Lopez,0.018900000000000028,0.4444,0.4255
-2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Julien Brun,0.0189,0.0385,0.0196
-2023-06-02 07:40:38.718786,Round Match-Ups - Parlays - 2nd Round Match-Up - S. Lowry vs S. Im - 2nd Round Match-Up,Sungjae Im,0.01880000000000004,0.5744,0.5556
 2023-06-02 06:40:43.997370,MLB Futures - MLB 2023 Player Awards - American League MVP,Shohei Ohtani (LAA),0.01880000000000004,0.5744,0.5556
-2023-06-02 07:40:38.640220,Round Match-Ups - Parlays - 2nd Round Match-Up - K. Bradley vs K.H. Lee - 2nd Round Match-Up,Keegan Bradley,0.01880000000000004,0.5744,0.5556
+2023-06-02 07:40:38.718786,Round Match-Ups - Parlays - 2nd Round Match-Up - S. Lowry vs S. Im - 2nd Round Match-Up,Sungjae Im,0.01880000000000004,0.5744,0.5556
 2023-06-02 07:40:38.678377,Round Match-Ups - Parlays - 2nd Round Match-Up - R. Fowler vs W. Clark - 2nd Round Match-Up,Rickie Fowler,0.01880000000000004,0.5744,0.5556
+2023-06-02 07:40:38.640220,Round Match-Ups - Parlays - 2nd Round Match-Up - K. Bradley vs K.H. Lee - 2nd Round Match-Up,Keegan Bradley,0.01880000000000004,0.5744,0.5556
 2023-06-02 11:40:37.648299,Porsche European Open - 2/3 Balls - 2nd Round 3 Balls - D. Horsey / J. Parry / M. Gandas - 2nd Round 3 Balls,John Parry,0.018799999999999983,0.3636,0.3448
 2023-06-02 07:40:37.578838,Superettan - Superettan 2023 - Winner,Utsiktens,0.01820000000000002,0.2,0.1818
-2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Marcel Siem,0.0182,0.0323,0.0141
 2023-06-02 07:40:38.671132,Round Match-Ups - Parlays - 2nd Round Match-Up - E. Grillo vs K. Kitayama - 2nd Round Match-Up,Emiliano Grillo,0.018100000000000005,0.5833,0.5652
-2023-06-02 06:40:43.990814,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Framber Valdez (HOU),0.018099999999999998,0.0769,0.0588
 2023-06-02 06:40:44.024123,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Miguel Vargas (LAD),0.018099999999999998,0.0526,0.0345
+2023-06-02 06:40:43.990814,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Framber Valdez (HOU),0.018099999999999998,0.0769,0.0588
 2023-06-02 09:40:58.033430,Mizuho Americas Open - Mizuho Americas Open - Winner,Yuka Saso,0.0179,0.0278,0.0099
 2023-06-02 05:40:44.965902,Boxing Lines - Tim Tszyu vs Carlos Ocampo - To Win the Bout,Tim Tszyu,0.01760000000000006,0.9,0.8824
 2023-06-02 07:40:38.527847,The Memorial Tournament - 2/3 Balls - 2nd Round 3 Balls - C. Davis / S. Power / M. Wallace - 2nd Round 3 Balls,Matt Wallace,0.017600000000000005,0.3509,0.3333
 2023-06-02 11:40:37.454581,Round Match-Ups - Parlays - 2nd Round Match-Up - K. Bradley vs K.H. Lee - 2nd Round Match-Up,Keegan Bradley,0.017299999999999982,0.5917,0.5744
 2023-06-02 06:40:44.024123,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Kodai Senga (NYM),0.0168,0.0385,0.0217
 2023-06-02 06:40:43.990814,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Kevin Gausman (TOR),0.016700000000000007,0.1,0.0833
-2023-06-02 02:40:51.592401,The Memorial Tournament - 2/3 Balls - 2nd Round 3 Balls - H. Buckley / M. Hubbard / J. Dufner - 2nd Round 3 Balls,Mark Hubbard,0.016699999999999993,0.4167,0.4
-2023-06-02 07:40:37.578838,Superettan - Superettan 2023 - Winner,Östers IF,0.016699999999999993,0.2667,0.25
-2023-06-02 03:40:57.424012,The Memorial Tournament - 2/3 Balls - 2nd Round 3 Balls - A. Rai / A. Bhatia / S. Bennett - 2nd Round 3 Balls,Aaron Rai,0.016699999999999993,0.4167,0.4
 2023-06-02 02:40:51.566820,The Memorial Tournament - 2/3 Balls - 2nd Round 3 Balls - J.J. Spaun / L. List / S. Cink - 2nd Round 3 Balls,J J Spaun,0.016699999999999993,0.4167,0.4
+2023-06-02 02:40:51.592401,The Memorial Tournament - 2/3 Balls - 2nd Round 3 Balls - H. Buckley / M. Hubbard / J. Dufner - 2nd Round 3 Balls,Mark Hubbard,0.016699999999999993,0.4167,0.4
+2023-06-02 03:40:57.424012,The Memorial Tournament - 2/3 Balls - 2nd Round 3 Balls - A. Rai / A. Bhatia / S. Bennett - 2nd Round 3 Balls,Aaron Rai,0.016699999999999993,0.4167,0.4
+2023-06-02 07:40:37.578838,Superettan - Superettan 2023 - Winner,Östers IF,0.016699999999999993,0.2667,0.25
 2023-06-02 10:40:39.806217,Scores - 2nd Round Score - Tyrrell Hatton - 2nd Round Score ,Under 71.5,0.016100000000000003,0.6078,0.5917
 2023-06-02 07:40:38.489045,The Memorial Tournament - 2/3 Balls - 2nd Round 3 Balls - R. Shelton / D. Willett / P. Malnati - 2nd Round 3 Balls,Danny Willett,0.015400000000000025,0.4,0.3846
 2023-06-02 05:40:43.728357,College Baseball - College Baseball World Series - Gainesville Regional Winner,UConn,0.015100000000000002,0.1818,0.1667
 2023-06-02 06:40:43.997370,MLB Futures - MLB 2023 Player Awards - American League MVP,Aaron Judge (NYY),0.014899999999999997,0.1818,0.1669
-2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Paul Waring,0.014599999999999998,0.0196,0.005
-2023-06-02 07:40:37.477346,MLS - MLS 2023 - Winner,Philadelphia Union,0.013899999999999996,0.125,0.1111
 2023-06-02 06:40:43.976458,MLB Futures - MLB 2023 National League West - National League West Winner,Arizona Diamondbacks,0.013899999999999996,0.125,0.1111
 2023-06-02 06:40:43.934474,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,San Diego Padres,0.013899999999999996,0.125,0.1111
 2023-06-02 06:40:44.017419,MLB Futures - MLB 2023 Player Awards - National League MVP,Freddie Freeman (LAD),0.013899999999999996,0.125,0.1111
+2023-06-02 07:40:37.477346,MLS - MLS 2023 - Winner,Philadelphia Union,0.013899999999999996,0.125,0.1111
 2023-06-02 03:40:57.380875,The Memorial Tournament - 2/3 Balls - 2nd Round 3 Balls - R. Henley / M. Kuchar / L. Griffin - 2nd Round 3 Balls,Matt Kuchar,0.013800000000000034,0.3774,0.3636
 2023-06-02 09:40:58.033430,Mizuho Americas Open - Mizuho Americas Open - Winner,Angel Yin,0.013699999999999999,0.0278,0.0141
 2023-06-02 03:40:57.619853,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Miami Heat,0.012899999999999995,0.1667,0.1538
 2023-06-02 05:40:43.728357,College Baseball - College Baseball World Series - Gainesville Regional Winner,Florida,0.012700000000000045,0.6491,0.6364
-2023-06-02 03:40:57.441602,Porsche European Open - 2/3 Balls - 2nd Round 3 Balls - E.C. Blanco / A. Albers / B. Windred - 2nd Round 3 Balls,Anton Albers,0.012699999999999989,0.3636,0.3509
 2023-06-02 02:40:51.624057,The Memorial Tournament - 2/3 Balls - 2nd Round 3 Balls - A. Rai / A. Bhatia / S. Bennett - 2nd Round 3 Balls,Sam Bennett,0.012699999999999989,0.3636,0.3509
 2023-06-02 05:40:45.465105,The Memorial Tournament - 2/3 Balls - 2nd Round 3 Balls - R. Fowler / S. Burns / S.W. Kim - 2nd Round 3 Balls,Si Woo Kim,0.012699999999999989,0.3636,0.3509
+2023-06-02 03:40:57.441602,Porsche European Open - 2/3 Balls - 2nd Round 3 Balls - E.C. Blanco / A. Albers / B. Windred - 2nd Round 3 Balls,Anton Albers,0.012699999999999989,0.3636,0.3509
 2023-06-02 05:40:45.607200,Round Match-Ups - Parlays - 2nd Round Match-Up - V. Hovland vs C. Morikawa - 2nd Round Match-Up,Collin Morikawa,0.012199999999999989,0.5122,0.5
-2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Santiago Tarrio,0.0113,0.0179,0.0066
-2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Alexander Bjork,0.011199999999999995,0.0588,0.0476
-2023-06-02 06:40:44.010704,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Zack Wheeler,0.011199999999999995,0.0588,0.0476
 2023-06-02 05:40:43.677045,College Baseball - College Baseball World Series -  College Baseball World Series Winner,Tennessee,0.011199999999999995,0.0588,0.0476
+2023-06-02 06:40:44.010704,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Zack Wheeler,0.011199999999999995,0.0588,0.0476
 2023-06-02 07:40:37.477346,MLS - MLS 2023 - Winner,FC Cincinnati,0.010899999999999993,0.1538,0.1429
 2023-06-02 09:40:58.033430,Mizuho Americas Open - Mizuho Americas Open - Winner,Charley Hull,0.010700000000000001,0.0385,0.0278
 2023-06-02 09:40:58.033430,Mizuho Americas Open - Mizuho Americas Open - Winner,Madelene Sagstrom,0.010600000000000002,0.0323,0.0217
 2023-06-02 05:40:43.704387,College Baseball - College Baseball World Series - Columbia Regional Winner,South Carolina,0.010099999999999998,0.4545,0.4444
-2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Jazz Janewattananond,-0.0101,0.004,0.0141
 2023-06-02 05:40:45.607200,Round Match-Ups - Parlays - 2nd Round Match-Up - V. Hovland vs C. Morikawa - 2nd Round Match-Up,Viktor Hovland,-0.010699999999999932,0.5348,0.5455
 2023-06-02 05:40:45.450699,The Memorial Tournament - 2/3 Balls - 2nd Round 3 Balls - J. Rahm / C. Morikawa / J. Day - 2nd Round 3 Balls,Collin Morikawa,-0.010699999999999987,0.3226,0.3333
 2023-06-02 02:40:51.566820,The Memorial Tournament - 2/3 Balls - 2nd Round 3 Balls - J.J. Spaun / L. List / S. Cink - 2nd Round 3 Balls,Stewart Cink,-0.010699999999999987,0.3226,0.3333
 2023-06-02 07:40:38.671132,Round Match-Ups - Parlays - 2nd Round Match-Up - E. Grillo vs K. Kitayama - 2nd Round Match-Up,Kurt Kitayama,-0.011099999999999999,0.4651,0.4762
-2023-06-02 07:40:37.477346,MLS - MLS 2023 - Winner,Seattle Sounders,-0.011199999999999995,0.0476,0.0588
 2023-06-02 07:40:37.578838,Superettan - Superettan 2023 - Winner,Landskrona BoIS,-0.011199999999999995,0.0476,0.0588
-2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Zander Lombard,-0.011300000000000001,0.001,0.0123
+2023-06-02 07:40:37.477346,MLS - MLS 2023 - Winner,Seattle Sounders,-0.011199999999999995,0.0476,0.0588
 2023-06-02 06:40:43.948348,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,-0.011499999999999955,0.6552,0.6667
-2023-06-02 03:40:57.441602,Porsche European Open - 2/3 Balls - 2nd Round 3 Balls - E.C. Blanco / A. Albers / B. Windred - 2nd Round 3 Balls,Blake Windred,-0.01150000000000001,0.3333,0.3448
 2023-06-02 02:40:51.624057,The Memorial Tournament - 2/3 Balls - 2nd Round 3 Balls - A. Rai / A. Bhatia / S. Bennett - 2nd Round 3 Balls,Akshay Bhatia,-0.01150000000000001,0.3333,0.3448
-2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Rikuya Hoshino,-0.0116,0.0025,0.0141
+2023-06-02 03:40:57.441602,Porsche European Open - 2/3 Balls - 2nd Round 3 Balls - E.C. Blanco / A. Albers / B. Windred - 2nd Round 3 Balls,Blake Windred,-0.01150000000000001,0.3333,0.3448
 2023-06-02 05:40:45.450699,The Memorial Tournament - 2/3 Balls - 2nd Round 3 Balls - J. Rahm / C. Morikawa / J. Day - 2nd Round 3 Balls,Jason Day,-0.011699999999999988,0.274,0.2857
 2023-06-02 11:40:37.654079,Porsche European Open - 2/3 Balls - 2nd Round 3 Balls - D. Brown / C. Ma / Y. Schutz - 2nd Round 3 Balls,Yannick Schutz,-0.011899999999999994,0.2381,0.25
-2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,John Catlin,-0.0119,0.0004,0.0123
 2023-06-02 05:40:45.520815,The Memorial Tournament - 2/3 Balls - 2nd Round 3 Balls - A. Rai / A. Bhatia / S. Bennett - 2nd Round 3 Balls,Sam Bennett,-0.012699999999999989,0.3509,0.3636
 2023-06-02 09:40:58.033430,Mizuho Americas Open - Mizuho Americas Open - Winner,Danielle Kang,-0.012700000000000003,0.0196,0.0323
-2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Sami Valimaki,-0.012799999999999999,0.0013,0.0141
 2023-06-02 07:40:37.718464,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Miami Heat,-0.012899999999999995,0.1538,0.1667
 2023-06-02 09:40:58.033430,Mizuho Americas Open - Mizuho Americas Open - Winner,Anna Nordqvist,-0.013,0.0066,0.0196
-2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Ryo Hisatsune,-0.0131,0.001,0.0141
-2023-06-02 05:40:43.728357,College Baseball - College Baseball World Series - Gainesville Regional Winner,Texas Tech,-0.01319999999999999,0.25,0.2632
 2023-06-02 07:40:38.380875,The Memorial Tournament - 2/3 Balls - 2nd Round 3 Balls - A. Noren / M. NeSmith / D. Lingmerth - 2nd Round 3 Balls,David Lingmerth,-0.01319999999999999,0.25,0.2632
-2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Dan Bradbury,-0.0137,0.0004,0.0141
+2023-06-02 05:40:43.728357,College Baseball - College Baseball World Series - Gainesville Regional Winner,Texas Tech,-0.01319999999999999,0.25,0.2632
 2023-06-02 05:40:44.952961,Boxing Lines - Josh Taylor vs Teofimo Lopez - To Win the Bout,Josh Taylor,-0.013799999999999923,0.6226,0.6364
 2023-06-02 05:40:45.465105,The Memorial Tournament - 2/3 Balls - 2nd Round 3 Balls - R. Fowler / S. Burns / S.W. Kim - 2nd Round 3 Balls,Sam Burns,-0.013800000000000034,0.3636,0.3774
-2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Kiradech Aphibarnrat,-0.013900000000000001,0.0025,0.0164
 2023-06-02 09:40:58.033430,Mizuho Americas Open - Mizuho Americas Open - Winner,Georgia Hall,-0.014100000000000001,0.0385,0.0526
-2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Marcel Schneider,-0.014599999999999998,0.005,0.0196
 2023-06-02 05:40:44.965902,Boxing Lines - Tim Tszyu vs Carlos Ocampo - To Win the Bout,Carlos Ocampo,-0.015100000000000002,0.1667,0.1818
-2023-06-02 06:40:44.024123,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Brett Baty (NYM),-0.015300000000000001,0.0435,0.0588
 2023-06-02 09:40:58.033430,Mizuho Americas Open - Mizuho Americas Open - Winner,Celine Boutier,-0.015300000000000001,0.0323,0.0476
+2023-06-02 06:40:44.024123,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Brett Baty (NYM),-0.015300000000000001,0.0435,0.0588
 2023-06-02 05:40:45.430383,The Memorial Tournament - 2/3 Balls - 2nd Round 3 Balls - C. Davis / S. Power / M. Wallace - 2nd Round 3 Balls,Cameron Davis,-0.015400000000000025,0.3846,0.4
-2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Richard Mansell,-0.0156,0.004,0.0196
-2023-06-02 00:41:10.914663,Porsche European Open - 2/3 Balls - 2nd Round 3 Balls - L. Nemecz / A. Garcia Heredia / T. Strydom - 2nd Round 3 Balls,Alfredo Garcia-Heredia,-0.016699999999999993,0.4,0.4167
 2023-06-02 03:40:57.380875,The Memorial Tournament - 2/3 Balls - 2nd Round 3 Balls - R. Henley / M. Kuchar / L. Griffin - 2nd Round 3 Balls,Lanto Griffin,-0.016699999999999993,0.25,0.2667
 2023-06-02 05:40:45.520815,The Memorial Tournament - 2/3 Balls - 2nd Round 3 Balls - A. Rai / A. Bhatia / S. Bennett - 2nd Round 3 Balls,Aaron Rai,-0.016699999999999993,0.4,0.4167
-2023-06-02 11:40:37.648299,Porsche European Open - 2/3 Balls - 2nd Round 3 Balls - D. Horsey / J. Parry / M. Gandas - 2nd Round 3 Balls,David Horsey,-0.016699999999999993,0.4,0.4167
 2023-06-02 07:40:37.578838,Superettan - Superettan 2023 - Winner,Västerås SK,-0.016699999999999993,0.25,0.2667
+2023-06-02 00:41:10.914663,Porsche European Open - 2/3 Balls - 2nd Round 3 Balls - L. Nemecz / A. Garcia Heredia / T. Strydom - 2nd Round 3 Balls,Alfredo Garcia-Heredia,-0.016699999999999993,0.4,0.4167
+2023-06-02 11:40:37.648299,Porsche European Open - 2/3 Balls - 2nd Round 3 Balls - D. Horsey / J. Parry / M. Gandas - 2nd Round 3 Balls,David Horsey,-0.016699999999999993,0.4,0.4167
 2023-06-02 06:40:44.024123,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Elly De La Cruz,-0.016700000000000007,0.0833,0.1
 2023-06-02 01:40:39.411764,Boxing Lines - Tim Tszyu vs Carlos Ocampo - To Win the Bout,Tim Tszyu,-0.01760000000000006,0.8824,0.9
-2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Grant Forrest,-0.0179,0.0017,0.0196
-2023-06-02 02:40:51.592401,The Memorial Tournament - 2/3 Balls - 2nd Round 3 Balls - H. Buckley / M. Hubbard / J. Dufner - 2nd Round 3 Balls,Hayden Buckley,-0.018100000000000005,0.4167,0.4348
 2023-06-02 07:40:38.634332,Round Match-Ups - Parlays - 2nd Round Match-Up - X. Schauffele vs J. Thomas - 2nd Round Match-Up,Xander Schauffele,-0.018100000000000005,0.5652,0.5833
-2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Matthew Southgate,-0.0187,0.0057,0.0244
-2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Matthias Schmid,-0.0192,0.0004,0.0196
+2023-06-02 02:40:51.592401,The Memorial Tournament - 2/3 Balls - 2nd Round 3 Balls - H. Buckley / M. Hubbard / J. Dufner - 2nd Round 3 Balls,Hayden Buckley,-0.018100000000000005,0.4167,0.4348
 2023-06-02 11:40:37.449057,Round Match-Ups - Parlays - 2nd Round Match-Up - X. Schauffele vs J. Thomas - 2nd Round Match-Up,Xander Schauffele,-0.01970000000000005,0.5455,0.5652
 2023-06-02 05:40:43.722337,College Baseball - College Baseball World Series - Fayetteville Regional Winner,Arizona,-0.01999999999999999,0.1905,0.2105
 2023-06-02 05:40:43.692182,College Baseball - College Baseball World Series - Charlottesville Regional Winner,Oklahoma,-0.01999999999999999,0.1905,0.2105
@@ -162,26 +137,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-02 09:40:58.033430,Mizuho Americas Open - Mizuho Americas Open - Winner,Hae Ran Ryu,-0.023200000000000002,0.0244,0.0476
 2023-06-02 07:40:38.653501,Round Match-Ups - Parlays - 2nd Round Match-Up - A. Hadwin vs T. Montgomery - 2nd Round Match-Up,Taylor Montgomery,-0.023799999999999988,0.4762,0.5
 2023-06-02 11:40:37.443526,Round Match-Ups - Parlays - 2nd Round Match-Up - J. Spieth v T. Hatton - 2nd Round Match-Up,Tyrrell Hatton,-0.023800000000000043,0.5,0.5238
-2023-06-02 05:40:45.546061,Round Match-Ups - Parlays - 2nd Round Match-Up - P. Cantlay vs R. McIlroy - 2nd Round Match-Up,Rory McIlroy,-0.024399999999999977,0.4878,0.5122
 2023-06-02 07:40:38.711937,Round Match-Ups - Parlays - 2nd Round Match-Up - C. Young vs A. Scott - 2nd Round Match-Up,Adam Scott,-0.024399999999999977,0.4878,0.5122
+2023-06-02 05:40:45.546061,Round Match-Ups - Parlays - 2nd Round Match-Up - P. Cantlay vs R. McIlroy - 2nd Round Match-Up,Rory McIlroy,-0.024399999999999977,0.4878,0.5122
 2023-06-02 09:40:58.033430,Mizuho Americas Open - Mizuho Americas Open - Winner,Nasa Hataoka,-0.026499999999999996,0.0323,0.0588
 2023-06-02 07:40:38.489045,The Memorial Tournament - 2/3 Balls - 2nd Round 3 Balls - R. Shelton / D. Willett / P. Malnati - 2nd Round 3 Balls,Peter Malnati,-0.02679999999999999,0.2857,0.3125
 2023-06-02 07:40:38.589727,The Memorial Tournament - 2/3 Balls - 2nd Round 3 Balls - S. Im / S. Lowry / N. Hardy - 2nd Round 3 Balls,Nick Hardy,-0.02779999999999999,0.2222,0.25
 2023-06-02 11:40:37.654079,Porsche European Open - 2/3 Balls - 2nd Round 3 Balls - D. Brown / C. Ma / Y. Schutz - 2nd Round 3 Balls,Ma Chengyao,-0.02779999999999999,0.2222,0.25
 2023-06-02 09:40:58.033430,Mizuho Americas Open - Mizuho Americas Open - Winner,Minjee Lee,-0.028000000000000004,0.0196,0.0476
-2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Antoine Rozner,-0.028000000000000004,0.0196,0.0476
 2023-06-02 05:40:45.292328,The Memorial Tournament - 2/3 Balls - 2nd Round 3 Balls - P. Cantlay / H. Matsuyama / B. Horschel - 2nd Round 3 Balls,Hideki Matsuyama,-0.030299999999999994,0.303,0.3333
-2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Thorbjorn Olesen,-0.0325,0.011,0.0435
 2023-06-02 11:40:37.454581,Round Match-Ups - Parlays - 2nd Round Match-Up - K. Bradley vs K.H. Lee - 2nd Round Match-Up,K H Lee,-0.033299999999999996,0.4545,0.4878
 2023-06-02 05:40:45.552660,Round Match-Ups - Parlays - 2nd Round Match-Up - X. Schauffele vs J. Thomas - 2nd Round Match-Up,Justin Thomas,-0.03489999999999999,0.4651,0.5
 2023-06-02 01:40:39.132476,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Miami Heat,-0.0353,0.2,0.2353
-2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Robert MacIntyre,-0.037700000000000004,0.0099,0.0476
 2023-06-02 06:40:43.976458,MLB Futures - MLB 2023 National League West - National League West Winner,Los Angeles Dodgers,-0.04039999999999999,0.7778,0.8182
 2023-06-02 00:41:09.556693,Boxing Lines - Erik Bazinyan vs Jose De Jesus Macias - To Win the Bout,Jose De Jesus Macias,-0.042899999999999994,0.1,0.1429
-2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Yannik Paul,-0.046,0.0066,0.0526
 2023-06-02 05:40:43.744154,College Baseball - College Baseball World Series - Stanford Regional Winner,Cal State Fullerton,-0.04620000000000002,0.1538,0.2
 2023-06-02 02:40:50.576951,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Miami Heat,-0.04620000000000002,0.1538,0.2
-2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Rasmus Hojgaard,-0.0465,0.0123,0.0588
 2023-06-02 10:40:39.787108,Scores - 2nd Round Score - Patrick Cantlay - 2nd Round Score,Over 70.5,-0.06970000000000004,0.4651,0.5348
 2023-06-02 09:40:58.033430,Mizuho Americas Open - Mizuho Americas Open - Winner,Jin Young Ko,-0.07750000000000001,0.0278,0.1053
 2023-06-02 06:40:44.024123,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,James Outman (LAD),-0.07930000000000001,0.1429,0.2222
