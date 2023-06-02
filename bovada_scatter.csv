@@ -33,8 +33,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-02 11:40:37.648299,Porsche European Open - 2/3 Balls - 2nd Round 3 Balls - D. Horsey / J. Parry / M. Gandas - 2nd Round 3 Balls,John Parry,0.018799999999999983,0.3636,0.3448
 2023-06-02 09:40:58.033430,Mizuho Americas Open - Mizuho Americas Open - Winner,Yuka Saso,0.0179,0.0278,0.0099
 2023-06-02 18:40:47.993215,Boxing Lines - Jonathan Lopez vs Eduardo Baez - To Win the Bout,Jonathan Lopez,0.017899999999999916,0.7826,0.7647
-2023-06-02 14:40:39.907222,WNBA Futures - 2023 Regular Season Wins - Seattle Storm,Under 12.5,0.017299999999999982,0.5917,0.5744
 2023-06-02 11:40:37.454581,Round Match-Ups - Parlays - 2nd Round Match-Up - K. Bradley vs K.H. Lee - 2nd Round Match-Up,Keegan Bradley,0.017299999999999982,0.5917,0.5744
+2023-06-02 14:40:39.907222,WNBA Futures - 2023 Regular Season Wins - Seattle Storm,Under 12.5,0.017299999999999982,0.5917,0.5744
 2023-06-02 15:40:40.368812,WNBA Futures - WNBA Championship 2023 - Outright Winner,New York Liberty,0.016699999999999993,0.4167,0.4
 2023-06-02 10:40:39.806217,Scores - 2nd Round Score - Tyrrell Hatton - 2nd Round Score ,Under 71.5,0.016100000000000003,0.6078,0.5917
 2023-06-02 18:40:48.622751,Porsche European Open - Porsche European Open - Winner,Matthew Southgate,0.016,0.0217,0.0057
@@ -49,14 +49,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-02 09:40:58.033430,Mizuho Americas Open - Mizuho Americas Open - Winner,Madelene Sagstrom,0.010600000000000002,0.0323,0.0217
 2023-06-02 20:40:45.643846,College Basketball Futures - 2024 NCAA DI Mens Basketball Tournament - March Madness - National Champion,Kansas,0.0102,0.0769,0.0667
 2023-06-02 20:40:45.643846,College Basketball Futures - 2024 NCAA DI Mens Basketball Tournament - March Madness - National Champion,UConn,-0.0102,0.0667,0.0769
+2023-06-02 21:40:44.691556,Boxing Lines - Fernando Vargas vs Heber Rondon - To Win the Bout,Heber Rondon,-0.0102,0.0667,0.0769
 2023-06-02 18:40:48.622751,Porsche European Open - Porsche European Open - Winner,Julien Brun,-0.010700000000000001,0.0278,0.0385
 2023-06-02 14:40:39.888286,WNBA Futures - 2023 Regular Season Wins - Atlanta Dream,Over 18.5,-0.01100000000000001,0.5238,0.5348
 2023-06-02 20:40:45.643846,College Basketball Futures - 2024 NCAA DI Mens Basketball Tournament - March Madness - National Champion,USC,-0.011199999999999995,0.0323,0.0435
 2023-06-02 14:40:39.907222,WNBA Futures - 2023 Regular Season Wins - Seattle Storm,Over 12.5,-0.0116,0.4762,0.4878
-2023-06-02 18:40:48.622751,Porsche European Open - Porsche European Open - Winner,Calum Hill,-0.011699999999999999,0.0079,0.0196
 2023-06-02 18:40:48.622751,Porsche European Open - Porsche European Open - Winner,Julien Guerrier,-0.011699999999999999,0.0079,0.0196
-2023-06-02 11:40:37.654079,Porsche European Open - 2/3 Balls - 2nd Round 3 Balls - D. Brown / C. Ma / Y. Schutz - 2nd Round 3 Balls,Yannick Schutz,-0.011899999999999994,0.2381,0.25
+2023-06-02 18:40:48.622751,Porsche European Open - Porsche European Open - Winner,Calum Hill,-0.011699999999999999,0.0079,0.0196
 2023-06-02 19:40:55.398648,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,No,-0.011899999999999994,0.2381,0.25
+2023-06-02 11:40:37.654079,Porsche European Open - 2/3 Balls - 2nd Round 3 Balls - D. Brown / C. Ma / Y. Schutz - 2nd Round 3 Balls,Yannick Schutz,-0.011899999999999994,0.2381,0.25
 2023-06-02 14:40:39.881013,WNBA Futures - WNBA Commissioner's Cup 2023 - Outright Winner,Connecticut Sun,-0.012299999999999991,0.1053,0.1176
 2023-06-02 18:40:48.622751,Porsche European Open - Porsche European Open - Winner,Renato Paratore,-0.012400000000000001,0.004,0.0164
 2023-06-02 16:40:43.964619,The Memorial Tournament - 2/3 Balls - 2nd Round 3 Balls - R. Fowler / S. Burns / S.W. Kim - 2nd Round 3 Balls,Rickie Fowler,-0.012699999999999989,0.3509,0.3636
@@ -79,8 +80,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-02 09:40:58.033430,Mizuho Americas Open - Mizuho Americas Open - Winner,Ashleigh Buhai,-0.022099999999999998,0.0057,0.0278
 2023-06-02 18:40:48.622751,Porsche European Open - Porsche European Open - Winner,Niklas Norgaard,-0.023100000000000002,0.0013,0.0244
 2023-06-02 09:40:58.033430,Mizuho Americas Open - Mizuho Americas Open - Winner,Hae Ran Ryu,-0.023200000000000002,0.0244,0.0476
-2023-06-02 11:40:37.443526,Round Match-Ups - Parlays - 2nd Round Match-Up - J. Spieth v T. Hatton - 2nd Round Match-Up,Tyrrell Hatton,-0.023800000000000043,0.5,0.5238
 2023-06-02 16:40:44.064240,Round Match-Ups - Parlays - 2nd Round Match-Up - J. Day vs S. Burns - 2nd Round Match-Up,Jason Day,-0.023800000000000043,0.5,0.5238
+2023-06-02 11:40:37.443526,Round Match-Ups - Parlays - 2nd Round Match-Up - J. Spieth v T. Hatton - 2nd Round Match-Up,Tyrrell Hatton,-0.023800000000000043,0.5,0.5238
 2023-06-02 18:40:47.993215,Boxing Lines - Jonathan Lopez vs Eduardo Baez - To Win the Bout,Eduardo Baez,-0.025999999999999968,0.2817,0.3077
 2023-06-02 09:40:58.033430,Mizuho Americas Open - Mizuho Americas Open - Winner,Nasa Hataoka,-0.026499999999999996,0.0323,0.0588
 2023-06-02 18:40:48.622751,Porsche European Open - Porsche European Open - Winner,Romain Langasque,-0.026600000000000002,0.0057,0.0323
