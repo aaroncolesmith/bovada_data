@@ -11,17 +11,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Joost Luiten,0.05859999999999999,0.0909,0.0323
 2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Marcus Helligkilde,0.0573,0.0769,0.0196
 2023-06-01 14:44:19.748706,MLB Daily Specials - MLB Daily Specials - Thursday June 1 - Early Games,"Christian Walker, Jorge Soler, Matt Chapman, Vladimir Guerrero Jr, Pete Alonso & Kyle Schwarber 2+ Combined Home Runs",0.05559999999999998,0.5556,0.5
-2023-06-01 12:41:00.856536,MLB Daily Specials - MLB Daily Specials - Thursday June 1 - Early Games,"Christian Walker, Jorge Soler, Matt Chapman, Vladimir Guerrero Jr, Pete Alonso & Kyle Schwarber 2+ Combined Home Runs",0.05559999999999998,0.5,0.4444
 2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Simon Forsstrom,0.0509,0.0588,0.0079
 2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Ewen Ferguson,0.04229999999999999,0.0667,0.0244
 2023-06-01 18:40:44.219759,WNBA Futures - 2023 Regular Season Wins - Seattle Storm,Under 12.5,0.03959999999999997,0.5744,0.5348
+2023-06-02 00:41:09.556693,Boxing Lines - Erik Bazinyan vs Jose De Jesus Macias - To Win the Bout,Erik Bazinyan,0.035700000000000065,0.9524,0.9167
 2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Kristian Krogh Johannessen,0.0306,0.0385,0.0079
 2023-06-01 17:40:40.565684,College Baseball - College Baseball World Series - College Baseball World Series Winner,Clemson,0.0275,0.0385,0.011
 2023-06-01 18:40:44.307265,WNBA Futures - To Make the 2023 Playoffs - Phoenix Mercury,No,0.02579999999999999,0.1739,0.1481
 2023-06-01 17:40:40.565684,College Baseball - College Baseball World Series - College Baseball World Series Winner,Virginia,0.024299999999999995,0.0769,0.0526
-2023-06-01 12:40:59.744629,Boxing Lines - Katsuya Yasuda vs Apichet Petchmanee - To Win the Bout,Apichet Petchmanee,0.020699999999999996,0.4651,0.4444
 2023-06-01 21:40:42.796377,NBA Specials - Lonzo Ball to retire before the start of the 2024-25 NBA Season? - Lonzo to Announce Retirement,No,0.019100000000000006,0.9524,0.9333
 2023-06-01 19:40:44.064742,Soccer Specials - Transfer Specials - Lionel Messi to sign for before 4th September 2023,Barcelona,0.018900000000000028,0.4444,0.4255
+2023-06-02 00:41:10.914663,Porsche European Open - 2/3 Balls - 2nd Round 3 Balls - L. Nemecz / A. Garcia Heredia / T. Strydom - 2nd Round 3 Balls,Lukas Nemecz,0.018900000000000028,0.4444,0.4255
 2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Julien Brun,0.0189,0.0385,0.0196
 2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Marcel Siem,0.0182,0.0323,0.0141
 2023-06-01 19:40:44.776297,Boxing Lines - Erik Bazinyan vs Jose De Jesus Macias - To Win the Bout,Jose De Jesus Macias,0.0179,0.1429,0.125
@@ -35,7 +35,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Alexander Bjork,0.011199999999999995,0.0588,0.0476
 2023-06-01 17:40:40.565684,College Baseball - College Baseball World Series - College Baseball World Series Winner,Kentucky,0.010600000000000002,0.0323,0.0217
 2023-06-01 18:40:41.357432,Boxing Lines - Erik Bazinyan vs Jose De Jesus Macias - To Win the Bout,Erik Bazinyan,0.010199999999999987,0.9333,0.9231
-2023-06-01 12:40:59.738808,Boxing Lines - Jonathan Lopez vs Eduardo Baez - To Win the Bout,Eduardo Baez,-0.010099999999999998,0.3125,0.3226
 2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Jazz Janewattananond,-0.0101,0.004,0.0141
 2023-06-01 14:44:17.047171,Boxing Lines - Marlon Harrington vs Gheith Karim - To Win the Bout,Marlon Harrington,-0.010199999999999987,0.7937,0.8039
 2023-06-01 17:40:40.565684,College Baseball - College Baseball World Series - College Baseball World Series Winner,Oklahoma,-0.0102,0.005,0.0152
@@ -54,9 +53,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Kiradech Aphibarnrat,-0.013900000000000001,0.0025,0.0164
 2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Marcel Schneider,-0.014599999999999998,0.005,0.0196
 2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Richard Mansell,-0.0156,0.004,0.0196
-2023-06-01 21:40:42.796377,NBA Specials - Lonzo Ball to retire before the start of the 2024-25 NBA Season? - Lonzo to Announce Retirement,Yes,-0.015700000000000006,0.1176,0.1333
 2023-06-01 14:44:16.943402,Boxing Lines - Erik Bazinyan vs Jose De Jesus Macias - To Win the Bout,Jose De Jesus Macias,-0.015700000000000006,0.1176,0.1333
+2023-06-01 21:40:42.796377,NBA Specials - Lonzo Ball to retire before the start of the 2024-25 NBA Season? - Lonzo to Announce Retirement,Yes,-0.015700000000000006,0.1176,0.1333
 2023-06-01 19:40:44.776297,Boxing Lines - Erik Bazinyan vs Jose De Jesus Macias - To Win the Bout,Erik Bazinyan,-0.01660000000000006,0.9167,0.9333
+2023-06-02 00:41:10.914663,Porsche European Open - 2/3 Balls - 2nd Round 3 Balls - L. Nemecz / A. Garcia Heredia / T. Strydom - 2nd Round 3 Balls,Alfredo Garcia-Heredia,-0.016699999999999993,0.4,0.4167
 2023-06-01 18:40:44.363657,NBA Specials - Joe Mazulla to be Head Coach of the Celtics Next Season? - Joe Mazulla to be Celtics HC for the Start of the 2023-24 NBA Season,No,-0.016699999999999993,0.25,0.2667
 2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Grant Forrest,-0.0179,0.0017,0.0196
 2023-06-01 19:40:44.064742,Soccer Specials - Transfer Specials - Lionel Messi to sign for before 4th September 2023,Chelsea,-0.018200000000000004,0.0294,0.0476
@@ -66,7 +66,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Matthias Schmid,-0.0192,0.0004,0.0196
 2023-06-01 17:40:40.565684,College Baseball - College Baseball World Series - College Baseball World Series Winner,East Carolina,-0.021300000000000003,0.0132,0.0345
 2023-06-01 18:40:44.307265,WNBA Futures - To Make the 2023 Playoffs - Phoenix Mercury,Yes,-0.02189999999999992,0.8948,0.9167
-2023-06-01 12:40:59.744629,Boxing Lines - Katsuya Yasuda vs Apichet Petchmanee - To Win the Bout,Katsuya Yasuda,-0.022600000000000064,0.6,0.6226
 2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Antoine Rozner,-0.028000000000000004,0.0196,0.0476
 2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Thorbjorn Olesen,-0.0325,0.011,0.0435
 2023-06-01 17:40:40.565684,College Baseball - College Baseball World Series - College Baseball World Series Winner,South Carolina,-0.0334,0.0435,0.0769
@@ -74,6 +73,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-01 18:40:44.931688,Nobel Prizes - Nobel Peace Prize - Nobel Peace Prize Winner 2023,Ilham Toti,-0.034100000000000005,0.0909,0.125
 2023-06-01 19:40:45.918719,Box Office Specials - Barbie Specials - How many Oscars will Barbie win?,1,-0.0363,0.2667,0.303
 2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Robert MacIntyre,-0.037700000000000004,0.0099,0.0476
+2023-06-02 00:41:09.556693,Boxing Lines - Erik Bazinyan vs Jose De Jesus Macias - To Win the Bout,Jose De Jesus Macias,-0.042899999999999994,0.1,0.1429
 2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Yannik Paul,-0.046,0.0066,0.0526
 2023-06-01 23:40:43.649977,Porsche European Open - Porsche European Open - Winner,Rasmus Hojgaard,-0.0465,0.0123,0.0588
 2023-06-01 18:40:44.219759,WNBA Futures - 2023 Regular Season Wins - Seattle Storm,Over 12.5,-0.04700000000000004,0.4878,0.5348
