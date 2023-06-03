@@ -19,8 +19,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-03 15:40:48.034418,College Baseball - College Baseball World Series - To Win Super Regional ,Samford,0.065,0.1176,0.0526
 2023-06-03 15:40:48.034418,College Baseball - College Baseball World Series - To Win Super Regional ,Pennsylvania,0.06180000000000001,0.1053,0.0435
 2023-06-03 15:40:48.009073,College Baseball - College Baseball World Series - To Win Super Regional,Oral Roberts,0.0577,0.1053,0.0476
-2023-06-03 15:40:48.028124,College Baseball - College Baseball World Series - To Win Super Regional ,TCU,0.0567,0.2105,0.1538
 2023-06-03 15:40:48.028124,College Baseball - College Baseball World Series - To Win Super Regional ,Iowa,0.0567,0.2105,0.1538
+2023-06-03 15:40:48.028124,College Baseball - College Baseball World Series - To Win Super Regional ,TCU,0.0567,0.2105,0.1538
 2023-06-03 08:41:12.185686,Soccer Specials - Transfer Specials - Lionel Messi to sign for before 4th September 2023,Barcelona,0.05559999999999998,0.5,0.4444
 2023-06-03 15:40:47.783783,Porsche European Open - Porsche European Open - Winner,Marcel Siem,0.05249999999999999,0.0769,0.0244
 2023-06-03 15:40:48.015568,College Baseball - College Baseball World Series - To Win Super Regional,Stanford,0.05109999999999998,0.3636,0.3125
@@ -33,25 +33,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-03 13:40:49.926478,Default Specials - United States GDP Growth For 2023 - US GDP Growth 2023,Positive Growth,0.040999999999999925,0.7333,0.6923
 2023-06-03 13:40:49.941515,Default Specials - Will US have two consecutive quarters of negative GDP growth in 2023? - US Recession In 2023,Yes,0.03959999999999997,0.5744,0.5348
 2023-06-03 15:40:48.015568,College Baseball - College Baseball World Series - To Win Super Regional,Texas A&M,0.0353,0.2353,0.2
+2023-06-03 11:40:47.460826,Donald Trump Specials - Trump Specials - Trump Specials,'Donald' to make the top 100 baby names for 2023 according to ssa.gov,0.034100000000000005,0.125,0.0909
 2023-06-03 09:40:47.802127,Principal Charity Classic - Principal Charity Classic - Winner,Miguel Angel Jimenez,0.034100000000000005,0.125,0.0909
 2023-06-03 15:40:47.783783,Porsche European Open - Porsche European Open - Winner,David Law,0.034100000000000005,0.125,0.0909
-2023-06-03 11:40:47.460826,Donald Trump Specials - Trump Specials - Trump Specials,'Donald' to make the top 100 baby names for 2023 according to ssa.gov,0.034100000000000005,0.125,0.0909
 2023-06-03 11:40:47.670945,College Baseball - College Baseball World Series -  College Baseball World Series Winner,LSU,0.031799999999999995,0.1429,0.1111
 2023-06-03 13:40:50.446652,Round Match-Ups - Parlays - 3rd Round Match-Up - E. Grillo vs H. English - 3rd Round Match-Up,Emiliano Grillo,0.03179999999999994,0.5556,0.5238
 2023-06-03 17:40:49.975884,Boxing Lines - Ardreal Holmes vs Wendy Toussaint - To Win the Bout,Ardreal Holmes,0.03169999999999995,0.8095,0.7778
 2023-06-03 15:40:48.015568,College Baseball - College Baseball World Series - To Win Super Regional,Miami (FL),0.02779999999999999,0.25,0.2222
-2023-06-03 07:41:50.776626,The Memorial Tournament - 2/3 Balls - 3rd Round 2 Balls - T. Hatton v S. Jaeger - 3rd Round 2 Balls,Stephan Jaeger,0.025499999999999967,0.4255,0.4
 2023-06-03 07:41:50.784891,The Memorial Tournament - 2/3 Balls - 3rd Round 2 Balls - W. Clark v A. Eckroat - 3rd Round 2 Balls,Austin Eckroat,0.025499999999999967,0.4255,0.4
+2023-06-03 07:41:50.776626,The Memorial Tournament - 2/3 Balls - 3rd Round 2 Balls - T. Hatton v S. Jaeger - 3rd Round 2 Balls,Stephan Jaeger,0.025499999999999967,0.4255,0.4
 2023-06-03 09:40:47.788282,Mizuho Americas Open - Mizuho Americas Open - Winner,Lydia Ko,0.024999999999999994,0.125,0.1
 2023-06-03 15:40:48.000816,College Baseball - College Baseball World Series - To Win Super Regional,Indiana,0.024299999999999995,0.0769,0.0526
 2023-06-03 08:41:12.022797,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,Estudiantes de La Plata,0.0242,0.0909,0.0667
 2023-06-03 07:41:50.685294,The Memorial Tournament - 2/3 Balls - 3rd Round 2 Balls - H. English v T. Montgomery - 3rd Round 2 Balls,Harris English,0.02079999999999993,0.5556,0.5348
 2023-06-03 07:41:50.571389,The Memorial Tournament - 2/3 Balls - 3rd Round 2 Balls - A. Schenk v T. Pendrith - 3rd Round 2 Balls,Adam Schenk,0.02079999999999993,0.5556,0.5348
+2023-06-03 19:41:09.691705,CFL Season Props - 2023 Regular Season Passing Yards  - Jake Maier,Over 3555,0.02079999999999993,0.5556,0.5348
 2023-06-03 07:41:50.638608,The Memorial Tournament - 2/3 Balls - 3rd Round 2 Balls - R. Henley v K. Mitchell - 3rd Round 2 Balls,Keith Mitchell,0.020699999999999996,0.4651,0.4444
 2023-06-03 11:40:47.670945,College Baseball - College Baseball World Series -  College Baseball World Series Winner,Clemson,0.0203,0.0588,0.0385
 2023-06-03 13:40:49.760769,Boxing Lines - D'Velle Smith vs Kahydlian Woods - To Win the Bout,Kahydlian Woods,0.02020000000000001,0.1111,0.0909
 2023-06-03 11:40:47.670945,College Baseball - College Baseball World Series -  College Baseball World Series Winner,Arkansas,0.02020000000000001,0.1111,0.0909
 2023-06-03 09:40:47.802127,Principal Charity Classic - Principal Charity Classic - Winner,Rod Pampling,0.020000000000000004,0.0323,0.0123
+2023-06-03 19:41:09.593452,CFL Season Props -  2023 Regular Season Wins - CGY Stampeders,Over 9.5,0.01970000000000005,0.5652,0.5455
 2023-06-03 11:40:47.670945,College Baseball - College Baseball World Series -  College Baseball World Series Winner,East Carolina,0.019100000000000002,0.0323,0.0132
 2023-06-03 09:40:47.788282,Mizuho Americas Open - Mizuho Americas Open - Winner,Rose Zhang,0.019099999999999992,0.0667,0.0476
 2023-06-03 11:40:47.670945,College Baseball - College Baseball World Series -  College Baseball World Series Winner,South Carolina,0.019000000000000003,0.0625,0.0435
@@ -73,18 +75,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-03 08:41:12.022797,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,Talleres,0.0102,0.0769,0.0667
 2023-06-03 07:41:50.254173,Boxing Lines - Luka Plantic vs Yusuf Kanguel - To Win the Bout,Luka Plantic,0.010199999999999987,0.9333,0.9231
 2023-06-03 15:40:48.000816,College Baseball - College Baseball World Series - To Win Super Regional,LSU,0.010099999999999998,0.5556,0.5455
+2023-06-03 19:41:09.599427,CFL Season Props -  2023 Regular Season Wins - EDM Elks,Over 6.5,0.010099999999999998,0.5556,0.5455
 2023-06-03 09:40:47.802127,Principal Charity Classic - Principal Charity Classic - Winner,Kris Blanks,-0.0101,0.004,0.0141
 2023-06-03 09:40:47.788282,Mizuho Americas Open - Mizuho Americas Open - Winner,Chella Choi,-0.010700000000000001,0.0057,0.0164
-2023-06-03 15:40:48.034418,College Baseball - College Baseball World Series - To Win Super Regional ,Charlotte,-0.011199999999999995,0.0323,0.0435
-2023-06-03 08:41:12.022797,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,Atlético Lanús,-0.011199999999999995,0.0476,0.0588
-2023-06-03 15:40:48.028124,College Baseball - College Baseball World Series - To Win Super Regional ,Wright State,-0.011199999999999995,0.0323,0.0435
-2023-06-03 09:40:47.802127,Principal Charity Classic - Principal Charity Classic - Winner,Bernhard Langer,-0.011199999999999995,0.0476,0.0588
-2023-06-03 15:40:48.000816,College Baseball - College Baseball World Series - To Win Super Regional,Tulane,-0.011199999999999995,0.0323,0.0435
 2023-06-03 15:40:48.028124,College Baseball - College Baseball World Series - To Win Super Regional ,Santa Clara,-0.011199999999999995,0.0323,0.0435
+2023-06-03 15:40:48.000816,College Baseball - College Baseball World Series - To Win Super Regional,Tulane,-0.011199999999999995,0.0323,0.0435
+2023-06-03 08:41:12.022797,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,Atlético Lanús,-0.011199999999999995,0.0476,0.0588
+2023-06-03 09:40:47.802127,Principal Charity Classic - Principal Charity Classic - Winner,Bernhard Langer,-0.011199999999999995,0.0476,0.0588
 2023-06-03 15:40:48.034418,College Baseball - College Baseball World Series - To Win Super Regional ,Lipscomb,-0.011199999999999995,0.0323,0.0435
+2023-06-03 15:40:48.034418,College Baseball - College Baseball World Series - To Win Super Regional ,Charlotte,-0.011199999999999995,0.0323,0.0435
+2023-06-03 15:40:48.028124,College Baseball - College Baseball World Series - To Win Super Regional ,Wright State,-0.011199999999999995,0.0323,0.0435
 2023-06-03 15:40:47.783783,Porsche European Open - Porsche European Open - Winner,Mike Lorenzo-Vera,-0.011300000000000001,0.001,0.0123
-2023-06-03 09:40:47.788282,Mizuho Americas Open - Mizuho Americas Open - Winner,Hae Ran Ryu,-0.012100000000000001,0.0123,0.0244
+2023-06-03 19:41:09.599427,CFL Season Props -  2023 Regular Season Wins - EDM Elks,Under 6.5,-0.011600000000000055,0.5122,0.5238
 2023-06-03 15:40:47.783783,Porsche European Open - Porsche European Open - Winner,Santiago Tarrio,-0.012100000000000001,0.0123,0.0244
+2023-06-03 09:40:47.788282,Mizuho Americas Open - Mizuho Americas Open - Winner,Hae Ran Ryu,-0.012100000000000001,0.0123,0.0244
 2023-06-03 09:40:47.788282,Mizuho Americas Open - Mizuho Americas Open - Winner,Atthaya Thitikul,-0.012899999999999995,0.1538,0.1667
 2023-06-03 14:41:11.629979,Boxing Lines - Edin Puhalo vs Siril Makiadi - To Win the Bout,Edin Puhalo,-0.0131,0.7647,0.7778
 2023-06-03 07:41:50.776626,The Memorial Tournament - 2/3 Balls - 3rd Round 2 Balls - T. Hatton v S. Jaeger - 3rd Round 2 Balls,Tyrrell Hatton,-0.013299999999999979,0.6296,0.6429
@@ -99,16 +103,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-03 07:41:50.140102,WNBA Futures - WNBA Championship 2023 - Outright Winner,New York Liberty,-0.016699999999999993,0.4,0.4167
 2023-06-03 07:41:50.829948,The Memorial Tournament - 2/3 Balls - 3rd Round 2 Balls - S.W. Kim v M. Hubbard - 3rd Round 2 Balls,Mark Hubbard,-0.017299999999999982,0.4082,0.4255
 2023-06-03 15:40:47.783783,Porsche European Open - Porsche European Open - Winner,Julien Brun,-0.0179,0.0099,0.0278
-2023-06-03 09:40:47.802127,Principal Charity Classic - Principal Charity Classic - Winner,Paul Stankowski,-0.0187,0.0057,0.0244
 2023-06-03 09:40:47.802127,Principal Charity Classic - Principal Charity Classic - Winner,Paul Broadhurst,-0.0187,0.0057,0.0244
+2023-06-03 09:40:47.802127,Principal Charity Classic - Principal Charity Classic - Winner,Paul Stankowski,-0.0187,0.0057,0.0244
 2023-06-03 08:41:12.022797,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,River Plate,-0.01880000000000004,0.6364,0.6552
 2023-06-03 09:40:47.788282,Mizuho Americas Open - Mizuho Americas Open - Winner,Charley Hull,-0.0189,0.0196,0.0385
 2023-06-03 09:40:47.788282,Mizuho Americas Open - Mizuho Americas Open - Winner,Lauren Hartlage,-0.0194,0.005,0.0244
 2023-06-03 09:40:47.788282,Mizuho Americas Open - Mizuho Americas Open - Winner,Yuka Saso,-0.019899999999999998,0.0079,0.0278
 2023-06-03 09:40:47.788282,Mizuho Americas Open - Mizuho Americas Open - Winner,Grace Kim,-0.020000000000000004,0.0123,0.0323
 2023-06-03 09:40:47.802127,Principal Charity Classic - Principal Charity Classic - Winner,Kevin Sutherland,-0.022200000000000004,0.0123,0.0345
-2023-06-03 07:41:50.685294,The Memorial Tournament - 2/3 Balls - 3rd Round 2 Balls - H. English v T. Montgomery - 3rd Round 2 Balls,Taylor Montgomery,-0.024399999999999977,0.4878,0.5122
+2023-06-03 19:41:09.691705,CFL Season Props - 2023 Regular Season Passing Yards  - Jake Maier,Under 3555,-0.022600000000000064,0.5122,0.5348
+2023-06-03 19:41:09.593452,CFL Season Props -  2023 Regular Season Wins - CGY Stampeders,Under 9.5,-0.023800000000000043,0.5,0.5238
 2023-06-03 07:41:50.571389,The Memorial Tournament - 2/3 Balls - 3rd Round 2 Balls - A. Schenk v T. Pendrith - 3rd Round 2 Balls,Taylor Pendrith,-0.024399999999999977,0.4878,0.5122
+2023-06-03 07:41:50.685294,The Memorial Tournament - 2/3 Balls - 3rd Round 2 Balls - H. English v T. Montgomery - 3rd Round 2 Balls,Taylor Montgomery,-0.024399999999999977,0.4878,0.5122
 2023-06-03 09:40:47.788282,Mizuho Americas Open - Mizuho Americas Open - Winner,Nasa Hataoka,-0.0257,0.0066,0.0323
 2023-06-03 17:40:49.975884,Boxing Lines - Ardreal Holmes vs Wendy Toussaint - To Win the Bout,Wendy Toussaint,-0.026000000000000023,0.2597,0.2857
 2023-06-03 15:40:48.009073,College Baseball - College Baseball World Series - To Win Super Regional,Xavier,-0.026499999999999996,0.0323,0.0588
@@ -116,8 +122,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-03 09:40:47.788282,Mizuho Americas Open - Mizuho Americas Open - Winner,Georgia Hall,-0.0286,0.0099,0.0385
 2023-06-03 09:40:47.802127,Principal Charity Classic - Principal Charity Classic - Winner,Alex Cejka,-0.029399999999999996,0.0141,0.0435
 2023-06-03 13:40:49.926478,Default Specials - United States GDP Growth For 2023 - US GDP Growth 2023,Negative Growth,-0.030299999999999994,0.3333,0.3636
-2023-06-03 15:40:47.783783,Porsche European Open - Porsche European Open - Winner,Matthew Baldwin,-0.0313,0.001,0.0323
 2023-06-03 15:40:47.783783,Porsche European Open - Porsche European Open - Winner,Kristian Krogh Johannessen,-0.0313,0.001,0.0323
+2023-06-03 15:40:47.783783,Porsche European Open - Porsche European Open - Winner,Matthew Baldwin,-0.0313,0.001,0.0323
 2023-06-03 15:40:47.783783,Porsche European Open - Porsche European Open - Winner,Clement Sordet,-0.0352,0.0033,0.0385
 2023-06-03 13:40:50.446652,Round Match-Ups - Parlays - 3rd Round Match-Up - E. Grillo vs H. English - 3rd Round Match-Up,Harris English,-0.03600000000000003,0.4878,0.5238
 2023-06-03 09:40:47.802127,Principal Charity Classic - Principal Charity Classic - Winner,David Toms,-0.036199999999999996,0.0164,0.0526
