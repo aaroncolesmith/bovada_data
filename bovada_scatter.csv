@@ -13,137 +13,101 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-03 15:40:47.783783,Porsche European Open - Porsche European Open - Winner,John Axelsen,0.07859999999999999,0.0909,0.0123
 2023-06-03 15:40:48.028124,College Baseball - College Baseball World Series - To Win Super Regional ,Arkansas,0.07739999999999997,0.5122,0.4348
 2023-06-03 15:40:48.000816,College Baseball - College Baseball World Series - To Win Super Regional,Kentucky,0.06820000000000001,0.25,0.1818
-2023-06-03 09:40:47.802127,Principal Charity Classic - Principal Charity Classic - Winner,Stephen Ames,0.06620000000000001,0.125,0.0588
 2023-06-03 09:40:47.802127,Principal Charity Classic - Principal Charity Classic - Winner,Jerry Kelly,0.06620000000000001,0.125,0.0588
+2023-06-03 09:40:47.802127,Principal Charity Classic - Principal Charity Classic - Winner,Stephen Ames,0.06620000000000001,0.125,0.0588
 2023-06-03 08:41:11.295597,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Framber Valdez (HOU),0.066,0.1429,0.0769
 2023-06-03 15:40:48.034418,College Baseball - College Baseball World Series - To Win Super Regional ,Samford,0.065,0.1176,0.0526
 2023-06-03 15:40:48.034418,College Baseball - College Baseball World Series - To Win Super Regional ,Pennsylvania,0.06180000000000001,0.1053,0.0435
 2023-06-03 15:40:48.009073,College Baseball - College Baseball World Series - To Win Super Regional,Oral Roberts,0.0577,0.1053,0.0476
-2023-06-03 15:40:48.028124,College Baseball - College Baseball World Series - To Win Super Regional ,Iowa,0.0567,0.2105,0.1538
 2023-06-03 15:40:48.028124,College Baseball - College Baseball World Series - To Win Super Regional ,TCU,0.0567,0.2105,0.1538
+2023-06-03 15:40:48.028124,College Baseball - College Baseball World Series - To Win Super Regional ,Iowa,0.0567,0.2105,0.1538
 2023-06-03 08:41:12.185686,Soccer Specials - Transfer Specials - Lionel Messi to sign for before 4th September 2023,Barcelona,0.05559999999999998,0.5,0.4444
 2023-06-03 15:40:47.783783,Porsche European Open - Porsche European Open - Winner,Marcel Siem,0.05249999999999999,0.0769,0.0244
 2023-06-03 15:40:48.015568,College Baseball - College Baseball World Series - To Win Super Regional,Stanford,0.05109999999999998,0.3636,0.3125
 2023-06-03 15:40:48.028124,College Baseball - College Baseball World Series - To Win Super Regional ,Indiana State,0.04909999999999999,0.1667,0.1176
 2023-06-03 15:40:48.000816,College Baseball - College Baseball World Series - To Win Super Regional,Oregon State,0.0476,0.1905,0.1429
 2023-06-03 09:40:47.788282,Mizuho Americas Open - Mizuho Americas Open - Winner,Cheyenne Knight,0.047400000000000005,0.1,0.0526
-2023-06-03 06:40:54.228124,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Masataka Yoshida (BOS),0.045499999999999985,0.5,0.4545
-2023-06-03 06:40:54.241466,MLB Futures - MLB 2023 Player Awards - National League MVP,Ronald Acuña Jr.,0.044399999999999995,0.6,0.5556
 2023-06-03 15:40:48.009073,College Baseball - College Baseball World Series - To Win Super Regional,Oregon,0.04269999999999999,0.1538,0.1111
 2023-06-03 15:40:47.783783,Porsche European Open - Porsche European Open - Winner,Tom McKibbin,0.0417,0.125,0.0833
 2023-06-03 15:40:48.021871,College Baseball - College Baseball World Series - To Win Super Regional ,Texas Tech,0.04169999999999999,0.1667,0.125
-2023-06-03 06:40:54.241466,MLB Futures - MLB 2023 Player Awards - National League MVP,Freddie Freeman (LAD),0.04169999999999999,0.1667,0.125
 2023-06-03 13:40:49.926478,Default Specials - United States GDP Growth For 2023 - US GDP Growth 2023,Positive Growth,0.040999999999999925,0.7333,0.6923
 2023-06-03 13:40:49.941515,Default Specials - Will US have two consecutive quarters of negative GDP growth in 2023? - US Recession In 2023,Yes,0.03959999999999997,0.5744,0.5348
-2023-06-03 05:41:00.874909,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,0.035699999999999954,0.75,0.7143
 2023-06-03 15:40:48.015568,College Baseball - College Baseball World Series - To Win Super Regional,Texas A&M,0.0353,0.2353,0.2
 2023-06-03 09:40:47.802127,Principal Charity Classic - Principal Charity Classic - Winner,Miguel Angel Jimenez,0.034100000000000005,0.125,0.0909
-2023-06-03 11:40:47.460826,Donald Trump Specials - Trump Specials - Trump Specials,'Donald' to make the top 100 baby names for 2023 according to ssa.gov,0.034100000000000005,0.125,0.0909
 2023-06-03 15:40:47.783783,Porsche European Open - Porsche European Open - Winner,David Law,0.034100000000000005,0.125,0.0909
+2023-06-03 11:40:47.460826,Donald Trump Specials - Trump Specials - Trump Specials,'Donald' to make the top 100 baby names for 2023 according to ssa.gov,0.034100000000000005,0.125,0.0909
 2023-06-03 11:40:47.670945,College Baseball - College Baseball World Series -  College Baseball World Series Winner,LSU,0.031799999999999995,0.1429,0.1111
 2023-06-03 13:40:50.446652,Round Match-Ups - Parlays - 3rd Round Match-Up - E. Grillo vs H. English - 3rd Round Match-Up,Emiliano Grillo,0.03179999999999994,0.5556,0.5238
 2023-06-03 17:40:49.975884,Boxing Lines - Ardreal Holmes vs Wendy Toussaint - To Win the Bout,Ardreal Holmes,0.03169999999999995,0.8095,0.7778
 2023-06-03 15:40:48.015568,College Baseball - College Baseball World Series - To Win Super Regional,Miami (FL),0.02779999999999999,0.25,0.2222
-2023-06-03 07:41:50.784891,The Memorial Tournament - 2/3 Balls - 3rd Round 2 Balls - W. Clark v A. Eckroat - 3rd Round 2 Balls,Austin Eckroat,0.025499999999999967,0.4255,0.4
 2023-06-03 07:41:50.776626,The Memorial Tournament - 2/3 Balls - 3rd Round 2 Balls - T. Hatton v S. Jaeger - 3rd Round 2 Balls,Stephan Jaeger,0.025499999999999967,0.4255,0.4
+2023-06-03 07:41:50.784891,The Memorial Tournament - 2/3 Balls - 3rd Round 2 Balls - W. Clark v A. Eckroat - 3rd Round 2 Balls,Austin Eckroat,0.025499999999999967,0.4255,0.4
 2023-06-03 09:40:47.788282,Mizuho Americas Open - Mizuho Americas Open - Winner,Lydia Ko,0.024999999999999994,0.125,0.1
 2023-06-03 15:40:48.000816,College Baseball - College Baseball World Series - To Win Super Regional,Indiana,0.024299999999999995,0.0769,0.0526
 2023-06-03 08:41:12.022797,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,Estudiantes de La Plata,0.0242,0.0909,0.0667
-2023-06-03 06:40:54.247746,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Corbin Carroll (ARIZ),0.023799999999999988,0.5,0.4762
-2023-06-03 06:40:54.194356,MLB Futures - MLB 2023 National League East - National League East Winner,Atlanta Braves,0.023799999999999932,0.8571,0.8333
-2023-06-03 06:40:54.201295,MLB Futures - MLB 2023 National League West - National League West Winner,Los Angeles Dodgers,0.022199999999999998,0.8,0.7778
 2023-06-03 07:41:50.685294,The Memorial Tournament - 2/3 Balls - 3rd Round 2 Balls - H. English v T. Montgomery - 3rd Round 2 Balls,Harris English,0.02079999999999993,0.5556,0.5348
-2023-06-03 05:41:01.161886,The Memorial Tournament - 2/3 Balls - 3rd Round 2 Balls - T. Detry v D. Riley - 3rd Round 2 Balls,Thomas Detry,0.02079999999999993,0.5556,0.5348
 2023-06-03 07:41:50.571389,The Memorial Tournament - 2/3 Balls - 3rd Round 2 Balls - A. Schenk v T. Pendrith - 3rd Round 2 Balls,Adam Schenk,0.02079999999999993,0.5556,0.5348
 2023-06-03 07:41:50.638608,The Memorial Tournament - 2/3 Balls - 3rd Round 2 Balls - R. Henley v K. Mitchell - 3rd Round 2 Balls,Keith Mitchell,0.020699999999999996,0.4651,0.4444
 2023-06-03 11:40:47.670945,College Baseball - College Baseball World Series -  College Baseball World Series Winner,Clemson,0.0203,0.0588,0.0385
-2023-06-03 11:40:47.670945,College Baseball - College Baseball World Series -  College Baseball World Series Winner,Arkansas,0.02020000000000001,0.1111,0.0909
 2023-06-03 13:40:49.760769,Boxing Lines - D'Velle Smith vs Kahydlian Woods - To Win the Bout,Kahydlian Woods,0.02020000000000001,0.1111,0.0909
+2023-06-03 11:40:47.670945,College Baseball - College Baseball World Series -  College Baseball World Series Winner,Arkansas,0.02020000000000001,0.1111,0.0909
 2023-06-03 09:40:47.802127,Principal Charity Classic - Principal Charity Classic - Winner,Rod Pampling,0.020000000000000004,0.0323,0.0123
 2023-06-03 11:40:47.670945,College Baseball - College Baseball World Series -  College Baseball World Series Winner,East Carolina,0.019100000000000002,0.0323,0.0132
 2023-06-03 09:40:47.788282,Mizuho Americas Open - Mizuho Americas Open - Winner,Rose Zhang,0.019099999999999992,0.0667,0.0476
 2023-06-03 11:40:47.670945,College Baseball - College Baseball World Series -  College Baseball World Series Winner,South Carolina,0.019000000000000003,0.0625,0.0435
-2023-06-03 05:41:01.231953,The Memorial Tournament - 2/3 Balls - 3rd Round 2 Balls - T. Hoge v S. Ryder - 3rd Round 2 Balls,Tom Hoge,0.018100000000000005,0.5833,0.5652
 2023-06-03 14:41:11.629979,Boxing Lines - Edin Puhalo vs Siril Makiadi - To Win the Bout,Siril Makiadi,0.017299999999999982,0.303,0.2857
 2023-06-03 15:40:48.015568,College Baseball - College Baseball World Series - To Win Super Regional,Texas,0.016699999999999993,0.2667,0.25
-2023-06-03 05:41:01.246207,The Memorial Tournament - 2/3 Balls - 3rd Round 2 Balls - S. Burns v C. Bezuidenhout - 3rd Round 2 Balls,Sam Burns,0.016699999999999937,0.6,0.5833
 2023-06-03 15:40:48.021871,College Baseball - College Baseball World Series - To Win Super Regional ,North Carolina State,0.01440000000000001,0.1053,0.0909
 2023-06-03 09:40:47.802127,Principal Charity Classic - Principal Charity Classic - Winner,Mark Hensby,0.014099999999999998,0.0385,0.0244
 2023-06-03 11:40:47.670945,College Baseball - College Baseball World Series -  College Baseball World Series Winner,Vanderbilt,0.013999999999999999,0.0909,0.0769
-2023-06-03 06:40:54.228124,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Josh Jung (TEX),0.013899999999999996,0.125,0.1111
 2023-06-03 07:41:50.829948,The Memorial Tournament - 2/3 Balls - 3rd Round 2 Balls - S.W. Kim v M. Hubbard - 3rd Round 2 Balls,Si Woo Kim,0.013799999999999923,0.6364,0.6226
-2023-06-03 06:40:54.140441,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Atlanta Braves,0.012899999999999995,0.1667,0.1538
-2023-06-03 05:41:00.882442,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,0.011499999999999955,0.6667,0.6552
-2023-06-03 09:40:47.802127,Principal Charity Classic - Principal Charity Classic - Winner,Steve Flesch,0.011399999999999997,0.0278,0.0164
 2023-06-03 09:40:47.802127,Principal Charity Classic - Principal Charity Classic - Winner,Vijay Singh,0.011399999999999997,0.0278,0.0164
+2023-06-03 09:40:47.802127,Principal Charity Classic - Principal Charity Classic - Winner,Steve Flesch,0.011399999999999997,0.0278,0.0164
 2023-06-03 09:40:47.788282,Mizuho Americas Open - Mizuho Americas Open - Winner,Brooke Henderson,0.011199999999999995,0.0588,0.0476
-2023-06-03 06:40:54.215234,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Kevin Gausman (TOR),0.011099999999999999,0.1111,0.1
-2023-06-03 05:41:00.882442,MLB Futures - MLB 2023 American League East - American League East Winner,Toronto Blue Jays,0.011099999999999999,0.1111,0.1
 2023-06-03 11:40:47.670945,College Baseball - College Baseball World Series -  College Baseball World Series Winner,Florida,0.011099999999999999,0.1111,0.1
-2023-06-03 06:40:54.140441,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Tampa Bay Rays,0.010899999999999993,0.1538,0.1429
-2023-06-03 06:40:54.247746,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Francisco Alvarez (NYM),0.010899999999999993,0.1538,0.1429
-2023-06-03 09:40:47.788282,Mizuho Americas Open - Mizuho Americas Open - Winner,Angel Yin,0.010700000000000001,0.0385,0.0278
 2023-06-03 09:40:47.788282,Mizuho Americas Open - Mizuho Americas Open - Winner,Leona Maguire,0.010700000000000001,0.0385,0.0278
+2023-06-03 09:40:47.788282,Mizuho Americas Open - Mizuho Americas Open - Winner,Angel Yin,0.010700000000000001,0.0385,0.0278
 2023-06-03 11:40:47.670945,College Baseball - College Baseball World Series -  College Baseball World Series Winner,Wake Forest,0.010499999999999982,0.2105,0.2
 2023-06-03 09:40:47.788282,Mizuho Americas Open - Mizuho Americas Open - Winner,Jennifer Kupcho,0.010300000000000002,0.0244,0.0141
-2023-06-03 08:41:12.022797,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,Talleres,0.0102,0.0769,0.0667
 2023-06-03 14:41:08.436817,MLB Futures - MLB 2023 Player Awards - National League MVP,Mookie Betts (LAD),0.0102,0.0769,0.0667
+2023-06-03 08:41:12.022797,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,Talleres,0.0102,0.0769,0.0667
 2023-06-03 07:41:50.254173,Boxing Lines - Luka Plantic vs Yusuf Kanguel - To Win the Bout,Luka Plantic,0.010199999999999987,0.9333,0.9231
 2023-06-03 15:40:48.000816,College Baseball - College Baseball World Series - To Win Super Regional,LSU,0.010099999999999998,0.5556,0.5455
-2023-06-03 05:41:00.897632,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,0.010099999999999998,0.5556,0.5455
 2023-06-03 09:40:47.802127,Principal Charity Classic - Principal Charity Classic - Winner,Kris Blanks,-0.0101,0.004,0.0141
-2023-06-03 06:40:54.241466,MLB Futures - MLB 2023 Player Awards - National League MVP,Pete Alonso (NYM),-0.0102,0.0667,0.0769
 2023-06-03 09:40:47.788282,Mizuho Americas Open - Mizuho Americas Open - Winner,Chella Choi,-0.010700000000000001,0.0057,0.0164
-2023-06-03 05:41:00.897632,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,-0.011099999999999999,0.1,0.1111
-2023-06-03 05:41:01.231953,The Memorial Tournament - 2/3 Balls - 3rd Round 2 Balls - T. Hoge v S. Ryder - 3rd Round 2 Balls,Sam Ryder,-0.011099999999999999,0.4651,0.4762
-2023-06-03 15:40:48.028124,College Baseball - College Baseball World Series - To Win Super Regional ,Santa Clara,-0.011199999999999995,0.0323,0.0435
-2023-06-03 15:40:48.000816,College Baseball - College Baseball World Series - To Win Super Regional,Tulane,-0.011199999999999995,0.0323,0.0435
-2023-06-03 09:40:47.802127,Principal Charity Classic - Principal Charity Classic - Winner,Bernhard Langer,-0.011199999999999995,0.0476,0.0588
-2023-06-03 06:40:54.194356,MLB Futures - MLB 2023 National League East - National League East Winner,Miami Marlins,-0.011199999999999995,0.0323,0.0435
-2023-06-03 15:40:48.034418,College Baseball - College Baseball World Series - To Win Super Regional ,Lipscomb,-0.011199999999999995,0.0323,0.0435
-2023-06-03 15:40:48.028124,College Baseball - College Baseball World Series - To Win Super Regional ,Wright State,-0.011199999999999995,0.0323,0.0435
-2023-06-03 08:41:12.022797,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,Atlético Lanús,-0.011199999999999995,0.0476,0.0588
 2023-06-03 15:40:48.034418,College Baseball - College Baseball World Series - To Win Super Regional ,Charlotte,-0.011199999999999995,0.0323,0.0435
+2023-06-03 08:41:12.022797,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,Atlético Lanús,-0.011199999999999995,0.0476,0.0588
+2023-06-03 15:40:48.028124,College Baseball - College Baseball World Series - To Win Super Regional ,Wright State,-0.011199999999999995,0.0323,0.0435
+2023-06-03 09:40:47.802127,Principal Charity Classic - Principal Charity Classic - Winner,Bernhard Langer,-0.011199999999999995,0.0476,0.0588
+2023-06-03 15:40:48.000816,College Baseball - College Baseball World Series - To Win Super Regional,Tulane,-0.011199999999999995,0.0323,0.0435
+2023-06-03 15:40:48.028124,College Baseball - College Baseball World Series - To Win Super Regional ,Santa Clara,-0.011199999999999995,0.0323,0.0435
+2023-06-03 15:40:48.034418,College Baseball - College Baseball World Series - To Win Super Regional ,Lipscomb,-0.011199999999999995,0.0323,0.0435
 2023-06-03 15:40:47.783783,Porsche European Open - Porsche European Open - Winner,Mike Lorenzo-Vera,-0.011300000000000001,0.001,0.0123
-2023-06-03 05:41:00.882442,MLB Futures - MLB 2023 American League East - American League East Winner,New York Yankees,-0.011700000000000016,0.2105,0.2222
-2023-06-03 15:40:47.783783,Porsche European Open - Porsche European Open - Winner,Santiago Tarrio,-0.012100000000000001,0.0123,0.0244
 2023-06-03 09:40:47.788282,Mizuho Americas Open - Mizuho Americas Open - Winner,Hae Ran Ryu,-0.012100000000000001,0.0123,0.0244
+2023-06-03 15:40:47.783783,Porsche European Open - Porsche European Open - Winner,Santiago Tarrio,-0.012100000000000001,0.0123,0.0244
 2023-06-03 09:40:47.788282,Mizuho Americas Open - Mizuho Americas Open - Winner,Atthaya Thitikul,-0.012899999999999995,0.1538,0.1667
-2023-06-03 06:40:54.148057,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,New York Yankees,-0.012899999999999995,0.1538,0.1667
-2023-06-03 06:40:54.215234,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Shane McClanahan (TB),-0.0131,0.2222,0.2353
 2023-06-03 14:41:11.629979,Boxing Lines - Edin Puhalo vs Siril Makiadi - To Win the Bout,Edin Puhalo,-0.0131,0.7647,0.7778
 2023-06-03 07:41:50.776626,The Memorial Tournament - 2/3 Balls - 3rd Round 2 Balls - T. Hatton v S. Jaeger - 3rd Round 2 Balls,Tyrrell Hatton,-0.013299999999999979,0.6296,0.6429
 2023-06-03 07:41:50.784891,The Memorial Tournament - 2/3 Balls - 3rd Round 2 Balls - W. Clark v A. Eckroat - 3rd Round 2 Balls,Wyndham Clark,-0.013299999999999979,0.6296,0.6429
-2023-06-03 06:40:54.148057,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Texas Rangers,-0.013899999999999996,0.1111,0.125
 2023-06-03 09:40:47.802127,Principal Charity Classic - Principal Charity Classic - Winner,Marco Dawson,-0.0139,0.0057,0.0196
 2023-06-03 13:40:49.760769,Boxing Lines - D'Velle Smith vs Kahydlian Woods - To Win the Bout,D'Velle Smith,-0.014100000000000001,0.9474,0.9615
 2023-06-03 15:40:47.783783,Porsche European Open - Porsche European Open - Winner,Marcus Armitage,-0.0142,0.001,0.0152
 2023-06-03 09:40:47.802127,Principal Charity Classic - Principal Charity Classic - Winner,Thongchai Jaidee,-0.014900000000000004,0.0196,0.0345
-2023-06-03 05:41:00.874909,MLB Futures - MLB 2023 American League Central - American League Central Winner,Cleveland Guardians,-0.015100000000000002,0.2,0.2151
 2023-06-03 15:40:48.009073,College Baseball - College Baseball World Series - To Win Super Regional,Eastern Illinois,-0.015300000000000001,0.0323,0.0476
 2023-06-03 15:40:47.783783,Porsche European Open - Porsche European Open - Winner,Scott Jamieson,-0.0154,0.001,0.0164
 2023-06-03 07:41:50.638608,The Memorial Tournament - 2/3 Balls - 3rd Round 2 Balls - R. Henley v K. Mitchell - 3rd Round 2 Balls,Russell Henley,-0.016699999999999937,0.5833,0.6
 2023-06-03 07:41:50.140102,WNBA Futures - WNBA Championship 2023 - Outright Winner,New York Liberty,-0.016699999999999993,0.4,0.4167
 2023-06-03 07:41:50.829948,The Memorial Tournament - 2/3 Balls - 3rd Round 2 Balls - S.W. Kim v M. Hubbard - 3rd Round 2 Balls,Mark Hubbard,-0.017299999999999982,0.4082,0.4255
-2023-06-03 06:40:54.201295,MLB Futures - MLB 2023 National League West - National League West Winner,San Diego Padres,-0.0179,0.125,0.1429
 2023-06-03 15:40:47.783783,Porsche European Open - Porsche European Open - Winner,Julien Brun,-0.0179,0.0099,0.0278
-2023-06-03 06:40:54.247746,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,James Outman (LAD),-0.0179,0.125,0.1429
 2023-06-03 09:40:47.802127,Principal Charity Classic - Principal Charity Classic - Winner,Paul Stankowski,-0.0187,0.0057,0.0244
 2023-06-03 09:40:47.802127,Principal Charity Classic - Principal Charity Classic - Winner,Paul Broadhurst,-0.0187,0.0057,0.0244
-2023-06-03 06:40:54.201295,MLB Futures - MLB 2023 National League West - National League West Winner,San Francisco Giants,-0.018800000000000004,0.0526,0.0714
 2023-06-03 08:41:12.022797,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,River Plate,-0.01880000000000004,0.6364,0.6552
 2023-06-03 09:40:47.788282,Mizuho Americas Open - Mizuho Americas Open - Winner,Charley Hull,-0.0189,0.0196,0.0385
 2023-06-03 09:40:47.788282,Mizuho Americas Open - Mizuho Americas Open - Winner,Lauren Hartlage,-0.0194,0.005,0.0244
 2023-06-03 09:40:47.788282,Mizuho Americas Open - Mizuho Americas Open - Winner,Yuka Saso,-0.019899999999999998,0.0079,0.0278
 2023-06-03 09:40:47.788282,Mizuho Americas Open - Mizuho Americas Open - Winner,Grace Kim,-0.020000000000000004,0.0123,0.0323
-2023-06-03 06:40:54.228124,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Bryce Miller,-0.02020000000000001,0.0909,0.1111
-2023-06-03 06:40:54.234861,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Zack Wheeler,-0.0203,0.0385,0.0588
-2023-06-03 05:41:01.246207,The Memorial Tournament - 2/3 Balls - 3rd Round 2 Balls - S. Burns v C. Bezuidenhout - 3rd Round 2 Balls,Christiaan Bezuidenhout,-0.020699999999999996,0.4444,0.4651
 2023-06-03 09:40:47.802127,Principal Charity Classic - Principal Charity Classic - Winner,Kevin Sutherland,-0.022200000000000004,0.0123,0.0345
-2023-06-03 05:41:00.874909,MLB Futures - MLB 2023 American League Central - American League Central Winner,Chicago White Sox,-0.02310000000000001,0.0769,0.1
-2023-06-03 06:40:54.194356,MLB Futures - MLB 2023 National League East - National League East Winner,New York Mets,-0.023799999999999988,0.1429,0.1667
 2023-06-03 07:41:50.685294,The Memorial Tournament - 2/3 Balls - 3rd Round 2 Balls - H. English v T. Montgomery - 3rd Round 2 Balls,Taylor Montgomery,-0.024399999999999977,0.4878,0.5122
-2023-06-03 05:41:01.161886,The Memorial Tournament - 2/3 Balls - 3rd Round 2 Balls - T. Detry v D. Riley - 3rd Round 2 Balls,Davis Riley,-0.024399999999999977,0.4878,0.5122
 2023-06-03 07:41:50.571389,The Memorial Tournament - 2/3 Balls - 3rd Round 2 Balls - A. Schenk v T. Pendrith - 3rd Round 2 Balls,Taylor Pendrith,-0.024399999999999977,0.4878,0.5122
 2023-06-03 09:40:47.788282,Mizuho Americas Open - Mizuho Americas Open - Winner,Nasa Hataoka,-0.0257,0.0066,0.0323
 2023-06-03 17:40:49.975884,Boxing Lines - Ardreal Holmes vs Wendy Toussaint - To Win the Bout,Wendy Toussaint,-0.026000000000000023,0.2597,0.2857
