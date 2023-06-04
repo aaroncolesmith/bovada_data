@@ -2,9 +2,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-04 05:40:44.206816,Mizuho Americas Open - Mizuho Americas Open - Winner,Rose Zhang,0.33330000000000004,0.4,0.0667
 2023-06-04 09:40:44.075837,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Italy U20,0.2444,0.4444,0.2
 2023-06-04 09:40:44.075837,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Israel U20,0.1666,0.1818,0.0152
-2023-06-03 22:40:42.014917,Principal Charity Classic - Principal Charity Classic - Winner,Stephen Ames,0.1417,0.2667,0.125
 2023-06-04 05:40:44.206816,Mizuho Americas Open - Mizuho Americas Open - Winner,Atthaya Thitikul,0.13190000000000002,0.2857,0.1538
-2023-06-03 22:40:42.014917,Principal Charity Classic - Principal Charity Classic - Winner,Tim Herron,0.1151,0.125,0.0099
 2023-06-04 09:40:44.075837,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,USA U20,0.09960000000000001,0.1905,0.0909
 2023-06-04 09:40:44.075837,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Uruguay U20,0.09240000000000001,0.2353,0.1429
 2023-06-04 05:40:44.206816,Mizuho Americas Open - Mizuho Americas Open - Winner,Cheyenne Knight,0.08179999999999998,0.1818,0.1
@@ -12,10 +10,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-04 05:40:44.206816,Mizuho Americas Open - Mizuho Americas Open - Winner,Aditi Ashok,0.0774,0.125,0.0476
 2023-06-04 06:40:45.031643,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Josh Jung (TEX),0.07500000000000001,0.2,0.125
 2023-06-04 09:40:43.909181,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Athletico Paranaense,0.05130000000000001,0.3846,0.3333
-2023-06-04 08:40:53.758187,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Corinthians,0.04999999999999999,0.25,0.2
 2023-06-04 09:40:43.902316,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,São Paulo,0.04999999999999999,0.25,0.2
+2023-06-04 08:40:53.758187,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Corinthians,0.04999999999999999,0.25,0.2
 2023-06-04 09:40:43.909181,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Fortaleza,0.047599999999999976,0.3333,0.2857
-2023-06-03 22:40:42.014917,Principal Charity Classic - Principal Charity Classic - Winner,David Toms,0.04239999999999999,0.0588,0.0164
 2023-06-04 08:40:54.933160,The Memorial Tournament - 2/3 Balls - Final Round 2 Balls - X. Schauffele v G. Higgo - Final Round 2 Balls,Garrick Higgo,0.03920000000000001,0.3333,0.2941
 2023-06-04 09:40:43.964862,Allsvenskan - Allsvenskan 2023 - Winner,IF Elfsborg,0.03889999999999999,0.1818,0.1429
 2023-06-04 08:40:54.864836,The Memorial Tournament - 2/3 Balls - Final Round 2 Balls - T. Hoge v C. Reavie - Final Round 2 Balls,Tom Hoge,0.037800000000000056,0.5833,0.5455
@@ -23,8 +20,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-04 05:40:41.974330,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,0.03479999999999994,0.6,0.5652
 2023-06-04 09:40:43.902316,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Grêmio,0.033300000000000024,0.2,0.1667
 2023-06-04 09:40:43.909181,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,RB Bragantino,0.0321,0.0909,0.0588
-2023-06-04 08:40:53.751289,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Atlético Mineiro,0.031799999999999995,0.1429,0.1111
 2023-06-04 09:40:43.902316,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Fortaleza,0.031799999999999995,0.1429,0.1111
+2023-06-04 08:40:53.751289,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Atlético Mineiro,0.031799999999999995,0.1429,0.1111
 2023-06-04 09:40:43.909181,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Grêmio,0.030299999999999994,0.3636,0.3333
 2023-06-04 00:41:24.174941,Porsche European Open - 2/3 Balls - Final Round 3 Balls - J. Axelsen / A. Bjork / J. Guerrier - Final Round 3 Balls,Alexander Bjork,0.029000000000000026,0.4545,0.4255
 2023-06-04 09:40:43.864779,MLS - MLS 2023 - Winner,FC Cincinnati,0.027999999999999997,0.1818,0.1538
@@ -33,13 +30,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-04 05:40:44.206816,Mizuho Americas Open - Mizuho Americas Open - Winner,Hae Ran Ryu,0.0262,0.0385,0.0123
 2023-06-04 06:40:45.025247,MLB Futures - MLB 2023 Player Awards - American League MVP,Shohei Ohtani (LAA),0.025599999999999956,0.6,0.5744
 2023-06-04 09:40:43.909181,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,São Paulo,0.025499999999999967,0.4255,0.4
-2023-06-03 22:40:42.014917,Principal Charity Classic - Principal Charity Classic - Winner,Tim Petrovic,0.0254,0.0294,0.004
-2023-06-03 22:40:41.721972,Boxing Lines - Joseph Hicks vs Antonio Todd - To Win the Bout,Joseph Hicks,0.025000000000000022,0.9,0.875
 2023-06-04 06:40:45.052047,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Corbin Carroll (ARIZ),0.023800000000000043,0.5238,0.5
-2023-06-03 22:40:42.014917,Principal Charity Classic - Principal Charity Classic - Winner,Steve Stricker,0.023799999999999988,0.5,0.4762
 2023-06-04 06:40:44.973251,MLB Futures - MLB 2023 National League East - National League East Winner,New York Mets,0.023799999999999988,0.1667,0.1429
 2023-06-04 00:41:24.024608,Porsche European Open - 2/3 Balls - Final Round 3 Balls - M. Southgate / O. Lengden / M. Hammer - Final Round 3 Balls,Matthew Southgate,0.023799999999999988,0.5,0.4762
-2023-06-03 22:40:41.956784,Porsche European Open - 2/3 Balls - Final Round 3 Balls - R. MacIntyre / F. Schott / A. Del Rey - Final Round 3 Balls,Robert MacIntyre,0.021699999999999997,0.4762,0.4545
 2023-06-04 02:40:45.632747,The Memorial Tournament - 2/3 Balls - Final Round 2 Balls - H. English v T. Montgomery - Final Round 2 Balls,Harris English,0.02079999999999993,0.5556,0.5348
 2023-06-04 09:40:43.872737,MLS - MLS 2023 - Top Goalscorer,Julian Carranza (PHI),0.0203,0.0588,0.0385
 2023-06-04 08:40:53.758187,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Cuiabá,0.018999999999999906,0.7333,0.7143
@@ -49,34 +42,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-04 09:40:43.864779,MLS - MLS 2023 - Winner,San Jose Earthquakes,0.018200000000000004,0.0476,0.0294
 2023-06-04 05:40:43.468664,The Memorial Tournament - 2/3 Balls - Final Round 2 Balls - T. Detry v T. Pendrith - Final Round 2 Balls,Thomas Detry,0.018100000000000005,0.5833,0.5652
 2023-06-04 08:40:55.071073,The Memorial Tournament - 2/3 Balls - Final Round 2 Balls - P. Cantlay v P. Rodgers - Final Round 2 Balls,Patrick Rodgers,0.01809999999999995,0.3571,0.339
-2023-06-03 22:40:42.014917,Principal Charity Classic - Principal Charity Classic - Winner,Ernie Els,0.017099999999999997,0.0294,0.0123
 2023-06-04 08:40:54.944886,The Memorial Tournament - 2/3 Balls - Final Round 2 Balls - S. Lowry v E. Cole - Final Round 2 Balls,Eric Cole,0.016699999999999993,0.4167,0.4
 2023-06-04 00:41:24.392919,Donald Trump Specials - Trump Specials - Trump Specials,Department of Justice to indict Donald Trump in 2023 in relation to classified material,0.014000000000000012,0.9231,0.9091
-2023-06-04 09:40:43.998078,Copa do Brasil - Copa do Brasil 2023 - Outright,São Paulo,0.013999999999999999,0.0909,0.0769
-2023-06-04 08:40:53.758187,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Cruzeiro,0.013999999999999999,0.0909,0.0769
-2023-06-04 05:40:41.959907,MLB Futures - MLB 2023 American League Central - American League Central Winner,Chicago White Sox,0.013999999999999999,0.0909,0.0769
 2023-06-04 09:40:43.872737,MLS - MLS 2023 - Top Goalscorer,Jesus Ferreira (DAL),0.013999999999999999,0.0909,0.0769
+2023-06-04 05:40:41.959907,MLB Futures - MLB 2023 American League Central - American League Central Winner,Chicago White Sox,0.013999999999999999,0.0909,0.0769
+2023-06-04 08:40:53.758187,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Cruzeiro,0.013999999999999999,0.0909,0.0769
+2023-06-04 09:40:43.998078,Copa do Brasil - Copa do Brasil 2023 - Outright,São Paulo,0.013999999999999999,0.0909,0.0769
 2023-06-04 06:40:44.923432,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Texas Rangers,0.013899999999999996,0.125,0.1111
 2023-06-04 03:40:49.731827,The Memorial Tournament - 2/3 Balls - Final Round 2 Balls - R. Fox v S. Power - Final Round 2 Balls,Seamus Power,0.012199999999999989,0.5122,0.5
-2023-06-03 22:40:42.014917,Principal Charity Classic - Principal Charity Classic - Winner,David Branshaw,0.012100000000000001,0.0244,0.0123
-2023-06-04 08:40:55.335176,Scores - Final Round Score - Jon Rahm - Final Round Score,Under 70.5,0.011099999999999999,0.4762,0.4651
 2023-06-04 09:40:45.951942,Futures - US Open 2023 - Winner,Scottie Scheffler,0.011099999999999999,0.1111,0.1
+2023-06-04 08:40:55.335176,Scores - Final Round Score - Jon Rahm - Final Round Score,Under 70.5,0.011099999999999999,0.4762,0.4651
 2023-06-04 08:40:55.058923,The Memorial Tournament - 2/3 Balls - Final Round 2 Balls - H. Matsuyama v S. Im - Final Round 2 Balls,Sungjae Im,0.01100000000000001,0.5348,0.5238
+2023-06-04 08:40:55.302352,Round Match-Ups - Parlays - Final Round Match-Up - L. Hodges v D. Lipsky - Final Round Match-Up,Lee Hodges,0.010699999999999932,0.5455,0.5348
 2023-06-04 08:40:55.214535,Round Match-Ups - Parlays - Final Round Match-Up - M. Kuchar v G. Woodland - Final Round Match-Up,Matt Kuchar,0.010699999999999932,0.5455,0.5348
 2023-06-04 08:40:55.180443,Round Match-Ups - Parlays - Final Round Match-Up - T. Hatton v M. Fitzpatrick - Final Round Match-Up,Tyrrell Hatton,0.010699999999999932,0.5455,0.5348
-2023-06-04 08:40:55.302352,Round Match-Ups - Parlays - Final Round Match-Up - L. Hodges v D. Lipsky - Final Round Match-Up,Lee Hodges,0.010699999999999932,0.5455,0.5348
 2023-06-04 08:40:55.321788,Scores - Final Round Score - Collin Morikawa - Final Round Score,Under 71.5,0.010099999999999998,0.5556,0.5455
 2023-06-04 08:40:55.087873,The Memorial Tournament - 2/3 Balls - Final Round 2 Balls - C. Morikawa v K. Bradley - Final Round 2 Balls,Keegan Bradley,0.010099999999999998,0.4545,0.4444
 2023-06-04 00:41:24.024608,Porsche European Open - 2/3 Balls - Final Round 3 Balls - M. Southgate / O. Lengden / M. Hammer - Final Round 3 Balls,Oscar Lengden,-0.010099999999999998,0.3125,0.3226
 2023-06-04 08:40:53.751289,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Fortaleza,-0.010100000000000001,0.0244,0.0345
+2023-06-04 09:40:43.872737,MLS - MLS 2023 - Top Goalscorer,Cristian Espinoza (SJE),-0.0102,0.0667,0.0769
 2023-06-04 09:40:43.872737,MLS - MLS 2023 - Top Goalscorer,Jordan Morris (SEA),-0.0102,0.0667,0.0769
 2023-06-04 06:40:45.045525,MLB Futures - MLB 2023 Player Awards - National League MVP,Mookie Betts (LAD),-0.0102,0.0667,0.0769
-2023-06-04 09:40:43.872737,MLS - MLS 2023 - Top Goalscorer,Cristian Espinoza (SJE),-0.0102,0.0667,0.0769
 2023-06-04 05:40:44.206816,Mizuho Americas Open - Mizuho Americas Open - Winner,Grace Kim,-0.0103,0.002,0.0123
 2023-06-04 05:40:44.206816,Mizuho Americas Open - Mizuho Americas Open - Winner,Sei Young Kim,-0.010300000000000002,0.0141,0.0244
-2023-06-03 22:40:42.014917,Principal Charity Classic - Principal Charity Classic - Winner,Ken Tanigawa,-0.010600000000000002,0.0058,0.0164
 2023-06-04 03:40:49.731827,The Memorial Tournament - 2/3 Balls - Final Round 2 Balls - R. Fox v S. Power - Final Round 2 Balls,Ryan Fox,-0.010699999999999932,0.5348,0.5455
-2023-06-03 22:40:41.956784,Porsche European Open - 2/3 Balls - Final Round 3 Balls - R. MacIntyre / F. Schott / A. Del Rey - Final Round 3 Balls,Alejandro Del Rey,-0.010699999999999987,0.3226,0.3333
 2023-06-04 06:40:45.052047,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Francisco Alvarez (NYM),-0.010899999999999993,0.1429,0.1538
 2023-06-04 05:40:43.468664,The Memorial Tournament - 2/3 Balls - Final Round 2 Balls - T. Detry v T. Pendrith - Final Round 2 Balls,Taylor Pendrith,-0.011099999999999999,0.4651,0.4762
 2023-06-04 08:40:55.321788,Scores - Final Round Score - Collin Morikawa - Final Round Score,Over 71.5,-0.011600000000000055,0.5122,0.5238
@@ -84,37 +73,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-04 05:40:44.206816,Mizuho Americas Open - Mizuho Americas Open - Winner,Ayaka Furue,-0.011699999999999999,0.0079,0.0196
 2023-06-04 05:40:44.206816,Mizuho Americas Open - Mizuho Americas Open - Winner,Danielle Kang,-0.011699999999999999,0.0079,0.0196
 2023-06-04 05:40:44.206816,Mizuho Americas Open - Mizuho Americas Open - Winner,Bronte Law,-0.0121,0.002,0.0141
-2023-06-04 08:40:55.214535,Round Match-Ups - Parlays - Final Round Match-Up - M. Kuchar v G. Woodland - Final Round Match-Up,Gary Woodland,-0.012199999999999989,0.5,0.5122
 2023-06-04 08:40:55.302352,Round Match-Ups - Parlays - Final Round Match-Up - L. Hodges v D. Lipsky - Final Round Match-Up,David Lipsky,-0.012199999999999989,0.5,0.5122
 2023-06-04 08:40:55.180443,Round Match-Ups - Parlays - Final Round Match-Up - T. Hatton v M. Fitzpatrick - Final Round Match-Up,Matt Fitzpatrick,-0.012199999999999989,0.5,0.5122
+2023-06-04 08:40:55.214535,Round Match-Ups - Parlays - Final Round Match-Up - M. Kuchar v G. Woodland - Final Round Match-Up,Gary Woodland,-0.012199999999999989,0.5,0.5122
 2023-06-04 08:40:54.944886,The Memorial Tournament - 2/3 Balls - Final Round 2 Balls - S. Lowry v E. Cole - Final Round 2 Balls,Shane Lowry,-0.013299999999999979,0.6296,0.6429
 2023-06-04 08:40:53.751289,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Botafogo,-0.013999999999999999,0.0769,0.0909
 2023-06-04 09:40:43.909181,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Corinthians,-0.013999999999999999,0.0769,0.0909
 2023-06-04 05:40:44.206816,Mizuho Americas Open - Mizuho Americas Open - Winner,Anna Nordqvist,-0.014400000000000001,0.002,0.0164
 2023-06-04 00:41:24.174941,Porsche European Open - 2/3 Balls - Final Round 3 Balls - J. Axelsen / A. Bjork / J. Guerrier - Final Round 3 Balls,John Axelsen,-0.014900000000000024,0.3077,0.3226
-2023-06-03 22:40:42.014917,Principal Charity Classic - Principal Charity Classic - Winner,Steve Flesch,-0.015499999999999998,0.0123,0.0278
-2023-06-03 22:40:42.014917,Principal Charity Classic - Principal Charity Classic - Winner,Brett Quigley,-0.0156,0.004,0.0196
 2023-06-04 05:40:44.206816,Mizuho Americas Open - Mizuho Americas Open - Winner,Carlota Ciganda,-0.0156,0.004,0.0196
 2023-06-04 05:40:44.206816,Mizuho Americas Open - Mizuho Americas Open - Winner,Charley Hull,-0.017599999999999998,0.002,0.0196
 2023-06-04 09:40:43.902316,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Cruzeiro,-0.018099999999999998,0.0588,0.0769
 2023-06-04 08:40:55.071073,The Memorial Tournament - 2/3 Balls - Final Round 2 Balls - P. Cantlay v P. Rodgers - Final Round 2 Balls,Patrick Cantlay,-0.018399999999999972,0.6875,0.7059
-2023-06-03 22:40:42.014917,Principal Charity Classic - Principal Charity Classic - Winner,Paul Goydos,-0.0186,0.001,0.0196
 2023-06-04 09:40:43.902316,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Palmeiras,-0.020199999999999996,0.8889,0.9091
 2023-06-04 08:40:53.758187,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Athletico Paranaense,-0.0203,0.0385,0.0588
 2023-06-04 09:40:43.872737,MLS - MLS 2023 - Top Goalscorer,Denis Bouanga (LAFC),-0.021999999999999964,0.2857,0.3077
 2023-06-04 09:40:43.909181,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Cruzeiro,-0.022199999999999998,0.2,0.2222
 2023-06-04 09:40:45.428409,The Memorial Tournament - 2/3 Balls - Final Round 2 Balls - R. McIlroy v S.W. Kim - Final Round 2 Balls,Rory McIlroy,-0.022600000000000064,0.6,0.6226
-2023-06-03 22:40:42.014917,Principal Charity Classic - Principal Charity Classic - Winner,Vijay Singh,-0.022799999999999997,0.005,0.0278
 2023-06-04 05:40:41.974330,MLB Futures - MLB 2023 American League West - American League West Winner,Seattle Mariners,-0.02310000000000001,0.0769,0.1
-2023-06-03 22:40:42.014917,Principal Charity Classic - Principal Charity Classic - Winner,Mark Hensby,-0.0236,0.0149,0.0385
 2023-06-04 06:40:45.045525,MLB Futures - MLB 2023 Player Awards - National League MVP,Freddie Freeman (LAD),-0.023799999999999988,0.1429,0.1667
-2023-06-03 22:40:41.721972,Boxing Lines - Joseph Hicks vs Antonio Todd - To Win the Bout,Antonio Todd,-0.023800000000000016,0.1667,0.1905
 2023-06-04 09:40:43.872737,MLS - MLS 2023 - Top Goalscorer,Daniel Gazdag (PHI),-0.0242,0.0667,0.0909
 2023-06-04 02:40:45.632747,The Memorial Tournament - 2/3 Balls - Final Round 2 Balls - H. English v T. Montgomery - Final Round 2 Balls,Taylor Montgomery,-0.024399999999999977,0.4878,0.5122
 2023-06-04 05:40:41.981617,MLB Futures - MLB 2023 National League Central - National League Central Winner,St. Louis Cardinals,-0.02560000000000001,0.3077,0.3333
 2023-06-04 09:40:44.075837,FIFA U20 World Cup - FIFA U20 World Cup Outrights - Outright Winner,Nigeria U20,-0.028799999999999992,0.125,0.1538
 2023-06-04 05:40:44.206816,Mizuho Americas Open - Mizuho Americas Open - Winner,Ruoning Yin,-0.0303,0.002,0.0323
-2023-06-03 22:40:42.014917,Principal Charity Classic - Principal Charity Classic - Winner,Bernhard Langer,-0.03270000000000001,0.0149,0.0476
 2023-06-04 05:40:41.959907,MLB Futures - MLB 2023 American League Central - American League Central Winner,Cleveland Guardians,-0.033300000000000024,0.1667,0.2
 2023-06-04 08:40:54.864836,The Memorial Tournament - 2/3 Balls - Final Round 2 Balls - T. Hoge v C. Reavie - Final Round 2 Balls,Chez Reavie,-0.03489999999999999,0.4651,0.5
 2023-06-04 08:40:54.933160,The Memorial Tournament - 2/3 Balls - Final Round 2 Balls - X. Schauffele v G. Higgo - Final Round 2 Balls,Xander Schauffele,-0.035699999999999954,0.7143,0.75
@@ -128,12 +110,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-04 09:40:43.902316,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Fluminense,-0.05520000000000003,0.5744,0.6296
 2023-06-04 09:40:43.909181,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Fluminense,-0.055499999999999994,0.7778,0.8333
 2023-06-04 05:40:44.206816,Mizuho Americas Open - Mizuho Americas Open - Winner,Brooke Henderson,-0.056799999999999996,0.002,0.0588
-2023-06-03 22:40:42.014917,Principal Charity Classic - Principal Charity Classic - Winner,Jerry Kelly,-0.058300000000000005,0.0667,0.125
 2023-06-04 05:40:44.206816,Mizuho Americas Open - Mizuho Americas Open - Winner,Minjee Lee,-0.0762,0.0667,0.1429
 2023-06-04 08:40:53.758187,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,América Mineiro,-0.08330000000000004,0.5,0.5833
 2023-06-04 09:40:43.909181,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Botafogo,-0.09229999999999994,0.5744,0.6667
 2023-06-04 06:40:45.031643,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Masataka Yoshida (BOS),-0.09999999999999998,0.4,0.5
 2023-06-04 09:40:43.902316,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Botafogo,-0.11260000000000003,0.3636,0.4762
 2023-06-04 05:40:44.206816,Mizuho Americas Open - Mizuho Americas Open - Winner,Jin Young Ko,-0.11929999999999999,0.0345,0.1538
-2023-06-03 22:40:42.014917,Principal Charity Classic - Principal Charity Classic - Winner,Miguel Angel Jimenez,-0.121,0.004,0.125
 2023-06-04 05:40:44.206816,Mizuho Americas Open - Mizuho Americas Open - Winner,Lydia Ko,-0.1222,0.0028,0.125
