@@ -7,7 +7,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-07 17:31:58.084799,Nobel Prizes - Nobel Literature Prize - Nobel Literature Prize Winner 2023,Haruki Murakami,0.05559999999999998,0.5556,0.5
 2023-06-07 15:31:31.321914,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - C. Young / M.J. Daffue / D. Lamely - 1st Round 3-Balls ,Carson Young,0.045499999999999985,0.5,0.4545
 2023-06-07 08:32:00.180818,Copa do Brasil - Copa do Brasil 2023 - Outright,Palmeiras,0.04099999999999998,0.3077,0.2667
-2023-06-07 06:31:31.863370,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,0.03709999999999991,0.6667,0.6296
 2023-06-07 08:32:00.180818,Copa do Brasil - Copa do Brasil 2023 - Outright,Flamengo,0.03570000000000001,0.2857,0.25
 2023-06-07 16:31:35.290083,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Kristi Noem,0.03330000000000001,0.1,0.0667
 2023-06-07 08:32:00.090190,Copa Sudamericana - Copa Sudamericana 2023 - Outright,Newell's Old Boys,0.03330000000000001,0.1,0.0667
@@ -15,38 +14,33 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-07 14:32:27.685217,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - P. Kizzire / A. Long / C. Percy - 1st Round 3-Balls ,Patton Kizzire,0.030799999999999994,0.4082,0.3774
 2023-06-07 15:31:30.556069,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Shane McClanahan (TB),0.02779999999999999,0.25,0.2222
 2023-06-07 14:32:28.680696,Tournament Match-Ups - Tournament Match-Up - C. Young vs C. Conners - Tournament Match-Up,Cameron Young,0.026499999999999968,0.5917,0.5652
-2023-06-07 08:32:00.180818,Copa do Brasil - Copa do Brasil 2023 - Outright,América Mineiro,0.024299999999999995,0.0769,0.0526
 2023-06-07 15:31:30.556069,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Nathan Eovaldi (TEX),0.024299999999999995,0.0769,0.0526
+2023-06-07 08:32:00.180818,Copa do Brasil - Copa do Brasil 2023 - Outright,América Mineiro,0.024299999999999995,0.0769,0.0526
 2023-06-07 15:31:30.581636,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Spencer Strider (ATL),0.023799999999999988,0.3571,0.3333
 2023-06-07 15:31:28.071322,Oppenheimer - Rotten Tomatoes Tomatometer Rating - Oppenheimer Rotten Tomatoes Tomatometer Rating After A Month,Over 83.5%,0.023799999999999932,0.6667,0.6429
 2023-06-07 15:31:30.564498,MLB Futures - MLB 2023 Player Awards - American League MVP,Marcus Semien (TEX),0.023200000000000002,0.0476,0.0244
-2023-06-07 06:31:31.876092,MLB Futures - MLB 2023 National League East - National League East Winner,Miami Marlins,0.02310000000000001,0.1,0.0769
 2023-06-07 15:31:30.564498,MLB Futures - MLB 2023 Player Awards - American League MVP,Shohei Ohtani (LAA),0.022600000000000064,0.6226,0.6
 2023-06-07 17:31:59.564305,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - S. Piercy / C. Stroud / N. Watney - 1st Round 3-Balls,Chris Stroud,0.022199999999999998,0.3448,0.3226
 2023-06-07 14:32:27.707556,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - A. Rai / J. Lower / H. Lebioda - 1st Round 3-Balls,Aaron Rai,0.021699999999999997,0.4762,0.4545
 2023-06-07 17:31:59.758667,Round Match-Ups - 1st Round Match-Up - C.T. Pan vs M. Hubbard - 1st Round Match-Up,Mark Hubbard,0.02169999999999994,0.5455,0.5238
-2023-06-07 16:31:36.693620,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - S. Piercy / C. Stroud / N. Watney - 1st Round 3-Balls,Scott Piercy,0.020699999999999996,0.4651,0.4444
 2023-06-07 15:31:31.773123,Tournament Match-Ups - Tournament Match-Up - L. Aberg vs M. Thorbjornsen - Tournament Match-Up,Michael Thorbjornsen,0.020699999999999996,0.4651,0.4444
+2023-06-07 16:31:36.693620,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - S. Piercy / C. Stroud / N. Watney - 1st Round 3-Balls,Scott Piercy,0.020699999999999996,0.4651,0.4444
 2023-06-07 17:31:59.536282,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - C. Conners / T. Fleetwood / N. Taylor - 1st Round 3-Balls ,Nick Taylor,0.019000000000000017,0.2857,0.2667
 2023-06-07 14:32:19.520624,Womens WC 2023 - FIFA Womens World Cup 2023 Futures - Outright,USA (W),0.019000000000000017,0.2857,0.2667
 2023-06-07 14:32:28.699524,Tournament Match-Ups - Tournament Match-Up - T. Fleetwood vs S. Theegala - Tournament Match-Up,Tommy Fleetwood,0.01880000000000004,0.5744,0.5556
 2023-06-07 09:31:12.050643,Boxing Lines - Manuel Flores vs Walter Santibanes - To Win the Bout,Manuel Flores,0.018100000000000005,0.9412,0.9231
 2023-06-07 16:31:36.704819,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - C. Hadley / D. Lingmerth / B. Crane - 1st Round 3-Balls,Chesson Hadley,0.018100000000000005,0.4348,0.4167
 2023-06-07 15:31:30.601121,MLB Futures - MLB 2023 Player Awards - National League MVP,Freddie Freeman (LAD),0.017100000000000004,0.16,0.1429
-2023-06-07 06:31:31.838213,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,0.016700000000000048,0.75,0.7333
 2023-06-07 16:31:36.661728,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - C. Reavie / L. Glover / M. Laird - 1st Round 3-Balls,Chez Reavie,0.016699999999999993,0.4167,0.4
 2023-06-07 16:31:35.296452,US Presidential Election 2024 - US Presidential Election 2024 - Sex Of Winner - Sex of Winner,Male,0.01660000000000006,0.9333,0.9167
 2023-06-07 17:31:59.210140,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,0.015800000000000036,0.6825,0.6667
-2023-06-07 16:31:36.716173,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - C. Young / M.J. Daffue / D. Lamely - 1st Round 3-Balls ,MJ Daffue,0.015400000000000025,0.4,0.3846
 2023-06-07 16:31:35.253919,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Field,0.015400000000000025,0.3279,0.3125
-2023-06-07 06:31:31.888712,MLB Futures - MLB 2023 National League West - National League West Winner,Arizona Diamondbacks,0.015100000000000002,0.1818,0.1667
-2023-06-07 06:31:31.863370,MLB Futures - MLB 2023 National League Central - National League Central Winner,Pittsburgh Pirates,0.015100000000000002,0.1818,0.1667
+2023-06-07 16:31:36.716173,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - C. Young / M.J. Daffue / D. Lamely - 1st Round 3-Balls ,MJ Daffue,0.015400000000000025,0.4,0.3846
 2023-06-07 08:32:00.090190,Copa Sudamericana - Copa Sudamericana 2023 - Outright,Audax Italiano,0.014499999999999999,0.0294,0.0149
 2023-06-07 14:32:19.520624,Womens WC 2023 - FIFA Womens World Cup 2023 Futures - Outright,Australia (W),0.013999999999999999,0.0909,0.0769
-2023-06-07 06:31:31.825341,MLB Futures - MLB 2023 American League Central - American League Central Winner,Chicago White Sox,0.013999999999999999,0.0909,0.0769
 2023-06-07 08:32:00.090190,Copa Sudamericana - Copa Sudamericana 2023 - Outright,Defensa y Justicia,0.013999999999999999,0.0909,0.0769
-2023-06-07 14:32:29.098237,American Family Insurance Championship - American Family Insurance Championship - Winner,Jerry Kelly,0.013899999999999996,0.125,0.1111
 2023-06-07 15:31:30.556069,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Kevin Gausman (TOR),0.013899999999999996,0.125,0.1111
+2023-06-07 14:32:29.098237,American Family Insurance Championship - American Family Insurance Championship - Winner,Jerry Kelly,0.013899999999999996,0.125,0.1111
 2023-06-07 15:31:30.581636,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Marcus Stroman (CHC),0.012700000000000003,0.0323,0.0196
 2023-06-07 16:31:36.677770,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - M. Hubbard / G. Murray / M. McGreevy - 1st Round 3-Balls ,Mark Hubbard,0.012199999999999989,0.5122,0.5
 2023-06-07 15:31:30.564498,MLB Futures - MLB 2023 Player Awards - American League MVP,Yordan Alvarez (HOU),0.011199999999999995,0.0588,0.0476
@@ -54,19 +48,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-07 16:31:35.276957,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Ron DeSantis,0.010299999999999976,0.2667,0.2564
 2023-06-07 11:31:52.798522,Copa Libertadores - Copa Libertadores 2023 - Outright,Atlético Mineiro,0.0102,0.0769,0.0667
 2023-06-07 15:31:30.556069,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Luis Castillo (SEA),0.0102,0.0769,0.0667
-2023-06-07 14:32:27.707556,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - A. Rai / J. Lower / H. Lebioda - 1st Round 3-Balls,Justin Lower,-0.010099999999999998,0.3125,0.3226
 2023-06-07 16:31:36.693620,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - S. Piercy / C. Stroud / N. Watney - 1st Round 3-Balls,Nick Watney,-0.010099999999999998,0.3125,0.3226
+2023-06-07 14:32:27.707556,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - A. Rai / J. Lower / H. Lebioda - 1st Round 3-Balls,Justin Lower,-0.010099999999999998,0.3125,0.3226
 2023-06-07 14:32:19.520624,Womens WC 2023 - FIFA Womens World Cup 2023 Futures - Outright,France (W),-0.010099999999999998,0.0952,0.1053
-2023-06-07 06:31:31.888712,MLB Futures - MLB 2023 National League West - National League West Winner,San Diego Padres,-0.0102,0.0667,0.0769
 2023-06-07 16:31:36.716173,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - C. Young / M.J. Daffue / D. Lamely - 1st Round 3-Balls ,Derek Lamely,-0.010499999999999982,0.2,0.2105
 2023-06-07 17:31:59.564305,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - S. Piercy / C. Stroud / N. Watney - 1st Round 3-Balls,Scott Piercy,-0.010599999999999998,0.4545,0.4651
 2023-06-07 16:31:36.693620,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - S. Piercy / C. Stroud / N. Watney - 1st Round 3-Balls,Chris Stroud,-0.010699999999999987,0.3226,0.3333
-2023-06-07 15:31:30.581636,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Julio Urías,-0.010700000000000001,0.0278,0.0385
 2023-06-07 15:31:30.564498,MLB Futures - MLB 2023 Player Awards - American League MVP,Randy Arozarena (TB),-0.010700000000000001,0.0278,0.0385
+2023-06-07 15:31:30.581636,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Julio Urías,-0.010700000000000001,0.0278,0.0385
 2023-06-07 15:31:30.601121,MLB Futures - MLB 2023 Player Awards - National League MVP,Juan Soto (SD),-0.011199999999999995,0.0476,0.0588
 2023-06-07 15:31:30.601121,MLB Futures - MLB 2023 Player Awards - National League MVP,Sean Murphy (ATL),-0.011199999999999995,0.0323,0.0435
-2023-06-07 15:31:30.581636,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Max Scherzer (NYM),-0.011200000000000002,0.0132,0.0244
 2023-06-07 15:31:30.581636,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Aaron Nola (PHI),-0.011200000000000002,0.0132,0.0244
+2023-06-07 15:31:30.581636,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Max Scherzer (NYM),-0.011200000000000002,0.0132,0.0244
 2023-06-07 16:31:35.303006,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Republican,-0.011600000000000055,0.5122,0.5238
 2023-06-07 15:31:30.581636,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Dustin May (LAD),-0.011699999999999999,0.0079,0.0196
 2023-06-07 15:31:30.601121,MLB Futures - MLB 2023 Player Awards - National League MVP,Bryan Reynolds (PIT),-0.011699999999999999,0.0079,0.0196
@@ -76,11 +69,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-07 14:32:19.520624,Womens WC 2023 - FIFA Womens World Cup 2023 Futures - Outright,Spain (W),-0.012899999999999995,0.1538,0.1667
 2023-06-07 15:31:30.564498,MLB Futures - MLB 2023 Player Awards - American League MVP,Wander Franco (TB),-0.0131,0.0345,0.0476
 2023-06-07 16:31:35.253919,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.01319999999999999,0.7368,0.75
-2023-06-07 06:31:31.825341,MLB Futures - MLB 2023 American League Central - American League Central Winner,Cleveland Guardians,-0.01319999999999999,0.25,0.2632
 2023-06-07 08:32:00.090190,Copa Sudamericana - Copa Sudamericana 2023 - Outright,Fortaleza,-0.013899999999999996,0.1111,0.125
 2023-06-07 15:31:30.581636,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Mitch Keller (PIT),-0.013999999999999999,0.0769,0.0909
-2023-06-07 17:31:58.084799,Nobel Prizes - Nobel Literature Prize - Nobel Literature Prize Winner 2023,Salman Rushdie,-0.014099999999999994,0.0526,0.0667
 2023-06-07 17:31:58.084799,Nobel Prizes - Nobel Literature Prize - Nobel Literature Prize Winner 2023,Mircea Cartarescu,-0.014099999999999994,0.0526,0.0667
+2023-06-07 17:31:58.084799,Nobel Prizes - Nobel Literature Prize - Nobel Literature Prize Winner 2023,Salman Rushdie,-0.014099999999999994,0.0526,0.0667
 2023-06-07 15:31:30.564498,MLB Futures - MLB 2023 Player Awards - American League MVP,Matt Chapman (TOR),-0.014400000000000003,0.0179,0.0323
 2023-06-07 17:31:59.210140,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,-0.01440000000000001,0.0909,0.1053
 2023-06-07 15:31:30.601121,MLB Futures - MLB 2023 Player Awards - National League MVP,Manny Machado (SD),-0.014599999999999998,0.0132,0.0278
@@ -108,17 +100,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-07 16:31:35.290083,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Kari Lake,-0.022199999999999998,0.2,0.2222
 2023-06-07 15:31:31.773123,Tournament Match-Ups - Tournament Match-Up - L. Aberg vs M. Thorbjornsen - Tournament Match-Up,Ludvig Aberg,-0.022600000000000064,0.6,0.6226
 2023-06-07 14:32:28.680696,Tournament Match-Ups - Tournament Match-Up - C. Young vs C. Conners - Tournament Match-Up,Corey Conners,-0.023799999999999988,0.4762,0.5
-2023-06-07 06:31:31.876092,MLB Futures - MLB 2023 National League East - National League East Winner,New York Mets,-0.023799999999999988,0.1429,0.1667
 2023-06-07 17:31:59.758667,Round Match-Ups - 1st Round Match-Up - C.T. Pan vs M. Hubbard - 1st Round Match-Up,C T Pan,-0.023800000000000043,0.5,0.5238
+2023-06-07 17:31:58.084799,Nobel Prizes - Nobel Literature Prize - Nobel Literature Prize Winner 2023,Thomas Pynchon,-0.024299999999999995,0.0526,0.0769
 2023-06-07 17:31:58.084799,Nobel Prizes - Nobel Literature Prize - Nobel Literature Prize Winner 2023,Pierre Michon,-0.024299999999999995,0.0526,0.0769
 2023-06-07 17:31:58.084799,Nobel Prizes - Nobel Literature Prize - Nobel Literature Prize Winner 2023,Jon Fosse,-0.024299999999999995,0.0526,0.0769
-2023-06-07 17:31:58.084799,Nobel Prizes - Nobel Literature Prize - Nobel Literature Prize Winner 2023,Thomas Pynchon,-0.024299999999999995,0.0526,0.0769
 2023-06-07 17:31:58.084799,Nobel Prizes - Nobel Literature Prize - Nobel Literature Prize Winner 2023,Gerald Murnane,-0.024299999999999995,0.0526,0.0769
 2023-06-07 14:32:28.699524,Tournament Match-Ups - Tournament Match-Up - T. Fleetwood vs S. Theegala - Tournament Match-Up,Sahith Theegala,-0.024399999999999977,0.4878,0.5122
 2023-06-07 15:31:30.625104,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Brett Baty (NYM),-0.024800000000000003,0.0278,0.0526
 2023-06-07 15:31:30.625104,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,James Outman (LAD),-0.024999999999999994,0.1,0.125
-2023-06-07 15:31:30.556069,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Framber Valdez (HOU),-0.025300000000000003,0.1176,0.1429
 2023-06-07 15:31:30.625104,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Francisco Alvarez (NYM),-0.025300000000000003,0.1176,0.1429
+2023-06-07 15:31:30.556069,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Framber Valdez (HOU),-0.025300000000000003,0.1176,0.1429
 2023-06-07 15:31:30.573097,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Anthony Volpe (NYY),-0.026499999999999996,0.0323,0.0588
 2023-06-07 08:32:00.090190,Copa Sudamericana - Copa Sudamericana 2023 - Outright,Santos,-0.0279,0.0066,0.0345
 2023-06-07 15:31:30.625104,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Miguel Vargas (LAD),-0.031,0.0278,0.0588
@@ -129,9 +120,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-07 08:32:00.180818,Copa do Brasil - Copa do Brasil 2023 - Outright,Athletico Paranaense,-0.04269999999999999,0.1111,0.1538
 2023-06-07 17:31:58.002794,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Aaron Taylor-Johnson,-0.047599999999999976,0.2857,0.3333
 2023-06-07 15:31:30.573097,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Bryce Miller,-0.052399999999999995,0.0385,0.0909
-2023-06-07 06:31:31.863370,MLB Futures - MLB 2023 National League Central - National League Central Winner,St. Louis Cardinals,-0.05679999999999999,0.125,0.1818
 2023-06-07 08:32:00.180818,Copa do Brasil - Copa do Brasil 2023 - Outright,Corinthians,-0.05679999999999999,0.125,0.1818
-2023-06-07 16:31:35.290083,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Glenn Youngkin,-0.0615,0.0294,0.0909
 2023-06-07 16:31:35.290083,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Ron DeSantis,-0.0615,0.0294,0.0909
+2023-06-07 16:31:35.290083,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Glenn Youngkin,-0.0615,0.0294,0.0909
 2023-06-07 15:31:30.564498,MLB Futures - MLB 2023 Player Awards - American League MVP,Aaron Judge (NYY),-0.08179999999999998,0.1,0.1818
 2023-06-07 16:31:35.290083,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Elise Stefanik,-0.0889,0.1111,0.2
