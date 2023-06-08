@@ -2,6 +2,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-08 02:30:55.007242,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Denver Nuggets,0.14279999999999993,0.8571,0.7143
 2023-06-08 02:30:56.860556,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - A. Meronk / S. Bae / S. Brown - 1st Round 3-Balls ,Adrian Meronk,0.07710000000000006,0.6226,0.5455
 2023-06-08 05:32:14.743139,MLB Futures - MLB 2023 National League West - National League West Winner,San Diego Padres,0.058300000000000005,0.125,0.0667
+2023-06-08 12:31:46.214617,Boxing Lines - Yazid Amghar vs Frank Urquiaga - To Win the Bout,Frank Urquiaga,0.05740000000000001,0.4348,0.3774
 2023-06-08 02:30:56.796075,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - D. Redman / G. Sigg / B. Haas - 1st Round 3-Balls,Doc Redman,0.044399999999999995,0.4444,0.4
 2023-06-08 11:31:25.011284,Boxing Lines - Yazid Amghar vs Frank Urquiaga - To Win the Bout,Frank Urquiaga,0.04410000000000003,0.3774,0.3333
 2023-06-08 02:30:56.802356,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - M. Hubbard / G. Murray / M. McGreevy - 1st Round 3-Balls ,Mark Hubbard,0.043399999999999994,0.5556,0.5122
@@ -26,25 +27,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-08 05:32:14.716990,MLB Futures - MLB 2023 American League East - American League East Winner,Toronto Blue Jays,0.02310000000000001,0.1,0.0769
 2023-06-08 03:32:33.643814,Round Match-Ups - 1st Round Match-Up - B. Silverman v G. Sigg - 1st Round Match-Up,Greyson Sigg,0.022600000000000064,0.5348,0.5122
 2023-06-08 06:30:39.430690,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Shohei Ohtani (LAA),0.022199999999999998,0.1333,0.1111
-2023-06-08 03:32:33.555438,Round Match-Ups - 1st Round Match-Up - A. Rai v N. Taylor - 1st Round Match-Up,Aaron Rai,0.02169999999999994,0.5455,0.5238
 2023-06-08 06:30:39.953410,Round Match-Ups - 1st Round Match-Up - C. Reavie v S. Piercy - 1st Round Match-Up,Chez Reavie,0.02169999999999994,0.5455,0.5238
+2023-06-08 03:32:33.555438,Round Match-Ups - 1st Round Match-Up - A. Rai v N. Taylor - 1st Round Match-Up,Aaron Rai,0.02169999999999994,0.5455,0.5238
 2023-06-08 05:32:15.051906,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - R. McIlroy / J. Rose / W. Simpson - 1st Round 3-Balls ,Rory McIlroy,0.02079999999999993,0.5556,0.5348
 2023-06-08 05:32:15.218525,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - H. Hall / A. Bhatia / M. Block - 1st Round 3-Balls ,Akshay Bhatia,0.020699999999999996,0.4651,0.4444
 2023-06-08 06:30:39.375315,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Atlanta Braves,0.02049999999999999,0.1538,0.1333
 2023-06-08 05:32:13.465812,WNBA Futures - WNBA Awards - Regular Season MVP,Alyssa Thomas,0.02049999999999999,0.1538,0.1333
 2023-06-08 05:32:14.711123,MLB Futures - MLB 2023 American League Central - American League Central Winner,Chicago White Sox,0.02020000000000001,0.1111,0.0909
 2023-06-08 03:32:33.657595,Round Match-Ups - 1st Round Match-Up - C.T. Pan vs M. Hubbard - 1st Round Match-Up,Mark Hubbard,0.01970000000000005,0.5652,0.5455
-2023-06-08 05:32:15.094602,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - M. Hubbard / G. Murray / M. McGreevy - 1st Round 3-Balls ,Mark Hubbard,0.01880000000000004,0.5744,0.5556
 2023-06-08 02:30:56.884816,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - K. Mitchell / T. Duncan / B. Gay - 1st Round 3-Balls,Keith Mitchell,0.01880000000000004,0.5744,0.5556
 2023-06-08 05:32:15.163525,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - K. Mitchell / T. Duncan / B. Gay - 1st Round 3-Balls,Keith Mitchell,0.01880000000000004,0.5744,0.5556
+2023-06-08 05:32:15.094602,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - M. Hubbard / G. Murray / M. McGreevy - 1st Round 3-Balls ,Mark Hubbard,0.01880000000000004,0.5744,0.5556
 2023-06-08 05:32:14.729427,MLB Futures - MLB 2023 National League Central - National League Central Winner,St. Louis Cardinals,0.01820000000000002,0.2,0.1818
 2023-06-08 10:31:34.321164,Round Match-Ups - 1st Round Match-Up - C.T. Pan vs M. Hubbard - 1st Round Match-Up,Mark Hubbard,0.018100000000000005,0.5833,0.5652
-2023-06-08 06:30:39.441440,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Hunter Brown (HOU),0.0179,0.1429,0.125
 2023-06-08 09:31:32.070740,MLS - MLS 2023 - Winner,Nashville SC,0.0179,0.1429,0.125
+2023-06-08 06:30:39.441440,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Hunter Brown (HOU),0.0179,0.1429,0.125
 2023-06-08 08:31:03.308994,Tournament Match-Ups - Tournament Match-Up - L. Aberg vs M. Thorbjornsen - Tournament Match-Up,Ludvig Aberg,0.017299999999999982,0.5917,0.5744
 2023-06-08 05:32:13.465812,WNBA Futures - WNBA Awards - Regular Season MVP,Kelsey Plum,0.016600000000000004,0.0833,0.0667
-2023-06-08 07:31:57.495238,Boxing Lines - Clay AJ Waterman vs Kenmon Evans - To Win the Bout,Kenmon Evans,0.015100000000000002,0.1818,0.1667
+2023-06-08 12:31:46.528195,Boxing Lines - Jaime Munguia vs Sergiy Derevyanchenko - To Win the Bout,Jaime Munguia,0.015699999999999936,0.8824,0.8667
 2023-06-08 06:30:39.375315,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Tampa Bay Rays,0.015100000000000002,0.1818,0.1667
+2023-06-08 07:31:57.495238,Boxing Lines - Clay AJ Waterman vs Kenmon Evans - To Win the Bout,Kenmon Evans,0.015100000000000002,0.1818,0.1667
 2023-06-08 07:31:57.382890,Boxing Lines - Daniel Garcia vs Luis May - To Win the Bout,Daniel Garcia,0.014900000000000024,0.9804,0.9655
 2023-06-08 05:32:14.723298,MLB Futures - MLB 2023 American League West - American League West Winner,Los Angeles Angels,0.014899999999999997,0.0625,0.0476
 2023-06-08 11:31:25.326302,Boxing Lines - Viddal Riley vs Anees Taj - To Win the Bout,Anees Taj,0.013999999999999999,0.0909,0.0769
@@ -64,8 +66,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-08 10:31:34.321164,Round Match-Ups - 1st Round Match-Up - C.T. Pan vs M. Hubbard - 1st Round Match-Up,C T Pan,-0.011099999999999999,0.4651,0.4762
 2023-06-08 08:31:03.308994,Tournament Match-Ups - Tournament Match-Up - L. Aberg vs M. Thorbjornsen - Tournament Match-Up,Michael Thorbjornsen,-0.0116,0.4762,0.4878
 2023-06-08 10:31:34.481820,Round Match-Ups - 1st Round Match-Up - S. Burns vs C. Young - 1st Round Match-Up,Cameron Young,-0.011600000000000055,0.5122,0.5238
-2023-06-08 08:31:03.160658,Round Match-Ups - 1st Round Match-Up - T. Hatton vs M. Fitzpatrick - 1st Round Match-Up,Matt Fitzpatrick,-0.012199999999999989,0.5,0.5122
 2023-06-08 10:31:34.263267,Round Match-Ups - 1st Round Match-Up - L. Aberg vs E. Cole - 1st Round Match-Up,Ludvig Aberg,-0.012199999999999989,0.5,0.5122
+2023-06-08 08:31:03.160658,Round Match-Ups - 1st Round Match-Up - T. Hatton vs M. Fitzpatrick - 1st Round Match-Up,Matt Fitzpatrick,-0.012199999999999989,0.5,0.5122
 2023-06-08 05:32:15.163525,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - K. Mitchell / T. Duncan / B. Gay - 1st Round 3-Balls,Tyler Duncan,-0.012299999999999978,0.3448,0.3571
 2023-06-08 06:30:39.381290,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Chicago White Sox,-0.012599999999999998,0.0152,0.0278
 2023-06-08 05:32:14.711123,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,-0.012800000000000034,0.7015,0.7143
@@ -83,8 +85,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-08 05:32:15.051906,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - R. McIlroy / J. Rose / W. Simpson - 1st Round 3-Balls ,Justin Rose,-0.017600000000000005,0.3333,0.3509
 2023-06-08 07:31:57.495238,Boxing Lines - Clay AJ Waterman vs Kenmon Evans - To Win the Bout,Clay AJ Waterman,-0.01760000000000006,0.8824,0.9
 2023-06-08 02:30:56.850946,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - C. Young / M.J. Daffue / D. Lamely - 1st Round 3-Balls ,Derek Lamely,-0.01820000000000002,0.1818,0.2
-2023-06-08 05:32:15.094602,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - M. Hubbard / G. Murray / M. McGreevy - 1st Round 3-Balls ,Grayson Murray,-0.018400000000000027,0.2941,0.3125
+2023-06-08 12:31:46.528195,Boxing Lines - Jaime Munguia vs Sergiy Derevyanchenko - To Win the Bout,Sergiy Derevyanchenko,-0.01820000000000002,0.1818,0.2
 2023-06-08 05:32:15.018580,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - A. Rai / J. Lower / H. Lebioda - 1st Round 3-Balls,Justin Lower,-0.018400000000000027,0.2941,0.3125
+2023-06-08 05:32:15.094602,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - M. Hubbard / G. Murray / M. McGreevy - 1st Round 3-Balls ,Grayson Murray,-0.018400000000000027,0.2941,0.3125
 2023-06-08 03:32:33.400447,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - K. Mitchell / T. Duncan / B. Gay - 1st Round 3-Balls,Keith Mitchell,-0.01880000000000004,0.5556,0.5744
 2023-06-08 01:31:12.603874,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Denver Nuggets,-0.018999999999999906,0.7143,0.7333
 2023-06-08 08:31:03.314647,Tournament Match-Ups - Tournament Match-Up - T. Hatton vs M. Fitzpatrick - Tournament Match-Up,Tyrrell Hatton,-0.01970000000000005,0.5455,0.5652
@@ -93,8 +96,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-08 06:30:39.387243,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Los Angeles Dodgers,-0.021999999999999964,0.2857,0.3077
 2023-06-08 02:30:56.850946,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - C. Young / M.J. Daffue / D. Lamely - 1st Round 3-Balls ,MJ Daffue,-0.02260000000000001,0.3774,0.4
 2023-06-08 03:32:33.643814,Round Match-Ups - 1st Round Match-Up - B. Silverman v G. Sigg - 1st Round Match-Up,Ben Silverman,-0.022600000000000064,0.5122,0.5348
-2023-06-08 06:30:40.112809,Tournament Match-Ups - Tournament Match-Up - T. Fleetwood vs S. Theegala - Tournament Match-Up,Sahith Theegala,-0.022699999999999998,0.4651,0.4878
 2023-06-08 05:32:14.711123,MLB Futures - MLB 2023 American League Central - American League Central Winner,Cleveland Guardians,-0.022699999999999998,0.2273,0.25
+2023-06-08 06:30:40.112809,Tournament Match-Ups - Tournament Match-Up - T. Fleetwood vs S. Theegala - Tournament Match-Up,Sahith Theegala,-0.022699999999999998,0.4651,0.4878
 2023-06-08 03:32:33.657595,Round Match-Ups - 1st Round Match-Up - C.T. Pan vs M. Hubbard - 1st Round Match-Up,C T Pan,-0.023799999999999988,0.4762,0.5
 2023-06-08 06:30:39.953410,Round Match-Ups - 1st Round Match-Up - C. Reavie v S. Piercy - 1st Round Match-Up,Scott Piercy,-0.023800000000000043,0.5,0.5238
 2023-06-08 03:32:33.555438,Round Match-Ups - 1st Round Match-Up - A. Rai v N. Taylor - 1st Round Match-Up,Nick Taylor,-0.023800000000000043,0.5,0.5238
@@ -114,6 +117,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-08 02:30:56.802356,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - M. Hubbard / G. Murray / M. McGreevy - 1st Round 3-Balls ,Grayson Murray,-0.04459999999999997,0.3125,0.3571
 2023-06-08 11:31:25.011284,Boxing Lines - Yazid Amghar vs Frank Urquiaga - To Win the Bout,Yazid Amghar,-0.04579999999999995,0.6875,0.7333
 2023-06-08 02:30:56.860556,RBC Canadian Open - 2/3 Balls - 1st Round 3-Balls - A. Meronk / S. Bae / S. Brown - 1st Round 3-Balls ,Sangmoon Bae,-0.04799999999999999,0.2597,0.3077
+2023-06-08 12:31:46.214617,Boxing Lines - Yazid Amghar vs Frank Urquiaga - To Win the Bout,Yazid Amghar,-0.05789999999999995,0.6296,0.6875
 2023-06-08 05:32:14.723298,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,-0.059799999999999964,0.5556,0.6154
 2023-06-08 05:32:14.743139,MLB Futures - MLB 2023 National League West - National League West Winner,Los Angeles Dodgers,-0.0824999999999999,0.7436,0.8261
 2023-06-08 02:30:55.007242,2022/23 NBA Championship - 2022-2023 NBA Championship - NBA Champion,Miami Heat,-0.1515,0.1818,0.3333
