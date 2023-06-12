@@ -30,7 +30,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-12 10:42:14.732903,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Goiás,0.02200000000000002,0.7143,0.6923
 2023-06-12 04:31:18.264050,MLB Futures - MLB 2023 American League Central - American League Central Winner,Cleveland Guardians,0.021999999999999964,0.3077,0.2857
 2023-06-12 10:42:14.738246,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Palmeiras,0.020199999999999996,0.9091,0.8889
-2023-06-12 00:31:51.293110,College Football - 2023-2024 NCAA Championship Winner - NCAA Champion,Georgia,0.019000000000000017,0.2857,0.2667
 2023-06-12 10:42:14.743613,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Vasco da Gama,0.018099999999999998,0.0769,0.0588
 2023-06-12 04:31:18.238840,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Los Angeles Dodgers,0.0179,0.1429,0.125
 2023-06-12 05:31:37.204597,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Framber Valdez (HOU),0.015700000000000006,0.1333,0.1176
@@ -38,12 +37,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-12 10:42:14.738246,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Internacional,0.012899999999999995,0.1667,0.1538
 2023-06-12 04:31:18.256420,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,San Diego Padres,0.012299999999999991,0.1176,0.1053
 2023-06-12 06:31:33.113586,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,0.012199999999999989,0.5,0.4878
-2023-06-12 10:42:14.727262,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Botafogo,0.011099999999999999,0.1111,0.1
 2023-06-12 08:32:37.610633,MLS - MLS 2023 - Winner,Philadelphia Union,0.011099999999999999,0.1111,0.1
+2023-06-12 10:42:14.727262,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Botafogo,0.011099999999999999,0.1111,0.1
 2023-06-12 10:42:14.732903,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Coritiba,0.01090000000000002,0.8571,0.8462
-2023-06-12 04:31:18.256420,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Arizona Diamondbacks,0.0102,0.0769,0.0667
 2023-06-12 03:31:52.808363,US Open - US Open 2023 - Winner,Rory McIlroy,0.0102,0.0769,0.0667
 2023-06-12 04:31:18.256420,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Philadelphia Phillies,0.0102,0.0769,0.0667
+2023-06-12 04:31:18.256420,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Arizona Diamondbacks,0.0102,0.0769,0.0667
 2023-06-12 05:31:37.231952,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Yennier Cano,0.010100000000000001,0.0345,0.0244
 2023-06-12 10:42:14.738246,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Atlético Mineiro,0.010099999999999998,0.5556,0.5455
 2023-06-12 10:42:14.732903,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Athletico Paranaense,-0.010100000000000001,0.0244,0.0345
@@ -52,8 +51,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-12 08:32:37.618121,MLS - MLS 2023 - Top Goalscorer,Cristian Espinoza (SJE),-0.011199999999999995,0.0476,0.0588
 2023-06-12 08:32:37.618121,MLS - MLS 2023 - Top Goalscorer,Daniel Gazdag (PHI),-0.011199999999999995,0.0476,0.0588
 2023-06-12 06:31:33.113586,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,-0.011600000000000055,0.5122,0.5238
-2023-06-12 10:42:15.155343,Time Person of the Year - Time Person Of The Year 2023 - Time Person Of The Year 2023,Joe Biden,-0.013899999999999996,0.1111,0.125
+2023-06-12 12:34:00.523754,College Season Props - To Make 2023-24 College Playoffs - Will Alabama Make the 2023-24 College Football Playoff?,No,-0.013299999999999979,0.6296,0.6429
 2023-06-12 10:42:14.732903,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,RB Bragantino,-0.013899999999999996,0.1111,0.125
+2023-06-12 10:42:15.155343,Time Person of the Year - Time Person Of The Year 2023 - Time Person Of The Year 2023,Joe Biden,-0.013899999999999996,0.1111,0.125
 2023-06-12 10:42:14.727262,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Grêmio,-0.014099999999999998,0.0244,0.0385
 2023-06-12 10:42:14.727262,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,São Paulo,-0.014099999999999998,0.0244,0.0385
 2023-06-12 10:42:14.732903,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Cruzeiro,-0.01440000000000001,0.0909,0.1053
@@ -78,10 +78,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-12 08:32:37.610633,MLS - MLS 2023 - Winner,Los Angeles FC,-0.022199999999999998,0.2,0.2222
 2023-06-12 06:31:33.121633,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,-0.02310000000000001,0.0769,0.1
 2023-06-12 10:42:14.738246,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Fluminense,-0.023800000000000043,0.5,0.5238
-2023-06-12 00:31:52.485761,US Open - US Open 2023 - Winner,Rory McIlroy,-0.0242,0.0667,0.0909
 2023-06-12 10:42:14.743613,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Athletico Paranaense,-0.025499999999999967,0.4,0.4255
-2023-06-12 10:42:14.732903,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Santos,-0.02779999999999999,0.2222,0.25
 2023-06-12 08:32:37.618121,MLS - MLS 2023 - Top Goalscorer,Denis Bouanga (LAFC),-0.02779999999999999,0.2222,0.25
+2023-06-12 10:42:14.732903,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Santos,-0.02779999999999999,0.2222,0.25
 2023-06-12 06:31:33.095840,MLB Futures - MLB 2023 American League Central - American League Central Winner,Chicago White Sox,-0.027999999999999997,0.1538,0.1818
 2023-06-12 10:42:14.743613,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Botafogo,-0.030299999999999994,0.6364,0.6667
 2023-06-12 10:42:14.727262,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Fluminense,-0.03420000000000001,0.0769,0.1111
