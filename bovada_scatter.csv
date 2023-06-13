@@ -1,9 +1,12 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2023-06-13 12:31:29.316379,Donald Trump Specials - To appear in @realDonaldTrump's first Truth Social post after Miami arraignment - Truth Social Cliche Betting,Election Interference,0.047599999999999976,0.3333,0.2857
 2023-06-13 06:31:33.573254,College Baseball - College Baseball World Series -  College Baseball World Series Winner,Tennessee,0.04440000000000001,0.1111,0.0667
 2023-06-13 06:31:33.573254,College Baseball - College Baseball World Series -  College Baseball World Series Winner,Stanford,0.038299999999999994,0.0909,0.0526
 2023-06-13 11:32:44.337695,Joe Biden Specials - Joe Biden Approval Rating At Year End - Joe Biden Approval Rating At Year End,Over 39.5,0.035999999999999976,0.5122,0.4762
 2023-06-13 04:32:03.338042,NBA Futures - 2023/24 NBA Season - 2023-24 NBA Champion,Dallas Mavericks,0.0334,0.0769,0.0435
 2023-06-13 08:31:43.924296,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,River Plate,0.033299999999999996,0.8333,0.8
+2023-06-13 12:31:29.316379,Donald Trump Specials - To appear in @realDonaldTrump's first Truth Social post after Miami arraignment - Truth Social Cliche Betting,I Am Not Guilty,0.023200000000000002,0.0476,0.0244
+2023-06-13 12:31:29.316379,Donald Trump Specials - To appear in @realDonaldTrump's first Truth Social post after Miami arraignment - Truth Social Cliche Betting,Leading Political Opponent,0.022199999999999998,0.2222,0.2
 2023-06-13 06:31:33.573254,College Baseball - College Baseball World Series -  College Baseball World Series Winner,Wake Forest,0.021999999999999964,0.3077,0.2857
 2023-06-13 05:31:33.655665,NBA Futures - 2023/24 NBA Season - 2023-24 NBA Champion,Milwaukee Bucks,0.02049999999999999,0.1538,0.1333
 2023-06-13 06:31:31.761288,NBA Futures - 2023/24 NBA Season - 2023-24 NBA Champion,Boston Celtics,0.020100000000000007,0.1739,0.1538
@@ -14,15 +17,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-13 05:31:35.293104,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,0.011600000000000055,0.5238,0.5122
 2023-06-13 05:31:33.655665,NBA Futures - 2023/24 NBA Season - 2023-24 NBA Champion,Phoenix Suns,0.011099999999999999,0.1111,0.1
 2023-06-13 05:31:35.293104,MLB Futures - MLB 2023 American League West - American League West Winner,Los Angeles Angels,0.0102,0.0769,0.0667
-2023-06-13 06:31:31.761288,NBA Futures - 2023/24 NBA Season - 2023-24 NBA Champion,Philadelphia 76ers,-0.0102,0.0667,0.0769
 2023-06-13 05:31:33.655665,NBA Futures - 2023/24 NBA Season - 2023-24 NBA Champion,Los Angeles Lakers,-0.0102,0.0667,0.0769
 2023-06-13 08:31:43.924296,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,Estudiantes de La Plata,-0.0102,0.0667,0.0769
+2023-06-13 06:31:31.761288,NBA Futures - 2023/24 NBA Season - 2023-24 NBA Champion,Philadelphia 76ers,-0.0102,0.0667,0.0769
 2023-06-13 07:32:16.172396,US Open - US Open 2023 - Winner,Rory McIlroy,-0.0102,0.0667,0.0769
 2023-06-13 06:31:31.761288,NBA Futures - 2023/24 NBA Season - 2023-24 NBA Champion,Phoenix Suns,-0.011099999999999999,0.1,0.1111
 2023-06-13 10:31:25.656948,Boxing Lines - Caroline Dubois vs Yanina Del Carmen Lescano - To Win the Bout,Yanina Del Carmen Lescano,-0.011099999999999999,0.1,0.1111
 2023-06-13 05:31:35.275105,MLB Futures - MLB 2023 American League Central - American League Central Winner,Cleveland Guardians,-0.01150000000000001,0.3333,0.3448
 2023-06-13 05:31:35.293104,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,-0.012199999999999989,0.4878,0.5
 2023-06-13 04:32:03.338042,NBA Futures - 2023/24 NBA Season - 2023-24 NBA Champion,Los Angeles Lakers,-0.013999999999999999,0.0769,0.0909
+2023-06-13 12:31:29.316379,Donald Trump Specials - To appear in @realDonaldTrump's first Truth Social post after Miami arraignment - Truth Social Cliche Betting,Abuse Of Power,-0.013999999999999999,0.0769,0.0909
 2023-06-13 06:31:33.573254,College Baseball - College Baseball World Series -  College Baseball World Series Winner,TCU,-0.01759999999999999,0.1,0.1176
 2023-06-13 11:32:44.282331,Donald Trump Specials - Classified Documents Trial: Date Of Prosecutor's Opening Statement - Classified Documents Trial: Date Of Opening Statement,Not before July 2025,-0.018199999999999994,0.8,0.8182
 2023-06-13 07:32:11.751527,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Ron DeSantis,-0.019000000000000017,0.2667,0.2857
@@ -32,3 +36,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-13 08:31:43.924296,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,San Lorenzo,-0.0242,0.0667,0.0909
 2023-06-13 04:32:03.338042,NBA Futures - 2023/24 NBA Season - 2023-24 NBA Champion,Boston Celtics,-0.027999999999999997,0.1538,0.1818
 2023-06-13 11:32:44.337695,Joe Biden Specials - Joe Biden Approval Rating At Year End - Joe Biden Approval Rating At Year End,39.5 or under,-0.03479999999999994,0.5652,0.6
+2023-06-13 12:31:29.316379,Donald Trump Specials - To appear in @realDonaldTrump's first Truth Social post after Miami arraignment - Truth Social Cliche Betting,Radical Left,-0.043399999999999994,0.5122,0.5556
+2023-06-13 12:31:29.316379,Donald Trump Specials - To appear in @realDonaldTrump's first Truth Social post after Miami arraignment - Truth Social Cliche Betting,Serious Decline,-0.06670000000000004,0.3333,0.4
+2023-06-13 12:31:29.316379,Donald Trump Specials - To appear in @realDonaldTrump's first Truth Social post after Miami arraignment - Truth Social Cliche Betting,Borders,-0.0857,0.2,0.2857
+2023-06-13 12:31:29.316379,Donald Trump Specials - To appear in @realDonaldTrump's first Truth Social post after Miami arraignment - Truth Social Cliche Betting,Marxist Left,-0.11109999999999998,0.2222,0.3333
+2023-06-13 12:31:29.316379,Donald Trump Specials - To appear in @realDonaldTrump's first Truth Social post after Miami arraignment - Truth Social Cliche Betting,MAGA/Make America Great Again,-0.1778,0.2222,0.4
