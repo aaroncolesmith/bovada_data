@@ -16,22 +16,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-15 21:30:54.956307,Boxing Lines - Caroline Dubois vs Yanina Del Carmen Lescano - To Win the Bout,Caroline Dubois,0.028000000000000025,0.9804,0.9524
 2023-06-15 21:30:54.922751,Boxing Lines - Sam Gilley vs Ellis Corrie - To Win the Bout,Ellis Corrie,0.027999999999999997,0.1818,0.1538
 2023-06-15 15:31:36.408141,WNBA Futures - WNBA Awards - Regular Season MVP,Breanna Stewart,0.027700000000000002,0.4444,0.4167
-2023-06-15 19:31:07.034651,US Open - 2/3 Balls - 1st Round 3 Balls - J. Niemann / H. English / A. Meronk - 1st Round 3 Balls ,Joaquin Niemann,0.026600000000000013,0.4348,0.4082
 2023-06-15 19:31:06.956549,US Open - 2/3 Balls - 1st Round 3 Balls - E. Cole / A. Schenk / T. Lawrence - 1st Round 3 Balls ,Eric Cole,0.026600000000000013,0.4348,0.4082
+2023-06-15 19:31:07.034651,US Open - 2/3 Balls - 1st Round 3 Balls - J. Niemann / H. English / A. Meronk - 1st Round 3 Balls ,Joaquin Niemann,0.026600000000000013,0.4348,0.4082
 2023-06-15 13:32:24.461167,US Open - 2/3 Balls - 1st Round 3 Balls - K. Bradley / P. Mickelson / P. Harrington - 1st Round 3 Balls,Padraig Harrington,0.0252,0.303,0.2778
 2023-06-15 15:31:36.561017,NBA Specials - Off-Season Specials - Where will Kyrie Irving play next season?,Miami Heat,0.024800000000000003,0.0526,0.0278
 2023-06-15 11:31:40.234673,Round Match-Ups - 1st Round Match-Up - K. Bradley v J. Niemann - 1st Round Match-Up,Joaquin Niemann,0.023800000000000043,0.5238,0.5
 2023-06-15 19:31:07.325118,Round Match-Ups - 1st Round Match-Up - P. Harrington v P. Mickelson - 1st Round Match-Up,Phil Mickelson,0.023799999999999988,0.5,0.4762
 2023-06-15 19:31:04.174749,NBA Draft - NBA Draft 2023 - Draft Position - Kobe Bufkin - Draft Position,Under 16.5,0.0232,0.7333,0.7101
 2023-06-15 19:31:07.247169,Tournament Match-Ups - Tournament Match-Up - T. Pendrith v P. Mickelson - Tournament Match-Up,Phil Mickelson,0.022699999999999998,0.4878,0.4651
-2023-06-15 19:31:07.052696,US Open - 2/3 Balls - 1st Round 3 Balls - K. Bradley / P. Mickelson / P. Harrington - 1st Round 3 Balls,Keegan Bradley,0.022699999999999998,0.4878,0.4651
 2023-06-15 19:31:07.123315,US Open - 2/3 Balls - 1st Round 3 Balls - C. Smith / M. Fitzpatrick / S. Bennett - 1st Round 3 Balls ,Cameron Smith,0.022699999999999998,0.4878,0.4651
-2023-06-15 19:31:07.339802,Round Match-Ups - 1st Round Match-Up - W. Clark vs M. Pereira - 1st Round Match-Up,Mito Pereira,0.022600000000000064,0.5348,0.5122
-2023-06-15 10:31:51.777483,Round Match-Ups - 1st Round Match-Up - V. Hovland vs X. Schauffele - 1st Round Match-Up,Xander Schauffele,0.022600000000000064,0.5348,0.5122
-2023-06-15 10:31:51.639795,Round Match-Ups - 1st Round Match-Up - A. Wise v J. Dahmen - 1st Round Match-Up,Joel Dahmen,0.022600000000000064,0.5348,0.5122
+2023-06-15 19:31:07.052696,US Open - 2/3 Balls - 1st Round 3 Balls - K. Bradley / P. Mickelson / P. Harrington - 1st Round 3 Balls,Keegan Bradley,0.022699999999999998,0.4878,0.4651
 2023-06-15 19:31:07.066848,US Open - 2/3 Balls - 1st Round 3 Balls - M. Pereira / E. Grillo / M.F. de Oliveira - 1st Round 3 Balls ,Mito Pereira,0.022600000000000064,0.5348,0.5122
+2023-06-15 19:31:07.339802,Round Match-Ups - 1st Round Match-Up - W. Clark vs M. Pereira - 1st Round Match-Up,Mito Pereira,0.022600000000000064,0.5348,0.5122
 2023-06-15 19:31:07.079761,US Open - 2/3 Balls - 1st Round 3 Balls - W. Clark / A. Noren / A. Eckroat - 1st Round 3 Balls ,Wyndham Clark,0.021699999999999997,0.4762,0.4545
-2023-06-15 10:31:51.619147,Round Match-Ups - 1st Round Match-Up - L. Herbert v P. Rodgers - 1st Round Match-Up,Patrick Rodgers,0.02169999999999994,0.5455,0.5238
 2023-06-15 19:31:07.097428,US Open - 2/3 Balls - 1st Round 3 Balls - C. Young / S. Theegala / T. Kim - 1st Round 3 Balls ,Sahith Theegala,0.02030000000000004,0.3774,0.3571
 2023-06-15 19:31:04.202045,NBA Draft - NBA Draft 2023 - To Be Drafted First - Amen Thompson vs Ausar Thompson,Amen Thompson,0.018999999999999906,0.7333,0.7143
 2023-06-15 20:31:57.063675,US Open - 2/3 Balls - 1st Round 3 Balls - B. Koepka / R. McIlroy / H. Matsuyama - 1st Round 3 Balls ,Brooks Koepka,0.017299999999999982,0.4255,0.4082
@@ -41,11 +38,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-15 17:31:49.021311,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Defensive Rookie of the Year,Jack Campbell,0.014099999999999994,0.0667,0.0526
 2023-06-15 19:31:04.441718,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,"Robert Kennedy, Jr",0.013999999999999999,0.0909,0.0769
 2023-06-15 11:31:35.911473,FIBA World Cup - FIBA World Cup 2023 - Outright,Serbia,0.013899999999999996,0.125,0.1111
-2023-06-15 10:31:51.752139,Round Match-Ups - 1st Round Match-Up - M. Homa vs C. Morikawa - 1st Round Match-Up,Collin Morikawa,0.011600000000000055,0.5238,0.5122
-2023-06-15 20:31:57.244474,Round Match-Ups - 1st Round Match-Up - B. Koepka vs R. McIIroy - 1st Round Match-Up,Rory McIlroy,0.011600000000000055,0.5238,0.5122
 2023-06-15 19:31:04.285655,Joe Biden Specials - Joe Biden Approval Rating At Year End - Joe Biden Approval Rating At Year End,Over 41,0.011600000000000055,0.5238,0.5122
+2023-06-15 20:31:57.244474,Round Match-Ups - 1st Round Match-Up - B. Koepka vs R. McIIroy - 1st Round Match-Up,Rory McIlroy,0.011600000000000055,0.5238,0.5122
 2023-06-15 13:32:23.042944,Boxing Lines - Roman Fury vs Erik Nazaryan - To Win the Bout,Roman Fury,0.011199999999999988,0.9524,0.9412
-2023-06-15 10:31:51.598597,Round Match-Ups - 1st Round Match-Up - J. Smith v M. Kim - 1st Round Match-Up,Michael Kim,0.01100000000000001,0.5348,0.5238
 2023-06-15 20:31:57.244474,Round Match-Ups - 1st Round Match-Up - B. Koepka vs R. McIIroy - 1st Round Match-Up,Brooks Koepka,0.010699999999999932,0.5455,0.5348
 2023-06-15 19:31:04.066864,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Cam Whitmore,0.010599999999999998,0.4651,0.4545
 2023-06-15 19:31:07.123315,US Open - 2/3 Balls - 1st Round 3 Balls - C. Smith / M. Fitzpatrick / S. Bennett - 1st Round 3 Balls ,Matt Fitzpatrick,-0.010099999999999998,0.4444,0.4545
@@ -53,25 +48,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-15 19:31:07.368960,Round Match-Ups - 1st Round Match-Up - S. Theegala v C. Davis - 1st Round Match-Up,Cam Davis,-0.010699999999999932,0.5348,0.5455
 2023-06-15 19:31:07.079761,US Open - 2/3 Balls - 1st Round 3 Balls - W. Clark / A. Noren / A. Eckroat - 1st Round 3 Balls ,Alex Noren,-0.010699999999999987,0.3226,0.3333
 2023-06-15 19:31:07.034651,US Open - 2/3 Balls - 1st Round 3 Balls - J. Niemann / H. English / A. Meronk - 1st Round 3 Balls ,Adrian Meronk,-0.010699999999999987,0.3226,0.3333
-2023-06-15 10:31:51.752139,Round Match-Ups - 1st Round Match-Up - M. Homa vs C. Morikawa - 1st Round Match-Up,Max Homa,-0.01100000000000001,0.5238,0.5348
 2023-06-15 19:31:04.529096,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,"Robert Kennedy, Jr",-0.011199999999999995,0.0476,0.0588
 2023-06-15 17:31:47.715750,Asteroid City - Worldwide Gross On December 31st 2023 - Asteroid City Worldwide Gross,Over $75 million,-0.0116,0.4762,0.4878
 2023-06-15 17:31:48.423099,Joe Biden Specials - Joe Biden Approval Rating At Year End - Joe Biden Approval Rating At Year End,Over 41,-0.011600000000000055,0.5122,0.5238
-2023-06-15 10:31:51.598597,Round Match-Ups - 1st Round Match-Up - J. Smith v M. Kim - 1st Round Match-Up,Jordan Smith,-0.011600000000000055,0.5122,0.5238
 2023-06-15 17:31:49.021311,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Defensive Rookie of the Year,Tyree Wilson,-0.012299999999999991,0.1053,0.1176
 2023-06-15 15:31:36.913440,NBA Draft - NBA Draft 2023 - To Be Drafted First - Amen Thompson vs Ausar Thompson,Ausar Thompson,-0.012699999999999989,0.3509,0.3636
-2023-06-15 19:31:04.066864,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Ausar Thompson,-0.0131,0.2222,0.2353
 2023-06-15 17:31:47.889604,Wheel Of Fortune Specials - Next Permanent Wheel Of Fortune Host After Pat Sajak - Next Wheel Of Fortune Host,Vanna White,-0.0131,0.2222,0.2353
+2023-06-15 19:31:04.066864,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Ausar Thompson,-0.0131,0.2222,0.2353
 2023-06-15 17:31:48.461939,Donald Trump Specials - Classified Documents Trial: Date Of Prosecutor's Opening Statement - Classified Documents Trial: Date Of Opening Statement,April to June 2025,-0.013899999999999996,0.1111,0.125
-2023-06-15 10:31:50.799624,Boxing Lines - Hassan Azim vs Ruben Angulo - To Win the Bout,Ruben Angulo,-0.013999999999999999,0.0769,0.0909
 2023-06-15 19:31:04.050959,NBA Draft - NBA Draft 2023 - 4th Overall Pick,Ausar Thompson,-0.013999999999999999,0.0769,0.0909
-2023-06-15 17:31:47.889604,Wheel Of Fortune Specials - Next Permanent Wheel Of Fortune Host After Pat Sajak - Next Wheel Of Fortune Host,Wayne Brady,-0.014399999999999996,0.0625,0.0769
 2023-06-15 17:31:47.889604,Wheel Of Fortune Specials - Next Permanent Wheel Of Fortune Host After Pat Sajak - Next Wheel Of Fortune Host,Tom Bergeron,-0.014399999999999996,0.0625,0.0769
-2023-06-15 17:31:47.889604,Wheel Of Fortune Specials - Next Permanent Wheel Of Fortune Host After Pat Sajak - Next Wheel Of Fortune Host,John Michael Higgins,-0.014399999999999996,0.0625,0.0769
 2023-06-15 17:31:47.889604,Wheel Of Fortune Specials - Next Permanent Wheel Of Fortune Host After Pat Sajak - Next Wheel Of Fortune Host,Maggie Sajak,-0.014399999999999996,0.0625,0.0769
+2023-06-15 17:31:47.889604,Wheel Of Fortune Specials - Next Permanent Wheel Of Fortune Host After Pat Sajak - Next Wheel Of Fortune Host,John Michael Higgins,-0.014399999999999996,0.0625,0.0769
+2023-06-15 17:31:47.889604,Wheel Of Fortune Specials - Next Permanent Wheel Of Fortune Host After Pat Sajak - Next Wheel Of Fortune Host,Wayne Brady,-0.014399999999999996,0.0625,0.0769
 2023-06-15 19:31:07.097428,US Open - 2/3 Balls - 1st Round 3 Balls - C. Young / S. Theegala / T. Kim - 1st Round 3 Balls ,Tom Kim,-0.014900000000000024,0.3077,0.3226
 2023-06-15 17:31:47.704002,Apple Specials - Apple Vision Pro Unit Sales 2024 - Apple Vision Pro Unit Sales In 2024,"250,001 to 400,000",-0.015100000000000002,0.1667,0.1818
-2023-06-15 10:31:50.926369,Boxing Lines - Sam Goodman vs Raeese Aleem - To Win the Bout,Raeese Aleem,-0.016300000000000092,0.6063,0.6226
 2023-06-15 19:31:07.052696,US Open - 2/3 Balls - 1st Round 3 Balls - K. Bradley / P. Mickelson / P. Harrington - 1st Round 3 Balls,Padraig Harrington,-0.017299999999999982,0.2857,0.303
 2023-06-15 11:31:35.911473,FIBA World Cup - FIBA World Cup 2023 - Outright,USA,-0.01759999999999995,0.6491,0.6667
 2023-06-15 13:32:23.042944,Boxing Lines - Roman Fury vs Erik Nazaryan - To Win the Bout,Erik Nazaryan,-0.01759999999999999,0.1,0.1176
@@ -87,12 +78,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-15 19:31:07.066848,US Open - 2/3 Balls - 1st Round 3 Balls - M. Pereira / E. Grillo / M.F. de Oliveira - 1st Round 3 Balls ,Emiliano Grillo,-0.02100000000000002,0.3636,0.3846
 2023-06-15 11:31:40.234673,Round Match-Ups - 1st Round Match-Up - K. Bradley v J. Niemann - 1st Round Match-Up,Keegan Bradley,-0.02169999999999994,0.5238,0.5455
 2023-06-15 19:31:06.956549,US Open - 2/3 Balls - 1st Round 3 Balls - E. Cole / A. Schenk / T. Lawrence - 1st Round 3 Balls ,Adam Schenk,-0.02260000000000001,0.3774,0.4
-2023-06-15 10:31:51.639795,Round Match-Ups - 1st Round Match-Up - A. Wise v J. Dahmen - 1st Round Match-Up,Aaron Wise,-0.022600000000000064,0.5122,0.5348
-2023-06-15 10:31:51.777483,Round Match-Ups - 1st Round Match-Up - V. Hovland vs X. Schauffele - 1st Round Match-Up,Viktor Hovland,-0.022600000000000064,0.5122,0.5348
 2023-06-15 13:32:24.461167,US Open - 2/3 Balls - 1st Round 3 Balls - K. Bradley / P. Mickelson / P. Harrington - 1st Round 3 Balls,Keegan Bradley,-0.022699999999999998,0.4651,0.4878
 2023-06-15 19:31:04.174749,NBA Draft - NBA Draft 2023 - Draft Position - Kobe Bufkin - Draft Position,Over 16.5,-0.023799999999999988,0.3333,0.3571
 2023-06-15 19:31:07.376929,Round Match-Ups - 1st Round Match-Up - S. Theegala vs S. Burns - 1st Round Match-Up,Sahith Theegala,-0.023800000000000043,0.5,0.5238
-2023-06-15 10:31:51.619147,Round Match-Ups - 1st Round Match-Up - L. Herbert v P. Rodgers - 1st Round Match-Up,Lucas Herbert,-0.023800000000000043,0.5,0.5238
 2023-06-15 19:31:07.247169,Tournament Match-Ups - Tournament Match-Up - T. Pendrith v P. Mickelson - Tournament Match-Up,Taylor Pendrith,-0.025599999999999956,0.5744,0.6
 2023-06-15 17:31:47.889604,Wheel Of Fortune Specials - Next Permanent Wheel Of Fortune Host After Pat Sajak - Next Wheel Of Fortune Host,LeVar Burton,-0.02779999999999999,0.2222,0.25
 2023-06-15 17:31:48.440808,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,Yes,-0.027800000000000047,0.7222,0.75
