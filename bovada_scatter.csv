@@ -2,6 +2,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-15 09:31:45.806494,MLB Futures - MLB 2023 League Leaders - Most Stolen Bases in 2023,Esteury Ruiz (OAK),0.45830000000000004,0.5833,0.125
 2023-06-15 09:31:45.797181,MLB Futures - MLB 2023 League Leaders - Most Saves in 2023,Emmanuel Clase (CLE),0.3571,0.5,0.1429
 2023-06-15 09:31:45.806494,MLB Futures - MLB 2023 League Leaders - Most Stolen Bases in 2023,Ronald Acuna Jr. (ATL),0.2906,0.4444,0.1538
+2023-06-15 09:31:45.746950,MLB Futures - MLB 2023 League Leaders - Most Hits in 2023,Bo Bichette (TOR),0.23809999999999998,0.3333,0.0952
 2023-06-14 22:32:57.266776,NBA Draft - NBA Draft 2023 - Draft Position - Bilal Coulibaly - Draft Position,Over 11.5,0.2071,0.5917,0.3846
 2023-06-15 09:31:45.770361,MLB Futures - MLB 2023 League Leaders - Most RBI's in 2023,Adolis Garcia (TEX),0.1978,0.2222,0.0244
 2023-06-14 22:32:57.345093,NBA Draft - NBA Draft 2023 - Draft Position - Kobe Bufkin - Draft Position,Under 16.5,0.1862999999999999,0.7101,0.5238
@@ -11,8 +12,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-15 07:32:35.969288,MLB Futures - MLB 2023 Player Awards - American League MVP,Shohei Ohtani (LAA),0.13490000000000002,0.7778,0.6429
 2023-06-15 09:31:45.784942,MLB Futures - MLB 2023 League Leaders - Most Runs Scored in 2023,Marcus Semien (TEX),0.1215,0.1538,0.0323
 2023-06-15 09:31:45.746950,MLB Futures - MLB 2023 League Leaders - Most Hits in 2023,Ronald Acuna Jr. (ATL),0.1106,0.1429,0.0323
+2023-06-15 09:31:45.770361,MLB Futures - MLB 2023 League Leaders - Most RBI's in 2023,Yordan Alvarez (HOU),0.10910000000000002,0.2,0.0909
 2023-06-15 09:31:45.755138,MLB Futures - MLB 2023 League Leaders - Most Home Runs in 2023,Matt Olson (ATL),0.10619999999999999,0.1538,0.0476
 2023-06-15 09:31:45.770361,MLB Futures - MLB 2023 League Leaders - Most RBI's in 2023,Rafael Devers (BOS),0.09129999999999999,0.1538,0.0625
+2023-06-15 09:31:45.746950,MLB Futures - MLB 2023 League Leaders - Most Hits in 2023,Freddie Freeman (LAD),0.08979999999999999,0.1667,0.0769
 2023-06-15 07:32:35.977288,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Gunnar Henderson (BAL),0.0889,0.2,0.1111
 2023-06-14 22:32:57.323229,NBA Draft - NBA Draft 2023 - Draft Position - Jordan Hawkins - Draft Position,Over 14.5,0.08730000000000004,0.6429,0.5556
 2023-06-14 22:32:57.225512,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Cam Whitmore,0.06990000000000002,0.4545,0.3846
@@ -24,6 +27,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-14 22:32:58.928686,Boxing Lines - Oscar Alvarez Guerrero vs Jonhatan Cardoso - To Win the Bout,Jonhatan Cardoso,0.059699999999999975,0.2597,0.2
 2023-06-15 09:31:45.797181,MLB Futures - MLB 2023 League Leaders - Most Saves in 2023,Carlos Estevez (LAA),0.0573,0.0769,0.0196
 2023-06-14 22:32:57.392340,NBA Draft - NBA Draft 2023 - To Be Drafted First - Jordan Hawkins vs Keyonte George,Keyonte George,0.05689999999999995,0.5917,0.5348
+2023-06-15 09:31:45.755138,MLB Futures - MLB 2023 League Leaders - Most Home Runs in 2023,Kyle Schwarber (PHI),0.056400000000000006,0.1333,0.0769
+2023-06-15 09:31:45.755138,MLB Futures - MLB 2023 League Leaders - Most Home Runs in 2023,Pete Alonso (NYM),0.05379999999999999,0.1538,0.1
 2023-06-14 22:32:57.336184,NBA Draft - NBA Draft 2023 - Draft Position - Keyonte George - Draft Position,Under 13.5,0.04910000000000003,0.4,0.3509
 2023-06-14 22:32:57.193946,NBA Draft - NBA Draft 2023 - 2nd Overall Pick,Brandon Miller,0.04760000000000009,0.7143,0.6667
 2023-06-15 09:31:45.755138,MLB Futures - MLB 2023 League Leaders - Most Home Runs in 2023,Aaron Judge (NYY),0.04620000000000002,0.2,0.1538
@@ -34,6 +39,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-15 07:32:35.985315,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Logan Webb (SF),0.038299999999999994,0.0909,0.0526
 2023-06-15 06:31:59.377305,US Open - 2/3 Balls - 1st Round 3 Balls - P. Rodgers / R. Armour / J. Dantorp - 1st Round 3 Balls ,Patrick Rodgers,0.037800000000000056,0.5833,0.5455
 2023-06-15 06:31:58.438208,MLB Futures - MLB 2023 American League West - American League West Winner,Los Angeles Angels,0.037599999999999995,0.1429,0.1053
+2023-06-15 09:31:45.770361,MLB Futures - MLB 2023 League Leaders - Most RBI's in 2023,Pete Alonso (NYM),0.037599999999999995,0.1429,0.1053
 2023-06-15 00:31:43.880583,US Open - 2/3 Balls - 1st Round 3 Balls - T. Hatton / B. DeChambeau / F. Molinari - 1st Round 3 Balls ,Tyrrell Hatton,0.035999999999999976,0.5122,0.4762
 2023-06-15 05:31:56.064849,US Open - 2/3 Balls - 1st Round 3 Balls - J. Gumberg / B. Amat / K. Mueller - 1st Round 3 Balls ,Jordan Gumberg,0.0348,0.4348,0.4
 2023-06-15 06:31:58.447339,MLB Futures - MLB 2023 National League Central - National League Central Winner,St. Louis Cardinals,0.034100000000000005,0.125,0.0909
@@ -42,9 +48,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-15 06:31:58.429321,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,0.033299999999999996,0.8333,0.8
 2023-06-15 06:31:56.251782,NBA Draft - NBA Draft 2023 - 4th Overall Pick,Cam Whitmore,0.03210000000000002,0.4167,0.3846
 2023-06-14 23:32:29.540366,Boxing Lines - Franklin Gonzalez vs Saul Sanchez - To Win the Bout,Saul Sanchez,0.030299999999999994,0.6667,0.6364
+2023-06-14 22:32:57.244003,NBA Draft - NBA Draft 2023 - Draft Position - Anthony Black - Draft Position,Under 8.5,0.030299999999999994,0.697,0.6667
 2023-06-15 05:31:56.202437,US Open - 2/3 Balls - 1st Round 3 Balls - K. Bradley / P. Mickelson / P. Harrington - 1st Round 3 Balls,Keegan Bradley,0.030299999999999994,0.4651,0.4348
 2023-06-14 22:32:57.366047,NBA Draft - NBA Draft 2023 - To Be Drafted First - Amen Thompson vs Ausar Thompson,Ausar Thompson,0.030299999999999994,0.3636,0.3333
-2023-06-14 22:32:57.244003,NBA Draft - NBA Draft 2023 - Draft Position - Anthony Black - Draft Position,Under 8.5,0.030299999999999994,0.697,0.6667
 2023-06-15 04:31:31.071078,US Open - 2/3 Balls - 1st Round 3 Balls - C. Conners / A. Scott / G. Woodland - 1st Round 3 Balls ,Adam Scott,0.029600000000000015,0.4,0.3704
 2023-06-15 09:31:45.797181,MLB Futures - MLB 2023 League Leaders - Most Saves in 2023,Camilo Doval (SF),0.028799999999999992,0.1538,0.125
 2023-06-15 09:31:45.784942,MLB Futures - MLB 2023 League Leaders - Most Runs Scored in 2023,Yandy Diaz (TB),0.0286,0.0385,0.0099
@@ -58,8 +64,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-15 09:31:45.770361,MLB Futures - MLB 2023 League Leaders - Most RBI's in 2023,Randy Arozarena (TB),0.022900000000000004,0.0345,0.0116
 2023-06-15 06:31:56.294287,NBA Draft - NBA Draft 2023 - Draft Position - Ausar Thompson - Draft Position,Over 5.5,0.022800000000000042,0.7561,0.7333
 2023-06-15 06:32:00.104653,US Open - 2/3 Balls - 1st Round 3 Balls - K. Bradley / P. Mickelson / P. Harrington - 1st Round 3 Balls,Keegan Bradley,0.022699999999999998,0.4878,0.4651
+2023-06-15 10:31:51.639795,Round Match-Ups - 1st Round Match-Up - A. Wise v J. Dahmen - 1st Round Match-Up,Joel Dahmen,0.022600000000000064,0.5348,0.5122
+2023-06-15 10:31:51.777483,Round Match-Ups - 1st Round Match-Up - V. Hovland vs X. Schauffele - 1st Round Match-Up,Xander Schauffele,0.022600000000000064,0.5348,0.5122
 2023-06-15 06:31:58.438208,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,0.022600000000000064,0.5348,0.5122
 2023-06-14 22:32:57.352999,NBA Draft - NBA Draft 2023 - Draft Position - Taylor Hendricks - Draft Position,Over 8.5,0.021699999999999997,0.4762,0.4545
+2023-06-15 10:31:51.619147,Round Match-Ups - 1st Round Match-Up - L. Herbert v P. Rodgers - 1st Round Match-Up,Patrick Rodgers,0.02169999999999994,0.5455,0.5238
 2023-06-15 05:31:56.484731,Round Match-Ups - 1st Round Match-Up - B. DeChambeau vs S. Lowry - 1st Round Match-Up,Shane Lowry,0.02169999999999994,0.5455,0.5238
 2023-06-15 06:31:58.402155,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Baltimore Orioles,0.0208,0.0833,0.0625
 2023-06-15 01:31:41.545413,US Open - 2/3 Balls - 1st Round 3 Balls - P. Cover / D. Nyfjall / F. Capan III - 1st Round 3 Balls,Frankie Capan III,0.020699999999999996,0.4651,0.4444
@@ -80,31 +89,33 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-15 00:31:44.904944,Scores - 1st Round Score - Jon Rahm - 1st Round Score,Over 68.5,0.016100000000000003,0.6078,0.5917
 2023-06-15 09:31:45.746950,MLB Futures - MLB 2023 League Leaders - Most Hits in 2023,Shohei Ohtani (LAA),0.0159,0.0323,0.0164
 2023-06-15 06:31:58.402155,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Toronto Blue Jays,0.015700000000000006,0.1333,0.1176
-2023-06-15 06:31:58.391239,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Arizona Diamondbacks,0.015300000000000001,0.0476,0.0323
 2023-06-15 07:32:35.985315,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Corbin Burnes (MIL),0.015300000000000001,0.0476,0.0323
+2023-06-15 06:31:58.391239,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Arizona Diamondbacks,0.015300000000000001,0.0476,0.0323
 2023-06-15 03:31:03.094251,Scores - 1st Round Score - Jon Rahm - 1st Round Score,Over 68.5,0.014800000000000035,0.6226,0.6078
 2023-06-15 06:31:58.465384,MLB Futures - MLB 2023 National League West - National League West Winner,Arizona Diamondbacks,0.01469999999999999,0.25,0.2353
 2023-06-15 09:31:45.770361,MLB Futures - MLB 2023 League Leaders - Most RBI's in 2023,Sean Murphy (ATL),0.0145,0.0244,0.0099
 2023-06-15 09:31:42.790838,MLS - MLS 2023 - Winner,Seattle Sounders,0.014100000000000001,0.0526,0.0385
 2023-06-15 04:31:29.064035,NBA Draft - NBA Draft 2023 - 3rd Overall Pick,Cam Whitmore,0.014099999999999998,0.0385,0.0244
 2023-06-15 07:32:35.961655,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Joe Ryan (MIN),0.013999999999999999,0.0909,0.0769
-2023-06-15 06:31:58.411675,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Arizona Diamondbacks,0.013999999999999999,0.0909,0.0769
 2023-06-15 07:32:35.961655,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Luis Castillo (SEA),0.013999999999999999,0.0909,0.0769
+2023-06-15 06:31:58.411675,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Arizona Diamondbacks,0.013999999999999999,0.0909,0.0769
 2023-06-15 09:31:45.770361,MLB Futures - MLB 2023 League Leaders - Most RBI's in 2023,Shohei Ohtani (LAA),0.0131,0.0476,0.0345
 2023-06-15 06:31:58.402155,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Seattle Mariners,0.0131,0.0476,0.0345
 2023-06-15 00:31:44.895895,Scores - 1st Round Score - Brooks Koepka - 1st Round Score,Over 68.5,0.012700000000000045,0.6491,0.6364
 2023-06-15 04:31:31.049611,US Open - 2/3 Balls - 1st Round 3 Balls - S. Garcia / T. Hoge / S. Straka - 1st Round 3 Balls ,Sepp Straka,0.012699999999999989,0.3636,0.3509
-2023-06-15 05:31:56.214639,US Open - 2/3 Balls - 1st Round 3 Balls - M. Pereira / E. Grillo / M.F. de Oliveira - 1st Round 3 Balls ,Mito Pereira,0.012199999999999989,0.5122,0.5
 2023-06-15 04:31:30.176409,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - New York Giants,Over 7.5,0.012199999999999989,0.5122,0.5
+2023-06-15 05:31:56.214639,US Open - 2/3 Balls - 1st Round 3 Balls - M. Pereira / E. Grillo / M.F. de Oliveira - 1st Round 3 Balls ,Mito Pereira,0.012199999999999989,0.5122,0.5
 2023-06-15 06:31:58.411675,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,San Francisco Giants,0.0121,0.0556,0.0435
+2023-06-15 10:31:51.752139,Round Match-Ups - 1st Round Match-Up - M. Homa vs C. Morikawa - 1st Round Match-Up,Collin Morikawa,0.011600000000000055,0.5238,0.5122
 2023-06-14 22:33:00.010114,Round Match-Ups - 1st Round Match-Up - S. Theegala vs S. Burns - 1st Round Match-Up,Sahith Theegala,0.011600000000000055,0.5238,0.5122
-2023-06-15 09:31:45.746950,MLB Futures - MLB 2023 League Leaders - Most Hits in 2023,Nathaniel Lowe (TEX),0.011200000000000002,0.0244,0.0132
-2023-06-15 09:31:45.770361,MLB Futures - MLB 2023 League Leaders - Most RBI's in 2023,J.D. Martinez (LAD),0.011200000000000002,0.0244,0.0132
-2023-06-15 09:31:45.746950,MLB Futures - MLB 2023 League Leaders - Most Hits in 2023,Ty France (SEA),0.011200000000000002,0.0244,0.0132
 2023-06-15 09:31:45.784942,MLB Futures - MLB 2023 League Leaders - Most Runs Scored in 2023,Luis Robert Jr. (CWS),0.011200000000000002,0.0244,0.0132
+2023-06-15 09:31:45.746950,MLB Futures - MLB 2023 League Leaders - Most Hits in 2023,Nathaniel Lowe (TEX),0.011200000000000002,0.0244,0.0132
+2023-06-15 09:31:45.746950,MLB Futures - MLB 2023 League Leaders - Most Hits in 2023,Ty France (SEA),0.011200000000000002,0.0244,0.0132
+2023-06-15 09:31:45.770361,MLB Futures - MLB 2023 League Leaders - Most RBI's in 2023,J.D. Martinez (LAD),0.011200000000000002,0.0244,0.0132
 2023-06-15 06:31:58.391239,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Baltimore Orioles,0.011199999999999995,0.0435,0.0323
 2023-06-15 06:31:58.391239,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Los Angeles Angels,0.011199999999999995,0.0435,0.0323
 2023-06-14 22:32:57.256159,NBA Draft - NBA Draft 2023 - Draft Position - Ausar Thompson - Draft Position,Over 5.5,0.011099999999999999,0.7333,0.7222
+2023-06-15 10:31:51.598597,Round Match-Ups - 1st Round Match-Up - J. Smith v M. Kim - 1st Round Match-Up,Michael Kim,0.01100000000000001,0.5348,0.5238
 2023-06-15 09:31:45.797181,MLB Futures - MLB 2023 League Leaders - Most Saves in 2023,Alexis Diaz (CIN),0.010700000000000001,0.0385,0.0278
 2023-06-15 06:31:58.402155,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Tampa Bay Rays,0.010699999999999987,0.3333,0.3226
 2023-06-15 06:31:58.391239,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,San Francisco Giants,0.010600000000000002,0.0323,0.0217
@@ -113,80 +124,85 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-15 09:31:45.755138,MLB Futures - MLB 2023 League Leaders - Most Home Runs in 2023,Rafael Devers (BOS),-0.010100000000000001,0.0244,0.0345
 2023-06-15 09:31:45.797181,MLB Futures - MLB 2023 League Leaders - Most Saves in 2023,Dylan Floro (MIA),-0.0102,0.005,0.0152
 2023-06-15 05:31:52.929235,WNBA Futures - WNBA Championship 2023 - Outright Winner,Connecticut Sun,-0.0102,0.0667,0.0769
-2023-06-14 21:33:32.549853,NBA Futures - 2023/24 NBA Season - 2023-24 NBA Champion,Dallas Mavericks,-0.0102,0.0667,0.0769
 2023-06-15 04:31:31.071078,US Open - 2/3 Balls - 1st Round 3 Balls - C. Conners / A. Scott / G. Woodland - 1st Round 3 Balls ,Gary Woodland,-0.010699999999999987,0.3226,0.3333
 2023-06-15 05:31:52.929235,WNBA Futures - WNBA Championship 2023 - Outright Winner,Las Vegas Aces,-0.01100000000000001,0.5238,0.5348
 2023-06-14 22:33:00.010114,Round Match-Ups - 1st Round Match-Up - S. Theegala vs S. Burns - 1st Round Match-Up,Sam Burns,-0.01100000000000001,0.5238,0.5348
-2023-06-15 06:31:58.429321,MLB Futures - MLB 2023 American League East - American League East Winner,New York Yankees,-0.011099999999999999,0.1,0.1111
-2023-06-15 06:31:58.402155,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Minnesota Twins,-0.011099999999999999,0.0556,0.0667
+2023-06-15 10:31:51.752139,Round Match-Ups - 1st Round Match-Up - M. Homa vs C. Morikawa - 1st Round Match-Up,Max Homa,-0.01100000000000001,0.5238,0.5348
 2023-06-15 01:31:40.987730,US Open - 2/3 Balls - 1st Round 3 Balls - S. Stevens / N. Hardy / N. Dunlap - 1st Round 3 Balls ,Nick Dunlap,-0.011099999999999999,0.2667,0.2778
+2023-06-15 06:31:58.402155,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Minnesota Twins,-0.011099999999999999,0.0556,0.0667
+2023-06-15 06:31:58.429321,MLB Futures - MLB 2023 American League East - American League East Winner,New York Yankees,-0.011099999999999999,0.1,0.1111
 2023-06-15 07:32:35.993326,MLB Futures - MLB 2023 Player Awards - National League MVP,Paul Goldschmidt (STL),-0.011199999999999995,0.0323,0.0435
 2023-06-15 07:32:35.969288,MLB Futures - MLB 2023 Player Awards - American League MVP,Adley Rutschman (BAL),-0.011399999999999997,0.0164,0.0278
-2023-06-15 09:31:45.797181,MLB Futures - MLB 2023 League Leaders - Most Saves in 2023,Kendall Graveman (CWS),-0.0114,0.005,0.0164
 2023-06-15 09:31:45.755138,MLB Futures - MLB 2023 League Leaders - Most Home Runs in 2023,Teoscar Hernandez (SEA),-0.0114,0.005,0.0164
+2023-06-15 09:31:45.797181,MLB Futures - MLB 2023 League Leaders - Most Saves in 2023,Kendall Graveman (CWS),-0.0114,0.005,0.0164
 2023-06-15 06:32:00.104653,US Open - 2/3 Balls - 1st Round 3 Balls - K. Bradley / P. Mickelson / P. Harrington - 1st Round 3 Balls,Phil Mickelson,-0.01150000000000001,0.3333,0.3448
+2023-06-14 22:32:57.256159,NBA Draft - NBA Draft 2023 - Draft Position - Ausar Thompson - Draft Position,Under 5.5,-0.01150000000000001,0.3333,0.3448
 2023-06-15 00:31:43.798260,US Open - 2/3 Balls - 1st Round 3 Balls - H. Lebioda / R. Nagano / B. Henson - 1st Round 3 Balls ,Berry Henson,-0.01150000000000001,0.3333,0.3448
 2023-06-15 00:31:43.798260,US Open - 2/3 Balls - 1st Round 3 Balls - H. Lebioda / R. Nagano / B. Henson - 1st Round 3 Balls ,Ryutaro Nagano,-0.01150000000000001,0.3333,0.3448
-2023-06-14 22:32:57.256159,NBA Draft - NBA Draft 2023 - Draft Position - Ausar Thompson - Draft Position,Under 5.5,-0.01150000000000001,0.3333,0.3448
 2023-06-15 00:31:44.887409,Scores - 1st Round Score - Scottie Scheffler - 1st Round Score,Under 68.5,-0.0116,0.4762,0.4878
-2023-06-15 09:31:45.797181,MLB Futures - MLB 2023 League Leaders - Most Saves in 2023,Pete Fairbanks (TB),-0.011699999999999999,0.0079,0.0196
+2023-06-15 10:31:51.598597,Round Match-Ups - 1st Round Match-Up - J. Smith v M. Kim - 1st Round Match-Up,Jordan Smith,-0.011600000000000055,0.5122,0.5238
 2023-06-15 09:31:45.755138,MLB Futures - MLB 2023 League Leaders - Most Home Runs in 2023,Rowdy Tellez (MIL),-0.011699999999999999,0.0079,0.0196
+2023-06-15 09:31:45.797181,MLB Futures - MLB 2023 League Leaders - Most Saves in 2023,Pete Fairbanks (TB),-0.011699999999999999,0.0079,0.0196
 2023-06-15 09:31:45.746950,MLB Futures - MLB 2023 League Leaders - Most Hits in 2023,Alec Bohm (PHI),-0.0118,0.0099,0.0217
 2023-06-15 07:32:35.969288,MLB Futures - MLB 2023 Player Awards - American League MVP,Rafael Devers (BOS),-0.012100000000000001,0.0123,0.0244
 2023-06-14 22:32:57.381909,NBA Draft - NBA Draft 2023 - To Be Drafted First - Ausar Thompson vs Jarace Walker,Ausar Thompson,-0.012299999999999978,0.6429,0.6552
-2023-06-15 09:31:45.784942,MLB Futures - MLB 2023 League Leaders - Most Runs Scored in 2023,Jose Ramirez (CLE),-0.012599999999999998,0.0152,0.0278
 2023-06-15 09:31:45.770361,MLB Futures - MLB 2023 League Leaders - Most RBI's in 2023,Julio Rodriguez (SEA),-0.012599999999999998,0.0152,0.0278
+2023-06-15 09:31:45.784942,MLB Futures - MLB 2023 League Leaders - Most Runs Scored in 2023,Jose Ramirez (CLE),-0.012599999999999998,0.0152,0.0278
 2023-06-15 05:31:56.064849,US Open - 2/3 Balls - 1st Round 3 Balls - J. Gumberg / B. Amat / K. Mueller - 1st Round 3 Balls ,Bastien Amat,-0.012699999999999989,0.3509,0.3636
 2023-06-15 09:31:45.746950,MLB Futures - MLB 2023 League Leaders - Most Hits in 2023,Nolan Arenado (STL),-0.012700000000000003,0.0196,0.0323
-2023-06-14 21:33:32.549853,NBA Futures - 2023/24 NBA Season - 2023-24 NBA Champion,Boston Celtics,-0.012899999999999995,0.1538,0.1667
 2023-06-15 07:32:35.969288,MLB Futures - MLB 2023 Player Awards - American League MVP,Vladimir Guerrero Jr. (TOR),-0.012999999999999998,0.0164,0.0294
-2023-06-15 07:32:35.969288,MLB Futures - MLB 2023 Player Awards - American League MVP,Matt Chapman (TOR),-0.013,0.0066,0.0196
 2023-06-15 09:31:45.797181,MLB Futures - MLB 2023 League Leaders - Most Saves in 2023,Jorge Lopez (MIN),-0.013,0.0066,0.0196
+2023-06-15 07:32:35.969288,MLB Futures - MLB 2023 Player Awards - American League MVP,Matt Chapman (TOR),-0.013,0.0066,0.0196
 2023-06-15 09:31:45.806494,MLB Futures - MLB 2023 League Leaders - Most Stolen Bases in 2023,Marcus Semien (TEX),-0.013,0.0066,0.0196
-2023-06-15 09:31:45.784942,MLB Futures - MLB 2023 League Leaders - Most Runs Scored in 2023,Bo Bichette (TOR),-0.0131,0.0345,0.0476
 2023-06-15 09:31:45.746950,MLB Futures - MLB 2023 League Leaders - Most Hits in 2023,Paul Goldschmidt (STL),-0.0131,0.0345,0.0476
+2023-06-15 09:31:45.784942,MLB Futures - MLB 2023 League Leaders - Most Runs Scored in 2023,Bo Bichette (TOR),-0.0131,0.0345,0.0476
 2023-06-14 22:32:57.402657,NBA Draft - NBA Draft 2023 - To Be Drafted First - Rayan Rupert vs Gregory Jackson,Rayan Rupert,-0.013299999999999979,0.6296,0.6429
 2023-06-15 09:31:45.746950,MLB Futures - MLB 2023 League Leaders - Most Hits in 2023,Pete Alonso (NYM),-0.0138,0.0079,0.0217
 2023-06-15 07:32:35.961655,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Kevin Gausman (TOR),-0.013899999999999996,0.1111,0.125
 2023-06-15 07:32:35.961655,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Nathan Eovaldi (TEX),-0.013999999999999999,0.0769,0.0909
+2023-06-15 10:31:50.799624,Boxing Lines - Hassan Azim vs Ruben Angulo - To Win the Bout,Ruben Angulo,-0.013999999999999999,0.0769,0.0909
 2023-06-15 07:32:35.977288,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Esteury Ruiz (OAK),-0.014099999999999994,0.0526,0.0667
-2023-06-15 09:31:45.784942,MLB Futures - MLB 2023 League Leaders - Most Runs Scored in 2023,Rafael Devers (BOS),-0.014099999999999998,0.0244,0.0385
 2023-06-15 09:31:45.806494,MLB Futures - MLB 2023 League Leaders - Most Stolen Bases in 2023,Jorge Mateo (BAL),-0.014099999999999998,0.0244,0.0385
+2023-06-15 09:31:45.784942,MLB Futures - MLB 2023 League Leaders - Most Runs Scored in 2023,Rafael Devers (BOS),-0.014099999999999998,0.0244,0.0385
 2023-06-15 06:31:58.456286,MLB Futures - MLB 2023 National League East - National League East Winner,New York Mets,-0.014399999999999996,0.0625,0.0769
 2023-06-15 09:31:45.755138,MLB Futures - MLB 2023 League Leaders - Most Home Runs in 2023,George Springer (TOR),-0.014599999999999998,0.005,0.0196
 2023-06-15 09:31:45.806494,MLB Futures - MLB 2023 League Leaders - Most Stolen Bases in 2023,CJ Abrams (WAS),-0.014599999999999998,0.005,0.0196
 2023-06-15 09:31:45.755138,MLB Futures - MLB 2023 League Leaders - Most Home Runs in 2023,Hunter Renfroe (LAA),-0.014599999999999998,0.005,0.0196
 2023-06-15 06:31:59.377305,US Open - 2/3 Balls - 1st Round 3 Balls - P. Rodgers / R. Armour / J. Dantorp - 1st Round 3 Balls ,Ryan Armour,-0.014600000000000002,0.2632,0.2778
 2023-06-15 09:31:45.770361,MLB Futures - MLB 2023 League Leaders - Most RBI's in 2023,Alex Bregman (HOU),-0.014900000000000004,0.0196,0.0345
-2023-06-15 07:32:35.969288,MLB Futures - MLB 2023 Player Awards - American League MVP,Marcus Semien (TEX),-0.015300000000000001,0.0323,0.0476
 2023-06-15 07:32:35.993326,MLB Futures - MLB 2023 Player Awards - National League MVP,Juan Soto (SD),-0.015300000000000001,0.0323,0.0476
+2023-06-15 07:32:35.969288,MLB Futures - MLB 2023 Player Awards - American League MVP,Marcus Semien (TEX),-0.015300000000000001,0.0323,0.0476
 2023-06-15 05:31:56.214639,US Open - 2/3 Balls - 1st Round 3 Balls - M. Pereira / E. Grillo / M.F. de Oliveira - 1st Round 3 Balls ,Emiliano Grillo,-0.015400000000000025,0.3846,0.4
 2023-06-15 09:31:45.806494,MLB Futures - MLB 2023 League Leaders - Most Stolen Bases in 2023,Tim Anderson (CWS),-0.0156,0.004,0.0196
 2023-06-15 06:32:00.244856,US Open - 2/3 Balls - 1st Round 3 Balls - D. Puig / K. Vilips / O. Browne Jr - 1st Round 3 Balls ,Olin Browne Jr,-0.01629999999999998,0.2778,0.2941
+2023-06-15 10:31:50.926369,Boxing Lines - Sam Goodman vs Raeese Aleem - To Win the Bout,Raeese Aleem,-0.016300000000000092,0.6063,0.6226
 2023-06-15 09:31:45.755138,MLB Futures - MLB 2023 League Leaders - Most Home Runs in 2023,Nolan Arenado (STL),-0.0165,0.0079,0.0244
 2023-06-15 04:31:31.951111,Tournament Match-Ups - Tournament Match-Up - R. McIlroy v T. Hatton - Tournament Match-Up ,Rory McIlroy,-0.016699999999999937,0.5833,0.6
-2023-06-15 00:31:43.805574,US Open - 2/3 Balls - 1st Round 3 Balls - J. Smith / M. Kim / W. Ding - 1st Round 3 Balls ,Wenyi Ding,-0.016699999999999993,0.25,0.2667
 2023-06-15 06:31:59.377305,US Open - 2/3 Balls - 1st Round 3 Balls - P. Rodgers / R. Armour / J. Dantorp - 1st Round 3 Balls ,Jens Dantorp,-0.016699999999999993,0.25,0.2667
+2023-06-15 00:31:43.805574,US Open - 2/3 Balls - 1st Round 3 Balls - J. Smith / M. Kim / W. Ding - 1st Round 3 Balls ,Wenyi Ding,-0.016699999999999993,0.25,0.2667
 2023-06-15 09:31:45.784942,MLB Futures - MLB 2023 League Leaders - Most Runs Scored in 2023,George Springer (TOR),-0.017100000000000004,0.0152,0.0323
 2023-06-15 05:31:56.202437,US Open - 2/3 Balls - 1st Round 3 Balls - K. Bradley / P. Mickelson / P. Harrington - 1st Round 3 Balls,Padraig Harrington,-0.017299999999999982,0.2857,0.303
 2023-06-15 09:31:45.784942,MLB Futures - MLB 2023 League Leaders - Most Runs Scored in 2023,Mookie Betts (LAD),-0.01759999999999999,0.1,0.1176
-2023-06-15 07:32:35.969288,MLB Futures - MLB 2023 Player Awards - American League MVP,Adolis Garcia (TEX),-0.017800000000000003,0.0066,0.0244
+2023-06-15 09:31:45.755138,MLB Futures - MLB 2023 League Leaders - Most Home Runs in 2023,Mike Trout (LAA),-0.01759999999999999,0.1,0.1176
 2023-06-15 09:31:45.770361,MLB Futures - MLB 2023 League Leaders - Most RBI's in 2023,George Springer (TOR),-0.017800000000000003,0.0066,0.0244
+2023-06-15 07:32:35.969288,MLB Futures - MLB 2023 Player Awards - American League MVP,Adolis Garcia (TEX),-0.017800000000000003,0.0066,0.0244
 2023-06-15 09:31:45.784942,MLB Futures - MLB 2023 League Leaders - Most Runs Scored in 2023,Julio Rodriguez (SEA),-0.018099999999999998,0.0345,0.0526
 2023-06-15 07:32:35.961655,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,George Kirby,-0.018099999999999998,0.0345,0.0526
 2023-06-15 09:31:45.770361,MLB Futures - MLB 2023 League Leaders - Most RBI's in 2023,Kyle Schwarber (PHI),-0.0181,0.0164,0.0345
 2023-06-15 05:31:55.998274,US Open - 2/3 Balls - 1st Round 3 Balls - R. Fox / S. Power / M. McLean - 1st Round 3 Balls ,Seamus Power,-0.018100000000000005,0.4167,0.4348
-2023-06-15 09:31:45.746950,MLB Futures - MLB 2023 League Leaders - Most Hits in 2023,Masataka Yoshida (BOS),-0.0189,0.0196,0.0385
-2023-06-15 09:31:45.746950,MLB Futures - MLB 2023 League Leaders - Most Hits in 2023,Ozzie Albies (ATL),-0.0189,0.0196,0.0385
 2023-06-15 09:31:45.746950,MLB Futures - MLB 2023 League Leaders - Most Hits in 2023,Jeff McNeil (NYM),-0.0189,0.0196,0.0385
-2023-06-15 09:31:45.770361,MLB Futures - MLB 2023 League Leaders - Most RBI's in 2023,Paul Goldschmidt (STL),-0.0189,0.0196,0.0385
-2023-06-15 07:32:35.969288,MLB Futures - MLB 2023 Player Awards - American League MVP,Randy Arozarena (TB),-0.0189,0.0196,0.0385
 2023-06-15 09:31:45.806494,MLB Futures - MLB 2023 League Leaders - Most Stolen Bases in 2023,Starling Marte (NYM),-0.0189,0.0196,0.0385
+2023-06-15 09:31:45.746950,MLB Futures - MLB 2023 League Leaders - Most Hits in 2023,Ozzie Albies (ATL),-0.0189,0.0196,0.0385
+2023-06-15 09:31:45.770361,MLB Futures - MLB 2023 League Leaders - Most RBI's in 2023,Paul Goldschmidt (STL),-0.0189,0.0196,0.0385
+2023-06-15 09:31:45.746950,MLB Futures - MLB 2023 League Leaders - Most Hits in 2023,Masataka Yoshida (BOS),-0.0189,0.0196,0.0385
+2023-06-15 07:32:35.969288,MLB Futures - MLB 2023 Player Awards - American League MVP,Randy Arozarena (TB),-0.0189,0.0196,0.0385
 2023-06-15 05:31:56.043711,US Open - 2/3 Balls - 1st Round 3 Balls - A. Svoboda / J. Schutte / A. Yang - 1st Round 3 Balls ,Alexander Yang,-0.019000000000000017,0.2667,0.2857
 2023-06-15 09:31:45.755138,MLB Futures - MLB 2023 League Leaders - Most Home Runs in 2023,Paul Goldschmidt (STL),-0.0194,0.005,0.0244
+2023-06-15 09:31:45.746950,MLB Futures - MLB 2023 League Leaders - Most Hits in 2023,Yordan Alvarez (HOU),-0.019899999999999998,0.0079,0.0278
 2023-06-15 09:31:45.746950,MLB Futures - MLB 2023 League Leaders - Most Hits in 2023,Aaron Judge (NYY),-0.019899999999999998,0.0079,0.0278
 2023-06-15 07:32:36.001366,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Jordan Walker (STL),-0.020000000000000004,0.0123,0.0323
 2023-06-15 09:31:45.797181,MLB Futures - MLB 2023 League Leaders - Most Saves in 2023,Scott Barlow (KC),-0.020000000000000004,0.0123,0.0323
+2023-06-15 09:31:45.784942,MLB Futures - MLB 2023 League Leaders - Most Runs Scored in 2023,Yordan Alvarez (HOU),-0.0203,0.0323,0.0526
 2023-06-15 09:31:45.746950,MLB Futures - MLB 2023 League Leaders - Most Hits in 2023,Vladimir Guerrero Jr. (TOR),-0.0203,0.0323,0.0526
 2023-06-15 09:31:45.806494,MLB Futures - MLB 2023 League Leaders - Most Stolen Bases in 2023,Fernando Tatis Jr. (SD),-0.0204,0.004,0.0244
 2023-06-15 00:31:43.789218,US Open - 2/3 Balls - 1st Round 3 Balls - D. Germishuys / J. Solomon / O. Morales - 1st Round 3 Balls,Omar Morales,-0.020799999999999985,0.3125,0.3333
@@ -194,9 +210,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-15 00:31:44.904944,Scores - 1st Round Score - Jon Rahm - 1st Round Score,Under 68.5,-0.021699999999999997,0.4545,0.4762
 2023-06-15 06:31:56.313844,NBA Draft - NBA Draft 2023 - Draft Position - Cam Whitmore - Draft Position,Over 5.5,-0.021999999999999964,0.2857,0.3077
 2023-06-15 05:31:56.179335,US Open - 2/3 Balls - 1st Round 3 Balls - L. List / W. Nienaber / A. Del Rey - 1st Round 3 Balls ,Alejandro Del Rey,-0.021999999999999964,0.2857,0.3077
-2023-06-15 09:31:45.746950,MLB Futures - MLB 2023 League Leaders - Most Hits in 2023,Bobby Witt Jr. (KC),-0.022099999999999998,0.0164,0.0385
 2023-06-15 09:31:45.746950,MLB Futures - MLB 2023 League Leaders - Most Hits in 2023,Austin Riley (ATL),-0.022099999999999998,0.0164,0.0385
+2023-06-15 09:31:45.746950,MLB Futures - MLB 2023 League Leaders - Most Hits in 2023,Bobby Witt Jr. (KC),-0.022099999999999998,0.0164,0.0385
 2023-06-15 01:31:41.545413,US Open - 2/3 Balls - 1st Round 3 Balls - P. Cover / D. Nyfjall / F. Capan III - 1st Round 3 Balls,Patrick Cover,-0.022199999999999998,0.3226,0.3448
+2023-06-15 10:31:51.777483,Round Match-Ups - 1st Round Match-Up - V. Hovland vs X. Schauffele - 1st Round Match-Up,Viktor Hovland,-0.022600000000000064,0.5122,0.5348
+2023-06-15 10:31:51.639795,Round Match-Ups - 1st Round Match-Up - A. Wise v J. Dahmen - 1st Round Match-Up,Aaron Wise,-0.022600000000000064,0.5122,0.5348
 2023-06-15 09:31:45.755138,MLB Futures - MLB 2023 League Leaders - Most Home Runs in 2023,Salvador Perez (KC),-0.022799999999999997,0.005,0.0278
 2023-06-15 07:32:35.977288,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Taj Bradley,-0.023200000000000002,0.0244,0.0476
 2023-06-15 09:31:45.770361,MLB Futures - MLB 2023 League Leaders - Most RBI's in 2023,Juan Soto (SD),-0.0233,0.0152,0.0385
@@ -204,17 +222,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-14 22:32:57.225512,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Amen Thompson,-0.023800000000000016,0.1667,0.1905
 2023-06-15 05:31:56.484731,Round Match-Ups - 1st Round Match-Up - B. DeChambeau vs S. Lowry - 1st Round Match-Up,Bryson DeChambeau,-0.023800000000000043,0.5,0.5238
 2023-06-15 05:31:57.062140,Tournament Match-Ups - Tournament Match-Up - C. Smith v M. Homa - Tournament Match-Up,Max Homa,-0.023800000000000043,0.5,0.5238
+2023-06-15 10:31:51.619147,Round Match-Ups - 1st Round Match-Up - L. Herbert v P. Rodgers - 1st Round Match-Up,Lucas Herbert,-0.023800000000000043,0.5,0.5238
 2023-06-15 09:31:45.770361,MLB Futures - MLB 2023 League Leaders - Most RBI's in 2023,Kyle Tucker (HOU),-0.024,0.0385,0.0625
+2023-06-15 09:31:45.755138,MLB Futures - MLB 2023 League Leaders - Most Home Runs in 2023,Yordan Alvarez (HOU),-0.024299999999999995,0.0526,0.0769
 2023-06-15 04:31:31.940890,Tournament Match-Ups - Tournament Match-Up - J. Rose v B. DeChambeau - Tournament Match-Up ,Bryson DeChambeau,-0.024399999999999977,0.4878,0.5122
+2023-06-15 09:31:45.806494,MLB Futures - MLB 2023 League Leaders - Most Stolen Bases in 2023,Myles Straw (CLE),-0.024600000000000004,0.0099,0.0345
 2023-06-15 07:32:35.969288,MLB Futures - MLB 2023 Player Awards - American League MVP,Aaron Judge (NYY),-0.024999999999999994,0.1,0.125
 2023-06-14 23:32:29.540366,Boxing Lines - Franklin Gonzalez vs Saul Sanchez - To Win the Bout,Franklin Gonzalez,-0.025499999999999967,0.4,0.4255
-2023-06-15 05:31:56.043711,US Open - 2/3 Balls - 1st Round 3 Balls - A. Svoboda / J. Schutte / A. Yang - 1st Round 3 Balls ,Jesse Schutte,-0.02560000000000001,0.3077,0.3333
 2023-06-15 07:32:35.985315,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Zac Gallen,-0.02560000000000001,0.3077,0.3333
+2023-06-15 05:31:56.043711,US Open - 2/3 Balls - 1st Round 3 Balls - A. Svoboda / J. Schutte / A. Yang - 1st Round 3 Balls ,Jesse Schutte,-0.02560000000000001,0.3077,0.3333
 2023-06-15 05:31:56.202437,US Open - 2/3 Balls - 1st Round 3 Balls - K. Bradley / P. Mickelson / P. Harrington - 1st Round 3 Balls,Phil Mickelson,-0.02560000000000001,0.3448,0.3704
 2023-06-15 06:31:56.294287,NBA Draft - NBA Draft 2023 - Draft Position - Ausar Thompson - Draft Position,Under 5.5,-0.02560000000000001,0.3077,0.3333
 2023-06-15 09:31:45.755138,MLB Futures - MLB 2023 League Leaders - Most Home Runs in 2023,Byron Buxton (MIN),-0.0257,0.0066,0.0323
-2023-06-15 09:31:45.806494,MLB Futures - MLB 2023 League Leaders - Most Stolen Bases in 2023,Andres Gimenez (CLE),-0.0257,0.0066,0.0323
 2023-06-15 09:31:45.755138,MLB Futures - MLB 2023 League Leaders - Most Home Runs in 2023,Julio Rodriguez (SEA),-0.0257,0.0066,0.0323
+2023-06-15 09:31:45.806494,MLB Futures - MLB 2023 League Leaders - Most Stolen Bases in 2023,Andres Gimenez (CLE),-0.0257,0.0066,0.0323
 2023-06-15 00:31:43.880583,US Open - 2/3 Balls - 1st Round 3 Balls - T. Hatton / B. DeChambeau / F. Molinari - 1st Round 3 Balls ,Francesco Molinari,-0.026400000000000007,0.2062,0.2326
 2023-06-15 05:31:56.064849,US Open - 2/3 Balls - 1st Round 3 Balls - J. Gumberg / B. Amat / K. Mueller - 1st Round 3 Balls ,Kyle Mueller,-0.026500000000000024,0.3125,0.339
 2023-06-15 09:31:45.755138,MLB Futures - MLB 2023 League Leaders - Most Home Runs in 2023,Matt Chapman (TOR),-0.0273,0.005,0.0323
@@ -223,17 +244,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-15 06:31:58.447339,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,-0.027700000000000058,0.5556,0.5833
 2023-06-15 06:31:58.465384,MLB Futures - MLB 2023 National League West - National League West Winner,Los Angeles Dodgers,-0.027800000000000047,0.75,0.7778
 2023-06-15 09:31:45.806494,MLB Futures - MLB 2023 League Leaders - Most Stolen Bases in 2023,Kyle Tucker (HOU),-0.0279,0.0066,0.0345
+2023-06-15 09:31:45.806494,MLB Futures - MLB 2023 League Leaders - Most Stolen Bases in 2023,Anthony Volpe (NYY),-0.028000000000000004,0.0196,0.0476
 2023-06-15 09:31:45.755138,MLB Futures - MLB 2023 League Leaders - Most Home Runs in 2023,Ronald Acuna Jr. (ATL),-0.028000000000000004,0.0196,0.0476
 2023-06-15 09:31:45.746950,MLB Futures - MLB 2023 League Leaders - Most Hits in 2023,Mike Trout (LAA),-0.028000000000000004,0.0196,0.0476
-2023-06-15 09:31:45.806494,MLB Futures - MLB 2023 League Leaders - Most Stolen Bases in 2023,Anthony Volpe (NYY),-0.028000000000000004,0.0196,0.0476
 2023-06-14 22:32:58.943010,Boxing Lines - Franklin Gonzalez vs Saul Sanchez - To Win the Bout,Franklin Gonzalez,-0.029000000000000026,0.4255,0.4545
 2023-06-14 22:32:57.244003,NBA Draft - NBA Draft 2023 - Draft Position - Anthony Black - Draft Position,Over 8.5,-0.029600000000000015,0.3704,0.4
 2023-06-15 00:31:43.880583,US Open - 2/3 Balls - 1st Round 3 Balls - T. Hatton / B. DeChambeau / F. Molinari - 1st Round 3 Balls ,Bryson DeChambeau,-0.030799999999999994,0.3774,0.4082
-2023-06-15 09:31:45.746950,MLB Futures - MLB 2023 League Leaders - Most Hits in 2023,Kyle Tucker (HOU),-0.031200000000000002,0.0164,0.0476
 2023-06-15 07:32:35.969288,MLB Futures - MLB 2023 Player Awards - American League MVP,Mike Trout (LAA),-0.031200000000000002,0.0164,0.0476
+2023-06-15 09:31:45.746950,MLB Futures - MLB 2023 League Leaders - Most Hits in 2023,Kyle Tucker (HOU),-0.031200000000000002,0.0164,0.0476
 2023-06-14 22:32:57.225512,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Ausar Thompson,-0.031399999999999983,0.2353,0.2667
-2023-06-15 09:31:45.770361,MLB Futures - MLB 2023 League Leaders - Most RBI's in 2023,Fernando Tatis Jr. (SD),-0.0319,0.0066,0.0385
 2023-06-15 09:31:45.746950,MLB Futures - MLB 2023 League Leaders - Most Hits in 2023,Amed Rosario (CLE),-0.0319,0.0066,0.0385
+2023-06-15 09:31:45.770361,MLB Futures - MLB 2023 League Leaders - Most RBI's in 2023,Fernando Tatis Jr. (SD),-0.0319,0.0066,0.0385
 2023-06-15 09:31:45.770361,MLB Futures - MLB 2023 League Leaders - Most RBI's in 2023,Ronald Acuna Jr. (ATL),-0.032400000000000005,0.0152,0.0476
 2023-06-15 09:31:45.746950,MLB Futures - MLB 2023 League Leaders - Most Hits in 2023,Mookie Betts (LAD),-0.033,0.0196,0.0526
 2023-06-15 07:32:35.961655,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Gerrit Cole (NYY),-0.033300000000000024,0.1667,0.2
@@ -254,8 +275,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-14 22:32:57.214446,NBA Draft - NBA Draft 2023 - 4th Overall Pick,Ausar Thompson,-0.04240000000000001,0.0909,0.1333
 2023-06-15 09:31:45.755138,MLB Futures - MLB 2023 League Leaders - Most Home Runs in 2023,Giancarlo Stanton (NYY),-0.042600000000000006,0.005,0.0476
 2023-06-15 09:31:45.784942,MLB Futures - MLB 2023 League Leaders - Most Runs Scored in 2023,Fernando Tatis Jr. (SD),-0.042600000000000006,0.005,0.0476
-2023-06-15 09:31:45.797181,MLB Futures - MLB 2023 League Leaders - Most Saves in 2023,Devin Williams (MIL),-0.0429,0.0196,0.0625
 2023-06-15 09:31:45.770361,MLB Futures - MLB 2023 League Leaders - Most RBI's in 2023,Austin Riley (ATL),-0.0429,0.0196,0.0625
+2023-06-15 09:31:45.797181,MLB Futures - MLB 2023 League Leaders - Most Saves in 2023,Devin Williams (MIL),-0.0429,0.0196,0.0625
 2023-06-15 09:31:45.797181,MLB Futures - MLB 2023 League Leaders - Most Saves in 2023,David Bednar,-0.04329999999999999,0.0476,0.0909
 2023-06-15 09:31:45.806494,MLB Futures - MLB 2023 League Leaders - Most Stolen Bases in 2023,Bobby Witt Jr. (KC),-0.044599999999999994,0.0323,0.0769
 2023-06-15 09:31:45.784942,MLB Futures - MLB 2023 League Leaders - Most Runs Scored in 2023,Mike Trout (LAA),-0.0448,0.0385,0.0833
@@ -263,14 +284,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-15 09:31:45.770361,MLB Futures - MLB 2023 League Leaders - Most RBI's in 2023,Mike Trout (LAA),-0.047,0.0244,0.0714
 2023-06-15 04:31:30.196020,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - San Francisco 49ers,Under 10.5,-0.047099999999999975,0.4651,0.5122
 2023-06-14 22:32:57.336184,NBA Draft - NBA Draft 2023 - Draft Position - Keyonte George - Draft Position,Over 13.5,-0.04760000000000009,0.6667,0.7143
-2023-06-15 09:31:45.806494,MLB Futures - MLB 2023 League Leaders - Most Stolen Bases in 2023,Jon Berti (MIA),-0.0559,0.0066,0.0625
 2023-06-15 09:31:45.806494,MLB Futures - MLB 2023 League Leaders - Most Stolen Bases in 2023,Randy Arozarena (TB),-0.0559,0.0066,0.0625
-2023-06-15 09:31:45.806494,MLB Futures - MLB 2023 League Leaders - Most Stolen Bases in 2023,Tommy Edman (STL),-0.0559,0.0066,0.0625
 2023-06-15 09:31:45.806494,MLB Futures - MLB 2023 League Leaders - Most Stolen Bases in 2023,Jake McCarthy (ARIZ),-0.0559,0.0066,0.0625
+2023-06-15 09:31:45.806494,MLB Futures - MLB 2023 League Leaders - Most Stolen Bases in 2023,Jon Berti (MIA),-0.0559,0.0066,0.0625
+2023-06-15 09:31:45.806494,MLB Futures - MLB 2023 League Leaders - Most Stolen Bases in 2023,Tommy Edman (STL),-0.0559,0.0066,0.0625
 2023-06-15 09:31:45.797181,MLB Futures - MLB 2023 League Leaders - Most Saves in 2023,Ryan Pressly (HOU),-0.05639999999999999,0.0345,0.0909
 2023-06-14 22:32:58.928686,Boxing Lines - Oscar Alvarez Guerrero vs Jonhatan Cardoso - To Win the Bout,Oscar Alvarez Guerrero,-0.05720000000000003,0.8095,0.8667
-2023-06-15 09:31:45.806494,MLB Futures - MLB 2023 League Leaders - Most Stolen Bases in 2023,Julio Rodriguez (SEA),-0.0573,0.0196,0.0769
 2023-06-15 09:31:45.770361,MLB Futures - MLB 2023 League Leaders - Most RBI's in 2023,Jose Ramirez (CLE),-0.0573,0.0196,0.0769
+2023-06-15 09:31:45.806494,MLB Futures - MLB 2023 League Leaders - Most Stolen Bases in 2023,Julio Rodriguez (SEA),-0.0573,0.0196,0.0769
 2023-06-14 22:32:57.392340,NBA Draft - NBA Draft 2023 - To Be Drafted First - Jordan Hawkins vs Keyonte George,Jordan Hawkins,-0.05860000000000004,0.4762,0.5348
 2023-06-15 09:31:45.755138,MLB Futures - MLB 2023 League Leaders - Most Home Runs in 2023,Austin Riley (ATL),-0.05879999999999999,0.0079,0.0667
 2023-06-15 09:31:45.755138,MLB Futures - MLB 2023 League Leaders - Most Home Runs in 2023,Vladimir Guerrero Jr. (TOR),-0.06459999999999999,0.0123,0.0769
@@ -281,7 +302,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-15 09:31:45.784942,MLB Futures - MLB 2023 League Leaders - Most Runs Scored in 2023,Juan Soto (SD),-0.0809,0.0244,0.1053
 2023-06-15 09:31:45.806494,MLB Futures - MLB 2023 League Leaders - Most Stolen Bases in 2023,Trea Turner (PHI),-0.08299999999999999,0.0079,0.0909
 2023-06-14 22:32:57.323229,NBA Draft - NBA Draft 2023 - Draft Position - Jordan Hawkins - Draft Position,Under 14.5,-0.0867,0.4255,0.5122
+2023-06-15 09:31:45.784942,MLB Futures - MLB 2023 League Leaders - Most Runs Scored in 2023,Aaron Judge (NYY),-0.0898,0.0435,0.1333
 2023-06-15 09:31:45.806494,MLB Futures - MLB 2023 League Leaders - Most Stolen Bases in 2023,Cedric Mullins (BAL),-0.0988,0.0123,0.1111
+2023-06-15 09:31:45.746950,MLB Futures - MLB 2023 League Leaders - Most Hits in 2023,Trea Turner (PHI),-0.14709999999999998,0.0196,0.1667
 2023-06-14 22:32:57.345093,NBA Draft - NBA Draft 2023 - Draft Position - Kobe Bufkin - Draft Position,Over 16.5,-0.1884,0.3571,0.5455
 2023-06-14 22:32:57.266776,NBA Draft - NBA Draft 2023 - Draft Position - Bilal Coulibaly - Draft Position,Under 11.5,-0.20629999999999998,0.4762,0.6825
 2023-06-15 07:32:35.985315,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Spencer Strider (ATL),-0.23209999999999997,0.125,0.3571
