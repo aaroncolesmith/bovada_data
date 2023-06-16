@@ -6,16 +6,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-15 17:31:47.704002,Apple Specials - Apple Vision Pro Unit Sales 2024 - Apple Vision Pro Unit Sales In 2024,"100,000 or fewer",0.09999999999999998,0.5,0.4
 2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Jennifer Kupcho,0.06770000000000001,0.1,0.0323
 2023-06-15 17:31:47.945661,Nobel Prizes - Nobel Peace Prize - Nobel Peace Prize Winner 2023,Volodymyr Zelenskyy,0.06669999999999998,0.6667,0.6
+2023-06-16 04:32:33.941227,US Open - 2/3 Balls - 2nd Round 3 Balls - B. DeChambeau / T. Hatton / F. Molinari - 2nd Round 3 Balls,Tyrrell Hatton,0.05740000000000001,0.4348,0.3774
+2023-06-16 04:32:34.191815,US Open - 2/3 Balls - 2nd Round 3 Balls - A. Svoboda / J. Schutte / A. Yang - 2nd Round 3 Balls,Andrew Svoboda,0.05299999999999999,0.4878,0.4348
 2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Cheyenne Knight,0.044599999999999994,0.0769,0.0323
 2023-06-15 19:31:04.135646,NBA Draft - NBA Draft 2023 - Draft Position - Gradey Dick - Draft Position,Over 10.5,0.04409999999999992,0.6667,0.6226
 2023-06-15 19:31:07.376929,Round Match-Ups - 1st Round Match-Up - S. Theegala vs S. Burns - 1st Round Match-Up,Sam Burns,0.04139999999999999,0.5652,0.5238
+2023-06-16 04:32:33.412303,US Open - 2/3 Balls - 2nd Round 3 Balls - J. Niemann / H. English / A. Meronk - 2nd Round 3 Balls,Adrian Meronk,0.03710000000000002,0.3448,0.3077
+2023-06-16 04:32:33.769164,US Open - 2/3 Balls - 2nd Round 3 Balls - D. Germishuys / J. Solomon / O. Morales - 2nd Round 3 Balls,Jacob Solomon,0.03640000000000004,0.4,0.3636
 2023-06-15 19:31:07.368960,Round Match-Ups - 1st Round Match-Up - S. Theegala v C. Davis - 1st Round Match-Up,Sahith Theegala,0.03480000000000005,0.5348,0.5
+2023-06-16 04:32:33.428142,US Open - 2/3 Balls - 2nd Round 3 Balls - K. Bradley / P. Mickelson / P. Harrington - 2nd Round 3 Balls,Padraig Harrington,0.03470000000000001,0.3125,0.2778
 2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Alison Lee,0.032400000000000005,0.0476,0.0152
+2023-06-16 04:32:33.715221,US Open - 2/3 Balls - 2nd Round 3 Balls - D. Puig / K. Vilips / O. Browne - 2nd Round 3 Balls,Karl Vilips,0.032299999999999995,0.3448,0.3125
 2023-06-15 17:31:48.440808,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,No,0.032299999999999995,0.3448,0.3125
 2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Lindsey Weaver-Wright,0.0306,0.0385,0.0079
 2023-06-15 17:31:48.461939,Donald Trump Specials - Classified Documents Trial: Date Of Prosecutor's Opening Statement - Classified Documents Trial: Date Of Opening Statement,Before October 2023,0.028399999999999995,0.0909,0.0625
 2023-06-15 21:30:54.956307,Boxing Lines - Caroline Dubois vs Yanina Del Carmen Lescano - To Win the Bout,Caroline Dubois,0.028000000000000025,0.9804,0.9524
 2023-06-15 21:30:54.922751,Boxing Lines - Sam Gilley vs Ellis Corrie - To Win the Bout,Ellis Corrie,0.027999999999999997,0.1818,0.1538
+2023-06-16 04:32:34.236242,Round Match-Ups - 2nd Round Match-Up - D. Wu v R. Gerard - 2nd Round Match-Up,Dylan Wu,0.027700000000000058,0.5833,0.5556
 2023-06-15 19:31:06.956549,US Open - 2/3 Balls - 1st Round 3 Balls - E. Cole / A. Schenk / T. Lawrence - 1st Round 3 Balls ,Eric Cole,0.026600000000000013,0.4348,0.4082
 2023-06-15 19:31:07.034651,US Open - 2/3 Balls - 1st Round 3 Balls - J. Niemann / H. English / A. Meronk - 1st Round 3 Balls ,Joaquin Niemann,0.026600000000000013,0.4348,0.4082
 2023-06-15 19:31:07.325118,Round Match-Ups - 1st Round Match-Up - P. Harrington v P. Mickelson - 1st Round Match-Up,Phil Mickelson,0.023799999999999988,0.5,0.4762
@@ -26,6 +33,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-15 19:31:07.123315,US Open - 2/3 Balls - 1st Round 3 Balls - C. Smith / M. Fitzpatrick / S. Bennett - 1st Round 3 Balls ,Cameron Smith,0.022699999999999998,0.4878,0.4651
 2023-06-15 19:31:07.066848,US Open - 2/3 Balls - 1st Round 3 Balls - M. Pereira / E. Grillo / M.F. de Oliveira - 1st Round 3 Balls ,Mito Pereira,0.022600000000000064,0.5348,0.5122
 2023-06-15 19:31:07.339802,Round Match-Ups - 1st Round Match-Up - W. Clark vs M. Pereira - 1st Round Match-Up,Mito Pereira,0.022600000000000064,0.5348,0.5122
+2023-06-16 04:32:33.469405,US Open - 2/3 Balls - 2nd Round 3 Balls - W. Clark / A. Noren / A. Eckroat - 2nd Round 3 Balls,Austin Eckroat,0.02250000000000002,0.2857,0.2632
 2023-06-15 19:31:07.079761,US Open - 2/3 Balls - 1st Round 3 Balls - W. Clark / A. Noren / A. Eckroat - 1st Round 3 Balls ,Wyndham Clark,0.021699999999999997,0.4762,0.4545
 2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Amy Yang,0.021300000000000003,0.0323,0.011
 2023-06-15 19:31:07.097428,US Open - 2/3 Balls - 1st Round 3 Balls - C. Young / S. Theegala / T. Kim - 1st Round 3 Balls ,Sahith Theegala,0.02030000000000004,0.3774,0.3571
@@ -39,47 +47,52 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Carlota Ciganda,0.015300000000000001,0.0476,0.0323
 2023-06-15 19:31:04.529096,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Ron DeSantis,0.015100000000000002,0.1818,0.1667
 2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Emily Kristine Pedersen,0.014599999999999998,0.0196,0.005
-2023-06-15 15:31:39.108708,Professional Baseball - NPB 2023 - Outright,Yomiuri Giants,0.014399999999999996,0.0769,0.0625
 2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Xiyu Lin,0.014100000000000001,0.0526,0.0385
 2023-06-15 17:31:49.021311,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Defensive Rookie of the Year,Jack Campbell,0.014099999999999994,0.0667,0.0526
 2023-06-15 19:31:04.441718,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,"Robert Kennedy, Jr",0.013999999999999999,0.0909,0.0769
 2023-06-15 19:31:04.285655,Joe Biden Specials - Joe Biden Approval Rating At Year End - Joe Biden Approval Rating At Year End,Over 41,0.011600000000000055,0.5238,0.5122
 2023-06-15 20:31:57.244474,Round Match-Ups - 1st Round Match-Up - B. Koepka vs R. McIIroy - 1st Round Match-Up,Rory McIlroy,0.011600000000000055,0.5238,0.5122
 2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Minjee Lee,0.011199999999999995,0.0588,0.0476
-2023-06-16 03:31:38.782782,Round Match-Ups - 2nd Round Match-Up - M. Homa v B. DeChambeau - 2nd Round Match-Up,Max Homa,0.010699999999999932,0.5455,0.5348
 2023-06-15 20:31:57.244474,Round Match-Ups - 1st Round Match-Up - B. Koepka vs R. McIIroy - 1st Round Match-Up,Brooks Koepka,0.010699999999999932,0.5455,0.5348
+2023-06-16 03:31:38.782782,Round Match-Ups - 2nd Round Match-Up - M. Homa v B. DeChambeau - 2nd Round Match-Up,Max Homa,0.010699999999999932,0.5455,0.5348
 2023-06-15 19:31:04.066864,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Cam Whitmore,0.010599999999999998,0.4651,0.4545
 2023-06-15 19:31:07.123315,US Open - 2/3 Balls - 1st Round 3 Balls - C. Smith / M. Fitzpatrick / S. Bennett - 1st Round 3 Balls ,Matt Fitzpatrick,-0.010099999999999998,0.4444,0.4545
 2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Grace Kim,-0.0101,0.004,0.0141
 2023-06-16 00:32:31.954883,Boxing Lines - Joshua Gustave vs Remi Scholer - To Win the Bout,Remi Scholer,-0.0102,0.0667,0.0769
 2023-06-15 19:31:04.039270,NBA Draft - NBA Draft 2023 - 3rd Overall Pick,Amen Thompson,-0.0102,0.0667,0.0769
 2023-06-15 19:31:07.368960,Round Match-Ups - 1st Round Match-Up - S. Theegala v C. Davis - 1st Round Match-Up,Cam Davis,-0.010699999999999932,0.5348,0.5455
-2023-06-15 19:31:07.034651,US Open - 2/3 Balls - 1st Round 3 Balls - J. Niemann / H. English / A. Meronk - 1st Round 3 Balls ,Adrian Meronk,-0.010699999999999987,0.3226,0.3333
 2023-06-15 19:31:07.079761,US Open - 2/3 Balls - 1st Round 3 Balls - W. Clark / A. Noren / A. Eckroat - 1st Round 3 Balls ,Alex Noren,-0.010699999999999987,0.3226,0.3333
+2023-06-16 04:32:33.469405,US Open - 2/3 Balls - 2nd Round 3 Balls - W. Clark / A. Noren / A. Eckroat - 2nd Round 3 Balls,Alex Noren,-0.010699999999999987,0.3226,0.3333
+2023-06-15 19:31:07.034651,US Open - 2/3 Balls - 1st Round 3 Balls - J. Niemann / H. English / A. Meronk - 1st Round 3 Balls ,Adrian Meronk,-0.010699999999999987,0.3226,0.3333
 2023-06-15 19:31:04.529096,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,"Robert Kennedy, Jr",-0.011199999999999995,0.0476,0.0588
 2023-06-15 17:31:47.715750,Asteroid City - Worldwide Gross On December 31st 2023 - Asteroid City Worldwide Gross,Over $75 million,-0.0116,0.4762,0.4878
 2023-06-15 17:31:48.423099,Joe Biden Specials - Joe Biden Approval Rating At Year End - Joe Biden Approval Rating At Year End,Over 41,-0.011600000000000055,0.5122,0.5238
 2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Megan Khang,-0.011699999999999999,0.0079,0.0196
 2023-06-16 03:31:38.782782,Round Match-Ups - 2nd Round Match-Up - M. Homa v B. DeChambeau - 2nd Round Match-Up,Bryson DeChambeau,-0.012199999999999989,0.5,0.5122
+2023-06-16 04:32:33.469405,US Open - 2/3 Balls - 2nd Round 3 Balls - W. Clark / A. Noren / A. Eckroat - 2nd Round 3 Balls,Wyndham Clark,-0.012199999999999989,0.4878,0.5
 2023-06-15 17:31:49.021311,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Defensive Rookie of the Year,Tyree Wilson,-0.012299999999999991,0.1053,0.1176
+2023-06-16 04:32:33.769164,US Open - 2/3 Balls - 2nd Round 3 Balls - D. Germishuys / J. Solomon / O. Morales - 2nd Round 3 Balls,Deon Germishuys,-0.012699999999999989,0.3509,0.3636
+2023-06-16 04:32:33.412303,US Open - 2/3 Balls - 2nd Round 3 Balls - J. Niemann / H. English / A. Meronk - 2nd Round 3 Balls,Harris English,-0.012699999999999989,0.3509,0.3636
 2023-06-15 17:31:47.889604,Wheel Of Fortune Specials - Next Permanent Wheel Of Fortune Host After Pat Sajak - Next Wheel Of Fortune Host,Vanna White,-0.0131,0.2222,0.2353
 2023-06-15 19:31:04.066864,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Ausar Thompson,-0.0131,0.2222,0.2353
 2023-06-15 17:31:48.461939,Donald Trump Specials - Classified Documents Trial: Date Of Prosecutor's Opening Statement - Classified Documents Trial: Date Of Opening Statement,April to June 2025,-0.013899999999999996,0.1111,0.125
 2023-06-15 19:31:04.050959,NBA Draft - NBA Draft 2023 - 4th Overall Pick,Ausar Thompson,-0.013999999999999999,0.0769,0.0909
 2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Leona Maguire,-0.014100000000000001,0.0385,0.0526
-2023-06-15 17:31:47.889604,Wheel Of Fortune Specials - Next Permanent Wheel Of Fortune Host After Pat Sajak - Next Wheel Of Fortune Host,Wayne Brady,-0.014399999999999996,0.0625,0.0769
-2023-06-15 17:31:47.889604,Wheel Of Fortune Specials - Next Permanent Wheel Of Fortune Host After Pat Sajak - Next Wheel Of Fortune Host,John Michael Higgins,-0.014399999999999996,0.0625,0.0769
 2023-06-15 17:31:47.889604,Wheel Of Fortune Specials - Next Permanent Wheel Of Fortune Host After Pat Sajak - Next Wheel Of Fortune Host,Maggie Sajak,-0.014399999999999996,0.0625,0.0769
+2023-06-15 17:31:47.889604,Wheel Of Fortune Specials - Next Permanent Wheel Of Fortune Host After Pat Sajak - Next Wheel Of Fortune Host,John Michael Higgins,-0.014399999999999996,0.0625,0.0769
 2023-06-15 17:31:47.889604,Wheel Of Fortune Specials - Next Permanent Wheel Of Fortune Host After Pat Sajak - Next Wheel Of Fortune Host,Tom Bergeron,-0.014399999999999996,0.0625,0.0769
+2023-06-15 17:31:47.889604,Wheel Of Fortune Specials - Next Permanent Wheel Of Fortune Host After Pat Sajak - Next Wheel Of Fortune Host,Wayne Brady,-0.014399999999999996,0.0625,0.0769
 2023-06-15 19:31:07.097428,US Open - 2/3 Balls - 1st Round 3 Balls - C. Young / S. Theegala / T. Kim - 1st Round 3 Balls ,Tom Kim,-0.014900000000000024,0.3077,0.3226
 2023-06-15 17:31:47.704002,Apple Specials - Apple Vision Pro Unit Sales 2024 - Apple Vision Pro Unit Sales In 2024,"250,001 to 400,000",-0.015100000000000002,0.1667,0.1818
 2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Anna Nordqvist,-0.0159,0.0164,0.0323
+2023-06-16 04:32:34.191815,US Open - 2/3 Balls - 2nd Round 3 Balls - A. Svoboda / J. Schutte / A. Yang - 2nd Round 3 Balls,Alexander Yang,-0.017299999999999982,0.2857,0.303
 2023-06-15 19:31:07.052696,US Open - 2/3 Balls - 1st Round 3 Balls - K. Bradley / P. Mickelson / P. Harrington - 1st Round 3 Balls,Padraig Harrington,-0.017299999999999982,0.2857,0.303
 2023-06-15 19:31:04.202045,NBA Draft - NBA Draft 2023 - To Be Drafted First - Amen Thompson vs Ausar Thompson,Ausar Thompson,-0.017600000000000005,0.3333,0.3509
 2023-06-15 21:30:54.922751,Boxing Lines - Sam Gilley vs Ellis Corrie - To Win the Bout,Sam Gilley,-0.01760000000000006,0.8824,0.9
-2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Hyo Joo Kim,-0.018099999999999998,0.0588,0.0769
 2023-06-15 18:32:39.290715,Donald Trump Specials - Trump Specials - Trump Specials,Donald Trump to win the 2024 US presidential election and attend inauguration wearing an ankle tag,-0.018099999999999998,0.0588,0.0769
+2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Hyo Joo Kim,-0.018099999999999998,0.0588,0.0769
 2023-06-15 17:31:48.432088,Joe Biden Specials - Will Joe Biden be impeached during his first term as President? - Will Joe Biden be impeached during his first term as President?,No,-0.018199999999999994,0.8,0.8182
+2023-06-16 04:32:33.769164,US Open - 2/3 Balls - 2nd Round 3 Balls - D. Germishuys / J. Solomon / O. Morales - 2nd Round 3 Balls,Omar Morales,-0.018799999999999983,0.3448,0.3636
 2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Madelene Sagstrom,-0.0189,0.0196,0.0385
 2023-06-15 18:32:39.290715,Donald Trump Specials - Trump Specials - Trump Specials,2024 presidential election winner to pardon Donald Trump for all federal crimes before 2026,-0.018900000000000028,0.4255,0.4444
 2023-06-15 19:31:07.325118,Round Match-Ups - 1st Round Match-Up - P. Harrington v P. Mickelson - 1st Round Match-Up,Padraig Harrington,-0.01970000000000005,0.5455,0.5652
@@ -89,17 +102,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-15 18:32:39.290715,Donald Trump Specials - Trump Specials - Trump Specials,Donald Trump to be convicted of a felony and serve time in prison before 2025,-0.02100000000000002,0.3636,0.3846
 2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Charley Hull,-0.021300000000000003,0.011,0.0323
 2023-06-15 19:31:06.956549,US Open - 2/3 Balls - 1st Round 3 Balls - E. Cole / A. Schenk / T. Lawrence - 1st Round 3 Balls ,Adam Schenk,-0.02260000000000001,0.3774,0.4
+2023-06-16 04:32:34.236242,Round Match-Ups - 2nd Round Match-Up - D. Wu v R. Gerard - 2nd Round Match-Up,Ryan Gerard,-0.022699999999999998,0.4651,0.4878
 2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Hye Jin Choi,-0.023200000000000002,0.0244,0.0476
 2023-06-15 19:31:04.174749,NBA Draft - NBA Draft 2023 - Draft Position - Kobe Bufkin - Draft Position,Over 16.5,-0.023799999999999988,0.3333,0.3571
 2023-06-15 19:31:07.376929,Round Match-Ups - 1st Round Match-Up - S. Theegala vs S. Burns - 1st Round Match-Up,Sahith Theegala,-0.023800000000000043,0.5,0.5238
+2023-06-16 04:32:33.428142,US Open - 2/3 Balls - 2nd Round 3 Balls - K. Bradley / P. Mickelson / P. Harrington - 2nd Round 3 Balls,Keegan Bradley,-0.024500000000000022,0.3922,0.4167
+2023-06-16 04:32:33.412303,US Open - 2/3 Balls - 2nd Round 3 Balls - J. Niemann / H. English / A. Meronk - 2nd Round 3 Balls,Joaquin Niemann,-0.025499999999999967,0.4,0.4255
 2023-06-15 19:31:07.247169,Tournament Match-Ups - Tournament Match-Up - T. Pendrith v P. Mickelson - Tournament Match-Up,Taylor Pendrith,-0.025599999999999956,0.5744,0.6
 2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,In Gee Chun,-0.026799999999999997,0.001,0.0278
 2023-06-15 17:31:47.889604,Wheel Of Fortune Specials - Next Permanent Wheel Of Fortune Host After Pat Sajak - Next Wheel Of Fortune Host,LeVar Burton,-0.02779999999999999,0.2222,0.25
 2023-06-15 17:31:48.440808,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,Yes,-0.027800000000000047,0.7222,0.75
+2023-06-16 04:32:33.715221,US Open - 2/3 Balls - 2nd Round 3 Balls - D. Puig / K. Vilips / O. Browne - 2nd Round 3 Balls,Olin Browne Jr,-0.028599999999999987,0.2381,0.2667
 2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Nasa Hataoka,-0.029700000000000004,0.0179,0.0476
 2023-06-15 21:30:54.956307,Boxing Lines - Caroline Dubois vs Yanina Del Carmen Lescano - To Win the Bout,Yanina Del Carmen Lescano,-0.03330000000000001,0.0667,0.1
+2023-06-16 04:32:34.191815,US Open - 2/3 Balls - 2nd Round 3 Balls - A. Svoboda / J. Schutte / A. Yang - 2nd Round 3 Balls,Jesse Schutte,-0.04099999999999998,0.3226,0.3636
 2023-06-15 19:31:04.135646,NBA Draft - NBA Draft 2023 - Draft Position - Gradey Dick - Draft Position,Under 10.5,-0.044399999999999995,0.4,0.4444
 2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Lydia Ko,-0.0544,0.0123,0.0667
+2023-06-16 04:32:33.941227,US Open - 2/3 Balls - 2nd Round 3 Balls - B. DeChambeau / T. Hatton / F. Molinari - 2nd Round 3 Balls,Bryson DeChambeau,-0.06519999999999998,0.4348,0.5
 2023-06-15 17:31:47.704002,Apple Specials - Apple Vision Pro Unit Sales 2024 - Apple Vision Pro Unit Sales In 2024,"100,001 to 250,000",-0.08080000000000004,0.3636,0.4444
 2023-06-15 19:31:04.223395,NBA Draft - NBA Draft 2023 - To Be Drafted First - Ausar Thompson vs Jarace Walker,Ausar Thompson,-0.10809999999999997,0.5348,0.6429
 2023-06-15 19:31:04.234239,NBA Draft - NBA Draft 2023 - To Be Drafted First - Jordan Hawkins vs Keyonte George,Keyonte George,-0.15689999999999998,0.4348,0.5917
