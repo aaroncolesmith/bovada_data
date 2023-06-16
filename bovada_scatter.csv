@@ -16,8 +16,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-16 09:32:00.705798,US Open - 2/3 Balls - 2nd Round 3 Balls - S. W. Kim / P. Reed / M. Kuchar - 2nd Round 3 Balls ,Matt Kuchar,0.04099999999999998,0.3077,0.2667
 2023-06-16 09:32:00.531148,US Open - 2/3 Balls - 2nd Round 3 Balls - C. Pereira / I. Simmons / J.J. Grey - 2nd Round 3 Balls,Corey Pereira,0.0378,0.4545,0.4167
 2023-06-16 04:32:33.412303,US Open - 2/3 Balls - 2nd Round 3 Balls - J. Niemann / H. English / A. Meronk - 2nd Round 3 Balls,Adrian Meronk,0.03710000000000002,0.3448,0.3077
-2023-06-16 04:32:33.769164,US Open - 2/3 Balls - 2nd Round 3 Balls - D. Germishuys / J. Solomon / O. Morales - 2nd Round 3 Balls,Jacob Solomon,0.03640000000000004,0.4,0.3636
 2023-06-16 06:31:52.035458,US Open - 2/3 Balls - 2nd Round 3 Balls - B. Henson / H. Lebioda / R. Nagano - 2nd Round 3 Balls,Hank Lebioda,0.03640000000000004,0.4,0.3636
+2023-06-16 04:32:33.769164,US Open - 2/3 Balls - 2nd Round 3 Balls - D. Germishuys / J. Solomon / O. Morales - 2nd Round 3 Balls,Jacob Solomon,0.03640000000000004,0.4,0.3636
 2023-06-16 11:31:39.940232,Round Match-Ups - 2nd Round Match-Up - K. Mitchell v P. Mickelson - 2nd Round Match-Up,Keith Mitchell,0.03610000000000002,0.5917,0.5556
 2023-06-16 12:31:38.972937,Scores - 2nd Round Score - Rickie Fowler - 2nd Round Score,Under 69.5,0.03600000000000003,0.5238,0.4878
 2023-06-16 10:32:42.470548,US Open - 2/3 Balls - 2nd Round 3 Balls - S. Scheffler / M. Homa / C. Morikawa - 2nd Round 3 Balls,Scottie Scheffler,0.035999999999999976,0.5122,0.4762
@@ -27,6 +27,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-16 06:31:51.746731,US Open - 2/3 Balls - 2nd Round 3 Balls - K. Bradley / P. Mickelson / P. Harrington - 2nd Round 3 Balls,Keegan Bradley,0.033299999999999996,0.4255,0.3922
 2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Alison Lee,0.032400000000000005,0.0476,0.0152
 2023-06-16 04:32:33.715221,US Open - 2/3 Balls - 2nd Round 3 Balls - D. Puig / K. Vilips / O. Browne - 2nd Round 3 Balls,Karl Vilips,0.032299999999999995,0.3448,0.3125
+2023-06-16 13:32:39.970595,Scores - 2nd Round Score - Dustin Johnson - 2nd Round Score,Under 68.5,0.031799999999999995,0.4762,0.4444
 2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Lindsey Weaver-Wright,0.0306,0.0385,0.0079
 2023-06-16 06:31:52.300285,US Open - 2/3 Balls - 2nd Round 3 Balls - S. W. Kim / P. Reed / M. Kuchar - 2nd Round 3 Balls ,Si Woo Kim,0.030299999999999994,0.4651,0.4348
 2023-06-16 06:31:52.114819,US Open - 2/3 Balls - 2nd Round 3 Balls - P. Larrazabal / A. Svensson / H. Buckley - 2nd Round 3 Balls,Hayden Buckley,0.028299999999999992,0.3509,0.3226
@@ -38,20 +39,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-16 12:31:38.845081,Round Match-Ups - 2nd Round Match-Up - C. Conners v G. Woodland - 2nd Round Match-Up,Gary Woodland,0.024399999999999977,0.5122,0.4878
 2023-06-16 06:31:51.781934,US Open - 2/3 Balls - 2nd Round 3 Balls - W. Clark / A. Noren / A. Eckroat - 2nd Round 3 Balls,Wyndham Clark,0.024399999999999977,0.5122,0.4878
 2023-06-16 08:31:27.903167,EuroBasket Women - EuroBasket Women 2023 - Outright,Hungary (W),0.024299999999999995,0.0588,0.0345
+2023-06-16 13:32:39.611388,Round Match-Ups - 2nd Round Match-Up - J. Niemann v R. Henley - 2nd Round Match-Up,Joaquin Niemann,0.023800000000000043,0.5238,0.5
 2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Frida Kinhult,0.022799999999999997,0.0278,0.005
+2023-06-16 13:32:39.274718,US Open - 2/3 Balls - 2nd Round 3 Balls - D. Puig / K. Vilips / O. Browne - 2nd Round 3 Balls,David Puig,0.022600000000000064,0.5348,0.5122
 2023-06-16 04:32:33.469405,US Open - 2/3 Balls - 2nd Round 3 Balls - W. Clark / A. Noren / A. Eckroat - 2nd Round 3 Balls,Austin Eckroat,0.02250000000000002,0.2857,0.2632
 2023-06-16 08:31:27.903167,EuroBasket Women - EuroBasket Women 2023 - Outright,Belgium (W),0.022199999999999998,0.2222,0.2
+2023-06-16 13:32:39.285815,US Open - 2/3 Balls - 2nd Round 3 Balls - A. Truslow / A. Schaake / C. Cavaliere - 2nd Round 3 Balls,Austen Truslow,0.021699999999999997,0.4762,0.4545
 2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Amy Yang,0.021300000000000003,0.0323,0.011
+2023-06-16 13:32:39.601541,Round Match-Ups - 2nd Round Match-Up - H. English v B. Harman - 2nd Round Match-Up,Harris English,0.02079999999999993,0.5556,0.5348
 2023-06-16 08:31:27.930628,EuroBasket Women - EuroBasket Women 2023 - Winner Group C,France (W),0.020199999999999996,0.9091,0.8889
 2023-06-16 12:31:38.791369,Round Match-Ups - 2nd Round Match-Up - M. Homa v B. DeChambeau - 2nd Round Match-Up,Max Homa,0.01970000000000005,0.5652,0.5455
 2023-06-16 10:32:42.111253,US Open - 2/3 Balls - 2nd Round 3 Balls - A. Truslow / A. Schaake / C. Cavaliere - 2nd Round 3 Balls,Austen Truslow,0.019699999999999995,0.4545,0.4348
 2023-06-16 11:31:39.724904,US Open - 2/3 Balls - 2nd Round 3 Balls - B. DeChambeau / T. Hatton / F. Molinari - 2nd Round 3 Balls,Tyrrell Hatton,0.019699999999999995,0.4545,0.4348
-2023-06-16 08:31:27.903167,EuroBasket Women - EuroBasket Women 2023 - Outright,Latvia (W),0.019099999999999992,0.0667,0.0476
 2023-06-16 08:31:27.913140,EuroBasket Women - EuroBasket Women 2023 - Winner Group A,Montenegro (W),0.019099999999999992,0.0667,0.0476
 2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Hae Ran Ryu,0.019099999999999992,0.0667,0.0476
+2023-06-16 08:31:27.903167,EuroBasket Women - EuroBasket Women 2023 - Outright,Latvia (W),0.019099999999999992,0.0667,0.0476
 2023-06-16 06:31:52.343261,US Open - 2/3 Balls - 2nd Round 3 Balls - R. Fox / S. Power / M. McClean - 2nd Round 3 Balls,Seamus Power,0.018900000000000028,0.4444,0.4255
 2023-06-16 09:32:00.828908,Scores - 2nd Round Score - Dustin Johnson - 2nd Round Score,Under 68.5,0.018900000000000028,0.4444,0.4255
-2023-06-16 00:32:31.954883,Boxing Lines - Joshua Gustave vs Remi Scholer - To Win the Bout,Joshua Gustave,0.018900000000000028,0.9804,0.9615
 2023-06-16 12:31:38.861488,Round Match-Ups - 2nd Round Match-Up - S. Scheffler v J. Rahm - 2nd Round Match-Up,Scottie Scheffler,0.01880000000000004,0.5744,0.5556
 2023-06-16 08:31:27.903167,EuroBasket Women - EuroBasket Women 2023 - Outright,Czech Republic (W),0.018200000000000004,0.0476,0.0294
 2023-06-16 03:31:38.466771,US Open - 2/3 Balls - 2nd Round 3 Balls - S. W. Kim / P. Reed / M. Kuchar - 2nd Round 3 Balls ,Si Woo Kim,0.018100000000000005,0.4348,0.4167
@@ -66,36 +70,36 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-16 10:32:42.100494,US Open - 2/3 Balls - 2nd Round 3 Balls - P. Cover / F. Capan / D. Nyfjall - 2nd Round 3 Balls,Frankie Capan III,0.01419999999999999,0.3846,0.3704
 2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Xiyu Lin,0.014100000000000001,0.0526,0.0385
 2023-06-16 06:31:47.226900,NBA Draft - NBA Draft 2023 - 4th Overall Pick,Ausar Thompson,0.013999999999999999,0.0909,0.0769
-2023-06-16 12:31:38.851523,Round Match-Ups - 2nd Round Match-Up - R. Fowler v S.W. Kim - 2nd Round Match-Up,Si Woo Kim,0.012199999999999989,0.5,0.4878
 2023-06-16 12:31:38.798422,Round Match-Ups - 2nd Round Match-Up - S. Lowry v P. Reed - 2nd Round Match-Up,Patrick Reed,0.012199999999999989,0.5,0.4878
+2023-06-16 12:31:38.851523,Round Match-Ups - 2nd Round Match-Up - R. Fowler v S.W. Kim - 2nd Round Match-Up,Si Woo Kim,0.012199999999999989,0.5,0.4878
 2023-06-16 12:31:38.830698,Round Match-Ups - 2nd Round Match-Up - C. Morikawa v S. Im - 2nd Round Match-Up,Sungjae Im,0.011600000000000055,0.5238,0.5122
 2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Minjee Lee,0.011199999999999995,0.0588,0.0476
-2023-06-16 11:31:40.427983,Scores - 2nd Round Score - Viktor Hovland - 2nd Round Score,Over 68.5,0.01100000000000001,0.5348,0.5238
 2023-06-16 11:31:40.095184,Round Match-Ups - 2nd Round Match-Up - M. Kuchar v P. Rodgers - 2nd Round Match-Up,Patrick Rodgers,0.01100000000000001,0.5348,0.5238
+2023-06-16 11:31:40.427983,Scores - 2nd Round Score - Viktor Hovland - 2nd Round Score,Over 68.5,0.01100000000000001,0.5348,0.5238
+2023-06-16 03:31:38.782782,Round Match-Ups - 2nd Round Match-Up - M. Homa v B. DeChambeau - 2nd Round Match-Up,Max Homa,0.010699999999999932,0.5455,0.5348
 2023-06-16 11:31:39.986719,Round Match-Ups - 2nd Round Match-Up - J. Speith v M. Fitzpatrick - 2nd Round Match-Up,Jordan Spieth,0.010699999999999932,0.5455,0.5348
-2023-06-16 12:31:38.830698,Round Match-Ups - 2nd Round Match-Up - C. Morikawa v S. Im - 2nd Round Match-Up,Collin Morikawa,0.010699999999999932,0.5455,0.5348
 2023-06-16 11:31:40.122043,Round Match-Ups - 2nd Round Match-Up - S. Straka v T. Pieters - 2nd Round Match-Up,Sepp Straka,0.010699999999999932,0.5455,0.5348
 2023-06-16 11:31:40.162892,Round Match-Ups - 2nd Round Match-Up - A. Hadwin v S. Garcia - 2nd Round Match-Up,Adam Hadwin,0.010699999999999932,0.5455,0.5348
-2023-06-16 03:31:38.782782,Round Match-Ups - 2nd Round Match-Up - M. Homa v B. DeChambeau - 2nd Round Match-Up,Max Homa,0.010699999999999932,0.5455,0.5348
+2023-06-16 12:31:38.830698,Round Match-Ups - 2nd Round Match-Up - C. Morikawa v S. Im - 2nd Round Match-Up,Collin Morikawa,0.010699999999999932,0.5455,0.5348
 2023-06-16 11:31:40.137899,Round Match-Ups - 2nd Round Match-Up - S. Lowry v P. Reed - 2nd Round Match-Up,Shane Lowry,0.010099999999999998,0.5556,0.5455
 2023-06-16 10:32:42.122778,US Open - 2/3 Balls - 2nd Round 3 Balls - C. Pereira / I. Simmons / J.J. Grey - 2nd Round 3 Balls,Corey Pereira,-0.010099999999999998,0.4444,0.4545
 2023-06-16 12:31:38.519650,US Open - 2/3 Balls - 2nd Round 3 Balls - K. Streelman / M. Pavon / R. Ishikawa - 2nd Round 3 Balls,Ryo Ishikawa,-0.010099999999999998,0.3125,0.3226
 2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Grace Kim,-0.0101,0.004,0.0141
-2023-06-16 00:32:31.954883,Boxing Lines - Joshua Gustave vs Remi Scholer - To Win the Bout,Remi Scholer,-0.0102,0.0667,0.0769
 2023-06-16 11:31:40.427983,Scores - 2nd Round Score - Viktor Hovland - 2nd Round Score,Under 68.5,-0.010699999999999932,0.5348,0.5455
 2023-06-16 04:32:33.469405,US Open - 2/3 Balls - 2nd Round 3 Balls - W. Clark / A. Noren / A. Eckroat - 2nd Round 3 Balls,Alex Noren,-0.010699999999999987,0.3226,0.3333
 2023-06-16 10:32:42.470548,US Open - 2/3 Balls - 2nd Round 3 Balls - S. Scheffler / M. Homa / C. Morikawa - 2nd Round 3 Balls,Max Homa,-0.010699999999999987,0.3226,0.3333
 2023-06-16 10:32:42.100494,US Open - 2/3 Balls - 2nd Round 3 Balls - P. Cover / F. Capan / D. Nyfjall - 2nd Round 3 Balls,David Nyfjall,-0.01150000000000001,0.3333,0.3448
+2023-06-16 13:32:39.274718,US Open - 2/3 Balls - 2nd Round 3 Balls - D. Puig / K. Vilips / O. Browne - 2nd Round 3 Balls,Karl Vilips,-0.01150000000000001,0.3333,0.3448
 2023-06-16 11:31:40.082701,Round Match-Ups - 2nd Round Match-Up - S. Stallings v P. Larrazabal - 2nd Round Match-Up,Pablo Larrazabal,-0.0116,0.4762,0.4878
 2023-06-16 12:31:38.868404,Round Match-Ups - 2nd Round Match-Up - X. Schauffele v V. Hovland - 2nd Round Match-Up,Viktor Hovland,-0.0116,0.4762,0.4878
 2023-06-16 11:31:40.095184,Round Match-Ups - 2nd Round Match-Up - M. Kuchar v P. Rodgers - 2nd Round Match-Up,Matt Kuchar,-0.011600000000000055,0.5122,0.5238
 2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Megan Khang,-0.011699999999999999,0.0079,0.0196
 2023-06-16 08:31:27.903167,EuroBasket Women - EuroBasket Women 2023 - Outright,Israel (W),-0.012100000000000001,0.0123,0.0244
-2023-06-16 04:32:33.469405,US Open - 2/3 Balls - 2nd Round 3 Balls - W. Clark / A. Noren / A. Eckroat - 2nd Round 3 Balls,Wyndham Clark,-0.012199999999999989,0.4878,0.5
-2023-06-16 03:31:38.782782,Round Match-Ups - 2nd Round Match-Up - M. Homa v B. DeChambeau - 2nd Round Match-Up,Bryson DeChambeau,-0.012199999999999989,0.5,0.5122
-2023-06-16 06:31:52.343261,US Open - 2/3 Balls - 2nd Round 3 Balls - R. Fox / S. Power / M. McClean - 2nd Round 3 Balls,Ryan Fox,-0.012199999999999989,0.4878,0.5
 2023-06-16 11:31:40.162892,Round Match-Ups - 2nd Round Match-Up - A. Hadwin v S. Garcia - 2nd Round Match-Up,Sergio Garcia,-0.012199999999999989,0.5,0.5122
+2023-06-16 06:31:52.343261,US Open - 2/3 Balls - 2nd Round 3 Balls - R. Fox / S. Power / M. McClean - 2nd Round 3 Balls,Ryan Fox,-0.012199999999999989,0.4878,0.5
 2023-06-16 11:31:40.137899,Round Match-Ups - 2nd Round Match-Up - S. Lowry v P. Reed - 2nd Round Match-Up,Patrick Reed,-0.012199999999999989,0.4878,0.5
+2023-06-16 03:31:38.782782,Round Match-Ups - 2nd Round Match-Up - M. Homa v B. DeChambeau - 2nd Round Match-Up,Bryson DeChambeau,-0.012199999999999989,0.5,0.5122
+2023-06-16 04:32:33.469405,US Open - 2/3 Balls - 2nd Round 3 Balls - W. Clark / A. Noren / A. Eckroat - 2nd Round 3 Balls,Wyndham Clark,-0.012199999999999989,0.4878,0.5
 2023-06-16 11:31:40.122043,Round Match-Ups - 2nd Round Match-Up - S. Straka v T. Pieters - 2nd Round Match-Up,Thomas Pieters,-0.012199999999999989,0.5,0.5122
 2023-06-16 04:32:33.412303,US Open - 2/3 Balls - 2nd Round 3 Balls - J. Niemann / H. English / A. Meronk - 2nd Round 3 Balls,Harris English,-0.012699999999999989,0.3509,0.3636
 2023-06-16 04:32:33.769164,US Open - 2/3 Balls - 2nd Round 3 Balls - D. Germishuys / J. Solomon / O. Morales - 2nd Round 3 Balls,Deon Germishuys,-0.012699999999999989,0.3509,0.3636
@@ -108,6 +112,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-16 06:31:52.114819,US Open - 2/3 Balls - 2nd Round 3 Balls - P. Larrazabal / A. Svensson / H. Buckley - 2nd Round 3 Balls,Adam Svensson,-0.01419999999999999,0.3704,0.3846
 2023-06-16 06:31:51.117124,MLB Futures - MLB 2023 National League West - National League West Winner,Arizona Diamondbacks,-0.01469999999999999,0.2353,0.25
 2023-06-16 06:31:51.781934,US Open - 2/3 Balls - 2nd Round 3 Balls - W. Clark / A. Noren / A. Eckroat - 2nd Round 3 Balls,Alex Noren,-0.014900000000000024,0.3077,0.3226
+2023-06-16 13:32:39.274718,US Open - 2/3 Balls - 2nd Round 3 Balls - D. Puig / K. Vilips / O. Browne - 2nd Round 3 Balls,Olin Browne Jr,-0.015899999999999997,0.2222,0.2381
 2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Anna Nordqvist,-0.0159,0.0164,0.0323
 2023-06-16 04:32:34.191815,US Open - 2/3 Balls - 2nd Round 3 Balls - A. Svoboda / J. Schutte / A. Yang - 2nd Round 3 Balls,Alexander Yang,-0.017299999999999982,0.2857,0.303
 2023-06-16 06:31:51.024637,MLB Futures - MLB 2023 American League Central - American League Central Winner,Chicago White Sox,-0.0179,0.125,0.1429
@@ -117,10 +122,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Madelene Sagstrom,-0.0189,0.0196,0.0385
 2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Hannah Green,-0.019899999999999998,0.0079,0.0278
 2023-06-16 09:32:01.001910,Round Match-Ups - 2nd Round Match-Up - D. Wu v R. Gerard - 2nd Round Match-Up,Ryan Gerard,-0.020699999999999996,0.4444,0.4651
-2023-06-16 11:31:39.976538,Round Match-Ups - 2nd Round Match-Up - C. Smith v D. Johnson - 2nd Round Match-Up,Dustin Johnson,-0.02079999999999993,0.5348,0.5556
 2023-06-16 06:31:51.081782,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,-0.02079999999999993,0.5348,0.5556
+2023-06-16 11:31:39.976538,Round Match-Ups - 2nd Round Match-Up - C. Smith v D. Johnson - 2nd Round Match-Up,Dustin Johnson,-0.02079999999999993,0.5348,0.5556
 2023-06-16 10:32:42.111253,US Open - 2/3 Balls - 2nd Round 3 Balls - A. Truslow / A. Schaake / C. Cavaliere - 2nd Round 3 Balls,Christian Cavaliere,-0.020799999999999985,0.3125,0.3333
 2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Charley Hull,-0.021300000000000003,0.011,0.0323
+2023-06-16 13:32:39.611388,Round Match-Ups - 2nd Round Match-Up - J. Niemann v R. Henley - 2nd Round Match-Up,Russell Henley,-0.02169999999999994,0.5238,0.5455
 2023-06-16 11:31:40.010604,Round Match-Ups - 2nd Round Match-Up - R. McIlroy v T. Finau - 2nd Round Match-Up,Tony Finau,-0.021699999999999997,0.4545,0.4762
 2023-06-16 12:31:38.530650,US Open - 2/3 Balls - 2nd Round 3 Balls - B. DeChambeau / T. Hatton / F. Molinari - 2nd Round 3 Balls,Francesco Molinari,-0.022199999999999998,0.2,0.2222
 2023-06-16 10:32:42.470548,US Open - 2/3 Balls - 2nd Round 3 Balls - S. Scheffler / M. Homa / C. Morikawa - 2nd Round 3 Balls,Collin Morikawa,-0.02250000000000002,0.2632,0.2857
@@ -128,9 +134,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-16 04:32:34.236242,Round Match-Ups - 2nd Round Match-Up - D. Wu v R. Gerard - 2nd Round Match-Up,Ryan Gerard,-0.022699999999999998,0.4651,0.4878
 2023-06-16 08:31:27.903167,EuroBasket Women - EuroBasket Women 2023 - Outright,Italy (W),-0.0232,0.0435,0.0667
 2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Hye Jin Choi,-0.023200000000000002,0.0244,0.0476
+2023-06-16 13:32:39.601541,Round Match-Ups - 2nd Round Match-Up - H. English v B. Harman - 2nd Round Match-Up,Brian Harman,-0.024399999999999977,0.4878,0.5122
 2023-06-16 04:32:33.428142,US Open - 2/3 Balls - 2nd Round 3 Balls - K. Bradley / P. Mickelson / P. Harrington - 2nd Round 3 Balls,Keegan Bradley,-0.024500000000000022,0.3922,0.4167
 2023-06-16 04:32:33.412303,US Open - 2/3 Balls - 2nd Round 3 Balls - J. Niemann / H. English / A. Meronk - 2nd Round 3 Balls,Joaquin Niemann,-0.025499999999999967,0.4,0.4255
 2023-06-16 06:31:51.024637,MLB Futures - MLB 2023 American League Central - American League Central Winner,Cleveland Guardians,-0.02560000000000001,0.3077,0.3333
+2023-06-16 13:32:39.285815,US Open - 2/3 Balls - 2nd Round 3 Balls - A. Truslow / A. Schaake / C. Cavaliere - 2nd Round 3 Balls,Alex Schaake,-0.02560000000000001,0.3077,0.3333
 2023-06-16 08:31:27.939328,EuroBasket Women - EuroBasket Women 2023 - Winner Group D,Serbia (W),-0.025600000000000067,0.6667,0.6923
 2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,In Gee Chun,-0.026799999999999997,0.001,0.0278
 2023-06-16 06:31:52.300285,US Open - 2/3 Balls - 2nd Round 3 Balls - S. W. Kim / P. Reed / M. Kuchar - 2nd Round 3 Balls ,Matt Kuchar,-0.02739999999999998,0.2667,0.2941
@@ -139,9 +147,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-16 12:31:38.972937,Scores - 2nd Round Score - Rickie Fowler - 2nd Round Score,Over 69.5,-0.028900000000000037,0.5455,0.5744
 2023-06-16 02:31:21.539862,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Nasa Hataoka,-0.029700000000000004,0.0179,0.0476
 2023-06-16 09:32:00.705798,US Open - 2/3 Balls - 2nd Round 3 Balls - S. W. Kim / P. Reed / M. Kuchar - 2nd Round 3 Balls ,Patrick Reed,-0.030299999999999994,0.3333,0.3636
-2023-06-16 06:31:52.035458,US Open - 2/3 Balls - 2nd Round 3 Balls - B. Henson / H. Lebioda / R. Nagano - 2nd Round 3 Balls,Berry Henson,-0.030299999999999994,0.3333,0.3636
 2023-06-16 09:32:00.881708,Scores - 2nd Round Score - Patrick Cantlay - 2nd Round Score,Over 68.5,-0.030299999999999994,0.6364,0.6667
+2023-06-16 06:31:52.035458,US Open - 2/3 Balls - 2nd Round 3 Balls - B. Henson / H. Lebioda / R. Nagano - 2nd Round 3 Balls,Berry Henson,-0.030299999999999994,0.3333,0.3636
 2023-06-16 08:31:27.930628,EuroBasket Women - EuroBasket Women 2023 - Winner Group C,Slovenia (W),-0.030699999999999998,0.0526,0.0833
+2023-06-16 13:32:39.970595,Scores - 2nd Round Score - Dustin Johnson - 2nd Round Score,Over 68.5,-0.03090000000000004,0.5917,0.6226
 2023-06-16 08:31:27.921880,EuroBasket Women - EuroBasket Women 2023 - Winner Group B,Czech Republic (W),-0.03330000000000001,0.0667,0.1
 2023-06-16 08:31:27.913140,EuroBasket Women - EuroBasket Women 2023 - Winner Group A,Greece (W),-0.0344,0.0244,0.0588
 2023-06-16 12:31:38.932326,Scores - 2nd Round Score - Jon Rahm - 2nd Round Score,Under 68.5,-0.03479999999999994,0.5652,0.6
