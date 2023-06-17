@@ -1,132 +1,108 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-17 08:31:24.141499,EuroBasket Women - EuroBasket Women 2023 - Winner Group D,Serbia (W),0.26660000000000006,0.9333,0.6667
-2023-06-17 06:32:05.171814,MLB Futures - MLB 2023 National League West - National League West Winner,Los Angeles Dodgers,0.11250000000000004,0.8,0.6875
 2023-06-17 14:31:11.558061,Scores - 3rd Round Score - Rory McIlroy - 3rd Round Score,Under 68.5,0.09830000000000005,0.5238,0.4255
 2023-06-17 12:31:03.317057,College Baseball - College Baseball World Series -  College Baseball World Series Winner,Florida,0.0925,0.303,0.2105
 2023-06-17 08:31:26.019473,US Open - 2/3 Balls - 3rd Round 2 Balls - J. Suh v B. Harman - 3rd Round 2 Balls,Brian Harman,0.06520000000000004,0.5652,0.5
 2023-06-17 08:31:24.133646,EuroBasket Women - EuroBasket Women 2023 - Winner Group A,Greece (W),0.058899999999999994,0.0833,0.0244
 2023-06-17 13:31:27.977559,Round Match-Ups - 3rd Round Match-Up - D. Johnson vs M. Fitzpatrick - 3rd Round Match-Up,Dustin Johnson,0.05740000000000001,0.6226,0.5652
 2023-06-17 12:31:03.317057,College Baseball - College Baseball World Series -  College Baseball World Series Winner,Oral Roberts,0.05639999999999999,0.0909,0.0345
-2023-06-17 06:32:05.160779,MLB Futures - MLB 2023 National League Central - National League Central Winner,Cincinnati Reds,0.04849999999999999,0.1818,0.1333
-2023-06-17 14:31:11.513144,Scores - 3rd Round Score - Brooks Koepka - 3rd Round Score,Under 69.5,0.04700000000000004,0.5348,0.4878
 2023-06-17 16:31:00.338557,Scores - 3rd Round Score - Cameron Smith - 3rd Round Score,Under 69.5,0.04700000000000004,0.5348,0.4878
+2023-06-17 14:31:11.513144,Scores - 3rd Round Score - Brooks Koepka - 3rd Round Score,Under 69.5,0.04700000000000004,0.5348,0.4878
 2023-06-17 08:31:24.129280,EuroBasket Women - EuroBasket Women 2023 - Outright,Belgium (W),0.044499999999999984,0.2667,0.2222
-2023-06-17 14:31:10.029975,NBA Draft - NBA Draft 2023 - 3rd Overall Pick,Brandon Miller,0.043399999999999994,0.5556,0.5122
 2023-06-17 15:31:00.794020,Scores - 3rd Round Score - Rickie Fowler - 3rd Round Score,Over 70.5,0.043399999999999994,0.5556,0.5122
+2023-06-17 14:31:10.029975,NBA Draft - NBA Draft 2023 - 3rd Overall Pick,Brandon Miller,0.043399999999999994,0.5556,0.5122
 2023-06-17 13:31:28.345359,Round Match-Ups - 3rd Round Match-Up - S. Scheffler v X. Schauffele - 3rd Round Match-Up,Scottie Scheffler,0.04259999999999997,0.6078,0.5652
 2023-06-17 17:31:34.062397,NBA Specials - Off-Season Specials - Where will James Harden play next season?,Philadelphia 76ers,0.04139999999999999,0.5652,0.5238
 2023-06-17 13:31:26.591673,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Shane McClanahan (TB),0.04099999999999998,0.3077,0.2667
 2023-06-17 08:31:24.137585,EuroBasket Women - EuroBasket Women 2023 - Winner Group B,Belgium (W),0.04059999999999997,0.993,0.9524
 2023-06-17 15:31:00.882583,US Open - 2/3 Balls - 3rd Round 2 Balls - T. Fleetwood v S. Lowry - 3rd Round 2 Balls,Tommy Fleetwood,0.03959999999999997,0.5744,0.5348
-2023-06-17 06:32:05.160779,MLB Futures - MLB 2023 National League Central - National League Central Winner,Pittsburgh Pirates,0.03889999999999999,0.1818,0.1429
-2023-06-17 06:32:05.160779,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,0.036199999999999996,0.1538,0.1176
 2023-06-17 14:31:11.577000,Scores - 3rd Round Score - Tony Finau - 3rd Round Score,Under 70.5,0.03600000000000003,0.5238,0.4878
 2023-06-17 15:31:01.638442,The Match 8 - The Match 8 - Winner,Steph Curry / Klay  Thompson,0.035699999999999954,0.75,0.7143
-2023-06-17 06:32:05.149928,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,0.033399999999999985,0.8667,0.8333
 2023-06-17 13:31:26.641322,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Zac Gallen,0.030299999999999994,0.3636,0.3333
 2023-06-17 17:31:35.897810,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,0.028900000000000037,0.5744,0.5455
-2023-06-17 07:31:34.688160,Boxing Lines - Hasely Hepi vs Troy Pilcher - To Win the Bout,Troy Pilcher,0.028900000000000037,0.5744,0.5455
 2023-06-17 17:31:35.897810,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,0.027999999999999997,0.1818,0.1538
 2023-06-17 12:31:04.475572,Round Match-Ups - 3rd Round Match-Up - C. Morikawa v B. DeChambeau - 3rd Round Match-Up,Collin Morikawa,0.027700000000000058,0.5833,0.5556
 2023-06-17 13:31:26.874305,Boxing Lines - Justin Frost vs Hassan Hamdan - To Win the Bout,Hassan Hamdan,0.02739999999999998,0.7333,0.7059
 2023-06-17 08:31:26.012823,US Open - 2/3 Balls - 3rd Round 2 Balls - D. Wu v R. Nagano - 3rd Round 2 Balls,Dylan Wu,0.026499999999999968,0.6491,0.6226
-2023-06-17 06:32:05.144410,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,0.025600000000000067,0.6923,0.6667
-2023-06-17 06:32:05.166289,MLB Futures - MLB 2023 National League East - National League East Winner,Miami Marlins,0.0245,0.0833,0.0588
 2023-06-17 14:31:11.530140,Scores - 3rd Round Score - Dustin Johnson - 3rd Round Score,Under 69.5,0.024399999999999977,0.5122,0.4878
 2023-06-17 12:31:03.821609,Scores - 3rd Round Score - Rickie Fowler - 3rd Round Score,Over 70.5,0.024399999999999977,0.5122,0.4878
 2023-06-17 13:31:27.212856,Scores - 3rd Round Score - Wyndham Clark - 3rd Round Score,Over 70.5,0.024399999999999977,0.5122,0.4878
-2023-06-17 06:32:05.155355,MLB Futures - MLB 2023 American League West - American League West Winner,Los Angeles Angels,0.023799999999999988,0.1667,0.1429
-2023-06-17 07:31:34.874486,Scores - 3rd Round Score - Cameron Smith - 3rd Round Score,Under 69.5,0.022699999999999998,0.4878,0.4651
+2023-06-17 19:31:46.878260,MLB Daily Specials - MLB Daily Specials - Saturday June 17,"Kodai Senga, Mitch Keller, Hunter Greene, Blake Snell and Bobby Miller 34 +  Combined Strikeouts",0.023799999999999988,0.5,0.4762
 2023-06-17 13:31:26.677875,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Corbin Carroll (ARIZ),0.022299999999999986,0.8182,0.7959
-2023-06-17 06:32:05.166289,MLB Futures - MLB 2023 National League East - National League East Winner,Atlanta Braves,0.02189999999999992,0.9167,0.8948
-2023-06-17 16:31:00.393771,Scores - 3rd Round Score - Tony Finau - 3rd Round Score,Under 70.5,0.02169999999999994,0.5455,0.5238
 2023-06-17 14:31:09.879444,WNBA Futures - WNBA Championship 2023 - Outright Winner,Las Vegas Aces,0.02169999999999994,0.5455,0.5238
-2023-06-17 18:30:53.931152,US Open - 2/3 Balls - 3rd Round 2 Balls - E. Cole v A. Putnam - 3rd Round 2 Balls,Eric Cole,0.02079999999999993,0.5556,0.5348
-2023-06-17 14:31:10.023225,NBA Draft - NBA Draft 2023 - 2nd Overall Pick,Scoot Henderson,0.02079999999999993,0.5556,0.5348
-2023-06-17 18:30:54.030499,US Open - 2/3 Balls - 3rd Round 2 Balls - R. Fowler v W. Clark - 3rd Round 2 Balls,Rickie Fowler,0.02079999999999993,0.5556,0.5348
+2023-06-17 16:31:00.393771,Scores - 3rd Round Score - Tony Finau - 3rd Round Score,Under 70.5,0.02169999999999994,0.5455,0.5238
 2023-06-17 16:31:00.706336,Round Match-Ups - 3rd Round Match-Up - J. Rahm v P. Cantlay - 3rd Round Match-Up,Jon Rahm,0.02079999999999993,0.5556,0.5348
 2023-06-17 16:31:00.902466,Round Match-Ups - 3rd Round Match-Up - C. Smith v D. Johnson - 3rd Round Match-Up,Cameron Smith,0.02079999999999993,0.5556,0.5348
+2023-06-17 18:30:53.931152,US Open - 2/3 Balls - 3rd Round 2 Balls - E. Cole v A. Putnam - 3rd Round 2 Balls,Eric Cole,0.02079999999999993,0.5556,0.5348
+2023-06-17 18:30:54.030499,US Open - 2/3 Balls - 3rd Round 2 Balls - R. Fowler v W. Clark - 3rd Round 2 Balls,Rickie Fowler,0.02079999999999993,0.5556,0.5348
+2023-06-17 14:31:10.023225,NBA Draft - NBA Draft 2023 - 2nd Overall Pick,Scoot Henderson,0.02079999999999993,0.5556,0.5348
 2023-06-17 18:30:54.198854,Round Match-Ups - 3rd Round Match-Up - S. Bennett v C. Hoffman - 3rd Round Match-Up,Sam Bennett,0.01970000000000005,0.5652,0.5455
 2023-06-17 14:31:11.600793,Scores - 3rd Round Score - Xander Schauffele - 3rd Round Score,Under 69.5,0.01970000000000005,0.5652,0.5455
 2023-06-17 12:31:04.409667,Round Match-Ups - 3rd Round Match-Up - S. Munoz v A. Ancer - 3rd Round Match-Up,Sebastian Munoz,0.01970000000000005,0.5652,0.5455
 2023-06-17 13:31:26.626952,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Masataka Yoshida (BOS),0.019000000000000017,0.2857,0.2667
 2023-06-17 16:31:00.744252,Round Match-Ups - 3rd Round Match-Up - T. Hatton v M. Fitzpatrick - 3rd Round Match-Up,Tyrrell Hatton,0.01880000000000004,0.5744,0.5556
-2023-06-17 07:31:34.715964,Boxing Lines - Justin Frost vs Hassan Hamdan - To Win the Bout,Hassan Hamdan,0.018399999999999972,0.7059,0.6875
 2023-06-17 13:31:26.608179,MLB Futures - MLB 2023 Player Awards - American League MVP,Shohei Ohtani (LAA),0.018100000000000005,0.7959,0.7778
 2023-06-17 13:31:26.591673,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Kevin Gausman (TOR),0.0179,0.129,0.1111
 2023-06-17 14:31:11.382071,Boxing Lines - Vegas Larfield vs Jhunrille Castino - To Win the Bout,Jhunrille Castino,0.0179,0.1429,0.125
 2023-06-17 08:31:24.129280,EuroBasket Women - EuroBasket Women 2023 - Outright,Serbia (W),0.01759999999999999,0.1176,0.1
-2023-06-17 06:32:05.166289,MLB Futures - MLB 2023 National League East - National League East Winner,New York Mets,0.014899999999999997,0.0625,0.0476
+2023-06-17 19:31:46.878260,MLB Daily Specials - MLB Daily Specials - Saturday June 17,"Kodai Senga, Mitch Keller, Hunter Greene, Blake Snell and Bobby Miller 32 +  Combined Strikeouts",0.016100000000000003,0.6078,0.5917
 2023-06-17 14:31:09.879444,WNBA Futures - WNBA Championship 2023 - Outright Winner,New York Liberty,0.01419999999999999,0.3846,0.3704
-2023-06-17 07:31:34.671562,MLB Futures - MLB 2023 National League West - National League West Winner,San Francisco Giants,0.013999999999999999,0.0909,0.0769
+2023-06-17 19:31:46.878260,MLB Daily Specials - MLB Daily Specials - Saturday June 17,"Kodai Senga, Mitch Keller, Hunter Greene, Blake Snell and Bobby Miller 36 +  Combined Strikeouts",0.01419999999999999,0.3846,0.3704
 2023-06-17 12:31:03.317057,College Baseball - College Baseball World Series -  College Baseball World Series Winner,Tennessee,0.013899999999999996,0.125,0.1111
 2023-06-17 16:31:00.669661,US Open - 2/3 Balls - 3rd Round 2 Balls - D. Johnson v H. English - 3rd Round 2 Balls,Dustin Johnson,0.013799999999999923,0.6364,0.6226
-2023-06-17 07:31:34.704596,Boxing Lines - Ginny Fuchs vs Indeya Smith - To Win the Bout,Indeya Smith,0.012899999999999995,0.1667,0.1538
 2023-06-17 17:31:36.243477,US Open - 2/3 Balls - 3rd Round 2 Balls - S. Stevens v M. Moldovan - 3rd Round 2 Balls,Sam Stevens,0.012700000000000045,0.6491,0.6364
 2023-06-17 14:31:10.077479,NBA Draft - NBA Draft 2023 - Draft Position - Cason Wallace - Draft Position,Over 12.5,0.0116,0.4878,0.4762
 2023-06-17 18:30:54.048618,Round Match-Ups - 3rd Round Match-Up - K. Mitchell vs T. Kim - 3rd Round Match-Up,Tom Kim,0.01100000000000001,0.5348,0.5238
 2023-06-17 18:30:54.125598,Round Match-Ups - 3rd Round Match-Up - S. Theegala v J. Niemann - 3rd Round Match-Up,Sahith Theegala,0.010699999999999932,0.5455,0.5348
 2023-06-17 18:30:54.251698,Round Match-Ups - 3rd Round Match-Up - M.W. Lee v H. English - 3rd Round Match-Up,Min Woo Lee,0.010699999999999932,0.5455,0.5348
 2023-06-17 13:31:26.591673,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Luis Castillo (SEA),0.0102,0.0769,0.0667
-2023-06-17 06:32:05.250180,Boxing Lines - Tim Tszyu vs Carlos Ocampo - To Win the Bout,Tim Tszyu,0.010199999999999987,0.9333,0.9231
-2023-06-17 06:32:05.351683,Round Match-Ups - 3rd Round Match-Up - C. Smith vs T. Finau - 3rd Round Match-Up,Cameron Smith,0.010099999999999998,0.5556,0.5455
 2023-06-17 17:31:34.062397,NBA Specials - Off-Season Specials - Where will James Harden play next season?,Phoenix Suns,-0.010499999999999982,0.2,0.2105
 2023-06-17 13:31:26.641322,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Clayton Kershaw (LAD),-0.010899999999999993,0.1429,0.1538
 2023-06-17 08:31:24.129280,EuroBasket Women - EuroBasket Women 2023 - Outright,Hungary (W),-0.011199999999999995,0.0476,0.0588
 2023-06-17 18:30:54.186339,Round Match-Ups - 3rd Round Match-Up - C. Smith vs T. Finau - 3rd Round Match-Up,Tony Finau,-0.0116,0.4762,0.4878
 2023-06-17 18:30:54.048618,Round Match-Ups - 3rd Round Match-Up - K. Mitchell vs T. Kim - 3rd Round Match-Up,Keith Mitchell,-0.011600000000000055,0.5122,0.5238
-2023-06-17 06:32:05.166289,MLB Futures - MLB 2023 National League East - National League East Winner,Philadelphia Phillies,-0.011899999999999994,0.0714,0.0833
 2023-06-17 18:30:54.251698,Round Match-Ups - 3rd Round Match-Up - M.W. Lee v H. English - 3rd Round Match-Up,Harris English,-0.012199999999999989,0.5,0.5122
 2023-06-17 18:30:54.125598,Round Match-Ups - 3rd Round Match-Up - S. Theegala v J. Niemann - 3rd Round Match-Up,Joaquin Niemann,-0.012199999999999989,0.5,0.5122
-2023-06-17 06:32:05.351683,Round Match-Ups - 3rd Round Match-Up - C. Smith vs T. Finau - 3rd Round Match-Up,Tony Finau,-0.012199999999999989,0.4878,0.5
 2023-06-17 12:31:03.573986,Boxing Lines - Ginny Fuchs vs Indeya Smith - To Win the Bout,Indeya Smith,-0.012899999999999995,0.1538,0.1667
 2023-06-17 08:31:24.129280,EuroBasket Women - EuroBasket Women 2023 - Outright,France (W),-0.013600000000000001,0.2941,0.3077
-2023-06-17 06:32:05.250180,Boxing Lines - Tim Tszyu vs Carlos Ocampo - To Win the Bout,Carlos Ocampo,-0.015700000000000006,0.1176,0.1333
 2023-06-17 17:31:36.243477,US Open - 2/3 Balls - 3rd Round 2 Balls - S. Stevens v M. Moldovan - 3rd Round 2 Balls,Maxwell Moldovan,-0.016000000000000014,0.3922,0.4082
 2023-06-17 14:31:11.382071,Boxing Lines - Vegas Larfield vs Jhunrille Castino - To Win the Bout,Vegas Larfield,-0.01660000000000006,0.9167,0.9333
 2023-06-17 16:31:00.669661,US Open - 2/3 Balls - 3rd Round 2 Balls - D. Johnson v H. English - 3rd Round 2 Balls,Harris English,-0.017299999999999982,0.4082,0.4255
 2023-06-17 14:31:10.077479,NBA Draft - NBA Draft 2023 - Draft Position - Cason Wallace - Draft Position,Under 12.5,-0.017299999999999982,0.5744,0.5917
 2023-06-17 08:31:24.129280,EuroBasket Women - EuroBasket Women 2023 - Outright,Czech Republic (W),-0.018200000000000004,0.0294,0.0476
-2023-06-17 14:31:11.530140,Scores - 3rd Round Score - Dustin Johnson - 3rd Round Score,Over 69.5,-0.01880000000000004,0.5556,0.5744
 2023-06-17 12:31:03.821609,Scores - 3rd Round Score - Rickie Fowler - 3rd Round Score,Under 70.5,-0.01880000000000004,0.5556,0.5744
+2023-06-17 14:31:11.530140,Scores - 3rd Round Score - Dustin Johnson - 3rd Round Score,Over 69.5,-0.01880000000000004,0.5556,0.5744
 2023-06-17 13:31:27.212856,Scores - 3rd Round Score - Wyndham Clark - 3rd Round Score,Under 70.5,-0.01880000000000004,0.5556,0.5744
-2023-06-17 06:32:05.160779,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,-0.01970000000000005,0.5455,0.5652
 2023-06-17 13:31:26.591673,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Gerrit Cole (NYY),-0.02049999999999999,0.1333,0.1538
 2023-06-17 14:31:10.023225,NBA Draft - NBA Draft 2023 - 2nd Overall Pick,Brandon Miller,-0.02079999999999993,0.5348,0.5556
 2023-06-17 13:31:26.591673,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Joe Ryan (MIN),-0.0208,0.0625,0.0833
 2023-06-17 16:31:00.393771,Scores - 3rd Round Score - Tony Finau - 3rd Round Score,Over 70.5,-0.02169999999999994,0.5238,0.5455
-2023-06-17 06:32:05.155355,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,-0.022600000000000064,0.5122,0.5348
 2023-06-17 16:31:00.744252,Round Match-Ups - 3rd Round Match-Up - T. Hatton v M. Fitzpatrick - 3rd Round Match-Up,Matthew Fitzpatrick,-0.022699999999999998,0.4651,0.4878
 2023-06-17 12:31:04.475572,Round Match-Ups - 3rd Round Match-Up - C. Morikawa v B. DeChambeau - 3rd Round Match-Up,Bryson DeChambeau,-0.022699999999999998,0.4651,0.4878
-2023-06-17 06:32:05.171814,MLB Futures - MLB 2023 National League West - National League West Winner,San Francisco Giants,-0.02310000000000001,0.0769,0.1
 2023-06-17 08:31:24.133646,EuroBasket Women - EuroBasket Women 2023 - Winner Group A,Montenegro (W),-0.0232,0.0435,0.0667
 2023-06-17 12:31:04.409667,Round Match-Ups - 3rd Round Match-Up - S. Munoz v A. Ancer - 3rd Round Match-Up,Abraham Ancer,-0.023799999999999988,0.4762,0.5
-2023-06-17 13:31:26.874305,Boxing Lines - Justin Frost vs Hassan Hamdan - To Win the Bout,Justin Frost,-0.023799999999999988,0.3333,0.3571
 2023-06-17 18:30:54.198854,Round Match-Ups - 3rd Round Match-Up - S. Bennett v C. Hoffman - 3rd Round Match-Up,Charley Hoffman,-0.023799999999999988,0.4762,0.5
+2023-06-17 13:31:26.874305,Boxing Lines - Justin Frost vs Hassan Hamdan - To Win the Bout,Justin Frost,-0.023799999999999988,0.3333,0.3571
 2023-06-17 14:31:11.600793,Scores - 3rd Round Score - Xander Schauffele - 3rd Round Score,Over 69.5,-0.023800000000000043,0.5,0.5238
 2023-06-17 12:31:03.317057,College Baseball - College Baseball World Series -  College Baseball World Series Winner,Stanford,-0.0242,0.0667,0.0909
+2023-06-17 18:30:53.931152,US Open - 2/3 Balls - 3rd Round 2 Balls - E. Cole v A. Putnam - 3rd Round 2 Balls,Andrew Putnam,-0.024399999999999977,0.4878,0.5122
 2023-06-17 18:30:54.030499,US Open - 2/3 Balls - 3rd Round 2 Balls - R. Fowler v W. Clark - 3rd Round 2 Balls,Wyndham Clark,-0.024399999999999977,0.4878,0.5122
+2023-06-17 15:31:00.882583,US Open - 2/3 Balls - 3rd Round 2 Balls - T. Fleetwood v S. Lowry - 3rd Round 2 Balls,Shane Lowry,-0.024399999999999977,0.4878,0.5122
 2023-06-17 16:31:00.706336,Round Match-Ups - 3rd Round Match-Up - J. Rahm v P. Cantlay - 3rd Round Match-Up,Patrick Cantlay,-0.024399999999999977,0.4878,0.5122
 2023-06-17 16:31:00.902466,Round Match-Ups - 3rd Round Match-Up - C. Smith v D. Johnson - 3rd Round Match-Up,Dustin Johnson,-0.024399999999999977,0.4878,0.5122
-2023-06-17 15:31:00.882583,US Open - 2/3 Balls - 3rd Round 2 Balls - T. Fleetwood v S. Lowry - 3rd Round 2 Balls,Shane Lowry,-0.024399999999999977,0.4878,0.5122
-2023-06-17 18:30:53.931152,US Open - 2/3 Balls - 3rd Round 2 Balls - E. Cole v A. Putnam - 3rd Round 2 Balls,Andrew Putnam,-0.024399999999999977,0.4878,0.5122
 2023-06-17 08:31:24.137585,EuroBasket Women - EuroBasket Women 2023 - Winner Group B,Italy (W),-0.0245,0.0588,0.0833
 2023-06-17 12:31:03.317057,College Baseball - College Baseball World Series -  College Baseball World Series Winner,LSU,-0.024800000000000016,0.2105,0.2353
-2023-06-17 06:32:05.149928,MLB Futures - MLB 2023 American League East - American League East Winner,Baltimore Orioles,-0.024999999999999994,0.1,0.125
 2023-06-17 13:31:26.641322,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Spencer Strider (ATL),-0.025300000000000003,0.1176,0.1429
 2023-06-17 08:31:26.012823,US Open - 2/3 Balls - 3rd Round 2 Balls - D. Wu v R. Nagano - 3rd Round 2 Balls,Ryutaro Nagano,-0.025499999999999967,0.4,0.4255
-2023-06-17 07:31:34.874486,Scores - 3rd Round Score - Cameron Smith - 3rd Round Score,Over 69.5,-0.025599999999999956,0.5744,0.6
 2023-06-17 13:31:26.626952,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Josh Jung (TEX),-0.02560000000000001,0.3077,0.3333
 2023-06-17 14:31:11.577000,Scores - 3rd Round Score - Tony Finau - 3rd Round Score,Over 70.5,-0.028900000000000037,0.5455,0.5744
-2023-06-17 07:31:34.688160,Boxing Lines - Hasely Hepi vs Troy Pilcher - To Win the Bout,Hasely Hepi,-0.03600000000000003,0.4878,0.5238
 2023-06-17 17:31:34.062397,NBA Specials - Off-Season Specials - Where will James Harden play next season?,Houston Rockets,-0.03640000000000004,0.3636,0.4
 2023-06-17 13:31:26.608179,MLB Futures - MLB 2023 Player Awards - American League MVP,Aaron Judge (NYY),-0.037500000000000006,0.0625,0.1
 2023-06-17 16:31:00.338557,Scores - 3rd Round Score - Cameron Smith - 3rd Round Score,Over 69.5,-0.03959999999999997,0.5348,0.5744
 2023-06-17 15:31:01.638442,The Match 8 - The Match 8 - Winner,Patrick Mahomes / Travis Kelce,-0.04099999999999998,0.3226,0.3636
 2023-06-17 13:31:28.345359,Round Match-Ups - 3rd Round Match-Up - S. Scheffler v X. Schauffele - 3rd Round Match-Up,Xander Schauffele,-0.04139999999999999,0.4348,0.4762
-2023-06-17 06:32:05.171814,MLB Futures - MLB 2023 National League West - National League West Winner,San Diego Padres,-0.042899999999999994,0.1,0.1429
-2023-06-17 15:31:00.794020,Scores - 3rd Round Score - Rickie Fowler - 3rd Round Score,Under 70.5,-0.043399999999999994,0.5122,0.5556
 2023-06-17 14:31:10.029975,NBA Draft - NBA Draft 2023 - 3rd Overall Pick,Scoot Henderson,-0.043399999999999994,0.5122,0.5556
+2023-06-17 15:31:00.794020,Scores - 3rd Round Score - Rickie Fowler - 3rd Round Score,Under 70.5,-0.043399999999999994,0.5122,0.5556
 2023-06-17 08:31:24.133646,EuroBasket Women - EuroBasket Women 2023 - Winner Group A,Latvia (W),-0.04799999999999993,0.6923,0.7403
 2023-06-17 17:31:35.897810,MLB Futures - MLB 2023 National League Central - National League Central Winner,Cincinnati Reds,-0.04849999999999999,0.1333,0.1818
 2023-06-17 13:31:27.977559,Round Match-Ups - 3rd Round Match-Up - D. Johnson vs M. Fitzpatrick - 3rd Round Match-Up,Matthew Fitzpatrick,-0.05070000000000002,0.4255,0.4762
