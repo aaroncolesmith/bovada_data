@@ -17,8 +17,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-18 17:31:53.675535,Round Match-Ups - Final Round Match-Up - C. Smith v D. Johnson - Final Round Match-Up,Cameron Smith,0.030399999999999983,0.5652,0.5348
 2023-06-18 17:31:53.457445,US Open - 2/3 Balls - Final Round 2 Balls - T. Finau v S. Lowry - Final Round 2 Balls,Tony Finau,0.030399999999999983,0.5652,0.5348
 2023-06-18 16:32:21.193372,MLB Futures - MLB 2023 National League West - National League West Winner,San Diego Padres,0.027800000000000005,0.1111,0.0833
-2023-06-18 14:31:54.244684,US Open - 2/3 Balls - Final Round 2 Balls - B. Koepka v T. Hatton - Final Round 2 Balls,Brooks Koepka,0.027700000000000058,0.5833,0.5556
 2023-06-18 15:31:58.798484,US Open - 2/3 Balls - Final Round 2 Balls - S. Scheffler v R. McIlroy - Final Round 2 Balls,Scottie Scheffler,0.027700000000000058,0.5833,0.5556
+2023-06-18 14:31:54.244684,US Open - 2/3 Balls - Final Round 2 Balls - B. Koepka v T. Hatton - Final Round 2 Balls,Brooks Koepka,0.027700000000000058,0.5833,0.5556
 2023-06-18 14:31:54.644505,Scores - Final Round Score - Wyndham Clark - Final Round Score,Over 70.5,0.026499999999999968,0.5917,0.5652
 2023-06-18 17:31:53.369818,US Open - 2/3 Balls - Final Round 2 Balls - T. Fleetwood v S. Stevens - Final Round 2 Balls,Tommy Fleetwood,0.026499999999999968,0.6491,0.6226
 2023-06-18 17:31:53.192802,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Milwaukee Brewers,0.024299999999999995,0.0769,0.0526
@@ -26,52 +26,53 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-18 14:31:54.580790,Scores - Final Round Score - Bryson DeChambeau - Final Round Score,Over 70.5,0.023800000000000043,0.5238,0.5
 2023-06-18 16:32:21.174806,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,0.023800000000000016,0.1905,0.1667
 2023-06-18 14:31:54.596890,Scores - Final Round Score - Cameron Smith - Final Round Score,Under 69.5,0.023799999999999988,0.5,0.4762
-2023-06-18 16:32:22.067661,Round Match-Ups - Final Round Match-Up - T. Finau v C. Morikawa - Final Round Match-Up,Collin Morikawa,0.022600000000000064,0.5348,0.5122
 2023-06-18 11:31:55.873878,US Open - 2/3 Balls - Final Round 2 Balls - M. Fitzpatrick v C. Morikawa - Final Round 2 Balls,Collin Morikawa,0.022600000000000064,0.5348,0.5122
-2023-06-18 18:31:51.408325,Round Match-Ups - Final Round Match-Up - C. Young v S. Burns - Final Round Match-Up,Sam Burns,0.022600000000000064,0.5348,0.5122
+2023-06-18 16:32:22.067661,Round Match-Ups - Final Round Match-Up - T. Finau v C. Morikawa - Final Round Match-Up,Collin Morikawa,0.022600000000000064,0.5348,0.5122
 2023-06-18 16:32:21.863692,Round Match-Ups - Final Round Match-Up - C. Hoffman v S. Bennett - Final Round Match-Up,Charley Hoffman,0.022600000000000064,0.5348,0.5122
-2023-06-18 14:31:54.086698,US Open - 2/3 Balls - Final Round 2 Balls - P. Reed v J. Solomon - Final Round 2 Balls,Patrick Reed,0.02080000000000004,0.6875,0.6667
+2023-06-18 18:31:51.408325,Round Match-Ups - Final Round Match-Up - C. Young v S. Burns - Final Round Match-Up,Sam Burns,0.022600000000000064,0.5348,0.5122
 2023-06-18 15:31:58.745269,US Open - 2/3 Balls - Final Round 2 Balls - P. Cantlay v P. Harrington - Final Round 2 Balls,Patrick Cantlay,0.02080000000000004,0.6875,0.6667
+2023-06-18 14:31:54.086698,US Open - 2/3 Balls - Final Round 2 Balls - P. Reed v J. Solomon - Final Round 2 Balls,Patrick Reed,0.02080000000000004,0.6875,0.6667
 2023-06-18 17:31:53.465639,US Open - 2/3 Balls - Final Round 2 Balls - M. Fitzpatrick v C. Morikawa - Final Round 2 Balls,Collin Morikawa,0.02079999999999993,0.5556,0.5348
-2023-06-18 16:32:22.108650,Round Match-Ups - Final Round Match-Up - H. Matsuyama v B. DeChambeau - Final Round Match-Up,Hideki Matsuyama,0.01970000000000005,0.5652,0.5455
 2023-06-18 17:31:53.699317,Round Match-Ups - Final Round Match-Up - R. McIlroy v X. Schauffele - Final Round Match-Up,Rory McIlroy,0.01970000000000005,0.5652,0.5455
+2023-06-18 16:32:22.108650,Round Match-Ups - Final Round Match-Up - H. Matsuyama v B. DeChambeau - Final Round Match-Up,Hideki Matsuyama,0.01970000000000005,0.5652,0.5455
 2023-06-18 14:31:54.563872,Round Match-Ups - Final Round Match-Up - W. Clark v H. English - Final Round Match-Up,Wyndham Clark,0.01970000000000005,0.5652,0.5455
 2023-06-18 19:33:08.201612,NBA Draft - NBA Draft 2023 - To Be Drafted First - Rayan Rupert vs Gregory Jackson,Gregory Jackson,0.019699999999999995,0.4545,0.4348
 2023-06-18 16:32:21.983446,Round Match-Ups - Final Round Match-Up - R. Henley v R. Fox - Final Round Match-Up,Russell Henley,0.01880000000000004,0.5744,0.5556
-2023-06-18 13:31:30.678365,US Open - 2/3 Balls - Final Round 2 Balls - J. Smith v S. Bennett - Final Round 2 Balls,Jordan Smith,0.018100000000000005,0.5833,0.5652
 2023-06-18 15:31:58.689573,US Open - 2/3 Balls - Final Round 2 Balls - S. Burns v K. Mitchell - Final Round 2 Balls,Sam Burns,0.018100000000000005,0.5833,0.5652
+2023-06-18 13:31:30.678365,US Open - 2/3 Balls - Final Round 2 Balls - J. Smith v S. Bennett - Final Round 2 Balls,Jordan Smith,0.018100000000000005,0.5833,0.5652
 2023-06-18 17:31:53.586051,Round Match-Ups - Final Round Match-Up - R. Henley v R. Fox - Final Round Match-Up,Russell Henley,0.017299999999999982,0.5917,0.5744
-2023-06-18 17:31:53.424490,US Open - 2/3 Balls - Final Round 2 Balls - S. Burns v K. Mitchell - Final Round 2 Balls,Sam Burns,0.016699999999999937,0.6,0.5833
 2023-06-18 14:31:54.149776,US Open - 2/3 Balls - Final Round 2 Balls - S. Munoz v N. Hardy - Final Round 2 Balls,Sebastian Munoz,0.016699999999999937,0.6,0.5833
+2023-06-18 17:31:53.424490,US Open - 2/3 Balls - Final Round 2 Balls - S. Burns v K. Mitchell - Final Round 2 Balls,Sam Burns,0.016699999999999937,0.6,0.5833
 2023-06-18 16:32:21.162872,MLB Futures - MLB 2023 American League West - American League West Winner,Seattle Mariners,0.014099999999999994,0.0667,0.0526
 2023-06-18 14:31:54.160349,US Open - 2/3 Balls - Final Round 2 Balls - S. Theegala v C. Hoffman - Final Round 2 Balls,Sahith Theegala,0.013799999999999923,0.6364,0.6226
 2023-06-18 13:31:31.227726,Scores - Final Round Score - Rickie Fowler - Final Round Score,Over 70.5,0.012199999999999989,0.5,0.4878
 2023-06-18 17:31:53.659440,Round Match-Ups - Final Round Match-Up - P. Cantlay v V. Hovland - Final Round Match-Up,Viktor Hovland,0.012199999999999989,0.5122,0.5
 2023-06-18 12:31:35.156110,Scores - Final Round Score - Cameron Smith - Final Round Score,Under 69.5,0.011099999999999999,0.4762,0.4651
 2023-06-18 13:31:30.855182,US Open - 2/3 Balls - Final Round 2 Balls - B. DeChambeau v T. Kim - Final Round 2 Balls,Tom Kim,0.011099999999999999,0.4762,0.4651
-2023-06-18 14:31:54.375559,Round Match-Ups - Final Round Match-Up - C. Hoffman v S. Bennett - Final Round Match-Up,Sam Bennett,0.01100000000000001,0.5348,0.5238
 2023-06-18 15:31:58.978108,Round Match-Ups - Final Round Match-Up - T. Hatton v M. Fitzpatrick - Final Round Match-Up,Tyrrell Hatton,0.01100000000000001,0.5348,0.5238
 2023-06-18 13:31:30.940166,Round Match-Ups - Final Round Match-Up - S. Munoz v A. Hadwin - Final Round Match-Up,Adam Hadwin,0.01100000000000001,0.5348,0.5238
+2023-06-18 14:31:54.375559,Round Match-Ups - Final Round Match-Up - C. Hoffman v S. Bennett - Final Round Match-Up,Sam Bennett,0.01100000000000001,0.5348,0.5238
 2023-06-18 13:31:30.923738,Round Match-Ups - Final Round Match-Up - A. Ancer v J. Smith - Final Round Match-Up,Jordan Smith,0.010699999999999932,0.5455,0.5348
 2023-06-18 21:31:15.458318,NBA Futures - 2023/24 NBA Season - 2023-24 NBA Champion,Philadelphia 76ers,0.0102,0.0769,0.0667
-2023-06-18 17:31:53.192802,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Arizona Diamondbacks,0.0102,0.0769,0.0667
 2023-06-18 16:32:21.183729,MLB Futures - MLB 2023 National League East - National League East Winner,Philadelphia Phillies,0.0102,0.0769,0.0667
+2023-06-18 17:31:53.192802,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Arizona Diamondbacks,0.0102,0.0769,0.0667
 2023-06-18 13:31:31.022708,Round Match-Ups - Final Round Match-Up - S. Lowry v T. Fleetwood - Final Round Match-Up,Tommy Fleetwood,0.010099999999999998,0.5556,0.5455
 2023-06-18 19:33:09.601277,US Open - 2/3 Balls - Final Round 2 Balls - S. Scheffler v R. McIlroy - Final Round 2 Balls,Rory McIlroy,-0.010099999999999998,0.4444,0.4545
 2023-06-18 21:31:15.458318,NBA Futures - 2023/24 NBA Season - 2023-24 NBA Champion,Los Angeles Lakers,-0.0102,0.0667,0.0769
 2023-06-18 17:31:53.192802,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Cincinnati Reds,-0.010300000000000002,0.0141,0.0244
 2023-06-18 17:31:53.523469,US Open - 2/3 Balls - Final Round 2 Balls - S. Scheffler v R. McIlroy - Final Round 2 Balls,Rory McIlroy,-0.010599999999999998,0.4545,0.4651
 2023-06-18 17:31:53.659440,Round Match-Ups - Final Round Match-Up - P. Cantlay v V. Hovland - Final Round Match-Up,Patrick Cantlay,-0.010699999999999932,0.5348,0.5455
-2023-06-18 15:31:58.689573,US Open - 2/3 Balls - Final Round 2 Balls - S. Burns v K. Mitchell - Final Round 2 Balls,Keith Mitchell,-0.011099999999999999,0.4651,0.4762
 2023-06-18 13:31:30.678365,US Open - 2/3 Balls - Final Round 2 Balls - J. Smith v S. Bennett - Final Round 2 Balls,Sam Bennett,-0.011099999999999999,0.4651,0.4762
+2023-06-18 15:31:58.689573,US Open - 2/3 Balls - Final Round 2 Balls - S. Burns v K. Mitchell - Final Round 2 Balls,Keith Mitchell,-0.011099999999999999,0.4651,0.4762
 2023-06-18 17:31:53.165767,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,New York Mets,-0.011199999999999995,0.0323,0.0435
 2023-06-18 13:31:31.090090,Round Match-Ups - Final Round Match-Up - R. Henley v J. Niemann - Final Round Match-Up,Joaquin Niemann,-0.0116,0.4762,0.4878
 2023-06-18 14:31:54.375559,Round Match-Ups - Final Round Match-Up - C. Hoffman v S. Bennett - Final Round Match-Up,Charley Hoffman,-0.011600000000000055,0.5122,0.5238
-2023-06-18 15:31:58.978108,Round Match-Ups - Final Round Match-Up - T. Hatton v M. Fitzpatrick - Final Round Match-Up,Matthew Fitzpatrick,-0.011600000000000055,0.5122,0.5238
 2023-06-18 13:31:30.940166,Round Match-Ups - Final Round Match-Up - S. Munoz v A. Hadwin - Final Round Match-Up,Sebastian Munoz,-0.011600000000000055,0.5122,0.5238
+2023-06-18 15:31:58.978108,Round Match-Ups - Final Round Match-Up - T. Hatton v M. Fitzpatrick - Final Round Match-Up,Matthew Fitzpatrick,-0.011600000000000055,0.5122,0.5238
 2023-06-18 17:31:53.165767,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Atlanta Braves,-0.011700000000000016,0.2105,0.2222
-2023-06-18 13:31:30.923738,Round Match-Ups - Final Round Match-Up - A. Ancer v J. Smith - Final Round Match-Up,Abraham Ancer,-0.012199999999999989,0.5,0.5122
 2023-06-18 13:31:31.022708,Round Match-Ups - Final Round Match-Up - S. Lowry v T. Fleetwood - Final Round Match-Up,Shane Lowry,-0.012199999999999989,0.4878,0.5
+2023-06-18 13:31:30.923738,Round Match-Ups - Final Round Match-Up - A. Ancer v J. Smith - Final Round Match-Up,Abraham Ancer,-0.012199999999999989,0.5,0.5122
+2023-06-18 23:30:49.290987,Professional Baseball - NPB 2023 - Outright,Tokyo Yakult Swallows,-0.012700000000000003,0.0196,0.0323
 2023-06-18 17:31:53.165767,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Miami Marlins,-0.012800000000000002,0.0217,0.0345
 2023-06-18 17:31:53.179272,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Seattle Mariners,-0.0131,0.0345,0.0476
 2023-06-18 16:32:21.139175,MLB Futures - MLB 2023 American League Central - American League Central Winner,Chicago White Sox,-0.013899999999999996,0.1111,0.125
