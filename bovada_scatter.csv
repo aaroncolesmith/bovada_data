@@ -6,8 +6,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-18 09:31:22.841026,College Baseball - College Baseball World Series -  College Baseball World Series Winner,LSU,0.07520000000000002,0.2857,0.2105
 2023-06-18 07:31:34.648249,Scores - Final Round Score - Scottie Scheffler - Final Round Score,Over 68.5,0.06970000000000004,0.5348,0.4651
 2023-06-18 08:32:14.337754,MLS - MLS 2023 - Top Goalscorer,Hany Mukhtar (NAS),0.06669999999999998,0.2667,0.2
-2023-06-18 00:31:47.142932,WNBA Futures - WNBA Awards - Regular Season MVP,A'ja Wilson,0.0595,0.25,0.1905
-2023-06-18 00:31:49.066449,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,0.056900000000000006,0.4651,0.4082
 2023-06-18 09:31:22.841026,College Baseball - College Baseball World Series -  College Baseball World Series Winner,Wake Forest,0.055900000000000005,0.3636,0.3077
 2023-06-18 07:31:34.850485,US Open - 2/3 Balls - Final Round 2 Balls - C. Young v R. Henley - Final Round 2 Balls,Russell Henley,0.047099999999999975,0.5122,0.4651
 2023-06-18 05:31:33.923738,WNBA Futures - WNBA Awards - Regular Season MVP,Elena Delle Donne,0.0417,0.125,0.0833
@@ -16,7 +14,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-18 05:31:33.923738,WNBA Futures - WNBA Awards - Regular Season MVP,Kelsey Plum,0.029299999999999993,0.0769,0.0476
 2023-06-18 06:32:08.769076,MLB Futures - MLB 2023 National League Central - National League Central Winner,Pittsburgh Pirates,0.028799999999999992,0.1538,0.125
 2023-06-18 06:32:08.769076,MLB Futures - MLB 2023 National League Central - National League Central Winner,Cincinnati Reds,0.028700000000000003,0.2105,0.1818
-2023-06-18 00:31:49.078375,MLB Futures - MLB 2023 National League Central - National League Central Winner,Cincinnati Reds,0.027999999999999997,0.1818,0.1538
 2023-06-18 05:31:35.637069,Round Match-Ups - Final Round Match-Up - K. Streelman v R. Gerard - Final Round Match-Up,Kevin Streelman,0.027700000000000058,0.5833,0.5556
 2023-06-18 06:32:08.873985,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Josh Jung (TEX),0.02560000000000001,0.3333,0.3077
 2023-06-18 09:31:23.037867,Boxing Lines - Joshua Franco vs Kazuto Ioka - To Win the Bout,Kazuto Ioka,0.024399999999999977,0.5122,0.4878
@@ -30,46 +27,52 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-18 07:31:34.752002,US Open - 2/3 Balls - Final Round 2 Balls - S. Munoz v N. Hardy - Final Round 2 Balls,Nick Hardy,0.020699999999999996,0.4651,0.4444
 2023-06-18 07:31:34.773761,US Open - 2/3 Balls - Final Round 2 Balls - S. Garcia v K. Streelman - Final Round 2 Balls,Kevin Streelman,0.020699999999999996,0.4651,0.4444
 2023-06-18 09:31:23.184025,Scores - Final Round Score - Wyndham Clark - Final Round Score,Over 70.5,0.01970000000000005,0.5652,0.5455
-2023-06-18 00:31:49.161094,Boxing Lines - Shakhram Giyasov vs Harold Calderon - To Win the Bout,Harold Calderon,0.0179,0.1429,0.125
+2023-06-18 13:31:30.678365,US Open - 2/3 Balls - Final Round 2 Balls - J. Smith v S. Bennett - Final Round 2 Balls,Jordan Smith,0.018100000000000005,0.5833,0.5652
 2023-06-18 06:32:08.707966,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Philadelphia Phillies,0.016700000000000007,0.1,0.0833
 2023-06-18 06:32:08.914941,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Corbin Carroll (ARIZ),0.015100000000000002,0.8333,0.8182
 2023-06-18 08:32:14.328451,MLS - MLS 2023 - Winner,New England Revolution,0.013999999999999999,0.0909,0.0769
 2023-06-18 07:31:34.941018,Round Match-Ups - Final Round Match-Up - A. Ancer v J. Smith - Final Round Match-Up,Abraham Ancer,0.012199999999999989,0.5122,0.5
 2023-06-18 07:31:35.035793,Round Match-Ups - Final Round Match-Up - R. Fox v E. Cole - Final Round Match-Up,Eric Cole,0.012199999999999989,0.5,0.4878
+2023-06-18 13:31:31.227726,Scores - Final Round Score - Rickie Fowler - Final Round Score,Over 70.5,0.012199999999999989,0.5,0.4878
+2023-06-18 13:31:30.855182,US Open - 2/3 Balls - Final Round 2 Balls - B. DeChambeau v T. Kim - Final Round 2 Balls,Tom Kim,0.011099999999999999,0.4762,0.4651
 2023-06-18 06:32:08.707966,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,San Francisco Giants,0.011099999999999999,0.0667,0.0556
 2023-06-18 12:31:35.156110,Scores - Final Round Score - Cameron Smith - Final Round Score,Under 69.5,0.011099999999999999,0.4762,0.4651
 2023-06-18 07:31:34.744382,US Open - 2/3 Balls - Final Round 2 Balls - J. Smith v S. Bennett - Final Round 2 Balls,Sam Bennett,0.011099999999999999,0.4762,0.4651
 2023-06-18 07:31:35.000286,Round Match-Ups - Final Round Match-Up - A. Eckroat v D. Wu - Final Round Match-Up,Austin Eckroat,0.01100000000000001,0.5348,0.5238
+2023-06-18 13:31:30.940166,Round Match-Ups - Final Round Match-Up - S. Munoz v A. Hadwin - Final Round Match-Up,Adam Hadwin,0.01100000000000001,0.5348,0.5238
 2023-06-18 07:31:34.822578,US Open - 2/3 Balls - Final Round 2 Balls - E. Cole v J. Suh - Final Round 2 Balls,Eric Cole,0.010699999999999932,0.5455,0.5348
 2023-06-18 07:31:35.014237,Round Match-Ups - Final Round Match-Up - S. Lowry v T. Fleetwood - Final Round Match-Up,Tommy Fleetwood,0.010699999999999932,0.5455,0.5348
-2023-06-18 00:31:47.157736,WNBA Futures - WNBA Championship 2023 - Outright Winner,Las Vegas Aces,0.010099999999999998,0.5556,0.5455
+2023-06-18 13:31:30.923738,Round Match-Ups - Final Round Match-Up - A. Ancer v J. Smith - Final Round Match-Up,Jordan Smith,0.010699999999999932,0.5455,0.5348
+2023-06-18 13:31:31.022708,Round Match-Ups - Final Round Match-Up - S. Lowry v T. Fleetwood - Final Round Match-Up,Tommy Fleetwood,0.010099999999999998,0.5556,0.5455
 2023-06-18 07:31:35.035793,Round Match-Ups - Final Round Match-Up - R. Fox v E. Cole - Final Round Match-Up,Ryan Fox,-0.010099999999999998,0.5455,0.5556
 2023-06-18 06:32:08.688015,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,New York Yankees,-0.0102,0.0667,0.0769
 2023-06-18 06:32:08.757688,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,-0.010599999999999998,0.4545,0.4651
 2023-06-18 07:31:34.941018,Round Match-Ups - Final Round Match-Up - A. Ancer v J. Smith - Final Round Match-Up,Jordan Smith,-0.010699999999999932,0.5348,0.5455
-2023-06-18 07:31:34.993141,Round Match-Ups - Final Round Match-Up - S.W. Kim v S. Theegala - Final Round Match-Up,Sahith Theegala,-0.0116,0.4762,0.4878
-2023-06-18 07:31:32.191206,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,Godoy Cruz,-0.0116,0.0033,0.0149
+2023-06-18 13:31:30.678365,US Open - 2/3 Balls - Final Round 2 Balls - J. Smith v S. Bennett - Final Round 2 Balls,Sam Bennett,-0.011099999999999999,0.4651,0.4762
 2023-06-18 07:31:34.948509,Round Match-Ups - Final Round Match-Up - A. Hadwin v M. Hughes - Final Round Match-Up,Mackenzie Hughes,-0.0116,0.4762,0.4878
+2023-06-18 13:31:31.090090,Round Match-Ups - Final Round Match-Up - R. Henley v J. Niemann - Final Round Match-Up,Joaquin Niemann,-0.0116,0.4762,0.4878
+2023-06-18 07:31:32.191206,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,Godoy Cruz,-0.0116,0.0033,0.0149
+2023-06-18 07:31:34.993141,Round Match-Ups - Final Round Match-Up - S.W. Kim v S. Theegala - Final Round Match-Up,Sahith Theegala,-0.0116,0.4762,0.4878
+2023-06-18 13:31:30.940166,Round Match-Ups - Final Round Match-Up - S. Munoz v A. Hadwin - Final Round Match-Up,Sebastian Munoz,-0.011600000000000055,0.5122,0.5238
 2023-06-18 07:31:35.000286,Round Match-Ups - Final Round Match-Up - A. Eckroat v D. Wu - Final Round Match-Up,Dylan Wu,-0.011600000000000055,0.5122,0.5238
 2023-06-18 07:31:34.822578,US Open - 2/3 Balls - Final Round 2 Balls - E. Cole v J. Suh - Final Round 2 Balls,Justin Suh,-0.012199999999999989,0.5,0.5122
 2023-06-18 07:31:35.014237,Round Match-Ups - Final Round Match-Up - S. Lowry v T. Fleetwood - Final Round Match-Up,Shane Lowry,-0.012199999999999989,0.5,0.5122
+2023-06-18 13:31:31.022708,Round Match-Ups - Final Round Match-Up - S. Lowry v T. Fleetwood - Final Round Match-Up,Shane Lowry,-0.012199999999999989,0.4878,0.5
+2023-06-18 13:31:30.923738,Round Match-Ups - Final Round Match-Up - A. Ancer v J. Smith - Final Round Match-Up,Abraham Ancer,-0.012199999999999989,0.5,0.5122
 2023-06-18 06:32:08.697489,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Chicago White Sox,-0.012700000000000003,0.0196,0.0323
-2023-06-18 00:31:49.066449,MLB Futures - MLB 2023 American League West - American League West Winner,Los Angeles Angels,-0.012899999999999995,0.1538,0.1667
 2023-06-18 06:32:08.688015,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Arizona Diamondbacks,-0.0131,0.0345,0.0476
 2023-06-18 07:31:32.191206,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,San Lorenzo,-0.014099999999999994,0.0526,0.0667
 2023-06-18 07:31:32.191206,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,Atlético Lanús,-0.014100000000000001,0.0385,0.0526
-2023-06-18 00:31:47.157736,WNBA Futures - WNBA Championship 2023 - Outright Winner,New York Liberty,-0.01419999999999999,0.3704,0.3846
 2023-06-18 07:31:32.191206,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,Defensa y Justicia,-0.014499999999999999,0.0149,0.0294
 2023-06-18 06:32:08.780663,MLB Futures - MLB 2023 National League East - National League East Winner,New York Mets,-0.014899999999999997,0.0476,0.0625
 2023-06-18 06:32:08.769076,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,-0.015100000000000002,0.1667,0.1818
-2023-06-18 00:31:47.157736,WNBA Futures - WNBA Championship 2023 - Outright Winner,Washington Mystics,-0.015300000000000001,0.0435,0.0588
 2023-06-18 04:31:49.023831,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Emily Kristine Pedersen,-0.0165,0.0079,0.0244
-2023-06-18 00:31:49.161094,Boxing Lines - Shakhram Giyasov vs Harold Calderon - To Win the Bout,Shakhram Giyasov,-0.01660000000000006,0.9167,0.9333
-2023-06-18 07:31:34.773761,US Open - 2/3 Balls - Final Round 2 Balls - S. Garcia v K. Streelman - Final Round 2 Balls,Sergio Garcia,-0.016699999999999937,0.5833,0.6
 2023-06-18 07:31:34.752002,US Open - 2/3 Balls - Final Round 2 Balls - S. Munoz v N. Hardy - Final Round 2 Balls,Sebastian Munoz,-0.016699999999999937,0.5833,0.6
+2023-06-18 07:31:34.773761,US Open - 2/3 Balls - Final Round 2 Balls - S. Garcia v K. Streelman - Final Round 2 Balls,Sergio Garcia,-0.016699999999999937,0.5833,0.6
 2023-06-18 06:32:08.744387,MLB Futures - MLB 2023 American League East - American League East Winner,Baltimore Orioles,-0.016700000000000007,0.0833,0.1
-2023-06-18 06:32:08.697489,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,New York Yankees,-0.0179,0.125,0.1429
 2023-06-18 04:31:49.023831,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Leona Maguire,-0.0179,0.125,0.1429
+2023-06-18 06:32:08.697489,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,New York Yankees,-0.0179,0.125,0.1429
+2023-06-18 13:31:30.855182,US Open - 2/3 Balls - Final Round 2 Balls - B. DeChambeau v T. Kim - Final Round 2 Balls,Bryson DeChambeau,-0.018100000000000005,0.5652,0.5833
 2023-06-18 07:31:34.744382,US Open - 2/3 Balls - Final Round 2 Balls - J. Smith v S. Bennett - Final Round 2 Balls,Jordan Smith,-0.018100000000000005,0.5652,0.5833
 2023-06-18 08:32:14.337754,MLS - MLS 2023 - Top Goalscorer,Georgios Giakoumakis (ATL),-0.01820000000000002,0.1818,0.2
 2023-06-18 09:31:23.037867,Boxing Lines - Joshua Franco vs Kazuto Ioka - To Win the Bout,Joshua Franco,-0.01880000000000004,0.5556,0.5744
@@ -82,24 +85,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-18 06:32:08.730379,MLB Futures - MLB 2023 American League Central - American League Central Winner,Cleveland Guardians,-0.021999999999999964,0.2857,0.3077
 2023-06-18 06:32:08.793894,MLB Futures - MLB 2023 National League West - National League West Winner,Los Angeles Dodgers,-0.022199999999999998,0.7778,0.8
 2023-06-18 08:32:14.337754,MLS - MLS 2023 - Top Goalscorer,Denis Bouanga (LAFC),-0.022199999999999998,0.2,0.2222
-2023-06-18 11:31:55.873878,US Open - 2/3 Balls - Final Round 2 Balls - M. Fitzpatrick v C. Morikawa - Final Round 2 Balls,Matt Fitzpatrick,-0.022600000000000064,0.5122,0.5348
 2023-06-18 05:31:35.670215,Round Match-Ups - Final Round Match-Up - S. Lowry v T. Fleetwood - Final Round Match-Up,Shane Lowry,-0.022600000000000064,0.5122,0.5348
+2023-06-18 11:31:55.873878,US Open - 2/3 Balls - Final Round 2 Balls - M. Fitzpatrick v C. Morikawa - Final Round 2 Balls,Matt Fitzpatrick,-0.022600000000000064,0.5122,0.5348
 2023-06-18 05:31:35.637069,Round Match-Ups - Final Round Match-Up - K. Streelman v R. Gerard - Final Round Match-Up,Ryan Gerard,-0.022699999999999998,0.4651,0.4878
 2023-06-18 09:31:23.184025,Scores - Final Round Score - Wyndham Clark - Final Round Score,Under 70.5,-0.023800000000000043,0.5,0.5238
-2023-06-18 06:32:08.707966,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Arizona Diamondbacks,-0.0242,0.0667,0.0909
 2023-06-18 07:31:32.191206,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,Talleres,-0.0242,0.0667,0.0909
+2023-06-18 06:32:08.707966,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Arizona Diamondbacks,-0.0242,0.0667,0.0909
 2023-06-18 04:31:49.023831,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Hye Jin Choi,-0.024499999999999997,0.0033,0.0278
 2023-06-18 04:31:49.023831,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Hae Ran Ryu,-0.027299999999999998,0.0005,0.0278
 2023-06-18 07:31:34.850485,US Open - 2/3 Balls - Final Round 2 Balls - C. Young v R. Henley - Final Round 2 Balls,Cameron Young,-0.027700000000000058,0.5556,0.5833
 2023-06-18 07:31:34.843414,US Open - 2/3 Balls - Final Round 2 Balls - B. Koepka v T. Hatton - Final Round 2 Balls,Brooks Koepka,-0.027700000000000058,0.5556,0.5833
 2023-06-18 04:31:49.023831,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Jennifer Kupcho,-0.028199999999999996,0.0385,0.0667
-2023-06-18 00:31:49.078375,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,-0.028900000000000037,0.5455,0.5744
-2023-06-18 00:31:47.142932,WNBA Futures - WNBA Awards - Regular Season MVP,Kelsey Plum,-0.029299999999999993,0.0476,0.0769
 2023-06-18 04:31:49.023831,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Cheyenne Knight,-0.0313,0.001,0.0323
 2023-06-18 06:32:08.769076,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,-0.033299999999999996,0.5122,0.5455
-2023-06-18 00:31:47.142932,WNBA Futures - WNBA Awards - Regular Season MVP,Elena Delle Donne,-0.0343,0.0833,0.1176
 2023-06-18 04:31:49.023831,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Aditi Ashok,-0.0456,0.002,0.0476
-2023-06-18 00:31:49.066449,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,-0.047099999999999975,0.4651,0.5122
 2023-06-18 09:31:22.841026,College Baseball - College Baseball World Series -  College Baseball World Series Winner,Stanford,-0.047099999999999996,0.0196,0.0667
 2023-06-18 05:31:33.923738,WNBA Futures - WNBA Awards - Regular Season MVP,A'ja Wilson,-0.04999999999999999,0.2,0.25
 2023-06-18 04:31:49.023831,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Hyo Joo Kim,-0.05679999999999999,0.125,0.1818
