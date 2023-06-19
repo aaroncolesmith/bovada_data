@@ -1,8 +1,12 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-19 13:31:22.875191,MLB Specials - Who will Replace Craig Carton on the Carton & Roberts Afternoon Drive Show - Proposition,Tiki Barber,0.1795,0.7143,0.5348
+2023-06-19 17:31:14.458735,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,0.06220000000000003,0.5744,0.5122
+2023-06-19 17:31:14.474506,MLB Futures - MLB 2023 National League West - National League West Winner,San Francisco Giants,0.0489,0.1739,0.125
 2023-06-19 14:31:25.418770,Wheel Of Fortune Specials - Next Permanent Wheel Of Fortune Host After Pat Sajak - Next Wheel Of Fortune Host,Maggie Sajak,0.048600000000000004,0.1111,0.0625
+2023-06-19 17:31:14.451320,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,0.047099999999999975,0.5122,0.4651
 2023-06-19 14:31:25.418770,Wheel Of Fortune Specials - Next Permanent Wheel Of Fortune Host After Pat Sajak - Next Wheel Of Fortune Host,Whoopi Goldberg,0.044599999999999994,0.0769,0.0323
 2023-06-19 11:31:14.073907,Joe Biden Specials - Joe Biden Approval Rating At Year End - Joe Biden Approval Rating At Year End,41 or under,0.044399999999999995,0.6,0.5556
+2023-06-19 17:31:14.474506,MLB Futures - MLB 2023 National League West - National League West Winner,San Diego Padres,0.042899999999999994,0.1429,0.1
 2023-06-19 11:31:14.101711,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,Yes,0.04250000000000009,0.7647,0.7222
 2023-06-19 05:31:49.792430,MLB Futures - MLB 2023 National League Central - National League Central Winner,Cincinnati Reds,0.04040000000000002,0.2222,0.1818
 2023-06-19 11:31:15.275536,College Baseball - College Baseball World Series -  College Baseball World Series Winner,Florida,0.03710000000000002,0.3448,0.3077
@@ -10,6 +14,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-19 05:31:49.786124,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,0.030299999999999994,0.4651,0.4348
 2023-06-19 12:30:59.775655,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Donald Trump,0.030299999999999994,0.6667,0.6364
 2023-06-19 11:31:14.187248,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Field,0.02679999999999999,0.3125,0.2857
+2023-06-19 17:31:14.458735,MLB Futures - MLB 2023 National League Central - National League Central Winner,St. Louis Cardinals,0.024999999999999994,0.125,0.1
 2023-06-19 05:31:49.792430,MLB Futures - MLB 2023 National League Central - National League Central Winner,Pittsburgh Pirates,0.024999999999999994,0.125,0.1
 2023-06-19 11:31:14.201619,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Gavin Newsom,0.0242,0.0909,0.0667
 2023-06-19 05:31:49.799787,MLB Futures - MLB 2023 National League East - National League East Winner,Miami Marlins,0.0242,0.0909,0.0667
@@ -31,8 +36,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-19 09:30:45.929706,Futures - The Open Championship 2023 - Winner,Brooks Koepka,-0.0102,0.0667,0.0769
 2023-06-19 05:31:49.799787,MLB Futures - MLB 2023 National League East - National League East Winner,Philadelphia Phillies,-0.0102,0.0667,0.0769
 2023-06-19 09:30:45.929706,Futures - The Open Championship 2023 - Winner,Tony Finau,-0.010700000000000001,0.0278,0.0385
-2023-06-19 09:30:45.929706,Futures - The Open Championship 2023 - Winner,Jon Rahm,-0.011099999999999999,0.1,0.1111
+2023-06-19 17:31:14.458735,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,-0.010899999999999993,0.1429,0.1538
 2023-06-19 05:31:49.806277,MLB Futures - MLB 2023 National League West - National League West Winner,San Diego Padres,-0.011099999999999999,0.1,0.1111
+2023-06-19 09:30:45.929706,Futures - The Open Championship 2023 - Winner,Jon Rahm,-0.011099999999999999,0.1,0.1111
 2023-06-19 13:31:22.875191,MLB Specials - Who will Replace Craig Carton on the Carton & Roberts Afternoon Drive Show - Proposition,Kevin Clancy,-0.011900000000000008,0.0833,0.0952
 2023-06-19 11:31:14.147431,Donald Trump Specials - Will Joe Biden pardon Donald Trump? - Will Joe Biden pardon Donald Trump?,Joe Biden to pardon Donald Trump for all potential federal crimes before the 2024 election,-0.012899999999999995,0.1538,0.1667
 2023-06-19 09:30:45.929706,Futures - The Open Championship 2023 - Winner,Cameron Young,-0.014099999999999998,0.0244,0.0385
@@ -56,8 +62,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-19 14:31:27.823108,Elite Boxing - Errol Spence Jr vs Terence Crawford - To Win the Bout,Terence Crawford,-0.024499999999999966,0.5833,0.6078
 2023-06-19 11:31:14.187248,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.024799999999999933,0.7647,0.7895
 2023-06-19 09:30:45.929706,Futures - The Open Championship 2023 - Winner,Justin Thomas,-0.0282,0.0244,0.0526
+2023-06-19 17:31:14.436352,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,-0.02849999999999997,0.6774,0.7059
 2023-06-19 11:31:14.101711,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,No,-0.032299999999999995,0.3125,0.3448
 2023-06-19 11:31:15.275536,College Baseball - College Baseball World Series -  College Baseball World Series Winner,Oral Roberts,-0.03270000000000001,0.0625,0.0952
+2023-06-19 17:31:14.458735,MLB Futures - MLB 2023 National League Central - National League Central Winner,Pittsburgh Pirates,-0.034100000000000005,0.0909,0.125
+2023-06-19 17:31:14.451320,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,-0.0348,0.4,0.4348
 2023-06-19 11:31:14.073907,Joe Biden Specials - Joe Biden Approval Rating At Year End - Joe Biden Approval Rating At Year End,Over 41,-0.04760000000000003,0.4762,0.5238
+2023-06-19 17:31:14.458735,MLB Futures - MLB 2023 National League Central - National League Central Winner,Cincinnati Reds,-0.04830000000000001,0.1739,0.2222
 2023-06-19 05:31:49.792430,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,-0.06220000000000003,0.5122,0.5744
+2023-06-19 17:31:14.474506,MLB Futures - MLB 2023 National League West - National League West Winner,Los Angeles Dodgers,-0.08079999999999998,0.5744,0.6552
 2023-06-19 13:31:22.875191,MLB Specials - Who will Replace Craig Carton on the Carton & Roberts Afternoon Drive Show - Proposition,Jerry Ferrara,-0.13160000000000005,0.3922,0.5238
