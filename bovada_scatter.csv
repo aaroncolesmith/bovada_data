@@ -2,8 +2,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-20 15:31:51.824260,College Baseball - College Baseball World Series -  College Baseball World Series Winner,Wake Forest,0.1884,0.5455,0.3571
 2023-06-20 16:31:40.794646,MLB Futures - MLB 2023 Player Awards - National League MVP,Corbin Carroll (ARIZ),0.13290000000000002,0.1481,0.0152
 2023-06-20 15:31:50.213815,EuroBasket Women - EuroBasket Women 2023 - Outright,Hungary (W),0.0774,0.125,0.0476
-2023-06-20 15:31:50.682611,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.0504,0.7647,0.7143
+2023-06-20 17:30:48.275609,45th Federal Election - Sworn In Government After Election - Government After Election,Liberal,0.05559999999999998,0.5,0.4444
 2023-06-20 16:31:39.681341,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.0504,0.7647,0.7143
+2023-06-20 15:31:50.682611,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.0504,0.7647,0.7143
+2023-06-20 17:30:48.196864,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.0504,0.7647,0.7143
 2023-06-20 15:31:50.213815,EuroBasket Women - EuroBasket Women 2023 - Outright,Spain (W),0.04999999999999999,0.25,0.2
 2023-06-20 15:31:51.824260,College Baseball - College Baseball World Series -  College Baseball World Series Winner,Florida,0.0398,0.3846,0.3448
 2023-06-20 05:32:21.216707,MLB Futures - MLB 2023 American League Central - American League Central Winner,Cleveland Guardians,0.03970000000000001,0.3175,0.2778
@@ -34,6 +36,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-20 05:32:16.660957,WNBA Futures - WNBA Championship 2023 - Outright Winner,Washington Mystics,-0.014099999999999994,0.0526,0.0667
 2023-06-20 07:31:58.362313,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Hillary Clinton,-0.014099999999999998,0.0244,0.0385
 2023-06-20 05:32:16.643306,WNBA Futures - WNBA Awards - Regular Season MVP,A'ja Wilson,-0.01469999999999999,0.2353,0.25
+2023-06-20 17:30:48.275609,45th Federal Election - Sworn In Government After Election - Government After Election,Conservative,-0.014800000000000035,0.6078,0.6226
 2023-06-20 16:31:39.619595,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the classified documents federal charges? - Will Donald Trump be found guilty of one or more of the classified documents federal charges?,No,-0.015400000000000025,0.3846,0.4
 2023-06-20 05:32:21.284933,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,-0.015400000000000025,0.3846,0.4
 2023-06-20 16:31:39.701551,US Presidential Election 2024 - US Presidential Election 2024 - Donald Trump Popular Vote - Donald Trump Popular Vote,To be Republican Nominee and win 45.01 to 50% of the popular vote,-0.01579999999999998,0.3175,0.3333
@@ -51,6 +54,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-20 16:31:40.794646,MLB Futures - MLB 2023 Player Awards - National League MVP,Freddie Freeman (LAD),-0.03889999999999999,0.1429,0.1818
 2023-06-20 15:31:51.824260,College Baseball - College Baseball World Series -  College Baseball World Series Winner,Oral Roberts,-0.0429,0.0196,0.0625
 2023-06-20 07:31:58.362313,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.0504,0.7143,0.7647
-2023-06-20 15:31:50.693186,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.0504,0.7143,0.7647
 2023-06-20 16:31:39.691356,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.0504,0.7143,0.7647
+2023-06-20 17:30:48.205217,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.0504,0.7143,0.7647
+2023-06-20 15:31:50.693186,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.0504,0.7143,0.7647
 2023-06-20 15:31:51.824260,College Baseball - College Baseball World Series -  College Baseball World Series Winner,LSU,-0.18269999999999997,0.125,0.3077
