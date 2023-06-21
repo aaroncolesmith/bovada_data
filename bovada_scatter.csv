@@ -25,16 +25,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-21 01:31:48.513987,NBA Draft - NBA Draft 2023 - To Be Drafted First - Jordan Hawkins vs Keyonte George,Jordan Hawkins,0.05520000000000003,0.6552,0.6
 2023-06-20 19:31:22.465799,U21 European Championship - U21 European Championship 2023 - Group A Winner,Netherlands U21,0.053100000000000036,0.4167,0.3636
 2023-06-20 19:31:22.956234,NBA Draft - NBA Draft 2023 - 4th Overall Pick,Ausar Thompson,0.052000000000000005,0.1429,0.0909
-2023-06-20 21:31:44.928301,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.0504,0.7647,0.7143
-2023-06-20 20:31:14.905042,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.0504,0.7647,0.7143
+2023-06-21 02:31:39.519001,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.0504,0.7647,0.7143
 2023-06-21 01:31:48.653185,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.0504,0.7647,0.7143
-2023-06-20 16:31:39.681341,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.0504,0.7647,0.7143
 2023-06-20 23:31:53.557810,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.0504,0.7647,0.7143
-2023-06-20 18:32:32.848131,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.0504,0.7647,0.7143
-2023-06-20 22:31:39.596778,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.0504,0.7647,0.7143
-2023-06-20 19:31:23.220825,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.0504,0.7647,0.7143
 2023-06-20 15:31:50.682611,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.0504,0.7647,0.7143
+2023-06-20 20:31:14.905042,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.0504,0.7647,0.7143
+2023-06-20 22:31:39.596778,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.0504,0.7647,0.7143
+2023-06-20 16:31:39.681341,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.0504,0.7647,0.7143
+2023-06-20 21:31:44.928301,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.0504,0.7647,0.7143
 2023-06-20 17:30:48.196864,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.0504,0.7647,0.7143
+2023-06-20 18:32:32.848131,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.0504,0.7647,0.7143
+2023-06-20 19:31:23.220825,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.0504,0.7647,0.7143
 2023-06-20 15:31:50.213815,EuroBasket Women - EuroBasket Women 2023 - Outright,Spain (W),0.04999999999999999,0.25,0.2
 2023-06-21 01:31:48.362108,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Jarace Walker,0.04910000000000003,0.4,0.3509
 2023-06-20 19:31:22.970817,NBA Draft - NBA Draft 2023 - 6th Overall Pick,Cam Whitmore,0.0476,0.1905,0.1429
@@ -60,6 +61,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-20 19:31:22.976072,NBA Draft - NBA Draft 2023 - 7th Overall Pick,Taylor Hendricks,0.02560000000000001,0.3333,0.3077
 2023-06-20 19:31:22.982632,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Anthony Black,0.025499999999999967,0.4255,0.4
 2023-06-20 18:32:32.793736,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,Yes,0.024799999999999933,0.7895,0.7647
+2023-06-21 02:31:40.677931,Travelers Championship - 2/3 Balls - 1st Round 3 Balls - P. Cantlay / H. English / S. Theegala - 1st Round 3 Balls,Patrick Cantlay,0.024399999999999977,0.5122,0.4878
 2023-06-21 01:31:48.441268,NBA Draft - NBA Draft 2023 - Draft Position - Jarace Walker - Draft Position,Under 6.5,0.024399999999999977,0.5122,0.4878
 2023-06-20 19:31:22.988621,NBA Draft - NBA Draft 2023 - 9th Overall Pick,Bilal Coulibaly,0.023800000000000016,0.1905,0.1667
 2023-06-20 16:31:39.597180,Joe Biden Specials - Joe Biden Approval Rating At Year End - Joe Biden Approval Rating At Year End,Over 41,0.023799999999999988,0.5,0.4762
@@ -70,18 +72,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-21 01:31:48.545066,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 5 Pick,Bilal Coulibaly,0.022400000000000003,0.0323,0.0099
 2023-06-20 19:31:23.664442,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Atlanta Falcons,Over 8.5,0.02169999999999994,0.5455,0.5238
 2023-06-21 01:31:48.393025,NBA Draft - NBA Draft 2023 - 9th Overall Pick,Kobe Bufkin,0.02049999999999999,0.1538,0.1333
+2023-06-21 02:31:40.804006,Travelers Championship - 2/3 Balls - 1st Round 3 Balls - S. Piercy / A. Rai / H. Hall - 1st Round 3 Balls,Aaron Rai,0.019699999999999995,0.4545,0.4348
 2023-06-20 15:31:50.213815,EuroBasket Women - EuroBasket Women 2023 - Outright,Slovakia (W),0.019499999999999997,0.0294,0.0099
 2023-06-21 01:31:48.355498,NBA Draft - NBA Draft 2023 - 4th Overall Pick,Jarace Walker,0.019099999999999992,0.0667,0.0476
 2023-06-20 15:31:51.919220,MLB Futures - MLB 2023 National League Central - National League Central Winner,Cincinnati Reds,0.01820000000000002,0.2,0.1818
 2023-06-20 20:31:14.641276,NBA Draft - NBA Draft 2023 - To Be Drafted First - Amen Thompson vs Ausar Thompson,Amen Thompson,0.018199999999999994,0.8182,0.8
+2023-06-21 02:31:39.824082,College Football - 2023-2024 NCAA Championship Winner - NCAA Champion,Ohio State,0.0179,0.1429,0.125
 2023-06-20 16:31:40.775624,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Josh Jung (TEX),0.017600000000000005,0.3509,0.3333
+2023-06-21 02:31:38.833178,UEFA Euro 2024 Futures - UEFA Euro 2024 - Outright Winner,Spain,0.01759999999999999,0.1176,0.1
+2023-06-21 02:31:40.693915,Travelers Championship - 2/3 Balls - 1st Round 3 Balls - T. Moore / B. Horschel / C. Ramey - 1st Round 3 Balls,Taylor Moore,0.017299999999999982,0.4255,0.4082
+2023-06-21 02:31:40.852188,Travelers Championship - 2/3 Balls - 1st Round 3 Balls - N. Hardy / L. Herbert / K. Kisner - 1st Round 3 Balls,Lucas Herbert,0.017299999999999982,0.4255,0.4082
 2023-06-20 19:31:23.038750,NBA Draft - NBA Draft 2023 - Draft Position - Keyonte George - Draft Position,Over 13.5,0.016700000000000048,0.75,0.7333
 2023-06-20 16:31:40.784907,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Logan Webb (SF),0.016700000000000007,0.1,0.0833
 2023-06-20 16:31:39.619595,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the classified documents federal charges? - Will Donald Trump be found guilty of one or more of the classified documents federal charges?,Yes,0.015800000000000036,0.6825,0.6667
 2023-06-20 19:31:22.976072,NBA Draft - NBA Draft 2023 - 7th Overall Pick,Anthony Black,0.015700000000000006,0.1333,0.1176
 2023-06-20 19:31:22.965111,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Anthony Black,0.015300000000000001,0.0476,0.0323
-2023-06-20 19:31:22.965111,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Amen Thompson,0.015100000000000002,0.1818,0.1667
 2023-06-20 15:31:52.010876,Boxing Lines - Jared Anderson vs Zhan Kossobutskiy - To Win the Bout,Zhan Kossobutskiy,0.015100000000000002,0.1818,0.1667
+2023-06-20 19:31:22.965111,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Amen Thompson,0.015100000000000002,0.1818,0.1667
+2023-06-21 02:31:40.870791,Travelers Championship - 2/3 Balls - 1st Round 3 Balls - G. Higgo / S. Cink / A. Scott - 1st Round 3 Balls,Garrick Higgo,0.014900000000000024,0.3226,0.3077
 2023-06-20 15:31:50.213815,EuroBasket Women - EuroBasket Women 2023 - Outright,Germany (W),0.014099999999999998,0.0435,0.0294
 2023-06-21 01:31:48.348496,NBA Draft - NBA Draft 2023 - 3rd Overall Pick,Amen Thompson,0.014099999999999994,0.0667,0.0526
 2023-06-21 01:31:50.218141,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,0.012899999999999995,0.1667,0.1538
@@ -90,22 +98,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-20 19:31:24.224684,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Texas Rangers,0.011899999999999994,0.0833,0.0714
 2023-06-21 01:31:48.416158,NBA Draft - NBA Draft 2023 - Draft Position - Bilal Coulibaly - Draft Position,Under 11.5,0.011600000000000055,0.5238,0.5122
 2023-06-20 19:31:22.474329,U21 European Championship - U21 European Championship 2023 - Group C Winner,England U21,0.011099999999999999,0.4762,0.4651
-2023-06-20 19:31:22.956234,NBA Draft - NBA Draft 2023 - 4th Overall Pick,Anthony Black,0.010700000000000001,0.0385,0.0278
+2023-06-21 02:31:40.780772,Travelers Championship - 2/3 Balls - 1st Round 3 Balls - N. Lashley / Z. Blair / C. Young - 1st Round 3 Balls,Zac Blair,0.010800000000000032,0.274,0.2632
 2023-06-20 16:31:40.963152,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Minjee Lee,0.010700000000000001,0.0385,0.0278
+2023-06-20 19:31:22.956234,NBA Draft - NBA Draft 2023 - 4th Overall Pick,Anthony Black,0.010700000000000001,0.0385,0.0278
+2023-06-21 02:31:40.834525,Travelers Championship - 2/3 Balls - 1st Round 3 Balls - J.J. Spaun / R. Streb / M. Kuchar - 1st Round 3 Balls,Robert Streb,0.010499999999999982,0.2105,0.2
 2023-06-20 19:31:22.996713,NBA Draft - NBA Draft 2023 - Draft Position - Anthony Black - Draft Position,Under 8.5,0.010300000000000087,0.7436,0.7333
 2023-06-21 01:31:50.182322,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Cincinnati Reds,0.010300000000000002,0.0244,0.0141
 2023-06-21 01:31:48.416158,NBA Draft - NBA Draft 2023 - Draft Position - Bilal Coulibaly - Draft Position,Over 11.5,-0.010099999999999998,0.5455,0.5556
 2023-06-21 01:31:48.403599,NBA Draft - NBA Draft 2023 - Draft Position - Anthony Black - Draft Position,Over 8.5,-0.010099999999999998,0.3125,0.3226
-2023-06-20 15:31:52.088181,Travelers Championship - Travelers Championship - Winner,Xander Schauffele,-0.0102,0.0667,0.0769
 2023-06-20 19:31:22.988621,NBA Draft - NBA Draft 2023 - 9th Overall Pick,Ausar Thompson,-0.0102,0.0667,0.0769
+2023-06-21 02:31:38.833178,UEFA Euro 2024 Futures - UEFA Euro 2024 - Outright Winner,Belgium,-0.0102,0.0667,0.0769
+2023-06-20 15:31:52.088181,Travelers Championship - Travelers Championship - Winner,Xander Schauffele,-0.0102,0.0667,0.0769
 2023-06-21 01:31:48.362108,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Brandon Miller,-0.010600000000000002,0.0217,0.0323
 2023-06-20 19:31:22.996713,NBA Draft - NBA Draft 2023 - Draft Position - Anthony Black - Draft Position,Over 8.5,-0.010699999999999987,0.3226,0.3333
 2023-06-20 16:31:40.775624,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Hunter Brown (HOU),-0.011099999999999999,0.1,0.1111
+2023-06-21 02:31:40.834525,Travelers Championship - 2/3 Balls - 1st Round 3 Balls - J.J. Spaun / R. Streb / M. Kuchar - 1st Round 3 Balls,Matt Kuchar,-0.011099999999999999,0.4651,0.4762
 2023-06-20 19:31:22.465799,U21 European Championship - U21 European Championship 2023 - Group A Winner,Belgium U21,-0.011700000000000016,0.2105,0.2222
 2023-06-20 16:31:40.775624,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Gunnar Henderson (BAL),-0.011700000000000016,0.2105,0.2222
+2023-06-21 02:31:40.870791,Travelers Championship - 2/3 Balls - 1st Round 3 Balls - G. Higgo / S. Cink / A. Scott - 1st Round 3 Balls,Adam Scott,-0.012199999999999989,0.4878,0.5
 2023-06-20 19:31:22.474329,U21 European Championship - U21 European Championship 2023 - Group C Winner,Germany U21,-0.012199999999999989,0.4878,0.5
 2023-06-21 01:31:48.537894,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 10 Pick,Bilal Coulibaly,-0.012699999999999989,0.3509,0.3636
 2023-06-21 01:31:48.478744,NBA Draft - NBA Draft 2023 - Exact Order Parlays - Top 3 ,"1: Victor Wembanyama, 2: Scoot Henderson, 3: Brandon Miller",-0.013799999999999923,0.6226,0.6364
+2023-06-21 02:31:40.693915,Travelers Championship - 2/3 Balls - 1st Round 3 Balls - T. Moore / B. Horschel / C. Ramey - 1st Round 3 Balls,Billy Horschel,-0.013800000000000034,0.3636,0.3774
 2023-06-20 19:31:22.982632,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Ausar Thompson,-0.013899999999999996,0.1111,0.125
 2023-06-21 01:31:48.478744,NBA Draft - NBA Draft 2023 - Exact Order Parlays - Top 3 ,"1: Victor Wembanyama, 2: Scoot Henderson, 3: Cam Whitmore",-0.014099999999999998,0.0244,0.0385
 2023-06-20 17:30:48.275609,45th Federal Election - Sworn In Government After Election - Government After Election,Conservative,-0.014800000000000035,0.6078,0.6226
@@ -150,16 +164,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-20 19:31:23.023238,NBA Draft - NBA Draft 2023 - Draft Position - Gradey Dick - Draft Position,Under 10.5,-0.03839999999999999,0.3125,0.3509
 2023-06-20 16:31:40.794646,MLB Futures - MLB 2023 Player Awards - National League MVP,Freddie Freeman (LAD),-0.03889999999999999,0.1429,0.1818
 2023-06-20 15:31:51.824260,College Baseball - College Baseball World Series -  College Baseball World Series Winner,Oral Roberts,-0.0429,0.0196,0.0625
-2023-06-20 17:30:48.205217,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.0504,0.7143,0.7647
-2023-06-21 01:31:48.664364,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.0504,0.7143,0.7647
-2023-06-20 18:32:32.861328,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.0504,0.7143,0.7647
-2023-06-20 16:31:39.691356,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.0504,0.7143,0.7647
+2023-06-20 19:31:23.230165,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.0504,0.7143,0.7647
 2023-06-20 20:31:14.925787,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.0504,0.7143,0.7647
+2023-06-21 02:31:39.530631,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.0504,0.7143,0.7647
+2023-06-21 01:31:48.664364,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.0504,0.7143,0.7647
 2023-06-20 23:31:53.570294,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.0504,0.7143,0.7647
 2023-06-20 15:31:50.693186,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.0504,0.7143,0.7647
-2023-06-20 21:31:44.941196,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.0504,0.7143,0.7647
+2023-06-20 16:31:39.691356,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.0504,0.7143,0.7647
 2023-06-20 22:31:39.617741,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.0504,0.7143,0.7647
-2023-06-20 19:31:23.230165,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.0504,0.7143,0.7647
+2023-06-20 17:30:48.205217,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.0504,0.7143,0.7647
+2023-06-20 21:31:44.941196,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.0504,0.7143,0.7647
+2023-06-20 18:32:32.861328,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.0504,0.7143,0.7647
 2023-06-21 01:31:48.355498,NBA Draft - NBA Draft 2023 - 4th Overall Pick,Cam Whitmore,-0.05310000000000001,0.2326,0.2857
 2023-06-21 01:31:48.513987,NBA Draft - NBA Draft 2023 - To Be Drafted First - Jordan Hawkins vs Keyonte George,Keyonte George,-0.056900000000000006,0.4082,0.4651
 2023-06-20 19:31:23.028475,NBA Draft - NBA Draft 2023 - Draft Position - Jarace Walker - Draft Position,Over 6.5,-0.0685,0.5744,0.6429
