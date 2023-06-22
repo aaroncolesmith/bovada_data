@@ -4,7 +4,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-22 01:32:10.253822,NBA Draft - NBA Draft 2023 - To Be Drafted First - Ausar Thompson vs Jarace Walker,Ausar Thompson,0.12419999999999998,0.6364,0.5122
 2023-06-22 01:32:09.747150,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Ausar Thompson,0.1154,0.5,0.3846
 2023-06-22 09:31:32.325836,U21 European Championship - U21 European Championship 2023 - Group B Winner,Ukraine U21,0.10910000000000002,0.2,0.0909
-2023-06-21 21:31:55.719685,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Cam Whitmore,0.1072,0.1905,0.0833
 2023-06-22 06:30:45.084075,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Cam Whitmore,0.1,0.2667,0.1667
 2023-06-22 02:32:59.691465,NBA Draft - NBA Draft 2023 - Exact Order Parlays - Top 5,"1: Victor Wembanyama, 2: Brandon Miller, 3: Scoot Henderson, 4: Amen Thompson, 5: Ausar Thompson",0.09689999999999999,0.3636,0.2667
 2023-06-21 23:31:14.336710,NBA Draft - NBA Draft 2023 - 10th Overall Pick,Gradey Dick,0.08179999999999998,0.1818,0.1
@@ -17,11 +16,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-22 02:32:59.560050,NBA Draft - NBA Draft 2023 - 6th Overall Pick,Anthony Black,0.06659999999999999,0.3333,0.2667
 2023-06-22 01:32:10.000780,NBA Draft - NBA Draft 2023 - Draft Position - Ausar Thompson - Draft Position,Under 5.5,0.06519999999999998,0.5,0.4348
 2023-06-21 22:31:55.913234,NBA Draft - NBA Draft 2023 - Draft Position - Ausar Thompson - Draft Position,Under 5.5,0.06440000000000001,0.4348,0.3704
-2023-06-21 21:31:55.633549,NBA Draft - NBA Draft 2023 - 10th Overall Pick,Dereck Lively,0.059099999999999986,0.3448,0.2857
 2023-06-22 09:31:34.229261,Boxing Lines - Khalil Coe vs Buneet Bisla - To Win the Bout,Buneet Bisla,0.0587,0.2326,0.1739
-2023-06-21 21:31:55.709035,NBA Draft - NBA Draft 2023 - 7th Overall Pick,Jarace Walker,0.055900000000000005,0.3226,0.2667
-2023-06-22 06:30:45.098469,NBA Draft - NBA Draft 2023 - 7th Overall Pick,Ausar Thompson,0.05559999999999998,0.1667,0.1111
 2023-06-22 01:32:10.399310,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 5 Pick,Ausar Thompson,0.05559999999999998,0.5,0.4444
+2023-06-22 06:30:45.098469,NBA Draft - NBA Draft 2023 - 7th Overall Pick,Ausar Thompson,0.05559999999999998,0.1667,0.1111
 2023-06-22 06:30:45.105831,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Cason Wallace,0.05379999999999999,0.1538,0.1
 2023-06-22 04:31:40.883100,MLB Futures - MLB 2023 National League West - National League West Winner,San Francisco Giants,0.05350000000000002,0.2353,0.1818
 2023-06-22 09:31:32.325836,U21 European Championship - U21 European Championship 2023 - Group B Winner,Spain U21,0.05349999999999999,0.8182,0.7647
@@ -29,9 +26,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-22 08:30:56.050947,Scores - 1st Round Score - Matt Fitzpatrick - 1st Round Score,Under 66.5,0.05070000000000002,0.4762,0.4255
 2023-06-22 09:31:32.721915,Celebrity Boxing - Elon Musk vs Mark Zuckerberg - Fight Winner ,Mark Zuckerberg,0.04760000000000003,0.5238,0.4762
 2023-06-22 06:30:45.084075,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Jarace Walker,0.047599999999999976,0.3333,0.2857
-2023-06-21 21:31:55.892983,NBA Draft - NBA Draft 2023 - To Be Drafted First - Ausar Thompson vs Jarace Walker,Ausar Thompson,0.04700000000000004,0.5348,0.4878
 2023-06-22 06:30:45.318782,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Jaime Jaquez Jr.,0.043300000000000005,0.9524,0.9091
-2023-06-21 21:31:55.719685,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Kobe Bufkin,0.04169999999999999,0.1667,0.125
 2023-06-21 23:31:14.336710,NBA Draft - NBA Draft 2023 - 10th Overall Pick,Taylor Hendricks,0.04169999999999999,0.1667,0.125
 2023-06-22 03:31:56.701510,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 20 Pick,Kris Murray,0.04099999999999998,0.3077,0.2667
 2023-06-22 06:30:45.098469,NBA Draft - NBA Draft 2023 - 7th Overall Pick,Jarace Walker,0.04099999999999998,0.3636,0.3226
@@ -41,44 +36,45 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-22 06:30:45.113098,NBA Draft - NBA Draft 2023 - 9th Overall Pick,Gradey Dick,0.036199999999999996,0.1538,0.1176
 2023-06-22 02:32:59.751535,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Trayce Jackson-Davis,0.03570000000000001,0.2857,0.25
 2023-06-22 09:31:33.261140,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
+2023-06-22 10:31:51.375447,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
 2023-06-22 00:32:25.818553,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Emoni Bates,0.0344,0.0588,0.0244
 2023-06-22 06:30:45.091252,NBA Draft - NBA Draft 2023 - 6th Overall Pick,Cam Whitmore,0.033300000000000024,0.2,0.1667
 2023-06-22 09:31:32.315392,U21 European Championship - U21 European Championship 2023 - Top Goalscorer,Danylo Sikan,0.03270000000000001,0.0476,0.0149
 2023-06-22 08:30:53.996645,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Gavin Newsom,0.031799999999999995,0.1429,0.1111
-2023-06-21 21:31:55.689471,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Jarace Walker,0.030299999999999994,0.3636,0.3333
 2023-06-22 09:31:32.310048,U21 European Championship - U21 European Championship 2023 - Outright,Georgia U21,0.0286,0.0385,0.0099
 2023-06-22 09:31:32.367475,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Santos,0.02779999999999999,0.25,0.2222
 2023-06-22 09:31:32.322051,U21 European Championship - U21 European Championship 2023 - Group A Winner,Netherlands U21,0.027700000000000002,0.4444,0.4167
 2023-06-22 02:32:59.560050,NBA Draft - NBA Draft 2023 - 6th Overall Pick,Ausar Thompson,0.02560000000000001,0.3333,0.3077
 2023-06-22 04:31:41.364699,Travelers Championship - 2/3 Balls - 1st Round 3 Balls - E. Van Rooyen / L. Glover / B. Harman - 1st Round 3 Balls,Brian Harman,0.024399999999999977,0.5122,0.4878
 2023-06-21 23:31:14.336710,NBA Draft - NBA Draft 2023 - 10th Overall Pick,Jalen Hood-Schifino,0.024299999999999995,0.0769,0.0526
-2023-06-22 06:30:45.105831,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Jarace Walker,0.0242,0.0909,0.0667
 2023-06-21 23:31:14.336710,NBA Draft - NBA Draft 2023 - 10th Overall Pick,Anthony Black,0.0242,0.0909,0.0667
+2023-06-22 06:30:45.105831,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Jarace Walker,0.0242,0.0909,0.0667
 2023-06-22 08:30:56.088655,Scores - 1st Round Score - Xander Schauffele - 1st Round Score,Under 66.5,0.023800000000000043,0.5238,0.5
-2023-06-22 08:30:55.083483,Boxing Lines - Anthony Riviere vs Alain Christian Sangue - To Win the Bout,Alain Christian Sangue,0.023799999999999988,0.3571,0.3333
 2023-06-21 23:31:14.336710,NBA Draft - NBA Draft 2023 - 10th Overall Pick,Kobe Bufkin,0.023799999999999988,0.1667,0.1429
+2023-06-22 08:30:55.083483,Boxing Lines - Anthony Riviere vs Alain Christian Sangue - To Win the Bout,Alain Christian Sangue,0.023799999999999988,0.3571,0.3333
 2023-06-22 08:30:56.073372,Scores - 1st Round Score - Viktor Hovland - 1st Round Score,Under 66.5,0.023799999999999988,0.5,0.4762
+2023-06-22 10:31:51.110935,NBA Draft - NBA Draft 2023 - 2nd Overall Pick,Brandon Miller,0.023799999999999932,0.8571,0.8333
 2023-06-22 09:31:32.347420,MLS - MLS 2023 - Top Goalscorer,Lionel Messi (MIA),0.023200000000000002,0.0476,0.0244
 2023-06-22 06:30:47.713427,Round Match-Ups - 1st Round Match-Ups - W. Gordon v S. Stevens - 1st Round Match-Ups,Sam Stevens,0.022600000000000064,0.5348,0.5122
 2023-06-22 06:30:47.360750,Travelers Championship - 2/3 Balls - 1st Round 3 Balls - E. Grillo / K. Bradley / X. Schauffele - 1st Round 3 Balls,Xander Schauffele,0.022600000000000064,0.5348,0.5122
 2023-06-22 09:31:32.310048,U21 European Championship - U21 European Championship 2023 - Outright,Spain U21,0.022199999999999998,0.2222,0.2
 2023-06-22 09:31:32.358497,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Flamengo,0.021999999999999964,0.3077,0.2857
+2023-06-22 08:30:56.021248,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Over 66.5,0.02169999999999994,0.5455,0.5238
 2023-06-22 05:31:37.176995,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,0.02169999999999994,0.5455,0.5238
 2023-06-22 03:31:58.571586,Round Match-Ups - 1st Round Match-Ups - D. Lipsky v S.H. Kim - 1st Round Match-Ups,S H Kim,0.02169999999999994,0.5455,0.5238
-2023-06-22 08:30:56.021248,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Over 66.5,0.02169999999999994,0.5455,0.5238
 2023-06-21 22:31:55.880927,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Ausar Thompson,0.02100000000000002,0.3846,0.3636
-2023-06-22 00:32:25.756616,NBA Draft - NBA Draft 2023 - To Be Drafted First - Ausar Thompson vs Jarace Walker,Jarace Walker,0.02079999999999993,0.5556,0.5348
 2023-06-22 02:33:02.165363,Tournament Match-Ups - Tournament Match-Ups - M. Homa vs W. Clark - Tournament Match-Ups,Max Homa,0.02079999999999993,0.5556,0.5348
-2023-06-22 03:31:58.554002,Round Match-Ups - 1st Round Match-Ups - S. Theegala vs M.W. Lee - 1st Round Match-Ups,Sahith Theegala,0.02079999999999993,0.5556,0.5348
 2023-06-22 06:30:47.787800,Round Match-Ups - 1st Round Match-Ups - H. Matsuyama vs W. Clark - 1st Round Match-Ups,Hideki Matsuyama,0.02079999999999993,0.5556,0.5348
+2023-06-22 03:31:58.554002,Round Match-Ups - 1st Round Match-Ups - S. Theegala vs M.W. Lee - 1st Round Match-Ups,Sahith Theegala,0.02079999999999993,0.5556,0.5348
 2023-06-22 03:31:58.533902,Round Match-Ups - 1st Round Match-Ups - A. Eckroat vs C. Davis - 1st Round Match-Ups,Austin Eckroat,0.02079999999999993,0.5556,0.5348
-2023-06-22 08:30:56.043884,Scores - 1st Round Score - Collin Morikawa - 1st Round Score,Under 66.5,0.020699999999999996,0.4651,0.4444
+2023-06-22 00:32:25.756616,NBA Draft - NBA Draft 2023 - To Be Drafted First - Ausar Thompson vs Jarace Walker,Jarace Walker,0.02079999999999993,0.5556,0.5348
 2023-06-22 08:30:56.066049,Scores - 1st Round Score - Tony Finau - 1st Round Score,Under 66.5,0.020699999999999996,0.4651,0.4444
+2023-06-22 08:30:56.043884,Scores - 1st Round Score - Collin Morikawa - 1st Round Score,Under 66.5,0.020699999999999996,0.4651,0.4444
 2023-06-22 06:30:45.084075,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Amen Thompson,0.02049999999999999,0.1538,0.1333
 2023-06-22 09:31:34.041223,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Texas Rangers,0.02049999999999999,0.1538,0.1333
-2023-06-22 06:30:45.113098,NBA Draft - NBA Draft 2023 - 9th Overall Pick,Jarace Walker,0.0203,0.0588,0.0385
-2023-06-22 06:30:45.113098,NBA Draft - NBA Draft 2023 - 9th Overall Pick,Jalen Hood-Schifino,0.0203,0.0588,0.0385
 2023-06-21 23:31:14.336710,NBA Draft - NBA Draft 2023 - 10th Overall Pick,Jarace Walker,0.0203,0.0588,0.0385
+2023-06-22 06:30:45.113098,NBA Draft - NBA Draft 2023 - 9th Overall Pick,Jalen Hood-Schifino,0.0203,0.0588,0.0385
+2023-06-22 06:30:45.113098,NBA Draft - NBA Draft 2023 - 9th Overall Pick,Jarace Walker,0.0203,0.0588,0.0385
 2023-06-22 09:31:32.367475,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Cruzeiro,0.02020000000000001,0.1111,0.0909
 2023-06-22 00:32:27.733569,Boxing Lines - Erickson Lubin vs Luis Arias - To Win the Bout,Luis Arias,0.020100000000000007,0.1739,0.1538
 2023-06-22 09:31:32.310048,U21 European Championship - U21 European Championship 2023 - Outright,Ukraine U21,0.0189,0.0385,0.0196
@@ -90,62 +86,51 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-22 09:31:32.375797,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Fortaleza,0.017600000000000005,0.3509,0.3333
 2023-06-22 06:30:47.306598,Travelers Championship - 2/3 Balls - 1st Round 3 Balls - A. Eckroat / A. Smotherman / M.W. Lee - 1st Round 3 Balls,Austin Eckroat,0.017299999999999982,0.4255,0.4082
 2023-06-22 09:31:34.069876,MLB Futures - MLB 2023 National League Central - National League Central Winner,Pittsburgh Pirates,0.016700000000000007,0.1,0.0833
-2023-06-22 03:31:56.690573,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Amari Bailey,0.015100000000000002,0.1818,0.1667
 2023-06-22 06:30:45.069559,NBA Draft - NBA Draft 2023 - 3rd Overall Pick,Scoot Henderson,0.015100000000000002,0.8333,0.8182
+2023-06-22 03:31:56.690573,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Amari Bailey,0.015100000000000002,0.1818,0.1667
 2023-06-22 09:31:32.315392,U21 European Championship - U21 European Championship 2023 - Top Goalscorer,Ryan Gravenberch,0.014499999999999999,0.0294,0.0149
 2023-06-22 06:30:45.084075,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Brandon Miller,0.014400000000000003,0.0323,0.0179
 2023-06-22 06:30:45.084075,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Taylor Hendricks,0.014099999999999994,0.0667,0.0526
 2023-06-22 08:30:55.152297,Boxing Lines - Adam Kownacki vs Joe Cusumano - To Win the Bout,Adam Kownacki,0.014000000000000012,0.9231,0.9091
-2023-06-22 03:31:56.690573,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Emoni Bates,0.013999999999999999,0.0909,0.0769
 2023-06-22 09:31:32.375797,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Corinthians,0.013999999999999999,0.0909,0.0769
+2023-06-22 03:31:56.690573,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Emoni Bates,0.013999999999999999,0.0909,0.0769
 2023-06-22 06:30:45.105831,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Ausar Thompson,0.013899999999999996,0.125,0.1111
 2023-06-22 06:30:45.098469,NBA Draft - NBA Draft 2023 - 7th Overall Pick,Anthony Black,0.013899999999999996,0.125,0.1111
 2023-06-22 09:31:32.358497,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Botafogo,0.013899999999999996,0.125,0.1111
 2023-06-22 04:31:41.252692,Travelers Championship - 2/3 Balls - 1st Round 3 Balls - W. Clark / M. Homa / J. Thomas - 1st Round 3 Balls,Max Homa,0.013800000000000034,0.3774,0.3636
-2023-06-21 21:31:55.689471,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Cam Whitmore,0.0131,0.2353,0.2222
 2023-06-22 09:31:32.375797,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Bahia,0.0131,0.0476,0.0345
-2023-06-21 21:31:55.484777,NBA Futures - 2023/24 NBA Season - 2023-24 NBA Champion,Boston Celtics,0.012899999999999995,0.1667,0.1538
 2023-06-22 06:30:45.113098,NBA Draft - NBA Draft 2023 - 9th Overall Pick,Cam Whitmore,0.012899999999999995,0.1667,0.1538
 2023-06-22 09:31:32.375797,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,São Paulo,0.012699999999999989,0.3636,0.3509
 2023-06-22 07:30:53.525341,Boxing Lines - Khalil Coe vs Buneet Bisla - To Win the Bout,Khalil Coe,0.011900000000000022,0.8333,0.8214
-2023-06-21 21:31:55.709035,NBA Draft - NBA Draft 2023 - 7th Overall Pick,Taylor Hendricks,0.01150000000000001,0.3448,0.3333
 2023-06-22 09:31:32.315392,U21 European Championship - U21 European Championship 2023 - Top Goalscorer,Brian Brobbey,0.011199999999999995,0.0588,0.0476
 2023-06-22 09:31:32.310048,U21 European Championship - U21 European Championship 2023 - Outright,Belgium U21,0.011199999999999995,0.0588,0.0476
 2023-06-22 09:31:34.047363,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,San Diego Padres,0.011099999999999999,0.1111,0.1
 2023-06-22 09:31:32.371729,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Fortaleza,0.010899999999999993,0.1538,0.1429
-2023-06-21 21:31:55.730177,NBA Draft - NBA Draft 2023 - 9th Overall Pick,Cam Whitmore,0.010899999999999993,0.1538,0.1429
-2023-06-22 06:30:45.084075,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Anthony Black,0.0102,0.0769,0.0667
 2023-06-22 09:31:34.058746,MLB Futures - MLB 2023 American League East - American League East Winner,Toronto Blue Jays,0.0102,0.0769,0.0667
-2023-06-22 09:31:32.315392,U21 European Championship - U21 European Championship 2023 - Top Goalscorer,Amine Gouiri,0.0102,0.0769,0.0667
+2023-06-22 06:30:45.084075,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Anthony Black,0.0102,0.0769,0.0667
 2023-06-22 02:32:59.751535,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Emoni Bates,0.0102,0.0769,0.0667
+2023-06-22 09:31:32.315392,U21 European Championship - U21 European Championship 2023 - Top Goalscorer,Amine Gouiri,0.0102,0.0769,0.0667
 2023-06-22 09:31:32.315392,U21 European Championship - U21 European Championship 2023 - Top Goalscorer,Cole Palmer,-0.010100000000000001,0.0244,0.0345
 2023-06-21 22:31:55.880927,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Anthony Black,-0.0102,0.0667,0.0769
-2023-06-21 21:31:55.633549,NBA Draft - NBA Draft 2023 - 10th Overall Pick,Cason Wallace,-0.0102,0.0667,0.0769
-2023-06-21 21:31:55.633549,NBA Draft - NBA Draft 2023 - 10th Overall Pick,Anthony Black,-0.0102,0.0667,0.0769
-2023-06-22 08:30:55.137114,Boxing Lines - Caleb Truax vs Burley Brooks - To Win the Bout,Burley Brooks,-0.010499999999999982,0.2,0.2105
 2023-06-22 09:31:34.245493,Boxing Lines - Carlos Adames vs Julian Williams - To Win the Bout,Julian Williams,-0.010499999999999982,0.2,0.2105
+2023-06-22 08:30:55.137114,Boxing Lines - Caleb Truax vs Burley Brooks - To Win the Bout,Burley Brooks,-0.010499999999999982,0.2,0.2105
 2023-06-22 09:31:34.212374,Boxing Lines - Reshat Mati vs Dakota Linger - To Win the Bout,Dakota Linger,-0.010899999999999993,0.1429,0.1538
-2023-06-21 21:31:55.633549,NBA Draft - NBA Draft 2023 - 10th Overall Pick,Kobe Bufkin,-0.010899999999999993,0.1429,0.1538
 2023-06-22 09:31:32.347420,MLS - MLS 2023 - Top Goalscorer,Hany Mukhtar (NAS),-0.011099999999999999,0.2667,0.2778
 2023-06-22 09:31:32.342791,MLS - MLS 2023 - Winner,Philadelphia Union,-0.011099999999999999,0.1,0.1111
 2023-06-22 09:31:32.315392,U21 European Championship - U21 European Championship 2023 - Top Goalscorer,Pietro Pellegri,-0.011199999999999995,0.0476,0.0588
 2023-06-22 06:30:45.098469,NBA Draft - NBA Draft 2023 - 7th Overall Pick,Taylor Hendricks,-0.01150000000000001,0.3333,0.3448
-2023-06-21 21:31:55.633549,NBA Draft - NBA Draft 2023 - 10th Overall Pick,Bilal Coulibaly,-0.011700000000000016,0.2105,0.2222
 2023-06-22 09:31:34.118061,Boxing Lines - Musashi Mori vs Takuya Watanabe - To Win the Bout,Takuya Watanabe,-0.011899999999999966,0.339,0.3509
-2023-06-21 21:31:55.875169,NBA Draft - NBA Draft 2023 - To Be Drafted First - Amen Thompson vs Ausar Thompson,Ausar Thompson,-0.011899999999999994,0.2381,0.25
 2023-06-22 09:31:32.310048,U21 European Championship - U21 European Championship 2023 - Outright,Croatia U21,-0.012700000000000003,0.0196,0.0323
 2023-06-22 09:31:34.104854,Boxing Lines - Kantaro Juri vs Wilbert Berondo - To Win the Bout,Wilbert Berondo,-0.012899999999999995,0.1538,0.1667
 2023-06-22 04:31:41.364699,Travelers Championship - 2/3 Balls - 1st Round 3 Balls - E. Van Rooyen / L. Glover / B. Harman - 1st Round 3 Balls,Lucas Glover,-0.013600000000000001,0.2941,0.3077
 2023-06-22 09:31:32.342791,MLS - MLS 2023 - Winner,Nashville SC,-0.013899999999999996,0.1111,0.125
 2023-06-22 09:31:32.315392,U21 European Championship - U21 European Championship 2023 - Top Goalscorer,Abel Ruiz,-0.013899999999999996,0.1111,0.125
-2023-06-22 09:31:34.058746,MLB Futures - MLB 2023 American League East - American League East Winner,New York Yankees,-0.013999999999999999,0.0769,0.0909
-2023-06-22 09:31:32.375797,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Santos,-0.013999999999999999,0.0769,0.0909
-2023-06-21 21:31:55.689471,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Anthony Black,-0.013999999999999999,0.0769,0.0909
 2023-06-22 09:31:32.362800,Brasileirao Série A - Brasileiro Serie A 2023 - Top Goalscorer,Vitor Roque (Athletico PR),-0.013999999999999999,0.0769,0.0909
+2023-06-22 09:31:32.375797,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Santos,-0.013999999999999999,0.0769,0.0909
+2023-06-22 09:31:34.058746,MLB Futures - MLB 2023 American League East - American League East Winner,New York Yankees,-0.013999999999999999,0.0769,0.0909
 2023-06-22 09:31:32.315392,U21 European Championship - U21 European Championship 2023 - Top Goalscorer,Henrique Pereira Araujo,-0.014099999999999998,0.0244,0.0385
 2023-06-22 09:31:32.315392,U21 European Championship - U21 European Championship 2023 - Top Goalscorer,Noni Madueke,-0.014099999999999998,0.0294,0.0435
 2023-06-22 00:32:27.733569,Boxing Lines - Erickson Lubin vs Luis Arias - To Win the Bout,Erickson Lubin,-0.01429999999999998,0.8948,0.9091
-2023-06-21 21:31:55.719685,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Taylor Hendricks,-0.01440000000000001,0.0909,0.1053
 2023-06-22 09:31:32.315392,U21 European Championship - U21 European Championship 2023 - Top Goalscorer,Rodrigo Riquelme,-0.0145,0.0099,0.0244
 2023-06-22 09:31:32.375797,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Athletico Paranaense,-0.015400000000000025,0.3846,0.4
 2023-06-22 09:31:32.362800,Brasileirao Série A - Brasileiro Serie A 2023 - Top Goalscorer,Everaldo (Bahia),-0.015499999999999998,0.0123,0.0278
@@ -160,23 +145,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-22 08:30:55.152297,Boxing Lines - Adam Kownacki vs Joe Cusumano - To Win the Bout,Joe Cusumano,-0.02049999999999999,0.1333,0.1538
 2023-06-22 09:31:34.075385,MLB Futures - MLB 2023 National League East - National League East Winner,Philadelphia Phillies,-0.0208,0.0625,0.0833
 2023-06-22 08:30:56.021248,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Under 66.5,-0.02169999999999994,0.5238,0.5455
-2023-06-22 09:31:32.371729,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Athletico Paranaense,-0.022199999999999998,0.2,0.2222
 2023-06-21 23:31:14.336710,NBA Draft - NBA Draft 2023 - 10th Overall Pick,Dereck Lively,-0.022199999999999998,0.3226,0.3448
-2023-06-21 21:31:55.709035,NBA Draft - NBA Draft 2023 - 7th Overall Pick,Anthony Black,-0.022199999999999998,0.1111,0.1333
-2023-06-22 08:30:56.066049,Scores - 1st Round Score - Tony Finau - 1st Round Score,Over 66.5,-0.022600000000000064,0.6,0.6226
-2023-06-22 08:30:56.043884,Scores - 1st Round Score - Collin Morikawa - 1st Round Score,Over 66.5,-0.022600000000000064,0.6,0.6226
+2023-06-22 09:31:32.371729,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Athletico Paranaense,-0.022199999999999998,0.2,0.2222
 2023-06-22 06:30:47.713427,Round Match-Ups - 1st Round Match-Ups - W. Gordon v S. Stevens - 1st Round Match-Ups,Will Gordon,-0.022600000000000064,0.5122,0.5348
+2023-06-22 08:30:56.066049,Scores - 1st Round Score - Tony Finau - 1st Round Score,Over 66.5,-0.022600000000000064,0.6,0.6226
 2023-06-22 02:33:02.165363,Tournament Match-Ups - Tournament Match-Ups - M. Homa vs W. Clark - Tournament Match-Ups,Wyndham Clark,-0.022600000000000064,0.5122,0.5348
+2023-06-22 08:30:56.043884,Scores - 1st Round Score - Collin Morikawa - 1st Round Score,Over 66.5,-0.022600000000000064,0.6,0.6226
 2023-06-22 00:32:25.756616,NBA Draft - NBA Draft 2023 - To Be Drafted First - Ausar Thompson vs Jarace Walker,Ausar Thompson,-0.022600000000000064,0.5122,0.5348
 2023-06-22 09:31:32.315392,U21 European Championship - U21 European Championship 2023 - Top Goalscorer,Anthony Gordon,-0.023200000000000002,0.0294,0.0526
 2023-06-22 09:31:32.315392,U21 European Championship - U21 European Championship 2023 - Top Goalscorer,Kevin Schade,-0.023200000000000002,0.0244,0.0476
-2023-06-21 21:31:55.689471,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Amen Thompson,-0.023799999999999988,0.1429,0.1667
 2023-06-22 03:31:58.571586,Round Match-Ups - 1st Round Match-Ups - D. Lipsky v S.H. Kim - 1st Round Match-Ups,David Lipsky,-0.023800000000000043,0.5,0.5238
 2023-06-22 09:31:34.069876,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,-0.023800000000000043,0.5,0.5238
-2023-06-22 02:33:02.158446,Tournament Match-Ups - Tournament Match-Ups - J. Thomas vs M. Fitzpatrick - Tournament Match-Ups,Justin Thomas,-0.024399999999999977,0.4878,0.5122
-2023-06-22 06:30:47.787800,Round Match-Ups - 1st Round Match-Ups - H. Matsuyama vs W. Clark - 1st Round Match-Ups,Wyndham Clark,-0.024399999999999977,0.4878,0.5122
 2023-06-22 03:31:58.554002,Round Match-Ups - 1st Round Match-Ups - S. Theegala vs M.W. Lee - 1st Round Match-Ups,Min Woo Lee,-0.024399999999999977,0.4878,0.5122
+2023-06-22 06:30:47.787800,Round Match-Ups - 1st Round Match-Ups - H. Matsuyama vs W. Clark - 1st Round Match-Ups,Wyndham Clark,-0.024399999999999977,0.4878,0.5122
 2023-06-22 03:31:58.533902,Round Match-Ups - 1st Round Match-Ups - A. Eckroat vs C. Davis - 1st Round Match-Ups,Cameron Davis,-0.024399999999999977,0.4878,0.5122
+2023-06-22 02:33:02.158446,Tournament Match-Ups - Tournament Match-Ups - J. Thomas vs M. Fitzpatrick - Tournament Match-Ups,Justin Thomas,-0.024399999999999977,0.4878,0.5122
 2023-06-22 09:31:34.080922,MLB Futures - MLB 2023 National League West - National League West Winner,San Diego Padres,-0.024999999999999994,0.1,0.125
 2023-06-22 09:31:34.053239,MLB Futures - MLB 2023 American League Central - American League Central Winner,Cleveland Guardians,-0.02560000000000001,0.3077,0.3333
 2023-06-22 08:30:56.073372,Scores - 1st Round Score - Viktor Hovland - 1st Round Score,Over 66.5,-0.026499999999999968,0.5652,0.5917
@@ -186,41 +169,39 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-22 09:31:32.375797,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Palmeiras,-0.029299999999999993,0.9231,0.9524
 2023-06-22 09:31:34.234693,Boxing Lines - Erickson Lubin vs Luis Arias - To Win the Bout,Luis Arias,-0.031,0.1429,0.1739
 2023-06-22 08:30:53.996645,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Michelle Obama,-0.0321,0.0588,0.0909
-2023-06-21 21:31:55.719685,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Jarace Walker,-0.03330000000000001,0.0667,0.1
 2023-06-22 09:31:32.347420,MLS - MLS 2023 - Top Goalscorer,Denis Bouanga (LAFC),-0.033300000000000024,0.1667,0.2
 2023-06-22 09:31:34.064266,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,-0.03370000000000001,0.3509,0.3846
 2023-06-22 09:31:32.362800,Brasileirao Série A - Brasileiro Serie A 2023 - Top Goalscorer,Roger Guedes (Corinthians),-0.034100000000000005,0.0909,0.125
-2023-06-22 08:30:53.996645,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
+2023-06-22 09:31:32.721915,Celebrity Boxing - Elon Musk vs Mark Zuckerberg - Fight Winner ,Elon Musk,-0.03479999999999994,0.5652,0.6
+2023-06-22 10:31:51.387525,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
 2023-06-22 09:31:33.269705,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
+2023-06-22 08:30:53.996645,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
 2023-06-22 09:31:32.367475,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Corinthians,-0.03570000000000001,0.25,0.2857
 2023-06-22 09:31:32.367475,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Bahia,-0.03640000000000004,0.3636,0.4
 2023-06-22 09:31:32.362800,Brasileirao Série A - Brasileiro Serie A 2023 - Top Goalscorer,Endrick (Palmeiras),-0.0373,0.0294,0.0667
-2023-06-21 21:31:55.892983,NBA Draft - NBA Draft 2023 - To Be Drafted First - Ausar Thompson vs Jarace Walker,Jarace Walker,-0.03959999999999997,0.5348,0.5744
 2023-06-22 06:30:47.055477,Boxing Lines - Khalil Coe vs Buneet Bisla - To Win the Bout,Khalil Coe,-0.04069999999999996,0.8214,0.8621
 2023-06-22 09:31:32.362800,Brasileirao Série A - Brasileiro Serie A 2023 - Top Goalscorer,Gilberto (Cruzeiro),-0.0407,0.0149,0.0556
-2023-06-21 21:31:55.709035,NBA Draft - NBA Draft 2023 - 7th Overall Pick,Ausar Thompson,-0.04269999999999999,0.1111,0.1538
 2023-06-22 09:31:32.362800,Brasileirao Série A - Brasileiro Serie A 2023 - Top Goalscorer,Jonathan Calleri (Sao Paulo),-0.042899999999999994,0.1,0.1429
 2023-06-22 08:30:56.050947,Scores - 1st Round Score - Matt Fitzpatrick - 1st Round Score,Over 66.5,-0.04469999999999996,0.5917,0.6364
 2023-06-22 09:31:32.358497,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Palmeiras,-0.045499999999999985,0.4545,0.5
 2023-06-22 09:31:32.362800,Brasileirao Série A - Brasileiro Serie A 2023 - Top Goalscorer,Marcos Leonardo (Santos),-0.0457,0.0099,0.0556
 2023-06-22 09:31:32.362800,Brasileirao Série A - Brasileiro Serie A 2023 - Top Goalscorer,Pedro Raul (Vasco),-0.047099999999999996,0.0196,0.0667
-2023-06-21 21:31:55.719685,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Amen Thompson,-0.047400000000000005,0.0526,0.1
 2023-06-22 09:31:32.315392,U21 European Championship - U21 European Championship 2023 - Top Goalscorer,Amine Adli,-0.0475,0.0294,0.0769
 2023-06-22 02:32:59.691465,NBA Draft - NBA Draft 2023 - Exact Order Parlays - Top 5,"1: Victor Wembanyama, 2: Brandon Miller, 3: Scoot Henderson, 4: Amen Thompson, 5: Jarace Walker",-0.047599999999999976,0.2857,0.3333
 2023-06-22 02:32:59.691465,NBA Draft - NBA Draft 2023 - Exact Order Parlays - Top 5,"1: Victor Wembanyama, 2: Brandon Miller, 3: Scoot Henderson, 4: Amen Thompson, 5: Cam Whitmore",-0.04999999999999999,0.2,0.25
 2023-06-22 09:31:32.371729,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Palmeiras,-0.052000000000000046,0.8571,0.9091
 2023-06-22 09:31:32.310048,U21 European Championship - U21 European Championship 2023 - Outright,Portugal U21,-0.052300000000000006,0.0588,0.1111
-2023-06-21 21:31:55.719685,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Cason Wallace,-0.05379999999999999,0.1,0.1538
 2023-06-22 04:31:39.812612,NBA Draft - NBA Draft 2023 - Draft Position - Gradey Dick - Draft Position,Under 10.5,-0.0625,0.25,0.3125
 2023-06-22 09:31:32.325836,U21 European Championship - U21 European Championship 2023 - Group B Winner,Romania U21,-0.06649999999999999,0.0244,0.0909
 2023-06-22 04:31:39.838012,NBA Draft - NBA Draft 2023 - Draft Position - Leonard Miller - Draft Position,Under 21.5,-0.06700000000000006,0.5556,0.6226
 2023-06-21 22:31:55.913234,NBA Draft - NBA Draft 2023 - Draft Position - Ausar Thompson - Draft Position,Over 5.5,-0.0673999999999999,0.6296,0.697
 2023-06-22 01:32:09.747150,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Cam Whitmore,-0.06860000000000002,0.1667,0.2353
-2023-06-22 09:31:32.362800,Brasileirao Série A - Brasileiro Serie A 2023 - Top Goalscorer,"Aloisio ""Boi Bandido"" (America MG)",-0.0703,0.0066,0.0769
 2023-06-22 09:31:32.362800,Brasileirao Série A - Brasileiro Serie A 2023 - Top Goalscorer,Luiz Adriano (Internacional),-0.0703,0.0066,0.0769
+2023-06-22 09:31:32.362800,Brasileirao Série A - Brasileiro Serie A 2023 - Top Goalscorer,"Aloisio ""Boi Bandido"" (America MG)",-0.0703,0.0066,0.0769
 2023-06-21 23:31:14.398147,NBA Draft - NBA Draft 2023 - Draft Position - Bilal Coulibaly - Draft Position,Over 11.5,-0.07440000000000002,0.5,0.5744
 2023-06-22 01:32:09.747150,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Jarace Walker,-0.07789999999999997,0.2857,0.3636
 2023-06-22 09:31:34.080922,MLB Futures - MLB 2023 National League West - National League West Winner,San Francisco Giants,-0.08150000000000002,0.1538,0.2353
+2023-06-22 10:31:51.110935,NBA Draft - NBA Draft 2023 - 2nd Overall Pick,Scoot Henderson,-0.08329999999999999,0.25,0.3333
 2023-06-22 02:32:59.560050,NBA Draft - NBA Draft 2023 - 6th Overall Pick,Cam Whitmore,-0.08330000000000001,0.1667,0.25
 2023-06-22 09:31:32.362800,Brasileirao Série A - Brasileiro Serie A 2023 - Top Goalscorer,Yuri Alberto (Corinthians),-0.0843,0.0066,0.0909
 2023-06-22 09:31:32.362800,Brasileirao Série A - Brasileiro Serie A 2023 - Top Goalscorer,Gabriel Barbosa (Flamengo),-0.0909,0.0909,0.1818
