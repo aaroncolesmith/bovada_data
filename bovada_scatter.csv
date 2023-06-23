@@ -36,16 +36,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-22 18:31:47.199389,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 20 Pick,Jaime Jaquez Jr.,0.09040000000000004,0.5348,0.4444
 2023-06-22 15:31:45.441667,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Kobe Bufkin,0.0889,0.2,0.1111
 2023-06-22 15:31:45.467182,NBA Draft - NBA Draft 2023 - Draft Position - Ausar Thompson - Draft Position,Under 5.5,0.08779999999999999,0.6,0.5122
-2023-06-22 12:31:17.076519,NBA Draft - NBA Draft 2023 - Exact Order Parlays - Top 3 ,"1: Victor Wembanyama, 2: Scoot Henderson, 3: Brandon Miller",0.0857,0.2857,0.2
 2023-06-22 15:31:45.528665,NBA Draft - NBA Draft 2023 - Exact Order Parlays - Top 3 ,"1: Victor Wembanyama, 2: Scoot Henderson, 3: Brandon Miller",0.0847,0.3704,0.2857
 2023-06-22 16:31:20.828593,NBA Draft - NBA Draft 2023 - 3rd Overall Pick,Brandon Miller,0.08390000000000003,0.4348,0.3509
 2023-06-22 23:32:06.845727,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Ausar Thompson,0.08330000000000004,0.75,0.6667
 2023-06-22 22:31:47.864066,NBA Draft - NBA Draft 2023 - Draft Position - Leonard Miller - Draft Position,Under 21.5,0.0805999999999999,0.6154,0.5348
 2023-06-22 13:31:35.608887,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Keyontae Johnson,0.07880000000000001,0.1111,0.0323
-2023-06-22 13:31:35.059027,Celebrity Boxing - Elon Musk vs Mark Zuckerberg - Fight Winner ,Elon Musk,0.07619999999999993,0.6,0.5238
 2023-06-22 23:32:06.867223,NBA Draft - NBA Draft 2023 - 7th Overall Pick,Jarace Walker,0.07619999999999993,0.6,0.5238
-2023-06-22 13:31:35.608887,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Emoni Bates,0.07579999999999999,0.1667,0.0909
+2023-06-22 13:31:35.059027,Celebrity Boxing - Elon Musk vs Mark Zuckerberg - Fight Winner ,Elon Musk,0.07619999999999993,0.6,0.5238
 2023-06-22 19:31:45.725745,NBA Draft - NBA Draft 2023 - 6th Overall Pick,Taylor Hendricks,0.07579999999999999,0.1667,0.0909
+2023-06-22 13:31:35.608887,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Emoni Bates,0.07579999999999999,0.1667,0.0909
 2023-06-22 15:31:45.400276,NBA Draft - NBA Draft 2023 - 2nd Overall Pick,Scoot Henderson,0.0731,0.3509,0.2778
 2023-06-22 22:31:48.006867,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 20 Pick,Leonard Miller,0.07120000000000004,0.4348,0.3636
 2023-06-22 18:31:47.045623,NBA Draft - NBA Draft 2023 - 2nd Overall Pick,Scoot Henderson,0.06820000000000004,0.8182,0.75
@@ -55,35 +54,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-22 23:32:07.563489,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 5 Pick,Ausar Thompson,0.06659999999999999,0.7333,0.6667
 2023-06-22 23:32:06.929031,NBA Draft - NBA Draft 2023 - Draft Position - Bilal Coulibaly - Draft Position,Over 11.5,0.06659999999999999,0.3333,0.2667
 2023-06-22 23:32:07.075154,NBA Draft - NBA Draft 2023 - Draft Position - Jarace Walker - Draft Position,Over 6.5,0.06520000000000004,0.7143,0.6491
-2023-06-22 20:32:13.690010,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 10 Pick,Bilal Coulibaly,0.06519999999999998,0.5,0.4348
-2023-06-22 15:31:45.407385,NBA Draft - NBA Draft 2023 - 3rd Overall Pick,Brandon Miller,0.06519999999999998,0.3509,0.2857
 2023-06-22 18:31:47.065733,NBA Draft - NBA Draft 2023 - 6th Overall Pick,Anthony Black,0.06519999999999998,0.5,0.4348
-2023-06-22 19:31:46.025883,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 20 Pick,Jaime Jaquez Jr.,0.06519999999999992,0.6,0.5348
+2023-06-22 15:31:45.407385,NBA Draft - NBA Draft 2023 - 3rd Overall Pick,Brandon Miller,0.06519999999999998,0.3509,0.2857
+2023-06-22 20:32:13.690010,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 10 Pick,Bilal Coulibaly,0.06519999999999998,0.5,0.4348
 2023-06-22 15:31:45.566907,NBA Draft - NBA Draft 2023 - To Be Drafted First - Ausar Thompson vs Jarace Walker,Ausar Thompson,0.06519999999999992,0.6,0.5348
+2023-06-22 19:31:46.025883,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 20 Pick,Jaime Jaquez Jr.,0.06519999999999992,0.6,0.5348
 2023-06-22 22:31:47.807250,NBA Draft - NBA Draft 2023 - Draft Position - Gradey Dick - Draft Position,Over 10.5,0.06280000000000008,0.8889,0.8261
-2023-06-22 12:31:17.059725,NBA Draft - NBA Draft 2023 - Draft Position - Leonard Miller - Draft Position,Over 21.5,0.06220000000000003,0.5744,0.5122
 2023-06-22 23:32:07.521303,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 10 Pick,Bilal Coulibaly,0.0595,0.5833,0.5238
-2023-06-22 23:32:07.480943,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Marcus Sasser,0.05710000000000001,0.2,0.1429
 2023-06-22 23:32:07.563489,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 5 Pick,Anthony Black,0.05710000000000001,0.2,0.1429
-2023-06-22 12:31:16.965633,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Ausar Thompson,0.05559999999999998,0.5556,0.5
-2023-06-22 18:31:47.055870,NBA Draft - NBA Draft 2023 - 4th Overall Pick,Brandon Miller,0.05550000000000002,0.2222,0.1667
+2023-06-22 23:32:07.480943,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Marcus Sasser,0.05710000000000001,0.2,0.1429
 2023-06-22 22:31:47.991122,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Andre Jackson Jr.,0.05550000000000002,0.2222,0.1667
+2023-06-22 18:31:47.055870,NBA Draft - NBA Draft 2023 - 4th Overall Pick,Brandon Miller,0.05550000000000002,0.2222,0.1667
 2023-06-22 21:31:59.109344,NBA Draft - NBA Draft 2023 - Draft Position - Anthony Black - Draft Position,Under 8.5,0.05380000000000007,0.9,0.8462
 2023-06-22 19:31:45.807827,NBA Draft - NBA Draft 2023 - Draft Position - Jordan Hawkins - Draft Position,Under 15.5,0.05300000000000005,0.5652,0.5122
 2023-06-22 19:31:46.015753,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 10 Pick,Jordan Hawkins,0.052399999999999995,0.0909,0.0385
-2023-06-22 19:31:45.762296,NBA Draft - NBA Draft 2023 - Draft Position - Bilal Coulibaly - Draft Position,Under 11.5,0.05130000000000001,0.6667,0.6154
 2023-06-22 19:31:46.034390,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 5 Pick,Ausar Thompson,0.05130000000000001,0.6667,0.6154
+2023-06-22 19:31:45.762296,NBA Draft - NBA Draft 2023 - Draft Position - Bilal Coulibaly - Draft Position,Under 11.5,0.05130000000000001,0.6667,0.6154
 2023-06-22 19:31:46.015753,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 10 Pick,Bilal Coulibaly,0.05020000000000002,0.4348,0.3846
 2023-06-22 20:32:13.670149,NBA Draft - NBA Draft 2023 - To Be Drafted First - Rayan Rupert vs Gregory Jackson,Rayan Rupert,0.050000000000000044,0.8,0.75
-2023-06-22 12:31:16.973414,NBA Draft - NBA Draft 2023 - 6th Overall Pick,Cam Whitmore,0.04999999999999999,0.25,0.2
 2023-06-22 15:31:45.427526,NBA Draft - NBA Draft 2023 - 6th Overall Pick,Ausar Thompson,0.04910000000000003,0.4,0.3509
 2023-06-22 19:31:46.007990,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Julian Strawther,0.048600000000000004,0.1111,0.0625
-2023-06-22 12:31:16.973414,NBA Draft - NBA Draft 2023 - 6th Overall Pick,Jarace Walker,0.04849999999999999,0.1818,0.1333
-2023-06-22 15:31:45.614590,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Gregory Jackson,0.04849999999999999,0.5833,0.5348
 2023-06-22 18:31:47.070693,NBA Draft - NBA Draft 2023 - 7th Overall Pick,Anthony Black,0.04849999999999999,0.1538,0.1053
-2023-06-22 21:31:59.083333,NBA Draft - NBA Draft 2023 - 6th Overall Pick,Ausar Thompson,0.047599999999999976,0.3333,0.2857
+2023-06-22 15:31:45.614590,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Gregory Jackson,0.04849999999999999,0.5833,0.5348
 2023-06-22 21:31:59.224304,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Emoni Bates,0.047599999999999976,0.3333,0.2857
-2023-06-22 12:31:16.929610,NBA Draft - NBA Draft 2023 - 10th Overall Pick,Cam Whitmore,0.04650000000000001,0.1053,0.0588
+2023-06-22 21:31:59.083333,NBA Draft - NBA Draft 2023 - 6th Overall Pick,Ausar Thompson,0.047599999999999976,0.3333,0.2857
 2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Edoardo Molinari,0.0465,0.0588,0.0123
 2023-06-22 20:32:13.569189,NBA Draft - NBA Draft 2023 - Draft Position - Anthony Black - Draft Position,Under 8.5,0.04619999999999991,0.8462,0.8
 2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Romain Langasque,0.0448,0.0833,0.0385
@@ -92,36 +86,34 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-22 19:31:45.831091,NBA Draft - NBA Draft 2023 - Draft Position - Taylor Hendricks - Draft Position,Over 8.5,0.04409999999999992,0.6667,0.6226
 2023-06-22 16:31:20.860160,NBA Draft - NBA Draft 2023 - 9th Overall Pick,Cam Whitmore,0.043800000000000006,0.2105,0.1667
 2023-06-22 23:32:06.995954,NBA Draft - NBA Draft 2023 - Draft Position - Gradey Dick - Draft Position,Under 10.5,0.0436,0.2222,0.1786
-2023-06-22 12:31:16.989365,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Taylor Hendricks,0.042899999999999994,0.1429,0.1
-2023-06-22 12:31:16.989365,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Ausar Thompson,0.04169999999999999,0.1667,0.125
 2023-06-22 23:32:07.539039,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 20 Pick,Leonard Miller,0.04139999999999999,0.4762,0.4348
-2023-06-22 21:31:59.094621,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Kobe Bufkin,0.04040000000000002,0.2222,0.1818
 2023-06-22 20:32:13.684915,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Amari Bailey,0.04040000000000002,0.2222,0.1818
+2023-06-22 21:31:59.094621,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Kobe Bufkin,0.04040000000000002,0.2222,0.1818
 2023-06-22 20:32:13.665201,NBA Draft - NBA Draft 2023 - To Be Drafted First - Jordan Hawkins vs Keyonte George,Keyonte George,0.039600000000000024,0.4651,0.4255
 2023-06-22 18:31:47.080875,NBA Draft - NBA Draft 2023 - 9th Overall Pick,Cam Whitmore,0.03950000000000001,0.25,0.2105
-2023-06-22 19:31:45.720249,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Ausar Thompson,0.03709999999999991,0.6667,0.6296
 2023-06-22 19:31:45.892155,NBA Draft - NBA Draft 2023 - To Be Drafted First - Ausar Thompson vs Jarace Walker,Ausar Thompson,0.03709999999999991,0.6667,0.6296
+2023-06-22 19:31:45.720249,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Ausar Thompson,0.03709999999999991,0.6667,0.6296
 2023-06-22 19:31:45.757587,NBA Draft - NBA Draft 2023 - Draft Position - Ausar Thompson - Draft Position,Under 5.5,0.03709999999999991,0.6667,0.6296
 2023-06-22 15:31:45.427526,NBA Draft - NBA Draft 2023 - 6th Overall Pick,Anthony Black,0.03640000000000004,0.4,0.3636
 2023-06-22 20:32:13.690010,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 10 Pick,Dereck Lively II,0.03639999999999999,0.6364,0.6
+2023-06-23 00:31:43.062840,Celebrity Boxing - Elon Musk vs Mark Zuckerberg - Fight Winner ,Mark Zuckerberg,0.035999999999999976,0.5122,0.4762
 2023-06-22 19:31:45.794192,NBA Draft - NBA Draft 2023 - Draft Position - Jarace Walker - Draft Position,Under 6.5,0.035999999999999976,0.5122,0.4762
-2023-06-22 12:31:16.944552,NBA Draft - NBA Draft 2023 - 2nd Overall Pick,Scoot Henderson,0.03570000000000001,0.2857,0.25
 2023-06-22 19:31:46.007990,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Trayce Jackson-Davis,0.03570000000000001,0.2857,0.25
-2023-06-22 17:31:27.553722,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
-2023-06-22 18:31:47.279808,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
+2023-06-22 13:31:35.591042,NBA Draft - NBA Draft 2023 - To Be Drafted First - Rayan Rupert vs Gregory Jackson,Rayan Rupert,0.035699999999999954,0.75,0.7143
+2023-06-22 22:31:48.135488,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
 2023-06-22 13:31:35.694285,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
 2023-06-22 14:31:38.248346,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
+2023-06-22 23:32:07.833194,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
 2023-06-22 15:31:45.751307,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
 2023-06-22 16:31:21.117106,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
-2023-06-22 21:31:59.323574,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
+2023-06-23 00:31:43.482574,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
+2023-06-22 17:31:27.553722,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
+2023-06-22 18:31:47.279808,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
 2023-06-22 19:31:46.313722,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
 2023-06-22 20:32:13.776552,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
-2023-06-22 22:31:48.135488,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
-2023-06-22 23:32:07.833194,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
-2023-06-22 13:31:35.591042,NBA Draft - NBA Draft 2023 - To Be Drafted First - Rayan Rupert vs Gregory Jackson,Rayan Rupert,0.035699999999999954,0.75,0.7143
-2023-06-22 12:31:17.267788,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
-2023-06-22 23:32:06.836342,NBA Draft - NBA Draft 2023 - 4th Overall Pick,Amen Thompson,0.0353,0.8,0.7647
+2023-06-22 21:31:59.323574,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.035699999999999954,0.75,0.7143
 2023-06-22 18:31:47.075595,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Cam Whitmore,0.0353,0.2353,0.2
+2023-06-22 23:32:06.836342,NBA Draft - NBA Draft 2023 - 4th Overall Pick,Amen Thompson,0.0353,0.8,0.7647
 2023-06-22 22:31:47.947184,NBA Draft - NBA Draft 2023 - To Be Drafted First - Jordan Hawkins vs Keyonte George,Keyonte George,0.03489999999999999,0.5,0.4651
 2023-06-22 21:31:59.159674,NBA Draft - NBA Draft 2023 - Draft Position - Leonard Miller - Draft Position,Under 21.5,0.03480000000000005,0.5348,0.5
 2023-06-22 17:31:27.296432,NBA Draft - NBA Draft 2023 - 6th Overall Pick,Ausar Thompson,0.0348,0.4348,0.4
@@ -130,39 +122,36 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-22 21:31:59.164325,NBA Draft - NBA Draft 2023 - Draft Position - Taylor Hendricks - Draft Position,Under 8.5,0.0348,0.4348,0.4
 2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Adrian Meronk,0.03330000000000001,0.1,0.0667
 2023-06-22 15:31:45.614590,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Colby Jones,0.033299999999999996,0.5455,0.5122
-2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Matthieu Pavon,0.033,0.0526,0.0196
 2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Maximilian Kieffer,0.033,0.0526,0.0196
+2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Matthieu Pavon,0.033,0.0526,0.0196
 2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Adrien Saddier,0.0319,0.0385,0.0066
-2023-06-22 12:31:18.476512,Boxing Lines - Slawa Spomer vs Felice Moncelli - To Win the Bout,Slawa Spomer,0.03180000000000005,0.8889,0.8571
 2023-06-22 15:31:45.289558,NBA Specials - Off-Season Specials - Where will Paul George play next season?,Portland Trail Blazers,0.031799999999999995,0.1429,0.1111
-2023-06-22 23:32:07.480943,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Colby Jones,0.03179999999999994,0.5556,0.5238
 2023-06-22 23:32:07.106839,NBA Draft - NBA Draft 2023 - Draft Position - Jordan Hawkins - Draft Position,Over 15.5,0.03179999999999994,0.5556,0.5238
+2023-06-22 23:32:07.480943,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Colby Jones,0.03179999999999994,0.5556,0.5238
 2023-06-22 23:32:07.006393,NBA Draft - NBA Draft 2023 - Draft Position - Jaime Jaquez Jr. - Draft Position,Over 23.5,0.030299999999999994,0.3636,0.3333
-2023-06-22 19:31:44.629738,CONCACAF Gold Cup - CONCACAF Golf Cup 2023 Futures - Winner,USA,0.030299999999999994,0.3636,0.3333
-2023-06-22 19:31:45.701912,NBA Draft - NBA Draft 2023 - 3rd Overall Pick,Amen Thompson,0.030299999999999994,0.3636,0.3333
-2023-06-22 15:31:45.614590,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,James Nnaji,0.030299999999999994,0.6667,0.6364
-2023-06-22 20:32:13.631246,NBA Draft - NBA Draft 2023 - Exact Order Parlays - Top 3 ,"1: Victor Wembanyama, 2: Brandon Miller, 3: Scoot Henderson",0.030299999999999994,0.3636,0.3333
-2023-06-22 12:31:16.973414,NBA Draft - NBA Draft 2023 - 6th Overall Pick,Anthony Black,0.030299999999999994,0.3636,0.3333
 2023-06-22 23:32:06.913421,NBA Draft - NBA Draft 2023 - Draft Position - Ausar Thompson - Draft Position,Under 5.5,0.030299999999999994,0.697,0.6667
+2023-06-22 15:31:45.614590,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,James Nnaji,0.030299999999999994,0.6667,0.6364
+2023-06-22 19:31:45.701912,NBA Draft - NBA Draft 2023 - 3rd Overall Pick,Amen Thompson,0.030299999999999994,0.3636,0.3333
+2023-06-22 20:32:13.631246,NBA Draft - NBA Draft 2023 - Exact Order Parlays - Top 3 ,"1: Victor Wembanyama, 2: Brandon Miller, 3: Scoot Henderson",0.030299999999999994,0.3636,0.3333
+2023-06-22 19:31:44.629738,CONCACAF Gold Cup - CONCACAF Golf Cup 2023 Futures - Winner,USA,0.030299999999999994,0.3636,0.3333
 2023-06-22 17:31:27.333140,NBA Draft - NBA Draft 2023 - Draft Position - Ausar Thompson - Draft Position,Under 5.5,0.02960000000000007,0.6296,0.6
 2023-06-22 16:31:20.943747,NBA Draft - NBA Draft 2023 - Exact Order Parlays - Top 3 ,"1: Victor Wembanyama, 2: Scoot Henderson, 3: Brandon Miller",0.029600000000000015,0.4,0.3704
 2023-06-22 15:31:45.441667,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Bilal Coulibaly,0.029299999999999993,0.0769,0.0476
-2023-06-22 12:31:16.929610,NBA Draft - NBA Draft 2023 - 10th Overall Pick,Dereck Lively,0.028299999999999992,0.3509,0.3226
 2023-06-22 15:31:45.614590,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Maxwell Lewis,0.027800000000000047,0.7778,0.75
 2023-06-22 16:31:20.860160,NBA Draft - NBA Draft 2023 - 9th Overall Pick,Taylor Hendricks,0.02779999999999999,0.25,0.2222
 2023-06-22 20:32:13.695099,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 20 Pick,Kris Murray,0.02779999999999999,0.25,0.2222
 2023-06-22 18:31:47.194079,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 10 Pick,Bilal Coulibaly,0.027500000000000024,0.3846,0.3571
 2023-06-22 13:31:36.732137,Boxing Lines - Caleb Truax vs Burley Brooks - To Win the Bout,Burley Brooks,0.02729999999999999,0.2273,0.2
+2023-06-22 19:31:46.007990,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Sidy Cissoko,0.02560000000000001,0.3333,0.3077
 2023-06-22 18:31:46.930832,NBA Futures - 2023/24 NBA Season - 2023-24 Eastern Conference Winner,Boston Celtics,0.02560000000000001,0.3333,0.3077
 2023-06-22 17:31:27.446166,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Jordan Walsh,0.02560000000000001,0.3333,0.3077
-2023-06-22 19:31:46.007990,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Sidy Cissoko,0.02560000000000001,0.3333,0.3077
 2023-06-22 19:31:45.838751,NBA Draft - NBA Draft 2023 - Exact Order Parlays - Top 3 ,"1: Victor Wembanyama, 2: Brandon Miller, 3: Scoot Henderson",0.02560000000000001,0.3333,0.3077
 2023-06-22 23:32:07.335651,NBA Draft - NBA Draft 2023 - To Be Drafted First - Amen Thompson vs Ausar Thompson,Amen Thompson,0.02529999999999999,0.8824,0.8571
-2023-06-22 16:31:20.914811,NBA Draft - NBA Draft 2023 - Draft Position - Jordan Hawkins - Draft Position,Under 15.5,0.024399999999999977,0.5122,0.4878
 2023-06-22 14:31:38.058367,NBA Draft - NBA Draft 2023 - Draft Position - Ausar Thompson - Draft Position,Under 5.5,0.024399999999999977,0.5122,0.4878
+2023-06-22 16:31:20.914811,NBA Draft - NBA Draft 2023 - Draft Position - Jordan Hawkins - Draft Position,Under 15.5,0.024399999999999977,0.5122,0.4878
+2023-06-22 21:31:59.231157,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 10 Pick,Bilal Coulibaly,0.023800000000000043,0.5238,0.5
 2023-06-22 21:31:59.083333,NBA Draft - NBA Draft 2023 - 6th Overall Pick,Anthony Black,0.023800000000000043,0.5238,0.5
 2023-06-22 20:32:13.602627,NBA Draft - NBA Draft 2023 - Draft Position - Jordan Hawkins - Draft Position,Over 15.5,0.023800000000000043,0.5238,0.5
-2023-06-22 21:31:59.231157,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 10 Pick,Bilal Coulibaly,0.023800000000000043,0.5238,0.5
 2023-06-22 19:31:45.825165,NBA Draft - NBA Draft 2023 - Draft Position - Leonard Miller - Draft Position,Under 21.5,0.023799999999999988,0.5,0.4762
 2023-06-22 16:31:21.023845,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 20 Pick,Olivier-Maxence Prosper,0.023799999999999988,0.5,0.4762
 2023-06-22 19:31:45.848829,NBA Draft - NBA Draft 2023 - To Be Drafted First - Amen Thompson vs Ausar Thompson,Amen Thompson,0.023799999999999932,0.8571,0.8333
@@ -174,32 +163,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-22 15:31:45.414511,NBA Draft - NBA Draft 2023 - 4th Overall Pick,Amen Thompson,0.022199999999999998,0.8,0.7778
 2023-06-22 15:31:45.629721,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 20 Pick,Noah Clowney,0.02200000000000002,0.7143,0.6923
 2023-06-22 16:31:21.013469,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Jordan Walsh,0.021999999999999964,0.3077,0.2857
-2023-06-22 12:31:17.053048,NBA Draft - NBA Draft 2023 - Draft Position - Keyonte George - Draft Position,Over 13.5,0.021700000000000053,0.7778,0.7561
 2023-06-22 17:31:27.446166,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Keyontae Johnson,0.02020000000000001,0.1111,0.0909
-2023-06-22 12:31:18.514878,Boxing Lines - Simon Zachenhuber vs Armen Yepremyan - To Win the Bout,Simon Zachenhuber,0.020199999999999996,0.9091,0.8889
 2023-06-22 23:32:07.049875,NBA Draft - NBA Draft 2023 - Draft Position - Jalen Hood-Schifino - Draft Position,Over 14.5,0.019699999999999995,0.4545,0.4348
 2023-06-22 15:31:45.636718,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 5 Pick,Anthony Black,0.019699999999999995,0.125,0.1053
-2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Tom McKibbin,0.019099999999999995,0.0435,0.0244
 2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Marcel Schneider,0.019099999999999995,0.0435,0.0244
+2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Tom McKibbin,0.019099999999999995,0.0435,0.0244
 2023-06-22 15:31:45.614590,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Jordan Walsh,0.019000000000000017,0.2857,0.2667
 2023-06-22 16:31:21.018776,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 10 Pick,Kobe Bufkin,0.018799999999999983,0.3636,0.3448
 2023-06-22 23:32:06.836342,NBA Draft - NBA Draft 2023 - 4th Overall Pick,Ausar Thompson,0.01820000000000002,0.2,0.1818
 2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Scott Jamieson,0.0181,0.0345,0.0164
 2023-06-22 19:31:46.034390,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 5 Pick,Anthony Black,0.0179,0.1429,0.125
 2023-06-22 22:31:47.793149,NBA Draft - NBA Draft 2023 - Draft Position - Bilal Coulibaly - Draft Position,Under 11.5,0.017400000000000082,0.8,0.7826
-2023-06-22 13:31:35.586452,NBA Draft - NBA Draft 2023 - To Be Drafted First - Jordan Hawkins vs Keyonte George,Keyonte George,0.017299999999999982,0.4255,0.4082
 2023-06-22 15:31:45.512915,NBA Draft - NBA Draft 2023 - Draft Position - Leonard Miller - Draft Position,Over 21.5,0.017299999999999982,0.5917,0.5744
-2023-06-22 13:31:35.608887,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Sidy Cissoko,0.017299999999999982,0.303,0.2857
-2023-06-22 16:31:20.880674,NBA Draft - NBA Draft 2023 - Draft Position - Bilal Coulibaly - Draft Position,Under 11.5,0.017299999999999982,0.5917,0.5744
 2023-06-22 18:31:47.113547,NBA Draft - NBA Draft 2023 - Draft Position - Jarace Walker - Draft Position,Over 6.5,0.017299999999999982,0.5917,0.5744
+2023-06-22 13:31:35.586452,NBA Draft - NBA Draft 2023 - To Be Drafted First - Jordan Hawkins vs Keyonte George,Keyonte George,0.017299999999999982,0.4255,0.4082
+2023-06-22 16:31:20.880674,NBA Draft - NBA Draft 2023 - Draft Position - Bilal Coulibaly - Draft Position,Under 11.5,0.017299999999999982,0.5917,0.5744
+2023-06-22 13:31:35.608887,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Sidy Cissoko,0.017299999999999982,0.303,0.2857
 2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Jayden Schaper,0.0168,0.0278,0.011
 2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Daan Huizing,0.0167,0.0217,0.005
 2023-06-22 18:31:47.080875,NBA Draft - NBA Draft 2023 - 9th Overall Pick,Taylor Hendricks,0.016699999999999993,0.2667,0.25
 2023-06-22 19:31:46.015753,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 10 Pick,Dereck Lively II,0.016699999999999937,0.6,0.5833
 2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Niklas Norgaard Mller,0.0157,0.0435,0.0278
 2023-06-22 19:31:47.819972,ONE Championship - Rong Fan vs Shamil Erdogan - To Win the Bout,Shamil Erdogan,0.015699999999999936,0.8824,0.8667
-2023-06-22 16:31:20.966513,NBA Draft - NBA Draft 2023 - To Be Drafted First - Ausar Thompson vs Jarace Walker,Ausar Thompson,0.01539999999999997,0.6154,0.6
 2023-06-22 16:31:21.029089,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 5 Pick,Ausar Thompson,0.01539999999999997,0.6154,0.6
+2023-06-22 16:31:20.966513,NBA Draft - NBA Draft 2023 - To Be Drafted First - Ausar Thompson vs Jarace Walker,Ausar Thompson,0.01539999999999997,0.6154,0.6
 2023-06-22 16:31:20.840667,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Ausar Thompson,0.01539999999999997,0.6154,0.6
 2023-06-22 21:31:59.175784,NBA Draft - NBA Draft 2023 - Exact Order Parlays - Top 4,"1: Victor Wembanyama, 2: Scoot Henderson, 3: Brandon Miller, 4: Ausar Thompson",0.015300000000000001,0.0476,0.0323
 2023-06-22 19:31:45.739337,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Kobe Bufkin,0.015100000000000002,0.1818,0.1667
@@ -208,16 +195,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-22 15:31:45.614590,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Trayce Jackson-Davis,0.01469999999999999,0.25,0.2353
 2023-06-22 16:31:20.845437,NBA Draft - NBA Draft 2023 - 6th Overall Pick,Taylor Hendricks,0.01440000000000001,0.1053,0.0909
 2023-06-22 23:32:06.887253,NBA Draft - NBA Draft 2023 - 9th Overall Pick,Jarace Walker,0.014399999999999996,0.0769,0.0625
-2023-06-22 17:31:27.409208,NBA Draft - NBA Draft 2023 - To Be Drafted First - Ausar Thompson vs Jarace Walker,Ausar Thompson,0.014200000000000101,0.6296,0.6154
 2023-06-22 17:31:27.289598,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Ausar Thompson,0.014200000000000101,0.6296,0.6154
+2023-06-22 17:31:27.409208,NBA Draft - NBA Draft 2023 - To Be Drafted First - Ausar Thompson vs Jarace Walker,Ausar Thompson,0.014200000000000101,0.6296,0.6154
 2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Aaron Cockerill,0.014199999999999999,0.0294,0.0152
-2023-06-22 12:31:16.989365,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Gradey Dick,0.014100000000000001,0.0526,0.0385
 2023-06-22 15:31:45.414511,NBA Draft - NBA Draft 2023 - 4th Overall Pick,Scoot Henderson,0.014100000000000001,0.0526,0.0385
 2023-06-22 21:31:59.170786,NBA Draft - NBA Draft 2023 - Exact Order Parlays - Top 3 ,"1: Victor Wembanyama, 2: Brandon Miller, 3: Amen Thompson",0.014099999999999998,0.0385,0.0244
 2023-06-22 16:31:20.835359,NBA Draft - NBA Draft 2023 - 4th Overall Pick,Brandon Miller,0.014099999999999994,0.0667,0.0526
 2023-06-22 18:31:48.531437,Boxing Lines - Sarah Bormann vs Perla Perez - To Win the Bout,Sarah Bormann,0.014000000000000012,0.9231,0.9091
-2023-06-22 19:31:46.025883,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 20 Pick,James Nnaji,0.013999999999999999,0.0909,0.0769
 2023-06-22 19:31:45.537819,NBA Futures - 2023/24 NBA Season - 2023-24 NBA Champion,Golden State Warriors,0.013999999999999999,0.0909,0.0769
+2023-06-22 19:31:46.025883,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 20 Pick,James Nnaji,0.013999999999999999,0.0909,0.0769
 2023-06-22 15:31:45.614590,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Brice Sensabaugh,0.013900000000000023,0.8889,0.875
 2023-06-22 15:31:45.614590,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Rayan Rupert,0.013900000000000023,0.8889,0.875
 2023-06-22 20:32:13.684915,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Keyontae Johnson,0.013899999999999996,0.125,0.1111
@@ -231,9 +217,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-22 19:31:45.731098,NBA Draft - NBA Draft 2023 - 7th Overall Pick,Jarace Walker,0.011600000000000055,0.5238,0.5122
 2023-06-22 23:32:07.480943,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Tristan Vukcevic,0.011199999999999995,0.0588,0.0476
 2023-06-22 23:32:05.152430,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - Winner,Jamaica,0.011199999999999995,0.0588,0.0476
-2023-06-22 15:31:45.614590,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Kobe Brown,0.011099999999999999,0.1111,0.1
 2023-06-22 15:31:45.555537,NBA Draft - NBA Draft 2023 - To Be Drafted First - Anthony Black vs Taylor Hendricks,Anthony Black,0.011099999999999999,0.7333,0.7222
-2023-06-22 12:31:16.510808,Celebrity Boxing - Elon Musk vs Mark Zuckerberg - Fight Winner ,Mark Zuckerberg,0.01100000000000001,0.5348,0.5238
+2023-06-22 15:31:45.614590,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Kobe Brown,0.011099999999999999,0.1111,0.1
 2023-06-22 17:31:27.289598,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Brandon Miller,0.010700000000000001,0.0385,0.0278
 2023-06-22 17:31:27.289598,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Jarace Walker,0.010699999999999987,0.3333,0.3226
 2023-06-22 19:31:45.762296,NBA Draft - NBA Draft 2023 - Draft Position - Bilal Coulibaly - Draft Position,Over 11.5,-0.010099999999999998,0.4444,0.4545
@@ -242,55 +227,49 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-22 16:31:20.966513,NBA Draft - NBA Draft 2023 - To Be Drafted First - Ausar Thompson vs Jarace Walker,Jarace Walker,-0.010599999999999998,0.4545,0.4651
 2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Jeong Weon Ko,-0.0106,0.0017,0.0123
 2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Zander Lombard,-0.0106,0.0004,0.011
-2023-06-22 16:31:20.840667,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Jarace Walker,-0.010699999999999987,0.3226,0.3333
 2023-06-22 19:31:45.720249,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Jarace Walker,-0.010699999999999987,0.3226,0.3333
-2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Takumi Kanaya,-0.010700000000000001,0.0278,0.0385
+2023-06-22 16:31:20.840667,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Jarace Walker,-0.010699999999999987,0.3226,0.3333
 2023-06-22 17:31:27.267399,NBA Draft - NBA Draft 2023 - 3rd Overall Pick,Cam Whitmore,-0.010700000000000001,0.0278,0.0385
-2023-06-22 12:31:16.965633,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Amen Thompson,-0.010899999999999993,0.1429,0.1538
-2023-06-22 12:31:16.510808,Celebrity Boxing - Elon Musk vs Mark Zuckerberg - Fight Winner ,Elon Musk,-0.01100000000000001,0.5238,0.5348
+2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Takumi Kanaya,-0.010700000000000001,0.0278,0.0385
 2023-06-22 20:32:13.684915,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Kobe Brown,-0.011099999999999999,0.1,0.1111
 2023-06-22 13:31:35.608887,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Kobe Brown,-0.011099999999999999,0.1,0.1111
 2023-06-22 13:31:35.581886,NBA Draft - NBA Draft 2023 - To Be Drafted First - Jett Howard vs Leonard Miller,Leonard Miller,-0.011099999999999999,0.4651,0.4762
 2023-06-22 15:31:45.414511,NBA Draft - NBA Draft 2023 - 4th Overall Pick,Jarace Walker,-0.011199999999999995,0.0476,0.0588
-2023-06-22 12:31:16.929610,NBA Draft - NBA Draft 2023 - 10th Overall Pick,Jarace Walker,-0.011199999999999995,0.0476,0.0588
 2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Joost Luiten,-0.011200000000000002,0.0132,0.0244
 2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Jazz Janewattananond,-0.011300000000000001,0.001,0.0123
 2023-06-22 18:31:47.051055,NBA Draft - NBA Draft 2023 - 3rd Overall Pick,Cam Whitmore,-0.011399999999999997,0.0164,0.0278
 2023-06-22 15:31:45.555537,NBA Draft - NBA Draft 2023 - To Be Drafted First - Anthony Black vs Taylor Hendricks,Taylor Hendricks,-0.01150000000000001,0.3333,0.3448
+2023-06-22 18:31:47.113547,NBA Draft - NBA Draft 2023 - Draft Position - Jarace Walker - Draft Position,Under 6.5,-0.0116,0.4762,0.4878
 2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Julien Brun,-0.0116,0.0025,0.0141
 2023-06-22 15:31:45.512915,NBA Draft - NBA Draft 2023 - Draft Position - Leonard Miller - Draft Position,Under 21.5,-0.0116,0.4762,0.4878
-2023-06-22 18:31:47.113547,NBA Draft - NBA Draft 2023 - Draft Position - Jarace Walker - Draft Position,Under 6.5,-0.0116,0.4762,0.4878
 2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Hennie Du Plessis,-0.0116,0.0025,0.0141
-2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Kiradech Aphibarnrat,-0.0116,0.0036,0.0152
 2023-06-22 16:31:20.880674,NBA Draft - NBA Draft 2023 - Draft Position - Bilal Coulibaly - Draft Position,Over 11.5,-0.0116,0.4762,0.4878
+2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Kiradech Aphibarnrat,-0.0116,0.0036,0.0152
 2023-06-22 16:31:20.899865,NBA Draft - NBA Draft 2023 - Draft Position - Gradey Dick - Draft Position,Under 10.5,-0.011899999999999994,0.2381,0.25
-2023-06-22 14:31:38.063070,NBA Draft - NBA Draft 2023 - Draft Position - Bilal Coulibaly - Draft Position,Over 11.5,-0.012199999999999989,0.4878,0.5
 2023-06-22 16:31:20.948864,NBA Draft - NBA Draft 2023 - Exact Order Parlays - Top 5,"1: Victor Wembanyama, 2: Brandon Miller, 3: Scoot Henderson, 4: Amen Thompson, 5: Ausar Thompson",-0.012199999999999989,0.4878,0.5
+2023-06-22 14:31:38.063070,NBA Draft - NBA Draft 2023 - Draft Position - Bilal Coulibaly - Draft Position,Over 11.5,-0.012199999999999989,0.4878,0.5
 2023-06-22 16:31:20.909793,NBA Draft - NBA Draft 2023 - Draft Position - Jarace Walker - Draft Position,Under 6.5,-0.012199999999999989,0.4878,0.5
-2023-06-22 12:31:17.013152,NBA Draft - NBA Draft 2023 - Draft Position - Ausar Thompson - Draft Position,Under 5.5,-0.012199999999999989,0.4878,0.5
 2023-06-22 13:31:35.586452,NBA Draft - NBA Draft 2023 - To Be Drafted First - Jordan Hawkins vs Keyonte George,Jordan Hawkins,-0.012299999999999978,0.6429,0.6552
 2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Dale Whitnell,-0.012799999999999999,0.0013,0.0141
-2023-06-22 15:31:45.414511,NBA Draft - NBA Draft 2023 - 4th Overall Pick,Cam Whitmore,-0.012899999999999995,0.1538,0.1667
 2023-06-22 16:31:20.860160,NBA Draft - NBA Draft 2023 - 9th Overall Pick,Anthony Black,-0.012899999999999995,0.1538,0.1667
+2023-06-22 15:31:45.414511,NBA Draft - NBA Draft 2023 - 4th Overall Pick,Cam Whitmore,-0.012899999999999995,0.1538,0.1667
 2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Matthew Southgate,-0.012899999999999998,0.005,0.0179
-2023-06-22 19:31:45.739337,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Bilal Coulibaly,-0.0131,0.2222,0.2353
 2023-06-22 17:31:27.272529,NBA Draft - NBA Draft 2023 - 4th Overall Pick,Scoot Henderson,-0.0131,0.0345,0.0476
+2023-06-22 19:31:45.739337,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Bilal Coulibaly,-0.0131,0.2222,0.2353
 2023-06-22 18:31:47.065733,NBA Draft - NBA Draft 2023 - 6th Overall Pick,Cam Whitmore,-0.0131,0.2222,0.2353
 2023-06-22 18:31:47.055870,NBA Draft - NBA Draft 2023 - 4th Overall Pick,Amen Thompson,-0.0131,0.7647,0.7778
 2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Wilco Nienaber,-0.013600000000000001,0.0028,0.0164
 2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Eddie Pepperell,-0.0137,0.0004,0.0141
 2023-06-22 15:31:45.441667,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Cason Wallace,-0.013899999999999996,0.1111,0.125
-2023-06-22 13:31:35.608887,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Rayan Rupert,-0.013900000000000023,0.875,0.8889
 2023-06-22 13:31:35.608887,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Brice Sensabaugh,-0.013900000000000023,0.875,0.8889
-2023-06-22 16:31:20.948864,NBA Draft - NBA Draft 2023 - Exact Order Parlays - Top 5,"1: Victor Wembanyama, 2: Brandon Miller, 3: Scoot Henderson, 4: Cam Whitmore, 5: Amen Thompson",-0.013999999999999999,0.0769,0.0909
+2023-06-22 13:31:35.608887,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Rayan Rupert,-0.013900000000000023,0.875,0.8889
 2023-06-22 19:31:45.725745,NBA Draft - NBA Draft 2023 - 6th Overall Pick,Amen Thompson,-0.013999999999999999,0.0769,0.0909
+2023-06-22 16:31:20.948864,NBA Draft - NBA Draft 2023 - Exact Order Parlays - Top 5,"1: Victor Wembanyama, 2: Brandon Miller, 3: Scoot Henderson, 4: Cam Whitmore, 5: Amen Thompson",-0.013999999999999999,0.0769,0.0909
 2023-06-22 23:32:07.049875,NBA Draft - NBA Draft 2023 - Draft Position - Jalen Hood-Schifino - Draft Position,Under 14.5,-0.014200000000000101,0.6154,0.6296
-2023-06-22 12:31:16.929610,NBA Draft - NBA Draft 2023 - 10th Overall Pick,Jalen Hood-Schifino,-0.014399999999999996,0.0625,0.0769
 2023-06-22 18:31:47.035011,NBA Draft - NBA Draft 2023 - 10th Overall Pick,Cam Whitmore,-0.01440000000000001,0.0909,0.1053
-2023-06-22 17:31:27.296432,NBA Draft - NBA Draft 2023 - 6th Overall Pick,Cam Whitmore,-0.01469999999999999,0.2353,0.25
 2023-06-22 15:31:45.435078,NBA Draft - NBA Draft 2023 - 7th Overall Pick,Cam Whitmore,-0.01469999999999999,0.2353,0.25
+2023-06-22 17:31:27.296432,NBA Draft - NBA Draft 2023 - 6th Overall Pick,Cam Whitmore,-0.01469999999999999,0.2353,0.25
 2023-06-22 13:31:35.608887,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Maxwell Lewis,-0.014700000000000046,0.75,0.7647
-2023-06-22 12:31:16.929610,NBA Draft - NBA Draft 2023 - 10th Overall Pick,Gradey Dick,-0.015100000000000002,0.1667,0.1818
 2023-06-22 21:32:00.422173,BKFC 45 - Luis Palomino vs James Lilley - To Win the Bout,Luis Palomino,-0.01539999999999997,0.6721,0.6875
 2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Frederic Lacroix,-0.015399999999999999,0.0025,0.0179
 2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Fabrizio Zanotti,-0.0154,0.001,0.0164
@@ -298,37 +277,34 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-22 16:31:20.860160,NBA Draft - NBA Draft 2023 - 9th Overall Pick,Cason Wallace,-0.015700000000000006,0.1176,0.1333
 2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Marcel Siem,-0.0165,0.0079,0.0244
 2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Ewen Ferguson,-0.0165,0.0079,0.0244
-2023-06-22 12:31:16.965633,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Cam Whitmore,-0.016699999999999993,0.25,0.2667
-2023-06-22 18:31:47.075595,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Anthony Black,-0.016699999999999993,0.4,0.4167
 2023-06-22 21:31:59.100231,NBA Draft - NBA Draft 2023 - 9th Overall Pick,Taylor Hendricks,-0.016699999999999993,0.25,0.2667
+2023-06-22 18:31:47.075595,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Anthony Black,-0.016699999999999993,0.4,0.4167
 2023-06-22 13:31:36.732137,Boxing Lines - Caleb Truax vs Burley Brooks - To Win the Bout,Caleb Truax,-0.016799999999999926,0.8403,0.8571
 2023-06-22 23:32:06.822963,NBA Draft - NBA Draft 2023 - 3rd Overall Pick,Amen Thompson,-0.01759999999999999,0.1,0.1176
-2023-06-22 12:31:17.053048,NBA Draft - NBA Draft 2023 - Draft Position - Keyonte George - Draft Position,Under 13.5,-0.017799999999999983,0.2899,0.3077
 2023-06-22 19:31:46.007990,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Jalen Wilson,-0.018099999999999998,0.0588,0.0769
 2023-06-22 19:31:46.007990,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Gregory Jackson,-0.018100000000000005,0.5652,0.5833
+2023-06-22 19:31:47.819972,ONE Championship - Rong Fan vs Shamil Erdogan - To Win the Bout,Rong Fan,-0.01820000000000002,0.1818,0.2
 2023-06-22 17:31:27.272529,NBA Draft - NBA Draft 2023 - 4th Overall Pick,Ausar Thompson,-0.01820000000000002,0.1818,0.2
 2023-06-22 15:31:45.536011,NBA Draft - NBA Draft 2023 - Exact Order Parlays - Top 5,"1: Victor Wembanyama, 2: Brandon Miller, 3: Scoot Henderson, 4: Amen Thompson, 5: Cam Whitmore",-0.01820000000000002,0.1818,0.2
-2023-06-22 19:31:47.819972,ONE Championship - Rong Fan vs Shamil Erdogan - To Win the Bout,Rong Fan,-0.01820000000000002,0.1818,0.2
 2023-06-22 18:31:47.035011,NBA Draft - NBA Draft 2023 - 10th Overall Pick,Bilal Coulibaly,-0.01820000000000002,0.1818,0.2
 2023-06-22 14:31:38.058367,NBA Draft - NBA Draft 2023 - Draft Position - Ausar Thompson - Draft Position,Over 5.5,-0.01880000000000004,0.5556,0.5744
 2023-06-22 16:31:20.914811,NBA Draft - NBA Draft 2023 - Draft Position - Jordan Hawkins - Draft Position,Over 15.5,-0.01880000000000004,0.5556,0.5744
 2023-06-22 16:31:20.943747,NBA Draft - NBA Draft 2023 - Exact Order Parlays - Top 3 ,"1: Victor Wembanyama, 2: Brandon Miller, 3: Scoot Henderson",-0.018999999999999906,0.7143,0.7333
 2023-06-22 19:31:45.731098,NBA Draft - NBA Draft 2023 - 7th Overall Pick,Taylor Hendricks,-0.019000000000000017,0.2667,0.2857
-2023-06-22 18:31:46.930832,NBA Futures - 2023/24 NBA Season - 2023-24 Eastern Conference Winner,Milwaukee Bucks,-0.019000000000000017,0.2667,0.2857
 2023-06-22 22:31:47.793149,NBA Draft - NBA Draft 2023 - Draft Position - Bilal Coulibaly - Draft Position,Over 11.5,-0.019000000000000017,0.2667,0.2857
+2023-06-22 18:31:46.930832,NBA Futures - 2023/24 NBA Season - 2023-24 Eastern Conference Winner,Milwaukee Bucks,-0.019000000000000017,0.2667,0.2857
 2023-06-22 18:31:47.145187,NBA Draft - NBA Draft 2023 - Exact Order Parlays - Top 3 ,"1: Victor Wembanyama, 2: Brandon Miller, 3: Amen Thompson",-0.019099999999999995,0.0244,0.0435
-2023-06-22 17:31:27.409208,NBA Draft - NBA Draft 2023 - To Be Drafted First - Ausar Thompson vs Jarace Walker,Jarace Walker,-0.019699999999999995,0.4348,0.4545
 2023-06-22 15:31:45.435078,NBA Draft - NBA Draft 2023 - 7th Overall Pick,Anthony Black,-0.019699999999999995,0.1053,0.125
+2023-06-22 17:31:27.409208,NBA Draft - NBA Draft 2023 - To Be Drafted First - Ausar Thompson vs Jarace Walker,Jarace Walker,-0.019699999999999995,0.4348,0.4545
 2023-06-22 22:31:47.991122,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Gregory Jackson,-0.01970000000000005,0.5455,0.5652
 2023-06-22 20:32:13.602627,NBA Draft - NBA Draft 2023 - Draft Position - Jordan Hawkins - Draft Position,Under 15.5,-0.01970000000000005,0.5455,0.5652
-2023-06-22 12:31:18.514878,Boxing Lines - Simon Zachenhuber vs Armen Yepremyan - To Win the Bout,Armen Yepremyan,-0.020100000000000007,0.1538,0.1739
-2023-06-22 18:31:47.075595,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Cason Wallace,-0.02020000000000001,0.0909,0.1111
 2023-06-22 15:31:45.614590,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Keyontae Johnson,-0.02020000000000001,0.0909,0.1111
 2023-06-22 15:31:45.536011,NBA Draft - NBA Draft 2023 - Exact Order Parlays - Top 5,"1: Victor Wembanyama, 2: Brandon Miller, 3: Scoot Henderson, 4: Cam Whitmore, 5: Amen Thompson",-0.02020000000000001,0.0909,0.1111
+2023-06-22 18:31:47.075595,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Cason Wallace,-0.02020000000000001,0.0909,0.1111
 2023-06-22 15:31:45.427526,NBA Draft - NBA Draft 2023 - 6th Overall Pick,Taylor Hendricks,-0.02020000000000001,0.0909,0.1111
 2023-06-22 18:31:47.070693,NBA Draft - NBA Draft 2023 - 7th Overall Pick,Amen Thompson,-0.0203,0.0385,0.0588
-2023-06-22 18:31:47.080875,NBA Draft - NBA Draft 2023 - 9th Overall Pick,Anthony Black,-0.02049999999999999,0.1333,0.1538
 2023-06-22 18:31:48.531437,Boxing Lines - Sarah Bormann vs Perla Perez - To Win the Bout,Perla Perez,-0.02049999999999999,0.1333,0.1538
+2023-06-22 18:31:47.080875,NBA Draft - NBA Draft 2023 - 9th Overall Pick,Anthony Black,-0.02049999999999999,0.1333,0.1538
 2023-06-22 17:31:27.272529,NBA Draft - NBA Draft 2023 - 4th Overall Pick,Cam Whitmore,-0.02049999999999999,0.1333,0.1538
 2023-06-22 18:31:47.138210,NBA Draft - NBA Draft 2023 - Draft Position - Taylor Hendricks - Draft Position,Under 8.5,-0.020699999999999996,0.4444,0.4651
 2023-06-22 13:31:35.577145,NBA Draft - NBA Draft 2023 - To Be Drafted First - Ausar Thompson vs Jarace Walker,Jarace Walker,-0.02079999999999993,0.5348,0.5556
@@ -338,42 +314,39 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-22 19:31:46.015753,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 10 Pick,Gradey Dick,-0.021999999999999964,0.2857,0.3077
 2023-06-22 19:31:45.848829,NBA Draft - NBA Draft 2023 - To Be Drafted First - Amen Thompson vs Ausar Thompson,Ausar Thompson,-0.02210000000000001,0.2105,0.2326
 2023-06-22 13:31:36.771060,Boxing Lines - Khalil Coe vs Buneet Bisla - To Win the Bout,Buneet Bisla,-0.02210000000000001,0.2105,0.2326
-2023-06-22 21:31:59.094621,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Bilal Coulibaly,-0.022199999999999998,0.2,0.2222
 2023-06-22 22:31:47.954159,NBA Draft - NBA Draft 2023 - To Be Drafted First - Rayan Rupert vs Gregory Jackson,Rayan Rupert,-0.022199999999999998,0.7778,0.8
+2023-06-22 23:32:06.836342,NBA Draft - NBA Draft 2023 - 4th Overall Pick,Brandon Miller,-0.022199999999999998,0.2,0.2222
+2023-06-22 19:31:45.725745,NBA Draft - NBA Draft 2023 - 6th Overall Pick,Cam Whitmore,-0.022199999999999998,0.2,0.2222
+2023-06-22 21:31:59.094621,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Bilal Coulibaly,-0.022199999999999998,0.2,0.2222
 2023-06-22 20:32:13.690010,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 10 Pick,Cason Wallace,-0.022199999999999998,0.2,0.2222
 2023-06-22 17:31:27.272529,NBA Draft - NBA Draft 2023 - 4th Overall Pick,Amen Thompson,-0.022199999999999998,0.7778,0.8
-2023-06-22 19:31:45.725745,NBA Draft - NBA Draft 2023 - 6th Overall Pick,Cam Whitmore,-0.022199999999999998,0.2,0.2222
 2023-06-22 19:31:45.720249,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Cam Whitmore,-0.022199999999999998,0.2,0.2222
-2023-06-22 23:32:06.836342,NBA Draft - NBA Draft 2023 - 4th Overall Pick,Brandon Miller,-0.022199999999999998,0.2,0.2222
-2023-06-22 12:31:16.973414,NBA Draft - NBA Draft 2023 - 6th Overall Pick,Taylor Hendricks,-0.022199999999999998,0.1111,0.1333
 2023-06-22 20:32:13.684915,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Marcus Sasser,-0.023799999999999988,0.1429,0.1667
-2023-06-22 12:31:16.952166,NBA Draft - NBA Draft 2023 - 3rd Overall Pick,Scoot Henderson,-0.023800000000000043,0.8095,0.8333
 2023-06-22 18:31:47.035011,NBA Draft - NBA Draft 2023 - 10th Overall Pick,Jalen Hood-Schifino,-0.024,0.0385,0.0625
-2023-06-22 23:32:07.480943,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Julian Phillips,-0.0242,0.0667,0.0909
 2023-06-22 22:31:47.991122,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Seth Lundy,-0.0242,0.0667,0.0909
+2023-06-22 23:32:07.480943,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Julian Phillips,-0.0242,0.0667,0.0909
 2023-06-22 23:32:07.335651,NBA Draft - NBA Draft 2023 - To Be Drafted First - Amen Thompson vs Ausar Thompson,Ausar Thompson,-0.02529999999999999,0.1852,0.2105
 2023-06-22 15:31:45.435078,NBA Draft - NBA Draft 2023 - 7th Overall Pick,Taylor Hendricks,-0.02560000000000001,0.3077,0.3333
 2023-06-22 20:32:13.631246,NBA Draft - NBA Draft 2023 - Exact Order Parlays - Top 3 ,"1: Victor Wembanyama, 2: Scoot Henderson, 3: Brandon Miller",-0.025999999999999912,0.7143,0.7403
 2023-06-22 19:31:45.825165,NBA Draft - NBA Draft 2023 - Draft Position - Leonard Miller - Draft Position,Over 21.5,-0.026499999999999968,0.5652,0.5917
 2023-06-22 18:31:47.080875,NBA Draft - NBA Draft 2023 - 9th Overall Pick,Jalen Hood-Schifino,-0.026499999999999996,0.0323,0.0588
-2023-06-22 18:31:47.080875,NBA Draft - NBA Draft 2023 - 9th Overall Pick,Gradey Dick,-0.0267,0.0909,0.1176
 2023-06-22 17:31:27.296432,NBA Draft - NBA Draft 2023 - 6th Overall Pick,Jarace Walker,-0.0267,0.0909,0.1176
+2023-06-22 18:31:47.080875,NBA Draft - NBA Draft 2023 - 9th Overall Pick,Gradey Dick,-0.0267,0.0909,0.1176
 2023-06-22 18:31:47.051055,NBA Draft - NBA Draft 2023 - 3rd Overall Pick,Brandon Miller,-0.026800000000000046,0.6875,0.7143
 2023-06-22 23:32:07.006393,NBA Draft - NBA Draft 2023 - Draft Position - Jaime Jaquez Jr. - Draft Position,Under 23.5,-0.02739999999999998,0.7059,0.7333
 2023-06-22 15:31:45.441667,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Anthony Black,-0.027700000000000002,0.4167,0.4444
 2023-06-22 17:31:27.289598,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Cam Whitmore,-0.02779999999999999,0.2222,0.25
 2023-06-22 19:31:46.015753,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 10 Pick,Cason Wallace,-0.02779999999999999,0.2222,0.25
 2023-06-22 18:31:47.075595,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Taylor Hendricks,-0.027800000000000005,0.0833,0.1111
-2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Robert MacIntyre,-0.0286,0.0099,0.0385
 2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Antoine Rozner,-0.0286,0.0099,0.0385
-2023-06-22 12:31:16.989365,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Cason Wallace,-0.028799999999999992,0.125,0.1538
+2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Robert MacIntyre,-0.0286,0.0099,0.0385
 2023-06-22 23:32:06.913421,NBA Draft - NBA Draft 2023 - Draft Position - Ausar Thompson - Draft Position,Over 5.5,-0.029600000000000015,0.3704,0.4
+2023-06-22 17:31:27.333140,NBA Draft - NBA Draft 2023 - Draft Position - Ausar Thompson - Draft Position,Over 5.5,-0.030299999999999994,0.4348,0.4651
 2023-06-22 13:31:35.608887,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,James Nnaji,-0.030299999999999994,0.6364,0.6667
 2023-06-22 20:32:13.690010,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 10 Pick,Kobe Bufkin,-0.030299999999999994,0.3333,0.3636
-2023-06-22 17:31:27.333140,NBA Draft - NBA Draft 2023 - Draft Position - Ausar Thompson - Draft Position,Over 5.5,-0.030299999999999994,0.4348,0.4651
+2023-06-22 20:32:13.528360,NBA Draft - NBA Draft 2023 - 3rd Overall Pick,Scoot Henderson,-0.030299999999999994,0.3333,0.3636
 2023-06-22 19:31:44.629738,CONCACAF Gold Cup - CONCACAF Golf Cup 2023 Futures - Winner,Mexico,-0.030299999999999994,0.3333,0.3636
 2023-06-22 21:31:59.067893,NBA Draft - NBA Draft 2023 - 3rd Overall Pick,Brandon Miller,-0.030299999999999994,0.6364,0.6667
-2023-06-22 20:32:13.528360,NBA Draft - NBA Draft 2023 - 3rd Overall Pick,Scoot Henderson,-0.030299999999999994,0.3333,0.3636
 2023-06-22 21:31:59.159674,NBA Draft - NBA Draft 2023 - Draft Position - Leonard Miller - Draft Position,Over 21.5,-0.030399999999999983,0.5348,0.5652
 2023-06-22 15:31:45.441667,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Taylor Hendricks,-0.031799999999999995,0.1111,0.1429
 2023-06-22 13:31:35.608887,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Colby Jones,-0.033299999999999996,0.5122,0.5455
@@ -383,34 +356,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-22 21:31:59.231157,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 10 Pick,Cason Wallace,-0.033300000000000024,0.1667,0.2
 2023-06-22 15:31:45.441667,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Ausar Thompson,-0.033399999999999985,0.1333,0.1667
 2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Victor Perez,-0.0335,0.005,0.0385
-2023-06-22 12:31:16.973414,NBA Draft - NBA Draft 2023 - 6th Overall Pick,Ausar Thompson,-0.03370000000000001,0.3509,0.3846
 2023-06-22 16:31:20.948864,NBA Draft - NBA Draft 2023 - Exact Order Parlays - Top 5,"1: Victor Wembanyama, 2: Scoot Henderson, 3: Brandon Miller, 4: Amen Thompson, 5: Cam Whitmore",-0.03420000000000001,0.0769,0.1111
 2023-06-22 15:31:45.536011,NBA Draft - NBA Draft 2023 - Exact Order Parlays - Top 5,"1: Victor Wembanyama, 2: Brandon Miller, 3: Scoot Henderson, 4: Ausar Thompson, 5: Amen Thompson",-0.0343,0.0833,0.1176
 2023-06-22 22:31:47.947184,NBA Draft - NBA Draft 2023 - To Be Drafted First - Jordan Hawkins vs Keyonte George,Jordan Hawkins,-0.03479999999999994,0.5652,0.6
-2023-06-22 18:31:47.065733,NBA Draft - NBA Draft 2023 - 6th Overall Pick,Ausar Thompson,-0.0348,0.4,0.4348
 2023-06-22 19:31:45.757587,NBA Draft - NBA Draft 2023 - Draft Position - Ausar Thompson - Draft Position,Over 5.5,-0.0348,0.4,0.4348
 2023-06-22 19:31:45.892155,NBA Draft - NBA Draft 2023 - To Be Drafted First - Ausar Thompson vs Jarace Walker,Jarace Walker,-0.0348,0.4,0.4348
+2023-06-22 18:31:47.065733,NBA Draft - NBA Draft 2023 - 6th Overall Pick,Ausar Thompson,-0.0348,0.4,0.4348
+2023-06-22 15:31:45.764420,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
 2023-06-22 16:31:21.125510,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
-2023-06-22 12:31:17.279455,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
-2023-06-22 13:31:35.702124,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
-2023-06-22 14:31:38.256475,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
+2023-06-22 22:31:48.147020,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
 2023-06-22 21:31:59.331642,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
-2023-06-22 17:31:27.561712,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
-2023-06-22 18:31:47.287915,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
 2023-06-22 20:32:13.784340,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
 2023-06-22 19:31:46.326787,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
-2023-06-22 22:31:48.147020,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
-2023-06-22 15:31:45.764420,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
+2023-06-22 18:31:47.287915,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
+2023-06-22 17:31:27.561712,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
+2023-06-23 00:31:43.493135,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
+2023-06-22 14:31:38.256475,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
+2023-06-22 13:31:35.702124,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
 2023-06-22 23:32:07.860118,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.035699999999999954,0.7143,0.75
 2023-06-22 21:31:59.231157,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 10 Pick,Gradey Dick,-0.03570000000000001,0.25,0.2857
-2023-06-22 15:31:45.536011,NBA Draft - NBA Draft 2023 - Exact Order Parlays - Top 5,"1: Victor Wembanyama, 2: Brandon Miller, 3: Scoot Henderson, 4: Amen Thompson, 5: Jarace Walker",-0.03570000000000001,0.25,0.2857
 2023-06-22 20:32:13.684915,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Trayce Jackson-Davis,-0.03570000000000001,0.25,0.2857
+2023-06-22 15:31:45.536011,NBA Draft - NBA Draft 2023 - Exact Order Parlays - Top 5,"1: Victor Wembanyama, 2: Brandon Miller, 3: Scoot Henderson, 4: Amen Thompson, 5: Jarace Walker",-0.03570000000000001,0.25,0.2857
 2023-06-22 19:31:45.794192,NBA Draft - NBA Draft 2023 - Draft Position - Jarace Walker - Draft Position,Over 6.5,-0.03610000000000002,0.5556,0.5917
 2023-06-22 16:31:20.860160,NBA Draft - NBA Draft 2023 - 9th Overall Pick,Gradey Dick,-0.036199999999999996,0.1176,0.1538
-2023-06-22 19:31:46.034390,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 5 Pick,Cam Whitmore,-0.03640000000000004,0.3636,0.4
 2023-06-22 13:31:35.617055,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 10 Pick,Dereck Lively II,-0.03640000000000004,0.3636,0.4
+2023-06-22 19:31:46.034390,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 5 Pick,Cam Whitmore,-0.03640000000000004,0.3636,0.4
 2023-06-22 20:32:13.695099,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 20 Pick,Brandin Podziemski,-0.03640000000000004,0.3636,0.4
-2023-06-22 12:31:18.476512,Boxing Lines - Slawa Spomer vs Felice Moncelli - To Win the Bout,Felice Moncelli,-0.036599999999999994,0.1739,0.2105
 2023-06-22 21:31:59.164325,NBA Draft - NBA Draft 2023 - Draft Position - Taylor Hendricks - Draft Position,Over 8.5,-0.03709999999999991,0.6296,0.6667
 2023-06-22 18:31:47.035011,NBA Draft - NBA Draft 2023 - 10th Overall Pick,Anthony Black,-0.038299999999999994,0.0526,0.0909
 2023-06-22 13:31:35.591042,NBA Draft - NBA Draft 2023 - To Be Drafted First - Rayan Rupert vs Gregory Jackson,Gregory Jackson,-0.03839999999999999,0.3125,0.3509
@@ -421,31 +392,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-22 23:32:06.995954,NBA Draft - NBA Draft 2023 - Draft Position - Gradey Dick - Draft Position,Over 10.5,-0.04270000000000007,0.8462,0.8889
 2023-06-22 15:31:45.421033,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Amen Thompson,-0.042899999999999994,0.1,0.1429
 2023-06-22 20:32:13.665201,NBA Draft - NBA Draft 2023 - To Be Drafted First - Jordan Hawkins vs Keyonte George,Jordan Hawkins,-0.04290000000000005,0.6,0.6429
-2023-06-22 12:31:16.989365,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Bilal Coulibaly,-0.04329999999999999,0.0476,0.0909
 2023-06-22 15:31:45.629721,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 20 Pick,Brandin Podziemski,-0.044399999999999995,0.4,0.4444
 2023-06-22 19:31:45.831091,NBA Draft - NBA Draft 2023 - Draft Position - Taylor Hendricks - Draft Position,Under 8.5,-0.044399999999999995,0.4,0.4444
 2023-06-22 20:32:13.569189,NBA Draft - NBA Draft 2023 - Draft Position - Anthony Black - Draft Position,Over 8.5,-0.044499999999999984,0.2222,0.2667
 2023-06-22 20:32:13.670149,NBA Draft - NBA Draft 2023 - To Be Drafted First - Rayan Rupert vs Gregory Jackson,Gregory Jackson,-0.04580000000000001,0.2667,0.3125
-2023-06-22 12:31:17.076519,NBA Draft - NBA Draft 2023 - Exact Order Parlays - Top 3 ,"1: Victor Wembanyama, 2: Brandon Miller, 3: Scoot Henderson",-0.047599999999999976,0.8095,0.8571
-2023-06-22 12:31:16.944552,NBA Draft - NBA Draft 2023 - 2nd Overall Pick,Brandon Miller,-0.047599999999999976,0.8095,0.8571
 2023-06-22 13:31:35.623084,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 5 Pick,Jarace Walker,-0.0484,0.4167,0.4651
 2023-06-22 15:31:45.427526,NBA Draft - NBA Draft 2023 - 6th Overall Pick,Jarace Walker,-0.04849999999999999,0.1333,0.1818
 2023-06-22 13:31:35.608887,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Gregory Jackson,-0.04849999999999999,0.5348,0.5833
 2023-06-22 18:31:47.035011,NBA Draft - NBA Draft 2023 - 10th Overall Pick,Kobe Bufkin,-0.04909999999999999,0.1176,0.1667
-2023-06-22 12:31:16.929610,NBA Draft - NBA Draft 2023 - 10th Overall Pick,Bilal Coulibaly,-0.04999999999999999,0.2,0.25
 2023-06-22 13:31:35.608887,NBA Draft - NBA Draft 2023 - Tops - To Be A 1st Round Pick,Trayce Jackson-Davis,-0.0504,0.2353,0.2857
 2023-06-22 23:32:09.866019,BMW International Open - BMW International Open - Winner,Rasmus Hojgaard,-0.0509,0.0079,0.0588
 2023-06-22 18:31:47.075595,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Jarace Walker,-0.0524,0.0476,0.1
 2023-06-22 19:31:46.034390,NBA Draft - NBA Draft 2023 - Tops - To Be A Top 5 Pick,Jarace Walker,-0.053100000000000036,0.3636,0.4167
-2023-06-22 12:31:17.013152,NBA Draft - NBA Draft 2023 - Draft Position - Ausar Thompson - Draft Position,Over 5.5,-0.05520000000000003,0.5744,0.6296
 2023-06-22 21:31:59.109344,NBA Draft - NBA Draft 2023 - Draft Position - Anthony Black - Draft Position,Over 8.5,-0.05550000000000002,0.1667,0.2222
-2023-06-22 12:31:16.989365,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Kobe Bufkin,-0.05559999999999998,0.1111,0.1667
 2023-06-22 19:31:45.807827,NBA Draft - NBA Draft 2023 - Draft Position - Jordan Hawkins - Draft Position,Over 15.5,-0.05559999999999998,0.5,0.5556
 2023-06-22 18:31:47.075595,NBA Draft - NBA Draft 2023 - 8th Overall Pick,Ausar Thompson,-0.056400000000000006,0.0769,0.1333
 2023-06-22 21:31:59.083333,NBA Draft - NBA Draft 2023 - 6th Overall Pick,Cam Whitmore,-0.05710000000000001,0.1429,0.2
 2023-06-22 18:31:47.051055,NBA Draft - NBA Draft 2023 - 3rd Overall Pick,Scoot Henderson,-0.057699999999999974,0.25,0.3077
 2023-06-22 13:31:35.059027,Celebrity Boxing - Elon Musk vs Mark Zuckerberg - Fight Winner ,Mark Zuckerberg,-0.05860000000000004,0.4762,0.5348
-2023-06-22 12:31:16.952166,NBA Draft - NBA Draft 2023 - 3rd Overall Pick,Brandon Miller,-0.059099999999999986,0.2857,0.3448
 2023-06-22 22:31:47.807250,NBA Draft - NBA Draft 2023 - Draft Position - Gradey Dick - Draft Position,Under 10.5,-0.0595,0.1786,0.2381
 2023-06-22 15:31:45.435078,NBA Draft - NBA Draft 2023 - 7th Overall Pick,Ausar Thompson,-0.06139999999999998,0.1053,0.1667
 2023-06-22 23:32:06.812878,NBA Draft - NBA Draft 2023 - 2nd Overall Pick,Scoot Henderson,-0.06190000000000001,0.3636,0.4255
@@ -453,9 +417,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-22 23:32:07.075154,NBA Draft - NBA Draft 2023 - Draft Position - Jarace Walker - Draft Position,Under 6.5,-0.06580000000000003,0.3509,0.4167
 2023-06-22 23:32:06.929031,NBA Draft - NBA Draft 2023 - Draft Position - Bilal Coulibaly - Draft Position,Under 11.5,-0.06670000000000009,0.7333,0.8
 2023-06-22 21:31:59.175784,NBA Draft - NBA Draft 2023 - Exact Order Parlays - Top 4,"1: Victor Wembanyama, 2: Brandon Miller, 3: Scoot Henderson, 4: Ausar Thompson",-0.0668,0.0385,0.1053
-2023-06-22 12:31:17.059725,NBA Draft - NBA Draft 2023 - Draft Position - Leonard Miller - Draft Position,Under 21.5,-0.06779999999999997,0.4878,0.5556
-2023-06-22 15:31:45.400276,NBA Draft - NBA Draft 2023 - 2nd Overall Pick,Brandon Miller,-0.06820000000000004,0.75,0.8182
 2023-06-22 15:31:45.407385,NBA Draft - NBA Draft 2023 - 3rd Overall Pick,Scoot Henderson,-0.06820000000000004,0.75,0.8182
+2023-06-22 15:31:45.400276,NBA Draft - NBA Draft 2023 - 2nd Overall Pick,Brandon Miller,-0.06820000000000004,0.75,0.8182
 2023-06-22 15:31:45.566907,NBA Draft - NBA Draft 2023 - To Be Drafted First - Ausar Thompson vs Jarace Walker,Jarace Walker,-0.06970000000000004,0.4651,0.5348
 2023-06-22 18:31:47.045623,NBA Draft - NBA Draft 2023 - 2nd Overall Pick,Brandon Miller,-0.07139999999999996,0.2857,0.3571
 2023-06-22 23:32:06.845727,NBA Draft - NBA Draft 2023 - 5th Overall Pick,Jarace Walker,-0.0726,0.25,0.3226
