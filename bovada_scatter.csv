@@ -1,11 +1,13 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-25 05:31:37.140479,College Baseball - College Baseball World Series -  College Baseball World Series Winner,LSU,0.2944,0.8182,0.5238
 2023-06-25 10:31:37.258458,U21 European Championship - U21 European Championship 2023 - Group A Winner,Georgia U21,0.2545,0.4545,0.2
+2023-06-25 14:31:25.051293,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Corbin Carroll (ARIZ),0.10000000000000009,0.8333,0.7333
 2023-06-25 10:31:37.295770,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Fortaleza,0.0993,0.2326,0.1333
 2023-06-25 06:32:00.148002,MLB Futures - MLB 2023 National League West - National League West Winner,San Francisco Giants,0.05550000000000002,0.2222,0.1667
-2023-06-25 13:31:52.917684,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Henry Cavill,0.04999999999999999,0.25,0.2
 2023-06-25 10:31:37.263044,U21 European Championship - U21 European Championship 2023 - Group B Winner,Ukraine U21,0.04999999999999999,0.25,0.2
+2023-06-25 13:31:52.917684,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Henry Cavill,0.04999999999999999,0.25,0.2
 2023-06-25 10:31:37.301039,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Fortaleza,0.04910000000000003,0.4,0.3509
+2023-06-25 14:31:25.012086,MLB Futures - MLB 2023 Player Awards - American League MVP,Shohei Ohtani (LAA),0.04849999999999999,0.8667,0.8182
 2023-06-25 13:31:55.947947,Scores - Final Round Score - Patrick Cantlay - Final Round Score,Over 65.5,0.04139999999999999,0.5652,0.5238
 2023-06-25 06:32:00.095227,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Texas Rangers,0.03889999999999999,0.1818,0.1429
 2023-06-25 10:31:37.290406,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Vasco da Gama,0.03640000000000004,0.4,0.3636
@@ -17,36 +19,38 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-25 06:32:00.125542,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,0.032099999999999906,0.6154,0.5833
 2023-06-25 10:31:37.301039,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Botafogo,0.030299999999999994,0.6667,0.6364
 2023-06-25 10:31:37.252325,U21 European Championship - U21 European Championship 2023 - Outright,Spain U21,0.02779999999999999,0.25,0.2222
-2023-06-25 01:32:03.203873,Boxing Lines - Erickson Lubin vs Luis Arias - To Win the Bout,Erickson Lubin,0.027799999999999936,0.9167,0.8889
+2023-06-25 14:31:23.389877,WNBA Futures - 2023 Regular Season Wins - Chicago Sky,Under 19.5,0.026499999999999968,0.5917,0.5652
 2023-06-25 06:31:58.563598,Celebrity Boxing - Elon Musk vs Mark Zuckerberg - Fight Winner ,Mark Zuckerberg,0.0252,0.7222,0.697
 2023-06-25 06:32:00.103426,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,San Francisco Giants,0.0242,0.0909,0.0667
-2023-06-25 06:32:00.086804,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Texas Rangers,0.0242,0.0909,0.0667
 2023-06-25 04:32:09.537012,WNBA Futures - WNBA Awards - Regular Season MVP,Jackie Young,0.0242,0.0909,0.0667
-2023-06-25 07:31:35.695937,Travelers Championship - 2/3 Balls - Final Round 2 Balls - M.W. Lee / C. Conners - Final Round 2 Balls,Corey Conners,0.023800000000000043,0.5238,0.5
+2023-06-25 06:32:00.086804,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Texas Rangers,0.0242,0.0909,0.0667
 2023-06-25 06:32:00.501887,Round Match-Ups - Final Round Match-Ups - R. Henley vs M. Fitzpatrick - Final Round Match-Ups,Russell Henley,0.023800000000000043,0.5238,0.5
+2023-06-25 07:31:35.695937,Travelers Championship - 2/3 Balls - Final Round 2 Balls - M.W. Lee / C. Conners - Final Round 2 Balls,Corey Conners,0.023800000000000043,0.5238,0.5
 2023-06-25 13:31:55.756570,Round Match-Ups - Final Round Match-Ups - B. Harman vs S. Theegala - Final Round Match-Ups,Sahith Theegala,0.023799999999999988,0.5,0.4762
 2023-06-25 10:31:37.285231,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Fortaleza,0.0236,0.0385,0.0149
 2023-06-25 10:31:37.285231,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Fluminense,0.02310000000000001,0.1,0.0769
 2023-06-25 09:31:39.509789,Donald Trump Specials - Will Donald Trump be found guilty of one or more felonies in New York? - Will Donald Trump be found guilty of one or more felonies in New York?,No,0.022600000000000064,0.6226,0.6
-2023-06-25 05:31:37.660415,Round Match-Ups - Final Round Match-Ups - R. Henley vs M. Fitzpatrick - Final Round Match-Ups,Matt Fitzpatrick,0.02169999999999994,0.5455,0.5238
-2023-06-25 12:31:50.048979,Scores - Final Round Score - Patrick Cantlay - Final Round Score,Under 65.5,0.02169999999999994,0.5455,0.5238
 2023-06-25 07:31:35.741198,Round Match-Ups - Final Round Match-Ups - R. Henley vs M. Fitzpatrick - Final Round Match-Ups,Russell Henley,0.02169999999999994,0.5455,0.5238
+2023-06-25 12:31:50.048979,Scores - Final Round Score - Patrick Cantlay - Final Round Score,Under 65.5,0.02169999999999994,0.5455,0.5238
+2023-06-25 05:31:37.660415,Round Match-Ups - Final Round Match-Ups - R. Henley vs M. Fitzpatrick - Final Round Match-Ups,Matt Fitzpatrick,0.02169999999999994,0.5455,0.5238
 2023-06-25 06:32:00.095227,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Minnesota Twins,0.0208,0.0833,0.0625
 2023-06-25 04:32:11.518008,Round Match-Ups - Final Round Match-Ups - J. Day vs T. Finau - Final Round Match-Ups,Tony Finau,0.02079999999999993,0.5556,0.5348
 2023-06-25 05:31:37.757220,Round Match-Ups - Final Round Match-Ups - L. Herbert vs D. McCarthy - Final Round Match-Ups,Denny McCarthy,0.02079999999999993,0.5556,0.5348
 2023-06-25 06:32:00.509489,Round Match-Ups - Final Round Match-Ups - B. Harman vs S. Theegala - Final Round Match-Ups,Brian Harman,0.01970000000000005,0.5652,0.5455
-2023-06-25 07:31:35.820529,Round Match-Ups - Final Round Match-Ups - P. Cantlay vs S. Scheffler - Final Round Match-Ups,Scottie Scheffler,0.01970000000000005,0.5652,0.5455
 2023-06-25 04:32:11.526634,Round Match-Ups - Final Round Match-Ups - A. Eckroat vs C. Conners - Final Round Match-Ups,Corey Conners,0.01970000000000005,0.5652,0.5455
+2023-06-25 07:31:35.820529,Round Match-Ups - Final Round Match-Ups - P. Cantlay vs S. Scheffler - Final Round Match-Ups,Scottie Scheffler,0.01970000000000005,0.5652,0.5455
+2023-06-25 14:31:25.021564,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Josh Jung (TEX),0.019500000000000017,0.3704,0.3509
 2023-06-25 04:32:11.371764,Travelers Championship - 2/3 Balls - Final Round 2 Balls - A. Eckroat / T. Finau - Final Round 2 Balls,Tony Finau,0.01880000000000004,0.5744,0.5556
-2023-06-25 04:32:09.537012,WNBA Futures - WNBA Awards - Regular Season MVP,Breanna Stewart,0.018100000000000005,0.5833,0.5652
 2023-06-25 11:31:25.349926,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,River Plate,0.018100000000000005,0.9412,0.9231
+2023-06-25 04:32:09.537012,WNBA Futures - WNBA Awards - Regular Season MVP,Breanna Stewart,0.018100000000000005,0.5833,0.5652
 2023-06-25 06:32:00.086804,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Los Angeles Dodgers,0.0179,0.1429,0.125
+2023-06-25 14:31:25.021564,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Masataka Yoshida (BOS),0.017299999999999982,0.303,0.2857
 2023-06-25 06:32:00.118156,MLB Futures - MLB 2023 American League East - American League East Winner,Baltimore Orioles,0.016700000000000007,0.1,0.0833
 2023-06-25 06:32:00.118156,MLB Futures - MLB 2023 American League East - American League East Winner,Toronto Blue Jays,0.016600000000000004,0.0833,0.0667
 2023-06-25 04:32:11.211334,Travelers Championship - 2/3 Balls - Final Round 2 Balls - C. Davis / B. Stegmaier - Final Round 2 Balls,Cameron Davis,0.016100000000000003,0.6078,0.5917
-2023-06-25 10:31:37.301039,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Grêmio,0.015400000000000025,0.4,0.3846
-2023-06-25 09:31:39.477010,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the classified documents federal charges? - Will Donald Trump be found guilty of one or more of the classified documents federal charges?,No,0.015400000000000025,0.4,0.3846
 2023-06-25 06:32:00.103426,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Atlanta Braves,0.015400000000000025,0.4,0.3846
+2023-06-25 09:31:39.477010,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the classified documents federal charges? - Will Donald Trump be found guilty of one or more of the classified documents federal charges?,No,0.015400000000000025,0.4,0.3846
+2023-06-25 10:31:37.301039,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Grêmio,0.015400000000000025,0.4,0.3846
 2023-06-25 06:32:00.086804,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,San Francisco Giants,0.015300000000000001,0.0476,0.0323
 2023-06-25 09:31:39.080423,Kardashian Specials - Kourtney Kardashian's Next Baby Name - Kourtney's Next Baby Name,Kali,0.014899999999999997,0.0625,0.0476
 2023-06-25 09:31:39.080423,Kardashian Specials - Kourtney Kardashian's Next Baby Name - Kourtney's Next Baby Name,Kaia,0.014899999999999997,0.0625,0.0476
@@ -54,19 +58,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-25 10:31:37.252325,U21 European Championship - U21 European Championship 2023 - Outright,Netherlands U21,0.01440000000000001,0.1053,0.0909
 2023-06-25 09:31:39.493572,Donald Trump Specials - Will Joe Biden pardon Donald Trump? - Will Joe Biden pardon Donald Trump?,Joe Biden NOT to pardon Donald Trump before the 2024 election,0.01429999999999998,0.9,0.8857
 2023-06-25 10:31:37.295770,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Cruzeiro,0.014100000000000001,0.0526,0.0385
-2023-06-25 06:32:00.095227,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Seattle Mariners,0.014099999999999998,0.0435,0.0294
 2023-06-25 11:31:26.531445,Russian Politics - President Of Russia On December 31st 2023 - President Of Russia At Year End,Mikhail Mishustin,0.014099999999999998,0.0385,0.0244
+2023-06-25 06:32:00.095227,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Seattle Mariners,0.014099999999999998,0.0435,0.0294
 2023-06-25 09:31:39.618489,Canada Political Specials - 2023 Toronto Mayoral By-Election - Proposition,Olivia Chow,0.013900000000000023,0.8889,0.875
 2023-06-25 06:32:00.125542,MLB Futures - MLB 2023 American League West - American League West Winner,Los Angeles Angels,0.013899999999999996,0.125,0.1111
 2023-06-25 07:31:35.710225,Travelers Championship - 2/3 Balls - Final Round 2 Balls - J. Thomas / S. Scheffler - Final Round 2 Balls,Justin Thomas,0.013800000000000034,0.3774,0.3636
 2023-06-25 11:31:26.539860,Russian Politics - Vladimir Putin President Exit Date - Putin Exit Date,Before October 2023,0.0131,0.2353,0.2222
 2023-06-25 06:32:00.823329,Dicks Sporting Goods Open - Dicks Sporting Goods Open - Winner,Padraig Harrington,0.012899999999999995,0.1667,0.1538
-2023-06-25 04:32:11.190760,Travelers Championship - 2/3 Balls - Final Round 2 Balls - C. Young / A. Landry - Final Round 2 Balls,Cameron Young,0.012299999999999978,0.6552,0.6429
 2023-06-25 07:31:35.557296,Travelers Championship - 2/3 Balls - Final Round 2 Balls - M. Fitzpatrick / K. Tway - Final Round 2 Balls,Matt Fitzpatrick,0.012299999999999978,0.6552,0.6429
+2023-06-25 04:32:11.190760,Travelers Championship - 2/3 Balls - Final Round 2 Balls - C. Young / A. Landry - Final Round 2 Balls,Cameron Young,0.012299999999999978,0.6552,0.6429
 2023-06-25 11:31:26.796085,CFL - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Saskatchewan Roughriders,0.011900000000000008,0.0952,0.0833
-2023-06-25 11:31:27.928288,Round Match-Ups - Final Round Match-Ups - B. Martin v K. Yu - Final Round Match-Ups,Kevin Yu,0.011600000000000055,0.5238,0.5122
 2023-06-25 11:31:28.086897,Round Match-Ups - Final Round Match-Ups - D. Ghim v M. Kim - Final Round Match-Ups,Michael Kim,0.011600000000000055,0.5238,0.5122
 2023-06-25 12:31:47.631789,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,0.011600000000000055,0.5238,0.5122
+2023-06-25 11:31:27.928288,Round Match-Ups - Final Round Match-Ups - B. Martin v K. Yu - Final Round Match-Ups,Kevin Yu,0.011600000000000055,0.5238,0.5122
 2023-06-25 07:31:35.717343,Travelers Championship - 2/3 Balls - Final Round 2 Balls - A. Scott / D. McCarthy - Final Round 2 Balls,Denny McCarthy,0.0116,0.4878,0.4762
 2023-06-25 06:32:00.245745,Travelers Championship - 2/3 Balls - Final Round 2 Balls - C. Young / A. Landry - Final Round 2 Balls,Cameron Young,0.011499999999999955,0.6667,0.6552
 2023-06-25 06:32:00.103426,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Milwaukee Brewers,0.011199999999999995,0.0588,0.0476
@@ -80,17 +84,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-25 10:31:39.680074,Round Match-Ups - Final Round Match-Ups - R. Henley vs M. Fitzpatrick - Final Round Match-Ups,Russell Henley,0.010099999999999998,0.5556,0.5455
 2023-06-25 06:32:00.245745,Travelers Championship - 2/3 Balls - Final Round 2 Balls - C. Young / A. Landry - Final Round 2 Balls,Andrew Landry,-0.010099999999999998,0.3125,0.3226
 2023-06-25 06:32:00.095227,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Los Angeles Angels,-0.0102,0.0667,0.0769
-2023-06-25 07:31:35.557296,Travelers Championship - 2/3 Balls - Final Round 2 Balls - M. Fitzpatrick / K. Tway - Final Round 2 Balls,Kevin Tway,-0.010699999999999987,0.3226,0.3333
 2023-06-25 04:32:11.190760,Travelers Championship - 2/3 Balls - Final Round 2 Balls - C. Young / A. Landry - Final Round 2 Balls,Andrew Landry,-0.010699999999999987,0.3226,0.3333
-2023-06-25 11:31:28.086897,Round Match-Ups - Final Round Match-Ups - D. Ghim v M. Kim - Final Round Match-Ups,Doug Ghim,-0.01100000000000001,0.5238,0.5348
+2023-06-25 07:31:35.557296,Travelers Championship - 2/3 Balls - Final Round 2 Balls - M. Fitzpatrick / K. Tway - Final Round 2 Balls,Kevin Tway,-0.010699999999999987,0.3226,0.3333
 2023-06-25 11:31:27.928288,Round Match-Ups - Final Round Match-Ups - B. Martin v K. Yu - Final Round Match-Ups,Ben Martin,-0.01100000000000001,0.5238,0.5348
+2023-06-25 11:31:28.086897,Round Match-Ups - Final Round Match-Ups - D. Ghim v M. Kim - Final Round Match-Ups,Doug Ghim,-0.01100000000000001,0.5238,0.5348
 2023-06-25 10:31:37.301039,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Vasco da Gama,-0.011199999999999995,0.0476,0.0588
 2023-06-25 13:31:55.914576,Round Match-Ups - Final Round Match-Ups - L. Herbert vs D. McCarthy - Final Round Match-Ups,Lucas Herbert,-0.0116,0.4762,0.4878
 2023-06-25 07:31:35.792611,Round Match-Ups - Final Round Match-Ups - X. Schauffele vs R. McIIroy - Final Round Match-Ups,Xander Schauffele,-0.011600000000000055,0.5122,0.5238
 2023-06-25 06:32:00.086804,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Atlanta Braves,-0.011700000000000016,0.2105,0.2222
-2023-06-25 11:31:28.025582,Round Match-Ups - Final Round Match-Ups - N. Hardy v R. Palmer - Final Round Match-Ups,Ryan Palmer,-0.012199999999999989,0.5,0.5122
 2023-06-25 10:31:39.680074,Round Match-Ups - Final Round Match-Ups - R. Henley vs M. Fitzpatrick - Final Round Match-Ups,Matt Fitzpatrick,-0.012199999999999989,0.4878,0.5
 2023-06-25 07:31:35.717343,Travelers Championship - 2/3 Balls - Final Round 2 Balls - A. Scott / D. McCarthy - Final Round 2 Balls,Adam Scott,-0.012199999999999989,0.4878,0.5
+2023-06-25 11:31:28.025582,Round Match-Ups - Final Round Match-Ups - N. Hardy v R. Palmer - Final Round Match-Ups,Ryan Palmer,-0.012199999999999989,0.5,0.5122
 2023-06-25 06:32:00.140405,MLB Futures - MLB 2023 National League East - National League East Winner,New York Mets,-0.012700000000000003,0.0196,0.0323
 2023-06-25 11:31:25.349926,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,Talleres,-0.0131,0.0345,0.0476
 2023-06-25 10:31:37.285231,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Botafogo,-0.013899999999999996,0.1111,0.125
@@ -98,9 +102,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-25 10:31:37.290406,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Fortaleza,-0.014099999999999998,0.0244,0.0385
 2023-06-25 06:32:00.132945,MLB Futures - MLB 2023 National League Central - National League Central Winner,Pittsburgh Pirates,-0.014100000000000001,0.0385,0.0526
 2023-06-25 06:32:00.140405,MLB Futures - MLB 2023 National League East - National League East Winner,Philadelphia Phillies,-0.014399999999999996,0.0625,0.0769
+2023-06-25 09:31:39.080423,Kardashian Specials - Kourtney Kardashian's Next Baby Name - Kourtney's Next Baby Name,Gayane,-0.014899999999999997,0.0476,0.0625
 2023-06-25 09:31:39.080423,Kardashian Specials - Kourtney Kardashian's Next Baby Name - Kourtney's Next Baby Name,Buddy,-0.014899999999999997,0.0476,0.0625
 2023-06-25 09:31:39.080423,Kardashian Specials - Kourtney Kardashian's Next Baby Name - Kourtney's Next Baby Name,Lucas,-0.014899999999999997,0.0476,0.0625
-2023-06-25 09:31:39.080423,Kardashian Specials - Kourtney Kardashian's Next Baby Name - Kourtney's Next Baby Name,Gayane,-0.014899999999999997,0.0476,0.0625
 2023-06-25 09:31:39.493572,Donald Trump Specials - Will Joe Biden pardon Donald Trump? - Will Joe Biden pardon Donald Trump?,Joe Biden to pardon Donald Trump for all potential federal crimes before the 2024 election,-0.015100000000000002,0.1667,0.1818
 2023-06-25 07:31:35.710225,Travelers Championship - 2/3 Balls - Final Round 2 Balls - J. Thomas / S. Scheffler - Final Round 2 Balls,Scottie Scheffler,-0.01539999999999997,0.6,0.6154
 2023-06-25 06:32:00.103426,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Philadelphia Phillies,-0.016600000000000004,0.0667,0.0833
@@ -110,8 +114,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-25 10:31:37.285231,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,São Paulo,-0.0189,0.0196,0.0385
 2023-06-25 13:31:55.756570,Round Match-Ups - Final Round Match-Ups - B. Harman vs S. Theegala - Final Round Match-Ups,Brian Harman,-0.01970000000000005,0.5455,0.5652
 2023-06-25 10:31:37.285231,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Atlético Mineiro,-0.02020000000000001,0.0909,0.1111
-2023-06-25 10:31:37.290406,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Cruzeiro,-0.02020000000000001,0.0909,0.1111
 2023-06-25 06:32:00.095227,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Toronto Blue Jays,-0.02020000000000001,0.0909,0.1111
+2023-06-25 10:31:37.290406,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Cruzeiro,-0.02020000000000001,0.0909,0.1111
 2023-06-25 10:31:37.252325,U21 European Championship - U21 European Championship 2023 - Outright,Belgium U21,-0.0203,0.0385,0.0588
 2023-06-25 06:32:00.261504,Travelers Championship - 2/3 Balls - Final Round 2 Balls - C. Davis / B. Stegmaier - Final Round 2 Balls,Brett Stegmaier,-0.02030000000000004,0.3571,0.3774
 2023-06-25 09:31:39.509789,Donald Trump Specials - Will Donald Trump be found guilty of one or more felonies in New York? - Will Donald Trump be found guilty of one or more felonies in New York?,Yes,-0.020699999999999996,0.4444,0.4651
@@ -125,30 +129,33 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-25 06:32:00.751406,BMW International Open - BMW International Open - Winner,Joost Luiten,-0.022600000000000064,0.6,0.6226
 2023-06-25 11:31:26.531445,Russian Politics - President Of Russia On December 31st 2023 - President Of Russia At Year End,Vladimir Putin,-0.023799999999999932,0.6429,0.6667
 2023-06-25 06:32:00.110786,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,-0.023799999999999932,0.6429,0.6667
-2023-06-25 04:32:11.526634,Round Match-Ups - Final Round Match-Ups - A. Eckroat vs C. Conners - Final Round Match-Ups,Austin Eckroat,-0.023799999999999988,0.4762,0.5
-2023-06-25 07:31:35.820529,Round Match-Ups - Final Round Match-Ups - P. Cantlay vs S. Scheffler - Final Round Match-Ups,Patrick Cantlay,-0.023799999999999988,0.4762,0.5
 2023-06-25 13:31:52.917684,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,James Norton,-0.023799999999999988,0.1429,0.1667
+2023-06-25 07:31:35.820529,Round Match-Ups - Final Round Match-Ups - P. Cantlay vs S. Scheffler - Final Round Match-Ups,Patrick Cantlay,-0.023799999999999988,0.4762,0.5
 2023-06-25 06:32:00.509489,Round Match-Ups - Final Round Match-Ups - B. Harman vs S. Theegala - Final Round Match-Ups,Sahith Theegala,-0.023799999999999988,0.4762,0.5
+2023-06-25 04:32:11.526634,Round Match-Ups - Final Round Match-Ups - A. Eckroat vs C. Conners - Final Round Match-Ups,Austin Eckroat,-0.023799999999999988,0.4762,0.5
+2023-06-25 14:31:23.389877,WNBA Futures - 2023 Regular Season Wins - Chicago Sky,Over 19.5,-0.023799999999999988,0.4762,0.5
 2023-06-25 10:31:37.295770,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Atlético Mineiro,-0.023800000000000043,0.5,0.5238
 2023-06-25 05:31:37.660415,Round Match-Ups - Final Round Match-Ups - R. Henley vs M. Fitzpatrick - Final Round Match-Ups,Russell Henley,-0.023800000000000043,0.5,0.5238
 2023-06-25 07:31:35.741198,Round Match-Ups - Final Round Match-Ups - R. Henley vs M. Fitzpatrick - Final Round Match-Ups,Matt Fitzpatrick,-0.023800000000000043,0.5,0.5238
 2023-06-25 06:32:00.140405,MLB Futures - MLB 2023 National League East - National League East Winner,Atlanta Braves,-0.02429999999999999,0.9231,0.9474
-2023-06-25 04:32:11.518008,Round Match-Ups - Final Round Match-Ups - J. Day vs T. Finau - Final Round Match-Ups,Jason Day,-0.024399999999999977,0.4878,0.5122
 2023-06-25 05:31:37.757220,Round Match-Ups - Final Round Match-Ups - L. Herbert vs D. McCarthy - Final Round Match-Ups,Lucas Herbert,-0.024399999999999977,0.4878,0.5122
+2023-06-25 04:32:11.518008,Round Match-Ups - Final Round Match-Ups - J. Day vs T. Finau - Final Round Match-Ups,Jason Day,-0.024399999999999977,0.4878,0.5122
 2023-06-25 09:31:39.477010,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the classified documents federal charges? - Will Donald Trump be found guilty of one or more of the classified documents federal charges?,Yes,-0.025600000000000067,0.6667,0.6923
 2023-06-25 13:31:55.467025,Travelers Championship - 2/3 Balls - Final Round 2 Balls - C. Ramey / E. Cole - Final Round 2 Balls,Eric Cole,-0.027700000000000058,0.5556,0.5833
 2023-06-25 06:32:00.086804,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Tampa Bay Rays,-0.028700000000000003,0.1818,0.2105
 2023-06-25 10:31:37.301039,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Fluminense,-0.029799999999999938,0.6369,0.6667
 2023-06-25 10:31:37.301039,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,São Paulo,-0.030299999999999994,0.3333,0.3636
 2023-06-25 10:31:37.290406,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Bahia,-0.030299999999999994,0.3333,0.3636
-2023-06-25 01:32:03.203873,Boxing Lines - Erickson Lubin vs Luis Arias - To Win the Bout,Luis Arias,-0.031,0.1429,0.1739
 2023-06-25 10:31:37.295770,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Botafogo,-0.03179999999999994,0.5238,0.5556
 2023-06-25 12:31:49.603364,Travelers Championship - 2/3 Balls - Final Round 2 Balls - Car. Young / D. Ghim - Final Round 2 Balls,Carson Young,-0.033299999999999996,0.4545,0.4878
 2023-06-25 11:31:28.252246,Scores - Final Round Score - Viktor Hovland - Final Round Score,Over 66.5,-0.03479999999999994,0.5652,0.6
 2023-06-25 06:32:00.103426,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Los Angeles Dodgers,-0.03570000000000001,0.25,0.2857
-2023-06-25 06:32:00.095227,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Houston Astros,-0.03889999999999999,0.1429,0.1818
 2023-06-25 04:32:09.537012,WNBA Futures - WNBA Awards - Regular Season MVP,A'ja Wilson,-0.03889999999999999,0.1429,0.1818
+2023-06-25 06:32:00.095227,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Houston Astros,-0.03889999999999999,0.1429,0.1818
+2023-06-25 14:31:25.051293,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Elly De La Cruz (CIN),-0.03920000000000001,0.2941,0.3333
 2023-06-25 06:32:00.118156,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,-0.04169999999999996,0.8333,0.875
+2023-06-25 14:31:25.021564,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Hunter Brown (HOU),-0.04240000000000001,0.0909,0.1333
+2023-06-25 14:31:25.021564,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Gunnar Henderson (BAL),-0.043800000000000006,0.1667,0.2105
 2023-06-25 10:31:37.258458,U21 European Championship - U21 European Championship 2023 - Group A Winner,Netherlands U21,-0.044399999999999995,0.4,0.4444
 2023-06-25 13:31:55.947947,Scores - Final Round Score - Patrick Cantlay - Final Round Score,Under 65.5,-0.045499999999999985,0.5,0.5455
 2023-06-25 10:31:37.295770,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,São Paulo,-0.04620000000000002,0.1538,0.2
