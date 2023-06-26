@@ -3,6 +3,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-25 22:31:30.132121,WNBA Futures - 2023 Regular Season Wins - Atlanta Dream,Under 17.5,0.04139999999999999,0.5652,0.5238
 2023-06-26 03:31:32.372282,MLB Futures - MLB 2023 National League East - National League East Winner,Atlanta Braves,0.03839999999999999,0.9615,0.9231
 2023-06-25 19:31:32.564028,Professional Baseball - NPB 2023 - Outright,Yokohama DeNa BayStars,0.025300000000000003,0.1429,0.1176
+2023-06-26 06:31:53.858725,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,0.023799999999999932,0.6667,0.6429
 2023-06-26 03:31:32.350470,MLB Futures - MLB 2023 American League East - American League East Winner,New York Yankees,0.02310000000000001,0.1,0.0769
 2023-06-26 04:31:24.549451,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Zac Gallen,0.021799999999999986,0.3922,0.3704
 2023-06-26 05:31:39.132662,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Joe Biden,0.02100000000000002,0.3846,0.3636
@@ -12,6 +13,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-26 03:31:32.365066,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,0.0116,0.4878,0.4762
 2023-06-25 19:31:32.564028,Professional Baseball - NPB 2023 - Outright,Hiroshima Toyo Carp,0.0102,0.0769,0.0667
 2023-06-26 05:31:39.132662,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Gavin Newsom,-0.0102,0.0667,0.0769
+2023-06-26 06:31:53.881760,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,-0.0116,0.4762,0.4878
+2023-06-26 06:31:53.900056,MLB Futures - MLB 2023 National League West - National League West Winner,Arizona Diamondbacks,-0.011700000000000016,0.2105,0.2222
 2023-06-26 04:31:24.549451,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Bryce Elder,-0.014099999999999998,0.0244,0.0385
 2023-06-25 19:31:32.564028,Professional Baseball - NPB 2023 - Outright,Hanshin Tigers,-0.02779999999999999,0.2222,0.25
+2023-06-26 06:31:53.881760,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,-0.02779999999999999,0.2222,0.25
+2023-06-26 06:31:53.900056,MLB Futures - MLB 2023 National League West - National League West Winner,San Diego Padres,-0.038299999999999994,0.0526,0.0909
+2023-06-26 06:31:53.900056,MLB Futures - MLB 2023 National League West - National League West Winner,San Francisco Giants,-0.04040000000000002,0.1818,0.2222
 2023-06-25 22:31:30.132121,WNBA Futures - 2023 Regular Season Wins - Atlanta Dream,Over 17.5,-0.045499999999999985,0.5,0.5455
