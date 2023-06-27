@@ -1,4 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2023-06-27 18:31:29.297390,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - To Win Group C,Panama,0.36739999999999995,0.7674,0.4
+2023-06-27 18:31:29.297390,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - To Win Group C,Martinique,0.10619999999999999,0.1538,0.0476
 2023-06-27 17:32:04.880132,Russian Politics - President Of Russia On December 31st 2023 - President Of Russia At Year End,Vladimir Putin,0.09410000000000007,0.8,0.7059
 2023-06-27 08:31:35.788794,Brasileirao Série A - Brasileiro Serie A 2023 - Top Goalscorer,Vitor Roque (Athletico PR),0.08979999999999999,0.1667,0.0769
 2023-06-27 08:31:35.781263,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Botafogo,0.05550000000000002,0.2222,0.1667
@@ -6,24 +8,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-27 17:32:04.889194,Russian Politics - Vladimir Putin President Exit Date - Putin Exit Date,July to December 2024,0.048100000000000004,0.125,0.0769
 2023-06-27 17:32:04.889194,Russian Politics - Vladimir Putin President Exit Date - Putin Exit Date,2025 or later,0.047599999999999976,0.3333,0.2857
 2023-06-27 17:32:04.898862,Russian Politics - Next Russian Presidential Election - Outright Winner - Next Russian Presidential Election - Outright Winner,Vladimir Putin,0.04630000000000001,0.6296,0.5833
+2023-06-27 18:31:29.286896,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - To Win Group A,Jamaica,0.044499999999999984,0.2667,0.2222
 2023-06-27 08:31:35.799645,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Cuiabá,0.035699999999999954,0.75,0.7143
 2023-06-27 17:32:04.774728,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,"Robert Kennedy, Jr",0.031799999999999995,0.1429,0.1111
+2023-06-27 18:31:30.550669,US Presidential Election 2024 - US Presidential Election 2024 - Donald Trump Popular Vote - Donald Trump Popular Vote,To be Republican Nominee and win 45.01 to 50% of the popular vote,0.030299999999999994,0.3636,0.3333
 2023-06-27 09:31:26.791156,Main Markets - The Match 8 - Winner,Steph Curry / Klay  Thompson,0.027800000000000047,0.7778,0.75
+2023-06-27 18:31:29.286896,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - To Win Group A,Trinidad and Tobago,0.0267,0.1176,0.0909
 2023-06-27 17:32:04.742796,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the classified documents federal charges? - Will Donald Trump be found guilty of one or more of the classified documents federal charges?,Yes,0.025600000000000067,0.6923,0.6667
 2023-06-27 08:31:35.788794,Brasileirao Série A - Brasileiro Serie A 2023 - Top Goalscorer,Tiquinho Soares (Botafogo),0.025499999999999967,0.4255,0.4
 2023-06-27 06:31:46.700116,Tournament Match-Ups - Tournament Match-Ups - M. Homa vs H. Matsuyama - Tournament Match-Ups,Hideki Matsuyama,0.02169999999999994,0.5455,0.5238
 2023-06-27 06:31:46.685521,Tournament Match-Ups - Tournament Match-Ups - J. Thomas vs R. Fowler - Tournament Match-Ups,Rickie Fowler,0.01970000000000005,0.5652,0.5455
 2023-06-27 17:32:04.698444,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,No,0.015899999999999997,0.2381,0.2222
+2023-06-27 18:31:31.771058,Boxing Lines - Kurt Scoby vs Henry Lundy - To Win the Bout,Kurt Scoby,0.014900000000000024,0.9804,0.9655
 2023-06-27 15:31:02.921364,Premier League Futures/Specials - English Premier League 2023/24 - Man City vs The Field,Any other team,0.011099999999999999,0.4762,0.4651
-2023-06-27 17:32:04.844596,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,"Robert Kennedy, Jr",0.0102,0.0769,0.0667
 2023-06-27 17:32:04.844596,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Gavin Newsom,0.0102,0.0769,0.0667
-2023-06-27 09:31:26.626647,Rocket Mortgage Classic - Rocket Mortgage Classic - Winner,Tony Finau,-0.0102,0.0667,0.0769
+2023-06-27 17:32:04.844596,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,"Robert Kennedy, Jr",0.0102,0.0769,0.0667
 2023-06-27 08:31:35.781263,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Atlético Mineiro,-0.0102,0.0667,0.0769
+2023-06-27 09:31:26.626647,Rocket Mortgage Classic - Rocket Mortgage Classic - Winner,Tony Finau,-0.0102,0.0667,0.0769
 2023-06-27 17:32:04.889194,Russian Politics - Vladimir Putin President Exit Date - Putin Exit Date,Before October 2023,-0.010499999999999982,0.2,0.2105
 2023-06-27 08:31:35.799645,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Goiás,-0.012700000000000045,0.6364,0.6491
 2023-06-27 17:32:04.898862,Russian Politics - Next Russian Presidential Election - Outright Winner - Next Russian Presidential Election - Outright Winner,Yevgeny Prigozhin,-0.012899999999999995,0.1538,0.1667
 2023-06-27 14:31:57.425940,Boxing Lines - Jaron Ennis vs Roiman Villa - To Win the Bout,Roiman Villa,-0.012899999999999995,0.1538,0.1667
 2023-06-27 15:31:02.752260,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Chelsea,-0.014399999999999996,0.0625,0.0769
+2023-06-27 18:31:31.771058,Boxing Lines - Kurt Scoby vs Henry Lundy - To Win the Bout,Henry Lundy,-0.016600000000000004,0.0667,0.0833
 2023-06-27 08:31:35.781263,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Flamengo,-0.016699999999999993,0.25,0.2667
 2023-06-27 14:31:57.410421,Boxing Lines - Franchon Crews vs Savannah Marshall - To Win the Bout,Franchon Crews,-0.0174,0.2326,0.25
 2023-06-27 17:32:04.898862,Russian Politics - Next Russian Presidential Election - Outright Winner - Next Russian Presidential Election - Outright Winner,Nikolai Patrushev,-0.01820000000000002,0.1818,0.2
@@ -41,5 +48,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-27 09:31:26.791156,Main Markets - The Match 8 - Winner,Patrick Mahomes / Travis Kelce,-0.03689999999999999,0.2857,0.3226
 2023-06-27 09:31:26.523661,Boxing Lines - Jaron Ennis vs Roiman Villa - To Win the Bout,Jaron Ennis,-0.041200000000000014,0.9,0.9412
 2023-06-27 17:32:04.880132,Russian Politics - President Of Russia On December 31st 2023 - President Of Russia At Year End,Dmitry Medvedev,-0.04169999999999999,0.125,0.1667
+2023-06-27 18:31:29.279545,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - Winner,Costa Rica,-0.044599999999999994,0.0323,0.0769
 2023-06-27 17:32:04.889194,Russian Politics - Vladimir Putin President Exit Date - Putin Exit Date,January to June 2024,-0.045499999999999985,0.4545,0.5
 2023-06-27 17:32:04.880132,Russian Politics - President Of Russia On December 31st 2023 - President Of Russia At Year End,Nikolai Patrushev,-0.05559999999999998,0.1111,0.1667
+2023-06-27 18:31:29.286896,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - To Win Group A,USA,-0.08490000000000009,0.7333,0.8182
+2023-06-27 18:31:29.297390,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - To Win Group C,El Salvador,-0.15550000000000003,0.0667,0.2222
+2023-06-27 18:31:29.297390,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - To Win Group C,Costa Rica,-0.3194,0.125,0.4444
