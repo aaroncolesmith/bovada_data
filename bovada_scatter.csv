@@ -16,19 +16,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-27 18:31:29.286896,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - To Win Group A,Trinidad and Tobago,0.0267,0.1176,0.0909
 2023-06-27 17:32:04.742796,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the classified documents federal charges? - Will Donald Trump be found guilty of one or more of the classified documents federal charges?,Yes,0.025600000000000067,0.6923,0.6667
 2023-06-27 08:31:35.788794,Brasileirao Série A - Brasileiro Serie A 2023 - Top Goalscorer,Tiquinho Soares (Botafogo),0.025499999999999967,0.4255,0.4
-2023-06-27 06:31:46.700116,Tournament Match-Ups - Tournament Match-Ups - M. Homa vs H. Matsuyama - Tournament Match-Ups,Hideki Matsuyama,0.02169999999999994,0.5455,0.5238
-2023-06-27 06:31:46.685521,Tournament Match-Ups - Tournament Match-Ups - J. Thomas vs R. Fowler - Tournament Match-Ups,Rickie Fowler,0.01970000000000005,0.5652,0.5455
 2023-06-27 17:32:04.698444,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,No,0.015899999999999997,0.2381,0.2222
 2023-06-27 18:31:31.771058,Boxing Lines - Kurt Scoby vs Henry Lundy - To Win the Bout,Kurt Scoby,0.014900000000000024,0.9804,0.9655
+2023-06-27 19:31:24.332037,Boxing Lines - Alycia Baumgardner vs Christina Linardatou - To Win the Bout,Alycia Baumgardner,0.014100000000000001,0.9474,0.9333
 2023-06-27 15:31:02.921364,Premier League Futures/Specials - English Premier League 2023/24 - Man City vs The Field,Any other team,0.011099999999999999,0.4762,0.4651
 2023-06-27 17:32:04.844596,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Gavin Newsom,0.0102,0.0769,0.0667
 2023-06-27 17:32:04.844596,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,"Robert Kennedy, Jr",0.0102,0.0769,0.0667
-2023-06-27 08:31:35.781263,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Atlético Mineiro,-0.0102,0.0667,0.0769
 2023-06-27 09:31:26.626647,Rocket Mortgage Classic - Rocket Mortgage Classic - Winner,Tony Finau,-0.0102,0.0667,0.0769
+2023-06-27 08:31:35.781263,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Atlético Mineiro,-0.0102,0.0667,0.0769
 2023-06-27 17:32:04.889194,Russian Politics - Vladimir Putin President Exit Date - Putin Exit Date,Before October 2023,-0.010499999999999982,0.2,0.2105
 2023-06-27 08:31:35.799645,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Goiás,-0.012700000000000045,0.6364,0.6491
-2023-06-27 17:32:04.898862,Russian Politics - Next Russian Presidential Election - Outright Winner - Next Russian Presidential Election - Outright Winner,Yevgeny Prigozhin,-0.012899999999999995,0.1538,0.1667
 2023-06-27 14:31:57.425940,Boxing Lines - Jaron Ennis vs Roiman Villa - To Win the Bout,Roiman Villa,-0.012899999999999995,0.1538,0.1667
+2023-06-27 17:32:04.898862,Russian Politics - Next Russian Presidential Election - Outright Winner - Next Russian Presidential Election - Outright Winner,Yevgeny Prigozhin,-0.012899999999999995,0.1538,0.1667
+2023-06-27 19:31:24.332037,Boxing Lines - Alycia Baumgardner vs Christina Linardatou - To Win the Bout,Christina Linardatou,-0.013899999999999996,0.1111,0.125
 2023-06-27 15:31:02.752260,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Chelsea,-0.014399999999999996,0.0625,0.0769
 2023-06-27 18:31:31.771058,Boxing Lines - Kurt Scoby vs Henry Lundy - To Win the Bout,Henry Lundy,-0.016600000000000004,0.0667,0.0833
 2023-06-27 08:31:35.781263,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Flamengo,-0.016699999999999993,0.25,0.2667
@@ -37,10 +37,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-27 17:32:04.698444,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,Yes,-0.020100000000000007,0.8261,0.8462
 2023-06-27 08:31:35.788794,Brasileirao Série A - Brasileiro Serie A 2023 - Top Goalscorer,German Cano (Fluminense),-0.02020000000000001,0.0909,0.1111
 2023-06-27 08:31:36.012333,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,Atlético Lanús,-0.0204,0.004,0.0244
-2023-06-27 06:31:46.700116,Tournament Match-Ups - Tournament Match-Ups - M. Homa vs H. Matsuyama - Tournament Match-Ups,Max Homa,-0.02169999999999994,0.5238,0.5455
 2023-06-27 17:32:04.742796,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the classified documents federal charges? - Will Donald Trump be found guilty of one or more of the classified documents federal charges?,No,-0.02260000000000001,0.3774,0.4
 2023-06-27 08:31:35.788794,Brasileirao Série A - Brasileiro Serie A 2023 - Top Goalscorer,Hulk (Atletico MG),-0.023799999999999988,0.1429,0.1667
-2023-06-27 06:31:46.685521,Tournament Match-Ups - Tournament Match-Ups - J. Thomas vs R. Fowler - Tournament Match-Ups,Justin Thomas,-0.023800000000000043,0.5,0.5238
 2023-06-27 08:31:35.781263,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Fluminense,-0.0242,0.0667,0.0909
 2023-06-27 08:31:35.809584,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Botafogo,-0.025599999999999956,0.5744,0.6
 2023-06-27 08:31:36.012333,Liga Profesional de Fútbol - Argentina Liga Profesional 2023 - Outright,River Plate,-0.03210000000000002,0.9091,0.9412
