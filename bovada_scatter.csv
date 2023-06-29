@@ -1,6 +1,4 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2023-06-28 22:31:35.149741,MLB Specials - 2023 MLB Draft - 2nd Overall Pick,Dylan Crews,0.3514,0.6078,0.2564
-2023-06-28 22:31:35.145311,MLB Specials - 2023 MLB Draft - 1st Overall Pick,Paul Skenes,0.30960000000000004,0.6429,0.3333
 2023-06-29 09:32:45.963944,96th Academy Awards - Best Actor - Best Actor,Cillian Murphy - Oppenheimer,0.11109999999999998,0.3333,0.2222
 2023-06-29 06:31:42.084212,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Clayton Kershaw (LAD),0.06840000000000002,0.2222,0.1538
 2023-06-29 06:31:42.092015,MLB Futures - MLB 2023 Player Awards - National League MVP,Ronald Acuña Jr.,0.06669999999999998,0.6667,0.6
@@ -16,8 +14,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-29 08:31:16.541778,U21 European Championship - U21 European Championship 2023 - Outright,Switzerland U21,0.028000000000000004,0.0476,0.0196
 2023-06-29 08:31:16.541778,U21 European Championship - U21 European Championship 2023 - Outright,England U21,0.02779999999999999,0.25,0.2222
 2023-06-29 01:31:30.325774,WNBA Futures - WNBA Championship 2023 - Outright Winner,New York Liberty,0.027500000000000024,0.3846,0.3571
-2023-06-29 06:31:43.197942,Tournament Match-Ups - Tournament Match-Ups - M. Homa vs H. Matsuyama - Tournament Match-Ups,Hideki Matsuyama,0.026499999999999968,0.5917,0.5652
 2023-06-29 01:31:33.947649,Tournament Match-Ups - Tournament Match-Ups - R. Mansell vs M. Kieffer - Tournament Match-Ups,Maximilian Kieffer,0.026499999999999968,0.5917,0.5652
+2023-06-29 06:31:43.197942,Tournament Match-Ups - Tournament Match-Ups - M. Homa vs H. Matsuyama - Tournament Match-Ups,Hideki Matsuyama,0.026499999999999968,0.5917,0.5652
 2023-06-29 00:32:14.064742,Rocket Mortgage Classic - 2/3 Balls - 1st Round 3 Balls - A. Svensson / G. Higgo / T. Merritt - 1st Round 3 Balls,Troy Merritt,0.02560000000000001,0.3333,0.3077
 2023-06-29 01:31:32.722518,Rocket Mortgage Classic - 2/3 Balls - 1st Round 3 Balls - T. Moore / M. Homa / B. Harman - 1st Round 3 Balls,Taylor Moore,0.02560000000000001,0.3333,0.3077
 2023-06-29 08:31:19.430163,Boxing Lines - Alycia Baumgardner vs Christina Linardatou - To Win the Bout,Christina Linardatou,0.025300000000000003,0.1429,0.1176
@@ -28,47 +26,46 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-29 00:32:13.978125,Rocket Mortgage Classic - 2/3 Balls - 1st Round 3 Balls - A. Cook / A. Schenk / D. Redman - 1st Round 3 Balls,Adam Schenk,0.022699999999999998,0.4878,0.4651
 2023-06-29 04:31:18.025369,Main Markets - The Match 8 - Winner,Steph Curry / Klay  Thompson,0.022199999999999998,0.8,0.7778
 2023-06-29 01:31:32.645403,Rocket Mortgage Classic - 2/3 Balls - 1st Round 3 Balls - A. Eckroat / D. Wu / K. Yu - 1st Round 3 Balls,Dylan Wu,0.020799999999999985,0.3333,0.3125
-2023-06-29 07:31:46.950239,Tournament Match-Ups - Tournament Match-Ups - J. Suh v T. Detry - Tournament Match-Ups,Thomas Detry,0.02079999999999993,0.5556,0.5348
-2023-06-29 01:31:33.070604,Round Match-Ups - 1st Round Match-Ups - M. Homa vs C. Davis - 1st Round Match-Ups,Max Homa,0.02079999999999993,0.5556,0.5348
-2023-06-29 09:32:46.272392,Nathan's Hot Dog Eating Contest - Gideon Oji: Total Hot Dogs Eaten - Gideon Oji Total Hot Dogs,38.5 or under,0.02079999999999993,0.5556,0.5348
-2023-06-29 07:31:46.595497,Round Match-Ups - 1st Round Match-Ups - C. Kirk vs S. Stevens - 1st Round Match-Ups,Chris Kirk,0.02079999999999993,0.5556,0.5348
 2023-06-29 07:31:46.602806,Round Match-Ups - 1st Round Match-Ups - D. Lipsky vs V. Norrman - 1st Round Match-Ups,Vincent Norrman,0.02079999999999993,0.5556,0.5348
-2023-06-29 01:31:32.660721,Rocket Mortgage Classic - 2/3 Balls - 1st Round 3 Balls - H. Higgs / J. Suh / H. Endycott - 1st Round 3 Balls,Justin Suh,0.020699999999999996,0.4651,0.4444
+2023-06-29 09:32:46.272392,Nathan's Hot Dog Eating Contest - Gideon Oji: Total Hot Dogs Eaten - Gideon Oji Total Hot Dogs,38.5 or under,0.02079999999999993,0.5556,0.5348
+2023-06-29 07:31:46.950239,Tournament Match-Ups - Tournament Match-Ups - J. Suh v T. Detry - Tournament Match-Ups,Thomas Detry,0.02079999999999993,0.5556,0.5348
+2023-06-29 07:31:46.595497,Round Match-Ups - 1st Round Match-Ups - C. Kirk vs S. Stevens - 1st Round Match-Ups,Chris Kirk,0.02079999999999993,0.5556,0.5348
+2023-06-29 01:31:33.070604,Round Match-Ups - 1st Round Match-Ups - M. Homa vs C. Davis - 1st Round Match-Ups,Max Homa,0.02079999999999993,0.5556,0.5348
 2023-06-29 00:32:13.874073,Rocket Mortgage Classic - 2/3 Balls - 1st Round 3 Balls - S. Piercy / S. O'Hair / T. Pendrith - 1st Round 3 Balls,Taylor Pendrith,0.020699999999999996,0.4651,0.4444
+2023-06-29 01:31:32.660721,Rocket Mortgage Classic - 2/3 Balls - 1st Round 3 Balls - H. Higgs / J. Suh / H. Endycott - 1st Round 3 Balls,Justin Suh,0.020699999999999996,0.4651,0.4444
 2023-06-29 06:31:42.076195,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Hunter Brown (HOU),0.02020000000000001,0.1111,0.0909
-2023-06-29 07:31:46.961509,Tournament Match-Ups - Tournament Match-Ups - J. Suh v T. Pendrith - Tournament Match-Ups,Justin Suh,0.01970000000000005,0.5652,0.5455
 2023-06-29 09:32:46.297989,Nathan's Hot Dog Eating Contest - Michelle Lesco: Total Hot Dogs Eaten - Michelle Lesco Total Hot Dogs,30.5 or under,0.01970000000000005,0.5652,0.5455
-2023-06-29 06:31:43.440283,Tournament Match-Ups - Tournament Match-Up - B. DeChambeau vs M. Pereira - Tournament Match-Up,Mito Pereira,0.01970000000000005,0.5652,0.5455
 2023-06-29 07:31:46.933246,Tournament Match-Ups - Tournament Match-Ups - S. Jaeger v S. Straka - Tournament Match-Ups,Stephan Jaeger,0.01970000000000005,0.5652,0.5455
+2023-06-29 06:31:43.440283,Tournament Match-Ups - Tournament Match-Up - B. DeChambeau vs M. Pereira - Tournament Match-Up,Mito Pereira,0.01970000000000005,0.5652,0.5455
 2023-06-29 06:31:42.872645,Round Match-Ups - 1st Round Match-Ups - R. Fowler vs T. Kim - 1st Round Match-Ups,Rickie Fowler,0.01970000000000005,0.5652,0.5455
-2023-06-29 01:31:30.313978,WNBA Futures - WNBA Awards - Regular Season MVP,A'ja Wilson,0.01820000000000002,0.2,0.1818
+2023-06-29 07:31:46.961509,Tournament Match-Ups - Tournament Match-Ups - J. Suh v T. Pendrith - Tournament Match-Ups,Justin Suh,0.01970000000000005,0.5652,0.5455
 2023-06-29 05:31:22.495888,MLB Futures - MLB 2023 National League West - National League West Winner,San Francisco Giants,0.01820000000000002,0.2,0.1818
+2023-06-29 01:31:30.313978,WNBA Futures - WNBA Awards - Regular Season MVP,A'ja Wilson,0.01820000000000002,0.2,0.1818
 2023-06-29 06:31:42.616656,Rocket Mortgage Classic - 2/3 Balls - 1st Round 3 Balls - A. Eckroat / D. Wu / K. Yu - 1st Round 3 Balls,Austin Eckroat,0.018100000000000005,0.4348,0.4167
 2023-06-29 09:32:44.846369,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - To Win Group A,USA,0.016700000000000048,0.75,0.7333
-2023-06-29 05:31:22.479639,MLB Futures - MLB 2023 National League Central - National League Central Winner,Cincinnati Reds,0.016699999999999993,0.2667,0.25
 2023-06-29 06:31:42.060891,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Framber Valdez (HOU),0.016699999999999993,0.2667,0.25
+2023-06-29 05:31:22.479639,MLB Futures - MLB 2023 National League Central - National League Central Winner,Cincinnati Reds,0.016699999999999993,0.2667,0.25
 2023-06-29 01:31:33.939698,Tournament Match-Ups - Tournament Match-Ups - R. Langasque vs T. Lawrence - Tournament Match-Ups,Romain Langasque,0.016699999999999937,0.6,0.5833
 2023-06-29 06:31:42.060891,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Kevin Gausman (TOR),0.015100000000000002,0.1818,0.1667
 2023-06-29 06:31:42.076195,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Gunnar Henderson (BAL),0.015100000000000002,0.1818,0.1667
 2023-06-29 01:31:32.782067,Rocket Mortgage Classic - 2/3 Balls - 1st Round 3 Balls - R. Moore / J. Walker / P. Malnati - 1st Round 3 Balls,Jimmy Walker,0.01479999999999998,0.3922,0.3774
 2023-06-29 08:31:16.541778,U21 European Championship - U21 European Championship 2023 - Outright,Georgia U21,0.014399999999999996,0.0769,0.0625
 2023-06-29 00:32:13.770947,Rocket Mortgage Classic - 2/3 Balls - 1st Round 3 Balls - K. Bradley / T. Kim / C. Morikawa - 1st Round 3 Balls,Tom Kim,0.01419999999999999,0.3846,0.3704
-2023-06-28 23:31:43.063556,British Masters - British Masters - Winner,Alexander Bjork,0.014100000000000001,0.0526,0.0385
 2023-06-29 01:31:34.360704,Memorial Health Championship - Memorial Health Championship - Winner,Ben Silverman,0.014099999999999998,0.0385,0.0244
 2023-06-29 08:31:16.500546,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - Winner,Jamaica,0.013999999999999999,0.0909,0.0769
 2023-06-29 05:31:22.432225,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,New York Yankees,0.013899999999999996,0.125,0.1111
 2023-06-29 00:32:15.202250,Scores - 1st Round Score - Hideki Matsuyama - 1st Round Score,Over 67.5,0.013799999999999923,0.6364,0.6226
-2023-06-29 07:31:46.886848,Tournament Match-Ups - Tournament Match-Ups - B.H. An vs T. Hoge - Tournament Match-Ups,Byeong Hun An,0.013799999999999923,0.6364,0.6226
 2023-06-29 07:31:46.975096,Tournament Match-Ups - Tournament Match-Ups - A. Smalley v C. Bezuidenhout - Tournament Match-Ups,Alex Smalley,0.013799999999999923,0.6364,0.6226
+2023-06-29 07:31:46.886848,Tournament Match-Ups - Tournament Match-Ups - B.H. An vs T. Hoge - Tournament Match-Ups,Byeong Hun An,0.013799999999999923,0.6364,0.6226
 2023-06-29 05:31:22.479639,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,0.0131,0.2353,0.2222
 2023-06-29 04:31:16.763516,Boxing Lines - Kazuki Nakajima vs TJ Doheny - To Win the Bout,Kazuki Nakajima,0.012899999999999912,0.8462,0.8333
-2023-06-29 00:32:15.217181,Scores - 1st Round Score - Justin Thomas - 1st Round Score,Over 67.5,0.012700000000000045,0.6491,0.6364
 2023-06-29 00:32:15.246179,Scores - 1st Round Score - Max Homa - 1st Round Score,Over 67.5,0.012700000000000045,0.6491,0.6364
+2023-06-29 00:32:15.217181,Scores - 1st Round Score - Justin Thomas - 1st Round Score,Over 67.5,0.012700000000000045,0.6491,0.6364
 2023-06-29 00:32:13.860528,Rocket Mortgage Classic - 2/3 Balls - 1st Round 3 Balls - D. Willett / L. Donald / L. Aberg - 1st Round 3 Balls,Ludvig Aberg,0.012199999999999989,0.5122,0.5
 2023-06-29 05:31:22.422005,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Atlanta Braves,0.011700000000000016,0.2222,0.2105
-2023-06-28 23:31:43.063556,British Masters - British Masters - Winner,Aaron Cockerill,0.011200000000000002,0.0244,0.0132
 2023-06-29 05:31:24.689292,Main Markets - The Match 8 - Winner,Patrick Mahomes / Travis Kelce,0.011099999999999999,0.2778,0.2667
 2023-06-29 01:31:32.884751,Round Match-Ups - 1st Round Match-Ups - D. Lipsky vs V. Norrman - 1st Round Match-Ups,Vincent Norrman,0.01100000000000001,0.5348,0.5238
+2023-06-29 11:32:01.171901,Boxing Lines - Arslanbek Makhmudov vs Raphael Akpejiori - To Win the Bout,Raphael Akpejiori,0.010899999999999993,0.1538,0.1429
 2023-06-29 08:31:16.541778,U21 European Championship - U21 European Championship 2023 - Outright,France U21,0.010399999999999993,0.2326,0.2222
 2023-06-29 05:31:22.441460,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Philadelphia Phillies,0.0102,0.0769,0.0667
 2023-06-29 03:32:20.764097,Tournament Match-Ups - Tournament Match-Ups - C. Davis vs B. Harman - Tournament Match-Ups,Cameron Davis,0.010099999999999998,0.5556,0.5455
@@ -76,18 +73,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-29 05:31:24.689292,Main Markets - The Match 8 - Winner,Steph Curry / Klay  Thompson,-0.010500000000000065,0.7895,0.8
 2023-06-29 06:31:42.068277,MLB Futures - MLB 2023 Player Awards - American League MVP,Mike Trout (LAA),-0.010600000000000002,0.0217,0.0323
 2023-06-29 00:32:13.978125,Rocket Mortgage Classic - 2/3 Balls - 1st Round 3 Balls - A. Cook / A. Schenk / D. Redman - 1st Round 3 Balls,Doc Redman,-0.010699999999999987,0.3226,0.3333
+2023-06-29 11:32:01.021776,Boxing Lines - Junaid Bostan vs Ryan Amos - To Win the Bout,Ryan Amos,-0.010899999999999993,0.1429,0.1538
 2023-06-29 01:31:33.939698,Tournament Match-Ups - Tournament Match-Ups - R. Langasque vs T. Lawrence - Tournament Match-Ups,Thriston Lawrence,-0.011099999999999999,0.4651,0.4762
 2023-06-29 06:31:42.060891,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Nathan Eovaldi (TEX),-0.011199999999999995,0.0476,0.0588
-2023-06-29 00:32:13.874073,Rocket Mortgage Classic - 2/3 Balls - 1st Round 3 Balls - S. Piercy / S. O'Hair / T. Pendrith - 1st Round 3 Balls,Scott Piercy,-0.01150000000000001,0.3333,0.3448
 2023-06-29 01:31:32.722518,Rocket Mortgage Classic - 2/3 Balls - 1st Round 3 Balls - T. Moore / M. Homa / B. Harman - 1st Round 3 Balls,Brian Harman,-0.01150000000000001,0.3333,0.3448
 2023-06-29 06:31:42.616656,Rocket Mortgage Classic - 2/3 Balls - 1st Round 3 Balls - A. Eckroat / D. Wu / K. Yu - 1st Round 3 Balls,Kevin Yu,-0.01150000000000001,0.3333,0.3448
+2023-06-29 00:32:13.874073,Rocket Mortgage Classic - 2/3 Balls - 1st Round 3 Balls - S. Piercy / S. O'Hair / T. Pendrith - 1st Round 3 Balls,Scott Piercy,-0.01150000000000001,0.3333,0.3448
 2023-06-29 06:31:42.787747,Rocket Mortgage Classic - 2/3 Balls - 1st Round 3 Balls - S. Harrington / A. Nunez / B. Stegmaier - 1st Round 3 Balls,Brett Stegmaier,-0.01150000000000001,0.3333,0.3448
-2023-06-29 03:32:20.764097,Tournament Match-Ups - Tournament Match-Ups - C. Davis vs B. Harman - Tournament Match-Ups,Brian Harman,-0.011600000000000055,0.5122,0.5238
 2023-06-29 01:31:32.884751,Round Match-Ups - 1st Round Match-Ups - D. Lipsky vs V. Norrman - 1st Round Match-Ups,David Lipsky,-0.011600000000000055,0.5122,0.5238
+2023-06-29 03:32:20.764097,Tournament Match-Ups - Tournament Match-Ups - C. Davis vs B. Harman - Tournament Match-Ups,Brian Harman,-0.011600000000000055,0.5122,0.5238
 2023-06-29 01:31:32.475354,Rocket Mortgage Classic - 2/3 Balls - 1st Round 3 Balls - R. Knox / B.H. An / H. Hall - 1st Round 3 Balls,Russell Knox,-0.011899999999999994,0.2381,0.25
-2023-06-29 00:32:15.172690,Scores - 1st Round Score - Cameron Davis - 1st Round Score,Under 68.5,-0.012199999999999989,0.4878,0.5
 2023-06-29 05:31:22.479639,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,-0.012199999999999989,0.4878,0.5
-2023-06-28 22:31:35.149741,MLB Specials - 2023 MLB Draft - 2nd Overall Pick,Max Clark,-0.012299999999999991,0.1053,0.1176
+2023-06-29 00:32:15.172690,Scores - 1st Round Score - Cameron Davis - 1st Round Score,Under 68.5,-0.012199999999999989,0.4878,0.5
 2023-06-29 04:31:16.763516,Boxing Lines - Kazuki Nakajima vs TJ Doheny - To Win the Bout,TJ Doheny,-0.0131,0.2222,0.2353
 2023-06-29 06:31:42.060891,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Sonny Gray (MIN),-0.0131,0.0345,0.0476
 2023-06-29 06:31:42.733310,Rocket Mortgage Classic - 2/3 Balls - 1st Round 3 Balls - M. Hubbard / K. Hickok / B. Taylor - 1st Round 3 Balls,Kramer Hickok,-0.013600000000000001,0.2941,0.3077
@@ -99,26 +96,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-29 00:32:13.860528,Rocket Mortgage Classic - 2/3 Balls - 1st Round 3 Balls - D. Willett / L. Donald / L. Aberg - 1st Round 3 Balls,Luke Donald,-0.016699999999999993,0.25,0.2667
 2023-06-29 06:31:42.092015,MLB Futures - MLB 2023 Player Awards - National League MVP,Freddie Freeman (LAD),-0.0179,0.125,0.1429
 2023-06-29 01:31:32.645403,Rocket Mortgage Classic - 2/3 Balls - 1st Round 3 Balls - A. Eckroat / D. Wu / K. Yu - 1st Round 3 Balls,Austin Eckroat,-0.018100000000000005,0.4167,0.4348
-2023-06-29 07:31:46.975096,Tournament Match-Ups - Tournament Match-Ups - A. Smalley v C. Bezuidenhout - Tournament Match-Ups,Christiaan Bezuidenhout,-0.018900000000000028,0.4255,0.4444
 2023-06-29 00:32:15.202250,Scores - 1st Round Score - Hideki Matsuyama - 1st Round Score,Under 67.5,-0.018900000000000028,0.4255,0.4444
+2023-06-29 07:31:46.975096,Tournament Match-Ups - Tournament Match-Ups - A. Smalley v C. Bezuidenhout - Tournament Match-Ups,Christiaan Bezuidenhout,-0.018900000000000028,0.4255,0.4444
 2023-06-29 07:31:46.886848,Tournament Match-Ups - Tournament Match-Ups - B.H. An vs T. Hoge - Tournament Match-Ups,Tom Hoge,-0.018900000000000028,0.4255,0.4444
 2023-06-29 04:31:18.025369,Main Markets - The Match 8 - Winner,Patrick Mahomes / Travis Kelce,-0.019000000000000017,0.2667,0.2857
 2023-06-29 07:31:46.910343,Tournament Match-Ups - Tournament Match-Ups - T. Finau vs C. Morikawa - Tournament Match-Ups,Tony Finau,-0.01970000000000005,0.5455,0.5652
 2023-06-29 09:32:46.272392,Nathan's Hot Dog Eating Contest - Gideon Oji: Total Hot Dogs Eaten - Gideon Oji Total Hot Dogs,Over 38.5,-0.02079999999999993,0.5348,0.5556
+2023-06-29 11:32:01.094958,Boxing Lines - Zak Chelli vs Mark Jeffers - To Win the Bout,Mark Jeffers,-0.020799999999999985,0.3125,0.3333
 2023-06-29 09:32:46.297989,Nathan's Hot Dog Eating Contest - Michelle Lesco: Total Hot Dogs Eaten - Michelle Lesco Total Hot Dogs,Over 30.5,-0.02169999999999994,0.5238,0.5455
 2023-06-29 06:31:42.609309,Rocket Mortgage Classic - 2/3 Balls - 1st Round 3 Balls - B. Grant / A. Bhatia / R. Steelman - 1st Round 3 Balls,Ross Steelman,-0.021999999999999964,0.2857,0.3077
 2023-06-29 06:31:42.733310,Rocket Mortgage Classic - 2/3 Balls - 1st Round 3 Balls - M. Hubbard / K. Hickok / B. Taylor - 1st Round 3 Balls,Ben Taylor,-0.021999999999999964,0.2857,0.3077
 2023-06-29 09:32:45.963944,96th Academy Awards - Best Actor - Best Actor,Joaquin Phoenix - Beau Is Afraid,-0.022199999999999998,0.2,0.2222
 2023-06-29 07:31:46.950239,Tournament Match-Ups - Tournament Match-Ups - J. Suh v T. Detry - Tournament Match-Ups,Justin Suh,-0.022600000000000064,0.5122,0.5348
-2023-06-29 06:31:43.197942,Tournament Match-Ups - Tournament Match-Ups - M. Homa vs H. Matsuyama - Tournament Match-Ups,Max Homa,-0.023799999999999988,0.4762,0.5
+2023-06-29 01:31:33.947649,Tournament Match-Ups - Tournament Match-Ups - R. Mansell vs M. Kieffer - Tournament Match-Ups,Richard Mansell,-0.023799999999999988,0.4762,0.5
 2023-06-29 06:31:42.872645,Round Match-Ups - 1st Round Match-Ups - R. Fowler vs T. Kim - 1st Round Match-Ups,Tom Kim,-0.023799999999999988,0.4762,0.5
 2023-06-29 00:32:13.621989,Rocket Mortgage Classic - 2/3 Balls - 1st Round 3 Balls - K. Tway / S. Stevens / K. Reifers - 1st Round 3 Balls,Kevin Tway,-0.023799999999999988,0.3333,0.3571
-2023-06-29 01:31:33.947649,Tournament Match-Ups - Tournament Match-Ups - R. Mansell vs M. Kieffer - Tournament Match-Ups,Richard Mansell,-0.023799999999999988,0.4762,0.5
-2023-06-29 06:31:43.440283,Tournament Match-Ups - Tournament Match-Up - B. DeChambeau vs M. Pereira - Tournament Match-Up,Bryson DeChambeau,-0.023800000000000043,0.5,0.5238
+2023-06-29 06:31:43.197942,Tournament Match-Ups - Tournament Match-Ups - M. Homa vs H. Matsuyama - Tournament Match-Ups,Max Homa,-0.023799999999999988,0.4762,0.5
 2023-06-29 07:31:46.933246,Tournament Match-Ups - Tournament Match-Ups - S. Jaeger v S. Straka - Tournament Match-Ups,Sepp Straka,-0.023800000000000043,0.5,0.5238
+2023-06-29 06:31:43.440283,Tournament Match-Ups - Tournament Match-Up - B. DeChambeau vs M. Pereira - Tournament Match-Up,Bryson DeChambeau,-0.023800000000000043,0.5,0.5238
 2023-06-29 07:31:46.961509,Tournament Match-Ups - Tournament Match-Ups - J. Suh v T. Pendrith - Tournament Match-Ups,Taylor Pendrith,-0.023800000000000043,0.5,0.5238
-2023-06-29 07:31:46.602806,Round Match-Ups - 1st Round Match-Ups - D. Lipsky vs V. Norrman - 1st Round Match-Ups,David Lipsky,-0.024399999999999977,0.4878,0.5122
 2023-06-29 07:31:46.595497,Round Match-Ups - 1st Round Match-Ups - C. Kirk vs S. Stevens - 1st Round Match-Ups,Sam Stevens,-0.024399999999999977,0.4878,0.5122
+2023-06-29 07:31:46.602806,Round Match-Ups - 1st Round Match-Ups - D. Lipsky vs V. Norrman - 1st Round Match-Ups,David Lipsky,-0.024399999999999977,0.4878,0.5122
 2023-06-29 01:31:33.070604,Round Match-Ups - 1st Round Match-Ups - M. Homa vs C. Davis - 1st Round Match-Ups,Cameron Davis,-0.024399999999999977,0.4878,0.5122
 2023-06-29 08:31:19.430163,Boxing Lines - Alycia Baumgardner vs Christina Linardatou - To Win the Bout,Alycia Baumgardner,-0.024500000000000077,0.9167,0.9412
 2023-06-29 06:31:42.099431,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Elly De La Cruz (CIN),-0.02739999999999998,0.2667,0.2941
@@ -130,7 +128,4 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-29 06:31:42.092015,MLB Futures - MLB 2023 Player Awards - National League MVP,Corbin Carroll (ARIZ),-0.04169999999999999,0.125,0.1667
 2023-06-29 09:32:46.319934,Nathan's Hot Dog Eating Contest - Nick Wehry: Total Hot Dogs Eaten - Nick Wehry Total Hot Dogs,Over 47.5,-0.045499999999999985,0.5,0.5455
 2023-06-29 08:31:19.244861,Boxing Lines - Etinosa Oliha vs Julio Alamos - To Win the Bout,Etinosa Oliha,-0.04679999999999995,0.5348,0.5816
-2023-06-28 22:31:35.145311,MLB Specials - 2023 MLB Draft - 1st Overall Pick,Max Clark,-0.08240000000000001,0.1176,0.2
 2023-06-29 08:31:16.507524,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - To Win Group A,Trinidad and Tobago,-0.10529999999999999,0.0123,0.1176
-2023-06-28 22:31:35.145311,MLB Specials - 2023 MLB Draft - 1st Overall Pick,Dylan Crews,-0.1491,0.5652,0.7143
-2023-06-28 22:31:35.149741,MLB Specials - 2023 MLB Draft - 2nd Overall Pick,Paul Skenes,-0.32110000000000005,0.5122,0.8333
