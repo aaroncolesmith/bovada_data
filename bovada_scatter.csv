@@ -1,16 +1,22 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-30 04:31:38.212046,NBA Specials - Off-Season Specials - Where will Bruce Brown play next season?,Los Angeles Lakers,0.19999999999999996,0.6,0.4
 2023-06-30 06:31:15.015971,Scores - 2nd Round Score - Rickie Fowler - 2nd Round Score,Under 69.5,0.12529999999999997,0.6491,0.5238
+2023-06-30 15:31:27.719479,NBA Specials - Off-Season Specials - Where will James Harden play next season?,Los Angeles Clippers,0.11259999999999992,0.6364,0.5238
 2023-06-30 14:31:49.201137,League Two - England - League Two 2023/24 - Top 7 Finish,Wrexham,0.09800000000000009,0.7647,0.6667
 2023-06-30 12:31:35.921328,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - To Win Group A,Jamaica,0.0781,0.3448,0.2667
 2023-06-30 12:31:35.896424,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - Winner,Mexico,0.07619999999999999,0.4762,0.4
+2023-06-30 15:31:27.700129,NBA Specials - Off-Season Specials - Where will Gabe Vincent play next season?,Toronto Raptors,0.06840000000000002,0.2222,0.1538
+2023-06-30 15:31:27.663102,NBA Specials - Off-Season Specials - Where will Damian Lillard play next season?,Philadelphia 76ers,0.0666,0.1333,0.0667
 2023-06-30 12:31:35.929921,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - To Win Group B,Mexico,0.06309999999999993,0.9722,0.9091
 2023-06-30 04:31:37.792988,Nathan's Hot Dog Eating Contest - Leader At 1 Minute: Men's Contest - Leader At 1 Minute,Joey Chestnut,0.057699999999999974,0.75,0.6923
 2023-06-30 05:31:42.877704,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,0.057699999999999974,0.5455,0.4878
 2023-06-30 04:31:38.253633,NBA Specials - Off-Season Specials - Where will Donte DiVincenzo play next season?,New York Knicks,0.05559999999999998,0.5,0.4444
 2023-06-30 04:31:37.765201,Nathan's Hot Dog Eating Contest - Miki Sudo: Total Hot Dogs Eaten - Miki Sudo Total Hot Dogs,Over 43.5,0.05059999999999998,0.5744,0.5238
+2023-06-30 15:31:27.745124,NBA Specials - Off-Season Specials - Where will Kyle Kuzma play next season?,Washington Wizards,0.04909999999999999,0.1667,0.1176
 2023-06-30 04:31:37.774927,Nathan's Hot Dog Eating Contest - Nick Wehry: Total Hot Dogs Eaten - Nick Wehry Total Hot Dogs,Over 47.5,0.045499999999999985,0.5455,0.5
 2023-06-30 14:31:51.849208,NBA Specials - Off-Season Specials - Where will Donte DiVincenzo play next season?,New York Knicks,0.045499999999999985,0.5455,0.5
+2023-06-30 15:31:27.594778,WNBA Futures - WNBA Championship 2023 - Outright Winner,Las Vegas Aces,0.04469999999999996,0.6364,0.5917
+2023-06-30 15:31:27.783815,NBA Specials - Off-Season Specials - Where will Zion Williamson play next season?,New Orleans Pelicans,0.04270000000000007,0.8889,0.8462
 2023-06-30 14:31:51.893166,NBA Specials - Off-Season Specials - Where will Gabe Vincent play next season?,Toronto Raptors,0.04269999999999999,0.1538,0.1111
 2023-06-30 04:31:38.212046,NBA Specials - Off-Season Specials - Where will Bruce Brown play next season?,Houston Rockets,0.03860000000000001,0.1053,0.0667
 2023-06-30 07:31:34.643591,Nathan's Hot Dog Eating Contest - Nick Wehry: Total Hot Dogs Eaten - Nick Wehry Total Hot Dogs,47.5 or under,0.037800000000000056,0.5833,0.5455
@@ -26,33 +32,38 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-30 14:31:49.194881,League Two - England - League Two 2023/24 - Top 3 Finish,Wrexham,0.029000000000000026,0.4545,0.4255
 2023-06-30 14:31:49.194881,League Two - England - League Two 2023/24 - Top 3 Finish,Gillingham,0.02779999999999999,0.25,0.2222
 2023-06-30 14:31:49.186592,League Two - England - League Two 2023/24 - To Be Promoted,Gillingham,0.02679999999999999,0.3125,0.2857
+2023-06-30 15:31:29.177359,Boxing Lines - Callum Simpson vs Boris Crighton - To Win the Bout,Boris Crighton,0.0267,0.1176,0.0909
 2023-06-30 07:31:34.597805,Nathan's Hot Dog Eating Contest - Joey Chestnut: Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,74.5 or under,0.026499999999999968,0.5917,0.5652
 2023-06-30 07:31:34.627893,Nathan's Hot Dog Eating Contest - Miki Sudo: Total Hot Dogs Eaten - Miki Sudo Total Hot Dogs,Over 43.5,0.025599999999999956,0.6,0.5744
-2023-06-30 14:31:49.201137,League Two - England - League Two 2023/24 - Top 7 Finish,Gillingham,0.023800000000000043,0.5238,0.5
+2023-06-30 15:31:27.700129,NBA Specials - Off-Season Specials - Where will Gabe Vincent play next season?,Chicago Bulls,0.0242,0.0909,0.0667
 2023-06-30 04:31:37.748264,Nathan's Hot Dog Eating Contest - Joey Chestnut: Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,Over 74.5,0.023800000000000043,0.5238,0.5
+2023-06-30 14:31:49.201137,League Two - England - League Two 2023/24 - Top 7 Finish,Gillingham,0.023800000000000043,0.5238,0.5
 2023-06-30 04:31:39.808836,Professional Baseball - NPB 2023 - Outright,Yokohama DeNa BayStars,0.023799999999999988,0.1667,0.1429
 2023-06-30 14:31:49.127612,League Two - England - League Two 2023/24 - Winner,Gillingham,0.02310000000000001,0.1,0.0769
+2023-06-30 15:31:27.700129,NBA Specials - Off-Season Specials - Where will Gabe Vincent play next season?,San Antonio Spurs,0.02310000000000001,0.1,0.0769
 2023-06-30 12:31:41.618429,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3 Balls - S. Stevens / K. Tway / K. Reifers - 2nd Round 3 Balls,Sam Stevens,0.022699999999999998,0.4878,0.4651
 2023-06-30 05:31:42.892724,MLB Futures - MLB 2023 National League West - National League West Winner,San Francisco Giants,0.022199999999999998,0.2222,0.2
 2023-06-30 14:31:49.194881,League Two - England - League Two 2023/24 - Top 3 Finish,Notts County,0.021999999999999964,0.3077,0.2857
-2023-06-30 04:31:37.730538,Nathan's Hot Dog Eating Contest - Geoffrey Esper: Total Hot Dogs Eaten - Geoffrey Esper Total Hot Dogs,Over 48.5,0.02169999999999994,0.5455,0.5238
 2023-06-30 14:31:55.046233,Round Match-Ups - Parlays - 2nd Round Match-Up - C. Morikawa vs R. Fowler - 2nd Round Match-Up,Rickie Fowler,0.02169999999999994,0.5455,0.5238
+2023-06-30 04:31:37.730538,Nathan's Hot Dog Eating Contest - Geoffrey Esper: Total Hot Dogs Eaten - Geoffrey Esper Total Hot Dogs,Over 48.5,0.02169999999999994,0.5455,0.5238
 2023-06-30 14:31:55.073418,Round Match-Ups - Parlays - 2nd Round Match-Up - D. Riley vs T. Pendrith - 2nd Round Match-Up,Taylor Pendrith,0.02169999999999994,0.5455,0.5238
 2023-06-30 04:31:37.855193,Nathan's Hot Dog Eating Contest - Will The World Record For Number Of Hot Dogs Eaten In Ten Minutes Be Broken? - Will The World Record Be Broken?,Yes,0.02100000000000002,0.3846,0.3636
-2023-06-30 04:31:37.739582,Nathan's Hot Dog Eating Contest - Gideon Oji: Total Hot Dogs Eaten - Gideon Oji Total Hot Dogs,Over 38.5,0.02079999999999993,0.5556,0.5348
 2023-06-30 12:31:41.637231,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3 Balls - A. Rai / D. Lipsky / B. Stuard - 2nd Round 3 Balls,Aaron Rai,0.02079999999999993,0.5556,0.5348
+2023-06-30 04:31:37.739582,Nathan's Hot Dog Eating Contest - Gideon Oji: Total Hot Dogs Eaten - Gideon Oji Total Hot Dogs,Over 38.5,0.02079999999999993,0.5556,0.5348
 2023-06-30 12:31:35.896424,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - Winner,Jamaica,0.02020000000000001,0.1111,0.0909
+2023-06-30 15:31:27.700129,NBA Specials - Off-Season Specials - Where will Gabe Vincent play next season?,Philadelphia 76ers,0.02020000000000001,0.1111,0.0909
 2023-06-30 14:31:49.186592,League Two - England - League Two 2023/24 - To Be Promoted,Notts County,0.019500000000000017,0.3704,0.3509
 2023-06-30 07:31:38.786153,Scores - 2nd Round Score - Collin Morikawa - 2nd Round Score,Under 69.5,0.01880000000000004,0.6552,0.6364
 2023-06-30 06:31:14.859099,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3 Balls - D. Riley / L. Glover / R. Brehm - 2nd Round 3 Balls,Lucas Glover,0.018799999999999983,0.3636,0.3448
 2023-06-30 12:31:35.896424,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - Winner,Canada,0.0179,0.1429,0.125
 2023-06-30 06:31:14.469433,Boxing Lines - Jake Paul vs Nate Diaz - To Win the Bout,Jake Paul,0.016799999999999926,0.7895,0.7727
+2023-06-30 15:31:27.584719,WNBA Futures - WNBA Awards - Regular Season MVP,Breanna Stewart,0.016699999999999937,0.6,0.5833
 2023-06-30 05:31:42.854378,MLB Futures - MLB 2023 American League Central - American League Central Winner,Cleveland Guardians,0.015400000000000025,0.4,0.3846
 2023-06-30 06:31:14.688585,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3 Balls - B. Griffin / C. Hadley / J. Lower - 2nd Round 3 Balls,Ben Griffin,0.015400000000000025,0.4,0.3846
 2023-06-30 13:31:34.489439,Copa Libertadores - Copa Libertadores 2023 - Outright,Nacional,0.014199999999999999,0.0294,0.0152
 2023-06-30 13:31:36.769337,NBA Specials - Off-Season Specials - Where will Seth Curry play next season?,Los Angeles Lakers,0.013999999999999999,0.0909,0.0769
-2023-06-30 13:31:34.489439,Copa Libertadores - Copa Libertadores 2023 - Outright,Fluminense,0.013899999999999996,0.125,0.1111
 2023-06-30 13:31:34.545219,Copa Sudamericana - Copa Sudamericana 2023 - Outright,RB Bragantino,0.013899999999999996,0.125,0.1111
+2023-06-30 13:31:34.489439,Copa Libertadores - Copa Libertadores 2023 - Outright,Fluminense,0.013899999999999996,0.125,0.1111
 2023-06-30 12:31:41.111586,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Houston Astros,0.012899999999999995,0.1667,0.1538
 2023-06-30 05:31:42.892724,MLB Futures - MLB 2023 National League West - National League West Winner,Arizona Diamondbacks,0.011700000000000016,0.2222,0.2105
 2023-06-30 13:31:34.489439,Copa Libertadores - Copa Libertadores 2023 - Outright,Athletico Paranaense,0.011199999999999995,0.0588,0.0476
@@ -64,30 +75,31 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-30 14:31:49.127612,League Two - England - League Two 2023/24 - Winner,Wrexham,0.010499999999999982,0.2105,0.2
 2023-06-30 14:31:51.849208,NBA Specials - Off-Season Specials - Where will Donte DiVincenzo play next season?,Houston Rockets,-0.0102,0.0667,0.0769
 2023-06-30 05:31:41.418428,WNBA Futures - WNBA Awards - Regular Season MVP,Jackie Young,-0.0102,0.0667,0.0769
+2023-06-30 15:31:27.719479,NBA Specials - Off-Season Specials - Where will James Harden play next season?,Philadelphia 76ers,-0.0102,0.0667,0.0769
 2023-06-30 06:31:13.082401,NFC South - NFC South 2023/24 - NFC South Winner,Carolina Panthers,-0.010499999999999982,0.2,0.2105
+2023-06-30 14:31:49.201137,League Two - England - League Two 2023/24 - Top 7 Finish,Crewe Alexandra,-0.010899999999999993,0.1429,0.1538
 2023-06-30 14:31:51.849208,NBA Specials - Off-Season Specials - Where will Donte DiVincenzo play next season?,Chicago Bulls,-0.010899999999999993,0.1429,0.1538
 2023-06-30 14:31:51.849208,NBA Specials - Off-Season Specials - Where will Donte DiVincenzo play next season?,Detroit Pistons,-0.010899999999999993,0.1429,0.1538
-2023-06-30 14:31:51.849208,NBA Specials - Off-Season Specials - Where will Donte DiVincenzo play next season?,Minnesota Timberwolves,-0.010899999999999993,0.1429,0.1538
-2023-06-30 14:31:49.201137,League Two - England - League Two 2023/24 - Top 7 Finish,Crewe Alexandra,-0.010899999999999993,0.1429,0.1538
-2023-06-30 14:31:49.201137,League Two - England - League Two 2023/24 - Top 7 Finish,Morecambe,-0.010899999999999993,0.1429,0.1538
 2023-06-30 05:31:42.869899,MLB Futures - MLB 2023 American League West - American League West Winner,Los Angeles Angels,-0.010899999999999993,0.1429,0.1538
-2023-06-30 13:31:34.545219,Copa Sudamericana - Copa Sudamericana 2023 - Outright,Botafogo,-0.011099999999999999,0.1,0.1111
-2023-06-30 14:31:49.186592,League Two - England - League Two 2023/24 - To Be Promoted,Sutton United,-0.011099999999999999,0.1,0.1111
+2023-06-30 14:31:51.849208,NBA Specials - Off-Season Specials - Where will Donte DiVincenzo play next season?,Minnesota Timberwolves,-0.010899999999999993,0.1429,0.1538
+2023-06-30 14:31:49.201137,League Two - England - League Two 2023/24 - Top 7 Finish,Morecambe,-0.010899999999999993,0.1429,0.1538
 2023-06-30 14:31:49.186592,League Two - England - League Two 2023/24 - To Be Promoted,Newport County,-0.011099999999999999,0.1,0.1111
+2023-06-30 14:31:49.186592,League Two - England - League Two 2023/24 - To Be Promoted,Sutton United,-0.011099999999999999,0.1,0.1111
 2023-06-30 14:31:49.186592,League Two - England - League Two 2023/24 - To Be Promoted,AFC Wimbledon,-0.011099999999999999,0.1,0.1111
+2023-06-30 13:31:34.545219,Copa Sudamericana - Copa Sudamericana 2023 - Outright,Botafogo,-0.011099999999999999,0.1,0.1111
 2023-06-30 12:31:41.166916,MLB Futures - MLB 2023 American League West - American League West Winner,Seattle Mariners,-0.011199999999999995,0.0476,0.0588
 2023-06-30 04:31:40.073149,Boxing Lines - Franchon Crews vs Savannah Marshall - To Win the Bout,Savannah Marshall,-0.011200000000000099,0.8291,0.8403
 2023-06-30 06:31:14.859099,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3 Balls - D. Riley / L. Glover / R. Brehm - 2nd Round 3 Balls,Davis Riley,-0.012199999999999989,0.4878,0.5
 2023-06-30 14:31:55.000976,Round Match-Ups - Parlays - 2nd Round Match-Up - C. Kirk vs D. Ghim - 2nd Round Match-Up,Doug Ghim,-0.012199999999999989,0.5,0.5122
-2023-06-30 12:31:41.637231,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3 Balls - A. Rai / D. Lipsky / B. Stuard - 2nd Round 3 Balls,David Lipsky,-0.012699999999999989,0.3509,0.3636
 2023-06-30 06:31:14.688585,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3 Balls - B. Griffin / C. Hadley / J. Lower - 2nd Round 3 Balls,Chesson Hadley,-0.012699999999999989,0.3509,0.3636
+2023-06-30 12:31:41.637231,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3 Balls - A. Rai / D. Lipsky / B. Stuard - 2nd Round 3 Balls,David Lipsky,-0.012699999999999989,0.3509,0.3636
 2023-06-30 12:31:41.207245,MLB Futures - MLB 2023 National League West - National League West Winner,Los Angeles Dodgers,-0.012700000000000045,0.6364,0.6491
 2023-06-30 14:31:49.201137,League Two - England - League Two 2023/24 - Top 7 Finish,Colchester United,-0.012899999999999995,0.1538,0.1667
 2023-06-30 14:31:49.186592,League Two - England - League Two 2023/24 - To Be Promoted,Swindon Town,-0.012899999999999995,0.1538,0.1667
 2023-06-30 14:31:49.186592,League Two - England - League Two 2023/24 - To Be Promoted,Tranmere Rovers,-0.012899999999999995,0.1538,0.1667
 2023-06-30 14:31:49.201137,League Two - England - League Two 2023/24 - Top 7 Finish,Barrow FC,-0.012899999999999995,0.1538,0.1667
-2023-06-30 13:31:34.545219,Copa Sudamericana - Copa Sudamericana 2023 - Outright,CA Tigre,-0.0131,0.0345,0.0476
 2023-06-30 05:31:42.877704,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,-0.0131,0.2222,0.2353
+2023-06-30 13:31:34.545219,Copa Sudamericana - Copa Sudamericana 2023 - Outright,CA Tigre,-0.0131,0.0345,0.0476
 2023-06-30 13:31:34.489439,Copa Libertadores - Copa Libertadores 2023 - Outright,Atlético Nacional,-0.0131,0.0345,0.0476
 2023-06-30 14:31:49.194881,League Two - England - League Two 2023/24 - Top 3 Finish,Stockport County,-0.013600000000000001,0.2941,0.3077
 2023-06-30 12:31:35.896424,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - Winner,USA,-0.013600000000000001,0.2941,0.3077
@@ -101,38 +113,43 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-30 14:31:49.201137,League Two - England - League Two 2023/24 - Top 7 Finish,Salford City,-0.015400000000000025,0.3846,0.4
 2023-06-30 13:31:34.489439,Copa Libertadores - Copa Libertadores 2023 - Outright,Boca Juniors,-0.016600000000000004,0.0667,0.0833
 2023-06-30 12:31:41.166916,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,-0.016699999999999937,0.5833,0.6
-2023-06-30 14:31:49.201137,League Two - England - League Two 2023/24 - Top 7 Finish,Grimsby Town,-0.016699999999999993,0.25,0.2667
 2023-06-30 12:31:41.618429,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3 Balls - S. Stevens / K. Tway / K. Reifers - 2nd Round 3 Balls,Kyle Reifers,-0.016699999999999993,0.25,0.2667
+2023-06-30 14:31:49.201137,League Two - England - League Two 2023/24 - Top 7 Finish,Grimsby Town,-0.016699999999999993,0.25,0.2667
 2023-06-30 07:31:38.786153,Scores - 2nd Round Score - Collin Morikawa - 2nd Round Score,Over 69.5,-0.017299999999999982,0.4082,0.4255
 2023-06-30 05:31:42.892724,MLB Futures - MLB 2023 National League West - National League West Winner,Los Angeles Dodgers,-0.01759999999999995,0.6491,0.6667
 2023-06-30 14:31:49.201137,League Two - England - League Two 2023/24 - Top 7 Finish,Doncaster Rovers,-0.017600000000000005,0.3333,0.3509
 2023-06-30 12:31:41.166916,MLB Futures - MLB 2023 American League West - American League West Winner,Los Angeles Angels,-0.0179,0.125,0.1429
 2023-06-30 14:31:49.186592,League Two - England - League Two 2023/24 - To Be Promoted,Forest Green Rovers,-0.0179,0.125,0.1429
 2023-06-30 04:31:37.748264,Nathan's Hot Dog Eating Contest - Joey Chestnut: Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,74.5 or under,-0.018100000000000005,0.5652,0.5833
-2023-06-30 14:31:49.201137,League Two - England - League Two 2023/24 - Top 7 Finish,Newport County,-0.01820000000000002,0.1818,0.2
 2023-06-30 14:31:49.201137,League Two - England - League Two 2023/24 - Top 7 Finish,AFC Wimbledon,-0.01820000000000002,0.1818,0.2
+2023-06-30 14:31:49.201137,League Two - England - League Two 2023/24 - Top 7 Finish,Newport County,-0.01820000000000002,0.1818,0.2
 2023-06-30 14:31:49.186592,League Two - England - League Two 2023/24 - To Be Promoted,Doncaster Rovers,-0.01820000000000002,0.1818,0.2
-2023-06-30 07:31:38.394215,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3 Balls - M. Homa / B. Harman / T. Moore - 2nd Round 3 Balls,Brian Harman,-0.018799999999999983,0.3448,0.3636
 2023-06-30 14:31:51.904166,NBA Specials - Off-Season Specials - Where will Grant Williams play next season?,Boston Celtics,-0.018799999999999983,0.3448,0.3636
+2023-06-30 07:31:38.394215,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3 Balls - M. Homa / B. Harman / T. Moore - 2nd Round 3 Balls,Brian Harman,-0.018799999999999983,0.3448,0.3636
 2023-06-30 13:31:34.545219,Copa Sudamericana - Copa Sudamericana 2023 - Outright,Audax Italiano,-0.0189,0.0196,0.0385
 2023-06-30 14:31:49.201137,League Two - England - League Two 2023/24 - Top 7 Finish,Milton Keynes Dons,-0.018900000000000028,0.4255,0.4444
 2023-06-30 14:31:49.201137,League Two - England - League Two 2023/24 - Top 7 Finish,Tranmere Rovers,-0.019000000000000017,0.2667,0.2857
+2023-06-30 15:31:27.783815,NBA Specials - Off-Season Specials - Where will Zion Williamson play next season?,Houston Rockets,-0.019699999999999995,0.1053,0.125
 2023-06-30 04:31:37.730538,Nathan's Hot Dog Eating Contest - Geoffrey Esper: Total Hot Dogs Eaten - Geoffrey Esper Total Hot Dogs,48.5 or under,-0.01970000000000005,0.5455,0.5652
 2023-06-30 04:31:37.739582,Nathan's Hot Dog Eating Contest - Gideon Oji: Total Hot Dogs Eaten - Gideon Oji Total Hot Dogs,38.5 or under,-0.02079999999999993,0.5348,0.5556
+2023-06-30 15:31:27.594778,WNBA Futures - WNBA Championship 2023 - Outright Winner,New York Liberty,-0.02100000000000002,0.3636,0.3846
 2023-06-30 14:31:49.201137,League Two - England - League Two 2023/24 - Top 7 Finish,Swindon Town,-0.021999999999999964,0.2857,0.3077
 2023-06-30 12:31:35.929921,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - To Win Group B,Qatar,-0.022099999999999998,0.0164,0.0385
 2023-06-30 14:31:49.186592,League Two - England - League Two 2023/24 - To Be Promoted,Salford City,-0.022199999999999998,0.2,0.2222
+2023-06-30 15:31:27.663102,NBA Specials - Off-Season Specials - Where will Damian Lillard play next season?,Portland Trail Blazers,-0.022199999999999998,0.7778,0.8
 2023-06-30 12:31:41.126329,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Atlanta Braves,-0.02260000000000001,0.3774,0.4
 2023-06-30 12:31:35.896424,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - Winner,Haiti,-0.023200000000000002,0.0244,0.0476
-2023-06-30 14:31:55.073418,Round Match-Ups - Parlays - 2nd Round Match-Up - D. Riley vs T. Pendrith - 2nd Round Match-Up,Davis Riley,-0.023800000000000043,0.5,0.5238
+2023-06-30 15:31:27.783815,NBA Specials - Off-Season Specials - Where will Zion Williamson play next season?,New York Knicks,-0.023799999999999988,0.1429,0.1667
 2023-06-30 14:31:55.046233,Round Match-Ups - Parlays - 2nd Round Match-Up - C. Morikawa vs R. Fowler - 2nd Round Match-Up,Collin Morikawa,-0.023800000000000043,0.5,0.5238
+2023-06-30 14:31:55.073418,Round Match-Ups - Parlays - 2nd Round Match-Up - D. Riley vs T. Pendrith - 2nd Round Match-Up,Davis Riley,-0.023800000000000043,0.5,0.5238
+2023-06-30 15:31:27.777402,NBA Specials - Off-Season Specials - Where will Seth Curry play next season?,Brooklyn Nets,-0.023800000000000043,0.5,0.5238
 2023-06-30 12:31:35.938211,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - To Win Group C,Costa Rica,-0.024999999999999994,0.1,0.125
 2023-06-30 04:31:37.855193,Nathan's Hot Dog Eating Contest - Will The World Record For Number Of Hot Dogs Eaten In Ten Minutes Be Broken? - Will The World Record Be Broken?,No,-0.0252,0.697,0.7222
 2023-06-30 12:31:35.929921,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - To Win Group B,Haiti,-0.025300000000000003,0.1176,0.1429
 2023-06-30 12:31:41.111586,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Tampa Bay Rays,-0.02560000000000001,0.3077,0.3333
 2023-06-30 14:31:49.201137,League Two - England - League Two 2023/24 - Top 7 Finish,Walsall,-0.02779999999999999,0.2222,0.25
-2023-06-30 14:31:49.201137,League Two - England - League Two 2023/24 - Top 7 Finish,Accrington Stanley,-0.02779999999999999,0.2222,0.25
 2023-06-30 14:31:49.201137,League Two - England - League Two 2023/24 - Top 7 Finish,Forest Green Rovers,-0.02779999999999999,0.2222,0.25
+2023-06-30 14:31:49.201137,League Two - England - League Two 2023/24 - Top 7 Finish,Accrington Stanley,-0.02779999999999999,0.2222,0.25
 2023-06-30 12:31:41.126329,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,San Diego Padres,-0.028399999999999995,0.0625,0.0909
 2023-06-30 14:31:49.127612,League Two - England - League Two 2023/24 - Winner,Stockport County,-0.031799999999999995,0.1111,0.1429
 2023-06-30 05:31:42.854378,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,-0.032099999999999906,0.5833,0.6154
@@ -145,10 +162,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-06-30 04:31:38.253633,NBA Specials - Off-Season Specials - Where will Donte DiVincenzo play next season?,Golden State Warriors,-0.04040000000000002,0.1818,0.2222
 2023-06-30 12:31:38.225802,Nathan's Hot Dog Eating Contest - Joey Chestnut: Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,Over 74.5,-0.043399999999999994,0.4444,0.4878
 2023-06-30 07:31:34.643591,Nathan's Hot Dog Eating Contest - Nick Wehry: Total Hot Dogs Eaten - Nick Wehry Total Hot Dogs,Over 47.5,-0.045499999999999985,0.5,0.5455
+2023-06-30 15:31:27.745124,NBA Specials - Off-Season Specials - Where will Kyle Kuzma play next season?,Sacramento Kings,-0.047599999999999976,0.2857,0.3333
 2023-06-30 13:31:34.545219,Copa Sudamericana - Copa Sudamericana 2023 - Outright,Newell's Old Boys,-0.048100000000000004,0.0769,0.125
 2023-06-30 04:31:37.765201,Nathan's Hot Dog Eating Contest - Miki Sudo: Total Hot Dogs Eaten - Miki Sudo Total Hot Dogs,43.5 or under,-0.05300000000000005,0.5122,0.5652
 2023-06-30 13:31:34.545219,Copa Sudamericana - Copa Sudamericana 2023 - Outright,São Paulo,-0.05550000000000002,0.1667,0.2222
 2023-06-30 04:31:37.792988,Nathan's Hot Dog Eating Contest - Leader At 1 Minute: Men's Contest - Leader At 1 Minute,Geoffrey Esper,-0.0635,0.2222,0.2857
+2023-06-30 15:31:27.719479,NBA Specials - Off-Season Specials - Where will James Harden play next season?,New York Knicks,-0.07789999999999997,0.2857,0.3636
 2023-06-30 12:31:41.180380,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,-0.07930000000000001,0.1429,0.2222
 2023-06-30 06:31:15.015971,Scores - 2nd Round Score - Rickie Fowler - 2nd Round Score,Over 69.5,-0.12879999999999997,0.4167,0.5455
+2023-06-30 15:31:27.700129,NBA Specials - Off-Season Specials - Where will Gabe Vincent play next season?,Miami Heat,-0.15870000000000006,0.5556,0.7143
 2023-06-30 04:31:38.212046,NBA Specials - Off-Season Specials - Where will Bruce Brown play next season?,Denver Nuggets,-0.27770000000000006,0.1667,0.4444
