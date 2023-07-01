@@ -1,9 +1,7 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2023-07-01 08:31:11.701548,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - To Win Group C,Panama,0.19009999999999994,0.9901,0.8
 2023-07-01 17:31:32.305545,British Masters - British Masters - Winner,Joost Luiten,0.154,0.1818,0.0278
 2023-07-01 17:31:32.305545,British Masters - British Masters - Winner,Guido Migliozzi,0.13419999999999999,0.1538,0.0196
 2023-07-01 17:31:32.305545,British Masters - British Masters - Winner,Niklas Norgaard Mller,0.0807,0.1333,0.0526
-2023-07-01 08:31:16.006959,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - B. Todd v S. Kodaira - 3rd Round 2 Balls,Satoshi Kodaira,0.07770000000000005,0.4348,0.3571
 2023-07-01 17:31:32.305545,British Masters - British Masters - Winner,Andy Sullivan,0.0741,0.1176,0.0435
 2023-07-01 17:31:32.305545,British Masters - British Masters - Winner,Maximilian Kieffer,0.073,0.0909,0.0179
 2023-07-01 10:31:38.366468,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - To Win Group A,USA,0.06820000000000004,0.8182,0.75
@@ -17,50 +15,39 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-01 13:31:22.469182,Scores - 3rd Round Score - Cameron Davis - 3rd Round Score,Under 68.5,0.03600000000000003,0.5238,0.4878
 2023-07-01 13:31:22.065713,BKFC 46 - Robert Barry vs Ben Bonner - To Win the Bout,Ben Bonner,0.035700000000000065,0.6721,0.6364
 2023-07-01 10:31:39.862144,Nathan's Hot Dog Eating Contest - Leader At 1 Minute: Men's Contest - Leader At 1 Minute,Darron Breeden,0.034100000000000005,0.125,0.0909
-2023-07-01 08:31:11.683269,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - Winner,Panama,0.034100000000000005,0.125,0.0909
 2023-07-01 16:31:26.188942,NBA Futures - 2023/24 NBA Season - 2023-24 NBA Champion,Miami Heat,0.03330000000000001,0.1,0.0667
 2023-07-01 10:31:42.013490,Boxing Lines - Jared Anderson vs Charles Martin - To Win the Bout,Charles Martin,0.027800000000000005,0.1111,0.0833
 2023-07-01 16:31:26.329691,NBA Awards - 2023/24 NBA Awards - Rookie Of The Year,Scoot Henderson,0.02779999999999999,0.25,0.2222
 2023-07-01 13:31:22.057034,BKFC 46 - Robbie Brown  vs Ben Hatchett - To Win the Bout,Ben Hatchett,0.02689999999999998,0.4115,0.3846
 2023-07-01 11:31:21.935700,Scores - 3rd Round Score - Max Homa - 3rd Round Score,Under 68.5,0.025599999999999956,0.6,0.5744
-2023-07-01 08:31:11.878259,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,FC Juarez,0.024999999999999994,0.125,0.1
 2023-07-01 15:31:23.844366,BKFC 46 - Robert Barry vs Ben Bonner - To Win the Bout,Robert Barry,0.024500000000000022,0.4167,0.3922
 2023-07-01 15:31:20.106380,Championship - England Championship 2023/24 - To Be Promoted,Leicester City,0.02260000000000001,0.4,0.3774
 2023-07-01 15:31:24.124476,Round Match-Ups - Parlays - 3rd Round Match-Up - A. Noren vs B. Todd - 3rd Round Match-Up,Brendon Todd,0.02169999999999994,0.5455,0.5238
 2023-07-01 15:31:20.119057,Championship - England Championship 2023/24 - Top 6 Finish,Leicester City,0.02100000000000002,0.6364,0.6154
-2023-07-01 08:31:15.551795,Boxing Lines - Jaron Ennis vs Roiman Villa - To Win the Bout,Jaron Ennis,0.020299999999999985,0.9615,0.9412
-2023-07-01 08:31:16.267497,Round Match-Ups - Parlays - 3rd Round Match-Up - L. Aberg vs A. Hadwin - 3rd Round Match-Up,Ludvig Aberg,0.01970000000000005,0.5652,0.5455
 2023-07-01 18:31:36.462949,Boxing Lines - Zak Chelli vs Mark Jeffers - To Win the Bout,Mark Jeffers,0.019600000000000006,0.3226,0.303
 2023-07-01 17:31:32.305545,British Masters - British Masters - Winner,Romain Langasque,0.019099999999999995,0.0435,0.0244
-2023-07-01 08:31:11.878259,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Pumas UNAM,0.01820000000000002,0.2,0.1818
 2023-07-01 13:31:22.433411,Round Match-Ups - Parlays - 3rd Round Match-Up - L. Aberg vs A. Hadwin - 3rd Round Match-Up,Ludvig Aberg,0.018100000000000005,0.5833,0.5652
-2023-07-01 08:31:15.339190,Elite Boxing - Errol Spence Jr vs Terence Crawford - To Win the Bout,Terence Crawford,0.01759999999999995,0.6667,0.6491
 2023-07-01 17:31:32.305545,British Masters - British Masters - Winner,Justin Walters,0.017400000000000002,0.0323,0.0149
 2023-07-01 15:31:23.946493,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - C. Hoffman v C. Yuan - 3rd Round 2 Balls,Charley Hoffman,0.016699999999999937,0.6,0.5833
 2023-07-01 13:31:22.082585,BKFC 46 - Gary Fox vs Hayden Sherriff - To Win the Bout,Hayden Sherriff,0.015899999999999997,0.1111,0.0952
 2023-07-01 11:31:20.171692,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,0.015100000000000002,0.8333,0.8182
-2023-07-01 08:31:15.543172,Boxing Lines - Eimantas Stanionis vs Vergil Ortiz - To Win the Bout,Vergil Ortiz,0.015100000000000002,0.8333,0.8182
-2023-07-01 08:31:12.965382,Celebrity Boxing - Fight Location Musk v Zuckerberg - Where will fight take place ?,London,0.014899999999999997,0.0625,0.0476
 2023-07-01 11:31:20.212950,MLB Futures - MLB 2023 National League West - National League West Winner,Los Angeles Dodgers,0.014200000000000101,0.6296,0.6154
-2023-07-01 08:31:13.289025,Nathan's Hot Dog Eating Contest - Nick Wehry: Total Hot Dogs Eaten - Nick Wehry Total Hot Dogs,47.5 or under,0.013799999999999923,0.6364,0.6226
-2023-07-01 08:31:15.535451,Boxing Lines - Jared Anderson vs Charles Martin - To Win the Bout,Jared Anderson,0.0131,0.9655,0.9524
 2023-07-01 17:31:32.305545,British Masters - British Masters - Winner,Sami Valimaki,0.0124,0.0152,0.0028
-2023-07-01 14:31:28.059927,Round Match-Ups - Parlays - 3rd Round Match-Up - K. Bradley vs B. Harman - 3rd Round Match-Up,Brian Harman,0.012199999999999989,0.5,0.4878
 2023-07-01 13:31:22.537065,Scores - 3rd Round Score - Sungjae Im - 3rd Round Score,Under 68.5,0.012199999999999989,0.5,0.4878
+2023-07-01 14:31:28.059927,Round Match-Ups - Parlays - 3rd Round Match-Up - K. Bradley vs B. Harman - 3rd Round Match-Up,Brian Harman,0.012199999999999989,0.5,0.4878
 2023-07-01 17:31:32.305545,British Masters - British Masters - Winner,Calum Hill,0.011699999999999999,0.0196,0.0079
 2023-07-01 17:31:32.020840,Boxing Lines - Franchon Crews vs Savannah Marshall - To Win the Bout,Savannah Marshall,0.011200000000000099,0.8403,0.8291
-2023-07-01 17:31:30.664746,NBA Awards - 2023/24 NBA Awards - Regular Season MVP,Damian Lillard (POR),0.011199999999999995,0.0435,0.0323
 2023-07-01 15:31:20.100214,Championship - England Championship 2023/24 - Winner,Ipswich Town,0.011199999999999995,0.0588,0.0476
+2023-07-01 17:31:30.664746,NBA Awards - 2023/24 NBA Awards - Regular Season MVP,Damian Lillard (POR),0.011199999999999995,0.0435,0.0323
 2023-07-01 11:31:21.695975,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - J. Suh v C. Young - 3rd Round 2 Balls,Carson Young,0.011099999999999999,0.4762,0.4651
-2023-07-01 14:31:28.139374,Round Match-Ups - Parlays - 3rd Round Match-Up - A. Rai vs T. Pendrith - 3rd Round Match-Up,Taylor Pendrith,0.01100000000000001,0.5348,0.5238
 2023-07-01 13:31:22.546750,Scores - 3rd Round Score - Taylor Moore - 3rd Round Score,Over 68.5,0.01100000000000001,0.5348,0.5238
+2023-07-01 14:31:28.139374,Round Match-Ups - Parlays - 3rd Round Match-Up - A. Rai vs T. Pendrith - 3rd Round Match-Up,Taylor Pendrith,0.01100000000000001,0.5348,0.5238
 2023-07-01 16:31:26.197099,NBA Futures - 2023/24 NBA Season - 2023-24 Eastern Conference Winner,Brooklyn Nets,0.010700000000000001,0.0385,0.0278
-2023-07-01 13:31:22.505956,Scores - 3rd Round Score - Ludvig Aberg - 3rd Round Score,Under 68.5,0.010699999999999932,0.5455,0.5348
 2023-07-01 15:31:23.879589,BKFC 46 - Matty Hill  vs Dawid Oskar - To Win the Bout,Matty Hill,0.010699999999999932,0.5455,0.5348
-2023-07-01 14:31:28.152274,Round Match-Ups - Parlays - 3rd Round Match-Up - C. Morikawa vs R. Fowler - 3rd Round Match-Up,Rickie Fowler,0.010699999999999932,0.5455,0.5348
 2023-07-01 12:31:29.332215,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - T. Moore v T. Pendrith - 3rd Round 2 Balls,Taylor Moore,0.010699999999999932,0.5455,0.5348
+2023-07-01 13:31:22.505956,Scores - 3rd Round Score - Ludvig Aberg - 3rd Round Score,Under 68.5,0.010699999999999932,0.5455,0.5348
+2023-07-01 14:31:28.152274,Round Match-Ups - Parlays - 3rd Round Match-Up - C. Morikawa vs R. Fowler - 3rd Round Match-Up,Rickie Fowler,0.010699999999999932,0.5455,0.5348
 2023-07-01 17:31:32.305545,British Masters - British Masters - Winner,Gavin Green,0.0102,0.0152,0.005
-2023-07-01 08:31:11.870404,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Juan Dinenno (PUM),0.0102,0.0769,0.0667
 2023-07-01 19:31:25.303439,Boxing Lines - Natasha Jonas vs Kandi Wyatt - To Win the Bout,Natasha Jonas,0.010199999999999987,0.9333,0.9231
 2023-07-01 15:31:23.832130,BKFC 46 - Robbie Brown  vs Ben Hatchett - To Win the Bout,Robbie Brown,0.010099999999999998,0.6875,0.6774
 2023-07-01 14:31:28.059927,Round Match-Ups - Parlays - 3rd Round Match-Up - K. Bradley vs B. Harman - 3rd Round Match-Up,Keegan Bradley,-0.010099999999999998,0.5455,0.5556
@@ -69,38 +56,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-01 13:31:22.505956,Scores - 3rd Round Score - Ludvig Aberg - 3rd Round Score,Over 68.5,-0.01100000000000001,0.5238,0.5348
 2023-07-01 13:31:22.433411,Round Match-Ups - Parlays - 3rd Round Match-Up - L. Aberg vs A. Hadwin - 3rd Round Match-Up,Adam Hadwin,-0.011099999999999999,0.4651,0.4762
 2023-07-01 14:31:28.139374,Round Match-Ups - Parlays - 3rd Round Match-Up - A. Rai vs T. Pendrith - 3rd Round Match-Up,Aaron Rai,-0.011600000000000055,0.5122,0.5238
-2023-07-01 14:31:28.152274,Round Match-Ups - Parlays - 3rd Round Match-Up - C. Morikawa vs R. Fowler - 3rd Round Match-Up,Collin Morikawa,-0.012199999999999989,0.5,0.5122
 2023-07-01 12:31:29.332215,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - T. Moore v T. Pendrith - 3rd Round 2 Balls,Taylor Pendrith,-0.012199999999999989,0.5,0.5122
+2023-07-01 14:31:28.152274,Round Match-Ups - Parlays - 3rd Round Match-Up - C. Morikawa vs R. Fowler - 3rd Round Match-Up,Collin Morikawa,-0.012199999999999989,0.5,0.5122
 2023-07-01 17:31:32.305545,British Masters - British Masters - Winner,Richie Ramsay,-0.012199999999999999,0.001,0.0132
 2023-07-01 13:31:22.527156,Scores - 3rd Round Score - Rickie Fowler - 3rd Round Score,Under 68.5,-0.012700000000000045,0.6364,0.6491
-2023-07-01 08:31:11.683269,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - Winner,Honduras,-0.013,0.0066,0.0196
-2023-07-01 08:31:15.543172,Boxing Lines - Eimantas Stanionis vs Vergil Ortiz - To Win the Bout,Eimantas Stanionis,-0.01469999999999999,0.2353,0.25
-2023-07-01 08:31:15.339190,Elite Boxing - Errol Spence Jr vs Terence Crawford - To Win the Bout,Errol Spence Jr,-0.01479999999999998,0.3774,0.3922
-2023-07-01 08:31:11.863300,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Club América,-0.015100000000000002,0.1667,0.1818
 2023-07-01 17:31:32.305545,British Masters - British Masters - Winner,Marcel Siem,-0.0154,0.001,0.0164
-2023-07-01 08:31:11.878259,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,CF Pachuca,-0.015400000000000025,0.3846,0.4
-2023-07-01 08:31:15.535451,Boxing Lines - Jared Anderson vs Charles Martin - To Win the Bout,Charles Martin,-0.016700000000000007,0.0833,0.1
 2023-07-01 17:31:32.305545,British Masters - British Masters - Winner,David Law,-0.0171,0.0025,0.0196
-2023-07-01 08:31:11.683269,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - Winner,Canada,-0.0179,0.125,0.1429
 2023-07-01 16:31:26.188942,NBA Futures - 2023/24 NBA Season - 2023-24 NBA Champion,Philadelphia 76ers,-0.018099999999999998,0.0588,0.0769
-2023-07-01 08:31:11.878259,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Tijuana,-0.018099999999999998,0.0588,0.0769
 2023-07-01 10:31:42.013490,Boxing Lines - Jared Anderson vs Charles Martin - To Win the Bout,Jared Anderson,-0.018100000000000005,0.9474,0.9655
 2023-07-01 11:31:21.695975,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - J. Suh v C. Young - 3rd Round 2 Balls,Justin Suh,-0.018100000000000005,0.5652,0.5833
-2023-07-01 08:31:13.289025,Nathan's Hot Dog Eating Contest - Nick Wehry: Total Hot Dogs Eaten - Nick Wehry Total Hot Dogs,Over 47.5,-0.018900000000000028,0.4255,0.4444
 2023-07-01 17:31:32.305545,British Masters - British Masters - Winner,Ryo Hisatsune,-0.0194,0.005,0.0244
-2023-07-01 08:31:11.683269,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - Winner,Jamaica,-0.02020000000000001,0.0909,0.1111
 2023-07-01 09:30:53.047315,Boxing Lines - Jaron Ennis vs Roiman Villa - To Win the Bout,Jaron Ennis,-0.020299999999999985,0.9412,0.9615
 2023-07-01 15:31:23.871180,BKFC 46 - Bart Krol vs Goscha - To Win the Bout,Goscha,-0.02030000000000004,0.3571,0.3774
 2023-07-01 15:31:23.946493,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - C. Hoffman v C. Yuan - 3rd Round 2 Balls,Carl Yuan,-0.020699999999999996,0.4444,0.4651
 2023-07-01 10:31:39.862144,Nathan's Hot Dog Eating Contest - Leader At 1 Minute: Men's Contest - Leader At 1 Minute,Geoffrey Esper,-0.022199999999999998,0.2,0.2222
 2023-07-01 11:31:21.935700,Scores - 3rd Round Score - Max Homa - 3rd Round Score,Over 68.5,-0.022699999999999998,0.4651,0.4878
 2023-07-01 15:31:23.844366,BKFC 46 - Robert Barry vs Ben Bonner - To Win the Bout,Ben Bonner,-0.02300000000000002,0.6491,0.6721
-2023-07-01 08:31:16.267497,Round Match-Ups - Parlays - 3rd Round Match-Up - L. Aberg vs A. Hadwin - 3rd Round Match-Up,Adam Hadwin,-0.023799999999999988,0.4762,0.5
 2023-07-01 15:31:24.124476,Round Match-Ups - Parlays - 3rd Round Match-Up - A. Noren vs B. Todd - 3rd Round Match-Up,Alex Noren,-0.023800000000000043,0.5,0.5238
 2023-07-01 18:31:36.462949,Boxing Lines - Zak Chelli vs Mark Jeffers - To Win the Bout,Zak Chelli,-0.02440000000000009,0.7403,0.7647
 2023-07-01 16:31:26.329691,NBA Awards - 2023/24 NBA Awards - Rookie Of The Year,Victor Wembanyama,-0.025600000000000067,0.6667,0.6923
-2023-07-01 17:31:32.305545,British Masters - British Masters - Winner,Ewen Ferguson,-0.0257,0.0066,0.0323
 2023-07-01 17:31:32.305545,British Masters - British Masters - Winner,Adrian Meronk,-0.0257,0.0066,0.0323
+2023-07-01 17:31:32.305545,British Masters - British Masters - Winner,Ewen Ferguson,-0.0257,0.0066,0.0323
 2023-07-01 13:31:22.469182,Scores - 3rd Round Score - Cameron Davis - 3rd Round Score,Over 68.5,-0.028900000000000037,0.5455,0.5744
 2023-07-01 13:31:22.065713,BKFC 46 - Robert Barry vs Ben Bonner - To Win the Bout,Robert Barry,-0.033299999999999996,0.3922,0.4255
 2023-07-01 15:31:23.832130,BKFC 46 - Robbie Brown  vs Ben Hatchett - To Win the Bout,Ben Hatchett,-0.034099999999999964,0.3774,0.4115
@@ -110,9 +86,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-01 17:31:32.196677,BKFC 46 - Robbie Brown  vs Ben Hatchett - To Win the Bout,Ben Hatchett,-0.04410000000000003,0.3333,0.3774
 2023-07-01 14:31:26.991973,Boxing Lines - Etinosa Oliha vs Julio Alamos - To Win the Bout,Julio Alamos,-0.04700000000000004,0.4878,0.5348
 2023-07-01 10:31:38.366468,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - To Win Group A,Jamaica,-0.059099999999999986,0.2857,0.3448
-2023-07-01 08:31:16.006959,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - B. Todd v S. Kodaira - 3rd Round 2 Balls,Brendon Todd,-0.0797,0.6078,0.6875
 2023-07-01 17:31:32.305545,British Masters - British Masters - Winner,Yannik Paul,-0.08099999999999999,0.0099,0.0909
 2023-07-01 17:31:32.305545,British Masters - British Masters - Winner,Thorbjorn Olesen,-0.082,0.0013,0.0833
-2023-07-01 08:31:11.701548,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - To Win Group C,Martinique,-0.10119999999999998,0.0526,0.1538
 2023-07-01 17:31:32.305545,British Masters - British Masters - Winner,Antoine Rozner,-0.1012,0.0099,0.1111
 2023-07-01 17:31:32.305545,British Masters - British Masters - Winner,Justin Rose,-0.2381,0.0476,0.2857
