@@ -19,12 +19,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-01 05:31:04.041784,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - J.J. Spaun v R. Brehm - 3rd Round 2 Balls,J.J. Spaun,0.03710000000000002,0.6923,0.6552
 2023-07-01 07:31:14.480457,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - T. Moore v T. Pendrith - 3rd Round 2 Balls,Taylor Pendrith,0.035999999999999976,0.5122,0.4762
 2023-07-01 01:31:00.556708,Nathan's Hot Dog Eating Contest - Nick Wehry: Total Hot Dogs Eaten - Nick Wehry Total Hot Dogs,47.5 or under,0.03479999999999994,0.6,0.5652
-2023-07-01 10:31:39.862144,Nathan's Hot Dog Eating Contest - Leader At 1 Minute: Men's Contest - Leader At 1 Minute,Darron Breeden,0.034100000000000005,0.125,0.0909
 2023-07-01 08:31:11.683269,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - Winner,Panama,0.034100000000000005,0.125,0.0909
+2023-07-01 10:31:39.862144,Nathan's Hot Dog Eating Contest - Leader At 1 Minute: Men's Contest - Leader At 1 Minute,Darron Breeden,0.034100000000000005,0.125,0.0909
 2023-07-01 01:31:00.565939,Nathan's Hot Dog Eating Contest - Chestnut & Sudo: Combined Total Hot Dogs Eaten - Chestnut & Sudo Combined Total Hot Dogs,116.5 or under,0.032099999999999906,0.6154,0.5833
 2023-07-01 05:31:04.464521,U.S. Senior Open Championship - U.S. Senior Open Championship - Winner,Dicky Pride,0.0306,0.0385,0.0079
-2023-07-01 06:31:06.736267,Nathan's Hot Dog Eating Contest - Joey Chestnut: Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,74.5 or under,0.030299999999999994,0.697,0.6667
 2023-07-01 05:31:01.247701,Nathan's Hot Dog Eating Contest - Joey Chestnut: Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,74.5 or under,0.030299999999999994,0.6667,0.6364
+2023-07-01 06:31:06.736267,Nathan's Hot Dog Eating Contest - Joey Chestnut: Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,74.5 or under,0.030299999999999994,0.697,0.6667
 2023-07-01 06:31:08.570033,MLB Futures - MLB 2023 Player Awards - American League MVP,Shohei Ohtani (LAA),0.02839999999999998,0.9375,0.9091
 2023-07-01 10:31:42.013490,Boxing Lines - Jared Anderson vs Charles Martin - To Win the Bout,Charles Martin,0.027800000000000005,0.1111,0.0833
 2023-07-01 04:31:27.862713,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - R. Shelton v M. Schwab - 3rd Round 2 Balls,Robby Shelton,0.027700000000000058,0.5833,0.5556
@@ -36,8 +36,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-01 07:31:14.403292,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - N. Hojgaard v C. Tarren - 3rd Round 2 Balls,Callum Tarren,0.023799999999999988,0.5,0.4762
 2023-07-01 01:31:00.547503,Nathan's Hot Dog Eating Contest - Miki Sudo: Total Hot Dogs Eaten - Miki Sudo Total Hot Dogs,43.5 or under,0.023799999999999988,0.5,0.4762
 2023-07-01 06:31:06.763987,Nathan's Hot Dog Eating Contest - Nick Wehry: Total Hot Dogs Eaten - Nick Wehry Total Hot Dogs,47.5 or under,0.022600000000000064,0.6226,0.6
-2023-07-01 06:31:09.509754,Scores - 2nd Round Score - Brooks Koepka - 2nd Round Score,Under 69.5,0.02079999999999993,0.5556,0.5348
 2023-07-01 06:31:09.032363,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - G. Sigg v Z. Johnson - 3rd Round 2 Balls,Greyson Sigg,0.02079999999999993,0.5556,0.5348
+2023-07-01 06:31:09.509754,Scores - 2nd Round Score - Brooks Koepka - 2nd Round Score,Under 69.5,0.02079999999999993,0.5556,0.5348
 2023-07-01 07:31:14.471340,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - R. Fowler v L. Aberg - 3rd Round 2 Balls,Ludvig Aberg,0.020699999999999996,0.4651,0.4444
 2023-07-01 06:31:08.585776,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Justin Steele (CHC),0.0203,0.0526,0.0323
 2023-07-01 08:31:15.551795,Boxing Lines - Jaron Ennis vs Roiman Villa - To Win the Bout,Jaron Ennis,0.020299999999999985,0.9615,0.9412
@@ -52,26 +52,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-01 08:31:15.339190,Elite Boxing - Errol Spence Jr vs Terence Crawford - To Win the Bout,Terence Crawford,0.01759999999999995,0.6667,0.6491
 2023-07-01 06:31:06.861553,Nathan's Hot Dog Eating Contest - Will The World Record For Number Of Hot Dogs Eaten In Ten Minutes Be Broken? - Will The World Record Be Broken?,No,0.017300000000000093,0.7143,0.697
 2023-07-01 05:31:04.464521,U.S. Senior Open Championship - U.S. Senior Open Championship - Winner,Y.E Yang,0.017100000000000004,0.0323,0.0152
-2023-07-01 00:31:19.484813,NBA Futures - 2023/24 NBA Season - 2023-24 Western Conference Winner,Phoenix Suns,0.016699999999999993,0.2667,0.25
 2023-07-01 06:31:09.001638,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - R. Shelton v M. Schwab - 3rd Round 2 Balls,Robby Shelton,0.016699999999999937,0.6,0.5833
 2023-07-01 08:31:15.543172,Boxing Lines - Eimantas Stanionis vs Vergil Ortiz - To Win the Bout,Vergil Ortiz,0.015100000000000002,0.8333,0.8182
 2023-07-01 11:31:20.171692,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,0.015100000000000002,0.8333,0.8182
 2023-07-01 08:31:12.965382,Celebrity Boxing - Fight Location Musk v Zuckerberg - Where will fight take place ?,London,0.014899999999999997,0.0625,0.0476
 2023-07-01 11:31:20.212950,MLB Futures - MLB 2023 National League West - National League West Winner,Los Angeles Dodgers,0.014200000000000101,0.6296,0.6154
-2023-07-01 00:31:19.484813,NBA Futures - 2023/24 NBA Season - 2023-24 Western Conference Winner,Los Angeles Lakers,0.013899999999999996,0.125,0.1111
 2023-07-01 06:31:08.499023,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,0.013800000000000034,0.3774,0.3636
 2023-07-01 08:31:13.289025,Nathan's Hot Dog Eating Contest - Nick Wehry: Total Hot Dogs Eaten - Nick Wehry Total Hot Dogs,47.5 or under,0.013799999999999923,0.6364,0.6226
 2023-07-01 01:31:00.529220,Nathan's Hot Dog Eating Contest - Joey Chestnut: Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,74.5 or under,0.013799999999999923,0.6364,0.6226
 2023-07-01 08:31:15.535451,Boxing Lines - Jared Anderson vs Charles Martin - To Win the Bout,Jared Anderson,0.0131,0.9655,0.9524
 2023-07-01 11:31:21.695975,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - J. Suh v C. Young - 3rd Round 2 Balls,Carson Young,0.011099999999999999,0.4762,0.4651
-2023-07-01 00:31:21.599880,British Masters - British Masters - Winner,Adrian Meronk,0.010600000000000002,0.0323,0.0217
+2023-07-01 12:31:29.332215,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - T. Moore v T. Pendrith - 3rd Round 2 Balls,Taylor Moore,0.010699999999999932,0.5455,0.5348
 2023-07-01 08:31:11.870404,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Juan Dinenno (PUM),0.0102,0.0769,0.0667
-2023-07-01 00:31:19.460845,NBA Futures - 2023/24 NBA Season - 2023-24 NBA Champion,Los Angeles Lakers,0.0102,0.0769,0.0667
 2023-07-01 06:31:08.515647,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,0.010099999999999998,0.5556,0.5455
 2023-07-01 06:31:08.594529,MLB Futures - MLB 2023 Player Awards - National League MVP,Fernando Tatis Jr. (SD),-0.010700000000000001,0.0278,0.0385
 2023-07-01 04:31:25.383622,WNBA Futures - WNBA Awards - Regular Season MVP,Alyssa Thomas,-0.010899999999999993,0.1429,0.1538
 2023-07-01 06:31:08.490736,MLB Futures - MLB 2023 American League East - American League East Winner,Baltimore Orioles,-0.011099999999999999,0.1,0.1111
 2023-07-01 05:31:04.464521,U.S. Senior Open Championship - U.S. Senior Open Championship - Winner,Mark Hensby,-0.011300000000000001,0.001,0.0123
+2023-07-01 12:31:29.332215,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - T. Moore v T. Pendrith - 3rd Round 2 Balls,Taylor Pendrith,-0.012199999999999989,0.5,0.5122
 2023-07-01 05:31:04.464521,U.S. Senior Open Championship - U.S. Senior Open Championship - Winner,Marco Dawson,-0.0124,0.0028,0.0152
 2023-07-01 05:31:04.464521,U.S. Senior Open Championship - U.S. Senior Open Championship - Winner,Darren Clarke,-0.012700000000000003,0.0196,0.0323
 2023-07-01 01:31:02.305566,BKFC 46 - Gary Fox vs Hayden Sherriff - To Win the Bout,Hayden Sherriff,-0.012899999999999995,0.0952,0.1081
@@ -81,42 +79,42 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-01 08:31:15.543172,Boxing Lines - Eimantas Stanionis vs Vergil Ortiz - To Win the Bout,Eimantas Stanionis,-0.01469999999999999,0.2353,0.25
 2023-07-01 08:31:15.339190,Elite Boxing - Errol Spence Jr vs Terence Crawford - To Win the Bout,Errol Spence Jr,-0.01479999999999998,0.3774,0.3922
 2023-07-01 08:31:11.863300,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Club América,-0.015100000000000002,0.1667,0.1818
-2023-07-01 06:31:06.736267,Nathan's Hot Dog Eating Contest - Joey Chestnut: Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,Over 74.5,-0.015400000000000025,0.3846,0.4
 2023-07-01 08:31:11.878259,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,CF Pachuca,-0.015400000000000025,0.3846,0.4
-2023-07-01 04:31:25.383622,WNBA Futures - WNBA Awards - Regular Season MVP,Breanna Stewart,-0.016699999999999937,0.5833,0.6
+2023-07-01 06:31:06.736267,Nathan's Hot Dog Eating Contest - Joey Chestnut: Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,Over 74.5,-0.015400000000000025,0.3846,0.4
 2023-07-01 07:31:14.471340,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - R. Fowler v L. Aberg - 3rd Round 2 Balls,Rickie Fowler,-0.016699999999999937,0.5833,0.6
+2023-07-01 04:31:25.383622,WNBA Futures - WNBA Awards - Regular Season MVP,Breanna Stewart,-0.016699999999999937,0.5833,0.6
 2023-07-01 01:31:00.547503,Nathan's Hot Dog Eating Contest - Miki Sudo: Total Hot Dogs Eaten - Miki Sudo Total Hot Dogs,Over 43.5,-0.016699999999999937,0.5833,0.6
-2023-07-01 07:31:11.533767,NBA Futures - 2023/24 NBA Season - 2023-24 Western Conference Winner,Phoenix Suns,-0.016699999999999993,0.25,0.2667
 2023-07-01 05:31:04.464521,U.S. Senior Open Championship - U.S. Senior Open Championship - Winner,Steve Stricker,-0.016699999999999993,0.25,0.2667
+2023-07-01 07:31:11.533767,NBA Futures - 2023/24 NBA Season - 2023-24 Western Conference Winner,Phoenix Suns,-0.016699999999999993,0.25,0.2667
 2023-07-01 08:31:15.535451,Boxing Lines - Jared Anderson vs Charles Martin - To Win the Bout,Charles Martin,-0.016700000000000007,0.0833,0.1
 2023-07-01 08:31:11.683269,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - Winner,Canada,-0.0179,0.125,0.1429
 2023-07-01 07:31:11.504520,NBA Futures - 2023/24 NBA Season - 2023-24 NBA Champion,Milwaukee Bucks,-0.0179,0.125,0.1429
 2023-07-01 08:31:11.878259,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Tijuana,-0.018099999999999998,0.0588,0.0769
-2023-07-01 11:31:21.695975,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - J. Suh v C. Young - 3rd Round 2 Balls,Justin Suh,-0.018100000000000005,0.5652,0.5833
 2023-07-01 10:31:42.013490,Boxing Lines - Jared Anderson vs Charles Martin - To Win the Bout,Jared Anderson,-0.018100000000000005,0.9474,0.9655
+2023-07-01 11:31:21.695975,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - J. Suh v C. Young - 3rd Round 2 Balls,Justin Suh,-0.018100000000000005,0.5652,0.5833
 2023-07-01 05:31:04.464521,U.S. Senior Open Championship - U.S. Senior Open Championship - Winner,Richard Green,-0.0183,0.0013,0.0196
-2023-07-01 01:31:00.529220,Nathan's Hot Dog Eating Contest - Joey Chestnut: Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,Over 74.5,-0.018900000000000028,0.4255,0.4444
 2023-07-01 08:31:13.289025,Nathan's Hot Dog Eating Contest - Nick Wehry: Total Hot Dogs Eaten - Nick Wehry Total Hot Dogs,Over 47.5,-0.018900000000000028,0.4255,0.4444
+2023-07-01 01:31:00.529220,Nathan's Hot Dog Eating Contest - Joey Chestnut: Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,Over 74.5,-0.018900000000000028,0.4255,0.4444
 2023-07-01 06:31:06.689206,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest: Betting Without Joey Chestnut - Winner Without Joey Chestnut,Nick Wehry,-0.019000000000000017,0.2667,0.2857
 2023-07-01 06:31:08.585776,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Corbin Burnes (MIL),-0.019099999999999995,0.0244,0.0435
 2023-07-01 07:31:14.403292,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - N. Hojgaard v C. Tarren - 3rd Round 2 Balls,Nicolai Hojgaard,-0.01970000000000005,0.5455,0.5652
-2023-07-01 06:31:08.515647,MLB Futures - MLB 2023 National League Central - National League Central Winner,St. Louis Cardinals,-0.02020000000000001,0.0909,0.1111
 2023-07-01 08:31:11.683269,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - Winner,Jamaica,-0.02020000000000001,0.0909,0.1111
+2023-07-01 06:31:08.515647,MLB Futures - MLB 2023 National League Central - National League Central Winner,St. Louis Cardinals,-0.02020000000000001,0.0909,0.1111
 2023-07-01 09:30:53.047315,Boxing Lines - Jaron Ennis vs Roiman Villa - To Win the Bout,Jaron Ennis,-0.020299999999999985,0.9412,0.9615
 2023-07-01 05:31:04.464521,U.S. Senior Open Championship - U.S. Senior Open Championship - Winner,Paul Broadhurst,-0.020800000000000003,0.0036,0.0244
 2023-07-01 06:31:08.531426,MLB Futures - MLB 2023 National League West - National League West Winner,Los Angeles Dodgers,-0.02100000000000002,0.6154,0.6364
 2023-07-01 05:31:04.464521,U.S. Senior Open Championship - U.S. Senior Open Championship - Winner,Justin Leonard,-0.021900000000000003,0.0025,0.0244
-2023-07-01 10:31:39.862144,Nathan's Hot Dog Eating Contest - Leader At 1 Minute: Men's Contest - Leader At 1 Minute,Geoffrey Esper,-0.022199999999999998,0.2,0.2222
 2023-07-01 06:31:08.585776,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Clayton Kershaw (LAD),-0.022199999999999998,0.2,0.2222
 2023-07-01 07:31:14.424442,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - A. Hadwin v P. Kuest - 3rd Round 2 Balls,Adam Hadwin,-0.022199999999999998,0.6552,0.6774
+2023-07-01 10:31:39.862144,Nathan's Hot Dog Eating Contest - Leader At 1 Minute: Men's Contest - Leader At 1 Minute,Geoffrey Esper,-0.022199999999999998,0.2,0.2222
 2023-07-01 06:31:09.509754,Scores - 2nd Round Score - Brooks Koepka - 2nd Round Score,Over 69.5,-0.022600000000000064,0.5122,0.5348
 2023-07-01 04:31:27.862713,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - R. Shelton v M. Schwab - 3rd Round 2 Balls,Matthias Schwab,-0.022699999999999998,0.4651,0.4878
 2023-07-01 11:31:21.935700,Scores - 3rd Round Score - Max Homa - 3rd Round Score,Over 68.5,-0.022699999999999998,0.4651,0.4878
-2023-07-01 06:31:09.170329,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - M. Homa v R. Moore - 3rd Round 2 Balls,Ryan Moore,-0.023799999999999988,0.3333,0.3571
-2023-07-01 06:31:08.562914,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Gerrit Cole (NYY),-0.023799999999999988,0.1429,0.1667
-2023-07-01 06:31:09.517995,Scores - 2nd Round Score - Bryson DeChambeau - 2nd Round Score,Under 69.5,-0.023799999999999988,0.4762,0.5
-2023-07-01 07:31:11.533767,NBA Futures - 2023/24 NBA Season - 2023-24 Western Conference Winner,Golden State Warriors,-0.023799999999999988,0.1429,0.1667
 2023-07-01 08:31:16.267497,Round Match-Ups - Parlays - 3rd Round Match-Up - L. Aberg vs A. Hadwin - 3rd Round Match-Up,Adam Hadwin,-0.023799999999999988,0.4762,0.5
+2023-07-01 06:31:09.517995,Scores - 2nd Round Score - Bryson DeChambeau - 2nd Round Score,Under 69.5,-0.023799999999999988,0.4762,0.5
+2023-07-01 06:31:08.562914,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Gerrit Cole (NYY),-0.023799999999999988,0.1429,0.1667
+2023-07-01 07:31:11.533767,NBA Futures - 2023/24 NBA Season - 2023-24 Western Conference Winner,Golden State Warriors,-0.023799999999999988,0.1429,0.1667
+2023-07-01 06:31:09.170329,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - M. Homa v R. Moore - 3rd Round 2 Balls,Ryan Moore,-0.023799999999999988,0.3333,0.3571
 2023-07-01 01:31:00.502575,Nathan's Hot Dog Eating Contest - Geoffrey Esper: Total Hot Dogs Eaten - Geoffrey Esper Total Hot Dogs,48.5 or under,-0.023800000000000043,0.5,0.5238
 2023-07-01 06:31:09.032363,Rocket Mortgage Classic - 2/3 Balls - 3rd Round 2 Balls - G. Sigg v Z. Johnson - 3rd Round 2 Balls,Zach Johnson,-0.024399999999999977,0.4878,0.5122
 2023-07-01 05:31:01.247701,Nathan's Hot Dog Eating Contest - Joey Chestnut: Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,Over 74.5,-0.025499999999999967,0.4,0.4255
