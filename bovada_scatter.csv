@@ -1,6 +1,4 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2023-07-02 09:31:19.946282,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - To Win Group D,Guadeloupe,0.36750000000000005,0.4444,0.0769
-2023-07-02 09:31:19.946282,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - To Win Group D,Guatemala,0.2378,0.5455,0.3077
 2023-07-02 10:31:08.388785,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Flamengo,0.08329999999999999,0.3333,0.25
 2023-07-02 19:31:21.541430,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest: Betting Without Joey Chestnut - Winner Without Joey Chestnut,Geoffrey Esper,0.05709999999999993,0.8571,0.8
 2023-07-02 10:31:08.402996,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Bahia,0.03920000000000001,0.3333,0.2941
@@ -9,53 +7,41 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-02 12:31:20.362284,Nathan's Hot Dog Eating Contest - Joey Chestnut: Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,74.5 or under,0.027800000000000047,0.75,0.7222
 2023-07-02 11:32:14.563857,MLS - MLS 2023 - Winner,DC United,0.0262,0.0385,0.0123
 2023-07-02 10:31:08.402996,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,América Mineiro,0.025599999999999956,0.6,0.5744
-2023-07-02 08:31:15.246209,Scores - Final Round Score - Keegan Bradley - Final Round Score,Under 68.5,0.025599999999999956,0.6,0.5744
-2023-07-02 08:31:15.269037,Scores - Final Round Score - Rickie Fowler - Final Round Score,Under 67.5,0.024399999999999977,0.5122,0.4878
-2023-07-02 08:31:15.280662,Scores - Final Round Score - Sungjae Im - Final Round Score,Under 67.5,0.022699999999999998,0.4878,0.4651
-2023-07-02 08:31:15.377884,Round Match-Ups - Parlays - Final Round Match-Up - R. Fowler vs C. Morikawa - Final Round Match-Up,Collin Morikawa,0.022600000000000064,0.5348,0.5122
 2023-07-02 11:32:14.625342,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Botafogo,0.022199999999999998,0.8,0.7778
 2023-07-02 12:31:19.141348,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Atlas FC,0.022199999999999998,0.2222,0.2
-2023-07-02 08:31:15.214302,Scores - Final Round Score - Aaron Rai - Final Round Score,Over 68.5,0.01970000000000005,0.5652,0.5455
-2023-07-02 08:31:15.223157,Scores - Final Round Score - Adam Hadwin - Final Round Score,Over 68.5,0.01970000000000005,0.5652,0.5455
-2023-07-02 08:31:15.310836,Round Match-Ups - Parlays - Final Round Match-Up - L. Aberg vs C. Reavie - Final Round Match-Up,Ludvig Aberg,0.018100000000000005,0.5833,0.5652
 2023-07-02 12:31:19.141348,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Atletico San Luis,0.0179,0.1429,0.125
 2023-07-02 11:32:14.625342,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Atlético Mineiro,0.01759999999999995,0.6667,0.6491
 2023-07-02 12:31:19.126155,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Club América,0.015100000000000002,0.1818,0.1667
+2023-07-02 21:32:05.224192,Nathan's Hot Dog Eating Contest - Chestnut & Sudo: Combined Total Hot Dogs Eaten - Chestnut & Sudo Combined Total Hot Dogs,116.5 or under,0.014200000000000101,0.6296,0.6154
 2023-07-02 11:32:14.625342,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Flamengo,0.014000000000000012,0.9231,0.9091
 2023-07-02 12:31:19.132004,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Nicolas Ibanez (TIG),0.013999999999999999,0.0909,0.0769
 2023-07-02 12:31:19.132004,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Rogelio Funes Mori (MON),0.013999999999999999,0.0909,0.0769
 2023-07-02 11:32:14.570592,MLS - MLS 2023 - Top Goalscorer,Alan Pulido (SKC),0.013,0.0196,0.0066
-2023-07-02 08:31:15.336089,Round Match-Ups - Parlays - Final Round Match-Up - B. Harman vs C. Davis - Final Round Match-Up,Cameron Davis,0.011600000000000055,0.5238,0.5122
+2023-07-02 21:32:05.188381,Nathan's Hot Dog Eating Contest - Joey Chestnut: Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,74.5 or under,0.011900000000000022,0.7619,0.75
 2023-07-02 10:31:12.426043,Scores - Final Round Score - Rickie Fowler - Final Round Score,Under 67.5,0.011600000000000055,0.5238,0.5122
 2023-07-02 11:32:14.563857,MLS - MLS 2023 - Winner,Saint Louis City SC,0.011199999999999995,0.0588,0.0476
-2023-07-02 10:31:12.426043,Scores - Final Round Score - Rickie Fowler - Final Round Score,Over 67.5,-0.010099999999999998,0.5455,0.5556
 2023-07-02 12:31:19.141348,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Tigres UANL,-0.010099999999999998,0.4444,0.4545
+2023-07-02 10:31:12.426043,Scores - Final Round Score - Rickie Fowler - Final Round Score,Over 67.5,-0.010099999999999998,0.5455,0.5556
 2023-07-02 10:31:08.402996,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Cruzeiro,-0.0102,0.0667,0.0769
+2023-07-02 21:32:05.188381,Nathan's Hot Dog Eating Contest - Joey Chestnut: Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,Over 74.5,-0.010699999999999987,0.3226,0.3333
 2023-07-02 12:31:19.126155,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Tigres UANL,-0.010899999999999993,0.1429,0.1538
-2023-07-02 08:31:15.336089,Round Match-Ups - Parlays - Final Round Match-Up - B. Harman vs C. Davis - Final Round Match-Up,Brian Harman,-0.01100000000000001,0.5238,0.5348
-2023-07-02 08:31:15.310836,Round Match-Ups - Parlays - Final Round Match-Up - L. Aberg vs C. Reavie - Final Round Match-Up,Chez Reavie,-0.011099999999999999,0.4651,0.4762
 2023-07-02 14:32:20.030834,Nathan's Hot Dog Eating Contest - Gideon Oji: Total Hot Dogs Eaten - Gideon Oji Total Hot Dogs,Over 38.5,-0.012199999999999989,0.5,0.5122
+2023-07-02 21:32:05.109460,Nathan's Hot Dog Eating Contest - Geoffrey Esper: Total Hot Dogs Eaten - Geoffrey Esper Total Hot Dogs,48.5 or under,-0.012199999999999989,0.4878,0.5
 2023-07-02 11:32:14.625342,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Cruzeiro,-0.013899999999999996,0.1111,0.125
 2023-07-02 12:31:19.126155,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Cruz Azul,-0.013999999999999999,0.0769,0.0909
 2023-07-02 11:32:14.563857,MLS - MLS 2023 - Winner,Inter Miami,-0.014099999999999998,0.0244,0.0385
 2023-07-02 11:32:14.563857,MLS - MLS 2023 - Winner,Los Angeles FC,-0.015100000000000002,0.1667,0.1818
 2023-07-02 12:31:19.126155,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,CF Monterrey,-0.015100000000000002,0.1667,0.1818
 2023-07-02 10:31:08.408802,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Fortaleza,-0.01820000000000002,0.1818,0.2
-2023-07-02 08:31:15.269037,Scores - Final Round Score - Rickie Fowler - Final Round Score,Over 67.5,-0.01880000000000004,0.5556,0.5744
+2023-07-02 21:32:05.224192,Nathan's Hot Dog Eating Contest - Chestnut & Sudo: Combined Total Hot Dogs Eaten - Chestnut & Sudo Combined Total Hot Dogs,Over 116.5,-0.019699999999999995,0.4348,0.4545
 2023-07-02 11:32:14.625342,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Fortaleza,-0.02100000000000002,0.3636,0.3846
 2023-07-02 10:31:08.408802,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Internacional,-0.02210000000000001,0.2105,0.2326
 2023-07-02 11:32:14.570592,MLS - MLS 2023 - Top Goalscorer,Denis Bouanga (LAFC),-0.022199999999999998,0.2,0.2222
-2023-07-02 08:31:15.377884,Round Match-Ups - Parlays - Final Round Match-Up - R. Fowler vs C. Morikawa - Final Round Match-Up,Rickie Fowler,-0.022600000000000064,0.5122,0.5348
-2023-07-02 08:31:15.246209,Scores - Final Round Score - Keegan Bradley - Final Round Score,Over 68.5,-0.022699999999999998,0.4651,0.4878
-2023-07-02 08:31:15.214302,Scores - Final Round Score - Aaron Rai - Final Round Score,Under 68.5,-0.023800000000000043,0.5,0.5238
-2023-07-02 08:31:15.223157,Scores - Final Round Score - Adam Hadwin - Final Round Score,Under 68.5,-0.023800000000000043,0.5,0.5238
-2023-07-02 08:31:15.280662,Scores - Final Round Score - Sungjae Im - Final Round Score,Over 67.5,-0.025599999999999956,0.5744,0.6
 2023-07-02 10:31:08.402996,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Santos,-0.02560000000000001,0.3077,0.3333
 2023-07-02 12:31:20.362284,Nathan's Hot Dog Eating Contest - Joey Chestnut: Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,Over 74.5,-0.030299999999999994,0.3333,0.3636
-2023-07-02 19:31:21.541430,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest: Betting Without Joey Chestnut - Winner Without Joey Chestnut,Nick Wehry,-0.033300000000000024,0.1667,0.2
 2023-07-02 10:31:08.402996,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Corinthians,-0.033300000000000024,0.1667,0.2
+2023-07-02 19:31:21.541430,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest: Betting Without Joey Chestnut - Winner Without Joey Chestnut,Nick Wehry,-0.033300000000000024,0.1667,0.2
 2023-07-02 10:31:08.388785,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Botafogo,-0.04040000000000002,0.1818,0.2222
 2023-07-02 11:32:14.625342,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Internacional,-0.044399999999999995,0.4,0.4444
 2023-07-02 12:31:19.141348,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Cruz Azul,-0.047599999999999976,0.2857,0.3333
 2023-07-02 11:32:14.625342,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Fluminense,-0.05590000000000006,0.6364,0.6923
-2023-07-02 09:31:19.946282,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - To Win Group D,Canada,-0.5967,0.1176,0.7143
