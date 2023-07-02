@@ -13,11 +13,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-02 04:31:26.664354,Scores - Final Round Score - Aaron Rai - Final Round Score,Over 68.5,0.045499999999999985,0.5455,0.5
 2023-07-02 03:31:33.090527,Scores - Final Round Score - Keegan Bradley - Final Round Score,Over 68.5,0.043399999999999994,0.4878,0.4444
 2023-07-02 04:31:26.715222,Scores - Final Round Score - Rickie Fowler - Final Round Score,Over 67.5,0.03610000000000002,0.5917,0.5556
-2023-07-02 04:31:26.433207,Rocket Mortgage Classic - 2/3 Balls - Final Round 3 Balls - A. Smalley / C. Hadley / H. Higgs - Final Round 3 Balls,Alex Smalley,0.035999999999999976,0.5122,0.4762
 2023-07-02 04:31:26.425910,Rocket Mortgage Classic - 2/3 Balls - Final Round 3 Balls - D. Thompson / K. Kraft / A. Landry - Final Round 3 Balls,Davis Thompson,0.035999999999999976,0.5122,0.4762
 2023-07-02 04:31:26.440279,Rocket Mortgage Classic - 2/3 Balls - Final Round 3 Balls - M. Homa / D. Ghim / B. Griffin - Final Round 3 Balls,Max Homa,0.035999999999999976,0.5122,0.4762
+2023-07-02 04:31:26.433207,Rocket Mortgage Classic - 2/3 Balls - Final Round 3 Balls - A. Smalley / C. Hadley / H. Higgs - Final Round 3 Balls,Alex Smalley,0.035999999999999976,0.5122,0.4762
 2023-07-02 04:31:26.496934,Rocket Mortgage Classic - 2/3 Balls - Final Round 3 Balls - L. Aberg / S. Bennett / S. Kodaira - Final Round 3 Balls,Ludvig Aberg,0.03489999999999999,0.5,0.4651
 2023-07-02 04:31:26.519713,Rocket Mortgage Classic - 2/3 Balls - Final Round 3 Balls - S. Im / T. Duncan / V. Whaley - Final Round 3 Balls,Sungjae Im,0.028900000000000037,0.5744,0.5455
+2023-07-02 05:31:00.089757,Scores - Final Round Score - Max Homa - Final Round Score,Under 68.5,0.025599999999999956,0.6,0.5744
 2023-07-02 04:31:24.481145,Nathan's Hot Dog Eating Contest - Joey Chestnut: Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,74.5 or under,0.0252,0.7222,0.697
 2023-07-02 04:31:26.417950,Rocket Mortgage Classic - 2/3 Balls - Final Round 3 Balls - C. Tarren / S. Ryder / M.J. Daffue - Final Round 3 Balls,Callum Tarren,0.02360000000000001,0.4082,0.3846
 2023-07-02 04:31:26.684858,Scores - Final Round Score - Cameron Davis - Final Round Score,Under 68.5,0.02079999999999993,0.5556,0.5348
@@ -29,6 +30,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-02 01:31:28.954647,Boxing Lines - Eimantas Stanionis vs Vergil Ortiz - To Win the Bout,Vergil Ortiz,0.012899999999999912,0.8462,0.8333
 2023-07-01 17:31:32.305545,British Masters - British Masters - Winner,Sami Valimaki,0.0124,0.0152,0.0028
 2023-07-01 17:31:32.305545,British Masters - British Masters - Winner,Calum Hill,0.011699999999999999,0.0196,0.0079
+2023-07-02 05:31:00.098418,Scores - Final Round Score - Rickie Fowler - Final Round Score,Under 67.5,0.0116,0.4878,0.4762
 2023-07-01 17:31:32.020840,Boxing Lines - Franchon Crews vs Savannah Marshall - To Win the Bout,Savannah Marshall,0.011200000000000099,0.8403,0.8291
 2023-07-01 17:31:30.664746,NBA Awards - 2023/24 NBA Awards - Regular Season MVP,Damian Lillard (POR),0.011199999999999995,0.0435,0.0323
 2023-07-02 00:31:38.460383,Boxing Lines - Arslanbek Makhmudov vs Raphael Akpejiori - To Win the Bout,Raphael Akpejiori,0.010899999999999993,0.1538,0.1429
@@ -48,18 +50,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-01 17:31:32.305545,British Masters - British Masters - Winner,Marcel Siem,-0.0154,0.001,0.0164
 2023-07-02 04:31:26.496934,Rocket Mortgage Classic - 2/3 Balls - Final Round 3 Balls - L. Aberg / S. Bennett / S. Kodaira - Final Round 3 Balls,Satoshi Kodaira,-0.016699999999999993,0.25,0.2667
 2023-07-01 17:31:32.305545,British Masters - British Masters - Winner,David Law,-0.0171,0.0025,0.0196
+2023-07-02 05:31:00.098418,Scores - Final Round Score - Rickie Fowler - Final Round Score,Over 67.5,-0.017299999999999982,0.5744,0.5917
 2023-07-02 04:31:26.496934,Rocket Mortgage Classic - 2/3 Balls - Final Round 3 Balls - L. Aberg / S. Bennett / S. Kodaira - Final Round 3 Balls,Sam Bennett,-0.018799999999999983,0.3448,0.3636
 2023-07-01 17:31:32.305545,British Masters - British Masters - Winner,Ryo Hisatsune,-0.0194,0.005,0.0244
 2023-07-02 04:31:24.481145,Nathan's Hot Dog Eating Contest - Joey Chestnut: Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,Over 74.5,-0.02100000000000002,0.3636,0.3846
 2023-07-02 04:31:26.519713,Rocket Mortgage Classic - 2/3 Balls - Final Round 3 Balls - S. Im / T. Duncan / V. Whaley - Final Round 3 Balls,Tyler Duncan,-0.02250000000000002,0.2632,0.2857
-2023-07-02 03:31:33.108042,Scores - Final Round Score - Rickie Fowler - Final Round Score,Under 67.5,-0.022600000000000064,0.5122,0.5348
 2023-07-02 04:31:26.684858,Scores - Final Round Score - Cameron Davis - Final Round Score,Over 68.5,-0.022600000000000064,0.5122,0.5348
+2023-07-02 03:31:33.108042,Scores - Final Round Score - Rickie Fowler - Final Round Score,Under 67.5,-0.022600000000000064,0.5122,0.5348
+2023-07-02 05:31:00.089757,Scores - Final Round Score - Max Homa - Final Round Score,Over 68.5,-0.022699999999999998,0.4651,0.4878
 2023-07-01 18:31:36.462949,Boxing Lines - Zak Chelli vs Mark Jeffers - To Win the Bout,Zak Chelli,-0.02440000000000009,0.7403,0.7647
-2023-07-01 17:31:32.305545,British Masters - British Masters - Winner,Adrian Meronk,-0.0257,0.0066,0.0323
 2023-07-01 17:31:32.305545,British Masters - British Masters - Winner,Ewen Ferguson,-0.0257,0.0066,0.0323
+2023-07-01 17:31:32.305545,British Masters - British Masters - Winner,Adrian Meronk,-0.0257,0.0066,0.0323
 2023-07-02 01:31:28.947601,Boxing Lines - Jared Anderson vs Charles Martin - To Win the Bout,Charles Martin,-0.027800000000000005,0.0833,0.1111
-2023-07-02 04:31:26.425910,Rocket Mortgage Classic - 2/3 Balls - Final Round 3 Balls - D. Thompson / K. Kraft / A. Landry - Final Round 3 Balls,Kelly Kraft,-0.028500000000000025,0.2941,0.3226
 2023-07-02 04:31:26.440279,Rocket Mortgage Classic - 2/3 Balls - Final Round 3 Balls - M. Homa / D. Ghim / B. Griffin - Final Round 3 Balls,Doug Ghim,-0.028500000000000025,0.2941,0.3226
+2023-07-02 04:31:26.425910,Rocket Mortgage Classic - 2/3 Balls - Final Round 3 Balls - D. Thompson / K. Kraft / A. Landry - Final Round 3 Balls,Kelly Kraft,-0.028500000000000025,0.2941,0.3226
 2023-07-01 17:31:32.305545,British Masters - British Masters - Winner,Robert MacIntyre,-0.0344,0.0244,0.0588
 2023-07-02 04:31:26.715222,Scores - Final Round Score - Rickie Fowler - Final Round Score,Under 67.5,-0.035999999999999976,0.4762,0.5122
 2023-07-01 17:31:32.305545,British Masters - British Masters - Winner,Alexander Bjork,-0.036899999999999995,0.0066,0.0435
