@@ -9,10 +9,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-03 09:31:36.303418,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,RB Bragantino,0.06820000000000001,0.25,0.1818
 2023-07-03 11:32:18.422575,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Washington Commanders,Under 6.5,0.06220000000000003,0.5744,0.5122
 2023-07-03 14:31:32.409946,Nathan's Hot Dog Eating Contest - Joey Chestnut Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,Under 69.5,0.05130000000000001,0.3846,0.3333
+2023-07-03 21:31:23.072545,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Toronto Argonauts,0.04999999999999999,0.25,0.2
 2023-07-03 20:31:31.312806,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest: Betting Without Joey Chestnut - Winner Without Joey Chestnut,Nick Wehry,0.04999999999999999,0.25,0.2
 2023-07-03 10:31:10.057426,Nathan's Hot Dog Eating Contest - Chestnut & Sudo: Combined Total Hot Dogs Eaten - Chestnut & Sudo Combined Total Hot Dogs,116.5 or under,0.04930000000000001,0.7368,0.6875
 2023-07-03 09:31:36.291926,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Vasco da Gama,0.04910000000000003,0.4,0.3509
 2023-07-03 16:31:27.596987,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Georgia,0.047599999999999976,0.3333,0.2857
+2023-07-03 21:31:23.072545,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Winnipeg Blue Bombers,0.047599999999999976,0.3333,0.2857
 2023-07-03 09:31:36.303418,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,São Paulo,0.047599999999999976,0.3333,0.2857
 2023-07-03 19:31:14.915480,Nathan's Hot Dog Eating Contest - Gideon Oji: Total Hot Dogs Eaten - Gideon Oji Total Hot Dogs,38.5 or under,0.04630000000000001,0.6296,0.5833
 2023-07-03 11:32:18.276035,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Miami Dolphins,Over 9.5,0.043399999999999994,0.5556,0.5122
@@ -32,11 +34,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-03 20:31:31.421075,Nathan's Hot Dog Eating Contest - Nick Wehry: Total Hot Dogs Eaten - Nick Wehry Total Hot Dogs,Over 45.5,0.033399999999999985,0.6078,0.5744
 2023-07-03 09:31:36.297459,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,RB Bragantino,0.03330000000000001,0.1,0.0667
 2023-07-03 09:31:36.303418,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Botafogo,0.033299999999999996,0.8333,0.8
-2023-07-03 16:31:27.092997,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Denver Broncos,Under 8.5,0.03179999999999994,0.5556,0.5238
 2023-07-03 11:32:18.229782,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Green Bay Packers,Over 7.5,0.03179999999999994,0.5556,0.5238
+2023-07-03 16:31:27.092997,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Denver Broncos,Under 8.5,0.03179999999999994,0.5556,0.5238
+2023-07-03 11:32:18.447480,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Atlanta Falcons,Yes,0.030299999999999994,0.4651,0.4348
 2023-07-03 09:31:36.291926,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Bahia,0.030299999999999994,0.3636,0.3333
 2023-07-03 16:31:27.403795,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Jacksonville Jaguars,Yes,0.030299999999999994,0.697,0.6667
-2023-07-03 11:32:18.447480,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Atlanta Falcons,Yes,0.030299999999999994,0.4651,0.4348
 2023-07-03 17:31:29.876471,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Coach of the Year,Kyle Shanahan,0.030199999999999998,0.0625,0.0323
 2023-07-03 19:31:14.957579,Nathan's Hot Dog Eating Contest - Nick Wehry: Total Hot Dogs Eaten - Nick Wehry Total Hot Dogs,Over 45.5,0.028900000000000037,0.5744,0.5455
 2023-07-03 09:31:36.275885,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Grêmio,0.028199999999999996,0.0667,0.0385
@@ -52,47 +54,48 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-03 13:31:29.211165,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest: Betting Without Joey Chestnut - Winner Without Joey Chestnut,Geoffrey Esper,0.023799999999999932,0.8571,0.8333
 2023-07-03 11:32:18.335063,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Seattle Seahawks,Over 8.5,0.023699999999999943,0.6154,0.5917
 2023-07-03 10:31:08.533482,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Querétaro FC,0.02310000000000001,0.1,0.0769
-2023-07-03 11:32:18.216919,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Detroit Lions,Under 9.5,0.022600000000000064,0.5348,0.5122
 2023-07-03 11:32:18.399549,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - New York Giants,Over 7.5,0.022600000000000064,0.5348,0.5122
+2023-07-03 11:32:18.216919,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Detroit Lions,Under 9.5,0.022600000000000064,0.5348,0.5122
 2023-07-03 17:31:29.893420,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Defensive Player of the Year ,Jaelen Phillips,0.021799999999999996,0.0435,0.0217
 2023-07-03 11:32:18.366683,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Cleveland Browns,Over 9.5,0.021699999999999997,0.4762,0.4545
 2023-07-03 14:31:32.448176,Nathan's Hot Dog Eating Contest - Nick Wehry: Total Hot Dogs Eaten - Nick Wehry Total Hot Dogs,Over 45.5,0.02169999999999994,0.5455,0.5238
 2023-07-03 15:31:50.480222,Made in Himmerland - Winner - Winner,Alexander Bjork,0.0203,0.0588,0.0385
-2023-07-03 14:31:32.439114,Nathan's Hot Dog Eating Contest - Miki Sudo: Total Hot Dogs Eaten - Miki Sudo Total Hot Dogs,Over 44.5,0.01970000000000005,0.5652,0.5455
 2023-07-03 11:32:18.713373,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Seattle Seahawks,Yes,0.01970000000000005,0.5652,0.5455
+2023-07-03 14:31:32.439114,Nathan's Hot Dog Eating Contest - Miki Sudo: Total Hot Dogs Eaten - Miki Sudo Total Hot Dogs,Over 44.5,0.01970000000000005,0.5652,0.5455
 2023-07-03 10:31:11.625929,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Offensive Rookie of the Year,Bryce Young,0.01820000000000002,0.2,0.1818
-2023-07-03 09:31:36.275885,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Botafogo,0.01820000000000002,0.2,0.1818
 2023-07-03 10:31:09.944316,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest: Betting Without Joey Chestnut - Winner Without Joey Chestnut,Nick Wehry,0.01820000000000002,0.2,0.1818
+2023-07-03 09:31:36.275885,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Botafogo,0.01820000000000002,0.2,0.1818
 2023-07-03 16:31:27.475545,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - New York Giants,Yes,0.018100000000000005,0.4348,0.4167
-2023-07-03 16:31:26.938377,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Coach of the Year,Mike McDaniel,0.018099999999999998,0.0769,0.0588
 2023-07-03 13:31:29.202550,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest: Men's Winner - Men's Outright Winner,Any Other,0.018099999999999998,0.0769,0.0588
+2023-07-03 16:31:26.938377,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Coach of the Year,Mike McDaniel,0.018099999999999998,0.0769,0.0588
 2023-07-03 09:31:36.258761,MLS - MLS 2023 - Winner,Atlanta United,0.018099999999999998,0.0769,0.0588
 2023-07-03 10:31:11.570893,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Defensive Player of the Year ,Micah Parsons,0.0179,0.1429,0.125
 2023-07-03 13:31:30.862749,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,0.017299999999999982,0.4255,0.4082
 2023-07-03 15:31:48.963006,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,No,0.016699999999999993,0.2667,0.25
 2023-07-03 10:31:11.616607,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Defensive Rookie of the Year,Lukas Van Ness,0.016600000000000004,0.0833,0.0667
 2023-07-03 10:31:11.558179,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Comeback Player of Year,JC Jackson,0.0162,0.0294,0.0132
+2023-07-03 21:31:23.072545,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Saskatchewan Roughriders,0.015899999999999997,0.1111,0.0952
 2023-07-03 11:32:18.512695,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Dallas Cowboys,Yes,0.015800000000000036,0.6825,0.6667
 2023-07-03 11:32:18.251984,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Kansas City Chiefs,Over 11.5,0.01539999999999997,0.6154,0.6
 2023-07-03 10:31:11.558179,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Comeback Player of Year,Sam Darnold,0.015300000000000001,0.0476,0.0323
-2023-07-03 15:31:49.454542,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Coach of the Year,Mike McDaniel,0.015300000000000001,0.0588,0.0435
 2023-07-03 13:31:30.854761,MLB Futures - MLB 2023 American League Central - American League Central Winner,Detroit Tigers,0.015300000000000001,0.0476,0.0323
+2023-07-03 15:31:49.454542,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Coach of the Year,Mike McDaniel,0.015300000000000001,0.0588,0.0435
 2023-07-03 09:31:36.281441,Brasileirao Série A - Brasileiro Serie A 2023 - Top Goalscorer,Vitor Roque (Athletico PR),0.015100000000000002,0.1818,0.1667
 2023-07-03 17:31:29.934155,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Offensive Rookie of the Year,Anthony Richardson,0.015100000000000002,0.1818,0.1667
 2023-07-03 13:31:30.862749,MLB Futures - MLB 2023 American League West - American League West Winner,Seattle Mariners,0.014899999999999997,0.0625,0.0476
-2023-07-03 16:31:26.938377,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Coach of the Year,Matt Lafleur,0.014399999999999996,0.0769,0.0625
 2023-07-03 11:32:18.936887,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,San Diego Padres,0.014399999999999996,0.0769,0.0625
+2023-07-03 16:31:26.938377,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Coach of the Year,Matt Lafleur,0.014399999999999996,0.0769,0.0625
 2023-07-03 16:31:27.274846,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Philadelphia Eagles,Over 10.5,0.014200000000000101,0.6296,0.6154
 2023-07-03 10:31:11.599795,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Offensive Player of the Year,Garrett Wilson,0.014100000000000001,0.0526,0.0385
 2023-07-03 09:31:37.693544,FIBA World Cup - FIBA World Cup 2023 - Outright,Canada,0.014099999999999994,0.0667,0.0526
-2023-07-03 19:31:15.911445,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Offensive Rookie of the Year,Jahmyr Gibbs,0.013999999999999999,0.0909,0.0769
 2023-07-03 16:31:26.938377,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Coach of the Year,Arthur Smith,0.013999999999999999,0.0909,0.0769
 2023-07-03 15:31:50.509243,US Women's Open - US Women's Open - Winner,Rose Zhang,0.013999999999999999,0.0909,0.0769
 2023-07-03 11:32:18.936887,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Arizona Diamondbacks,0.013999999999999999,0.0909,0.0769
+2023-07-03 19:31:15.911445,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Offensive Rookie of the Year,Jahmyr Gibbs,0.013999999999999999,0.0909,0.0769
 2023-07-03 09:31:36.303418,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Cruzeiro,0.013899999999999996,0.125,0.1111
 2023-07-03 10:31:10.137103,Nathan's Hot Dog Eating Contest - Will The Women's World Record For Number Of Hot Dogs Eaten In Ten Minutes Be Broken? - Will The Women's World Record Be Broken?,Yes,0.0131,0.2353,0.2222
-2023-07-03 11:32:18.550319,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Houston Texans,Yes,0.012899999999999995,0.1667,0.1538
 2023-07-03 10:31:11.625929,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Offensive Rookie of the Year,Anthony Richardson,0.012899999999999995,0.1667,0.1538
+2023-07-03 11:32:18.550319,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Houston Texans,Yes,0.012899999999999995,0.1667,0.1538
 2023-07-03 09:31:36.291926,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Goiás,0.012700000000000045,0.6491,0.6364
 2023-07-03 10:31:11.616607,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Defensive Rookie of the Year,Tyree Wilson,0.012299999999999991,0.1176,0.1053
 2023-07-03 10:31:11.570893,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Defensive Player of the Year ,Bradley Chubb,0.0118,0.0217,0.0099
@@ -111,6 +114,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-03 11:32:18.491180,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Cincinnati Bengals,Yes,-0.010400000000000076,0.7674,0.7778
 2023-07-03 11:32:18.251984,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Kansas City Chiefs,Under 11.5,-0.010599999999999998,0.4545,0.4651
 2023-07-03 17:31:29.934155,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Offensive Rookie of the Year,Zach Charbonnet,-0.010700000000000001,0.0278,0.0385
+2023-07-03 21:31:22.487044,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 MVP,Patrick Mahomes,-0.010899999999999993,0.1429,0.1538
 2023-07-03 10:31:10.137103,Nathan's Hot Dog Eating Contest - Will The Women's World Record For Number Of Hot Dogs Eaten In Ten Minutes Be Broken? - Will The Women's World Record Be Broken?,No,-0.01090000000000002,0.8462,0.8571
 2023-07-03 11:32:18.388026,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Los Angeles Rams,Under 6.5,-0.01100000000000001,0.5238,0.5348
 2023-07-03 11:32:18.936887,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Milwaukee Brewers,-0.011099999999999999,0.0556,0.0667
@@ -120,31 +124,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-03 11:32:18.652079,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - New Orleans Saints,Yes,-0.011499999999999955,0.6552,0.6667
 2023-07-03 10:31:12.555094,Boxing Lines - Jake Paul vs Nate Diaz - To Win the Bout,Jake Paul,-0.011699999999999933,0.7778,0.7895
 2023-07-03 10:31:11.558179,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Comeback Player of Year,Clyde Edwards-Helaire,-0.011699999999999999,0.0079,0.0196
-2023-07-03 10:31:11.558179,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Comeback Player of Year,Joey Bosa,-0.011699999999999999,0.0079,0.0196
 2023-07-03 10:31:11.558179,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Comeback Player of Year,Zach Wilson,-0.011699999999999999,0.0079,0.0196
+2023-07-03 10:31:11.558179,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Comeback Player of Year,Joey Bosa,-0.011699999999999999,0.0079,0.0196
 2023-07-03 16:31:27.419677,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Las Vegas Raiders,Yes,-0.011899999999999994,0.2381,0.25
 2023-07-03 20:31:31.830725,WNBA Futures - WNBA Awards - Regular Season MVP,Alyssa Thomas,-0.011900000000000008,0.0833,0.0952
 2023-07-03 11:32:18.285535,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Minnesota Vikings,Under 8.5,-0.012199999999999989,0.4878,0.5
-2023-07-03 11:32:18.502242,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Cleveland Browns,Yes,-0.012199999999999989,0.5,0.5122
 2023-07-03 16:31:27.527968,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Seattle Seahawks,No,-0.012199999999999989,0.4878,0.5
+2023-07-03 11:32:18.502242,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Cleveland Browns,Yes,-0.012199999999999989,0.5,0.5122
 2023-07-03 09:31:36.303418,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Fortaleza,-0.012699999999999989,0.3509,0.3636
 2023-07-03 20:31:31.830725,WNBA Futures - WNBA Awards - Regular Season MVP,Sabrina Ionescu,-0.012700000000000003,0.0196,0.0323
 2023-07-03 14:31:34.319952,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Brock Vandagriff,-0.012700000000000003,0.0196,0.0323
 2023-07-03 10:31:11.558179,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Comeback Player of Year,Kyle Pitts,-0.012700000000000003,0.0196,0.0323
 2023-07-03 20:31:31.830725,WNBA Futures - WNBA Awards - Regular Season MVP,Arike Ogunbowale,-0.012800000000000002,0.0217,0.0345
-2023-07-03 16:31:27.388507,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Houston Texans,Yes,-0.012899999999999995,0.1538,0.1667
 2023-07-03 10:31:09.944316,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest: Betting Without Joey Chestnut - Winner Without Joey Chestnut,Darron Breeden,-0.012899999999999995,0.125,0.1379
-2023-07-03 10:31:11.558179,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Comeback Player of Year,Jonathan Taylor,-0.0131,0.0345,0.0476
-2023-07-03 10:31:11.599795,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Offensive Player of the Year,Davante Adams,-0.0131,0.0345,0.0476
+2023-07-03 16:31:27.388507,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Houston Texans,Yes,-0.012899999999999995,0.1538,0.1667
 2023-07-03 10:31:11.599795,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Offensive Player of the Year,Stefon Diggs,-0.0131,0.0345,0.0476
+2023-07-03 10:31:11.599795,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Offensive Player of the Year,Davante Adams,-0.0131,0.0345,0.0476
+2023-07-03 10:31:11.558179,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Comeback Player of Year,Jonathan Taylor,-0.0131,0.0345,0.0476
 2023-07-03 09:31:36.303418,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Fluminense,-0.013799999999999923,0.6226,0.6364
 2023-07-03 13:31:29.211165,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest: Betting Without Joey Chestnut - Winner Without Joey Chestnut,Darron Breeden,-0.013899999999999996,0.1111,0.125
-2023-07-03 09:31:36.281441,Brasileirao Série A - Brasileiro Serie A 2023 - Top Goalscorer,Gabriel Barbosa (Flamengo),-0.013999999999999999,0.0769,0.0909
+2023-07-03 09:31:36.281441,Brasileirao Série A - Brasileiro Serie A 2023 - Top Goalscorer,German Cano (Fluminense),-0.013999999999999999,0.0769,0.0909
 2023-07-03 10:31:11.599795,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Offensive Player of the Year,Ja'Marr Chase,-0.013999999999999999,0.0769,0.0909
 2023-07-03 10:31:11.599795,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Offensive Player of the Year,Justin Jefferson,-0.013999999999999999,0.0769,0.0909
-2023-07-03 17:31:29.934155,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Offensive Rookie of the Year,Jaxon Smith-Njigba,-0.013999999999999999,0.0769,0.0909
 2023-07-03 09:31:36.281441,Brasileirao Série A - Brasileiro Serie A 2023 - Top Goalscorer,Pedro (Flamengo),-0.013999999999999999,0.0769,0.0909
-2023-07-03 09:31:36.281441,Brasileirao Série A - Brasileiro Serie A 2023 - Top Goalscorer,German Cano (Fluminense),-0.013999999999999999,0.0769,0.0909
+2023-07-03 21:31:23.072545,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Calgary Stampeders,-0.013999999999999999,0.0769,0.0909
+2023-07-03 17:31:29.934155,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Offensive Rookie of the Year,Jaxon Smith-Njigba,-0.013999999999999999,0.0769,0.0909
+2023-07-03 09:31:36.281441,Brasileirao Série A - Brasileiro Serie A 2023 - Top Goalscorer,Gabriel Barbosa (Flamengo),-0.013999999999999999,0.0769,0.0909
 2023-07-03 10:31:11.599795,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Offensive Player of the Year,Travis Kelce,-0.014099999999999998,0.0244,0.0385
 2023-07-03 09:31:36.303418,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Corinthians,-0.014099999999999998,0.0244,0.0385
 2023-07-03 09:31:36.291926,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,RB Bragantino,-0.014099999999999998,0.0244,0.0385
@@ -167,15 +172,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-03 16:31:27.616131,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Michael Penix Jr.,-0.019099999999999992,0.0476,0.0667
 2023-07-03 14:31:32.510000,Nathan's Hot Dog Eating Contest - Will A 'Reversal Of Fortune' Occur In The Men's Contest? - Will A 'Reversal Of Fortune' Occur?,No,-0.019100000000000006,0.9333,0.9524
 2023-07-03 16:31:27.475545,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - New York Giants,No,-0.019499999999999962,0.6296,0.6491
-2023-07-03 16:31:27.274846,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Philadelphia Eagles,Under 10.5,-0.019699999999999995,0.4348,0.4545
 2023-07-03 09:31:36.258761,MLS - MLS 2023 - Winner,Philadelphia Union,-0.019699999999999995,0.1053,0.125
 2023-07-03 10:31:11.625929,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Offensive Rookie of the Year,CJ Stroud,-0.019699999999999995,0.1053,0.125
+2023-07-03 16:31:27.274846,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Philadelphia Eagles,Under 10.5,-0.019699999999999995,0.4348,0.4545
 2023-07-03 14:31:32.448176,Nathan's Hot Dog Eating Contest - Nick Wehry: Total Hot Dogs Eaten - Nick Wehry Total Hot Dogs,45.5 or under,-0.01970000000000005,0.5455,0.5652
 2023-07-03 10:31:11.599795,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Offensive Player of the Year,Deebo Samuel,-0.019800000000000005,0.0278,0.0476
 2023-07-03 10:31:11.625929,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Offensive Rookie of the Year,Jaxon Smith-Njigba,-0.02020000000000001,0.0909,0.1111
-2023-07-03 13:31:30.862749,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,-0.02079999999999993,0.5348,0.5556
 2023-07-03 11:32:18.216919,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Detroit Lions,Over 9.5,-0.02079999999999993,0.5348,0.5556
 2023-07-03 11:32:18.399549,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - New York Giants,Under 7.5,-0.02079999999999993,0.5348,0.5556
+2023-07-03 13:31:30.862749,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,-0.02079999999999993,0.5348,0.5556
 2023-07-03 14:31:32.439114,Nathan's Hot Dog Eating Contest - Miki Sudo: Total Hot Dogs Eaten - Miki Sudo Total Hot Dogs,44.5 or under,-0.02169999999999994,0.5238,0.5455
 2023-07-03 11:32:18.335063,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Seattle Seahawks,Under 8.5,-0.021699999999999997,0.4545,0.4762
 2023-07-03 15:31:49.041432,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the classified documents federal charges? - Will Donald Trump be found guilty of one or more of the classified documents federal charges?,Yes,-0.02200000000000002,0.6923,0.7143
@@ -189,8 +194,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-03 14:31:34.602250,Boxing Lines - Jaron Ennis vs Roiman Villa - To Win the Bout,Jaron Ennis,-0.024500000000000077,0.9167,0.9412
 2023-07-03 19:31:15.732704,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Kansas City Chiefs,-0.024800000000000016,0.2105,0.2353
 2023-07-03 16:31:27.468855,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - New Orleans Saints,Yes,-0.025599999999999956,0.6296,0.6552
+2023-07-03 21:31:23.072545,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,British Columbia Lions,-0.02779999999999999,0.2222,0.25
 2023-07-03 09:31:36.297459,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Athletico Paranaense,-0.027999999999999997,0.1538,0.1818
 2023-07-03 20:31:31.830725,WNBA Futures - WNBA Awards - Regular Season MVP,Brittney Griner,-0.028000000000000004,0.0196,0.0476
+2023-07-03 21:31:23.094208,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Clemson,-0.028199999999999996,0.0385,0.0667
 2023-07-03 16:31:27.616131,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Jordan Travis,-0.028399999999999995,0.0625,0.0909
 2023-07-03 09:31:36.297459,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Atlético Mineiro,-0.029000000000000026,0.4255,0.4545
 2023-07-03 16:31:27.403795,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Jacksonville Jaguars,No,-0.029600000000000015,0.3704,0.4
@@ -204,9 +211,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-03 10:31:11.599795,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Offensive Player of the Year,Christian McCaffrey,-0.0321,0.0588,0.0909
 2023-07-03 10:31:11.558179,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Comeback Player of Year,Chase Young,-0.033,0.0196,0.0526
 2023-07-03 10:31:11.558179,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Comeback Player of Year,Calvin Ridley,-0.033100000000000004,0.0294,0.0625
-2023-07-03 11:32:18.229782,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Green Bay Packers,Under 7.5,-0.033299999999999996,0.5122,0.5455
-2023-07-03 16:31:27.092997,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Denver Broncos,Over 8.5,-0.033299999999999996,0.5122,0.5455
 2023-07-03 19:31:14.957579,Nathan's Hot Dog Eating Contest - Nick Wehry: Total Hot Dogs Eaten - Nick Wehry Total Hot Dogs,45.5 or under,-0.033299999999999996,0.5122,0.5455
+2023-07-03 16:31:27.092997,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Denver Broncos,Over 8.5,-0.033299999999999996,0.5122,0.5455
+2023-07-03 11:32:18.229782,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Green Bay Packers,Under 7.5,-0.033299999999999996,0.5122,0.5455
 2023-07-03 10:31:11.599795,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Offensive Player of the Year,Austin Ekeler,-0.0347,0.0278,0.0625
 2023-07-03 10:31:11.558179,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Comeback Player of Year,DeAndre Hopkins,-0.035300000000000005,0.0123,0.0476
 2023-07-03 10:31:11.625929,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Offensive Rookie of the Year,Quentin Johnston,-0.035699999999999996,0.0476,0.0833
@@ -219,12 +226,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-03 10:31:11.558179,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Comeback Player of Year,Jimmy Garoppolo,-0.04239999999999999,0.0345,0.0769
 2023-07-03 10:31:11.558179,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Comeback Player of Year,Kyler Murray,-0.0427,0.0099,0.0526
 2023-07-03 10:31:11.558179,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Comeback Player of Year,Javonte Williams,-0.0429,0.0196,0.0625
-2023-07-03 10:31:11.558179,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Comeback Player of Year,T.J. Watt,-0.0429,0.0196,0.0625
 2023-07-03 10:31:11.558179,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Comeback Player of Year,Odell Beckham Jr.,-0.0429,0.0196,0.0625
+2023-07-03 10:31:11.558179,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Comeback Player of Year,T.J. Watt,-0.0429,0.0196,0.0625
 2023-07-03 09:31:36.275885,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Palmeiras,-0.043200000000000016,0.3077,0.3509
 2023-07-03 11:32:18.276035,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Miami Dolphins,Under 9.5,-0.043399999999999994,0.5122,0.5556
 2023-07-03 09:31:36.303418,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Atlético Mineiro,-0.04409999999999992,0.6226,0.6667
 2023-07-03 09:31:36.291926,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,América Mineiro,-0.044399999999999995,0.5556,0.6
+2023-07-03 21:31:23.072545,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Hamilton Tiger-Cats,-0.04440000000000001,0.0667,0.1111
 2023-07-03 11:32:18.292953,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - New England Patriots,Under 7.5,-0.045499999999999985,0.5,0.5455
 2023-07-03 11:32:18.266628,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Los Angeles Chargers,Under 9.5,-0.04700000000000004,0.4878,0.5348
 2023-07-03 20:31:31.421075,Nathan's Hot Dog Eating Contest - Nick Wehry: Total Hot Dogs Eaten - Nick Wehry Total Hot Dogs,45.5 or under,-0.047099999999999975,0.4651,0.5122
@@ -234,6 +242,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-03 10:31:11.558179,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Comeback Player of Year,Russell Wilson,-0.052399999999999995,0.0385,0.0909
 2023-07-03 10:31:11.558179,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Comeback Player of Year,Von Miller,-0.0526,0.0099,0.0625
 2023-07-03 14:31:32.409946,Nathan's Hot Dog Eating Contest - Joey Chestnut Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,Over 69.5,-0.057699999999999974,0.6923,0.75
+2023-07-03 21:31:23.094208,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Michigan,-0.05859999999999999,0.0323,0.0909
 2023-07-03 19:31:14.948842,Nathan's Hot Dog Eating Contest - Miki Sudo: Total Hot Dogs Eaten - Miki Sudo Total Hot Dogs,44.5 or under,-0.05870000000000003,0.4651,0.5238
 2023-07-03 19:31:14.915480,Nathan's Hot Dog Eating Contest - Gideon Oji: Total Hot Dogs Eaten - Gideon Oji Total Hot Dogs,Over 38.5,-0.06519999999999998,0.4348,0.5
 2023-07-03 10:31:11.558179,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Comeback Player of Year,Cooper Kupp,-0.0655,0.0345,0.1
