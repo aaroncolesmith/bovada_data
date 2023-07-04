@@ -1,8 +1,11 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-04 10:30:50.963935,Celebrity Boxing - Fight Location Musk v Zuckerberg - Where will fight take place ?,Las Vegas,0.23190000000000005,0.5652,0.3333
+2023-07-04 14:31:51.407989,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest: Betting Without Joey Chestnut - Winner Without Joey Chestnut,James Webb,0.1389,0.25,0.1111
 2023-07-04 05:31:06.489026,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - To Win Group D,Guadeloupe,0.12080000000000002,0.5652,0.4444
+2023-07-04 14:31:51.461666,Nathan's Hot Dog Eating Contest - Joey Chestnut: Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,Over 74.5,0.09230000000000005,0.4,0.3077
 2023-07-04 07:31:14.196921,Nathan's Hot Dog Eating Contest - Will The World Record For Number Of Hot Dogs Eaten In Ten Minutes Be Broken? - Will The World Record Be Broken?,No,0.08330000000000004,0.8333,0.75
 2023-07-04 08:31:05.597976,Nathan's Hot Dog Eating Contest - Chestnut & Sudo: Combined Total Hot Dogs Eaten - Chestnut & Sudo Combined Total Hot Dogs,Over 116.5,0.06930000000000003,0.5238,0.4545
+2023-07-04 14:31:51.480314,Nathan's Hot Dog Eating Contest - Leader At 1 Minute: Men's Contest - Leader At 1 Minute,Joey Chestnut,0.06820000000000004,0.8182,0.75
 2023-07-04 09:31:37.413214,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Goiás,0.06520000000000004,0.7143,0.6491
 2023-07-04 07:31:14.035402,Nathan's Hot Dog Eating Contest - Nick Wehry: Total Hot Dogs Eaten - Nick Wehry Total Hot Dogs,45.5 or under,0.05870000000000003,0.5238,0.4651
 2023-07-04 13:31:02.662086,Nathan's Hot Dog Eating Contest - Will A 'Reversal Of Fortune' Occur In The Men's Contest? - Will A 'Reversal Of Fortune' Occur?,Yes,0.05550000000000002,0.2222,0.1667
@@ -16,62 +19,69 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-04 13:31:02.481986,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest: Betting Without Joey Chestnut - Winner Without Joey Chestnut,James Webb,0.03420000000000001,0.1111,0.0769
 2023-07-04 07:31:14.098940,Nathan's Hot Dog Eating Contest - Will A 'Reversal Of Fortune' Occur In The Men's Contest? - Will A 'Reversal Of Fortune' Occur?,Yes,0.033399999999999985,0.1667,0.1333
 2023-07-04 05:31:08.064752,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Oklahoma City Thunder,0.033300000000000024,0.2,0.1667
+2023-07-04 14:31:52.961914,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Hamilton Tiger-Cats,0.03330000000000001,0.1,0.0667
 2023-07-04 12:31:13.926560,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest: Men's Winner - Men's Outright Winner,Any Other,0.031799999999999995,0.1429,0.1111
 2023-07-04 09:31:37.413214,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Cuiabá,0.030299999999999994,0.6667,0.6364
 2023-07-04 04:30:56.563588,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,British Columbia Lions,0.02779999999999999,0.25,0.2222
+2023-07-04 14:31:51.501751,Nathan's Hot Dog Eating Contest - Will A 'Reversal Of Fortune' Occur In The Men's Contest? - Will A 'Reversal Of Fortune' Occur?,Yes,0.02779999999999999,0.25,0.2222
 2023-07-04 08:31:08.397490,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Toronto Argonauts,0.02739999999999998,0.2941,0.2667
 2023-07-04 04:30:56.563588,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Hamilton Tiger-Cats,0.0242,0.0909,0.0667
 2023-07-04 12:31:14.028740,Nathan's Hot Dog Eating Contest - Nick Wehry: Total Hot Dogs Eaten - Nick Wehry Total Hot Dogs,45.5 or under,0.023800000000000043,0.5238,0.5
 2023-07-04 13:31:02.468206,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest: Men's Winner - Men's Outright Winner,Any Other,0.023799999999999988,0.1667,0.1429
-2023-07-04 08:31:06.137814,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Oklahoma City Thunder,0.022199999999999998,0.2222,0.2
 2023-07-04 09:31:37.705779,Allsvenskan - Allsvenskan 2023 - Winner,IF Elfsborg,0.022199999999999998,0.2222,0.2
+2023-07-04 08:31:06.137814,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Oklahoma City Thunder,0.022199999999999998,0.2222,0.2
 2023-07-04 05:31:08.064752,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Boston Celtics,0.022099999999999998,0.0385,0.0164
 2023-07-04 11:31:25.041252,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.021999999999999964,0.3077,0.2857
 2023-07-04 09:31:39.674635,Nathan's Hot Dog Eating Contest - Will The World Record For Number Of Hot Dogs Eaten In Ten Minutes Be Broken? - Will The World Record Be Broken?,Yes,0.021999999999999964,0.3077,0.2857
-2023-07-04 11:31:24.031900,Nathan's Hot Dog Eating Contest - Chestnut & Sudo: Combined Total Hot Dogs Eaten - Chestnut & Sudo Combined Total Hot Dogs,116.5 or under,0.02169999999999994,0.5455,0.5238
 2023-07-04 07:31:14.020362,Nathan's Hot Dog Eating Contest - Miki Sudo: Total Hot Dogs Eaten - Miki Sudo Total Hot Dogs,44.5 or under,0.02169999999999994,0.5455,0.5238
+2023-07-04 14:31:51.420772,Nathan's Hot Dog Eating Contest - Winning Margin: Men's Contest - Winning Margin: Men's Contest,22 hot dogs or fewer,0.02169999999999994,0.5455,0.5238
+2023-07-04 11:31:24.031900,Nathan's Hot Dog Eating Contest - Chestnut & Sudo: Combined Total Hot Dogs Eaten - Chestnut & Sudo Combined Total Hot Dogs,116.5 or under,0.02169999999999994,0.5455,0.5238
 2023-07-04 08:31:09.374940,Tournament Match-Ups - Tournament Match-Ups - P. Rodgers vs M. Kuchar - Tournament Match-Ups,Matt Kuchar,0.020699999999999996,0.4651,0.4444
 2023-07-04 09:31:39.389193,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest: Men's Winner - Men's Outright Winner,Any Other,0.02020000000000001,0.1111,0.0909
 2023-07-04 06:31:01.385408,Nathan's Hot Dog Eating Contest - Geoffrey Esper: Total Hot Dogs Eaten - Geoffrey Esper Total Hot Dogs,50.5 or under,0.01970000000000005,0.5652,0.5455
-2023-07-04 13:31:02.618675,Nathan's Hot Dog Eating Contest - Chestnut & Sudo: Combined Total Hot Dogs Eaten - Chestnut & Sudo Combined Total Hot Dogs,116.5 or under,0.01970000000000005,0.5652,0.5455
 2023-07-04 11:31:23.975792,Nathan's Hot Dog Eating Contest - Joey Chestnut: Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,73.5 or under,0.01970000000000005,0.5652,0.5455
+2023-07-04 13:31:02.618675,Nathan's Hot Dog Eating Contest - Chestnut & Sudo: Combined Total Hot Dogs Eaten - Chestnut & Sudo Combined Total Hot Dogs,116.5 or under,0.01970000000000005,0.5652,0.5455
 2023-07-04 13:31:02.552791,Nathan's Hot Dog Eating Contest - Joey Chestnut Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,68.5 or under,0.019000000000000017,0.2857,0.2667
+2023-07-04 14:31:52.961914,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Ottawa Redblacks,0.019000000000000003,0.0625,0.0435
 2023-07-04 05:31:08.064752,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Dallas Mavericks,0.0189,0.0385,0.0196
 2023-07-04 07:31:14.113862,Nathan's Hot Dog Eating Contest - Will A Protester Make It Onto The Stage During The Men's Contest? - Will A Protester Get Onto The Stage?,Yes,0.01820000000000002,0.2,0.1818
 2023-07-04 05:31:08.064752,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Memphis Grizzlies,0.018200000000000004,0.0476,0.0294
-2023-07-04 06:31:01.394881,Nathan's Hot Dog Eating Contest - Joey Chestnut: Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,73.5 or under,0.018100000000000005,0.5833,0.5652
+2023-07-04 14:31:51.438624,Nathan's Hot Dog Eating Contest - Gideon Oji: Total Hot Dogs Eaten - Gideon Oji Total Hot Dogs,37.5 or under,0.018100000000000005,0.5833,0.5652
 2023-07-04 08:31:05.579321,Nathan's Hot Dog Eating Contest - Nick Wehry: Total Hot Dogs Eaten - Nick Wehry Total Hot Dogs,Over 45.5,0.018100000000000005,0.5833,0.5652
+2023-07-04 06:31:01.394881,Nathan's Hot Dog Eating Contest - Joey Chestnut: Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,73.5 or under,0.018100000000000005,0.5833,0.5652
 2023-07-04 12:31:16.179022,Boxing Lines - Frank Martin vs Artem Harutyunyan - To Win the Bout,Artem Harutyunyan,0.0179,0.1429,0.125
 2023-07-04 06:31:01.431056,Nathan's Hot Dog Eating Contest - Nick Wehry: Total Hot Dogs Eaten - Nick Wehry Total Hot Dogs,47.5 or under,0.017299999999999982,0.5917,0.5744
 2023-07-04 10:30:51.183304,Nathan's Hot Dog Eating Contest - Leader At 1 Minute: Men's Contest - Leader At 1 Minute,Joey Chestnut,0.016700000000000048,0.75,0.7333
 2023-07-04 08:31:05.610416,Nathan's Hot Dog Eating Contest - Leader At 1 Minute: Men's Contest - Leader At 1 Minute,Nick Wehry,0.016700000000000007,0.1,0.0833
 2023-07-04 08:31:05.610416,Nathan's Hot Dog Eating Contest - Leader At 1 Minute: Men's Contest - Leader At 1 Minute,James Webb,0.016700000000000007,0.1,0.0833
-2023-07-04 04:30:56.563588,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Toronto Argonauts,0.016699999999999993,0.2667,0.25
-2023-07-04 12:31:13.982749,Nathan's Hot Dog Eating Contest - Joey Chestnut Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,68.5 or under,0.016699999999999993,0.2667,0.25
 2023-07-04 11:31:23.891811,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest: Betting Without Joey Chestnut - Winner Without Joey Chestnut,Nick Wehry,0.016699999999999993,0.2667,0.25
+2023-07-04 12:31:13.982749,Nathan's Hot Dog Eating Contest - Joey Chestnut Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,68.5 or under,0.016699999999999993,0.2667,0.25
+2023-07-04 04:30:56.563588,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Toronto Argonauts,0.016699999999999993,0.2667,0.25
 2023-07-04 10:30:51.071490,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest: Betting Without Joey Chestnut - Winner Without Joey Chestnut,Nick Wehry,0.01469999999999999,0.25,0.2353
 2023-07-04 08:31:08.963478,Boxing Lines - Eimantas Stanionis vs Vergil Ortiz - To Win the Bout,Eimantas Stanionis,0.01469999999999999,0.25,0.2353
 2023-07-04 07:31:13.893482,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest: Men's Winner - Men's Outright Winner,Any Other,0.013999999999999999,0.0909,0.0769
 2023-07-04 12:31:14.094359,Nathan's Hot Dog Eating Contest - Will A Protester Make It Onto The Stage During The Men's Contest? - Will A Protester Get Onto The Stage?,No,0.013900000000000023,0.8889,0.875
 2023-07-04 08:31:06.137814,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Portland Trail Blazers,0.010899999999999993,0.1538,0.1429
-2023-07-04 12:31:14.019235,Nathan's Hot Dog Eating Contest - Miki Sudo: Total Hot Dogs Eaten - Miki Sudo Total Hot Dogs,44.5 or under,0.010699999999999932,0.5455,0.5348
-2023-07-04 08:31:09.297743,Tournament Match-Ups - Tournament Match-Ups - A. Smalley vs S. Jaeger - Tournament Match-Ups,Stephan Jaeger,0.010699999999999932,0.5455,0.5348
 2023-07-04 08:31:09.357394,Tournament Match-Ups - Tournament Match-Ups - K. Mitchell vs A. Schenk - Tournament Match-Ups,Adam Schenk,0.010699999999999932,0.5455,0.5348
-2023-07-04 10:30:51.149485,Nathan's Hot Dog Eating Contest - Miki Sudo: Total Hot Dogs Eaten - Miki Sudo Total Hot Dogs,Over 44.5,0.010099999999999998,0.5556,0.5455
+2023-07-04 08:31:09.297743,Tournament Match-Ups - Tournament Match-Ups - A. Smalley vs S. Jaeger - Tournament Match-Ups,Stephan Jaeger,0.010699999999999932,0.5455,0.5348
+2023-07-04 12:31:14.019235,Nathan's Hot Dog Eating Contest - Miki Sudo: Total Hot Dogs Eaten - Miki Sudo Total Hot Dogs,44.5 or under,0.010699999999999932,0.5455,0.5348
 2023-07-04 07:31:14.051973,Nathan's Hot Dog Eating Contest - Chestnut & Sudo: Combined Total Hot Dogs Eaten - Chestnut & Sudo Combined Total Hot Dogs,Over 116.5,0.010099999999999998,0.4545,0.4444
+2023-07-04 10:30:51.149485,Nathan's Hot Dog Eating Contest - Miki Sudo: Total Hot Dogs Eaten - Miki Sudo Total Hot Dogs,Over 44.5,0.010099999999999998,0.5556,0.5455
 2023-07-04 09:31:37.413214,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,América Mineiro,-0.010099999999999998,0.5455,0.5556
 2023-07-04 12:31:14.019235,Nathan's Hot Dog Eating Contest - Miki Sudo: Total Hot Dogs Eaten - Miki Sudo Total Hot Dogs,Over 44.5,-0.010099999999999998,0.5455,0.5556
 2023-07-04 08:31:06.137814,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Orlando Magic,-0.0102,0.0667,0.0769
 2023-07-04 10:30:51.149485,Nathan's Hot Dog Eating Contest - Miki Sudo: Total Hot Dogs Eaten - Miki Sudo Total Hot Dogs,44.5 or under,-0.010699999999999932,0.5348,0.5455
 2023-07-04 11:31:25.041252,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Ron DeSantis,-0.010899999999999993,0.1429,0.1538
 2023-07-04 10:30:51.071490,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest: Betting Without Joey Chestnut - Winner Without Joey Chestnut,Geoffrey Esper,-0.01090000000000002,0.8462,0.8571
-2023-07-04 08:31:09.357394,Tournament Match-Ups - Tournament Match-Ups - K. Mitchell vs A. Schenk - Tournament Match-Ups,Keith Mitchell,-0.01100000000000001,0.5238,0.5348
 2023-07-04 08:31:09.297743,Tournament Match-Ups - Tournament Match-Ups - A. Smalley vs S. Jaeger - Tournament Match-Ups,Alex Smalley,-0.01100000000000001,0.5238,0.5348
+2023-07-04 08:31:09.357394,Tournament Match-Ups - Tournament Match-Ups - K. Mitchell vs A. Schenk - Tournament Match-Ups,Keith Mitchell,-0.01100000000000001,0.5238,0.5348
 2023-07-04 04:30:56.563588,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Saskatchewan Roughriders,-0.011099999999999999,0.1,0.1111
-2023-07-04 12:31:16.347276,Tournament Match-Ups - Tournament Match-Ups - R. Henley vs L. Aberg - Tournament Match-Ups,Ludvig Aberg,-0.011099999999999999,0.4651,0.4762
 2023-07-04 03:31:12.508899,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,San Francisco 49ers,-0.011099999999999999,0.1,0.1111
+2023-07-04 12:31:16.347276,Tournament Match-Ups - Tournament Match-Ups - R. Henley vs L. Aberg - Tournament Match-Ups,Ludvig Aberg,-0.011099999999999999,0.4651,0.4762
 2023-07-04 03:31:12.508899,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Miami Dolphins,-0.011199999999999995,0.0476,0.0588
+2023-07-04 14:31:51.469603,Nathan's Hot Dog Eating Contest - Nick Wehry: Total Hot Dogs Eaten - Nick Wehry Total Hot Dogs,45.5 or under,-0.011600000000000055,0.5122,0.5238
 2023-07-04 12:31:13.996997,Nathan's Hot Dog Eating Contest - Joey Chestnut: Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,72.5 or under,-0.011600000000000055,0.5122,0.5238
+2023-07-04 14:31:51.455658,Nathan's Hot Dog Eating Contest - Joey Chestnut: Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,72.5 or under,-0.012199999999999989,0.5,0.5122
 2023-07-04 11:31:23.891811,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest: Betting Without Joey Chestnut - Winner Without Joey Chestnut,Geoffrey Esper,-0.012899999999999912,0.8333,0.8462
 2023-07-04 08:31:05.610416,Nathan's Hot Dog Eating Contest - Leader At 1 Minute: Men's Contest - Leader At 1 Minute,Darron Breeden,-0.012899999999999995,0.1538,0.1667
 2023-07-04 05:31:08.064752,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Orlando Magic,-0.013999999999999999,0.0769,0.0909
@@ -79,15 +89,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-04 07:31:13.893482,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest: Men's Winner - Men's Outright Winner,Darron Breeden,-0.014100000000000001,0.0385,0.0526
 2023-07-04 08:31:08.397490,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Calgary Stampeders,-0.014399999999999996,0.0625,0.0769
 2023-07-04 07:31:13.909395,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest: Betting Without Joey Chestnut - Winner Without Joey Chestnut,Nick Wehry,-0.01469999999999999,0.2353,0.25
-2023-07-04 08:31:08.963478,Boxing Lines - Eimantas Stanionis vs Vergil Ortiz - To Win the Bout,Vergil Ortiz,-0.015100000000000002,0.8182,0.8333
 2023-07-04 12:31:13.982749,Nathan's Hot Dog Eating Contest - Joey Chestnut Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,Over 68.5,-0.015100000000000002,0.8182,0.8333
+2023-07-04 08:31:08.963478,Boxing Lines - Eimantas Stanionis vs Vergil Ortiz - To Win the Bout,Vergil Ortiz,-0.015100000000000002,0.8182,0.8333
 2023-07-04 12:31:16.179022,Boxing Lines - Frank Martin vs Artem Harutyunyan - To Win the Bout,Frank Martin,-0.01660000000000006,0.9167,0.9333
 2023-07-04 05:31:06.489026,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - To Win Group D,Canada,-0.01759999999999999,0.1,0.1176
+2023-07-04 14:31:51.480314,Nathan's Hot Dog Eating Contest - Leader At 1 Minute: Men's Contest - Leader At 1 Minute,Geoffrey Esper,-0.0179,0.125,0.1429
 2023-07-04 12:31:14.028740,Nathan's Hot Dog Eating Contest - Nick Wehry: Total Hot Dogs Eaten - Nick Wehry Total Hot Dogs,Over 45.5,-0.018100000000000005,0.5652,0.5833
 2023-07-04 13:31:02.552791,Nathan's Hot Dog Eating Contest - Joey Chestnut Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,Over 68.5,-0.018199999999999994,0.8,0.8182
 2023-07-04 09:31:37.705779,Allsvenskan - Allsvenskan 2023 - Winner,BK Häcken,-0.01820000000000002,0.1818,0.2
-2023-07-04 07:31:14.020362,Nathan's Hot Dog Eating Contest - Miki Sudo: Total Hot Dogs Eaten - Miki Sudo Total Hot Dogs,Over 44.5,-0.01970000000000005,0.5455,0.5652
+2023-07-04 14:31:51.420772,Nathan's Hot Dog Eating Contest - Winning Margin: Men's Contest - Winning Margin: Men's Contest,Over 22 hot dogs,-0.01970000000000005,0.5455,0.5652
 2023-07-04 11:31:24.031900,Nathan's Hot Dog Eating Contest - Chestnut & Sudo: Combined Total Hot Dogs Eaten - Chestnut & Sudo Combined Total Hot Dogs,Over 116.5,-0.01970000000000005,0.5455,0.5652
+2023-07-04 07:31:14.020362,Nathan's Hot Dog Eating Contest - Miki Sudo: Total Hot Dogs Eaten - Miki Sudo Total Hot Dogs,Over 44.5,-0.01970000000000005,0.5455,0.5652
 2023-07-04 07:31:14.113862,Nathan's Hot Dog Eating Contest - Will A Protester Make It Onto The Stage During The Men's Contest? - Will A Protester Get Onto The Stage?,No,-0.01980000000000004,0.875,0.8948
 2023-07-04 07:31:17.370481,US Women's Open - US Women's Open - Winner,Rose Zhang,-0.02020000000000001,0.0909,0.1111
 2023-07-04 09:31:37.413214,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Santos,-0.02100000000000002,0.3636,0.3846
@@ -97,26 +109,33 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-04 09:31:39.674635,Nathan's Hot Dog Eating Contest - Will The World Record For Number Of Hot Dogs Eaten In Ten Minutes Be Broken? - Will The World Record Be Broken?,No,-0.022199999999999998,0.7778,0.8
 2023-07-04 08:31:09.374940,Tournament Match-Ups - Tournament Match-Ups - P. Rodgers vs M. Kuchar - Tournament Match-Ups,Patrick Rodgers,-0.022600000000000064,0.6,0.6226
 2023-07-04 07:31:13.909395,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest: Betting Without Joey Chestnut - Winner Without Joey Chestnut,James Webb,-0.02310000000000001,0.0769,0.1
-2023-07-04 08:31:05.579321,Nathan's Hot Dog Eating Contest - Nick Wehry: Total Hot Dogs Eaten - Nick Wehry Total Hot Dogs,45.5 or under,-0.023800000000000043,0.5,0.5238
+2023-07-04 14:31:51.501751,Nathan's Hot Dog Eating Contest - Will A 'Reversal Of Fortune' Occur In The Men's Contest? - Will A 'Reversal Of Fortune' Occur?,No,-0.023799999999999932,0.8333,0.8571
 2023-07-04 06:31:01.394881,Nathan's Hot Dog Eating Contest - Joey Chestnut: Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,Over 73.5,-0.023800000000000043,0.5,0.5238
+2023-07-04 08:31:05.579321,Nathan's Hot Dog Eating Contest - Nick Wehry: Total Hot Dogs Eaten - Nick Wehry Total Hot Dogs,45.5 or under,-0.023800000000000043,0.5,0.5238
+2023-07-04 14:31:51.438624,Nathan's Hot Dog Eating Contest - Gideon Oji: Total Hot Dogs Eaten - Gideon Oji Total Hot Dogs,Over 37.5,-0.023800000000000043,0.5,0.5238
 2023-07-04 08:31:08.397490,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Hamilton Tiger-Cats,-0.0242,0.0667,0.0909
 2023-07-04 06:31:01.431056,Nathan's Hot Dog Eating Contest - Nick Wehry: Total Hot Dogs Eaten - Nick Wehry Total Hot Dogs,Over 47.5,-0.024399999999999977,0.4878,0.5122
 2023-07-04 05:31:08.064752,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Detroit Pistons,-0.025300000000000003,0.1176,0.1429
 2023-07-04 03:31:13.241771,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Georgia,-0.02560000000000001,0.3077,0.3333
+2023-07-04 14:31:52.961914,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Winnipeg Blue Bombers,-0.02679999999999999,0.2857,0.3125
+2023-07-04 14:31:52.961914,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Toronto Argonauts,-0.02739999999999998,0.2667,0.2941
 2023-07-04 08:31:08.397490,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,British Columbia Lions,-0.02779999999999999,0.2222,0.25
 2023-07-04 13:31:02.481986,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest: Betting Without Joey Chestnut - Winner Without Joey Chestnut,Nick Wehry,-0.031399999999999983,0.2353,0.2667
 2023-07-04 08:31:05.695917,Nathan's Hot Dog Eating Contest - Will The World Record For Number Of Hot Dogs Eaten In Ten Minutes Be Broken? - Will The World Record Be Broken?,No,-0.033299999999999996,0.8,0.8333
 2023-07-04 07:31:14.098940,Nathan's Hot Dog Eating Contest - Will A 'Reversal Of Fortune' Occur In The Men's Contest? - Will A 'Reversal Of Fortune' Occur?,No,-0.033299999999999996,0.9,0.9333
 2023-07-04 10:30:51.125666,Nathan's Hot Dog Eating Contest - Joey Chestnut: Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,73.5 or under,-0.037800000000000056,0.5455,0.5833
 2023-07-04 08:31:05.610416,Nathan's Hot Dog Eating Contest - Leader At 1 Minute: Men's Contest - Leader At 1 Minute,Geoffrey Esper,-0.03889999999999999,0.1429,0.1818
-2023-07-04 08:31:05.520278,Nathan's Hot Dog Eating Contest - Joey Chestnut: Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,72.5 or under,-0.04139999999999999,0.5238,0.5652
 2023-07-04 10:30:51.173301,Nathan's Hot Dog Eating Contest - Chestnut & Sudo: Combined Total Hot Dogs Eaten - Chestnut & Sudo Combined Total Hot Dogs,116.5 or under,-0.04139999999999999,0.5238,0.5652
+2023-07-04 08:31:05.520278,Nathan's Hot Dog Eating Contest - Joey Chestnut: Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,72.5 or under,-0.04139999999999999,0.5238,0.5652
 2023-07-04 07:31:14.035402,Nathan's Hot Dog Eating Contest - Nick Wehry: Total Hot Dogs Eaten - Nick Wehry Total Hot Dogs,Over 45.5,-0.04259999999999997,0.5652,0.6078
 2023-07-04 13:31:02.662086,Nathan's Hot Dog Eating Contest - Will A 'Reversal Of Fortune' Occur In The Men's Contest? - Will A 'Reversal Of Fortune' Occur?,No,-0.04290000000000005,0.8571,0.9
+2023-07-04 14:31:51.407989,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest: Betting Without Joey Chestnut - Winner Without Joey Chestnut,Geoffrey Esper,-0.04380000000000006,0.7895,0.8333
 2023-07-04 07:31:14.179703,Nathan's Hot Dog Eating Contest - Will The Women's World Record For Number Of Hot Dogs Eaten In Ten Minutes Be Broken? - Will The Women's World Record Be Broken?,No,-0.04619999999999991,0.8,0.8462
 2023-07-04 08:31:05.597976,Nathan's Hot Dog Eating Contest - Chestnut & Sudo: Combined Total Hot Dogs Eaten - Chestnut & Sudo Combined Total Hot Dogs,116.5 or under,-0.05019999999999991,0.5652,0.6154
 2023-07-04 04:30:56.563588,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Winnipeg Blue Bombers,-0.06659999999999999,0.2667,0.3333
+2023-07-04 14:31:51.407989,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest: Betting Without Joey Chestnut - Winner Without Joey Chestnut,Nick Wehry,-0.06860000000000002,0.1667,0.2353
 2023-07-04 10:30:50.963935,Celebrity Boxing - Fight Location Musk v Zuckerberg - Where will fight take place ?,Space,-0.08099999999999999,0.0099,0.0909
 2023-07-04 07:31:14.196921,Nathan's Hot Dog Eating Contest - Will The World Record For Number Of Hot Dogs Eaten In Ten Minutes Be Broken? - Will The World Record Be Broken?,Yes,-0.08329999999999999,0.25,0.3333
 2023-07-04 05:31:06.489026,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - To Win Group D,Guatemala,-0.11069999999999997,0.4348,0.5455
+2023-07-04 14:31:51.461666,Nathan's Hot Dog Eating Contest - Joey Chestnut: Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,74.5 or under,-0.11110000000000009,0.6667,0.7778
 2023-07-04 09:31:37.413214,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Coritiba,-0.15910000000000002,0.75,0.9091
