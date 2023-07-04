@@ -5,8 +5,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-03 22:31:11.046564,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Michigan,0.05859999999999999,0.0909,0.0323
 2023-07-03 23:31:37.427684,Nathan's Hot Dog Eating Contest - Joey Chestnut Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,Over 69.5,0.057699999999999974,0.75,0.6923
 2023-07-03 14:31:32.409946,Nathan's Hot Dog Eating Contest - Joey Chestnut Total Hot Dogs Eaten - Joey Chestnut Total Hot Dogs,Under 69.5,0.05130000000000001,0.3846,0.3333
-2023-07-03 20:31:31.312806,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest: Betting Without Joey Chestnut - Winner Without Joey Chestnut,Nick Wehry,0.04999999999999999,0.25,0.2
 2023-07-03 21:31:23.072545,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Toronto Argonauts,0.04999999999999999,0.25,0.2
+2023-07-03 20:31:31.312806,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest: Betting Without Joey Chestnut - Winner Without Joey Chestnut,Nick Wehry,0.04999999999999999,0.25,0.2
 2023-07-04 00:31:32.329766,Nathan's Hot Dog Eating Contest - Miki Sudo: Total Hot Dogs Eaten - Miki Sudo Total Hot Dogs,44.5 or under,0.04760000000000003,0.5238,0.4762
 2023-07-03 16:31:27.596987,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Georgia,0.047599999999999976,0.3333,0.2857
 2023-07-03 21:31:23.072545,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Winnipeg Blue Bombers,0.047599999999999976,0.3333,0.2857
@@ -29,7 +29,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-03 14:31:34.602250,Boxing Lines - Jaron Ennis vs Roiman Villa - To Win the Bout,Roiman Villa,0.025300000000000003,0.1429,0.1176
 2023-07-03 16:31:27.616131,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Tyler Van Dyke,0.024999999999999998,0.0278,0.0028
 2023-07-03 16:31:27.596987,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Texas,0.0242,0.0909,0.0667
-2023-07-03 13:31:29.211165,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest: Betting Without Joey Chestnut - Winner Without Joey Chestnut,Geoffrey Esper,0.023799999999999932,0.8571,0.8333
 2023-07-03 22:31:09.606513,WNBA Futures - 2023 Regular Season Wins - Chicago Sky,Under 17.5,0.022600000000000064,0.5348,0.5122
 2023-07-03 22:31:11.537134,Open Qualifying - Dundonald Links - Winner,Aaron Rai,0.022199999999999998,0.1333,0.1111
 2023-07-03 17:31:29.893420,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Defensive Player of the Year ,Jaelen Phillips,0.021799999999999996,0.0435,0.0217
@@ -40,25 +39,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-03 14:31:32.439114,Nathan's Hot Dog Eating Contest - Miki Sudo: Total Hot Dogs Eaten - Miki Sudo Total Hot Dogs,Over 44.5,0.01970000000000005,0.5652,0.5455
 2023-07-03 16:31:27.475545,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - New York Giants,Yes,0.018100000000000005,0.4348,0.4167
 2023-07-03 16:31:26.938377,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Coach of the Year,Mike McDaniel,0.018099999999999998,0.0769,0.0588
-2023-07-03 13:31:29.202550,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest: Men's Winner - Men's Outright Winner,Any Other,0.018099999999999998,0.0769,0.0588
-2023-07-03 13:31:30.862749,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,0.017299999999999982,0.4255,0.4082
 2023-07-03 15:31:48.963006,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,No,0.016699999999999993,0.2667,0.25
 2023-07-03 21:31:23.072545,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Saskatchewan Roughriders,0.015899999999999997,0.1111,0.0952
-2023-07-03 13:31:30.854761,MLB Futures - MLB 2023 American League Central - American League Central Winner,Detroit Tigers,0.015300000000000001,0.0476,0.0323
 2023-07-03 15:31:49.454542,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Coach of the Year,Mike McDaniel,0.015300000000000001,0.0588,0.0435
 2023-07-03 17:31:29.934155,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Offensive Rookie of the Year,Anthony Richardson,0.015100000000000002,0.1818,0.1667
-2023-07-03 13:31:30.862749,MLB Futures - MLB 2023 American League West - American League West Winner,Seattle Mariners,0.014899999999999997,0.0625,0.0476
 2023-07-03 16:31:26.938377,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Coach of the Year,Matt Lafleur,0.014399999999999996,0.0769,0.0625
 2023-07-03 16:31:27.274846,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Philadelphia Eagles,Over 10.5,0.014200000000000101,0.6296,0.6154
-2023-07-03 16:31:26.938377,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Coach of the Year,Arthur Smith,0.013999999999999999,0.0909,0.0769
 2023-07-03 19:31:15.911445,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Offensive Rookie of the Year,Jahmyr Gibbs,0.013999999999999999,0.0909,0.0769
+2023-07-03 16:31:26.938377,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Coach of the Year,Arthur Smith,0.013999999999999999,0.0909,0.0769
 2023-07-03 15:31:50.509243,US Women's Open - US Women's Open - Winner,Rose Zhang,0.013999999999999999,0.0909,0.0769
 2023-07-03 23:31:37.466174,Nathan's Hot Dog Eating Contest - Miki Sudo: Total Hot Dogs Eaten - Miki Sudo Total Hot Dogs,44.5 or under,0.011099999999999999,0.4762,0.4651
 2023-07-03 20:31:33.174410,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Offensive Player of the Year,Nick Chubb,0.010600000000000002,0.0323,0.0217
 2023-07-03 16:31:27.339606,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Cincinnati Bengals,Yes,0.010400000000000076,0.7778,0.7674
 2023-07-03 15:31:50.533500,Futures - The Open Championship 2023 - Winner,Brooks Koepka,0.0102,0.0769,0.0667
-2023-07-04 00:31:33.788202,Russian Politics - Vladimir Putin President Exit Date - Putin Exit Date,January to June 2024,0.010099999999999998,0.4545,0.4444
 2023-07-03 19:31:15.732704,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,New York Jets,0.010099999999999998,0.1053,0.0952
+2023-07-04 00:31:33.788202,Russian Politics - Vladimir Putin President Exit Date - Putin Exit Date,January to June 2024,0.010099999999999998,0.4545,0.4444
 2023-07-03 15:31:49.224313,Russian Politics - Vladimir Putin President Exit Date - Putin Exit Date,January to June 2024,-0.010099999999999998,0.4444,0.4545
 2023-07-03 22:31:11.537134,Open Qualifying - Dundonald Links - Winner,Andy Ogletree,-0.0102,0.0667,0.0769
 2023-07-03 14:31:34.319952,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Spencer Rattler,-0.010300000000000002,0.0141,0.0244
@@ -70,21 +65,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-03 16:31:27.419677,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Las Vegas Raiders,Yes,-0.011899999999999994,0.2381,0.25
 2023-07-03 20:31:31.830725,WNBA Futures - WNBA Awards - Regular Season MVP,Alyssa Thomas,-0.011900000000000008,0.0833,0.0952
 2023-07-03 16:31:27.527968,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Seattle Seahawks,No,-0.012199999999999989,0.4878,0.5
-2023-07-03 20:31:31.830725,WNBA Futures - WNBA Awards - Regular Season MVP,Sabrina Ionescu,-0.012700000000000003,0.0196,0.0323
 2023-07-03 14:31:34.319952,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Brock Vandagriff,-0.012700000000000003,0.0196,0.0323
+2023-07-03 20:31:31.830725,WNBA Futures - WNBA Awards - Regular Season MVP,Sabrina Ionescu,-0.012700000000000003,0.0196,0.0323
 2023-07-03 20:31:31.830725,WNBA Futures - WNBA Awards - Regular Season MVP,Arike Ogunbowale,-0.012800000000000002,0.0217,0.0345
 2023-07-03 16:31:27.388507,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Houston Texans,Yes,-0.012899999999999995,0.1538,0.1667
-2023-07-03 13:31:29.211165,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest: Betting Without Joey Chestnut - Winner Without Joey Chestnut,Darron Breeden,-0.013899999999999996,0.1111,0.125
+2023-07-03 22:31:11.537134,Open Qualifying - Dundonald Links - Winner,Peter Uihlein,-0.013999999999999999,0.0769,0.0909
 2023-07-03 17:31:29.934155,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Offensive Rookie of the Year,Jaxon Smith-Njigba,-0.013999999999999999,0.0769,0.0909
 2023-07-03 21:31:23.072545,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Calgary Stampeders,-0.013999999999999999,0.0769,0.0909
-2023-07-03 22:31:11.537134,Open Qualifying - Dundonald Links - Winner,Peter Uihlein,-0.013999999999999999,0.0769,0.0909
 2023-07-03 17:31:29.893420,Awards & League Leaders - NFL 2023/24 Awards & League Leaders - NFL 2023/24 Defensive Player of the Year ,Maxx Crosby,-0.014399999999999996,0.0625,0.0769
-2023-07-03 13:31:30.854761,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,-0.014800000000000035,0.6078,0.6226
 2023-07-03 15:31:50.480222,Made in Himmerland - Winner - Winner,Rasmus Hojgaard,-0.014899999999999997,0.0476,0.0625
 2023-07-03 15:31:49.224313,Russian Politics - Vladimir Putin President Exit Date - Putin Exit Date,2025 or later,-0.014900000000000024,0.3077,0.3226
 2023-07-03 15:31:50.457230,London - Winner - Winner,Charl Schwartzel,-0.0165,0.0079,0.0244
 2023-07-03 14:31:32.478876,Nathan's Hot Dog Eating Contest - Leader At 1 Minute: Men's Contest - Leader At 1 Minute,Geoffrey Esper,-0.01820000000000002,0.1818,0.2
-2023-07-03 13:31:30.879833,MLB Futures - MLB 2023 National League Central - National League Central Winner,Cincinnati Reds,-0.019000000000000017,0.2667,0.2857
 2023-07-03 16:31:27.616131,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Michael Penix Jr.,-0.019099999999999992,0.0476,0.0667
 2023-07-03 14:31:32.510000,Nathan's Hot Dog Eating Contest - Will A 'Reversal Of Fortune' Occur In The Men's Contest? - Will A 'Reversal Of Fortune' Occur?,No,-0.019100000000000006,0.9333,0.9524
 2023-07-03 16:31:27.475545,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - New York Giants,No,-0.019499999999999962,0.6296,0.6491
@@ -93,7 +85,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-03 23:31:37.415005,Nathan's Hot Dog Eating Contest - Geoffrey Esper: Total Hot Dogs Eaten - Geoffrey Esper Total Hot Dogs,50.5 or under,-0.01970000000000005,0.5455,0.5652
 2023-07-04 00:31:33.778098,Russian Politics - President Of Russia On December 31st 2023 - President Of Russia At Year End,Nikolai Patrushev,-0.02020000000000001,0.0909,0.1111
 2023-07-03 23:31:37.389761,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest: Betting Without Joey Chestnut - Winner Without Joey Chestnut,Darron Breeden,-0.02020000000000001,0.0909,0.1111
-2023-07-03 13:31:30.862749,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,-0.02079999999999993,0.5348,0.5556
 2023-07-03 22:31:09.606513,WNBA Futures - 2023 Regular Season Wins - Chicago Sky,Over 17.5,-0.02079999999999993,0.5348,0.5556
 2023-07-04 00:31:33.778098,Russian Politics - President Of Russia On December 31st 2023 - President Of Russia At Year End,Yevgeny Prigozhin,-0.0208,0.0625,0.0833
 2023-07-03 14:31:32.439114,Nathan's Hot Dog Eating Contest - Miki Sudo: Total Hot Dogs Eaten - Miki Sudo Total Hot Dogs,44.5 or under,-0.02169999999999994,0.5238,0.5455
@@ -110,9 +101,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-03 16:31:27.616131,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Jordan Travis,-0.028399999999999995,0.0625,0.0909
 2023-07-03 16:31:27.403795,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Jacksonville Jaguars,No,-0.029600000000000015,0.3704,0.4
 2023-07-03 14:31:32.458486,Nathan's Hot Dog Eating Contest - Chestnut & Sudo: Combined Total Hot Dogs Eaten - Chestnut & Sudo Combined Total Hot Dogs,116.5 or under,-0.03090000000000004,0.7059,0.7368
-2023-07-03 13:31:30.838610,MLB Futures - MLB 2023 National League West - National League West Winner,Arizona Diamondbacks,-0.031399999999999983,0.2353,0.2667
-2023-07-03 16:31:27.092997,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Denver Broncos,Over 8.5,-0.033299999999999996,0.5122,0.5455
 2023-07-03 19:31:14.957579,Nathan's Hot Dog Eating Contest - Nick Wehry: Total Hot Dogs Eaten - Nick Wehry Total Hot Dogs,45.5 or under,-0.033299999999999996,0.5122,0.5455
+2023-07-03 16:31:27.092997,Regular Season Wins - 2023-24 Regular Season Wins - Regular Season Wins - Denver Broncos,Over 8.5,-0.033299999999999996,0.5122,0.5455
 2023-07-04 00:31:33.778098,Russian Politics - President Of Russia On December 31st 2023 - President Of Russia At Year End,Dmitry Medvedev,-0.034100000000000005,0.0909,0.125
 2023-07-04 00:31:32.329766,Nathan's Hot Dog Eating Contest - Miki Sudo: Total Hot Dogs Eaten - Miki Sudo Total Hot Dogs,Over 44.5,-0.03479999999999994,0.5652,0.6
 2023-07-04 00:31:33.788202,Russian Politics - Vladimir Putin President Exit Date - Putin Exit Date,Before October 2023,-0.03889999999999999,0.1429,0.1818
