@@ -7,6 +7,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-06 23:31:50.363836,Made in Himmerland - 2/3 Balls - 2nd Round 3 Balls - C. Sordet / T. Clements / L. Bjerregaard - 2nd Round 3 Balls,Clement Sordet,0.05980000000000002,0.4444,0.3846
 2023-07-06 20:32:29.458670,Made in Himmerland - Made In Himmerland - Winner,Ross Fisher,0.05879999999999999,0.0667,0.0079
 2023-07-06 22:31:23.925883,Meg 2: The Trench - Meg 2: The Trench - Rotten Tomatoes Tomatometer Rating - Tomatometer Rating One Month Post Release,Under 45%,0.05300000000000005,0.5652,0.5122
+2023-07-07 00:31:28.270964,Boxing Lines - Eduardo Hernandez vs Joniker Tovar - To Win the Bout,Joniker Tovar,0.04909999999999999,0.1667,0.1176
 2023-07-06 18:30:24.092127,NBA Specials - Average Points Per Game During the 2023/2024 Regular Season - Victor Wembanyama (SAS) - Victor Wembanyama Special,Under 18.5,0.04760000000000003,0.5238,0.4762
 2023-07-06 16:32:20.122069,White House Specials - Whose Cocaine Is It? - Who will the Secret Service confirm as the owner of the cocaine found in the White House?,Hunter Biden,0.047599999999999976,0.3333,0.2857
 2023-07-06 20:32:29.458670,Made in Himmerland - Made In Himmerland - Winner,Rasmus Hojgaard,0.0448,0.0833,0.0385
@@ -24,9 +25,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-06 20:32:29.458670,Made in Himmerland - Made In Himmerland - Winner,Ryo Hisatsune,0.0182,0.0323,0.0141
 2023-07-06 14:31:47.843995,Boxing Lines - Edwin De Los Santos vs Joseph Adorno - To Win the Bout,Joseph Adorno,0.018100000000000005,0.2778,0.2597
 2023-07-06 16:32:19.945012,FIBA World Cup - FIBA World Cup 2023 - Outright,Serbia,0.0179,0.1429,0.125
+2023-07-07 00:31:28.296291,Boxing Lines - Dan Hill vs Dylan Biggs - To Win the Bout,Dylan Biggs,0.017299999999999982,0.5917,0.5744
 2023-07-06 23:31:47.423136,Joe Biden Specials - Joe Biden Approval Rating At Year End - Joe Biden Approval Rating At Year End,41 or under,0.016699999999999937,0.6,0.5833
 2023-07-06 14:31:47.806680,Boxing Lines - Ernesto Mercado vs Xolisani Ndongeni - To Win the Bout,Ernesto Mercado,0.01660000000000006,0.9333,0.9167
 2023-07-06 20:32:29.458670,Made in Himmerland - Made In Himmerland - Winner,Alexander Levy,0.0163,0.0196,0.0033
+2023-07-07 00:31:28.176922,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Jordan Travis,0.013999999999999999,0.0909,0.0769
 2023-07-06 20:32:29.458670,Made in Himmerland - Made In Himmerland - Winner,Daniel Brown,0.013,0.0196,0.0066
 2023-07-06 12:31:42.693752,Boxing Lines - Marlen Esparza vs Gabriela Celeste Alaniz - To Win the Bout,Gabriela Celeste Alaniz,0.012699999999999989,0.3636,0.3509
 2023-07-06 15:31:12.315924,WNBA Futures - 2023 Regular Season Wins - Washington Mystics,Over 22.5,0.010699999999999932,0.5455,0.5348
@@ -34,8 +37,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-06 20:32:29.458670,Made in Himmerland - Made In Himmerland - Winner,Richie Ramsay,0.010300000000000002,0.0244,0.0141
 2023-07-06 17:32:38.819455,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,San Antonio Spurs,0.0102,0.0769,0.0667
 2023-07-06 17:32:38.819455,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Charlotte Hornets,-0.0102,0.0667,0.0769
-2023-07-06 12:31:43.545019,Tournament Match-Ups - Tournament Match-Ups - A. Thitikul vs L. Maguire - Tournament Match-Ups,Leona Maguire,-0.01100000000000001,0.5238,0.5348
 2023-07-06 15:31:12.315924,WNBA Futures - 2023 Regular Season Wins - Washington Mystics,Under 22.5,-0.01100000000000001,0.5238,0.5348
+2023-07-06 12:31:43.545019,Tournament Match-Ups - Tournament Match-Ups - A. Thitikul vs L. Maguire - Tournament Match-Ups,Leona Maguire,-0.01100000000000001,0.5238,0.5348
 2023-07-06 23:31:47.665818,Russian Politics - Next Russian Presidential Election - Outright Winner - Next Russian Presidential Election - Outright Winner,Dmitry Medvedev,-0.011099999999999999,0.1,0.1111
 2023-07-06 23:31:47.665818,Russian Politics - Next Russian Presidential Election - Outright Winner - Next Russian Presidential Election - Outright Winner,Yevgeny Prigozhin,-0.011099999999999999,0.1,0.1111
 2023-07-06 20:32:29.458670,Made in Himmerland - Made In Himmerland - Winner,Jordan Smith,-0.011199999999999995,0.0323,0.0435
@@ -43,6 +46,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-06 20:32:29.458670,Made in Himmerland - Made In Himmerland - Winner,Sean Crocker,-0.011300000000000001,0.001,0.0123
 2023-07-06 20:32:29.458670,Made in Himmerland - Made In Himmerland - Winner,Kiradech Aphibarnrat,-0.011300000000000001,0.001,0.0123
 2023-07-06 20:32:29.458670,Made in Himmerland - Made In Himmerland - Winner,Matthew Southgate,-0.0114,0.005,0.0164
+2023-07-07 00:31:28.296291,Boxing Lines - Dan Hill vs Dylan Biggs - To Win the Bout,Dan Hill,-0.0116,0.4762,0.4878
 2023-07-06 23:31:47.423136,Joe Biden Specials - Joe Biden Approval Rating At Year End - Joe Biden Approval Rating At Year End,Over 41,-0.0116,0.4762,0.4878
 2023-07-06 20:32:29.458670,Made in Himmerland - Made In Himmerland - Winner,Jayden Schaper,-0.0131,0.001,0.0141
 2023-07-06 20:32:29.458670,Made in Himmerland - Made In Himmerland - Winner,Marcus Helligkilde,-0.0132,0.002,0.0152
@@ -57,8 +61,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-06 23:31:50.326943,Made in Himmerland - 2/3 Balls - 2nd Round 3 Balls - D. Law / K. Davidse / A. George Frances - 2nd Round 3 Balls,Keenan Davidse,-0.018400000000000027,0.2941,0.3125
 2023-07-06 14:31:47.853471,Boxing Lines - Marlen Esparza vs Gabriela Celeste Alaniz - To Win the Bout,Marlen Esparza,-0.01959999999999995,0.6774,0.697
 2023-07-06 14:31:47.843995,Boxing Lines - Edwin De Los Santos vs Joseph Adorno - To Win the Bout,Edwin De Los Santos,-0.020000000000000018,0.7895,0.8095
-2023-07-06 20:32:29.458670,Made in Himmerland - Made In Himmerland - Winner,Alexander Bjork,-0.0203,0.0385,0.0588
 2023-07-06 20:32:29.458670,Made in Himmerland - Made In Himmerland - Winner,Nicolai Hojgaard,-0.0203,0.0323,0.0526
+2023-07-06 20:32:29.458670,Made in Himmerland - Made In Himmerland - Winner,Alexander Bjork,-0.0203,0.0385,0.0588
 2023-07-06 20:32:29.458670,Made in Himmerland - Made In Himmerland - Winner,Pablo Larrazabal,-0.021900000000000003,0.0025,0.0244
 2023-07-06 20:32:29.458670,Made in Himmerland - Made In Himmerland - Winner,Yannik Paul,-0.022099999999999998,0.0164,0.0385
 2023-07-06 20:32:29.458670,Made in Himmerland - Made In Himmerland - Winner,David Law,-0.022400000000000003,0.002,0.0244
@@ -68,6 +72,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-06 15:31:12.303946,WNBA Futures - 2023 Regular Season Wins - Seattle Storm,Under 11.5,-0.033299999999999996,0.5122,0.5455
 2023-07-06 18:30:24.092127,NBA Specials - Average Points Per Game During the 2023/2024 Regular Season - Victor Wembanyama (SAS) - Victor Wembanyama Special,Over 18.5,-0.03479999999999994,0.5652,0.6
 2023-07-06 20:32:29.458670,Made in Himmerland - Made In Himmerland - Winner,Thorbjorn Olesen,-0.0403,0.0123,0.0526
+2023-07-07 00:31:28.270964,Boxing Lines - Eduardo Hernandez vs Joniker Tovar - To Win the Bout,Eduardo Hernandez,-0.041200000000000014,0.9,0.9412
 2023-07-06 22:31:23.925883,Meg 2: The Trench - Meg 2: The Trench - Rotten Tomatoes Tomatometer Rating - Tomatometer Rating One Month Post Release,45% or over,-0.05059999999999998,0.5238,0.5744
 2023-07-06 23:31:50.363836,Made in Himmerland - 2/3 Balls - 2nd Round 3 Balls - C. Sordet / T. Clements / L. Bjerregaard - 2nd Round 3 Balls,Lucas Bjerregaard,-0.055900000000000005,0.2667,0.3226
 2023-07-06 18:30:24.100831,NBA Specials - Who Will Average More Points Per Game During the 2023/2024 Regular Season  - Victor Wembanyama Special,Victor Wembanyama (SAS),-0.05709999999999993,0.8,0.8571
