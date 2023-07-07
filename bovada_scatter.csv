@@ -1,7 +1,7 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-07 13:31:22.525211,Meg 2: The Trench - Meg 2: The Trench - Megalodon Kill Count - Megalodon Kill Count,31-50,0.08330000000000001,0.25,0.1667
-2023-07-07 05:30:23.810089,WNBA Futures - 2023 Regular Season Wins - Phoenix Mercury,Under 11.5,0.0805999999999999,0.6154,0.5348
 2023-07-07 05:30:23.783163,WNBA Futures - 2023 Regular Season Wins - Las Vegas Aces,Over 35.5,0.0805999999999999,0.6154,0.5348
+2023-07-07 05:30:23.810089,WNBA Futures - 2023 Regular Season Wins - Phoenix Mercury,Under 11.5,0.0805999999999999,0.6154,0.5348
 2023-07-07 08:31:22.849090,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,0.08039999999999997,0.5455,0.4651
 2023-07-07 05:30:23.803479,WNBA Futures - 2023 Regular Season Wins - New York Liberty,Over 30.5,0.07950000000000002,0.5917,0.5122
 2023-07-07 05:30:23.776538,WNBA Futures - 2023 Regular Season Wins - Indiana Fever,Over 15.5,0.07619999999999993,0.6,0.5238
@@ -9,26 +9,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-07 06:31:37.343268,John Deere Classic - 2/3 Balls - 2nd Round 3 Balls - R. Steelman / K. Roy / M. Gligic - 2nd Round 3 Balls,Ross Steelman,0.05020000000000002,0.4348,0.3846
 2023-07-07 13:31:23.214017,White House Specials - Whose Cocaine Is It? - Who will the Secret Service confirm as the owner of the cocaine found in the White House?,Tour Group Guest,0.04409999999999992,0.6667,0.6226
 2023-07-07 05:30:23.796609,WNBA Futures - 2023 Regular Season Wins - Minnesota Lynx,Over 15.5,0.03610000000000002,0.5917,0.5556
-2023-07-07 02:31:40.225184,London - 2/3 Balls - 1st Round 3 Balls - C. Smith / H. Stenson / L. Oosthuizen - 1st Round 3 Balls,Cameron Smith,0.035999999999999976,0.5122,0.4762
-2023-07-07 02:31:40.348207,Made in Himmerland - 2/3 Balls - 2nd Round 3 Balls - C. Sordet / T. Clements / L. Bjerregaard - 2nd Round 3 Balls,Todd Clements,0.03210000000000002,0.4167,0.3846
 2023-07-07 07:31:34.800899,Round Match-Ups - 2nd Round Match-Up - E. Grillo vs L. Aberg - 2nd Round Match-Up,Ludvig Aberg,0.03179999999999994,0.5556,0.5238
 2023-07-07 05:30:23.819777,WNBA Futures - 2023 Regular Season Wins - Washington Mystics,Over 22.5,0.028900000000000037,0.5744,0.5455
 2023-07-07 12:31:26.420840,Round Match-Ups - 2nd Round Match-Up - L. Aberg v C. Young - 2nd Round Match-Up,Cameron Young,0.027700000000000058,0.5833,0.5556
 2023-07-07 06:31:36.261609,MLB Futures - MLB 2023 National League Central - National League Central Winner,Cincinnati Reds,0.027700000000000002,0.4444,0.4167
-2023-07-07 02:31:40.304851,Made in Himmerland - 2/3 Balls - 2nd Round 3 Balls - R. Mansell / R. Neergaard-Petersen / J. Morrison - 2nd Round 3 Balls,James Morrison,0.02679999999999999,0.3125,0.2857
 2023-07-07 07:31:34.872453,Scores - 2nd Round Score - Adam Schenk - 2nd Round Score,Under 68.5,0.025599999999999956,0.6,0.5744
 2023-07-07 06:31:37.441119,Round Match-Ups - 2nd Round Match-Up - L. Glover vs K.H. Lee - 2nd Round Match-Up,Kyoung-Hoon Lee,0.023800000000000043,0.5238,0.5
 2023-07-07 05:30:24.117446,White House Specials - Whose Cocaine Is It? - Who will the Secret Service confirm as the owner of the cocaine found in the White House?,Tour Group Guest,0.022600000000000064,0.6226,0.6
 2023-07-07 05:30:27.078863,Main Markets - 2nd Round Six Shooter - B - A. Schenk / C. Kirk / D. McCarthy / K. Mitchell / R. Henley / T. Moore - 2nd Round Six Shooter,Russell Henley,0.022199999999999998,0.2222,0.2
-2023-07-07 09:30:38.383051,Round Match-Ups - 2nd Round Match-Up - D. Thompson vs D. Wu - 2nd Round Match-Up,Dylan Wu,0.02169999999999994,0.5455,0.5238
 2023-07-07 09:30:38.422263,Round Match-Ups - 2nd Round Match-Up - L. Glover vs K.H. Lee - 2nd Round Match-Up,Lucas Glover,0.02169999999999994,0.5455,0.5238
+2023-07-07 09:30:38.383051,Round Match-Ups - 2nd Round Match-Up - D. Thompson vs D. Wu - 2nd Round Match-Up,Dylan Wu,0.02169999999999994,0.5455,0.5238
 2023-07-07 06:31:37.039386,John Deere Classic - 2/3 Balls - 2nd Round 3 Balls - R. Gerard / M. Thorbjornsen / T. Cone - 2nd Round 3 Balls,Trevor Cone,0.020799999999999985,0.3333,0.3125
-2023-07-07 02:31:40.217928,London - 2/3 Balls - 1st Round 3 Balls - B. Watson / B. DeChambeau / K. Na - 1st Round 3 Balls,Bryson DeChambeau,0.02079999999999993,0.5556,0.5348
 2023-07-07 11:30:56.493786,John Deere Classic - 2/3 Balls - 2nd Round 3 Balls - C. Young / L. Aberg / N. Hardy - 2nd Round 3 Balls,Cameron Young,0.020699999999999996,0.4651,0.4444
 2023-07-07 04:31:10.799776,Made in Himmerland - 2/3 Balls - 2nd Round 3 Balls - J. Walters / K. Broberg / H. Li - 2nd Round 3 Balls,Justin Walters,0.020699999999999996,0.4651,0.4444
-2023-07-07 02:31:40.231609,London - 2/3 Balls - 1st Round 3 Balls - H. Varner III / T. Gooch / T. Pieters - 1st Round 3 Balls,Talor Gooch,0.020699999999999996,0.4651,0.4444
 2023-07-07 11:30:56.733720,Round Match-Ups - 2nd Round Match-Ups - D. Thompson v C. Champ - 2nd Round Match-Up ,Davis Thompson,0.01970000000000005,0.5652,0.5455
-2023-07-07 02:31:40.341878,Made in Himmerland - 2/3 Balls - 2nd Round 3 Balls - J. Walters / K. Broberg / H. Li - 2nd Round 3 Balls,Kristoffer Broberg,0.017600000000000005,0.3509,0.3333
 2023-07-07 06:31:37.088115,John Deere Classic - 2/3 Balls - 2nd Round 3 Balls - R. Palmer / M. NeSmith / A. Atwal - 2nd Round 3 Balls,Matthew NeSmith,0.017299999999999982,0.4255,0.4082
 2023-07-07 06:31:37.190926,John Deere Classic - 2/3 Balls - 2nd Round 3 Balls - R. Henley / C. Kirk / T. Moore - 2nd Round 3 Balls,Russell Henley,0.016699999999999993,0.4167,0.4
 2023-07-07 06:31:36.261609,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,0.01440000000000001,0.1053,0.0909
@@ -37,31 +31,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-07 06:31:31.527412,96th Academy Awards - Best Actor - Best Actor,Leonardo DiCaprio - Killers of the Flower Moon,0.012199999999999989,0.5122,0.5
 2023-07-07 06:31:36.901720,John Deere Classic - 2/3 Balls - 2nd Round 3 Balls - E. Cole / T. Montgomery / D. Frittelli - 2nd Round 3 Balls,Taylor Montgomery,0.01150000000000001,0.3448,0.3333
 2023-07-07 05:30:26.257218,MLB Futures - MLB 2023 American League East - American League East Winner,Toronto Blue Jays,0.011199999999999995,0.0588,0.0476
-2023-07-07 09:30:38.532564,Round Match-Ups - 2nd Round Match-Up - R. Henley vs D. McCarthy - 2nd Round Match-Up,Russell Henley,0.010699999999999932,0.5455,0.5348
 2023-07-07 09:30:38.402774,Round Match-Ups - 2nd Round Match-Up - C. Bezuidenhout vs M. Kim - 2nd Round Match-Up,Christiaan Bezuidenhout,0.010699999999999932,0.5455,0.5348
-2023-07-07 05:30:23.789753,WNBA Futures - 2023 Regular Season Wins - Los Angeles Sparks,Under 16.5,0.010699999999999932,0.5455,0.5348
 2023-07-07 05:30:23.762883,WNBA Futures - 2023 Regular Season Wins - Chicago Sky,Under 17.5,0.010699999999999932,0.5455,0.5348
+2023-07-07 09:30:38.532564,Round Match-Ups - 2nd Round Match-Up - R. Henley vs D. McCarthy - 2nd Round Match-Up,Russell Henley,0.010699999999999932,0.5455,0.5348
+2023-07-07 05:30:23.789753,WNBA Futures - 2023 Regular Season Wins - Los Angeles Sparks,Under 16.5,0.010699999999999932,0.5455,0.5348
+2023-07-07 15:31:46.191930,Championship - England Championship 2023/24 - Winner,Leicester City,0.010499999999999982,0.2105,0.2
 2023-07-07 11:30:56.810827,Round Match-Ups - 2nd Round Match-Up - L. Aberg v C. Young - 2nd Round Match-Up,Cameron Young,0.010099999999999998,0.5556,0.5455
 2023-07-07 06:31:36.171834,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,0.010099999999999998,0.5556,0.5455
 2023-07-07 06:31:37.088115,John Deere Classic - 2/3 Balls - 2nd Round 3 Balls - R. Palmer / M. NeSmith / A. Atwal - 2nd Round 3 Balls,Ryan Palmer,-0.010099999999999998,0.4444,0.4545
-2023-07-07 02:31:40.341878,Made in Himmerland - 2/3 Balls - 2nd Round 3 Balls - J. Walters / K. Broberg / H. Li - 2nd Round 3 Balls,Justin Walters,-0.010099999999999998,0.4444,0.4545
-2023-07-07 02:31:40.304851,Made in Himmerland - 2/3 Balls - 2nd Round 3 Balls - R. Mansell / R. Neergaard-Petersen / J. Morrison - 2nd Round 3 Balls,Richard Mansell,-0.010599999999999998,0.4545,0.4651
 2023-07-07 06:31:37.190926,John Deere Classic - 2/3 Balls - 2nd Round 3 Balls - R. Henley / C. Kirk / T. Moore - 2nd Round 3 Balls,Taylor Moore,-0.010699999999999987,0.3226,0.3333
-2023-07-07 05:30:23.762883,WNBA Futures - 2023 Regular Season Wins - Chicago Sky,Over 17.5,-0.01100000000000001,0.5238,0.5348
 2023-07-07 05:30:23.789753,WNBA Futures - 2023 Regular Season Wins - Los Angeles Sparks,Over 16.5,-0.01100000000000001,0.5238,0.5348
+2023-07-07 05:30:23.762883,WNBA Futures - 2023 Regular Season Wins - Chicago Sky,Over 17.5,-0.01100000000000001,0.5238,0.5348
 2023-07-07 14:31:35.247602,Boxing Lines - Dan Hill vs Dylan Biggs - To Win the Bout,Dan Hill,-0.011099999999999999,0.4651,0.4762
 2023-07-07 06:31:36.171834,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,-0.011099999999999999,0.4651,0.4762
-2023-07-07 02:31:40.304851,Made in Himmerland - 2/3 Balls - 2nd Round 3 Balls - R. Mansell / R. Neergaard-Petersen / J. Morrison - 2nd Round 3 Balls,Rasmus Neergaard-Petersen,-0.01150000000000001,0.3333,0.3448
 2023-07-07 07:31:34.800899,Round Match-Ups - 2nd Round Match-Up - E. Grillo vs L. Aberg - 2nd Round Match-Up,Emiliano Grillo,-0.011600000000000055,0.5122,0.5238
-2023-07-07 02:31:40.217928,London - 2/3 Balls - 1st Round 3 Balls - B. Watson / B. DeChambeau / K. Na - 1st Round 3 Balls,Kevin Na,-0.011699999999999988,0.274,0.2857
+2023-07-07 11:30:56.810827,Round Match-Ups - 2nd Round Match-Up - L. Aberg v C. Young - 2nd Round Match-Up,Ludvig Aberg,-0.012199999999999989,0.4878,0.5
 2023-07-07 09:30:38.532564,Round Match-Ups - 2nd Round Match-Up - R. Henley vs D. McCarthy - 2nd Round Match-Up,Denny McCarthy,-0.012199999999999989,0.5,0.5122
 2023-07-07 09:30:38.402774,Round Match-Ups - 2nd Round Match-Up - C. Bezuidenhout vs M. Kim - 2nd Round Match-Up,Michael Kim,-0.012199999999999989,0.5,0.5122
-2023-07-07 11:30:56.810827,Round Match-Ups - 2nd Round Match-Up - L. Aberg v C. Young - 2nd Round Match-Up,Ludvig Aberg,-0.012199999999999989,0.4878,0.5
 2023-07-07 06:31:36.901720,John Deere Classic - 2/3 Balls - 2nd Round 3 Balls - E. Cole / T. Montgomery / D. Frittelli - 2nd Round 3 Balls,Dylan Frittelli,-0.01319999999999999,0.25,0.2632
 2023-07-07 13:31:22.525211,Meg 2: The Trench - Meg 2: The Trench - Megalodon Kill Count - Megalodon Kill Count,21-30,-0.01469999999999999,0.2353,0.25
 2023-07-07 06:31:37.039386,John Deere Classic - 2/3 Balls - 2nd Round 3 Balls - R. Gerard / M. Thorbjornsen / T. Cone - 2nd Round 3 Balls,Ryan Gerard,-0.015400000000000025,0.3846,0.4
-2023-07-07 02:31:40.348207,Made in Himmerland - 2/3 Balls - 2nd Round 3 Balls - C. Sordet / T. Clements / L. Bjerregaard - 2nd Round 3 Balls,Lucas Bjerregaard,-0.016699999999999993,0.25,0.2667
-2023-07-07 02:31:40.231609,London - 2/3 Balls - 1st Round 3 Balls - H. Varner III / T. Gooch / T. Pieters - 1st Round 3 Balls,Harold Varner III,-0.017600000000000005,0.3333,0.3509
 2023-07-07 13:31:22.525211,Meg 2: The Trench - Meg 2: The Trench - Megalodon Kill Count - Megalodon Kill Count,1-10,-0.01820000000000002,0.1818,0.2
 2023-07-07 13:31:22.525211,Meg 2: The Trench - Meg 2: The Trench - Megalodon Kill Count - Megalodon Kill Count,11-20,-0.019000000000000017,0.2667,0.2857
 2023-07-07 05:30:27.078863,Main Markets - 2nd Round Six Shooter - B - A. Schenk / C. Kirk / D. McCarthy / K. Mitchell / R. Henley / T. Moore - 2nd Round Six Shooter,Denny McCarthy,-0.01999999999999999,0.1905,0.2105
@@ -73,7 +62,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-07 09:30:38.383051,Round Match-Ups - 2nd Round Match-Up - D. Thompson vs D. Wu - 2nd Round Match-Up,Davis Thompson,-0.023800000000000043,0.5,0.5238
 2023-07-07 09:30:38.422263,Round Match-Ups - 2nd Round Match-Up - L. Glover vs K.H. Lee - 2nd Round Match-Up,Kyoung-Hoon Lee,-0.023800000000000043,0.5,0.5238
 2023-07-07 04:31:10.799776,Made in Himmerland - 2/3 Balls - 2nd Round 3 Balls - J. Walters / K. Broberg / H. Li - 2nd Round 3 Balls,Haotong Li,-0.0252,0.2778,0.303
-2023-07-07 02:31:40.225184,London - 2/3 Balls - 1st Round 3 Balls - C. Smith / H. Stenson / L. Oosthuizen - 1st Round 3 Balls,Louis Oosthuizen,-0.02560000000000001,0.3077,0.3333
 2023-07-07 06:31:37.343268,John Deere Classic - 2/3 Balls - 2nd Round 3 Balls - R. Steelman / K. Roy / M. Gligic - 2nd Round 3 Balls,Michael Gligic,-0.02560000000000001,0.3077,0.3333
 2023-07-07 06:31:37.343268,John Deere Classic - 2/3 Balls - 2nd Round 3 Balls - R. Steelman / K. Roy / M. Gligic - 2nd Round 3 Balls,Kevin Roy,-0.026500000000000024,0.3509,0.3774
 2023-07-07 05:30:23.796609,WNBA Futures - 2023 Regular Season Wins - Minnesota Lynx,Under 15.5,-0.035999999999999976,0.4762,0.5122
@@ -83,6 +71,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-07 05:30:23.833649,WNBA Futures - WNBA Awards - Regular Season MVP,A'ja Wilson,-0.05299999999999999,0.25,0.303
 2023-07-07 08:31:22.849090,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,-0.05559999999999998,0.5,0.5556
 2023-07-07 05:30:23.803479,WNBA Futures - 2023 Regular Season Wins - New York Liberty,Under 30.5,-0.07939999999999997,0.4762,0.5556
-2023-07-07 05:30:23.783163,WNBA Futures - 2023 Regular Season Wins - Las Vegas Aces,Under 35.5,-0.08030000000000004,0.4545,0.5348
 2023-07-07 05:30:23.810089,WNBA Futures - 2023 Regular Season Wins - Phoenix Mercury,Over 11.5,-0.08030000000000004,0.4545,0.5348
+2023-07-07 05:30:23.783163,WNBA Futures - 2023 Regular Season Wins - Las Vegas Aces,Under 35.5,-0.08030000000000004,0.4545,0.5348
 2023-07-07 05:30:23.776538,WNBA Futures - 2023 Regular Season Wins - Indiana Fever,Under 15.5,-0.08039999999999997,0.4651,0.5455
