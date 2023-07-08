@@ -3,12 +3,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Nacho Elvira,0.1,0.2667,0.1667
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Richie Ramsay,0.0889,0.2,0.1111
 2023-07-08 09:31:13.175742,Superettan - Superettan 2023 - Winner,GAIS,0.0857,0.2857,0.2
+2023-07-08 17:31:56.320915,NBA Championship 2023/24 - 2023/24 NBA Season - 2023-24 Eastern Conference Winner,Miami Heat,0.06669999999999998,0.2667,0.2
 2023-07-08 08:31:07.552718,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Houston Rockets,0.0524,0.1,0.0476
 2023-07-08 06:32:00.046191,MLB Futures - MLB 2023 National League West - National League West Winner,Los Angeles Dodgers,0.04760000000000009,0.7143,0.6667
 2023-07-08 10:31:04.883063,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Harold Preciado (SAN),0.0475,0.0769,0.0294
-2023-07-08 05:31:40.720394,Scores - 3rd Round Score - Cameron Young - 3rd Round Score,Over 67.5,0.047099999999999975,0.5122,0.4651
-2023-07-08 05:31:40.743908,Scores - 3rd Round Score - Denny McCarthy - 3rd Round Score,Over 67.5,0.04620000000000002,0.5917,0.5455
-2023-07-08 05:31:40.712311,Scores - 3rd Round Score - Adam Schenk - 3rd Round Score,Over 67.5,0.04620000000000002,0.5917,0.5455
 2023-07-08 06:32:00.066976,MLB Futures - MLB 2023 American League Central - American League Central Winner,Cleveland Guardians,0.04410000000000003,0.3774,0.3333
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Robert MacIntyre,0.04410000000000003,0.3774,0.3333
 2023-07-08 10:31:11.415945,John Deere Classic - 2/3 Balls - 3rd Round 3 Balls - E. Cole / S. Kodaira / C. Stroud - 3rd Round 3 Balls,Eric Cole,0.04139999999999999,0.5652,0.5238
@@ -17,16 +15,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-08 06:32:00.056338,MLB Futures - MLB 2023 American League East - American League East Winner,Toronto Blue Jays,0.037500000000000006,0.1,0.0625
 2023-07-08 06:32:00.077053,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Houston Astros,0.036599999999999994,0.2105,0.1739
 2023-07-08 08:31:07.552718,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Cleveland Cavaliers,0.0344,0.0588,0.0244
-2023-07-08 05:31:38.242462,WNBA Futures - 2023 Regular Season Wins - Connecticut Sun,Over 27.5,0.03179999999999994,0.5556,0.5238
 2023-07-08 08:31:07.552718,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Los Angeles Lakers,0.0282,0.0526,0.0244
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Alexander Bjork,0.028000000000000004,0.0476,0.0196
 2023-07-08 10:31:04.893868,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Santos Laguna,0.02779999999999999,0.25,0.2222
 2023-07-08 13:31:27.285447,Boxing Lines - Joseph Diaz vs Jerry Perez - To Win the Bout,Jerry Perez,0.02729999999999999,0.2273,0.2
+2023-07-08 06:31:56.834830,WNBA Futures - WNBA Championship 2023 - Outright Winner,New York Liberty,0.02679999999999999,0.3125,0.2857
 2023-07-08 08:31:08.230215,NFC South - NFC South 2023/24 - NFC South Winner,Tampa Bay Buccaneers,0.02679999999999999,0.1379,0.1111
 2023-07-08 11:30:57.473581,Boxing Lines - Edwin De Los Santos vs Joseph Adorno - To Win the Bout,Joseph Adorno,0.02679999999999999,0.3125,0.2857
-2023-07-08 06:31:56.834830,WNBA Futures - WNBA Championship 2023 - Outright Winner,New York Liberty,0.02679999999999999,0.3125,0.2857
 2023-07-08 06:32:00.034554,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Houston Astros,0.0267,0.1176,0.0909
 2023-07-08 16:30:50.643952,MLB Futures - MLB 2023 American League East - American League East Winner,Baltimore Orioles,0.025300000000000003,0.1429,0.1176
+2023-07-08 17:31:56.307140,NBA Championship 2023/24 - 2023/24 NBA Season - 2023-24 NBA Champion,Miami Heat,0.024999999999999994,0.125,0.1
 2023-07-08 15:31:43.950357,John Deere Classic - 2/3 Balls - 3rd Round 3 Balls - P. Kuest / C. Gribble / J. Herman - 3rd Round 3 Balls,Peter Kuest,0.024399999999999977,0.5122,0.4878
 2023-07-08 08:31:07.552718,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Milwaukee Bucks,0.024,0.0625,0.0385
 2023-07-08 11:30:57.843959,Round Match-Ups - 3rd Round Match-Up - C. Young v L. Aberg - 3rd Round Match-Up,Ludvig Aberg,0.023800000000000043,0.5238,0.5
@@ -38,13 +36,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Fabrizio Zanotti,0.0211,0.0244,0.0033
 2023-07-08 06:32:00.104711,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,San Diego Padres,0.0208,0.0833,0.0625
 2023-07-08 06:32:00.606484,John Deere Classic - 2/3 Balls - 3rd Round 3 Balls - L. Aberg / B. Todd / W. Mouw - 3rd Round 3 Balls,Ludvig Aberg,0.020699999999999996,0.4651,0.4444
-2023-07-08 15:31:44.045881,Round Match-Ups - 3rd Round Match-Up - G. Higgo vs P. Kuest - 3rd Round Match-Up,Garrick Higgo,0.01970000000000005,0.5652,0.5455
 2023-07-08 12:31:17.387476,John Deere Classic - 2/3 Balls - 3rd Round 3 Balls - A. Smalley / T. Goya / R. Werenski - 3rd Round 3 Balls,Alex Smalley,0.01970000000000005,0.5652,0.5455
+2023-07-08 15:31:44.045881,Round Match-Ups - 3rd Round Match-Up - G. Higgo vs P. Kuest - 3rd Round Match-Up,Garrick Higgo,0.01970000000000005,0.5652,0.5455
 2023-07-08 06:32:00.077053,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Minnesota Twins,0.01949999999999999,0.0909,0.0714
 2023-07-08 08:31:07.552718,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Chicago Bulls,0.0189,0.0385,0.0196
 2023-07-08 12:31:17.376319,John Deere Classic - 2/3 Balls - 3rd Round 3 Balls - B. Hossler / M. NeSmith / T. Merritt - 3rd Round 3 Balls,Troy Merritt,0.018400000000000027,0.3125,0.2941
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,David Micheluzzi,0.0184,0.0217,0.0033
-2023-07-08 05:31:40.581555,John Deere Classic - 2/3 Balls - 3rd Round 3 Balls - Z. Johnson / A. Landry / J. Hahn - 3rd Round 3 Balls,James Hahn,0.017600000000000005,0.3509,0.3333
 2023-07-08 06:32:00.056338,MLB Futures - MLB 2023 American League East - American League East Winner,Baltimore Orioles,0.01759999999999999,0.1176,0.1
 2023-07-08 08:31:08.190861,AFC North - AFC North 2023/24 - AFC North Winner,Pittsburgh Steelers,0.017100000000000004,0.16,0.1429
 2023-07-08 08:31:09.842602,Boxing Lines - Frank Martin vs Artem Harutyunyan - To Win the Bout,Frank Martin,0.01660000000000006,0.9333,0.9167
@@ -53,8 +50,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-08 08:31:08.182884,AFC East - AFC East 2023/24 - AFC East Winner 23/24,New York Jets,0.014600000000000002,0.2778,0.2632
 2023-07-08 08:31:07.552718,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Memphis Grizzlies,0.014399999999999996,0.0769,0.0625
 2023-07-08 12:31:16.809374,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Jayden Daniels,0.013999999999999999,0.0909,0.0769
-2023-07-08 10:31:04.634500,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Atlético Madrid,0.0131,0.7778,0.7647
 2023-07-08 06:32:00.104711,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Cincinnati Reds,0.0131,0.0476,0.0345
+2023-07-08 10:31:04.634500,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Atlético Madrid,0.0131,0.7778,0.7647
 2023-07-08 06:32:00.018184,MLB Futures - MLB 2023 American League West - American League West Winner,Seattle Mariners,0.012600000000000007,0.0714,0.0588
 2023-07-08 16:30:50.606399,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,0.012199999999999989,0.5122,0.5
 2023-07-08 08:31:08.149023,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Las Vegas Raiders,0.011199999999999995,0.0435,0.0323
@@ -62,18 +59,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-08 16:30:50.643952,MLB Futures - MLB 2023 American League East - American League East Winner,Toronto Blue Jays,0.011099999999999999,0.1111,0.1
 2023-07-08 13:31:27.374971,Boxing Lines - Jaron Ennis vs Roiman Villa - To Win the Bout,Roiman Villa,0.010899999999999993,0.1538,0.1429
 2023-07-08 09:31:16.639467,Round Match-Ups - 3rd Round Match-Up - S. Straka vs L. Glover - 3rd Round Match-Up,Sepp Straka,0.010699999999999932,0.5455,0.5348
-2023-07-08 04:31:22.807102,Boxing Lines - John Mannu vs Panya Uthok - To Win the Bout,John Mannu,0.010199999999999987,0.9333,0.9231
 2023-07-08 08:31:08.116266,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Cincinnati Bengals,-0.010099999999999998,0.0952,0.1053
 2023-07-08 10:31:04.872788,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,FC Puebla,-0.010100000000000001,0.0244,0.0345
 2023-07-08 08:31:08.190861,AFC North - AFC North 2023/24 - AFC North Winner,Cincinnati Bengals,-0.010599999999999998,0.4545,0.4651
 2023-07-08 08:31:08.182884,AFC East - AFC East 2023/24 - AFC East Winner 23/24,Buffalo Bills,-0.010599999999999998,0.4545,0.4651
 2023-07-08 08:31:08.168777,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Dallas Cowboys,-0.010899999999999993,0.1429,0.1538
+2023-07-08 17:31:59.429616,Boxing Lines - Jaron Ennis vs Roiman Villa - To Win the Bout,Roiman Villa,-0.010899999999999993,0.1429,0.1538
 2023-07-08 10:31:04.624347,La Liga - Spain La Liga 2023/24 - Winner,Atlético Madrid,-0.011099999999999999,0.1,0.1111
-2023-07-08 08:31:07.552718,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Boston Celtics,-0.011199999999999995,0.0323,0.0435
 2023-07-08 06:32:00.085992,MLB Futures - MLB 2023 National League Central - National League Central Winner,St. Louis Cardinals,-0.011199999999999995,0.0476,0.0588
-2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Andy Sullivan,-0.011300000000000001,0.001,0.0123
+2023-07-08 08:31:07.552718,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Boston Celtics,-0.011199999999999995,0.0323,0.0435
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Simon Forsstrom,-0.011300000000000001,0.001,0.0123
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Niklas Norgaard,-0.011300000000000001,0.001,0.0123
+2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Andy Sullivan,-0.011300000000000001,0.001,0.0123
 2023-07-08 06:32:00.104711,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,St. Louis Cardinals,-0.011399999999999997,0.0164,0.0278
 2023-07-08 06:32:00.104711,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Chicago Cubs,-0.011399999999999997,0.0164,0.0278
 2023-07-08 14:32:08.216607,Round Match-Ups - 3rd Round Match-Up - E. Cole vs N. Hardy - 3rd Round Match-Up,Nick Hardy,-0.0116,0.4762,0.4878
@@ -82,24 +79,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-08 08:31:08.198056,AFC South - AFC South 2023/24 - AFC South Winner,Jacksonville Jaguars,-0.012700000000000045,0.6364,0.6491
 2023-07-08 08:31:08.182884,AFC East - AFC East 2023/24 - AFC East Winner 23/24,Miami Dolphins,-0.01319999999999999,0.25,0.2632
 2023-07-08 08:31:08.116266,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Miami Dolphins,-0.0133,0.0455,0.0588
-2023-07-08 06:32:00.104711,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,San Francisco Giants,-0.013999999999999999,0.0769,0.0909
 2023-07-08 09:31:13.175742,Superettan - Superettan 2023 - Winner,Östers IF,-0.013999999999999999,0.0769,0.0909
+2023-07-08 06:32:00.104711,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,San Francisco Giants,-0.013999999999999999,0.0769,0.0909
 2023-07-08 06:32:00.034554,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Los Angeles Angels,-0.014099999999999998,0.0244,0.0385
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Marc Warren,-0.015300000000000001,0.0323,0.0476
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Matthew Southgate,-0.0154,0.001,0.0164
 2023-07-08 10:31:04.634500,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Sevilla,-0.015400000000000025,0.3846,0.4
 2023-07-08 06:32:00.066976,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,-0.015800000000000036,0.6667,0.6825
+2023-07-08 17:31:56.320915,NBA Championship 2023/24 - 2023/24 NBA Season - 2023-24 Eastern Conference Winner,Milwaukee Bucks,-0.016699999999999993,0.25,0.2667
 2023-07-08 08:31:08.168777,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Seattle Seahawks,-0.016700000000000007,0.0833,0.1
-2023-07-08 16:30:50.643952,MLB Futures - MLB 2023 American League East - American League East Winner,New York Yankees,-0.016700000000000007,0.0833,0.1
 2023-07-08 06:32:00.104711,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Arizona Diamondbacks,-0.016700000000000007,0.0833,0.1
+2023-07-08 16:30:50.643952,MLB Futures - MLB 2023 American League East - American League East Winner,New York Yankees,-0.016700000000000007,0.0833,0.1
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Freddy Schott,-0.017800000000000003,0.0066,0.0244
 2023-07-08 08:31:09.842602,Boxing Lines - Frank Martin vs Artem Harutyunyan - To Win the Bout,Artem Harutyunyan,-0.0179,0.125,0.1429
 2023-07-08 10:31:04.883063,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Martin Barragan (PUE),-0.018200000000000004,0.0294,0.0476
 2023-07-08 10:31:04.648965,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Sevilla,-0.01820000000000002,0.1818,0.2
-2023-07-08 06:32:00.606484,John Deere Classic - 2/3 Balls - 3rd Round 3 Balls - L. Aberg / B. Todd / W. Mouw - 3rd Round 3 Balls,William Mouw,-0.019000000000000017,0.2667,0.2857
 2023-07-08 12:31:17.387476,John Deere Classic - 2/3 Balls - 3rd Round 3 Balls - A. Smalley / T. Goya / R. Werenski - 3rd Round 3 Balls,Tano Goya,-0.019000000000000017,0.2667,0.2857
-2023-07-08 10:31:11.415945,John Deere Classic - 2/3 Balls - 3rd Round 3 Balls - E. Cole / S. Kodaira / C. Stroud - 3rd Round 3 Balls,Chris Stroud,-0.019000000000000017,0.2667,0.2857
+2023-07-08 06:32:00.606484,John Deere Classic - 2/3 Balls - 3rd Round 3 Balls - L. Aberg / B. Todd / W. Mouw - 3rd Round 3 Balls,William Mouw,-0.019000000000000017,0.2667,0.2857
 2023-07-08 10:31:11.415945,John Deere Classic - 2/3 Balls - 3rd Round 3 Balls - E. Cole / S. Kodaira / C. Stroud - 3rd Round 3 Balls,Satoshi Kodaira,-0.019000000000000017,0.2667,0.2857
+2023-07-08 10:31:11.415945,John Deere Classic - 2/3 Balls - 3rd Round 3 Balls - E. Cole / S. Kodaira / C. Stroud - 3rd Round 3 Balls,Chris Stroud,-0.019000000000000017,0.2667,0.2857
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Ryo Hisatsune,-0.0194,0.005,0.0244
 2023-07-08 07:31:32.888525,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,USC,-0.01949999999999999,0.0714,0.0909
 2023-07-08 10:31:04.634500,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Real Sociedad,-0.020799999999999985,0.3125,0.3333
@@ -111,25 +109,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-08 08:31:07.552718,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Brooklyn Nets,-0.023500000000000004,0.011,0.0345
 2023-07-08 06:32:00.077053,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Los Angeles Angels,-0.0238,0.0476,0.0714
 2023-07-08 11:30:57.830365,Round Match-Ups - 3rd Round Match-Up - A. Schenk vs L. Aberg - 3rd Round Match-Up,Adam Schenk,-0.023800000000000043,0.5,0.5238
-2023-07-08 05:31:40.581555,John Deere Classic - 2/3 Balls - 3rd Round 3 Balls - Z. Johnson / A. Landry / J. Hahn - 3rd Round 3 Balls,Zach Johnson,-0.024500000000000022,0.3922,0.4167
 2023-07-08 13:31:27.285447,Boxing Lines - Joseph Diaz vs Jerry Perez - To Win the Bout,Joseph Diaz,-0.02639999999999998,0.8403,0.8667
 2023-07-08 12:31:17.376319,John Deere Classic - 2/3 Balls - 3rd Round 3 Balls - B. Hossler / M. NeSmith / T. Merritt - 3rd Round 3 Balls,Beau Hossler,-0.026600000000000013,0.4082,0.4348
 2023-07-08 11:30:57.473581,Boxing Lines - Edwin De Los Santos vs Joseph Adorno - To Win the Bout,Edwin De Los Santos,-0.027800000000000047,0.75,0.7778
 2023-07-08 06:32:00.085992,MLB Futures - MLB 2023 National League Central - National League Central Winner,Pittsburgh Pirates,-0.028000000000000004,0.0196,0.0476
 2023-07-08 09:31:13.175742,Superettan - Superettan 2023 - Winner,Jönköpings Södra IF,-0.029299999999999993,0.0476,0.0769
 2023-07-08 06:32:00.066976,MLB Futures - MLB 2023 American League Central - American League Central Winner,Chicago White Sox,-0.029299999999999993,0.0476,0.0769
-2023-07-08 05:31:38.242462,WNBA Futures - 2023 Regular Season Wins - Connecticut Sun,Under 27.5,-0.033299999999999996,0.5122,0.5455
 2023-07-08 06:32:00.046191,MLB Futures - MLB 2023 National League West - National League West Winner,San Francisco Giants,-0.033300000000000024,0.1667,0.2
 2023-07-08 06:32:00.046191,MLB Futures - MLB 2023 National League West - National League West Winner,Arizona Diamondbacks,-0.03570000000000001,0.25,0.2857
 2023-07-08 10:31:04.893868,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,FC Puebla,-0.03889999999999999,0.1429,0.1818
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Marcel Siem,-0.0389,0.0278,0.0667
 2023-07-08 08:31:07.552718,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Detroit Pistons,-0.042899999999999994,0.1,0.1429
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Jordan Smith,-0.0436,0.004,0.0476
-2023-07-08 05:31:40.720394,Scores - 3rd Round Score - Cameron Young - 3rd Round Score,Under 67.5,-0.044399999999999995,0.5556,0.6
 2023-07-08 16:30:50.606399,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,-0.045499999999999985,0.5,0.5455
 2023-07-08 08:31:07.552718,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Charlotte Hornets,-0.0465,0.0123,0.0588
-2023-07-08 05:31:40.743908,Scores - 3rd Round Score - Denny McCarthy - 3rd Round Score,Under 67.5,-0.04760000000000003,0.4762,0.5238
-2023-07-08 05:31:40.712311,Scores - 3rd Round Score - Adam Schenk - 3rd Round Score,Under 67.5,-0.04760000000000003,0.4762,0.5238
 2023-07-08 16:30:50.643952,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,-0.05559999999999998,0.8333,0.8889
 2023-07-08 08:31:07.552718,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Oklahoma City Thunder,-0.05679999999999999,0.125,0.1818
 2023-07-08 08:31:07.552718,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Portland Trail Blazers,-0.098,0.0196,0.1176
