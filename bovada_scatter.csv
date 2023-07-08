@@ -1,8 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2023-07-08 09:31:16.543393,Potential Fights - Tyson Fury vs Francis Ngannou - To Win the Bout,Francis Ngannou,0.1129,0.2667,0.1538
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Nacho Elvira,0.1,0.2667,0.1667
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Richie Ramsay,0.0889,0.2,0.1111
-2023-07-08 09:31:13.175742,Superettan - Superettan 2023 - Winner,GAIS,0.0857,0.2857,0.2
 2023-07-08 17:31:56.320915,NBA Championship 2023/24 - 2023/24 NBA Season - 2023-24 Eastern Conference Winner,Miami Heat,0.06669999999999998,0.2667,0.2
 2023-07-08 10:31:04.883063,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Harold Preciado (SAN),0.0475,0.0769,0.0294
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Robert MacIntyre,0.04410000000000003,0.3774,0.3333
@@ -19,8 +17,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-08 10:31:04.624347,La Liga - Spain La Liga 2023/24 - Winner,Real Madrid,0.023799999999999988,0.5,0.4762
 2023-07-08 11:30:57.830365,Round Match-Ups - 3rd Round Match-Up - A. Schenk vs L. Aberg - 3rd Round Match-Up,Ludvig Aberg,0.02169999999999994,0.5455,0.5238
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Fabrizio Zanotti,0.0211,0.0244,0.0033
-2023-07-08 15:31:44.045881,Round Match-Ups - 3rd Round Match-Up - G. Higgo vs P. Kuest - 3rd Round Match-Up,Garrick Higgo,0.01970000000000005,0.5652,0.5455
 2023-07-08 12:31:17.387476,John Deere Classic - 2/3 Balls - 3rd Round 3 Balls - A. Smalley / T. Goya / R. Werenski - 3rd Round 3 Balls,Alex Smalley,0.01970000000000005,0.5652,0.5455
+2023-07-08 15:31:44.045881,Round Match-Ups - 3rd Round Match-Up - G. Higgo vs P. Kuest - 3rd Round Match-Up,Garrick Higgo,0.01970000000000005,0.5652,0.5455
 2023-07-08 12:31:17.376319,John Deere Classic - 2/3 Balls - 3rd Round 3 Balls - B. Hossler / M. NeSmith / T. Merritt - 3rd Round 3 Balls,Troy Merritt,0.018400000000000027,0.3125,0.2941
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,David Micheluzzi,0.0184,0.0217,0.0033
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Kalle Samooja,0.015499999999999998,0.0278,0.0123
@@ -32,9 +30,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-08 16:30:50.606399,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,0.012199999999999989,0.5122,0.5
 2023-07-08 10:31:04.872788,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Santos Laguna,0.011199999999999995,0.0588,0.0476
 2023-07-08 16:30:50.643952,MLB Futures - MLB 2023 American League East - American League East Winner,Toronto Blue Jays,0.011099999999999999,0.1111,0.1
-2023-07-08 13:31:27.374971,Boxing Lines - Jaron Ennis vs Roiman Villa - To Win the Bout,Roiman Villa,0.010899999999999993,0.1538,0.1429
 2023-07-08 19:34:06.589372,Boxing Lines - Jaron Ennis vs Roiman Villa - To Win the Bout,Roiman Villa,0.010899999999999993,0.1538,0.1429
-2023-07-08 09:31:16.639467,Round Match-Ups - 3rd Round Match-Up - S. Straka vs L. Glover - 3rd Round Match-Up,Sepp Straka,0.010699999999999932,0.5455,0.5348
+2023-07-08 13:31:27.374971,Boxing Lines - Jaron Ennis vs Roiman Villa - To Win the Bout,Roiman Villa,0.010899999999999993,0.1538,0.1429
 2023-07-08 10:31:04.872788,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,FC Puebla,-0.010100000000000001,0.0244,0.0345
 2023-07-08 17:31:59.429616,Boxing Lines - Jaron Ennis vs Roiman Villa - To Win the Bout,Roiman Villa,-0.010899999999999993,0.1429,0.1538
 2023-07-08 10:31:04.624347,La Liga - Spain La Liga 2023/24 - Winner,Atlético Madrid,-0.011099999999999999,0.1,0.1111
@@ -42,9 +39,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Simon Forsstrom,-0.011300000000000001,0.001,0.0123
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Niklas Norgaard,-0.011300000000000001,0.001,0.0123
 2023-07-08 14:32:08.216607,Round Match-Ups - 3rd Round Match-Up - E. Cole vs N. Hardy - 3rd Round Match-Up,Nick Hardy,-0.0116,0.4762,0.4878
-2023-07-08 09:31:16.639467,Round Match-Ups - 3rd Round Match-Up - S. Straka vs L. Glover - 3rd Round Match-Up,Lucas Glover,-0.012199999999999989,0.5,0.5122
 2023-07-08 15:31:44.045881,Round Match-Ups - 3rd Round Match-Up - G. Higgo vs P. Kuest - 3rd Round Match-Up,Peter Kuest,-0.012199999999999989,0.4878,0.5
-2023-07-08 09:31:13.175742,Superettan - Superettan 2023 - Winner,Östers IF,-0.013999999999999999,0.0769,0.0909
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Marc Warren,-0.015300000000000001,0.0323,0.0476
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Matthew Southgate,-0.0154,0.001,0.0164
 2023-07-08 10:31:04.634500,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Sevilla,-0.015400000000000025,0.3846,0.4
@@ -54,8 +49,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-08 10:31:04.883063,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Martin Barragan (PUE),-0.018200000000000004,0.0294,0.0476
 2023-07-08 10:31:04.648965,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Sevilla,-0.01820000000000002,0.1818,0.2
 2023-07-08 10:31:11.415945,John Deere Classic - 2/3 Balls - 3rd Round 3 Balls - E. Cole / S. Kodaira / C. Stroud - 3rd Round 3 Balls,Chris Stroud,-0.019000000000000017,0.2667,0.2857
-2023-07-08 12:31:17.387476,John Deere Classic - 2/3 Balls - 3rd Round 3 Balls - A. Smalley / T. Goya / R. Werenski - 3rd Round 3 Balls,Tano Goya,-0.019000000000000017,0.2667,0.2857
 2023-07-08 10:31:11.415945,John Deere Classic - 2/3 Balls - 3rd Round 3 Balls - E. Cole / S. Kodaira / C. Stroud - 3rd Round 3 Balls,Satoshi Kodaira,-0.019000000000000017,0.2667,0.2857
+2023-07-08 12:31:17.387476,John Deere Classic - 2/3 Balls - 3rd Round 3 Balls - A. Smalley / T. Goya / R. Werenski - 3rd Round 3 Balls,Tano Goya,-0.019000000000000017,0.2667,0.2857
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Ryo Hisatsune,-0.0194,0.005,0.0244
 2023-07-08 10:31:04.634500,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Real Sociedad,-0.020799999999999985,0.3125,0.3333
 2023-07-08 11:30:57.843959,Round Match-Ups - 3rd Round Match-Up - C. Young v L. Aberg - 3rd Round Match-Up,Cameron Young,-0.02169999999999994,0.5238,0.5455
@@ -66,11 +61,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-08 13:31:27.285447,Boxing Lines - Joseph Diaz vs Jerry Perez - To Win the Bout,Joseph Diaz,-0.02639999999999998,0.8403,0.8667
 2023-07-08 12:31:17.376319,John Deere Classic - 2/3 Balls - 3rd Round 3 Balls - B. Hossler / M. NeSmith / T. Merritt - 3rd Round 3 Balls,Beau Hossler,-0.026600000000000013,0.4082,0.4348
 2023-07-08 11:30:57.473581,Boxing Lines - Edwin De Los Santos vs Joseph Adorno - To Win the Bout,Edwin De Los Santos,-0.027800000000000047,0.75,0.7778
-2023-07-08 09:31:13.175742,Superettan - Superettan 2023 - Winner,Jönköpings Södra IF,-0.029299999999999993,0.0476,0.0769
 2023-07-08 10:31:04.893868,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,FC Puebla,-0.03889999999999999,0.1429,0.1818
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Marcel Siem,-0.0389,0.0278,0.0667
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Jordan Smith,-0.0436,0.004,0.0476
 2023-07-08 16:30:50.606399,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,-0.045499999999999985,0.5,0.5455
 2023-07-08 16:30:50.643952,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,-0.05559999999999998,0.8333,0.8889
-2023-07-08 09:31:16.543393,Potential Fights - Tyson Fury vs Francis Ngannou - To Win the Bout,Tyson Fury,-0.10909999999999997,0.8,0.9091
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Ross Fisher,-0.11359999999999999,0.004,0.1176
