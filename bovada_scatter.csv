@@ -18,8 +18,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-08 08:31:07.552718,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Los Angeles Lakers,0.0282,0.0526,0.0244
 2023-07-08 10:31:04.893868,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Santos Laguna,0.02779999999999999,0.25,0.2222
 2023-07-08 13:31:27.285447,Boxing Lines - Joseph Diaz vs Jerry Perez - To Win the Bout,Jerry Perez,0.02729999999999999,0.2273,0.2
-2023-07-08 06:31:56.834830,WNBA Futures - WNBA Championship 2023 - Outright Winner,New York Liberty,0.02679999999999999,0.3125,0.2857
 2023-07-08 08:31:08.230215,NFC South - NFC South 2023/24 - NFC South Winner,Tampa Bay Buccaneers,0.02679999999999999,0.1379,0.1111
+2023-07-08 06:31:56.834830,WNBA Futures - WNBA Championship 2023 - Outright Winner,New York Liberty,0.02679999999999999,0.3125,0.2857
 2023-07-08 11:30:57.473581,Boxing Lines - Edwin De Los Santos vs Joseph Adorno - To Win the Bout,Joseph Adorno,0.02679999999999999,0.3125,0.2857
 2023-07-08 06:32:00.034554,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Houston Astros,0.0267,0.1176,0.0909
 2023-07-08 08:31:07.552718,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Milwaukee Bucks,0.024,0.0625,0.0385
@@ -47,8 +47,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-08 06:32:00.104711,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Cincinnati Reds,0.0131,0.0476,0.0345
 2023-07-08 10:31:04.634500,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Atlético Madrid,0.0131,0.7778,0.7647
 2023-07-08 06:32:00.018184,MLB Futures - MLB 2023 American League West - American League West Winner,Seattle Mariners,0.012600000000000007,0.0714,0.0588
-2023-07-08 08:31:08.149023,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Las Vegas Raiders,0.011199999999999995,0.0435,0.0323
 2023-07-08 10:31:04.872788,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Santos Laguna,0.011199999999999995,0.0588,0.0476
+2023-07-08 08:31:08.149023,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Las Vegas Raiders,0.011199999999999995,0.0435,0.0323
 2023-07-08 13:31:27.374971,Boxing Lines - Jaron Ennis vs Roiman Villa - To Win the Bout,Roiman Villa,0.010899999999999993,0.1538,0.1429
 2023-07-08 09:31:16.639467,Round Match-Ups - 3rd Round Match-Up - S. Straka vs L. Glover - 3rd Round Match-Up,Sepp Straka,0.010699999999999932,0.5455,0.5348
 2023-07-08 04:31:22.807102,Boxing Lines - John Mannu vs Panya Uthok - To Win the Bout,John Mannu,0.010199999999999987,0.9333,0.9231
@@ -60,8 +60,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-08 10:31:04.624347,La Liga - Spain La Liga 2023/24 - Winner,Atlético Madrid,-0.011099999999999999,0.1,0.1111
 2023-07-08 08:31:07.552718,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Boston Celtics,-0.011199999999999995,0.0323,0.0435
 2023-07-08 06:32:00.085992,MLB Futures - MLB 2023 National League Central - National League Central Winner,St. Louis Cardinals,-0.011199999999999995,0.0476,0.0588
-2023-07-08 06:32:00.104711,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,St. Louis Cardinals,-0.011399999999999997,0.0164,0.0278
 2023-07-08 06:32:00.104711,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Chicago Cubs,-0.011399999999999997,0.0164,0.0278
+2023-07-08 06:32:00.104711,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,St. Louis Cardinals,-0.011399999999999997,0.0164,0.0278
+2023-07-08 14:32:08.216607,Round Match-Ups - 3rd Round Match-Up - E. Cole vs N. Hardy - 3rd Round Match-Up,Nick Hardy,-0.0116,0.4762,0.4878
 2023-07-08 09:31:16.639467,Round Match-Ups - 3rd Round Match-Up - S. Straka vs L. Glover - 3rd Round Match-Up,Lucas Glover,-0.012199999999999989,0.5,0.5122
 2023-07-08 08:31:08.198056,AFC South - AFC South 2023/24 - AFC South Winner,Jacksonville Jaguars,-0.012700000000000045,0.6364,0.6491
 2023-07-08 08:31:08.182884,AFC East - AFC East 2023/24 - AFC East Winner 23/24,Miami Dolphins,-0.01319999999999999,0.25,0.2632
@@ -71,15 +72,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-08 06:32:00.034554,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Los Angeles Angels,-0.014099999999999998,0.0244,0.0385
 2023-07-08 10:31:04.634500,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Sevilla,-0.015400000000000025,0.3846,0.4
 2023-07-08 06:32:00.066976,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,-0.015800000000000036,0.6667,0.6825
-2023-07-08 08:31:08.168777,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Seattle Seahawks,-0.016700000000000007,0.0833,0.1
 2023-07-08 06:32:00.104711,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Arizona Diamondbacks,-0.016700000000000007,0.0833,0.1
+2023-07-08 08:31:08.168777,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Seattle Seahawks,-0.016700000000000007,0.0833,0.1
 2023-07-08 08:31:09.842602,Boxing Lines - Frank Martin vs Artem Harutyunyan - To Win the Bout,Artem Harutyunyan,-0.0179,0.125,0.1429
 2023-07-08 10:31:04.883063,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Martin Barragan (PUE),-0.018200000000000004,0.0294,0.0476
 2023-07-08 10:31:04.648965,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Sevilla,-0.01820000000000002,0.1818,0.2
-2023-07-08 10:31:11.415945,John Deere Classic - 2/3 Balls - 3rd Round 3 Balls - E. Cole / S. Kodaira / C. Stroud - 3rd Round 3 Balls,Satoshi Kodaira,-0.019000000000000017,0.2667,0.2857
-2023-07-08 06:32:00.606484,John Deere Classic - 2/3 Balls - 3rd Round 3 Balls - L. Aberg / B. Todd / W. Mouw - 3rd Round 3 Balls,William Mouw,-0.019000000000000017,0.2667,0.2857
 2023-07-08 10:31:11.415945,John Deere Classic - 2/3 Balls - 3rd Round 3 Balls - E. Cole / S. Kodaira / C. Stroud - 3rd Round 3 Balls,Chris Stroud,-0.019000000000000017,0.2667,0.2857
 2023-07-08 12:31:17.387476,John Deere Classic - 2/3 Balls - 3rd Round 3 Balls - A. Smalley / T. Goya / R. Werenski - 3rd Round 3 Balls,Tano Goya,-0.019000000000000017,0.2667,0.2857
+2023-07-08 10:31:11.415945,John Deere Classic - 2/3 Balls - 3rd Round 3 Balls - E. Cole / S. Kodaira / C. Stroud - 3rd Round 3 Balls,Satoshi Kodaira,-0.019000000000000017,0.2667,0.2857
+2023-07-08 06:32:00.606484,John Deere Classic - 2/3 Balls - 3rd Round 3 Balls - L. Aberg / B. Todd / W. Mouw - 3rd Round 3 Balls,William Mouw,-0.019000000000000017,0.2667,0.2857
 2023-07-08 07:31:32.888525,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,USC,-0.01949999999999999,0.0714,0.0909
 2023-07-08 10:31:04.634500,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Real Sociedad,-0.020799999999999985,0.3125,0.3333
 2023-07-08 11:30:57.843959,Round Match-Ups - 3rd Round Match-Up - C. Young v L. Aberg - 3rd Round Match-Up,Cameron Young,-0.02169999999999994,0.5238,0.5455
