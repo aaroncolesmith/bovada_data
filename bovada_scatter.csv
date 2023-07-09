@@ -25,8 +25,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-09 02:31:09.472175,John Deere Classic - 2/3 Balls - Final Round 2 Balls - G. Higgo v N. Lashley - Final Round 2 Balls,Garrick Higgo,0.03179999999999994,0.5556,0.5238
 2023-07-09 04:30:59.405332,John Deere Classic - 2/3 Balls - Final Round 2 Balls - K. Hickok v B. Matthews - Final Round 2 Balls,Kramer Hickok,0.030399999999999983,0.5652,0.5348
 2023-07-09 05:31:17.866389,John Deere Classic - 2/3 Balls - Final Round 2 Balls - J. Hahn v C. Gribble - Final Round 2 Balls,James Hahn,0.030399999999999983,0.5652,0.5348
-2023-07-09 04:30:59.451898,John Deere Classic - 2/3 Balls - Final Round 2 Balls - B.H. An v A. Landry - Final Round 2 Balls,Byeong Hun An,0.030299999999999994,0.6667,0.6364
 2023-07-09 08:31:15.449397,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Flamengo,0.030299999999999994,0.3636,0.3333
+2023-07-09 04:30:59.451898,John Deere Classic - 2/3 Balls - Final Round 2 Balls - B.H. An v A. Landry - Final Round 2 Balls,Byeong Hun An,0.030299999999999994,0.6667,0.6364
 2023-07-09 08:31:15.462116,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Coritiba,0.027800000000000047,0.7778,0.75
 2023-07-09 09:31:47.492060,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - Winner,Panama,0.027800000000000005,0.1111,0.0833
 2023-07-09 05:31:15.082540,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Philadelphia 76ers,0.027099999999999996,0.0435,0.0164
@@ -57,32 +57,34 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-09 12:32:03.272822,Donald Trump Specials - Will Joe Biden pardon Donald Trump? - Will Joe Biden pardon Donald Trump?,Joe Biden NOT to pardon Donald Trump before the 2024 election,0.01429999999999998,0.9091,0.8948
 2023-07-09 06:31:08.580225,MLB Futures - MLB 2023 American League Central - American League Central Winner,Detroit Tigers,0.014099999999999998,0.0385,0.0244
 2023-07-09 08:31:15.473367,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Corinthians,0.014099999999999998,0.0385,0.0244
-2023-07-09 06:31:08.591195,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Baltimore Orioles,0.013999999999999999,0.0909,0.0769
 2023-07-09 09:31:47.520339,MLS - MLS 2023 - Winner,Atlanta United,0.013999999999999999,0.0909,0.0769
+2023-07-09 06:31:08.591195,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Baltimore Orioles,0.013999999999999999,0.0909,0.0769
 2023-07-09 12:32:05.209103,Stage of Elimination - 2023-24 Stage of Elimination - Green Bay Packers - Stage of Elimination,To Miss the Playoffs,0.0131,0.7101,0.697
 2023-07-09 06:31:08.607868,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,San Diego Padres,0.012600000000000007,0.0714,0.0588
 2023-07-09 06:31:08.607868,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Milwaukee Brewers,0.012499999999999997,0.0625,0.05
-2023-07-09 12:32:07.090724,Round Match-Ups - Final Round Match-Up - A. Smalley v M. Hubbard - Final Round Match-Up,Alex Smalley,0.012199999999999989,0.5122,0.5
 2023-07-09 07:31:10.885212,Scores - Final Round Score - Adam Schenk - Final Round Score,Under 67.5,0.012199999999999989,0.5,0.4878
+2023-07-09 12:32:07.090724,Round Match-Ups - Final Round Match-Up - A. Smalley v M. Hubbard - Final Round Match-Up,Alex Smalley,0.012199999999999989,0.5122,0.5
 2023-07-09 13:31:37.686520,Round Match-Ups - Final Round Match-Up - A. Smalley v M. Hubbard - Final Round Match-Up,Alex Smalley,0.011600000000000055,0.5238,0.5122
 2023-07-09 08:31:15.467841,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Cruzeiro,0.011199999999999995,0.0588,0.0476
-2023-07-09 12:32:06.848026,Round Match-Ups - Final Round Match-Up - S. Straka v N. Hardy - Final Round Match-Up,Sepp Straka,0.010099999999999998,0.5556,0.5455
+2023-07-09 14:30:56.182795,John Deere Classic - 2/3 Balls - Final Round 2 Balls - E. Cole v L. Aberg - Final Round 2 Balls,Ludvig Aberg,0.01100000000000001,0.5348,0.5238
 2023-07-09 07:31:10.925091,Scores - Final Round Score - Denny McCarthy - Final Round Score,Under 67.5,0.010099999999999998,0.5556,0.5455
+2023-07-09 12:32:06.848026,Round Match-Ups - Final Round Match-Up - S. Straka v N. Hardy - Final Round Match-Up,Sepp Straka,0.010099999999999998,0.5556,0.5455
 2023-07-09 09:31:47.936360,Superettan - Superettan 2023 - Winner,Östers IF,-0.0102,0.0667,0.0769
 2023-07-09 09:31:47.492060,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - Winner,Jamaica,-0.0102,0.0667,0.0769
 2023-07-09 12:32:07.090724,Round Match-Ups - Final Round Match-Up - A. Smalley v M. Hubbard - Final Round Match-Up,Mark Hubbard,-0.010699999999999932,0.5348,0.5455
 2023-07-09 12:32:03.413572,US Presidential Election 2024 - US Presidential Election 2024 - Donald Trump Popular Vote - Donald Trump Popular Vote,To be Republican Nominee and win 40.01 to 45% of the popular vote,-0.010699999999999987,0.3226,0.3333
 2023-07-09 13:31:37.686520,Round Match-Ups - Final Round Match-Up - A. Smalley v M. Hubbard - Final Round Match-Up,Mark Hubbard,-0.01100000000000001,0.5238,0.5348
 2023-07-09 12:32:03.233764,Joe Biden Specials - Joe Biden Approval Rating At Year End - Joe Biden Approval Rating At Year End,Over 41,-0.011099999999999999,0.4651,0.4762
-2023-07-09 11:31:34.981718,John Deere Classic - 2/3 Balls - Final Round 2 Balls - G. Higgo v N. Lashley - Final Round 2 Balls,Nate Lashley,-0.0116,0.4762,0.4878
 2023-07-09 11:31:35.263751,Round Match-Ups - Final Round Match-Up - G. Sigg v N. Lashley - Final Round Match-Up,Nate Lashley,-0.0116,0.4762,0.4878
+2023-07-09 11:31:34.981718,John Deere Classic - 2/3 Balls - Final Round 2 Balls - G. Higgo v N. Lashley - Final Round 2 Balls,Nate Lashley,-0.0116,0.4762,0.4878
+2023-07-09 14:30:56.182795,John Deere Classic - 2/3 Balls - Final Round 2 Balls - E. Cole v L. Aberg - Final Round 2 Balls,Eric Cole,-0.011600000000000055,0.5122,0.5238
 2023-07-09 07:31:10.925091,Scores - Final Round Score - Denny McCarthy - Final Round Score,Over 67.5,-0.011600000000000055,0.5122,0.5238
 2023-07-09 12:32:06.848026,Round Match-Ups - Final Round Match-Up - S. Straka v N. Hardy - Final Round Match-Up,Nick Hardy,-0.012199999999999989,0.4878,0.5
 2023-07-09 06:31:08.591195,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Los Angeles Angels,-0.0131,0.0345,0.0476
 2023-07-09 07:31:10.892754,Scores - Final Round Score - Alex Smalley - Final Round Score,Under 68.5,-0.013799999999999923,0.6226,0.6364
 2023-07-09 09:31:47.492060,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - Winner,Canada,-0.013899999999999996,0.1111,0.125
-2023-07-09 12:32:03.603684,Russian Politics - President Of Russia On December 31st 2023 - President Of Russia At Year End,Nikolai Patrushev,-0.013999999999999999,0.0769,0.0909
 2023-07-09 09:31:47.520339,MLS - MLS 2023 - Winner,New England Revolution,-0.013999999999999999,0.0769,0.0909
+2023-07-09 12:32:03.603684,Russian Politics - President Of Russia On December 31st 2023 - President Of Russia At Year End,Nikolai Patrushev,-0.013999999999999999,0.0769,0.0909
 2023-07-09 06:31:08.607868,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Arizona Diamondbacks,-0.013999999999999999,0.0769,0.0909
 2023-07-09 05:31:15.082540,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,New York Knicks,-0.0145,0.0099,0.0244
 2023-07-09 12:32:05.105873,Stage of Elimination - 2023-24 Stage of Elimination - Arizona Cardinals - Stage of Elimination,To Miss the Playoffs,-0.014699999999999935,0.9524,0.9671
@@ -91,8 +93,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-09 09:31:47.520339,MLS - MLS 2023 - Winner,Nashville SC,-0.016700000000000007,0.0833,0.1
 2023-07-09 06:31:08.564455,MLB Futures - MLB 2023 National League West - National League West Winner,Arizona Diamondbacks,-0.0174,0.2326,0.25
 2023-07-09 09:31:47.936360,Superettan - Superettan 2023 - Winner,GAIS,-0.019000000000000017,0.2667,0.2857
-2023-07-09 02:31:09.028399,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Michael Penix Jr.,-0.019099999999999992,0.0476,0.0667
 2023-07-09 02:31:09.028399,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Bo Nix,-0.019099999999999992,0.0476,0.0667
+2023-07-09 02:31:09.028399,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Michael Penix Jr.,-0.019099999999999992,0.0476,0.0667
 2023-07-09 13:31:37.719844,Scores - Final Round Score - Adam Schenk - Final Round Score,Over 67.5,-0.01970000000000005,0.5455,0.5652
 2023-07-09 12:32:03.272822,Donald Trump Specials - Will Joe Biden pardon Donald Trump? - Will Joe Biden pardon Donald Trump?,Joe Biden to pardon Donald Trump for all potential federal crimes before the 2024 election,-0.020100000000000007,0.1538,0.1739
 2023-07-09 09:31:47.526478,MLS - MLS 2023 - Top Goalscorer,Jesus Ferreira (DAL),-0.02020000000000001,0.0909,0.1111
@@ -103,11 +105,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-09 08:31:15.467841,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Internacional,-0.022199999999999998,0.2,0.2222
 2023-07-09 05:31:15.082540,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Boston Celtics,-0.022400000000000003,0.0099,0.0323
 2023-07-09 03:30:51.148039,John Deere Classic - 2/3 Balls - Final Round 2 Balls - P. Kuest v J. Blixt - Final Round 2 Balls,Jonas Blixt,-0.02260000000000001,0.3774,0.4
-2023-07-09 06:31:09.323081,Round Match-Ups - Final Round Match-Up - C. Kirk v A. Smalley - Final Round Match-Up,Chris Kirk,-0.022600000000000064,0.5122,0.5348
 2023-07-09 06:31:09.302854,Round Match-Ups - Final Round Match-Up - M. Hubbard v L. Glover - Final Round Match-Up,Mark Hubbard,-0.022600000000000064,0.5122,0.5348
+2023-07-09 06:31:09.323081,Round Match-Ups - Final Round Match-Up - C. Kirk v A. Smalley - Final Round Match-Up,Chris Kirk,-0.022600000000000064,0.5122,0.5348
 2023-07-09 12:32:03.346165,US Senate Elections 2024 - West Virginia Senate Seat Election 2024 - West Virginia,Jim Justice (Rep),-0.022800000000000042,0.7333,0.7561
-2023-07-09 09:31:47.526478,MLS - MLS 2023 - Top Goalscorer,Georgios Giakoumakis (ATL),-0.023799999999999988,0.1429,0.1667
 2023-07-09 06:31:08.564455,MLB Futures - MLB 2023 National League West - National League West Winner,San Francisco Giants,-0.023799999999999988,0.1429,0.1667
+2023-07-09 09:31:47.526478,MLS - MLS 2023 - Top Goalscorer,Georgios Giakoumakis (ATL),-0.023799999999999988,0.1429,0.1667
 2023-07-09 06:31:08.591195,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Minnesota Twins,-0.0242,0.0667,0.0909
 2023-07-09 02:31:09.305128,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,San Diego Padres,-0.0245,0.0588,0.0833
 2023-07-09 08:31:15.473367,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Internacional,-0.025499999999999967,0.4,0.4255
@@ -126,8 +128,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-09 05:31:17.707268,Scores - Final Round Score - Ludvig Aberg - Final Round Score,Over 68.5,-0.033299999999999996,0.4545,0.4878
 2023-07-09 05:31:15.082540,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Orlando Magic,-0.0336,0.0099,0.0435
 2023-07-09 09:31:47.526478,MLS - MLS 2023 - Top Goalscorer,Hany Mukhtar (NAS),-0.03570000000000001,0.25,0.2857
-2023-07-09 04:30:59.405332,John Deere Classic - 2/3 Balls - Final Round 2 Balls - K. Hickok v B. Matthews - Final Round 2 Balls,Brandon Matthews,-0.035999999999999976,0.4762,0.5122
 2023-07-09 05:31:17.866389,John Deere Classic - 2/3 Balls - Final Round 2 Balls - J. Hahn v C. Gribble - Final Round 2 Balls,Cody Gribble,-0.035999999999999976,0.4762,0.5122
+2023-07-09 04:30:59.405332,John Deere Classic - 2/3 Balls - Final Round 2 Balls - K. Hickok v B. Matthews - Final Round 2 Balls,Brandon Matthews,-0.035999999999999976,0.4762,0.5122
 2023-07-09 02:31:09.472175,John Deere Classic - 2/3 Balls - Final Round 2 Balls - G. Higgo v N. Lashley - Final Round 2 Balls,Nate Lashley,-0.03600000000000003,0.4878,0.5238
 2023-07-09 06:31:08.580225,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,-0.03709999999999991,0.6296,0.6667
 2023-07-09 04:30:59.469510,John Deere Classic - 2/3 Balls - Final Round 2 Balls - R. Henley v R. Knox - Final Round 2 Balls,Russell Knox,-0.03710000000000002,0.3333,0.3704
