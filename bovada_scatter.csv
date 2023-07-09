@@ -19,8 +19,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-09 01:31:19.360983,Euroleague - Euroleague 2023/24 - Outright,Panathinaikos,0.03330000000000001,0.1,0.0667
 2023-07-09 08:31:15.449397,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Botafogo,0.03259999999999999,0.2326,0.2
 2023-07-09 02:31:09.472175,John Deere Classic - 2/3 Balls - Final Round 2 Balls - G. Higgo v N. Lashley - Final Round 2 Balls,Garrick Higgo,0.03179999999999994,0.5556,0.5238
-2023-07-09 05:31:17.866389,John Deere Classic - 2/3 Balls - Final Round 2 Balls - J. Hahn v C. Gribble - Final Round 2 Balls,James Hahn,0.030399999999999983,0.5652,0.5348
 2023-07-09 04:30:59.405332,John Deere Classic - 2/3 Balls - Final Round 2 Balls - K. Hickok v B. Matthews - Final Round 2 Balls,Kramer Hickok,0.030399999999999983,0.5652,0.5348
+2023-07-09 05:31:17.866389,John Deere Classic - 2/3 Balls - Final Round 2 Balls - J. Hahn v C. Gribble - Final Round 2 Balls,James Hahn,0.030399999999999983,0.5652,0.5348
 2023-07-09 04:30:59.451898,John Deere Classic - 2/3 Balls - Final Round 2 Balls - B.H. An v A. Landry - Final Round 2 Balls,Byeong Hun An,0.030299999999999994,0.6667,0.6364
 2023-07-09 08:31:15.449397,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Flamengo,0.030299999999999994,0.3636,0.3333
 2023-07-09 08:31:15.462116,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Coritiba,0.027800000000000047,0.7778,0.75
@@ -28,8 +28,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-09 05:31:15.082540,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Philadelphia 76ers,0.027099999999999996,0.0435,0.0164
 2023-07-09 02:31:09.305128,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Atlanta Braves,0.024500000000000022,0.4167,0.3922
 2023-07-09 00:31:24.511873,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,J.J. McCarthy,0.024299999999999995,0.0769,0.0526
-2023-07-09 06:31:09.302854,Round Match-Ups - Final Round Match-Up - M. Hubbard v L. Glover - Final Round Match-Up,Lucas Glover,0.022600000000000064,0.5348,0.5122
 2023-07-09 06:31:09.323081,Round Match-Ups - Final Round Match-Up - C. Kirk v A. Smalley - Final Round Match-Up,Alex Smalley,0.022600000000000064,0.5348,0.5122
+2023-07-09 06:31:09.302854,Round Match-Ups - Final Round Match-Up - M. Hubbard v L. Glover - Final Round Match-Up,Lucas Glover,0.022600000000000064,0.5348,0.5122
 2023-07-09 01:31:21.758936,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Carson Beck,0.0208,0.0833,0.0625
 2023-07-09 09:31:52.272390,John Deere Classic - 2/3 Balls - Final Round 2 Balls - C. Champ v C. Stroud - Final Round 2 Balls,Chris Stroud,0.020699999999999996,0.4651,0.4444
 2023-07-09 06:31:08.599615,MLB Futures - MLB 2023 National League Central - National League Central Winner,Cincinnati Reds,0.020699999999999996,0.4651,0.4444
@@ -45,15 +45,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-09 07:31:11.031516,John Deere Classic - 2/3 Balls - Final Round 2 Balls - R. Henley v R. Knox - Final Round 2 Balls,Russell Knox,0.017600000000000005,0.3509,0.3333
 2023-07-09 08:31:15.449397,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Bahia,0.017599999999999998,0.0196,0.002
 2023-07-09 03:30:51.148039,John Deere Classic - 2/3 Balls - Final Round 2 Balls - P. Kuest v J. Blixt - Final Round 2 Balls,Peter Kuest,0.01759999999999995,0.6667,0.6491
+2023-07-09 06:31:08.572093,MLB Futures - MLB 2023 American League East - American League East Winner,New York Yankees,0.016700000000000007,0.1,0.0833
 2023-07-09 00:31:24.511873,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Quinn Ewers,0.016700000000000007,0.1,0.0833
 2023-07-09 01:31:19.360983,Euroleague - Euroleague 2023/24 - Outright,Fenerbahce,0.016700000000000007,0.1,0.0833
-2023-07-09 06:31:08.572093,MLB Futures - MLB 2023 American League East - American League East Winner,New York Yankees,0.016700000000000007,0.1,0.0833
 2023-07-09 09:31:47.520339,MLS - MLS 2023 - Winner,Seattle Sounders,0.016600000000000004,0.0833,0.0667
 2023-07-09 00:31:24.511873,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Cade Klubnik,0.016600000000000004,0.0833,0.0667
 2023-07-09 09:31:47.526478,MLS - MLS 2023 - Top Goalscorer,Sebastian Driussi (AUS),0.014499999999999999,0.0294,0.0149
 2023-07-09 06:31:08.591195,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Toronto Blue Jays,0.01440000000000001,0.1053,0.0909
-2023-07-09 06:31:08.580225,MLB Futures - MLB 2023 American League Central - American League Central Winner,Detroit Tigers,0.014099999999999998,0.0385,0.0244
 2023-07-09 08:31:15.473367,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Corinthians,0.014099999999999998,0.0385,0.0244
+2023-07-09 06:31:08.580225,MLB Futures - MLB 2023 American League Central - American League Central Winner,Detroit Tigers,0.014099999999999998,0.0385,0.0244
 2023-07-09 09:31:47.520339,MLS - MLS 2023 - Winner,Atlanta United,0.013999999999999999,0.0909,0.0769
 2023-07-09 06:31:08.591195,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Baltimore Orioles,0.013999999999999999,0.0909,0.0769
 2023-07-09 06:31:08.607868,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,San Diego Padres,0.012600000000000007,0.0714,0.0588
@@ -65,13 +65,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-09 09:31:47.492060,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - Winner,Jamaica,-0.0102,0.0667,0.0769
 2023-07-09 01:31:21.758936,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,TreVeyon Henderson,-0.010600000000000002,0.0217,0.0323
 2023-07-09 01:31:21.758936,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Joe Milton,-0.010600000000000005,0.037,0.0476
+2023-07-09 11:31:34.981718,John Deere Classic - 2/3 Balls - Final Round 2 Balls - G. Higgo v N. Lashley - Final Round 2 Balls,Nate Lashley,-0.0116,0.4762,0.4878
+2023-07-09 11:31:35.263751,Round Match-Ups - Final Round Match-Up - G. Sigg v N. Lashley - Final Round Match-Up,Nate Lashley,-0.0116,0.4762,0.4878
 2023-07-09 07:31:10.925091,Scores - Final Round Score - Denny McCarthy - Final Round Score,Over 67.5,-0.011600000000000055,0.5122,0.5238
 2023-07-09 06:31:08.591195,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Los Angeles Angels,-0.0131,0.0345,0.0476
 2023-07-09 01:31:21.758936,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Brock Vandagriff,-0.013400000000000002,0.0189,0.0323
 2023-07-09 07:31:10.892754,Scores - Final Round Score - Alex Smalley - Final Round Score,Under 68.5,-0.013799999999999923,0.6226,0.6364
 2023-07-09 09:31:47.492060,CONCACAF Gold Cup - CONCACAF Gold Cup 2023 Futures - Winner,Canada,-0.013899999999999996,0.1111,0.125
-2023-07-09 09:31:47.520339,MLS - MLS 2023 - Winner,New England Revolution,-0.013999999999999999,0.0769,0.0909
 2023-07-09 06:31:08.607868,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Arizona Diamondbacks,-0.013999999999999999,0.0769,0.0909
+2023-07-09 09:31:47.520339,MLS - MLS 2023 - Winner,New England Revolution,-0.013999999999999999,0.0769,0.0909
 2023-07-09 05:31:15.082540,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,New York Knicks,-0.0145,0.0099,0.0244
 2023-07-09 02:31:09.028399,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Drake Maye,-0.014899999999999997,0.0476,0.0625
 2023-07-09 09:31:52.272390,John Deere Classic - 2/3 Balls - Final Round 2 Balls - C. Champ v C. Stroud - Final Round 2 Balls,Cameron Champ,-0.016699999999999937,0.5833,0.6
