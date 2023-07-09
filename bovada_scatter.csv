@@ -4,6 +4,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-08 17:31:56.320915,NBA Championship 2023/24 - 2023/24 NBA Season - 2023-24 Eastern Conference Winner,Miami Heat,0.06669999999999998,0.2667,0.2
 2023-07-08 22:30:55.042464,WNBA Futures - WNBA Awards - Regular Season MVP,Breanna Stewart,0.06659999999999999,0.7333,0.6667
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Robert MacIntyre,0.04410000000000003,0.3774,0.3333
+2023-07-09 03:30:51.173893,John Deere Classic - 2/3 Balls - Final Round 2 Balls - A. Smalley v B. Todd - Final Round 2 Balls,Alex Smalley,0.0393,0.6226,0.5833
 2023-07-09 01:31:19.360983,Euroleague - Euroleague 2023/24 - Outright,Panathinaikos,0.03330000000000001,0.1,0.0667
 2023-07-09 02:31:09.472175,John Deere Classic - 2/3 Balls - Final Round 2 Balls - G. Higgo v N. Lashley - Final Round 2 Balls,Garrick Higgo,0.03179999999999994,0.5556,0.5238
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Alexander Bjork,0.028000000000000004,0.0476,0.0196
@@ -18,6 +19,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-08 15:31:44.045881,Round Match-Ups - 3rd Round Match-Up - G. Higgo vs P. Kuest - 3rd Round Match-Up,Garrick Higgo,0.01970000000000005,0.5652,0.5455
 2023-07-09 01:31:22.498764,Made in Himmerland - 2/3 Balls - Final Round 2 Balls - R. Hojgaard / M. Pavon - Final Round 2 Balls,Matthieu Pavon,0.018900000000000028,0.4444,0.4255
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,David Micheluzzi,0.0184,0.0217,0.0033
+2023-07-09 03:30:51.148039,John Deere Classic - 2/3 Balls - Final Round 2 Balls - P. Kuest v J. Blixt - Final Round 2 Balls,Peter Kuest,0.01759999999999995,0.6667,0.6491
 2023-07-09 00:31:24.511873,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Quinn Ewers,0.016700000000000007,0.1,0.0833
 2023-07-09 01:31:19.360983,Euroleague - Euroleague 2023/24 - Outright,Fenerbahce,0.016700000000000007,0.1,0.0833
 2023-07-09 00:31:24.511873,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Cade Klubnik,0.016600000000000004,0.0833,0.0667
@@ -30,10 +32,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-09 01:31:21.758936,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,TreVeyon Henderson,-0.010600000000000002,0.0217,0.0323
 2023-07-09 01:31:21.758936,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Joe Milton,-0.010600000000000005,0.037,0.0476
 2023-07-08 17:31:59.429616,Boxing Lines - Jaron Ennis vs Roiman Villa - To Win the Bout,Roiman Villa,-0.010899999999999993,0.1429,0.1538
-2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Andy Sullivan,-0.011300000000000001,0.001,0.0123
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Niklas Norgaard,-0.011300000000000001,0.001,0.0123
+2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Andy Sullivan,-0.011300000000000001,0.001,0.0123
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Simon Forsstrom,-0.011300000000000001,0.001,0.0123
-2023-07-08 14:32:08.216607,Round Match-Ups - 3rd Round Match-Up - E. Cole vs N. Hardy - 3rd Round Match-Up,Nick Hardy,-0.0116,0.4762,0.4878
 2023-07-08 15:31:44.045881,Round Match-Ups - 3rd Round Match-Up - G. Higgo vs P. Kuest - 3rd Round Match-Up,Peter Kuest,-0.012199999999999989,0.4878,0.5
 2023-07-09 01:31:21.758936,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Brock Vandagriff,-0.013400000000000002,0.0189,0.0323
 2023-07-08 22:30:55.042464,WNBA Futures - WNBA Awards - Regular Season MVP,Alyssa Thomas,-0.013999999999999999,0.0769,0.0909
@@ -47,6 +48,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-09 02:31:09.028399,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Bo Nix,-0.019099999999999992,0.0476,0.0667
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Ryo Hisatsune,-0.0194,0.005,0.0244
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Daniel Brown,-0.022400000000000003,0.002,0.0244
+2023-07-09 03:30:51.148039,John Deere Classic - 2/3 Balls - Final Round 2 Balls - P. Kuest v J. Blixt - Final Round 2 Balls,Jonas Blixt,-0.02260000000000001,0.3774,0.4
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Yannik Paul,-0.0234,0.001,0.0244
 2023-07-08 19:34:04.755020,US Presidential Election 2024 - US Presidential Election 2024 - Donald Trump Popular Vote - Donald Trump Popular Vote,To be Republican Nominee and win 50.01 to 55% of the popular vote,-0.023799999999999988,0.1429,0.1667
 2023-07-09 02:31:09.305128,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,San Diego Padres,-0.0245,0.0588,0.0833
@@ -58,6 +60,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-09 02:31:09.472175,John Deere Classic - 2/3 Balls - Final Round 2 Balls - G. Higgo v N. Lashley - Final Round 2 Balls,Nate Lashley,-0.03600000000000003,0.4878,0.5238
 2023-07-09 01:31:19.360983,Euroleague - Euroleague 2023/24 - Outright,Olympiakos,-0.03889999999999999,0.1429,0.1818
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Marcel Siem,-0.0389,0.0278,0.0667
+2023-07-09 03:30:51.173893,John Deere Classic - 2/3 Balls - Final Round 2 Balls - A. Smalley v B. Todd - Final Round 2 Balls,Brendon Todd,-0.039600000000000024,0.4255,0.4651
 2023-07-08 16:30:51.142304,Made in Himmerland - Made In Himmerland - Winner,Jordan Smith,-0.0436,0.004,0.0476
 2023-07-08 16:30:50.606399,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,-0.045499999999999985,0.5,0.5455
 2023-07-08 16:30:50.643952,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,-0.05559999999999998,0.8333,0.8889
