@@ -17,9 +17,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-09 18:31:23.798628,MLB Specials - 2023 MLB Draft - 1st Overall Pick,Walker Jenkins,0.038299999999999994,0.0909,0.0526
 2023-07-09 19:31:17.304898,MLB Specials - 2023 MLB Draft - 1st Overall Pick,Paul Skenes,0.03570000000000001,0.2857,0.25
 2023-07-09 21:31:31.999955,MLB Specials - 2023 MLB Draft - 1st to Be Drafted- Colin Houck vs Aidan Miller,Colin Houck,0.03259999999999996,0.6552,0.6226
-2023-07-09 17:31:24.567772,MLB Specials - 2023 MLB Draft - 2nd Overall Pick,Paul Skenes,0.027900000000000036,0.7647,0.7368
-2023-07-09 17:31:24.478990,MLB Specials - 2023 MLB Draft - 1st to Be Drafted- Bryce Eldridge vs Thomas White,Bryce Eldridge,0.026800000000000046,0.7143,0.6875
-2023-07-09 17:31:22.834664,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Donald Trump,0.026800000000000046,0.7143,0.6875
+2023-07-10 06:30:44.367404,WNBA Futures - WNBA Awards - Regular Season MVP,Breanna Stewart,0.02860000000000007,0.7619,0.7333
 2023-07-10 05:30:50.379576,MLB Futures - MLB 2023 American League East - American League East Winner,Baltimore Orioles,0.026500000000000024,0.2083,0.1818
 2023-07-10 04:30:51.622169,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Atlanta Braves,0.022699999999999998,0.25,0.2273
 2023-07-09 22:31:11.164204,MLB Specials - 2023 MLB Draft - 2023 MLB Draft- Matt Shaw Draft Position,Over 13.5,0.02169999999999994,0.5455,0.5238
@@ -29,43 +27,41 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-10 05:30:50.088286,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,Saskatchewan Roughriders,0.01820000000000002,0.2,0.1818
 2023-07-10 05:30:48.482945,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Cleveland Cavaliers,0.018099999999999998,0.0769,0.0588
 2023-07-10 05:30:48.482945,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Detroit Pistons,0.015899999999999997,0.1111,0.0952
-2023-07-09 17:31:24.472808,MLB Specials - 2023 MLB Draft - 1st Overall Pick,Dylan Crews,0.015100000000000002,0.1818,0.1667
 2023-07-10 05:30:50.088286,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,Montreal Alouettes,0.015100000000000002,0.1818,0.1667
 2023-07-10 02:30:45.799757,Home Run Derby - 2023 MLB Home Run Derby -  To win Home Run Derby,Julio Rodriguez (SEA),0.015100000000000002,0.1818,0.1667
 2023-07-10 04:30:51.638131,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Los Angeles Dodgers,0.01319999999999999,0.2632,0.25
 2023-07-09 22:31:11.131583,MLB Specials - 2023 MLB Draft - 1st to Be Drafted- Kyle Teel vs Jacob Wilson,Jacob Wilson,0.0131,0.303,0.2899
-2023-07-09 18:31:23.806020,MLB Specials - 2023 MLB Draft - 1st to Be Drafted- Bryce Eldridge vs Thomas White,Thomas White,0.012699999999999989,0.3636,0.3509
 2023-07-09 21:31:32.045671,MLB Specials - 2023 MLB Draft - 2023 MLB Draft- Hurston Waldrep Draft Position,Over 17.5,0.012699999999999989,0.3636,0.3509
+2023-07-09 18:31:23.806020,MLB Specials - 2023 MLB Draft - 1st to Be Drafted- Bryce Eldridge vs Thomas White,Thomas White,0.012699999999999989,0.3636,0.3509
 2023-07-09 22:31:11.146546,MLB Specials - 2023 MLB Draft - 2023 MLB Draft - Exact Number of Pitchers Drafted in the 1st Round (Picks 1-30),9,0.012299999999999991,0.1176,0.1053
 2023-07-10 05:30:50.081936,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Saskatchewan Roughriders,0.011099999999999999,0.1111,0.1
 2023-07-10 05:30:50.398904,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,0.01100000000000001,0.5348,0.5238
 2023-07-10 04:30:51.622169,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Los Angeles Dodgers,0.010899999999999993,0.1538,0.1429
 2023-07-09 22:31:08.968453,WNBA Futures - 2023 Regular Season Wins - Las Vegas Aces,Under 35.5,0.010599999999999998,0.4651,0.4545
+2023-07-10 06:30:46.336267,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,-0.01100000000000001,0.5238,0.5348
 2023-07-10 02:30:45.799757,Home Run Derby - 2023 MLB Home Run Derby -  To win Home Run Derby,Vladimir Guerrero Jr. (TOR),-0.011700000000000016,0.2105,0.2222
+2023-07-10 06:30:44.136903,Celebrity Specials - Adam 22 & Lena  - To Divorce in 2023,Yes,-0.012899999999999995,0.1538,0.1667
 2023-07-09 20:31:19.738315,Russian Politics - Next Russian Presidential Election - Outright Winner - Next Russian Presidential Election - Outright Winner,Nikolai Patrushev,-0.013899999999999996,0.1111,0.125
 2023-07-09 20:31:19.720189,Russian Politics - President Of Russia On December 31st 2023 - President Of Russia At Year End,Nikolai Patrushev,-0.014399999999999996,0.0625,0.0769
 2023-07-09 22:31:11.099402,MLB Specials - 2023 MLB Draft - 1st Overall Pick,Walker Jenkins,-0.014499999999999999,0.0149,0.0294
 2023-07-09 20:31:19.720189,Russian Politics - President Of Russia On December 31st 2023 - President Of Russia At Year End,Dmitry Medvedev,-0.014899999999999997,0.0476,0.0625
 2023-07-10 04:30:51.622169,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Tampa Bay Rays,-0.015100000000000002,0.1667,0.1818
-2023-07-09 20:31:19.720189,Russian Politics - President Of Russia On December 31st 2023 - President Of Russia At Year End,Viktor Zolotov,-0.015300000000000001,0.0323,0.0476
-2023-07-09 20:31:19.720189,Russian Politics - President Of Russia On December 31st 2023 - President Of Russia At Year End,Sergey Sobyanin,-0.015300000000000001,0.0323,0.0476
-2023-07-09 20:31:19.720189,Russian Politics - President Of Russia On December 31st 2023 - President Of Russia At Year End,Sergey Kiriyenko,-0.015300000000000001,0.0323,0.0476
 2023-07-09 20:31:19.738315,Russian Politics - Next Russian Presidential Election - Outright Winner - Next Russian Presidential Election - Outright Winner,Yevgeny Prigozhin,-0.015300000000000001,0.0323,0.0476
+2023-07-09 20:31:19.720189,Russian Politics - President Of Russia On December 31st 2023 - President Of Russia At Year End,Sergey Kiriyenko,-0.015300000000000001,0.0323,0.0476
+2023-07-09 20:31:19.720189,Russian Politics - President Of Russia On December 31st 2023 - President Of Russia At Year End,Sergey Sobyanin,-0.015300000000000001,0.0323,0.0476
+2023-07-09 20:31:19.720189,Russian Politics - President Of Russia On December 31st 2023 - President Of Russia At Year End,Viktor Zolotov,-0.015300000000000001,0.0323,0.0476
 2023-07-09 22:31:08.968453,WNBA Futures - 2023 Regular Season Wins - Las Vegas Aces,Over 35.5,-0.01539999999999997,0.6,0.6154
 2023-07-09 22:31:11.131583,MLB Specials - 2023 MLB Draft - 1st to Be Drafted- Kyle Teel vs Jacob Wilson,Kyle Teel,-0.015900000000000025,0.7619,0.7778
 2023-07-10 05:30:50.081936,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Hamilton Tiger-Cats,-0.016700000000000007,0.0833,0.1
 2023-07-10 05:30:50.379576,MLB Futures - MLB 2023 American League East - American League East Winner,New York Yankees,-0.016700000000000007,0.0833,0.1
-2023-07-09 17:31:24.472808,MLB Specials - 2023 MLB Draft - 1st Overall Pick,Max Clark,-0.01820000000000002,0.1818,0.2
 2023-07-09 18:31:21.493269,NBA Specials - Average Points Per Game During the 2023/2024 Regular Season - Victor Wembanyama (SAS) - Victor Wembanyama Special,Over 18.5,-0.01970000000000005,0.5455,0.5652
 2023-07-09 19:31:17.304898,MLB Specials - 2023 MLB Draft - 1st Overall Pick,Dylan Crews,-0.02020000000000001,0.0909,0.1111
 2023-07-10 05:30:50.088286,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,British Columbia Lions,-0.02100000000000002,0.3636,0.3846
 2023-07-09 22:31:11.164204,MLB Specials - 2023 MLB Draft - 2023 MLB Draft- Matt Shaw Draft Position,Under 13.5,-0.02169999999999994,0.5238,0.5455
 2023-07-10 05:30:50.081936,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,British Columbia Lions,-0.022199999999999998,0.2,0.2222
-2023-07-09 17:31:24.567772,MLB Specials - 2023 MLB Draft - 2nd Overall Pick,Dylan Crews,-0.022199999999999998,0.3226,0.3448
 2023-07-10 05:30:50.081936,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Ottawa Redblacks,-0.024,0.0385,0.0625
 2023-07-10 05:30:50.088286,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,Ottawa Redblacks,-0.0242,0.0667,0.0909
 2023-07-09 19:31:17.304898,MLB Specials - 2023 MLB Draft - 1st Overall Pick,Wyatt Langford,-0.024399999999999977,0.4878,0.5122
-2023-07-09 17:31:24.478990,MLB Specials - 2023 MLB Draft - 1st to Be Drafted- Bryce Eldridge vs Thomas White,Thomas White,-0.026500000000000024,0.3509,0.3774
 2023-07-09 20:31:19.738315,Russian Politics - Next Russian Presidential Election - Outright Winner - Next Russian Presidential Election - Outright Winner,Dmitry Medvedev,-0.028399999999999995,0.0625,0.0909
 2023-07-10 05:30:50.385983,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,-0.02960000000000007,0.6,0.6296
 2023-07-09 18:31:23.798628,MLB Specials - 2023 MLB Draft - 1st Overall Pick,Paul Skenes,-0.03570000000000001,0.25,0.2857
