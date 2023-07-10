@@ -22,14 +22,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-09 19:31:17.304898,MLB Specials - 2023 MLB Draft - 1st Overall Pick,Paul Skenes,0.03570000000000001,0.2857,0.25
 2023-07-09 21:31:31.999955,MLB Specials - 2023 MLB Draft - 1st to Be Drafted- Colin Houck vs Aidan Miller,Colin Houck,0.03259999999999996,0.6552,0.6226
 2023-07-09 17:31:24.567772,MLB Specials - 2023 MLB Draft - 2nd Overall Pick,Paul Skenes,0.027900000000000036,0.7647,0.7368
-2023-07-09 17:31:24.478990,MLB Specials - 2023 MLB Draft - 1st to Be Drafted- Bryce Eldridge vs Thomas White,Bryce Eldridge,0.026800000000000046,0.7143,0.6875
 2023-07-09 17:31:22.834664,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Donald Trump,0.026800000000000046,0.7143,0.6875
-2023-07-09 22:31:11.164204,MLB Specials - 2023 MLB Draft - 2023 MLB Draft- Matt Shaw Draft Position,Over 13.5,0.02169999999999994,0.5455,0.5238
+2023-07-09 17:31:24.478990,MLB Specials - 2023 MLB Draft - 1st to Be Drafted- Bryce Eldridge vs Thomas White,Bryce Eldridge,0.026800000000000046,0.7143,0.6875
 2023-07-09 18:31:21.493269,NBA Specials - Average Points Per Game During the 2023/2024 Regular Season - Victor Wembanyama (SAS) - Victor Wembanyama Special,Under 18.5,0.02169999999999994,0.5455,0.5238
+2023-07-09 22:31:11.164204,MLB Specials - 2023 MLB Draft - 2023 MLB Draft- Matt Shaw Draft Position,Over 13.5,0.02169999999999994,0.5455,0.5238
 2023-07-09 16:31:34.792035,MLB Specials - 2023 MLB Draft - 1st Overall Pick,Walker Jenkins,0.0203,0.0526,0.0323
 2023-07-09 19:31:17.304898,MLB Specials - 2023 MLB Draft - 1st Overall Pick,Walker Jenkins,0.02020000000000001,0.1111,0.0909
-2023-07-09 17:31:24.472808,MLB Specials - 2023 MLB Draft - 1st Overall Pick,Dylan Crews,0.015100000000000002,0.1818,0.1667
 2023-07-10 02:30:45.799757,Home Run Derby - 2023 MLB Home Run Derby -  To win Home Run Derby,Julio Rodriguez (SEA),0.015100000000000002,0.1818,0.1667
+2023-07-09 17:31:24.472808,MLB Specials - 2023 MLB Draft - 1st Overall Pick,Dylan Crews,0.015100000000000002,0.1818,0.1667
 2023-07-09 15:31:19.391555,NCAA Football Futures - 2023 Big Ten Conference Championship - Big Ten Championship Game Winner,Ohio State,0.01419999999999999,0.3846,0.3704
 2023-07-09 15:31:19.467734,NCAA Football Futures - 2023 Mountain West Conference Championship - Championship Game Winner,Fresno State,0.013899999999999996,0.2222,0.2083
 2023-07-09 22:31:11.131583,MLB Specials - 2023 MLB Draft - 1st to Be Drafted- Kyle Teel vs Jacob Wilson,Jacob Wilson,0.0131,0.303,0.2899
@@ -39,11 +39,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-09 21:31:32.045671,MLB Specials - 2023 MLB Draft - 2023 MLB Draft- Hurston Waldrep Draft Position,Over 17.5,0.012699999999999989,0.3636,0.3509
 2023-07-09 22:31:11.146546,MLB Specials - 2023 MLB Draft - 2023 MLB Draft - Exact Number of Pitchers Drafted in the 1st Round (Picks 1-30),9,0.012299999999999991,0.1176,0.1053
 2023-07-09 15:31:19.358210,NCAA Football Futures - 2023 ACC Conference Championship - Championship Game Winner,North Carolina,0.011099999999999999,0.1111,0.1
-2023-07-09 14:30:56.182795,John Deere Classic - 2/3 Balls - Final Round 2 Balls - E. Cole v L. Aberg - Final Round 2 Balls,Ludvig Aberg,0.01100000000000001,0.5348,0.5238
 2023-07-09 15:31:19.478586,NCAA Football Futures - 2023 Pac-12 Championship - Pac-12 Championship Game Winner,USC,0.010699999999999987,0.3333,0.3226
 2023-07-09 22:31:08.968453,WNBA Futures - 2023 Regular Season Wins - Las Vegas Aces,Under 35.5,0.010599999999999998,0.4651,0.4545
 2023-07-09 15:31:19.391555,NCAA Football Futures - 2023 Big Ten Conference Championship - Big Ten Championship Game Winner,Iowa,0.0102,0.0769,0.0667
-2023-07-09 14:30:56.182795,John Deere Classic - 2/3 Balls - Final Round 2 Balls - E. Cole v L. Aberg - Final Round 2 Balls,Eric Cole,-0.011600000000000055,0.5122,0.5238
 2023-07-10 02:30:45.799757,Home Run Derby - 2023 MLB Home Run Derby -  To win Home Run Derby,Vladimir Guerrero Jr. (TOR),-0.011700000000000016,0.2105,0.2222
 2023-07-09 20:31:19.738315,Russian Politics - Next Russian Presidential Election - Outright Winner - Next Russian Presidential Election - Outright Winner,Nikolai Patrushev,-0.013899999999999996,0.1111,0.125
 2023-07-09 15:31:19.358210,NCAA Football Futures - 2023 ACC Conference Championship - Championship Game Winner,Florida State,-0.01419999999999999,0.3704,0.3846
@@ -51,9 +49,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-09 22:31:11.099402,MLB Specials - 2023 MLB Draft - 1st Overall Pick,Walker Jenkins,-0.014499999999999999,0.0149,0.0294
 2023-07-09 20:31:19.720189,Russian Politics - President Of Russia On December 31st 2023 - President Of Russia At Year End,Dmitry Medvedev,-0.014899999999999997,0.0476,0.0625
 2023-07-09 16:31:34.792035,MLB Specials - 2023 MLB Draft - 1st Overall Pick,Dylan Crews,-0.015100000000000002,0.1667,0.1818
+2023-07-09 20:31:19.720189,Russian Politics - President Of Russia On December 31st 2023 - President Of Russia At Year End,Viktor Zolotov,-0.015300000000000001,0.0323,0.0476
 2023-07-09 20:31:19.720189,Russian Politics - President Of Russia On December 31st 2023 - President Of Russia At Year End,Sergey Sobyanin,-0.015300000000000001,0.0323,0.0476
 2023-07-09 20:31:19.720189,Russian Politics - President Of Russia On December 31st 2023 - President Of Russia At Year End,Sergey Kiriyenko,-0.015300000000000001,0.0323,0.0476
-2023-07-09 20:31:19.720189,Russian Politics - President Of Russia On December 31st 2023 - President Of Russia At Year End,Viktor Zolotov,-0.015300000000000001,0.0323,0.0476
 2023-07-09 20:31:19.738315,Russian Politics - Next Russian Presidential Election - Outright Winner - Next Russian Presidential Election - Outright Winner,Yevgeny Prigozhin,-0.015300000000000001,0.0323,0.0476
 2023-07-09 22:31:08.968453,WNBA Futures - 2023 Regular Season Wins - Las Vegas Aces,Over 35.5,-0.01539999999999997,0.6,0.6154
 2023-07-09 22:31:11.131583,MLB Specials - 2023 MLB Draft - 1st to Be Drafted- Kyle Teel vs Jacob Wilson,Kyle Teel,-0.015900000000000025,0.7619,0.7778
