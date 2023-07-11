@@ -4,6 +4,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-11 16:31:03.297680,Scores - 1st Round Score - Jordan Spieth - 1st Round Score,Under 69.5,0.1901,0.6552,0.4651
 2023-07-11 10:30:45.142520,MLB Futures - MLB 2023 League Leaders - Most Home Runs in 2023,Matt Olson (ATL),0.1688,0.3226,0.1538
 2023-07-11 16:31:03.330575,Scores - 1st Round Score - Rory McIlroy - 1st Round Score,Under 68.5,0.1577,0.5744,0.4167
+2023-07-11 21:31:21.492119,Potential Fights - Tyson Fury vs Francis Ngannou - To Win the Bout,Tyson Fury,0.10909999999999997,0.9091,0.8
 2023-07-11 16:30:58.742818,WNBA Futures - 2023 Regular Season Wins - Las Vegas Aces,Under 35.5,0.10010000000000002,0.5652,0.4651
 2023-07-11 16:31:03.339285,Scores - 1st Round Score - Scottie Scheffler - 1st Round Score,Under 68.5,0.09820000000000001,0.5744,0.4762
 2023-07-11 16:30:58.827852,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Keyonte George (UTA),0.06840000000000002,0.2222,0.1538
@@ -17,23 +18,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-11 15:31:39.318282,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,France (W),0.04040000000000002,0.2222,0.1818
 2023-07-11 19:31:18.217300,Joe Biden Specials - Will Joe Biden be impeached during his first term as President? - Will Joe Biden be impeached during his first term as President?,No,0.03950000000000009,0.8857,0.8462
 2023-07-11 17:31:13.490135,Travis Scott - Travis Scott: Utopia - First Week Sales (Album-Equivalent Units) - First Week sales (Album Equivalent Untis),"625,000 or under",0.037800000000000056,0.5833,0.5455
-2023-07-11 09:30:56.804262,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,British Columbia Lions,0.0353,0.2353,0.2
+2023-07-11 21:31:19.590831,Regular Season Wins - 2023-24 Regular Season Wins - Wake Forest - Regular Season Wins,Under 6½,0.03709999999999991,0.6667,0.6296
 2023-07-11 15:31:43.844556,Tournament Match-Ups - Tournament Match-Ups - R. McIIroy vs S. Scheffler - Tournament Match-Ups,Scottie Scheffler,0.03479999999999994,0.6,0.5652
 2023-07-11 15:31:43.760132,Tournament Match-Ups - Tournament Match-Ups - P. Malnati vs Z. Dou - Tournament Match-Ups,Zecheng Dou,0.03179999999999994,0.5556,0.5238
-2023-07-11 09:30:51.769251,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Club América,0.03179999999999994,0.5556,0.5238
-2023-07-11 09:30:51.769251,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,CF Monterrey,0.03179999999999994,0.5556,0.5238
 2023-07-11 10:30:45.142520,MLB Futures - MLB 2023 League Leaders - Most Home Runs in 2023,Luis Robert (CWS),0.0306,0.0385,0.0079
 2023-07-11 10:30:45.142520,MLB Futures - MLB 2023 League Leaders - Most Home Runs in 2023,Mookie Betts (LAD),0.030199999999999998,0.0625,0.0323
 2023-07-11 20:31:26.117719,Nathan's Hot Dog Eating Contest - 2024 Nathan's Hot Dog Eating Contest Specials - 2024 Specials,Joey Chestnut NOT to break the world record for hot dogs eaten in 10 minutes at the 2024 contest,0.025000000000000022,0.9,0.875
 2023-07-11 17:31:16.836176,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Quinn Ewers,0.024999999999999994,0.125,0.1
-2023-07-11 09:30:56.812873,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,Ottawa Redblacks,0.0242,0.0909,0.0667
-2023-07-11 09:30:51.769251,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Club León,0.022199999999999998,0.2222,0.2
 2023-07-11 15:31:39.318282,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,Spain (W),0.021999999999999964,0.3077,0.2857
 2023-07-11 13:32:20.902007,Tournament Match-Ups - Tournament Match-Ups - W. Clark vs J. Rose - Tournament Match-Ups,Wyndham Clark,0.02079999999999993,0.5556,0.5348
 2023-07-11 13:32:20.877076,Tournament Match-Ups - Tournament Match-Ups - R. McIIroy vs S. Scheffler - Tournament Match-Ups,Scottie Scheffler,0.01970000000000005,0.5652,0.5455
-2023-07-11 09:30:51.759917,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,CF Monterrey,0.01820000000000002,0.2,0.1818
-2023-07-11 09:30:56.804262,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Calgary Stampeders,0.018099999999999998,0.0769,0.0588
-2023-07-11 09:30:56.804262,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Hamilton Tiger-Cats,0.016700000000000007,0.1,0.0833
 2023-07-11 20:31:27.006748,US Presidential Election 2024 - US Presidential Election 2024 - Party Of Popular Vote Winner - Party of Popular Vote Winner,Republican,0.016699999999999993,0.2667,0.25
 2023-07-11 16:30:57.818543,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Sweden (W),0.016699999999999993,0.2667,0.25
 2023-07-11 20:31:27.090624,Irish Politics - United Ireland - Year of Next United Ireland Referendum,2024,0.014899999999999997,0.0625,0.0476
@@ -43,11 +37,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-11 12:31:11.673461,Euroleague - Euroleague 2023/24 - Outright,Anadolu Efes,0.013899999999999996,0.125,0.1111
 2023-07-11 19:31:18.224442,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,Yes,0.011699999999999933,0.7895,0.7778
 2023-07-11 20:31:26.513008,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Jabari Smith Jr. (HOU),0.011199999999999995,0.0435,0.0323
-2023-07-11 09:30:51.759917,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Club León,0.011199999999999995,0.0588,0.0476
 2023-07-11 15:31:39.964560,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Keyonte George (UTA),0.010899999999999993,0.1538,0.1429
 2023-07-11 17:31:14.099982,NBA Awards - 2023/24 NBA Awards - Defensive Player of the Year,Draymond Green (GSW),0.010600000000000005,0.0541,0.0435
-2023-07-11 15:31:39.318282,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,Canada (W),0.0102,0.0769,0.0667
 2023-07-11 15:31:39.318282,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,Japan (W),0.0102,0.0769,0.0667
+2023-07-11 15:31:39.318282,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,Canada (W),0.0102,0.0769,0.0667
 2023-07-11 17:31:17.002178,NCAA Football Futures - 2023 Sun Belt Championship - Championship Game Winner,South Alabama,-0.010599999999999998,0.2597,0.2703
 2023-07-11 17:31:16.905895,NCAA Football Futures - 2023 MAC Conference Championship - Championship Game Winner,Ball State,-0.010600000000000002,0.0217,0.0323
 2023-07-11 16:30:57.818543,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Spain (W),-0.01100000000000001,0.5238,0.5348
@@ -58,34 +51,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-11 20:31:27.053765,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Ron DeSantis,-0.012299999999999991,0.1053,0.1176
 2023-07-11 15:31:39.318282,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,Australia (W),-0.012899999999999995,0.1538,0.1667
 2023-07-11 15:31:39.318282,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,Germany (W),-0.0131,0.2222,0.2353
-2023-07-11 09:30:51.759917,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,CF Pachuca,-0.013899999999999996,0.1111,0.125
-2023-07-11 09:30:51.769251,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,FC Juarez,-0.013899999999999996,0.1111,0.125
 2023-07-11 17:31:17.002178,NCAA Football Futures - 2023 Sun Belt Championship - Championship Game Winner,Louisiana-Lafayette,-0.013999999999999999,0.0769,0.0909
 2023-07-11 17:31:16.905895,NCAA Football Futures - 2023 MAC Conference Championship - Championship Game Winner,Central Michigan,-0.014100000000000001,0.0385,0.0526
-2023-07-11 17:31:13.510889,Travis Scott - Travis Scott: Utopia - Surprise Features - To Be Credited As A Feature On Utopia,Taylor Swift,-0.014399999999999996,0.0625,0.0769
 2023-07-11 16:30:58.827852,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Sharife Cooper,-0.014399999999999996,0.0625,0.0769
+2023-07-11 17:31:13.510889,Travis Scott - Travis Scott: Utopia - Surprise Features - To Be Credited As A Feature On Utopia,Taylor Swift,-0.014399999999999996,0.0625,0.0769
 2023-07-11 17:31:16.905895,NCAA Football Futures - 2023 MAC Conference Championship - Championship Game Winner,Miami OH,-0.01440000000000001,0.0909,0.1053
 2023-07-11 12:31:14.493861,MLB Futures - MLB 2023 League Leaders - Most Home Runs in 2023,Matt Olson (ATL),-0.014900000000000024,0.3077,0.3226
-2023-07-11 20:31:26.996175,US Presidential Election 2024 - US Presidential Election 2024 - Donald Trump Popular Vote - Donald Trump Popular Vote,To be Republican Nominee and win 40.01 to 45% of the popular vote,-0.014900000000000024,0.3077,0.3226
 2023-07-11 17:31:16.854578,NCAA Football Futures - 2023 American Athletic Championship - American Athletic Championship Game Winner,Tulane,-0.014900000000000024,0.3077,0.3226
-2023-07-11 14:32:24.608036,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Milwaukee Bucks,-0.016700000000000007,0.0833,0.1
+2023-07-11 20:31:26.996175,US Presidential Election 2024 - US Presidential Election 2024 - Donald Trump Popular Vote - Donald Trump Popular Vote,To be Republican Nominee and win 40.01 to 45% of the popular vote,-0.014900000000000024,0.3077,0.3226
 2023-07-11 14:32:24.608036,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Houston Rockets,-0.016700000000000007,0.0833,0.1
+2023-07-11 14:32:24.608036,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Milwaukee Bucks,-0.016700000000000007,0.0833,0.1
 2023-07-11 16:30:57.818543,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Australia (W),-0.018799999999999983,0.3448,0.3636
-2023-07-11 09:30:56.804262,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Toronto Argonauts,-0.019000000000000017,0.2667,0.2857
 2023-07-11 17:31:16.905895,NCAA Football Futures - 2023 MAC Conference Championship - Championship Game Winner,Northern Illinois,-0.0203,0.0385,0.0588
 2023-07-11 10:30:45.142520,MLB Futures - MLB 2023 League Leaders - Most Home Runs in 2023,Pete Alonso (NYM),-0.02049999999999999,0.1333,0.1538
-2023-07-11 09:30:51.769251,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,CF Pachuca,-0.02100000000000002,0.3636,0.3846
 2023-07-11 14:32:23.892089,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,USA (W),-0.021999999999999964,0.2857,0.3077
 2023-07-11 17:31:16.905895,NCAA Football Futures - 2023 MAC Conference Championship - Championship Game Winner,Buffalo,-0.022199999999999998,0.1111,0.1333
 2023-07-11 13:32:20.902007,Tournament Match-Ups - Tournament Match-Ups - W. Clark vs J. Rose - Tournament Match-Ups,Justin Rose,-0.022600000000000064,0.5122,0.5348
 2023-07-11 16:30:57.818543,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,France (W),-0.023799999999999988,0.4762,0.5
 2023-07-11 13:32:20.877076,Tournament Match-Ups - Tournament Match-Ups - R. McIIroy vs S. Scheffler - Tournament Match-Ups,Rory McIlroy,-0.023800000000000043,0.5,0.5238
-2023-07-11 09:30:56.804262,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Winnipeg Blue Bombers,-0.02560000000000001,0.3077,0.3333
-2023-07-11 09:30:56.804262,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Montreal Alouettes,-0.028399999999999995,0.0625,0.0909
 2023-07-11 12:31:11.673461,Euroleague - Euroleague 2023/24 - Outright,Olympiakos,-0.031799999999999995,0.1111,0.1429
 2023-07-11 15:31:43.760132,Tournament Match-Ups - Tournament Match-Ups - P. Malnati vs Z. Dou - Tournament Match-Ups,Peter Malnati,-0.033299999999999996,0.5122,0.5455
-2023-07-11 09:30:51.769251,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Atlas FC,-0.033300000000000024,0.1667,0.2
 2023-07-11 20:31:26.117719,Nathan's Hot Dog Eating Contest - 2024 Nathan's Hot Dog Eating Contest Specials - 2024 Specials,Joey Chestnut to break the world record for hot dogs eaten in 10 minutes at the 2024 contest,-0.033300000000000024,0.1667,0.2
+2023-07-11 21:31:19.590831,Regular Season Wins - 2023-24 Regular Season Wins - Wake Forest - Regular Season Wins,Over 6½,-0.0348,0.4,0.4348
 2023-07-11 15:31:43.844556,Tournament Match-Ups - Tournament Match-Ups - R. McIIroy vs S. Scheffler - Tournament Match-Ups,Rory McIlroy,-0.03489999999999999,0.4651,0.5
 2023-07-11 15:31:42.942561,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Cade Klubnik,-0.035699999999999996,0.0476,0.0833
 2023-07-11 10:30:45.142520,MLB Futures - MLB 2023 League Leaders - Most Home Runs in 2023,Yordan Alvarez (HOU),-0.039400000000000004,0.0132,0.0526
@@ -99,6 +86,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-11 16:30:58.742818,WNBA Futures - 2023 Regular Season Wins - Las Vegas Aces,Over 35.5,-0.09999999999999998,0.5,0.6
 2023-07-11 16:31:03.339285,Scores - 1st Round Score - Scottie Scheffler - 1st Round Score,Over 68.5,-0.10389999999999999,0.4878,0.5917
 2023-07-11 10:30:45.142520,MLB Futures - MLB 2023 League Leaders - Most Home Runs in 2023,Kyle Schwarber (PHI),-0.1039,0.0294,0.1333
+2023-07-11 21:31:21.492119,Potential Fights - Tyson Fury vs Francis Ngannou - To Win the Bout,Francis Ngannou,-0.1129,0.1538,0.2667
 2023-07-11 16:31:03.330575,Scores - 1st Round Score - Rory McIlroy - 1st Round Score,Over 68.5,-0.1613,0.4878,0.6491
 2023-07-11 10:30:45.142520,MLB Futures - MLB 2023 League Leaders - Most Home Runs in 2023,Aaron Judge (NYY),-0.1877,0.0123,0.2
 2023-07-11 16:31:03.297680,Scores - 1st Round Score - Jordan Spieth - 1st Round Score,Over 69.5,-0.19179999999999997,0.4082,0.6
