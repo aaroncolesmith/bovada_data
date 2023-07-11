@@ -20,8 +20,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-10 23:31:20.756527,WNBA Futures - WNBA Awards - Regular Season MVP,Alyssa Thomas,0.02310000000000001,0.1,0.0769
 2023-07-10 23:31:24.999222,Home Run Derby - 2023 MLB Home Run Derby - 1st Round Matchup - Pete Alonso (NYM) vs Julio Rodriguez (SEA),Julio Rodriguez (SEA),0.022699999999999998,0.4878,0.4651
 2023-07-10 23:31:24.949730,Home Run Derby - 2023 MLB Home Run Derby - 1st Round Matchup - Luis Robert Jr. (CWS) vs Adley Rutschman (BAL),Luis Robert Jr. (CWS),0.022599999999999953,0.7101,0.6875
-2023-07-10 18:31:05.938108,Joe Biden Specials - Will Joe Biden be impeached during his first term as President? - Will Joe Biden be impeached during his first term as President?,Yes,0.022199999999999998,0.2222,0.2
 2023-07-10 21:09:05.413524,Home Run Derby - 2023 MLB Home Run Derby -  To win Home Run Derby,Julio Rodriguez (SEA),0.022199999999999998,0.2222,0.2
+2023-07-10 18:31:05.938108,Joe Biden Specials - Will Joe Biden be impeached during his first term as President? - Will Joe Biden be impeached during his first term as President?,Yes,0.022199999999999998,0.2222,0.2
 2023-07-11 05:31:13.700666,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Utah Jazz,0.0208,0.0833,0.0625
 2023-07-10 23:31:24.878051,Home Run Derby - 2023 MLB Home Run Derby - 1st Round Matchup - Distance of Longest Home Run by Mookie Betts,Under 455.5,0.02079999999999993,0.5556,0.5348
 2023-07-10 21:09:05.512181,Home Run Derby - 2023 MLB Home Run Derby - 1st Round Matchup - Pete Alonso (NYM) vs Julio Rodriguez (SEA),Julio Rodriguez (SEA),0.020699999999999996,0.4651,0.4444
@@ -43,10 +43,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-11 05:31:13.691692,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Jalen Hood-Schifino (LAL),0.014099999999999998,0.0385,0.0244
 2023-07-11 05:31:13.691692,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Chet Holmgren (OKC),0.013999999999999999,0.0909,0.0769
 2023-07-10 19:31:43.086068,Regular Season Wins - 2023-24 Exact Regular Season Wins - North Carolina,9,0.013899999999999996,0.2222,0.2083
+2023-07-11 06:31:02.177033,MLB Futures - MLB 2023 Player Awards - American League MVP,Corey Seager (TEX),0.0131,0.0476,0.0345
 2023-07-10 19:31:43.037589,Regular Season Wins - 2023-24 Exact Regular Season Wins - Iowa,7,0.0131,0.2353,0.2222
 2023-07-10 19:31:43.013329,Regular Season Wins - 2023-24 Exact Regular Season Wins - Colorado,2,0.0131,0.2353,0.2222
-2023-07-10 19:31:43.013329,Regular Season Wins - 2023-24 Exact Regular Season Wins - Colorado,5,0.012899999999999995,0.1379,0.125
 2023-07-10 19:31:43.037589,Regular Season Wins - 2023-24 Exact Regular Season Wins - Iowa,6,0.012899999999999995,0.1667,0.1538
+2023-07-10 19:31:43.013329,Regular Season Wins - 2023-24 Exact Regular Season Wins - Colorado,5,0.012899999999999995,0.1379,0.125
 2023-07-10 19:31:43.021503,Regular Season Wins - 2023-24 Exact Regular Season Wins - Florida,6,0.011899999999999994,0.25,0.2381
 2023-07-11 05:31:13.700666,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,L.A. Clippers,0.011699999999999999,0.0196,0.0079
 2023-07-11 03:31:09.698502,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,No,0.011699999999999988,0.2857,0.274
@@ -83,16 +84,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-11 05:31:13.700666,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,San Antonio Spurs,-0.020000000000000004,0.0123,0.0323
 2023-07-10 23:31:24.949730,Home Run Derby - 2023 MLB Home Run Derby - 1st Round Matchup - Luis Robert Jr. (CWS) vs Adley Rutschman (BAL),Adley Rutschman (BAL),-0.02030000000000004,0.3571,0.3774
 2023-07-10 18:31:05.938108,Joe Biden Specials - Will Joe Biden be impeached during his first term as President? - Will Joe Biden be impeached during his first term as President?,No,-0.020500000000000074,0.8462,0.8667
-2023-07-11 05:31:13.700666,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Minnesota Timberwolves,-0.022099999999999998,0.0164,0.0385
 2023-07-11 05:31:13.691692,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Jaime Jaquez Jr. (MIA),-0.022099999999999998,0.0164,0.0385
+2023-07-11 05:31:13.700666,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Minnesota Timberwolves,-0.022099999999999998,0.0164,0.0385
 2023-07-11 05:31:13.700666,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Oklahoma City Thunder,-0.022199999999999998,0.1111,0.1333
 2023-07-11 03:31:09.698502,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,Yes,-0.022199999999999998,0.7778,0.8
 2023-07-10 23:31:24.779878,Home Run Derby - 2023 MLB Home Run Derby -  To win Home Run Derby,Julio Rodriguez (SEA),-0.022199999999999998,0.2,0.2222
 2023-07-11 05:31:13.691692,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Jalen Williams (OKC),-0.022400000000000003,0.0099,0.0323
-2023-07-10 23:31:24.878051,Home Run Derby - 2023 MLB Home Run Derby - 1st Round Matchup - Distance of Longest Home Run by Mookie Betts,Over 455.5,-0.022600000000000064,0.5122,0.5348
 2023-07-10 21:09:05.512181,Home Run Derby - 2023 MLB Home Run Derby - 1st Round Matchup - Pete Alonso (NYM) vs Julio Rodriguez (SEA),Pete Alonso (NYM),-0.022600000000000064,0.6,0.6226
-2023-07-11 05:31:13.691692,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Jordan Hawkins (NOP),-0.023899999999999998,0.0196,0.0435
+2023-07-10 23:31:24.878051,Home Run Derby - 2023 MLB Home Run Derby - 1st Round Matchup - Distance of Longest Home Run by Mookie Betts,Over 455.5,-0.022600000000000064,0.5122,0.5348
 2023-07-11 05:31:13.691692,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Taylor Hendricks (UTA),-0.023899999999999998,0.0196,0.0435
+2023-07-11 05:31:13.691692,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Jordan Hawkins (NOP),-0.023899999999999998,0.0196,0.0435
 2023-07-10 21:30:27.871393,Home Run Derby - 2023 MLB Home Run Derby - 1st Round Matchup - Total Home Runs - Julio Rodriguez (SEA),Under 21.5,-0.024399999999999977,0.4878,0.5122
 2023-07-11 05:31:13.700666,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Detroit Pistons,-0.024399999999999998,0.0141,0.0385
 2023-07-11 05:31:13.700666,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Houston Rockets,-0.024999999999999994,0.1,0.125
