@@ -12,8 +12,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-11 05:31:13.691692,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Max Christie (LAL),0.0392,0.0588,0.0196
 2023-07-11 09:30:56.804262,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,British Columbia Lions,0.0353,0.2353,0.2
 2023-07-11 05:31:13.691692,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Cason Wallace (OKC),0.0334,0.0769,0.0435
-2023-07-11 09:30:51.769251,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Club América,0.03179999999999994,0.5556,0.5238
 2023-07-11 09:30:51.769251,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,CF Monterrey,0.03179999999999994,0.5556,0.5238
+2023-07-11 09:30:51.769251,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Club América,0.03179999999999994,0.5556,0.5238
 2023-07-11 10:30:45.142520,MLB Futures - MLB 2023 League Leaders - Most Home Runs in 2023,Luis Robert (CWS),0.0306,0.0385,0.0079
 2023-07-11 10:30:45.142520,MLB Futures - MLB 2023 League Leaders - Most Home Runs in 2023,Mookie Betts (LAD),0.030199999999999998,0.0625,0.0323
 2023-07-11 05:31:13.691692,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Kenneth Lofton Jr. (MEM),0.026499999999999996,0.0588,0.0323
@@ -23,6 +23,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-11 09:30:51.769251,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Club León,0.022199999999999998,0.2222,0.2
 2023-07-11 08:30:59.062826,Superettan - Superettan 2023 - Winner,Utsiktens,0.02100000000000002,0.3846,0.3636
 2023-07-11 05:31:13.700666,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Utah Jazz,0.0208,0.0833,0.0625
+2023-07-11 13:32:20.902007,Tournament Match-Ups - Tournament Match-Ups - W. Clark vs J. Rose - Tournament Match-Ups,Wyndham Clark,0.02079999999999993,0.5556,0.5348
+2023-07-11 13:32:20.877076,Tournament Match-Ups - Tournament Match-Ups - R. McIIroy vs S. Scheffler - Tournament Match-Ups,Scottie Scheffler,0.01970000000000005,0.5652,0.5455
 2023-07-11 02:30:52.967785,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Donald Trump,0.018999999999999906,0.7333,0.7143
 2023-07-11 09:30:51.759917,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,CF Monterrey,0.01820000000000002,0.2,0.1818
 2023-07-11 05:31:13.691692,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Leonard Miller (MIN),0.0182,0.0323,0.0141
@@ -41,13 +43,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-11 03:31:09.698502,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,No,0.011699999999999988,0.2857,0.274
 2023-07-11 09:30:51.759917,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Club León,0.011199999999999995,0.0588,0.0476
 2023-07-11 08:31:05.922643,Boxing Lines - Keyshawn Davis vs Francesco Patera - To Win the Bout,Francesco Patera,0.011099999999999999,0.0667,0.0556
-2023-07-11 08:31:06.128362,Scottish Open - Genesis Scottish Open - Winner,Xander Schauffele,-0.0102,0.0667,0.0769
 2023-07-11 05:31:13.691692,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Tre Mann (OKC),-0.0102,0.0667,0.0769
+2023-07-11 08:31:06.128362,Scottish Open - Genesis Scottish Open - Winner,Xander Schauffele,-0.0102,0.0667,0.0769
 2023-07-11 05:31:13.691692,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Brandin Podziemski (GSW),-0.010300000000000002,0.0141,0.0244
 2023-07-11 05:31:13.691692,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Gradey Dick (TOR),-0.010300000000000002,0.0141,0.0244
 2023-07-11 02:30:52.967785,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Nikki Haley,-0.010700000000000001,0.0278,0.0385
 2023-07-11 10:30:45.142520,MLB Futures - MLB 2023 League Leaders - Most Home Runs in 2023,Rafael Devers (BOS),-0.011200000000000002,0.0132,0.0244
-2023-07-11 00:31:20.767983,Home Run Derby - 2023 MLB Home Run Derby - 1st Round Matchup - Distance of Longest Home Run by Mookie Betts,Over 455.5,-0.012199999999999989,0.5,0.5122
 2023-07-11 05:31:13.691692,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Bilal Coulibaly (WAS),-0.012700000000000003,0.0196,0.0323
 2023-07-11 08:30:59.050061,Allsvenskan - Allsvenskan 2023 - Winner,IF Elfsborg,-0.013600000000000001,0.2941,0.3077
 2023-07-11 05:31:13.691692,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Kris Murray (POR),-0.013699999999999999,0.0141,0.0278
@@ -63,9 +64,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-11 09:30:51.769251,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,CF Pachuca,-0.02100000000000002,0.3636,0.3846
 2023-07-11 05:31:13.691692,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Jaime Jaquez Jr. (MIA),-0.022099999999999998,0.0164,0.0385
 2023-07-11 05:31:13.700666,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Minnesota Timberwolves,-0.022099999999999998,0.0164,0.0385
-2023-07-11 03:31:09.698502,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,Yes,-0.022199999999999998,0.7778,0.8
 2023-07-11 05:31:13.700666,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Oklahoma City Thunder,-0.022199999999999998,0.1111,0.1333
+2023-07-11 03:31:09.698502,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,Yes,-0.022199999999999998,0.7778,0.8
 2023-07-11 05:31:13.691692,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Jalen Williams (OKC),-0.022400000000000003,0.0099,0.0323
+2023-07-11 13:32:20.902007,Tournament Match-Ups - Tournament Match-Ups - W. Clark vs J. Rose - Tournament Match-Ups,Justin Rose,-0.022600000000000064,0.5122,0.5348
+2023-07-11 13:32:20.877076,Tournament Match-Ups - Tournament Match-Ups - R. McIIroy vs S. Scheffler - Tournament Match-Ups,Rory McIlroy,-0.023800000000000043,0.5,0.5238
 2023-07-11 05:31:13.691692,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Jordan Hawkins (NOP),-0.023899999999999998,0.0196,0.0435
 2023-07-11 05:31:13.691692,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Taylor Hendricks (UTA),-0.023899999999999998,0.0196,0.0435
 2023-07-11 08:31:06.128362,Scottish Open - Genesis Scottish Open - Winner,Patrick Cantlay,-0.0242,0.0667,0.0909
