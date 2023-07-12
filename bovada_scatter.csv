@@ -18,9 +18,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-12 05:31:12.230246,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Jaden Hardy (DAL),0.029299999999999993,0.0769,0.0476
 2023-07-12 05:31:12.230246,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Sharife Cooper,0.028399999999999995,0.0909,0.0625
 2023-07-12 12:30:48.517773,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - West Group A Winner,Utah Jazz,0.026499999999999996,0.0588,0.0323
+2023-07-12 14:31:53.496991,Round Match-Ups - 1st Round Match-Ups - R. McIIroy vs P. Cantlay - 1st Round Match-Ups,Patrick Cantlay,0.024399999999999977,0.5122,0.4878
+2023-07-12 14:31:52.989401,Scottish Open - 2/3 Balls - 1st Round 3 Balls - C. Tarren / T. Bjorn / T. McKibbin - 1st Round 3 Balls,Callum Tarren,0.023799999999999988,0.5,0.4762
+2023-07-12 14:31:51.321817,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - A. Nunez / B. Matthews / F. Schott - 1st Round 3 Balls,Augusto Nunez,0.022699999999999998,0.4878,0.4651
 2023-07-12 12:30:54.779698,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - M. Gligic / T. Werbylo / J. Veerman - 1st Round 3 Balls,Trevor Werbylo,0.022199999999999998,0.3448,0.3226
+2023-07-12 14:31:51.586254,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - K. Roy / K. Westmoreland / S. Stallings Jr - 1st Round 3 Balls,Kevin Roy,0.021699999999999997,0.4762,0.4545
 2023-07-12 12:30:48.534021,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - West Group C Winner,San Antonio Spurs,0.0203,0.0588,0.0385
 2023-07-12 12:30:48.492743,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - East Group A Winner,Indiana Pacers,0.0203,0.0588,0.0385
+2023-07-12 14:31:51.263571,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - D.J. Trahan / MJ Daffue / T. Clements - 1st Round 3 Balls,MJ Daffue,0.01970000000000005,0.5652,0.5455
 2023-07-12 12:30:54.787274,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - M. Schmid / J. Teater / C. McDaniel - 1st Round 3 Balls,Josh Teater,0.019699999999999995,0.4545,0.4348
 2023-07-12 12:30:48.524666,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - West Group B Winner,Houston Rockets,0.0189,0.0385,0.0196
 2023-07-12 11:31:45.175301,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Field,0.017600000000000005,0.3509,0.3333
@@ -30,38 +35,45 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-12 12:30:48.524666,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - West Group B Winner,Dallas Mavericks,0.015100000000000002,0.1818,0.1667
 2023-07-12 12:30:55.308012,Scottish Open - 2/3 Balls - 1st Round 3 Balls - S. Stallings / A. Noren / A. Bjork - 1st Round 3 Balls,Scott Stallings,0.014600000000000002,0.2778,0.2632
 2023-07-12 05:31:12.230246,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Julian Champagnie (SAS),0.014399999999999996,0.0769,0.0625
+2023-07-12 14:31:53.048664,Scottish Open - 2/3 Balls - 1st Round 3 Balls - L. List / H. Hall / A. Arnaus - 1st Round 3 Balls,Harry Hall,0.01419999999999999,0.3846,0.3704
 2023-07-12 12:30:48.492743,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - East Group A Winner,Detroit Pistons,0.014099999999999998,0.0385,0.0244
 2023-07-12 12:30:48.517773,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - West Group A Winner,Portland Trail Blazers,0.014099999999999998,0.0385,0.0244
 2023-07-12 05:31:12.230246,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Brandon Miller (CHA),0.0131,0.0476,0.0345
 2023-07-12 09:30:58.487976,Copa Sudamericana - Copa Sudamericana 2023 - Outright,Goias,0.011199999999999995,0.0588,0.0476
 2023-07-12 08:31:49.626781,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Stewart Cink,0.010899999999999993,0.1538,0.1429
 2023-07-12 05:31:12.239272,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,New Orleans Pelicans,0.010300000000000002,0.0244,0.0141
-2023-07-12 05:31:12.230246,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Cason Wallace (OKC),-0.0102,0.0667,0.0769
 2023-07-12 12:30:48.482278,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - 2023/24 In-Season Tournament Champion,Los Angeles Lakers,-0.0102,0.0667,0.0769
+2023-07-12 05:31:12.230246,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Cason Wallace (OKC),-0.0102,0.0667,0.0769
+2023-07-12 14:31:51.586254,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - K. Roy / K. Westmoreland / S. Stallings Jr - 1st Round 3 Balls,Kyle Westmoreland,-0.010699999999999987,0.3226,0.3333
 2023-07-12 12:30:48.517773,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - West Group A Winner,Memphis Grizzlies,-0.010899999999999993,0.1429,0.1538
 2023-07-12 12:30:48.482278,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - 2023/24 In-Season Tournament Champion,Milwaukee Bucks,-0.011099999999999999,0.1,0.1111
+2023-07-12 12:30:54.755737,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - S. Bae / R. Barnes / J. Lee - 1st Round 3 Balls,Ricky Barnes,-0.01150000000000001,0.3333,0.3448
+2023-07-12 12:30:54.755737,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - S. Bae / R. Barnes / J. Lee - 1st Round 3 Balls,Joshua Lee,-0.01150000000000001,0.3333,0.3448
 2023-07-12 13:31:23.319151,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - K. Kraft / T. Cone / A. Knappe - 1st Round 3 Balls,Alexander Knappe,-0.01150000000000001,0.3333,0.3448
 2023-07-12 12:30:54.779698,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - M. Gligic / T. Werbylo / J. Veerman - 1st Round 3 Balls,Michael Gligic,-0.01150000000000001,0.3333,0.3448
-2023-07-12 12:30:54.755737,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - S. Bae / R. Barnes / J. Lee - 1st Round 3 Balls,Joshua Lee,-0.01150000000000001,0.3333,0.3448
-2023-07-12 12:30:54.755737,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - S. Bae / R. Barnes / J. Lee - 1st Round 3 Balls,Ricky Barnes,-0.01150000000000001,0.3333,0.3448
+2023-07-12 14:31:53.048664,Scottish Open - 2/3 Balls - 1st Round 3 Balls - L. List / H. Hall / A. Arnaus - 1st Round 3 Balls,Adri Arnaus,-0.012299999999999978,0.3448,0.3571
 2023-07-12 12:30:48.482278,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - 2023/24 In-Season Tournament Champion,Miami Heat,-0.012299999999999991,0.1053,0.1176
 2023-07-12 09:30:58.487976,Copa Sudamericana - Copa Sudamericana 2023 - Outright,CA Tigre,-0.0131,0.0345,0.0476
-2023-07-12 09:30:58.487976,Copa Sudamericana - Copa Sudamericana 2023 - Outright,Defensa y Justicia,-0.013999999999999999,0.0769,0.0909
 2023-07-12 09:30:58.487976,Copa Sudamericana - Copa Sudamericana 2023 - Outright,Newell's Old Boys,-0.013999999999999999,0.0769,0.0909
+2023-07-12 09:30:58.487976,Copa Sudamericana - Copa Sudamericana 2023 - Outright,Defensa y Justicia,-0.013999999999999999,0.0769,0.0909
+2023-07-12 14:31:51.321817,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - A. Nunez / B. Matthews / F. Schott - 1st Round 3 Balls,Freddy Schott,-0.014900000000000024,0.3077,0.3226
 2023-07-12 09:30:58.487976,Copa Sudamericana - Copa Sudamericana 2023 - Outright,São Paulo,-0.015100000000000002,0.1667,0.1818
+2023-07-12 14:31:51.263571,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - D.J. Trahan / MJ Daffue / T. Clements - 1st Round 3 Balls,D J Trahan,-0.016699999999999993,0.25,0.2667
 2023-07-12 13:31:23.342943,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - K. Roy / K. Westmoreland / S. Stallings Jr - 1st Round 3 Balls,Kyle Westmoreland,-0.017600000000000005,0.3333,0.3509
-2023-07-12 09:30:58.487976,Copa Sudamericana - Copa Sudamericana 2023 - Outright,RB Bragantino,-0.0179,0.125,0.1429
 2023-07-12 12:30:48.482278,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - 2023/24 In-Season Tournament Champion,Phoenix Suns,-0.0179,0.125,0.1429
+2023-07-12 09:30:58.487976,Copa Sudamericana - Copa Sudamericana 2023 - Outright,RB Bragantino,-0.0179,0.125,0.1429
 2023-07-12 05:31:12.230246,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Chet Holmgren (OKC),-0.018099999999999998,0.0588,0.0769
 2023-07-12 05:31:12.230246,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Jabari Smith Jr. (HOU),-0.019099999999999995,0.0244,0.0435
 2023-07-12 05:31:12.189535,WNBA Futures - WNBA Awards - Regular Season MVP,Elena Delle Donne,-0.019100000000000002,0.0132,0.0323
 2023-07-12 12:30:48.504422,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - East Group B Winner,Milwaukee Bucks,-0.020699999999999996,0.4444,0.4651
-2023-07-12 13:31:23.296566,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - S. Bae / R. Barnes / J. Lee - 1st Round 3 Balls,Ricky Barnes,-0.020799999999999985,0.3125,0.3333
+2023-07-12 14:31:53.496991,Round Match-Ups - 1st Round Match-Ups - R. McIIroy vs P. Cantlay - 1st Round Match-Ups,Rory McIlroy,-0.02079999999999993,0.5348,0.5556
 2023-07-12 13:31:23.296566,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - S. Bae / R. Barnes / J. Lee - 1st Round 3 Balls,Joshua Lee,-0.020799999999999985,0.3125,0.3333
+2023-07-12 13:31:23.296566,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - S. Bae / R. Barnes / J. Lee - 1st Round 3 Balls,Ricky Barnes,-0.020799999999999985,0.3125,0.3333
 2023-07-12 12:30:48.504422,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - East Group B Winner,Miami Heat,-0.021699999999999997,0.4545,0.4762
 2023-07-12 05:31:12.189535,WNBA Futures - WNBA Awards - Regular Season MVP,A'ja Wilson,-0.022199999999999998,0.2,0.2222
 2023-07-12 12:30:48.482278,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - 2023/24 In-Season Tournament Champion,Denver Nuggets,-0.023799999999999988,0.1429,0.1667
 2023-07-12 12:30:54.787274,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - M. Schmid / J. Teater / C. McDaniel - 1st Round 3 Balls,Matti Schmid,-0.024500000000000022,0.3922,0.4167
+2023-07-12 14:31:52.989401,Scottish Open - 2/3 Balls - 1st Round 3 Balls - C. Tarren / T. Bjorn / T. McKibbin - 1st Round 3 Balls,Tom McKibbin,-0.025499999999999967,0.4,0.4255
 2023-07-12 13:31:23.342943,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - K. Roy / K. Westmoreland / S. Stallings Jr - 1st Round 3 Balls,Stephen Stallings Jr,-0.02560000000000001,0.3077,0.3333
 2023-07-12 13:31:23.319151,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - K. Kraft / T. Cone / A. Knappe - 1st Round 3 Balls,Kelly Kraft,-0.02560000000000001,0.3448,0.3704
 2023-07-12 09:30:58.487976,Copa Sudamericana - Copa Sudamericana 2023 - Outright,Estudiantes LP,-0.030699999999999998,0.0526,0.0833
