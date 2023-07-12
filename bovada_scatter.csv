@@ -4,12 +4,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-12 05:31:12.239272,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Houston Rockets,0.09849999999999999,0.1818,0.0833
 2023-07-11 23:31:01.555483,Regular Season Wins - 2023-24 Regular Season Wins - Virginia - Regular Season Wins,Under 3½,0.06519999999999992,0.6,0.5348
 2023-07-12 05:31:12.239272,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Brooklyn Nets,0.0573,0.0769,0.0196
-2023-07-11 17:31:16.905895,NCAA Football Futures - 2023 MAC Conference Championship - Championship Game Winner,Toledo,0.05509999999999998,0.4255,0.3704
 2023-07-12 00:30:58.641621,Boxing Lines - Ijaz Ahmed vs Marcel Braithwaite - To Win the Bout,Ijaz Ahmed,0.051700000000000024,0.4348,0.3831
 2023-07-12 05:31:12.189535,WNBA Futures - WNBA Awards - Regular Season MVP,Breanna Stewart,0.0494,0.8113,0.7619
-2023-07-11 17:31:16.854578,NCAA Football Futures - 2023 American Athletic Championship - American Athletic Championship Game Winner,SMU,0.04929999999999998,0.2667,0.2174
-2023-07-11 17:31:17.002178,NCAA Football Futures - 2023 Sun Belt Championship - Championship Game Winner,Appalachian State,0.04909999999999999,0.1667,0.1176
-2023-07-11 17:31:16.905895,NCAA Football Futures - 2023 MAC Conference Championship - Championship Game Winner,Ohio,0.044499999999999984,0.3077,0.2632
 2023-07-11 19:31:18.217300,Joe Biden Specials - Will Joe Biden be impeached during his first term as President? - Will Joe Biden be impeached during his first term as President?,No,0.03950000000000009,0.8857,0.8462
 2023-07-11 21:31:19.590831,Regular Season Wins - 2023-24 Regular Season Wins - Wake Forest - Regular Season Wins,Under 6½,0.03709999999999991,0.6667,0.6296
 2023-07-11 23:31:01.463779,Regular Season Wins - 2023-24 Regular Season Wins - Syracuse - Regular Season Wins,Under 6½,0.03090000000000004,0.6226,0.5917
@@ -17,7 +13,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-12 05:31:12.230246,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Jaden Hardy (DAL),0.029299999999999993,0.0769,0.0476
 2023-07-12 05:31:12.230246,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Sharife Cooper,0.028399999999999995,0.0909,0.0625
 2023-07-11 20:31:26.117719,Nathan's Hot Dog Eating Contest - 2024 Nathan's Hot Dog Eating Contest Specials - 2024 Specials,Joey Chestnut NOT to break the world record for hot dogs eaten in 10 minutes at the 2024 contest,0.025000000000000022,0.9,0.875
-2023-07-11 17:31:16.836176,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Quinn Ewers,0.024999999999999994,0.125,0.1
 2023-07-11 23:31:02.764019,Potential Fights - Tyson Fury vs Francis Ngannou - To Win the Bout,Francis Ngannou,0.020100000000000007,0.1739,0.1538
 2023-07-11 20:31:27.006748,US Presidential Election 2024 - US Presidential Election 2024 - Party Of Popular Vote Winner - Party of Popular Vote Winner,Republican,0.016699999999999993,0.2667,0.25
 2023-07-11 20:31:27.090624,Irish Politics - United Ireland - Year of Next United Ireland Referendum,2024,0.014899999999999997,0.0625,0.0476
@@ -28,23 +23,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-11 20:31:26.513008,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Jabari Smith Jr. (HOU),0.011199999999999995,0.0435,0.0323
 2023-07-12 05:31:12.239272,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,New Orleans Pelicans,0.010300000000000002,0.0244,0.0141
 2023-07-12 05:31:12.230246,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Cason Wallace (OKC),-0.0102,0.0667,0.0769
-2023-07-11 17:31:17.002178,NCAA Football Futures - 2023 Sun Belt Championship - Championship Game Winner,South Alabama,-0.010599999999999998,0.2597,0.2703
-2023-07-11 17:31:16.905895,NCAA Football Futures - 2023 MAC Conference Championship - Championship Game Winner,Ball State,-0.010600000000000002,0.0217,0.0323
 2023-07-11 22:31:15.505777,Scottish Open - Genesis Scottish Open - Winner,Rory McIlroy,-0.011099999999999999,0.1,0.1111
-2023-07-11 17:31:17.002178,NCAA Football Futures - 2023 Sun Belt Championship - Championship Game Winner,Marshall,-0.011099999999999999,0.1,0.1111
 2023-07-11 20:31:27.053765,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Ron DeSantis,-0.012299999999999991,0.1053,0.1176
-2023-07-11 17:31:17.002178,NCAA Football Futures - 2023 Sun Belt Championship - Championship Game Winner,Louisiana-Lafayette,-0.013999999999999999,0.0769,0.0909
-2023-07-11 17:31:16.905895,NCAA Football Futures - 2023 MAC Conference Championship - Championship Game Winner,Central Michigan,-0.014100000000000001,0.0385,0.0526
-2023-07-11 17:31:16.905895,NCAA Football Futures - 2023 MAC Conference Championship - Championship Game Winner,Miami OH,-0.01440000000000001,0.0909,0.1053
-2023-07-11 17:31:16.854578,NCAA Football Futures - 2023 American Athletic Championship - American Athletic Championship Game Winner,Tulane,-0.014900000000000024,0.3077,0.3226
 2023-07-11 20:31:26.996175,US Presidential Election 2024 - US Presidential Election 2024 - Donald Trump Popular Vote - Donald Trump Popular Vote,To be Republican Nominee and win 40.01 to 45% of the popular vote,-0.014900000000000024,0.3077,0.3226
 2023-07-12 05:31:12.230246,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Chet Holmgren (OKC),-0.018099999999999998,0.0588,0.0769
 2023-07-12 05:31:12.230246,NBA Summer League - 2023 Summer League MVP - Summer League MVP,Jabari Smith Jr. (HOU),-0.019099999999999995,0.0244,0.0435
 2023-07-12 05:31:12.189535,WNBA Futures - WNBA Awards - Regular Season MVP,Elena Delle Donne,-0.019100000000000002,0.0132,0.0323
 2023-07-11 23:31:02.764019,Potential Fights - Tyson Fury vs Francis Ngannou - To Win the Bout,Tyson Fury,-0.020199999999999996,0.8889,0.9091
-2023-07-11 17:31:16.905895,NCAA Football Futures - 2023 MAC Conference Championship - Championship Game Winner,Northern Illinois,-0.0203,0.0385,0.0588
 2023-07-12 05:31:12.189535,WNBA Futures - WNBA Awards - Regular Season MVP,A'ja Wilson,-0.022199999999999998,0.2,0.2222
-2023-07-11 17:31:16.905895,NCAA Football Futures - 2023 MAC Conference Championship - Championship Game Winner,Buffalo,-0.022199999999999998,0.1111,0.1333
 2023-07-11 23:31:01.463779,Regular Season Wins - 2023-24 Regular Season Wins - Syracuse - Regular Season Wins,Over 6½,-0.031799999999999995,0.4444,0.4762
 2023-07-12 05:31:12.189535,WNBA Futures - WNBA Awards - Regular Season MVP,Alyssa Thomas,-0.03330000000000001,0.0667,0.1
 2023-07-11 20:31:26.117719,Nathan's Hot Dog Eating Contest - 2024 Nathan's Hot Dog Eating Contest Specials - 2024 Specials,Joey Chestnut to break the world record for hot dogs eaten in 10 minutes at the 2024 contest,-0.033300000000000024,0.1667,0.2
