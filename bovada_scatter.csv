@@ -1,20 +1,11 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-12 17:31:26.177752,Travis Scott - Travis Scott: Utopia - Surprise Features - To Be Credited As A Feature On Utopia,Kanye West,0.19999999999999996,0.6,0.4
-2023-07-12 12:30:48.524666,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - West Group B Winner,L.A. Clippers,0.0595,0.25,0.1905
-2023-07-12 12:30:48.534021,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - West Group C Winner,Sacramento Kings,0.04999999999999999,0.25,0.2
 2023-07-13 00:30:37.118365,75th Primetime Emmy Awards - Emmy - Outstanding Drama Series - Outstanding Drama Series,Succession,0.04910000000000003,0.6491,0.6
-2023-07-12 12:30:48.511366,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - East Group C Winner,Brooklyn Nets,0.04440000000000001,0.1111,0.0667
-2023-07-12 12:30:48.504422,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - East Group B Winner,New York Knicks,0.04169999999999999,0.1667,0.125
 2023-07-12 13:31:23.296566,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - S. Bae / R. Barnes / J. Lee - 1st Round 3 Balls,Sangmoon Bae,0.039600000000000024,0.4651,0.4255
-2023-07-12 12:30:48.511366,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - East Group C Winner,Chicago Bulls,0.0384,0.0769,0.0385
 2023-07-12 13:31:23.342943,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - K. Roy / K. Westmoreland / S. Stallings Jr - 1st Round 3 Balls,Kevin Roy,0.0378,0.4545,0.4167
 2023-07-12 19:30:54.768844,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - W. McGirt / R. Garrigus / A. Hidalgo - 1st Round 3 Balls,William McGirt,0.0348,0.4348,0.4
 2023-07-12 13:31:23.319151,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - K. Kraft / T. Cone / A. Knappe - 1st Round 3 Balls,Trevor Cone,0.03210000000000002,0.4167,0.3846
-2023-07-12 12:30:48.511366,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - East Group C Winner,Toronto Raptors,0.0321,0.0909,0.0588
-2023-07-12 12:30:48.492743,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - East Group A Winner,Atlanta Hawks,0.031799999999999995,0.1429,0.1111
-2023-07-12 12:30:48.511366,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - East Group C Winner,Orlando Magic,0.031,0.0588,0.0278
 2023-07-12 19:30:55.866105,Scottish Open - 2/3 Balls - 1st Round 3 Balls - S.H. Kim / M. Kieffer / A. Wu - 1st Round 3 Balls,S.H. Kim,0.026600000000000013,0.4348,0.4082
-2023-07-12 12:30:48.517773,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - West Group A Winner,Utah Jazz,0.026499999999999996,0.0588,0.0323
 2023-07-12 17:31:34.886061,Tournament Match-Ups - Tournament Match-Ups - T. Hatton vs T. Fleetwood - Tournament Match-Ups,Tyrrell Hatton,0.026499999999999968,0.5917,0.5652
 2023-07-12 15:31:38.450428,Regular Season Wins - 2023-24 Exact Regular Season Wins -  - Pittsburgh Steelers - Exact Regular Season Wins,3,0.024999999999999998,0.0278,0.0028
 2023-07-12 23:31:58.638049,Euroleague - Euroleague 2023/24 - Outright,AS Monaco,0.024999999999999994,0.125,0.1
@@ -23,119 +14,90 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-12 14:31:52.989401,Scottish Open - 2/3 Balls - 1st Round 3 Balls - C. Tarren / T. Bjorn / T. McKibbin - 1st Round 3 Balls,Callum Tarren,0.023799999999999988,0.5,0.4762
 2023-07-12 14:31:51.321817,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - A. Nunez / B. Matthews / F. Schott - 1st Round 3 Balls,Augusto Nunez,0.022699999999999998,0.4878,0.4651
 2023-07-12 16:31:13.672324,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - K. Chappell / J. Catlin / A. Del Rey - 1st Round 3 Balls,Kevin Chappell,0.02260000000000001,0.4,0.3774
-2023-07-12 12:30:54.779698,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - M. Gligic / T. Werbylo / J. Veerman - 1st Round 3 Balls,Trevor Werbylo,0.022199999999999998,0.3448,0.3226
 2023-07-12 14:31:51.586254,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - K. Roy / K. Westmoreland / S. Stallings Jr - 1st Round 3 Balls,Kevin Roy,0.021699999999999997,0.4762,0.4545
+2023-07-12 19:30:56.746656,Scores - 1st Round Score - Viktor Hovland - 1st Round Score,Under 68.5,0.02169999999999994,0.5455,0.5238
 2023-07-12 15:31:42.039759,Round Match-Ups - 1st Round Match-Ups - M. Schmid vs K. Hickok - 1st Round Match-Ups,Kramer Hickok,0.02169999999999994,0.5455,0.5238
 2023-07-12 17:31:35.069120,Tournament Match-Ups - Tournament Match-Ups - C. Conners v R. Fox - Outright,Corey Conners,0.02169999999999994,0.5455,0.5238
-2023-07-12 19:30:56.746656,Scores - 1st Round Score - Viktor Hovland - 1st Round Score,Under 68.5,0.02169999999999994,0.5455,0.5238
 2023-07-12 18:31:03.430110,Round Match-Ups - 1st Round Match-Ups - L. Aberg vs L. Herbert - 1st Round Match-Ups,Ludvig Aberg,0.02169999999999994,0.5455,0.5238
 2023-07-12 15:31:41.966479,Round Match-Ups - 1st Round Match-Ups - J. Blixt vs R. Werenski - 1st Round Match-Ups,Richy Werenski,0.02169999999999994,0.5455,0.5238
 2023-07-12 17:31:34.857313,Tournament Match-Ups - Tournament Match-Ups - P. Cantlay vs X. Schauffele - Tournament Match-Ups,Patrick Cantlay,0.02079999999999993,0.5556,0.5348
+2023-07-13 01:31:00.757794,Tournament Match-Ups - Tournament Match-Ups - M. Fitzpatrick vs J. Spieth - Tournament Match-Ups,Jordan Spieth,0.02079999999999993,0.5556,0.5348
 2023-07-12 19:30:54.786301,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - M. Schwab / A. Novak / J. Scrivener - 1st Round 3 Balls,Andrew Novak,0.020699999999999996,0.4651,0.4444
-2023-07-12 12:30:48.534021,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - West Group C Winner,San Antonio Spurs,0.0203,0.0588,0.0385
-2023-07-12 12:30:48.492743,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - East Group A Winner,Indiana Pacers,0.0203,0.0588,0.0385
 2023-07-12 21:31:22.290401,Elite Boxing - Tyson Fury vs Francis Ngannou - To Win the Bout,Tyson Fury,0.020199999999999996,0.9091,0.8889
 2023-07-12 19:30:56.653194,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Under 68.5,0.01970000000000005,0.5652,0.5455
 2023-07-12 14:31:51.263571,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - D.J. Trahan / MJ Daffue / T. Clements - 1st Round 3 Balls,MJ Daffue,0.01970000000000005,0.5652,0.5455
-2023-07-12 12:30:54.787274,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - M. Schmid / J. Teater / C. McDaniel - 1st Round 3 Balls,Josh Teater,0.019699999999999995,0.4545,0.4348
 2023-07-12 19:30:54.813076,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - T. Alexander / A. Levy / A. Sullivan - 1st Round 3 Balls,Tyson Alexander,0.019600000000000006,0.3226,0.303
-2023-07-12 12:30:48.524666,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - West Group B Winner,Houston Rockets,0.0189,0.0385,0.0196
 2023-07-12 17:31:34.993892,Tournament Match-Ups - Tournament Match-Ups - J. Rose v S. Lowry - Outright,Shane Lowry,0.01880000000000004,0.5744,0.5556
 2023-07-12 16:31:13.814410,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - K. Kraft / T. Cone / A. Knappe - 1st Round 3 Balls,Kelly Kraft,0.018799999999999983,0.3636,0.3448
-2023-07-12 19:30:55.390685,Scottish Open - 2/3 Balls - 1st Round 3 Balls - O. Wilson / K. Yu / K. Samooja - 1st Round 3 Balls,Kevin Yu,0.018100000000000005,0.4348,0.4167
-2023-07-12 19:30:54.600488,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - G. Murray / J. Blixt / K. Streelman - 1st Round 3 Balls,Kevin Streelman,0.018100000000000005,0.4348,0.4167
-2023-07-12 17:31:32.803708,Boxing Lines - Kelvin Davis vs Derrick Whitley Jr - To Win the Bout,Kelvin Davis,0.018100000000000005,0.9655,0.9474
 2023-07-12 17:31:32.838385,Boxing Lines - Lester Martinez vs Lucas De Abreu - To Win the Bout,Lester Martinez,0.018100000000000005,0.9655,0.9474
 2023-07-12 18:31:03.553952,Round Match-Ups - 1st Round Match-Ups - C. Davis v A. Otaegui - 1st Round Match-Ups,Cameron Davis,0.018100000000000005,0.5833,0.5652
+2023-07-12 19:30:54.600488,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - G. Murray / J. Blixt / K. Streelman - 1st Round 3 Balls,Kevin Streelman,0.018100000000000005,0.4348,0.4167
+2023-07-12 19:30:55.390685,Scottish Open - 2/3 Balls - 1st Round 3 Balls - O. Wilson / K. Yu / K. Samooja - 1st Round 3 Balls,Kevin Yu,0.018100000000000005,0.4348,0.4167
+2023-07-12 17:31:32.803708,Boxing Lines - Kelvin Davis vs Derrick Whitley Jr - To Win the Bout,Kelvin Davis,0.018100000000000005,0.9655,0.9474
 2023-07-12 17:31:33.513596,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - K. Roy / K. Westmoreland / S. Stallings Jr - 1st Round 3 Balls,Kyle Westmoreland,0.017600000000000005,0.3509,0.3333
-2023-07-12 12:30:48.534021,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - West Group C Winner,Minnesota Timberwolves,0.01759999999999999,0.1176,0.1
-2023-07-12 12:30:48.534021,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - West Group C Winner,Oklahoma City Thunder,0.01759999999999999,0.1176,0.1
-2023-07-12 12:30:54.755737,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - S. Bae / R. Barnes / J. Lee - 1st Round 3 Balls,Sangmoon Bae,0.017299999999999982,0.4255,0.4082
 2023-07-12 23:31:58.204888,75th Primetime Emmy Awards - Emmy - Outstanding Drama Series - Outstanding Drama Series,Succession,0.016699999999999937,0.6,0.5833
 2023-07-12 18:31:03.451847,Round Match-Ups - 1st Round Match-Ups - T. Detry v R. Ramsay - 1st Round Match-Ups,Thomas Detry,0.016100000000000003,0.6078,0.5917
 2023-07-12 16:31:13.760515,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - W. McGirt / R. Garrigus / A. Hidalgo - 1st Round 3 Balls,William McGirt,0.015400000000000025,0.4,0.3846
-2023-07-12 12:30:48.524666,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - West Group B Winner,Dallas Mavericks,0.015100000000000002,0.1818,0.1667
 2023-07-12 17:31:32.821999,Boxing Lines - Najee Lopez vs Christopher Brooker - To Win the Bout,Najee Lopez,0.014900000000000024,0.9804,0.9655
-2023-07-12 12:30:55.308012,Scottish Open - 2/3 Balls - 1st Round 3 Balls - S. Stallings / A. Noren / A. Bjork - 1st Round 3 Balls,Scott Stallings,0.014600000000000002,0.2778,0.2632
 2023-07-12 14:31:53.048664,Scottish Open - 2/3 Balls - 1st Round 3 Balls - L. List / H. Hall / A. Arnaus - 1st Round 3 Balls,Harry Hall,0.01419999999999999,0.3846,0.3704
-2023-07-12 12:30:48.517773,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - West Group A Winner,Portland Trail Blazers,0.014099999999999998,0.0385,0.0244
-2023-07-12 12:30:48.492743,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - East Group A Winner,Detroit Pistons,0.014099999999999998,0.0385,0.0244
 2023-07-12 18:31:03.559752,Round Match-Ups - 1st Round Match-Ups - S. Im v T. Lawrence - 1st Round Match-Ups,Sung-Jae Im,0.013799999999999923,0.6364,0.6226
 2023-07-12 18:30:59.633700,NBA Awards - 2023/24 NBA Awards - Rookie of the Year,Anthony Black (ORL),0.012700000000000003,0.0323,0.0196
 2023-07-12 19:30:54.862237,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - K. Roy / K. Westmoreland / S. Stallings Jr - 1st Round 3 Balls,Kyle Westmoreland,0.012699999999999989,0.3636,0.3509
 2023-07-12 17:31:35.026193,Tournament Match-Ups - Tournament Match-Ups - T. Hatton v V. Hovland - Outright,Tyrell Hatton,0.011600000000000055,0.5238,0.5122
-2023-07-12 18:31:03.635706,Round Match-Ups - 1st Round Match-Ups - A. Noren v S. Stallings - 1st Round Match-Ups,Scott Stallings,0.011099999999999999,0.4762,0.4651
 2023-07-12 19:30:55.346649,Scottish Open - 2/3 Balls - 1st Round 3 Balls - J. Campillo / H. Endycott / M. Jordan - 1st Round 3 Balls,Harrison Endycott,0.011099999999999999,0.2778,0.2667
+2023-07-12 18:31:03.635706,Round Match-Ups - 1st Round Match-Ups - A. Noren v S. Stallings - 1st Round Match-Ups,Scott Stallings,0.011099999999999999,0.4762,0.4651
 2023-07-12 17:31:34.917087,Tournament Match-Ups - Tournament Match-Ups - A. Smalley v S. Theegala - Outright,Sahith Theegala,0.01100000000000001,0.5348,0.5238
 2023-07-12 16:31:13.839491,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - K. Roy / K. Westmoreland / S. Stallings Jr - 1st Round 3 Balls,Kyle Westmoreland,0.010699999999999987,0.3333,0.3226
 2023-07-12 17:31:34.909219,Tournament Match-Ups - Tournament Match-Ups - S. Burns vs S. Lowry - Tournament Match-Ups,Sam Burns,0.010599999999999998,0.4651,0.4545
 2023-07-12 20:30:59.860698,Dana Open - Dana Open - Winner,Minjee Lee,0.0102,0.0769,0.0667
-2023-07-12 12:30:48.482278,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - 2023/24 In-Season Tournament Champion,Los Angeles Lakers,-0.0102,0.0667,0.0769
 2023-07-12 17:31:34.867107,Tournament Match-Ups - Tournament Match-Ups - R. McIIroy vs S. Scheffler - Tournament Match-Ups,Rory McIlroy,-0.010599999999999998,0.4545,0.4651
 2023-07-12 14:31:51.586254,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - K. Roy / K. Westmoreland / S. Stallings Jr - 1st Round 3 Balls,Kyle Westmoreland,-0.010699999999999987,0.3226,0.3333
 2023-07-12 19:30:55.390685,Scottish Open - 2/3 Balls - 1st Round 3 Balls - O. Wilson / K. Yu / K. Samooja - 1st Round 3 Balls,Oliver Wilson,-0.010699999999999987,0.3226,0.3333
-2023-07-12 12:30:48.517773,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - West Group A Winner,Memphis Grizzlies,-0.010899999999999993,0.1429,0.1538
-2023-07-12 16:31:13.839491,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - K. Roy / K. Westmoreland / S. Stallings Jr - 1st Round 3 Balls,Kevin Roy,-0.011099999999999999,0.4651,0.4762
 2023-07-12 18:31:03.553952,Round Match-Ups - 1st Round Match-Ups - C. Davis v A. Otaegui - 1st Round Match-Ups,Adrian Otaegui,-0.011099999999999999,0.4651,0.4762
-2023-07-12 12:30:48.482278,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - 2023/24 In-Season Tournament Champion,Milwaukee Bucks,-0.011099999999999999,0.1,0.1111
+2023-07-12 16:31:13.839491,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - K. Roy / K. Westmoreland / S. Stallings Jr - 1st Round 3 Balls,Kevin Roy,-0.011099999999999999,0.4651,0.4762
 2023-07-12 19:30:53.742229,MLB Specials - 2023 Trade Deadline Specials  - Where Will Shohei Ohtani Play After the 2023 MLB Trade Deadline,New York Yankees,-0.011099999999999999,0.1,0.1111
 2023-07-12 19:30:53.742229,MLB Specials - 2023 Trade Deadline Specials  - Where Will Shohei Ohtani Play After the 2023 MLB Trade Deadline,San Diego Padres,-0.011199999999999995,0.0476,0.0588
 2023-07-12 13:31:23.319151,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - K. Kraft / T. Cone / A. Knappe - 1st Round 3 Balls,Alexander Knappe,-0.01150000000000001,0.3333,0.3448
-2023-07-12 12:30:54.755737,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - S. Bae / R. Barnes / J. Lee - 1st Round 3 Balls,Ricky Barnes,-0.01150000000000001,0.3333,0.3448
-2023-07-12 12:30:54.755737,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - S. Bae / R. Barnes / J. Lee - 1st Round 3 Balls,Joshua Lee,-0.01150000000000001,0.3333,0.3448
 2023-07-12 19:30:54.786301,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - M. Schwab / A. Novak / J. Scrivener - 1st Round 3 Balls,Jason Scrivener,-0.01150000000000001,0.3333,0.3448
-2023-07-12 12:30:54.779698,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - M. Gligic / T. Werbylo / J. Veerman - 1st Round 3 Balls,Michael Gligic,-0.01150000000000001,0.3333,0.3448
 2023-07-12 17:31:34.993892,Tournament Match-Ups - Tournament Match-Ups - J. Rose v S. Lowry - Outright,Justin Rose,-0.012199999999999989,0.4878,0.5
 2023-07-12 14:31:53.048664,Scottish Open - 2/3 Balls - 1st Round 3 Balls - L. List / H. Hall / A. Arnaus - 1st Round 3 Balls,Adri Arnaus,-0.012299999999999978,0.3448,0.3571
-2023-07-12 12:30:48.482278,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - 2023/24 In-Season Tournament Champion,Miami Heat,-0.012299999999999991,0.1053,0.1176
 2023-07-12 16:31:13.672324,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - K. Chappell / J. Catlin / A. Del Rey - 1st Round 3 Balls,Alejandro Del Rey,-0.013300000000000034,0.3571,0.3704
 2023-07-12 19:30:55.866105,Scottish Open - 2/3 Balls - 1st Round 3 Balls - S.H. Kim / M. Kieffer / A. Wu - 1st Round 3 Balls,Ashun Wu,-0.013600000000000001,0.2941,0.3077
 2023-07-12 23:32:01.720120,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Garrett Wilson,-0.014100000000000001,0.0385,0.0526
-2023-07-12 19:30:55.866105,Scottish Open - 2/3 Balls - 1st Round 3 Balls - S.H. Kim / M. Kieffer / A. Wu - 1st Round 3 Balls,Maximilian Kieffer,-0.01419999999999999,0.3704,0.3846
 2023-07-12 19:30:54.600488,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - G. Murray / J. Blixt / K. Streelman - 1st Round 3 Balls,Grayson Murray,-0.01419999999999999,0.3704,0.3846
+2023-07-12 19:30:55.866105,Scottish Open - 2/3 Balls - 1st Round 3 Balls - S.H. Kim / M. Kieffer / A. Wu - 1st Round 3 Balls,Maximilian Kieffer,-0.01419999999999999,0.3704,0.3846
 2023-07-12 14:31:51.321817,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - A. Nunez / B. Matthews / F. Schott - 1st Round 3 Balls,Freddy Schott,-0.014900000000000024,0.3077,0.3226
 2023-07-12 19:30:53.742229,MLB Specials - 2023 Trade Deadline Specials  - Where Will Shohei Ohtani Play After the 2023 MLB Trade Deadline,New York Mets,-0.015700000000000006,0.1176,0.1333
 2023-07-12 17:31:32.821999,Boxing Lines - Najee Lopez vs Christopher Brooker - To Win the Bout,Christopher Brooker,-0.016600000000000004,0.0667,0.0833
-2023-07-12 19:30:54.768844,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - W. McGirt / R. Garrigus / A. Hidalgo - 1st Round 3 Balls,Angel Hidalgo,-0.016699999999999993,0.4,0.4167
 2023-07-12 16:31:13.814410,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - K. Kraft / T. Cone / A. Knappe - 1st Round 3 Balls,Trevor Cone,-0.016699999999999993,0.4,0.4167
 2023-07-12 14:31:51.263571,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - D.J. Trahan / MJ Daffue / T. Clements - 1st Round 3 Balls,D J Trahan,-0.016699999999999993,0.25,0.2667
+2023-07-12 19:30:54.768844,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - W. McGirt / R. Garrigus / A. Hidalgo - 1st Round 3 Balls,Angel Hidalgo,-0.016699999999999993,0.4,0.4167
 2023-07-12 18:31:03.559752,Round Match-Ups - 1st Round Match-Ups - S. Im v T. Lawrence - 1st Round Match-Ups,Thriston Lawrence,-0.017299999999999982,0.4082,0.4255
 2023-07-12 13:31:23.342943,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - K. Roy / K. Westmoreland / S. Stallings Jr - 1st Round 3 Balls,Kyle Westmoreland,-0.017600000000000005,0.3333,0.3509
-2023-07-12 12:30:48.482278,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - 2023/24 In-Season Tournament Champion,Phoenix Suns,-0.0179,0.125,0.1429
 2023-07-12 18:31:03.635706,Round Match-Ups - 1st Round Match-Ups - A. Noren v S. Stallings - 1st Round Match-Ups,Alex Noren,-0.018100000000000005,0.5652,0.5833
 2023-07-12 19:30:53.742229,MLB Specials - 2023 Trade Deadline Specials  - Where Will Shohei Ohtani Play After the 2023 MLB Trade Deadline,San Francisco Giants,-0.019000000000000003,0.0435,0.0625
-2023-07-12 19:30:54.768844,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - W. McGirt / R. Garrigus / A. Hidalgo - 1st Round 3 Balls,Robert Garrigus,-0.019000000000000017,0.2667,0.2857
 2023-07-13 00:30:37.118365,75th Primetime Emmy Awards - Emmy - Outstanding Drama Series - Outstanding Drama Series,The White Lotus,-0.019000000000000017,0.2667,0.2857
+2023-07-12 19:30:54.768844,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - W. McGirt / R. Garrigus / A. Hidalgo - 1st Round 3 Balls,Robert Garrigus,-0.019000000000000017,0.2667,0.2857
 2023-07-12 18:31:03.451847,Round Match-Ups - 1st Round Match-Ups - T. Detry v R. Ramsay - 1st Round Match-Ups,Richie Ramsay,-0.019699999999999995,0.4348,0.4545
 2023-07-12 21:31:23.857550,Scottish Open - Genesis Scottish Open - Winner,Rory Mcilroy,-0.02020000000000001,0.0909,0.1111
-2023-07-12 12:30:48.504422,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - East Group B Winner,Milwaukee Bucks,-0.020699999999999996,0.4444,0.4651
 2023-07-12 17:31:33.513596,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - K. Roy / K. Westmoreland / S. Stallings Jr - 1st Round 3 Balls,Kevin Roy,-0.020699999999999996,0.4444,0.4651
 2023-07-12 14:31:53.496991,Round Match-Ups - 1st Round Match-Ups - R. McIIroy vs P. Cantlay - 1st Round Match-Ups,Rory McIlroy,-0.02079999999999993,0.5348,0.5556
 2023-07-12 13:31:23.296566,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - S. Bae / R. Barnes / J. Lee - 1st Round 3 Balls,Joshua Lee,-0.020799999999999985,0.3125,0.3333
 2023-07-12 13:31:23.296566,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - S. Bae / R. Barnes / J. Lee - 1st Round 3 Balls,Ricky Barnes,-0.020799999999999985,0.3125,0.3333
-2023-07-12 17:31:35.069120,Tournament Match-Ups - Tournament Match-Ups - C. Conners v R. Fox - Outright,Ryan Fox,-0.02169999999999994,0.5238,0.5455
-2023-07-12 19:30:56.746656,Scores - 1st Round Score - Viktor Hovland - 1st Round Score,Over 68.5,-0.02169999999999994,0.5238,0.5455
 2023-07-12 15:31:42.016372,Round Match-Ups - 1st Round Match-Ups - L. Glover vs A. Bhatia - 1st Round Match-Ups,Lucas Glover,-0.02169999999999994,0.5238,0.5455
-2023-07-12 12:30:48.504422,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - East Group B Winner,Miami Heat,-0.021699999999999997,0.4545,0.4762
+2023-07-12 19:30:56.746656,Scores - 1st Round Score - Viktor Hovland - 1st Round Score,Over 68.5,-0.02169999999999994,0.5238,0.5455
+2023-07-12 17:31:35.069120,Tournament Match-Ups - Tournament Match-Ups - C. Conners v R. Fox - Outright,Ryan Fox,-0.02169999999999994,0.5238,0.5455
 2023-07-12 17:31:34.857313,Tournament Match-Ups - Tournament Match-Ups - P. Cantlay vs X. Schauffele - Tournament Match-Ups,Xander Schauffele,-0.022600000000000064,0.5122,0.5348
+2023-07-13 01:31:00.757794,Tournament Match-Ups - Tournament Match-Ups - M. Fitzpatrick vs J. Spieth - Tournament Match-Ups,Matthew Fitzpatrick,-0.022600000000000064,0.5122,0.5348
 2023-07-12 17:31:34.886061,Tournament Match-Ups - Tournament Match-Ups - T. Hatton vs T. Fleetwood - Tournament Match-Ups,Tommy Fleetwood,-0.023799999999999988,0.4762,0.5
-2023-07-12 12:30:48.482278,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - 2023/24 In-Season Tournament Champion,Denver Nuggets,-0.023799999999999988,0.1429,0.1667
-2023-07-12 19:30:56.653194,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Over 68.5,-0.023800000000000043,0.5,0.5238
-2023-07-12 15:31:42.039759,Round Match-Ups - 1st Round Match-Ups - M. Schmid vs K. Hickok - 1st Round Match-Ups,Matti Schmid,-0.023800000000000043,0.5,0.5238
 2023-07-12 18:31:03.430110,Round Match-Ups - 1st Round Match-Ups - L. Aberg vs L. Herbert - 1st Round Match-Ups,Lucas Herbert,-0.023800000000000043,0.5,0.5238
 2023-07-12 15:31:41.966479,Round Match-Ups - 1st Round Match-Ups - J. Blixt vs R. Werenski - 1st Round Match-Ups,Jonas Blixt,-0.023800000000000043,0.5,0.5238
-2023-07-12 12:30:54.787274,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - M. Schmid / J. Teater / C. McDaniel - 1st Round 3 Balls,Matti Schmid,-0.024500000000000022,0.3922,0.4167
+2023-07-12 15:31:42.039759,Round Match-Ups - 1st Round Match-Ups - M. Schmid vs K. Hickok - 1st Round Match-Ups,Matti Schmid,-0.023800000000000043,0.5,0.5238
+2023-07-12 19:30:56.653194,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Over 68.5,-0.023800000000000043,0.5,0.5238
 2023-07-12 14:31:52.989401,Scottish Open - 2/3 Balls - 1st Round 3 Balls - C. Tarren / T. Bjorn / T. McKibbin - 1st Round 3 Balls,Tom McKibbin,-0.025499999999999967,0.4,0.4255
-2023-07-12 13:31:23.319151,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - K. Kraft / T. Cone / A. Knappe - 1st Round 3 Balls,Kelly Kraft,-0.02560000000000001,0.3448,0.3704
 2023-07-12 13:31:23.342943,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - K. Roy / K. Westmoreland / S. Stallings Jr - 1st Round 3 Balls,Stephen Stallings Jr,-0.02560000000000001,0.3077,0.3333
+2023-07-12 13:31:23.319151,Barbasol Championship - 2/3 Balls - 1st Round 3 Balls - K. Kraft / T. Cone / A. Knappe - 1st Round 3 Balls,Kelly Kraft,-0.02560000000000001,0.3448,0.3704
 2023-07-12 17:31:32.838385,Boxing Lines - Lester Martinez vs Lucas De Abreu - To Win the Bout,Lucas De Abreu,-0.027800000000000005,0.0833,0.1111
 2023-07-12 17:31:32.803708,Boxing Lines - Kelvin Davis vs Derrick Whitley Jr - To Win the Bout,Derrick Whitley Jr,-0.027800000000000005,0.0833,0.1111
-2023-07-12 12:30:48.482278,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - 2023/24 In-Season Tournament Champion,Boston Celtics,-0.033300000000000024,0.1667,0.2
 2023-07-12 21:31:22.290401,Elite Boxing - Tyson Fury vs Francis Ngannou - To Win the Bout,Francis Ngannou,-0.036000000000000004,0.1379,0.1739
 2023-07-12 19:30:53.742229,MLB Specials - 2023 Trade Deadline Specials  - Where Will Shohei Ohtani Play After the 2023 MLB Trade Deadline,Los Angeles Angels,-0.036599999999999966,0.7895,0.8261
-2023-07-12 12:30:48.492743,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - East Group A Winner,Cleveland Cavaliers,-0.053100000000000036,0.3636,0.4167
-2023-07-12 12:30:48.492743,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - East Group A Winner,Philadelphia 76ers,-0.05559999999999998,0.4444,0.5
-2023-07-12 12:30:48.524666,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - West Group B Winner,Denver Nuggets,-0.06440000000000001,0.5652,0.6296
-2023-07-12 12:30:48.517773,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - West Group A Winner,Phoenix Suns,-0.11549999999999999,0.4762,0.5917
-2023-07-12 12:30:48.534021,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - West Group C Winner,Golden State Warriors,-0.12529999999999997,0.5238,0.6491
-2023-07-12 12:30:48.511366,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - East Group C Winner,Boston Celtics,-0.19540000000000002,0.6667,0.8621
