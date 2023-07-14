@@ -17,14 +17,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-14 03:31:35.745293,Nobel Prizes - Nobel Peace Prize - Nobel Peace Prize Winner 2023,Volodymyr Zelenskyy,0.04760000000000009,0.7143,0.6667
 2023-07-14 07:30:57.674039,Dana Open - Dana Open - Winner,Ariya Jutanugarn,0.045,0.0667,0.0217
 2023-07-14 05:30:22.559359,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Brooklyn Nets,0.04269999999999999,0.1538,0.1111
-2023-07-14 03:31:42.976805,Scores - 2nd Round Score - Jordan Spieth - 2nd Round Score,Under 68.5,0.039600000000000024,0.4651,0.4255
 2023-07-14 03:31:43.066363,Scores - 2nd Round Score - Viktor Hovland - 2nd Round Score,Under 67.5,0.039600000000000024,0.4651,0.4255
+2023-07-14 03:31:42.976805,Scores - 2nd Round Score - Jordan Spieth - 2nd Round Score,Under 68.5,0.039600000000000024,0.4651,0.4255
 2023-07-14 03:31:43.044415,Scores - 2nd Round Score - Tommy Fleetwood - 2nd Round Score,Under 68.5,0.039600000000000024,0.4651,0.4255
 2023-07-14 07:30:57.674039,Dana Open - Dana Open - Winner,Rose Zhang,0.03889999999999999,0.1818,0.1429
 2023-07-14 05:30:27.189702,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Toronto Argonauts,0.0363,0.303,0.2667
 2023-07-14 03:31:42.809961,Scottish Open - 2/3 Balls - 2nd Round 3 Balls - S. Scheffler / S. Lowry / V. Hovland - Outright,Scottie Scheffler,0.03480000000000005,0.5348,0.5
-2023-07-14 05:30:22.559359,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Miami Heat,0.03439999999999999,0.0667,0.0323
 2023-07-14 06:30:52.542750,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Alex Cejka,0.03439999999999999,0.0667,0.0323
+2023-07-14 05:30:22.559359,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Miami Heat,0.03439999999999999,0.0667,0.0323
 2023-07-14 09:30:41.681090,Copa do Brasil - Copa do Brasil 2023 - Outright,Corinthians,0.034100000000000005,0.125,0.0909
 2023-07-14 07:30:57.674039,Dana Open - Dana Open - Winner,Emily Kristine Pedersen,0.0336,0.0435,0.0099
 2023-07-14 01:31:15.166587,Scottish Open - 2/3 Balls - 2nd Round 3 Balls - M. Fitzpatrick / P. Cantlay / A. Meronk - 2nd Round 3 Balls,Patrick Cantlay,0.030299999999999994,0.4651,0.4348
@@ -38,8 +38,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-14 01:31:15.107869,Scottish Open - 2/3 Balls - 2nd Round 3 Balls - A. Putnam / L. Aberg / N. Colsaerts - 2nd Round 3 Balls,Ludvig Aberg,0.023800000000000043,0.5238,0.5
 2023-07-14 10:30:39.214535,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Chivas Guadalajara,0.023799999999999988,0.1667,0.1429
 2023-07-14 03:31:43.056354,Scores - 2nd Round Score - Tyrrell Hatton - 2nd Round Score,Under 67.5,0.022699999999999998,0.4878,0.4651
-2023-07-14 01:31:15.327082,Round Match-Ups - 2nd Round Match-Ups - B.H. An vs T. Detry - 2nd Round Match-Ups,Thomas Detry,0.022600000000000064,0.5348,0.5122
 2023-07-14 02:31:02.557311,Round Match-Ups - 2nd Round Match-Ups - P. Cantlay vs X. Schauffele - 2nd Round Match-Ups,Xander Schauffele,0.022600000000000064,0.5348,0.5122
+2023-07-14 01:31:15.327082,Round Match-Ups - 2nd Round Match-Ups - B.H. An vs T. Detry - 2nd Round Match-Ups,Thomas Detry,0.022600000000000064,0.5348,0.5122
 2023-07-14 07:30:50.256040,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Cleveland Cavaliers,0.021999999999999964,0.3077,0.2857
 2023-07-14 11:30:58.085475,Barbasol Championship - 2/3 Balls - 2nd Round 3 Balls - K. Roy / K. Westmoreland / S. Stallings - 2nd Round 3 Balls,Kevin Roy,0.021699999999999997,0.4762,0.4545
 2023-07-14 03:31:43.093086,Round Match-Ups - 2nd Round Match-Ups - A. Scott vs J. Rose - Outright,Adam Scott,0.02169999999999994,0.5455,0.5238
@@ -48,7 +48,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-14 03:31:43.118815,Round Match-Ups - 2nd Round Match-Ups - T. Kim vs W. Clark - Outright,Wyndham Clark,0.01970000000000005,0.5652,0.5455
 2023-07-14 03:31:42.801697,Scottish Open - 2/3 Balls - 2nd Round 3 Balls - A. Scott / M .Homa / Y. Paul - Outright,Max Homa,0.019699999999999995,0.4545,0.4348
 2023-07-14 06:30:52.542750,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Justin Leonard,0.0189,0.0385,0.0196
-2023-07-14 01:31:08.716836,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Donald Trump,0.016700000000000048,0.75,0.7333
 2023-07-14 07:30:57.674039,Dana Open - Dana Open - Winner,Aditi Ashok,0.0157,0.0435,0.0278
 2023-07-14 03:31:42.818522,Scottish Open - 2/3 Balls - 2nd Round 3 Balls - R. Fowler / T. Hatton / W. Clark - Outright,Tyrrell Hatton,0.01419999999999999,0.3846,0.3704
 2023-07-14 07:30:57.674039,Dana Open - Dana Open - Winner,Allisen Corpuz,0.014100000000000001,0.0526,0.0385
@@ -63,14 +62,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-14 07:30:57.674039,Dana Open - Dana Open - Winner,Sei Young Kim,0.011199999999999995,0.0435,0.0323
 2023-07-14 07:30:57.674039,Dana Open - Dana Open - Winner,Matilda Castren,0.010700000000000001,0.0164,0.0057
 2023-07-14 07:30:57.674039,Dana Open - Dana Open - Winner,A Lim Kim,0.010300000000000002,0.0244,0.0141
-2023-07-14 06:30:52.542750,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Ernie Els,0.0102,0.0769,0.0667
 2023-07-14 11:30:56.327807,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,Ottawa Redblacks,0.0102,0.0769,0.0667
+2023-07-14 06:30:52.542750,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Ernie Els,0.0102,0.0769,0.0667
 2023-07-14 07:30:57.674039,Dana Open - Dana Open - Winner,Linnea Strom,0.0101,0.0141,0.004
 2023-07-14 10:30:46.637991,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,New York Yankees,-0.010099999999999998,0.0952,0.1053
-2023-07-14 03:31:42.818522,Scottish Open - 2/3 Balls - 2nd Round 3 Balls - R. Fowler / T. Hatton / W. Clark - Outright,Wyndham Clark,-0.010099999999999998,0.3125,0.3226
 2023-07-14 10:30:46.637991,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Toronto Blue Jays,-0.010099999999999998,0.0952,0.1053
-2023-07-14 03:31:42.651268,BKFC 47 - Tony Murphy vs Michael Jones - To Win the Bout,Michael Jones,-0.010499999999999982,0.2,0.2105
+2023-07-14 03:31:42.818522,Scottish Open - 2/3 Balls - 2nd Round 3 Balls - R. Fowler / T. Hatton / W. Clark - Outright,Wyndham Clark,-0.010099999999999998,0.3125,0.3226
 2023-07-14 03:31:42.660769,BKFC 47 - Martyna Krol vs Gabrielle Roman - To Win the Bout,Gabrielle Roman,-0.010499999999999982,0.2,0.2105
+2023-07-14 03:31:42.651268,BKFC 47 - Tony Murphy vs Michael Jones - To Win the Bout,Michael Jones,-0.010499999999999982,0.2,0.2105
 2023-07-14 01:31:15.346972,Round Match-Ups - 2nd Round Match-Ups - M. Fitzpatrick vs J. Spieth - 2nd Round Match-Ups,Matthew Fitzpatrick,-0.01100000000000001,0.5238,0.5348
 2023-07-14 10:30:39.214535,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Santos Laguna,-0.011199999999999995,0.0476,0.0588
 2023-07-14 07:30:57.674039,Dana Open - Dana Open - Winner,Stephanie Meadow,-0.011300000000000001,0.001,0.0123
@@ -79,8 +78,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-14 07:30:57.674039,Dana Open - Dana Open - Winner,Lauren Coughlin,-0.0121,0.002,0.0141
 2023-07-14 08:30:53.011599,96th Academy Awards - Best Picture - Best Picture,Killers Of The Flower Moon,-0.012699999999999989,0.3509,0.3636
 2023-07-14 06:30:52.542750,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Marco Dawson,-0.0127,0.0025,0.0152
-2023-07-14 01:31:15.107869,Scottish Open - 2/3 Balls - 2nd Round 3 Balls - A. Putnam / L. Aberg / N. Colsaerts - 2nd Round 3 Balls,Nicolas Colsaerts,-0.012899999999999995,0.1538,0.1667
 2023-07-14 05:30:27.969693,Boxing Lines - Tyler Blizzard vs Shamal Ram Anuj - To Win the Bout,Shamal Ram Anuj,-0.012899999999999995,0.1538,0.1667
+2023-07-14 01:31:15.107869,Scottish Open - 2/3 Balls - 2nd Round 3 Balls - A. Putnam / L. Aberg / N. Colsaerts - 2nd Round 3 Balls,Nicolas Colsaerts,-0.012899999999999995,0.1538,0.1667
 2023-07-14 07:30:57.674039,Dana Open - Dana Open - Winner,Gabriela Ruffels,-0.0131,0.0033,0.0164
 2023-07-14 06:30:52.542750,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Dicky Pride,-0.0131,0.0033,0.0164
 2023-07-14 05:30:27.189702,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,British Columbia Lions,-0.0131,0.2222,0.2353
@@ -89,18 +88,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-14 06:30:52.542750,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Kevin Sutherland,-0.013900000000000001,0.0025,0.0164
 2023-07-14 10:30:39.226074,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Necaxa,-0.013999999999999999,0.0769,0.0909
 2023-07-14 02:31:02.086584,Scottish Open - 2/3 Balls - 2nd Round 3 Balls - A. Arnaus / H. Hall / L. List - Outright,Harry Hall,-0.01419999999999999,0.3704,0.3846
-2023-07-14 06:30:52.542750,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Paul Stankowski,-0.0142,0.001,0.0152
 2023-07-14 07:30:57.674039,Dana Open - Dana Open - Winner,Jeongeun Lee6,-0.0142,0.001,0.0152
+2023-07-14 06:30:52.542750,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Paul Stankowski,-0.0142,0.001,0.0152
 2023-07-14 05:30:27.189702,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Calgary Stampeders,-0.014399999999999996,0.0625,0.0769
-2023-07-14 08:30:53.011599,96th Academy Awards - Best Picture - Best Picture,Saltburn,-0.014899999999999997,0.0476,0.0625
 2023-07-14 08:30:53.011599,96th Academy Awards - Best Picture - Best Picture,The Killer,-0.014899999999999997,0.0476,0.0625
+2023-07-14 08:30:53.011599,96th Academy Awards - Best Picture - Best Picture,Saltburn,-0.014899999999999997,0.0476,0.0625
 2023-07-14 11:30:58.085475,Barbasol Championship - 2/3 Balls - 2nd Round 3 Balls - K. Roy / K. Westmoreland / S. Stallings - 2nd Round 3 Balls,Stephen Stallings Jr,-0.014900000000000024,0.3077,0.3226
-2023-07-14 11:30:50.310499,Hollywood Strikes - When will the Screen Actors Guild End The Strike? - When will SAG end the strike?,15th to 16th July,-0.015100000000000002,0.1667,0.1818
 2023-07-14 05:30:27.198394,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,Montreal Alouettes,-0.015100000000000002,0.1667,0.1818
+2023-07-14 11:30:50.310499,Hollywood Strikes - When will the Screen Actors Guild End The Strike? - When will SAG end the strike?,15th to 16th July,-0.015100000000000002,0.1667,0.1818
 2023-07-14 05:30:27.189702,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Ottawa Redblacks,-0.015300000000000001,0.0323,0.0476
 2023-07-14 05:30:27.961668,Boxing Lines - Jake Wyllie vs Beau Woods - To Win the Bout,Beau Woods,-0.016600000000000004,0.1739,0.1905
-2023-07-14 10:30:39.226074,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Cruz Azul,-0.016699999999999993,0.25,0.2667
 2023-07-14 03:31:42.809961,Scottish Open - 2/3 Balls - 2nd Round 3 Balls - S. Scheffler / S. Lowry / V. Hovland - Outright,Shane Lowry,-0.016699999999999993,0.25,0.2667
+2023-07-14 10:30:39.226074,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Cruz Azul,-0.016699999999999993,0.25,0.2667
 2023-07-14 05:30:27.189702,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Hamilton Tiger-Cats,-0.016700000000000007,0.0833,0.1
 2023-07-14 06:30:52.542750,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Paul Broadhurst,-0.017599999999999998,0.002,0.0196
 2023-07-14 02:31:02.086584,Scottish Open - 2/3 Balls - 2nd Round 3 Balls - A. Arnaus / H. Hall / L. List - Outright,Adri Arnaus,-0.017600000000000005,0.3333,0.3509
@@ -131,9 +130,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-14 07:30:57.674039,Dana Open - Dana Open - Winner,Grace Kim,-0.0335,0.005,0.0385
 2023-07-14 05:30:22.559359,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Los Angeles Lakers,-0.03439999999999999,0.0323,0.0667
 2023-07-14 07:30:57.674039,Dana Open - Dana Open - Winner,Brooke Henderson,-0.036199999999999996,0.0164,0.0526
+2023-07-14 03:31:42.976805,Scores - 2nd Round Score - Jordan Spieth - 2nd Round Score,Over 68.5,-0.03639999999999999,0.6,0.6364
 2023-07-14 03:31:43.066363,Scores - 2nd Round Score - Viktor Hovland - 2nd Round Score,Over 67.5,-0.03639999999999999,0.6,0.6364
 2023-07-14 03:31:43.044415,Scores - 2nd Round Score - Tommy Fleetwood - 2nd Round Score,Over 68.5,-0.03639999999999999,0.6,0.6364
-2023-07-14 03:31:42.976805,Scores - 2nd Round Score - Jordan Spieth - 2nd Round Score,Over 68.5,-0.03639999999999999,0.6,0.6364
 2023-07-14 06:30:52.542750,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Bernhard Langer,-0.0374,0.0152,0.0526
 2023-07-14 07:30:57.674039,Dana Open - Dana Open - Winner,Jin Young Ko,-0.04329999999999999,0.0476,0.0909
 2023-07-14 05:30:22.559359,NBA Summer League - 2023 NBA Las Vegas Summer League Championship - Outright Winner,Portland Trail Blazers,-0.0476,0.005,0.0526
