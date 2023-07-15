@@ -1,7 +1,9 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-14 22:31:10.361045,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Stewart Cink,0.17770000000000002,0.4444,0.2667
 2023-07-14 22:31:10.361045,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Ernie Els,0.12310000000000001,0.2,0.0769
+2023-07-15 08:31:06.571722,Dana Open - Dana Open - Winner,Allisen Corpuz,0.10119999999999998,0.1538,0.0526
 2023-07-14 22:31:10.361045,Kaulig Companies Championship - Kaulig Companies Championship - Winner,KJ Choi,0.07569999999999999,0.0909,0.0152
+2023-07-15 08:31:06.571722,Dana Open - Dana Open - Winner,Annie Park,0.0744,0.0769,0.0025
 2023-07-14 21:31:20.244067,Regular Season Wins - 2023-24 Regular Season Wins - Washington - Regular Season Wins,Under 9½,0.06789999999999996,0.5917,0.5238
 2023-07-14 20:31:39.770515,Regular Season Wins - 2023-24 Regular Season Wins - Iowa State - Regular Season Wins,Under 5½,0.06779999999999997,0.5556,0.4878
 2023-07-14 22:31:10.361045,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Harrison Frazar,0.0617,0.0769,0.0152
@@ -13,12 +15,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-14 20:31:41.056641,BKFC 47 - Martyna Krol vs Gabrielle Roman - To Win the Bout,Gabrielle Roman,0.04999999999999999,0.25,0.2
 2023-07-14 21:31:20.162537,Regular Season Wins - 2023-24 Regular Season Wins - Tennessee - Regular Season Wins,Under 9½,0.04290000000000005,0.6429,0.6
 2023-07-14 20:31:39.779378,Regular Season Wins - 2023-24 Regular Season Wins - Kansas - Regular Season Wins,Over 6½,0.0378,0.4545,0.4167
+2023-07-15 08:31:06.571722,Dana Open - Dana Open - Winner,Gemma Dryburgh,0.03660000000000001,0.0476,0.011
 2023-07-14 21:31:19.781124,Regular Season Wins - 2023-24 Regular Season Wins - UCLA - Regular Season Wins,Under 8½,0.03600000000000003,0.5238,0.4878
-2023-07-14 21:31:20.108963,Regular Season Wins - 2023-24 Regular Season Wins - Oregon St. - Regular Season Wins,Over 8½,0.035999999999999976,0.5122,0.4762
-2023-07-15 02:30:42.639150,Round Match-Ups - 3rd Round Match-Up - M.W. Lee v R. MacIntyre - 3rd Round Match-Up,Robert MacIntyre,0.035999999999999976,0.5122,0.4762
-2023-07-14 20:31:39.750524,Regular Season Wins - 2023-24 Regular Season Wins - Illinois - Regular Season Wins,Under 6½,0.035999999999999976,0.5122,0.4762
-2023-07-15 03:30:50.294334,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - S. Lowry / H. Hall / E. van Rooyen - 3rd Round 3 Balls,Shane Lowry,0.035999999999999976,0.5122,0.4762
 2023-07-15 03:30:50.256953,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - R. Fox / B. Griffin / A. Wu - 3rd Round 3 Balls,Ryan Fox,0.035999999999999976,0.5122,0.4762
+2023-07-14 21:31:20.108963,Regular Season Wins - 2023-24 Regular Season Wins - Oregon St. - Regular Season Wins,Over 8½,0.035999999999999976,0.5122,0.4762
+2023-07-15 03:30:50.294334,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - S. Lowry / H. Hall / E. van Rooyen - 3rd Round 3 Balls,Shane Lowry,0.035999999999999976,0.5122,0.4762
+2023-07-14 20:31:39.750524,Regular Season Wins - 2023-24 Regular Season Wins - Illinois - Regular Season Wins,Under 6½,0.035999999999999976,0.5122,0.4762
+2023-07-15 02:30:42.639150,Round Match-Ups - 3rd Round Match-Up - M.W. Lee v R. MacIntyre - 3rd Round Match-Up,Robert MacIntyre,0.035999999999999976,0.5122,0.4762
 2023-07-15 05:30:50.235403,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - R. Fowler / M. Homa / D. Hillier - 3rd Round 3 Balls,Rickie Fowler,0.035999999999999976,0.5122,0.4762
 2023-07-14 20:31:39.673134,Regular Season Wins - 2023-24 Regular Season Wins - BYU - Regular Season Wins,Over 5½,0.03489999999999999,0.5,0.4651
 2023-07-15 02:30:42.812884,Round Match-Ups - 3rd Round Match-Up - B. Harman v N. Hojgaard - 3rd Round Match-Up,Nicolai Hojgaard,0.03480000000000005,0.5348,0.5
@@ -27,51 +30,57 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-15 04:31:22.751645,Round Match-Ups - 3rd Round Match-Up - K.H. Lee v T. Olesen - 3rd Round Match-Up,K.H. Lee,0.03179999999999994,0.5556,0.5238
 2023-07-14 22:31:10.361045,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Jerry Kelly,0.031,0.0588,0.0278
 2023-07-15 03:30:50.264417,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - K. Kitayama / D. Riley / C. Syme - 3rd Round 3 Balls,Kurt Kitayama,0.030299999999999994,0.4651,0.4348
-2023-07-14 20:31:39.757056,Regular Season Wins - 2023-24 Regular Season Wins - Indiana - Regular Season Wins,Over 3½,0.02750000000000008,0.6429,0.6154
+2023-07-15 08:31:06.571722,Dana Open - Dana Open - Winner,Gaby Lopez,0.0279,0.0345,0.0066
 2023-07-14 21:31:20.214167,Regular Season Wins - 2023-24 Regular Season Wins - Vanderbilt - Regular Season Wins,Over 3½,0.02750000000000008,0.6429,0.6154
+2023-07-14 20:31:39.757056,Regular Season Wins - 2023-24 Regular Season Wins - Indiana - Regular Season Wins,Over 3½,0.02750000000000008,0.6429,0.6154
 2023-07-14 20:31:39.608052,Regular Season Wins - 2023-24 Regular Season Wins - Akron - Regular Season Wins,Over 3½,0.026499999999999968,0.5917,0.5652
 2023-07-14 20:31:39.829071,Regular Season Wins - 2023-24 Regular Season Wins - Michigan - Regular Season Wins,Over 10½,0.026499999999999968,0.5917,0.5652
 2023-07-14 21:31:20.033267,Regular Season Wins - 2023-24 Regular Season Wins - Missouri - Regular Season Wins,Under 6½,0.026499999999999968,0.5917,0.5652
-2023-07-15 04:31:22.771883,Round Match-Ups - 3rd Round Match-Up - E. van Rooyen v J. Lagergren - 3rd Round Match-Up,Joakim Lagergren,0.024399999999999977,0.5122,0.4878
+2023-07-15 08:31:06.571722,Dana Open - Dana Open - Winner,Lindy Duncan,0.024499999999999997,0.0278,0.0033
 2023-07-15 07:31:17.374488,Round Match-Ups - 3rd Round Match-Up - S. Scheffler v R. McIlroy - 3rd Round Match-Up,Rory McIlroy,0.024399999999999977,0.5122,0.4878
+2023-07-15 04:31:22.771883,Round Match-Ups - 3rd Round Match-Up - E. van Rooyen v J. Lagergren - 3rd Round Match-Up,Joakim Lagergren,0.024399999999999977,0.5122,0.4878
+2023-07-14 20:31:39.841152,Regular Season Wins - 2023-24 Regular Season Wins - Minnesota - Regular Season Wins,Under 6½,0.023799999999999988,0.5,0.4762
 2023-07-14 21:31:20.190345,Regular Season Wins - 2023-24 Regular Season Wins - Texas Tech - Regular Season Wins,Over 7½,0.023799999999999988,0.5,0.4762
 2023-07-14 21:31:20.173693,Regular Season Wins - 2023-24 Regular Season Wins - Texas - Regular Season Wins,Under 9½,0.023799999999999988,0.5,0.4762
-2023-07-14 20:31:39.841152,Regular Season Wins - 2023-24 Regular Season Wins - Minnesota - Regular Season Wins,Under 6½,0.023799999999999988,0.5,0.4762
 2023-07-15 04:31:22.719703,Round Match-Ups - 3rd Round Match-Up - J. Smith v A. Bjork - 3rd Round Match-Up,Alexander Bjork,0.023799999999999988,0.5,0.4762
 2023-07-14 21:31:20.120622,Regular Season Wins - 2023-24 Regular Season Wins - Pittsburgh - Regular Season Wins,Over 6½,0.023799999999999932,0.6667,0.6429
 2023-07-14 21:31:20.231081,Regular Season Wins - 2023-24 Regular Season Wins - Virginia Tech - Regular Season Wins,Under 5½,0.023699999999999943,0.6154,0.5917
+2023-07-15 08:31:06.571722,Dana Open - Dana Open - Winner,Grace Kim,0.022799999999999997,0.0278,0.005
 2023-07-14 23:32:01.609994,BKFC 47 - David Mundell vs Mike Richman - To Win the Bout,David Mundell,0.022699999999999998,0.4878,0.4651
 2023-07-14 21:31:20.087496,Regular Season Wins - 2023-24 Regular Season Wins - Oklahoma - Regular Season Wins,Under 9½,0.022600000000000064,0.5348,0.5122
 2023-07-15 03:30:50.287479,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - W. Clark / W. Gordon / T. Hoge - 3rd Round 3 Balls,Wyndham Clark,0.022600000000000064,0.5348,0.5122
-2023-07-14 20:31:39.666395,Regular Season Wins - 2023-24 Regular Season Wins - Boston College - Regular Season Wins,Under 5½,0.022600000000000064,0.5348,0.5122
 2023-07-14 20:31:39.847221,Regular Season Wins - 2023-24 Regular Season Wins - Mississippi - Regular Season Wins,Under 7½,0.022600000000000064,0.5348,0.5122
+2023-07-14 20:31:39.666395,Regular Season Wins - 2023-24 Regular Season Wins - Boston College - Regular Season Wins,Under 5½,0.022600000000000064,0.5348,0.5122
 2023-07-14 22:31:10.289449,BKFC 47 - Martyna Krol vs Gabrielle Roman - To Win the Bout,Martyna Krol,0.022199999999999998,0.8889,0.8667
 2023-07-15 07:31:17.041350,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,0.02180000000000004,0.6296,0.6078
 2023-07-15 07:31:17.057502,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,0.02169999999999994,0.5455,0.5238
 2023-07-15 04:31:22.744119,Round Match-Ups - 3rd Round Match-Up - C. Conners v J. Thomas - 3rd Round Match-Up,Corey Conners,0.02169999999999994,0.5455,0.5238
 2023-07-15 02:30:42.919735,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - S. Burns / B.H. An / B. Harman - 3rd Round 3 Balls,Byeong Hun An,0.02100000000000002,0.3846,0.3636
 2023-07-15 02:30:42.735394,Round Match-Ups - 3rd Round Match-Up - E. van Rooyen v J. Lagergren - 3rd Round Match-Up,Erik Van Rooyen,0.02079999999999993,0.5556,0.5348
-2023-07-14 20:31:39.806181,Regular Season Wins - 2023-24 Regular Season Wins - LSU - Regular Season Wins,Over 9½,0.02079999999999993,0.5556,0.5348
 2023-07-15 04:31:22.690683,Round Match-Ups - 3rd Round Match-Up - M.W. Lee v R. MacIntyre - 3rd Round Match-Up,Min Woo Lee,0.02079999999999993,0.5556,0.5348
+2023-07-14 20:31:39.806181,Regular Season Wins - 2023-24 Regular Season Wins - LSU - Regular Season Wins,Over 9½,0.02079999999999993,0.5556,0.5348
 2023-07-14 22:31:10.316333,BKFC 47 - David Mundell vs Mike Richman - To Win the Bout,David Mundell,0.020699999999999996,0.4651,0.4444
 2023-07-15 07:31:17.028876,MLB Futures - MLB 2023 National League West - National League West Winner,San Francisco Giants,0.02049999999999999,0.1538,0.1333
 2023-07-15 00:30:43.237792,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Donald Trump,0.020100000000000007,0.7701,0.75
+2023-07-15 06:30:50.791320,Round Match-Ups - 3rd Round Match-Up - S. Burns v B.H. An - 3rd Round Match-Up,Sam Burns,0.01970000000000005,0.5652,0.5455
 2023-07-15 05:30:50.200327,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - V. Hovland / Y. Paul / T. Olesen - 3rd Round 3 Balls,Viktor Hovland,0.01970000000000005,0.5652,0.5455
 2023-07-15 02:30:42.688277,Round Match-Ups - 3rd Round Match-Up - J. Smith v A. Bjork - 3rd Round Match-Up,Jordan Smith,0.01970000000000005,0.5652,0.5455
-2023-07-15 06:30:50.791320,Round Match-Ups - 3rd Round Match-Up - S. Burns v B.H. An - 3rd Round Match-Up,Sam Burns,0.01970000000000005,0.5652,0.5455
 2023-07-14 21:31:20.506798,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Alabama,0.0184,0.1923,0.1739
+2023-07-15 08:31:06.571722,Dana Open - Dana Open - Winner,Maria Fassi,0.0179,0.0278,0.0099
 2023-07-15 06:30:50.611217,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - G. Green / M. Schneider / R. Langasque - 3rd Round 3 Balls,Romain Langasque,0.017600000000000005,0.3509,0.3333
+2023-07-15 08:31:06.571722,Dana Open - Dana Open - Winner,Jeongeun Lee5,0.017599999999999998,0.0196,0.002
 2023-07-14 22:31:10.302891,BKFC 47 - Brandon Allen vs Seth Shaffer - To Win the Bout,Brandon Allen,0.01759999999999995,0.6667,0.6491
 2023-07-14 20:31:39.723848,Regular Season Wins - 2023-24 Regular Season Wins - Florida State - Regular Season Wins,Over 9½,0.017299999999999982,0.5917,0.5744
 2023-07-15 03:30:49.660592,Boxing Lines - Conor Wallace vs Mat Sheehan - To Win the Bout,Mat Sheehan,0.017299999999999982,0.303,0.2857
 2023-07-15 02:30:42.807201,Round Match-Ups - 3rd Round Match-Up - R. Fowler v M. Homa - 3rd Round Match-Up,Rickie Fowler,0.016699999999999937,0.6,0.5833
 2023-07-15 05:30:50.241139,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - S. Scheffler / P. Harrington / N. Hojgaard - 3rd Round 3 Balls,Scottie Scheffler,0.016699999999999937,0.6,0.5833
+2023-07-15 08:31:06.571722,Dana Open - Dana Open - Winner,Matilda Castren,0.0159,0.0323,0.0164
 2023-07-15 02:30:42.896603,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - S. Lowry / H. Hall / E. van Rooyen - 3rd Round 3 Balls,Harry Hall,0.015400000000000025,0.4,0.3846
 2023-07-14 20:31:39.679278,Regular Season Wins - 2023-24 Regular Season Wins - California - Regular Season Wins,Under 5½,0.01539999999999997,0.6154,0.6
 2023-07-14 22:31:10.361045,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Bernhard Langer,0.014199999999999999,0.0294,0.0152
 2023-07-15 07:31:17.050534,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Baltimore Orioles,0.013999999999999999,0.0909,0.0769
-2023-07-14 20:31:39.617513,Regular Season Wins - 2023-24 Regular Season Wins - Alabama - Regular Season Wins,Under 10½,0.013299999999999979,0.6429,0.6296
 2023-07-14 20:31:39.763776,Regular Season Wins - 2023-24 Regular Season Wins - Iowa - Regular Season Wins,Over 7½,0.013299999999999979,0.6429,0.6296
+2023-07-14 20:31:39.617513,Regular Season Wins - 2023-24 Regular Season Wins - Alabama - Regular Season Wins,Under 10½,0.013299999999999979,0.6429,0.6296
 2023-07-15 07:31:17.022443,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Atlanta Braves,0.01319999999999999,0.2632,0.25
 2023-07-14 23:32:01.573100,BKFC 47 - Crystal Pittman vs Toni Tallman - To Win the Bout,Crystal Pittman,0.0131,0.7778,0.7647
 2023-07-14 22:31:10.361045,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Rod Pampling,0.013,0.0196,0.0066
@@ -79,29 +88,34 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-14 20:31:39.715161,Regular Season Wins - 2023-24 Regular Season Wins - Florida - Regular Season Wins,Under 5½,0.012199999999999989,0.5122,0.5
 2023-07-14 21:31:20.102556,Regular Season Wins - 2023-24 Regular Season Wins - Oregon - Regular Season Wins,Over 9½,0.011600000000000055,0.5238,0.5122
 2023-07-14 20:31:39.744608,Regular Season Wins - 2023-24 Regular Season Wins - Houston - Regular Season Wins,Under 4½,0.0116,0.4878,0.4762
+2023-07-15 08:31:06.571722,Dana Open - Dana Open - Winner,Stephanie Kyriacou,0.0114,0.0164,0.005
 2023-07-14 20:31:39.730428,Regular Season Wins - 2023-24 Regular Season Wins - Georgia - Regular Season Wins,Over 11½,0.011099999999999999,0.4762,0.4651
-2023-07-14 20:31:39.652203,Regular Season Wins - 2023-24 Regular Season Wins - Auburn - Regular Season Wins,Under 6½,0.011099999999999999,0.4762,0.4651
 2023-07-14 21:31:20.040095,Regular Season Wins - 2023-24 Regular Season Wins - Nebraska - Regular Season Wins,Over 6½,0.011099999999999999,0.4762,0.4651
+2023-07-14 21:31:20.222647,Regular Season Wins - 2023-24 Regular Season Wins - Virginia - Regular Season Wins,Over 3½,0.011099999999999999,0.4762,0.4651
 2023-07-14 20:31:39.634996,Regular Season Wins - 2023-24 Regular Season Wins - Arizona State - Regular Season Wins,Under 4½,0.011099999999999999,0.4762,0.4651
 2023-07-14 21:31:20.257315,Regular Season Wins - 2023-24 Regular Season Wins - West Virginia - Regular Season Wins,Under 4½,0.011099999999999999,0.4762,0.4651
 2023-07-14 20:31:39.835055,Regular Season Wins - 2023-24 Regular Season Wins - Michigan St. - Regular Season Wins,Over 5½,0.011099999999999999,0.4762,0.4651
-2023-07-14 21:31:20.222647,Regular Season Wins - 2023-24 Regular Season Wins - Virginia - Regular Season Wins,Over 3½,0.011099999999999999,0.4762,0.4651
+2023-07-14 20:31:39.652203,Regular Season Wins - 2023-24 Regular Season Wins - Auburn - Regular Season Wins,Under 6½,0.011099999999999999,0.4762,0.4651
 2023-07-14 21:31:20.069602,Regular Season Wins - 2023-24 Regular Season Wins - Notre Dame - Regular Season Wins,Under 8½,0.01100000000000001,0.5348,0.5238
 2023-07-14 21:31:20.078766,Regular Season Wins - 2023-24 Regular Season Wins - Ohio St. - Regular Season Wins,Under 10½,0.010699999999999932,0.5455,0.5348
+2023-07-15 08:31:06.571722,Dana Open - Dana Open - Winner,Linnea Strom,0.010300000000000002,0.0244,0.0141
+2023-07-15 08:31:06.571722,Dana Open - Dana Open - Winner,Brittany Altomare,0.0103,0.0123,0.002
+2023-07-15 08:31:00.303319,Superettan - Superettan 2023 - Winner,Östers IF,0.0102,0.0769,0.0667
 2023-07-14 21:31:20.145460,Regular Season Wins - 2023-24 Regular Season Wins - Syracuse - Regular Season Wins,Over 6½,0.010099999999999998,0.4545,0.4444
-2023-07-14 20:31:39.626408,Regular Season Wins - 2023-24 Regular Season Wins - Arizona - Regular Season Wins,Over 5½,-0.010099999999999998,0.4444,0.4545
 2023-07-14 21:31:20.102556,Regular Season Wins - 2023-24 Regular Season Wins - Oregon - Regular Season Wins,Under 9½,-0.010099999999999998,0.5455,0.5556
+2023-07-14 20:31:39.626408,Regular Season Wins - 2023-24 Regular Season Wins - Arizona - Regular Season Wins,Over 5½,-0.010099999999999998,0.4444,0.4545
 2023-07-14 20:31:39.793121,Regular Season Wins - 2023-24 Regular Season Wins - Kentucky - Regular Season Wins,Under 6½,-0.010099999999999998,0.4444,0.4545
+2023-07-15 08:31:06.571722,Dana Open - Dana Open - Winner,Hye Jin Choi,-0.0103,0.002,0.0123
 2023-07-15 07:31:17.028876,MLB Futures - MLB 2023 National League West - National League West Winner,Arizona Diamondbacks,-0.010399999999999993,0.2222,0.2326
 2023-07-14 20:31:39.679278,Regular Season Wins - 2023-24 Regular Season Wins - California - Regular Season Wins,Over 5½,-0.010599999999999998,0.4545,0.4651
 2023-07-14 21:31:20.069602,Regular Season Wins - 2023-24 Regular Season Wins - Notre Dame - Regular Season Wins,Over 8½,-0.010699999999999932,0.5348,0.5455
 2023-07-15 03:30:49.646087,Boxing Lines - Tyler Blizzard vs Shamal Ram Anuj - To Win the Bout,Shamal Ram Anuj,-0.010899999999999993,0.1429,0.1538
 2023-07-14 21:31:20.078766,Regular Season Wins - 2023-24 Regular Season Wins - Ohio St. - Regular Season Wins,Over 10½,-0.01100000000000001,0.5238,0.5348
-2023-07-14 20:31:39.853282,Regular Season Wins - 2023-24 Regular Season Wins - Mississippi St. - Regular Season Wins,Over 6½,-0.011099999999999999,0.4651,0.4762
 2023-07-15 07:31:17.041350,MLB Futures - MLB 2023 American League Central - American League Central Winner,Cleveland Guardians,-0.011099999999999999,0.4651,0.4762
+2023-07-14 20:31:39.853282,Regular Season Wins - 2023-24 Regular Season Wins - Mississippi St. - Regular Season Wins,Over 6½,-0.011099999999999999,0.4651,0.4762
 2023-07-14 20:31:39.723848,Regular Season Wins - 2023-24 Regular Season Wins - Florida State - Regular Season Wins,Under 9½,-0.0116,0.4762,0.4878
-2023-07-15 03:30:50.287479,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - W. Clark / W. Gordon / T. Hoge - 3rd Round 3 Balls,Tom Hoge,-0.011699999999999988,0.274,0.2857
 2023-07-15 05:30:50.200327,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - V. Hovland / Y. Paul / T. Olesen - 3rd Round 3 Balls,Yannik Paul,-0.011699999999999988,0.274,0.2857
+2023-07-15 03:30:50.287479,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - W. Clark / W. Gordon / T. Hoge - 3rd Round 3 Balls,Tom Hoge,-0.011699999999999988,0.274,0.2857
 2023-07-15 03:30:50.256953,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - R. Fox / B. Griffin / A. Wu - 3rd Round 3 Balls,Ashun Wu,-0.011899999999999994,0.2381,0.25
 2023-07-14 21:31:20.206322,Regular Season Wins - 2023-24 Regular Season Wins - Utah - Regular Season Wins,Over 8½,-0.012199999999999989,0.4878,0.5
 2023-07-15 00:30:43.237792,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Glenn Youngkin,-0.012700000000000003,0.0196,0.0323
@@ -115,17 +129,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-14 21:31:20.506798,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Florida State,-0.014899999999999997,0.0476,0.0625
 2023-07-15 05:30:50.235403,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - R. Fowler / M. Homa / D. Hillier - 3rd Round 3 Balls,Daniel Hillier,-0.015899999999999997,0.2222,0.2381
 2023-07-15 02:30:42.896603,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - S. Lowry / H. Hall / E. van Rooyen - 3rd Round 3 Balls,Erik Van Rooyen,-0.015899999999999997,0.2222,0.2381
+2023-07-15 08:31:06.571722,Dana Open - Dana Open - Winner,Sarah Schmelzel,-0.0165,0.0079,0.0244
 2023-07-14 22:31:10.302891,BKFC 47 - Brandon Allen vs Seth Shaffer - To Win the Bout,Seth Shaffer,-0.016699999999999993,0.4,0.4167
-2023-07-14 20:31:39.744608,Regular Season Wins - 2023-24 Regular Season Wins - Houston - Regular Season Wins,Over 4½,-0.017299999999999982,0.5744,0.5917
 2023-07-14 23:32:01.573100,BKFC 47 - Crystal Pittman vs Toni Tallman - To Win the Bout,Toni Tallman,-0.017299999999999982,0.2857,0.303
+2023-07-14 20:31:39.744608,Regular Season Wins - 2023-24 Regular Season Wins - Houston - Regular Season Wins,Over 4½,-0.017299999999999982,0.5744,0.5917
 2023-07-14 20:31:40.459221,MLB Specials - 2023 Trade Deadline Specials  - Where Will Lucas Giolito Play After the 2023 MLB Trade Deadline,Philadelphia Phillies,-0.01820000000000002,0.1818,0.2
 2023-07-15 03:30:50.264417,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - K. Kitayama / D. Riley / C. Syme - 3rd Round 3 Balls,Davis Riley,-0.018799999999999983,0.3448,0.3636
+2023-07-15 08:31:06.571722,Dana Open - Dana Open - Winner,Aditi Ashok,-0.019099999999999995,0.0244,0.0435
 2023-07-15 04:31:22.719703,Round Match-Ups - 3rd Round Match-Up - J. Smith v A. Bjork - 3rd Round Match-Up,Jordan Smith,-0.01970000000000005,0.5455,0.5652
 2023-07-15 02:30:42.807201,Round Match-Ups - 3rd Round Match-Up - R. Fowler v M. Homa - 3rd Round Match-Up,Max Homa,-0.020699999999999996,0.4444,0.4651
-2023-07-14 21:31:20.087496,Regular Season Wins - 2023-24 Regular Season Wins - Oklahoma - Regular Season Wins,Over 9½,-0.02079999999999993,0.5348,0.5556
-2023-07-15 07:31:17.374488,Round Match-Ups - 3rd Round Match-Up - S. Scheffler v R. McIlroy - 3rd Round Match-Up,Scottie Scheffler,-0.02079999999999993,0.5348,0.5556
-2023-07-14 20:31:39.847221,Regular Season Wins - 2023-24 Regular Season Wins - Mississippi - Regular Season Wins,Over 7½,-0.02079999999999993,0.5348,0.5556
 2023-07-15 04:31:22.771883,Round Match-Ups - 3rd Round Match-Up - E. van Rooyen v J. Lagergren - 3rd Round Match-Up,Erik Van Rooyen,-0.02079999999999993,0.5348,0.5556
+2023-07-14 20:31:39.847221,Regular Season Wins - 2023-24 Regular Season Wins - Mississippi - Regular Season Wins,Over 7½,-0.02079999999999993,0.5348,0.5556
+2023-07-15 07:31:17.374488,Round Match-Ups - 3rd Round Match-Up - S. Scheffler v R. McIlroy - 3rd Round Match-Up,Scottie Scheffler,-0.02079999999999993,0.5348,0.5556
+2023-07-14 21:31:20.087496,Regular Season Wins - 2023-24 Regular Season Wins - Oklahoma - Regular Season Wins,Over 9½,-0.02079999999999993,0.5348,0.5556
 2023-07-14 20:31:39.666395,Regular Season Wins - 2023-24 Regular Season Wins - Boston College - Regular Season Wins,Over 5½,-0.02079999999999993,0.5348,0.5556
 2023-07-15 02:30:42.919735,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - S. Burns / B.H. An / B. Harman - 3rd Round 3 Balls,Brian Harman,-0.020799999999999985,0.3125,0.3333
 2023-07-15 05:30:50.235403,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - R. Fowler / M. Homa / D. Hillier - 3rd Round 3 Balls,Max Homa,-0.02100000000000002,0.3636,0.3846
@@ -133,24 +149,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-15 06:30:50.611217,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - G. Green / M. Schneider / R. Langasque - 3rd Round 3 Balls,Gavin Green,-0.02260000000000001,0.3774,0.4
 2023-07-14 20:31:39.806181,Regular Season Wins - 2023-24 Regular Season Wins - LSU - Regular Season Wins,Under 9½,-0.022600000000000064,0.5122,0.5348
 2023-07-14 22:31:10.316333,BKFC 47 - David Mundell vs Mike Richman - To Win the Bout,Mike Richman,-0.022600000000000064,0.6,0.6226
-2023-07-14 20:31:39.829071,Regular Season Wins - 2023-24 Regular Season Wins - Michigan - Regular Season Wins,Under 10½,-0.023799999999999988,0.4762,0.5
 2023-07-15 06:30:50.791320,Round Match-Ups - 3rd Round Match-Up - S. Burns v B.H. An - 3rd Round Match-Up,Byeong Hun An,-0.023799999999999988,0.4762,0.5
-2023-07-15 02:30:42.688277,Round Match-Ups - 3rd Round Match-Up - J. Smith v A. Bjork - 3rd Round Match-Up,Alexander Bjork,-0.023799999999999988,0.4762,0.5
 2023-07-14 20:31:39.608052,Regular Season Wins - 2023-24 Regular Season Wins - Akron - Regular Season Wins,Under 3½,-0.023799999999999988,0.4762,0.5
 2023-07-14 21:31:20.033267,Regular Season Wins - 2023-24 Regular Season Wins - Missouri - Regular Season Wins,Over 6½,-0.023799999999999988,0.4762,0.5
+2023-07-15 02:30:42.688277,Round Match-Ups - 3rd Round Match-Up - J. Smith v A. Bjork - 3rd Round Match-Up,Alexander Bjork,-0.023799999999999988,0.4762,0.5
+2023-07-14 20:31:39.829071,Regular Season Wins - 2023-24 Regular Season Wins - Michigan - Regular Season Wins,Under 10½,-0.023799999999999988,0.4762,0.5
 2023-07-15 04:31:22.744119,Round Match-Ups - 3rd Round Match-Up - C. Conners v J. Thomas - 3rd Round Match-Up,Justin Thomas,-0.023800000000000043,0.5,0.5238
 2023-07-14 23:31:57.140367,FIBA World Cup - FIBA World Cup 2023 - Outright,Greece,-0.0242,0.0667,0.0909
-2023-07-15 04:31:22.690683,Round Match-Ups - 3rd Round Match-Up - M.W. Lee v R. MacIntyre - 3rd Round Match-Up,Robert MacIntyre,-0.024399999999999977,0.4878,0.5122
 2023-07-15 02:30:42.735394,Round Match-Ups - 3rd Round Match-Up - E. van Rooyen v J. Lagergren - 3rd Round Match-Up,Joakim Lagergren,-0.024399999999999977,0.4878,0.5122
+2023-07-15 04:31:22.690683,Round Match-Ups - 3rd Round Match-Up - M.W. Lee v R. MacIntyre - 3rd Round Match-Up,Robert MacIntyre,-0.024399999999999977,0.4878,0.5122
 2023-07-14 21:31:20.120622,Regular Season Wins - 2023-24 Regular Season Wins - Pittsburgh - Regular Season Wins,Under 6½,-0.025499999999999967,0.4,0.4255
 2023-07-14 23:32:01.609994,BKFC 47 - David Mundell vs Mike Richman - To Win the Bout,Mike Richman,-0.025599999999999956,0.5744,0.6
 2023-07-15 03:30:50.256953,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - R. Fox / B. Griffin / A. Wu - 3rd Round 3 Balls,Ben Griffin,-0.02560000000000001,0.3448,0.3704
-2023-07-14 20:31:39.841152,Regular Season Wins - 2023-24 Regular Season Wins - Minnesota - Regular Season Wins,Over 6½,-0.026499999999999968,0.5652,0.5917
-2023-07-14 21:31:20.190345,Regular Season Wins - 2023-24 Regular Season Wins - Texas Tech - Regular Season Wins,Under 7½,-0.026499999999999968,0.5652,0.5917
 2023-07-14 21:31:20.173693,Regular Season Wins - 2023-24 Regular Season Wins - Texas - Regular Season Wins,Over 9½,-0.026499999999999968,0.5652,0.5917
+2023-07-14 21:31:20.190345,Regular Season Wins - 2023-24 Regular Season Wins - Texas Tech - Regular Season Wins,Under 7½,-0.026499999999999968,0.5652,0.5917
+2023-07-14 20:31:39.841152,Regular Season Wins - 2023-24 Regular Season Wins - Minnesota - Regular Season Wins,Over 6½,-0.026499999999999968,0.5652,0.5917
 2023-07-14 21:31:19.781124,Regular Season Wins - 2023-24 Regular Season Wins - UCLA - Regular Season Wins,Over 8½,-0.028900000000000037,0.5455,0.5744
-2023-07-14 21:31:20.214167,Regular Season Wins - 2023-24 Regular Season Wins - Vanderbilt - Regular Season Wins,Under 3½,-0.029000000000000026,0.4255,0.4545
 2023-07-14 20:31:39.757056,Regular Season Wins - 2023-24 Regular Season Wins - Indiana - Regular Season Wins,Under 3½,-0.029000000000000026,0.4255,0.4545
+2023-07-14 21:31:20.214167,Regular Season Wins - 2023-24 Regular Season Wins - Vanderbilt - Regular Season Wins,Under 3½,-0.029000000000000026,0.4255,0.4545
 2023-07-15 03:30:50.294334,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - S. Lowry / H. Hall / E. van Rooyen - 3rd Round 3 Balls,Harry Hall,-0.029600000000000015,0.3704,0.4
 2023-07-15 02:30:42.639150,Round Match-Ups - 3rd Round Match-Up - M.W. Lee v R. MacIntyre - 3rd Round Match-Up,Min Woo Lee,-0.030399999999999983,0.5348,0.5652
 2023-07-14 20:31:39.685882,Regular Season Wins - 2023-24 Regular Season Wins - Cincinnati - Regular Season Wins,Under 5½,-0.03090000000000004,0.5917,0.6226
@@ -162,11 +178,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-15 04:31:22.751645,Round Match-Ups - 3rd Round Match-Up - K.H. Lee v T. Olesen - 3rd Round Match-Up,Thorbjorn Olesen,-0.03600000000000003,0.4878,0.5238
 2023-07-14 20:31:39.750524,Regular Season Wins - 2023-24 Regular Season Wins - Illinois - Regular Season Wins,Over 6½,-0.03610000000000002,0.5556,0.5917
 2023-07-14 21:31:20.108963,Regular Season Wins - 2023-24 Regular Season Wins - Oregon St. - Regular Season Wins,Under 8½,-0.03610000000000002,0.5556,0.5917
+2023-07-15 08:31:06.571722,Dana Open - Dana Open - Winner,Sei Young Kim,-0.0385,0.005,0.0435
 2023-07-14 21:31:20.162537,Regular Season Wins - 2023-24 Regular Season Wins - Tennessee - Regular Season Wins,Over 9½,-0.039600000000000024,0.4255,0.4651
 2023-07-14 22:31:10.361045,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Alex Cejka,-0.04229999999999999,0.0244,0.0667
 2023-07-14 22:31:10.361045,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Brett Quigley,-0.0451,0.0025,0.0476
 2023-07-14 20:31:39.799424,Regular Season Wins - 2023-24 Regular Season Wins - Louisville - Regular Season Wins,Under 7½,-0.045499999999999985,0.4545,0.5
 2023-07-14 21:31:20.237784,Regular Season Wins - 2023-24 Regular Season Wins - Wake Forest - Regular Season Wins,Under 6½,-0.05130000000000001,0.6154,0.6667
+2023-07-15 08:31:06.571722,Dana Open - Dana Open - Winner,Xiyu Lin,-0.05379999999999999,0.1,0.1538
 2023-07-14 20:31:39.738352,Regular Season Wins - 2023-24 Regular Season Wins - Georgia Tech - Regular Season Wins,Under 4½,-0.05689999999999995,0.5348,0.5917
 2023-07-14 23:31:57.181971,FIBA World Cup - FIBA World Cup 2023 - Group H Winner,France,-0.05860000000000004,0.4762,0.5348
 2023-07-14 20:31:39.770515,Regular Season Wins - 2023-24 Regular Season Wins - Iowa State - Regular Season Wins,Over 5½,-0.06220000000000003,0.5122,0.5744
