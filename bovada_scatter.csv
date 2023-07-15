@@ -1,13 +1,11 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-15 08:31:06.571722,Dana Open - Dana Open - Winner,Allisen Corpuz,0.10119999999999998,0.1538,0.0526
 2023-07-15 08:31:06.571722,Dana Open - Dana Open - Winner,Annie Park,0.0744,0.0769,0.0025
-2023-07-14 23:31:57.140367,FIBA World Cup - FIBA World Cup 2023 - Outright,Canada,0.058300000000000005,0.125,0.0667
-2023-07-14 23:31:57.181971,FIBA World Cup - FIBA World Cup 2023 - Group H Winner,Canada,0.05559999999999998,0.5556,0.5
 2023-07-15 08:31:06.571722,Dana Open - Dana Open - Winner,Gemma Dryburgh,0.03660000000000001,0.0476,0.011
-2023-07-15 03:30:50.256953,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - R. Fox / B. Griffin / A. Wu - 3rd Round 3 Balls,Ryan Fox,0.035999999999999976,0.5122,0.4762
-2023-07-15 05:30:50.235403,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - R. Fowler / M. Homa / D. Hillier - 3rd Round 3 Balls,Rickie Fowler,0.035999999999999976,0.5122,0.4762
-2023-07-15 03:30:50.294334,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - S. Lowry / H. Hall / E. van Rooyen - 3rd Round 3 Balls,Shane Lowry,0.035999999999999976,0.5122,0.4762
 2023-07-15 02:30:42.639150,Round Match-Ups - 3rd Round Match-Up - M.W. Lee v R. MacIntyre - 3rd Round Match-Up,Robert MacIntyre,0.035999999999999976,0.5122,0.4762
+2023-07-15 05:30:50.235403,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - R. Fowler / M. Homa / D. Hillier - 3rd Round 3 Balls,Rickie Fowler,0.035999999999999976,0.5122,0.4762
+2023-07-15 03:30:50.256953,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - R. Fox / B. Griffin / A. Wu - 3rd Round 3 Balls,Ryan Fox,0.035999999999999976,0.5122,0.4762
+2023-07-15 03:30:50.294334,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - S. Lowry / H. Hall / E. van Rooyen - 3rd Round 3 Balls,Shane Lowry,0.035999999999999976,0.5122,0.4762
 2023-07-15 02:30:42.812884,Round Match-Ups - 3rd Round Match-Up - B. Harman v N. Hojgaard - 3rd Round Match-Up,Nicolai Hojgaard,0.03480000000000005,0.5348,0.5
 2023-07-15 04:31:22.751645,Round Match-Ups - 3rd Round Match-Up - K.H. Lee v T. Olesen - 3rd Round Match-Up,K.H. Lee,0.03179999999999994,0.5556,0.5238
 2023-07-15 03:30:50.264417,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - K. Kitayama / D. Riley / C. Syme - 3rd Round 3 Balls,Kurt Kitayama,0.030299999999999994,0.4651,0.4348
@@ -17,20 +15,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-15 07:31:17.374488,Round Match-Ups - 3rd Round Match-Up - S. Scheffler v R. McIlroy - 3rd Round Match-Up,Rory McIlroy,0.024399999999999977,0.5122,0.4878
 2023-07-15 04:31:22.719703,Round Match-Ups - 3rd Round Match-Up - J. Smith v A. Bjork - 3rd Round Match-Up,Alexander Bjork,0.023799999999999988,0.5,0.4762
 2023-07-15 08:31:06.571722,Dana Open - Dana Open - Winner,Grace Kim,0.022799999999999997,0.0278,0.005
-2023-07-14 23:32:01.609994,BKFC 47 - David Mundell vs Mike Richman - To Win the Bout,David Mundell,0.022699999999999998,0.4878,0.4651
 2023-07-15 10:31:04.629488,Round Match-Ups - 3rd Round Match-Up - D. Ford vs K. Hickok - 3rd Round Match-Up,Kramer Hickok,0.022600000000000064,0.5348,0.5122
 2023-07-15 03:30:50.287479,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - W. Clark / W. Gordon / T. Hoge - 3rd Round 3 Balls,Wyndham Clark,0.022600000000000064,0.5348,0.5122
 2023-07-15 07:31:17.041350,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,0.02180000000000004,0.6296,0.6078
-2023-07-15 04:31:22.744119,Round Match-Ups - 3rd Round Match-Up - C. Conners v J. Thomas - 3rd Round Match-Up,Corey Conners,0.02169999999999994,0.5455,0.5238
 2023-07-15 07:31:17.057502,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,0.02169999999999994,0.5455,0.5238
+2023-07-15 04:31:22.744119,Round Match-Ups - 3rd Round Match-Up - C. Conners v J. Thomas - 3rd Round Match-Up,Corey Conners,0.02169999999999994,0.5455,0.5238
 2023-07-15 02:30:42.919735,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - S. Burns / B.H. An / B. Harman - 3rd Round 3 Balls,Byeong Hun An,0.02100000000000002,0.3846,0.3636
-2023-07-15 02:30:42.735394,Round Match-Ups - 3rd Round Match-Up - E. van Rooyen v J. Lagergren - 3rd Round Match-Up,Erik Van Rooyen,0.02079999999999993,0.5556,0.5348
 2023-07-15 04:31:22.690683,Round Match-Ups - 3rd Round Match-Up - M.W. Lee v R. MacIntyre - 3rd Round Match-Up,Min Woo Lee,0.02079999999999993,0.5556,0.5348
+2023-07-15 02:30:42.735394,Round Match-Ups - 3rd Round Match-Up - E. van Rooyen v J. Lagergren - 3rd Round Match-Up,Erik Van Rooyen,0.02079999999999993,0.5556,0.5348
 2023-07-15 07:31:17.028876,MLB Futures - MLB 2023 National League West - National League West Winner,San Francisco Giants,0.02049999999999999,0.1538,0.1333
-2023-07-15 00:30:43.237792,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Donald Trump,0.020100000000000007,0.7701,0.75
+2023-07-15 05:30:50.200327,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - V. Hovland / Y. Paul / T. Olesen - 3rd Round 3 Balls,Viktor Hovland,0.01970000000000005,0.5652,0.5455
 2023-07-15 06:30:50.791320,Round Match-Ups - 3rd Round Match-Up - S. Burns v B.H. An - 3rd Round Match-Up,Sam Burns,0.01970000000000005,0.5652,0.5455
 2023-07-15 02:30:42.688277,Round Match-Ups - 3rd Round Match-Up - J. Smith v A. Bjork - 3rd Round Match-Up,Jordan Smith,0.01970000000000005,0.5652,0.5455
-2023-07-15 05:30:50.200327,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - V. Hovland / Y. Paul / T. Olesen - 3rd Round 3 Balls,Viktor Hovland,0.01970000000000005,0.5652,0.5455
 2023-07-15 08:31:06.571722,Dana Open - Dana Open - Winner,Maria Fassi,0.0179,0.0278,0.0099
 2023-07-15 06:30:50.611217,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - G. Green / M. Schneider / R. Langasque - 3rd Round 3 Balls,Romain Langasque,0.017600000000000005,0.3509,0.3333
 2023-07-15 08:31:06.571722,Dana Open - Dana Open - Winner,Jeongeun Lee5,0.017599999999999998,0.0196,0.002
@@ -41,7 +37,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-15 02:30:42.896603,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - S. Lowry / H. Hall / E. van Rooyen - 3rd Round 3 Balls,Harry Hall,0.015400000000000025,0.4,0.3846
 2023-07-15 07:31:17.050534,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Baltimore Orioles,0.013999999999999999,0.0909,0.0769
 2023-07-15 07:31:17.022443,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Atlanta Braves,0.01319999999999999,0.2632,0.25
-2023-07-14 23:32:01.573100,BKFC 47 - Crystal Pittman vs Toni Tallman - To Win the Bout,Crystal Pittman,0.0131,0.7778,0.7647
 2023-07-15 02:30:42.902451,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - G. Forrest / E. Ferguson / S. Soderberg - 3rd Round 3 Balls,Sebastian Soderberg,0.012699999999999989,0.3636,0.3509
 2023-07-15 08:31:06.571722,Dana Open - Dana Open - Winner,Stephanie Kyriacou,0.0114,0.0164,0.005
 2023-07-15 11:30:53.579105,Futures - The Open Championship 2023 - Winner,Shane Lowry,0.010700000000000001,0.0385,0.0278
@@ -57,27 +52,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-15 03:30:50.287479,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - W. Clark / W. Gordon / T. Hoge - 3rd Round 3 Balls,Tom Hoge,-0.011699999999999988,0.274,0.2857
 2023-07-15 03:30:50.256953,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - R. Fox / B. Griffin / A. Wu - 3rd Round 3 Balls,Ashun Wu,-0.011899999999999994,0.2381,0.25
 2023-07-15 11:30:53.579105,Futures - The Open Championship 2023 - Winner,Talor Gooch,-0.012100000000000001,0.0123,0.0244
-2023-07-15 00:30:43.237792,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Glenn Youngkin,-0.012700000000000003,0.0196,0.0323
 2023-07-15 11:30:53.579105,Futures - The Open Championship 2023 - Winner,Cameron Young,-0.012700000000000003,0.0196,0.0323
-2023-07-14 23:32:01.602904,BKFC 47 - Jared Warren vs Josh Dyer - To Win the Bout,Jared Warren,-0.012700000000000045,0.6364,0.6491
 2023-07-15 03:30:49.660592,Boxing Lines - Conor Wallace vs Mat Sheehan - To Win the Bout,Conor Wallace,-0.0131,0.7647,0.7778
 2023-07-15 05:30:50.241139,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - S. Scheffler / P. Harrington / N. Hojgaard - 3rd Round 3 Balls,Padraig Harrington,-0.01319999999999999,0.25,0.2632
 2023-07-15 02:30:42.902451,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - G. Forrest / E. Ferguson / S. Soderberg - 3rd Round 3 Balls,Grant Forrest,-0.013800000000000034,0.3636,0.3774
-2023-07-14 23:31:57.140367,FIBA World Cup - FIBA World Cup 2023 - Outright,USA,-0.014200000000000101,0.6154,0.6296
 2023-07-15 11:30:53.579105,Futures - The Open Championship 2023 - Winner,Jason Day,-0.0145,0.0099,0.0244
-2023-07-15 05:30:50.235403,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - R. Fowler / M. Homa / D. Hillier - 3rd Round 3 Balls,Daniel Hillier,-0.015899999999999997,0.2222,0.2381
 2023-07-15 02:30:42.896603,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - S. Lowry / H. Hall / E. van Rooyen - 3rd Round 3 Balls,Erik Van Rooyen,-0.015899999999999997,0.2222,0.2381
+2023-07-15 05:30:50.235403,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - R. Fowler / M. Homa / D. Hillier - 3rd Round 3 Balls,Daniel Hillier,-0.015899999999999997,0.2222,0.2381
 2023-07-15 11:30:53.579105,Futures - The Open Championship 2023 - Winner,Bryson DeChambeau,-0.0159,0.0164,0.0323
 2023-07-15 08:31:06.571722,Dana Open - Dana Open - Winner,Sarah Schmelzel,-0.0165,0.0079,0.0244
 2023-07-15 11:30:53.579105,Futures - The Open Championship 2023 - Winner,Jon Rahm,-0.016600000000000004,0.0667,0.0833
-2023-07-14 23:32:01.573100,BKFC 47 - Crystal Pittman vs Toni Tallman - To Win the Bout,Toni Tallman,-0.017299999999999982,0.2857,0.303
 2023-07-15 11:30:53.579105,Futures - The Open Championship 2023 - Winner,Brooks Koepka,-0.018099999999999998,0.0588,0.0769
 2023-07-15 03:30:50.264417,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - K. Kitayama / D. Riley / C. Syme - 3rd Round 3 Balls,Davis Riley,-0.018799999999999983,0.3448,0.3636
 2023-07-15 08:31:06.571722,Dana Open - Dana Open - Winner,Aditi Ashok,-0.019099999999999995,0.0244,0.0435
 2023-07-15 04:31:22.719703,Round Match-Ups - 3rd Round Match-Up - J. Smith v A. Bjork - 3rd Round Match-Up,Jordan Smith,-0.01970000000000005,0.5455,0.5652
 2023-07-15 02:30:42.807201,Round Match-Ups - 3rd Round Match-Up - R. Fowler v M. Homa - 3rd Round Match-Up,Max Homa,-0.020699999999999996,0.4444,0.4651
-2023-07-15 07:31:17.374488,Round Match-Ups - 3rd Round Match-Up - S. Scheffler v R. McIlroy - 3rd Round Match-Up,Scottie Scheffler,-0.02079999999999993,0.5348,0.5556
 2023-07-15 04:31:22.771883,Round Match-Ups - 3rd Round Match-Up - E. van Rooyen v J. Lagergren - 3rd Round Match-Up,Erik Van Rooyen,-0.02079999999999993,0.5348,0.5556
+2023-07-15 07:31:17.374488,Round Match-Ups - 3rd Round Match-Up - S. Scheffler v R. McIlroy - 3rd Round Match-Up,Scottie Scheffler,-0.02079999999999993,0.5348,0.5556
 2023-07-15 02:30:42.919735,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - S. Burns / B.H. An / B. Harman - 3rd Round 3 Balls,Brian Harman,-0.020799999999999985,0.3125,0.3333
 2023-07-15 05:30:50.235403,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - R. Fowler / M. Homa / D. Hillier - 3rd Round 3 Balls,Max Homa,-0.02100000000000002,0.3636,0.3846
 2023-07-15 06:30:50.611217,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - G. Green / M. Schneider / R. Langasque - 3rd Round 3 Balls,Gavin Green,-0.02260000000000001,0.3774,0.4
@@ -85,10 +76,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-15 02:30:42.688277,Round Match-Ups - 3rd Round Match-Up - J. Smith v A. Bjork - 3rd Round Match-Up,Alexander Bjork,-0.023799999999999988,0.4762,0.5
 2023-07-15 06:30:50.791320,Round Match-Ups - 3rd Round Match-Up - S. Burns v B.H. An - 3rd Round Match-Up,Byeong Hun An,-0.023799999999999988,0.4762,0.5
 2023-07-15 04:31:22.744119,Round Match-Ups - 3rd Round Match-Up - C. Conners v J. Thomas - 3rd Round Match-Up,Justin Thomas,-0.023800000000000043,0.5,0.5238
-2023-07-14 23:31:57.140367,FIBA World Cup - FIBA World Cup 2023 - Outright,Greece,-0.0242,0.0667,0.0909
 2023-07-15 04:31:22.690683,Round Match-Ups - 3rd Round Match-Up - M.W. Lee v R. MacIntyre - 3rd Round Match-Up,Robert MacIntyre,-0.024399999999999977,0.4878,0.5122
 2023-07-15 02:30:42.735394,Round Match-Ups - 3rd Round Match-Up - E. van Rooyen v J. Lagergren - 3rd Round Match-Up,Joakim Lagergren,-0.024399999999999977,0.4878,0.5122
-2023-07-14 23:32:01.609994,BKFC 47 - David Mundell vs Mike Richman - To Win the Bout,Mike Richman,-0.025599999999999956,0.5744,0.6
 2023-07-15 03:30:50.256953,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - R. Fox / B. Griffin / A. Wu - 3rd Round 3 Balls,Ben Griffin,-0.02560000000000001,0.3448,0.3704
 2023-07-15 03:30:50.294334,Scottish Open - 2/3 Balls - 3rd Round 3 Balls - S. Lowry / H. Hall / E. van Rooyen - 3rd Round 3 Balls,Harry Hall,-0.029600000000000015,0.3704,0.4
 2023-07-15 02:30:42.639150,Round Match-Ups - 3rd Round Match-Up - M.W. Lee v R. MacIntyre - 3rd Round Match-Up,Min Woo Lee,-0.030399999999999983,0.5348,0.5652
@@ -96,4 +85,3 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-15 04:31:22.751645,Round Match-Ups - 3rd Round Match-Up - K.H. Lee v T. Olesen - 3rd Round Match-Up,Thorbjorn Olesen,-0.03600000000000003,0.4878,0.5238
 2023-07-15 08:31:06.571722,Dana Open - Dana Open - Winner,Sei Young Kim,-0.0385,0.005,0.0435
 2023-07-15 08:31:06.571722,Dana Open - Dana Open - Winner,Xiyu Lin,-0.05379999999999999,0.1,0.1538
-2023-07-14 23:31:57.181971,FIBA World Cup - FIBA World Cup 2023 - Group H Winner,France,-0.05860000000000004,0.4762,0.5348
