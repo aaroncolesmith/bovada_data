@@ -1,59 +1,76 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-16 02:31:19.678303,Dana Open - Dana Open - Winner,Linn Grant,0.6644,0.8462,0.1818
 2023-07-16 09:30:53.680758,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Botafogo,0.0948,0.3448,0.25
+2023-07-16 12:31:24.478654,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Spencer Strider (ATL),0.0933,0.3636,0.2703
 2023-07-16 05:31:03.922136,Main Markets - Final Round Six-Shooter - Group A - S. Scheffler / R. McIIroy / T. Hatton / T. Fleetwood / S. Lowry / M. Homa - Final Round Six-Shooter,Scottie Scheffler,0.08329999999999999,0.3333,0.25
+2023-07-16 12:31:24.392731,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,0.07710000000000006,0.6226,0.5455
 2023-07-16 09:30:53.707260,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Botafogo,0.06879999999999997,0.9259,0.8571
+2023-07-16 12:31:24.461658,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Gunnar Henderson (BAL),0.057699999999999974,0.3077,0.25
 2023-07-16 09:30:53.698429,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Botafogo,0.050000000000000044,0.8,0.75
+2023-07-16 12:31:24.478654,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Blake Snell (SD),0.04849999999999999,0.1538,0.1053
 2023-07-16 09:30:53.949614,Allsvenskan - Allsvenskan 2023 - Winner,BK Häcken,0.04040000000000002,0.2222,0.1818
 2023-07-16 04:31:08.859487,Scottish Open - 2/3 Balls - Final Round 3 Balls - H. Hall / M. Homa / T. Hoge - Final Round 3 Balls,Harry Hall,0.03920000000000001,0.3333,0.2941
+2023-07-16 12:31:24.362873,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,0.03709999999999991,0.6667,0.6296
 2023-07-16 02:31:18.907222,Scottish Open - 2/3 Balls - Final Round 3 Balls - B. Taylor / D. Hillier / V. Perez - Final Round 3 Balls,Ben Taylor,0.03689999999999999,0.3226,0.2857
-2023-07-15 23:31:06.688570,Round Match-Ups - Final Round Match-Up - T. Fleetwood v S. Lowry - Final Round Match-Up,Tommy Fleetwood,0.03090000000000004,0.6226,0.5917
+2023-07-16 12:31:24.447820,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Shane McClanahan (TB),0.033399999999999985,0.1667,0.1333
 2023-07-16 09:30:53.698429,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Flamengo,0.029900000000000038,0.8,0.7701
 2023-07-16 02:31:19.043633,Scottish Open - 2/3 Balls - Final Round 3 Balls - A. Eckroat / G. Migliozzi / S. Valimaki - Final Round 3 Balls,Sami Valimaki,0.029899999999999982,0.3077,0.2778
-2023-07-16 03:30:56.108468,Round Match-Ups - Final Round Match-Up - M. Homa v W. Clark - Final Round Match-Up,Wyndham Clark,0.026499999999999968,0.5917,0.5652
 2023-07-16 03:30:56.249144,Round Match-Ups - Final Round Match-Up - R. McIlroy v S. Scheffler - Final Round Match-Up,Scottie Scheffler,0.026499999999999968,0.5917,0.5652
+2023-07-16 03:30:56.108468,Round Match-Ups - Final Round Match-Up - M. Homa v W. Clark - Final Round Match-Up,Wyndham Clark,0.026499999999999968,0.5917,0.5652
+2023-07-16 12:31:24.494909,MLB Futures - MLB 2023 Player Awards - National League MVP,Ronald Acuña Jr.,0.0260999999999999,0.8261,0.8
 2023-07-16 03:30:56.232411,Round Match-Ups - Final Round Match-Up - H. Hall v T. Hoge - Final Round Match-Up,Tom Hoge,0.023800000000000043,0.5238,0.5
 2023-07-16 04:31:09.193960,Round Match-Ups - Final Round Match-Up - A. Saddier vs D. Brown - Final Round Match-Up,Adrien Saddier,0.023800000000000043,0.5238,0.5
+2023-07-16 12:31:24.461658,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Josh Jung (TEX),0.023799999999999988,0.5,0.4762
 2023-07-16 02:31:18.780540,Scottish Open - 2/3 Balls - Final Round 3 Balls - A. Wu / B. Griffin / J. Smith - Final Round 3 Balls,Ben Griffin,0.023799999999999988,0.3571,0.3333
+2023-07-16 12:31:24.339497,MLB Futures - MLB 2023 National League West - National League West Winner,Los Angeles Dodgers,0.02210000000000001,0.7895,0.7674
 2023-07-16 02:31:19.678303,Dana Open - Dana Open - Winner,Stephanie Kyriacou,0.022099999999999998,0.0385,0.0164
-2023-07-16 03:30:56.151873,Round Match-Ups - Final Round Match-Up - M. Kieffer v S. Soderberg - Final Round Match-Up ,Sebastian Soderberg,0.02169999999999994,0.5455,0.5238
+2023-07-16 12:31:14.017563,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,USA (W),0.021999999999999964,0.3077,0.2857
 2023-07-16 03:30:56.198878,Round Match-Ups - Final Round Match-Up - R. Fowler v T. Hatton - Final Round Match-Up ,Tyrrell Hatton,0.02169999999999994,0.5455,0.5238
-2023-07-16 04:31:09.094790,Round Match-Ups - Final Round Match-Up - H. Hall v T. Hoge - Final Round Match-Up,Tom Hoge,0.02169999999999994,0.5455,0.5238
-2023-07-16 03:30:56.142517,Round Match-Ups - Final Round Match-Up - G. Higgo v V. Perez - Final Round Match-Up,Garrick Higgo,0.02169999999999994,0.5455,0.5238
-2023-07-16 03:30:56.240113,Round Match-Ups - Final Round Match-Up - B. H. An v T. Kim - Final Round Match-Up,Tom Kim,0.02169999999999994,0.5455,0.5238
 2023-07-16 04:31:09.209750,Round Match-Ups - Final Round Match-Up - A. Levy vs D. Ravetto - Final Round Match-Up,David Ravetto,0.02169999999999994,0.5455,0.5238
+2023-07-16 03:30:56.240113,Round Match-Ups - Final Round Match-Up - B. H. An v T. Kim - Final Round Match-Up,Tom Kim,0.02169999999999994,0.5455,0.5238
+2023-07-16 03:30:56.142517,Round Match-Ups - Final Round Match-Up - G. Higgo v V. Perez - Final Round Match-Up,Garrick Higgo,0.02169999999999994,0.5455,0.5238
+2023-07-16 04:31:09.094790,Round Match-Ups - Final Round Match-Up - H. Hall v T. Hoge - Final Round Match-Up,Tom Hoge,0.02169999999999994,0.5455,0.5238
+2023-07-16 03:30:56.151873,Round Match-Ups - Final Round Match-Up - M. Kieffer v S. Soderberg - Final Round Match-Up ,Sebastian Soderberg,0.02169999999999994,0.5455,0.5238
 2023-07-16 03:30:55.620316,NCAA Football Futures - 2023 USA Conference Championship - Championship Game Winner,New Mexico State,0.019800000000000005,0.0476,0.0278
-2023-07-16 04:31:09.225242,Round Match-Ups - Final Round Match-Up - T. Pendrith vs J. Schaper - Final Round Match-Up,Taylor Pendrith,0.01970000000000005,0.5652,0.5455
 2023-07-16 04:31:08.928282,Round Match-Ups - Final Round Match-Up - J. Smith v K.H. Lee - Final Round Match-Up ,Jordan Smith,0.01970000000000005,0.5652,0.5455
+2023-07-16 04:31:09.225242,Round Match-Ups - Final Round Match-Up - T. Pendrith vs J. Schaper - Final Round Match-Up,Taylor Pendrith,0.01970000000000005,0.5652,0.5455
 2023-07-16 02:31:19.052429,Scottish Open - 2/3 Balls - Final Round 3 Balls - R. McIlroy / T. Kim / T. Fleetwood - Final Round 3 Balls,Tommy Fleetwood,0.019500000000000017,0.3704,0.3509
 2023-07-16 03:30:56.261760,Round Match-Ups - Final Round Match-Up - T. Fleetwood v S. Lowry - Final Round Match-Up,Shane Lowry,0.018900000000000028,0.4444,0.4255
-2023-07-16 00:30:50.748112,Hollywood Strikes - When will the Screen Actors Guild End The Strike? - When will SAG end the strike?,7th August or later,0.01880000000000004,0.5744,0.5556
+2023-07-16 12:31:24.509381,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Corbin Carroll (ARIZ),0.018199999999999994,0.8182,0.8
 2023-07-16 05:31:04.003139,Round Match-Ups - Final Round Match-Up - T. Pendrith vs J. Schaper - Final Round Match-Up,Taylor Pendrith,0.018100000000000005,0.5833,0.5652
 2023-07-16 07:30:56.532191,Copa Sudamericana - Copa Sudamericana 2023 - Outright,Botafogo,0.0179,0.1429,0.125
-2023-07-15 23:30:56.663712,FIBA World Cup - FIBA World Cup 2023 - Outright,Canada,0.0179,0.1429,0.125
+2023-07-16 12:31:24.447820,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Framber Valdez (HOU),0.017600000000000005,0.3509,0.3333
 2023-07-16 05:31:03.616095,Scottish Open - 2/3 Balls - Final Round 3 Balls - C. Syme / E. Van Rooyen / L. Herbert - Final Round 3 Balls,Erik Van Rooyen,0.01579999999999998,0.2597,0.2439
+2023-07-16 12:31:24.447820,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Kevin Gausman (TOR),0.01469999999999999,0.25,0.2353
+2023-07-16 12:31:24.330215,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Baltimore Orioles,0.014100000000000001,0.0526,0.0385
 2023-07-16 09:30:53.532885,MLS - MLS 2023 - Top Goalscorer,Lucas Zelararyan (CLB),0.014099999999999998,0.0385,0.0244
 2023-07-16 09:30:53.524868,MLS - MLS 2023 - Winner,Saint Louis City SC,0.013999999999999999,0.0909,0.0769
+2023-07-16 12:31:24.494909,MLB Futures - MLB 2023 Player Awards - National League MVP,Mookie Betts (LAD),0.013899999999999996,0.125,0.1111
+2023-07-16 12:31:24.339497,MLB Futures - MLB 2023 National League West - National League West Winner,San Francisco Giants,0.012899999999999995,0.1667,0.1538
+2023-07-16 12:31:24.308905,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,0.011600000000000055,0.5238,0.5122
 2023-07-16 09:30:53.961025,Superettan - Superettan 2023 - Winner,Västerås SK,0.01150000000000001,0.3448,0.3333
+2023-07-16 12:31:24.478654,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Marcus Stroman (CHC),0.011199999999999995,0.0435,0.0323
 2023-07-16 09:30:53.961025,Superettan - Superettan 2023 - Winner,Jönköpings Södra IF,0.011199999999999995,0.0588,0.0476
-2023-07-15 23:30:56.663712,FIBA World Cup - FIBA World Cup 2023 - Outright,Serbia,0.010899999999999993,0.1538,0.1429
 2023-07-16 05:31:03.705909,Round Match-Ups - Final Round Match-Up - M. Homa v W. Clark - Final Round Match-Up,Max Homa,0.010599999999999998,0.4651,0.4545
+2023-07-16 12:31:24.447820,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Gerrit Cole (NYY),0.010499999999999982,0.2105,0.2
 2023-07-16 09:30:53.524868,MLS - MLS 2023 - Winner,Atlanta United,-0.0102,0.0667,0.0769
 2023-07-16 05:31:03.616095,Scottish Open - 2/3 Balls - Final Round 3 Balls - C. Syme / E. Van Rooyen / L. Herbert - Final Round 3 Balls,Connor Syme,-0.010699999999999987,0.3226,0.3333
 2023-07-16 05:31:03.922136,Main Markets - Final Round Six-Shooter - Group A - S. Scheffler / R. McIIroy / T. Hatton / T. Fleetwood / S. Lowry / M. Homa - Final Round Six-Shooter,Max Homa,-0.010899999999999993,0.1429,0.1538
-2023-07-16 00:30:57.534323,Boxing Lines - Frank Martin vs Artem Harutyunyan - To Win the Bout,Artem Harutyunyan,-0.011099999999999999,0.1,0.1111
 2023-07-16 05:31:04.003139,Round Match-Ups - Final Round Match-Up - T. Pendrith vs J. Schaper - Final Round Match-Up,Jayden Schaper,-0.011099999999999999,0.4651,0.4762
 2023-07-16 02:31:19.678303,Dana Open - Dana Open - Winner,Brittany Altomare,-0.011300000000000001,0.001,0.0123
 2023-07-16 05:31:03.616095,Scottish Open - 2/3 Balls - Final Round 3 Balls - C. Syme / E. Van Rooyen / L. Herbert - Final Round 3 Balls,Lucas Herbert,-0.011600000000000055,0.5122,0.5238
+2023-07-16 12:31:24.348515,MLB Futures - MLB 2023 American League East - American League East Winner,New York Yankees,-0.011899999999999994,0.0714,0.0833
 2023-07-16 02:31:19.678303,Dana Open - Dana Open - Winner,Yu Liu,-0.012799999999999999,0.0013,0.0141
 2023-07-16 05:31:03.922136,Main Markets - Final Round Six-Shooter - Group A - S. Scheffler / R. McIIroy / T. Hatton / T. Fleetwood / S. Lowry / M. Homa - Final Round Six-Shooter,Shane Lowry,-0.012899999999999995,0.1538,0.1667
 2023-07-16 02:31:19.043633,Scottish Open - 2/3 Balls - Final Round 3 Balls - A. Eckroat / G. Migliozzi / S. Valimaki - Final Round 3 Balls,Guido Migliozzi,-0.013800000000000034,0.3636,0.3774
+2023-07-16 12:31:14.017563,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,Germany (W),-0.013899999999999996,0.1111,0.125
 2023-07-16 03:30:55.620316,NCAA Football Futures - 2023 USA Conference Championship - Championship Game Winner,UTEP,-0.013999999999999999,0.0769,0.0909
+2023-07-16 12:31:24.494909,MLB Futures - MLB 2023 Player Awards - National League MVP,Freddie Freeman (LAD),-0.013999999999999999,0.0769,0.0909
 2023-07-16 09:30:53.707260,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Palmeiras,-0.014000000000000012,0.9091,0.9231
+2023-07-16 12:31:24.447820,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Shohei Ohtani (LAA),-0.014399999999999996,0.0625,0.0769
 2023-07-16 09:30:53.532885,MLS - MLS 2023 - Top Goalscorer,Hany Mukhtar (NAS),-0.01469999999999999,0.2353,0.25
 2023-07-16 05:31:03.922136,Main Markets - Final Round Six-Shooter - Group A - S. Scheffler / R. McIIroy / T. Hatton / T. Fleetwood / S. Lowry / M. Homa - Final Round Six-Shooter,Tommy Fleetwood,-0.015100000000000002,0.1667,0.1818
 2023-07-16 09:30:53.707260,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Flamengo,-0.015300000000000091,0.9259,0.9412
-2023-07-15 23:30:56.663712,FIBA World Cup - FIBA World Cup 2023 - Outright,USA,-0.01539999999999997,0.6,0.6154
 2023-07-16 02:31:19.678303,Dana Open - Dana Open - Winner,Carlota Ciganda,-0.0154,0.001,0.0164
 2023-07-16 02:31:19.678303,Dana Open - Dana Open - Winner,Bailey Tardy,-0.0154,0.001,0.0164
 2023-07-16 02:31:19.678303,Dana Open - Dana Open - Winner,Aditi Ashok,-0.015400000000000002,0.009,0.0244
@@ -65,36 +82,43 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-16 02:31:19.043633,Scottish Open - 2/3 Balls - Final Round 3 Balls - A. Eckroat / G. Migliozzi / S. Valimaki - Final Round 3 Balls,Austin Eckroat,-0.018900000000000028,0.4255,0.4444
 2023-07-16 05:31:03.922136,Main Markets - Final Round Six-Shooter - Group A - S. Scheffler / R. McIIroy / T. Hatton / T. Fleetwood / S. Lowry / M. Homa - Final Round Six-Shooter,Rory McIlroy,-0.0194,0.2105,0.2299
 2023-07-16 09:30:53.949614,Allsvenskan - Allsvenskan 2023 - Winner,Malmö FF,-0.02100000000000002,0.6154,0.6364
-2023-07-16 04:31:09.193960,Round Match-Ups - Final Round Match-Up - A. Saddier vs D. Brown - Final Round Match-Up,Daniel Brown,-0.02169999999999994,0.5238,0.5455
 2023-07-16 03:30:56.232411,Round Match-Ups - Final Round Match-Up - H. Hall v T. Hoge - Final Round Match-Up,Harry Hall,-0.02169999999999994,0.5238,0.5455
-2023-07-16 03:30:56.108468,Round Match-Ups - Final Round Match-Up - M. Homa v W. Clark - Final Round Match-Up,Max Homa,-0.021699999999999997,0.4545,0.4762
+2023-07-16 04:31:09.193960,Round Match-Ups - Final Round Match-Up - A. Saddier vs D. Brown - Final Round Match-Up,Daniel Brown,-0.02169999999999994,0.5238,0.5455
 2023-07-16 03:30:56.249144,Round Match-Ups - Final Round Match-Up - R. McIlroy v S. Scheffler - Final Round Match-Up,Rory McIlroy,-0.021699999999999997,0.4545,0.4762
+2023-07-16 03:30:56.108468,Round Match-Ups - Final Round Match-Up - M. Homa v W. Clark - Final Round Match-Up,Max Homa,-0.021699999999999997,0.4545,0.4762
+2023-07-16 12:31:24.509381,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Elly De La Cruz (CIN),-0.021999999999999964,0.2857,0.3077
 2023-07-16 02:31:18.907222,Scottish Open - 2/3 Balls - Final Round 3 Balls - B. Taylor / D. Hillier / V. Perez - Final Round 3 Balls,Daniel Hillier,-0.02260000000000001,0.3774,0.4
 2023-07-16 03:30:56.261760,Round Match-Ups - Final Round Match-Up - T. Fleetwood v S. Lowry - Final Round Match-Up,Tommy Fleetwood,-0.022600000000000064,0.6,0.6226
 2023-07-16 02:31:19.678303,Dana Open - Dana Open - Winner,Grace Kim,-0.023399999999999997,0.0044,0.0278
 2023-07-16 02:31:19.678303,Dana Open - Dana Open - Winner,A Lim Kim,-0.0234,0.001,0.0244
-2023-07-16 04:31:08.928282,Round Match-Ups - Final Round Match-Up - J. Smith v K.H. Lee - Final Round Match-Up ,K.H. Lee,-0.023799999999999988,0.4762,0.5
 2023-07-16 02:31:18.780540,Scottish Open - 2/3 Balls - Final Round 3 Balls - A. Wu / B. Griffin / J. Smith - Final Round 3 Balls,Jordan Smith,-0.023799999999999988,0.4762,0.5
+2023-07-16 04:31:08.928282,Round Match-Ups - Final Round Match-Up - J. Smith v K.H. Lee - Final Round Match-Up ,K.H. Lee,-0.023799999999999988,0.4762,0.5
 2023-07-16 04:31:09.225242,Round Match-Ups - Final Round Match-Up - T. Pendrith vs J. Schaper - Final Round Match-Up,Jayden Schaper,-0.023799999999999988,0.4762,0.5
-2023-07-16 03:30:56.142517,Round Match-Ups - Final Round Match-Up - G. Higgo v V. Perez - Final Round Match-Up,Victor Perez,-0.023800000000000043,0.5,0.5238
-2023-07-16 04:31:09.209750,Round Match-Ups - Final Round Match-Up - A. Levy vs D. Ravetto - Final Round Match-Up,Alexander Levy,-0.023800000000000043,0.5,0.5238
-2023-07-16 03:30:56.198878,Round Match-Ups - Final Round Match-Up - R. Fowler v T. Hatton - Final Round Match-Up ,Rickie Fowler,-0.023800000000000043,0.5,0.5238
-2023-07-16 03:30:56.151873,Round Match-Ups - Final Round Match-Up - M. Kieffer v S. Soderberg - Final Round Match-Up ,Maximillian Kieffer,-0.023800000000000043,0.5,0.5238
 2023-07-16 03:30:56.240113,Round Match-Ups - Final Round Match-Up - B. H. An v T. Kim - Final Round Match-Up,Byeong Hun An,-0.023800000000000043,0.5,0.5238
+2023-07-16 04:31:09.209750,Round Match-Ups - Final Round Match-Up - A. Levy vs D. Ravetto - Final Round Match-Up,Alexander Levy,-0.023800000000000043,0.5,0.5238
+2023-07-16 03:30:56.151873,Round Match-Ups - Final Round Match-Up - M. Kieffer v S. Soderberg - Final Round Match-Up ,Maximillian Kieffer,-0.023800000000000043,0.5,0.5238
+2023-07-16 03:30:56.142517,Round Match-Ups - Final Round Match-Up - G. Higgo v V. Perez - Final Round Match-Up,Victor Perez,-0.023800000000000043,0.5,0.5238
 2023-07-16 04:31:09.094790,Round Match-Ups - Final Round Match-Up - H. Hall v T. Hoge - Final Round Match-Up,Harry Hall,-0.023800000000000043,0.5,0.5238
+2023-07-16 03:30:56.198878,Round Match-Ups - Final Round Match-Up - R. Fowler v T. Hatton - Final Round Match-Up ,Rickie Fowler,-0.023800000000000043,0.5,0.5238
+2023-07-16 12:31:24.308905,MLB Futures - MLB 2023 American League West - American League West Winner,Seattle Mariners,-0.0242,0.0667,0.0909
 2023-07-16 02:31:19.678303,Dana Open - Dana Open - Winner,Gaby Lopez,-0.025500000000000002,0.009,0.0345
 2023-07-16 02:31:19.678303,Dana Open - Dana Open - Winner,Lindy Duncan,-0.025799999999999997,0.002,0.0278
 2023-07-16 09:30:53.961025,Superettan - Superettan 2023 - Winner,Utsiktens,-0.027500000000000024,0.3571,0.3846
-2023-07-16 09:30:53.707260,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,RB Bragantino,-0.02779999999999999,0.2222,0.25
 2023-07-16 09:30:53.532885,MLS - MLS 2023 - Top Goalscorer,Denis Bouanga (LAFC),-0.02779999999999999,0.2222,0.25
-2023-07-15 23:31:06.688570,Round Match-Ups - Final Round Match-Up - T. Fleetwood v S. Lowry - Final Round Match-Up,Shane Lowry,-0.029000000000000026,0.4255,0.4545
+2023-07-16 09:30:53.707260,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,RB Bragantino,-0.02779999999999999,0.2222,0.25
 2023-07-16 09:30:53.680758,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Palmeiras,-0.029899999999999982,0.2778,0.3077
 2023-07-16 04:31:08.859487,Scottish Open - 2/3 Balls - Final Round 3 Balls - H. Hall / M. Homa / T. Hoge - Final Round 3 Balls,Max Homa,-0.03489999999999999,0.4651,0.5
+2023-07-16 12:31:24.478654,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Zac Gallen,-0.03710000000000002,0.3077,0.3448
 2023-07-16 02:31:19.678303,Dana Open - Dana Open - Winner,Jaravee Boonchant,-0.039099999999999996,0.0044,0.0435
 2023-07-16 02:31:19.678303,Dana Open - Dana Open - Winner,Gemma Dryburgh,-0.0397,0.0079,0.0476
+2023-07-16 12:31:24.362873,MLB Futures - MLB 2023 American League Central - American League Central Winner,Cleveland Guardians,-0.04260000000000003,0.3922,0.4348
+2023-07-16 12:31:24.339497,MLB Futures - MLB 2023 National League West - National League West Winner,Arizona Diamondbacks,-0.043800000000000006,0.1667,0.2105
 2023-07-16 02:31:19.678303,Dana Open - Dana Open - Winner,Minjee Lee,-0.0448,0.0385,0.0833
 2023-07-16 02:31:19.678303,Dana Open - Dana Open - Winner,Ariya Jutanugarn,-0.0654,0.0013,0.0667
 2023-07-16 09:30:53.698429,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Palmeiras,-0.06670000000000009,0.7333,0.8
 2023-07-16 02:31:19.678303,Dana Open - Dana Open - Winner,Annie Park,-0.0703,0.0066,0.0769
+2023-07-16 12:31:24.478654,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Clayton Kershaw (LAD),-0.07579999999999999,0.0909,0.1667
 2023-07-16 02:31:19.678303,Dana Open - Dana Open - Winner,Xiyu Lin,-0.0804,0.0196,0.1
+2023-07-16 12:31:24.392731,MLB Futures - MLB 2023 National League Central - National League Central Winner,Cincinnati Reds,-0.0947,0.3704,0.4651
+2023-07-16 12:31:24.461658,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Masataka Yoshida (BOS),-0.0948,0.25,0.3448
 2023-07-16 02:31:19.678303,Dana Open - Dana Open - Winner,Allisen Corpuz,-0.095,0.0588,0.1538
