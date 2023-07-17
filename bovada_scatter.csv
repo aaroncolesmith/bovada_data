@@ -10,6 +10,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-17 14:31:04.778984,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Sophia Smith,0.031799999999999995,0.1429,0.1111
 2023-07-17 12:30:57.924620,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Bahia,0.030299999999999994,0.3636,0.3333
 2023-07-17 09:31:07.610086,MLB Futures - MLB 2023 American League East - American League East Winner,Baltimore Orioles,0.026999999999999996,0.2353,0.2083
+2023-07-17 16:31:28.062548,AFC North - AFC North 2023/24 - AFC North Winner,Cincinnati Bengals,0.025499999999999967,0.4255,0.4
 2023-07-17 12:30:58.028950,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Tigres UANL,0.025499999999999967,0.4255,0.4
 2023-07-17 12:30:58.028950,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Atletico San Luis,0.023799999999999988,0.1667,0.1429
 2023-07-17 14:31:04.795967,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,USA (W),0.023799999999999932,0.6667,0.6429
@@ -19,8 +20,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-17 09:30:58.350319,Allsvenskan - Allsvenskan 2023 - Winner,Malmö FF,0.02100000000000002,0.6364,0.6154
 2023-07-17 13:31:21.635453,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Calgary Stampeders,0.0208,0.0833,0.0625
 2023-07-17 14:31:05.888950,BIG3 Basketball - BIG3 - Outright,Power,0.02049999999999999,0.1538,0.1333
-2023-07-17 13:31:21.635453,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Ottawa Redblacks,0.0203,0.0526,0.0323
 2023-07-17 12:30:57.941727,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Corinthians,0.0203,0.0588,0.0385
+2023-07-17 13:31:21.635453,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Ottawa Redblacks,0.0203,0.0526,0.0323
+2023-07-17 16:31:28.132573,AFC West - AFC West 2023/24 - AFC West Winner,Kansas City Chiefs,0.020299999999999985,0.6429,0.6226
 2023-07-17 12:30:57.924620,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Santos,0.019000000000000017,0.2857,0.2667
 2023-07-17 09:30:58.362493,Superettan - Superettan 2023 - Winner,Västerås SK,0.018799999999999983,0.3636,0.3448
 2023-07-17 12:30:57.941727,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Botafogo,0.018400000000000083,0.9443,0.9259
@@ -28,17 +30,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-17 09:31:07.658280,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Atlanta Braves,0.018100000000000005,0.4348,0.4167
 2023-07-17 12:30:58.020335,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Tigres UANL,0.0179,0.1429,0.125
 2023-07-17 12:30:57.941727,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,São Paulo,0.017600000000000005,0.3509,0.3333
+2023-07-17 16:31:28.062548,AFC North - AFC North 2023/24 - AFC North Winner,Cleveland Browns,0.0174,0.2174,0.2
 2023-07-17 09:31:07.658280,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Los Angeles Dodgers,0.014600000000000002,0.2778,0.2632
 2023-07-17 11:31:27.887778,The Open Championship - The Open Championship 2023 - Winner,Scottie Scheffler,0.01440000000000001,0.1053,0.0909
+2023-07-17 16:31:28.278212,NFC West - NFC West 2023/24 - NFC West Winner,San Francisco 49ers,0.014200000000000101,0.6296,0.6154
 2023-07-17 12:30:57.914716,Brasileirao Série A - Brasileiro Serie A 2023 - Top Goalscorer,Jonathan Calleri (Sao Paulo),0.013999999999999999,0.0909,0.0769
 2023-07-17 12:30:58.028950,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,FC Juarez,0.013899999999999996,0.125,0.1111
 2023-07-17 09:31:07.645281,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,0.013799999999999923,0.6364,0.6226
 2023-07-17 12:30:57.924620,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Goiás,0.012499999999999956,0.7826,0.7701
 2023-07-17 13:31:22.053164,The Open Championship - The Open Championship 2023 - Winner,Scottie Scheffler,0.012299999999999991,0.1176,0.1053
 2023-07-17 14:31:04.795967,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Australia (W),0.012299999999999978,0.3571,0.3448
+2023-07-17 16:31:28.132573,AFC West - AFC West 2023/24 - AFC West Winner,Los Angeles Chargers,0.011899999999999994,0.25,0.2381
 2023-07-17 14:31:04.795967,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,England (W),0.011600000000000055,0.5238,0.5122
-2023-07-17 12:30:58.028950,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Tijuana,0.011199999999999995,0.0588,0.0476
 2023-07-17 09:31:07.658280,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,San Diego Padres,0.011199999999999995,0.0588,0.0476
+2023-07-17 12:30:58.028950,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Tijuana,0.011199999999999995,0.0588,0.0476
 2023-07-17 14:31:04.914813,Womens World Cup 2023 - Group E - To Advance From Group,Portugal (W),0.010899999999999993,0.1538,0.1429
 2023-07-17 12:30:57.933427,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Athletico Paranaense,0.010899999999999993,0.1538,0.1429
 2023-07-17 09:31:07.629342,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Baltimore Orioles,0.010099999999999998,0.1053,0.0952
@@ -48,8 +53,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-17 12:30:58.020335,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,CF Pachuca,-0.011099999999999999,0.1,0.1111
 2023-07-17 12:30:58.028950,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Mazatlan FC,-0.011199999999999995,0.0476,0.0588
 2023-07-17 12:30:58.020335,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Club León,-0.011199999999999995,0.0476,0.0588
+2023-07-17 16:31:28.278212,NFC West - NFC West 2023/24 - NFC West Winner,Seattle Seahawks,-0.01150000000000001,0.3333,0.3448
 2023-07-17 12:30:57.905686,Brasileirao Série A - Brasileiro Serie A 2023 - Outright,Flamengo,-0.01150000000000001,0.3333,0.3448
+2023-07-17 16:31:28.168420,NFC East - NFC East 2023/24 - NFC East Winner,New York Giants,-0.013899999999999996,0.1111,0.125
 2023-07-17 14:31:05.888950,BIG3 Basketball - BIG3 - Outright,Tri-State,-0.013999999999999999,0.0769,0.0909
+2023-07-17 16:31:28.062548,AFC North - AFC North 2023/24 - AFC North Winner,Pittsburgh Steelers,-0.015100000000000002,0.1667,0.1818
 2023-07-17 12:30:57.933427,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Flamengo,-0.017400000000000082,0.7826,0.8
 2023-07-17 12:30:58.028950,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Querétaro FC,-0.0179,0.125,0.1429
 2023-07-17 09:31:07.610086,MLB Futures - MLB 2023 American League East - American League East Winner,New York Yankees,-0.018800000000000004,0.0526,0.0714
@@ -58,14 +66,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-17 12:30:58.028950,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Chivas Guadalajara,-0.021699999999999997,0.4545,0.4762
 2023-07-17 14:31:04.773557,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,USA (W),-0.021999999999999964,0.2857,0.3077
 2023-07-17 12:30:57.941727,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,RB Bragantino,-0.022199999999999998,0.2,0.2222
-2023-07-17 12:30:58.020335,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Chivas Guadalajara,-0.023799999999999988,0.1429,0.1667
 2023-07-17 12:30:57.941727,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Cruzeiro,-0.023799999999999988,0.1429,0.1667
+2023-07-17 12:30:58.020335,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Chivas Guadalajara,-0.023799999999999988,0.1429,0.1667
 2023-07-17 13:31:21.635453,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Montreal Alouettes,-0.0245,0.0588,0.0833
-2023-07-17 09:30:58.362493,Superettan - Superettan 2023 - Winner,GAIS,-0.02779999999999999,0.2222,0.25
 2023-07-17 14:31:04.795967,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Brazil (W),-0.02779999999999999,0.2222,0.25
+2023-07-17 09:30:58.362493,Superettan - Superettan 2023 - Winner,GAIS,-0.02779999999999999,0.2222,0.25
 2023-07-17 13:31:21.635453,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Saskatchewan Roughriders,-0.027800000000000005,0.0833,0.1111
-2023-07-17 12:30:58.028950,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Deportivo Toluca,-0.030299999999999994,0.3333,0.3636
+2023-07-17 16:31:28.062548,AFC North - AFC North 2023/24 - AFC North Winner,Baltimore Ravens,-0.030299999999999994,0.303,0.3333
 2023-07-17 12:30:57.941727,Brasileirao Série A - Brasileiro Serie A 2023 - Top 6 Finish,Fortaleza,-0.030299999999999994,0.3333,0.3636
+2023-07-17 12:30:58.028950,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Deportivo Toluca,-0.030299999999999994,0.3333,0.3636
+2023-07-17 16:31:28.132573,AFC West - AFC West 2023/24 - AFC West Winner,Denver Broncos,-0.03159999999999999,0.1351,0.1667
 2023-07-17 12:30:58.020335,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Deportivo Toluca,-0.03420000000000001,0.0769,0.1111
 2023-07-17 12:30:57.924620,Brasileirao Série A - Brasileiro Serie A 2023 - To Be Relegated,Cuiabá,-0.03709999999999991,0.6296,0.6667
 2023-07-17 12:30:57.933427,Brasileirao Série A - Brasileiro Serie A 2023 - Top 4 Finish,Fortaleza,-0.03889999999999999,0.1429,0.1818
