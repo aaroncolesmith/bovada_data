@@ -3,7 +3,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-20 13:32:05.699185,Womens World Cup 2023 - Group A - Not To Advance From Group,Norway (W),0.3056,0.4167,0.1111
 2023-07-20 13:32:05.703139,Womens World Cup 2023 - Group A - To Advance From Group,New Zealand (W),0.2299,0.7647,0.5348
 2023-07-20 13:32:05.693894,Womens World Cup 2023 - Group A - Outright,Switzerland (W),0.141,0.3077,0.1667
-2023-07-20 02:31:17.688608,Scores - 1st Round Score - Rickie Fowler - 1st Round Score,Over 68.5,0.07469999999999999,0.6491,0.5744
 2023-07-20 11:30:38.368871,Womens World Cup 2023 - USA Team Specials - USA Top Team Goalscorer,Sophia Smith,0.06659999999999999,0.3333,0.2667
 2023-07-20 13:32:05.709456,Womens World Cup 2023 - Group B - Outright,Australia (W),0.06659999999999999,0.7333,0.6667
 2023-07-20 04:31:03.707838,The Open Championship - 2/3 Balls - 1st Round 3 Balls - C. Conners / B. Horschel / A. Noren - 1st Round 3 Balls,Corey Conners,0.06519999999999998,0.5,0.4348
@@ -13,47 +12,33 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-20 13:32:05.718422,Womens World Cup 2023 - Group B - To Advance From Group,Australia (W),0.0524,0.9524,0.9
 2023-07-20 04:31:03.719439,The Open Championship - 2/3 Balls - 1st Round 3 Balls - T. Kim / T. Hoge / A. Ancer - 1st Round 3 Balls,Tom Kim,0.04700000000000004,0.5348,0.4878
 2023-07-20 13:32:05.703139,Womens World Cup 2023 - Group A - To Advance From Group,Switzerland (W),0.04290000000000005,0.6429,0.6
-2023-07-20 02:31:16.724808,The Open Championship - 2/3 Balls - 1st Round 3 Balls - R. Henley / J. Janewattananond / G. Robertson - 1st Round 3 Balls,Russell Henley,0.036900000000000044,0.7143,0.6774
 2023-07-20 08:31:04.024854,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,0.036900000000000044,0.7143,0.6774
-2023-07-20 07:30:49.485642,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Blake Snell (SD),0.033300000000000024,0.2,0.1667
 2023-07-20 08:31:03.997215,MLB Futures - MLB 2023 National League West - National League West Winner,San Francisco Giants,0.033300000000000024,0.2,0.1667
+2023-07-20 07:30:49.485642,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Blake Snell (SD),0.033300000000000024,0.2,0.1667
 2023-07-20 08:30:57.615730,Box Office 2023 - Highest Worldwide Box Office At Year End - Box Office Match Bet: Barbie v Oppenheimer,Barbie,0.033299999999999996,0.8333,0.8
 2023-07-20 04:31:05.506560,Barracuda Championship - 2/3 Balls - 1st Round 3-Balls - S. Jaeger / K. Hickok / M. Kinhult - 1st Round 3-Balls,Stephan Jaeger,0.03179999999999994,0.5556,0.5238
 2023-07-20 07:30:49.492576,MLB Futures - MLB 2023 Player Awards - National League MVP,Ronald Acuña Jr.,0.031000000000000028,0.8571,0.8261
 2023-07-20 06:30:58.655571,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Air Raiders,0.031,0.0588,0.0278
-2023-07-20 08:31:04.024854,MLB Futures - MLB 2023 National League Central - National League Central Winner,St. Louis Cardinals,0.030699999999999998,0.0833,0.0526
 2023-07-20 06:30:58.655571,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Mass Street,0.030699999999999998,0.0833,0.0526
+2023-07-20 08:31:04.024854,MLB Futures - MLB 2023 National League Central - National League Central Winner,St. Louis Cardinals,0.030699999999999998,0.0833,0.0526
 2023-07-20 07:30:49.477189,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Masataka Yoshida (BOS),0.030299999999999994,0.3636,0.3333
-2023-07-20 02:31:17.719219,Scores - 1st Round Score - Tommy Fleetwood - 1st Round Score,Over 68.5,0.030299999999999994,0.6667,0.6364
 2023-07-20 03:30:54.751439,Barracuda Championship - 2/3 Balls - 1st Round 3-Balls - T. Merritt / MJ Daffue / J. Scrivener - 1st Round 3-Balls,MJ Daffue,0.029000000000000026,0.4545,0.4255
 2023-07-20 04:31:03.826184,The Open Championship - 2/3 Balls - 1st Round 3 Balls - V. Hovland / T. Finau / J. Thomas - 1st Round 3 Balls,Justin Thomas,0.028299999999999992,0.3509,0.3226
 2023-07-20 13:32:05.643627,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Alex Morgan,0.027999999999999997,0.1818,0.1538
-2023-07-20 03:30:48.905612,WNBA Futures - WNBA Awards - Regular Season MVP,Breanna Stewart (NYL),0.027800000000000047,0.7778,0.75
 2023-07-20 08:31:04.004093,MLB Futures - MLB 2023 American League East - American League East Winner,Baltimore Orioles,0.02779999999999999,0.25,0.2222
 2023-07-20 04:31:04.062258,Round Match-Ups - 1st Round Match-Ups - P. Cantlay vs J. Spieth - 1st Round Match-Ups,Patrick Cantlay,0.027700000000000058,0.5833,0.5556
-2023-07-20 02:31:17.673085,Scores - 1st Round Score - Cameron Smith - 1st Round Score,Over 67.5,0.026800000000000046,0.7143,0.6875
-2023-07-20 03:30:54.505875,Barracuda Championship - 2/3 Balls - 1st Round 3-Balls - D. Lipsky / S. Stevens / N. Kimsey - 1st Round 3-Balls,Sam Stevens,0.026600000000000013,0.4348,0.4082
-2023-07-20 02:31:16.801482,The Open Championship - 2/3 Balls - 1st Round 3 Balls - J. Spieth / M. Fitzpatrick / J. Day - 1st Round 3 Balls ,Jordan Spieth,0.026600000000000013,0.4348,0.4082
-2023-07-20 02:31:17.711409,Scores - 1st Round Score - Shane Lowry - 1st Round Score,Over 68.5,0.026499999999999968,0.6491,0.6226
-2023-07-20 02:31:17.680991,Scores - 1st Round Score - Jon Rahm - 1st Round Score ,Over 67.5,0.025600000000000067,0.6923,0.6667
 2023-07-20 14:30:49.993158,Womens World Cup 2023 - Group A - Outright,Switzerland (W),0.02560000000000001,0.3333,0.3077
 2023-07-20 08:30:58.782963,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,"Robert Kennedy, Jr",0.0242,0.0909,0.0667
-2023-07-20 04:31:05.491547,Barracuda Championship - 2/3 Balls - 1st Round 3-Balls - H. Endycott / L. Nemecz / S. Tarrio - 1st Round 3-Balls,Harrison Endycott,0.02360000000000001,0.4082,0.3846
+2023-07-20 15:30:54.488209,Barracuda Championship - 2/3 Balls - 1st Round 3-Balls - C. Reavie / R. Werenski / B. Snedeker - 1st Round 3-Balls,Chez Reavie,0.023800000000000043,0.5238,0.5
 2023-07-20 04:31:05.614949,Barracuda Championship - 2/3 Balls - 1st Round 3-Balls - J. Blixt / R. Gerard / J. Lagergren - 1st Round 3-Balls,Ryan Gerard,0.02360000000000001,0.4082,0.3846
-2023-07-20 02:31:10.906972,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Straight Forecast,USA (W) 1st / England (W) 2nd,0.02310000000000001,0.1,0.0769
-2023-07-20 02:31:16.618930,LFA - Ian Engbrock vs John Beckett - To Win the Bout,Ian Engbrock,0.022199999999999998,0.6491,0.6269
-2023-07-20 02:31:17.666614,Scores - 1st Round Score - Brooks Koepka - 1st Round Score,Over 67.5,0.02200000000000002,0.7143,0.6923
-2023-07-20 02:31:17.091473,Round Match-Ups - 1st Round Match-Ups - J. Smith vs B. Grace - 1st Round Match-Ups,Jordan Smith,0.02169999999999994,0.5455,0.5238
+2023-07-20 04:31:05.491547,Barracuda Championship - 2/3 Balls - 1st Round 3-Balls - H. Endycott / L. Nemecz / S. Tarrio - 1st Round 3-Balls,Harrison Endycott,0.02360000000000001,0.4082,0.3846
 2023-07-20 06:31:04.248530,Round Match-Ups - 1st Round Match-Ups - T. Gooch vs J. Day - 1st Round Match-Ups,Talor Gooch,0.02169999999999994,0.5455,0.5238
-2023-07-20 03:30:54.523855,Barracuda Championship - 2/3 Balls - 1st Round 3-Balls - C. Ramey / R. Brehm / R. Streb - 1st Round 3-Balls,Robert Streb,0.020799999999999985,0.3333,0.3125
 2023-07-20 04:31:03.752688,The Open Championship - 2/3 Balls - 1st Round 3 Balls - D. McCarthy / F. Molinari / M.F. De Oliveira - 1st Round 3 Balls,Denny McCarthy,0.02079999999999993,0.5556,0.5348
 2023-07-20 08:31:03.980686,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,0.020699999999999996,0.4651,0.4444
-2023-07-20 13:32:05.655687,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,Australia (W),0.020100000000000007,0.1739,0.1538
 2023-07-20 07:30:49.499979,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Corbin Carroll (ARIZ),0.020100000000000007,0.8462,0.8261
+2023-07-20 13:32:05.655687,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,Australia (W),0.020100000000000007,0.1739,0.1538
 2023-07-20 13:32:13.076375,Round Match-Ups - 1st Round Match-Ups - S. Im v K. Bradley - 1st Round Match-Ups,Sungjae Im,0.01970000000000005,0.5652,0.5455
-2023-07-20 02:31:17.601000,Tournament Match-Ups - Tournament Match-Ups - M.W. Lee v T. Finau - Tournament Match-Ups,Tony Finau,0.01970000000000005,0.5652,0.5455
 2023-07-20 13:32:05.655687,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,USA (W),0.019699999999999995,0.4545,0.4348
-2023-07-20 03:30:48.194852,Barbie - Barbie Worldwide Gross On December 31st 2023 - Barbie Worldwide Gross At Year End,Over $650 million,0.01880000000000004,0.5744,0.5556
 2023-07-20 10:30:40.481230,Boxing Lines - George Acosta vs Edy Valencia Mercado - To Win the Bout,Edy Valencia Mercado,0.0179,0.1429,0.125
 2023-07-20 08:31:04.004093,MLB Futures - MLB 2023 American League East - American League East Winner,Toronto Blue Jays,0.0179,0.1429,0.125
 2023-07-20 09:30:40.783978,LFA - Angel Alvarez vs Milko Tucto - To Win the Bout,Angel Alvarez,0.017899999999999916,0.7826,0.7647
@@ -62,10 +47,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-20 07:30:49.471865,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Gerrit Cole (NYY),0.016699999999999993,0.2667,0.25
 2023-07-20 06:30:58.655571,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,The Program for Autism,0.016600000000000004,0.0833,0.0667
 2023-07-20 06:30:58.655571,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Eberlein Drive,0.014900000000000004,0.0345,0.0196
-2023-07-20 02:31:16.706602,The Open Championship - The Open Championship 2023 - Winner,Cameron Smith,0.014099999999999994,0.0667,0.0526
 2023-07-20 06:30:58.655571,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Best Virginia,0.013999999999999999,0.0909,0.0769
 2023-07-20 07:30:44.233428,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Herd That,0.012999999999999998,0.0294,0.0164
-2023-07-20 02:31:17.727377,Scores - 1st Round Score - Tyrrell Hatton - 1st Round Score,Over 68.5,0.012700000000000045,0.6491,0.6364
 2023-07-20 13:32:05.655687,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,New Zealand (W),0.012100000000000001,0.0244,0.0123
 2023-07-20 08:31:04.024854,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,0.011899999999999994,0.0833,0.0714
 2023-07-20 05:30:47.070303,2023/24 Regular Season Wins - Cleveland Cavaliers - Team Wins,Under 49.5,0.011600000000000055,0.5238,0.5122
@@ -76,7 +59,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-20 05:30:47.070303,2023/24 Regular Season Wins - Cleveland Cavaliers - Team Wins,Over 49.5,-0.010099999999999998,0.5455,0.5556
 2023-07-20 07:30:49.485642,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Jesús Luzardo,-0.010700000000000001,0.0278,0.0385
 2023-07-20 11:30:38.368871,Womens World Cup 2023 - USA Team Specials - USA Top Team Goalscorer,Trinity Rodman,-0.010899999999999993,0.1429,0.1538
-2023-07-20 03:30:54.523855,Barracuda Championship - 2/3 Balls - 1st Round 3-Balls - C. Ramey / R. Brehm / R. Streb - 1st Round 3-Balls,Chad Ramey,-0.011099999999999999,0.4651,0.4762
 2023-07-20 13:32:05.649584,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Name The Finalists,Germany (W) & USA (W),-0.011099999999999999,0.1,0.1111
 2023-07-20 06:30:58.655571,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,War Ready,-0.0114,0.005,0.0164
 2023-07-20 04:31:05.491547,Barracuda Championship - 2/3 Balls - 1st Round 3-Balls - H. Endycott / L. Nemecz / S. Tarrio - 1st Round 3-Balls,Santiago Tarrio,-0.01150000000000001,0.3333,0.3448
@@ -86,8 +68,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-20 04:31:05.506560,Barracuda Championship - 2/3 Balls - 1st Round 3-Balls - S. Jaeger / K. Hickok / M. Kinhult - 1st Round 3-Balls,Kramer Hickok,-0.01319999999999999,0.25,0.2632
 2023-07-20 14:30:50.006651,Womens World Cup 2023 - Group A - To Advance From Group,Switzerland (W),-0.013299999999999979,0.6296,0.6429
 2023-07-20 04:31:05.491547,Barracuda Championship - 2/3 Balls - 1st Round 3-Balls - H. Endycott / L. Nemecz / S. Tarrio - 1st Round 3-Balls,Lukas Nemecz,-0.013300000000000034,0.3571,0.3704
-2023-07-20 02:31:16.801482,The Open Championship - 2/3 Balls - 1st Round 3 Balls - J. Spieth / M. Fitzpatrick / J. Day - 1st Round 3 Balls ,Matt Fitzpatrick,-0.013300000000000034,0.3571,0.3704
-2023-07-20 03:30:54.523855,Barracuda Championship - 2/3 Balls - 1st Round 3-Balls - C. Ramey / R. Brehm / R. Streb - 1st Round 3-Balls,Ryan Brehm,-0.013600000000000001,0.2941,0.3077
 2023-07-20 06:30:58.655571,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,The Nerd Team,-0.013699999999999999,0.0141,0.0278
 2023-07-20 08:30:58.782963,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Gavin Newsom,-0.013999999999999999,0.0769,0.0909
 2023-07-20 07:30:44.233428,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,AfterShocks,-0.013999999999999999,0.0769,0.0909
@@ -96,45 +76,34 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-20 07:30:49.492576,MLB Futures - MLB 2023 Player Awards - National League MVP,Freddie Freeman (LAD),-0.014399999999999996,0.0625,0.0769
 2023-07-20 04:31:05.614949,Barracuda Championship - 2/3 Balls - 1st Round 3-Balls - J. Blixt / R. Gerard / J. Lagergren - 1st Round 3-Balls,Jonas Blixt,-0.014900000000000024,0.3077,0.3226
 2023-07-20 10:30:40.481230,Boxing Lines - George Acosta vs Edy Valencia Mercado - To Win the Bout,George Acosta,-0.01660000000000006,0.9167,0.9333
-2023-07-20 14:30:50.000520,Womens World Cup 2023 - Group A - Not To Advance From Group,Norway (W),-0.016699999999999993,0.4,0.4167
-2023-07-20 03:30:48.905612,WNBA Futures - WNBA Awards - Regular Season MVP,A'ja Wilson (LVA),-0.016699999999999993,0.25,0.2667
 2023-07-20 06:31:04.508620,Tournament Match-Ups - Tournament Match-Ups - P. Cantlay vs S. Lowry - Tournament Match-Ups,Shane Lowry,-0.016699999999999993,0.4,0.4167
+2023-07-20 14:30:50.000520,Womens World Cup 2023 - Group A - Not To Advance From Group,Norway (W),-0.016699999999999993,0.4,0.4167
 2023-07-20 14:30:50.000520,Womens World Cup 2023 - Group A - Not To Advance From Group,New Zealand (W),-0.017299999999999982,0.2857,0.303
 2023-07-20 13:32:05.649584,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Name The Finalists,England (W) & USA (W),-0.0179,0.125,0.1429
 2023-07-20 06:30:58.655571,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Gutter Cat Gang,-0.018099999999999998,0.0588,0.0769
 2023-07-20 04:31:03.752688,The Open Championship - 2/3 Balls - 1st Round 3 Balls - D. McCarthy / F. Molinari / M.F. De Oliveira - 1st Round 3 Balls,Francesco Molinari,-0.018799999999999983,0.3448,0.3636
 2023-07-20 14:30:49.993158,Womens World Cup 2023 - Group A - Outright,Norway (W),-0.019000000000000017,0.2667,0.2857
-2023-07-20 02:31:17.666614,Scores - 1st Round Score - Brooks Koepka - 1st Round Score,Under 67.5,-0.019500000000000017,0.3509,0.3704
 2023-07-20 14:30:50.006651,Womens World Cup 2023 - Group A - To Advance From Group,Philippines (W),-0.019800000000000005,0.0278,0.0476
 2023-07-20 06:30:58.655571,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Bucketneers,-0.019800000000000005,0.0278,0.0476
 2023-07-20 04:31:03.719439,The Open Championship - 2/3 Balls - 1st Round 3 Balls - T. Kim / T. Hoge / A. Ancer - 1st Round 3 Balls,Tom Hoge,-0.02009999999999995,0.274,0.2941
 2023-07-20 04:31:03.707838,The Open Championship - 2/3 Balls - 1st Round 3 Balls - C. Conners / B. Horschel / A. Noren - 1st Round 3 Balls,Billy Horschel,-0.021999999999999964,0.2857,0.3077
 2023-07-20 13:32:05.655687,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,Sweden (W),-0.022199999999999998,0.1111,0.1333
-2023-07-20 03:30:48.194852,Barbie - Barbie Worldwide Gross On December 31st 2023 - Barbie Worldwide Gross At Year End,$650 million or under,-0.022600000000000064,0.5122,0.5348
 2023-07-20 04:31:04.062258,Round Match-Ups - 1st Round Match-Ups - P. Cantlay vs J. Spieth - 1st Round Match-Ups,Jordan Spieth,-0.022699999999999998,0.4651,0.4878
 2023-07-20 03:30:54.751439,Barracuda Championship - 2/3 Balls - 1st Round 3-Balls - T. Merritt / MJ Daffue / J. Scrivener - 1st Round 3-Balls,Troy Merritt,-0.02360000000000001,0.3846,0.4082
 2023-07-20 13:32:13.076375,Round Match-Ups - 1st Round Match-Ups - S. Im v K. Bradley - 1st Round Match-Ups,Keegan Bradley,-0.023799999999999988,0.4762,0.5
-2023-07-20 02:31:17.091473,Round Match-Ups - 1st Round Match-Ups - J. Smith vs B. Grace - 1st Round Match-Ups,Branden Grace,-0.023800000000000043,0.5,0.5238
 2023-07-20 06:31:04.248530,Round Match-Ups - 1st Round Match-Ups - T. Gooch vs J. Day - 1st Round Match-Ups,Jason Day,-0.023800000000000043,0.5,0.5238
-2023-07-20 02:31:17.601000,Tournament Match-Ups - Tournament Match-Ups - M.W. Lee v T. Finau - Tournament Match-Ups,Min Woo Lee,-0.023800000000000043,0.5,0.5238
 2023-07-20 13:32:05.655687,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,Norway (W),-0.024800000000000003,0.0278,0.0526
-2023-07-20 02:31:17.719219,Scores - 1st Round Score - Tommy Fleetwood - 1st Round Score,Under 68.5,-0.025499999999999967,0.4,0.4255
 2023-07-20 13:32:05.655687,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,England (W),-0.02560000000000001,0.3077,0.3333
-2023-07-20 02:31:17.673085,Scores - 1st Round Score - Cameron Smith - 1st Round Score,Under 67.5,-0.026500000000000024,0.3509,0.3774
 2023-07-20 04:31:03.826184,The Open Championship - 2/3 Balls - 1st Round 3 Balls - V. Hovland / T. Finau / J. Thomas - 1st Round 3 Balls,Viktor Hovland,-0.026600000000000013,0.4082,0.4348
-2023-07-20 04:31:03.719439,The Open Championship - 2/3 Balls - 1st Round 3 Balls - T. Kim / T. Hoge / A. Ancer - 1st Round 3 Balls,Abraham Ancer,-0.02679999999999999,0.2857,0.3125
 2023-07-20 04:31:05.506560,Barracuda Championship - 2/3 Balls - 1st Round 3-Balls - S. Jaeger / K. Hickok / M. Kinhult - 1st Round 3-Balls,Marcus Kinhult,-0.02679999999999999,0.2857,0.3125
-2023-07-20 02:31:16.618930,LFA - Ian Engbrock vs John Beckett - To Win the Bout,John Beckett,-0.027700000000000002,0.4167,0.4444
-2023-07-20 02:31:17.711409,Scores - 1st Round Score - Shane Lowry - 1st Round Score,Under 68.5,-0.027700000000000002,0.4167,0.4444
+2023-07-20 04:31:03.719439,The Open Championship - 2/3 Balls - 1st Round 3 Balls - T. Kim / T. Hoge / A. Ancer - 1st Round 3 Balls,Abraham Ancer,-0.02679999999999999,0.2857,0.3125
+2023-07-20 15:30:54.488209,Barracuda Championship - 2/3 Balls - 1st Round 3-Balls - C. Reavie / R. Werenski / B. Snedeker - 1st Round 3-Balls,Brandt Snedeker,-0.02779999999999999,0.25,0.2778
 2023-07-20 06:30:58.655571,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Blue Collar U,-0.027800000000000005,0.0833,0.1111
 2023-07-20 06:30:58.655571,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Red Scare,-0.028399999999999995,0.0625,0.0909
 2023-07-20 08:30:58.782963,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,-0.028500000000000025,0.2941,0.3226
-2023-07-20 02:31:16.724808,The Open Championship - 2/3 Balls - 1st Round 3 Balls - R. Henley / J. Janewattananond / G. Robertson - 1st Round 3 Balls,Jazz Janewattananond,-0.02899999999999997,0.274,0.303
-2023-07-20 02:31:17.680991,Scores - 1st Round Score - Jon Rahm - 1st Round Score ,Under 67.5,-0.029600000000000015,0.3704,0.4
 2023-07-20 13:32:05.709456,Womens World Cup 2023 - Group B - Outright,Nigeria (W),-0.030199999999999998,0.0323,0.0625
 2023-07-20 04:31:03.707838,The Open Championship - 2/3 Balls - 1st Round 3 Balls - C. Conners / B. Horschel / A. Noren - 1st Round 3 Balls,Alex Noren,-0.032299999999999995,0.3125,0.3448
 2023-07-20 08:30:58.782963,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Joe Biden,-0.03260000000000002,0.3448,0.3774
-2023-07-20 03:30:54.505875,Barracuda Championship - 2/3 Balls - 1st Round 3-Balls - D. Lipsky / S. Stevens / N. Kimsey - 1st Round 3-Balls,Nathan Kimsey,-0.034499999999999975,0.3226,0.3571
 2023-07-20 13:32:05.709456,Womens World Cup 2023 - Group B - Outright,Rep. of Ireland (W),-0.035300000000000005,0.0123,0.0476
 2023-07-20 08:31:04.004093,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,-0.035699999999999954,0.7143,0.75
 2023-07-20 08:30:57.615730,Box Office 2023 - Highest Worldwide Box Office At Year End - Box Office Match Bet: Barbie v Oppenheimer,Oppenheimer,-0.03570000000000001,0.25,0.2857
@@ -146,7 +115,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-20 13:32:05.655687,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,France (W),-0.04830000000000001,0.1739,0.2222
 2023-07-20 07:30:49.477189,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Gunnar Henderson (BAL),-0.0504,0.2353,0.2857
 2023-07-20 13:32:05.699185,Womens World Cup 2023 - Group A - Not To Advance From Group,Switzerland (W),-0.05070000000000002,0.4255,0.4762
-2023-07-20 02:31:17.688608,Scores - 1st Round Score - Rickie Fowler - 1st Round Score,Under 68.5,-0.0711,0.4167,0.4878
 2023-07-20 11:30:38.368871,Womens World Cup 2023 - USA Team Specials - USA Top Team Goalscorer,Alex Morgan,-0.0771,0.3774,0.4545
 2023-07-20 13:32:05.699185,Womens World Cup 2023 - Group A - Not To Advance From Group,New Zealand (W),-0.23180000000000006,0.303,0.5348
 2023-07-20 13:32:05.703139,Womens World Cup 2023 - Group A - To Advance From Group,Norway (W),-0.28570000000000007,0.6667,0.9524
