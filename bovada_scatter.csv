@@ -14,8 +14,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-21 12:30:51.858832,Womens World Cup 2023 - Group C - To Advance From Group,Zambia (W),0.043800000000000006,0.2105,0.1667
 2023-07-21 19:30:46.220821,75th Primetime Emmy Awards - Emmy - Lead Actress (Drama) - Lead Actress (Drama),Sarah Snook (Succession),0.043300000000000005,0.9524,0.9091
 2023-07-21 12:30:50.986751,Copa Sudamericana - Copa Sudamericana 2023 - Outright,Corinthians,0.042899999999999994,0.1429,0.1
-2023-07-21 11:30:56.229717,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,New Zealand (W),0.04229999999999999,0.0667,0.0244
 2023-07-21 11:30:56.229717,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Switzerland (W),0.04229999999999999,0.0667,0.0244
+2023-07-21 11:30:56.229717,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,New Zealand (W),0.04229999999999999,0.0667,0.0244
 2023-07-21 15:30:57.759669,The Basketball Tournament - Wichita 1 Regional - Winner - Regional Winner,Beale Street Boys,0.04169999999999999,0.25,0.2083
 2023-07-21 16:30:40.557795,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Runner Up,USA (W),0.04040000000000002,0.2222,0.1818
 2023-07-21 11:30:56.289375,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Group of Winning Team,Group C,0.03950000000000001,0.25,0.2105
@@ -27,8 +27,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-21 17:31:00.590387,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - East Group C Winner,Chicago Bulls,0.024999999999999994,0.125,0.1
 2023-07-21 12:30:50.986751,Copa Sudamericana - Copa Sudamericana 2023 - Outright,Botafogo,0.023799999999999988,0.1667,0.1429
 2023-07-21 11:30:56.196174,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Esther Gonzalez,0.02310000000000001,0.1,0.0769
-2023-07-21 11:30:56.303175,Womens World Cup 2023 - Group A - Outright,New Zealand (W),0.022600000000000064,0.5348,0.5122
 2023-07-21 11:31:08.200220,Round Match-Ups - 2nd Round Match-Up - T. Pieters v J.T. Poston - 2nd Round Match-Up,JT Poston,0.022600000000000064,0.5348,0.5122
+2023-07-21 11:30:56.303175,Womens World Cup 2023 - Group A - Outright,New Zealand (W),0.022600000000000064,0.5348,0.5122
 2023-07-21 11:30:56.256253,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Runner Up,Germany (W),0.022199999999999998,0.1333,0.1111
 2023-07-21 11:30:56.229717,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,USA (W),0.02080000000000004,0.6875,0.6667
 2023-07-21 11:30:56.207477,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Name The Finalists,France (W) & USA (W),0.0208,0.0833,0.0625
@@ -36,26 +36,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-21 11:30:56.229717,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Australia (W),0.02030000000000004,0.3774,0.3571
 2023-07-21 12:30:51.825954,Womens World Cup 2023 - Group B - Outright,Nigeria (W),0.0203,0.0526,0.0323
 2023-07-21 12:30:51.838409,Womens World Cup 2023 - Group B - To Advance From Group,Australia (W),0.01979999999999993,0.9722,0.9524
-2023-07-21 11:30:56.242037,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Straight Forecast,USA (W) 1st / France (W) 2nd,0.019099999999999992,0.0667,0.0476
 2023-07-21 11:30:56.242037,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Straight Forecast,USA (W) 1st / Australia (W) 2nd,0.019099999999999992,0.0667,0.0476
+2023-07-21 11:30:56.242037,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Straight Forecast,USA (W) 1st / France (W) 2nd,0.019099999999999992,0.0667,0.0476
 2023-07-21 20:32:32.097756,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.018999999999999906,0.7333,0.7143
 2023-07-21 20:32:32.241265,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Joe Biden,0.018799999999999983,0.3636,0.3448
-2023-07-21 11:30:56.229717,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Japan (W),0.01820000000000002,0.2,0.1818
 2023-07-21 12:30:51.732686,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Alex Morgan,0.01820000000000002,0.2,0.1818
 2023-07-21 18:30:39.101151,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - West Group C Winner,Minnesota Timberwolves,0.01820000000000002,0.2,0.1818
+2023-07-21 11:30:56.229717,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Japan (W),0.01820000000000002,0.2,0.1818
 2023-07-21 11:30:56.207477,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Name The Finalists,England (W) & USA (W),0.0179,0.1429,0.125
 2023-07-21 18:30:45.400837,NCAA Football Futures - 2023 ACC Conference Championship - Championship Game Winner,Clemson,0.017299999999999982,0.4255,0.4082
-2023-07-21 11:30:56.207477,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Name The Finalists,Australia (W) & Spain (W),0.014899999999999997,0.0625,0.0476
-2023-07-21 20:32:32.131849,US Presidential Election 2024 - US Presidential Election 2024 - Donald Trump Popular Vote - Donald Trump Popular Vote,To be Republican Nominee and win more than 60% of the popular vote,0.014899999999999997,0.0625,0.0476
-2023-07-21 20:32:32.131849,US Presidential Election 2024 - US Presidential Election 2024 - Donald Trump Popular Vote - Donald Trump Popular Vote,To be Republican Nominee and win 55.01 to 60% of the popular vote,0.014899999999999997,0.0625,0.0476
 2023-07-21 17:31:00.607234,NBA In-Season Tournament 2023/24 - 2023/24 In-Season Tournament Cup - West Group B Winner,Houston Rockets,0.014899999999999997,0.0625,0.0476
 2023-07-21 11:30:56.196174,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Eugenie Le Sommer,0.014899999999999997,0.0625,0.0476
+2023-07-21 20:32:32.131849,US Presidential Election 2024 - US Presidential Election 2024 - Donald Trump Popular Vote - Donald Trump Popular Vote,To be Republican Nominee and win 55.01 to 60% of the popular vote,0.014899999999999997,0.0625,0.0476
+2023-07-21 20:32:32.131849,US Presidential Election 2024 - US Presidential Election 2024 - Donald Trump Popular Vote - Donald Trump Popular Vote,To be Republican Nominee and win more than 60% of the popular vote,0.014899999999999997,0.0625,0.0476
+2023-07-21 11:30:56.207477,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Name The Finalists,Australia (W) & Spain (W),0.014899999999999997,0.0625,0.0476
 2023-07-21 20:32:32.021159,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the classified documents federal charges? - Will Donald Trump be found guilty of one or more of the classified documents federal charges?,Yes,0.014700000000000046,0.7647,0.75
-2023-07-21 11:30:56.242037,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Straight Forecast,England (W) 1st / USA (W) 2nd,0.014399999999999996,0.0769,0.0625
 2023-07-21 11:30:56.207477,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Name The Finalists,Australia (W) & USA (W),0.014399999999999996,0.0769,0.0625
 2023-07-21 11:30:56.207477,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Name The Finalists,Germany (W) & Spain (W),0.014399999999999996,0.0769,0.0625
-2023-07-21 19:30:45.875942,Box Office 2023 - Highest Domestic Box Office Opening Weekend - Domestic Box Office Match Bet: Barbie v Oppenheimer,Barbie,0.014100000000000001,0.9756,0.9615
+2023-07-21 11:30:56.242037,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Straight Forecast,England (W) 1st / USA (W) 2nd,0.014399999999999996,0.0769,0.0625
 2023-07-21 11:30:56.207477,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Name The Finalists,France (W) & Spain (W),0.014100000000000001,0.0526,0.0385
+2023-07-21 19:30:45.875942,Box Office 2023 - Highest Domestic Box Office Opening Weekend - Domestic Box Office Match Bet: Barbie v Oppenheimer,Barbie,0.014100000000000001,0.9756,0.9615
 2023-07-21 11:30:56.242037,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Straight Forecast,Spain (W) 1st / England (W) 2nd,0.014099999999999994,0.0667,0.0526
 2023-07-21 12:30:51.846038,Womens World Cup 2023 - Group C - Outright,Spain (W),0.013900000000000023,0.8889,0.875
 2023-07-21 13:30:39.242342,Womens World Cup 2023 - USA Team Specials - USA Team Specials,Sophia Smith to score 3+ goals,0.013599999999999945,0.7059,0.6923
@@ -66,6 +66,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-21 12:30:51.825954,Womens World Cup 2023 - Group B - Outright,Rep. of Ireland (W),0.012100000000000001,0.0244,0.0123
 2023-07-21 13:30:39.242342,Womens World Cup 2023 - USA Team Specials - USA Team Specials,Sophia Smith to score 5+ goals,0.01150000000000001,0.3448,0.3333
 2023-07-21 16:30:48.735082,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Receiving Yards,A.J. Brown,0.011500000000000003,0.05,0.0385
+2023-07-21 22:30:59.095786,Round Match-Ups - 3rd Round Match Up - B. DeChambeau vs C. Young - Outright,Cameron Young,0.01100000000000001,0.5348,0.5238
 2023-07-21 11:30:56.242037,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Straight Forecast,France (W) 1st / USA (W) 2nd,0.010700000000000001,0.0385,0.0278
 2023-07-21 20:32:31.958729,Joe Biden Specials - Joe Biden Approval Rating At Year End - Joe Biden Approval Rating At Year End,Over 41,0.010599999999999998,0.4651,0.4545
 2023-07-21 12:30:51.846038,Womens World Cup 2023 - Group C - Outright,Japan (W),0.010499999999999982,0.2105,0.2
@@ -73,15 +74,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-21 11:30:56.256253,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Runner Up,Norway (W),-0.010700000000000001,0.0278,0.0385
 2023-07-21 19:30:45.875942,Box Office 2023 - Highest Domestic Box Office Opening Weekend - Domestic Box Office Match Bet: Barbie v Oppenheimer,Oppenheimer,-0.011099999999999999,0.1,0.1111
 2023-07-21 11:30:56.218771,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,Sweden (W),-0.011099999999999999,0.1,0.1111
+2023-07-21 22:30:59.095786,Round Match-Ups - 3rd Round Match Up - B. DeChambeau vs C. Young - Outright,Bryson DeChambeau,-0.011600000000000055,0.5122,0.5238
 2023-07-21 16:30:48.161205,Team Specials - Cincinnati Bengals - CIN Bengals Longest Reg Season Winning Streak,Over 4.5 Games,-0.012199999999999989,0.5,0.5122
 2023-07-21 11:30:56.196174,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Ella Toone,-0.012700000000000003,0.0196,0.0323
 2023-07-21 12:30:50.986751,Copa Sudamericana - Copa Sudamericana 2023 - Outright,Fortaleza,-0.013899999999999996,0.1111,0.125
 2023-07-21 12:30:50.986751,Copa Sudamericana - Copa Sudamericana 2023 - Outright,RB Bragantino,-0.013899999999999996,0.1111,0.125
 2023-07-21 12:30:51.852777,Womens World Cup 2023 - Group C - Not To Advance From Group,Spain (W),-0.014099999999999998,0.0244,0.0385
 2023-07-21 11:30:56.256253,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Runner Up,Canada (W),-0.014100000000000001,0.0385,0.0526
-2023-07-21 11:30:56.218771,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,Canada (W),-0.014399999999999996,0.0625,0.0769
 2023-07-21 20:32:32.241265,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,"Robert Kennedy, Jr",-0.014399999999999996,0.0625,0.0769
 2023-07-21 16:30:48.735082,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Receiving Yards,Davante Adams,-0.014399999999999996,0.0625,0.0769
+2023-07-21 11:30:56.218771,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,Canada (W),-0.014399999999999996,0.0625,0.0769
 2023-07-21 16:30:48.735082,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Receiving Yards,Cooper Kupp,-0.01440000000000001,0.0909,0.1053
 2023-07-21 20:32:31.958729,Joe Biden Specials - Joe Biden Approval Rating At Year End - Joe Biden Approval Rating At Year End,41 or under,-0.014800000000000035,0.6078,0.6226
 2023-07-21 11:30:56.256253,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Runner Up,England (W),-0.015100000000000002,0.1667,0.1818
