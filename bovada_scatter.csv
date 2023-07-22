@@ -7,13 +7,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-22 05:30:43.825994,The Basketball Tournament - Xavier Regional - Winner - Regional Winner,The Program of Autism,0.06440000000000001,0.4348,0.3704
 2023-07-22 05:30:43.825994,The Basketball Tournament - Xavier Regional - Winner - Regional Winner,Zip 'Em Up,0.05990000000000001,0.3774,0.3175
 2023-07-22 02:31:00.355322,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,Ewart Shadoff/Talley,0.0577,0.1053,0.0476
-2023-07-22 06:30:46.452650,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - To Win Group East 2,CF Montréal,0.047599999999999976,0.3333,0.2857
 2023-07-22 06:30:46.421403,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - To Win Group Central 1,Columbus Crew,0.047599999999999976,0.3333,0.2857
-2023-07-22 01:30:57.176964,Round Match-Ups - 3rd Round Match Up - B. Koepka vs P. Cantlay - 3rd Round Match Up,Patrick Cantlay,0.043399999999999994,0.5556,0.5122
+2023-07-22 06:30:46.452650,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - To Win Group East 2,CF Montréal,0.047599999999999976,0.3333,0.2857
 2023-07-22 06:30:46.477794,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - To Win Group West 2,CF Monterrey,0.043399999999999994,0.4878,0.4444
+2023-07-22 01:30:57.176964,Round Match-Ups - 3rd Round Match Up - B. Koepka vs P. Cantlay - 3rd Round Match Up,Patrick Cantlay,0.043399999999999994,0.5556,0.5122
 2023-07-22 05:30:43.906924,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Bleed Green,0.04239999999999999,0.0769,0.0345
-2023-07-22 02:31:00.306756,Round Match-Ups - 3rd Round Match Up - C. Conners vs P. Reed - 3rd Round Match Up,Patrick Reed,0.04139999999999999,0.5652,0.5238
 2023-07-22 02:31:00.342530,Round Match-Ups - 3rd Round Match Up - M. Homa vs W. Clark - 3rd Round Match Up,Max Homa,0.04139999999999999,0.5652,0.5238
+2023-07-22 02:31:00.306756,Round Match-Ups - 3rd Round Match Up - C. Conners vs P. Reed - 3rd Round Match Up,Patrick Reed,0.04139999999999999,0.5652,0.5238
 2023-07-22 06:30:46.445970,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - To Win Group East 1,Tijuana,0.04099999999999998,0.3077,0.2667
 2023-07-22 06:30:46.889153,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Hvidovre IF,0.04039999999999999,0.8182,0.7778
 2023-07-22 06:30:46.898321,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,FC Midtjylland,0.03980000000000006,0.6552,0.6154
@@ -22,8 +22,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-22 06:30:46.907141,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,FC Midtjylland,0.03420000000000001,0.9231,0.8889
 2023-07-22 04:31:19.139762,The Open Championship - 2/3 Balls - 3rd Round 2 Balls - T. Hatton v B. Robinson Thompson - 3rd Round 2 Balls,Tyrrell Hatton,0.033399999999999985,0.8667,0.8333
 2023-07-22 02:31:00.355322,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,Borge/Mack,0.032799999999999996,0.0385,0.0057
-2023-07-22 10:31:01.572142,Round Match-Ups - 3rd Round Match-Up - R. McIlroy v B. Harman - 3rd Round Match-Up,Rory McIlroy,0.030299999999999994,0.6667,0.6364
 2023-07-22 06:30:46.472250,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - To Win Group West 1 ,Portland Timbers,0.030299999999999994,0.3636,0.3333
+2023-07-22 10:31:01.572142,Round Match-Ups - 3rd Round Match-Up - R. McIlroy v B. Harman - 3rd Round Match-Up,Rory McIlroy,0.030299999999999994,0.6667,0.6364
 2023-07-22 05:30:43.906924,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Zip Em Up,0.029299999999999993,0.0769,0.0476
 2023-07-22 06:30:46.884024,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Midtjylland,0.02779999999999999,0.25,0.2222
 2023-07-22 06:30:59.857524,Scores - 3rd Round Score - Rory McIlroy - 3rd Round Score,Over 70.5,0.027700000000000002,0.4444,0.4167
@@ -32,21 +32,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-22 03:30:56.055865,Round Match-Ups - 3rd Round Match Up - B. DeChambeau vs C. Young - 3rd Round Match Up,Bryson DeChambeau,0.023800000000000043,0.5238,0.5
 2023-07-22 03:30:56.063828,Round Match-Ups - 3rd Round Match Up - C. Conners vs P. Reed - 3rd Round Match Up,Corey Conners,0.023799999999999988,0.5,0.4762
 2023-07-22 03:30:55.915847,The Open Championship - 2/3 Balls - 3rd Round 2 Balls - C. Smith v M. Fitzpatrick - 3rd Round 2 Balls,Matt Fitzpatrick,0.022699999999999998,0.4878,0.4651
+2023-07-22 11:31:09.175491,The Open Championship - 2/3 Balls - 3rd Round 2 Balls - A. Noren v M. Siem - 3rd Round 2 Balls,Marcel Siem,0.022699999999999998,0.4878,0.4651
 2023-07-22 04:31:19.036853,The Open Championship - 2/3 Balls - 3rd Round 2 Balls - A. Putnam v C. Lamprecht - 3rd Round 2 Balls,Christo Lamprecht,0.02260000000000001,0.4,0.3774
-2023-07-22 03:30:56.071618,Round Match-Ups - 3rd Round Match Up - T. Hatton vs V. Hovland - 3rd Round Match Up,Viktor Hovland,0.02169999999999994,0.5455,0.5238
 2023-07-22 01:30:57.233402,Round Match-Ups - 3rd Round Match Up - A. Meronk vs N. Hojgaard - 3rd Round Match Up,Adrian Meronk,0.02169999999999994,0.5455,0.5238
 2023-07-22 04:31:19.326604,Round Match-Ups - 3rd Round Match Up - B. DeChambeau vs C. Young - 3rd Round Match Up,Cameron Young,0.02169999999999994,0.5455,0.5238
-2023-07-22 06:30:47.665425,Womens World Cup 2023 - Group A - Outright,New Zealand (W),0.02079999999999993,0.5556,0.5348
+2023-07-22 03:30:56.071618,Round Match-Ups - 3rd Round Match Up - T. Hatton vs V. Hovland - 3rd Round Match Up,Viktor Hovland,0.02169999999999994,0.5455,0.5238
+2023-07-22 11:31:09.303453,The Open Championship - 2/3 Balls - 3rd Round 2 Balls - J. Spieth v C. Young - 3rd Round 2 Balls,Jordan Spieth,0.02169999999999994,0.5455,0.5238
 2023-07-22 05:30:52.613708,The Open Championship - 2/3 Balls - 3rd Round 2 Balls - P. Reed v L. Oosthuizen - 3rd Round 2 Balls,Patrick Reed,0.02079999999999993,0.5556,0.5348
+2023-07-22 06:30:47.665425,Womens World Cup 2023 - Group A - Outright,New Zealand (W),0.02079999999999993,0.5556,0.5348
 2023-07-22 02:31:00.164026,The Open Championship - 2/3 Balls - 3rd Round 2 Balls - R. Fowler v R. MacIntrye - 3rd Round 2 Balls,Robert MacIntyre,0.020699999999999996,0.4651,0.4444
 2023-07-22 06:30:59.497685,The Open Championship - 2/3 Balls - 3rd Round 2 Balls - J. Rahm v S. Im - 3rd Round 2 Balls,Sungjae Im,0.02030000000000004,0.3774,0.3571
 2023-07-22 05:30:43.906924,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,AfterShocks,0.02020000000000001,0.1111,0.0909
 2023-07-22 09:32:31.601605,Round Match-Ups - 3rd Round Match Up - M. Homa vs W. Clark - 3rd Round Match Up,Wyndham Clark,0.01970000000000005,0.5652,0.5455
-2023-07-22 07:32:28.468986,The Open Championship - 2/3 Balls - 3rd Round 2 Balls - T. Kim v A. Bjork - 3rd Round 2 Balls,Alexander Bjork,0.018900000000000028,0.4444,0.4255
 2023-07-22 03:30:55.868274,The Open Championship - 2/3 Balls - 3rd Round 2 Balls - P. Harrington v S. Stallings - 3rd Round 2 Balls,Scott Stallings,0.018900000000000028,0.4444,0.4255
+2023-07-22 07:32:28.468986,The Open Championship - 2/3 Balls - 3rd Round 2 Balls - T. Kim v A. Bjork - 3rd Round 2 Balls,Alexander Bjork,0.018900000000000028,0.4444,0.4255
 2023-07-22 05:30:43.906924,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,The Enchantment,0.0189,0.0385,0.0196
 2023-07-22 05:30:43.906924,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Team Arkansas,0.0189,0.0385,0.0196
 2023-07-22 03:30:56.079419,Round Match-Ups - 3rd Round Match Up - J. Rahm vs R. McIlroy - 3rd Round Match Up,Rory McIlroy,0.018100000000000005,0.5833,0.5652
+2023-07-22 11:31:09.190106,The Open Championship - 2/3 Balls - 3rd Round 2 Balls - V. Hovland v H. Matsuyama - 3rd Round 2 Balls,Hideki Matsuyama,0.018100000000000005,0.4348,0.4167
 2023-07-22 06:30:46.907141,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Brøndby IF,0.016700000000000048,0.75,0.7333
 2023-07-22 06:30:46.907141,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,FC Nordsjælland,0.016700000000000048,0.75,0.7333
 2023-07-22 06:30:47.665425,Womens World Cup 2023 - Group A - Outright,Norway (W),0.016699999999999993,0.2667,0.25
@@ -56,6 +59,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-22 09:32:21.945568,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,Japan (W),0.014099999999999998,0.0435,0.0294
 2023-07-22 09:32:20.903509,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - Winner,Inter Miami,0.013999999999999999,0.0909,0.0769
 2023-07-22 06:30:47.651863,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,Germany (W),0.013899999999999996,0.125,0.1111
+2023-07-22 11:30:54.770388,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,Spain (W),0.0131,0.2353,0.2222
 2023-07-22 01:30:49.520865,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Gavin Newsom,0.012899999999999995,0.1667,0.1538
 2023-07-22 05:30:43.906924,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Nasty Nati,0.012400000000000001,0.0164,0.004
 2023-07-22 10:30:51.947092,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,Spain (W),0.011700000000000016,0.2222,0.2105
@@ -63,19 +67,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-22 05:30:43.906924,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Best Virginia,0.011099999999999999,0.1111,0.1
 2023-07-22 06:30:46.477794,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - To Win Group West 2,Real Salt Lake,0.010699999999999987,0.3333,0.3226
 2023-07-22 01:30:57.184807,Round Match-Ups - 3rd Round Match Up - B. DeChambeau vs C. Young - 3rd Round Match Up,Cameron Young,0.010699999999999932,0.5455,0.5348
-2023-07-22 10:30:51.947092,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,France (W),0.0102,0.0769,0.0667
 2023-07-22 04:31:09.469742,WNBA Futures - WNBA Awards - Regular Season MVP,Alyssa Thomas (CON),0.0102,0.0769,0.0667
+2023-07-22 10:30:51.947092,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,France (W),0.0102,0.0769,0.0667
 2023-07-22 09:32:31.574319,Round Match-Ups - 3rd Round Match-Up - T. Fleetwood v R. McIlroy - 3rd Round Match-Up,Rory McIlroy,0.010099999999999998,0.5556,0.5455
 2023-07-22 09:32:21.945568,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,France (W),-0.0102,0.0667,0.0769
 2023-07-22 03:30:56.079419,Round Match-Ups - 3rd Round Match Up - J. Rahm vs R. McIlroy - 3rd Round Match Up,Jon Rahm,-0.011099999999999999,0.4651,0.4762
 2023-07-22 02:30:51.661622,Euroleague - Euroleague 2023/24 - Outright,Virtus Bologna,-0.011399999999999997,0.0164,0.0278
 2023-07-22 06:30:47.651863,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,Spain (W),-0.011700000000000016,0.2105,0.2222
-2023-07-22 02:31:00.355322,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,Darquea/Davidson,-0.0121,0.0002,0.0123
 2023-07-22 02:31:00.355322,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,M. Lee/Zhang,-0.0121,0.0002,0.0123
+2023-07-22 02:31:00.355322,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,Darquea/Davidson,-0.0121,0.0002,0.0123
 2023-07-22 06:30:46.889153,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Vejle BK,-0.012199999999999989,0.5,0.5122
 2023-07-22 09:32:31.574319,Round Match-Ups - 3rd Round Match-Up - T. Fleetwood v R. McIlroy - 3rd Round Match-Up,Tommy Fleetwood,-0.012199999999999989,0.4878,0.5
 2023-07-22 01:30:57.184807,Round Match-Ups - 3rd Round Match Up - B. DeChambeau vs C. Young - 3rd Round Match Up,Bryson DeChambeau,-0.012199999999999989,0.5,0.5122
 2023-07-22 06:30:46.452650,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - To Win Group East 2,DC United,-0.012699999999999989,0.3509,0.3636
+2023-07-22 11:30:54.770388,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,England (W),-0.012899999999999995,0.1538,0.1667
 2023-07-22 06:30:47.686377,Womens World Cup 2023 - Group B - Outright,Canada (W),-0.0131,0.2222,0.2353
 2023-07-22 06:30:46.898321,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,AGF Aarhus,-0.01419999999999999,0.3704,0.3846
 2023-07-22 02:31:00.355322,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,Roussin/Lindberg,-0.0147,0.0005,0.0152
@@ -91,6 +96,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-22 06:30:46.907141,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Hvidovre IF,-0.016700000000000007,0.0833,0.1
 2023-07-22 04:31:19.036853,The Open Championship - 2/3 Balls - 3rd Round 2 Balls - A. Putnam v C. Lamprecht - 3rd Round 2 Balls,Andrew Putnam,-0.01759999999999995,0.6491,0.6667
 2023-07-22 02:31:00.355322,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,Suwannapura/Clanton,-0.0177,0.0002,0.0179
+2023-07-22 11:31:09.175491,The Open Championship - 2/3 Balls - 3rd Round 2 Balls - A. Noren v M. Siem - 3rd Round 2 Balls,Alex Noren,-0.018100000000000005,0.5652,0.5833
 2023-07-22 08:30:58.581133,Boxing Lines - Arnold Khegai vs Freddy Lainez - To Win the Bout,Arnold Khegai,-0.018100000000000005,0.9231,0.9412
 2023-07-22 09:32:20.903509,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - Winner,Cruz Azul,-0.018200000000000004,0.0294,0.0476
 2023-07-22 02:31:00.355322,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,Ya. Liu/He,-0.0191,0.0005,0.0196
@@ -101,15 +107,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-22 03:30:56.055865,Round Match-Ups - 3rd Round Match Up - B. DeChambeau vs C. Young - 3rd Round Match Up,Cameron Young,-0.02169999999999994,0.5238,0.5455
 2023-07-22 06:30:46.440132,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - To Win Group Central 4,Deportivo Toluca,-0.021699999999999997,0.4545,0.4762
 2023-07-22 06:30:46.440132,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - To Win Group Central 4,Nashville SC,-0.021699999999999997,0.4545,0.4762
+2023-07-22 11:31:09.190106,The Open Championship - 2/3 Balls - 3rd Round 2 Balls - V. Hovland v H. Matsuyama - 3rd Round 2 Balls,Viktor Hovland,-0.02180000000000004,0.6078,0.6296
 2023-07-22 06:30:46.421403,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - To Win Group Central 1,Saint Louis City SC,-0.021999999999999964,0.2857,0.3077
 2023-07-22 06:30:46.445970,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - To Win Group East 1,Querétaro FC,-0.022199999999999998,0.2,0.2222
-2023-07-22 06:30:46.445970,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - To Win Group East 1,Philadelphia Union,-0.022600000000000064,0.6,0.6226
 2023-07-22 03:30:55.868274,The Open Championship - 2/3 Balls - 3rd Round 2 Balls - P. Harrington v S. Stallings - 3rd Round 2 Balls,Padraig Harrington,-0.022600000000000064,0.6,0.6226
+2023-07-22 06:30:46.445970,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - To Win Group East 1,Philadelphia Union,-0.022600000000000064,0.6,0.6226
 2023-07-22 06:30:46.472250,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - To Win Group West 1 ,Tigres UANL,-0.023799999999999988,0.4762,0.5
 2023-07-22 06:30:46.421403,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - To Win Group Central 1,Club América,-0.023799999999999988,0.4762,0.5
-2023-07-22 01:30:57.233402,Round Match-Ups - 3rd Round Match Up - A. Meronk vs N. Hojgaard - 3rd Round Match Up,Nicolai Hojgaard,-0.023800000000000043,0.5,0.5238
-2023-07-22 03:30:56.071618,Round Match-Ups - 3rd Round Match Up - T. Hatton vs V. Hovland - 3rd Round Match Up,Tyrrell Hatton,-0.023800000000000043,0.5,0.5238
+2023-07-22 11:31:09.303453,The Open Championship - 2/3 Balls - 3rd Round 2 Balls - J. Spieth v C. Young - 3rd Round 2 Balls,Cameron Young,-0.023800000000000043,0.5,0.5238
 2023-07-22 06:30:46.466503,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - To Win Group East 4,New England Revolution,-0.023800000000000043,0.5,0.5238
+2023-07-22 03:30:56.071618,Round Match-Ups - 3rd Round Match Up - T. Hatton vs V. Hovland - 3rd Round Match Up,Tyrrell Hatton,-0.023800000000000043,0.5,0.5238
+2023-07-22 01:30:57.233402,Round Match-Ups - 3rd Round Match Up - A. Meronk vs N. Hojgaard - 3rd Round Match Up,Nicolai Hojgaard,-0.023800000000000043,0.5,0.5238
 2023-07-22 04:31:19.326604,Round Match-Ups - 3rd Round Match Up - B. DeChambeau vs C. Young - 3rd Round Match Up,Bryson DeChambeau,-0.023800000000000043,0.5,0.5238
 2023-07-22 05:30:52.613708,The Open Championship - 2/3 Balls - 3rd Round 2 Balls - P. Reed v L. Oosthuizen - 3rd Round 2 Balls,Louis Oosthuizen,-0.024399999999999977,0.4878,0.5122
 2023-07-22 02:30:51.661622,Euroleague - Euroleague 2023/24 - Outright,Anadolu Efes,-0.024999999999999994,0.1,0.125
@@ -124,15 +132,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-22 02:30:51.661622,Euroleague - Euroleague 2023/24 - Outright,Barcelona,-0.031799999999999995,0.1111,0.1429
 2023-07-22 06:30:46.907141,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Viborg FF,-0.033299999999999996,0.5122,0.5455
 2023-07-22 02:31:00.355322,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,Ran Ryu/Hong,-0.0383,0.0002,0.0385
-2023-07-22 02:30:51.766813,FIBA World Cup - FIBA World Cup 2023 - Group H Winner,France,-0.04139999999999999,0.4348,0.4762
 2023-07-22 03:30:56.095939,Round Match-Ups - 3rd Round Match Up - M. Homa vs W. Clark - 3rd Round Match Up,Max Homa,-0.04139999999999999,0.5238,0.5652
+2023-07-22 02:30:51.766813,FIBA World Cup - FIBA World Cup 2023 - Group H Winner,France,-0.04139999999999999,0.4348,0.4762
 2023-07-22 06:30:46.907141,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Silkeborg IF,-0.04630000000000001,0.3704,0.4167
 2023-07-22 02:31:00.355322,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,Schmelzel/Weaver-Wright,-0.0466,0.001,0.0476
 2023-07-22 01:30:57.176964,Round Match-Ups - 3rd Round Match Up - B. Koepka vs P. Cantlay - 3rd Round Match Up,Brooks Koepka,-0.04700000000000004,0.4878,0.5348
 2023-07-22 06:30:47.665425,Womens World Cup 2023 - Group A - Outright,Switzerland (W),-0.047599999999999976,0.2857,0.3333
-2023-07-22 02:31:00.306756,Round Match-Ups - 3rd Round Match Up - C. Conners vs P. Reed - 3rd Round Match Up,Corey Conners,-0.04760000000000003,0.4762,0.5238
 2023-07-22 09:32:31.601605,Round Match-Ups - 3rd Round Match Up - M. Homa vs W. Clark - 3rd Round Match Up,Max Homa,-0.04760000000000003,0.4762,0.5238
 2023-07-22 02:31:00.342530,Round Match-Ups - 3rd Round Match Up - M. Homa vs W. Clark - 3rd Round Match Up,Wyndham Clark,-0.04760000000000003,0.4762,0.5238
+2023-07-22 02:31:00.306756,Round Match-Ups - 3rd Round Match Up - C. Conners vs P. Reed - 3rd Round Match Up,Corey Conners,-0.04760000000000003,0.4762,0.5238
 2023-07-22 02:31:00.355322,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,Anannarukarn/Ashok,-0.06649999999999999,0.0002,0.0667
 2023-07-22 02:31:00.355322,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,Boutier/Saso,-0.06669999999999998,0.1,0.1667
 2023-07-22 06:30:46.477794,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - To Win Group West 2,Seattle Sounders,-0.0731,0.2778,0.3509
