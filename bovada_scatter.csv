@@ -37,16 +37,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-23 06:31:07.339254,The Open Championship - 2/3 Balls - Final Round 2 Balls - A. Bjork vs B. An - Final Round 2 Balls,Byeong Hun An,0.027700000000000058,0.5833,0.5556
 2023-07-23 06:31:07.397885,The Open Championship - 2/3 Balls - Final Round 2 Balls - H. Matsuyama vs R. Langasque - Final Round 2 Balls,Romain Langasque,0.025499999999999967,0.4255,0.4
 2023-07-23 12:30:50.959737,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Los Angeles Dodgers,0.0252,0.303,0.2778
-2023-07-23 11:30:47.534875,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Palmeiras,0.0242,0.9333,0.9091
 2023-07-23 10:31:03.186888,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - Winner,Philadelphia Union,0.0242,0.0909,0.0667
+2023-07-23 11:30:47.534875,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Palmeiras,0.0242,0.9333,0.9091
 2023-07-23 03:31:06.792914,Round Match-Ups - Final Round Match-Up - P. Cantlay vs T. Fleetwood - Final Round Match-Up,Tommy Fleetwood,0.023800000000000043,0.5238,0.5
 2023-07-23 10:31:03.435095,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Athletico Paranaense,0.023799999999999988,0.1667,0.1429
 2023-07-23 08:31:00.209694,Scores - Final Round Score - Antoine Rozner - Final Round Score,Under 71.5,0.023799999999999988,0.5,0.4762
 2023-07-23 12:30:50.974955,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Gerrit Cole (NYY),0.023799999999999988,0.3571,0.3333
 2023-07-23 05:30:43.798588,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Bleed Green,0.02310000000000001,0.1,0.0769
-2023-07-23 12:30:50.974955,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Shane McClanahan (TB),0.022199999999999998,0.2222,0.2
-2023-07-23 13:30:58.231366,Womens World Cup 2023 - Group G - Outright,Sweden (W),0.022199999999999998,0.8889,0.8667
 2023-07-23 10:31:03.429002,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Coritiba,0.022199999999999998,0.8,0.7778
+2023-07-23 13:30:58.231366,Womens World Cup 2023 - Group G - Outright,Sweden (W),0.022199999999999998,0.8889,0.8667
+2023-07-23 12:30:50.974955,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Shane McClanahan (TB),0.022199999999999998,0.2222,0.2
 2023-07-23 05:30:43.798588,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Nasty Nati,0.022099999999999998,0.0385,0.0164
 2023-07-23 07:31:00.035568,Round Match-Ups - Final Round Match-Up - C. Conners v M.W. Lee - Final Round Match-Up,Min Woo Lee,0.02079999999999993,0.5556,0.5348
 2023-07-23 11:30:58.137809,Round Match-Ups - Final Round Match-Up - M. Fitzpatrick vs T. Kim - Final Round Match-Up,Matt Fitzpatrick,0.02079999999999993,0.5556,0.5348
@@ -55,7 +55,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-23 13:30:58.243111,Womens World Cup 2023 - Group G - Not To Advance From Group,South Africa (W),0.018900000000000028,0.9804,0.9615
 2023-07-23 11:30:47.534875,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,RB Bragantino,0.01820000000000002,0.2,0.1818
 2023-07-23 11:30:58.053164,The Open Championship - 2/3 Balls - Final Round 2 Balls - M. Jordan vs N. Hojgaard - Final Round 2 Balls,Nicolai Hojgaard,0.018100000000000005,0.5833,0.5652
-2023-07-23 02:31:27.848512,The Open Championship - 2/3 Balls - Final Round 2 Balls - S. Straka vs T. Fleetwood - Final Round 2 Balls,Sepp Straka,0.018100000000000005,0.4348,0.4167
 2023-07-23 13:30:58.174355,Womens World Cup 2023 - Group E - Not To Advance From Group,Portugal (W),0.018100000000000005,0.9412,0.9231
 2023-07-23 10:31:03.435095,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Botafogo,0.017900000000000027,0.875,0.8571
 2023-07-23 05:30:41.929422,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Copenhagen,0.017299999999999982,0.5917,0.5744
@@ -64,8 +63,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-23 05:30:43.626447,WNBA Futures - WNBA Awards - Regular Season MVP,A'ja Wilson (LVA),0.01469999999999999,0.25,0.2353
 2023-07-23 13:30:57.930647,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Sweden (W),0.01469999999999999,0.25,0.2353
 2023-07-23 13:30:57.893035,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Rachel Daly,0.014399999999999996,0.0769,0.0625
-2023-07-23 12:30:50.862722,MLB Futures - MLB 2023 American League West - American League West Winner,Seattle Mariners,0.014100000000000001,0.0526,0.0385
 2023-07-23 05:30:43.798588,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,The Enchantment,0.014100000000000001,0.0526,0.0385
+2023-07-23 15:30:44.878334,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,Brazil (W),0.014100000000000001,0.0526,0.0385
+2023-07-23 12:30:50.862722,MLB Futures - MLB 2023 American League West - American League West Winner,Seattle Mariners,0.014100000000000001,0.0526,0.0385
 2023-07-23 13:30:57.893035,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Fridolina Rolfo,0.014099999999999998,0.0385,0.0244
 2023-07-23 11:30:58.112916,The Open Championship - 2/3 Balls - Final Round 2 Balls - B. Harman vs C. Young - Final Round 2 Balls,Cameron Young,0.013799999999999923,0.6364,0.6226
 2023-07-23 05:30:41.934649,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Randers,0.012899999999999995,0.1667,0.1538
@@ -73,57 +73,59 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-23 07:31:00.160414,Round Match-Ups - Final Round Match-Up - J. Rahm vs R. McIlroy - Final Round Match-Up,Jon Rahm,0.012199999999999989,0.5122,0.5
 2023-07-23 11:30:58.148368,Round Match-Ups - Final Round Match-Up - J. Rahm vs R. McIlroy - Final Round Match-Up,Jon Rahm,0.011600000000000055,0.5238,0.5122
 2023-07-23 11:30:47.534875,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Botafogo,0.011199999999999988,0.9524,0.9412
-2023-07-23 07:31:00.150579,Round Match-Ups - Final Round Match-Up - M. Fitzpatrick vs T. Kim - Final Round Match-Up,Matt Fitzpatrick,0.01100000000000001,0.5348,0.5238
-2023-07-23 07:30:59.996763,Round Match-Ups - Final Round Match-Up - M. Homa vs W. Clark - Final Round Match-Up,Max Homa,0.01100000000000001,0.5348,0.5238
 2023-07-23 07:30:59.924595,Round Match-Ups - Final Round Match-Up - A. Ancer v A. Noren - Final Round Match-Up,Alex Noren,0.01100000000000001,0.5348,0.5238
+2023-07-23 07:30:59.996763,Round Match-Ups - Final Round Match-Up - M. Homa vs W. Clark - Final Round Match-Up,Max Homa,0.01100000000000001,0.5348,0.5238
 2023-07-23 07:31:00.098468,Round Match-Ups - Final Round Match-Up - P. Cantlay vs T. Fleetwood - Final Round Match-Up,Tommy Fleetwood,0.01100000000000001,0.5348,0.5238
+2023-07-23 07:31:00.150579,Round Match-Ups - Final Round Match-Up - M. Fitzpatrick vs T. Kim - Final Round Match-Up,Matt Fitzpatrick,0.01100000000000001,0.5348,0.5238
 2023-07-23 05:30:52.018950,Round Match-Ups - Final Round Match-Up - M. Fitzpatrick v W. Clark - Final Round Match-Up,Matt Fitzpatrick,0.010699999999999932,0.5455,0.5348
 2023-07-23 07:30:59.912803,Round Match-Ups - Final Round Match-Up - C. Bezuidenhout v T. Pieters - Final Round Match-Up,Thomas Pieters,0.010699999999999932,0.5455,0.5348
-2023-07-23 05:30:43.616511,WNBA Futures - 2023 Regular Season Wins - Phoenix Mercury,Under 11.5,0.010699999999999932,0.5455,0.5348
 2023-07-23 07:30:59.971233,Round Match-Ups - Final Round Match-Up - H. Stenson v R. Bland - Final Round Match-Up,Henrik Stenson,0.010699999999999932,0.5455,0.5348
-2023-07-23 07:31:00.112727,Round Match-Ups - Final Round Match-Up - R. Fowler vs V. Hovland - Final Round Match-Up,Viktor Hovland,0.010099999999999998,0.5556,0.5455
+2023-07-23 05:30:43.616511,WNBA Futures - 2023 Regular Season Wins - Phoenix Mercury,Under 11.5,0.010699999999999932,0.5455,0.5348
 2023-07-23 07:31:00.071360,Round Match-Ups - Final Round Match-Up - J. Spieth vs X. Schauffele - Final Round Match-Up,Xander Schauffele,0.010099999999999998,0.5556,0.5455
-2023-07-23 06:31:07.175663,The Open Championship - 2/3 Balls - Final Round 2 Balls - B. Koepka vs S. Scheffler - Final Round 2 Balls,Brooks Koepka,-0.010099999999999998,0.4444,0.4545
+2023-07-23 07:31:00.112727,Round Match-Ups - Final Round Match-Up - R. Fowler vs V. Hovland - Final Round Match-Up,Viktor Hovland,0.010099999999999998,0.5556,0.5455
 2023-07-23 06:31:07.348449,The Open Championship - 2/3 Balls - Final Round 2 Balls - C. Conners vs T. Hatton - Final Round 2 Balls,Corey Conners,-0.010099999999999998,0.4444,0.4545
+2023-07-23 06:31:07.175663,The Open Championship - 2/3 Balls - Final Round 2 Balls - B. Koepka vs S. Scheffler - Final Round 2 Balls,Brooks Koepka,-0.010099999999999998,0.4444,0.4545
 2023-07-23 12:30:41.421470,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,France (W),-0.0102,0.0667,0.0769
+2023-07-23 15:30:54.109837,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Receiving TDs,Odell Beckham,-0.010300000000000002,0.0141,0.0244
 2023-07-23 12:30:50.996464,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Mitch Keller (PIT),-0.010600000000000002,0.0217,0.0323
 2023-07-23 07:31:00.083836,Round Match-Ups - Final Round Match-Up - P. Cantlay v X. Schauffele - Final Round Match-Up,Patrick Cantlay,-0.010699999999999932,0.5348,0.5455
-2023-07-23 07:30:59.901165,Round Match-Ups - Final Round Match-Up - R. Ramsay v V. Perez - Final Round Match-Up,Victor Perez,-0.010699999999999932,0.5348,0.5455
-2023-07-23 07:30:59.936049,Round Match-Ups - Final Round Match-Up - J. Luiten v L. Canter - Final Round Match-Up,Joost Luiten,-0.010699999999999932,0.5348,0.5455
 2023-07-23 07:31:00.160414,Round Match-Ups - Final Round Match-Up - J. Rahm vs R. McIlroy - Final Round Match-Up,Rory McIlroy,-0.010699999999999932,0.5348,0.5455
+2023-07-23 07:30:59.936049,Round Match-Ups - Final Round Match-Up - J. Luiten v L. Canter - Final Round Match-Up,Joost Luiten,-0.010699999999999932,0.5348,0.5455
+2023-07-23 07:30:59.901165,Round Match-Ups - Final Round Match-Up - R. Ramsay v V. Perez - Final Round Match-Up,Victor Perez,-0.010699999999999932,0.5348,0.5455
+2023-07-23 15:30:44.878334,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,England (W),-0.010899999999999993,0.1429,0.1538
 2023-07-23 05:30:43.616511,WNBA Futures - 2023 Regular Season Wins - Phoenix Mercury,Over 11.5,-0.01100000000000001,0.5238,0.5348
 2023-07-23 11:30:58.148368,Round Match-Ups - Final Round Match-Up - J. Rahm vs R. McIlroy - Final Round Match-Up,Rory McIlroy,-0.01100000000000001,0.5238,0.5348
-2023-07-23 06:31:07.156559,The Open Championship - 2/3 Balls - Final Round 2 Balls - A. Meronk vs A. Otaegui - Final Round 2 Balls,Adrian Otaegui,-0.011099999999999999,0.4651,0.4762
 2023-07-23 06:31:07.250184,The Open Championship - 2/3 Balls - Final Round 2 Balls - A. Noren vs L. Canter - Final Round 2 Balls,Laurie Canter,-0.011099999999999999,0.4651,0.4762
+2023-07-23 06:31:07.156559,The Open Championship - 2/3 Balls - Final Round 2 Balls - A. Meronk vs A. Otaegui - Final Round 2 Balls,Adrian Otaegui,-0.011099999999999999,0.4651,0.4762
+2023-07-23 05:30:43.798588,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,AfterShocks,-0.011099999999999999,0.1,0.1111
 2023-07-23 06:31:07.375516,The Open Championship - 2/3 Balls - Final Round 2 Balls - M.W. Lee vs R. Fowler - Final Round 2 Balls,Min Woo Lee,-0.011099999999999999,0.4651,0.4762
 2023-07-23 11:30:58.053164,The Open Championship - 2/3 Balls - Final Round 2 Balls - M. Jordan vs N. Hojgaard - Final Round 2 Balls,Matthew Jordan,-0.011099999999999999,0.4651,0.4762
 2023-07-23 06:31:07.145913,The Open Championship - 2/3 Balls - Final Round 2 Balls - P. Harrington vs R. MacIntyre - Final Round 2 Balls,Padraig Harrington,-0.011099999999999999,0.4651,0.4762
-2023-07-23 05:30:43.798588,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,AfterShocks,-0.011099999999999999,0.1,0.1111
 2023-07-23 10:31:03.435095,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Cruzeiro,-0.011199999999999995,0.0476,0.0588
-2023-07-23 10:31:03.186888,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - Winner,Seattle Sounders,-0.011199999999999995,0.0476,0.0588
 2023-07-23 11:30:47.534875,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Corinthians,-0.011199999999999995,0.0476,0.0588
-2023-07-23 07:30:59.955057,Round Match-Ups - Final Round Match-Up - P. Reed v R. Fox - Final Round Match-Up,Ryan Fox,-0.0116,0.4762,0.4878
-2023-07-23 07:30:59.963218,Round Match-Ups - Final Round Match-Up - B. Todd v G. Migliozzi - Final Round Match-Up,Guido Migliozzi,-0.0116,0.4762,0.4878
+2023-07-23 10:31:03.186888,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - Winner,Seattle Sounders,-0.011199999999999995,0.0476,0.0588
 2023-07-23 12:30:50.862722,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,-0.0116,0.4762,0.4878
 2023-07-23 06:31:07.321127,The Open Championship - 2/3 Balls - Final Round 2 Balls - H. Stenson vs S. Cink - Final Round 2 Balls,Stewart Cink,-0.0116,0.4762,0.4878
-2023-07-23 07:30:59.901165,Round Match-Ups - Final Round Match-Up - R. Ramsay v V. Perez - Final Round Match-Up,Richie Ramsay,-0.011600000000000055,0.5122,0.5238
-2023-07-23 07:30:59.924595,Round Match-Ups - Final Round Match-Up - A. Ancer v A. Noren - Final Round Match-Up,Abraham Ancer,-0.011600000000000055,0.5122,0.5238
-2023-07-23 07:31:00.098468,Round Match-Ups - Final Round Match-Up - P. Cantlay vs T. Fleetwood - Final Round Match-Up,Patrick Cantlay,-0.011600000000000055,0.5122,0.5238
-2023-07-23 07:31:00.083836,Round Match-Ups - Final Round Match-Up - P. Cantlay v X. Schauffele - Final Round Match-Up,Xander Schauffele,-0.011600000000000055,0.5122,0.5238
+2023-07-23 07:30:59.955057,Round Match-Ups - Final Round Match-Up - P. Reed v R. Fox - Final Round Match-Up,Ryan Fox,-0.0116,0.4762,0.4878
+2023-07-23 07:30:59.963218,Round Match-Ups - Final Round Match-Up - B. Todd v G. Migliozzi - Final Round Match-Up,Guido Migliozzi,-0.0116,0.4762,0.4878
 2023-07-23 07:30:59.996763,Round Match-Ups - Final Round Match-Up - M. Homa vs W. Clark - Final Round Match-Up,Wyndham Clark,-0.011600000000000055,0.5122,0.5238
 2023-07-23 07:31:00.150579,Round Match-Ups - Final Round Match-Up - M. Fitzpatrick vs T. Kim - Final Round Match-Up,Tom Kim,-0.011600000000000055,0.5122,0.5238
+2023-07-23 07:31:00.083836,Round Match-Ups - Final Round Match-Up - P. Cantlay v X. Schauffele - Final Round Match-Up,Xander Schauffele,-0.011600000000000055,0.5122,0.5238
 2023-07-23 07:30:59.936049,Round Match-Ups - Final Round Match-Up - J. Luiten v L. Canter - Final Round Match-Up,Laurie Canter,-0.011600000000000055,0.5122,0.5238
-2023-07-23 07:31:00.071360,Round Match-Ups - Final Round Match-Up - J. Spieth vs X. Schauffele - Final Round Match-Up,Jordan Spieth,-0.012199999999999989,0.4878,0.5
-2023-07-23 05:30:41.934649,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Vejle BK,-0.012199999999999989,0.4878,0.5
+2023-07-23 07:30:59.901165,Round Match-Ups - Final Round Match-Up - R. Ramsay v V. Perez - Final Round Match-Up,Richie Ramsay,-0.011600000000000055,0.5122,0.5238
+2023-07-23 07:31:00.098468,Round Match-Ups - Final Round Match-Up - P. Cantlay vs T. Fleetwood - Final Round Match-Up,Patrick Cantlay,-0.011600000000000055,0.5122,0.5238
+2023-07-23 07:30:59.924595,Round Match-Ups - Final Round Match-Up - A. Ancer v A. Noren - Final Round Match-Up,Abraham Ancer,-0.011600000000000055,0.5122,0.5238
 2023-07-23 07:30:59.912803,Round Match-Ups - Final Round Match-Up - C. Bezuidenhout v T. Pieters - Final Round Match-Up,Christiaan Bezuidenhout,-0.012199999999999989,0.5,0.5122
+2023-07-23 05:30:41.934649,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Vejle BK,-0.012199999999999989,0.4878,0.5
 2023-07-23 07:30:59.971233,Round Match-Ups - Final Round Match-Up - H. Stenson v R. Bland - Final Round Match-Up,Richard Bland,-0.012199999999999989,0.5,0.5122
 2023-07-23 07:31:00.112727,Round Match-Ups - Final Round Match-Up - R. Fowler vs V. Hovland - Final Round Match-Up,Rickie Fowler,-0.012199999999999989,0.4878,0.5
+2023-07-23 07:31:00.071360,Round Match-Ups - Final Round Match-Up - J. Spieth vs X. Schauffele - Final Round Match-Up,Jordan Spieth,-0.012199999999999989,0.4878,0.5
 2023-07-23 06:31:07.136739,The Open Championship - 2/3 Balls - Final Round 2 Balls - A. Putnam vs B. DeChambeau - Final Round 2 Balls,Bryson DeChambeau,-0.013799999999999923,0.6226,0.6364
-2023-07-23 10:31:03.435095,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Fortaleza,-0.013899999999999996,0.1111,0.125
 2023-07-23 12:30:50.897300,MLB Futures - MLB 2023 American League East - American League East Winner,Toronto Blue Jays,-0.013899999999999996,0.1111,0.125
+2023-07-23 10:31:03.435095,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Fortaleza,-0.013899999999999996,0.1111,0.125
 2023-07-23 12:30:50.928945,MLB Futures - MLB 2023 National League Central - National League Central Winner,St. Louis Cardinals,-0.014099999999999994,0.0526,0.0667
-2023-07-23 13:30:57.930647,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Portugal (W),-0.014099999999999998,0.0244,0.0385
 2023-07-23 10:31:03.186888,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - Winner,New England Revolution,-0.014099999999999998,0.0244,0.0385
+2023-07-23 13:30:57.930647,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Portugal (W),-0.014099999999999998,0.0244,0.0385
 2023-07-23 13:30:57.893035,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Kadidiatou Diani,-0.014100000000000001,0.0385,0.0526
 2023-07-23 13:30:58.243111,Womens World Cup 2023 - Group G - Not To Advance From Group,Sweden (W),-0.014100000000000001,0.0385,0.0526
 2023-07-23 10:31:03.417565,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,São Paulo,-0.014499999999999999,0.0149,0.0294
@@ -140,11 +142,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-23 13:30:58.252099,Womens World Cup 2023 - Group G - To Advance From Group,South Africa (W),-0.018099999999999998,0.0588,0.0769
 2023-07-23 06:31:07.407517,The Open Championship - 2/3 Balls - Final Round 2 Balls - M. Fitzpatrick vs S. Im - Final Round 2 Balls,Matt Fitzpatrick,-0.018100000000000005,0.5652,0.5833
 2023-07-23 13:30:58.252099,Womens World Cup 2023 - Group G - To Advance From Group,Italy (W),-0.018199999999999994,0.8,0.8182
-2023-07-23 05:30:41.944770,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Lyngby BK,-0.01820000000000002,0.1818,0.2
 2023-07-23 05:30:41.944770,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Vejle BK,-0.01820000000000002,0.1818,0.2
+2023-07-23 05:30:41.944770,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Lyngby BK,-0.01820000000000002,0.1818,0.2
 2023-07-23 13:30:57.918813,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,England (W),-0.019000000000000017,0.2667,0.2857
 2023-07-23 13:30:57.893035,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Sophia Smith,-0.019000000000000017,0.2667,0.2857
-2023-07-23 02:31:27.848512,The Open Championship - 2/3 Balls - Final Round 2 Balls - S. Straka vs T. Fleetwood - Final Round 2 Balls,Tommy Fleetwood,-0.019499999999999962,0.6296,0.6491
 2023-07-23 12:30:50.889105,MLB Futures - MLB 2023 National League West - National League West Winner,Arizona Diamondbacks,-0.019699999999999995,0.1053,0.125
 2023-07-23 11:30:58.191336,Barracuda Championship - 2/3 Balls - Final Round 2 Balls - N. Kimsey v J. Veerman - Final Round 2 Balls,Johannes Veerman,-0.019699999999999995,0.4348,0.4545
 2023-07-23 05:30:51.638006,The Open Championship - 2/3 Balls - Final Round 2 Balls - A. Scott vs V. Perez - Final Round 2 Balls,Victor Perez,-0.020699999999999996,0.4444,0.4651
@@ -154,8 +155,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-23 07:31:00.035568,Round Match-Ups - Final Round Match-Up - C. Conners v M.W. Lee - Final Round Match-Up,Corey Conners,-0.022600000000000064,0.5122,0.5348
 2023-07-23 06:31:07.339254,The Open Championship - 2/3 Balls - Final Round 2 Balls - A. Bjork vs B. An - Final Round 2 Balls,Alexander Bjork,-0.022699999999999998,0.4651,0.4878
 2023-07-23 10:31:03.693799,Allsvenskan - Allsvenskan 2023 - Winner,Djurgårdens IF,-0.0236,0.0149,0.0385
-2023-07-23 13:30:57.918813,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,France (W),-0.023799999999999988,0.1429,0.1667
 2023-07-23 05:30:51.618531,The Open Championship - 2/3 Balls - Final Round 2 Balls - M. Siem vs T. Lawrence - Final Round 2 Balls,Thriston Lawrence,-0.023799999999999988,0.4762,0.5
+2023-07-23 13:30:57.918813,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,France (W),-0.023799999999999988,0.1429,0.1667
 2023-07-23 11:30:58.137809,Round Match-Ups - Final Round Match-Up - M. Fitzpatrick vs T. Kim - Final Round Match-Up,Tom Kim,-0.024399999999999977,0.4878,0.5122
 2023-07-23 05:30:43.798588,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Eberlein Drive,-0.024600000000000004,0.0099,0.0345
 2023-07-23 13:30:58.209035,Womens World Cup 2023 - Group F - Not To Advance From Group,Jamaica (W),-0.025000000000000022,0.875,0.9
@@ -170,9 +171,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-23 06:31:07.397885,The Open Championship - 2/3 Balls - Final Round 2 Balls - H. Matsuyama vs R. Langasque - Final Round 2 Balls,Hideki Matsuyama,-0.03259999999999996,0.6226,0.6552
 2023-07-23 13:30:57.893035,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Esther Gonzalez,-0.03420000000000001,0.0769,0.1111
 2023-07-23 05:30:43.609909,WNBA Futures - 2023 Regular Season Wins - New York Liberty,Under 30.5,-0.03479999999999994,0.5652,0.6
+2023-07-23 07:31:00.009358,Round Match-Ups - Final Round Match-Up - A. Bjork v R. Langasque - Final Round Match-Up,Romain Langasque,-0.03480000000000005,0.5,0.5348
 2023-07-23 05:30:52.018950,Round Match-Ups - Final Round Match-Up - M. Fitzpatrick v W. Clark - Final Round Match-Up,Wyndham Clark,-0.03480000000000005,0.5,0.5348
 2023-07-23 07:30:59.891381,Round Match-Ups - Final Round Match-Up - K. Kitayama v L. Oosthuizen - Final Round Match-Up,Kurt Kitayama,-0.03480000000000005,0.5,0.5348
-2023-07-23 07:31:00.009358,Round Match-Ups - Final Round Match-Up - A. Bjork v R. Langasque - Final Round Match-Up,Romain Langasque,-0.03480000000000005,0.5,0.5348
 2023-07-23 06:31:07.312203,The Open Championship - 2/3 Balls - Final Round 2 Balls - G. Migliozzi vs M. Stewart - Final Round 2 Balls,Michael Stewart,-0.03620000000000001,0.4082,0.4444
 2023-07-23 06:31:07.467337,The Open Championship - 2/3 Balls - Final Round 2 Balls - A. Rozner vs J. Day - Final Round 2 Balls,Antoine Rozner,-0.03620000000000001,0.4082,0.4444
 2023-07-23 11:30:58.093035,The Open Championship - 2/3 Balls - Final Round 2 Balls - A. Rozner vs J. Day - Final Round 2 Balls,Jason Day,-0.03639999999999999,0.6,0.6364
@@ -188,8 +189,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-23 06:31:07.455885,The Open Championship - 2/3 Balls - Final Round 2 Balls - S. Straka vs T. Fleetwood - Final Round 2 Balls,Sepp Straka,-0.05740000000000001,0.3774,0.4348
 2023-07-23 10:31:03.435095,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Atlético Mineiro,-0.06519999999999998,0.2857,0.3509
 2023-07-23 13:30:58.197002,Womens World Cup 2023 - Group F - Outright,France (W),-0.06669999999999998,0.6,0.6667
-2023-07-23 13:30:58.183862,Womens World Cup 2023 - Group E - To Advance From Group,Portugal (W),-0.06669999999999998,0.1,0.1667
 2023-07-23 10:31:03.693799,Allsvenskan - Allsvenskan 2023 - Winner,BK Häcken,-0.06669999999999998,0.2,0.2667
+2023-07-23 13:30:58.183862,Womens World Cup 2023 - Group E - To Advance From Group,Portugal (W),-0.06669999999999998,0.1,0.1667
 2023-07-23 13:30:58.162694,Womens World Cup 2023 - Group E - Outright,USA (W),-0.06670000000000009,0.7333,0.8
 2023-07-23 12:30:50.974955,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Kevin Gausman (TOR),-0.06820000000000001,0.1818,0.25
 2023-07-23 10:31:03.417565,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Flamengo,-0.07509999999999997,0.2326,0.3077
