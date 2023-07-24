@@ -10,6 +10,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-24 14:30:45.122319,WNBA Futures - 2023 Regular Season Wins - Los Angeles Sparks,Under 13.5,0.0917,0.5917,0.5
 2023-07-24 14:30:45.056628,WNBA Futures - 2023 Regular Season Wins - Atlanta Dream,Under 20.5,0.0915999999999999,0.6154,0.5238
 2023-07-24 10:30:41.886384,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Athletico Paranaense,0.08080000000000004,0.4444,0.3636
+2023-07-24 15:30:42.438958,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Alexandra Popp,0.0804,0.1429,0.0625
 2023-07-24 10:30:42.071434,Allsvenskan - Allsvenskan 2023 - Winner,IF Elfsborg,0.07939999999999997,0.5556,0.4762
 2023-07-24 13:30:37.771532,Womens World Cup 2023 - Group H - Not To Advance From Group,Colombia (W),0.07939999999999997,0.5556,0.4762
 2023-07-24 14:30:45.158185,WNBA Futures - 2023 Regular Season Wins - Phoenix Mercury,Under 11.5,0.07710000000000006,0.6226,0.5455
@@ -22,15 +23,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-24 05:32:37.431788,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,Ottawa Redblacks,0.056400000000000006,0.1333,0.0769
 2023-07-24 14:30:45.069036,WNBA Futures - 2023 Regular Season Wins - Chicago Sky,Over 14.5,0.05520000000000003,0.6296,0.5744
 2023-07-24 10:30:41.881946,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,RB Bragantino,0.048100000000000004,0.125,0.0769
-2023-07-24 14:30:45.145300,WNBA Futures - 2023 Regular Season Wins - New York Liberty,Over 30.5,0.045499999999999985,0.5455,0.5
 2023-07-24 14:30:45.100002,WNBA Futures - 2023 Regular Season Wins - Indiana Fever,Under 13.5,0.045499999999999985,0.5455,0.5
 2023-07-24 10:30:41.872342,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,Tiquinho Soares (Botafogo),0.045499999999999985,0.5,0.4545
+2023-07-24 14:30:45.145300,WNBA Futures - 2023 Regular Season Wins - New York Liberty,Over 30.5,0.045499999999999985,0.5455,0.5
 2023-07-24 10:30:42.078939,Superettan - Superettan 2023 - Winner,Utsiktens,0.044399999999999995,0.4444,0.4
 2023-07-24 14:30:43.550833,Womens World Cup 2023 - Group F - To Advance From Group,Brazil (W),0.04290000000000005,0.9804,0.9375
 2023-07-24 11:31:17.260912,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Baltimore Orioles,0.037599999999999995,0.1429,0.1053
 2023-07-24 03:31:07.081584,96th Academy Awards - Best Picture - Best Picture,Oppenheimer,0.035999999999999976,0.5122,0.4762
 2023-07-24 06:31:02.147705,WNBA Futures - WNBA Awards - Regular Season MVP,A'ja Wilson (LVA),0.03570000000000001,0.2857,0.25
 2023-07-24 13:30:41.912535,Season Player Specials - NFL 2023-24 Rushing TDs - James Cook 2023-24 Regular Season Total Rushing TDs,Over 3.5,0.03480000000000005,0.5348,0.5
+2023-07-24 15:30:46.087315,Season Player Specials - NFL 2023-24 Receiving TDs - Amari Cooper 2023-24 Regular Season Total Receiving TDs,Over 6.5,0.03480000000000005,0.5348,0.5
+2023-07-24 15:30:42.438958,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Esther Gonzalez,0.03420000000000001,0.1111,0.0769
 2023-07-24 10:30:42.022491,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Randers,0.033300000000000024,0.2,0.1667
 2023-07-24 10:30:41.881946,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Palmeiras,0.033299999999999996,0.8333,0.8
 2023-07-24 12:30:49.395492,Womens World Cup 2023 - Group G - To Advance From Group,South Africa (W),0.0321,0.0909,0.0588
@@ -47,21 +50,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-24 10:30:42.031240,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Viborg FF,0.022600000000000064,0.5348,0.5122
 2023-07-24 10:30:42.078939,Superettan - Superettan 2023 - Winner,Västerås SK,0.02100000000000002,0.3846,0.3636
 2023-07-24 05:32:37.416048,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Toronto Argonauts,0.020799999999999985,0.3333,0.3125
+2023-07-24 15:30:46.137384,Season Player Specials - NFL 2023-24 Receiving TDs - Cooper Kupp 2023-24 Regular Season Total Receiving TDs,Over 8.5,0.02079999999999993,0.5556,0.5348
 2023-07-24 14:30:46.522603,AFC North - AFC North 2023/24 - AFC North Winner,Cincinnati Bengals,0.020699999999999996,0.4651,0.4444
 2023-07-24 06:31:02.166709,WNBA Futures - WNBA Championship 2023 - Outright Winner,New York Liberty,0.020299999999999985,0.2703,0.25
 2023-07-24 10:30:42.942665,Twitter Specials - Will Larry the Bird return as Twitter's main logo by the end of August? - Will Larry the Bird return?,Yes,0.02020000000000001,0.1111,0.0909
 2023-07-24 10:30:42.031240,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Brøndby IF,0.020100000000000007,0.7701,0.75
 2023-07-24 11:31:17.227886,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Los Angeles Dodgers,0.020100000000000007,0.1739,0.1538
+2023-07-24 15:30:42.438958,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Beatriz Zaneratto,0.019800000000000005,0.0476,0.0278
+2023-07-24 15:30:49.404433,NCAA Football Futures - 2023 USA Conference Championship - Championship Game Winner,New Mexico State,0.019099999999999992,0.0667,0.0476
 2023-07-24 10:30:41.867158,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Palmeiras,0.019000000000000017,0.2857,0.2667
-2023-07-24 13:30:42.664566,Team Specials - Buffalo Bills - BUF Bills Specials,James Cook To Score 10+ Rushing Touchdowns in the Regular Season,0.01820000000000002,0.2,0.1818
 2023-07-24 10:30:42.031240,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Lyngby BK,0.01820000000000002,0.2,0.1818
+2023-07-24 13:30:42.664566,Team Specials - Buffalo Bills - BUF Bills Specials,James Cook To Score 10+ Rushing Touchdowns in the Regular Season,0.01820000000000002,0.2,0.1818
 2023-07-24 13:30:39.385423,AFC South - AFC South 2023/24 - AFC South Winner,Tennessee Titans,0.0174,0.25,0.2326
+2023-07-24 15:30:46.131500,Season Player Specials - NFL 2023-24 Receiving TDs - Christian Watson 2023-24 Regular Season Total Receiving TDs,Under 5.5,0.017299999999999982,0.5917,0.5744
 2023-07-24 13:30:42.664566,Team Specials - Buffalo Bills - BUF Bills Specials,J. Cook or G. Davis to Have 1250+ Reg Season Yards from Scrimmage,0.016699999999999993,0.2667,0.25
 2023-07-24 14:30:46.760223,NFC South - NFC South 2023/24 - NFC South Winner,Tampa Bay Buccaneers,0.016600000000000018,0.1342,0.1176
 2023-07-24 10:30:42.500712,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,Germany (W),0.015700000000000006,0.1333,0.1176
 2023-07-24 10:30:42.026830,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,Brøndby IF,0.015400000000000025,0.4,0.3846
-2023-07-24 13:30:42.664566,Team Specials - Buffalo Bills - BUF Bills Specials,J. Cook 75+ Rush Yards in 8+ Individual Reg Season Games,0.015100000000000002,0.1818,0.1667
+2023-07-24 15:30:46.143539,Season Player Specials - NFL 2023-24 Receiving TDs - Courtland Sutton 2023-24 Regular Season Total Receiving TDs,Under 4.5,0.01539999999999997,0.6154,0.6
 2023-07-24 13:30:42.664566,Team Specials - Buffalo Bills - BUF Bills Specials,S. Diggs 1250+ Reg Season Rec Yards & J. Cook 750+ Reg Season Rush Yards,0.015100000000000002,0.1818,0.1667
+2023-07-24 13:30:42.664566,Team Specials - Buffalo Bills - BUF Bills Specials,J. Cook 75+ Rush Yards in 8+ Individual Reg Season Games,0.015100000000000002,0.1818,0.1667
 2023-07-24 06:31:02.368971,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,AfterShocks,0.015100000000000002,0.1818,0.1667
 2023-07-24 14:30:54.649517,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,British Columbia Lions,0.01469999999999999,0.25,0.2353
 2023-07-24 13:30:37.775388,Womens World Cup 2023 - Group H - To Advance From Group,Germany (W),0.014599999999999946,0.995,0.9804
@@ -78,25 +86,41 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-24 06:31:02.147705,WNBA Futures - WNBA Awards - Regular Season MVP,Breanna Stewart (NYL),0.011900000000000022,0.7619,0.75
 2023-07-24 11:31:17.260912,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Houston Astros,0.011700000000000016,0.2222,0.2105
 2023-07-24 10:30:43.456763,FIBA World Cup - FIBA World Cup 2023 - Group C Winner,USA,0.011099999999999999,0.9,0.8889
+2023-07-24 15:30:46.149421,Season Player Specials - NFL 2023-24 Receiving TDs - D.J. Moore 2023-24 Regular Season Total Receiving TDs,Under 4.5,0.01100000000000001,0.5348,0.5238
+2023-07-24 15:30:46.092855,Season Player Specials - NFL 2023-24 Receiving TDs - Amon-Ra St. Brown 2023-24 Regular Season Total Receiving TDs,Over 5.5,0.010699999999999932,0.5455,0.5348
 2023-07-24 13:30:44.804015,Elite Boxing - Stephen Fulton vs Naoki Inoue - To Win the Bout,Naoya Inoue,0.010500000000000065,0.8,0.7895
-2023-07-24 05:32:37.416048,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Calgary Stampeders,-0.0102,0.0667,0.0769
+2023-07-24 15:30:46.103763,Season Player Specials - NFL 2023-24 Receiving TDs - Calvin Ridley 2023-24 Regular Season Total Receiving TDs,Over 5.5,0.010099999999999998,0.5556,0.5455
 2023-07-24 10:30:42.026830,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,Randers,-0.0102,0.0667,0.0769
+2023-07-24 05:32:37.416048,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Calgary Stampeders,-0.0102,0.0667,0.0769
 2023-07-24 05:32:37.416048,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Saskatchewan Roughriders,-0.0102,0.0667,0.0769
+2023-07-24 15:30:46.143539,Season Player Specials - NFL 2023-24 Receiving TDs - Courtland Sutton 2023-24 Regular Season Total Receiving TDs,Over 4.5,-0.010599999999999998,0.4545,0.4651
+2023-07-24 15:30:46.149421,Season Player Specials - NFL 2023-24 Receiving TDs - D.J. Moore 2023-24 Regular Season Total Receiving TDs,Over 4.5,-0.010699999999999932,0.5348,0.5455
 2023-07-24 10:30:41.881946,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Internacional,-0.010899999999999993,0.1429,0.1538
+2023-07-24 15:30:46.092855,Season Player Specials - NFL 2023-24 Receiving TDs - Amon-Ra St. Brown 2023-24 Regular Season Total Receiving TDs,Under 5.5,-0.01100000000000001,0.5238,0.5348
 2023-07-24 10:30:41.872342,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,Hulk (Atletico MG),-0.011099999999999999,0.1,0.1111
 2023-07-24 03:31:07.081584,96th Academy Awards - Best Picture - Best Picture,The Color Purple,-0.011099999999999999,0.1,0.1111
 2023-07-24 13:30:39.374241,AFC North - AFC North 2023/24 - AFC North Top 2,BAL Ravens / CIN Bengals,-0.01150000000000001,0.3333,0.3448
 2023-07-24 14:30:46.742728,NFC North - NFC North 2023/24 - NFC North Top 2,DET Lions / MIN Vikings,-0.01150000000000001,0.3333,0.3448
+2023-07-24 15:30:46.131500,Season Player Specials - NFL 2023-24 Receiving TDs - Christian Watson 2023-24 Regular Season Total Receiving TDs,Over 5.5,-0.0116,0.4762,0.4878
+2023-07-24 15:30:46.103763,Season Player Specials - NFL 2023-24 Receiving TDs - Calvin Ridley 2023-24 Regular Season Total Receiving TDs,Under 5.5,-0.011600000000000055,0.5122,0.5238
 2023-07-24 10:30:42.017920,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Midtjylland,-0.011700000000000016,0.2105,0.2222
+2023-07-24 15:30:46.126155,Season Player Specials - NFL 2023-24 Receiving TDs - Christian Kirk 2023-24 Regular Season Total Receiving TDs,Under 4.5,-0.012199999999999989,0.5,0.5122
+2023-07-24 15:30:46.098468,Season Player Specials - NFL 2023-24 Receiving TDs - Brandon Aiyuk 2023-24 Regular Season Total Receiving TDs,Over 5.5,-0.012199999999999989,0.4878,0.5
 2023-07-24 10:30:43.450693,FIBA World Cup - FIBA World Cup 2023 - Group B Winner,Serbia,-0.012300000000000089,0.9681,0.9804
 2023-07-24 14:30:46.732436,NFC North - NFC North 2023/24 - NFC North Exacta (1-2),1st MIN Vikings / 2nd DET Lions,-0.012899999999999995,0.1538,0.1667
+2023-07-24 15:30:42.438958,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Christine Sinclair,-0.013,0.0066,0.0196
+2023-07-24 15:30:42.438958,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Rebecka Blomqvist,-0.013,0.0066,0.0196
 2023-07-24 05:32:37.416048,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,British Columbia Lions,-0.01319999999999999,0.25,0.2632
 2023-07-24 10:30:41.683922,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - Winner,New York Red Bulls,-0.014099999999999998,0.0244,0.0385
 2023-07-24 10:30:42.026830,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,Vejle BK,-0.014499999999999999,0.0149,0.0294
+2023-07-24 15:30:42.438958,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Alba Redondo,-0.0145,0.0099,0.0244
 2023-07-24 13:30:44.488737,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,British Columbia Lions,-0.01469999999999999,0.2353,0.25
 2023-07-24 10:30:42.031240,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Vejle BK,-0.015100000000000002,0.1667,0.1818
+2023-07-24 15:30:42.438958,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Ana Maria Crnogorcevic,-0.0156,0.004,0.0196
+2023-07-24 15:30:42.438958,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Marta da Silva,-0.0156,0.004,0.0196
 2023-07-24 10:30:41.872342,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,German Cano (Fluminense),-0.016600000000000004,0.0667,0.0833
 2023-07-24 05:32:37.431788,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,British Columbia Lions,-0.016699999999999993,0.4,0.4167
+2023-07-24 15:30:42.438958,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Megan Rapinoe,-0.017800000000000003,0.0066,0.0244
 2023-07-24 10:30:42.026830,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,Odense,-0.0179,0.125,0.1429
 2023-07-24 10:30:42.026830,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,FC Copenhagen,-0.01849999999999996,0.9524,0.9709
 2023-07-24 10:30:42.942665,Twitter Specials - Will Larry the Bird return as Twitter's main logo by the end of August? - Will Larry the Bird return?,No,-0.018900000000000028,0.9615,0.9804
@@ -104,15 +128,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-24 10:30:42.078939,Superettan - Superettan 2023 - Winner,Jönköpings Södra IF,-0.019099999999999992,0.0476,0.0667
 2023-07-24 11:31:17.260912,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Tampa Bay Rays,-0.020799999999999985,0.3125,0.3333
 2023-07-24 13:30:44.488737,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Toronto Argonauts,-0.020799999999999985,0.3125,0.3333
+2023-07-24 15:30:42.438958,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Viviane Asseyi,-0.021199999999999997,0.0066,0.0278
 2023-07-24 14:30:55.064488,Elite Boxing - Jake Paul vs Nate Diaz - To Win the Bout,Nate Diaz,-0.021399999999999975,0.2564,0.2778
 2023-07-24 14:30:46.522603,AFC North - AFC North 2023/24 - AFC North Winner,Pittsburgh Steelers,-0.021600000000000008,0.1538,0.1754
 2023-07-24 05:32:37.431788,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,Winnipeg Blue Bombers,-0.02169999999999994,0.5238,0.5455
-2023-07-24 14:30:46.710801,NFC North - NFC North 2023/24 - NFC North Winner,Green Bay Packers,-0.022199999999999998,0.2,0.2222
 2023-07-24 05:32:37.431788,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,Hamilton Tiger-Cats,-0.022199999999999998,0.1111,0.1333
-2023-07-24 05:32:37.431788,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,Montreal Alouettes,-0.023799999999999988,0.1429,0.1667
+2023-07-24 14:30:46.710801,NFC North - NFC North 2023/24 - NFC North Winner,Green Bay Packers,-0.022199999999999998,0.2,0.2222
+2023-07-24 15:30:46.137384,Season Player Specials - NFL 2023-24 Receiving TDs - Cooper Kupp 2023-24 Regular Season Total Receiving TDs,Under 8.5,-0.022600000000000064,0.5122,0.5348
+2023-07-24 15:30:42.438958,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Eugenie Le Sommer,-0.023200000000000002,0.0294,0.0526
+2023-07-24 15:30:42.438958,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Ada Hegerberg,-0.0236,0.0149,0.0385
 2023-07-24 14:30:43.344432,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,England (W),-0.023799999999999988,0.4762,0.5
-2023-07-24 11:31:17.227886,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Tampa Bay Rays,-0.023799999999999988,0.1429,0.1667
 2023-07-24 10:30:41.881946,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,São Paulo,-0.023799999999999988,0.1429,0.1667
+2023-07-24 05:32:37.431788,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,Montreal Alouettes,-0.023799999999999988,0.1429,0.1667
+2023-07-24 11:31:17.227886,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Tampa Bay Rays,-0.023799999999999988,0.1429,0.1667
 2023-07-24 05:32:37.431788,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,Calgary Stampeders,-0.025300000000000003,0.1176,0.1429
 2023-07-24 13:30:44.804015,Elite Boxing - Stephen Fulton vs Naoki Inoue - To Win the Bout,Stephen Fulton,-0.02779999999999999,0.25,0.2778
 2023-07-24 14:30:43.550833,Womens World Cup 2023 - Group F - To Advance From Group,Jamaica (W),-0.027999999999999997,0.1538,0.1818
@@ -120,6 +148,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-24 13:30:37.766584,Womens World Cup 2023 - Group H - Outright,Colombia (W),-0.028199999999999996,0.0385,0.0667
 2023-07-24 14:30:45.133336,WNBA Futures - 2023 Regular Season Wins - Minnesota Lynx,Under 16.5,-0.028900000000000037,0.5455,0.5744
 2023-07-24 13:30:41.912535,Season Player Specials - NFL 2023-24 Rushing TDs - James Cook 2023-24 Regular Season Total Rushing TDs,Under 3.5,-0.030399999999999983,0.5348,0.5652
+2023-07-24 15:30:46.087315,Season Player Specials - NFL 2023-24 Receiving TDs - Amari Cooper 2023-24 Regular Season Total Receiving TDs,Under 6.5,-0.030399999999999983,0.5348,0.5652
 2023-07-24 13:30:37.771532,Womens World Cup 2023 - Group H - Not To Advance From Group,Republic of Korea (W),-0.03179999999999994,0.5238,0.5556
 2023-07-24 10:30:41.867158,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Botafogo,-0.031799999999999995,0.4444,0.4762
 2023-07-24 12:30:49.382131,Womens World Cup 2023 - Group G - Outright,Sweden (W),-0.03180000000000005,0.8571,0.8889
@@ -129,14 +158,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-24 10:30:41.698924,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - To Win Group South 4,Necaxa,-0.03710000000000002,0.3333,0.3704
 2023-07-24 13:30:37.771532,Womens World Cup 2023 - Group H - Not To Advance From Group,Germany (W),-0.0373,0.0294,0.0667
 2023-07-24 14:30:43.550833,Womens World Cup 2023 - Group F - To Advance From Group,Panama (W),-0.037700000000000004,0.0099,0.0476
+2023-07-24 15:30:42.438958,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Rachel Daly,-0.0384,0.0385,0.0769
 2023-07-24 14:30:45.145300,WNBA Futures - 2023 Regular Season Wins - New York Liberty,Under 30.5,-0.04139999999999999,0.5238,0.5652
 2023-07-24 14:30:45.100002,WNBA Futures - 2023 Regular Season Wins - Indiana Fever,Over 13.5,-0.05059999999999998,0.5238,0.5744
 2023-07-24 10:30:42.031240,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Randers,-0.05130000000000001,0.3333,0.3846
 2023-07-24 10:30:41.691426,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - To Win Group South 2,Santos Laguna,-0.05130000000000001,0.3333,0.3846
 2023-07-24 12:31:02.398283,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,-0.05520000000000003,0.6,0.6552
 2023-07-24 10:30:41.695198,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - To Win Group South 3,Atlanta United,-0.055499999999999994,0.2778,0.3333
-2023-07-24 10:30:41.886384,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,São Paulo,-0.055900000000000005,0.3077,0.3636
 2023-07-24 10:30:41.886384,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Internacional,-0.055900000000000005,0.3077,0.3636
+2023-07-24 10:30:41.886384,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,São Paulo,-0.055900000000000005,0.3077,0.3636
 2023-07-24 14:30:45.182881,WNBA Futures - 2023 Regular Season Wins - Washington Mystics,Under 23.5,-0.05689999999999995,0.5348,0.5917
 2023-07-24 10:30:41.877272,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Goiás,-0.057699999999999974,0.6923,0.75
 2023-07-24 14:30:43.542550,Womens World Cup 2023 - Group F - Not To Advance From Group,Brazil (W),-0.0585,0.0526,0.1111
@@ -146,9 +176,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-24 13:30:37.775388,Womens World Cup 2023 - Group H - To Advance From Group,Colombia (W),-0.07619999999999993,0.5238,0.6
 2023-07-24 14:30:45.158185,WNBA Futures - 2023 Regular Season Wins - Phoenix Mercury,Over 11.5,-0.07940000000000003,0.4444,0.5238
 2023-07-24 10:30:41.687602,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - To Win Group South 1,FC Juarez,-0.08080000000000004,0.3636,0.4444
+2023-07-24 15:30:42.438958,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Alex Morgan,-0.08979999999999999,0.0769,0.1667
 2023-07-24 10:30:42.071434,Allsvenskan - Allsvenskan 2023 - Winner,Malmö FF,-0.09090000000000004,0.3636,0.4545
 2023-07-24 14:30:45.056628,WNBA Futures - 2023 Regular Season Wins - Atlanta Dream,Over 20.5,-0.09099999999999997,0.4545,0.5455
 2023-07-24 14:30:45.122319,WNBA Futures - 2023 Regular Season Wins - Los Angeles Sparks,Over 13.5,-0.09820000000000001,0.4762,0.5744
+2023-07-24 15:30:42.438958,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Sophia Smith,-0.1,0.1667,0.2667
 2023-07-24 10:30:41.881946,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Atlético Mineiro,-0.10390000000000002,0.1818,0.2857
 2023-07-24 10:30:41.691426,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - To Win Group South 2,Houston Dynamo,-0.11229999999999998,0.1818,0.2941
 2023-07-24 10:30:41.702698,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - To Win Group West 3,Vancouver Whitecaps,-0.13190000000000002,0.1538,0.2857
