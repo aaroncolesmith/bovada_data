@@ -6,7 +6,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-24 14:30:45.056628,WNBA Futures - 2023 Regular Season Wins - Atlanta Dream,Under 20.5,0.0915999999999999,0.6154,0.5238
 2023-07-24 20:31:14.680295,Season Win Record Specials - 2023-24 Team to Have a Winning Record - Proposition,Tennessee Titans,0.08340000000000003,0.4167,0.3333
 2023-07-24 15:30:42.438958,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Alexandra Popp,0.0804,0.1429,0.0625
-2023-07-24 13:30:37.771532,Womens World Cup 2023 - Group H - Not To Advance From Group,Colombia (W),0.07939999999999997,0.5556,0.4762
 2023-07-24 14:30:45.158185,WNBA Futures - 2023 Regular Season Wins - Phoenix Mercury,Under 11.5,0.07710000000000006,0.6226,0.5455
 2023-07-24 16:31:04.276275,Season Player Specials - NFL 2023-24 Receiving TDs - DeVonta Smith 2023-24 Regular Season Total Receiving TDs,Over 5.5,0.07440000000000002,0.5744,0.5
 2023-07-24 19:32:25.340118,Regular Season Wins - 2023-24 Regular Season Wins - South Carolina - Regular Season Wins,Under 6½,0.0635,0.6552,0.5917
@@ -24,7 +23,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-24 14:30:43.550833,Womens World Cup 2023 - Group F - To Advance From Group,Brazil (W),0.04290000000000005,0.9804,0.9375
 2023-07-24 20:31:14.680295,Season Win Record Specials - 2023-24 Team to Have a Winning Record - Proposition,Los Angeles Chargers,0.041000000000000036,0.6774,0.6364
 2023-07-24 15:30:46.087315,Season Player Specials - NFL 2023-24 Receiving TDs - Amari Cooper 2023-24 Regular Season Total Receiving TDs,Over 6.5,0.03480000000000005,0.5348,0.5
-2023-07-24 13:30:41.912535,Season Player Specials - NFL 2023-24 Rushing TDs - James Cook 2023-24 Regular Season Total Rushing TDs,Over 3.5,0.03480000000000005,0.5348,0.5
 2023-07-24 21:30:56.987359,Regular Season Wins - 2023-24 Regular Season Wins - BYU - Regular Season Wins,Under 5½,0.03479999999999994,0.6,0.5652
 2023-07-24 16:31:08.612902,NCAA Football Futures - 2023 MAC Conference Championship - Championship Game Winner,Akron,0.0347,0.0625,0.0278
 2023-07-24 15:30:42.438958,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Esther Gonzalez,0.03420000000000001,0.1111,0.0769
@@ -32,20 +30,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-24 17:30:48.563927,NFC North - NFC North 2023/24 - NFC North Winner,Green Bay Packers,0.03259999999999999,0.2326,0.2
 2023-07-24 19:32:25.141434,Regular Season Wins - 2023-24 Regular Season Wins - Kentucky - Regular Season Wins,Over 6½,0.03259999999999996,0.6552,0.6226
 2023-07-24 20:31:07.905457,BIG3 Basketball - BIG3 - Outright,Enemies,0.0321,0.0909,0.0588
-2023-07-24 13:30:37.775388,Womens World Cup 2023 - Group H - To Advance From Group,Republic of Korea (W),0.03179999999999994,0.5556,0.5238
 2023-07-24 16:31:04.465060,Season Player Specials - NFL 2023-24 Receiving TDs - Tyler Lockett 2023-24 Regular Season Total Receiving TDs,Over 5.5,0.03179999999999994,0.5556,0.5238
-2023-07-24 19:32:21.501888,Season Player Specials - NFL 2023-24 Passing Yards - Jalen Hurts 2023-24 Regular Season Total Passing Yards,Over 3625.5,0.030399999999999983,0.5652,0.5348
-2023-07-24 19:32:21.479592,Season Player Specials - NFL 2023-24 Passing Yards - Deshaun Watson 2023-24 Regular Season Total Passing Yards,Over 3625.5,0.030399999999999983,0.5652,0.5348
-2023-07-24 19:32:21.443728,Season Player Specials - NFL 2023-24 Passing Yards - Bryce Young 2023-24 Regular Season Total Passing Yards,Over 3275.5,0.030399999999999983,0.5652,0.5348
 2023-07-24 19:32:21.519184,Season Player Specials - NFL 2023-24 Passing Yards - Joe Burrow 2023-24 Regular Season Total Passing Yards,Over 4300.5,0.030399999999999983,0.5652,0.5348
 2023-07-24 21:30:57.195270,Regular Season Wins - 2023-24 Regular Season Wins - Mississippi - Regular Season Wins,Over 7½,0.030399999999999983,0.5652,0.5348
 2023-07-24 19:32:21.547822,Season Player Specials - NFL 2023-24 Passing Yards - Justin Herbert 2023-24 Regular Season Total Passing Yards,Over 4400.5,0.030399999999999983,0.5652,0.5348
-2023-07-24 19:32:21.554887,Season Player Specials - NFL 2023-24 Passing Yards - Kenny Pickett 2023-24 Regular Season Total Passing Yards,Over 3275.5,0.030399999999999983,0.5652,0.5348
-2023-07-24 14:30:45.110727,WNBA Futures - 2023 Regular Season Wins - Las Vegas Aces,Over 35.5,0.030399999999999983,0.5652,0.5348
-2023-07-24 19:32:21.429586,Season Player Specials - NFL 2023-24 Passing Yards - Aaron Rodgers 2023-24 Regular Season Total Passing Yards,Over 3800.5,0.030399999999999983,0.5652,0.5348
 2023-07-24 19:32:21.436753,Season Player Specials - NFL 2023-24 Passing Yards - Anthony Richardson 2023-24 Regular Season Total Passing Yards,Over 2475.5,0.030399999999999983,0.5652,0.5348
-2023-07-24 19:32:23.968723,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Kyle Shanahan,0.030199999999999998,0.0625,0.0323
+2023-07-24 19:32:21.501888,Season Player Specials - NFL 2023-24 Passing Yards - Jalen Hurts 2023-24 Regular Season Total Passing Yards,Over 3625.5,0.030399999999999983,0.5652,0.5348
+2023-07-24 19:32:21.443728,Season Player Specials - NFL 2023-24 Passing Yards - Bryce Young 2023-24 Regular Season Total Passing Yards,Over 3275.5,0.030399999999999983,0.5652,0.5348
+2023-07-24 19:32:21.479592,Season Player Specials - NFL 2023-24 Passing Yards - Deshaun Watson 2023-24 Regular Season Total Passing Yards,Over 3625.5,0.030399999999999983,0.5652,0.5348
+2023-07-24 14:30:45.110727,WNBA Futures - 2023 Regular Season Wins - Las Vegas Aces,Over 35.5,0.030399999999999983,0.5652,0.5348
+2023-07-24 19:32:21.554887,Season Player Specials - NFL 2023-24 Passing Yards - Kenny Pickett 2023-24 Regular Season Total Passing Yards,Over 3275.5,0.030399999999999983,0.5652,0.5348
+2023-07-24 19:32:21.429586,Season Player Specials - NFL 2023-24 Passing Yards - Aaron Rodgers 2023-24 Regular Season Total Passing Yards,Over 3800.5,0.030399999999999983,0.5652,0.5348
 2023-07-24 16:31:08.646964,NCAA Football Futures - 2023 Mountain West Conference Championship - Championship Game Winner,Colorado State,0.030199999999999998,0.0625,0.0323
+2023-07-24 19:32:23.968723,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Kyle Shanahan,0.030199999999999998,0.0625,0.0323
 2023-07-24 21:30:57.155658,Regular Season Wins - 2023-24 Regular Season Wins - Maryland - Regular Season Wins,Over 6½,0.02960000000000007,0.6296,0.6
 2023-07-24 19:32:24.013131,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Lamar Jackson,0.028399999999999995,0.0909,0.0625
 2023-07-24 19:32:23.968723,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Matt Lafleur,0.028399999999999995,0.0909,0.0625
@@ -63,14 +60,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-24 19:32:25.383222,Regular Season Wins - 2023-24 Regular Season Wins - Tennessee - Regular Season Wins,Under 9½,0.023799999999999932,0.6667,0.6429
 2023-07-24 21:30:56.958237,Regular Season Wins - 2023-24 Regular Season Wins - Auburn - Regular Season Wins,Over 6½,0.023699999999999943,0.6154,0.5917
 2023-07-24 20:31:18.312931,Regular Season Wins - 2023-24 Regular Season Wins - South Carolina - Regular Season Wins,Under 6½,0.022199999999999998,0.6774,0.6552
-2023-07-24 19:32:21.583006,Season Player Specials - NFL 2023-24 Passing Yards - Patrick Mahomes 2023-24 Regular Season Total Passing Yards,Over 4650.5,0.02079999999999993,0.5556,0.5348
-2023-07-24 19:32:21.450937,Season Player Specials - NFL 2023-24 Passing Yards - C.J. Stroud 2023-24 Regular Season Total Passing Yards,Over 3175.5,0.02079999999999993,0.5556,0.5348
-2023-07-24 19:32:21.494615,Season Player Specials - NFL 2023-24 Passing Yards - Geno Smith 2023-24 Regular Season Total Passing Yards,Over 3800.5,0.02079999999999993,0.5556,0.5348
-2023-07-24 19:32:21.509071,Season Player Specials - NFL 2023-24 Passing Yards - Jared Goff 2023-24 Regular Season Total Passing Yards,Over 3850.5,0.02079999999999993,0.5556,0.5348
-2023-07-24 16:31:04.417267,Season Player Specials - NFL 2023-24 Receiving TDs - Stefon Diggs 2023-24 Regular Season Total Receiving TDs,Over 8.5,0.02079999999999993,0.5556,0.5348
-2023-07-24 19:32:21.533667,Season Player Specials - NFL 2023-24 Passing Yards - Josh Allen 2023-24 Regular Season Total Passing Yards,Over 4200.5,0.02079999999999993,0.5556,0.5348
 2023-07-24 15:30:46.137384,Season Player Specials - NFL 2023-24 Receiving TDs - Cooper Kupp 2023-24 Regular Season Total Receiving TDs,Over 8.5,0.02079999999999993,0.5556,0.5348
 2023-07-24 19:32:21.540703,Season Player Specials - NFL 2023-24 Passing Yards - Justin Fields 2023-24 Regular Season Total Passing Yards,Over 2775.5,0.02079999999999993,0.5556,0.5348
+2023-07-24 19:32:21.583006,Season Player Specials - NFL 2023-24 Passing Yards - Patrick Mahomes 2023-24 Regular Season Total Passing Yards,Over 4650.5,0.02079999999999993,0.5556,0.5348
+2023-07-24 19:32:21.494615,Season Player Specials - NFL 2023-24 Passing Yards - Geno Smith 2023-24 Regular Season Total Passing Yards,Over 3800.5,0.02079999999999993,0.5556,0.5348
+2023-07-24 19:32:21.509071,Season Player Specials - NFL 2023-24 Passing Yards - Jared Goff 2023-24 Regular Season Total Passing Yards,Over 3850.5,0.02079999999999993,0.5556,0.5348
+2023-07-24 19:32:21.450937,Season Player Specials - NFL 2023-24 Passing Yards - C.J. Stroud 2023-24 Regular Season Total Passing Yards,Over 3175.5,0.02079999999999993,0.5556,0.5348
+2023-07-24 19:32:21.533667,Season Player Specials - NFL 2023-24 Passing Yards - Josh Allen 2023-24 Regular Season Total Passing Yards,Over 4200.5,0.02079999999999993,0.5556,0.5348
+2023-07-24 16:31:04.417267,Season Player Specials - NFL 2023-24 Receiving TDs - Stefon Diggs 2023-24 Regular Season Total Receiving TDs,Over 8.5,0.02079999999999993,0.5556,0.5348
 2023-07-24 14:30:46.522603,AFC North - AFC North 2023/24 - AFC North Winner,Cincinnati Bengals,0.020699999999999996,0.4651,0.4444
 2023-07-24 19:32:24.914705,Regular Season Wins - 2023-24 Regular Season Wins - Akron - Regular Season Wins,Over 3½,0.020299999999999985,0.6429,0.6226
 2023-07-24 15:30:42.438958,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Beatriz Zaneratto,0.019800000000000005,0.0476,0.0278
@@ -79,22 +76,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-24 21:30:57.014057,Regular Season Wins - 2023-24 Regular Season Wins - Clemson - Regular Season Wins,Over 10½,0.019699999999999995,0.4545,0.4348
 2023-07-24 15:30:49.404433,NCAA Football Futures - 2023 USA Conference Championship - Championship Game Winner,New Mexico State,0.019099999999999992,0.0667,0.0476
 2023-07-24 20:31:07.905457,BIG3 Basketball - BIG3 - Outright,Triplets,0.01820000000000002,0.2,0.1818
-2023-07-24 13:30:42.664566,Team Specials - Buffalo Bills - BUF Bills Specials,James Cook To Score 10+ Rushing Touchdowns in the Regular Season,0.01820000000000002,0.2,0.1818
 2023-07-24 16:31:08.560554,NCAA Football Futures - 2023 Big 12 Championship - Big 12 Championship Game Winner ,TCU,0.018099999999999998,0.0769,0.0588
 2023-07-24 20:31:14.680295,Season Win Record Specials - 2023-24 Team to Have a Winning Record - Proposition,Philadelphia Eagles,0.01760000000000006,0.9,0.8824
-2023-07-24 13:30:39.385423,AFC South - AFC South 2023/24 - AFC South Winner,Tennessee Titans,0.0174,0.25,0.2326
 2023-07-24 15:30:46.131500,Season Player Specials - NFL 2023-24 Receiving TDs - Christian Watson 2023-24 Regular Season Total Receiving TDs,Under 5.5,0.017299999999999982,0.5917,0.5744
-2023-07-24 13:30:42.664566,Team Specials - Buffalo Bills - BUF Bills Specials,J. Cook or G. Davis to Have 1250+ Reg Season Yards from Scrimmage,0.016699999999999993,0.2667,0.25
 2023-07-24 20:31:14.680295,Season Win Record Specials - 2023-24 Team to Have a Winning Record - Proposition,Cleveland Browns,0.016699999999999937,0.6,0.5833
 2023-07-24 14:30:46.760223,NFC South - NFC South 2023/24 - NFC South Winner,Tampa Bay Buccaneers,0.016600000000000018,0.1342,0.1176
 2023-07-24 17:30:47.359505,FIBA World Cup - FIBA World Cup 2023 - Outright,Spain,0.016600000000000004,0.0833,0.0667
 2023-07-24 20:31:07.905457,BIG3 Basketball - BIG3 - Outright,Trilogy,0.015700000000000006,0.1333,0.1176
 2023-07-24 15:30:46.143539,Season Player Specials - NFL 2023-24 Receiving TDs - Courtland Sutton 2023-24 Regular Season Total Receiving TDs,Under 4.5,0.01539999999999997,0.6154,0.6
-2023-07-24 13:30:42.664566,Team Specials - Buffalo Bills - BUF Bills Specials,J. Cook 75+ Rush Yards in 8+ Individual Reg Season Games,0.015100000000000002,0.1818,0.1667
-2023-07-24 13:30:42.664566,Team Specials - Buffalo Bills - BUF Bills Specials,S. Diggs 1250+ Reg Season Rec Yards & J. Cook 750+ Reg Season Rush Yards,0.015100000000000002,0.1818,0.1667
 2023-07-24 19:32:24.013131,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Justin Fields,0.014899999999999997,0.0625,0.0476
 2023-07-24 14:30:54.649517,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,British Columbia Lions,0.01469999999999999,0.25,0.2353
-2023-07-24 13:30:37.775388,Womens World Cup 2023 - Group H - To Advance From Group,Germany (W),0.014599999999999946,0.995,0.9804
 2023-07-24 16:31:08.560554,NCAA Football Futures - 2023 Big 12 Championship - Big 12 Championship Game Winner ,Texas Tech,0.01440000000000001,0.1053,0.0909
 2023-07-24 14:30:43.344432,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Italy (W),0.014399999999999996,0.0769,0.0625
 2023-07-24 21:30:57.139965,Regular Season Wins - 2023-24 Regular Season Wins - Louisville - Regular Season Wins,Over 7½,0.014200000000000101,0.6296,0.6154
@@ -105,42 +96,42 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-24 20:31:07.905457,BIG3 Basketball - BIG3 - Outright,Power,0.012899999999999995,0.1667,0.1538
 2023-07-24 17:30:48.390452,AFC North - AFC North 2023/24 - AFC North Winner,Pittsburgh Steelers,0.012899999999999995,0.1667,0.1538
 2023-07-24 14:30:54.649517,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Winnipeg Blue Bombers,0.012799999999999978,0.2985,0.2857
-2023-07-24 21:30:57.179304,Regular Season Wins - 2023-24 Regular Season Wins - Michigan St. - Regular Season Wins,Under 5½,0.012299999999999978,0.6552,0.6429
 2023-07-24 20:31:14.680295,Season Win Record Specials - 2023-24 Team to Have a Winning Record - Proposition,New York Giants,0.012299999999999978,0.3571,0.3448
-2023-07-24 16:31:04.369129,Season Player Specials - NFL 2023-24 Receiving TDs - Keenan Allen 2023-24 Regular Season Total Receiving TDs,Over 5.5,0.012199999999999989,0.5122,0.5
-2023-07-24 16:31:04.329657,Season Player Specials - NFL 2023-24 Receiving TDs - Ja'Marr Chase 2023-24 Regular Season Total Receiving TDs,Over 10.5,0.012199999999999989,0.5122,0.5
-2023-07-24 21:30:57.271913,Regular Season Wins - 2023-24 Regular Season Wins - Oklahoma St. - Regular Season Wins,Over 6½,0.012199999999999989,0.5,0.4878
+2023-07-24 21:30:57.179304,Regular Season Wins - 2023-24 Regular Season Wins - Michigan St. - Regular Season Wins,Under 5½,0.012299999999999978,0.6552,0.6429
 2023-07-24 16:31:08.560554,NCAA Football Futures - 2023 Big 12 Championship - Big 12 Championship Game Winner ,Texas,0.012199999999999989,0.5,0.4878
+2023-07-24 16:31:04.329657,Season Player Specials - NFL 2023-24 Receiving TDs - Ja'Marr Chase 2023-24 Regular Season Total Receiving TDs,Over 10.5,0.012199999999999989,0.5122,0.5
+2023-07-24 16:31:04.369129,Season Player Specials - NFL 2023-24 Receiving TDs - Keenan Allen 2023-24 Regular Season Total Receiving TDs,Over 5.5,0.012199999999999989,0.5122,0.5
+2023-07-24 21:30:57.271913,Regular Season Wins - 2023-24 Regular Season Wins - Oklahoma St. - Regular Season Wins,Over 6½,0.012199999999999989,0.5,0.4878
 2023-07-24 20:31:14.680295,Season Win Record Specials - 2023-24 Team to Have a Winning Record - Proposition,Baltimore Ravens,0.011900000000000022,0.7619,0.75
 2023-07-24 16:31:08.662846,NCAA Football Futures - 2023 Pac-12 Championship - Pac-12 Championship Game Winner,Washington,0.011899999999999994,0.25,0.2381
 2023-07-24 16:31:08.560554,NCAA Football Futures - 2023 Big 12 Championship - Big 12 Championship Game Winner ,Cincinnati,0.0113,0.0196,0.0083
 2023-07-24 17:30:48.233728,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Miami Dolphins,0.011199999999999995,0.0588,0.0476
 2023-07-24 16:31:09.089979,3M Open - 3M Open - Winner,Sung-Jae Im,0.011199999999999995,0.0588,0.0476
-2023-07-24 16:31:04.299406,Season Player Specials - NFL 2023-24 Receiving TDs - Garrett Wilson 2023-24 Regular Season Total Receiving TDs,Over 7.5,0.01100000000000001,0.5348,0.5238
-2023-07-24 16:31:04.436436,Season Player Specials - NFL 2023-24 Receiving TDs - Tee Higgins 2023-24 Regular Season Total Receiving TDs,Over 6.5,0.01100000000000001,0.5348,0.5238
 2023-07-24 15:30:46.149421,Season Player Specials - NFL 2023-24 Receiving TDs - D.J. Moore 2023-24 Regular Season Total Receiving TDs,Under 4.5,0.01100000000000001,0.5348,0.5238
+2023-07-24 16:31:04.299406,Season Player Specials - NFL 2023-24 Receiving TDs - Garrett Wilson 2023-24 Regular Season Total Receiving TDs,Over 7.5,0.01100000000000001,0.5348,0.5238
 2023-07-24 16:31:04.446807,Season Player Specials - NFL 2023-24 Receiving TDs - Terry McLaurin 2023-24 Regular Season Total Receiving TDs,Over 4.5,0.01100000000000001,0.5348,0.5238
-2023-07-24 15:30:46.092855,Season Player Specials - NFL 2023-24 Receiving TDs - Amon-Ra St. Brown 2023-24 Regular Season Total Receiving TDs,Over 5.5,0.010699999999999932,0.5455,0.5348
-2023-07-24 16:31:04.360349,Season Player Specials - NFL 2023-24 Receiving TDs - Justin Jefferson 2023-24 Regular Season Total Receiving TDs,Over 8.5,0.010699999999999932,0.5455,0.5348
-2023-07-24 16:31:04.427238,Season Player Specials - NFL 2023-24 Receiving TDs - T.J. Hockenson 2023-24 Regular Season Total Receiving TDs,Under 5.5,0.010699999999999932,0.5455,0.5348
-2023-07-24 19:32:21.487108,Season Player Specials - NFL 2023-24 Passing Yards - Desmond Ridder 2023-24 Regular Season Total Passing Yards,Over 2525.5,0.010699999999999932,0.5455,0.5348
-2023-07-24 19:32:21.561925,Season Player Specials - NFL 2023-24 Passing Yards - Kirk Cousins 2023-24 Regular Season Total Passing Yards,Over 4275.5,0.010699999999999932,0.5455,0.5348
-2023-07-24 19:32:21.568947,Season Player Specials - NFL 2023-24 Passing Yards - Lamar Jackson 2023-24 Regular Season Total Passing Yards,Over 3400.5,0.010699999999999932,0.5455,0.5348
-2023-07-24 19:32:21.472187,Season Player Specials - NFL 2023-24 Passing Yards - Derek Carr 2023-24 Regular Season Total Passing Yards,Over 3750.5,0.010699999999999932,0.5455,0.5348
+2023-07-24 16:31:04.436436,Season Player Specials - NFL 2023-24 Receiving TDs - Tee Higgins 2023-24 Regular Season Total Receiving TDs,Over 6.5,0.01100000000000001,0.5348,0.5238
 2023-07-24 19:32:21.589989,Season Player Specials - NFL 2023-24 Passing Yards - Russell Wilson 2023-24 Regular Season Total Passing Yards,Over 3650.5,0.010699999999999932,0.5455,0.5348
-2023-07-24 19:32:21.465031,Season Player Specials - NFL 2023-24 Passing Yards - Daniel Jones 2023-24 Regular Season Total Passing Yards,Over 3200.5,0.010699999999999932,0.5455,0.5348
-2023-07-24 19:32:21.597592,Season Player Specials - NFL 2023-24 Passing Yards - Trevor Lawrence 2023-24 Regular Season Total Passing Yards,Over 3900.5,0.010699999999999932,0.5455,0.5348
-2023-07-24 19:32:21.457983,Season Player Specials - NFL 2023-24 Passing Yards - Dak Prescott 2023-24 Regular Season Total Passing Yards,Over 3850.5,0.010699999999999932,0.5455,0.5348
-2023-07-24 16:31:04.402484,Season Player Specials - NFL 2023-24 Receiving TDs - Mike Williams 2023-24 Regular Season Total Receiving TDs,Under 5.5,0.010699999999999932,0.5455,0.5348
+2023-07-24 19:32:21.472187,Season Player Specials - NFL 2023-24 Passing Yards - Derek Carr 2023-24 Regular Season Total Passing Yards,Over 3750.5,0.010699999999999932,0.5455,0.5348
 2023-07-24 16:31:04.340609,Season Player Specials - NFL 2023-24 Receiving TDs - Jaylen Waddle 2023-24 Regular Season Total Receiving TDs,Over 6.5,0.010699999999999932,0.5455,0.5348
+2023-07-24 19:32:21.487108,Season Player Specials - NFL 2023-24 Passing Yards - Desmond Ridder 2023-24 Regular Season Total Passing Yards,Over 2525.5,0.010699999999999932,0.5455,0.5348
+2023-07-24 15:30:46.092855,Season Player Specials - NFL 2023-24 Receiving TDs - Amon-Ra St. Brown 2023-24 Regular Season Total Receiving TDs,Over 5.5,0.010699999999999932,0.5455,0.5348
+2023-07-24 19:32:21.597592,Season Player Specials - NFL 2023-24 Passing Yards - Trevor Lawrence 2023-24 Regular Season Total Passing Yards,Over 3900.5,0.010699999999999932,0.5455,0.5348
+2023-07-24 19:32:21.568947,Season Player Specials - NFL 2023-24 Passing Yards - Lamar Jackson 2023-24 Regular Season Total Passing Yards,Over 3400.5,0.010699999999999932,0.5455,0.5348
+2023-07-24 16:31:04.402484,Season Player Specials - NFL 2023-24 Receiving TDs - Mike Williams 2023-24 Regular Season Total Receiving TDs,Under 5.5,0.010699999999999932,0.5455,0.5348
+2023-07-24 19:32:21.465031,Season Player Specials - NFL 2023-24 Passing Yards - Daniel Jones 2023-24 Regular Season Total Passing Yards,Over 3200.5,0.010699999999999932,0.5455,0.5348
+2023-07-24 16:31:04.427238,Season Player Specials - NFL 2023-24 Receiving TDs - T.J. Hockenson 2023-24 Regular Season Total Receiving TDs,Under 5.5,0.010699999999999932,0.5455,0.5348
+2023-07-24 19:32:21.561925,Season Player Specials - NFL 2023-24 Passing Yards - Kirk Cousins 2023-24 Regular Season Total Passing Yards,Over 4275.5,0.010699999999999932,0.5455,0.5348
+2023-07-24 19:32:21.457983,Season Player Specials - NFL 2023-24 Passing Yards - Dak Prescott 2023-24 Regular Season Total Passing Yards,Over 3850.5,0.010699999999999932,0.5455,0.5348
 2023-07-24 16:31:04.455113,Season Player Specials - NFL 2023-24 Receiving TDs - Travis Kelce 2023-24 Regular Season Total Receiving TDs,Over 9.5,0.010699999999999932,0.5455,0.5348
-2023-07-24 13:30:44.804015,Elite Boxing - Stephen Fulton vs Naoki Inoue - To Win the Bout,Naoya Inoue,0.010500000000000065,0.8,0.7895
+2023-07-24 16:31:04.360349,Season Player Specials - NFL 2023-24 Receiving TDs - Justin Jefferson 2023-24 Regular Season Total Receiving TDs,Over 8.5,0.010699999999999932,0.5455,0.5348
+2023-07-25 01:30:58.089345,Elite Boxing - Stephen Fulton vs Naoya Inoue - To Win the Bout,Stephen Fulton,0.010299999999999976,0.2667,0.2564
 2023-07-24 19:32:26.177749,Elite Boxing - Jake Paul vs Nate Diaz - To Win the Bout,Nate Diaz,0.010299999999999976,0.2667,0.2564
 2023-07-24 21:30:55.094023,Season Win Record Specials - 2023-24 Team to Have a Perfect Season - Last Team to Be Undefeated,San Francisco 49ers,0.0102,0.0769,0.0667
 2023-07-24 15:30:46.103763,Season Player Specials - NFL 2023-24 Receiving TDs - Calvin Ridley 2023-24 Regular Season Total Receiving TDs,Over 5.5,0.010099999999999998,0.5556,0.5455
 2023-07-24 20:31:08.188921,NBA Awards - 2023/24 NBA Awards - Coach of the Year,Erik Spoelstra,0.010099999999999998,0.1212,0.1111
-2023-07-24 16:31:04.395041,Season Player Specials - NFL 2023-24 Receiving TDs - Mike Evans 2023-24 Regular Season Total Receiving TDs,Over 5.5,0.010099999999999998,0.5556,0.5455
 2023-07-24 16:31:04.260547,Season Player Specials - NFL 2023-24 Receiving TDs - DeAndre Hopkins 2023-24 Regular Season Total Receiving TDs,Over 4.5,0.010099999999999998,0.5556,0.5455
+2023-07-24 16:31:04.395041,Season Player Specials - NFL 2023-24 Receiving TDs - Mike Evans 2023-24 Regular Season Total Receiving TDs,Over 5.5,0.010099999999999998,0.5556,0.5455
 2023-07-24 21:30:56.995849,Regular Season Wins - 2023-24 Regular Season Wins - California - Regular Season Wins,Over 5½,-0.010099999999999998,0.4444,0.4545
 2023-07-24 19:32:26.158555,Elite Boxing - Stephen Fulton vs Naoya Inoue - To Win the Bout,Naoya Inoue,-0.010500000000000065,0.7895,0.8
 2023-07-24 15:30:46.143539,Season Player Specials - NFL 2023-24 Receiving TDs - Courtland Sutton 2023-24 Regular Season Total Receiving TDs,Over 4.5,-0.010599999999999998,0.4545,0.4651
@@ -148,51 +139,51 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-24 16:31:04.446807,Season Player Specials - NFL 2023-24 Receiving TDs - Terry McLaurin 2023-24 Regular Season Total Receiving TDs,Under 4.5,-0.010699999999999932,0.5348,0.5455
 2023-07-24 16:31:04.436436,Season Player Specials - NFL 2023-24 Receiving TDs - Tee Higgins 2023-24 Regular Season Total Receiving TDs,Under 6.5,-0.010699999999999932,0.5348,0.5455
 2023-07-24 16:31:04.299406,Season Player Specials - NFL 2023-24 Receiving TDs - Garrett Wilson 2023-24 Regular Season Total Receiving TDs,Under 7.5,-0.010699999999999932,0.5348,0.5455
-2023-07-24 19:32:24.013131,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Jared Goff,-0.010700000000000001,0.0278,0.0385
-2023-07-24 19:32:24.013131,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Deshaun Watson,-0.010700000000000001,0.0278,0.0385
 2023-07-24 19:32:23.968723,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Brandon Staley,-0.010700000000000001,0.0278,0.0385
 2023-07-24 19:32:23.968723,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Kevin Stefanski,-0.010700000000000001,0.0278,0.0385
+2023-07-24 19:32:24.013131,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Jared Goff,-0.010700000000000001,0.0278,0.0385
+2023-07-24 19:32:24.013131,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Deshaun Watson,-0.010700000000000001,0.0278,0.0385
 2023-07-24 15:30:46.092855,Season Player Specials - NFL 2023-24 Receiving TDs - Amon-Ra St. Brown 2023-24 Regular Season Total Receiving TDs,Under 5.5,-0.01100000000000001,0.5238,0.5348
+2023-07-24 19:32:21.597592,Season Player Specials - NFL 2023-24 Passing Yards - Trevor Lawrence 2023-24 Regular Season Total Passing Yards,Under 3900.5,-0.01100000000000001,0.5238,0.5348
 2023-07-24 16:31:04.360349,Season Player Specials - NFL 2023-24 Receiving TDs - Justin Jefferson 2023-24 Regular Season Total Receiving TDs,Under 8.5,-0.01100000000000001,0.5238,0.5348
+2023-07-24 16:31:04.340609,Season Player Specials - NFL 2023-24 Receiving TDs - Jaylen Waddle 2023-24 Regular Season Total Receiving TDs,Under 6.5,-0.01100000000000001,0.5238,0.5348
+2023-07-24 19:32:21.568947,Season Player Specials - NFL 2023-24 Passing Yards - Lamar Jackson 2023-24 Regular Season Total Passing Yards,Under 3400.5,-0.01100000000000001,0.5238,0.5348
+2023-07-24 16:31:04.427238,Season Player Specials - NFL 2023-24 Receiving TDs - T.J. Hockenson 2023-24 Regular Season Total Receiving TDs,Over 5.5,-0.01100000000000001,0.5238,0.5348
+2023-07-24 19:32:21.561925,Season Player Specials - NFL 2023-24 Passing Yards - Kirk Cousins 2023-24 Regular Season Total Passing Yards,Under 4275.5,-0.01100000000000001,0.5238,0.5348
+2023-07-24 16:31:04.455113,Season Player Specials - NFL 2023-24 Receiving TDs - Travis Kelce 2023-24 Regular Season Total Receiving TDs,Under 9.5,-0.01100000000000001,0.5238,0.5348
+2023-07-24 16:31:04.402484,Season Player Specials - NFL 2023-24 Receiving TDs - Mike Williams 2023-24 Regular Season Total Receiving TDs,Over 5.5,-0.01100000000000001,0.5238,0.5348
+2023-07-24 19:32:21.589989,Season Player Specials - NFL 2023-24 Passing Yards - Russell Wilson 2023-24 Regular Season Total Passing Yards,Under 3650.5,-0.01100000000000001,0.5238,0.5348
+2023-07-24 19:32:21.487108,Season Player Specials - NFL 2023-24 Passing Yards - Desmond Ridder 2023-24 Regular Season Total Passing Yards,Under 2525.5,-0.01100000000000001,0.5238,0.5348
+2023-07-24 19:32:21.457983,Season Player Specials - NFL 2023-24 Passing Yards - Dak Prescott 2023-24 Regular Season Total Passing Yards,Under 3850.5,-0.01100000000000001,0.5238,0.5348
 2023-07-24 19:32:21.465031,Season Player Specials - NFL 2023-24 Passing Yards - Daniel Jones 2023-24 Regular Season Total Passing Yards,Under 3200.5,-0.01100000000000001,0.5238,0.5348
 2023-07-24 19:32:21.472187,Season Player Specials - NFL 2023-24 Passing Yards - Derek Carr 2023-24 Regular Season Total Passing Yards,Under 3750.5,-0.01100000000000001,0.5238,0.5348
-2023-07-24 19:32:21.597592,Season Player Specials - NFL 2023-24 Passing Yards - Trevor Lawrence 2023-24 Regular Season Total Passing Yards,Under 3900.5,-0.01100000000000001,0.5238,0.5348
-2023-07-24 19:32:21.568947,Season Player Specials - NFL 2023-24 Passing Yards - Lamar Jackson 2023-24 Regular Season Total Passing Yards,Under 3400.5,-0.01100000000000001,0.5238,0.5348
-2023-07-24 19:32:21.561925,Season Player Specials - NFL 2023-24 Passing Yards - Kirk Cousins 2023-24 Regular Season Total Passing Yards,Under 4275.5,-0.01100000000000001,0.5238,0.5348
-2023-07-24 16:31:04.402484,Season Player Specials - NFL 2023-24 Receiving TDs - Mike Williams 2023-24 Regular Season Total Receiving TDs,Over 5.5,-0.01100000000000001,0.5238,0.5348
-2023-07-24 19:32:21.457983,Season Player Specials - NFL 2023-24 Passing Yards - Dak Prescott 2023-24 Regular Season Total Passing Yards,Under 3850.5,-0.01100000000000001,0.5238,0.5348
-2023-07-24 19:32:21.487108,Season Player Specials - NFL 2023-24 Passing Yards - Desmond Ridder 2023-24 Regular Season Total Passing Yards,Under 2525.5,-0.01100000000000001,0.5238,0.5348
-2023-07-24 16:31:04.427238,Season Player Specials - NFL 2023-24 Receiving TDs - T.J. Hockenson 2023-24 Regular Season Total Receiving TDs,Over 5.5,-0.01100000000000001,0.5238,0.5348
-2023-07-24 16:31:04.340609,Season Player Specials - NFL 2023-24 Receiving TDs - Jaylen Waddle 2023-24 Regular Season Total Receiving TDs,Under 6.5,-0.01100000000000001,0.5238,0.5348
-2023-07-24 16:31:04.455113,Season Player Specials - NFL 2023-24 Receiving TDs - Travis Kelce 2023-24 Regular Season Total Receiving TDs,Under 9.5,-0.01100000000000001,0.5238,0.5348
-2023-07-24 19:32:21.589989,Season Player Specials - NFL 2023-24 Passing Yards - Russell Wilson 2023-24 Regular Season Total Passing Yards,Under 3650.5,-0.01100000000000001,0.5238,0.5348
-2023-07-24 21:30:57.025568,Regular Season Wins - 2023-24 Regular Season Wins - Colorado - Regular Season Wins,Over 3½,-0.011099999999999999,0.4651,0.4762
 2023-07-24 21:30:57.034563,Regular Season Wins - 2023-24 Regular Season Wins - Duke - Regular Season Wins,Over 6½,-0.011099999999999999,0.4651,0.4762
+2023-07-24 21:30:57.025568,Regular Season Wins - 2023-24 Regular Season Wins - Colorado - Regular Season Wins,Over 3½,-0.011099999999999999,0.4651,0.4762
 2023-07-24 21:30:57.229685,Regular Season Wins - 2023-24 Regular Season Wins - North Carolina - Regular Season Wins,Over 8½,-0.011099999999999999,0.4651,0.4762
-2023-07-24 19:32:23.968723,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Robert Saleh,-0.011199999999999995,0.0476,0.0588
 2023-07-24 19:32:24.013131,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Dak Prescott,-0.011199999999999995,0.0476,0.0588
+2023-07-24 19:32:23.968723,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Robert Saleh,-0.011199999999999995,0.0476,0.0588
 2023-07-24 19:32:24.013131,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Dereck Carr,-0.011399999999999997,0.0164,0.0278
 2023-07-24 14:30:46.742728,NFC North - NFC North 2023/24 - NFC North Top 2,DET Lions / MIN Vikings,-0.01150000000000001,0.3333,0.3448
-2023-07-24 13:30:39.374241,AFC North - AFC North 2023/24 - AFC North Top 2,BAL Ravens / CIN Bengals,-0.01150000000000001,0.3333,0.3448
 2023-07-24 15:30:46.131500,Season Player Specials - NFL 2023-24 Receiving TDs - Christian Watson 2023-24 Regular Season Total Receiving TDs,Over 5.5,-0.0116,0.4762,0.4878
 2023-07-24 16:31:04.395041,Season Player Specials - NFL 2023-24 Receiving TDs - Mike Evans 2023-24 Regular Season Total Receiving TDs,Under 5.5,-0.011600000000000055,0.5122,0.5238
-2023-07-24 15:30:46.103763,Season Player Specials - NFL 2023-24 Receiving TDs - Calvin Ridley 2023-24 Regular Season Total Receiving TDs,Under 5.5,-0.011600000000000055,0.5122,0.5238
 2023-07-24 16:31:04.260547,Season Player Specials - NFL 2023-24 Receiving TDs - DeAndre Hopkins 2023-24 Regular Season Total Receiving TDs,Under 4.5,-0.011600000000000055,0.5122,0.5238
+2023-07-24 15:30:46.103763,Season Player Specials - NFL 2023-24 Receiving TDs - Calvin Ridley 2023-24 Regular Season Total Receiving TDs,Under 5.5,-0.011600000000000055,0.5122,0.5238
+2023-07-25 01:30:58.089345,Elite Boxing - Stephen Fulton vs Naoya Inoue - To Win the Bout,Naoya Inoue,-0.011699999999999933,0.7778,0.7895
 2023-07-24 19:32:26.177749,Elite Boxing - Jake Paul vs Nate Diaz - To Win the Bout,Jake Paul,-0.011699999999999933,0.7778,0.7895
 2023-07-24 17:30:48.563927,NFC North - NFC North 2023/24 - NFC North Winner,Chicago Bears,-0.011700000000000016,0.2105,0.2222
 2023-07-24 21:30:51.190854,AFC East - AFC East 2023/24 - AFC East Top 2,BUF Bills / MIA Dolphins,-0.011899999999999966,0.339,0.3509
-2023-07-24 15:30:46.126155,Season Player Specials - NFL 2023-24 Receiving TDs - Christian Kirk 2023-24 Regular Season Total Receiving TDs,Under 4.5,-0.012199999999999989,0.5,0.5122
-2023-07-24 21:30:57.044037,Regular Season Wins - 2023-24 Regular Season Wins - Florida - Regular Season Wins,Under 5½,-0.012199999999999989,0.5,0.5122
+2023-07-24 16:31:04.252661,Season Player Specials - NFL 2023-24 Receiving TDs - Davante Adams 2023-24 Regular Season Total Receiving TDs,Over 8.5,-0.012199999999999989,0.4878,0.5
 2023-07-24 15:30:46.098468,Season Player Specials - NFL 2023-24 Receiving TDs - Brandon Aiyuk 2023-24 Regular Season Total Receiving TDs,Over 5.5,-0.012199999999999989,0.4878,0.5
-2023-07-24 16:31:04.350346,Season Player Specials - NFL 2023-24 Receiving TDs - Jerry Jeudy 2023-24 Regular Season Total Receiving TDs,Under 4.5,-0.012199999999999989,0.4878,0.5
+2023-07-24 21:30:57.044037,Regular Season Wins - 2023-24 Regular Season Wins - Florida - Regular Season Wins,Under 5½,-0.012199999999999989,0.5,0.5122
+2023-07-24 15:30:46.126155,Season Player Specials - NFL 2023-24 Receiving TDs - Christian Kirk 2023-24 Regular Season Total Receiving TDs,Under 4.5,-0.012199999999999989,0.5,0.5122
 2023-07-24 16:31:04.409901,Season Player Specials - NFL 2023-24 Receiving TDs - Odell Beckham 2023-24 Regular Season Total Receiving TDs,Under 3.5,-0.012199999999999989,0.5,0.5122
+2023-07-24 16:31:04.350346,Season Player Specials - NFL 2023-24 Receiving TDs - Jerry Jeudy 2023-24 Regular Season Total Receiving TDs,Under 4.5,-0.012199999999999989,0.4878,0.5
 2023-07-24 16:31:04.318590,Season Player Specials - NFL 2023-24 Receiving TDs - George Pickens 2023-24 Regular Season Total Receiving TDs,Over 4.5,-0.012199999999999989,0.4878,0.5
 2023-07-24 16:31:04.244413,Season Player Specials - NFL 2023-24 Receiving TDs - Dallas Goedert 2023-24 Regular Season Total Receiving TDs,Under 3.5,-0.012199999999999989,0.4878,0.5
-2023-07-24 16:31:04.252661,Season Player Specials - NFL 2023-24 Receiving TDs - Davante Adams 2023-24 Regular Season Total Receiving TDs,Over 8.5,-0.012199999999999989,0.4878,0.5
 2023-07-24 16:31:08.646964,NCAA Football Futures - 2023 Mountain West Conference Championship - Championship Game Winner,Boise State,-0.012699999999999989,0.3509,0.3636
 2023-07-24 14:30:46.732436,NFC North - NFC North 2023/24 - NFC North Exacta (1-2),1st MIN Vikings / 2nd DET Lions,-0.012899999999999995,0.1538,0.1667
-2023-07-24 15:30:42.438958,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Christine Sinclair,-0.013,0.0066,0.0196
 2023-07-24 15:30:42.438958,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Rebecka Blomqvist,-0.013,0.0066,0.0196
+2023-07-24 15:30:42.438958,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Christine Sinclair,-0.013,0.0066,0.0196
 2023-07-24 16:31:08.612902,NCAA Football Futures - 2023 MAC Conference Championship - Championship Game Winner,Toledo,-0.013300000000000034,0.3571,0.3704
 2023-07-24 20:31:07.905457,BIG3 Basketball - BIG3 - Outright,Bivouac,-0.014099999999999994,0.0526,0.0667
 2023-07-24 19:32:23.968723,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Pete Carroll,-0.014099999999999998,0.0244,0.0385
@@ -200,46 +191,44 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-24 20:31:14.680295,Season Win Record Specials - 2023-24 Team to Have a Winning Record - Proposition,Miami Dolphins,-0.014200000000000101,0.6154,0.6296
 2023-07-24 21:30:57.014057,Regular Season Wins - 2023-24 Regular Season Wins - Clemson - Regular Season Wins,Under 10½,-0.014200000000000101,0.6154,0.6296
 2023-07-24 15:30:42.438958,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Alba Redondo,-0.0145,0.0099,0.0244
-2023-07-24 13:30:44.488737,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,British Columbia Lions,-0.01469999999999999,0.2353,0.25
 2023-07-24 19:32:26.168454,Elite Boxing - Errol Spence Jr vs Terence Crawford - To Win the Bout,Terence Crawford,-0.014800000000000035,0.6078,0.6226
 2023-07-24 21:30:55.094023,Season Win Record Specials - 2023-24 Team to Have a Perfect Season - Last Team to Be Undefeated,Philadelphia Eagles,-0.015,0.1026,0.1176
-2023-07-24 15:30:42.438958,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Marta da Silva,-0.0156,0.004,0.0196
 2023-07-24 15:30:42.438958,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Ana Maria Crnogorcevic,-0.0156,0.004,0.0196
+2023-07-24 15:30:42.438958,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Marta da Silva,-0.0156,0.004,0.0196
 2023-07-24 17:30:47.374471,FIBA World Cup - FIBA World Cup 2023 - Group B Winner,Serbia,-0.015699999999999936,0.9524,0.9681
 2023-07-24 16:31:08.612902,NCAA Football Futures - 2023 MAC Conference Championship - Championship Game Winner,Bowling Green,-0.0157,0.0278,0.0435
 2023-07-24 20:31:18.312931,Regular Season Wins - 2023-24 Regular Season Wins - South Carolina - Regular Season Wins,Over 6½,-0.016000000000000014,0.3922,0.4082
 2023-07-24 19:32:23.968723,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Matt Eberflus,-0.016600000000000004,0.0667,0.0833
 2023-07-24 17:30:48.604181,NFC South - NFC South 2023/24 - NFC South Winner,Tampa Bay Buccaneers,-0.016600000000000018,0.1176,0.1342
-2023-07-24 21:30:51.183579,AFC East - AFC East 2023/24 - AFC East Exacta (1-2),1st BUF Bills / 2nd NY Jets,-0.016699999999999993,0.25,0.2667
 2023-07-24 21:30:51.190854,AFC East - AFC East 2023/24 - AFC East Top 2,BUF Bills / NY Jets,-0.016699999999999993,0.4,0.4167
+2023-07-24 21:30:51.183579,AFC East - AFC East 2023/24 - AFC East Exacta (1-2),1st BUF Bills / 2nd NY Jets,-0.016699999999999993,0.25,0.2667
 2023-07-24 21:30:57.179304,Regular Season Wins - 2023-24 Regular Season Wins - Michigan St. - Regular Season Wins,Over 5½,-0.017299999999999982,0.4082,0.4255
 2023-07-24 15:30:42.438958,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Megan Rapinoe,-0.017800000000000003,0.0066,0.0244
 2023-07-24 17:30:48.513823,NFC East - NFC East 2023/24 - NFC East Winner,Philadelphia Eagles,-0.018100000000000005,0.5652,0.5833
 2023-07-24 16:31:08.646964,NCAA Football Futures - 2023 Mountain West Conference Championship - Championship Game Winner,Air Force,-0.01820000000000002,0.1818,0.2
 2023-07-24 19:32:24.914705,Regular Season Wins - 2023-24 Regular Season Wins - Akron - Regular Season Wins,Under 3½,-0.018900000000000028,0.4255,0.4444
 2023-07-24 14:30:46.760223,NFC South - NFC South 2023/24 - NFC South Winner,Atlanta Falcons,-0.019000000000000017,0.2985,0.3175
-2023-07-24 16:31:08.623876,NCAA Football Futures - 2023 MAC Conference Championship - MAC East Division Winner,Ohio,-0.019699999999999995,0.4348,0.4545
 2023-07-24 21:30:57.139965,Regular Season Wins - 2023-24 Regular Season Wins - Louisville - Regular Season Wins,Under 7½,-0.019699999999999995,0.4348,0.4545
+2023-07-24 16:31:08.623876,NCAA Football Futures - 2023 MAC Conference Championship - MAC East Division Winner,Ohio,-0.019699999999999995,0.4348,0.4545
 2023-07-24 16:31:04.376923,Season Player Specials - NFL 2023-24 Receiving TDs - Mark Andrews 2023-24 Regular Season Total Receiving TDs,Under 6.5,-0.01970000000000005,0.5455,0.5652
 2023-07-24 17:30:48.390452,AFC North - AFC North 2023/24 - AFC North Winner,Cincinnati Bengals,-0.020699999999999996,0.4444,0.4651
-2023-07-24 13:30:44.488737,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Toronto Argonauts,-0.020799999999999985,0.3125,0.3333
 2023-07-24 15:30:42.438958,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Viviane Asseyi,-0.021199999999999997,0.0066,0.0278
 2023-07-24 14:30:55.064488,Elite Boxing - Jake Paul vs Nate Diaz - To Win the Bout,Nate Diaz,-0.021399999999999975,0.2564,0.2778
 2023-07-24 14:30:46.522603,AFC North - AFC North 2023/24 - AFC North Winner,Pittsburgh Steelers,-0.021600000000000008,0.1538,0.1754
 2023-07-24 17:30:47.359505,FIBA World Cup - FIBA World Cup 2023 - Outright,USA,-0.02169999999999994,0.5238,0.5455
 2023-07-24 21:30:56.958237,Regular Season Wins - 2023-24 Regular Season Wins - Auburn - Regular Season Wins,Under 6½,-0.021699999999999997,0.4545,0.4762
 2023-07-24 20:31:14.680295,Season Win Record Specials - 2023-24 Team to Have a Winning Record - Proposition,Cincinnati Bengals,-0.02210000000000001,0.8182,0.8403
+2023-07-24 14:30:46.710801,NFC North - NFC North 2023/24 - NFC North Winner,Green Bay Packers,-0.022199999999999998,0.2,0.2222
 2023-07-24 16:31:08.612902,NCAA Football Futures - 2023 MAC Conference Championship - Championship Game Winner,Buffalo,-0.022199999999999998,0.1111,0.1333
 2023-07-24 20:31:07.905457,BIG3 Basketball - BIG3 - Outright,Killer 3's,-0.022199999999999998,0.2,0.2222
-2023-07-24 14:30:46.710801,NFC North - NFC North 2023/24 - NFC North Winner,Green Bay Packers,-0.022199999999999998,0.2,0.2222
+2023-07-24 19:32:21.509071,Season Player Specials - NFL 2023-24 Passing Yards - Jared Goff 2023-24 Regular Season Total Passing Yards,Under 3850.5,-0.022600000000000064,0.5122,0.5348
+2023-07-24 19:32:21.450937,Season Player Specials - NFL 2023-24 Passing Yards - C.J. Stroud 2023-24 Regular Season Total Passing Yards,Under 3175.5,-0.022600000000000064,0.5122,0.5348
 2023-07-24 16:31:04.417267,Season Player Specials - NFL 2023-24 Receiving TDs - Stefon Diggs 2023-24 Regular Season Total Receiving TDs,Under 8.5,-0.022600000000000064,0.5122,0.5348
+2023-07-24 19:32:21.494615,Season Player Specials - NFL 2023-24 Passing Yards - Geno Smith 2023-24 Regular Season Total Passing Yards,Under 3800.5,-0.022600000000000064,0.5122,0.5348
 2023-07-24 19:32:21.533667,Season Player Specials - NFL 2023-24 Passing Yards - Josh Allen 2023-24 Regular Season Total Passing Yards,Under 4200.5,-0.022600000000000064,0.5122,0.5348
 2023-07-24 15:30:46.137384,Season Player Specials - NFL 2023-24 Receiving TDs - Cooper Kupp 2023-24 Regular Season Total Receiving TDs,Under 8.5,-0.022600000000000064,0.5122,0.5348
-2023-07-24 19:32:21.450937,Season Player Specials - NFL 2023-24 Passing Yards - C.J. Stroud 2023-24 Regular Season Total Passing Yards,Under 3175.5,-0.022600000000000064,0.5122,0.5348
-2023-07-24 19:32:21.509071,Season Player Specials - NFL 2023-24 Passing Yards - Jared Goff 2023-24 Regular Season Total Passing Yards,Under 3850.5,-0.022600000000000064,0.5122,0.5348
 2023-07-24 19:32:21.540703,Season Player Specials - NFL 2023-24 Passing Yards - Justin Fields 2023-24 Regular Season Total Passing Yards,Under 2775.5,-0.022600000000000064,0.5122,0.5348
 2023-07-24 19:32:21.583006,Season Player Specials - NFL 2023-24 Passing Yards - Patrick Mahomes 2023-24 Regular Season Total Passing Yards,Under 4650.5,-0.022600000000000064,0.5122,0.5348
-2023-07-24 19:32:21.494615,Season Player Specials - NFL 2023-24 Passing Yards - Geno Smith 2023-24 Regular Season Total Passing Yards,Under 3800.5,-0.022600000000000064,0.5122,0.5348
 2023-07-24 21:30:55.094023,Season Win Record Specials - 2023-24 Team to Have a Perfect Season - Last Team to Be Undefeated,Seattle Seahawks,-0.022799999999999994,0.0541,0.0769
 2023-07-24 15:30:42.438958,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Eugenie Le Sommer,-0.023200000000000002,0.0294,0.0526
 2023-07-24 15:30:42.438958,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Ada Hegerberg,-0.0236,0.0149,0.0385
@@ -249,34 +238,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-24 21:30:56.895619,Regular Season Wins - 2023-24 Regular Season Wins - UCLA - Regular Season Wins,Under 8½,-0.023800000000000043,0.5,0.5238
 2023-07-24 21:30:55.094023,Season Win Record Specials - 2023-24 Team to Have a Perfect Season - Last Team to Be Undefeated,Buffalo Bills,-0.02410000000000001,0.087,0.1111
 2023-07-24 20:31:14.680295,Season Win Record Specials - 2023-24 Team to Have a Winning Record - Proposition,Pittsburgh Steelers,-0.024499999999999966,0.5833,0.6078
-2023-07-24 17:30:48.563927,NFC North - NFC North 2023/24 - NFC North Winner,Detroit Lions,-0.025499999999999967,0.4,0.4255
 2023-07-24 19:32:25.383222,Regular Season Wins - 2023-24 Regular Season Wins - Tennessee - Regular Season Wins,Over 9½,-0.025499999999999967,0.4,0.4255
+2023-07-24 17:30:48.563927,NFC North - NFC North 2023/24 - NFC North Winner,Detroit Lions,-0.025499999999999967,0.4,0.4255
 2023-07-24 21:30:56.938086,Regular Season Wins - 2023-24 Regular Season Wins - Arizona State - Regular Season Wins,Over 4½,-0.026499999999999968,0.5652,0.5917
 2023-07-24 16:31:08.560554,NCAA Football Futures - 2023 Big 12 Championship - Big 12 Championship Game Winner ,Oklahoma,-0.02729999999999999,0.2,0.2273
-2023-07-24 13:30:44.804015,Elite Boxing - Stephen Fulton vs Naoki Inoue - To Win the Bout,Stephen Fulton,-0.02779999999999999,0.25,0.2778
 2023-07-24 14:30:43.550833,Womens World Cup 2023 - Group F - To Advance From Group,Jamaica (W),-0.027999999999999997,0.1538,0.1818
-2023-07-24 13:30:37.766584,Womens World Cup 2023 - Group H - Outright,Colombia (W),-0.028199999999999996,0.0385,0.0667
 2023-07-24 14:30:45.133336,WNBA Futures - 2023 Regular Season Wins - Minnesota Lynx,Under 16.5,-0.028900000000000037,0.5455,0.5744
 2023-07-24 17:30:46.019174,Soccer Specials - Transfer Specials - Kylian Mbappe to sign for before 4th September 2023,Manchester City,-0.0294,0.0294,0.0588
 2023-07-24 21:30:57.155658,Regular Season Wins - 2023-24 Regular Season Wins - Maryland - Regular Season Wins,Under 6½,-0.030299999999999994,0.4348,0.4651
 2023-07-24 15:30:46.087315,Season Player Specials - NFL 2023-24 Receiving TDs - Amari Cooper 2023-24 Regular Season Total Receiving TDs,Under 6.5,-0.030399999999999983,0.5348,0.5652
-2023-07-24 13:30:41.912535,Season Player Specials - NFL 2023-24 Rushing TDs - James Cook 2023-24 Regular Season Total Rushing TDs,Under 3.5,-0.030399999999999983,0.5348,0.5652
-2023-07-24 13:30:37.771532,Womens World Cup 2023 - Group H - Not To Advance From Group,Republic of Korea (W),-0.03179999999999994,0.5238,0.5556
 2023-07-24 16:31:08.662846,NCAA Football Futures - 2023 Pac-12 Championship - Pac-12 Championship Game Winner,USC,-0.032299999999999995,0.3125,0.3448
 2023-07-24 16:31:04.465060,Season Player Specials - NFL 2023-24 Receiving TDs - Tyler Lockett 2023-24 Regular Season Total Receiving TDs,Under 5.5,-0.033299999999999996,0.5122,0.5455
-2023-07-24 19:32:21.547822,Season Player Specials - NFL 2023-24 Passing Yards - Justin Herbert 2023-24 Regular Season Total Passing Yards,Under 4400.5,-0.03480000000000005,0.5,0.5348
-2023-07-24 19:32:21.436753,Season Player Specials - NFL 2023-24 Passing Yards - Anthony Richardson 2023-24 Regular Season Total Passing Yards,Under 2475.5,-0.03480000000000005,0.5,0.5348
 2023-07-24 21:30:57.195270,Regular Season Wins - 2023-24 Regular Season Wins - Mississippi - Regular Season Wins,Under 7½,-0.03480000000000005,0.5,0.5348
-2023-07-24 14:30:45.110727,WNBA Futures - 2023 Regular Season Wins - Las Vegas Aces,Under 35.5,-0.03480000000000005,0.5,0.5348
-2023-07-24 19:32:21.554887,Season Player Specials - NFL 2023-24 Passing Yards - Kenny Pickett 2023-24 Regular Season Total Passing Yards,Under 3275.5,-0.03480000000000005,0.5,0.5348
 2023-07-24 19:32:21.429586,Season Player Specials - NFL 2023-24 Passing Yards - Aaron Rodgers 2023-24 Regular Season Total Passing Yards,Under 3800.5,-0.03480000000000005,0.5,0.5348
+2023-07-24 14:30:45.110727,WNBA Futures - 2023 Regular Season Wins - Las Vegas Aces,Under 35.5,-0.03480000000000005,0.5,0.5348
+2023-07-24 19:32:21.443728,Season Player Specials - NFL 2023-24 Passing Yards - Bryce Young 2023-24 Regular Season Total Passing Yards,Under 3275.5,-0.03480000000000005,0.5,0.5348
+2023-07-24 19:32:21.436753,Season Player Specials - NFL 2023-24 Passing Yards - Anthony Richardson 2023-24 Regular Season Total Passing Yards,Under 2475.5,-0.03480000000000005,0.5,0.5348
 2023-07-24 19:32:21.519184,Season Player Specials - NFL 2023-24 Passing Yards - Joe Burrow 2023-24 Regular Season Total Passing Yards,Under 4300.5,-0.03480000000000005,0.5,0.5348
+2023-07-24 19:32:21.547822,Season Player Specials - NFL 2023-24 Passing Yards - Justin Herbert 2023-24 Regular Season Total Passing Yards,Under 4400.5,-0.03480000000000005,0.5,0.5348
 2023-07-24 19:32:21.479592,Season Player Specials - NFL 2023-24 Passing Yards - Deshaun Watson 2023-24 Regular Season Total Passing Yards,Under 3625.5,-0.03480000000000005,0.5,0.5348
 2023-07-24 19:32:21.501888,Season Player Specials - NFL 2023-24 Passing Yards - Jalen Hurts 2023-24 Regular Season Total Passing Yards,Under 3625.5,-0.03480000000000005,0.5,0.5348
-2023-07-24 19:32:21.443728,Season Player Specials - NFL 2023-24 Passing Yards - Bryce Young 2023-24 Regular Season Total Passing Yards,Under 3275.5,-0.03480000000000005,0.5,0.5348
+2023-07-24 19:32:21.554887,Season Player Specials - NFL 2023-24 Passing Yards - Kenny Pickett 2023-24 Regular Season Total Passing Yards,Under 3275.5,-0.03480000000000005,0.5,0.5348
 2023-07-24 21:30:56.987359,Regular Season Wins - 2023-24 Regular Season Wins - BYU - Regular Season Wins,Over 5½,-0.03489999999999999,0.4651,0.5
 2023-07-24 19:32:25.141434,Regular Season Wins - 2023-24 Regular Season Wins - Kentucky - Regular Season Wins,Under 6½,-0.03620000000000001,0.4082,0.4444
-2023-07-24 13:30:37.771532,Womens World Cup 2023 - Group H - Not To Advance From Group,Germany (W),-0.0373,0.0294,0.0667
 2023-07-24 20:31:07.905457,BIG3 Basketball - BIG3 - Outright,Ghost Ballers,-0.037599999999999995,0.1053,0.1429
 2023-07-24 16:31:08.545577,NCAA Football Futures - 2023 American Athletic Championship - American Athletic Championship Game Winner,Florida Atlantic,-0.037599999999999995,0.1053,0.1429
 2023-07-24 14:30:43.550833,Womens World Cup 2023 - Group F - To Advance From Group,Panama (W),-0.037700000000000004,0.0099,0.0476
@@ -299,7 +283,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-24 20:31:14.680295,Season Win Record Specials - 2023-24 Team to Have a Winning Record - Proposition,Las Vegas Raiders,-0.06679999999999997,0.2273,0.2941
 2023-07-24 19:32:25.340118,Regular Season Wins - 2023-24 Regular Season Wins - South Carolina - Regular Season Wins,Over 6½,-0.068,0.4082,0.4762
 2023-07-24 17:30:46.019174,Soccer Specials - Transfer Specials - Kylian Mbappe to sign for before 4th September 2023,Manchester United,-0.0726,0.0385,0.1111
-2023-07-24 13:30:37.775388,Womens World Cup 2023 - Group H - To Advance From Group,Colombia (W),-0.07619999999999993,0.5238,0.6
 2023-07-24 17:30:47.359505,FIBA World Cup - FIBA World Cup 2023 - Outright,Serbia,-0.0762,0.0667,0.1429
 2023-07-24 16:31:04.276275,Season Player Specials - NFL 2023-24 Receiving TDs - DeVonta Smith 2023-24 Regular Season Total Receiving TDs,Under 5.5,-0.07740000000000002,0.4878,0.5652
 2023-07-24 14:30:45.158185,WNBA Futures - 2023 Regular Season Wins - Phoenix Mercury,Over 11.5,-0.07940000000000003,0.4444,0.5238
