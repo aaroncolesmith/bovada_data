@@ -1,12 +1,12 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2023-07-24 22:31:04.693399,Soccer Specials - Transfer Specials - Kylian Mbappe to sign for before 4th September 2023,Not to sign or agree a contract with any other club,0.05080000000000001,0.2326,0.1818
 2023-07-25 06:32:18.001455,The Basketball Tournament - Syracuse Regional - Winner - Regional Winner,Virginia Dream,0.0448,0.0833,0.0385
 2023-07-25 09:30:57.183826,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,FC Nordsjælland,0.04089999999999999,0.4255,0.3846
+2023-07-25 11:30:51.496639,Soccer Specials - Transfer Specials - Kylian Mbappe to sign for before 4th September 2023,To stay at PSG,0.03950000000000001,0.25,0.2105
 2023-07-25 06:32:18.001455,The Basketball Tournament - Syracuse Regional - Winner - Regional Winner,Blue Collar U,0.0378,0.4545,0.4167
 2023-07-25 09:30:57.164227,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Nordsjælland,0.03420000000000001,0.1111,0.0769
 2023-07-25 06:32:18.001455,The Basketball Tournament - Syracuse Regional - Winner - Regional Winner,Boeheim's Army,0.029000000000000026,0.4545,0.4255
 2023-07-25 09:30:57.193911,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,FC Nordsjælland,0.02440000000000009,0.7647,0.7403
-2023-07-24 22:31:04.693399,Soccer Specials - Transfer Specials - Kylian Mbappe to sign for before 4th September 2023,Real Madrid,0.023799999999999988,0.5,0.4762
+2023-07-25 11:31:02.320264,Elite Boxing - Stephen Fulton vs Naoya Inoue - To Win the Bout,Naoya Inoue,0.022199999999999998,0.8,0.7778
 2023-07-25 09:30:57.173793,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Viborg FF,0.0208,0.0833,0.0625
 2023-07-25 09:30:57.290975,Superettan - Superettan 2023 - Winner,Västerås SK,0.015400000000000025,0.4,0.3846
 2023-07-25 06:32:18.001455,The Basketball Tournament - Syracuse Regional - Winner - Regional Winner,The Nerd Team,0.013899999999999996,0.125,0.1111
@@ -16,7 +16,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-25 09:30:57.164227,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Midtjylland,-0.010499999999999982,0.2,0.2105
 2023-07-25 01:30:58.089345,Elite Boxing - Stephen Fulton vs Naoya Inoue - To Win the Bout,Naoya Inoue,-0.011699999999999933,0.7778,0.7895
 2023-07-25 08:30:54.211190,Soccer Specials - Transfer Specials - Kylian Mbappe to sign for before 4th September 2023,Arsenal,-0.0145,0.0099,0.0244
+2023-07-25 11:31:02.320264,Elite Boxing - Stephen Fulton vs Naoya Inoue - To Win the Bout,Stephen Fulton,-0.016699999999999993,0.25,0.2667
 2023-07-25 08:30:54.211190,Soccer Specials - Transfer Specials - Kylian Mbappe to sign for before 4th September 2023,Manchester United,-0.0189,0.0196,0.0385
+2023-07-25 11:30:51.496639,Soccer Specials - Transfer Specials - Kylian Mbappe to sign for before 4th September 2023,Any Saudi Pro League club,-0.021699999999999997,0.4545,0.4762
 2023-07-25 09:30:57.183826,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,Viborg FF,-0.023799999999999988,0.1429,0.1667
 2023-07-25 07:30:51.399184,Soccer Specials - Transfer Specials - Kylian Mbappe to sign for before 4th September 2023,Real Madrid,-0.045499999999999985,0.4545,0.5
 2023-07-25 09:30:57.290975,Superettan - Superettan 2023 - Winner,GAIS,-0.05550000000000002,0.1667,0.2222
