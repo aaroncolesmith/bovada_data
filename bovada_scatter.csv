@@ -11,19 +11,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-25 12:30:47.003096,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Ary Borges,0.05559999999999998,0.1667,0.1111
 2023-07-25 17:31:06.768914,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Nasty Nati,0.052399999999999995,0.0909,0.0385
 2023-07-25 16:30:54.217835,96th Academy Awards - Best Actor - Best Actor,Cillian Murphy - Oppenheimer,0.04760000000000009,0.7143,0.6667
-2023-07-25 06:32:18.001455,The Basketball Tournament - Syracuse Regional - Winner - Regional Winner,Virginia Dream,0.0448,0.0833,0.0385
 2023-07-25 16:30:54.181487,Soccer Specials - Transfer Specials - Kylian Mbappe to sign for before 4th September 2023,Real Madrid,0.043399999999999994,0.4878,0.4444
 2023-07-25 16:30:54.510549,Royal Family - Harry & Meghan: Year Of Divorce - Harry & Meghan: Year Of Divorce,2024,0.04169999999999999,0.1667,0.125
 2023-07-25 09:30:57.183826,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,FC Nordsjælland,0.04089999999999999,0.4255,0.3846
 2023-07-25 16:30:59.744475,Season Player Specials - NFL 2023-24 Rushing TDs - James Cook 2023-24 Regular Season Total Rushing TDs,Under 3.5,0.03959999999999997,0.5744,0.5348
 2023-07-25 11:30:51.496639,Soccer Specials - Transfer Specials - Kylian Mbappe to sign for before 4th September 2023,To stay at PSG,0.03950000000000001,0.25,0.2105
 2023-07-25 16:31:02.389873,Regular Season Wins - 2023-24 Regular Season Wins - Miami (FL) - Regular Season Wins,Under 7½,0.037900000000000045,0.6296,0.5917
-2023-07-25 06:32:18.001455,The Basketball Tournament - Syracuse Regional - Winner - Regional Winner,Blue Collar U,0.0378,0.4545,0.4167
 2023-07-25 16:30:59.679337,Season Player Specials - NFL 2023-24 Rushing TDs - D'Andre Swift 2023-24 Regular Season Total Rushing TDs,Over 4.5,0.035999999999999976,0.5122,0.4762
 2023-07-25 09:30:57.164227,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Nordsjælland,0.03420000000000001,0.1111,0.0769
 2023-07-25 12:30:47.088733,Womens World Cup 2023 - Group C - To Advance From Group,Japan (W),0.03180000000000005,0.8889,0.8571
 2023-07-25 16:30:54.181487,Soccer Specials - Transfer Specials - Kylian Mbappe to sign for before 4th September 2023,To stay at PSG,0.030299999999999994,0.3636,0.3333
-2023-07-25 06:32:18.001455,The Basketball Tournament - Syracuse Regional - Winner - Regional Winner,Boeheim's Army,0.029000000000000026,0.4545,0.4255
 2023-07-25 16:30:53.952011,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,Germany (W),0.02779999999999999,0.25,0.2222
 2023-07-25 17:31:12.548111,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Atlanta Falcons,No,0.026499999999999968,0.5917,0.5652
 2023-07-25 16:30:59.833916,Season Player Specials - NFL 2023-24 Rushing TDs - Travis Etienne Jr. 2023-24 Regular Season Total Rushing TDs,Under 6.5,0.025599999999999956,0.6,0.5744
@@ -31,6 +28,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-25 14:31:05.691921,Boxing Lines - Millicent Agboegbulem vs Tayla Harris - To Win the Bout,Tayla Harris,0.022800000000000042,0.7561,0.7333
 2023-07-25 16:30:59.818707,Season Player Specials - NFL 2023-24 Rushing TDs - Nick Chubb 2023-24 Regular Season Total Rushing TDs,Over 8.5,0.022600000000000064,0.5348,0.5122
 2023-07-25 11:31:02.320264,Elite Boxing - Stephen Fulton vs Naoya Inoue - To Win the Bout,Naoya Inoue,0.022199999999999998,0.8,0.7778
+2023-07-25 18:32:40.124230,Boxing Lines - Millicent Agboegbulem vs Tayla Harris - To Win the Bout,Tayla Harris,0.021700000000000053,0.7778,0.7561
 2023-07-25 09:30:57.173793,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Viborg FF,0.0208,0.0833,0.0625
 2023-07-25 16:30:54.387025,Kardashian Specials - Kourtney Kardashian's Next Baby Name - Kourtney's Next Baby Name,Atticus,0.02020000000000001,0.1111,0.0909
 2023-07-25 16:30:59.648689,Season Player Specials - NFL 2023-24 Rushing TDs - Bijan Robinson 2023-24 Regular Season Total Rushing TDs,Over 7.5,0.01970000000000005,0.5652,0.5455
@@ -40,9 +38,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-25 17:31:14.313441,Boxing Lines - Liam Davies vs Jason Cunningham - To Win the Bout,Liam Davies,0.015699999999999936,0.8824,0.8667
 2023-07-25 09:30:57.290975,Superettan - Superettan 2023 - Winner,Västerås SK,0.015400000000000025,0.4,0.3846
 2023-07-25 16:30:54.347733,Celebrity Specials 2023 - Sofia Vergara Special - Sofia Vergara & Pete Davidson,Sofia Vergara to Instagram-post a picture of a date with Pete Davidson in 2023,0.014399999999999996,0.0769,0.0625
-2023-07-25 16:30:54.387025,Kardashian Specials - Kourtney Kardashian's Next Baby Name - Kourtney's Next Baby Name,Ajax,0.013999999999999999,0.0909,0.0769
 2023-07-25 16:30:56.115654,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Seattle Seahawks,0.013999999999999999,0.0909,0.0769
-2023-07-25 06:32:18.001455,The Basketball Tournament - Syracuse Regional - Winner - Regional Winner,The Nerd Team,0.013899999999999996,0.125,0.1111
+2023-07-25 16:30:54.387025,Kardashian Specials - Kourtney Kardashian's Next Baby Name - Kourtney's Next Baby Name,Ajax,0.013999999999999999,0.0909,0.0769
 2023-07-25 12:30:47.080220,Womens World Cup 2023 - Group C - Outright,Japan (W),0.011700000000000016,0.2222,0.2105
 2023-07-25 16:30:59.791719,Season Player Specials - NFL 2023-24 Rushing TDs - Lamar Jackson 2023-24 Regular Season Total Rushing TDs,Over 5.5,0.011600000000000055,0.5238,0.5122
 2023-07-25 16:30:59.736888,Season Player Specials - NFL 2023-24 Rushing TDs - James Conner 2023-24 Regular Season Total Rushing TDs,Over 6.5,0.0116,0.4878,0.4762
@@ -50,15 +47,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-25 17:31:14.297335,Boxing Lines - Seniesa Estrada vs Leonela Paola Yudica - To Win the Bout,Leonela Paola Yudica,0.011099999999999999,0.1111,0.1
 2023-07-25 16:30:59.759513,Season Player Specials - NFL 2023-24 Rushing TDs - Jonathan Taylor 2023-24 Regular Season Total Rushing TDs,Over 8.5,0.01100000000000001,0.5348,0.5238
 2023-07-25 16:30:59.714712,Season Player Specials - NFL 2023-24 Rushing TDs - Isiah Pacheco 2023-24 Regular Season Total Rushing TDs,Under 5.5,0.01100000000000001,0.5348,0.5238
-2023-07-25 16:30:59.766890,Season Player Specials - NFL 2023-24 Rushing TDs - Josh Allen 2023-24 Regular Season Total Rushing TDs,Over 6.5,0.010699999999999932,0.5455,0.5348
 2023-07-25 16:30:59.826079,Season Player Specials - NFL 2023-24 Rushing TDs - Rhamondre Stevenson 2023-24 Regular Season Total Rushing TDs,Over 6.5,0.010699999999999932,0.5455,0.5348
+2023-07-25 16:30:59.766890,Season Player Specials - NFL 2023-24 Rushing TDs - Josh Allen 2023-24 Regular Season Total Rushing TDs,Over 6.5,0.010699999999999932,0.5455,0.5348
 2023-07-25 16:30:56.115654,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Philadelphia Eagles,0.010299999999999976,0.2667,0.2564
 2023-07-25 16:30:53.958873,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Switzerland (W),0.0102,0.0769,0.0667
-2023-07-25 16:30:59.686746,Season Player Specials - NFL 2023-24 Rushing TDs - Dameon Pierce 2023-24 Regular Season Total Rushing TDs,Over 4.5,0.010099999999999998,0.5556,0.5455
-2023-07-25 16:30:59.752180,Season Player Specials - NFL 2023-24 Rushing TDs - Joe Mixon 2023-24 Regular Season Total Rushing TDs,Over 6.5,0.010099999999999998,0.5556,0.5455
-2023-07-25 16:30:55.702816,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.010099999999999998,0.3226,0.3125
 2023-07-25 16:30:59.641322,Season Player Specials - NFL 2023-24 Rushing TDs - Austin Ekeler 2023-24 Regular Season Total Rushing TDs,Over 7.5,0.010099999999999998,0.5556,0.5455
+2023-07-25 16:30:59.752180,Season Player Specials - NFL 2023-24 Rushing TDs - Joe Mixon 2023-24 Regular Season Total Rushing TDs,Over 6.5,0.010099999999999998,0.5556,0.5455
 2023-07-25 16:30:59.729578,Season Player Specials - NFL 2023-24 Rushing TDs - Jalen Hurts 2023-24 Regular Season Total Rushing TDs,Under 10.5,0.010099999999999998,0.5556,0.5455
+2023-07-25 16:30:59.686746,Season Player Specials - NFL 2023-24 Rushing TDs - Dameon Pierce 2023-24 Regular Season Total Rushing TDs,Over 4.5,0.010099999999999998,0.5556,0.5455
+2023-07-25 16:30:55.702816,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.010099999999999998,0.3226,0.3125
 2023-07-25 13:30:54.586396,Boxing Lines - Emanuel Navarrete vs Oscar Valdez - To Win the Bout,Emanuel Navarrete,0.010099999999999998,0.4545,0.4444
 2023-07-25 16:30:59.791719,Season Player Specials - NFL 2023-24 Rushing TDs - Lamar Jackson 2023-24 Regular Season Total Rushing TDs,Under 5.5,-0.010099999999999998,0.5455,0.5556
 2023-07-25 12:30:47.171599,Soccer Specials - Transfer Specials - Kylian Mbappe to sign for before 4th September 2023,Real Madrid,-0.010099999999999998,0.4444,0.4545
@@ -66,20 +63,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-25 09:30:57.164227,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Midtjylland,-0.010499999999999982,0.2,0.2105
 2023-07-25 16:30:59.759513,Season Player Specials - NFL 2023-24 Rushing TDs - Jonathan Taylor 2023-24 Regular Season Total Rushing TDs,Under 8.5,-0.010699999999999932,0.5348,0.5455
 2023-07-25 16:30:59.714712,Season Player Specials - NFL 2023-24 Rushing TDs - Isiah Pacheco 2023-24 Regular Season Total Rushing TDs,Over 5.5,-0.010699999999999932,0.5348,0.5455
-2023-07-25 16:30:59.766890,Season Player Specials - NFL 2023-24 Rushing TDs - Josh Allen 2023-24 Regular Season Total Rushing TDs,Under 6.5,-0.01100000000000001,0.5238,0.5348
 2023-07-25 16:30:59.826079,Season Player Specials - NFL 2023-24 Rushing TDs - Rhamondre Stevenson 2023-24 Regular Season Total Rushing TDs,Under 6.5,-0.01100000000000001,0.5238,0.5348
+2023-07-25 16:30:59.766890,Season Player Specials - NFL 2023-24 Rushing TDs - Josh Allen 2023-24 Regular Season Total Rushing TDs,Under 6.5,-0.01100000000000001,0.5238,0.5348
 2023-07-25 16:31:03.483117,Boxing Lines - Seniesa Estrada vs Leonela Paola Yudica - To Win the Bout,Leonela Paola Yudica,-0.011099999999999999,0.1,0.1111
 2023-07-25 17:31:06.768914,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Sideline Cancer,-0.011199999999999995,0.0323,0.0435
-2023-07-25 16:30:59.686746,Season Player Specials - NFL 2023-24 Rushing TDs - Dameon Pierce 2023-24 Regular Season Total Rushing TDs,Under 4.5,-0.011600000000000055,0.5122,0.5238
-2023-07-25 16:30:59.752180,Season Player Specials - NFL 2023-24 Rushing TDs - Joe Mixon 2023-24 Regular Season Total Rushing TDs,Under 6.5,-0.011600000000000055,0.5122,0.5238
 2023-07-25 16:30:59.729578,Season Player Specials - NFL 2023-24 Rushing TDs - Jalen Hurts 2023-24 Regular Season Total Rushing TDs,Over 10.5,-0.011600000000000055,0.5122,0.5238
 2023-07-25 16:30:59.641322,Season Player Specials - NFL 2023-24 Rushing TDs - Austin Ekeler 2023-24 Regular Season Total Rushing TDs,Under 7.5,-0.011600000000000055,0.5122,0.5238
+2023-07-25 16:30:59.752180,Season Player Specials - NFL 2023-24 Rushing TDs - Joe Mixon 2023-24 Regular Season Total Rushing TDs,Under 6.5,-0.011600000000000055,0.5122,0.5238
+2023-07-25 16:30:59.686746,Season Player Specials - NFL 2023-24 Rushing TDs - Dameon Pierce 2023-24 Regular Season Total Rushing TDs,Under 4.5,-0.011600000000000055,0.5122,0.5238
 2023-07-25 16:30:55.746590,European Union Specials - When will Ukraine become an EU Member State? - When will Ukraine become an EU member state?,2025,-0.011700000000000016,0.2105,0.2222
 2023-07-25 16:30:59.671549,Season Player Specials - NFL 2023-24 Rushing TDs - Christian McCaffrey 2023-24 Regular Season Total Rushing TDs,Under 6.5,-0.012199999999999989,0.4878,0.5
 2023-07-25 16:30:54.217835,96th Academy Awards - Best Actor - Best Actor,Leonardo DiCaprio - Killers of the Flower Moon,-0.012299999999999978,0.3448,0.3571
 2023-07-25 16:30:55.746590,European Union Specials - When will Ukraine become an EU Member State? - When will Ukraine become an EU member state?,2024,-0.012899999999999995,0.1538,0.1667
-2023-07-25 17:31:06.768914,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Best Virginia,-0.013899999999999996,0.1111,0.125
 2023-07-25 17:31:06.768914,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Blue Collar U,-0.013899999999999996,0.1111,0.125
+2023-07-25 17:31:06.768914,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Best Virginia,-0.013899999999999996,0.1111,0.125
 2023-07-25 12:30:47.080220,Womens World Cup 2023 - Group C - Outright,Spain (W),-0.013900000000000023,0.875,0.8889
 2023-07-25 12:30:47.019116,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Norway (W),-0.014099999999999994,0.0526,0.0667
 2023-07-25 16:30:54.510549,Royal Family - Harry & Meghan: Year Of Divorce - Harry & Meghan: Year Of Divorce,2023,-0.014399999999999996,0.0625,0.0769
@@ -88,14 +85,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-25 17:31:06.768914,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,AfterShocks,-0.015100000000000002,0.1667,0.1818
 2023-07-25 11:31:02.320264,Elite Boxing - Stephen Fulton vs Naoya Inoue - To Win the Bout,Stephen Fulton,-0.016699999999999993,0.25,0.2667
 2023-07-25 16:30:59.736888,Season Player Specials - NFL 2023-24 Rushing TDs - James Conner 2023-24 Regular Season Total Rushing TDs,Under 6.5,-0.017299999999999982,0.5744,0.5917
-2023-07-25 16:30:53.958873,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Canada (W),-0.0179,0.125,0.1429
 2023-07-25 16:30:53.952011,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,France (W),-0.0179,0.125,0.1429
+2023-07-25 16:30:53.958873,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Canada (W),-0.0179,0.125,0.1429
 2023-07-25 17:31:14.313441,Boxing Lines - Liam Davies vs Jason Cunningham - To Win the Bout,Jason Cunningham,-0.01820000000000002,0.1818,0.2
 2023-07-25 08:30:54.211190,Soccer Specials - Transfer Specials - Kylian Mbappe to sign for before 4th September 2023,Manchester United,-0.0189,0.0196,0.0385
 2023-07-25 16:30:55.578812,Joe Biden Specials - Will Joe Biden be impeached during his first term as President? - Will Joe Biden be impeached during his first term as President?,No,-0.01980000000000004,0.875,0.8948
 2023-07-25 16:30:54.554499,Twitter Specials - Will Larry the Bird return as Twitter's main logo by the end of August? - Will Larry the Bird return?,Yes,-0.02020000000000001,0.0909,0.1111
 2023-07-25 16:30:59.818707,Season Player Specials - NFL 2023-24 Rushing TDs - Nick Chubb 2023-24 Regular Season Total Rushing TDs,Under 8.5,-0.02079999999999993,0.5348,0.5556
 2023-07-25 11:30:51.496639,Soccer Specials - Transfer Specials - Kylian Mbappe to sign for before 4th September 2023,Any Saudi Pro League club,-0.021699999999999997,0.4545,0.4762
+2023-07-25 18:32:40.124230,Boxing Lines - Millicent Agboegbulem vs Tayla Harris - To Win the Bout,Millicent Agboegbulem,-0.021999999999999964,0.2857,0.3077
 2023-07-25 16:30:55.746590,European Union Specials - When will Ukraine become an EU Member State? - When will Ukraine become an EU member state?,2026,-0.022199999999999998,0.2,0.2222
 2023-07-25 16:30:59.833916,Season Player Specials - NFL 2023-24 Rushing TDs - Travis Etienne Jr. 2023-24 Regular Season Total Rushing TDs,Over 6.5,-0.022699999999999998,0.4651,0.4878
 2023-07-25 09:30:57.183826,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,Viborg FF,-0.023799999999999988,0.1429,0.1667
