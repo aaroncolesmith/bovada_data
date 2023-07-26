@@ -5,6 +5,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-26 05:30:50.828341,WNBA Futures - 2023 Regular Season Wins - Connecticut Sun,Over 29.5,0.0805999999999999,0.6154,0.5348
 2023-07-26 05:30:50.817889,WNBA Futures - 2023 Regular Season Wins - Atlanta Dream,Over 20.5,0.08030000000000004,0.5348,0.4545
 2023-07-26 10:32:16.558102,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,0.07939999999999997,0.5556,0.4762
+2023-07-26 13:32:15.820100,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,No,0.0721,0.4,0.3279
 2023-07-26 05:30:51.039188,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Bleed Green,0.07069999999999999,0.1818,0.1111
 2023-07-26 11:31:00.853227,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Corbin Carroll (ARIZ),0.07050000000000001,0.9167,0.8462
 2023-07-26 11:31:00.835689,MLB Futures - MLB 2023 Player Awards - National League MVP,Freddie Freeman (LAD),0.0648,0.16,0.0952
@@ -19,17 +20,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-26 07:30:36.434874,Soccer Specials - Transfer Specials - Kylian Mbappe to sign for before 4th September 2023,Any Saudi Pro League club,0.03640000000000004,0.4,0.3636
 2023-07-26 05:30:50.837960,WNBA Futures - 2023 Regular Season Wins - Las Vegas Aces,Over 35.5,0.03479999999999994,0.6,0.5652
 2023-07-26 10:32:16.597253,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,0.03270000000000001,0.0952,0.0625
-2023-07-26 10:32:11.138604,Joe Biden Specials - Will Joe Biden be impeached during his first term as President? - Will Joe Biden be impeached during his first term as President?,Yes,0.031700000000000006,0.2222,0.1905
 2023-07-26 07:30:42.766583,Boxing Lines - Millicent Agboegbulem vs Tayla Harris - To Win the Bout,Millicent Agboegbulem,0.031700000000000006,0.2222,0.1905
+2023-07-26 10:32:11.138604,Joe Biden Specials - Will Joe Biden be impeached during his first term as President? - Will Joe Biden be impeached during his first term as President?,Yes,0.031700000000000006,0.2222,0.1905
 2023-07-26 05:30:50.868375,WNBA Futures - 2023 Regular Season Wins - Seattle Storm,Under 10.5,0.02960000000000007,0.6296,0.6
 2023-07-26 05:30:49.197339,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Grêmio,0.025599999999999956,0.6,0.5744
 2023-07-26 05:30:49.192761,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Grêmio,0.025499999999999967,0.4255,0.4
 2023-07-26 07:30:35.992833,League Two - England - League Two 2023/24 - Top Goalscorer,Andy Cook,0.024999999999999994,0.125,0.1
-2023-07-26 00:31:00.876358,Tournament Match-Ups - Tournament Match-Ups - S. Jaeger vs C. Davis - Tournament Match-Ups,Stephan Jaeger,0.023800000000000043,0.5238,0.5
 2023-07-26 05:30:51.039188,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Challenge ALS: Florida,0.023200000000000002,0.0476,0.0244
 2023-07-26 05:30:51.039188,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,The Ville,0.0232,0.0667,0.0435
-2023-07-26 05:30:50.857957,WNBA Futures - 2023 Regular Season Wins - Phoenix Mercury,Under 10.5,0.022600000000000064,0.5348,0.5122
 2023-07-26 05:30:58.293982,Tournament Match-Ups - Tournament Match-Ups - T. Finau vs C. Young - Tournament Match-Ups,Tony Finau,0.022600000000000064,0.5348,0.5122
+2023-07-26 05:30:50.857957,WNBA Futures - 2023 Regular Season Wins - Phoenix Mercury,Under 10.5,0.022600000000000064,0.5348,0.5122
 2023-07-26 07:30:35.992833,League Two - England - League Two 2023/24 - Top Goalscorer,Macauley Langstaff,0.022199999999999998,0.1333,0.1111
 2023-07-26 10:32:11.204216,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Nikki Haley,0.022199999999999998,0.2222,0.2
 2023-07-26 05:30:49.188303,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Goiás,0.02200000000000002,0.7143,0.6923
@@ -37,6 +37,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-26 11:31:00.820683,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Jesús Luzardo,0.019099999999999995,0.0435,0.0244
 2023-07-26 07:30:35.992833,League Two - England - League Two 2023/24 - Top Goalscorer,Will Swan,0.019099999999999992,0.0667,0.0476
 2023-07-26 05:30:58.219876,Tournament Match-Ups - Tournament Match-Ups - J. Thomas vs E. Grillo - Tournament Match-Ups,Emiliano Grillo,0.01880000000000004,0.5744,0.5556
+2023-07-26 13:32:15.838261,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Field,0.017600000000000005,0.3509,0.3333
 2023-07-26 05:30:58.237810,Tournament Match-Ups - Tournament Match-Ups - L. Aberg vs S. Theegala - Tournament Match-Ups,Ludvig Aberg,0.017299999999999982,0.5917,0.5744
 2023-07-26 07:30:35.992833,League Two - England - League Two 2023/24 - Top Goalscorer,David McGoldrick,0.016700000000000007,0.1,0.0833
 2023-07-26 05:30:50.884085,WNBA Futures - WNBA Awards - Regular Season MVP,Breanna Stewart (NYL),0.016699999999999937,0.6,0.5833
@@ -51,42 +52,31 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-26 08:31:15.751473,League Two - England - League Two 2023/24 - Top Goalscorer,Ollie Palmer,0.0131,0.0476,0.0345
 2023-07-26 08:31:15.751473,League Two - England - League Two 2023/24 - Top Goalscorer,Billy Waters,0.012700000000000003,0.0323,0.0196
 2023-07-26 05:30:51.039188,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Jackson TN Underdawgs,0.012400000000000001,0.0164,0.004
-2023-07-26 00:31:00.846904,Tournament Match-Ups - Tournament Match-Ups - J. Thomas vs E. Grillo - Tournament Match-Ups,Justin Thomas,0.012199999999999989,0.5122,0.5
-2023-07-26 00:31:00.826408,Tournament Match-Ups - Tournament Match-Ups - G. Woodland vs K. Mitchell - Tournament Match-Ups,Keith Mitchell,0.0116,0.4878,0.4762
-2023-07-26 00:31:00.864799,Tournament Match-Ups - Tournament Match-Ups - L. Aberg vs S. Theegala - Tournament Match-Ups,Sahith Theegala,0.0116,0.4878,0.4762
 2023-07-26 07:30:35.992833,League Two - England - League Two 2023/24 - Top Goalscorer,Charlie Austin,0.011199999999999995,0.0588,0.0476
 2023-07-26 05:30:51.039188,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Sideline Cancer,0.011199999999999995,0.0435,0.0323
 2023-07-26 05:30:58.287796,Tournament Match-Ups - Tournament Match-Ups - S. Straka vs B. Hossler - Tournament Match-Ups,Beau Hossler,0.010599999999999998,0.4651,0.4545
 2023-07-26 10:32:09.950081,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,Brazil (W),0.0102,0.0769,0.0667
-2023-07-26 00:31:00.882139,Tournament Match-Ups - Tournament Match-Ups - S. Straka vs B. Hossler - Tournament Match-Ups,Beau Hossler,0.010099999999999998,0.4545,0.4444
-2023-07-26 00:31:00.887978,Tournament Match-Ups - Tournament Match-Ups - T. Finau vs C. Young - Tournament Match-Ups,Cameron Young,0.010099999999999998,0.5556,0.5455
-2023-07-26 00:31:00.835133,Tournament Match-Ups - Tournament Match-Ups - H. Matsuyama vs S. Im - Tournament Match-Ups,Sungjae Im,0.010099999999999998,0.5556,0.5455
 2023-07-26 10:32:09.950081,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,Netherlands (W),-0.011199999999999995,0.0323,0.0435
 2023-07-26 07:30:36.434874,Soccer Specials - Transfer Specials - Kylian Mbappe to sign for before 4th September 2023,Real Madrid,-0.0116,0.4762,0.4878
 2023-07-26 05:30:58.237810,Tournament Match-Ups - Tournament Match-Ups - L. Aberg vs S. Theegala - Tournament Match-Ups,Sahith Theegala,-0.0116,0.4762,0.4878
-2023-07-26 00:31:00.835133,Tournament Match-Ups - Tournament Match-Ups - H. Matsuyama vs S. Im - Tournament Match-Ups,Hideki Matsuyama,-0.011600000000000055,0.5122,0.5238
-2023-07-26 00:31:00.887978,Tournament Match-Ups - Tournament Match-Ups - T. Finau vs C. Young - Tournament Match-Ups,Tony Finau,-0.011600000000000055,0.5122,0.5238
 2023-07-26 12:30:49.920748,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,Yes,-0.01319999999999999,0.7368,0.75
 2023-07-26 10:32:10.364013,Quarterback - To be a subject of Netflix Quarterback Season 2 - To be  a subject of Netflix Quarterback Season 2,Desmond Riddler,-0.013899999999999996,0.1111,0.125
 2023-07-26 10:32:10.364013,Quarterback - To be a subject of Netflix Quarterback Season 2 - To be  a subject of Netflix Quarterback Season 2,Deshaun Watson,-0.013899999999999996,0.1111,0.125
-2023-07-26 05:30:51.039188,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Friday Beers,-0.014099999999999998,0.0294,0.0435
 2023-07-26 09:30:48.485597,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - Winner,Necaxa,-0.014099999999999998,0.0244,0.0385
-2023-07-26 05:30:49.178733,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Fluminense,-0.014100000000000001,0.0385,0.0526
+2023-07-26 05:30:51.039188,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Friday Beers,-0.014099999999999998,0.0294,0.0435
 2023-07-26 11:31:00.807308,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Anthony Volpe (NYY),-0.014100000000000001,0.0385,0.0526
+2023-07-26 05:30:49.178733,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Fluminense,-0.014100000000000001,0.0385,0.0526
 2023-07-26 09:30:48.485597,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - Winner,Atlanta United,-0.014499999999999999,0.0149,0.0294
-2023-07-26 12:30:48.825635,Quarterback - To be a subject of Netflix Quarterback Season 2 - To be  a subject of Netflix Quarterback Season 2,Tua Tagovailoa,-0.01469999999999999,0.2353,0.25
 2023-07-26 12:30:48.825635,Quarterback - To be a subject of Netflix Quarterback Season 2 - To be  a subject of Netflix Quarterback Season 2,Josh Allen,-0.01469999999999999,0.2353,0.25
-2023-07-26 00:31:00.882139,Tournament Match-Ups - Tournament Match-Ups - S. Straka vs B. Hossler - Tournament Match-Ups,Sepp Straka,-0.014800000000000035,0.6078,0.6226
+2023-07-26 12:30:48.825635,Quarterback - To be a subject of Netflix Quarterback Season 2 - To be  a subject of Netflix Quarterback Season 2,Tua Tagovailoa,-0.01469999999999999,0.2353,0.25
 2023-07-26 02:32:25.000454,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Vivek Ramaswamy,-0.014899999999999997,0.0476,0.0625
 2023-07-26 10:32:09.950081,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,Australia (W),-0.016600000000000004,0.0667,0.0833
 2023-07-26 10:32:10.364013,Quarterback - To be a subject of Netflix Quarterback Season 2 - To be  a subject of Netflix Quarterback Season 2,Josh Allen,-0.016699999999999993,0.25,0.2667
 2023-07-26 10:32:10.364013,Quarterback - To be a subject of Netflix Quarterback Season 2 - To be  a subject of Netflix Quarterback Season 2,Tua Tagovailoa,-0.016699999999999993,0.25,0.2667
 2023-07-26 11:31:00.835689,MLB Futures - MLB 2023 Player Awards - National League MVP,Mookie Betts (LAD),-0.016700000000000007,0.0833,0.1
-2023-07-26 00:31:00.826408,Tournament Match-Ups - Tournament Match-Ups - G. Woodland vs K. Mitchell - Tournament Match-Ups,Gary Woodland,-0.017299999999999982,0.5744,0.5917
-2023-07-26 00:31:00.864799,Tournament Match-Ups - Tournament Match-Ups - L. Aberg vs S. Theegala - Tournament Match-Ups,Ludvig Aberg,-0.017299999999999982,0.5744,0.5917
 2023-07-26 10:32:10.364013,Quarterback - To be a subject of Netflix Quarterback Season 2 - To be  a subject of Netflix Quarterback Season 2,Jordan Love,-0.0179,0.125,0.1429
 2023-07-26 10:32:09.969604,Womens World Cup 2023 - Group C - Outright,Spain (W),-0.017900000000000027,0.8571,0.875
-2023-07-26 00:31:00.876358,Tournament Match-Ups - Tournament Match-Ups - S. Jaeger vs C. Davis - Tournament Match-Ups,Cameron Davis,-0.01970000000000005,0.5455,0.5652
+2023-07-26 13:32:15.838261,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.018999999999999906,0.7143,0.7333
 2023-07-26 10:32:11.204216,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Vivek Ramaswamy,-0.02020000000000001,0.0909,0.1111
 2023-07-26 05:30:58.293982,Tournament Match-Ups - Tournament Match-Ups - T. Finau vs C. Young - Tournament Match-Ups,Cameron Young,-0.02079999999999993,0.5348,0.5556
 2023-07-26 05:30:58.280648,Tournament Match-Ups - Tournament Match-Ups - S. Jaeger vs C. Davis - Tournament Match-Ups,Cameron Davis,-0.02169999999999994,0.5238,0.5455
@@ -97,15 +87,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-26 10:32:16.578836,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,-0.025599999999999956,0.5744,0.6
 2023-07-26 10:32:10.364013,Quarterback - To be a subject of Netflix Quarterback Season 2 - To be  a subject of Netflix Quarterback Season 2,Anthony Richardson,-0.02779999999999999,0.2222,0.25
 2023-07-26 05:30:51.039188,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Best Virginia,-0.027800000000000005,0.0833,0.1111
-2023-07-26 10:32:10.364013,Quarterback - To be a subject of Netflix Quarterback Season 2 - To be  a subject of Netflix Quarterback Season 2,Blaine Gabbert,-0.028399999999999995,0.0625,0.0909
 2023-07-26 05:30:51.039188,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Red Scare,-0.028399999999999995,0.0625,0.0909
+2023-07-26 10:32:10.364013,Quarterback - To be a subject of Netflix Quarterback Season 2 - To be  a subject of Netflix Quarterback Season 2,Blaine Gabbert,-0.028399999999999995,0.0625,0.0909
 2023-07-26 07:30:35.986935,League Two - England - League Two 2023/24 - League Winner,Wrexham,-0.028700000000000003,0.1818,0.2105
 2023-07-26 10:32:11.138604,Joe Biden Specials - Will Joe Biden be impeached during his first term as President? - Will Joe Biden be impeached during his first term as President?,No,-0.028800000000000048,0.8462,0.875
 2023-07-26 11:31:00.807308,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Masataka Yoshida (BOS),-0.030299999999999994,0.3333,0.3636
 2023-07-26 05:30:50.857957,WNBA Futures - 2023 Regular Season Wins - Phoenix Mercury,Over 10.5,-0.030399999999999983,0.5348,0.5652
 2023-07-26 05:30:51.039188,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Gutter Cat Gang,-0.03219999999999999,0.0345,0.0667
-2023-07-26 10:32:10.364013,Quarterback - To be a subject of Netflix Quarterback Season 2 - To be  a subject of Netflix Quarterback Season 2,Mac Jones,-0.034100000000000005,0.0909,0.125
 2023-07-26 10:32:10.364013,Quarterback - To be a subject of Netflix Quarterback Season 2 - To be  a subject of Netflix Quarterback Season 2,Daniel Jones,-0.034100000000000005,0.0909,0.125
+2023-07-26 10:32:10.364013,Quarterback - To be a subject of Netflix Quarterback Season 2 - To be  a subject of Netflix Quarterback Season 2,Mac Jones,-0.034100000000000005,0.0909,0.125
 2023-07-26 05:30:50.837960,WNBA Futures - 2023 Regular Season Wins - Las Vegas Aces,Under 35.5,-0.03489999999999999,0.4651,0.5
 2023-07-26 11:31:00.820683,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Spencer Strider (ATL),-0.04099999999999998,0.2667,0.3077
 2023-07-26 05:30:50.823613,WNBA Futures - 2023 Regular Season Wins - Chicago Sky,Over 14.5,-0.04630000000000001,0.5833,0.6296
@@ -118,6 +108,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-26 12:30:49.910233,Joe Biden Specials - Will Joe Biden be impeached during his first term as President? - Will Joe Biden be impeached during his first term as President?,No,-0.05879999999999996,0.7874,0.8462
 2023-07-26 05:30:49.192761,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Fluminense,-0.06670000000000004,0.3333,0.4
 2023-07-26 05:30:49.188303,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Coritiba,-0.06670000000000009,0.7333,0.8
+2023-07-26 13:32:15.820100,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,Yes,-0.07010000000000005,0.6667,0.7368
 2023-07-26 10:32:16.558102,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,-0.07950000000000002,0.5122,0.5917
 2023-07-26 05:30:50.817889,WNBA Futures - 2023 Regular Season Wins - Atlanta Dream,Under 20.5,-0.0805999999999999,0.5348,0.6154
 2023-07-26 05:30:50.833022,WNBA Futures - 2023 Regular Season Wins - Dallas Wings,Over 22.5,-0.08329999999999999,0.4167,0.5
