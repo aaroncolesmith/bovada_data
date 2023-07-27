@@ -27,17 +27,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-27 13:30:52.250187,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,Brazil (W),0.03889999999999999,0.1818,0.1429
 2023-07-27 13:30:52.343899,Womens World Cup 2023 - Group E - Not To Advance From Group,USA (W),0.0384,0.0769,0.0385
 2023-07-27 04:32:46.940774,3M Open - 2/3 Balls - 1st Round 3-Balls - M. Laird / T. Duncan / K. Mitchell - 1st Round 3-Balls,Keith Mitchell,0.035999999999999976,0.5122,0.4762
-2023-07-27 13:30:52.250187,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,Germany (W),0.03570000000000001,0.2857,0.25
 2023-07-27 13:30:52.250187,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,England (W),0.03570000000000001,0.2857,0.25
-2023-07-27 04:32:46.975294,3M Open - 2/3 Balls - 1st Round 3-Balls - C. Bezuidenhout / D. Redman / M. Schwab - 1st Round 3-Balls,Christiaan Bezuidenhout,0.03489999999999999,0.5,0.4651
+2023-07-27 13:30:52.250187,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,Germany (W),0.03570000000000001,0.2857,0.25
 2023-07-27 04:32:47.261063,3M Open - 2/3 Balls - 1st Round 3-Balls - L. Aberg / P. Kuest / R. Gerard - 1st Round 3-Balls,Ludvig Aberg,0.03489999999999999,0.5,0.4651
 2023-07-27 04:32:47.123838,3M Open - 2/3 Balls - 1st Round 3-Balls - K.H. Lee / Cam. Young / S. Theegala - 1st Round 3-Balls,Cameron Young,0.03489999999999999,0.5,0.4651
+2023-07-27 04:32:46.975294,3M Open - 2/3 Balls - 1st Round 3-Balls - C. Bezuidenhout / D. Redman / M. Schwab - 1st Round 3-Balls,Christiaan Bezuidenhout,0.03489999999999999,0.5,0.4651
 2023-07-27 10:32:07.549034,Quarterback - To be a subject of Netflix Quarterback Season 2 - To be  a subject of Netflix Quarterback Season 2,Trevor Lawrence,0.034100000000000005,0.125,0.0909
 2023-07-27 08:30:49.363294,Boxing Lines - Eithan James vs James Moorcroft - To Win the Bout,James Moorcroft,0.032399999999999984,0.2597,0.2273
 2023-07-27 13:30:52.250187,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,France (W),0.031799999999999995,0.1429,0.1111
 2023-07-27 07:31:38.334004,Boxing Lines - Rohan Polanco vs Cesar Francis - To Win the Bout,Rohan Polanco,0.03169999999999995,0.8095,0.7778
-2023-07-27 13:30:52.256751,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Sweden (W),0.031399999999999983,0.2667,0.2353
 2023-07-27 13:30:52.256751,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Netherlands (W),0.031399999999999983,0.2667,0.2353
+2023-07-27 13:30:52.256751,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Sweden (W),0.031399999999999983,0.2667,0.2353
 2023-07-27 04:32:47.113028,3M Open - 2/3 Balls - 1st Round 3-Balls - J.J. Spaun / G. Higgo / L. Griffin - 1st Round 3-Balls,J J Spaun,0.029000000000000026,0.4545,0.4255
 2023-07-27 04:32:47.160639,3M Open - 2/3 Balls - 1st Round 3-Balls - E. Grillo / J.T. Poston / C. Champ - 1st Round 3-Balls,Emiliano Grillo,0.029000000000000026,0.4545,0.4255
 2023-07-27 04:32:46.953174,3M Open - 2/3 Balls - 1st Round 3-Balls - N. Echavarria / C. Davis / J. Herman - 1st Round 3-Balls,Cameron Davis,0.028900000000000037,0.5744,0.5455
@@ -48,40 +48,38 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-27 11:31:06.963949,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,No,0.025499999999999967,0.4255,0.4
 2023-07-27 13:30:52.347972,Womens World Cup 2023 - Group E - To Advance From Group,Portugal (W),0.024999999999999994,0.125,0.1
 2023-07-27 04:32:46.925101,3M Open - 2/3 Balls - 1st Round 3-Balls - V. Norrman / M. Hughes / S. Im - 1st Round 3-Balls,Sungjae Im,0.024399999999999977,0.5122,0.4878
-2023-07-27 02:31:09.646011,Tournament Match-Ups - Tournament Match-Ups - C. Hadley v C. Tarren - Tournament Match-Ups,Chesson Hadley,0.024399999999999977,0.5122,0.4878
 2023-07-27 04:32:47.194719,3M Open - 2/3 Balls - 1st Round 3-Balls - R. Armour / A. Rai / D. Lipsky - 1st Round 3-Balls,Aaron Rai,0.024399999999999977,0.5122,0.4878
 2023-07-27 13:31:00.558880,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,0.023800000000000043,0.5238,0.5
 2023-07-27 13:30:52.256751,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Canada (W),0.023799999999999988,0.1667,0.1429
-2023-07-27 07:31:38.135035,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,0.023799999999999932,0.6667,0.6429
 2023-07-27 14:30:58.812162,Regular Season Wins - 2023-24 Regular Season Wins - Iowa - Regular Season Wins,Over 7½,0.023799999999999932,0.6667,0.6429
+2023-07-27 07:31:38.135035,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,0.023799999999999932,0.6667,0.6429
 2023-07-27 04:32:46.838315,3M Open - 2/3 Balls - 1st Round 3-Balls - A. Hadwin / P. Rodgers / R. Fox - 1st Round 3-Balls,Adam Hadwin,0.02360000000000001,0.4082,0.3846
 2023-07-27 04:32:46.873216,3M Open - 2/3 Balls - 1st Round 3-Balls - N. Hardy / B. Horschel / T. Hoge - 1st Round 3-Balls,Tom Hoge,0.02360000000000001,0.4082,0.3846
-2023-07-27 11:31:12.071490,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-07-27 03:30:56.272751,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-07-27 09:30:56.001345,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-07-27 12:30:45.078676,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-07-27 08:30:48.144578,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-07-27 13:30:59.274060,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-07-27 04:32:47.430697,Tournament Match-Ups - Tournament Match-Ups - L. Maguire vs R. Zhang - Tournament Match-Ups ,Rose Zhang,0.022600000000000064,0.5348,0.5122
-2023-07-27 07:31:35.854391,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-07-27 14:30:58.253912,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-07-27 06:31:16.423424,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-07-27 10:32:13.915090,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-07-27 05:30:42.461698,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-07-27 04:32:47.452349,Tournament Match-Ups - Tournament Match-Ups - N. Korda vs J. Young Ko - Tournament Match-Ups ,Nelly Korda,0.022600000000000064,0.5348,0.5122
-2023-07-27 02:31:07.344825,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-07-27 03:30:56.272751,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-07-27 04:32:43.677712,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-07-27 05:30:42.461698,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-07-27 06:31:16.423424,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-07-27 07:31:35.854391,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-07-27 08:30:48.144578,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-07-27 09:30:56.001345,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-07-27 04:32:47.452349,Tournament Match-Ups - Tournament Match-Ups - N. Korda vs J. Young Ko - Tournament Match-Ups ,Nelly Korda,0.022600000000000064,0.5348,0.5122
+2023-07-27 11:31:12.071490,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-07-27 12:30:45.078676,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-07-27 13:30:59.274060,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-07-27 14:30:58.253912,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-07-27 15:30:45.094396,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-07-27 07:31:38.123829,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Toronto Blue Jays,0.02239999999999999,0.1176,0.0952
 2023-07-27 05:30:37.582113,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Carmen's Crew,0.022200000000000004,0.0345,0.0123
 2023-07-27 13:30:52.290775,Womens World Cup 2023 - FIFA Womens World Cup 2023 - USA vs. The Field,The Field,0.022199999999999998,0.8,0.7778
 2023-07-27 10:32:15.577055,Boxing Lines - Andres Cortes vs Xavier Martinez - To Win the Bout,Xavier Martinez,0.022199999999999998,0.3448,0.3226
-2023-07-27 02:31:09.531852,Tournament Match-Ups - Tournament Match-Ups - N. Hojgaard v L. Glover - Tournament Match-Ups,Lucas Glover,0.01970000000000005,0.5652,0.5455
+2023-07-27 15:30:39.020158,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Nigeria (W),0.02020000000000001,0.1111,0.0909
 2023-07-27 13:30:52.250187,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,Nigeria (W),0.019499999999999997,0.0294,0.0099
 2023-07-27 04:32:46.975294,3M Open - 2/3 Balls - 1st Round 3-Balls - C. Bezuidenhout / D. Redman / M. Schwab - 1st Round 3-Balls,Matthias Schwab,0.019000000000000017,0.2857,0.2667
 2023-07-27 04:32:46.805080,3M Open - 2/3 Balls - 1st Round 3-Balls - Z. Blair / H. Hall / P. Haley II - 1st Round 3-Balls,Harry Hall,0.018900000000000028,0.4444,0.4255
 2023-07-27 04:32:47.419761,Tournament Match-Ups - Tournament Match-Ups - L. Ko vs G. Hall - Tournament Match-Ups ,Lydia Ko,0.01880000000000004,0.5744,0.5556
 2023-07-27 13:30:52.275474,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Confederation of the Winning Team,UEFA,0.01880000000000004,0.6552,0.6364
-2023-07-27 02:31:01.157649,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Gavin Newsom,0.01820000000000002,0.2,0.1818
 2023-07-27 05:30:37.582113,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Friday Beers,0.018200000000000004,0.0476,0.0294
 2023-07-27 13:30:52.425503,Soccer Specials - Transfer Specials - Kylian Mbappe to sign for before 4th September 2023,Newcastle,0.0182,0.0323,0.0141
 2023-07-27 07:31:38.084094,MLB Futures - MLB 2023 American League East - American League East Winner,Baltimore Orioles,0.018100000000000005,0.4348,0.4167
@@ -99,8 +97,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-27 13:30:52.250187,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,Spain (W),0.01419999999999999,0.3846,0.3704
 2023-07-27 13:30:52.425503,Soccer Specials - Transfer Specials - Kylian Mbappe to sign for before 4th September 2023,Manchester City,0.014099999999999998,0.0385,0.0244
 2023-07-27 05:30:35.919783,MLS - MLS 2023 - Winner,Inter Miami,0.014099999999999994,0.0667,0.0526
-2023-07-27 13:30:52.262104,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Straight Forecast,Spain (W) 1st / England (W) 2nd,0.013999999999999999,0.0909,0.0769
 2023-07-27 13:30:52.262104,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Straight Forecast,Spain (W) 1st / Germany (W) 2nd,0.013999999999999999,0.0909,0.0769
+2023-07-27 13:30:52.262104,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Straight Forecast,Spain (W) 1st / England (W) 2nd,0.013999999999999999,0.0909,0.0769
 2023-07-27 10:32:07.577702,Alien Betting - Where Will Alien Life Be Found First In 2023? - First Country To Find Alien Life,USA,0.013999999999999999,0.0909,0.0769
 2023-07-27 14:31:00.093875,MLB Futures - MLB 2023 American League Central - American League Central Winner,Cleveland Guardians,0.013899999999999968,0.2703,0.2564
 2023-07-27 10:32:07.158971,Womens World Cup 2023 - Group C - Outright,Japan (W),0.0131,0.2353,0.2222
@@ -109,85 +107,84 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-27 04:32:46.726894,Tournament Match-Ups - Tournament Match-Ups - J. Thomas vs E. Grillo - Tournament Match-Ups,Justin Thomas,0.012199999999999989,0.5,0.4878
 2023-07-27 12:30:40.922338,NCAA Football Specials - Who will be the starting QB for The Ohio State Buckeyes Game 1 of the 2023  Season - Starting QB Game 1,Devin Brown,0.011899999999999994,0.25,0.2381
 2023-07-27 14:30:58.857953,Regular Season Wins - 2023-24 Regular Season Wins - Kentucky - Regular Season Wins,Over 6½,0.011499999999999955,0.6667,0.6552
-2023-07-27 13:30:52.256751,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Norway (W),0.011199999999999995,0.0588,0.0476
-2023-07-27 07:31:38.061354,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Minnesota Twins,0.011199999999999995,0.0435,0.0323
 2023-07-27 07:31:38.061354,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Milwaukee Brewers,0.011199999999999995,0.0435,0.0323
+2023-07-27 07:31:38.061354,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Minnesota Twins,0.011199999999999995,0.0435,0.0323
+2023-07-27 13:30:52.256751,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Norway (W),0.011199999999999995,0.0588,0.0476
+2023-07-27 15:30:40.713968,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Cincinnati Bengals,0.011099999999999999,0.1111,0.1
 2023-07-27 13:30:52.240213,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Name The Finalists,Germany (W) & Spain (W),0.011099999999999999,0.1111,0.1
-2023-07-27 02:31:09.549848,Tournament Match-Ups - Tournament Match-Ups - T. Hoge v G. Higgo - Tournament Match-Ups,Tom Hoge,0.01100000000000001,0.5348,0.5238
 2023-07-27 13:30:52.268412,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Runner Up,Spain (W),0.010899999999999993,0.1538,0.1429
 2023-07-27 04:32:46.925101,3M Open - 2/3 Balls - 1st Round 3-Balls - V. Norrman / M. Hughes / S. Im - 1st Round 3-Balls,Mackenzie Hughes,0.010800000000000032,0.274,0.2632
 2023-07-27 13:30:52.425503,Soccer Specials - Transfer Specials - Kylian Mbappe to sign for before 4th September 2023,Chelsea,0.010700000000000001,0.0385,0.0278
 2023-07-27 09:30:46.969386,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - Winner,Club León,0.0102,0.0769,0.0667
-2023-07-27 09:30:57.889912,Boxing Lines - Andres Cortes vs Xavier Martinez - To Win the Bout,Xavier Martinez,0.010099999999999998,0.3226,0.3125
 2023-07-27 14:31:00.116384,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,0.010099999999999998,0.1053,0.0952
+2023-07-27 09:30:57.889912,Boxing Lines - Andres Cortes vs Xavier Martinez - To Win the Bout,Xavier Martinez,0.010099999999999998,0.3226,0.3125
 2023-07-27 12:30:46.217172,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,-0.010099999999999998,0.5455,0.5556
 2023-07-27 12:30:38.967929,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,Brazil (W),-0.0102,0.0667,0.0769
 2023-07-27 13:30:52.240213,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Name The Finalists,Australia (W) & Spain (W),-0.0102,0.0667,0.0769
-2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Michael Jordan,-0.0103,0.002,0.0123
 2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Justin Bieber,-0.0103,0.002,0.0123
-2023-07-27 02:31:09.549848,Tournament Match-Ups - Tournament Match-Ups - T. Hoge v G. Higgo - Tournament Match-Ups,Garrick Higgo,-0.010699999999999932,0.5348,0.5455
+2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Michael Jordan,-0.0103,0.002,0.0123
 2023-07-27 07:31:38.061354,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,New York Yankees,-0.010700000000000001,0.0278,0.0385
-2023-07-27 08:30:42.088098,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,USA (W),-0.011099999999999999,0.2667,0.2778
 2023-07-27 04:32:46.805080,3M Open - 2/3 Balls - 1st Round 3-Balls - Z. Blair / H. Hall / P. Haley II - 1st Round 3-Balls,Paul Haley II,-0.011099999999999999,0.2667,0.2778
-2023-07-27 13:30:52.785591,Alien Betting - To be revealed as an extra-terrestrial lifeform before 2025 - To be revealed as an alien before 2025,Kylie Jenner,-0.0111,0.0012,0.0123
-2023-07-27 13:30:52.785591,Alien Betting - To be revealed as an extra-terrestrial lifeform before 2025 - To be revealed as an alien before 2025,Joe Biden,-0.0111,0.0012,0.0123
-2023-07-27 13:30:52.785591,Alien Betting - To be revealed as an extra-terrestrial lifeform before 2025 - To be revealed as an alien before 2025,Meryl Streep,-0.0111,0.0012,0.0123
+2023-07-27 08:30:42.088098,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,USA (W),-0.011099999999999999,0.2667,0.2778
 2023-07-27 13:30:52.785591,Alien Betting - To be revealed as an extra-terrestrial lifeform before 2025 - To be revealed as an alien before 2025,George Clooney,-0.0111,0.0012,0.0123
-2023-07-27 12:30:38.967929,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,Australia (W),-0.011199999999999995,0.0476,0.0588
+2023-07-27 13:30:52.785591,Alien Betting - To be revealed as an extra-terrestrial lifeform before 2025 - To be revealed as an alien before 2025,Joe Biden,-0.0111,0.0012,0.0123
+2023-07-27 13:30:52.785591,Alien Betting - To be revealed as an extra-terrestrial lifeform before 2025 - To be revealed as an alien before 2025,Kylie Jenner,-0.0111,0.0012,0.0123
+2023-07-27 13:30:52.785591,Alien Betting - To be revealed as an extra-terrestrial lifeform before 2025 - To be revealed as an alien before 2025,Meryl Streep,-0.0111,0.0012,0.0123
 2023-07-27 07:31:38.123829,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Cleveland Guardians,-0.011199999999999995,0.0323,0.0435
+2023-07-27 12:30:38.967929,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,Australia (W),-0.011199999999999995,0.0476,0.0588
 2023-07-27 13:30:52.285818,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Group of Winning Team,Group E,-0.01150000000000001,0.3333,0.3448
+2023-07-27 15:30:40.713968,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Buffalo Bills,-0.011900000000000008,0.0833,0.0952
 2023-07-27 13:30:52.256751,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Republic of Korea (W),-0.012100000000000001,0.0123,0.0244
 2023-07-27 13:30:52.233549,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Riko Ueki,-0.012100000000000001,0.0123,0.0244
-2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Bob Iger,-0.012400000000000001,0.004,0.0164
 2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Barack Obama,-0.012400000000000001,0.004,0.0164
+2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Bob Iger,-0.012400000000000001,0.004,0.0164
 2023-07-27 13:30:52.233549,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Fridolina Rolfo,-0.012700000000000003,0.0196,0.0323
 2023-07-27 14:30:59.192504,Regular Season Wins - 2023-24 Regular Season Wins - USC - Regular Season Wins,Under 10½,-0.013299999999999979,0.6296,0.6429
 2023-07-27 13:30:52.268412,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Runner Up,Australia (W),-0.013899999999999996,0.1111,0.125
 2023-07-27 07:31:38.198988,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Logan Webb (SF),-0.013899999999999996,0.1111,0.125
-2023-07-27 10:32:07.549034,Quarterback - To be a subject of Netflix Quarterback Season 2 - To be  a subject of Netflix Quarterback Season 2,Geno Smith,-0.013999999999999999,0.0769,0.0909
 2023-07-27 09:30:46.969386,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - Winner,Philadelphia Union,-0.013999999999999999,0.0769,0.0909
+2023-07-27 10:32:07.549034,Quarterback - To be a subject of Netflix Quarterback Season 2 - To be  a subject of Netflix Quarterback Season 2,Geno Smith,-0.013999999999999999,0.0769,0.0909
 2023-07-27 10:32:07.549034,Quarterback - To be a subject of Netflix Quarterback Season 2 - To be  a subject of Netflix Quarterback Season 2,Mac Jones,-0.013999999999999999,0.0769,0.0909
 2023-07-27 07:31:38.061354,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Arizona Diamondbacks,-0.014099999999999998,0.0244,0.0385
 2023-07-27 07:31:38.123829,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,New York Yankees,-0.014399999999999996,0.0625,0.0769
-2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Steven Spielberg,-0.014599999999999998,0.005,0.0196
-2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Narendra Modi,-0.014599999999999998,0.005,0.0196
 2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Sergey Brin,-0.014599999999999998,0.005,0.0196
-2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Warren Buffet,-0.014599999999999998,0.005,0.0196
 2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Salman Rushdie,-0.014599999999999998,0.005,0.0196
-2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Lionel Messi,-0.014599999999999998,0.005,0.0196
-2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Madonna,-0.014599999999999998,0.005,0.0196
-2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Ariana Grande,-0.014599999999999998,0.005,0.0196
-2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Leonardo DiCaprio,-0.014599999999999998,0.005,0.0196
-2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Larry Page,-0.014599999999999998,0.005,0.0196
-2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Kim Kardashian,-0.014599999999999998,0.005,0.0196
-2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Arnold Schwarzenegger,-0.014599999999999998,0.005,0.0196
+2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Steven Spielberg,-0.014599999999999998,0.005,0.0196
 2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Rupert Murdoch,-0.014599999999999998,0.005,0.0196
 2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Patrick Mahomes,-0.014599999999999998,0.005,0.0196
+2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Narendra Modi,-0.014599999999999998,0.005,0.0196
+2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Kim Kardashian,-0.014599999999999998,0.005,0.0196
+2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Warren Buffet,-0.014599999999999998,0.005,0.0196
+2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Arnold Schwarzenegger,-0.014599999999999998,0.005,0.0196
+2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Madonna,-0.014599999999999998,0.005,0.0196
+2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Lionel Messi,-0.014599999999999998,0.005,0.0196
+2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Ariana Grande,-0.014599999999999998,0.005,0.0196
+2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Larry Page,-0.014599999999999998,0.005,0.0196
+2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Leonardo DiCaprio,-0.014599999999999998,0.005,0.0196
 2023-07-27 13:30:52.785591,Alien Betting - To be revealed as an extra-terrestrial lifeform before 2025 - To be revealed as an alien before 2025,Howard Stern,-0.014700000000000001,0.0017,0.0164
-2023-07-27 04:32:47.194719,3M Open - 2/3 Balls - 1st Round 3-Balls - R. Armour / A. Rai / D. Lipsky - 1st Round 3-Balls,David Lipsky,-0.014900000000000024,0.3077,0.3226
 2023-07-27 13:30:52.275474,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Confederation of the Winning Team,CONCACAF,-0.014900000000000024,0.3077,0.3226
+2023-07-27 04:32:47.194719,3M Open - 2/3 Balls - 1st Round 3-Balls - R. Armour / A. Rai / D. Lipsky - 1st Round 3-Balls,David Lipsky,-0.014900000000000024,0.3077,0.3226
 2023-07-27 13:30:52.343899,Womens World Cup 2023 - Group E - Not To Advance From Group,Portugal (W),-0.015300000000000091,0.9259,0.9412
-2023-07-27 04:32:47.113028,3M Open - 2/3 Balls - 1st Round 3-Balls - J.J. Spaun / G. Higgo / L. Griffin - 1st Round 3-Balls,Garrick Higgo,-0.015400000000000025,0.3846,0.4
 2023-07-27 04:32:46.805080,3M Open - 2/3 Balls - 1st Round 3-Balls - Z. Blair / H. Hall / P. Haley II - 1st Round 3-Balls,Zac Blair,-0.015400000000000025,0.3846,0.4
-2023-07-27 04:32:47.250091,3M Open - 2/3 Balls - 1st Round 3-Balls - MJ Daffue / B. Matthews / K. Roy - 1st Round 3-Balls,Brandon Matthews,-0.01629999999999998,0.2778,0.2941
+2023-07-27 04:32:47.113028,3M Open - 2/3 Balls - 1st Round 3-Balls - J.J. Spaun / G. Higgo / L. Griffin - 1st Round 3-Balls,Garrick Higgo,-0.015400000000000025,0.3846,0.4
 2023-07-27 04:32:47.520015,The Evian Championship - 2/3 Balls - 1st Round 3-Balls - N. Hataoka / I.G. Chun / L. Ko - 1st Round 3-Balls,In Gee Chun,-0.01629999999999998,0.2778,0.2941
+2023-07-27 04:32:47.250091,3M Open - 2/3 Balls - 1st Round 3-Balls - MJ Daffue / B. Matthews / K. Roy - 1st Round 3-Balls,Brandon Matthews,-0.01629999999999998,0.2778,0.2941
 2023-07-27 12:30:40.898449,NCAA Football Specials - Who will be the starting QB for The Alabama Crimson Tide Game 1 of the 2023  Season - Starting QB Game 1,Tyler Buchner,-0.016699999999999993,0.4,0.4167
 2023-07-27 07:31:38.061354,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,San Diego Padres,-0.0174,0.0196,0.037
-2023-07-27 13:30:52.785591,Alien Betting - To be revealed as an extra-terrestrial lifeform before 2025 - To be revealed as an alien before 2025,Kanye West,-0.017599999999999998,0.002,0.0196
-2023-07-27 13:30:52.785591,Alien Betting - To be revealed as an extra-terrestrial lifeform before 2025 - To be revealed as an alien before 2025,LeBron James (LAL),-0.017599999999999998,0.002,0.0196
 2023-07-27 13:30:52.785591,Alien Betting - To be revealed as an extra-terrestrial lifeform before 2025 - To be revealed as an alien before 2025,Oprah Winfrey,-0.017599999999999998,0.002,0.0196
+2023-07-27 13:30:52.785591,Alien Betting - To be revealed as an extra-terrestrial lifeform before 2025 - To be revealed as an alien before 2025,LeBron James (LAL),-0.017599999999999998,0.002,0.0196
 2023-07-27 13:30:52.785591,Alien Betting - To be revealed as an extra-terrestrial lifeform before 2025 - To be revealed as an alien before 2025,Rihanna,-0.017599999999999998,0.002,0.0196
+2023-07-27 13:30:52.785591,Alien Betting - To be revealed as an extra-terrestrial lifeform before 2025 - To be revealed as an alien before 2025,Kanye West,-0.017599999999999998,0.002,0.0196
 2023-07-27 14:30:49.305229,Womens World Cup 2023 - Group B - Outright,Canada (W),-0.017600000000000005,0.3333,0.3509
 2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Xi Jinping,-0.017800000000000003,0.0066,0.0244
 2023-07-27 10:32:07.549034,Quarterback - To be a subject of Netflix Quarterback Season 2 - To be  a subject of Netflix Quarterback Season 2,Justin Herbert,-0.0179,0.125,0.1429
 2023-07-27 10:32:15.577055,Boxing Lines - Andres Cortes vs Xavier Martinez - To Win the Bout,Andres Cortes,-0.018100000000000005,0.7222,0.7403
 2023-07-27 07:31:38.102581,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,-0.018199999999999994,0.8,0.8182
 2023-07-27 11:31:13.332144,Boxing Lines - Rohan Polanco vs Cesar Francis - To Win the Bout,Cesar Francis,-0.018699999999999994,0.241,0.2597
-2023-07-27 13:30:52.256751,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Brazil (W),-0.018799999999999983,0.3448,0.3636
 2023-07-27 04:32:47.250091,3M Open - 2/3 Balls - 1st Round 3-Balls - MJ Daffue / B. Matthews / K. Roy - 1st Round 3-Balls,Kevin Roy,-0.018799999999999983,0.3448,0.3636
+2023-07-27 13:30:52.256751,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Brazil (W),-0.018799999999999983,0.3448,0.3636
 2023-07-27 07:31:38.155962,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Arizona Diamondbacks,-0.018800000000000004,0.0526,0.0714
 2023-07-27 07:31:38.084094,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,-0.01880000000000004,0.5556,0.5744
-2023-07-27 02:31:09.646011,Tournament Match-Ups - Tournament Match-Ups - C. Hadley v C. Tarren - Tournament Match-Ups,Callum Tarren,-0.01880000000000004,0.5556,0.5744
 2023-07-27 07:31:38.155962,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Miami Marlins,-0.019000000000000003,0.0435,0.0625
 2023-07-27 13:30:52.290775,Womens World Cup 2023 - FIFA Womens World Cup 2023 - USA vs. The Field,USA,-0.019000000000000017,0.2667,0.2857
 2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Joe Biden,-0.0194,0.005,0.0244
@@ -197,22 +194,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-27 04:32:47.452349,Tournament Match-Ups - Tournament Match-Ups - N. Korda vs J. Young Ko - Tournament Match-Ups ,Jin Young Ko,-0.02079999999999993,0.5348,0.5556
 2023-07-27 04:32:47.430697,Tournament Match-Ups - Tournament Match-Ups - L. Maguire vs R. Zhang - Tournament Match-Ups ,Leona Maguire,-0.02079999999999993,0.5348,0.5556
 2023-07-27 13:30:52.785591,Alien Betting - To be revealed as an extra-terrestrial lifeform before 2025 - To be revealed as an alien before 2025,Harry Styles,-0.021900000000000003,0.0025,0.0244
-2023-07-27 13:30:52.785591,Alien Betting - To be revealed as an extra-terrestrial lifeform before 2025 - To be revealed as an alien before 2025,Taylor Swift,-0.021900000000000003,0.0025,0.0244
 2023-07-27 13:30:52.785591,Alien Betting - To be revealed as an extra-terrestrial lifeform before 2025 - To be revealed as an alien before 2025,Madonna,-0.021900000000000003,0.0025,0.0244
+2023-07-27 13:30:52.785591,Alien Betting - To be revealed as an extra-terrestrial lifeform before 2025 - To be revealed as an alien before 2025,Taylor Swift,-0.021900000000000003,0.0025,0.0244
 2023-07-27 13:30:52.785591,Alien Betting - To be revealed as an extra-terrestrial lifeform before 2025 - To be revealed as an alien before 2025,Elon Musk,-0.021900000000000003,0.0025,0.0244
-2023-07-27 10:32:13.898791,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-07-27 14:30:58.232267,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-07-27 15:30:45.082809,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-07-27 11:31:12.010300,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-07-27 12:30:45.066256,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-07-27 07:31:35.829552,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-07-27 03:30:56.244363,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-07-27 10:32:13.898791,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-07-27 04:32:43.651394,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-07-27 09:30:55.975495,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-07-27 13:30:59.256852,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-07-27 08:30:48.132723,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-07-27 14:30:58.232267,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-07-27 07:31:35.829552,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-07-27 06:31:16.406474,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-07-27 05:30:42.449172,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-07-27 04:32:43.651394,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-07-27 03:30:56.244363,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-07-27 02:31:07.328569,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-07-27 06:31:16.406474,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-07-27 12:30:45.066256,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-07-27 11:31:06.957114,Joe Biden Specials - Will Joe Biden be impeached during his first term as President? - Will Joe Biden be impeached during his first term as President?,No,-0.022800000000000042,0.7333,0.7561
 2023-07-27 07:31:38.072206,MLB Futures - MLB 2023 National League West - National League West Winner,Arizona Diamondbacks,-0.02310000000000001,0.0769,0.1
 2023-07-27 09:30:46.969386,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - Winner,Club América,-0.02310000000000001,0.0769,0.1
@@ -220,21 +217,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-27 09:30:46.969386,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - Winner,Seattle Sounders,-0.023200000000000002,0.0244,0.0476
 2023-07-27 11:31:06.963949,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,Yes,-0.023799999999999932,0.6429,0.6667
 2023-07-27 10:32:07.158971,Womens World Cup 2023 - Group C - Outright,Spain (W),-0.023799999999999932,0.8333,0.8571
-2023-07-27 04:32:47.160639,3M Open - 2/3 Balls - 1st Round 3-Balls - E. Grillo / J.T. Poston / C. Champ - 1st Round 3-Balls,JT Poston,-0.023799999999999988,0.3333,0.3571
-2023-07-27 04:32:46.873216,3M Open - 2/3 Balls - 1st Round 3-Balls - N. Hardy / B. Horschel / T. Hoge - 1st Round 3-Balls,Nick Hardy,-0.023799999999999988,0.3333,0.3571
 2023-07-27 04:32:46.838315,3M Open - 2/3 Balls - 1st Round 3-Balls - A. Hadwin / P. Rodgers / R. Fox - 1st Round 3-Balls,Patrick Rodgers,-0.023799999999999988,0.3333,0.3571
+2023-07-27 04:32:47.160639,3M Open - 2/3 Balls - 1st Round 3-Balls - E. Grillo / J.T. Poston / C. Champ - 1st Round 3-Balls,JT Poston,-0.023799999999999988,0.3333,0.3571
 2023-07-27 10:32:07.549034,Quarterback - To be a subject of Netflix Quarterback Season 2 - To be  a subject of Netflix Quarterback Season 2,Jimmy Garoppolo,-0.023799999999999988,0.1429,0.1667
-2023-07-27 02:31:09.531852,Tournament Match-Ups - Tournament Match-Ups - N. Hojgaard v L. Glover - Tournament Match-Ups,Nicolai Hojgaard,-0.023800000000000043,0.5,0.5238
+2023-07-27 04:32:46.873216,3M Open - 2/3 Balls - 1st Round 3-Balls - N. Hardy / B. Horschel / T. Hoge - 1st Round 3-Balls,Nick Hardy,-0.023799999999999988,0.3333,0.3571
 2023-07-27 13:30:52.233549,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Esther Gonzalez,-0.024,0.0385,0.0625
-2023-07-27 13:30:52.240213,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Name The Finalists,Australia (W) & USA (W),-0.0242,0.0667,0.0909
 2023-07-27 07:31:38.155962,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,San Francisco Giants,-0.0242,0.0667,0.0909
+2023-07-27 13:30:52.240213,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Name The Finalists,Australia (W) & USA (W),-0.0242,0.0667,0.0909
 2023-07-27 04:32:47.419761,Tournament Match-Ups - Tournament Match-Ups - L. Ko vs G. Hall - Tournament Match-Ups ,Georgia Hall,-0.024399999999999977,0.4878,0.5122
 2023-07-27 13:30:52.233549,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Alex Morgan,-0.0245,0.0588,0.0833
 2023-07-27 14:30:58.812162,Regular Season Wins - 2023-24 Regular Season Wins - Iowa - Regular Season Wins,Under 7½,-0.025499999999999967,0.4,0.4255
-2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Mark Zuckerberg,-0.0257,0.0066,0.0323
-2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Drew Barrymore,-0.0257,0.0066,0.0323
-2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,MrBeast,-0.0257,0.0066,0.0323
 2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Dwayne Johnson,-0.0257,0.0066,0.0323
+2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Mark Zuckerberg,-0.0257,0.0066,0.0323
+2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,MrBeast,-0.0257,0.0066,0.0323
+2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Drew Barrymore,-0.0257,0.0066,0.0323
 2023-07-27 07:31:38.334004,Boxing Lines - Rohan Polanco vs Cesar Francis - To Win the Bout,Cesar Francis,-0.026000000000000023,0.2597,0.2857
 2023-07-27 11:31:13.322501,Boxing Lines - Abraham Nova vs Jonathan Romero - To Win the Bout,Abraham Nova,-0.02639999999999998,0.8403,0.8667
 2023-07-27 04:32:46.940774,3M Open - 2/3 Balls - 1st Round 3-Balls - M. Laird / T. Duncan / K. Mitchell - 1st Round 3-Balls,Tyler Duncan,-0.02679999999999999,0.2857,0.3125
@@ -242,22 +238,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-27 07:31:38.198988,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Blake Snell (SD),-0.02779999999999999,0.2222,0.25
 2023-07-27 09:30:46.969386,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - Winner,Chivas Guadalajara,-0.028199999999999996,0.0385,0.0667
 2023-07-27 13:30:52.347972,Womens World Cup 2023 - Group E - To Advance From Group,USA (W),-0.02859999999999996,0.9615,0.9901
-2023-07-27 13:30:52.785591,Alien Betting - To be revealed as an extra-terrestrial lifeform before 2025 - To be revealed as an alien before 2025,Tom Cruise,-0.029,0.0033,0.0323
 2023-07-27 13:30:52.785591,Alien Betting - To be revealed as an extra-terrestrial lifeform before 2025 - To be revealed as an alien before 2025,Donald Trump,-0.029,0.0033,0.0323
+2023-07-27 13:30:52.785591,Alien Betting - To be revealed as an extra-terrestrial lifeform before 2025 - To be revealed as an alien before 2025,Tom Cruise,-0.029,0.0033,0.0323
 2023-07-27 13:30:52.256751,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Italy (W),-0.029299999999999993,0.0476,0.0769
 2023-07-27 13:30:52.256751,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Switzerland (W),-0.029299999999999993,0.0476,0.0769
 2023-07-27 04:32:47.261063,3M Open - 2/3 Balls - 1st Round 3-Balls - L. Aberg / P. Kuest / R. Gerard - 1st Round 3-Balls,Peter Kuest,-0.030299999999999994,0.303,0.3333
 2023-07-27 08:30:49.363294,Boxing Lines - Eithan James vs James Moorcroft - To Win the Bout,Eithan James,-0.03080000000000005,0.8095,0.8403
-2023-07-27 13:30:52.256751,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,England (W),-0.031799999999999995,0.4444,0.4762
 2023-07-27 10:32:07.549034,Quarterback - To be a subject of Netflix Quarterback Season 2 - To be  a subject of Netflix Quarterback Season 2,Lamar Jackson,-0.031799999999999995,0.1111,0.1429
-2023-07-27 13:30:52.785591,Alien Betting - To be revealed as an extra-terrestrial lifeform before 2025 - To be revealed as an alien before 2025,Mark Zuckerberg,-0.0319,0.0066,0.0385
+2023-07-27 13:30:52.256751,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,England (W),-0.031799999999999995,0.4444,0.4762
 2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Vladimir Putin,-0.0319,0.0066,0.0385
+2023-07-27 13:30:52.785591,Alien Betting - To be revealed as an extra-terrestrial lifeform before 2025 - To be revealed as an alien before 2025,Mark Zuckerberg,-0.0319,0.0066,0.0385
 2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Sigourney Weaver,-0.0319,0.0066,0.0385
-2023-07-27 04:32:46.925101,3M Open - 2/3 Balls - 1st Round 3-Balls - V. Norrman / M. Hughes / S. Im - 1st Round 3-Balls,Vincent Norrman,-0.032299999999999995,0.3125,0.3448
 2023-07-27 04:32:47.123838,3M Open - 2/3 Balls - 1st Round 3-Balls - K.H. Lee / Cam. Young / S. Theegala - 1st Round 3-Balls,Sahith Theegala,-0.032299999999999995,0.3125,0.3448
+2023-07-27 04:32:46.925101,3M Open - 2/3 Balls - 1st Round 3-Balls - V. Norrman / M. Hughes / S. Im - 1st Round 3-Balls,Vincent Norrman,-0.032299999999999995,0.3125,0.3448
 2023-07-27 13:30:52.250187,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,Japan (W),-0.034100000000000005,0.0909,0.125
-2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Jeff Bezos,-0.0397,0.0079,0.0476
 2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Bill Gates,-0.0397,0.0079,0.0476
+2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Jeff Bezos,-0.0397,0.0079,0.0476
 2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Donald Trump,-0.0397,0.0079,0.0476
 2023-07-27 07:31:38.135035,MLB Futures - MLB 2023 National League Central - National League Central Winner,Cincinnati Reds,-0.0398,0.3448,0.3846
 2023-07-27 13:30:52.256751,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Japan (W),-0.04099999999999998,0.2667,0.3077
@@ -265,8 +261,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-27 07:31:38.123829,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Tampa Bay Rays,-0.042200000000000015,0.2703,0.3125
 2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Elon Musk,-0.0429,0.0196,0.0625
 2023-07-27 04:32:46.975294,3M Open - 2/3 Balls - 1st Round 3-Balls - C. Bezuidenhout / D. Redman / M. Schwab - 1st Round 3-Balls,Doc Redman,-0.04459999999999997,0.3125,0.3571
-2023-07-27 05:30:37.582113,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Bleed Green,-0.04849999999999999,0.1333,0.1818
 2023-07-27 05:30:37.582113,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Nasty Nati,-0.04849999999999999,0.1333,0.1818
+2023-07-27 05:30:37.582113,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Bleed Green,-0.04849999999999999,0.1333,0.1818
 2023-07-27 10:32:15.556252,Boxing Lines - Abraham Nova vs Jonathan Romero - To Win the Bout,Abraham Nova,-0.04999999999999993,0.8667,0.9167
 2023-07-27 13:30:52.256751,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,USA (W),-0.051100000000000034,0.6364,0.6875
 2023-07-27 13:30:52.777650,Alien Betting - First to leave Earth on a spacecraft with extra-terrestrial beings - First To Leave Earth With Aliens,Tom Cruise,-0.0526,0.0099,0.0625
