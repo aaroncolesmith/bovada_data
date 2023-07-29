@@ -1,7 +1,8 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2023-07-29 03:31:44.129173,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Heartfire,0.08579999999999999,0.3636,0.2778
-2023-07-29 03:31:44.129173,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Boeheim's Army,0.07500000000000001,0.2,0.125
+2023-07-29 15:31:54.984719,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Sweden (W),0.08329999999999999,0.3333,0.25
 2023-07-29 09:32:20.416665,MLB Futures - MLB 2023 National League West - National League West Winner,Los Angeles Dodgers,0.07050000000000001,0.9167,0.8462
+2023-07-29 15:31:54.978429,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,France (W),0.0676,0.2105,0.1429
+2023-07-29 15:31:54.984719,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,France (W),0.055900000000000005,0.3636,0.3077
 2023-07-29 11:31:35.801327,Premiership - Scotland Premiership 2023/24 - Winner,Celtic,0.052200000000000024,0.6078,0.5556
 2023-07-29 09:32:20.453095,MLB Futures - MLB 2023 National League Central - National League Central Winner,Cincinnati Reds,0.05130000000000001,0.3846,0.3333
 2023-07-29 14:32:22.657828,Team Specials - Washington Commanders - WAS Commanders Specials,T. McLaurin 1500+ Reg Season Rec Yards,0.05080000000000001,0.2326,0.1818
@@ -17,61 +18,79 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-29 14:32:20.293799,Las Vegas Raiders - 2023-24 Exact Regular Season Wins - Exact Regular Season Wins - Las Vegas Raiders,4,0.036199999999999996,0.1538,0.1176
 2023-07-29 13:32:04.073194,Round Match-Ups - 3rd Round Match-Up - J.T. Poston v K. Mitchell - 3rd Round Match-Up,Keith Mitchell,0.03489999999999999,0.5,0.4651
 2023-07-29 14:32:20.293799,Las Vegas Raiders - 2023-24 Exact Regular Season Wins - Exact Regular Season Wins - Las Vegas Raiders,2,0.0334,0.0769,0.0435
-2023-07-29 03:31:44.129173,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Nasty Nati,0.033399999999999985,0.1667,0.1333
 2023-07-29 07:31:24.151420,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Nasty Nati,0.033300000000000024,0.2,0.1667
 2023-07-29 14:32:20.307154,Las Vegas Raiders - 2023-24 Regular Season Wins O/U - Regular Season Wins - Las Vegas Raiders O/U  5.5,Under 5.5,0.033299999999999996,0.4878,0.4545
+2023-07-29 15:31:54.991353,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Confederation of the Winning Team,UEFA,0.032299999999999995,0.6875,0.6552
+2023-07-29 15:31:54.978429,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,Sweden (W),0.031799999999999995,0.1429,0.1111
+2023-07-29 15:31:54.957871,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,France (W),0.030699999999999998,0.0833,0.0526
 2023-07-29 14:32:20.514226,New England Patriots - 2023-24 Regular Season Wins O/U - Regular Season Wins - New England Patriots O/U  7.5,Under 7.5,0.025599999999999956,0.6,0.5744
 2023-07-29 08:32:20.332352,Superettan - Superettan 2023 - Winner,Västerås SK,0.025499999999999967,0.4255,0.4
 2023-07-29 09:32:20.453095,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,0.025300000000000003,0.1429,0.1176
 2023-07-29 14:32:24.273813,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Kevin Gausman (TOR),0.023800000000000016,0.1905,0.1667
-2023-07-29 13:32:02.103911,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-07-29 15:31:55.006910,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Group of Winning Team,Group F,0.023799999999999988,0.1667,0.1429
+2023-07-29 15:31:54.984719,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Denmark (W),0.02310000000000001,0.1,0.0769
 2023-07-29 12:31:15.433475,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-07-29 09:32:18.926781,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-07-29 11:31:44.244320,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-07-29 10:31:09.658979,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-07-29 15:32:06.755720,Round Match-Ups - 3rd Round Match-Up - D. Lipsky v B. Horschel - 3rd Round Match-Up,Billy Horschel,0.022600000000000064,0.5348,0.5122
+2023-07-29 13:32:02.103911,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-07-29 11:31:44.244320,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-07-29 06:31:08.945806,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-07-29 08:32:29.335343,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-07-29 14:32:23.253624,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-07-29 04:32:18.027683,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-07-29 09:32:18.926781,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-07-29 05:31:08.715149,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-07-29 14:32:23.253624,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-07-29 08:32:29.335343,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-07-29 07:31:34.912626,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-07-29 03:31:51.253966,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-07-29 04:32:18.027683,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-07-29 15:31:57.873674,AFC South - AFC South 2023/24 - AFC South Winner,Jacksonville Jaguars,0.022600000000000064,0.6226,0.6
+2023-07-29 15:32:04.420600,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-07-29 14:32:20.317627,Las Vegas Raiders - 2023-24 Regular Season Wins O/U - Regular Season Wins - Las Vegas Raiders O/U  7.5,Under 7.5,0.022599999999999953,0.7101,0.6875
 2023-07-29 14:32:20.293799,Las Vegas Raiders - 2023-24 Exact Regular Season Wins - Exact Regular Season Wins - Las Vegas Raiders,3,0.022000000000000006,0.1053,0.0833
+2023-07-29 15:32:03.031239,Team Specials - Baltimore Ravens - BAL Ravens Specials,O. Beckham Jr 75+ Rec Yards in 8+ Individual Reg Season Games,0.021999999999999964,0.3077,0.2857
 2023-07-29 06:30:59.722688,WNBA Futures - WNBA Awards - Regular Season MVP,A'ja Wilson (LVA),0.021699999999999997,0.4762,0.4545
 2023-07-29 06:31:11.540104,Round Match-Ups - 3rd Round Match-Up - C.T. Pan v N. Lashley - 3rd Round Match-Up,Nate Lashley,0.02169999999999994,0.5455,0.5238
 2023-07-29 07:31:37.065659,Round Match-Ups - 3rd Round Match-Up - J.T. Poston v K. Mitchell - 3rd Round Match-Up,JT Poston,0.02079999999999993,0.5556,0.5348
-2023-07-29 09:32:21.069195,Round Match-Ups - 3rd Round Match-Up - T. Finau v H. Matsuyama - 3rd Round Match-Up,Tony Finau,0.02079999999999993,0.5556,0.5348
 2023-07-29 13:32:04.090053,Round Match-Ups - 3rd Round Match-Up - L. Aberg v C. Davis - 3rd Round Match-Up,Ludvig Aberg,0.02079999999999993,0.5556,0.5348
-2023-07-29 03:31:44.129173,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Bleed Green,0.02049999999999999,0.1538,0.1333
+2023-07-29 09:32:21.069195,Round Match-Ups - 3rd Round Match-Up - T. Finau v H. Matsuyama - 3rd Round Match-Up,Tony Finau,0.02079999999999993,0.5556,0.5348
+2023-07-29 15:31:54.998846,Womens World Cup 2023 - FIFA Womens World Cup 2023 - First Time Winner?,No,0.020699999999999996,0.4651,0.4444
 2023-07-29 14:32:20.322906,Las Vegas Raiders - 2023-24 Regular Season Wins O/U - Regular Season Wins - Las Vegas Raiders O/U  9.5,Under 9.5,0.020100000000000007,0.8462,0.8261
 2023-07-29 08:32:31.325532,Round Match-Ups - 3rd Round Match-Up - C.T. Pan v N. Lashley - 3rd Round Match-Up,Nate Lashley,0.01970000000000005,0.5652,0.5455
 2023-07-29 13:32:04.161849,Round Match-Ups - 3rd Round Match-Up - V. Norrman v G. Higgo - 3rd Round Match-Up,Vincent Norrman,0.01970000000000005,0.5652,0.5455
 2023-07-29 09:32:20.983369,Round Match-Ups - 3rd Round Match-Up - J.T. Poston v K. Mitchell - 3rd Round Match-Up,JT Poston,0.01880000000000004,0.5744,0.5556
-2023-07-29 03:31:44.129173,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Friday Beers,0.018099999999999998,0.0769,0.0588
 2023-07-29 10:31:01.977040,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,USA (W),0.016699999999999993,0.2667,0.25
+2023-07-29 15:31:55.013138,Womens World Cup 2023 - FIFA Womens World Cup 2023 - USA vs. The Field,USA,0.016699999999999993,0.2667,0.25
 2023-07-29 11:31:36.585567,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,Brazil (W),0.016600000000000004,0.0833,0.0667
 2023-07-29 13:31:51.651780,MLS - MLS 2023 - Winner,Inter Miami,0.016600000000000004,0.0833,0.0667
+2023-07-29 15:31:54.964841,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Eugenie Le Sommer,0.0157,0.0435,0.0278
+2023-07-29 15:31:54.964841,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Fridolina Rolfo,0.014900000000000004,0.0345,0.0196
 2023-07-29 14:32:24.399564,Boxing Lines - Nonito Donaire vs Alejandro Santiago - To Win the Bout,Nonito Donaire,0.014800000000000035,0.6226,0.6078
 2023-07-29 14:32:20.508883,New England Patriots - 2023-24 Regular Season Wins O/U - Regular Season Wins - New England Patriots O/U  5.5,Under 5.5,0.01479999999999998,0.3922,0.3774
 2023-07-29 14:32:20.519505,New England Patriots - 2023-24 Regular Season Wins O/U - Regular Season Wins - New England Patriots O/U  9.5,Under 9.5,0.014200000000000101,0.8403,0.8261
 2023-07-29 09:32:20.408115,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Los Angeles Dodgers,0.013899999999999996,0.1739,0.16
 2023-07-29 09:32:20.408115,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Atlanta Braves,0.011300000000000004,0.2439,0.2326
-2023-07-29 08:32:20.270176,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,St. Pauli,0.011099999999999999,0.1111,0.1
 2023-07-29 07:31:24.151420,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,The Ville,0.011099999999999999,0.1111,0.1
+2023-07-29 08:32:20.270176,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,St. Pauli,0.011099999999999999,0.1111,0.1
 2023-07-29 14:32:20.503595,New England Patriots - 2023-24 Regular Season Wins O/U - Regular Season Wins - New England Patriots O/U  3.5,Under 3.5,0.010899999999999993,0.1538,0.1429
+2023-07-29 15:31:54.971296,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Name The Finalists,Germany (W) & Sweden (W),0.010700000000000001,0.0385,0.0278
+2023-07-29 15:31:54.971296,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Name The Finalists,France (W) & USA (W),0.0102,0.0769,0.0667
+2023-07-29 15:31:54.971296,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Name The Finalists,France (W) & Spain (W),0.0102,0.0769,0.0667
 2023-07-29 09:32:20.425342,MLB Futures - MLB 2023 American League East - American League East Winner,Baltimore Orioles,0.010099999999999998,0.4545,0.4444
+2023-07-29 15:32:03.031239,Team Specials - Baltimore Ravens - BAL Ravens Specials,Baltimore Ravens to score 1+ Touchdown in every Regular Season Game,-0.010099999999999998,0.5455,0.5556
 2023-07-29 14:32:20.508883,New England Patriots - 2023-24 Regular Season Wins O/U - Regular Season Wins - New England Patriots O/U  5.5,Over 5.5,-0.010099999999999998,0.6774,0.6875
-2023-07-29 14:32:22.460406,Team Specials - Green Bay Packers - GB Packers Specials,Green Bay Packers to beat Chicago Bears On the Road and at Home in the Regular Season,-0.010099999999999998,0.3125,0.3226
 2023-07-29 14:32:24.399564,Boxing Lines - Nonito Donaire vs Alejandro Santiago - To Win the Bout,Alejandro Santiago,-0.010099999999999998,0.4444,0.4545
 2023-07-29 14:32:22.406852,Team Specials - Cleveland Browns - CLE Browns Specials,Myles Garrett To Record 15+ Sacks in the Regular Season,-0.010099999999999998,0.5455,0.5556
+2023-07-29 15:32:03.429030,Team Specials - Pittsburgh Steelers - PIT Steelers Specials,Pittsburgh Steelers to score 1+ Touchdown in every Regular Season Game,-0.010099999999999998,0.3125,0.3226
+2023-07-29 14:32:22.460406,Team Specials - Green Bay Packers - GB Packers Specials,Green Bay Packers to beat Chicago Bears On the Road and at Home in the Regular Season,-0.010099999999999998,0.3125,0.3226
 2023-07-29 10:31:01.977040,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,Brazil (W),-0.0102,0.0667,0.0769
 2023-07-29 08:32:20.270176,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Schalke 04,-0.010399999999999993,0.2222,0.2326
 2023-07-29 14:32:22.460406,Team Specials - Green Bay Packers - GB Packers Specials,Jordan Love To Throw 30+ Passing Touchdowns in the Regular Season,-0.010499999999999982,0.2,0.2105
 2023-07-29 14:32:20.301496,Las Vegas Raiders - 2023-24 Regular Season Wins O/U - Regular Season Wins - Las Vegas Raiders O/U  3.5,Over 3.5,-0.010700000000000043,0.875,0.8857
 2023-07-29 14:32:20.519505,New England Patriots - 2023-24 Regular Season Wins O/U - Regular Season Wins - New England Patriots O/U  9.5,Over 9.5,-0.010800000000000004,0.2273,0.2381
+2023-07-29 15:31:55.006910,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Group of Winning Team,Group D,-0.010899999999999993,0.1429,0.1538
+2023-07-29 15:31:54.984719,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Canada (W),-0.010899999999999993,0.1429,0.1538
 2023-07-29 14:32:22.460406,Team Specials - Green Bay Packers - GB Packers Specials,Christian Watson To Score 10+ Receiving Touchdowns in the Regular Season,-0.010899999999999993,0.1429,0.1538
+2023-07-29 15:31:54.971296,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Name The Finalists,Australia (W) & USA (W),-0.011199999999999995,0.0323,0.0435
 2023-07-29 14:32:20.293799,Las Vegas Raiders - 2023-24 Exact Regular Season Wins - Exact Regular Season Wins - Las Vegas Raiders,11,-0.011199999999999995,0.0476,0.0588
+2023-07-29 15:32:03.031239,Team Specials - Baltimore Ravens - BAL Ravens Specials,Lamar Jackson To Throw 30+ Passing Touchdowns in the Regular Season,-0.01150000000000001,0.3333,0.3448
 2023-07-29 14:32:22.460406,Team Specials - Green Bay Packers - GB Packers Specials,Green Bay Packers To Reach NFC Championship Game,-0.011900000000000008,0.0833,0.0952
 2023-07-29 08:32:20.332352,Superettan - Superettan 2023 - Winner,GAIS,-0.012899999999999995,0.1538,0.1667
 2023-07-29 14:32:24.273813,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Shane McClanahan (TB),-0.013899999999999996,0.2083,0.2222
@@ -83,30 +102,42 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-29 14:32:24.247200,MLB Futures - MLB 2023 National League Central - National League Central Winner,Cincinnati Reds,-0.01419999999999999,0.3704,0.3846
 2023-07-29 08:32:20.270176,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Kaiserslautern,-0.014499999999999999,0.0149,0.0294
 2023-07-29 14:32:22.406852,Team Specials - Cleveland Browns - CLE Browns Specials,Deshaun Watson To Throw 30+ Passing Touchdowns in the Regular Season,-0.01469999999999999,0.2353,0.25
+2023-07-29 15:31:54.971296,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Name The Finalists,Australia (W) & Spain (W),-0.015300000000000001,0.0323,0.0476
+2023-07-29 15:31:54.998846,Womens World Cup 2023 - FIFA Womens World Cup 2023 - First Time Winner?,Yes,-0.01539999999999997,0.6,0.6154
+2023-07-29 15:32:03.429030,Team Specials - Pittsburgh Steelers - PIT Steelers Specials,Pittsburgh Steelers to beat Cleveland Browns On the Road and at Home in the Regular Season,-0.015400000000000025,0.2703,0.2857
 2023-07-29 14:32:22.657828,Team Specials - Washington Commanders - WAS Commanders Specials,T. McLaurin 1500+ Reg Season Rec Yards & WAS Commanders 7+ Reg Season Wins,-0.015700000000000006,0.1176,0.1333
 2023-07-29 14:32:20.322906,Las Vegas Raiders - 2023-24 Regular Season Wins O/U - Regular Season Wins - Las Vegas Raiders O/U  9.5,Over 9.5,-0.015899999999999997,0.2222,0.2381
 2023-07-29 14:32:22.635114,Team Specials - Seattle Seahawks - SE Seahawks Specials,SEA Seahawks 1+ Pass TD in Every Reg Season Game,-0.016600000000000004,0.0667,0.0833
+2023-07-29 15:32:03.429030,Team Specials - Pittsburgh Steelers - PIT Steelers Specials,TJ Watt To Record 15+ Sacks in the Regular Season,-0.016699999999999937,0.5833,0.6
+2023-07-29 15:31:54.957871,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,Spain (W),-0.016699999999999993,0.25,0.2667
+2023-07-29 15:31:54.991353,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Confederation of the Winning Team,CONMEBOL,-0.016700000000000007,0.0833,0.1
 2023-07-29 14:32:22.406852,Team Specials - Cleveland Browns - CLE Browns Specials,Amari Cooper To Score 10+ Receiving Touchdowns in the Regular Season,-0.0174,0.2326,0.25
+2023-07-29 15:31:55.013138,Womens World Cup 2023 - FIFA Womens World Cup 2023 - USA vs. The Field,The Field,-0.018199999999999994,0.8,0.8182
 2023-07-29 08:32:20.270176,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Holstein Kiel,-0.018200000000000004,0.0294,0.0476
+2023-07-29 15:31:54.984719,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Australia (W),-0.01820000000000002,0.1818,0.2
 2023-07-29 14:32:22.406852,Team Specials - Cleveland Browns - CLE Browns Specials,Cleveland Browns to beat Pittsburgh Steelers On the Road and at Home in the Regular Season,-0.018799999999999983,0.3448,0.3636
 2023-07-29 14:32:22.406852,Team Specials - Cleveland Browns - CLE Browns Specials,Cleveland Browns to score 1+ Touchdown in every Regular Season Game,-0.018900000000000028,0.4255,0.4444
 2023-07-29 14:32:24.228648,MLB Futures - MLB 2023 American League East - American League East Winner,Baltimore Orioles,-0.019699999999999995,0.4348,0.4545
 2023-07-29 14:32:22.406852,Team Specials - Cleveland Browns - CLE Browns Specials,Deshaun Watson To Score 5+ Rushing Touchdowns in the Regular Season,-0.020199999999999996,0.2151,0.2353
 2023-07-29 14:32:20.317627,Las Vegas Raiders - 2023-24 Regular Season Wins O/U - Regular Season Wins - Las Vegas Raiders O/U  7.5,Over 7.5,-0.02030000000000004,0.3571,0.3774
 2023-07-29 14:32:22.657828,Team Specials - Washington Commanders - WAS Commanders Specials,C. Samuel or A. Gibson to Have 1000+ Reg Season Yards from Scrimmage,-0.02049999999999999,0.1333,0.1538
+2023-07-29 15:31:54.984719,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Netherlands (W),-0.020799999999999985,0.3125,0.3333
+2023-07-29 15:31:54.971296,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Name The Finalists,Brazil (W) & USA (W),-0.0208,0.0625,0.0833
+2023-07-29 15:31:54.971296,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Name The Finalists,Brazil (W) & Spain (W),-0.0208,0.0625,0.0833
 2023-07-29 14:32:20.293799,Las Vegas Raiders - 2023-24 Exact Regular Season Wins - Exact Regular Season Wins - Las Vegas Raiders,9,-0.02239999999999999,0.0952,0.1176
-2023-07-29 08:32:29.318308,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-07-29 12:31:15.421565,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-07-29 11:31:44.229182,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-07-29 10:31:09.642695,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-07-29 09:32:18.898059,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-07-29 14:32:23.239547,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-07-29 07:31:34.886059,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-07-29 06:31:08.922097,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-07-29 05:31:08.694700,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-07-29 15:32:06.755720,Round Match-Ups - 3rd Round Match-Up - D. Lipsky v B. Horschel - 3rd Round Match-Up,David Lipsky,-0.022600000000000064,0.5122,0.5348
+2023-07-29 15:32:04.399944,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-07-29 07:31:34.886059,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-07-29 04:32:17.997715,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-07-29 03:31:51.236621,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-07-29 08:32:29.318308,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-07-29 05:31:08.694700,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-07-29 09:32:18.898059,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-07-29 10:31:09.642695,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-07-29 11:31:44.229182,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-07-29 12:31:15.421565,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-07-29 13:32:02.088024,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-07-29 14:32:23.239547,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-07-29 14:32:20.514226,New England Patriots - 2023-24 Regular Season Wins O/U - Regular Season Wins - New England Patriots O/U  7.5,Over 7.5,-0.022699999999999998,0.4651,0.4878
 2023-07-29 09:32:20.983369,Round Match-Ups - 3rd Round Match-Up - J.T. Poston v K. Mitchell - 3rd Round Match-Up,Keith Mitchell,-0.022699999999999998,0.4651,0.4878
 2023-07-29 08:32:20.270176,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Fortuna Düsseldorf,-0.02310000000000001,0.0769,0.1
@@ -117,11 +148,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-29 07:31:37.065659,Round Match-Ups - 3rd Round Match-Up - J.T. Poston v K. Mitchell - 3rd Round Match-Up,Keith Mitchell,-0.024399999999999977,0.4878,0.5122
 2023-07-29 13:32:04.090053,Round Match-Ups - 3rd Round Match-Up - L. Aberg v C. Davis - 3rd Round Match-Up,Cameron Davis,-0.024399999999999977,0.4878,0.5122
 2023-07-29 09:32:21.069195,Round Match-Ups - 3rd Round Match-Up - T. Finau v H. Matsuyama - 3rd Round Match-Up,Hideki Matsuyama,-0.024399999999999977,0.4878,0.5122
+2023-07-29 15:31:54.957871,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,Brazil (W),-0.0245,0.0588,0.0833
 2023-07-29 14:32:24.247200,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,-0.02750000000000008,0.6154,0.6429
+2023-07-29 15:31:55.006910,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Group of Winning Team,Group H,-0.027999999999999997,0.1538,0.1818
 2023-07-29 14:32:20.293799,Las Vegas Raiders - 2023-24 Exact Regular Season Wins - Exact Regular Season Wins - Las Vegas Raiders,7,-0.028799999999999992,0.125,0.1538
 2023-07-29 13:32:04.073194,Round Match-Ups - 3rd Round Match-Up - J.T. Poston v K. Mitchell - 3rd Round Match-Up,JT Poston,-0.028900000000000037,0.5455,0.5744
+2023-07-29 15:31:54.984719,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Brazil (W),-0.030299999999999994,0.3333,0.3636
 2023-07-29 04:32:09.349615,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Heartfire,-0.030299999999999994,0.3333,0.3636
 2023-07-29 14:32:20.312428,Las Vegas Raiders - 2023-24 Regular Season Wins O/U - Regular Season Wins - Las Vegas Raiders O/U  6.5,Over 6.5,-0.033299999999999996,0.4545,0.4878
+2023-07-29 15:31:54.978429,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,Brazil (W),-0.033300000000000024,0.1667,0.2
 2023-07-29 14:32:24.273813,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Framber Valdez (HOU),-0.035,0.125,0.16
 2023-07-29 14:32:20.307154,Las Vegas Raiders - 2023-24 Regular Season Wins O/U - Regular Season Wins - Las Vegas Raiders O/U  5.5,Over 5.5,-0.040999999999999925,0.5744,0.6154
 2023-07-29 14:32:20.293799,Las Vegas Raiders - 2023-24 Exact Regular Season Wins - Exact Regular Season Wins - Las Vegas Raiders,8,-0.042899999999999994,0.1,0.1429
