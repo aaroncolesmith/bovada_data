@@ -1,8 +1,14 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2023-07-30 13:31:24.450913,Womens World Cup 2023 - Group H - Outright,Colombia (W),0.8091,0.9091,0.1
+2023-07-30 13:31:24.443766,Womens World Cup 2023 - Group F - Outright,France (W),0.5164,0.9709,0.4545
 2023-07-30 08:30:50.039542,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Vasco da Gama,0.15000000000000002,0.75,0.6
 2023-07-30 09:31:16.454136,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,RB Bragantino,0.11110000000000003,0.4444,0.3333
 2023-07-30 09:31:16.448041,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,RB Bragantino,0.1076,0.2326,0.125
+2023-07-30 13:31:24.368459,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Alexandra Popp,0.1,0.2667,0.1667
+2023-07-30 13:31:24.381659,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Colombia (W),0.0865,0.125,0.0385
 2023-07-30 08:30:50.303185,Allsvenskan - Allsvenskan 2023 - Winner,BK Häcken,0.0857,0.2857,0.2
+2023-07-30 13:31:24.381659,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,England (W),0.07940000000000003,0.5238,0.4444
+2023-07-30 13:31:24.381659,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Japan (W),0.07789999999999997,0.3636,0.2857
 2023-07-30 08:30:50.027773,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Flamengo,0.07509999999999997,0.3077,0.2326
 2023-07-30 02:31:43.922385,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Gutter Cat Gang,0.07500000000000001,0.2,0.125
 2023-07-30 05:31:34.726424,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,Yes,0.07140000000000002,0.7143,0.6429
@@ -12,12 +18,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-30 09:31:16.448041,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Flamengo,0.055499999999999994,0.8333,0.7778
 2023-07-30 05:31:34.904867,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Joe Biden,0.05520000000000003,0.4,0.3448
 2023-07-30 02:31:43.922385,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Herd That,0.0524,0.1,0.0476
+2023-07-30 13:31:24.381659,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Norway (W),0.052300000000000006,0.1111,0.0588
+2023-07-30 13:31:24.375183,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,Colombia (W),0.0489,0.0588,0.0099
 2023-07-30 09:31:16.454136,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Fluminense,0.04820000000000002,0.6226,0.5744
 2023-07-30 05:31:44.635070,Scores - Final Round Score - Lee Hodges - Final Round Score,Under 69.5,0.04820000000000002,0.6226,0.5744
 2023-07-30 04:31:23.555594,Scores - Final Round Score - Billy Horschel - Final Round Score,Over 69.5,0.047099999999999975,0.5122,0.4651
 2023-07-30 07:31:33.065949,Scores - Final Round Score - Billy Horschel - Final Round Score,Under 69.5,0.044399999999999995,0.6,0.5556
+2023-07-30 13:31:24.375183,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,Norway (W),0.0436,0.0588,0.0152
 2023-07-30 07:31:32.099632,Boxing Lines - Emmanuel Rodriguez vs Melvin Lopez - To Win the Bout,Emmanuel Rodriguez,0.0403,0.8403,0.8
 2023-07-30 03:31:45.801287,3M Open - 2/3 Balls - Final Round 2 Balls - C. Davis v S.H. Kim - Final Round 2 Balls,S.H. Kim,0.039600000000000024,0.4651,0.4255
+2023-07-30 13:31:24.368459,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Amanda Ilestedt,0.038299999999999994,0.0909,0.0526
 2023-07-30 02:31:43.922385,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Boeheim's Army,0.038099999999999995,0.2381,0.2
 2023-07-30 08:30:50.303185,Allsvenskan - Allsvenskan 2023 - Winner,Malmö FF,0.03640000000000004,0.4,0.3636
 2023-07-30 09:31:16.454136,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Grêmio,0.03639999999999999,0.6364,0.6
@@ -27,7 +37,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-30 12:32:36.267434,MLB Futures - MLB 2023 American League East - American League East Winner,Toronto Blue Jays,0.033300000000000024,0.2,0.1667
 2023-07-30 08:30:50.039542,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Internacional,0.03270000000000001,0.0476,0.0149
 2023-07-30 08:30:50.039542,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Santos,0.031799999999999995,0.4762,0.4444
+2023-07-30 13:31:24.375183,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,Japan (W),0.031799999999999995,0.1429,0.1111
 2023-07-30 09:31:16.448041,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Fluminense,0.030299999999999994,0.3636,0.3333
+2023-07-30 13:31:24.381659,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Brazil (W),0.030299999999999994,0.3636,0.3333
 2023-07-30 12:32:36.276603,MLB Futures - MLB 2023 American League Central - American League Central Winner,Cleveland Guardians,0.030299999999999994,0.3333,0.303
 2023-07-30 08:30:50.323807,Superettan - Superettan 2023 - Winner,Västerås SK,0.029000000000000026,0.4545,0.4255
 2023-07-30 07:31:33.096322,Scores - Final Round Score - J.T. Poston - Final Round Score,Under 68.5,0.02859999999999996,0.6364,0.6078
@@ -36,36 +48,38 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-30 07:31:19.470611,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Copenhagen,0.024499999999999966,0.6078,0.5833
 2023-07-30 09:31:16.454136,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Flamengo,0.02429999999999999,0.9474,0.9231
 2023-07-30 08:30:50.217639,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Fortuna Düsseldorf,0.02310000000000001,0.1,0.0769
-2023-07-30 03:31:45.900918,3M Open - 2/3 Balls - Final Round 2 Balls - K. Yu v M. Laird - Final Round 2 Balls,Martin Laird,0.022699999999999998,0.4878,0.4651
 2023-07-30 06:31:36.797711,The Evian Championship - 2/3 Balls - Final Round 2 Balls - L. Vu vs A. Yin - Final round 2 Balls,Angel Yin,0.022699999999999998,0.4878,0.4651
+2023-07-30 03:31:45.900918,3M Open - 2/3 Balls - Final Round 2 Balls - K. Yu v M. Laird - Final Round 2 Balls,Martin Laird,0.022699999999999998,0.4878,0.4651
+2023-07-30 09:31:29.682782,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-07-30 11:31:34.947357,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-07-30 02:31:51.843196,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-07-30 03:31:43.725828,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-07-30 04:31:20.734555,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-07-30 05:31:42.752556,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-07-30 06:31:34.385727,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-07-30 07:31:30.333096,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-07-30 08:31:00.825870,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-07-30 09:31:29.682782,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-07-30 11:31:34.947357,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-07-30 12:32:34.730914,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-07-30 10:31:42.981261,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-07-30 01:31:07.325905,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-07-30 03:31:43.725828,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-07-30 13:31:34.421472,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-07-30 04:31:20.734555,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-07-30 12:32:34.730914,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-07-30 03:31:45.682936,3M Open - 2/3 Balls - Final Round 2 Balls - L. Aberg v D. Redman - Final Round 2 Balls,Doc Redman,0.02260000000000001,0.4,0.3774
 2023-07-30 08:30:50.217639,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,St. Pauli,0.022199999999999998,0.1333,0.1111
-2023-07-30 05:31:45.156075,Round Match-Ups - Final Round Match-Up - D. Ghim vs E. Cole - Final Round Match-Up,Doug Ghim,0.02169999999999994,0.5455,0.5238
-2023-07-30 04:31:23.633539,Scores - Final Round Score - Keith Mitchell - Final Round Score,Over 68.5,0.02169999999999994,0.5455,0.5238
 2023-07-30 12:32:36.232951,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,0.02169999999999994,0.5455,0.5238
 2023-07-30 03:31:45.690972,3M Open - 2/3 Balls - Final Round 2 Balls - B. Hossler v V. Norrman - Final Round 2 Balls,Beau Hossler,0.02169999999999994,0.5455,0.5238
-2023-07-30 05:31:44.963202,3M Open - 2/3 Balls - Final Round 2 Balls - D. Ghim v B. Griffin - Final Round 2 Balls,Doug Ghim,0.02079999999999993,0.5556,0.5348
+2023-07-30 04:31:23.633539,Scores - Final Round Score - Keith Mitchell - Final Round Score,Over 68.5,0.02169999999999994,0.5455,0.5238
+2023-07-30 05:31:45.156075,Round Match-Ups - Final Round Match-Up - D. Ghim vs E. Cole - Final Round Match-Up,Doug Ghim,0.02169999999999994,0.5455,0.5238
 2023-07-30 04:31:23.537808,Scores - Final Round Score - Aaron Rai - Final Round Score,Under 68.5,0.02079999999999993,0.5556,0.5348
+2023-07-30 05:31:44.963202,3M Open - 2/3 Balls - Final Round 2 Balls - D. Ghim v B. Griffin - Final Round 2 Balls,Doug Ghim,0.02079999999999993,0.5556,0.5348
 2023-07-30 05:31:45.014172,3M Open - 2/3 Balls - Final Round 2 Balls - K. Mitchell v S. Ryder - Final Round 2 Balls,Sam Ryder,0.020699999999999996,0.4651,0.4444
 2023-07-30 08:30:50.027773,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Grêmio,0.0203,0.0588,0.0385
+2023-07-30 13:31:24.381659,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Switzerland (W),0.019099999999999992,0.0667,0.0476
 2023-07-30 07:31:19.475818,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Viborg FF,0.01820000000000002,0.2,0.1818
 2023-07-30 06:31:36.817490,The Evian Championship - 2/3 Balls - Final Round 2 Balls - N. Korda vs Y. Saso - Final round 2 Balls,Yuka Saso,0.018100000000000005,0.4348,0.4167
 2023-07-30 09:31:16.454136,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Cruzeiro,0.0179,0.1429,0.125
 2023-07-30 12:32:36.448532,Boxing Lines - Filip Hrgovic vs Demsey McKean - To Win the Bout,Filip Hrgovic,0.01760000000000006,0.9,0.8824
 2023-07-30 05:31:44.583338,Scores - Final Round Score - J.T. Poston - Final Round Score,Under 68.5,0.017299999999999982,0.5917,0.5744
 2023-07-30 09:31:16.204890,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - Winner,Pumas UNAM,0.017099999999999997,0.0294,0.0123
+2023-07-30 13:31:24.375183,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,Switzerland (W),0.017099999999999997,0.0294,0.0123
 2023-07-30 08:30:50.039542,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Coritiba,0.016700000000000048,0.75,0.7333
 2023-07-30 07:31:33.039031,Round Match-Ups - Final Round Match-Up - T. Finau vs J.T. Poston - Final Round Match-Up,Tony Finau,0.016699999999999937,0.6,0.5833
 2023-07-30 06:31:36.164526,Scores - Final Round Score - J.T. Poston - Final Round Score,Under 68.5,0.016100000000000003,0.6078,0.5917
@@ -77,6 +91,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-30 07:31:33.167561,Scores - Final Round Score - Lee Hodges - Final Round Score,Under 69.5,0.013799999999999923,0.6364,0.6226
 2023-07-30 12:32:36.866665,3M Open - 2/3 Balls - Final Round 2 Balls - K. Yu v M. Laird - Final Round 2 Balls,Martin Laird,0.012199999999999989,0.5,0.4878
 2023-07-30 12:32:36.921410,Round Match-Ups - Final Round Match-Up - H. Matsuyama v L. Aberg - Final Round Match-Up,Ludvig Aberg,0.012199999999999989,0.5,0.4878
+2023-07-30 13:31:24.361156,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,Colombia (W),0.011699999999999999,0.0196,0.0079
 2023-07-30 12:32:36.566790,Boxing Lines - Artur Beterbiev vs Callum Smith - To Win the Bout,Artur Beterbiev,0.011699999999999933,0.7895,0.7778
 2023-07-30 09:31:16.454136,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Corinthians,0.011199999999999995,0.0588,0.0476
 2023-07-30 05:31:34.886292,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,0.01100000000000001,0.5348,0.5238
@@ -84,16 +99,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-30 12:32:36.978884,Round Match-Ups - Final Round Match-Up - C. Ramey v P. Kuest - Final Round Match-Up,Chad Ramey,0.010699999999999932,0.5455,0.5348
 2023-07-30 08:30:50.033278,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,Roger Guedes (Corinthians),0.0102,0.0769,0.0667
 2023-07-30 08:30:50.033278,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,German Cano (Fluminense),0.0102,0.0769,0.0667
-2023-07-30 12:32:36.866665,3M Open - 2/3 Balls - Final Round 2 Balls - K. Yu v M. Laird - Final Round 2 Balls,Kevin Yu,-0.010099999999999998,0.5455,0.5556
+2023-07-30 13:31:24.375183,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,Denmark (W),0.010100000000000001,0.0345,0.0244
 2023-07-30 07:31:19.475818,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Lyngby BK,-0.010099999999999998,0.3125,0.3226
+2023-07-30 12:32:36.866665,3M Open - 2/3 Balls - Final Round 2 Balls - K. Yu v M. Laird - Final Round 2 Balls,Kevin Yu,-0.010099999999999998,0.5455,0.5556
 2023-07-30 12:32:36.921410,Round Match-Ups - Final Round Match-Up - H. Matsuyama v L. Aberg - Final Round Match-Up,Hideki Matsuyama,-0.010099999999999998,0.5455,0.5556
+2023-07-30 13:31:24.368459,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Fridolina Rolfo,-0.010100000000000001,0.0244,0.0345
 2023-07-30 09:31:16.454136,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Palmeiras,-0.010199999999999987,0.9231,0.9333
+2023-07-30 13:31:24.375183,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,France (W),-0.010499999999999982,0.2,0.2105
 2023-07-30 08:30:50.323807,Superettan - Superettan 2023 - Winner,GAIS,-0.010899999999999993,0.1429,0.1538
 2023-07-30 07:31:19.489538,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Odense,-0.011099999999999999,0.4651,0.4762
 2023-07-30 07:31:19.475818,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Silkeborg IF,-0.011099999999999999,0.1,0.1111
+2023-07-30 13:31:24.368459,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Alex Morgan,-0.011199999999999995,0.0476,0.0588
 2023-07-30 05:31:44.583338,Scores - Final Round Score - J.T. Poston - Final Round Score,Over 68.5,-0.0116,0.4762,0.4878
-2023-07-30 05:31:34.886292,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Republican,-0.011600000000000055,0.5122,0.5238
 2023-07-30 12:32:36.232951,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,-0.011600000000000055,0.5122,0.5238
+2023-07-30 05:31:34.886292,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Republican,-0.011600000000000055,0.5122,0.5238
 2023-07-30 09:31:16.454136,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Bahia,-0.012100000000000001,0.0123,0.0244
 2023-07-30 07:31:19.475818,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Vejle BK,-0.012199999999999989,0.4878,0.5
 2023-07-30 12:32:36.978884,Round Match-Ups - Final Round Match-Up - C. Ramey v P. Kuest - Final Round Match-Up,Peter Kuest,-0.012199999999999989,0.5,0.5122
@@ -105,43 +124,48 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-30 07:31:19.481369,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,Brøndby IF,-0.016699999999999993,0.4,0.4167
 2023-07-30 07:31:19.481369,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,AGF Aarhus,-0.016699999999999993,0.4,0.4167
 2023-07-30 03:31:45.682936,3M Open - 2/3 Balls - Final Round 2 Balls - L. Aberg v D. Redman - Final Round 2 Balls,Ludvig Aberg,-0.01759999999999995,0.6491,0.6667
+2023-07-30 13:31:24.375183,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,Sweden (W),-0.0179,0.125,0.1429
 2023-07-30 07:31:19.470611,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Midtjylland,-0.01820000000000002,0.1818,0.2
 2023-07-30 07:31:33.167561,Scores - Final Round Score - Lee Hodges - Final Round Score,Over 69.5,-0.018900000000000028,0.4255,0.4444
 2023-07-30 08:30:50.027773,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Botafogo,-0.018900000000000028,0.4255,0.4444
+2023-07-30 13:31:24.381659,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Germany (W),-0.018900000000000028,0.4255,0.4444
 2023-07-30 08:30:50.027773,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Palmeiras,-0.019000000000000017,0.2667,0.2857
+2023-07-30 13:31:24.368459,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Eugenie Le Sommer,-0.019099999999999995,0.0244,0.0435
 2023-07-30 06:31:36.817490,The Evian Championship - 2/3 Balls - Final Round 2 Balls - N. Korda vs Y. Saso - Final round 2 Balls,Nelly Korda,-0.01970000000000005,0.5455,0.5652
 2023-07-30 12:32:36.276603,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,-0.020199999999999996,0.7647,0.7849
 2023-07-30 12:32:36.258494,MLB Futures - MLB 2023 National League West - National League West Winner,San Francisco Giants,-0.02049999999999999,0.1333,0.1538
 2023-07-30 07:31:33.039031,Round Match-Ups - Final Round Match-Up - T. Finau vs J.T. Poston - Final Round Match-Up,JT Poston,-0.020699999999999996,0.4444,0.4651
 2023-07-30 04:31:23.633539,Scores - Final Round Score - Keith Mitchell - Final Round Score,Under 68.5,-0.02169999999999994,0.5238,0.5455
 2023-07-30 06:31:36.164526,Scores - Final Round Score - J.T. Poston - Final Round Score,Over 68.5,-0.021699999999999997,0.4545,0.4762
-2023-07-30 05:31:42.735748,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-07-30 09:31:29.652855,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-07-30 02:31:51.826748,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-07-30 13:31:34.398243,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-07-30 07:31:30.315615,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-07-30 06:31:34.368634,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-07-30 05:31:42.735748,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-07-30 10:31:42.955532,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-07-30 11:31:34.930510,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-07-30 12:32:34.711619,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-07-30 08:31:00.805946,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-07-30 10:31:42.955532,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-07-30 09:31:29.652855,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-07-30 07:31:30.315615,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-07-30 01:31:07.309312,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-07-30 02:31:51.826748,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-07-30 03:31:43.709380,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-07-30 04:31:23.537808,Scores - Final Round Score - Aaron Rai - Final Round Score,Over 68.5,-0.022600000000000064,0.5122,0.5348
 2023-07-30 04:31:20.704639,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-07-30 08:31:00.805946,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-07-30 04:31:23.537808,Scores - Final Round Score - Aaron Rai - Final Round Score,Over 68.5,-0.022600000000000064,0.5122,0.5348
+2023-07-30 03:31:43.709380,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-07-30 13:31:24.368459,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Lea Schuller,-0.0236,0.0149,0.0385
 2023-07-30 12:32:36.267434,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,-0.023799999999999988,0.4762,0.5
-2023-07-30 05:31:45.156075,Round Match-Ups - Final Round Match-Up - D. Ghim vs E. Cole - Final Round Match-Up,Eric Cole,-0.023800000000000043,0.5,0.5238
 2023-07-30 03:31:45.690972,3M Open - 2/3 Balls - Final Round 2 Balls - B. Hossler v V. Norrman - Final Round 2 Balls,Vincent Norrman,-0.023800000000000043,0.5,0.5238
-2023-07-30 05:31:44.963202,3M Open - 2/3 Balls - Final Round 2 Balls - D. Ghim v B. Griffin - Final Round 2 Balls,Ben Griffin,-0.024399999999999977,0.4878,0.5122
+2023-07-30 05:31:45.156075,Round Match-Ups - Final Round Match-Up - D. Ghim vs E. Cole - Final Round Match-Up,Eric Cole,-0.023800000000000043,0.5,0.5238
 2023-07-30 06:31:36.797711,The Evian Championship - 2/3 Balls - Final Round 2 Balls - L. Vu vs A. Yin - Final round 2 Balls,Lilia Vu,-0.024399999999999977,0.4878,0.5122
+2023-07-30 05:31:44.963202,3M Open - 2/3 Balls - Final Round 2 Balls - D. Ghim v B. Griffin - Final Round 2 Balls,Ben Griffin,-0.024399999999999977,0.4878,0.5122
 2023-07-30 09:31:16.448041,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Grêmio,-0.025499999999999967,0.4,0.4255
 2023-07-30 08:30:50.323807,Superettan - Superettan 2023 - Winner,Utsiktens,-0.025499999999999967,0.4,0.4255
+2023-07-30 13:31:24.381659,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Sweden (W),-0.02560000000000001,0.3077,0.3333
 2023-07-30 03:31:45.900918,3M Open - 2/3 Balls - Final Round 2 Balls - K. Yu v M. Laird - Final Round 2 Balls,Kevin Yu,-0.027700000000000058,0.5556,0.5833
-2023-07-30 07:31:33.096322,Scores - Final Round Score - J.T. Poston - Final Round Score,Over 68.5,-0.029000000000000026,0.4255,0.4545
 2023-07-30 07:31:33.198024,Scores - Final Round Score - Tony Finau - Final Round Score,Over 68.5,-0.029000000000000026,0.4255,0.4545
+2023-07-30 07:31:33.096322,Scores - Final Round Score - J.T. Poston - Final Round Score,Over 68.5,-0.029000000000000026,0.4255,0.4545
 2023-07-30 05:31:44.994866,3M Open - 2/3 Balls - Final Round 2 Balls - N. Hardy v T. Duncan - Final Round 2 Balls,Nick Hardy,-0.030399999999999983,0.5348,0.5652
 2023-07-30 04:31:09.039313,Joe Biden Specials - Will Joe Biden be impeached during his first term as President? - Will Joe Biden be impeached during his first term as President?,Yes,-0.03270000000000001,0.2899,0.3226
-2023-07-30 09:31:16.448041,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Palmeiras,-0.033299999999999996,0.8,0.8333
 2023-07-30 05:31:44.658201,Scores - Final Round Score - Tony Finau - Final Round Score,Over 68.5,-0.033299999999999996,0.4545,0.4878
+2023-07-30 09:31:16.448041,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Palmeiras,-0.033299999999999996,0.8,0.8333
 2023-07-30 09:31:16.448041,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Fortaleza,-0.03420000000000001,0.0769,0.1111
 2023-07-30 09:31:16.448041,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Atlético Mineiro,-0.03889999999999999,0.1429,0.1818
 2023-07-30 03:31:45.801287,3M Open - 2/3 Balls - Final Round 2 Balls - C. Davis v S.H. Kim - Final Round 2 Balls,Cameron Davis,-0.0393,0.5833,0.6226
@@ -163,3 +187,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-30 02:31:43.922385,The Basketball Tournament - 2023 The Basketball Tournament Winner - Tournament Winner,Nasty Nati,-0.08240000000000001,0.1176,0.2
 2023-07-30 09:31:16.454136,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Internacional,-0.12589999999999998,0.1818,0.3077
 2023-07-30 08:30:50.039542,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Cuiabá,-0.1774,0.2,0.3774
+2023-07-30 13:31:24.443766,Womens World Cup 2023 - Group F - Outright,Brazil (W),-0.5385,0.0769,0.6154
+2023-07-30 13:31:24.450913,Womens World Cup 2023 - Group H - Outright,Germany (W),-0.8274,0.125,0.9524
