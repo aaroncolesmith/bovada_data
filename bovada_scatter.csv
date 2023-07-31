@@ -13,9 +13,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-31 16:30:56.863770,WNBA Futures - 2023 Regular Season Wins - Indiana Fever,Under 11.5,0.06440000000000001,0.6296,0.5652
 2023-07-31 16:30:56.878508,WNBA Futures - 2023 Regular Season Wins - Los Angeles Sparks,Under 14.5,0.059799999999999964,0.6154,0.5556
 2023-07-31 14:30:52.513180,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Name The Finalists,Australia (W) & USA (W),0.05859999999999999,0.0909,0.0323
+2023-07-31 07:31:01.950816,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,Tiquinho Soares (Botafogo),0.05559999999999998,0.5556,0.5
 2023-07-31 14:30:52.523897,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Norway (W),0.05559999999999998,0.1667,0.1111
 2023-07-31 16:30:56.856049,WNBA Futures - 2023 Regular Season Wins - Dallas Wings,Under 22.5,0.05559999999999998,0.5556,0.5
-2023-07-31 07:31:01.950816,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,Tiquinho Soares (Botafogo),0.05559999999999998,0.5556,0.5
 2023-07-31 07:31:02.105513,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Greuther Fürth,0.052399999999999995,0.0909,0.0385
 2023-07-31 07:31:12.652968,MLB Futures - MLB 2023 American League Central - American League Central Winner,Cleveland Guardians,0.05130000000000001,0.3846,0.3333
 2023-07-31 13:30:57.548409,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Confederation of the Winning Team,CONCACAF,0.047599999999999976,0.3333,0.2857
@@ -24,38 +24,41 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-31 14:30:52.523897,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Australia (W),0.04040000000000002,0.2222,0.1818
 2023-07-31 14:30:52.536573,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Runner Up,Japan (W),0.038299999999999994,0.0909,0.0526
 2023-07-31 13:30:57.537549,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,Australia (W),0.037500000000000006,0.1,0.0625
-2023-07-31 16:30:56.914834,WNBA Futures - 2023 Regular Season Wins - Washington Mystics,Under 22.5,0.03639999999999999,0.6364,0.6
 2023-07-31 16:30:56.832118,WNBA Futures - 2023 Regular Season Wins - Atlanta Dream,Over 20.5,0.03639999999999999,0.6364,0.6
+2023-07-31 16:30:56.914834,WNBA Futures - 2023 Regular Season Wins - Washington Mystics,Under 22.5,0.03639999999999999,0.6364,0.6
+2023-07-31 18:31:16.066254,Season Player Specials - NFL 2023-24 Receptions - Jerry Jeudy 2023-24 Regular Season Total Receptions,Over 67.5,0.030399999999999983,0.5652,0.5348
+2023-07-31 18:31:15.515475,Season Player Specials - NFL 2023-24 Receiving Yards - Jerry Jeudy 2023-24 Regular Season Total Receiving Yards,Over 900.5,0.030399999999999983,0.5652,0.5348
 2023-07-31 16:30:56.871101,WNBA Futures - 2023 Regular Season Wins - Las Vegas Aces,Over 35.5,0.02960000000000007,0.6296,0.6
 2023-07-31 16:31:07.909680,NCAA Football Futures - 2023 ACC Conference Championship - Championship Game Winner,Clemson,0.029000000000000026,0.4545,0.4255
 2023-07-31 14:30:52.513180,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Name The Finalists,England (W) & Japan (W),0.028199999999999996,0.0667,0.0385
+2023-07-31 18:31:09.612480,Republican Party Presidential Debates - Will Donald Trump debate as a candidate on August 23rd 2023 in Milwaukee? - Will Trump Debate In Milwaukee?,No,0.027999999999999914,0.8462,0.8182
 2023-07-31 15:30:56.990571,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Toronto Argonauts,0.02560000000000001,0.3333,0.3077
 2023-07-31 14:30:52.536573,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Runner Up,Colombia (W),0.024600000000000004,0.0345,0.0099
-2023-07-31 16:31:07.871488,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,LSU,0.0242,0.0909,0.0667
 2023-07-31 16:31:08.015056,NCAA Football Futures - 2023 MAC Conference Championship - Championship Game Winner,Northern Illinois,0.0242,0.0909,0.0667
-2023-07-31 11:30:57.413123,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,Australia (W),0.024,0.0625,0.0385
+2023-07-31 16:31:07.871488,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,LSU,0.0242,0.0909,0.0667
 2023-07-31 07:31:12.670342,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,San Diego Padres,0.024,0.0625,0.0385
+2023-07-31 11:30:57.413123,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,Australia (W),0.024,0.0625,0.0385
 2023-07-31 07:31:02.707549,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,Japan (W),0.0238,0.0714,0.0476
-2023-07-31 07:31:12.644890,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,0.023799999999999988,0.5,0.4762
-2023-07-31 14:30:52.554974,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Group of Winning Team,Group D,0.023799999999999988,0.1667,0.1429
-2023-07-31 08:31:19.786623,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,0.023799999999999988,0.1667,0.1429
-2023-07-31 14:30:52.519169,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,Japan (W),0.023799999999999988,0.1667,0.1429
 2023-07-31 07:31:02.075756,First Division A - Belgium First Division A 2023/24 - Outright,Gent,0.023799999999999988,0.1667,0.1429
+2023-07-31 07:31:12.644890,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,0.023799999999999988,0.5,0.4762
+2023-07-31 08:31:19.786623,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,0.023799999999999988,0.1667,0.1429
+2023-07-31 14:30:52.554974,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Group of Winning Team,Group D,0.023799999999999988,0.1667,0.1429
+2023-07-31 14:30:52.519169,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,Japan (W),0.023799999999999988,0.1667,0.1429
 2023-07-31 13:30:57.543030,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Fridolina Rolfo,0.023200000000000002,0.0476,0.0244
 2023-07-31 13:30:57.543030,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Eugenie Le Sommer,0.023200000000000002,0.0476,0.0244
 2023-07-31 14:30:52.536573,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Runner Up,Brazil (W),0.02310000000000001,0.1,0.0769
 2023-07-31 08:31:17.671156,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-07-31 11:31:05.116711,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-07-31 13:30:57.553159,Womens World Cup 2023 - FIFA Womens World Cup 2023 - First Time Winner?,Yes,0.022600000000000064,0.6226,0.6
+2023-07-31 13:31:04.739597,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-07-31 15:30:55.445536,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-07-31 14:31:00.069157,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-07-31 05:31:18.860998,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-07-31 16:31:05.489042,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-07-31 06:32:02.740778,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-07-31 07:31:10.547712,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-07-31 12:31:14.160367,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-07-31 09:32:30.536891,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-07-31 11:31:05.116711,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-07-31 15:30:55.445536,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-07-31 13:31:04.739597,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-07-31 13:30:57.553159,Womens World Cup 2023 - FIFA Womens World Cup 2023 - First Time Winner?,Yes,0.022600000000000064,0.6226,0.6
+2023-07-31 07:31:10.547712,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-07-31 18:31:19.604566,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-07-31 16:31:05.489042,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-07-31 16:30:57.485034,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Tim Scott,0.022199999999999998,0.2222,0.2
 2023-07-31 14:30:52.528382,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Straight Forecast,Spain (W) 1st / Brazil (W) 2nd,0.022099999999999998,0.0385,0.0164
 2023-07-31 14:30:54.334475,AFC North - AFC North 2023/24 - AFC North Winner,Baltimore Ravens,0.021999999999999964,0.3077,0.2857
@@ -67,13 +70,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-31 07:31:01.946518,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Botafogo,0.018900000000000028,0.4444,0.4255
 2023-07-31 07:31:01.964731,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Botafogo,0.01849999999999996,0.9709,0.9524
 2023-07-31 14:30:52.528382,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Straight Forecast,USA (W) 1st / Brazil (W) 2nd,0.018099999999999998,0.0526,0.0345
-2023-07-31 04:31:08.809924,Greenbrier - Greenbrier - Winner,Bryson DeChambeau,0.018099999999999998,0.0769,0.0588
 2023-07-31 14:30:52.513180,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Name The Finalists,Australia (W) & Netherlands (W),0.017099999999999997,0.0294,0.0123
 2023-07-31 14:30:52.528382,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Straight Forecast,Germany (W) 1st / Japan (W) 2nd,0.017099999999999997,0.0294,0.0123
-2023-07-31 15:30:56.990571,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,British Columbia Lions,0.016699999999999993,0.2667,0.25
 2023-07-31 07:31:02.105513,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Hamburger SV,0.016699999999999993,0.2667,0.25
+2023-07-31 15:30:56.990571,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,British Columbia Lions,0.016699999999999993,0.2667,0.25
 2023-07-31 14:30:54.271794,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Miami Dolphins,0.015899999999999997,0.1111,0.0952
 2023-07-31 13:30:57.537549,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,Netherlands (W),0.015300000000000001,0.0588,0.0435
+2023-07-31 18:31:09.819281,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Ron DeSantis,0.014899999999999997,0.0625,0.0476
 2023-07-31 07:31:12.630537,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Houston Astros,0.01440000000000001,0.1053,0.0909
 2023-07-31 14:30:52.528382,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Straight Forecast,USA (W) 1st / Australia (W) 2nd,0.014099999999999994,0.0667,0.0526
 2023-07-31 07:31:01.960679,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Botafogo,0.013900000000000023,0.8889,0.875
@@ -84,16 +87,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-31 16:31:08.105018,NCAA Football Futures - 2023 SEC Championship  - SEC Championship Game Winner,Auburn,0.012100000000000001,0.0244,0.0123
 2023-07-31 15:30:51.790875,Washington Commanders - 2023-24 Regular Season Wins O/U - Regular Season Wins - Washington Commanders O/U  6.5,Over 6.5,0.0116,0.4878,0.4762
 2023-07-31 15:30:50.264452,NFC West - NFC West 2023/24 - NFC West Winner,Seattle Seahawks,0.01150000000000001,0.3448,0.3333
-2023-07-31 13:30:57.537549,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,Japan (W),0.011099999999999999,0.1111,0.1
 2023-07-31 07:31:02.075756,First Division A - Belgium First Division A 2023/24 - Outright,Union Saint-Gilloise,0.011099999999999999,0.1111,0.1
+2023-07-31 13:30:57.537549,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,Japan (W),0.011099999999999999,0.1111,0.1
 2023-07-31 16:31:08.137244,NCAA Football Futures - 2023 Sun Belt Championship - Championship Game Winner,Georgia Southern,0.011099999999999999,0.0667,0.0556
 2023-07-31 16:31:07.979908,NCAA Football Futures - 2023 Big Ten Conference Championship - Big Ten Championship Game Winner,Penn State,0.010899999999999993,0.1538,0.1429
 2023-07-31 14:30:54.287718,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Dallas Cowboys,0.010899999999999993,0.1538,0.1429
-2023-07-31 04:31:08.809924,Greenbrier - Greenbrier - Winner,Abraham Ancer,0.010700000000000001,0.0385,0.0278
 2023-07-31 14:30:52.528382,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Straight Forecast,England (W) 1st / Japan (W) 2nd,0.010700000000000001,0.0385,0.0278
 2023-07-31 14:30:54.491922,NFC South - NFC South 2023/24 - NFC South Winner,Atlanta Falcons,0.010699999999999987,0.3333,0.3226
 2023-07-31 07:31:12.630537,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,San Diego Padres,0.010600000000000002,0.0323,0.0217
 2023-07-31 14:30:54.491922,NFC South - NFC South 2023/24 - NFC South Winner,Carolina Panthers,0.010599999999999998,0.2353,0.2247
+2023-07-31 18:31:20.784362,Regular Season Wins - 2023-24 Regular Season Wins - Virginia Tech - Regular Season Wins,Over 5½,0.010599999999999998,0.4651,0.4545
+2023-07-31 18:31:23.179855,Elite Boxing - Jake Paul vs Nate Diaz - To Win the Bout,Jake Paul,0.010500000000000065,0.8,0.7895
 2023-07-31 16:30:57.293851,Republican Party Presidential Debates - Will Donald Trump debate as a candidate on August 23rd 2023 in Milwaukee? - Will Trump Debate In Milwaukee?,No,0.010500000000000065,0.8182,0.8077
 2023-07-31 14:30:54.334475,AFC North - AFC North 2023/24 - AFC North Winner,Cleveland Browns,0.010499999999999982,0.2105,0.2
 2023-07-31 14:30:54.362629,AFC South - AFC South 2023/24 - AFC South Winner,Tennessee Titans,0.010299999999999976,0.2667,0.2564
@@ -101,8 +105,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-31 16:31:08.055519,NCAA Football Futures - 2023 Mountain West Conference Championship - Championship Game Winner,Colorado State,0.0102,0.0769,0.0667
 2023-07-31 07:31:01.964731,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Palmeiras,0.010199999999999987,0.9333,0.9231
 2023-07-31 14:30:52.528382,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Straight Forecast,Australia (W) 1st / Spain (W) 2nd,0.010100000000000001,0.0345,0.0244
-2023-07-31 14:30:54.271794,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,New York Jets,0.010099999999999998,0.1053,0.0952
 2023-07-31 16:31:08.081257,NCAA Football Futures - 2023 Pac-12 Championship - Pac-12 Championship Game Winner,USC,0.010099999999999998,0.3226,0.3125
+2023-07-31 14:30:54.271794,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,New York Jets,0.010099999999999998,0.1053,0.0952
 2023-07-31 15:30:50.749414,Atlanta Falcons - 2023-24 Regular Season Wins O/U - Regular Season Wins - Atlanta Falcons O/U  8.5,Under 8.5,-0.010099999999999998,0.4444,0.4545
 2023-07-31 14:30:52.519169,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,Denmark (W),-0.010100000000000001,0.0244,0.0345
 2023-07-31 14:30:52.513180,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Name The Finalists,France (W) & USA (W),-0.0102,0.0667,0.0769
@@ -119,9 +123,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-31 14:30:52.554974,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Group of Winning Team,Group E,-0.013600000000000001,0.2941,0.3077
 2023-07-31 14:30:52.523897,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,USA (W),-0.013799999999999923,0.6226,0.6364
 2023-07-31 15:30:50.264452,NFC West - NFC West 2023/24 - NFC West Winner,San Francisco 49ers,-0.013799999999999923,0.6226,0.6364
-2023-07-31 16:30:57.485034,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Vivek Ramaswamy,-0.013899999999999996,0.1111,0.125
-2023-07-31 16:31:07.892956,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Quinn Ewers,-0.013899999999999996,0.1111,0.125
 2023-07-31 16:31:07.933591,NCAA Football Futures - 2023 American Athletic Championship - American Athletic Championship Game Winner,Memphis,-0.013899999999999996,0.1111,0.125
+2023-07-31 16:31:07.892956,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Quinn Ewers,-0.013899999999999996,0.1111,0.125
+2023-07-31 16:30:57.485034,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Vivek Ramaswamy,-0.013899999999999996,0.1111,0.125
 2023-07-31 07:31:01.950816,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,Jonathan Calleri (Sao Paulo),-0.013999999999999999,0.0769,0.0909
 2023-07-31 16:31:07.871488,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Michigan,-0.013999999999999999,0.0769,0.0909
 2023-07-31 14:30:52.528382,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Straight Forecast,England (W) 1st / USA (W) 2nd,-0.014099999999999994,0.0526,0.0667
@@ -130,12 +134,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-31 14:30:52.554974,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Group of Winning Team,Group G,-0.014100000000000001,0.0385,0.0526
 2023-07-31 13:30:57.543030,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Esther Gonzalez,-0.014499999999999999,0.0149,0.0294
 2023-07-31 14:30:54.271794,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Buffalo Bills,-0.015100000000000002,0.1667,0.1818
+2023-07-31 18:31:20.784362,Regular Season Wins - 2023-24 Regular Season Wins - Virginia Tech - Regular Season Wins,Under 5½,-0.01539999999999997,0.6,0.6154
 2023-07-31 07:31:02.161441,Allsvenskan - Allsvenskan 2023 - Winner,Malmö FF,-0.015400000000000025,0.3846,0.4
 2023-07-31 07:31:02.177589,Superettan - Superettan 2023 - Winner,Utsiktens,-0.015400000000000025,0.3846,0.4
-2023-07-31 14:30:54.362629,AFC South - AFC South 2023/24 - AFC South Winner,Indianapolis Colts,-0.015700000000000006,0.1176,0.1333
 2023-07-31 16:31:07.909680,NCAA Football Futures - 2023 ACC Conference Championship - Championship Game Winner,Louisville,-0.015700000000000006,0.0769,0.0926
-2023-07-31 14:30:52.536573,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Runner Up,Netherlands (W),-0.016600000000000004,0.0667,0.0833
+2023-07-31 14:30:54.362629,AFC South - AFC South 2023/24 - AFC South Winner,Indianapolis Colts,-0.015700000000000006,0.1176,0.1333
 2023-07-31 14:30:52.528382,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Straight Forecast,USA (W) 1st / Germany (W) 2nd,-0.016600000000000004,0.0667,0.0833
+2023-07-31 14:30:52.536573,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Runner Up,Netherlands (W),-0.016600000000000004,0.0667,0.0833
 2023-07-31 13:30:57.543030,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Alexandra Popp,-0.016699999999999993,0.25,0.2667
 2023-07-31 14:30:52.528382,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Straight Forecast,USA (W) 1st / England (W) 2nd,-0.016700000000000007,0.0833,0.1
 2023-07-31 15:30:51.790875,Washington Commanders - 2023-24 Regular Season Wins O/U - Regular Season Wins - Washington Commanders O/U  6.5,Under 6.5,-0.017299999999999982,0.5744,0.5917
@@ -145,49 +150,52 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-31 14:30:54.491922,NFC South - NFC South 2023/24 - NFC South Winner,New Orleans Saints,-0.018100000000000005,0.4167,0.4348
 2023-07-31 07:31:01.950816,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,Vitor Roque (Athletico PR),-0.01820000000000002,0.1818,0.2
 2023-07-31 07:31:12.630537,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Arizona Diamondbacks,-0.0189,0.0196,0.0385
-2023-07-31 13:30:57.537549,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,USA (W),-0.019000000000000017,0.2667,0.2857
 2023-07-31 14:30:52.519169,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,Germany (W),-0.019000000000000017,0.2667,0.2857
-2023-07-31 14:30:52.528382,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Straight Forecast,Germany (W) 1st / USA (W) 2nd,-0.0203,0.0385,0.0588
+2023-07-31 13:30:57.537549,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,USA (W),-0.019000000000000017,0.2667,0.2857
 2023-07-31 14:30:52.528382,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Straight Forecast,Germany (W) 1st / Spain (W) 2nd,-0.0203,0.0385,0.0588
+2023-07-31 14:30:52.528382,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Straight Forecast,Germany (W) 1st / USA (W) 2nd,-0.0203,0.0385,0.0588
 2023-07-31 16:31:07.979908,NCAA Football Futures - 2023 Big Ten Conference Championship - Big Ten Championship Game Winner,Michigan,-0.02030000000000004,0.3571,0.3774
 2023-07-31 14:30:52.554974,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Group of Winning Team,Group H,-0.02049999999999999,0.1333,0.1538
-2023-07-31 14:30:52.523897,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Sweden (W),-0.021999999999999964,0.2857,0.3077
 2023-07-31 16:31:07.871488,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Georgia,-0.021999999999999964,0.2857,0.3077
+2023-07-31 14:30:52.523897,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Sweden (W),-0.021999999999999964,0.2857,0.3077
 2023-07-31 07:31:02.105513,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Schalke 04,-0.022199999999999998,0.2,0.2222
-2023-07-31 05:31:18.844097,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-07-31 15:30:51.752503,Tennessee Titans - 2023-24 Regular Season Wins O/U - Regular Season Wins - Tennessee Titans O/U  7.5,Under 7.5,-0.022600000000000064,0.5122,0.5348
+2023-07-31 06:32:02.722264,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-07-31 07:31:10.530149,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-07-31 08:31:17.657621,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-07-31 06:32:02.722264,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-07-31 09:32:30.513445,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-07-31 14:31:00.056508,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-07-31 16:31:05.470465,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-07-31 15:30:55.433210,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-07-31 11:31:05.104161,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-07-31 12:31:14.147836,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-07-31 13:31:04.724270,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-07-31 18:31:19.574217,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-07-31 15:30:51.752503,Tennessee Titans - 2023-24 Regular Season Wins O/U - Regular Season Wins - Tennessee Titans O/U  7.5,Under 7.5,-0.022600000000000064,0.5122,0.5348
+2023-07-31 14:31:00.056508,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-07-31 16:31:05.470465,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-07-31 15:30:55.433210,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-07-31 16:31:07.871488,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Tennessee,-0.023200000000000002,0.0244,0.0476
 2023-07-31 14:30:52.519169,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,Brazil (W),-0.023799999999999988,0.1429,0.1667
 2023-07-31 13:30:57.543030,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Amanda Ilestedt,-0.0242,0.0667,0.0909
 2023-07-31 15:30:56.990571,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Calgary Stampeders,-0.024299999999999995,0.0526,0.0769
-2023-07-31 14:30:52.519169,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,Sweden (W),-0.024999999999999994,0.1,0.125
 2023-07-31 14:30:52.513180,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Name The Finalists,Germany (W) & USA (W),-0.024999999999999994,0.1,0.125
+2023-07-31 14:30:52.519169,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Final,Sweden (W),-0.024999999999999994,0.1,0.125
 2023-07-31 09:32:20.323882,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,Germany (W),-0.025300000000000003,0.1176,0.1429
-2023-07-31 07:31:01.964731,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Atlético Mineiro,-0.02560000000000001,0.3077,0.3333
 2023-07-31 07:31:01.964731,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,São Paulo,-0.02560000000000001,0.3077,0.3333
+2023-07-31 07:31:01.964731,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Atlético Mineiro,-0.02560000000000001,0.3077,0.3333
+2023-07-31 18:31:09.612480,Republican Party Presidential Debates - Will Donald Trump debate as a candidate on August 23rd 2023 in Milwaukee? - Will Trump Debate In Milwaukee?,Yes,-0.02779999999999999,0.2222,0.25
 2023-07-31 07:31:02.105513,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Paderborn,-0.029299999999999993,0.0476,0.0769
 2023-07-31 14:30:52.554974,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Group of Winning Team,Group C,-0.029899999999999982,0.2778,0.3077
-2023-07-31 16:30:56.871101,WNBA Futures - 2023 Regular Season Wins - Las Vegas Aces,Under 35.5,-0.030299999999999994,0.4348,0.4651
 2023-07-31 07:31:02.075756,First Division A - Belgium First Division A 2023/24 - Outright,Club Brugge,-0.030299999999999994,0.3333,0.3636
+2023-07-31 16:30:56.871101,WNBA Futures - 2023 Regular Season Wins - Las Vegas Aces,Under 35.5,-0.030299999999999994,0.4348,0.4651
 2023-07-31 07:31:12.652968,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,-0.031400000000000095,0.7333,0.7647
 2023-07-31 13:30:57.543030,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Ary Borges,-0.031799999999999995,0.1111,0.1429
 2023-07-31 13:30:57.543030,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Sophia Smith,-0.031799999999999995,0.1111,0.1429
 2023-07-31 07:31:02.177589,Superettan - Superettan 2023 - Winner,GAIS,-0.031799999999999995,0.1111,0.1429
-2023-07-31 14:30:52.528382,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Straight Forecast,Spain (W) 1st / England (W) 2nd,-0.0321,0.0588,0.0909
 2023-07-31 13:30:57.543030,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Jennifer Hermoso,-0.0321,0.0588,0.0909
+2023-07-31 14:30:52.528382,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Straight Forecast,Spain (W) 1st / England (W) 2nd,-0.0321,0.0588,0.0909
+2023-07-31 18:31:16.066254,Season Player Specials - NFL 2023-24 Receptions - Jerry Jeudy 2023-24 Regular Season Total Receptions,Under 67.5,-0.03480000000000005,0.5,0.5348
+2023-07-31 18:31:15.515475,Season Player Specials - NFL 2023-24 Receiving Yards - Jerry Jeudy 2023-24 Regular Season Total Receiving Yards,Under 900.5,-0.03480000000000005,0.5,0.5348
 2023-07-31 07:31:02.161441,Allsvenskan - Allsvenskan 2023 - Winner,BK Häcken,-0.03570000000000001,0.25,0.2857
-2023-07-31 14:30:52.536573,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Runner Up,Germany (W),-0.04169999999999999,0.125,0.1667
 2023-07-31 14:30:52.554974,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Group of Winning Team,Group F,-0.04169999999999999,0.125,0.1667
+2023-07-31 14:30:52.536573,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Runner Up,Germany (W),-0.04169999999999999,0.125,0.1667
 2023-07-31 14:30:52.513180,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Name The Finalists,Germany (W) & Spain (W),-0.0417,0.0833,0.125
 2023-07-31 14:30:52.528382,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Straight Forecast,Spain (W) 1st / Germany (W) 2nd,-0.04329999999999999,0.0476,0.0909
 2023-07-31 14:30:54.334475,AFC North - AFC North 2023/24 - AFC North Winner,Cincinnati Bengals,-0.044399999999999995,0.4,0.4444
@@ -204,8 +212,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-07-31 14:30:52.536573,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Runner Up,France (W),-0.06669999999999998,0.1,0.1667
 2023-07-31 08:31:19.786623,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,-0.06989999999999996,0.5455,0.6154
 2023-07-31 16:30:56.878508,WNBA Futures - 2023 Regular Season Wins - Los Angeles Sparks,Over 14.5,-0.07739999999999997,0.4348,0.5122
-2023-07-31 16:30:56.893962,WNBA Futures - 2023 Regular Season Wins - New York Liberty,Under 31.5,-0.08030000000000004,0.4545,0.5348
 2023-07-31 16:30:56.901032,WNBA Futures - 2023 Regular Season Wins - Phoenix Mercury,Over 10.5,-0.08030000000000004,0.4545,0.5348
+2023-07-31 16:30:56.893962,WNBA Futures - 2023 Regular Season Wins - New York Liberty,Under 31.5,-0.08030000000000004,0.4545,0.5348
 2023-07-31 16:30:56.863770,WNBA Futures - 2023 Regular Season Wins - Indiana Fever,Over 11.5,-0.08329999999999999,0.4167,0.5
 2023-07-31 16:30:56.840934,WNBA Futures - 2023 Regular Season Wins - Chicago Sky,Under 14.5,-0.08900000000000002,0.4762,0.5652
 2023-07-31 14:30:52.523897,Womens World Cup 2023 - FIFA Womens World Cup 2023 - To Reach the Semi Final,Spain (W),-0.16019999999999995,0.4762,0.6364
